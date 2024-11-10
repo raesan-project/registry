@@ -1,0 +1,234 @@
+[
+  {
+    "id": "",
+    "body": "\\text{Show that the function } f(x) = |x| \\text{ is continuous at } x = 0 \\text{ but not differentiable at } x = 0.",
+    "chapter_name": "Continuity and Differentiability",
+    "subject_name": "Mathematics",
+    "class_name": 12,
+    "chapter_id": ""
+  },
+  {
+    "id": "",
+    "body": "\\text{If } f(x) = x^3 + 3x^2 + 6x + 2 \\text{, show that } f(x) \\text{ is continuous for all } x \\in \\mathbb{R} \\text{ but differentiable at } x = -1.",
+    "chapter_name": "Continuity and Differentiability",
+    "subject_name": "Mathematics",
+    "class_name": 12,
+    "chapter_id": ""
+  },
+  {
+    "id": "",
+    "body": "\\text{Determine the derivative of the composite function } f(g(x)) \\text{, where } f(x) = \\sin(x) \\text{ and } g(x) = x^2 + 2x.",
+    "chapter_name": "Continuity and Differentiability",
+    "subject_name": "Mathematics",
+    "class_name": 12,
+    "chapter_id": ""
+  },
+  {
+    "id": "",
+    "body": "\\text{Using logarithmic differentiation, find } \\frac{dy}{dx} \\text{ for } y = x^x.",
+    "chapter_name": "Continuity and Differentiability",
+    "subject_name": "Mathematics",
+    "class_name": 12,
+    "chapter_id": ""
+  },
+  {
+    "id": "",
+    "body": "\\text{Show that every polynomial function is continuous everywhere.}",
+    "chapter_name": "Continuity and Differentiability",
+    "subject_name": "Mathematics",
+    "class_name": 12,
+    "chapter_id": ""
+  },
+  {
+    "id": "",
+    "body": "\\text{Find all points of discontinuity of the greatest integer function } f(x) = \\lfloor x \\rfloor \\text{ on } \\mathbb{R}.",
+    "chapter_name": "Continuity and Differentiability",
+    "subject_name": "Mathematics",
+    "class_name": 12,
+    "chapter_id": ""
+  },
+  {
+    "id": "",
+    "body": "\\text{If } f(x) = x^2 \\sin \\left( \\frac{1}{x} \\right) \\text{ for } x \\neq 0 \\text{ and } f(0) = 0 \\text{, determine if } f(x) \\text{ is continuous at } x = 0.",
+    "chapter_name": "Continuity and Differentiability",
+    "subject_name": "Mathematics",
+    "class_name": 12,
+    "chapter_id": ""
+  },
+  {
+    "id": "",
+    "body": "\\text{Prove that } f(x) = \\cos(x^2) \\text{ is continuous for all real } x.",
+    "chapter_name": "Continuity and Differentiability",
+    "subject_name": "Mathematics",
+    "class_name": 12,
+    "chapter_id": ""
+  },
+  {
+    "id": "",
+    "body": "\\text{Examine the continuity of the function } f(x) = \\frac{|x|}{x} \\text{ at } x = 0.",
+    "chapter_name": "Continuity and Differentiability",
+    "subject_name": "Mathematics",
+    "class_name": 12,
+    "chapter_id": ""
+  },
+  {
+    "id": "",
+    "body": "\\text{Using the chain rule, differentiate } f(x) = \\sin(3x^2 + 2x).",
+    "chapter_name": "Continuity and Differentiability",
+    "subject_name": "Mathematics",
+    "class_name": 12,
+    "chapter_id": ""
+  },
+  {
+    "id": "",
+    "body": "\\text{Find the derivative of the function } y = \\ln(\\cos(x) + x).",
+    "chapter_name": "Continuity and Differentiability",
+    "subject_name": "Mathematics",
+    "class_name": 12,
+    "chapter_id": ""
+  },
+  {
+    "id": "",
+    "body": "\\text{Differentiate } y = \\arcsin(x) + \\arccos(x).",
+    "chapter_name": "Continuity and Differentiability",
+    "subject_name": "Mathematics",
+    "class_name": 12,
+    "chapter_id": ""
+  },
+  {
+    "id": "",
+    "body": "\\text{Evaluate } \\frac{d}{dx} \\left( \\frac{\\sin(x)}{x} \\right) \\text{ using L'Hôpital's Rule at } x = 0.",
+    "chapter_name": "Continuity and Differentiability",
+    "subject_name": "Mathematics",
+    "class_name": 12,
+    "chapter_id": ""
+  },
+  {
+    "id": "",
+    "body": "\\text{Show that } f(x) = e^{x} \\cos(x) \\text{ is continuous for all } x \\in \\mathbb{R}.",
+    "chapter_name": "Continuity and Differentiability",
+    "subject_name": "Mathematics",
+    "class_name": 12,
+    "chapter_id": ""
+  },
+  {
+    "id": "",
+    "body": "\\text{Find } \\frac{dy}{dx} \\text{ if } y = \\sin^{-1} \\left( \\frac{x}{\\sqrt{1 + x^2}} \\right).",
+    "chapter_name": "Continuity and Differentiability",
+    "subject_name": "Mathematics",
+    "class_name": 12,
+    "chapter_id": ""
+  },
+  {
+    "id": "",
+    "body": "\\text{Show that the function } f(x) = x^2 \\cos \\left( \\frac{1}{x} \\right) \\text{ is continuous at } x = 0.",
+    "chapter_name": "Continuity and Differentiability",
+    "subject_name": "Mathematics",
+    "class_name": 12,
+    "chapter_id": ""
+  },
+  {
+    "id": "",
+    "body": "\\text{If } f(x) = e^{x^2}, \\text{ prove that } f(x) \\text{ is differentiable for all real } x.",
+    "chapter_name": "Continuity and Differentiability",
+    "subject_name": "Mathematics",
+    "class_name": 12,
+    "chapter_id": ""
+  },
+  {
+    "id": "",
+    "body": "\\text{Evaluate the limit } \\lim_{x \\to 0} \\frac{\\sin(x) - x}{x^3}.",
+    "chapter_name": "Continuity and Differentiability",
+    "subject_name": "Mathematics",
+    "class_name": 12,
+    "chapter_id": ""
+  },
+  {
+    "id": "",
+    "body": "\\text{Differentiate } y = \\frac{e^{3x}}{\\sqrt{x}} \\text{ with respect to } x.",
+    "chapter_name": "Continuity and Differentiability",
+    "subject_name": "Mathematics",
+    "class_name": 12,
+    "chapter_id": ""
+  },
+  {
+    "id": "",
+    "body": "\\text{If } f(x) = |x + 2| \\text{, determine the points at which } f(x) \\text{ is not differentiable.}",
+    "chapter_name": "Continuity and Differentiability",
+    "subject_name": "Mathematics",
+    "class_name": 12,
+    "chapter_id": ""
+  },
+  {
+    "id": "",
+    "body": "\\text{Find the derivative of } y = x^{x^2}.",
+    "chapter_name": "Continuity and Differentiability",
+    "subject_name": "Mathematics",
+    "class_name": 12,
+    "chapter_id": ""
+  },
+  {
+    "id": "",
+    "body": "\\text{If } f(x) = \\sin(x) \\text{ for } x \\neq 0 \\text{ and } f(0) = 0 \\text{, determine if } f(x) \\text{ is continuous at } x = 0.",
+    "chapter_name": "Continuity and Differentiability",
+    "subject_name": "Mathematics",
+    "class_name": 12,
+    "chapter_id": ""
+  },
+  {
+    "id": "",
+    "body": "\\text{Determine if } f(x) = x^x \\text{ is continuous at } x = 0.",
+    "chapter_name": "Continuity and Differentiability",
+    "subject_name": "Mathematics",
+    "class_name": 12,
+    "chapter_id": ""
+  },
+  {
+    "id": "",
+    "body": "\\text{Use L'Hôpital's Rule to evaluate } \\lim_{x \\to 0} \\frac{e^{2x} - 1}{x}.",
+    "chapter_name": "Continuity and Differentiability",
+    "subject_name": "Mathematics",
+    "class_name": 12,
+    "chapter_id": ""
+  },
+  {
+    "id": "",
+    "body": "\\text{If } y = \\cos^{-1} \\left( \\frac{2x}{1 + x^2} \\right), \\text{ find } \\frac{dy}{dx}.",
+    "chapter_name": "Continuity and Differentiability",
+    "subject_name": "Mathematics",
+    "class_name": 12,
+    "chapter_id": ""
+  },
+  {
+    "id": "",
+    "body": "\\text{Find the second derivative of } y = \\tan^{-1}(x).",
+    "chapter_name": "Continuity and Differentiability",
+    "subject_name": "Mathematics",
+    "class_name": 12,
+    "chapter_id": ""
+  },
+  {
+    "id": "",
+    "body": "\\text{If } f(x) = x^2 e^x \\text{, prove that } f(x) \\text{ is continuous and differentiable for all } x \\in \\mathbb{R}.",
+    "chapter_name": "Continuity and Differentiability",
+    "subject_name": "Mathematics",
+    "class_name": 12,
+    "chapter_id": ""
+  },
+  {
+    "id": "",
+    "body": "\\text{Show that } f(x) = x \\sin \\left( \\frac{1}{x} \\right) \\text{ is continuous at } x = 0.",
+    "chapter_name": "Continuity and Differentiability",
+    "subject_name": "Mathematics",
+    "class_name": 12,
+    "chapter_id": ""
+  },
+  {
+    "id": "",
+    "body": "\\text{Differentiate the function } f(x) = \\ln(x^2 + x + 1) \\text{ using chain rule.}",
+    "chapter_name": "Continuity and Differentiability",
+    "subject_name": "Mathematics",
+    "class_name": 12,
+    "chapter_id": ""
+  }
+]

@@ -1,0 +1,170 @@
+[
+  {
+    "id": "",
+    "body": "\\text{Determine if the relation } R = \\{(x, y) \\in A : 3x - y = 0\\} \\text{ is reflexive, symmetric, and transitive for } A = \\{1, 2, 3, \\dots, 14\\}.",
+    "chapter_name": "Relations and Functions",
+    "subject_name": "Maths",
+    "class_name": 12,
+    "chapter_id": ""
+  },
+  {
+    "id": "",
+    "body": "\\text{Check if the relation } R = \\{(a, b) : b = a + 1\\} \\text{ in the set } A = \\{1, 2, 3, 4, 5, 6\\} \\text{ is reflexive, symmetric, or transitive.}",
+    "chapter_name": "Relations and Functions",
+    "subject_name": "Maths",
+    "class_name": 12,
+    "chapter_id": ""
+  },
+  {
+    "id": "",
+    "body": "\\text{Show that the relation } R = \\{(x, y) : x - y \\text{ is an integer}\\} \\text{ is an equivalence relation in } \\mathbb{Z}.",
+    "chapter_name": "Relations and Functions",
+    "subject_name": "Maths",
+    "class_name": 12,
+    "chapter_id": ""
+  },
+  {
+    "id": "",
+    "body": "\\text{In a set of all books in a library, define the relation } R = \\{(x, y) : x \\text{ and } y \\text{ have the same number of pages}\\}. \\text{Show that } R \\text{ is an equivalence relation.}",
+    "chapter_name": "Relations and Functions",
+    "subject_name": "Maths",
+    "class_name": 12,
+    "chapter_id": ""
+  },
+  {
+    "id": "",
+    "body": "\\text{Verify if the relation } R = \\{(a, b) : |a - b| \\text{ is even}\\} \\text{ is an equivalence relation on the set } A = \\{1, 2, 3, 4, 5\\}.",
+    "chapter_name": "Relations and Functions",
+    "subject_name": "Maths",
+    "class_name": 12,
+    "chapter_id": ""
+  },
+  {
+    "id": "",
+    "body": "\\text{Show that the relation } R = \\{(P, Q) : \\text{distance of } P \\text{ from the origin is the same as the distance of } Q \\text{ from the origin}\\} \\text{ is an equivalence relation.}",
+    "chapter_name": "Relations and Functions",
+    "subject_name": "Maths",
+    "class_name": 12,
+    "chapter_id": ""
+  },
+  {
+    "id": "",
+    "body": "\\text{Let } R \\text{ be a relation in the set of all polygons, defined as } R = \\{(P_1, P_2) : P_1 \\text{ and } P_2 \\text{ have the same number of sides}\\}. \\text{Prove that } R \\text{ is an equivalence relation.}",
+    "chapter_name": "Relations and Functions",
+    "subject_name": "Maths",
+    "class_name": 12,
+    "chapter_id": ""
+  },
+  {
+    "id": "",
+    "body": "\\text{In the set of natural numbers } \\mathbb{N}, \\text{ define the relation } R = \\{(x, y) : y = x + 5 \\text{ and } x < 4\\}. \\text{Determine if } R \\text{ is reflexive, symmetric, or transitive.}",
+    "chapter_name": "Relations and Functions",
+    "subject_name": "Maths",
+    "class_name": 12,
+    "chapter_id": ""
+  },
+  {
+    "id": "",
+    "body": "\\text{Given the relation } R = \\{(x, y) : x^2 = y^2\\} \\text{ in the set of integers } \\mathbb{Z}, \\text{ determine if } R \\text{ is an equivalence relation.}",
+    "chapter_name": "Relations and Functions",
+    "subject_name": "Maths",
+    "class_name": 12,
+    "chapter_id": ""
+  },
+  {
+    "id": "",
+    "body": "\\text{Prove that the relation } R = \\{(x, y) : x \\text{ and } y \\text{ live in the same city}\\} \\text{ is an equivalence relation in a set of people.}",
+    "chapter_name": "Relations and Functions",
+    "subject_name": "Maths",
+    "class_name": 12,
+    "chapter_id": ""
+  },
+  {
+    "id": "",
+    "body": "\\text{If } R = \\{(a, b) : a \\text{ and } b \\text{ belong to the same department in a company}\\}, \\text{ show that } R \\text{ is an equivalence relation.}",
+    "chapter_name": "Relations and Functions",
+    "subject_name": "Maths",
+    "class_name": 12,
+    "chapter_id": ""
+  },
+  {
+    "id": "",
+    "body": "\\text{Consider the function } f : \\mathbb{R} \\to \\mathbb{R} \\text{ defined by } f(x) = x^2. \\text{ Prove or disprove that } f \\text{ is injective and/or surjective.}",
+    "chapter_name": "Relations and Functions",
+    "subject_name": "Maths",
+    "class_name": 12,
+    "chapter_id": ""
+  },
+  {
+    "id": "",
+    "body": "\\text{For a set } X = \\{1, 2, 3, 4\\}, \\text{ examine if the function } f : X \\to X \\text{ defined by } f(x) = x \\text{ is bijective.}",
+    "chapter_name": "Relations and Functions",
+    "subject_name": "Maths",
+    "class_name": 12,
+    "chapter_id": ""
+  },
+  {
+    "id": "",
+    "body": "\\text{Verify that the function } f : \\mathbb{R} \\to \\mathbb{R} \\text{ defined by } f(x) = 2x + 3 \\text{ is bijective.}",
+    "chapter_name": "Relations and Functions",
+    "subject_name": "Maths",
+    "class_name": 12,
+    "chapter_id": ""
+  },
+  {
+    "id": "",
+    "body": "\\text{Show that the function } f : \\mathbb{Z} \\to \\mathbb{Z} \\text{ defined by } f(x) = x + 1 \\text{ is a bijection.}",
+    "chapter_name": "Relations and Functions",
+    "subject_name": "Maths",
+    "class_name": 12,
+    "chapter_id": ""
+  },
+  {
+    "id": "",
+    "body": "\\text{Let } f : \\mathbb{N} \\to \\mathbb{N} \\text{ be defined by } f(x) = 3x + 1. \\text{ Determine if } f \\text{ is one-one and/or onto.}",
+    "chapter_name": "Relations and Functions",
+    "subject_name": "Maths",
+    "class_name": 12,
+    "chapter_id": ""
+  },
+  {
+    "id": "",
+    "body": "\\text{Show that the function } f : \\mathbb{N} \\to \\mathbb{N} \\text{ given by } f(x) = x^3 \\text{ is injective.}",
+    "chapter_name": "Relations and Functions",
+    "subject_name": "Maths",
+    "class_name": 12,
+    "chapter_id": ""
+  },
+  {
+    "id": "",
+    "body": "\\text{Consider the function } f : \\mathbb{R} \\to \\mathbb{R} \\text{ defined by } f(x) = \\cos(x). \\text{ Is } f \\text{ injective, surjective, or bijective?}",
+    "chapter_name": "Relations and Functions",
+    "subject_name": "Maths",
+    "class_name": 12,
+    "chapter_id": ""
+  },
+  {
+    "id": "",
+    "body": "\\text{If } f : \\mathbb{Z} \\to \\mathbb{Z} \\text{ is given by } f(x) = x^2, \\text{ determine if } f \\text{ is one-one and/or onto.}",
+    "chapter_name": "Relations and Functions",
+    "subject_name": "Maths",
+    "class_name": 12,
+    "chapter_id": ""
+  },
+  {
+    "id": "",
+    "body": "\\text{For the function } f : \\mathbb{R} \\to \\mathbb{R} \\text{ defined by } f(x) = |x|, \\text{ is } f \\text{ injective, surjective, or bijective?}",
+    "chapter_name": "Relations and Functions",
+    "subject_name": "Maths",
+    "class_name": 12,
+    "chapter_id": ""
+  },
+  {
+    "id": "",
+    "body": "\\text{Determine if the function } f : \\mathbb{R} \\to \\mathbb{R} \\text{ defined by } f(x) = x + 5 \\text{ is bijective.}",
+    "chapter_name": "Relations and Functions",
+    "subject_name": "Maths",
+    "class_name": 12,
+    "chapter_id": ""
+  }
+]

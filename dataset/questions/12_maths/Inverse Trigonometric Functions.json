@@ -1,0 +1,242 @@
+[
+  {
+    "id": "",
+    "body": "\\text{Find the principal value of } \\sin^{-1} \\left(-\\frac{1}{2}\\right).",
+    "chapter_name": "Inverse Trigonometric Functions",
+    "subject_name": "Maths",
+    "class_name": 12,
+    "chapter_id": ""
+  },
+  {
+    "id": "",
+    "body": "\\text{Evaluate } \\cos^{-1} \\left(\\frac{3}{2}\\right).",
+    "chapter_name": "Inverse Trigonometric Functions",
+    "subject_name": "Maths",
+    "class_name": 12,
+    "chapter_id": ""
+  },
+  {
+    "id": "",
+    "body": "\\text{Determine the value of } \\csc^{-1} (2).",
+    "chapter_name": "Inverse Trigonometric Functions",
+    "subject_name": "Maths",
+    "class_name": 12,
+    "chapter_id": ""
+  },
+  {
+    "id": "",
+    "body": "\\text{Evaluate } \\tan^{-1} (-\\sqrt{3}).",
+    "chapter_name": "Inverse Trigonometric Functions",
+    "subject_name": "Maths",
+    "class_name": 12,
+    "chapter_id": ""
+  },
+  {
+    "id": "",
+    "body": "\\text{Find the principal value of } \\cos^{-1} \\left(-\\frac{1}{2}\\right).",
+    "chapter_name": "Inverse Trigonometric Functions",
+    "subject_name": "Maths",
+    "class_name": 12,
+    "chapter_id": ""
+  },
+  {
+    "id": "",
+    "body": "\\text{Compute } \\tan^{-1} (-1).",
+    "chapter_name": "Inverse Trigonometric Functions",
+    "subject_name": "Maths",
+    "class_name": 12,
+    "chapter_id": ""
+  },
+  {
+    "id": "",
+    "body": "\\text{Determine the value of } \\sec^{-1} \\left(\\frac{2}{3}\\right).",
+    "chapter_name": "Inverse Trigonometric Functions",
+    "subject_name": "Maths",
+    "class_name": 12,
+    "chapter_id": ""
+  },
+  {
+    "id": "",
+    "body": "\\text{Evaluate } \\cot^{-1} \\sqrt{3}.",
+    "chapter_name": "Inverse Trigonometric Functions",
+    "subject_name": "Maths",
+    "class_name": 12,
+    "chapter_id": ""
+  },
+  {
+    "id": "",
+    "body": "\\text{Find the principal value of } \\cos^{-1} \\left(-\\frac{1}{2}\\right).",
+    "chapter_name": "Inverse Trigonometric Functions",
+    "subject_name": "Maths",
+    "class_name": 12,
+    "chapter_id": ""
+  },
+  {
+    "id": "",
+    "body": "\\text{Determine the principal value of } \\csc^{-1} \\left(-2\\right).",
+    "chapter_name": "Inverse Trigonometric Functions",
+    "subject_name": "Maths",
+    "class_name": 12,
+    "chapter_id": ""
+  },
+  {
+    "id": "",
+    "body": "\\text{Evaluate } \\tan^{-1}(1) + \\cos^{-1} \\left(-\\frac{1}{2}\\right) + \\sin^{-1} \\left(-\\frac{1}{2}\\right).",
+    "chapter_name": "Inverse Trigonometric Functions",
+    "subject_name": "Maths",
+    "class_name": 12,
+    "chapter_id": ""
+  },
+  {
+    "id": "",
+    "body": "\\text{Compute } \\cos^{-1}\\left(\\frac{1}{2}\\right) + 2\\sin^{-1} \\left(\\frac{1}{2}\\right).",
+    "chapter_name": "Inverse Trigonometric Functions",
+    "subject_name": "Maths",
+    "class_name": 12,
+    "chapter_id": ""
+  },
+  {
+    "id": "",
+    "body": "\\text{If } \\sin^{-1} x = y, \\text{ then determine } y \\text{ for } x \\in [0, 1].",
+    "chapter_name": "Inverse Trigonometric Functions",
+    "subject_name": "Maths",
+    "class_name": 12,
+    "chapter_id": ""
+  },
+  {
+    "id": "",
+    "body": "\\text{Simplify } \\tan^{-1}\\left(\\sqrt{3}\\right) - \\cos^{-1} \\left(\\frac{2}{3}\\right).",
+    "chapter_name": "Inverse Trigonometric Functions",
+    "subject_name": "Maths",
+    "class_name": 12,
+    "chapter_id": ""
+  },
+  {
+    "id": "",
+    "body": "\\text{Evaluate } \\sin^{-1} \\left(-\\frac{1}{2}\\right).",
+    "chapter_name": "Inverse Trigonometric Functions",
+    "subject_name": "Maths",
+    "class_name": 12,
+    "chapter_id": ""
+  },
+  {
+    "id": "",
+    "body": "\\text{Prove that } \\cos^{-1}(x) = \\frac{\\pi}{2} - \\sin^{-1}(x) \\text{ for } x \\in [0,1].",
+    "chapter_name": "Inverse Trigonometric Functions",
+    "subject_name": "Maths",
+    "class_name": 12,
+    "chapter_id": ""
+  },
+  {
+    "id": "",
+    "body": "\\text{Simplify } \\sin^{-1} (2x \\sqrt{1 - x^2}) \\text{ for } x \\in \\left[-\\frac{1}{2}, \\frac{1}{2}\\right].",
+    "chapter_name": "Inverse Trigonometric Functions",
+    "subject_name": "Maths",
+    "class_name": 12,
+    "chapter_id": ""
+  },
+  {
+    "id": "",
+    "body": "\\text{Prove that } \\tan^{-1}(x) + \\tan^{-1}(y) = \\tan^{-1} \\left(\\frac{x + y}{1 - xy}\\right) \\text{ if } xy < 1.",
+    "chapter_name": "Inverse Trigonometric Functions",
+    "subject_name": "Maths",
+    "class_name": 12,
+    "chapter_id": ""
+  },
+  {
+    "id": "",
+    "body": "\\text{Show that } \\sin^{-1} \\left(2x \\sqrt{1 - x^2}\\right) = 2\\sin^{-1} x, \\text{ for } x \\in \\left[-\\frac{1}{2}, \\frac{1}{2}\\right].",
+    "chapter_name": "Inverse Trigonometric Functions",
+    "subject_name": "Maths",
+    "class_name": 12,
+    "chapter_id": ""
+  },
+  {
+    "id": "",
+    "body": "\\text{Find } \\sin \\left(\\cos^{-1} \\frac{3}{5}\\right).",
+    "chapter_name": "Inverse Trigonometric Functions",
+    "subject_name": "Maths",
+    "class_name": 12,
+    "chapter_id": ""
+  },
+  {
+    "id": "",
+    "body": "\\text{Prove that } 3\\sin^{-1}(x) = \\sin^{-1}(3x - 4x^3), \\text{ for } x \\in \\left[-\\frac{1}{2}, \\frac{1}{2}\\right].",
+    "chapter_name": "Inverse Trigonometric Functions",
+    "subject_name": "Maths",
+    "class_name": 12,
+    "chapter_id": ""
+  },
+  {
+    "id": "",
+    "body": "\\text{Simplify } \\cos \\left(\\tan^{-1} x + \\tan^{-1} y\\right).",
+    "chapter_name": "Inverse Trigonometric Functions",
+    "subject_name": "Maths",
+    "class_name": 12,
+    "chapter_id": ""
+  },
+  {
+    "id": "",
+    "body": "\\text{Evaluate } \\sin^{-1} \\left(\\frac{2x \\sqrt{1 - x^2}}{1 - x^2}\\right), \\text{ for } |x| < 1.",
+    "chapter_name": "Inverse Trigonometric Functions",
+    "subject_name": "Maths",
+    "class_name": 12,
+    "chapter_id": ""
+  },
+  {
+    "id": "",
+    "body": "\\text{Prove that } \\cos^{-1} x + \\cos^{-1}(-x) = \\pi, \\text{ for } x \\in [-1, 1].",
+    "chapter_name": "Inverse Trigonometric Functions",
+    "subject_name": "Maths",
+    "class_name": 12,
+    "chapter_id": ""
+  },
+  {
+    "id": "",
+    "body": "\\text{Show that } \\sec^{-1}(x) + \\csc^{-1}(x) = \\frac{\\pi}{2}, \\text{ for } x > 1.",
+    "chapter_name": "Inverse Trigonometric Functions",
+    "subject_name": "Maths",
+    "class_name": 12,
+    "chapter_id": ""
+  },
+  {
+    "id": "",
+    "body": "\\text{Evaluate } \\cot^{-1} \\left(\\frac{3}{4}\\right) + \\tan^{-1} \\left(\\frac{4}{3}\\right).",
+    "chapter_name": "Inverse Trigonometric Functions",
+    "subject_name": "Maths",
+    "class_name": 12,
+    "chapter_id": ""
+  },
+  {
+    "id": "",
+    "body": "\\text{Find the principal value of } \\sin^{-1} \\left(\\sin \\frac{5\\pi}{6}\\right).",
+    "chapter_name": "Inverse Trigonometric Functions",
+    "subject_name": "Maths",
+    "class_name": 12,
+    "chapter_id": ""
+  },
+  {
+    "id": "",
+    "body": "\\text{Evaluate } \\cos^{-1}(\\sin \\theta) + \\sin^{-1}(\\cos \\theta) \\text{ for } \\theta = \\frac{\\pi}{4}.",
+    "chapter_name": "Inverse Trigonometric Functions",
+    "subject_name": "Maths",
+    "class_name": 12,
+    "chapter_id": ""
+  },
+  {
+    "id": "",
+    "body": "\\text{Prove that } \\cot^{-1}(x) + \\tan^{-1}(x) = \\frac{\\pi}{2}, \\text{ for } x > 0.",
+    "chapter_name": "Inverse Trigonometric Functions",
+    "subject_name": "Maths",
+    "class_name": 12,
+    "chapter_id": ""
+  },
+  {
+    "id": "",
+    "body": "\\text{Evaluate } \\tan^{-1}\\left(\\frac{1}{\\sqrt{3}}\\right) + \\tan^{-1}\\left(\\frac{1}{2}\\right).",
+    "chapter_name": "Inverse Trigonometric Functions",
+    "subject_name": "Maths",
+    "class_name": 12,
+    "chapter_id": ""
+  }
+]

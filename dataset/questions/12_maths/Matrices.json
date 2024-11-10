@@ -1,0 +1,234 @@
+[
+  {
+    "id": "",
+    "body": "\\text{Define a matrix. Give an example of a } 2 \\times 3 \\text{ matrix.}",
+    "chapter_name": "Matrices",
+    "subject_name": "Maths",
+    "class_name": 12,
+    "chapter_id": ""
+  },
+  {
+    "id": "",
+    "body": "\\text{If } A = \\begin{bmatrix} 1 & 2 \\\\ 3 & 4 \\end{bmatrix} \\text{ and } B = \\begin{bmatrix} 5 & 6 \\\\ 7 & 8 \\end{bmatrix}, \\text{ find } A + B.",
+    "chapter_name": "Matrices",
+    "subject_name": "Maths",
+    "class_name": 12,
+    "chapter_id": ""
+  },
+  {
+    "id": "",
+    "body": "\\text{Calculate the transpose of the matrix } A = \\begin{bmatrix} 1 & -1 & 2 \\\\ 0 & 3 & 4 \\end{bmatrix}.",
+    "chapter_name": "Matrices",
+    "subject_name": "Maths",
+    "class_name": 12,
+    "chapter_id": ""
+  },
+  {
+    "id": "",
+    "body": "\\text{Define a diagonal matrix and give an example of a } 3 \\times 3 \\text{ diagonal matrix.}",
+    "chapter_name": "Matrices",
+    "subject_name": "Maths",
+    "class_name": 12,
+    "chapter_id": ""
+  },
+  {
+    "id": "",
+    "body": "\\text{If } A = \\begin{bmatrix} 1 & 2 \\\\ 3 & 4 \\end{bmatrix} \\text{, find } 2A.",
+    "chapter_name": "Matrices",
+    "subject_name": "Maths",
+    "class_name": 12,
+    "chapter_id": ""
+  },
+  {
+    "id": "",
+    "body": "\\text{If } A = \\begin{bmatrix} 1 & 2 & 3 \\\\ 4 & 5 & 6 \\end{bmatrix} \\text{, find the order of the matrix.}",
+    "chapter_name": "Matrices",
+    "subject_name": "Maths",
+    "class_name": 12,
+    "chapter_id": ""
+  },
+  {
+    "id": "",
+    "body": "\\text{Define a symmetric matrix. Give an example of a } 2 \\times 2 \\text{ symmetric matrix.}",
+    "chapter_name": "Matrices",
+    "subject_name": "Maths",
+    "class_name": 12,
+    "chapter_id": ""
+  },
+  {
+    "id": "",
+    "body": "\\text{If } A = \\begin{bmatrix} 2 & 4 \\\\ 1 & 3 \\end{bmatrix} \\text{ and } B = \\begin{bmatrix} 0 & 5 \\\\ 7 & 8 \\end{bmatrix}, \\text{ find } A - B.",
+    "chapter_name": "Matrices",
+    "subject_name": "Maths",
+    "class_name": 12,
+    "chapter_id": ""
+  },
+  {
+    "id": "",
+    "body": "\\text{Define an identity matrix and provide an example of a } 3 \\times 3 \\text{ identity matrix.}",
+    "chapter_name": "Matrices",
+    "subject_name": "Maths",
+    "class_name": 12,
+    "chapter_id": ""
+  },
+  {
+    "id": "",
+    "body": "\\text{Show that the matrix } A = \\begin{bmatrix} 3 & -1 \\\\ 4 & 2 \\end{bmatrix} \\text{ is invertible by finding } A^{-1}.",
+    "chapter_name": "Matrices",
+    "subject_name": "Maths",
+    "class_name": 12,
+    "chapter_id": ""
+  },
+  {
+    "id": "",
+    "body": "\\text{For the matrix } A = \\begin{bmatrix} 1 & 0 & 0 \\\\ 0 & 1 & 0 \\\\ 0 & 0 & 1 \\end{bmatrix}, \\text{ determine if } A \\text{ is a scalar matrix.}",
+    "chapter_name": "Matrices",
+    "subject_name": "Maths",
+    "class_name": 12,
+    "chapter_id": ""
+  },
+  {
+    "id": "",
+    "body": "\\text{Define a zero matrix. Provide an example of a } 2 \\times 3 \\text{ zero matrix.}",
+    "chapter_name": "Matrices",
+    "subject_name": "Maths",
+    "class_name": 12,
+    "chapter_id": ""
+  },
+  {
+    "id": "",
+    "body": "\\text{If } A = \\begin{bmatrix} 2 & -1 \\\\ 0 & 3 \\end{bmatrix} \\text{, find } A^2.",
+    "chapter_name": "Matrices",
+    "subject_name": "Maths",
+    "class_name": 12,
+    "chapter_id": ""
+  },
+  {
+    "id": "",
+    "body": "\\text{Explain the concept of equality of matrices.}",
+    "chapter_name": "Matrices",
+    "subject_name": "Maths",
+    "class_name": 12,
+    "chapter_id": ""
+  },
+  {
+    "id": "",
+    "body": "\\text{Find the trace of the matrix } A = \\begin{bmatrix} 1 & 2 \\\\ 3 & 4 \\end{bmatrix}.",
+    "chapter_name": "Matrices",
+    "subject_name": "Maths",
+    "class_name": 12,
+    "chapter_id": ""
+  },
+  {
+    "id": "",
+    "body": "\\text{If } A = \\begin{bmatrix} 1 & 2 \\\\ 3 & 4 \\end{bmatrix} \\text{ and } B = \\begin{bmatrix} 5 & 6 \\\\ 7 & 8 \\end{bmatrix}, \\text{ find } AB.",
+    "chapter_name": "Matrices",
+    "subject_name": "Maths",
+    "class_name": 12,
+    "chapter_id": ""
+  },
+  {
+    "id": "",
+    "body": "\\text{Determine whether the matrix } A = \\begin{bmatrix} 1 & 2 \\\\ 2 & 1 \\end{bmatrix} \\text{ is symmetric.}",
+    "chapter_name": "Matrices",
+    "subject_name": "Maths",
+    "class_name": 12,
+    "chapter_id": ""
+  },
+  {
+    "id": "",
+    "body": "\\text{Define a column matrix. Provide an example of a } 3 \\times 1 \\text{ column matrix.}",
+    "chapter_name": "Matrices",
+    "subject_name": "Maths",
+    "class_name": 12,
+    "chapter_id": ""
+  },
+  {
+    "id": "",
+    "body": "\\text{If } A = \\begin{bmatrix} 1 & 0 \\\\ 0 & -1 \\end{bmatrix} \\text{, show that } A^T = A.",
+    "chapter_name": "Matrices",
+    "subject_name": "Maths",
+    "class_name": 12,
+    "chapter_id": ""
+  },
+  {
+    "id": "",
+    "body": "\\text{Explain the distributive property of matrix addition.}",
+    "chapter_name": "Matrices",
+    "subject_name": "Maths",
+    "class_name": 12,
+    "chapter_id": ""
+  },
+  {
+    "id": "",
+    "body": "\\text{If } A = \\begin{bmatrix} 1 & 2 \\\\ 3 & 4 \\end{bmatrix} \\text{ and } B = \\begin{bmatrix} 0 & -1 \\\\ -2 & 0 \\end{bmatrix}, \\text{ verify that } (A + B)^T = A^T + B^T.",
+    "chapter_name": "Matrices",
+    "subject_name": "Maths",
+    "class_name": 12,
+    "chapter_id": ""
+  },
+  {
+    "id": "",
+    "body": "\\text{Find the determinant of the matrix } A = \\begin{bmatrix} 2 & 3 \\\\ 1 & 4 \\end{bmatrix}.",
+    "chapter_name": "Matrices",
+    "subject_name": "Maths",
+    "class_name": 12,
+    "chapter_id": ""
+  },
+  {
+    "id": "",
+    "body": "\\text{If } A = \\begin{bmatrix} 1 & 2 \\\\ 0 & 1 \\end{bmatrix} \\text{, find } A^{-1}.",
+    "chapter_name": "Matrices",
+    "subject_name": "Maths",
+    "class_name": 12,
+    "chapter_id": ""
+  },
+  {
+    "id": "",
+    "body": "\\text{Define a square matrix and provide an example of a } 2 \\times 2 \\text{ square matrix.}",
+    "chapter_name": "Matrices",
+    "subject_name": "Maths",
+    "class_name": 12,
+    "chapter_id": ""
+  },
+  {
+    "id": "",
+    "body": "\\text{If } A = \\begin{bmatrix} 3 & 4 \\\\ 2 & 1 \\end{bmatrix} \\text{ and } B = \\begin{bmatrix} 1 & 0 \\\\ 0 & 1 \\end{bmatrix}, \\text{ find } AB.",
+    "chapter_name": "Matrices",
+    "subject_name": "Maths",
+    "class_name": 12,
+    "chapter_id": ""
+  },
+  {
+    "id": "",
+    "body": "\\text{Explain why matrix multiplication is not commutative.}",
+    "chapter_name": "Matrices",
+    "subject_name": "Maths",
+    "class_name": 12,
+    "chapter_id": ""
+  },
+  {
+    "id": "",
+    "body": "\\text{Determine if the matrix } A = \\begin{bmatrix} 2 & -2 \\\\ -2 & 2 \\end{bmatrix} \\text{ is symmetric or skew-symmetric.}",
+    "chapter_name": "Matrices",
+    "subject_name": "Maths",
+    "class_name": 12,
+    "chapter_id": ""
+  },
+  {
+    "id": "",
+    "body": "\\text{If } A = \\begin{bmatrix} 1 & 2 \\\\ 3 & 4 \\end{bmatrix} \\text{ and } B = \\begin{bmatrix} 5 & 6 \\\\ 7 & 8 \\end{bmatrix}, \\text{ find } A - B.",
+    "chapter_name": "Matrices",
+    "subject_name": "Maths",
+    "class_name": 12,
+    "chapter_id": ""
+  },
+  {
+    "id": "",
+    "body": "\\text{Find the scalar multiplication } 3 \\times \\begin{bmatrix} 1 & 2 \\\\ 3 & 4 \\end{bmatrix}.",
+    "chapter_name": "Matrices",
+    "subject_name": "Maths",
+    "class_name": 12,
+    "chapter_id": ""
+  }
+]
