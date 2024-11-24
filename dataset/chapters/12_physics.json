@@ -1,142 +1,143 @@
 [
   {
-    "id": "",
+    "id": "d967ca17-dd30-49f6-b4af-01336ece7fb7",
     "name": "Electric Charges and Fields",
-    "subject_id": "",
-    "subject_name": "Physics",
-    "class_name": 12,
     "display_name": "12 - Physics - Electric Charges and Fields",
-    "created_at": 1731334198,
-    "updated_at": 1731334198
+    "subject_id": "7af4ac25-4af0-42ef-9d57-c1b6949eb014",
+    "subject_name": "Physics",
+    "class_name": 12,
+    "created_at": 1191105900,
+    "updated_at": 1191105900
   },
   {
-    "id": "",
+    "id": "13de47af-6272-43ad-916b-cf8318816ede",
     "name": "Electrostatic Potential and Capacitance",
-    "subject_id": "",
-    "subject_name": "Physics",
-    "class_name": 12,
     "display_name": "12 - Physics - Electrostatic Potential and Capacitance",
-    "created_at": 1731334198,
-    "updated_at": 1731334198
+    "subject_id": "7af4ac25-4af0-42ef-9d57-c1b6949eb014",
+    "subject_name": "Physics",
+    "class_name": 12,
+    "created_at": 1191105900,
+    "updated_at": 1191105900
   },
   {
-    "id": "",
+    "id": "f56a01c0-3b96-46c6-bb9a-8345c22c25fb",
     "name": "Current Electricity",
-    "subject_id": "",
-    "subject_name": "Physics",
-    "class_name": 12,
     "display_name": "12 - Physics - Current Electricity",
-    "created_at": 1731334198,
-    "updated_at": 1731334198
+    "subject_id": "7af4ac25-4af0-42ef-9d57-c1b6949eb014",
+    "subject_name": "Physics",
+    "class_name": 12,
+    "created_at": 1191105900,
+    "updated_at": 1191105900
   },
   {
-    "id": "",
+    "id": "978cb5a6-22de-4ef9-a518-f4d2db27cec2",
     "name": "Moving Charges and Magnetism",
-    "subject_id": "",
-    "subject_name": "Physics",
-    "class_name": 12,
     "display_name": "12 - Physics - Moving Charges and Magnetism",
-    "created_at": 1731334198,
-    "updated_at": 1731334198
+    "subject_id": "7af4ac25-4af0-42ef-9d57-c1b6949eb014",
+    "subject_name": "Physics",
+    "class_name": 12,
+    "created_at": 1191105900,
+    "updated_at": 1191105900
   },
   {
-    "id": "",
+    "id": "8c1f460b-88cf-4ad8-9876-05b8afcec6be",
     "name": "Magnetism and Matter",
-    "subject_id": "",
-    "subject_name": "Physics",
-    "class_name": 12,
     "display_name": "12 - Physics - Magnetism and Matter",
-    "created_at": 1731334198,
-    "updated_at": 1731334198
+    "subject_id": "7af4ac25-4af0-42ef-9d57-c1b6949eb014",
+    "subject_name": "Physics",
+    "class_name": 12,
+    "created_at": 1191105900,
+    "updated_at": 1191105900
   },
   {
-    "id": "",
+    "id": "07b98845-bbc1-4b8a-bcf3-d873b42d4bb0",
     "name": "Electromagnetic Induction",
-    "subject_id": "",
-    "subject_name": "Physics",
-    "class_name": 12,
     "display_name": "12 - Physics - Electromagnetic Induction",
-    "created_at": 1731334198,
-    "updated_at": 1731334198
+    "subject_id": "7af4ac25-4af0-42ef-9d57-c1b6949eb014",
+    "subject_name": "Physics",
+    "class_name": 12,
+    "created_at": 1191105900,
+    "updated_at": 1191105900
   },
   {
-    "id": "",
+    "id": "8c10b167-89e2-4286-bd4c-ee0d6486883c",
     "name": "Alternating Current",
-    "subject_id": "",
-    "subject_name": "Physics",
-    "class_name": 12,
     "display_name": "12 - Physics - Alternating Current",
-    "created_at": 1731334198,
-    "updated_at": 1731334198
+    "subject_id": "7af4ac25-4af0-42ef-9d57-c1b6949eb014",
+    "subject_name": "Physics",
+    "class_name": 12,
+    "created_at": 1191105900,
+    "updated_at": 1191105900
   },
   {
-    "id": "",
+    "id": "593b2fff-58cc-4f40-be81-e4a5d9272687",
     "name": "Electromagnetic Waves",
-    "subject_id": "",
-    "subject_name": "Physics",
-    "class_name": 12,
     "display_name": "12 - Physics - Electromagnetic Waves",
-    "created_at": 1731334198,
-    "updated_at": 1731334198
+    "subject_id": "7af4ac25-4af0-42ef-9d57-c1b6949eb014",
+    "subject_name": "Physics",
+    "class_name": 12,
+    "created_at": 1191105900,
+    "updated_at": 1191105900
   },
   {
-    "id": "",
+    "id": "a759bba1-2385-4a34-a236-8a61cf504814",
     "name": "Ray Optics and Optical Instruments",
-    "subject_id": "",
-    "subject_name": "Physics",
-    "class_name": 12,
     "display_name": "12 - Physics - Ray Optics and Optical Instruments",
-    "created_at": 1731334198,
-    "updated_at": 1731334198
+    "subject_id": "7af4ac25-4af0-42ef-9d57-c1b6949eb014",
+    "subject_name": "Physics",
+    "class_name": 12,
+    "created_at": 1191105900,
+    "updated_at": 1191105900
   },
   {
-    "id": "",
+    "id": "e3f16f2a-0b6c-4b3a-adea-17adf3da458a",
     "name": "Wave Optics",
-    "subject_id": "",
-    "subject_name": "Physics",
-    "class_name": 12,
     "display_name": "12 - Physics - Wave Optics",
-    "created_at": 1731334198,
-    "updated_at": 1731334198
+    "subject_id": "7af4ac25-4af0-42ef-9d57-c1b6949eb014",
+    "subject_name": "Physics",
+    "class_name": 12,
+    "created_at": 1191105900,
+    "updated_at": 1191105900
   },
   {
-    "id": "",
+    "id": "132a2e37-a0b3-48ae-84d1-79f6ecb0723e",
     "name": "Dual Nature of Radiation and Matter",
-    "subject_id": "",
-    "subject_name": "Physics",
-    "class_name": 12,
     "display_name": "12 - Physics - Dual Nature of Radiation and Matter",
-    "created_at": 1731334198,
-    "updated_at": 1731334198
+    "subject_id": "7af4ac25-4af0-42ef-9d57-c1b6949eb014",
+    "subject_name": "Physics",
+    "class_name": 12,
+    "created_at": 1191105900,
+    "updated_at": 1191105900
   },
   {
-    "id": "",
+    "id": "1ec060cb-74d4-4b0f-b74a-7194445fd455",
     "name": "Atoms",
-    "subject_id": "",
-    "subject_name": "Physics",
-    "class_name": 12,
     "display_name": "12 - Physics - Atoms",
-    "created_at": 1731334198,
-    "updated_at": 1731334198
+    "subject_id": "7af4ac25-4af0-42ef-9d57-c1b6949eb014",
+    "subject_name": "Physics",
+    "class_name": 12,
+    "created_at": 1191105900,
+    "updated_at": 1191105900
   },
   {
-    "id": "",
+    "id": "81cea253-fb93-4fe3-91e5-6fa9a84e96f4",
     "name": "Nuclei",
-    "subject_id": "",
+    "display_name": "12 - Physics - Nuclei",
+    "subject_id": "7af4ac25-4af0-42ef-9d57-c1b6949eb014",
     "subject_name": "Physics",
     "class_name": 12,
-    "display_name": "12 - Physics - Nuclei",
-    "created_at": 1731334198,
-    "updated_at": 1731334198
+    "created_at": 1191105900,
+    "updated_at": 1191105900
   },
   {
-    "id": "",
+    "id": "7f8cf840-0a5a-4f3c-9beb-c8b430251a7a",
     "name": "Semiconductor Electronics: Materials, Devices, and Simple Circuits",
-    "subject_id": "",
+    "display_name": "12 - Physics - Semiconductor Electronics: Materials, Devices and Simple Circuits",
+    "subject_id": "7af4ac25-4af0-42ef-9d57-c1b6949eb014",
     "subject_name": "Physics",
     "class_name": 12,
-    "display_name": "12 - Physics - Semiconductor Electronics: Materials, Devices and Simple Circuits",
-    "created_at": 1731334198,
-    "updated_at": 1731334198
+    "created_at": 1191105900,
+    "updated_at": 1191105900
   }
 ]
+
