@@ -2,92 +2,64 @@
   {
     "id": "3ffd52d3-4df9-443a-9e44-2704b13b6423",
     "name": "Some Basic Concepts of Chemistry",
-    "display_name": "11 - Chemistry - Some Basic Concepts of Chemistry",
     "subject_id": "2e6f5089-2d87-4471-8359-2476941bcb7a",
-    "subject_name": "Chemistry",
-    "class_name": 11,
     "created_at": 1191105900,
     "updated_at": 1191105900
   },
   {
     "id": "2e58f18c-3c53-424d-b59d-028df5583622",
     "name": "Structure of Atom",
-    "display_name": "11 - Chemistry - Structure of Atom",
     "subject_id": "2e6f5089-2d87-4471-8359-2476941bcb7a",
-    "subject_name": "Chemistry",
-    "class_name": 11,
     "created_at": 1191105900,
     "updated_at": 1191105900
   },
   {
     "id": "49e04221-45a0-4261-97fb-5bce95f01894",
     "name": "Classification of Elements and Periodicity in Properties",
-    "display_name": "11 - Chemistry - Classification of Elements and Periodicity in Properties",
     "subject_id": "2e6f5089-2d87-4471-8359-2476941bcb7a",
-    "subject_name": "Chemistry",
-    "class_name": 11,
     "created_at": 1191105900,
     "updated_at": 1191105900
   },
   {
     "id": "f7524223-c207-4dfb-8270-9c97fcb48d81",
     "name": "Chemical Bonding and Molecular Structure",
-    "display_name": "11 - Chemistry - Chemical Bonding and Molecular Structure",
     "subject_id": "2e6f5089-2d87-4471-8359-2476941bcb7a",
-    "subject_name": "Chemistry",
-    "class_name": 11,
     "created_at": 1191105900,
     "updated_at": 1191105900
   },
   {
     "id": "35cb360d-1b62-4b7c-9bcc-2e1c0edfd372",
     "name": "Chemical Thermodynamics",
-    "display_name": "11 - Chemistry - Chemical Thermodynamics",
     "subject_id": "2e6f5089-2d87-4471-8359-2476941bcb7a",
-    "subject_name": "Chemistry",
-    "class_name": 11,
     "created_at": 1191105900,
     "updated_at": 1191105900
   },
   {
     "id": "e1914dbf-c431-4f2c-8ae8-3dd4fcd6b85d",
     "name": "Equilibrium",
-    "display_name": "11 - Chemistry - Equilibrium",
     "subject_id": "2e6f5089-2d87-4471-8359-2476941bcb7a",
-    "subject_name": "Chemistry",
-    "class_name": 11,
     "created_at": 1191105900,
     "updated_at": 1191105900
   },
   {
     "id": "b6169bc9-4083-4b9b-b130-a9ac39d1acb4",
     "name": "Redox Reactions",
-    "display_name": "11 - Chemistry - Redox Reactions",
     "subject_id": "2e6f5089-2d87-4471-8359-2476941bcb7a",
-    "subject_name": "Chemistry",
-    "class_name": 11,
     "created_at": 1191105900,
     "updated_at": 1191105900
   },
   {
     "id": "c20b2266-bdf2-412b-873d-b02040951ffb",
     "name": "Organic Chemistry: Some Basic Principles and Techniques",
-    "display_name": "11 - Chemistry - Organic Chemistry: Some Basic Principles and Techniques",
     "subject_id": "2e6f5089-2d87-4471-8359-2476941bcb7a",
-    "subject_name": "Chemistry",
-    "class_name": 11,
     "created_at": 1191105900,
     "updated_at": 1191105900
   },
   {
     "id": "0783532c-1acb-4584-b7cf-2fc325bad7c2",
     "name": "Hydrocarbons",
-    "display_name": "11 - Chemistry - Hydrocarbons",
     "subject_id": "2e6f5089-2d87-4471-8359-2476941bcb7a",
-    "subject_name": "Chemistry",
-    "class_name": 11,
     "created_at": 1191105900,
     "updated_at": 1191105900
   }
 ]
-

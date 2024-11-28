@@ -2,9 +2,6 @@
   {
     "id": "ee1e6713-64ad-49a5-be00-7a8e646d93f9",
     "body": "\\text{Determine if the relation } R = \\{(x, y) \\in A : 3x - y = 0\\} \\text{ is reflexive, symmetric, and transitive for } A = \\{1, 2, 3, \\dots, 14\\}.",
-    "chapter_name": "Relations and Functions",
-    "subject_name": "Maths",
-    "class_name": 12,
     "chapter_id": "62912441-3c7e-4c6a-be47-5787ecf59924",
     "created_at": 1191105900,
     "updated_at": 1191105900
@@ -12,9 +9,6 @@
   {
     "id": "4df60cee-2bb1-4087-a346-468379bfcbff",
     "body": "\\text{Check if the relation } R = \\{(a, b) : b = a + 1\\} \\text{ in the set } A = \\{1, 2, 3, 4, 5, 6\\} \\text{ is reflexive, symmetric, or transitive.}",
-    "chapter_name": "Relations and Functions",
-    "subject_name": "Maths",
-    "class_name": 12,
     "chapter_id": "62912441-3c7e-4c6a-be47-5787ecf59924",
     "created_at": 1191105900,
     "updated_at": 1191105900
@@ -22,9 +16,6 @@
   {
     "id": "98d14bed-b190-4dbc-8496-15fcff7716c9",
     "body": "\\text{Show that the relation } R = \\{(x, y) : x - y \\text{ is an integer}\\} \\text{ is an equivalence relation in } \\mathbb{Z}.",
-    "chapter_name": "Relations and Functions",
-    "subject_name": "Maths",
-    "class_name": 12,
     "chapter_id": "62912441-3c7e-4c6a-be47-5787ecf59924",
     "created_at": 1191105900,
     "updated_at": 1191105900
@@ -32,9 +23,6 @@
   {
     "id": "6f0a0e27-50e7-4c55-a1d8-ee63ae9583ef",
     "body": "\\text{In a set of all books in a library, define the relation } R = \\{(x, y) : x \\text{ and } y \\text{ have the same number of pages}\\}. \\text{Show that } R \\text{ is an equivalence relation.}",
-    "chapter_name": "Relations and Functions",
-    "subject_name": "Maths",
-    "class_name": 12,
     "chapter_id": "62912441-3c7e-4c6a-be47-5787ecf59924",
     "created_at": 1191105900,
     "updated_at": 1191105900
@@ -42,9 +30,6 @@
   {
     "id": "3ed39f59-74b6-4a9b-8735-2177fec34f4d",
     "body": "\\text{Verify if the relation } R = \\{(a, b) : |a - b| \\text{ is even}\\} \\text{ is an equivalence relation on the set } A = \\{1, 2, 3, 4, 5\\}.",
-    "chapter_name": "Relations and Functions",
-    "subject_name": "Maths",
-    "class_name": 12,
     "chapter_id": "62912441-3c7e-4c6a-be47-5787ecf59924",
     "created_at": 1191105900,
     "updated_at": 1191105900
@@ -52,9 +37,6 @@
   {
     "id": "0e3e2b19-084f-47cb-bb2b-30611ded54e7",
     "body": "\\text{Show that the relation } R = \\{(P, Q) : \\text{distance of } P \\text{ from the origin is the same as the distance of } Q \\text{ from the origin}\\} \\text{ is an equivalence relation.}",
-    "chapter_name": "Relations and Functions",
-    "subject_name": "Maths",
-    "class_name": 12,
     "chapter_id": "62912441-3c7e-4c6a-be47-5787ecf59924",
     "created_at": 1191105900,
     "updated_at": 1191105900
@@ -62,9 +44,6 @@
   {
     "id": "9fe8227f-c5f0-4962-babc-bdcb980fff62",
     "body": "\\text{Let } R \\text{ be a relation in the set of all polygons, defined as } R = \\{(P_1, P_2) : P_1 \\text{ and } P_2 \\text{ have the same number of sides}\\}. \\text{Prove that } R \\text{ is an equivalence relation.}",
-    "chapter_name": "Relations and Functions",
-    "subject_name": "Maths",
-    "class_name": 12,
     "chapter_id": "62912441-3c7e-4c6a-be47-5787ecf59924",
     "created_at": 1191105900,
     "updated_at": 1191105900
@@ -72,9 +51,6 @@
   {
     "id": "b11f00ea-ac6f-48b6-9341-78339c8b9fba",
     "body": "\\text{In the set of natural numbers } \\mathbb{N}, \\text{ define the relation } R = \\{(x, y) : y = x + 5 \\text{ and } x < 4\\}. \\text{Determine if } R \\text{ is reflexive, symmetric, or transitive.}",
-    "chapter_name": "Relations and Functions",
-    "subject_name": "Maths",
-    "class_name": 12,
     "chapter_id": "62912441-3c7e-4c6a-be47-5787ecf59924",
     "created_at": 1191105900,
     "updated_at": 1191105900
@@ -82,9 +58,6 @@
   {
     "id": "e490df53-d1fd-4568-bef2-24b04cb76c7c",
     "body": "\\text{Given the relation } R = \\{(x, y) : x^2 = y^2\\} \\text{ in the set of integers } \\mathbb{Z}, \\text{ determine if } R \\text{ is an equivalence relation.}",
-    "chapter_name": "Relations and Functions",
-    "subject_name": "Maths",
-    "class_name": 12,
     "chapter_id": "62912441-3c7e-4c6a-be47-5787ecf59924",
     "created_at": 1191105900,
     "updated_at": 1191105900
@@ -92,9 +65,6 @@
   {
     "id": "06eeb827-8b5f-4707-867f-ed277febd53f",
     "body": "\\text{Prove that the relation } R = \\{(x, y) : x \\text{ and } y \\text{ live in the same city}\\} \\text{ is an equivalence relation in a set of people.}",
-    "chapter_name": "Relations and Functions",
-    "subject_name": "Maths",
-    "class_name": 12,
     "chapter_id": "62912441-3c7e-4c6a-be47-5787ecf59924",
     "created_at": 1191105900,
     "updated_at": 1191105900
@@ -102,9 +72,6 @@
   {
     "id": "81ecb89b-00e4-49c1-a1d1-8082c97ee6e0",
     "body": "\\text{If } R = \\{(a, b) : a \\text{ and } b \\text{ belong to the same department in a company}\\}, \\text{ show that } R \\text{ is an equivalence relation.}",
-    "chapter_name": "Relations and Functions",
-    "subject_name": "Maths",
-    "class_name": 12,
     "chapter_id": "62912441-3c7e-4c6a-be47-5787ecf59924",
     "created_at": 1191105900,
     "updated_at": 1191105900
@@ -112,9 +79,6 @@
   {
     "id": "61b29bd7-c145-43ff-883e-b06e974c52d6",
     "body": "\\text{Consider the function } f : \\mathbb{R} \\to \\mathbb{R} \\text{ defined by } f(x) = x^2. \\text{ Prove or disprove that } f \\text{ is injective and/or surjective.}",
-    "chapter_name": "Relations and Functions",
-    "subject_name": "Maths",
-    "class_name": 12,
     "chapter_id": "62912441-3c7e-4c6a-be47-5787ecf59924",
     "created_at": 1191105900,
     "updated_at": 1191105900
@@ -122,9 +86,6 @@
   {
     "id": "ee07609e-8aaa-4859-9a4c-e5f5a39203d2",
     "body": "\\text{For a set } X = \\{1, 2, 3, 4\\}, \\text{ examine if the function } f : X \\to X \\text{ defined by } f(x) = x \\text{ is bijective.}",
-    "chapter_name": "Relations and Functions",
-    "subject_name": "Maths",
-    "class_name": 12,
     "chapter_id": "62912441-3c7e-4c6a-be47-5787ecf59924",
     "created_at": 1191105900,
     "updated_at": 1191105900
@@ -132,9 +93,6 @@
   {
     "id": "0a3cd4a7-a230-45d5-a77e-563821453ace",
     "body": "\\text{Verify that the function } f : \\mathbb{R} \\to \\mathbb{R} \\text{ defined by } f(x) = 2x + 3 \\text{ is bijective.}",
-    "chapter_name": "Relations and Functions",
-    "subject_name": "Maths",
-    "class_name": 12,
     "chapter_id": "62912441-3c7e-4c6a-be47-5787ecf59924",
     "created_at": 1191105900,
     "updated_at": 1191105900
@@ -142,9 +100,6 @@
   {
     "id": "a6c07e3d-eab1-4510-b28c-bd273a63252f",
     "body": "\\text{Show that the function } f : \\mathbb{Z} \\to \\mathbb{Z} \\text{ defined by } f(x) = x + 1 \\text{ is a bijection.}",
-    "chapter_name": "Relations and Functions",
-    "subject_name": "Maths",
-    "class_name": 12,
     "chapter_id": "62912441-3c7e-4c6a-be47-5787ecf59924",
     "created_at": 1191105900,
     "updated_at": 1191105900
@@ -152,9 +107,6 @@
   {
     "id": "007a874f-f194-4aac-97af-582c3ecf03d8",
     "body": "\\text{Let } f : \\mathbb{N} \\to \\mathbb{N} \\text{ be defined by } f(x) = 3x + 1. \\text{ Determine if } f \\text{ is one-one and/or onto.}",
-    "chapter_name": "Relations and Functions",
-    "subject_name": "Maths",
-    "class_name": 12,
     "chapter_id": "62912441-3c7e-4c6a-be47-5787ecf59924",
     "created_at": 1191105900,
     "updated_at": 1191105900
@@ -162,9 +114,6 @@
   {
     "id": "b15c8676-cf52-4984-8a38-88331b57ef97",
     "body": "\\text{Show that the function } f : \\mathbb{N} \\to \\mathbb{N} \\text{ given by } f(x) = x^3 \\text{ is injective.}",
-    "chapter_name": "Relations and Functions",
-    "subject_name": "Maths",
-    "class_name": 12,
     "chapter_id": "62912441-3c7e-4c6a-be47-5787ecf59924",
     "created_at": 1191105900,
     "updated_at": 1191105900
@@ -172,9 +121,6 @@
   {
     "id": "1648f6af-b512-43e9-a4b7-765a900cc97d",
     "body": "\\text{Consider the function } f : \\mathbb{R} \\to \\mathbb{R} \\text{ defined by } f(x) = \\cos(x). \\text{ Is } f \\text{ injective, surjective, or bijective?}",
-    "chapter_name": "Relations and Functions",
-    "subject_name": "Maths",
-    "class_name": 12,
     "chapter_id": "62912441-3c7e-4c6a-be47-5787ecf59924",
     "created_at": 1191105900,
     "updated_at": 1191105900
@@ -182,9 +128,6 @@
   {
     "id": "bb1acb38-d7ef-4132-8d43-cad97a20f938",
     "body": "\\text{If } f : \\mathbb{Z} \\to \\mathbb{Z} \\text{ is given by } f(x) = x^2, \\text{ determine if } f \\text{ is one-one and/or onto.}",
-    "chapter_name": "Relations and Functions",
-    "subject_name": "Maths",
-    "class_name": 12,
     "chapter_id": "62912441-3c7e-4c6a-be47-5787ecf59924",
     "created_at": 1191105900,
     "updated_at": 1191105900
@@ -192,9 +135,6 @@
   {
     "id": "696c405e-8672-490d-8e6f-6ab22aafa53d",
     "body": "\\text{For the function } f : \\mathbb{R} \\to \\mathbb{R} \\text{ defined by } f(x) = |x|, \\text{ is } f \\text{ injective, surjective, or bijective?}",
-    "chapter_name": "Relations and Functions",
-    "subject_name": "Maths",
-    "class_name": 12,
     "chapter_id": "62912441-3c7e-4c6a-be47-5787ecf59924",
     "created_at": 1191105900,
     "updated_at": 1191105900
@@ -202,12 +142,8 @@
   {
     "id": "92761cb9-d790-4103-86aa-40e17dd1172c",
     "body": "\\text{Determine if the function } f : \\mathbb{R} \\to \\mathbb{R} \\text{ defined by } f(x) = x + 5 \\text{ is bijective.}",
-    "chapter_name": "Relations and Functions",
-    "subject_name": "Maths",
-    "class_name": 12,
     "chapter_id": "62912441-3c7e-4c6a-be47-5787ecf59924",
     "created_at": 1191105900,
     "updated_at": 1191105900
   }
 ]
-

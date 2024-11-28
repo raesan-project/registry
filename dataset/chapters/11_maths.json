@@ -2,142 +2,99 @@
   {
     "id": "1995edcb-1fb0-423c-972e-ff157b2332bc",
     "name": "Sets",
-    "display_name": "11 - Maths - Sets",
     "subject_id": "120db385-a984-41c8-b616-145f7b09301c",
-    "subject_name": "Maths",
-    "class_name": 11,
     "created_at": 1191105900,
     "updated_at": 1191105900
   },
   {
     "id": "0bf66f10-9525-433e-8475-4412e43baf24",
     "name": "Relations and Functions",
-    "display_name": "11 - Maths - Relations and Functions",
     "subject_id": "120db385-a984-41c8-b616-145f7b09301c",
-    "subject_name": "Maths",
-    "class_name": 11,
     "created_at": 1191105900,
     "updated_at": 1191105900
   },
   {
     "id": "c9a74c73-1356-44e8-b6ff-e81113f287f2",
     "name": "Trigonometric Functions",
-    "display_name": "11 - Maths - Trigonometric Functions",
     "subject_id": "120db385-a984-41c8-b616-145f7b09301c",
-    "subject_name": "Maths",
-    "class_name": 11,
     "created_at": 1191105900,
     "updated_at": 1191105900
   },
   {
     "id": "905657f8-01d1-4fa6-a8b4-610846852d54",
     "name": "Complex Numbers and Quadratic Equations",
-    "display_name": "11 - Maths - Complex Numbers and Quadratic Equations",
     "subject_id": "120db385-a984-41c8-b616-145f7b09301c",
-    "subject_name": "Maths",
-    "class_name": 11,
     "created_at": 1191105900,
     "updated_at": 1191105900
   },
   {
     "id": "fd293bee-05ed-48f5-aeaa-6f625bdc8479",
     "name": "Linear Inequalities",
-    "display_name": "11 - Maths - Linear Inequalities",
     "subject_id": "120db385-a984-41c8-b616-145f7b09301c",
-    "subject_name": "Maths",
-    "class_name": 11,
     "created_at": 1191105900,
     "updated_at": 1191105900
   },
   {
     "id": "2ed8a1d7-067b-4b78-a053-3b5a0a5cf66e",
     "name": "Permutations and Combinations",
-    "display_name": "11 - Maths - Permutations and Combinations",
     "subject_id": "120db385-a984-41c8-b616-145f7b09301c",
-    "subject_name": "Maths",
-    "class_name": 11,
     "created_at": 1191105900,
     "updated_at": 1191105900
   },
   {
     "id": "779bfcce-95ae-4163-bd07-b941f1dadac0",
     "name": "Binomial Theorem",
-    "display_name": "11 - Maths - Binomial Theorem",
     "subject_id": "120db385-a984-41c8-b616-145f7b09301c",
-    "subject_name": "Maths",
-    "class_name": 11,
     "created_at": 1191105900,
     "updated_at": 1191105900
   },
   {
     "id": "939ffb62-6c2b-47c4-90cf-2842aa7e65f2",
     "name": "Sequence and Series",
-    "display_name": "11 - Maths - Sequence and Series",
     "subject_id": "120db385-a984-41c8-b616-145f7b09301c",
-    "subject_name": "Maths",
-    "class_name": 11,
     "created_at": 1191105900,
     "updated_at": 1191105900
   },
   {
     "id": "38758f69-9c44-4e9e-973e-d6e8e065a1d4",
     "name": "Straight Line",
-    "display_name": "11 - Maths - Straight Line",
     "subject_id": "120db385-a984-41c8-b616-145f7b09301c",
-    "subject_name": "Maths",
-    "class_name": 11,
     "created_at": 1191105900,
     "updated_at": 1191105900
   },
   {
     "id": "86b2b9f9-2f79-4f97-825f-d084ddca4642",
     "name": "Conic Sections",
-    "display_name": "11 - Maths - Conic Sections",
     "subject_id": "120db385-a984-41c8-b616-145f7b09301c",
-    "subject_name": "Maths",
-    "class_name": 11,
     "created_at": 1191105900,
     "updated_at": 1191105900
   },
   {
     "id": "de81983f-550f-4411-bbf0-b2f5fa6f6e97",
     "name": "Introduction to Three-Dimensional Geometry",
-    "display_name": "11 - Maths - Introduction to Three-Dimensional Geometry",
     "subject_id": "120db385-a984-41c8-b616-145f7b09301c",
-    "subject_name": "Maths",
-    "class_name": 11,
     "created_at": 1191105900,
     "updated_at": 1191105900
   },
   {
     "id": "dde03a36-91c3-40f8-85ef-1e470ef88bff",
     "name": "Limits and Derivatives",
-    "display_name": "11 - Maths - Limits and Derivatives",
     "subject_id": "120db385-a984-41c8-b616-145f7b09301c",
-    "subject_name": "Maths",
-    "class_name": 11,
     "created_at": 1191105900,
     "updated_at": 1191105900
   },
   {
     "id": "f59c74c6-8723-40a7-a91b-6160f36a2c84",
     "name": "Statistics",
-    "display_name": "11 - Maths - Statistics",
     "subject_id": "120db385-a984-41c8-b616-145f7b09301c",
-    "subject_name": "Maths",
-    "class_name": 11,
     "created_at": 1191105900,
     "updated_at": 1191105900
   },
   {
     "id": "1328123f-3181-48df-acb5-db62642aa20f",
     "name": "Probability",
-    "display_name": "11 - Maths - Probability",
     "subject_id": "120db385-a984-41c8-b616-145f7b09301c",
-    "subject_name": "Maths",
-    "class_name": 11,
     "created_at": 1191105900,
     "updated_at": 1191105900
   }
 ]
-

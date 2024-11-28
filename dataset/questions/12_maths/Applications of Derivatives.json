@@ -2,9 +2,6 @@
   {
     "id": "f124b863-0a61-4d55-9392-5d8bad51e57d",
     "body": "\\text{Find the rate of change of the area of a circle with respect to its radius } r \\text{ when } r = 6 \\text{ cm.}",
-    "chapter_name": "Applications of Derivatives",
-    "subject_name": "Maths",
-    "class_name": 12,
     "chapter_id": "44d78e7f-34d6-4866-ad66-3b5db523508f",
     "created_at": 1191105900,
     "updated_at": 1191105900
@@ -12,9 +9,6 @@
   {
     "id": "b6259a63-edc8-4693-ba84-a378bc85900f",
     "body": "\\text{The volume of a cube is increasing at the rate of } 9 \\text{ cm}^3/\\text{s. How fast is the surface area increasing when the edge length is } 10 \\text{ cm?}",
-    "chapter_name": "Applications of Derivatives",
-    "subject_name": "Maths",
-    "class_name": 12,
     "chapter_id": "44d78e7f-34d6-4866-ad66-3b5db523508f",
     "created_at": 1191105900,
     "updated_at": 1191105900
@@ -22,9 +16,6 @@
   {
     "id": "9697c906-6d9c-4889-b830-94dde8e94f9b",
     "body": "\\text{The radius of a circle is increasing uniformly at the rate of } 3 \\text{ cm/s. Find the rate at which the area of the circle is increasing when the radius is } 10 \\text{ cm.}",
-    "chapter_name": "Applications of Derivatives",
-    "subject_name": "Maths",
-    "class_name": 12,
     "chapter_id": "44d78e7f-34d6-4866-ad66-3b5db523508f",
     "created_at": 1191105900,
     "updated_at": 1191105900
@@ -32,9 +23,6 @@
   {
     "id": "05987971-848d-40a2-841e-d323f69f09c5",
     "body": "\\text{A stone is dropped into a quiet lake and waves move in circles at a speed of } 5 \\text{ cm/s. At the instant when the radius of the circular wave is } 8 \\text{ cm, how fast is the enclosed area increasing?}",
-    "chapter_name": "Applications of Derivatives",
-    "subject_name": "Maths",
-    "class_name": 12,
     "chapter_id": "44d78e7f-34d6-4866-ad66-3b5db523508f",
     "created_at": 1191105900,
     "updated_at": 1191105900
@@ -42,9 +30,6 @@
   {
     "id": "e80bd1cc-a931-4b5d-ba29-bb7ecde47e39",
     "body": "\\text{Find the maximum area of an isosceles triangle inscribed in the ellipse } \\frac{x^2}{a^2} + \\frac{y^2}{b^2} = 1 \\text{ with its vertex at one end of the major axis.}",
-    "chapter_name": "Applications of Derivatives",
-    "subject_name": "Maths",
-    "class_name": 12,
     "chapter_id": "44d78e7f-34d6-4866-ad66-3b5db523508f",
     "created_at": 1191105900,
     "updated_at": 1191105900
@@ -52,9 +37,6 @@
   {
     "id": "c0d819ba-aa01-42b6-b58f-b4f47b59ca0d",
     "body": "\\text{A window is in the form of a rectangle surmounted by a semicircular opening. The total perimeter of the window is } 10 \\text{ m. Find the dimensions of the window to admit maximum light through the opening.}",
-    "chapter_name": "Applications of Derivatives",
-    "subject_name": "Maths",
-    "class_name": 12,
     "chapter_id": "44d78e7f-34d6-4866-ad66-3b5db523508f",
     "created_at": 1191105900,
     "updated_at": 1191105900
@@ -62,9 +44,6 @@
   {
     "id": "3c96ac72-0843-456e-84e8-d348e21ef4c0",
     "body": "\\text{A ladder 5 m long is leaning against a wall. The bottom of the ladder is pulled along the ground, away from the wall, at the rate of } 2 \\text{ cm/s. How fast is its height on the wall decreasing when the foot of the ladder is 4 m away from the wall?}",
-    "chapter_name": "Applications of Derivatives",
-    "subject_name": "Maths",
-    "class_name": 12,
     "chapter_id": "44d78e7f-34d6-4866-ad66-3b5db523508f",
     "created_at": 1191105900,
     "updated_at": 1191105900
@@ -72,9 +51,6 @@
   {
     "id": "bb7a4473-63cf-43e4-9cc6-bb7b74bc5342",
     "body": "\\text{Prove that the height of the cylinder of maximum volume that can be inscribed in a sphere of radius } R \\text{ is } \\frac{2R}{3}. \\text{ Also, find the maximum volume.}",
-    "chapter_name": "Applications of Derivatives",
-    "subject_name": "Maths",
-    "class_name": 12,
     "chapter_id": "44d78e7f-34d6-4866-ad66-3b5db523508f",
     "created_at": 1191105900,
     "updated_at": 1191105900
@@ -82,9 +58,6 @@
   {
     "id": "3621b5d8-c923-4765-a470-cd843c9d7f2e",
     "body": "\\text{Show that the function given by } f(x) = \\frac{\\ln x}{x} \\text{ has a maximum at } x = e.",
-    "chapter_name": "Applications of Derivatives",
-    "subject_name": "Maths",
-    "class_name": 12,
     "chapter_id": "44d78e7f-34d6-4866-ad66-3b5db523508f",
     "created_at": 1191105900,
     "updated_at": 1191105900
@@ -92,9 +65,6 @@
   {
     "id": "bce413ee-c97b-49c4-aa0c-e3dfdd8073c3",
     "body": "\\text{The radius of an air bubble is increasing at the rate of } \\frac{1}{2} \\text{ cm/s. At what rate is the volume of the bubble increasing when the radius is } 1 \\text{ cm?}",
-    "chapter_name": "Applications of Derivatives",
-    "subject_name": "Maths",
-    "class_name": 12,
     "chapter_id": "44d78e7f-34d6-4866-ad66-3b5db523508f",
     "created_at": 1191105900,
     "updated_at": 1191105900
@@ -102,9 +72,6 @@
   {
     "id": "d720cbcb-bcfa-48ba-9ab4-e2db1e4a270e",
     "body": "\\text{Find the absolute maximum and minimum values of the function } f(x) = \\cos^2 x + \\sin x, \\text{ for } x \\in [0, \\pi].",
-    "chapter_name": "Applications of Derivatives",
-    "subject_name": "Maths",
-    "class_name": 12,
     "chapter_id": "44d78e7f-34d6-4866-ad66-3b5db523508f",
     "created_at": 1191105900,
     "updated_at": 1191105900
@@ -112,9 +79,6 @@
   {
     "id": "789deeea-ebe0-4e12-8fff-2683bfd3d748",
     "body": "\\text{A balloon, which always remains spherical, is being inflated by pumping in 900 cm}^3 \\text{ of gas per second. Find the rate at which the radius of the balloon increases when the radius is } 15 \\text{ cm.}",
-    "chapter_name": "Applications of Derivatives",
-    "subject_name": "Maths",
-    "class_name": 12,
     "chapter_id": "44d78e7f-34d6-4866-ad66-3b5db523508f",
     "created_at": 1191105900,
     "updated_at": 1191105900
@@ -122,9 +86,6 @@
   {
     "id": "8e1d6a97-85ec-4358-a31f-5e6a07f8cf0c",
     "body": "\\text{The sum of the perimeter of a circle and a square is } k, \\text{ where } k \\text{ is a constant. Prove that the sum of their areas is least when the side of the square is double the radius of the circle.}",
-    "chapter_name": "Applications of Derivatives",
-    "subject_name": "Maths",
-    "class_name": 12,
     "chapter_id": "44d78e7f-34d6-4866-ad66-3b5db523508f",
     "created_at": 1191105900,
     "updated_at": 1191105900
@@ -132,9 +93,6 @@
   {
     "id": "eef79614-7b48-4c7c-8523-5d83ebc1850e",
     "body": "\\text{The length of a rectangle is decreasing at the rate of 5 cm/minute, and the width is increasing at the rate of 4 cm/minute. When the length is 8 cm and width is 6 cm, find the rates of change of (a) the perimeter, and (b) the area of the rectangle.}",
-    "chapter_name": "Applications of Derivatives",
-    "subject_name": "Maths",
-    "class_name": 12,
     "chapter_id": "44d78e7f-34d6-4866-ad66-3b5db523508f",
     "created_at": 1191105900,
     "updated_at": 1191105900
@@ -142,9 +100,6 @@
   {
     "id": "541a88f3-0bb8-4558-9240-ed52dc467109",
     "body": "\\text{A point on the hypotenuse of a triangle is at distance } a \\text{ and } b \\text{ from the sides of the triangle. Show that the minimum length of the hypotenuse is } \\frac{\\sqrt{a^2 + b^2}}{\\sqrt{3}}.",
-    "chapter_name": "Applications of Derivatives",
-    "subject_name": "Maths",
-    "class_name": 12,
     "chapter_id": "44d78e7f-34d6-4866-ad66-3b5db523508f",
     "created_at": 1191105900,
     "updated_at": 1191105900
@@ -152,9 +107,6 @@
   {
     "id": "9db76e77-ae16-4d05-999b-4d0183bd52dc",
     "body": "\\text{Let } f(x) = x^3 - 3x + 3. \\text{ Find all points of local maxima and minima.}",
-    "chapter_name": "Applications of Derivatives",
-    "subject_name": "Maths",
-    "class_name": 12,
     "chapter_id": "44d78e7f-34d6-4866-ad66-3b5db523508f",
     "created_at": 1191105900,
     "updated_at": 1191105900
@@ -162,9 +114,6 @@
   {
     "id": "6fe6bb8d-1ccf-42fc-8764-6483a39ccec5",
     "body": "\\text{Find the maximum area of a triangle that can be inscribed in a circle of radius } R.",
-    "chapter_name": "Applications of Derivatives",
-    "subject_name": "Maths",
-    "class_name": 12,
     "chapter_id": "44d78e7f-34d6-4866-ad66-3b5db523508f",
     "created_at": 1191105900,
     "updated_at": 1191105900
@@ -172,9 +121,6 @@
   {
     "id": "b015b163-68b0-4e75-a18d-3c14dd3b6800",
     "body": "\\text{A conical tank has a radius of 3 m and a height of 9 m. Water is being poured into the tank at a rate of 5 m}^3\\text{/min. Find the rate at which the water level is rising when the water is 4 m deep.}",
-    "chapter_name": "Applications of Derivatives",
-    "subject_name": "Maths",
-    "class_name": 12,
     "chapter_id": "44d78e7f-34d6-4866-ad66-3b5db523508f",
     "created_at": 1191105900,
     "updated_at": 1191105900
@@ -182,9 +128,6 @@
   {
     "id": "a0d5d98f-0f07-4660-b52d-4974e51dbcd2",
     "body": "\\text{Let } f(x) = x^4 - 8x^2 + 16. \\text{ Determine the intervals on which the function is increasing and decreasing.}",
-    "chapter_name": "Applications of Derivatives",
-    "subject_name": "Maths",
-    "class_name": 12,
     "chapter_id": "44d78e7f-34d6-4866-ad66-3b5db523508f",
     "created_at": 1191105900,
     "updated_at": 1191105900
@@ -192,9 +135,6 @@
   {
     "id": "d6a89636-88f1-4a08-bb87-90e53d6cb1cc",
     "body": "\\text{Find the maximum and minimum values of } f(x) = x - \\ln x \\text{ for } x > 0.",
-    "chapter_name": "Applications of Derivatives",
-    "subject_name": "Maths",
-    "class_name": 12,
     "chapter_id": "44d78e7f-34d6-4866-ad66-3b5db523508f",
     "created_at": 1191105900,
     "updated_at": 1191105900
@@ -202,9 +142,6 @@
   {
     "id": "a7e110a4-5e4d-4668-865e-c9bc13cf432f",
     "body": "\\text{Prove that the function } f(x) = e^x - x \\text{ is increasing on } \\mathbb{R}.",
-    "chapter_name": "Applications of Derivatives",
-    "subject_name": "Maths",
-    "class_name": 12,
     "chapter_id": "44d78e7f-34d6-4866-ad66-3b5db523508f",
     "created_at": 1191105900,
     "updated_at": 1191105900
@@ -212,9 +149,6 @@
   {
     "id": "a707c3b6-e418-46a6-a7b9-6e933ec486c9",
     "body": "\\text{Show that the function given by } f(x) = x^2 e^{-x} \\text{ is increasing on } (0, \\infty).",
-    "chapter_name": "Applications of Derivatives",
-    "subject_name": "Maths",
-    "class_name": 12,
     "chapter_id": "44d78e7f-34d6-4866-ad66-3b5db523508f",
     "created_at": 1191105900,
     "updated_at": 1191105900
@@ -222,9 +156,6 @@
   {
     "id": "359d98d7-fb9f-4ac0-8396-00653e8d76c7",
     "body": "\\text{Find the point on the curve } y = \\sqrt{x} \\text{ at which the tangent is inclined at } 45^\\circ \\text{ to the } x\\text{-axis.}",
-    "chapter_name": "Applications of Derivatives",
-    "subject_name": "Maths",
-    "class_name": 12,
     "chapter_id": "44d78e7f-34d6-4866-ad66-3b5db523508f",
     "created_at": 1191105900,
     "updated_at": 1191105900
@@ -232,9 +163,6 @@
   {
     "id": "420e137d-626d-4e4a-9f46-3149654be256",
     "body": "\\text{The cost of producing } x \\text{ items is } C(x) = x^2 + 100x + 500. \\text{ Find the production level that minimizes the average cost.}",
-    "chapter_name": "Applications of Derivatives",
-    "subject_name": "Maths",
-    "class_name": 12,
     "chapter_id": "44d78e7f-34d6-4866-ad66-3b5db523508f",
     "created_at": 1191105900,
     "updated_at": 1191105900
@@ -242,9 +170,6 @@
   {
     "id": "2b20002f-75f8-4aa6-b910-14c1b4581ad2",
     "body": "\\text{Prove that the function } f(x) = \\ln x - \\frac{1}{x} \\text{ is increasing for } x > 1.",
-    "chapter_name": "Applications of Derivatives",
-    "subject_name": "Maths",
-    "class_name": 12,
     "chapter_id": "44d78e7f-34d6-4866-ad66-3b5db523508f",
     "created_at": 1191105900,
     "updated_at": 1191105900
@@ -252,9 +177,6 @@
   {
     "id": "0ff95b78-c420-40df-a586-bc5dd2079f64",
     "body": "\\text{Show that the radius of the cylinder of maximum volume that can be inscribed in a cone of height } h \\text{ and base radius } R \\text{ is } \\frac{2R}{3}.",
-    "chapter_name": "Applications of Derivatives",
-    "subject_name": "Maths",
-    "class_name": 12,
     "chapter_id": "44d78e7f-34d6-4866-ad66-3b5db523508f",
     "created_at": 1191105900,
     "updated_at": 1191105900
@@ -262,9 +184,6 @@
   {
     "id": "678538a7-d7f0-4acd-8e5d-faa77c788acd",
     "body": "\\text{If the radius of a circular plate increases at a constant rate of } 0.1 \\text{ cm/s, at what rate is the area increasing when the radius is 5 cm?}",
-    "chapter_name": "Applications of Derivatives",
-    "subject_name": "Maths",
-    "class_name": 12,
     "chapter_id": "44d78e7f-34d6-4866-ad66-3b5db523508f",
     "created_at": 1191105900,
     "updated_at": 1191105900
@@ -272,9 +191,6 @@
   {
     "id": "57e3e19e-eaf6-4b42-80fe-9a4fcd667770",
     "body": "\\text{Find the maximum profit if the cost and revenue functions are } C(x) = 500 + 20x \\text{ and } R(x) = 120x - 0.5x^2, \\text{ respectively.}",
-    "chapter_name": "Applications of Derivatives",
-    "subject_name": "Maths",
-    "class_name": 12,
     "chapter_id": "44d78e7f-34d6-4866-ad66-3b5db523508f",
     "created_at": 1191105900,
     "updated_at": 1191105900
@@ -282,12 +198,8 @@
   {
     "id": "170b155b-fa50-4de2-a89e-ef370d7b446f",
     "body": "\\text{A cylindrical tank with a radius of 10 m is being filled with water at the rate of } 314 \\text{ m}^3\\text{/hour. Find the rate at which the water level is rising.}",
-    "chapter_name": "Applications of Derivatives",
-    "subject_name": "Maths",
-    "class_name": 12,
     "chapter_id": "44d78e7f-34d6-4866-ad66-3b5db523508f",
     "created_at": 1191105900,
     "updated_at": 1191105900
   }
 ]
-
