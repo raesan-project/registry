@@ -1,203 +1,203 @@
 [
   {
     "id": "5bfbecf5-2477-49e8-bfd0-830a6469053f",
-    "body": "\\text{Define a matrix. Give an example of a } 2 \\times 3 \\text{ matrix.}",
+    "body": "Define a matrix. Give an example of a [[2 \\times 3]] matrix.",
     "chapter_id": "cdb6a62d-09a9-4986-b4fe-048c63eff948",
     "created_at": 1191105900,
     "updated_at": 1191105900
   },
   {
     "id": "7ba2ad6b-0d28-4c31-b79a-7eed1c6134f0",
-    "body": "\\text{If } A = \\begin{bmatrix} 1 & 2 \\\\ 3 & 4 \\end{bmatrix} \\text{ and } B = \\begin{bmatrix} 5 & 6 \\\\ 7 & 8 \\end{bmatrix}, \\text{ find } A + B.",
+    "body": "If [[A = \\begin{bmatrix} 1 & 2 \\\\ 3 & 4 \\end{bmatrix}]] and [[B = \\begin{bmatrix} 5 & 6 \\\\ 7 & 8 \\end{bmatrix}]], find [[A + B]].",
     "chapter_id": "cdb6a62d-09a9-4986-b4fe-048c63eff948",
     "created_at": 1191105900,
     "updated_at": 1191105900
   },
   {
     "id": "293b9e7e-4d51-4fce-bb90-6f949fc76b4d",
-    "body": "\\text{Calculate the transpose of the matrix } A = \\begin{bmatrix} 1 & -1 & 2 \\\\ 0 & 3 & 4 \\end{bmatrix}.",
+    "body": "Calculate the transpose of the matrix [[A = \\begin{bmatrix} 1 & -1 & 2 \\\\ 0 & 3 & 4 \\end{bmatrix}]].",
     "chapter_id": "cdb6a62d-09a9-4986-b4fe-048c63eff948",
     "created_at": 1191105900,
     "updated_at": 1191105900
   },
   {
     "id": "7ec74db6-aa5a-4229-a998-426f6735fc81",
-    "body": "\\text{Define a diagonal matrix and give an example of a } 3 \\times 3 \\text{ diagonal matrix.}",
+    "body": "Define a diagonal matrix and give an example of a [[3 \\times 3]] diagonal matrix.",
     "chapter_id": "cdb6a62d-09a9-4986-b4fe-048c63eff948",
     "created_at": 1191105900,
     "updated_at": 1191105900
   },
   {
     "id": "32d0555d-36eb-4517-847f-376c9773db20",
-    "body": "\\text{If } A = \\begin{bmatrix} 1 & 2 \\\\ 3 & 4 \\end{bmatrix} \\text{, find } 2A.",
+    "body": "If [[A = \\begin{bmatrix} 1 & 2 \\\\ 3 & 4 \\end{bmatrix}]], find [[2A]].",
     "chapter_id": "cdb6a62d-09a9-4986-b4fe-048c63eff948",
     "created_at": 1191105900,
     "updated_at": 1191105900
   },
   {
     "id": "5dfeba74-c091-4f3b-8656-28cf51e5fba5",
-    "body": "\\text{If } A = \\begin{bmatrix} 1 & 2 & 3 \\\\ 4 & 5 & 6 \\end{bmatrix} \\text{, find the order of the matrix.}",
+    "body": "If [[A = \\begin{bmatrix} 1 & 2 & 3 \\\\ 4 & 5 & 6 \\end{bmatrix}]], find the order of the matrix.",
     "chapter_id": "cdb6a62d-09a9-4986-b4fe-048c63eff948",
     "created_at": 1191105900,
     "updated_at": 1191105900
   },
   {
     "id": "6f11c91a-3129-4696-a380-b479ee72d7bb",
-    "body": "\\text{Define a symmetric matrix. Give an example of a } 2 \\times 2 \\text{ symmetric matrix.}",
+    "body": "Define a symmetric matrix. Give an example of a [[2 \\times 2]] symmetric matrix.",
     "chapter_id": "cdb6a62d-09a9-4986-b4fe-048c63eff948",
     "created_at": 1191105900,
     "updated_at": 1191105900
   },
   {
     "id": "762012d0-6599-469d-a4f1-86255d47c092",
-    "body": "\\text{If } A = \\begin{bmatrix} 2 & 4 \\\\ 1 & 3 \\end{bmatrix} \\text{ and } B = \\begin{bmatrix} 0 & 5 \\\\ 7 & 8 \\end{bmatrix}, \\text{ find } A - B.",
+    "body": "If [[A = \\begin{bmatrix} 2 & 4 \\\\ 1 & 3 \\end{bmatrix}]] and [[B = \\begin{bmatrix} 0 & 5 \\\\ 7 & 8 \\end{bmatrix}]], find [[A - B]].",
     "chapter_id": "cdb6a62d-09a9-4986-b4fe-048c63eff948",
     "created_at": 1191105900,
     "updated_at": 1191105900
   },
   {
     "id": "99fc31b0-983c-44cb-a1ac-9de6ef638561",
-    "body": "\\text{Define an identity matrix and provide an example of a } 3 \\times 3 \\text{ identity matrix.}",
+    "body": "Define an identity matrix and provide an example of a [[3 \\times 3]] identity matrix.",
     "chapter_id": "cdb6a62d-09a9-4986-b4fe-048c63eff948",
     "created_at": 1191105900,
     "updated_at": 1191105900
   },
   {
     "id": "01cf0c82-ad93-4d98-a6c9-bb7adc3af220",
-    "body": "\\text{Show that the matrix } A = \\begin{bmatrix} 3 & -1 \\\\ 4 & 2 \\end{bmatrix} \\text{ is invertible by finding } A^{-1}.",
+    "body": "Show that the matrix [[A = \\begin{bmatrix} 3 & -1 \\\\ 4 & 2 \\end{bmatrix}]] is invertible by finding [[A^{-1}]].",
     "chapter_id": "cdb6a62d-09a9-4986-b4fe-048c63eff948",
     "created_at": 1191105900,
     "updated_at": 1191105900
   },
   {
     "id": "b9fd8ff3-d1b7-47e0-a370-4b9fb4811ce4",
-    "body": "\\text{For the matrix } A = \\begin{bmatrix} 1 & 0 & 0 \\\\ 0 & 1 & 0 \\\\ 0 & 0 & 1 \\end{bmatrix}, \\text{ determine if } A \\text{ is a scalar matrix.}",
+    "body": "For the matrix [[A = \\begin{bmatrix} 1 & 0 & 0 \\\\ 0 & 1 & 0 \\\\ 0 & 0 & 1 \\end{bmatrix}]], determine if [[A]] is a scalar matrix.",
     "chapter_id": "cdb6a62d-09a9-4986-b4fe-048c63eff948",
     "created_at": 1191105900,
     "updated_at": 1191105900
   },
   {
     "id": "5657f3a9-b5ce-4ff2-8b0a-af24ca4360f9",
-    "body": "\\text{Define a zero matrix. Provide an example of a } 2 \\times 3 \\text{ zero matrix.}",
+    "body": "Define a zero matrix. Provide an example of a [[2 \\times 3]] zero matrix.",
     "chapter_id": "cdb6a62d-09a9-4986-b4fe-048c63eff948",
     "created_at": 1191105900,
     "updated_at": 1191105900
   },
   {
     "id": "47e3fb05-4c47-4e14-b388-59999a4c2268",
-    "body": "\\text{If } A = \\begin{bmatrix} 2 & -1 \\\\ 0 & 3 \\end{bmatrix} \\text{, find } A^2.",
+    "body": "If [[A = \\begin{bmatrix} 2 & -1 \\\\ 0 & 3 \\end{bmatrix}]], find [[A^2]].",
     "chapter_id": "cdb6a62d-09a9-4986-b4fe-048c63eff948",
     "created_at": 1191105900,
     "updated_at": 1191105900
   },
   {
     "id": "0170daa5-2c65-4075-b0d2-636b33a7e971",
-    "body": "\\text{Explain the concept of equality of matrices.}",
+    "body": "Explain the concept of equality of matrices.",
     "chapter_id": "cdb6a62d-09a9-4986-b4fe-048c63eff948",
     "created_at": 1191105900,
     "updated_at": 1191105900
   },
   {
     "id": "0462e7ca-1d35-4cde-990f-1a576759a278",
-    "body": "\\text{Find the trace of the matrix } A = \\begin{bmatrix} 1 & 2 \\\\ 3 & 4 \\end{bmatrix}.",
+    "body": "Find the trace of the matrix [[A = \\begin{bmatrix} 1 & 2 \\\\ 3 & 4 \\end{bmatrix}]].",
     "chapter_id": "cdb6a62d-09a9-4986-b4fe-048c63eff948",
     "created_at": 1191105900,
     "updated_at": 1191105900
   },
   {
     "id": "81f7c328-3df4-41ef-8db3-47f1f2d52625",
-    "body": "\\text{If } A = \\begin{bmatrix} 1 & 2 \\\\ 3 & 4 \\end{bmatrix} \\text{ and } B = \\begin{bmatrix} 5 & 6 \\\\ 7 & 8 \\end{bmatrix}, \\text{ find } AB.",
+    "body": "If [[A = \\begin{bmatrix} 1 & 2 \\\\ 3 & 4 \\end{bmatrix}]] and [[B = \\begin{bmatrix} 5 & 6 \\\\ 7 & 8 \\end{bmatrix}]], find [[AB]].",
     "chapter_id": "cdb6a62d-09a9-4986-b4fe-048c63eff948",
     "created_at": 1191105900,
     "updated_at": 1191105900
   },
   {
     "id": "e756f4ef-2e16-42dc-86db-b1957cc8883b",
-    "body": "\\text{Determine whether the matrix } A = \\begin{bmatrix} 1 & 2 \\\\ 2 & 1 \\end{bmatrix} \\text{ is symmetric.}",
+    "body": "Determine whether the matrix [[A = \\begin{bmatrix} 1 & 2 \\\\ 2 & 1 \\end{bmatrix}]] is symmetric.",
     "chapter_id": "cdb6a62d-09a9-4986-b4fe-048c63eff948",
     "created_at": 1191105900,
     "updated_at": 1191105900
   },
   {
     "id": "2192756b-b8fc-4a4c-9d81-2e34e572f509",
-    "body": "\\text{Define a column matrix. Provide an example of a } 3 \\times 1 \\text{ column matrix.}",
+    "body": "Define a column matrix. Provide an example of a [[3 \\times 1]] column matrix.",
     "chapter_id": "cdb6a62d-09a9-4986-b4fe-048c63eff948",
     "created_at": 1191105900,
     "updated_at": 1191105900
   },
   {
     "id": "6397bcf2-143a-484d-9007-76164f3d08a5",
-    "body": "\\text{If } A = \\begin{bmatrix} 1 & 0 \\\\ 0 & -1 \\end{bmatrix} \\text{, show that } A^T = A.",
+    "body": "If [[A = \\begin{bmatrix} 1 & 0 \\\\ 0 & -1 \\end{bmatrix}]], show that [[A^T = A]].",
     "chapter_id": "cdb6a62d-09a9-4986-b4fe-048c63eff948",
     "created_at": 1191105900,
     "updated_at": 1191105900
   },
   {
     "id": "afc8d675-5e70-465e-bb55-c0672105d909",
-    "body": "\\text{Explain the distributive property of matrix addition.}",
+    "body": "Explain the distributive property of matrix addition.",
     "chapter_id": "cdb6a62d-09a9-4986-b4fe-048c63eff948",
     "created_at": 1191105900,
     "updated_at": 1191105900
   },
   {
     "id": "bf8021fa-5e67-4f31-8e84-6101e1eec2f6",
-    "body": "\\text{If } A = \\begin{bmatrix} 1 & 2 \\\\ 3 & 4 \\end{bmatrix} \\text{ and } B = \\begin{bmatrix} 0 & -1 \\\\ -2 & 0 \\end{bmatrix}, \\text{ verify that } (A + B)^T = A^T + B^T.",
+    "body": "If [[A = \\begin{bmatrix} 1 & 2 \\\\ 3 & 4 \\end{bmatrix}]] and [[B = \\begin{bmatrix} 0 & -1 \\\\ -2 & 0 \\end{bmatrix}]], verify that [[(A + B)^T = A^T + B^T]].",
     "chapter_id": "cdb6a62d-09a9-4986-b4fe-048c63eff948",
     "created_at": 1191105900,
     "updated_at": 1191105900
   },
   {
     "id": "80d56cbd-67d5-4bf4-8b58-92f77a2c7656",
-    "body": "\\text{Find the determinant of the matrix } A = \\begin{bmatrix} 2 & 3 \\\\ 1 & 4 \\end{bmatrix}.",
+    "body": "Find the determinant of the matrix [[A = \\begin{bmatrix} 2 & 3 \\\\ 1 & 4 \\end{bmatrix}]].",
     "chapter_id": "cdb6a62d-09a9-4986-b4fe-048c63eff948",
     "created_at": 1191105900,
     "updated_at": 1191105900
   },
   {
     "id": "5e9baca8-e612-422c-ba53-cb9d41f760db",
-    "body": "\\text{If } A = \\begin{bmatrix} 1 & 2 \\\\ 0 & 1 \\end{bmatrix} \\text{, find } A^{-1}.",
+    "body": "If [[A = \\begin{bmatrix} 1 & 2 \\\\ 0 & 1 \\end{bmatrix}]], find [[A^{-1}]].",
     "chapter_id": "cdb6a62d-09a9-4986-b4fe-048c63eff948",
     "created_at": 1191105900,
     "updated_at": 1191105900
   },
   {
     "id": "4c96f9e7-6cbd-49c7-9389-e9e9cffc4223",
-    "body": "\\text{Define a square matrix and provide an example of a } 2 \\times 2 \\text{ square matrix.}",
+    "body": "Define a square matrix and provide an example of a [[2 \\times 2]] square matrix.",
     "chapter_id": "cdb6a62d-09a9-4986-b4fe-048c63eff948",
     "created_at": 1191105900,
     "updated_at": 1191105900
   },
   {
     "id": "1ef24226-a5b2-46b7-9703-3bc4648e863f",
-    "body": "\\text{If } A = \\begin{bmatrix} 3 & 4 \\\\ 2 & 1 \\end{bmatrix} \\text{ and } B = \\begin{bmatrix} 1 & 0 \\\\ 0 & 1 \\end{bmatrix}, \\text{ find } AB.",
+    "body": "If [[A = \\begin{bmatrix} 3 & 4 \\\\ 2 & 1 \\end{bmatrix}]] and [[B = \\begin{bmatrix} 1 & 0 \\\\ 0 & 1 \\end{bmatrix}]], find [[AB]].",
     "chapter_id": "cdb6a62d-09a9-4986-b4fe-048c63eff948",
     "created_at": 1191105900,
     "updated_at": 1191105900
   },
   {
     "id": "47626df3-3c82-4e72-bf2a-3f62be8f9a42",
-    "body": "\\text{Explain why matrix multiplication is not commutative.}",
+    "body": "Explain why matrix multiplication is not commutative.",
     "chapter_id": "cdb6a62d-09a9-4986-b4fe-048c63eff948",
     "created_at": 1191105900,
     "updated_at": 1191105900
   },
   {
     "id": "63c5687c-4a61-4a72-8b5a-c786351a6de4",
-    "body": "\\text{Determine if the matrix } A = \\begin{bmatrix} 2 & -2 \\\\ -2 & 2 \\end{bmatrix} \\text{ is symmetric or skew-symmetric.}",
+    "body": "Determine if the matrix [[A = \\begin{bmatrix} 2 & -2 \\\\ -2 & 2 \\end{bmatrix}]] is symmetric or skew-symmetric.",
     "chapter_id": "cdb6a62d-09a9-4986-b4fe-048c63eff948",
     "created_at": 1191105900,
     "updated_at": 1191105900
   },
   {
     "id": "723295f9-b421-4a8b-90ce-0cb5a053c94b",
-    "body": "\\text{If } A = \\begin{bmatrix} 1 & 2 \\\\ 3 & 4 \\end{bmatrix} \\text{ and } B = \\begin{bmatrix} 5 & 6 \\\\ 7 & 8 \\end{bmatrix}, \\text{ find } A - B.",
+    "body": "If [[A = \\begin{bmatrix} 1 & 2 \\\\ 3 & 4 \\end{bmatrix}]] and [[B = \\begin{bmatrix} 5 & 6 \\\\ 7 & 8 \\end{bmatrix}]], find [[A - B]].",
     "chapter_id": "cdb6a62d-09a9-4986-b4fe-048c63eff948",
     "created_at": 1191105900,
     "updated_at": 1191105900
   },
   {
     "id": "92044805-92f7-401d-b9e7-7a60c28cece5",
-    "body": "\\text{Find the scalar multiplication } 3 \\times \\begin{bmatrix} 1 & 2 \\\\ 3 & 4 \\end{bmatrix}.",
+    "body": "Find the scalar multiplication [[3 \\times \\begin{bmatrix} 1 & 2 \\\\ 3 & 4 \\end{bmatrix}]].",
     "chapter_id": "cdb6a62d-09a9-4986-b4fe-048c63eff948",
     "created_at": 1191105900,
     "updated_at": 1191105900

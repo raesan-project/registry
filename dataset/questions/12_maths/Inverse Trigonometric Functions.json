@@ -1,210 +1,210 @@
 [
   {
     "id": "10c7d31a-398c-416a-96e0-cdd617ab61ce",
-    "body": "\\text{Find the principal value of } \\sin^{-1} \\left(-\\frac{1}{2}\\right).",
+    "body": "Find the principal value of [[\\sin^{-1} \\left(-\\frac{1}{2}\\right)]].",
     "chapter_id": "5dd0c01b-2487-4b5c-8f48-6bfa1079a49a",
     "created_at": 1191105900,
     "updated_at": 1191105900
   },
   {
     "id": "53c2b489-be1b-462f-900d-2f19a02a0ff4",
-    "body": "\\text{Evaluate } \\cos^{-1} \\left(\\frac{3}{2}\\right).",
+    "body": "Evaluate [[\\cos^{-1} \\left(\\frac{3}{2}\\right)]].",
     "chapter_id": "5dd0c01b-2487-4b5c-8f48-6bfa1079a49a",
     "created_at": 1191105900,
     "updated_at": 1191105900
   },
   {
     "id": "d55fbd68-ab95-485b-8a95-ee00fbffb2f6",
-    "body": "\\text{Determine the value of } \\csc^{-1} (2).",
+    "body": "Determine the value of [[\\csc^{-1} (2)]].",
     "chapter_id": "5dd0c01b-2487-4b5c-8f48-6bfa1079a49a",
     "created_at": 1191105900,
     "updated_at": 1191105900
   },
   {
     "id": "b9c53cd3-733e-4164-b4c3-85a31e1f9e2d",
-    "body": "\\text{Evaluate } \\tan^{-1} (-\\sqrt{3}).",
+    "body": "Evaluate [[\\tan^{-1} (-\\sqrt{3})]].",
     "chapter_id": "5dd0c01b-2487-4b5c-8f48-6bfa1079a49a",
     "created_at": 1191105900,
     "updated_at": 1191105900
   },
   {
     "id": "03db47d4-9bb1-49df-b288-401006e7a8bd",
-    "body": "\\text{Find the principal value of } \\cos^{-1} \\left(-\\frac{1}{2}\\right).",
+    "body": "Find the principal value of [[\\cos^{-1} \\left(-\\frac{1}{2}\\right)]].",
     "chapter_id": "5dd0c01b-2487-4b5c-8f48-6bfa1079a49a",
     "created_at": 1191105900,
     "updated_at": 1191105900
   },
   {
     "id": "f5e4ecdf-9bb6-4d38-ae13-8d6afc515e47",
-    "body": "\\text{Compute } \\tan^{-1} (-1).",
+    "body": "Compute [[\\tan^{-1} (-1)]].",
     "chapter_id": "5dd0c01b-2487-4b5c-8f48-6bfa1079a49a",
     "created_at": 1191105900,
     "updated_at": 1191105900
   },
   {
     "id": "eb15c676-9049-40f3-bf7f-1a31663bd7e7",
-    "body": "\\text{Determine the value of } \\sec^{-1} \\left(\\frac{2}{3}\\right).",
+    "body": "Determine the value of [[\\sec^{-1} \\left(\\frac{2}{3}\\right)]].",
     "chapter_id": "5dd0c01b-2487-4b5c-8f48-6bfa1079a49a",
     "created_at": 1191105900,
     "updated_at": 1191105900
   },
   {
     "id": "c83d8cdc-d23c-4586-a7af-7e9c6cd84750",
-    "body": "\\text{Evaluate } \\cot^{-1} \\sqrt{3}.",
+    "body": "Evaluate [[\\cot^{-1} \\sqrt{3}]].",
     "chapter_id": "5dd0c01b-2487-4b5c-8f48-6bfa1079a49a",
     "created_at": 1191105900,
     "updated_at": 1191105900
   },
   {
     "id": "9a6f9731-75d6-490b-961a-fb6158ef3ea3",
-    "body": "\\text{Find the principal value of } \\cos^{-1} \\left(-\\frac{\\sqrt{3}}{2}\\right).",
+    "body": "Find the principal value of [[\\cos^{-1} \\left(-\\frac{\\sqrt{3}}{2}\\right)]].",
     "chapter_id": "5dd0c01b-2487-4b5c-8f48-6bfa1079a49a",
     "created_at": 1191105900,
     "updated_at": 1191105900
   },
   {
     "id": "289531b7-b7d0-43c8-92a4-d173862f7e04",
-    "body": "\\text{Determine the principal value of } \\csc^{-1} \\left(-2\\right).",
+    "body": "Determine the principal value of [[\\csc^{-1} \\left(-2\\right)]].",
     "chapter_id": "5dd0c01b-2487-4b5c-8f48-6bfa1079a49a",
     "created_at": 1191105900,
     "updated_at": 1191105900
   },
   {
     "id": "d995afd2-fa1b-4e71-a224-830479f7bae5",
-    "body": "\\text{Evaluate } \\tan^{-1}(1) + \\cos^{-1} \\left(-\\frac{1}{2}\\right) + \\sin^{-1} \\left(-\\frac{1}{2}\\right).",
+    "body": "Evaluate [[\\tan^{-1}(1)]] + [[\\cos^{-1} \\left(-\\frac{1}{2}\\right)]] + [[\\sin^{-1} \\left(-\\frac{1}{2}\\right)]].",
     "chapter_id": "5dd0c01b-2487-4b5c-8f48-6bfa1079a49a",
     "created_at": 1191105900,
     "updated_at": 1191105900
   },
   {
     "id": "9e727feb-6590-4fa5-97d3-98d8d67d5d15",
-    "body": "\\text{Compute } \\cos^{-1}\\left(\\frac{1}{2}\\right) + 2\\sin^{-1} \\left(\\frac{1}{2}\\right).",
+    "body": "Compute [[\\cos^{-1}\\left(\\frac{1}{2}\\right)]] + 2[[\\sin^{-1} \\left(\\frac{1}{2}\\right)]].",
     "chapter_id": "5dd0c01b-2487-4b5c-8f48-6bfa1079a49a",
     "created_at": 1191105900,
     "updated_at": 1191105900
   },
   {
     "id": "324425e1-6dd5-4a62-be6a-c22c5e58a277",
-    "body": "\\text{If } \\sin^{-1} x = y, \\text{ then determine } y \\text{ for } x \\in [0, 1].",
+    "body": "If [[\\sin^{-1} x = y]], then determine [[y]] for [[x \\in [0, 1]]].",
     "chapter_id": "5dd0c01b-2487-4b5c-8f48-6bfa1079a49a",
     "created_at": 1191105900,
     "updated_at": 1191105900
   },
   {
     "id": "6be2358a-39b3-4202-84f4-747bcf866e95",
-    "body": "\\text{Simplify } \\tan^{-1}\\left(\\sqrt{3}\\right) - \\cos^{-1} \\left(\\frac{2}{3}\\right).",
+    "body": "Simplify [[\\tan^{-1}\\left(\\sqrt{3}\\right)]] - [[\\cos^{-1} \\left(\\frac{2}{3}\\right)]].",
     "chapter_id": "5dd0c01b-2487-4b5c-8f48-6bfa1079a49a",
     "created_at": 1191105900,
     "updated_at": 1191105900
   },
   {
     "id": "42fc4e8f-de33-4241-9e19-a933f4cb9a0a",
-    "body": "\\text{Evaluate } \\sin^{-1} \\left(-\\frac{1}{2}\\right).",
+    "body": "Evaluate [[\\sin^{-1} \\left(-\\frac{1}{2}\\right)]].",
     "chapter_id": "5dd0c01b-2487-4b5c-8f48-6bfa1079a49a",
     "created_at": 1191105900,
     "updated_at": 1191105900
   },
   {
     "id": "e24b9b03-79aa-413e-8ade-9f921e749086",
-    "body": "\\text{Prove that } \\cos^{-1}(x) = \\frac{\\pi}{2} - \\sin^{-1}(x) \\text{ for } x \\in [0,1].",
+    "body": "Prove that [[\\cos^{-1}(x) = \\frac{\\pi}{2} - \\sin^{-1}(x)]] for [[x \\in [0,1]]].",
     "chapter_id": "5dd0c01b-2487-4b5c-8f48-6bfa1079a49a",
     "created_at": 1191105900,
     "updated_at": 1191105900
   },
   {
     "id": "a38a3e1a-e54e-4c33-84b2-21f15340111e",
-    "body": "\\text{Simplify } \\sin^{-1} (2x \\sqrt{1 - x^2}) \\text{ for } x \\in \\left[-\\frac{1}{2}, \\frac{1}{2}\\right].",
+    "body": "Simplify [[\\sin^{-1} (2x \\sqrt{1 - x^2})]] for [[x \\in \\left[-\\frac{1}{2}, \\frac{1}{2}\\right]]].",
     "chapter_id": "5dd0c01b-2487-4b5c-8f48-6bfa1079a49a",
     "created_at": 1191105900,
     "updated_at": 1191105900
   },
   {
     "id": "acf06af9-7595-46b5-a7ef-450e3e1cdc21",
-    "body": "\\text{Prove that } \\tan^{-1}(x) + \\tan^{-1}(y) = \\tan^{-1} \\left(\\frac{x + y}{1 - xy}\\right) \\text{ if } xy < 1.",
+    "body": "Prove that [[\\tan^{-1}(x) + \\tan^{-1}(y) = \\tan^{-1} \\left(\\frac{x + y}{1 - xy}\\right)]] if [[xy < 1]].",
     "chapter_id": "5dd0c01b-2487-4b5c-8f48-6bfa1079a49a",
     "created_at": 1191105900,
     "updated_at": 1191105900
   },
   {
     "id": "8e0afc46-26fb-4e1e-a569-95fc4bd72d7a",
-    "body": "\\text{Show that } \\sin^{-1} \\left(2x \\sqrt{1 - x^2}\\right) = 2\\sin^{-1} x, \\text{ for } x \\in \\left[-\\frac{1}{2}, \\frac{1}{2}\\right].",
+    "body": "Show that [[\\sin^{-1} \\left(2x \\sqrt{1 - x^2}\\right) = 2\\sin^{-1} x]], for [[x \\in \\left[-\\frac{1}{2}, \\frac{1}{2}\\right]]].",
     "chapter_id": "5dd0c01b-2487-4b5c-8f48-6bfa1079a49a",
     "created_at": 1191105900,
     "updated_at": 1191105900
   },
   {
     "id": "4e27482f-21e7-42af-a375-1461edfd8132",
-    "body": "\\text{Find } \\sin \\left(\\cos^{-1} \\frac{3}{5}\\right).",
+    "body": "Find [[\\sin \\left(\\cos^{-1} \\frac{3}{5}\\right)]].",
     "chapter_id": "5dd0c01b-2487-4b5c-8f48-6bfa1079a49a",
     "created_at": 1191105900,
     "updated_at": 1191105900
   },
   {
     "id": "c099bcd2-567a-4953-95c4-50abfb31d9c1",
-    "body": "\\text{Prove that } 3\\sin^{-1}(x) = \\sin^{-1}(3x - 4x^3), \\text{ for } x \\in \\left[-\\frac{1}{2}, \\frac{1}{2}\\right].",
+    "body": "Prove that [[3\\sin^{-1}(x) = \\sin^{-1}(3x - 4x^3)]], for [[x \\in \\left[-\\frac{1}{2}, \\frac{1}{2}\\right]]].",
     "chapter_id": "5dd0c01b-2487-4b5c-8f48-6bfa1079a49a",
     "created_at": 1191105900,
     "updated_at": 1191105900
   },
   {
     "id": "e0674358-b41e-42d3-b7df-01c045bbed8b",
-    "body": "\\text{Simplify } \\cos \\left(\\tan^{-1} x + \\tan^{-1} y\\right).",
+    "body": "Simplify [[\\cos \\left(\\tan^{-1} x + \\tan^{-1} y\\right)]].",
     "chapter_id": "5dd0c01b-2487-4b5c-8f48-6bfa1079a49a",
     "created_at": 1191105900,
     "updated_at": 1191105900
   },
   {
     "id": "c5166e35-3830-42ec-a897-b1be3667da08",
-    "body": "\\text{Evaluate } \\sin^{-1} \\left(\\frac{2x \\sqrt{1 - x^2}}{1 - x^2}\\right), \\text{ for } |x| < 1.",
+    "body": "Evaluate [[\\sin^{-1} \\left(\\frac{2x \\sqrt{1 - x^2}}{1 - x^2}\\right)]], for [[|x| < 1]].",
     "chapter_id": "5dd0c01b-2487-4b5c-8f48-6bfa1079a49a",
     "created_at": 1191105900,
     "updated_at": 1191105900
   },
   {
     "id": "cb67f5c6-15d9-45ff-b8af-033dfcd7c717",
-    "body": "\\text{Prove that } \\cos^{-1} x + \\cos^{-1}(-x) = \\pi, \\text{ for } x \\in [-1, 1].",
+    "body": "Prove that [[\\cos^{-1} x + \\cos^{-1}(-x) = \\pi]], for [[x \\in [-1, 1]]].",
     "chapter_id": "5dd0c01b-2487-4b5c-8f48-6bfa1079a49a",
     "created_at": 1191105900,
     "updated_at": 1191105900
   },
   {
     "id": "51d7c9df-d09d-465e-8bbb-d02e2960d21e",
-    "body": "\\text{Show that } \\sec^{-1}(x) + \\csc^{-1}(x) = \\frac{\\pi}{2}, \\text{ for } x > 1.",
+    "body": "Show that [[\\sec^{-1}(x) + \\csc^{-1}(x) = \\frac{\\pi}{2}]], for [[x > 1]].",
     "chapter_id": "5dd0c01b-2487-4b5c-8f48-6bfa1079a49a",
     "created_at": 1191105900,
     "updated_at": 1191105900
   },
   {
     "id": "23d5a1f3-bc70-4b02-909f-4111baf5ecd1",
-    "body": "\\text{Evaluate } \\cot^{-1} \\left(\\frac{3}{4}\\right) + \\tan^{-1} \\left(\\frac{4}{3}\\right).",
+    "body": "Evaluate [[\\cot^{-1} \\left(\\frac{3}{4}\\right)]] + [[\\tan^{-1} \\left(\\frac{4}{3}\\right)]].",
     "chapter_id": "5dd0c01b-2487-4b5c-8f48-6bfa1079a49a",
     "created_at": 1191105900,
     "updated_at": 1191105900
   },
   {
     "id": "72be236c-b244-439a-bae0-69b790e877e0",
-    "body": "\\text{Find the principal value of } \\sin^{-1} \\left(\\sin \\frac{5\\pi}{6}\\right).",
+    "body": "Find the principal value of [[\\sin^{-1} \\left(\\sin \\frac{5\\pi}{6}\\right)]].",
     "chapter_id": "5dd0c01b-2487-4b5c-8f48-6bfa1079a49a",
     "created_at": 1191105900,
     "updated_at": 1191105900
   },
   {
     "id": "6f83c78b-9b2b-47ad-bf7c-536896722df2",
-    "body": "\\text{Evaluate } \\cos^{-1}(\\sin \\theta) + \\sin^{-1}(\\cos \\theta) \\text{ for } \\theta = \\frac{\\pi}{4}.",
+    "body": "Evaluate [[\\cos^{-1}(\\sin \\theta)]] + [[\\sin^{-1}(\\cos \\theta)]], for [[\\theta = \\frac{\\pi}{4}]].",
     "chapter_id": "5dd0c01b-2487-4b5c-8f48-6bfa1079a49a",
     "created_at": 1191105900,
     "updated_at": 1191105900
   },
   {
     "id": "20946bad-fc7f-439b-b1e2-f2ec2c977219",
-    "body": "\\text{Prove that } \\cot^{-1}(x) + \\tan^{-1}(x) = \\frac{\\pi}{2}, \\text{ for } x > 0.",
+    "body": "Prove that [[\\cot^{-1}(x) + \\tan^{-1}(x) = \\frac{\\pi}{2}]], for [[x > 0]].",
     "chapter_id": "5dd0c01b-2487-4b5c-8f48-6bfa1079a49a",
     "created_at": 1191105900,
     "updated_at": 1191105900
   },
   {
     "id": "9f00a99b-f88a-4635-b0f0-36d48663f041",
-    "body": "\\text{Evaluate } \\tan^{-1}\\left(\\frac{1}{\\sqrt{3}}\\right) + \\tan^{-1}\\left(\\frac{1}{2}\\right).",
+    "body": "Evaluate [[\\tan^{-1}\\left(\\frac{1}{\\sqrt{3}}\\right)]] + [[\\tan^{-1}\\left(\\frac{1}{2}\\right)]].",
     "chapter_id": "5dd0c01b-2487-4b5c-8f48-6bfa1079a49a",
     "created_at": 1191105900,
     "updated_at": 1191105900

@@ -1,210 +1,210 @@
 [
   {
     "id": "218460d7-bf39-4531-af22-60c598c8a5ec",
-    "body": "\\text{Evaluate } \\int \\frac{x^2}{(x+1)^3} \\, dx.",
+    "body": "Evaluate [[\\int \\frac{x^2}{(x+1)^3} \\, dx]].",
     "chapter_id": "e98e4963-bf66-4824-a46e-9c316a8c27a9",
     "created_at": 1191105900,
     "updated_at": 1191105900
   },
   {
     "id": "cc59067a-05e6-40a9-954e-267d150ae6d5",
-    "body": "\\text{Find the integral of } \\sin^2 x \\cos^3 x \\text{ with respect to } x.",
+    "body": "Find the integral of [[\\sin^2 x \\cos^3 x]] with respect to [[x]].",
     "chapter_id": "e98e4963-bf66-4824-a46e-9c316a8c27a9",
     "created_at": 1191105900,
     "updated_at": 1191105900
   },
   {
     "id": "7c53079b-4ce1-4a4d-bf14-11e438779dd3",
-    "body": "\\text{Evaluate } \\int \\frac{x}{\\sqrt{1 - x^2}} \\, dx.",
+    "body": "Evaluate [[\\int \\frac{x}{\\sqrt{1 - x^2}} \\, dx]].",
     "chapter_id": "e98e4963-bf66-4824-a46e-9c316a8c27a9",
     "created_at": 1191105900,
     "updated_at": 1191105900
   },
   {
     "id": "49883e38-be0e-4a6c-9022-51e915cf76ed",
-    "body": "\\text{Find the integral of } \\tan x \\sec^2 x \\text{ with respect to } x.",
+    "body": "Find the integral of [[\\tan x \\sec^2 x]] with respect to [[x]].",
     "chapter_id": "e98e4963-bf66-4824-a46e-9c316a8c27a9",
     "created_at": 1191105900,
     "updated_at": 1191105900
   },
   {
     "id": "fd4d9c03-da8b-444b-b700-b0f21fe520f7",
-    "body": "\\text{Evaluate the definite integral } \\int_{0}^{\\pi/4} \\frac{1}{1 + \\tan^2 x} \\, dx.",
+    "body": "Evaluate the definite integral [[\\int_{0}^{\\pi/4} \\frac{1}{1 + \\tan^2 x} \\, dx]].",
     "chapter_id": "e98e4963-bf66-4824-a46e-9c316a8c27a9",
     "created_at": 1191105900,
     "updated_at": 1191105900
   },
   {
     "id": "aeb6b1f7-92f3-4e37-9c86-06c1e7495e4f",
-    "body": "\\text{Compute } \\int \\frac{e^x}{1 + e^{2x}} \\, dx.",
+    "body": "Compute [[\\int \\frac{e^x}{1 + e^{2x}} \\, dx]].",
     "chapter_id": "e98e4963-bf66-4824-a46e-9c316a8c27a9",
     "created_at": 1191105900,
     "updated_at": 1191105900
   },
   {
     "id": "0a7ed9ed-c465-4d74-9454-7879d0eea931",
-    "body": "\\text{Find } \\int x \\sin x \\, dx \\text{ using integration by parts.}",
+    "body": "Find [[\\int x \\sin x \\, dx]] using integration by parts.",
     "chapter_id": "e98e4963-bf66-4824-a46e-9c316a8c27a9",
     "created_at": 1191105900,
     "updated_at": 1191105900
   },
   {
     "id": "a8e7895c-8af3-41af-b056-9d9829f15b07",
-    "body": "\\text{Evaluate } \\int \\frac{1}{x^2 \\sqrt{1 - x^2}} \\, dx.",
+    "body": "Evaluate [[\\int \\frac{1}{x^2 \\sqrt{1 - x^2}} \\, dx]].",
     "chapter_id": "e98e4963-bf66-4824-a46e-9c316a8c27a9",
     "created_at": 1191105900,
     "updated_at": 1191105900
   },
   {
     "id": "fda429d9-dd79-4732-b73e-02a78a6f8479",
-    "body": "\\text{Compute the definite integral } \\int_{0}^{1} x^2 e^{x^3} \\, dx.",
+    "body": "Compute the definite integral [[\\int_{0}^{1} x^2 e^{x^3} \\, dx]].",
     "chapter_id": "e98e4963-bf66-4824-a46e-9c316a8c27a9",
     "created_at": 1191105900,
     "updated_at": 1191105900
   },
   {
     "id": "54fecac5-6a39-451f-bef2-0528d5ab8bb6",
-    "body": "\\text{Find the value of } \\int \\frac{\\ln x}{x} \\, dx.",
+    "body": "Find the value of [[\\int \\frac{\\ln x}{x} \\, dx]].",
     "chapter_id": "e98e4963-bf66-4824-a46e-9c316a8c27a9",
     "created_at": 1191105900,
     "updated_at": 1191105900
   },
   {
     "id": "7348f49e-553a-49b2-862a-05ed92048edc",
-    "body": "\\text{Calculate } \\int \\sin(\\ln x) \\, dx \\text{ using substitution.}",
+    "body": "Calculate [[\\int \\sin(\\ln x) \\, dx]] using substitution.",
     "chapter_id": "e98e4963-bf66-4824-a46e-9c316a8c27a9",
     "created_at": 1191105900,
     "updated_at": 1191105900
   },
   {
     "id": "b7e6ac83-1be4-43b7-a244-d1642887961c",
-    "body": "\\text{Evaluate } \\int \\frac{x}{(1 + x^2)^{3/2}} \\, dx.",
+    "body": "Evaluate [[\\int \\frac{x}{(1 + x^2)^{3/2}} \\, dx]].",
     "chapter_id": "e98e4963-bf66-4824-a46e-9c316a8c27a9",
     "created_at": 1191105900,
     "updated_at": 1191105900
   },
   {
     "id": "60b58c4e-0254-4667-83db-4a2fa1dd5b79",
-    "body": "\\text{Determine } \\int x^3 \\cos x \\, dx \\text{ using integration by parts.}",
+    "body": "Determine [[\\int x^3 \\cos x \\, dx]] using integration by parts.",
     "chapter_id": "e98e4963-bf66-4824-a46e-9c316a8c27a9",
     "created_at": 1191105900,
     "updated_at": 1191105900
   },
   {
     "id": "35272343-f4e0-43db-a1bd-bc828be27095",
-    "body": "\\text{Find } \\int \\sqrt{1 + x^2} \\, dx \\text{ by substitution.}",
+    "body": "Find [[\\int \\sqrt{1 + x^2} \\, dx]] by substitution.",
     "chapter_id": "e98e4963-bf66-4824-a46e-9c316a8c27a9",
     "created_at": 1191105900,
     "updated_at": 1191105900
   },
   {
     "id": "beb2d889-034c-479b-9521-98723ed2b949",
-    "body": "\\text{Evaluate the definite integral } \\int_{0}^{1} \\frac{1}{1 + x^4} \\, dx.",
+    "body": "Evaluate the definite integral [[\\int_{0}^{1} \\frac{1}{1 + x^4} \\, dx]].",
     "chapter_id": "e98e4963-bf66-4824-a46e-9c316a8c27a9",
     "created_at": 1191105900,
     "updated_at": 1191105900
   },
   {
     "id": "426a9888-c9e3-4c03-8f6e-47e9de11d935",
-    "body": "\\text{Compute } \\int \\cos^2 x \\, dx \\text{ using trigonometric identities.}",
+    "body": "Compute [[\\int \\cos^2 x \\, dx]] using trigonometric identities.",
     "chapter_id": "e98e4963-bf66-4824-a46e-9c316a8c27a9",
     "created_at": 1191105900,
     "updated_at": 1191105900
   },
   {
     "id": "4536c762-3c1a-4933-bdbb-5bd5f7bb1e38",
-    "body": "\\text{Find the value of } \\int e^{2x} \\sin 3x \\, dx.",
+    "body": "Find the value of [[\\int e^{2x} \\sin 3x \\, dx]].",
     "chapter_id": "e98e4963-bf66-4824-a46e-9c316a8c27a9",
     "created_at": 1191105900,
     "updated_at": 1191105900
   },
   {
     "id": "89bcaec9-c2a6-4627-99c7-61bfcf280cb4",
-    "body": "\\text{Calculate } \\int \\frac{1}{x \\ln x} \\, dx \\text{ for } x > 1.",
+    "body": "Calculate [[\\int \\frac{1}{x \\ln x} \\, dx]] for [[x > 1]].",
     "chapter_id": "e98e4963-bf66-4824-a46e-9c316a8c27a9",
     "created_at": 1191105900,
     "updated_at": 1191105900
   },
   {
     "id": "101496e8-80a5-43c9-a73e-23c04e0b1f29",
-    "body": "\\text{Evaluate } \\int x e^{-x^2} \\, dx \\text{ by substitution.}",
+    "body": "Evaluate [[\\int x e^{-x^2} \\, dx]] by substitution.",
     "chapter_id": "e98e4963-bf66-4824-a46e-9c316a8c27a9",
     "created_at": 1191105900,
     "updated_at": 1191105900
   },
   {
     "id": "60b86503-3f62-4a35-b6be-52d1ee3ea413",
-    "body": "\\text{Compute } \\int \\sin^3 x \\, dx \\text{ using trigonometric identities.}",
+    "body": "Compute [[\\int \\sin^3 x \\, dx]] using trigonometric identities.",
     "chapter_id": "e98e4963-bf66-4824-a46e-9c316a8c27a9",
     "created_at": 1191105900,
     "updated_at": 1191105900
   },
   {
     "id": "9483ee0e-6d37-4fab-b18f-c615736e6abf",
-    "body": "\\text{Determine the value of } \\int \\frac{1}{(x+1)^2} \\, dx.",
+    "body": "Determine the value of [[\\int \\frac{1}{(x+1)^2} \\, dx]].",
     "chapter_id": "e98e4963-bf66-4824-a46e-9c316a8c27a9",
     "created_at": 1191105900,
     "updated_at": 1191105900
   },
   {
     "id": "2996d036-58ed-4495-aaff-955b4f499075",
-    "body": "\\text{Evaluate the definite integral } \\int_{-1}^{1} x^2 e^x \\, dx.",
+    "body": "Evaluate the definite integral [[\\int_{-1}^{1} x^2 e^x \\, dx]].",
     "chapter_id": "e98e4963-bf66-4824-a46e-9c316a8c27a9",
     "created_at": 1191105900,
     "updated_at": 1191105900
   },
   {
     "id": "28cf7e7a-60e0-4a35-b46d-5c0cbbd1975b",
-    "body": "\\text{Find } \\int x \\ln x \\, dx \\text{ using integration by parts.}",
+    "body": "Find [[\\int x \\ln x \\, dx]] using integration by parts.",
     "chapter_id": "e98e4963-bf66-4824-a46e-9c316a8c27a9",
     "created_at": 1191105900,
     "updated_at": 1191105900
   },
   {
     "id": "6557c7f9-4a9a-443c-9883-3d7a674f511b",
-    "body": "\\text{Calculate } \\int \\frac{\\cos x}{1 + \\sin^2 x} \\, dx.",
+    "body": "Calculate [[\\int \\frac{\\cos x}{1 + \\sin^2 x} \\, dx]].",
     "chapter_id": "e98e4963-bf66-4824-a46e-9c316a8c27a9",
     "created_at": 1191105900,
     "updated_at": 1191105900
   },
   {
     "id": "cde9b73a-efe4-46a8-8eb4-6b384bb57fec",
-    "body": "\\text{Evaluate } \\int \\frac{x^2}{(1 + x^2)^2} \\, dx.",
+    "body": "Evaluate [[\\int \\frac{x^2}{(1 + x^2)^2} \\, dx]].",
     "chapter_id": "e98e4963-bf66-4824-a46e-9c316a8c27a9",
     "created_at": 1191105900,
     "updated_at": 1191105900
   },
   {
     "id": "0dbb9cb2-3f2e-47ed-96c7-607b99664d5f",
-    "body": "\\text{Compute } \\int \\sec^2 x \\tan x \\, dx.",
+    "body": "Compute [[\\int \\sec^2 x \\tan x \\, dx]].",
     "chapter_id": "e98e4963-bf66-4824-a46e-9c316a8c27a9",
     "created_at": 1191105900,
     "updated_at": 1191105900
   },
   {
     "id": "58d5039b-0091-4046-a633-6bbcd079a3e6",
-    "body": "\\text{Find the integral of } x e^x \\sin x \\text{ with respect to } x.",
+    "body": "Find the integral of [[x e^x \\sin x]] with respect to [[x]].",
     "chapter_id": "e98e4963-bf66-4824-a46e-9c316a8c27a9",
     "created_at": 1191105900,
     "updated_at": 1191105900
   },
   {
     "id": "5cb5d41a-fa50-4520-bea9-589c7b1ca145",
-    "body": "\\text{Calculate } \\int \\sqrt{x^2 + 4x + 4} \\, dx.",
+    "body": "Calculate [[\\int \\sqrt{x^2 + 4x + 4} \\, dx]].",
     "chapter_id": "e98e4963-bf66-4824-a46e-9c316a8c27a9",
     "created_at": 1191105900,
     "updated_at": 1191105900
   },
   {
     "id": "abf13cdf-fa29-4ca2-9922-f68185434224",
-    "body": "\\text{Evaluate } \\int_{0}^{1} \\ln(1 + x) \\, dx.",
+    "body": "Evaluate [[\\int_{0}^{1} \\ln(1 + x) \\, dx]].",
     "chapter_id": "e98e4963-bf66-4824-a46e-9c316a8c27a9",
     "created_at": 1191105900,
     "updated_at": 1191105900
   },
   {
     "id": "ccdf0221-4de3-4950-a4ad-1e4e73b1edf1",
-    "body": "\\text{Compute } \\int \\frac{x^2 + 2x + 1}{x + 1} \\, dx.",
+    "body": "Compute [[\\int \\frac{x^2 + 2x + 1}{x + 1} \\, dx]].",
     "chapter_id": "e98e4963-bf66-4824-a46e-9c316a8c27a9",
     "created_at": 1191105900,
     "updated_at": 1191105900
