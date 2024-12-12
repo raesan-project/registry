@@ -29,7 +29,7 @@
   },
   {
     "id": "e80bd1cc-a931-4b5d-ba29-bb7ecde47e39",
-    "body": "Find the maximum area of an isosceles triangle inscribed in the ellipse [[\\frac{x^2}{a^2} + \\frac{y^2}{b^2} = 1]] with its vertex at one end of the major axis.",
+    "body": "Find the maximum area of an isosceles triangle inscribed in the ellipse $$\\frac{x^2}{a^2} + \\frac{y^2}{b^2} = 1$$ with its vertex at one end of the major axis.",
     "chapter_id": "44d78e7f-34d6-4866-ad66-3b5db523508f",
     "created_at": 1191105900,
     "updated_at": 1191105900
@@ -50,14 +50,14 @@
   },
   {
     "id": "bb7a4473-63cf-43e4-9cc6-bb7b74bc5342",
-    "body": "Prove that the height of the cylinder of maximum volume that can be inscribed in a sphere of radius R is [[\\frac{2R}{3]]]. Also, find the maximum volume.",
+    "body": "Prove that the height of the cylinder of maximum volume that can be inscribed in a sphere of radius R is $$\\frac{2R}{3}$$. Also, find the maximum volume.",
     "chapter_id": "44d78e7f-34d6-4866-ad66-3b5db523508f",
     "created_at": 1191105900,
     "updated_at": 1191105900
   },
   {
     "id": "3621b5d8-c923-4765-a470-cd843c9d7f2e",
-    "body": "Show that the function given by [[f(x) = \\frac{\\ln x}{x}]] has a maximum at [[x = e]].",
+    "body": "Show that the function given by $$f(x) = \\frac{\\ln x}{x}$$ has a maximum at $$x = e$$.",
     "chapter_id": "44d78e7f-34d6-4866-ad66-3b5db523508f",
     "created_at": 1191105900,
     "updated_at": 1191105900
@@ -71,7 +71,7 @@
   },
   {
     "id": "d720cbcb-bcfa-48ba-9ab4-e2db1e4a270e",
-    "body": "Find the absolute maximum and minimum values of the function [[f(x) = \\cos^2 x + \\sin x]], for [[x \\in [0, \\pi]]].",
+    "body": "Find the absolute maximum and minimum values of the function $$f(x) = \\cos^2 x + \\sin x$$, for $$x \\in [0, \\pi]$$.",
     "chapter_id": "44d78e7f-34d6-4866-ad66-3b5db523508f",
     "created_at": 1191105900,
     "updated_at": 1191105900
@@ -99,14 +99,14 @@
   },
   {
     "id": "541a88f3-0bb8-4558-9240-ed52dc467109",
-    "body": "A point on the hypotenuse of a triangle is at distance a and b from the sides of the triangle. Show that the minimum length of the hypotenuse is [[\\frac{\\sqrt{a^2 + b^2}}{\\sqrt{3}}]].",
+    "body": "A point on the hypotenuse of a triangle is at distance a and b from the sides of the triangle. Show that the minimum length of the hypotenuse is $$\\frac{\\sqrt{a^2 + b^2}}{\\sqrt{3}}$$.",
     "chapter_id": "44d78e7f-34d6-4866-ad66-3b5db523508f",
     "created_at": 1191105900,
     "updated_at": 1191105900
   },
   {
     "id": "9db76e77-ae16-4d05-999b-4d0183bd52dc",
-    "body": "Let [[f(x) = x^3 - 3x + 3]]. Find all points of local maxima and minima.",
+    "body": "Let $$f(x) = x^3 - 3x + 3$$. Find all points of local maxima and minima.",
     "chapter_id": "44d78e7f-34d6-4866-ad66-3b5db523508f",
     "created_at": 1191105900,
     "updated_at": 1191105900
@@ -127,56 +127,56 @@
   },
   {
     "id": "a0d5d98f-0f07-4660-b52d-4974e51dbcd2",
-    "body": "Let [[f(x) = x^4 - 8x^2 + 16]]. Determine the intervals on which the function is increasing and decreasing.",
+    "body": "Let $$f(x) = x^4 - 8x^2 + 16$$. Determine the intervals on which the function is increasing and decreasing.",
     "chapter_id": "44d78e7f-34d6-4866-ad66-3b5db523508f",
     "created_at": 1191105900,
     "updated_at": 1191105900
   },
   {
     "id": "d6a89636-88f1-4a08-bb87-90e53d6cb1cc",
-    "body": "Find the maximum and minimum values of [[f(x) = x - \\ln x]] for [[x > 0]].",
+    "body": "Find the maximum and minimum values of $$f(x) = x - \\ln x$$ for $$x > 0$$.",
     "chapter_id": "44d78e7f-34d6-4866-ad66-3b5db523508f",
     "created_at": 1191105900,
     "updated_at": 1191105900
   },
   {
     "id": "a7e110a4-5e4d-4668-865e-c9bc13cf432f",
-    "body": "Prove that the function [[f(x) = e^x - x]] is increasing on [[\\mathbb{R}]].",
+    "body": "Prove that the function $$f(x) = e^x - x$$ is increasing on $$\\mathbb{R}$$.",
     "chapter_id": "44d78e7f-34d6-4866-ad66-3b5db523508f",
     "created_at": 1191105900,
     "updated_at": 1191105900
   },
   {
     "id": "a707c3b6-e418-46a6-a7b9-6e933ec486c9",
-    "body": "Show that the function given by [[f(x) = x^2 e^{-x}]] is increasing on [[((0, \\infty)]].",
+    "body": "Show that the function given by $$f(x) = x^2 e^{-x}$$ is increasing on $$((0, \\infty)$$.",
     "chapter_id": "44d78e7f-34d6-4866-ad66-3b5db523508f",
     "created_at": 1191105900,
     "updated_at": 1191105900
   },
   {
     "id": "359d98d7-fb9f-4ac0-8396-00653e8d76c7",
-    "body": "Find the point on the curve [[y = \\sqrt{x}]] at which the tangent is inclined at 45° to the x-axis.",
+    "body": "Find the point on the curve $$y = \\sqrt{x}$$ at which the tangent is inclined at 45° to the x-axis.",
     "chapter_id": "44d78e7f-34d6-4866-ad66-3b5db523508f",
     "created_at": 1191105900,
     "updated_at": 1191105900
   },
   {
     "id": "420e137d-626d-4e4a-9f46-3149654be256",
-    "body": "The cost of producing x items is [[C(x) = x^2 + 100x + 500]]. Find the production level that minimizes the average cost.",
+    "body": "The cost of producing x items is $$C(x) = x^2 + 100x + 500$$. Find the production level that minimizes the average cost.",
     "chapter_id": "44d78e7f-34d6-4866-ad66-3b5db523508f",
     "created_at": 1191105900,
     "updated_at": 1191105900
   },
   {
     "id": "2b20002f-75f8-4aa6-b910-14c1b4581ad2",
-    "body": "Prove that the function [[f(x) = \\ln x - \\frac{1}{x}]] is increasing for [[x > 1]].",
+    "body": "Prove that the function $$f(x) = \\ln x - \\frac{1}{x}$$ is increasing for $$x > 1$$.",
     "chapter_id": "44d78e7f-34d6-4866-ad66-3b5db523508f",
     "created_at": 1191105900,
     "updated_at": 1191105900
   },
   {
     "id": "0ff95b78-c420-40df-a586-bc5dd2079f64",
-    "body": "Show that the radius of the cylinder of maximum volume that can be inscribed in a cone of height h and base radius R is [[\\frac{2R}{3}]].",
+    "body": "Show that the radius of the cylinder of maximum volume that can be inscribed in a cone of height h and base radius R is $$\\frac{2R}{3}$$.",
     "chapter_id": "44d78e7f-34d6-4866-ad66-3b5db523508f",
     "created_at": 1191105900,
     "updated_at": 1191105900
@@ -190,7 +190,7 @@
   },
   {
     "id": "57e3e19e-eaf6-4b42-80fe-9a4fcd667770",
-    "body": "Find the maximum profit if the cost and revenue functions are [[C(x) = 500 + 20x]] and [[R(x) = 120x - 0.5x^2]], respectively.",
+    "body": "Find the maximum profit if the cost and revenue functions are $$C(x) = 500 + 20x$$ and $$R(x) = 120x - 0.5x^2$$, respectively.",
     "chapter_id": "44d78e7f-34d6-4866-ad66-3b5db523508f",
     "created_at": 1191105900,
     "updated_at": 1191105900

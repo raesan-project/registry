@@ -1,28 +1,28 @@
 [
   {
     "id": "17c5fbcd-c388-4523-9b12-4df683fee300",
-    "body": "Show that the function [[f(x) = |x|]] is continuous at [[x = 0]] but not differentiable at [[x = 0]].",
+    "body": "Show that the function $$f(x) = |x|$$ is continuous at $$x = 0$$ but not differentiable at $$x = 0$$.",
     "chapter_id": "09b86806-2662-4bfb-a051-c62fd4d7a1b8",
     "created_at": 1191105900,
     "updated_at": 1191105900
   },
   {
     "id": "e90b4fc1-8c34-4b58-b178-e1b14ce79629",
-    "body": "If [[f(x) = x^3 + 3x^2 + 6x + 2]], show that [[f(x)]] is continuous for all [[x \\in \\mathbb{R}]] but differentiable at [[x = -1]].",
+    "body": "If $$f(x) = x^3 + 3x^2 + 6x + 2$$, show that $$f(x)$$ is continuous for all $$x \\in \\mathbb{R}$$ but differentiable at $$x = -1$$.",
     "chapter_id": "09b86806-2662-4bfb-a051-c62fd4d7a1b8",
     "created_at": 1191105900,
     "updated_at": 1191105900
   },
   {
     "id": "7d625a6d-00ce-4d83-acf2-68d295b86f08",
-    "body": "Determine the derivative of the composite function [[f(g(x))]], where [[f(x) = \\sin(x)]] and [[g(x) = x^2 + 2x]].",
+    "body": "Determine the derivative of the composite function $$f(g(x))$$, where $$f(x) = \\sin(x)$$ and $$g(x) = x^2 + 2x$$.",
     "chapter_id": "09b86806-2662-4bfb-a051-c62fd4d7a1b8",
     "created_at": 1191105900,
     "updated_at": 1191105900
   },
   {
     "id": "ffad4059-f7de-4287-b3d4-62ec9e34e493",
-    "body": "Using logarithmic differentiation, find [[\\frac{dy}{dx}]] for [[y = x^x]].",
+    "body": "Using logarithmic differentiation, find $$\\frac{dy}{dx}$$ for $$y = x^x$$.",
     "chapter_id": "09b86806-2662-4bfb-a051-c62fd4d7a1b8",
     "created_at": 1191105900,
     "updated_at": 1191105900
@@ -36,168 +36,168 @@
   },
   {
     "id": "b86940c2-0bcc-48c6-9a5a-786b39535d70",
-    "body": "Find all points of discontinuity of the greatest integer function [[f(x) = \\lfloor x \\rfloor]] on [[\\mathbb{R}]].",
+    "body": "Find all points of discontinuity of the greatest integer function $$f(x) = \\lfloor x \\rfloor$$ on $$\\mathbb{R}$$.",
     "chapter_id": "09b86806-2662-4bfb-a051-c62fd4d7a1b8",
     "created_at": 1191105900,
     "updated_at": 1191105900
   },
   {
     "id": "bf01597b-a966-43c7-8809-07146ae41af9",
-    "body": "If [[f(x) = x^2 \\sin \\left( \\frac{1}{x} \\right)]] for [[x \\neq 0]] and [[f(0) = 0]], determine if [[f(x)]] is continuous at [[x = 0]].",
+    "body": "If $$f(x) = x^2 \\sin \\left( \\frac{1}{x} \\right)$$ for $$x \\neq 0$$ and $$f(0) = 0$$, determine if $$f(x)$$ is continuous at $$x = 0$$.",
     "chapter_id": "09b86806-2662-4bfb-a051-c62fd4d7a1b8",
     "created_at": 1191105900,
     "updated_at": 1191105900
   },
   {
     "id": "ad1f1653-0fe3-4c2a-8ed1-fac6d5812a5f",
-    "body": "Prove that [[f(x) = \\cos(x^2)]] is continuous for all real [[x]].",
+    "body": "Prove that $$f(x) = \\cos(x^2)$$ is continuous for all real $$x$$.",
     "chapter_id": "09b86806-2662-4bfb-a051-c62fd4d7a1b8",
     "created_at": 1191105900,
     "updated_at": 1191105900
   },
   {
     "id": "71bdaf18-b6a3-4ab6-bdf8-89efd53e67ea",
-    "body": "Examine the continuity of the function [[f(x) = \\frac{|x|}{x}]] at [[x = 0]].",
+    "body": "Examine the continuity of the function $$f(x) = \\frac{|x|}{x}$$ at $$x = 0$$.",
     "chapter_id": "09b86806-2662-4bfb-a051-c62fd4d7a1b8",
     "created_at": 1191105900,
     "updated_at": 1191105900
   },
   {
     "id": "e65e9cd8-2ac6-46c0-bf3c-a3ac01c86f8a",
-    "body": "Using the chain rule, differentiate [[f(x) = \\sin(3x^2 + 2x)]].",
+    "body": "Using the chain rule, differentiate $$f(x) = \\sin(3x^2 + 2x)$$.",
     "chapter_id": "09b86806-2662-4bfb-a051-c62fd4d7a1b8",
     "created_at": 1191105900,
     "updated_at": 1191105900
   },
   {
     "id": "7f03883d-e4f3-45e7-8c08-9c83d16c3a68",
-    "body": "Find the derivative of the function [[y = \\ln(\\cos(x) + x)]].",
+    "body": "Find the derivative of the function $$y = \\ln(\\cos(x) + x)$$.",
     "chapter_id": "09b86806-2662-4bfb-a051-c62fd4d7a1b8",
     "created_at": 1191105900,
     "updated_at": 1191105900
   },
   {
     "id": "3f2b761d-6da2-4777-8208-fb60480651d9",
-    "body": "Differentiate [[y = \\arcsin(x) + \\arccos(x)]].",
+    "body": "Differentiate $$y = \\arcsin(x) + \\arccos(x)$$.",
     "chapter_id": "09b86806-2662-4bfb-a051-c62fd4d7a1b8",
     "created_at": 1191105900,
     "updated_at": 1191105900
   },
   {
     "id": "a2cf37bc-d60c-4dd1-81ad-b5fb329cc836",
-    "body": "Evaluate [[\\frac{d}{dx} \\left( \\frac{\\sin(x)}{x} \\right)]] using L'Hôpital's Rule at [[x = 0]].",
+    "body": "Evaluate $$\\frac{d}{dx} \\left( \\frac{\\sin(x)}{x} \\right)$$ using L'Hôpital's Rule at $$x = 0$$.",
     "chapter_id": "09b86806-2662-4bfb-a051-c62fd4d7a1b8",
     "created_at": 1191105900,
     "updated_at": 1191105900
   },
   {
     "id": "8dee2dea-34a5-482e-94ff-c9160dc812ba",
-    "body": "Show that [[f(x) = e^{x} \\cos(x)]] is continuous for all [[x \\in \\mathbb{R}]].",
+    "body": "Show that $$f(x) = e^{x} \\cos(x)$$ is continuous for all $$x \\in \\mathbb{R}$$.",
     "chapter_id": "09b86806-2662-4bfb-a051-c62fd4d7a1b8",
     "created_at": 1191105900,
     "updated_at": 1191105900
   },
   {
     "id": "6a5bcff4-a3b8-4350-ba76-c311efdf1d76",
-    "body": "Find [[\\frac{dy}{dx}]] if [[y = \\sin^{-1} \\left( \\frac{x}{\\sqrt{1 + x^2}} \\right)]].",
+    "body": "Find $$\\frac{dy}{dx}$$ if $$y = \\sin^{-1} \\left( \\frac{x}{\\sqrt{1 + x^2}} \\right)$$.",
     "chapter_id": "09b86806-2662-4bfb-a051-c62fd4d7a1b8",
     "created_at": 1191105900,
     "updated_at": 1191105900
   },
   {
     "id": "82055dad-89f8-4531-9199-7d93662f3dd0",
-    "body": "Show that the function [[f(x) = x^2 \\cos \\left( \\frac{1}{x} \\right)]] is continuous at [[x = 0]].",
+    "body": "Show that the function $$f(x) = x^2 \\cos \\left( \\frac{1}{x} \\right)$$ is continuous at $$x = 0$$.",
     "chapter_id": "09b86806-2662-4bfb-a051-c62fd4d7a1b8",
     "created_at": 1191105900,
     "updated_at": 1191105900
   },
   {
     "id": "f34fe4be-df42-443e-989c-a053b3b9d85d",
-    "body": "If [[f(x) = e^{x^2}]], prove that [[f(x)]] is differentiable for all real [[x]].",
+    "body": "If $$f(x) = e^{x^2}$$, prove that $$f(x)$$ is differentiable for all real $$x$$.",
     "chapter_id": "09b86806-2662-4bfb-a051-c62fd4d7a1b8",
     "created_at": 1191105900,
     "updated_at": 1191105900
   },
   {
     "id": "6eed187e-2c45-49da-b929-8aafec4ac830",
-    "body": "Evaluate the limit [[\\lim_{x \\to 0} \\frac{\\sin(x) - x}{x^3}]].",
+    "body": "Evaluate the limit $$\\lim_{x \\to 0} \\frac{\\sin(x) - x}{x^3}$$.",
     "chapter_id": "09b86806-2662-4bfb-a051-c62fd4d7a1b8",
     "created_at": 1191105900,
     "updated_at": 1191105900
   },
   {
     "id": "6bfd6f5b-ff37-489c-8d3c-f519438472ae",
-    "body": "Differentiate [[y = \\frac{e^{3x}}{\\sqrt{x}}]] with respect to [[x]].",
+    "body": "Differentiate $$y = \\frac{e^{3x}}{\\sqrt{x}}$$ with respect to $$x$$.",
     "chapter_id": "09b86806-2662-4bfb-a051-c62fd4d7a1b8",
     "created_at": 1191105900,
     "updated_at": 1191105900
   },
   {
     "id": "e2914fce-a4a4-447a-a19f-03fb9a004ecd",
-    "body": "If [[f(x) = |x + 2|]], determine the points at which [[f(x)]] is not differentiable.",
+    "body": "If $$f(x) = |x + 2|$$, determine the points at which $$f(x)$$ is not differentiable.",
     "chapter_id": "09b86806-2662-4bfb-a051-c62fd4d7a1b8",
     "created_at": 1191105900,
     "updated_at": 1191105900
   },
   {
     "id": "d7034897-dedf-4173-88bd-1ebb9bebf7c3",
-    "body": "Find the derivative of [[y = x^{x^2}]].",
+    "body": "Find the derivative of $$y = x^{x^2}$$.",
     "chapter_id": "09b86806-2662-4bfb-a051-c62fd4d7a1b8",
     "created_at": 1191105900,
     "updated_at": 1191105900
   },
   {
     "id": "041aca98-6136-4932-9947-f019e6a6a1f9",
-    "body": "If [[f(x) = \\sin(x)]] for [[x \\neq 0]] and [[f(0) = 0]], determine if [[f(x)]] is continuous at [[x = 0]].",
+    "body": "If $$f(x) = \\sin(x)$$ for $$x \\neq 0$$ and $$f(0) = 0$$, determine if $$f(x)$$ is continuous at $$x = 0$$.",
     "chapter_id": "09b86806-2662-4bfb-a051-c62fd4d7a1b8",
     "created_at": 1191105900,
     "updated_at": 1191105900
   },
   {
     "id": "929c31b6-e637-44e6-ae10-5ea765144e6f",
-    "body": "Determine if [[f(x) = x^x]] is continuous at [[x = 0]].",
+    "body": "Determine if $$f(x) = x^x$$ is continuous at $$x = 0$$.",
     "chapter_id": "09b86806-2662-4bfb-a051-c62fd4d7a1b8",
     "created_at": 1191105900,
     "updated_at": 1191105900
   },
   {
     "id": "19599e90-7359-44f0-be59-910e6a947785",
-    "body": "Use L'Hôpital's Rule to evaluate [[\\lim_{x \\to 0} \\frac{e^{2x} - 1}{x}]].",
+    "body": "Use L'Hôpital's Rule to evaluate $$\\lim_{x \\to 0} \\frac{e^{2x} - 1}{x}$$.",
     "chapter_id": "09b86806-2662-4bfb-a051-c62fd4d7a1b8",
     "created_at": 1191105900,
     "updated_at": 1191105900
   },
   {
     "id": "6f3a79e5-d3c6-4d63-8a3b-8c3a66c0c694",
-    "body": "If [[y = \\cos^{-1} \\left( \\frac{2x}{1 + x^2} \\right)]], find [[\\frac{dy}{dx}]].",
+    "body": "If $$y = \\cos^{-1} \\left( \\frac{2x}{1 + x^2} \\right)$$, find $$\\frac{dy}{dx}$$.",
     "chapter_id": "09b86806-2662-4bfb-a051-c62fd4d7a1b8",
     "created_at": 1191105900,
     "updated_at": 1191105900
   },
   {
     "id": "9c2341d7-f133-44de-9aa6-7eeb4a75a27c",
-    "body": "Find the second derivative of [[y = \\tan^{-1}(x)]].",
+    "body": "Find the second derivative of $$y = \\tan^{-1}(x)$$.",
     "chapter_id": "09b86806-2662-4bfb-a051-c62fd4d7a1b8",
     "created_at": 1191105900,
     "updated_at": 1191105900
   },
   {
     "id": "9237dbb9-1367-4d00-a95f-b06e904cf256",
-    "body": "If [[f(x) = x^2 e^x]], prove that [[f(x)]] is continuous and differentiable for all [[x \\in \\mathbb{R}]].",
+    "body": "If $$f(x) = x^2 e^x$$, prove that $$f(x)$$ is continuous and differentiable for all $$x \\in \\mathbb{R}$$.",
     "chapter_id": "09b86806-2662-4bfb-a051-c62fd4d7a1b8",
     "created_at": 1191105900,
     "updated_at": 1191105900
   },
   {
     "id": "170edb6e-d978-4c99-8d23-065ec33e5fa8",
-    "body": "Show that [[f(x) = x \\sin \\left( \\frac{1}{x} \\right)]] is continuous at [[x = 0]].",
+    "body": "Show that $$f(x) = x \\sin \\left( \\frac{1}{x} \\right)$$ is continuous at $$x = 0$$.",
     "chapter_id": "09b86806-2662-4bfb-a051-c62fd4d7a1b8",
     "created_at": 1191105900,
     "updated_at": 1191105900
   },
   {
     "id": "da5c4660-dac3-4dd5-ac0f-7a4826e4c7fe",
-    "body": "Differentiate the function [[f(x) = \\ln(x^2 + x + 1)]] using chain rule.",
+    "body": "Differentiate the function $$f(x) = \\ln(x^2 + x + 1)$$ using chain rule.",
     "chapter_id": "09b86806-2662-4bfb-a051-c62fd4d7a1b8",
     "created_at": 1191105900,
     "updated_at": 1191105900

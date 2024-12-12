@@ -8,7 +8,7 @@
   },
   {
     "id": "eb4c97e9-b4f6-491c-a17e-ddfceb518ea5",
-    "body": "Calculate the determinant of the matrix [[A = \\begin{bmatrix} 2 & 4 \\\\ -1 & 3 \\end{bmatrix}]].",
+    "body": "Calculate the determinant of the matrix $$A = \\begin{bmatrix} 2 & 4 \\\\ -1 & 3 \\end{bmatrix}$$.",
     "chapter_id": "4c87251d-eb14-42a5-9961-89e6d50e261d",
     "created_at": 1191105900,
     "updated_at": 1191105900
@@ -22,14 +22,14 @@
   },
   {
     "id": "1f139189-9984-4502-bfaf-0b9f7794c8e4",
-    "body": "Evaluate [[\\begin{vmatrix} 3 & -1 & 4 \\\\ 2 & 0 & 5 \\\\ 1 & 3 & 6 \\end{vmatrix}]].",
+    "body": "Evaluate $$\\begin{vmatrix} 3 & -1 & 4 \\\\ 2 & 0 & 5 \\\\ 1 & 3 & 6 \\end{vmatrix}$$.",
     "chapter_id": "4c87251d-eb14-42a5-9961-89e6d50e261d",
     "created_at": 1191105900,
     "updated_at": 1191105900
   },
   {
     "id": "e7f501e8-b6e4-40fa-b194-f86385f35008",
-    "body": "If [[A = \\begin{bmatrix} 1 & 2 & 3 \\\\ 4 & 5 & 6 \\\\ 7 & 8 & 9 \\end{bmatrix}]], find the value of [[|A|]].",
+    "body": "If $$A = \\begin{bmatrix} 1 & 2 & 3 \\\\ 4 & 5 & 6 \\\\ 7 & 8 & 9 \\end{bmatrix}$$, find the value of $$|A|$$.",
     "chapter_id": "4c87251d-eb14-42a5-9961-89e6d50e261d",
     "created_at": 1191105900,
     "updated_at": 1191105900
@@ -43,28 +43,28 @@
   },
   {
     "id": "e1aed54e-2b74-4286-b197-4947fbb68e04",
-    "body": "Calculate the determinant of [[A = \\begin{bmatrix} 2 & 3 & 1 \\\\ 0 & 1 & 4 \\\\ 5 & 2 & 0 \\end{bmatrix}]].",
+    "body": "Calculate the determinant of $$A = \\begin{bmatrix} 2 & 3 & 1 \\\\ 0 & 1 & 4 \\\\ 5 & 2 & 0 \\end{bmatrix}$$.",
     "chapter_id": "4c87251d-eb14-42a5-9961-89e6d50e261d",
     "created_at": 1191105900,
     "updated_at": 1191105900
   },
   {
     "id": "2b5b2002-8973-44ef-a663-65f2b58aee07",
-    "body": "Find the area of the triangle with vertices at [[(1, 2), (3, 5), (4, -1)]].",
+    "body": "Find the area of the triangle with vertices at $$(1, 2), (3, 5), (4, -1)$$.",
     "chapter_id": "4c87251d-eb14-42a5-9961-89e6d50e261d",
     "created_at": 1191105900,
     "updated_at": 1191105900
   },
   {
     "id": "b93c175e-c10d-436f-8f90-c5816ca000db",
-    "body": "Evaluate the determinant [[\\begin{vmatrix} 0 & \\sin \\theta & -\\cos \\theta \\\\ -\\sin \\theta & 0 & \\cos \\theta \\\\ \\cos \\theta & -\\sin \\theta & 0 \\end{vmatrix}]].",
+    "body": "Evaluate the determinant $$\\begin{vmatrix} 0 & \\sin \\theta & -\\cos \\theta \\\\ -\\sin \\theta & 0 & \\cos \\theta \\\\ \\cos \\theta & -\\sin \\theta & 0 \\end{vmatrix}$$.",
     "chapter_id": "4c87251d-eb14-42a5-9961-89e6d50e261d",
     "created_at": 1191105900,
     "updated_at": 1191105900
   },
   {
     "id": "50aad50b-df12-42e2-90e4-655b76a976a7",
-    "body": "If [[|A| = 5]], find the value of [[|3A|]] for a 3x3 matrix [[A]].",
+    "body": "If $$|A| = 5$$, find the value of $$|3A|$$ for a 3x3 matrix $$A$$.",
     "chapter_id": "4c87251d-eb14-42a5-9961-89e6d50e261d",
     "created_at": 1191105900,
     "updated_at": 1191105900
@@ -78,56 +78,56 @@
   },
   {
     "id": "06a2e1c8-c5ab-42b7-acd5-41f6d24c39a1",
-    "body": "Evaluate [[\\begin{vmatrix} 1 & 0 & -2 \\\\ -1 & 3 & 4 \\\\ 2 & -3 & 1 \\end{vmatrix}]].",
+    "body": "Evaluate $$\\begin{vmatrix} 1 & 0 & -2 \\\\ -1 & 3 & 4 \\\\ 2 & -3 & 1 \\end{vmatrix}$$.",
     "chapter_id": "4c87251d-eb14-42a5-9961-89e6d50e261d",
     "created_at": 1191105900,
     "updated_at": 1191105900
   },
   {
     "id": "d3d2ae35-5300-4827-b7cf-23e297634f07",
-    "body": "Find the values of [[x]] for which the system [[\\begin{cases} 2x + y = 5 \\\\ x - 3y = -2 \\end{cases}]] has no unique solution.",
+    "body": "Find the values of $$x$$ for which the system $$\\begin{cases} 2x + y = 5 \\\\ x - 3y = -2 \\end{cases}$$ has no unique solution.",
     "chapter_id": "4c87251d-eb14-42a5-9961-89e6d50e261d",
     "created_at": 1191105900,
     "updated_at": 1191105900
   },
   {
     "id": "3dffde16-2883-4ee2-b6a8-0c9e2e1bf011",
-    "body": "If the determinant of a matrix [[A]] is zero, what does this imply about [[A]]?",
+    "body": "If the determinant of a matrix $$A$$ is zero, what does this imply about $$A$$?",
     "chapter_id": "4c87251d-eb14-42a5-9961-89e6d50e261d",
     "created_at": 1191105900,
     "updated_at": 1191105900
   },
   {
     "id": "7ded8612-49cd-4f86-b863-12c6195659e9",
-    "body": "Find the minors and cofactors of each element in [[\\begin{bmatrix} 4 & 3 \\\\ 2 & 1 \\end{bmatrix}]].",
+    "body": "Find the minors and cofactors of each element in $$\\begin{bmatrix} 4 & 3 \\\\ 2 & 1 \\end{bmatrix}$$.",
     "chapter_id": "4c87251d-eb14-42a5-9961-89e6d50e261d",
     "created_at": 1191105900,
     "updated_at": 1191105900
   },
   {
     "id": "9ee2d04b-a4b7-4173-b22d-eecf5500a9e7",
-    "body": "Verify that [[\\begin{vmatrix} 2 & -3 \\\\ 4 & -6 \\end{vmatrix} = 0]] and interpret the result.",
+    "body": "Verify that $$\\begin{vmatrix} 2 & -3 \\\\ 4 & -6 \\end{vmatrix} = 0$$ and interpret the result.",
     "chapter_id": "4c87251d-eb14-42a5-9961-89e6d50e261d",
     "created_at": 1191105900,
     "updated_at": 1191105900
   },
   {
     "id": "bcf87fbb-9bd7-4a3a-ac1c-dfa8e1515055",
-    "body": "Show that the points [[(1, 2), (3, 4), (5, 6)]] are collinear using determinants.",
+    "body": "Show that the points $$(1, 2), (3, 4), (5, 6)$$ are collinear using determinants.",
     "chapter_id": "4c87251d-eb14-42a5-9961-89e6d50e261d",
     "created_at": 1191105900,
     "updated_at": 1191105900
   },
   {
     "id": "ec3c0863-63cd-4e54-855a-0a2afc8767e0",
-    "body": "Find the inverse of [[A = \\begin{bmatrix} 1 & 2 \\\\ 3 & 4 \\end{bmatrix}]] using determinants.",
+    "body": "Find the inverse of $$A = \\begin{bmatrix} 1 & 2 \\\\ 3 & 4 \\end{bmatrix}$$ using determinants.",
     "chapter_id": "4c87251d-eb14-42a5-9961-89e6d50e261d",
     "created_at": 1191105900,
     "updated_at": 1191105900
   },
   {
     "id": "8d4b04c8-6c45-4147-9ab1-981d77d2315c",
-    "body": "Compute [[\\begin{vmatrix} x & 1 \\\\ 2 & 3 \\end{vmatrix}]] and solve for [[x]] if the determinant is [[5]].",
+    "body": "Compute $$\\begin{vmatrix} x & 1 \\\\ 2 & 3 \\end{vmatrix}$$ and solve for $$x$$ if the determinant is $$5$$.",
     "chapter_id": "4c87251d-eb14-42a5-9961-89e6d50e261d",
     "created_at": 1191105900,
     "updated_at": 1191105900
@@ -141,70 +141,70 @@
   },
   {
     "id": "84c24f2a-cafc-4083-a31f-f2dd5ac66db1",
-    "body": "Evaluate [[\\begin{vmatrix} 3 & 2 & 1 \\\\ 0 & -1 & 4 \\\\ 2 & 3 & 5 \\end{vmatrix}]].",
+    "body": "Evaluate $$\\begin{vmatrix} 3 & 2 & 1 \\\\ 0 & -1 & 4 \\\\ 2 & 3 & 5 \\end{vmatrix}$$.",
     "chapter_id": "4c87251d-eb14-42a5-9961-89e6d50e261d",
     "created_at": 1191105900,
     "updated_at": 1191105900
   },
   {
     "id": "9b0c169f-dd3b-430b-90d0-a29ae06f5a6a",
-    "body": "If [[A = \\begin{bmatrix} 1 & 2 & 3 \\\\ 4 & 5 & 6 \\\\ 7 & 8 & 9 \\end{bmatrix}]], show that [[|A| = 0]].",
+    "body": "If $$A = \\begin{bmatrix} 1 & 2 & 3 \\\\ 4 & 5 & 6 \\\\ 7 & 8 & 9 \\end{bmatrix}$$, show that $$|A| = 0$$.",
     "chapter_id": "4c87251d-eb14-42a5-9961-89e6d50e261d",
     "created_at": 1191105900,
     "updated_at": 1191105900
   },
   {
     "id": "965259b3-ba94-45e2-919d-70fcaeb9abf0",
-    "body": "Prove that [[\\begin{vmatrix} \\cos \\theta & \\sin \\theta \\\\ -\\sin \\theta & \\cos \\theta \\end{vmatrix} = 1]].",
+    "body": "Prove that $$\\begin{vmatrix} \\cos \\theta & \\sin \\theta \\\\ -\\sin \\theta & \\cos \\theta \\end{vmatrix} = 1$$.",
     "chapter_id": "4c87251d-eb14-42a5-9961-89e6d50e261d",
     "created_at": 1191105900,
     "updated_at": 1191105900
   },
   {
     "id": "a9f11d2b-39a4-4efd-b416-51d099ee647a",
-    "body": "If [[|A| = 7]], find [[|A^{-1}|]].",
+    "body": "If $$|A| = 7$$, find $$|A^{-1}|$$.",
     "chapter_id": "4c87251d-eb14-42a5-9961-89e6d50e261d",
     "created_at": 1191105900,
     "updated_at": 1191105900
   },
   {
     "id": "f69dbd36-4f09-4b38-84fd-78e11aead258",
-    "body": "Use determinants to show that the points [[(3, 0), (7, 2), (9, 6)]] are collinear.",
+    "body": "Use determinants to show that the points $$(3, 0), (7, 2), (9, 6)$$ are collinear.",
     "chapter_id": "4c87251d-eb14-42a5-9961-89e6d50e261d",
     "created_at": 1191105900,
     "updated_at": 1191105900
   },
   {
     "id": "fdfcbe9a-3d4d-4af2-9e97-0a58466d05da",
-    "body": "Evaluate [[\\begin{vmatrix} \\sin x & \\cos x \\\\ \\cos x & -\\sin x \\end{vmatrix}]].",
+    "body": "Evaluate $$\\begin{vmatrix} \\sin x & \\cos x \\\\ \\cos x & -\\sin x \\end{vmatrix}$$.",
     "chapter_id": "4c87251d-eb14-42a5-9961-89e6d50e261d",
     "created_at": 1191105900,
     "updated_at": 1191105900
   },
   {
     "id": "c38a4d5a-7954-4367-8495-7c9d51e5afbe",
-    "body": "Find the value of [[k]] if the determinant [[\\begin{vmatrix} 3 & k \\\\ 5 & 2 \\end{vmatrix} = 10]].",
+    "body": "Find the value of $$k$$ if the determinant $$\\begin{vmatrix} 3 & k \\\\ 5 & 2 \\end{vmatrix} = 10$$.",
     "chapter_id": "4c87251d-eb14-42a5-9961-89e6d50e261d",
     "created_at": 1191105900,
     "updated_at": 1191105900
   },
   {
     "id": "bf3996e4-6796-4f0d-b4c7-9346b44b9998",
-    "body": "Evaluate the determinant [[\\begin{vmatrix} 4 & -3 & 2 \\\\ 0 & 5 & -1 \\\\ 7 & 2 & -6 \\end{vmatrix}]].",
+    "body": "Evaluate the determinant $$\\begin{vmatrix} 4 & -3 & 2 \\\\ 0 & 5 & -1 \\\\ 7 & 2 & -6 \\end{vmatrix}$$.",
     "chapter_id": "4c87251d-eb14-42a5-9961-89e6d50e261d",
     "created_at": 1191105900,
     "updated_at": 1191105900
   },
   {
     "id": "c1ee5669-36be-4c54-a8d2-616ae79f3e40",
-    "body": "If [[|A| = -2]] for a 2x2 matrix, find [[|2A|]].",
+    "body": "If $$|A| = -2$$ for a 2x2 matrix, find $$|2A|$$.",
     "chapter_id": "4c87251d-eb14-42a5-9961-89e6d50e261d",
     "created_at": 1191105900,
     "updated_at": 1191105900
   },
   {
     "id": "abae3984-201e-41fb-a6a1-5fee73bf95cb",
-    "body": "Show that the matrix [[A = \\begin{bmatrix} 1 & 0 \\\\ 0 & -1 \\end{bmatrix}]] is its own inverse.",
+    "body": "Show that the matrix $$A = \\begin{bmatrix} 1 & 0 \\\\ 0 & -1 \\end{bmatrix}$$ is its own inverse.",
     "chapter_id": "4c87251d-eb14-42a5-9961-89e6d50e261d",
     "created_at": 1191105900,
     "updated_at": 1191105900
