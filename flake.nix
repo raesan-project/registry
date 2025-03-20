@@ -1,27 +1,26 @@
 {
-  description = "a flake for raesan-dataset dev environment";
+  description = "raesan-dataset";
   inputs = {
     nixpkgs.url =
-      "github:nixos/nixpkgs/6c90912761c43e22b6fb000025ab96dd31c971ff";
-    deno_2_1_4-pkgs.url =
-      "github:nixos/nixpkgs/4989a246d7a390a859852baddb1013f825435cee";
-	  rust_1_78_0-pkgs.url = "github:nixos/nixpkgs/b60793b86201040d9dee019a05089a9150d08b5b";
+      "github:nixos/nixpkgs/ebe2788eafd539477f83775ef93c3c7e244421d3";
+    rust-overlay.url = "github:oxalica/rust-overlay";
+    rust_1_84_0-pkgs.url =
+      "github:nixos/nixpkgs/d98abf5cf5914e5e4e9d57205e3af55ca90ffc1d";
     flake-utils.url = "github:numtide/flake-utils";
   };
-  outputs = { self, nixpkgs, flake-utils, ... }@inputs:
+  outputs = { nixpkgs, rust-overlay, flake-utils, ... }:
     flake-utils.lib.eachDefaultSystem (system:
-      let pkgs = import nixpkgs { inherit system; };
+      let
+        overlays = [ (import rust-overlay) ];
+        pkgs = import nixpkgs { inherit system overlays; };
+        # rust-pkgs = inputs.rust_1_84_0-pkgs.legacyPackages.${system};
       in {
-        formatter =
-          pkgs.nixfmt-classic; # formatter for .nix files, just run `nix fmt .` to format the entire directory
+        formatter = pkgs.nixfmt-classic;
         devShell = pkgs.mkShell {
-          packages = with pkgs; [
-            inputs.deno_2_1_4-pkgs.legacyPackages.${system}.deno
-			inputs.rust_1_78_0-pkgs.legacyPackages.${system}.rustc
-			inputs.rust_1_78_0-pkgs.legacyPackages.${system}.cargo
-			inputs.rust_1_78_0-pkgs.legacyPackages.${system}.rustfmt
-			inputs.rust_1_78_0-pkgs.legacyPackages.${system}.diesel-cli
-			inputs.rust_1_78_0-pkgs.legacyPackages.${system}.sqlite
+          packages = [
+		  	pkgs.go-task
+
+            pkgs.rust-bin.stable."1.84.0".default
           ];
         };
       });
