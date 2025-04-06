@@ -12,8 +12,20 @@ name = "raesan_registry-bin"
 path = "src/main.rs"
 
 [dependencies]
+askama = { version = "0.13.0" }
+axum = "0.7.5"
+axum-macros = "0.5.0"
 clap = { version = "4.5.35", features = ["derive"] }
-diesel = { version = "2.2.0", features = ["sqlite", "returning_clauses_for_sqlite_3_35"] }
-uuid = { version = "1.16.0", features = ["v4"]}
+diesel = { version = "2.2.0", features = ["r2d2", "sqlite", "returning_clauses_for_sqlite_3_35"] }
+r2d2 = "0.8.10"
+tokio = { version = "1", features = ["full"] }
+tower-livereload = "0.9.6"
+ammonia = "4"
+bon = "3.5"
+hotwatch = "0.5.0"
 serde = { version = "1.0", features = ["derive"] }
 serde_json = "1.0"
+thiserror = "2"
+uuid = { version = "1.16.0", features = ["v4"] }
+walkdir = "2"
+rust-embed = "8.6.0"
