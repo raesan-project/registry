@@ -44,10 +44,10 @@ pub struct Question {
 }
 
 #[derive(Debug, Clone, serde::Serialize, serde::Deserialize)]
-struct CreateTestPageMeta {
-    classes: Vec<Class>,
-    subjects: Vec<Subject>,
-    chapters: Vec<Chapter>,
+pub struct CreateTestPageMeta {
+    pub classes: Vec<Class>,
+    pub subjects: Vec<Subject>,
+    pub chapters: Vec<Chapter>,
 }
 
 #[derive(Debug, Clone, serde::Serialize, serde::Deserialize)]

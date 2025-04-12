@@ -1,6 +1,9 @@
-use crate::{cli, error, handlers};
+use crate::{cli, handlers};
 use bon;
-use std::sync::{Arc, RwLock};
+use color_eyre::eyre;
+use std::sync::Arc;
+use tokio::sync::RwLock;
+use tracing;
 
 // constants
 pub const ADDRESS: std::net::Ipv4Addr = std::net::Ipv4Addr::new(0, 0, 0, 0);
@@ -13,19 +16,14 @@ pub struct WebState {}
 #[bon::bon]
 impl WebState {
     #[builder]
-    pub fn new() -> Result<WebState, String> {
+    pub fn new() -> eyre::Result<WebState> {
         return Ok(WebState {});
     }
 }
 
 #[bon::builder]
-pub async fn serve(serve_data: cli::ServeQuestions) -> Result<(), error::ServerError> {
-    let web_state = Arc::new(RwLock::new(match WebState::builder().build() {
-        Ok(safe_app) => safe_app,
-        Err(e) => {
-            return Err(error::ServerError::WebStateError(e.to_string()));
-        }
-    }));
+pub async fn serve(serve_data: cli::ServeQuestions) -> eyre::Result<()> {
+    let web_state = Arc::new(RwLock::new(WebState::builder().build()?));
 
     println!("{:#?}", serve_data);
 
@@ -34,27 +32,11 @@ pub async fn serve(serve_data: cli::ServeQuestions) -> Result<(), error::ServerE
         .with_state(web_state);
 
     let listener =
-        match tokio::net::TcpListener::bind(ADDRESS.to_string() + ":" + PORT.to_string().as_str())
-            .await
-        {
-            Ok(safe_listener) => safe_listener,
-            Err(e) => {
-                eprintln!("Failed to bind TcpListener to address, Error: {:#?}", e);
-                std::process::exit(1);
-            }
-        };
+        tokio::net::TcpListener::bind(ADDRESS.to_string() + ":" + PORT.to_string().as_str())
+            .await?;
 
-    println!("running on {}:{}", ADDRESS, PORT);
+    tracing::debug!("listening on {}:{}", ADDRESS.to_string(), PORT.to_string());
 
-    match axum::serve(listener, app_router).await {
-        Ok(_) => {}
-        Err(e) => {
-            eprintln!(
-                "Failed to start the server listener for the application, Error: {:#?}",
-                e
-            );
-            std::process::exit(1);
-        }
-    };
+    axum::serve(listener, app_router).await?;
     return Ok(());
 }

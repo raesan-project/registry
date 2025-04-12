@@ -1,4 +1,5 @@
 use bon;
+use color_eyre as eyre;
 use diesel;
 use r2d2;
 
@@ -9,15 +10,10 @@ pub struct Database {
 #[bon::bon]
 impl Database {
     #[builder]
-    pub fn new(database_url: String) -> Result<Database, String> {
+    pub fn new(database_url: String) -> eyre::Result<Database> {
         let conn_manager =
             diesel::r2d2::ConnectionManager::<diesel::sqlite::SqliteConnection>::new(&database_url);
-        let pool = match r2d2::Pool::builder().build(conn_manager) {
-            Ok(safe_pool) => safe_pool,
-            Err(e) => {
-                return Err(e.to_string());
-            }
-        };
+        let pool = r2d2::Pool::builder().build(conn_manager)?;
 
         return Ok(Database { pool });
     }

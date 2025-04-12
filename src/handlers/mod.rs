@@ -1,33 +1,21 @@
 use crate::{server, templates};
 use askama::Template;
 use axum::{self, response::IntoResponse};
-use std::sync::{Arc, RwLock};
+use std::sync::Arc;
+use tokio::sync::RwLock;
+
+pub mod error;
 
 pub async fn index_route(
     axum::extract::State(web_state): axum::extract::State<Arc<RwLock<server::WebState>>>,
-) -> Result<axum::response::Response, (axum::http::StatusCode, String)> {
-    let web_state = match web_state.write() {
-        Ok(safe_web_state) => safe_web_state,
-        Err(e) => {
-            println!("Failed to get web state, Error {:#?}", e);
-            return Err((
-                axum::http::StatusCode::INTERNAL_SERVER_ERROR,
-                String::from("Failed to get web state"),
-            ));
-        }
-    };
+) -> error::HandlerResult<impl IntoResponse> {
+    let web_state = web_state.write().await;
     println!("{:#?}", web_state);
 
-    let html = match (templates::IndexRouteTemplate {}.render()) {
-        Ok(safe_html) => safe_html,
-        Err(e) => {
-            println!("Failed to render HTML template, Error: {:#?}", e);
-            return Err((
-                axum::http::StatusCode::INTERNAL_SERVER_ERROR,
-                String::from("Failed to render HTML template"),
-            ));
-        }
-    };
+    let html = templates::IndexRouteTemplate::builder()
+        .build()
+        .render()
+        .map_err(|e| error::HandlerError::HTMLTemplateRender(e.to_string()))?;
 
     return Ok((
         [(
