@@ -1,6 +1,6 @@
-use crate::{cli, database, schema, tables};
+use crate::{cli, database, error, schema, tables};
 use bon;
-use color_eyre::eyre;
+use color_eyre::eyre::{self, WrapErr};
 use diesel::{self, prelude::*};
 use r2d2;
 use serde_json;
@@ -8,11 +8,18 @@ use std::{fs, io, path::Path};
 use tracing;
 
 #[bon::builder]
-pub fn generate_database_records(gen_data: cli::GenerateDatabaseRecords) -> eyre::Result<()> {
+pub fn generate_database_records(
+    gen_data: cli::GenerateDatabaseRecords,
+) -> eyre::Result<(), error::Error> {
     let database = database::Database::builder()
         .database_url(gen_data.database)
         .build()?;
-    let mut conn = database.pool.get()?;
+    let mut conn = database.pool.get().map_err(|e| {
+        error::Error::DatabaseError(format!(
+            "failed to create a connection from the database pool, error: {:#?}",
+            e.to_string()
+        ))
+    })?;
 
     // classes
     let mut classes_json_string = String::new();
@@ -22,10 +29,17 @@ pub fn generate_database_records(gen_data: cli::GenerateDatabaseRecords) -> eyre
         classes_json_string = fs::read_to_string(&classes_json_file)?;
     }
     diesel::insert_into(schema::classes::dsl::classes)
-        .values(serde_json::from_str::<Vec<tables::Class>>(
-            classes_json_string.as_str(),
-        )?)
-        .execute(&mut conn)?;
+        .values(
+            serde_json::from_str::<Vec<tables::Class>>(classes_json_string.as_str())
+                .wrap_err("failed to parse string into JSON")?,
+        )
+        .execute(&mut conn)
+        .map_err(|e| {
+            error::Error::DatabaseError(format!(
+                "failed to execute database query, error: {:#?}",
+                e.to_string()
+            ))
+        })?;
 
     tracing::info!("Successfully created class records from the registry");
 
@@ -37,10 +51,17 @@ pub fn generate_database_records(gen_data: cli::GenerateDatabaseRecords) -> eyre
         subjects_json_string = fs::read_to_string(&subjects_json_file)?;
     }
     diesel::insert_into(schema::subjects::dsl::subjects)
-        .values(serde_json::from_str::<Vec<tables::Subject>>(
-            subjects_json_string.as_str(),
-        )?)
-        .execute(&mut conn)?;
+        .values(
+            serde_json::from_str::<Vec<tables::Subject>>(subjects_json_string.as_str())
+                .wrap_err("failed to parse string into JSON")?,
+        )
+        .execute(&mut conn)
+        .map_err(|e| {
+            error::Error::DatabaseError(format!(
+                "failed to execute database query, error: {:#?}",
+                e.to_string()
+            ))
+        })?;
 
     tracing::info!("Successfully created subject records from the registry");
 
@@ -51,12 +72,20 @@ pub fn generate_database_records(gen_data: cli::GenerateDatabaseRecords) -> eyre
         let chapter_entries = fs::read_dir(chapters_path)?;
         for entry in chapter_entries {
             if let Ok(entry) = entry {
-                let loop_conn = database.pool.get()?;
+                let loop_conn = database.pool.get().map_err(|e| {
+                    error::Error::DatabaseError(format!(
+                        "failed to create a connection from the database pool, error: {:#?}",
+                        e.to_string()
+                    ))
+                })?;
                 insert_chapters(loop_conn, entry.path().to_string_lossy().to_string())?;
             }
         }
     } else {
-        return Err(eyre::eyre!("The provided path for generating database records of chapters table is not a directory"));
+        return Err(error::Error::InvalidInput(format!(
+            "The provided path for generating database records of chapters table is not a directory, input: {}", 
+            chapters_dir
+        )))?;
     }
 
     tracing::info!("Successfully created chapter records from the registry");
@@ -71,13 +100,21 @@ pub fn generate_database_records(gen_data: cli::GenerateDatabaseRecords) -> eyre
             let chapter_entries = fs::read_dir(subject.path())?;
             for chapter in chapter_entries {
                 if let Ok(chapter) = chapter {
-                    let loop_conn = database.pool.get()?;
+                    let loop_conn = database.pool.get().map_err(|e| {
+                        error::Error::DatabaseError(format!(
+                            "failed to create a connection from the database pool, error: {:#?}",
+                            e.to_string()
+                        ))
+                    })?;
                     insert_questions(loop_conn, chapter.path().to_string_lossy().to_string())?;
                 }
             }
         }
     } else {
-        return Err(eyre::eyre!("The provided path for generating database records of question table is not a directory"));
+        return Err(error::Error::InvalidInput(format!(
+            "The provided path for generating database records of question table is not a directory, input: {}", 
+            questions_dir
+        )))?;
     }
     tracing::info!("Successfully created question records from the registry");
 
@@ -89,7 +126,7 @@ pub fn insert_chapters(
         diesel::r2d2::ConnectionManager<diesel::sqlite::SqliteConnection>,
     >,
     chapters_json_file: String,
-) -> eyre::Result<()> {
+) -> eyre::Result<(), error::Error> {
     let mut chapters_json_string = String::new();
     let chapters_metadata = fs::metadata(chapters_json_file.clone())?;
     if chapters_metadata.is_file() {
@@ -97,11 +134,18 @@ pub fn insert_chapters(
     };
 
     let chapters_json_vec =
-        serde_json::from_str::<Vec<tables::Chapter>>(chapters_json_string.as_str())?;
+        serde_json::from_str::<Vec<tables::Chapter>>(chapters_json_string.as_str())
+            .wrap_err("failed to parse string into JSON")?;
 
     diesel::insert_into(schema::chapters::dsl::chapters)
         .values(chapters_json_vec.clone())
-        .execute(&mut conn)?;
+        .execute(&mut conn)
+        .map_err(|e| {
+            error::Error::DatabaseError(format!(
+                "failed to execute database query, error: {:#?}",
+                e.to_string()
+            ))
+        })?;
 
     return Ok(());
 }
@@ -111,7 +155,7 @@ pub fn insert_questions(
         diesel::r2d2::ConnectionManager<diesel::sqlite::SqliteConnection>,
     >,
     questions_json_file: String,
-) -> eyre::Result<()> {
+) -> eyre::Result<(), error::Error> {
     let mut questions_json_string = String::new();
     let questions_metadata = fs::metadata(questions_json_file.clone())?;
     if questions_metadata.is_file() {
@@ -123,7 +167,7 @@ pub fn insert_questions(
                 if e.kind() == io::ErrorKind::UnexpectedEof {
                     return Ok(());
                 } else {
-                    return Err(eyre::eyre!(e.to_string()));
+                    return Err(eyre::eyre!(e.to_string()))?;
                 }
             }
         }
@@ -134,11 +178,18 @@ pub fn insert_questions(
     }
 
     let questions_json_vec =
-        serde_json::from_str::<Vec<tables::Question>>(questions_json_string.as_str())?;
+        serde_json::from_str::<Vec<tables::Question>>(questions_json_string.as_str())
+            .wrap_err("failed to parse string into JSON")?;
 
     diesel::insert_into(schema::questions::dsl::questions)
         .values(questions_json_vec.clone())
-        .execute(&mut conn)?;
+        .execute(&mut conn)
+        .map_err(|e| {
+            error::Error::DatabaseError(format!(
+                "failed to execute database query, error: {:#?}",
+                e.to_string()
+            ))
+        })?;
 
     return Ok(());
 }

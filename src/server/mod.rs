@@ -1,6 +1,6 @@
 use crate::{cli, handlers};
 use bon;
-use color_eyre::eyre;
+use color_eyre::eyre::{self, WrapErr};
 use std::sync::Arc;
 use tokio::sync::RwLock;
 use tracing;
@@ -23,7 +23,11 @@ impl WebState {
 
 #[bon::builder]
 pub async fn serve(serve_data: cli::ServeQuestions) -> eyre::Result<()> {
-    let web_state = Arc::new(RwLock::new(WebState::builder().build()?));
+    let web_state = Arc::new(RwLock::new(
+        WebState::builder()
+            .build()
+            .wrap_err("failed to create web state")?,
+    ));
 
     println!("{:#?}", serve_data);
 
@@ -33,10 +37,13 @@ pub async fn serve(serve_data: cli::ServeQuestions) -> eyre::Result<()> {
 
     let listener =
         tokio::net::TcpListener::bind(ADDRESS.to_string() + ":" + PORT.to_string().as_str())
-            .await?;
+            .await
+            .wrap_err("failed to bind TCP Listener to address")?;
 
     tracing::debug!("listening on {}:{}", ADDRESS.to_string(), PORT.to_string());
 
-    axum::serve(listener, app_router).await?;
+    axum::serve(listener, app_router)
+        .await
+        .wrap_err("Failed to start the serrver listener")?;
     return Ok(());
 }
