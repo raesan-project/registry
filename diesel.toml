@@ -3,4 +3,4 @@ file = "src/schema.rs"
 custom_type_derives = ["diesel::query_builder::QueryId", "Clone"]
 
 [migrations_directory]
-dir = "/home/axew/living_room/raesan-project/registry/migrations"
+dir = "./migrations"

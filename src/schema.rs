@@ -5,27 +5,38 @@ diesel::table! {
         id -> Text,
         name -> Text,
         subject_id -> Text,
-        created_at -> BigInt,
-        updated_at -> BigInt,
     }
 }
 
 diesel::table! {
-    classes (id) {
+    exams (id) {
         id -> Text,
-        name -> Integer,
-        created_at -> BigInt,
-        updated_at -> BigInt,
+        name -> Text,
     }
 }
 
 diesel::table! {
-    questions (id) {
+    question_answers (id) {
         id -> Text,
-        body -> Text,
         chapter_id -> Text,
-        created_at -> BigInt,
-        updated_at -> BigInt,
+        body -> Text,
+    }
+}
+
+diesel::table! {
+    single_mcq_options (id) {
+        id -> Text,
+        single_mcq_id -> Text,
+        key -> Text,
+        value -> Text,
+    }
+}
+
+diesel::table! {
+    single_mcqs (id) {
+        id -> Text,
+        chapter_id -> Text,
+        body -> Text,
     }
 }
 
@@ -33,19 +44,21 @@ diesel::table! {
     subjects (id) {
         id -> Text,
         name -> Text,
-        class_id -> Text,
-        created_at -> BigInt,
-        updated_at -> BigInt,
+        exam_id -> Text,
     }
 }
 
 diesel::joinable!(chapters -> subjects (subject_id));
-diesel::joinable!(questions -> chapters (chapter_id));
-diesel::joinable!(subjects -> classes (class_id));
+diesel::joinable!(question_answers -> chapters (chapter_id));
+diesel::joinable!(single_mcq_options -> single_mcqs (single_mcq_id));
+diesel::joinable!(single_mcqs -> chapters (chapter_id));
+diesel::joinable!(subjects -> exams (exam_id));
 
 diesel::allow_tables_to_appear_in_same_query!(
     chapters,
-    classes,
-    questions,
+    exams,
+    question_answers,
+    single_mcq_options,
+    single_mcqs,
     subjects,
 );

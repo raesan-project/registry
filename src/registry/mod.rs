@@ -1,195 +1,300 @@
-use crate::{cli, database, error, schema, tables};
+use crate::{cli, error};
 use bon;
-use color_eyre::eyre::{self, WrapErr};
-use diesel::{self, prelude::*};
-use r2d2;
+use color_eyre::eyre::{self};
 use serde_json;
-use std::{fs, io, path::Path};
+use std::{fs, path};
 use tracing;
+use uuid;
+
+pub mod reg_models;
 
 #[bon::builder]
 pub fn generate_database_records(
     gen_data: cli::GenerateDatabaseRecords,
 ) -> eyre::Result<(), error::Error> {
-    let database = database::Database::builder()
-        .database_url(gen_data.database)
-        .build()?;
-    let mut conn = database.pool.get().map_err(|e| {
-        error::Error::DatabaseError(format!(
-            "failed to create a connection from the database pool, error: {:#?}",
-            e.to_string()
-        ))
-    })?;
-
-    // classes
-    let mut classes_json_string = String::new();
-    let classes_json_file = format!("{}/classes.json", gen_data.registry);
-    let classes_metadata = fs::metadata(&classes_json_file)?;
-    if classes_metadata.is_file() {
-        classes_json_string = fs::read_to_string(&classes_json_file)?;
-    }
-    diesel::insert_into(schema::classes::dsl::classes)
-        .values(
-            serde_json::from_str::<Vec<tables::Class>>(classes_json_string.as_str())
-                .wrap_err("failed to parse string into JSON")?,
-        )
-        .execute(&mut conn)
-        .map_err(|e| {
-            error::Error::DatabaseError(format!(
-                "failed to execute database query, error: {:#?}",
-                e.to_string()
-            ))
-        })?;
-
-    tracing::info!("Successfully created class records from the registry");
-
-    // subjects
-    let mut subjects_json_string = String::new();
-    let subjects_json_file = format!("{}/subjects.json", gen_data.registry);
-    let subjects_metadata = fs::metadata(&subjects_json_file)?;
-    if subjects_metadata.is_file() {
-        subjects_json_string = fs::read_to_string(&subjects_json_file)?;
-    }
-    diesel::insert_into(schema::subjects::dsl::subjects)
-        .values(
-            serde_json::from_str::<Vec<tables::Subject>>(subjects_json_string.as_str())
-                .wrap_err("failed to parse string into JSON")?,
-        )
-        .execute(&mut conn)
-        .map_err(|e| {
-            error::Error::DatabaseError(format!(
-                "failed to execute database query, error: {:#?}",
-                e.to_string()
-            ))
-        })?;
-
-    tracing::info!("Successfully created subject records from the registry");
-
-    // chapters
-    let chapters_dir = format!("{}/chapters", gen_data.registry);
-    let chapters_path = Path::new(&chapters_dir);
-    if chapters_path.is_dir() {
-        let chapter_entries = fs::read_dir(chapters_path)?;
-        for entry in chapter_entries {
-            if let Ok(entry) = entry {
-                let loop_conn = database.pool.get().map_err(|e| {
-                    error::Error::DatabaseError(format!(
-                        "failed to create a connection from the database pool, error: {:#?}",
-                        e.to_string()
-                    ))
-                })?;
-                insert_chapters(loop_conn, entry.path().to_string_lossy().to_string())?;
-            }
-        }
-    } else {
-        return Err(error::Error::InvalidInput(format!(
-            "The provided path for generating database records of chapters table is not a directory, input: {}", 
-            chapters_dir
-        )))?;
-    }
-
-    tracing::info!("Successfully created chapter records from the registry");
-
-    // questions
-    let questions_dir = format!("{}/questions", gen_data.registry);
-    let questions_path = Path::new(&questions_dir);
-    if questions_path.is_dir() {
-        let subject_entries = fs::read_dir(questions_path)?;
-        for subject in subject_entries {
-            let subject = subject?;
-            let chapter_entries = fs::read_dir(subject.path())?;
-            for chapter in chapter_entries {
-                if let Ok(chapter) = chapter {
-                    let loop_conn = database.pool.get().map_err(|e| {
-                        error::Error::DatabaseError(format!(
-                            "failed to create a connection from the database pool, error: {:#?}",
-                            e.to_string()
-                        ))
-                    })?;
-                    insert_questions(loop_conn, chapter.path().to_string_lossy().to_string())?;
-                }
-            }
-        }
-    } else {
-        return Err(error::Error::InvalidInput(format!(
-            "The provided path for generating database records of question table is not a directory, input: {}", 
-            questions_dir
-        )))?;
-    }
-    tracing::info!("Successfully created question records from the registry");
-
+    let registry = map_registry()
+        .registry_path_string(gen_data.registry)
+        .call()?;
+    tracing::info!("{:#?}", registry);
     return Ok(());
 }
 
-pub fn insert_chapters(
-    mut conn: r2d2::PooledConnection<
-        diesel::r2d2::ConnectionManager<diesel::sqlite::SqliteConnection>,
-    >,
-    chapters_json_file: String,
-) -> eyre::Result<(), error::Error> {
-    let mut chapters_json_string = String::new();
-    let chapters_metadata = fs::metadata(chapters_json_file.clone())?;
-    if chapters_metadata.is_file() {
-        chapters_json_string = fs::read_to_string(chapters_json_file.clone())?;
-    };
+#[bon::builder]
+fn map_registry(registry_path_string: String) -> eyre::Result<Vec<reg_models::Exam>, error::Error> {
+    let main_path = path::Path::new(&registry_path_string);
+    if !main_path.is_dir() {
+        return Err(error::Error::InvalidInput(format!(
+            "the provided registry path is not a valid directory, path: {}",
+            registry_path_string
+        )))?;
+    }
+    let exam_entries = main_path.read_dir()?;
 
-    let chapters_json_vec =
-        serde_json::from_str::<Vec<tables::Chapter>>(chapters_json_string.as_str())
-            .wrap_err("failed to parse string into JSON")?;
+    let mut registry: Vec<reg_models::Exam> = Vec::new();
 
-    diesel::insert_into(schema::chapters::dsl::chapters)
-        .values(chapters_json_vec.clone())
-        .execute(&mut conn)
-        .map_err(|e| {
-            error::Error::DatabaseError(format!(
-                "failed to execute database query, error: {:#?}",
-                e.to_string()
-            ))
-        })?;
+    // exam loop
+    for exam_entry in exam_entries {
+        let exam_entry = match exam_entry {
+            Ok(entry) => entry,
+            Err(e) => return Err(e)?,
+        };
 
-    return Ok(());
+        let curr_exam = map_exam().exam_entry(exam_entry).call()?;
+        registry.push(curr_exam);
+    }
+    return Ok(registry);
 }
 
-pub fn insert_questions(
-    mut conn: r2d2::PooledConnection<
-        diesel::r2d2::ConnectionManager<diesel::sqlite::SqliteConnection>,
-    >,
-    questions_json_file: String,
-) -> eyre::Result<(), error::Error> {
-    let mut questions_json_string = String::new();
-    let questions_metadata = fs::metadata(questions_json_file.clone())?;
-    if questions_metadata.is_file() {
-        match fs::read_to_string(questions_json_file.clone()) {
-            Ok(safe_contents) => {
-                questions_json_string = safe_contents.to_string();
+#[bon::builder]
+fn map_exam(exam_entry: fs::DirEntry) -> eyre::Result<reg_models::Exam, error::Error> {
+    let exam_entry_path = exam_entry.path();
+    let exam_entry_path_string = exam_entry_path.to_string_lossy().to_string();
+    if !exam_entry_path.is_dir() {
+        return Err(error::Error::InvalidInput(format!(
+            "the provided exam entry path is not a valid directory, path: {}",
+            exam_entry_path_string
+        )))?;
+    }
+
+    let curr_exam_contents = fs::read_to_string(format!("{}/_index.json", exam_entry_path_string))?;
+    let curr_exam_json: serde_json::Value = serde_json::from_str(&curr_exam_contents)?;
+    let mut curr_exam: reg_models::Exam = serde_json::from_value(
+        curr_exam_json
+            .get("_index")
+            .ok_or_else(|| {
+                error::Error::NotFound(format!(
+                    "failed to get _index field from the given JSON value, {:#?}",
+                    curr_exam_json
+                ))
+            })?
+            .clone(),
+    )?;
+    // at this point we have to add the ID fields manually because the registry contains basic structures
+    curr_exam.id = uuid::Uuid::new_v4().to_string();
+
+    // subject loop
+    let subject_entries = curr_exam_json
+        .get("_children")
+        .ok_or_else(|| {
+            error::Error::NotFound(format!(
+                "failed to get _children field from the given JSON value, {:#?}",
+                curr_exam_json
+            ))
+        })?
+        .as_array()
+        .ok_or_else(|| {
+            error::Error::NotFound(format!(
+                "failed to convert _children field into an array from the given JSON value, {:#?}",
+                curr_exam_json
+            ))
+        })?;
+    for subject_entry in subject_entries {
+        let mut curr_subject = map_subject()
+            .subject_entry(subject_entry)
+            .exam_entry_path_string(exam_entry_path_string.clone())
+            .call()?;
+
+        // the exam_id is only accessible right here so we have to add it to the struct right here
+        curr_subject.exam_id = curr_exam.id.clone();
+        curr_exam.subjects.push(curr_subject);
+    }
+
+    return Ok(curr_exam);
+}
+
+#[bon::builder]
+fn map_subject(
+    subject_entry: &serde_json::Value,
+    exam_entry_path_string: String,
+) -> eyre::Result<reg_models::Subject, error::Error> {
+    let subject_entry = match subject_entry {
+        serde_json::Value::String(subject_string) => subject_string,
+        _ => {
+            return Err(error::Error::InvalidInput(format!(
+                "the provided subject entry is not a valid path string, entry: {:#?}",
+                subject_entry
+            )))?;
+        }
+    };
+    let subject_entry_path_string = format!("{}/{}", exam_entry_path_string, subject_entry.clone());
+    let subject_entry_path = path::Path::new(&subject_entry_path_string);
+    if !subject_entry_path.is_dir() {
+        return Err(error::Error::InvalidInput(format!(
+            "the provided subject entry path is not a valid directory, path: {}",
+            subject_entry_path_string
+        )))?;
+    }
+    let curr_subject_contents =
+        fs::read_to_string(format!("{}/_index.json", subject_entry_path_string))?;
+    let curr_subject_json: serde_json::Value = serde_json::from_str(&curr_subject_contents)?;
+    let mut curr_subject: reg_models::Subject = serde_json::from_value(
+        curr_subject_json
+            .get("_index")
+            .ok_or_else(|| {
+                error::Error::NotFound(format!(
+                    "failed to get _children field from the given JSON value, {:#?}",
+                    curr_subject_json
+                ))
+            })?
+            .clone(),
+    )?;
+    // at this point we have to add the ID fields manually because the registry contains basic structures
+    curr_subject.id = uuid::Uuid::new_v4().to_string();
+
+    // subject loop
+    let chapter_entries = curr_subject_json
+        .get("_children")
+        .ok_or_else(|| {
+            error::Error::NotFound(format!(
+                "failed to get _children field from the given JSON value, {:#?}",
+                curr_subject_json
+            ))
+        })?
+        .as_array()
+        .ok_or_else(|| {
+            error::Error::NotFound(format!(
+                "failed to convert _children field into an array from the given JSON value, {:#?}",
+                curr_subject_json
+            ))
+        })?;
+    for chapter_entry in chapter_entries {
+        let mut curr_chapter = map_chapter()
+            .chapter_entry(chapter_entry)
+            .subject_entry_path_string(subject_entry_path_string.clone())
+            .call()?;
+
+        // the subject_id is only accessible right here so we have to add it to the struct right here
+        curr_chapter.subject_id = curr_subject.id.clone();
+        curr_subject.chapters.push(curr_chapter);
+    }
+
+    return Ok(curr_subject);
+}
+
+#[bon::builder]
+fn map_chapter(
+    chapter_entry: &serde_json::Value,
+    subject_entry_path_string: String,
+) -> eyre::Result<reg_models::Chapter, error::Error> {
+    let chapter_entry = match chapter_entry {
+        serde_json::Value::String(chapter_string) => chapter_string,
+        _ => {
+            return Err(error::Error::InvalidInput(format!(
+                "the provided chapter entry is not a valid path string, entry: {:#?}",
+                chapter_entry
+            )))?;
+        }
+    };
+    let chapter_entry_path_string =
+        format!("{}/{}", subject_entry_path_string, chapter_entry.clone());
+    let chapter_entry_path = path::Path::new(&chapter_entry_path_string);
+    if !chapter_entry_path.is_file() {
+        return Err(error::Error::InvalidInput(format!(
+            "the provided subject entry path is not a valid file, path: {}",
+            chapter_entry_path_string
+        )))?;
+    }
+    let curr_chapter_contents = fs::read_to_string(format!("{}", chapter_entry_path_string))?;
+    let curr_chapter_json: serde_json::Value = serde_json::from_str(&curr_chapter_contents)?;
+    let mut curr_chapter: reg_models::Chapter = serde_json::from_value(
+        curr_chapter_json
+            .get("_index")
+            .ok_or_else(|| {
+                error::Error::NotFound(format!(
+                    "failed to get _children field from the given JSON value, {:#?}",
+                    curr_chapter_json
+                ))
+            })?
+            .clone(),
+    )?;
+    // at this point we have to add the ID fields manually because the registry contains basic structures
+    curr_chapter.id = uuid::Uuid::new_v4().to_string();
+
+    // chapter loop
+    let question_entries = curr_chapter_json
+        .get("_children")
+        .ok_or_else(|| {
+            error::Error::NotFound(format!(
+                "failed to get _children field from the given JSON value, {:#?}",
+                curr_chapter_json
+            ))
+        })?
+        .as_array()
+        .ok_or_else(|| {
+            error::Error::NotFound(format!(
+                "failed to convert _children field into an array from the given JSON value, {:#?}",
+                curr_chapter_json
+            ))
+        })?;
+    for question_entry in question_entries {
+        let mut curr_question = map_question().question_entry(question_entry).call()?;
+
+        // the chapter_id is only accessible right here so we have to add it to the struct right here
+        match &mut curr_question {
+            reg_models::Question::QuestionAnswer(curr_question) => {
+                curr_question.chapter_id = curr_chapter.id.clone();
             }
-            Err(e) => {
-                if e.kind() == io::ErrorKind::UnexpectedEof {
-                    return Ok(());
-                } else {
-                    return Err(eyre::eyre!(e.to_string()))?;
-                }
+            reg_models::Question::SingleMCQ(curr_question) => {
+                curr_question.chapter_id = curr_chapter.id.clone();
             }
+        };
+
+        // curr_question. = .id.clone();
+        curr_chapter.questions.push(curr_question);
+    }
+
+    return Ok(curr_chapter);
+}
+
+#[bon::builder]
+fn map_question(question_entry: &serde_json::Value) -> eyre::Result<reg_models::Question> {
+    match question_entry {
+        serde_json::Value::Object(_) => {}
+        _ => {
+            return Err(error::Error::InvalidInput(format!(
+                "the provided question entry is not a valid JSON object, entry: {:#?}",
+                question_entry
+            )))?;
         }
     };
 
-    if questions_json_string.trim().is_empty() {
-        return Ok(());
+    // at this point we have to add the ID fields manually because the registry contains basic structures
+    let question_id = uuid::Uuid::new_v4().to_string();
+    let question_entry_type: String = serde_json::from_value(
+        question_entry
+            .clone()
+            .get("_type")
+            .ok_or_else(|| {
+                error::Error::NotFound(format!(
+                    "failed to get _children field from the given JSON value, {:#?}",
+                    question_entry
+                ))
+            })?
+            .clone(),
+    )?;
+    match question_entry_type.as_str() {
+        "question_answer" => {
+            let mut curr_question: reg_models::QuestionAnswer =
+                serde_json::from_value(question_entry.clone())?;
+            curr_question.id = question_id.clone();
+            return Ok(reg_models::Question::QuestionAnswer(curr_question));
+        }
+        "single_mcq" => {
+            let mut curr_question: reg_models::SingleMCQ =
+                serde_json::from_value(question_entry.clone())?;
+            curr_question.id = question_id.clone();
+            for mcq_option in &mut curr_question.options {
+                // at this point we have to add the ID fields manually because the registry contains basic structures
+                mcq_option.id = uuid::Uuid::new_v4().to_string();
+                mcq_option.single_mcq_id = curr_question.id.clone();
+            }
+            return Ok(reg_models::Question::SingleMCQ(curr_question));
+        }
+        other => {
+            return Err(error::Error::InvalidInput(format!(
+                "invalid question type: {}",
+                other
+            )))?;
+        }
     }
-
-    let questions_json_vec =
-        serde_json::from_str::<Vec<tables::Question>>(questions_json_string.as_str())
-            .wrap_err("failed to parse string into JSON")?;
-
-    diesel::insert_into(schema::questions::dsl::questions)
-        .values(questions_json_vec.clone())
-        .execute(&mut conn)
-        .map_err(|e| {
-            error::Error::DatabaseError(format!(
-                "failed to execute database query, error: {:#?}",
-                e.to_string()
-            ))
-        })?;
-
-    return Ok(());
 }

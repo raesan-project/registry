@@ -13,12 +13,10 @@ use serde;
     diesel::AsChangeset,
     diesel::Identifiable,
 )]
-#[diesel(table_name=schema::classes)]
-pub struct Class {
+#[diesel(table_name=schema::exams)]
+pub struct Exam {
     pub id: String,
-    pub name: i32,
-    pub created_at: i64,
-    pub updated_at: i64,
+    pub name: String,
 }
 
 #[derive(
@@ -33,14 +31,12 @@ pub struct Class {
     diesel::Identifiable,
     diesel::Associations,
 )]
-#[diesel(belongs_to(Class))]
+#[diesel(belongs_to(Exam))]
 #[diesel(table_name=schema::subjects)]
 pub struct Subject {
     pub id: String,
+    pub exam_id: String,
     pub name: String,
-    pub class_id: String,
-    pub created_at: i64,
-    pub updated_at: i64,
 }
 
 #[derive(
@@ -59,10 +55,8 @@ pub struct Subject {
 #[diesel(table_name=schema::chapters)]
 pub struct Chapter {
     pub id: String,
-    pub name: String,
     pub subject_id: String,
-    pub created_at: i64,
-    pub updated_at: i64,
+    pub name: String,
 }
 
 #[derive(
@@ -78,11 +72,50 @@ pub struct Chapter {
     diesel::Associations,
 )]
 #[diesel(belongs_to(Chapter))]
-#[diesel(table_name=schema::questions)]
-pub struct Question {
+#[diesel(table_name=schema::question_answers)]
+pub struct QuestionAnswer {
     pub id: String,
-    pub body: String,
     pub chapter_id: String,
-    pub created_at: i64,
-    pub updated_at: i64,
+    pub body: String,
+}
+
+#[derive(
+    Debug,
+    Clone,
+    serde::Serialize,
+    serde::Deserialize,
+    diesel::Queryable,
+    diesel::Selectable,
+    diesel::Insertable,
+    diesel::AsChangeset,
+    diesel::Identifiable,
+    diesel::Associations,
+)]
+#[diesel(belongs_to(Chapter))]
+#[diesel(table_name=schema::single_mcqs)]
+pub struct SingleMCQ {
+    pub id: String,
+    pub chapter_id: String,
+    pub body: String,
+}
+
+#[derive(
+    Debug,
+    Clone,
+    serde::Serialize,
+    serde::Deserialize,
+    diesel::Queryable,
+    diesel::Selectable,
+    diesel::Insertable,
+    diesel::AsChangeset,
+    diesel::Identifiable,
+    diesel::Associations,
+)]
+#[diesel(belongs_to(SingleMCQ, foreign_key = single_mcq_id ))]
+#[diesel(table_name=schema::single_mcq_options)]
+pub struct SingleMCQOption {
+    pub id: String,
+    pub single_mcq_id: String,
+    pub key: String,
+    pub value: String,
 }

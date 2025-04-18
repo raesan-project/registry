@@ -1,0 +1,9 @@
+{
+  "_index": {
+    "name": "Physics"
+  },
+  "_children": [
+    "./electrostatics.json",
+    "./capacitance.json"
+  ]
+}
