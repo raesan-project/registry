@@ -1,18 +1,17 @@
-use crate::models;
+use crate::tables;
 
 #[derive(Debug, Clone, serde::Serialize, serde::Deserialize)]
-pub struct CreateTestPageMeta {
-    pub exams: Vec<models::Exam>,
-    pub subjects: Vec<models::Subject>,
-    pub chapters: Vec<models::Chapter>,
+pub struct CreateTestPageMetadata {
+    pub exams: Vec<tables::Exam>,
+    pub subjects: Vec<tables::Subject>,
+    pub chapters: Vec<tables::Chapter>,
 }
 
 #[derive(Debug, Clone, serde::Serialize, serde::Deserialize)]
-pub struct CreateTestInput {
-    pub curr_step: u32,
-    pub exams: Vec<models::Exam>,
-    pub subjects: Vec<models::Subject>,
-    pub chapters: Vec<models::Chapter>,
+pub struct TestInput {
+    pub exams: Vec<tables::Exam>,
+    pub subjects: Vec<tables::Subject>,
+    pub chapters: Vec<tables::Chapter>,
     pub format: TestFormatInput,
 }
 

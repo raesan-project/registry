@@ -1,7 +1,6 @@
 use crate::{error, server, templates};
 use askama::Template;
 use axum::{self, response::IntoResponse};
-use color_eyre::eyre::WrapErr;
 use std::sync::Arc;
 use tokio::sync::RwLock;
 
@@ -11,10 +10,7 @@ pub async fn index_route(
     let web_state = web_state.write().await;
     println!("{:#?}", web_state);
 
-    let html = templates::IndexRouteTemplate::builder()
-        .build()
-        .render()
-        .wrap_err("failed to render file page HTML template")?;
+    let html = templates::IndexRouteTemplate::builder().build().render()?;
 
     return Ok((
         [(

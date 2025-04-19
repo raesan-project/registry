@@ -1,9 +1,9 @@
-use crate::{cli, error};
+use crate::{cli, database, error, schema, tables};
 use bon;
-use color_eyre::eyre::{self};
+use color_eyre::eyre::{self, WrapErr};
+use diesel::{self, prelude::*};
 use serde_json;
 use std::{fs, path};
-use tracing;
 use uuid;
 
 pub mod reg_models;
@@ -12,10 +12,27 @@ pub mod reg_models;
 pub fn generate_database_records(
     gen_data: cli::GenerateDatabaseRecords,
 ) -> eyre::Result<(), error::Error> {
+    let database = database::Database::builder()
+        .database_url(gen_data.database)
+        .build()
+        .wrap_err("failed to create database object")?;
+    let mut conn = database
+        .pool
+        .get()
+        .wrap_err("failed to create a connection from the database pool")?;
+
     let registry = map_registry()
         .registry_path_string(gen_data.registry)
         .call()?;
-    tracing::info!("{:#?}", registry);
+
+    conn.immediate_transaction::<_, error::Error, _>(|conn| {
+        for exam in registry {
+            insert_exam(conn, exam).wrap_err("failed to insert exam records into the database")?;
+        }
+        Ok(())
+    })
+    .wrap_err("failed to commit an immediate transaction into the database")?;
+
     return Ok(());
 }
 
@@ -39,7 +56,10 @@ fn map_registry(registry_path_string: String) -> eyre::Result<Vec<reg_models::Ex
             Err(e) => return Err(e)?,
         };
 
-        let curr_exam = map_exam().exam_entry(exam_entry).call()?;
+        let curr_exam = map_exam()
+            .exam_entry(exam_entry)
+            .call()
+            .wrap_err("failed to map exam data from the registry")?;
         registry.push(curr_exam);
     }
     return Ok(registry);
@@ -92,7 +112,8 @@ fn map_exam(exam_entry: fs::DirEntry) -> eyre::Result<reg_models::Exam, error::E
         let mut curr_subject = map_subject()
             .subject_entry(subject_entry)
             .exam_entry_path_string(exam_entry_path_string.clone())
-            .call()?;
+            .call()
+            .wrap_err("failed to map subject data from the registry")?;
 
         // the exam_id is only accessible right here so we have to add it to the struct right here
         curr_subject.exam_id = curr_exam.id.clone();
@@ -161,7 +182,8 @@ fn map_subject(
         let mut curr_chapter = map_chapter()
             .chapter_entry(chapter_entry)
             .subject_entry_path_string(subject_entry_path_string.clone())
-            .call()?;
+            .call()
+            .wrap_err("failed to map chapter data from the registry")?;
 
         // the subject_id is only accessible right here so we have to add it to the struct right here
         curr_chapter.subject_id = curr_subject.id.clone();
@@ -227,7 +249,10 @@ fn map_chapter(
             ))
         })?;
     for question_entry in question_entries {
-        let mut curr_question = map_question().question_entry(question_entry).call()?;
+        let mut curr_question = map_question()
+            .question_entry(question_entry)
+            .call()
+            .wrap_err("failed to map question data from the registry")?;
 
         // the chapter_id is only accessible right here so we have to add it to the struct right here
         match &mut curr_question {
@@ -297,4 +322,112 @@ fn map_question(question_entry: &serde_json::Value) -> eyre::Result<reg_models::
             )))?;
         }
     }
+}
+
+fn insert_exam(
+    conn: &mut diesel::SqliteConnection,
+    exam: reg_models::Exam,
+) -> eyre::Result<(), error::Error> {
+    let db_exam: tables::Exam = exam.clone().into();
+    diesel::insert_into(schema::exams::table)
+        .values(&db_exam)
+        .execute(conn)
+        .map_err(|e| {
+            error::Error::DatabaseError(format!(
+                "failed to execute database query, error: {:#?}",
+                e.to_string()
+            ))
+        })?;
+    for subject in exam.subjects {
+        insert_subject(conn, subject)
+            .wrap_err("failed to insert subject records into the database")?;
+    }
+    Ok(())
+}
+
+fn insert_subject(
+    conn: &mut SqliteConnection,
+    subject: reg_models::Subject,
+) -> eyre::Result<(), error::Error> {
+    let db_subject: tables::Subject = subject.clone().into();
+    diesel::insert_into(schema::subjects::table)
+        .values(&db_subject)
+        .execute(conn)
+        .map_err(|e| {
+            error::Error::DatabaseError(format!(
+                "failed to execute database query, error: {:#?}",
+                e.to_string()
+            ))
+        })?;
+    for chapter in subject.chapters {
+        insert_chapter(conn, chapter)
+            .wrap_err("failed to insert chapter records into the database")?;
+    }
+    Ok(())
+}
+
+fn insert_chapter(
+    conn: &mut SqliteConnection,
+    chapter: reg_models::Chapter,
+) -> eyre::Result<(), error::Error> {
+    let db_chapter: tables::Chapter = chapter.clone().into();
+    diesel::insert_into(schema::chapters::table)
+        .values(&db_chapter)
+        .execute(conn)
+        .map_err(|e| {
+            error::Error::DatabaseError(format!(
+                "failed to execute database query, error: {:#?}",
+                e.to_string()
+            ))
+        })?;
+    for question in chapter.questions {
+        insert_question(conn, question)
+            .wrap_err("failed to insert question records into the database")?;
+    }
+    Ok(())
+}
+
+fn insert_question(
+    conn: &mut SqliteConnection,
+    question: reg_models::Question,
+) -> eyre::Result<(), error::Error> {
+    match question {
+        reg_models::Question::QuestionAnswer(qa) => {
+            let db_qa: tables::QuestionAnswer = qa.into();
+            diesel::insert_into(schema::question_answers::table)
+                .values(&db_qa)
+                .execute(conn)
+                .map_err(|e| {
+                    error::Error::DatabaseError(format!(
+                        "failed to execute database query, error: {:#?}",
+                        e.to_string()
+                    ))
+                })?;
+        }
+        reg_models::Question::SingleMCQ(mcq) => {
+            let db_mcq: tables::SingleMCQ = mcq.clone().into();
+            diesel::insert_into(schema::single_mcqs::table)
+                .values(&db_mcq)
+                .execute(conn)
+                .map_err(|e| {
+                    error::Error::DatabaseError(format!(
+                        "failed to execute database query, error: {:#?}",
+                        e.to_string()
+                    ))
+                })?;
+
+            let db_opts: Vec<tables::SingleMCQOption> =
+                mcq.options.into_iter().map(Into::into).collect();
+            diesel::insert_into(schema::single_mcq_options::table)
+                .values(&db_opts)
+                .execute(conn)
+                .map_err(|e| {
+                    error::Error::DatabaseError(format!(
+                        "failed to execute database query, error: {:#?}",
+                        e.to_string()
+                    ))
+                })?;
+        }
+    }
+    Ok(())
 }

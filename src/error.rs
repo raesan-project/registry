@@ -1,7 +1,9 @@
 use askama;
 use axum::{self, response::IntoResponse};
 use color_eyre::{self, eyre};
+use diesel;
 use hotwatch;
+use r2d2;
 use serde_json;
 use thiserror;
 use tracing;
@@ -31,6 +33,19 @@ pub enum Error {
 
     #[error(transparent)]
     Other(#[from] eyre::Report),
+}
+
+// this is to convert diesel::result::Error and r2d2::Error both into DatabaseError automatically because at some places
+// the map_err() method does not work properly for some reason
+impl From<diesel::result::Error> for Error {
+    fn from(e: diesel::result::Error) -> Self {
+        Error::DatabaseError(e.to_string())
+    }
+}
+impl From<r2d2::Error> for Error {
+    fn from(e: r2d2::Error) -> Self {
+        Error::DatabaseError(e.to_string())
+    }
 }
 
 // Tell axum how to convert `Error` into a response.
