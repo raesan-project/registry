@@ -1,10 +1,8 @@
-use crate::tables;
+use crate::{registry::reg_models, tables};
 
 #[derive(Debug, Clone, serde::Serialize, serde::Deserialize)]
-pub struct CreateTestPageMetadata {
-    pub exams: Vec<tables::Exam>,
-    pub subjects: Vec<tables::Subject>,
-    pub chapters: Vec<tables::Chapter>,
+pub struct CreateTestMetadata {
+    pub _data: Vec<reg_models::Exam>,
 }
 
 #[derive(Debug, Clone, serde::Serialize, serde::Deserialize)]

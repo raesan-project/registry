@@ -1,3 +1,4 @@
+use crate::tables;
 use serde;
 
 #[derive(Debug, Clone, serde::Serialize, serde::Deserialize)]
@@ -7,6 +8,16 @@ pub struct Exam {
     pub name: String,
     #[serde(default)]
     pub subjects: Vec<Subject>,
+}
+
+impl From<tables::Exam> for Exam {
+    fn from(exam: tables::Exam) -> Self {
+        Exam {
+            id: exam.id,
+            name: exam.name,
+            subjects: Vec::new(),
+        }
+    }
 }
 
 #[derive(Debug, Clone, serde::Serialize, serde::Deserialize)]
@@ -20,6 +31,17 @@ pub struct Subject {
     pub chapters: Vec<Chapter>,
 }
 
+impl From<crate::tables::Subject> for Subject {
+    fn from(subject: crate::tables::Subject) -> Self {
+        Subject {
+            id: subject.id,
+            exam_id: subject.exam_id,
+            name: subject.name,
+            chapters: Vec::new(),
+        }
+    }
+}
+
 #[derive(Debug, Clone, serde::Serialize, serde::Deserialize)]
 pub struct Chapter {
     #[serde(default)]
@@ -29,6 +51,17 @@ pub struct Chapter {
     pub name: String,
     #[serde(default)]
     pub questions: Vec<Question>,
+}
+
+impl From<crate::tables::Chapter> for Chapter {
+    fn from(chapter: crate::tables::Chapter) -> Self {
+        Chapter {
+            id: chapter.id,
+            subject_id: chapter.subject_id,
+            name: chapter.name,
+            questions: Vec::new(),
+        }
+    }
 }
 
 #[derive(Debug, Clone, serde::Serialize, serde::Deserialize)]
@@ -47,6 +80,16 @@ pub struct QuestionAnswer {
     pub body: String,
 }
 
+impl From<crate::tables::QuestionAnswer> for Question {
+    fn from(question_answer: crate::tables::QuestionAnswer) -> Self {
+        Question::QuestionAnswer(QuestionAnswer {
+            id: question_answer.id,
+            chapter_id: question_answer.chapter_id,
+            body: question_answer.body,
+        })
+    }
+}
+
 #[derive(Debug, Clone, serde::Serialize, serde::Deserialize)]
 pub struct SingleMCQ {
     #[serde(default)]
@@ -57,6 +100,17 @@ pub struct SingleMCQ {
     pub options: Vec<SingleMCQOption>,
 }
 
+impl From<crate::tables::SingleMCQ> for Question {
+    fn from(single_mcq: crate::tables::SingleMCQ) -> Self {
+        Question::SingleMCQ(SingleMCQ {
+            id: single_mcq.id,
+            chapter_id: single_mcq.chapter_id,
+            body: single_mcq.body,
+            options: Vec::new(),
+        })
+    }
+}
+
 #[derive(Debug, Clone, serde::Serialize, serde::Deserialize)]
 pub struct SingleMCQOption {
     #[serde(default)]
@@ -65,4 +119,15 @@ pub struct SingleMCQOption {
     pub single_mcq_id: String,
     pub key: String,
     pub value: String,
+}
+
+impl From<crate::tables::SingleMCQOption> for SingleMCQOption {
+    fn from(single_mcq_option: crate::tables::SingleMCQOption) -> Self {
+        SingleMCQOption {
+            id: single_mcq_option.id,
+            single_mcq_id: single_mcq_option.single_mcq_id,
+            key: single_mcq_option.key,
+            value: single_mcq_option.value,
+        }
+    }
 }
