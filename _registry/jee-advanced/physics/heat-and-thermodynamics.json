@@ -1,0 +1,367 @@
+{
+  "_index": {
+    "name": "Heat and Thermodynamics"
+  },
+  "_children": [
+    {
+      "_type": "numerical",
+      "body": "<p>The specific heat capacity of a substance is temperature dependent and is given by the formula $C=k T$, where $k$ is a constant of suitable dimensions in SI units, and $T$ is the absolute temperature. If the heat required to raise the temperature of $1 \\mathrm{~kg}$ of the substance from $-73^{\\circ} \\mathrm{C}$ to $27^{\\circ} \\mathrm{C}$ is $n k$, the value of $n$ is ________.</p>\n\n<p>[Given: $0 \\mathrm{~K}=-273{ }^{\\circ} \\mathrm{C}$.]</p>",
+      "answer": "25000",
+      "explanation": "<p>To solve this problem, we need to integrate the heat capacity over the given temperature range because the specific heat capacity is temperature dependent. We are given that the specific heat capacity $$C$$ is defined as $$C = kT$$, where $$k$$ is a constant, and $$T$$ is the absolute temperature.</p>\n\n<p>The heat required to raise the temperature, $$Q$$, can be found using the following integral:</p>\n\n<p>$$ Q = \\int_{T_1}^{T_2} C \\, dT $$</p>\n\n<p>Given $$C = kT$$, the integral becomes:</p>\n\n<p>$$ Q = \\int_{T_1}^{T_2} kT \\, dT $$</p>\n\n<p>We need to convert the given temperatures from Celsius to Kelvin. The temperatures given are:</p>\n\n<ul>\n<li>Initial temperature: $$-73^{\\circ} \\mathrm{C}$$</li>\n<li>Final temperature: $$27^{\\circ} \\mathrm{C}$$</li>\n</ul>\n\n<p>In Kelvin, these temperatures are:</p>\n\n<ul>\n<li>$$T_1 = -73^{\\circ} \\mathrm{C} + 273 = 200 \\, \\mathrm{K}$$</li>\n<li>$$T_2 = 27^{\\circ} \\mathrm{C} + 273 = 300 \\, \\mathrm{K}$$</li>\n</ul>\n\n<p>Now we can evaluate the integral:</p>\n\n<p>$$ Q = k \\int_{200}^{300} T \\, dT $$</p>\n\n<p>Integrating, we get:</p>\n\n<p>$$ Q = k \\left[ \\frac{T^2}{2} \\right]_{200}^{300} $$</p>\n\n<p>Substituting the limits of integration:</p>\n\n<p>$$ Q = k \\left[ \\frac{300^2}{2} - \\frac{200^2}{2} \\right] $$</p>\n\n<p>Solving the values inside the brackets:</p>\n\n<p>$$ Q = k \\left[ \\frac{90000}{2} - \\frac{40000}{2} \\right] $$</p>\n\n<p>$$ Q = k \\left[ 45000 - 20000 \\right] $$</p>\n\n<p>$$ Q = k \\cdot 25000 $$</p>\n\n<p>We are given that this heat is equal to $$nk$$:</p>\n\n<p>$$ nk = k \\cdot 25000 $$</p>\n\n<p>Dividing both sides by $$k$$, we get:</p>\n\n<p>$$ n = 25000 $$</p>\n\n<p>Thus, the value of $$n$$ is 25000.</p>"
+    },
+    {
+      "_type": "numerical",
+      "body": "A closed container contains a homogeneous mixture of two moles of an ideal monatomic gas $(\\gamma=5 / 3)$ and one mole of an ideal diatomic gas $(\\gamma=7 / 5)$. Here, $\\gamma$ is the ratio of the specific heats at constant pressure and constant volume of an ideal gas. The gas mixture does a work of 66 Joule when heated at constant pressure. The change in its internal energy is _______ Joule.",
+      "answer": "121",
+      "explanation": "First, we identify the heat capacities at constant volume for monatomic and diatomic gases. \n\n<br/><br/>For a monatomic ideal gas, the heat capacity at constant volume, $C_{v1}$, is $\\left(\\frac{3}{2}\\right)R$. This comes from the degrees of freedom for a monatomic gas, which are three (x, y, and z motions). \n\n<br/><br/>For a diatomic ideal gas, the heat capacity at constant volume, $C_{v2}$, is $\\left(\\frac{5}{2}\\right)R$. This comes from the degrees of freedom for a diatomic gas, which are five (x, y, and z motions and rotation about two axes).\n\n<br/><br/>Next, we find the average heat capacity at constant volume for the gas mixture, $C_{v_{\\text{mix}}}$, which is a weighted average based on the number of moles of each gas :\n\n<br/><br/>$$C_{v_{\\text{mix}}} = \\frac{n_1 C_{v1} + n_2 C_{v2}}{n_1 + n_2} = \\frac{2 \\times \\left(\\frac{3}{2}\\right)R + 1 \\times \\left(\\frac{5}{2}\\right)R}{2 + 1} = \\frac{11R}{6}$$\n\n<br/><br/>The change in internal energy $\\Delta U$ for a given number of moles $n$ and change in temperature $\\Delta T$ is given by :\n\n<br/><br/>$$\\Delta U = n C_{v} \\Delta T$$ \n\n<br/><br/>Given that the work done by the system at constant pressure is :\n\n<br/><br/>$$W = n R \\Delta T$$ \n\n<br/><br/>We can replace $\\Delta T = \\frac{W}{nR}$ in the equation for $\\Delta U$ to get :\n\n<br/><br/>$$\\Delta U = n C_{v_{\\text{mix}}} \\times \\frac{W}{n R} = C_{v_{\\text{mix}}} \\times \\frac{W}{ R} = \\frac{11R}{6} \\times \\frac{66}{ R} = 121 \\, \\text{Joule}$$\n\n<br/><br/>So the change in internal energy is indeed 121 Joule. "
+    },
+    {
+      "_type": "numerical",
+      "body": "A small object is placed at the center of a large evacuated hollow spherical container. Assume that the container is maintained at 0 K. At time t = 0, the temperature of the object is 200 K. The temperature of the object becomes 100 K at t = t<sub>1</sub> and 50 K at t = t<sub>2</sub>. Assume the object and the container to be ideal black bodies. The heat capacity of the object does not depend on temperature. The ratio (t<sub>2</sub>/t<sub>1</sub>) is ____________.",
+      "answer": "9",
+      "explanation": "T<sub>s</sub> = 0 K<br/><br/>T<sub>i</sub> = 200 K, e = 1<br/><br/>$$ - Ms{{dT} \\over {dt}} = {{dQ} \\over {dt}} = \\sigma eA{T^4}$$<br/><br/>$$ - {{dT} \\over {dt}} = {{\\sigma A{T^4}} \\over {Ms}}$$<br/><br/>$${{\\sigma A} \\over {Ms}}\\int\\limits_{{t_i}}^{{t_f}} {dt =  - \\int\\limits_{{T_i}}^{{T_f}} {{{dT} \\over {{T^4}}}} } $$<br/><br/>$${{\\sigma A} \\over {Ms}}({t_f} - {t_i}) = {1 \\over 3}\\left( {{1 \\over {T_f^3}} - {1 \\over {T_i^3}}} \\right)$$<br/><br/>$${{{{\\sigma A} \\over {Ms}}({t_1} - 0) = {1 \\over 3}\\left( {{1 \\over {{{(100)}^3}}} - {1 \\over {{{(200)}^3}}}} \\right)} \\over {{{\\sigma A} \\over {Ms}}({t_2} - 0) = {1 \\over 3}\\left( {{1 \\over {{{(50)}^3}}} - {1 \\over {{{(200)}^3}}}} \\right)}}$$<br/><br/>$${{{t_1}} \\over {{t_2}}} = {{{{{{(200)}^3} - {{(100)}^3}} \\over {{{(100)}^3}{{(200)}^3}}}} \\over {{{{{(200)}^3} - {{(50)}^3}} \\over {{{(50)}^3}{{(200)}^3}}}}}$$<br/><br/>$$\\therefore$$ $${{{t_2}} \\over {{t_1}}} = {9 \\over 1}$$"
+    },
+    {
+      "_type": "numerical",
+      "body": "A spherical bubble inside water has radius R. Take the pressure inside the bubble and the water pressure to be p<sub>0</sub>. The bubble now gets compressed radially in an adiabatic manner so that its radius becomes (R $$-$$ a). For a &lt;&lt; R the magnitude of the work done in the process in given by (4$$\\pi$$p<sub>0</sub>Ra<sup>2</sup>)X, where X is a constant and $$\\gamma$$ = C<sub>p</sub>/C<sub>v</sub> = 41/30. The value of X is ________.",
+      "answer": "2.05",
+      "explanation": "As change in the kinetic energy of the surface of the bubble is zero.\n<br><br>$$ \\therefore $$ W<sub>external</sub> + W<sub>water</sub> + W<sub>gas</sub> = 0 ....(i)\n<br><br>where W<sub>external</sub> = work done by external agent\n<br><br>W<sub>water</sub> = work done by water\n<br><br>W<sub>gas</sub> = work done by gas\n<br><br>For adiabatic process, $${P_1}V_1^\\gamma  = {P_2}V_2^\\gamma $$\n<br><br>Here, $${P_0}{\\left[ {{4 \\over 3}\\pi {R^3}} \\right]^{{{41} \\over {30}}}} = P{\\left[ {{4 \\over 3}\\pi {{\\left( {R - a} \\right)}^3}} \\right]^{{{41} \\over {30}}}}$$\n<br><br>$$ \\Rightarrow $$ P = $${P_0}{\\left[ {{R \\over {R - a}}} \\right]^{{{41} \\over {10}}}}$$\n<br><br>Now, W<sub>gas</sub> = $${{{P_1}{V_1} - {P_2}{V_2}} \\over {\\gamma  - 1}}$$\n<br><br>= $${{{P_0} \\times {4 \\over 3}\\pi {R^3} - P \\times {4 \\over 3}\\pi {{\\left( {R - a} \\right)}^3}} \\over {{{41} \\over {30}} - 1}}$$\n<br><br>= $${{{P_0} \\times {4 \\over 3}\\pi {R^3} - {P_0}{{\\left[ {{R \\over {R - a}}} \\right]}^{{{41} \\over {10}}}} \\times {4 \\over 3}\\pi {{\\left( {R - a} \\right)}^3}} \\over {{{41} \\over {30}} - 1}}$$\n<br><br>= $${{{P_0} \\times {4 \\over 3}\\pi {R^3}\\left[ {1 - {{\\left( {{R \\over {R - a}}} \\right)}^{{{41} \\over {10}}}}{{\\left( {{{R - a} \\over R}} \\right)}^3}} \\right]} \\over {{{11} \\over {30}}}}$$\n<br><br>= $${{{40} \\over {11}}{P_0}\\pi {R^3}\\left[ {1 - {{\\left( {{{R - a} \\over R}} \\right)}^{ - {{41} \\over {10}}}}{{\\left( {{{R - a} \\over R}} \\right)}^3}} \\right]}$$\n<br><br>= $${{40} \\over {11}}{P_0}\\pi {R^3}\\left[ {1 - {{\\left( {1 - {a \\over R}} \\right)}^{ - {{11} \\over {10}}}}} \\right]$$\n<br><br>= $${{40} \\over {11}}{P_0}\\pi {R^3}\\left[ {1 - 1 - {{11a} \\over {10R}} - {{\\left( { - {{11} \\over {10}}} \\right)\\left( { - {{11} \\over {10}} - 1} \\right)} \\over 2}{{{a^2}} \\over {{R^2}}}} \\right]$$\n<br><br>= -4P<sub>0</sub>$$\\pi $$R<sup>2</sup>$$a$$ - $${{40 \\times 21} \\over {100 \\times 2}}{P_0}\\pi R{a^2}$$\n<br><br>= -4P<sub>0</sub>$$\\pi $$R<sup>2</sup>$$a$$ - $$4.2{P_0}\\pi R{a^2}$$\n<br><br>W<sub>water</sub> = P<sub>0</sub>dV\n<br><br>= P<sub>0</sub>$${\\left[ {{4 \\over 3}\\pi {R^3} - {4 \\over 3}\\pi {{\\left( {R - a} \\right)}^3}} \\right]}$$\n<br><br>= $${{{4{P_0}} \\over 3}\\pi \\left[ {{R^3} - {{\\left( {R - a} \\right)}^3}} \\right]}$$\n<br><br>= $${{{4{P_0}} \\over 3}\\pi \\left[ {\\left[ {R - \\left( {R - a} \\right)} \\right]\\left[ {{R^2} + R\\left( {R - a} \\right) + {{\\left( {R - a} \\right)}^2}} \\right]} \\right]}$$\n<br><br>= $${{{4{P_0}} \\over 3}\\pi \\left[ {\\left[ a \\right]\\left[ {3{R^2} - 3Ra + {a^2}} \\right]} \\right]}$$\n<br><br>= $${{{4{P_0}} \\over 3}\\pi \\left[ {\\left( {3{R^2}a - 3R{a^2} + {a^3}} \\right)} \\right]}$$\n<br><br>= $${4{P_0}\\pi \\left[ {{R^2}a - R{a^2}} \\right]}$$ [ignore $${{a^3}}$$ term as no $${{a^3}}$$ term in the question]\n<br><br>$$ \\therefore $$ W<sub>gas</sub> + W<sub>water</sub> = -$$4{P_0}\\pi R{a^2}$$ - $$4.2{P_0}\\pi R{a^2}$$\n<br><br>= $$ - 4{P_0}\\pi R{a^2}\\left[ {1 + 1.05} \\right]$$\n<br><br>= $$ - 4{P_0}\\pi R{a^2}\\left[ {2.05} \\right]$$\n<br><br>From (i), W<sub>external</sub> = - (W<sub>gas</sub> + W<sub>water</sub>)\n<br><br>= $$4{P_0}\\pi R{a^2}\\left[ {2.05} \\right]$$\n<br><br>$$ \\therefore $$ X = 2.05"
+    },
+    {
+      "_type": "numerical",
+      "body": "A container with 1 kg of water in it is kept in sunlight, which causes the water to get warmer than the surroundings. The average energy per unit time per unit area received due to the sunlight is 700 Wm<sup>$$-$$2</sup> and it is absorbed by the water over an effective area of 0.05m<sup>2</sup>. Assuming that the heat loss from the water to the surroundings is governed by Newton's law of cooling, the difference (in $$^\\circ$$C) in the temperature of water and the surroundings after a long time will be ___________. (Ignore effect of the container, and take constant for Newton's law of cooling = 0.001 s<sup>$$-$$1</sup>, Heat capacity of water = 4200 J kg<sup>$$-$$1</sup> K<sup>$$-$$1</sup>)",
+      "answer": "8.33",
+      "explanation": "$${{dQ} \\over {dt}} = e\\sigma A({T^4} - T_0^4)$$<br><br>For small temperature change,<br><br>$${{dQ} \\over {dt}} = e\\sigma A{T^3}\\Delta T$$ .... (i)<br><br>$${{mCdT} \\over {dt}} = e\\sigma A{T^3}\\Delta T $$<br><br>$$\\Rightarrow {{dT} \\over {dt}} = {{e\\sigma A{T^3}} \\over {mC}}\\Delta T$$<br><br>$${{e\\sigma A{T^3}} \\over {mC}}$$ $$\\to$$ constant for Newton law of cooling<br><br>$$ \\therefore $$ $${{e\\sigma A{T^3}} \\over {mC}} = 0.001 $$\n<br><br>$$\\Rightarrow e\\sigma A{T^3} = mC \\times 0.001 = 1 \\times 4200 \\times 0.001$$<br><br>$$e\\sigma A{T^3} = 4.2$$ .... (ii)<br><br>$${{dQ} \\over {dt}} = 700 \\times 0.05 = 35$$ W ..... (iii)<br><br>Putting the value of Eqs. (ii) and (iii) in Eq. (i), we get<br><br>$$35 = 4.2\\Delta T \\Rightarrow {{35} \\over {4.2}} = \\Delta T \\Rightarrow \\Delta T = 8.33$$"
+    },
+    {
+      "_type": "numerical",
+      "body": "One mole of a monatomic ideal gas undergoes an adiabatic expansion in which its volume becomes eight times its initial value. If the initial temperature of the gas is $$100\\,K$$ and the universal gas constant $$R=8.0$$ $$J\\,mo{l^{ - 1}}{K^{ - 1}},$$ the decrease in its internal energy, in <i>Joule,</i> is ____________. ",
+      "answer": "900",
+      "explanation": "<p>The degrees of freedom of a monatomic gas is f = 3. Its molar specific heats are $${C_v} = {f \\over 2}RT$$ and $${C_p} = {C_v} + R = {{(f + 2)} \\over 2}RT$$. The ratio of specific heats is given by</p>\n<p>$$\\gamma  = {C_p}/{C_v} = (f + 2)/f = 5/3$$.</p>\n<p>In an adiabatic process, $$TV_{}^{\\gamma  - 1}$$ = constant. Hence, $${T_1}V_1^{\\gamma  - 1} = {T_2}V_2^{\\gamma  - 1}$$, which gives</p>\n<p>$${T_2} = {T_1}{({V_1}/{V_2})^{\\gamma  - 1}} = 100{(1/8)^{5/3 - 1}} = 25\\,K$$,</p>\n<p>where we used T<sub>1</sub> = 100 K and V<sub>2</sub> = 8V<sub>1</sub>. The change in internal energy of one mole of the ideal gas is</p>\n<p>$$\\Delta U = {U_2} - {U_1} = {f \\over 2}R{T_2} - {f \\over 2}R{T_1} = {f \\over 2}R({T_2} - {T_1})$$</p>\n<p>$$ = (3/2)(8)(25 - 100) =  - 900\\,J$$.</p>\n<p>Thus, the decrease in internal energy of the gas is 900 J.</p>"
+    },
+    {
+      "_type": "numerical",
+      "body": "A metal is heated in a furnace where a sensor is kept above the metal surface to read the power radiated (P)\nby the metal. The sensor has a scale that displays $${\\log _2}\\left( {{P \\over {{P_0}}}} \\right)$$, where P<sub>0</sub> is a constant. When the metal\nsurface is at a temperature of 487<sup>o</sup>C, the sensor shows a value 1. Assume that the emissivity of the metallic\nsurface remains constant. What is the value displayed by the sensor when the temperature of the metal\nsurface is raised to 2767<sup>o</sup>C?",
+      "answer": "9",
+      "explanation": "$${\\log _2} = {{{p_1}} \\over {{p_0}}} = 1$$<br><br>Therefore, $${{{p_1}} \\over {{p_0}}} = 2$$<br><br>According to Stefan's law, p $$ \\propto $$ T<sup>2</sup><br><br>$$ \\Rightarrow {{{p_2}} \\over {{p_1}}} = {\\left( {{{{T_2}} \\over {{T_1}}}} \\right)^4} = {\\left( {{{2767 + 273} \\over {487 + 273}}} \\right)^4} = {4^4}$$<br><br>$${{{p_2}} \\over {{p_1}}} = {{{p_2}} \\over {2{p_0}}} = {4^4} \\Rightarrow {{{p_2}} \\over {{p_0}}} = 2 \\times {4^4}$$<br><br>$${\\log _2}{{{p_2}} \\over {{p_0}}} = {\\log _2}[2 \\times {4^4}]$$<br><br>$$ = {\\log _2}2 + {\\log _2}{4^4}$$<br><br>$$ = 1 + {\\log _2}{2^8} = 1 + 8 = 9$$"
+    },
+    {
+      "_type": "numerical",
+      "body": "Two spherical stars A and B emit blackbody radiation. The radius of A is 400 times that of B and A emits\n10<sup>4</sup> times the power emitted from B. The ratio $$\\left( {{{{\\lambda _A}} \\over {{\\lambda _B}}}} \\right)$$ of their wavelengths $${{\\lambda _A}}$$ and $${{\\lambda _B}}$$ at which the peaks\noccur in their respective radiation curves is",
+      "answer": "2",
+      "explanation": "<p>Power, $$P = (\\sigma {T^4}A) = \\sigma {T^4}(4\\pi {R^2})$$</p>\n<p>or, $$P \\propto {T^4}{R^2}$$ ..... (i)</p>\n<p>According to Wien's law,</p>\n<p>$$\\lambda  \\propto {1 \\over T}$$</p>\n<p>($$\\lambda$$ is the wavelength at which peak occurs)</p>\n<p>$$\\therefore$$ Eq. (i) will become,</p>\n<p>$$P \\propto {{{R^2}} \\over {{\\lambda ^4}}}$$</p>\n<p>or, $$\\lambda  \\propto {\\left[ {{{{R^2}} \\over P}} \\right]^{1/4}}$$</p>\n<p>$$ \\Rightarrow {{{\\lambda _A}} \\over {{\\lambda _B}}} = {\\left[ {{{{R_A}} \\over {{R_B}}}} \\right]^{1/2}}{\\left[ {{{{P_B}} \\over {{P_A}}}} \\right]^{1/4}}$$</p>\n<p>$$ = {[400]^{1/2}}{\\left[ {{1 \\over {{{10}^4}}}} \\right]^{1/4}} = 2$$</p>"
+    },
+    {
+      "_type": "numerical",
+      "body": "Steel wire of lenght ‘L’ at 40<sup>o</sup>C is suspended from the ceiling and then a mass ‘m’ is hung from its free\nend. The wire is cooled down from 40<sup>o</sup>C to 30<sup>o</sup>C to regain its original length ‘L’. The coefficient of linear\nthermal expansion of the steel is 10<sup>−5</sup> /<sup>o</sup>C, Young’s modulus of steel is 10<sup>11</sup> N/m<sup>2</sup> and radius of the wire is 1 mm. Assume that L &gt;&gt; diameter of the wire. Then the value of ‘m’ in kg is nearly",
+      "answer": "3",
+      "explanation": "<p>Change in length $$\\Delta L = L\\,\\alpha \\,\\Delta T$$ ..... (i)</p>\n<p>Also $$Y = {{mgL} \\over {A\\Delta L}} \\Rightarrow \\Delta L = {{mgL} \\over {YA}}$$ ..... (ii)</p>\n<p>Equation (i) and (ii) we get ($$\\because$$ $$A = \\pi {r^2}$$)</p>\n<p>$$m = {{\\alpha \\Delta TY \\times \\pi {r^2}} \\over g}$$</p>\n<p>$$ = {{({{10}^{ - 5}}) \\times (10) \\times ({{10}^{11}}) \\times 3.14 \\times {{(1 \\times {{10}^{ - 3}})}^2}} \\over {9.8}}$$</p>\n<p>= 3.2 kg $$ \\simeq $$ 3 kg</p>"
+    },
+    {
+      "_type": "numerical",
+      "body": "Two spherical bodies A (radius 6 cm ) and B (radius 18 cm ) are at temperature T<sub>1</sub> and T<sub>2</sub>, respectively.\nThe maximum intensity in the emission spectrum of A is at 500 nm and in that of B is at 1500 nm.\nConsidering them to be black bodies, what will be the ratio of the rate of total energy radiated by A to that\nof B?",
+      "answer": "9",
+      "explanation": "<p>According to Wien's displacement law, $$\\lambda$$<sub>m</sub>T = constant</p>\n<p>$$\\therefore$$ $${({\\lambda _m})_A}{T_A} = {({\\lambda _m})_B}{T_B}$$</p>\n<p>or, $${{{T_A}} \\over {{T_B}}} = {{{{({\\lambda _m})}_B}} \\over {{{({\\lambda _m})}_A}}} = {{1500\\,nm} \\over {500\\,nm}}$$ or $${{{T_A}} \\over {{T_B}}} = 3$$ ...... (i)</p>\n<p>According to Stefan Boltzmann law, rate of energy radiated by a black body</p>\n<p>$$E = \\sigma A{T^4} = \\sigma 4\\pi {R^2}{T^4}$$ [Here, $$A = 4\\pi {R^2}$$]</p>\n<p>$$\\therefore$$ $${{{E_A}} \\over {{E_B}}} = {\\left( {{{{R_A}} \\over {{R_B}}}} \\right)^2}{\\left( {{{{T_A}} \\over {{T_B}}}} \\right)^4} = {\\left( {{{6\\,cm} \\over {18\\,cm}}} \\right)^2}{(3)^4}$$ (Using (i))</p>\n<p>$$ = 9$$</p>"
+    },
+    {
+      "_type": "numerical",
+      "body": "A piece of ice (heat capacity = 2100 J kg<sup>-1</sup> <sup>o</sup>C<sup>-1</sup> and latent heat = 3.36 $$ \\times $$ 10<sup>5</sup> J kg<sup>-1</sup> ) of mass m grams is at\n- 5 <sup>o</sup>C at atmospheric pressure. It is given 420 J of heat so that the ice starts melting. Finally when the\nice-water mixture is in equilibrium, it is found that 1 gm of ice has melted. Assuming there is no other heat\nexchange in the process, the value of m is",
+      "answer": "8",
+      "explanation": "<p>In the final state, ice-water mixture is in equilibrium. Thus, the temperature of m grams of ice is raised from $$-$$5 $$^\\circ$$C to 0 $$^\\circ$$C. The heat absorbed in this process is</p>\n<p>Q<sub>1</sub> = mS$$\\Delta$$T. ...... (1)</p>\n<p>The state of m<sub>1</sub> = 1 g of ice is changed from solid to liquid. The heat absorbed in the melting process is</p>\n<p>Q<sub>2</sub> = m<sub>1</sub>L. ........ (2)</p>\n<p>The heat supplied is Q = 420 J. By energy conservation, Q = Q<sub>1</sub> + Q<sub>2</sub>. Substitute Q<sub>1</sub> and Q<sub>2</sub> from equations (1) and (2) to get</p>\n<p>$$m = {{Q - {m_1}L} \\over {S\\Delta T}} = {{420 - ({{10}^{ - 3}})(3.36 \\times {{10}^5})} \\over {(2100)(5)}}$$</p>\n<p>$$ = 8 \\times {10^{ - 3}}$$ kg = 8 g.</p>"
+    },
+    {
+      "_type": "numerical",
+      "body": "A diatomic ideal gas is compressed adiabatically $${1 \\over {32}}$$ of its initial volume. If the initial temperature of the gas is T<sub>i</sub> (in Kelvin) and the final temperature is a T<sub>i</sub>, the value of $$a$$ is",
+      "answer": "4",
+      "explanation": "<p>The diatomic gas has five degrees of freedom i.e., f = 5. Thus, the internal energy per mole, specific heat at constant volume, specific heat at constant pressure, and the ratio of specific heats for a diatomic gas, are given by</p>\n<p>$$U = (f/2)RT = (5/2)RT$$, $${C_v} = dU/dT = 5R/2$$, $${C_p} = {C_v} + R = 7R/2$$, $$\\gamma  = {C_p}/{C_v} = 7/5$$.</p>\n<p>For an adiabatic process, $$T{V^{\\gamma  - 1}}$$ = constant</p>\n<p>$${T_i}V_i^{\\gamma  - 1} = {T_f}V_f^{\\gamma  - 1}$$</p>\n<p>Substituting the given values, we get</p>\n<p>$${T_i}V_i^{\\gamma  - 1} = a{T_i}{\\left( {{{{V_i}} \\over {32}}} \\right)^{\\gamma  - 1}} \\Rightarrow a = {32^{\\gamma  - 1}}$$</p>\n<p>For diatomic gas, $$\\gamma  = {7 \\over 5}$$</p>\n<p>$$a = {32^{{7 \\over 5} - 1}} = {32^{2/5}} = {2^2} = 4$$</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "An ideal gas is in thermodynamic equilibrium. The number of degrees of freedom of a molecule of the gas is $n$. The internal energy of one mole of the gas is $U_n$ and the speed of sound in the gas is $\\mathrm{v}_n$. At a fixed temperature and pressure, which of the following is the correct option?",
+      "options": [
+        {
+          "key": "A",
+          "value": "$v_3 < v_6$ and $U_3 > U_6$"
+        },
+        {
+          "key": "B",
+          "value": "$v_5 > v_3$ and $U_3 > U_5$"
+        },
+        {
+          "key": "C",
+          "value": "$v_5 > v_7$ and $U_5 < U_7$"
+        },
+        {
+          "key": "D",
+          "value": "$v_6 < v_7$ and $U_6 < U_7$"
+        }
+      ],
+      "answer": "C",
+      "explanation": "\n\n<b>1. Formula for Sound Velocity:</b>\n <br/><br/>  - The velocity of sound, denoted as $$ v $$, is determined by the equation $$ v = \\sqrt{\\frac{\\gamma R T}{M}} $$, where:\n  <br/><br/>   - $$ \\gamma $$ is a factor given by $$ \\gamma = 1 + \\frac{2}{n} $$.\n   <br/><br/>  - $$ R $$ is the gas constant.\n    <br/><br/> - $$ T $$ is the temperature.\n    <br/><br/> - $$ M $$ is the molar mass of the gas.\n\n<br/><br/><b>2. Relation of $$ \\gamma $$ with $$ n $$:</b>\n   <br/><br/>- The value of $$ \\gamma $$ is inversely related to $$ n $$. This means as $$ n $$ increases, $$ \\gamma $$ decreases.\n\n<br/><br/><b>3. Internal Energy Relation:</b>\n<br/><br/>   - The internal energy, denoted as $$ U $$, for a mole of gas is given by $$ U = \\frac{n R T}{2} $$.\n\n<br/><br/><b>4. Effect of Increasing $$ n $$ on Sound Velocity and Internal Energy:</b>\n<br/><br/> When the value of $$ n $$ increases:\n<br/><br/>     - The factor $$ \\gamma $$ decreases, according to its formula.\n<br/><br/>     - As a result, the velocity of sound $$ v $$ also decreases, as it is dependent on $$ \\sqrt{\\gamma} $$.\n<br/><br/>     - Conversely, the internal energy $$ U_n $$ increases with the increase in $$ n $$, as evident from the internal energy formula.\n\n<p>Therefore, in summary, a higher value of $$ n $$ leads to a lower velocity of sound and higher internal energy in the context of these formulas.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Match the temperature of a black body given in List-I with an appropriate statement in List-II, and choose the correct option.<br/><br/>\n[Given: Wien's constant as $2.9 \\times 10^{-3} \\mathrm{~m}-\\mathrm{K}$ and $\\frac{h c}{e}=1.24 \\times 10^{-6} \\mathrm{~V}-\\mathrm{m}$ ]<br/><br/>\n<style type=\"text/css\">\n.tg  {border-collapse:collapse;border-spacing:0;width:100%}\n.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg .tg-1wig{font-weight:bold;text-align:left;vertical-align:top}\n.tg .tg-0lax{text-align:left;vertical-align:top}\n</style>\n<table class=\"tg\">\n<thead>\n  <tr>\n    <th class=\"tg-1wig\">List - I</th>\n    <th class=\"tg-1wig\">List - II</th>\n  </tr>\n</thead>\n<tbody>\n  <tr>\n    <td class=\"tg-0lax\">(P) $2000 \\mathrm{~K}$</td>\n    <td class=\"tg-0lax\">(1) The radiation at peak wavelength can lead to emission of photoelectrons from a metal of work function $4 \\mathrm{eV}$.</td>\n  </tr>\n  <tr>\n    <td class=\"tg-0lax\">(Q) $3000 \\mathrm{~K}$</td>\n    <td class=\"tg-0lax\">(2) The radiation at peak wavelength is visible to human eye.</td>\n  </tr>\n  <tr>\n    <td class=\"tg-0lax\">(R) $5000 \\mathrm{~K}$</td>\n    <td class=\"tg-0lax\">(3) The radiation at peak emission wavelength will result in the widest central maximum of a single slit diffraction.</td>\n  </tr>\n  <tr>\n    <td class=\"tg-0lax\">(S) $10000 \\mathrm{~K}$</td>\n    <td class=\"tg-0lax\">(4) The power emitted per unit area is $1 / 16$ of that emitted by a blackbody at temperature $6000 \\mathrm{~K}$.</td>\n  </tr>\n  <tr>\n    <td class=\"tg-0lax\"></td>\n    <td class=\"tg-0lax\">(5) The radiation at peak emission wavelength can be used to image human bones.</td>\n  </tr>\n</tbody>\n</table>",
+      "options": [
+        {
+          "key": "A",
+          "value": "$P \\rightarrow 3, Q \\rightarrow 5, R \\rightarrow 2, S \\rightarrow 3$"
+        },
+        {
+          "key": "B",
+          "value": "$P \\rightarrow 3, Q \\rightarrow 2, R \\rightarrow 4, S \\rightarrow 1$"
+        },
+        {
+          "key": "C",
+          "value": "$P \\rightarrow 3, Q \\rightarrow 4, R \\rightarrow 2, S \\rightarrow 1$"
+        },
+        {
+          "key": "D",
+          "value": "$P \\rightarrow 1, Q \\rightarrow 2, R \\rightarrow 5, S \\rightarrow 3$"
+        }
+      ],
+      "answer": "C",
+      "explanation": "$\\lambda_m T=b$\n<br/><br/>For option $(\\mathrm{P})$ temperature is minimum hence $\\lambda _\\mathrm{m}$ will be maximum.\n<br/><br/>$\\lambda_m=\\frac{b}{T}=\\frac{2.9 \\times 10^{-3}}{2000}=1.45 \\times 10^{-6} \\mathrm{~m}=1450 \\mathrm{~nm}$\n<br/><br/>$\\begin{aligned} & \\sin \\theta=\\frac{\\lambda}{d} \\\\\\\\ & 2 \\theta=\\text { width of central maximum } \\\\\\\\ \\Rightarrow & \\text { width } \\propto \\lambda . \\\\\\\\ \\Rightarrow & \\text {maximum width of }(\\mathrm{P}) \\\\\\\\ & \\mathrm{P} \\rightarrow 3\\end{aligned}$\n<br/><br/>$\\begin{aligned} & \\Rightarrow \\text { For option }(\\mathrm{Q}),\\mathrm{T}=3000 \\\\\\\\ & \\\\ & \\lambda_\\mathrm{m}=\\frac{\\mathrm{b}}{\\mathrm{T}}=\\frac{2.9 \\times 10^{-3}}{30000} \\\\\\\\ & \\lambda_\\mathrm{m}=\\frac{2.9}{3} \\times 10^{-6} \\\\\\\\ & =0.96 \\times 10^{-6} \\\\\\\\ & =966.6 \\mathrm{~nm} \\\\\\\\ & \\mathrm{P}_{3000}=6 \\mathrm{~A}(3000)^4 \\\\\\\\ & \\mathrm{P}_{6000}=6 \\mathrm{~A}(6000)^4 \\\\\\\\ & \\frac{\\mathrm{P}_{3000}}{\\mathrm{P}_{6000}}=\\left(\\frac{1}{2}\\right)^4=\\frac{1}{16} \\\\\\\\ & \\mathrm{P}_{3000}=\\frac{1}{16} \\mathrm{P}_{6000} \\\\\\\\ & \\mathrm{Q}-4\\end{aligned}$\n<br/><br/>$\\begin{aligned} \\Rightarrow & \\text { For }(\\mathrm{R}), \\mathrm{T}=5000 \\mathrm{~K} \\\\\\\\ & \\lambda_\\mathrm{m}=\\frac{2.9 \\times 10^{-3}}{5 \\times 10^3}=0.58 \\times 10^{-6} \\\\\\\\ & =580 \\mathrm{~nm} \\\\\\\\ & \\text { Visible to human eyes } \\\\\\\\ & \\mathrm{R}-2\\end{aligned}$\n<br/><br/>For $(S), T=10,000 K$\n<br/><br/>$\\lambda_m T=b \\Rightarrow \\lambda_m=\\frac{2.9 \\times 10^{-3}}{10,000}=290 \\mathrm{~nm}$\n<br/><br/>$$\n\\begin{aligned}\n\\phi & =4 e \\mathrm{~V} \\\\\\\\\n\\Rightarrow \\lambda_{\\mathrm{T}} & =\\frac{1240}{4}=310 \\mathrm{n} \\mathrm{m}\n\\end{aligned}\n$$\n\n<br/><br/>To emit photoelectron\n<br/><br/>$$\n\\begin{aligned}\n& \\lambda_0 < \\lambda_{\\mathrm{T}} \\\\\\\\\n& \\Rightarrow \\mathrm{S} \\rightarrow 1\n\\end{aligned}\n$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p> List I describes thermodynamic processes in four different systems. List II gives the magnitudes (either exactly or as a close approximation) of possible changes in the internal energy of the system due to the process.</p>\n<p><style type=\"text/css\">\n.tg  {border-collapse:collapse;border-spacing:0;}\n.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg .tg-7btt{border-color:inherit;font-weight:bold;text-align:center;vertical-align:top}\n.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}\n</style>\n<table class=\"tg\">\n<thead>\n  <tr>\n    <th class=\"tg-7btt\">List-I</th>\n    <th class=\"tg-7btt\"><span style=\"font-weight:bold;font-style:normal\">List-II</span></th>\n  </tr>\n</thead>\n<tbody>\n  <tr>\n    <td class=\"tg-0pky\">(I) $10^{-3} \\mathrm{~kg}$ of water at $100^{\\circ} \\mathrm{C}$ is converted to steam at the same temperature, at a pressure of $10^{5} \\mathrm{~Pa}$. The volume of the system changes from $10^{-6} \\mathrm{~m}^{3}$ to $10^{-3} \\mathrm{~m}^{3}$ in the process. Latent heat of water $=2250\\, \\mathrm{~kJ} / \\mathrm{kg}$.<br></td>\n    <td class=\"tg-0pky\">(P) $2 \\mathrm{~kJ}$ </td>\n  </tr>\n  <tr>\n    <td class=\"tg-0pky\">(II) $0.2$ moles of a rigid diatomic ideal gas with volume $V$ at temperature $500 \\mathrm{~K}$ undergoes an isobaric expansion to volume $3 \\mathrm{~V}$. Assume $R=8.0 \\mathrm{Jmol}^{-1} \\mathrm{~K}^{-1}$.<br></td>\n    <td class=\"tg-0pky\"><span style=\"font-weight:400;font-style:normal\">(Q) $7 k J$</span></td>\n  </tr>\n  <tr>\n    <td class=\"tg-0pky\">(III) One mole of a monatomic ideal gas is compressed adiabatically from volume $V=\\frac{1}{3} \\mathrm{~m}^{3}$ and pressure $2 \\mathrm{kPa}$ to volume $\\frac{V}{8}$.<br></td>\n    <td class=\"tg-0pky\">(R) $4 \\mathrm{~kJ}$</td>\n  </tr>\n  <tr>\n    <td class=\"tg-0pky\">(IV) Three moles of a diatomic ideal gas whose molecules can vibrate, is given $9 \\mathrm{~kJ}$ of heat and undergoes isobaric expansion.<br></td>\n    <td class=\"tg-0pky\">(S) $5 \\mathrm{~kJ}$</td>\n  </tr>\n  <tr>\n    <td class=\"tg-0pky\"></td>\n    <td class=\"tg-0pky\">(T) $3 \\mathrm{~kJ}$</td>\n  </tr>\n</tbody>\n</table></p>\n<p>Which one of the following options is correct?\n</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "I $\\rightarrow$ T, II $\\rightarrow$ R, III $\\rightarrow$ S, IV $\\rightarrow$ Q"
+        },
+        {
+          "key": "B",
+          "value": "I $\\rightarrow$ S, II $\\rightarrow$ P, III $\\rightarrow$ T, IV $\\rightarrow$ P"
+        },
+        {
+          "key": "C",
+          "value": "I $\\rightarrow$ P, II $\\rightarrow$ R, III $\\rightarrow$ T, IV $\\rightarrow$ Q"
+        },
+        {
+          "key": "D",
+          "value": "I $\\rightarrow$ Q, II $\\rightarrow$ R, III $\\rightarrow$ S, IV $\\rightarrow$ T"
+        }
+      ],
+      "answer": "C",
+      "explanation": "<p>$$U = ML - P\\Delta V$$</p>\n<p>$$ = {10^{ - 3}} \\times 2250 - {10^2}kP \\times ({10^{ - 3}} - {10^{ - 6}})$$ m<sup>3</sup></p>\n<p>= 2.25 kJ $$-$$ 0.1 kJ</p>\n<p>= 2.15 kJ</p>\n<p>I $$\\to$$ P</p>\n<p>(II) $${C_V} = {{5R} \\over 2}$$ (rigid diatomic)</p>\n<p>For isobaric expansion</p>\n<p>$$V \\propto T$$</p>\n<p>$${{{V_1}} \\over {{V_2}}} = {{{T_1}} \\over {{T_2}}} \\Rightarrow {V \\over {3V}} = {{500} \\over {{T_2}}} \\Rightarrow {T_2} = 1500\\,K$$</p>\n<p>$$\\Delta U = n{C_V}\\Delta T = 0.2 \\times {{5 \\times 8} \\over 2} \\times (1500 - 500)$$ J = 4 kJ</p>\n<p>II $$\\to$$ R</p>\n<p>(III) Adiabatic expansion $$\\left( {\\gamma  = {5 \\over 3}} \\right)$$</p>\n<p>$${P_1}V_1^\\gamma  = {P_2}V_2^\\gamma  \\Rightarrow $$ (2 kPa) $$ \\times V_0^{5/3} = {P_2} \\times {\\left( {{{{V_0}} \\over 8}} \\right)^{5/3}}$$</p>\n<p>$${P_2} = 64$$ kPa</p>\n<p>$$\\Delta U = n{C_V}\\Delta T$$</p>\n<p>$$ = {{3nR\\Delta T} \\over 2} = {3 \\over 2}({P_2}{V_2} - {P_1}{V_1}) = {3 \\over 2} \\times \\left( {64 \\times {1 \\over {3 \\times 8}} - 2 \\times {1 \\over 3}} \\right)$$</p>\n<p>$$ = {3 \\over 2} \\times \\left( {{8 \\over 3} - {2 \\over 3}} \\right) = 3$$ kJ</p>\n<p>III $$\\to$$ T</p>\n<p>(IV) For isobaric expaision,</p>\n<p>$$\\Delta U = n{C_V}\\Delta T = {7 \\over 2}\\,nR\\Delta T$$</p>\n<p>$$\\Delta Q = n{C_P}\\Delta T = {9 \\over 2}\\,nR\\Delta T$$</p>\n<p>$${{\\Delta U} \\over {\\Delta Q}} = {7 \\over 9}$$</p>\n<p>$$\\Delta U = {7 \\over 9}\\Delta Q = 7$$ kJ</p>\n<p>IV $$\\to$$ Q</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Parallel rays of light of intensity $$I$$ = 912 Wm<sup>–2</sup> are incident on a spherical black body kept in surroundings\nof temperature 300 K. Take Stefan-Boltzmann constant $$\\sigma $$ = 5.7 $$ \\times $$ 10<sup>–8</sup> Wm<sup>–2</sup>K<sup>–4</sup> and assume that the energy\nexchange with the surroundings is only through radiation. The final steady state temperature of the black\nbody is close to",
+      "options": [
+        {
+          "key": "A",
+          "value": "330 K"
+        },
+        {
+          "key": "B",
+          "value": "660 K"
+        },
+        {
+          "key": "C",
+          "value": "990 K"
+        },
+        {
+          "key": "D",
+          "value": "1550 K"
+        }
+      ],
+      "answer": "A",
+      "explanation": "<p>Effective area of incident light = $$\\pi$$r<sup>2</sup></p>\n<p>Total energy per second = 912 $$\\times$$ $$\\pi$$r<sup>2</sup></p>\n<p>From Stefan's law, we have</p>\n<p>E = Ae $$\\sigma$$ (T<sup>4</sup> $$-$$ T$$_0^4$$)</p>\n<p>For black body emissivity, e = 1.</p>\n<p>A = 4$$\\pi$$r<sup>2</sup></p>\n<p>912 $$\\times$$ $$\\pi$$r<sup>2</sup> = 4$$\\pi$$r<sup>2</sup> $$\\times$$ 5.7 $$\\times$$ 10<sup>$$-$$8</sup> [T<sup>4</sup> $$-$$ 300<sup>4</sup>]</p>\n<p>$$({T^4} - {300^4}) = {{912} \\over {4 \\times 5.7 \\times {{10}^{ - 8}}}} = 40 \\times {10^8}$$</p>\n<p>$${T^4} = 40 \\times {10^8} + {3^4} \\times {10^8}$$</p>\n<p>$${T^4} = (90 + 81) \\times {10^8} \\Rightarrow 121 \\times {10^8}$$</p>\n<p>$$T = {(121)^{1/4}} \\times 100 = \\sqrt {11}  \\times 100 \\Rightarrow 3.3 \\times 100$$</p>\n<p>T = 330 K</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Two non-reactive monoatomic ideal gases have their atomic masses in the ratio 2 : 3. The ratio of their\npartial pressures, when enclosed in a vessel kept at a constant temperature, is 4 : 3. The ratio of their\ndensities is",
+      "options": [
+        {
+          "key": "A",
+          "value": "1 : 4"
+        },
+        {
+          "key": "B",
+          "value": "1 : 2"
+        },
+        {
+          "key": "C",
+          "value": "6 : 9"
+        },
+        {
+          "key": "D",
+          "value": "8 : 9"
+        }
+      ],
+      "answer": "D",
+      "explanation": "<p>To determine the ratio of the densities of the two non-reactive monoatomic ideal gases, we can use the ideal gas law and the given information. The ideal gas law is given by:</p>\n\n<p>$$ PV = nRT $$</p>\n\n<p>Where:</p>\n\n<ul>\n\n<li><strong>P</strong> is the pressure</li>\n\n<li><strong>V</strong> is the volume</li>\n\n<li><strong>n</strong> is the number of moles</li>\n\n<li><strong>R</strong> is the gas constant</li>\n\n<li><strong>T</strong> is the temperature</li>\n\n</ul>\n\n<p>Given that the gases are monoatomic and non-reactive, their molecular masses are directly proportional to their atomic masses. Let the atomic masses of the two gases be $M_1$ and $M_2$, with $M_1 : M_2 = 2 : 3$.\n\n<p>The density ($\\rho$) of a gas is given by the formula:</p>\n\n<p>$$ \\rho = \\frac{m}{V} $$</p>\n\n<p>Where $m$ is the mass and $V$ is the volume. Using the ideal gas law, we can relate density to pressure and temperature.</p>\n\n<p>From the ideal gas law:</p>\n\n<p>$$ PV = nRT $$</p>\n\n<p>Since $ n = \\frac{m}{M} $, where $M$ is the molar mass, we have:</p>\n\n<p>$$ P = \\frac{mRT}{MV} $$</p>\n\n<p>Rearranging to solve for density ($\\rho\\ = \\frac{m}{V}$):</p>\n\n<p>$$ \\rho = \\frac{PM}{RT} $$</p>\n\n<p>Thus, the density of a gas is directly proportional to its pressure and molar mass, and inversely proportional to the temperature. Given that the ratio of their partial pressures $P_1 : P_2 = 4 : 3$, we can write:</p>\n\n<p>$$ \\rho_1 = \\frac{P_1 M_1}{RT} $$</p>\n\n<p>$$ \\rho_2 = \\frac{P_2 M_2}{RT} $$</p>\n\n<p>Taking the ratio of the densities:</p>\n\n<p>$$ \\frac{\\rho_1}{\\rho_2} = \\frac{\\left(\\frac{P_1 M_1}{RT}\\right)}{\\left(\\frac{P_2 M_2}{RT}\\right)} = \\frac{P_1 M_1}{P_2 M_2} $$</p>\n\n<p>Substituting the given ratios, $ P_1 : P_2 = 4 : 3 $ and $ M_1 : M_2 = 2 : 3 $, into the equation, we get:</p>\n\n<p>$$ \\frac{\\rho_1}{\\rho_2} = \\frac{4 \\times 2}{3 \\times 3} = \\frac{8}{9} $$</p>\n\n<p>Therefore, the ratio of their densities is $ \\frac{8}{9} $, which corresponds to option D. Consequently, the answer is:</p>\n\n<p><strong>Option D: 8 : 9</strong></p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Two moles of ideal helium gas are in a rubber balloon at 30<sup>o</sup>C. The balloon is fully expandable\nand can be assumed to require no energy in its expansion. The temperature of the gas in the balloon is slowly changed to 35<sup>o</sup>C. The amount of heat required in raising the temperature is\nnearly (take R = 8.31 J/mol.K)",
+      "options": [
+        {
+          "key": "A",
+          "value": "62 J"
+        },
+        {
+          "key": "B",
+          "value": "104 J"
+        },
+        {
+          "key": "C",
+          "value": "124 J"
+        },
+        {
+          "key": "D",
+          "value": "208 J"
+        }
+      ],
+      "answer": "D",
+      "explanation": "<p>Here's a breakdown of how to solve this problem:</p>\n\n<p><strong>Understanding the Concepts</strong></p>\n\n<ul>\n<li><strong>Ideal Gas:</strong> An ideal gas is a theoretical gas that follows the ideal gas law perfectly. The ideal gas law is a relationship between pressure ($$P$$), volume ($$V$$), temperature ($$T$$), and the number of moles ($$n$$) of a gas:</li>\n</ul>\n<p>$$PV = nRT$$, where $$R$$ is the ideal gas constant.</p>\n\n<ul>\n<li><strong>Heat Capacity:</strong>  Heat capacity is the amount of heat energy required to raise the temperature of a substance by 1 degree Celsius (or 1 Kelvin).  For an ideal gas, we can use the specific heat capacity at constant volume ($$C_v$$) or at constant pressure ($$C_p$$).</li><br>\n<li><strong>Constant Volume Process:</strong> In a constant volume process, the volume of the gas remains constant. The heat required to raise the temperature is given by:</li>\n</ul>\n<p>$$Q = nC_v\\Delta T$$</p>\n\n<ul>\n<li><strong>Constant Pressure Process:</strong> In a constant pressure process, the pressure of the gas remains constant. The heat required to raise the temperature is given by:</li>\n</ul>\n<p>$$Q = nC_p\\Delta T$$</p>\n\n<ul>\n<li><strong>Molar Heat Capacities of Helium:</strong> Helium is a monatomic gas. For monatomic gases, we have:</li><br>\n<li>$$C_v = \\frac{3}{2}R$$</li><br>\n<li>$$C_p = \\frac{5}{2}R$$</li>\n</ul>\n<p><strong>Solving the Problem</strong></p>\n\n<ol>\n<li><strong>Identify the Process:</strong> Since the balloon is fully expandable, the pressure remains constant. This is a constant pressure process.</li><br>\n<li><strong>Calculate the Heat:</strong>  Use the formula for heat at constant pressure:</li>\n</ol>\n<p>$$Q = nC_p\\Delta T$$</p>\n\n<ol>\n<li><strong>Substitute the Values:</strong></li>\n</ol>\n<ul>\n<li>$$n = 2 \\text{ moles}$$</li><br>\n<li>$$C_p = \\frac{5}{2}R = \\frac{5}{2}(8.31 \\text{ J/mol.K})$$</li><br>\n<li>$$\\Delta T = 35^\\circ C - 30^\\circ C = 5 K$$</li>\n</ul>\n<ol>\n<li><strong>Solve for Q:</strong></li>\n</ol>\n<p>$$Q = (2 \\text{ moles}) \\times \\left(\\frac{5}{2} \\times 8.31 \\text{ J/mol.K}\\right) \\times (5 K) $$</p>\n\n<p>$$Q = 207.75 \\text{ J}$$</p>\n\n<p><strong>Answer:</strong></p>\n\n<p>The amount of heat required to raise the temperature of the helium gas is approximately <strong>208 J</strong>.  Therefore, the correct answer is <strong>Option D</strong>. </p>\n\n<p></p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A mixture of 2 moles of helium gas (atomic mass = 4 amu) and 1 mole of argon gas (atomic mass = 40 amu) is kept at 300 K in a container. The ratio of the rms speeds $$\\left( {{{{v_{rms}}\\left( {helium} \\right)} \\over {{v_{rms}}\\left( {\\arg on} \\right)}}} \\right)$$ is",
+      "options": [
+        {
+          "key": "A",
+          "value": "0.32"
+        },
+        {
+          "key": "B",
+          "value": "0.45"
+        },
+        {
+          "key": "C",
+          "value": "2.24"
+        },
+        {
+          "key": "D",
+          "value": "3.16"
+        }
+      ],
+      "answer": "D",
+      "explanation": "<p>The root mean square (rms) speed of a gas is given by the formula :</p>\n\n<p>$$v_{rms} = \\sqrt{\\frac{3kT}{m}}$$</p>\n\n<p>where :</p>\n\n<ul>\n\n<li>$$k$$ is the Boltzmann constant</li>\n\n<li>$$T$$ is the temperature in Kelvin</li>\n\n<li>$$m$$ is the mass of one molecule of the gas</li>\n\n</ul>\n\n<p>Given that the atomic mass of helium is 4 amu and that of argon is 40 amu, we can find the rms speed ratio by comparing the rms speeds of helium and argon, as temperature $$T$$ and Boltzmann constant $$k$$ are the same for both gases :</p>\n\n<p>$$\\frac{v_{rms} \\left( \\text{helium} \\right)}{v_{rms} \\left( \\text{argon} \\right)} = \\sqrt{\\frac{m_{\\text{argon}}}{m_{\\text{helium}}}}$$</p>\n\n<p>Substituting the masses :</p>\n\n<p>$$m_{\\text{helium}} = 4 \\text{ amu}$$</p>\n\n<p>$$m_{\\text{argon}} = 40 \\text{ amu}$$</p>\n\n<p>we get :</p>\n\n<p>$$\\frac{v_{rms} \\left( \\text{helium} \\right)}{v_{rms} \\left( \\text{argon} \\right)} = \\sqrt{\\frac{40}{4}} = \\sqrt{10} \\approx 3.16$$</p>\n\n<p>Thus, the ratio of the rms speeds of helium to argon is approximately 3.16.</p>\n\n<p>The correct answer is :</p>\n\n<p>Option D : 3.16</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "5.6 liter of helium gas at STP is adiabatically compressed to 0.7 liter. Taking the initial temperature to be\nT<sub>1</sub>, the work done in the process is",
+      "options": [
+        {
+          "key": "A",
+          "value": "$${9 \\over 8}R{T_1}$$"
+        },
+        {
+          "key": "B",
+          "value": "$${3 \\over 2}R{T_1}$$"
+        },
+        {
+          "key": "C",
+          "value": "$${15 \\over 8}R{T_1}$$"
+        },
+        {
+          "key": "D",
+          "value": "$${9 \\over 2}R{T_1}$$"
+        }
+      ],
+      "answer": "A",
+      "explanation": "<p>Initially</p>\n<p>V<sub>1</sub> = 5.6 l, T<sub>1</sub> = 273 K, P<sub>1</sub> = 1 atm,</p>\n<p>$$\\gamma  = {5 \\over 3}$$ (For monoatomic gas)</p>\n<p>The number of moles of gas is $$n = {{5.6l} \\over {22.4l}} = {1 \\over 4}$$</p>\n<p>Finally (after adiabatic compression)</p>\n<p>V<sub>2</sub> = 0.7 l</p>\n<p>For adiabatic compression $${T_1}V_1^{\\gamma  - 1} = {T_2}V_2^{\\gamma  - 1}$$</p>\n<p>$$\\therefore$$ $${T_2} = {T_1}{\\left( {{{{V_1}} \\over {{V_2}}}} \\right)^{\\gamma  - 1}} = {T_1}{\\left( {{{5.6} \\over {0.7}}} \\right)^{{5 \\over 3} - 1}} = {T_1}{(8)^{2/3}} = 4{T_1}$$</p>\n<p>Work done during an adiabatic process is</p>\n<p>$$W = {{nR[{T_1} - {T_2}]} \\over {(\\gamma  - 1)}} = {{{1 \\over 4}R[{T_1} - 4{T_1}]} \\over {\\left[ {{5 \\over 3} - 1} \\right]}} =  - {9 \\over 8}R{T_1}$$</p>\n<p>Negative sign shows that work is done on the gas.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A real gas behaves like an ideal gas if its",
+      "options": [
+        {
+          "key": "A",
+          "value": "pressure and temperature are both high"
+        },
+        {
+          "key": "B",
+          "value": "pressure and temperature are both low"
+        },
+        {
+          "key": "C",
+          "value": "pressure is high and temperature is low"
+        },
+        {
+          "key": "D",
+          "value": "pressure is low and temperature is high"
+        }
+      ],
+      "answer": "D",
+      "explanation": "In an ideal gas, the average force of attraction between the molecules and volume of the molecules (in\ncomparison to volume of the gas) are negligibly small.\nThese conditions are satisfied for a real gas when pressure is low and temperature is high."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Column II gives certain systems undergoing a process. Column I suggests changes in some of the parameters related to the system. Match the statements in Column I to the appropriate process(es) from Column II:</p>\n<p><style type=\"text/css\">\n.tg  {border-collapse:collapse;border-spacing:0;}\n.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}\n.tg .tg-7btt{border-color:inherit;font-weight:bold;text-align:center;vertical-align:top}\n.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}\n.tg .tg-fymr{border-color:inherit;font-weight:bold;text-align:left;vertical-align:top}\n</style>\n<table class=\"tg\" style=\"undefined;table-layout: fixed; width: 642px\">\n<colgroup>\n<col style=\"width: 50px\">\n<col style=\"width: 298px\">\n<col style=\"width: 51px\">\n<col style=\"width: 243px\">\n</colgroup>\n<thead>\n  <tr>\n    <th class=\"tg-c3ow\"></th>\n    <th class=\"tg-7btt\">Column I</th>\n    <th class=\"tg-c3ow\"></th>\n    <th class=\"tg-7btt\">Column II</th>\n  </tr>\n</thead>\n<tbody>\n  <tr>\n    <td class=\"tg-7btt\">(A)</td>\n    <td class=\"tg-0pky\">The energy of the system is increased.</td>\n    <td class=\"tg-7btt\">(P)</td>\n    <td class=\"tg-0pky\">System : A capacitor, initially uncharged.<br>Process : It is connected to a battery.</td>\n  </tr>\n  <tr>\n    <td class=\"tg-7btt\">(B)</td>\n    <td class=\"tg-0pky\">Mechanical energy is provided to the system, which is converted into energy of random motion of its parts.</td>\n    <td class=\"tg-7btt\">(Q)</td>\n    <td class=\"tg-0pky\">System : A gas in an adiabatic container filled with an adiabatic piston.<br>Process : The gas is compressed by pushing the piston.</td>\n  </tr>\n  <tr>\n    <td class=\"tg-7btt\">(C)</td>\n    <td class=\"tg-0pky\">Internal energy of the system is converted into its mechanical energy.</td>\n    <td class=\"tg-7btt\">(R)</td>\n    <td class=\"tg-0pky\">System : A gas in a rigid container.<br>Process : The gas gets cooled due to colder atmosphere surrounding it.</td>\n  </tr>\n  <tr>\n    <td class=\"tg-7btt\">(D)</td>\n    <td class=\"tg-0pky\">Mass of the system is decreased.</td>\n    <td class=\"tg-7btt\">(S)</td>\n    <td class=\"tg-0pky\">System : A heavy nucleus, initially at rest.<br>Process : The nucleus fissions into two fragments of nearly equal masses and some neutrons are emitted.</td>\n  </tr>\n  <tr>\n    <td class=\"tg-fymr\"></td>\n    <td class=\"tg-0pky\"></td>\n    <td class=\"tg-7btt\">(T)</td>\n    <td class=\"tg-0pky\">System : A resistive wire loop.<br>Process : The loop is placed in a time varying magnetic field perpendicular to its plane.</td>\n  </tr>\n</tbody>\n</table></p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "(A)$$\\to$$(P), (S), (T); (B)$$\\to$$(Q); (C)$$\\to$$(S); (D)$$\\to$$(S), (R)"
+        },
+        {
+          "key": "B",
+          "value": "(A)$$\\to$$(P), (Q), (T); (B)$$\\to$$(Q); (C)$$\\to$$(S); (D)$$\\to$$(S)"
+        },
+        {
+          "key": "C",
+          "value": "(A)$$\\to$$(P), (Q), (T); (B)$$\\to$$(T); (C)$$\\to$$(S); (D)$$\\to$$(S)"
+        },
+        {
+          "key": "D",
+          "value": "(A)$$\\to$$(S), (Q), (T); (B)$$\\to$$(Q); (C)$$\\to$$(S); (D)$$\\to$$(S)"
+        }
+      ],
+      "answer": "B",
+      "explanation": "<p>(A)$$\\to$$(P), (Q), (T)</p>\n<p>$$\\bullet$$ Case (P) : $$U=\\frac{1}{2}CV^2$$</p>\n<p>$$\\bullet$$ Case (Q) : Since the work is done on the system, the internal energy increases.</p>\n<p>$$\\bullet$$ Case (T) : time varying $$\\overrightarrow B $$ creates an induced $$\\overrightarrow E $$ causing current to flow. This dissipates heat in the loop: $$H=L^2(Rt)$$.</p>\n<p>(B)$$\\to$$(Q) : As explained above.</p>\n<p>(C)$$\\to$$(S)</p>\n<p>$$\\bullet$$ Case (S) : Mass  defect is converted into energy which is released.</p>\n<p>(D)$$\\to$$(S) : As explained above.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>An ideal gas is expanding such that PT$$^2$$ = constant. The coefficient of volume expansion of the gas is</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$\\frac{1}{\\mathrm{T}}$$"
+        },
+        {
+          "key": "B",
+          "value": "$$\\frac{2}{\\mathrm{T}}$$"
+        },
+        {
+          "key": "C",
+          "value": "$$\\frac{3}{\\mathrm{T}}$$"
+        },
+        {
+          "key": "D",
+          "value": "$$\\frac{4}{\\mathrm{T}}$$"
+        }
+      ],
+      "answer": "C",
+      "explanation": "<p>Given, PT$$^2$$ = constant ..... (i)</p>\n<p>For an ideal gas,</p>\n<p>$$\\frac{\\mathrm{PV}}{\\mathrm{T}}$$ = constant ...... (ii)</p>\n<p>From above two equation, after eliminating P.</p>\n<p>$$\\frac{\\mathrm{V}}{\\mathrm{T^3}}$$ = Constant</p>\n<p>$$\\Rightarrow$$ V = KT$$^3$$, where $$k$$ = constant.</p>\n<p>$$\\frac{d\\mathrm{V}}{\\mathrm{V}}=3\\frac{d\\mathrm{T}}{\\mathrm{T}}$$</p>\n<p>$$ \\Rightarrow dV = \\left( {{3 \\over T}} \\right)VdT$$ ..... (iii)</p>\n<p>Change in volume due to thermal expansion is given by $$dV=Vydt$$ ..... (iv)</p>\n<p>Where, $$y$$ = coefficient of volume expansion</p>\n<p>From equation (iii) and (iv), we have,</p>\n<p>$$VydT = \\left( {{3 \\over T}} \\right)VdT$$</p>\n<p>$$ \\Rightarrow y = {3 \\over T}$$</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>STATEMENT 1</p>\n<p>The total translational kinetic energy of all the molecules of a given mass of an ideal gas is 1.5 times the product of its pressure and its volume.</p>\n<p>Because</p>\n<p>STATEMENT 2</p>\n<p>The molecules of a gas collide with each other and the velocities of the molecules change due to the collision.</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "Statement-1 is True, Statement-2 is True; Statement-2 is a correct explanation for Statement-1."
+        },
+        {
+          "key": "B",
+          "value": "Statement-1 is True, Statement-2 is True; Statement-2 is NOT a correct for Statement-1."
+        },
+        {
+          "key": "C",
+          "value": "Statement-1 is True, Statement-2 is False."
+        },
+        {
+          "key": "D",
+          "value": "Statement-1 is False, Statement-2 is True."
+        }
+      ],
+      "answer": "B",
+      "explanation": "<p>Statement 1 :</p>\n<p>Total translational kinetic energy $$=\\frac{3}{2} n \\mathrm{RT}$$</p>\n<p>where,</p>\n<p>n = no. of moles</p>\n<p>R = gas constant</p>\n<p>T = Temperature</p>\n<p>but, PV = nRT</p>\n<p>$$\\therefore$$ K.E. = 1.5 PV</p>\n<p>Statement 2 : Molecules of a gas collide with each other and the velocities of the molecules change due to collision.</p>\n<p>But statement 2 is not a correct explanation of statement 1 .</p>"
+    }
+  ]
+}

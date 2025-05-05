@@ -1,0 +1,34 @@
+{
+  "_index": {
+    "name": "Mathematics"
+  },
+  "_children": [
+    "./sets-and-relations.json",
+    "./logarithm.json",
+    "./quadratic-equation-and-inequalities.json",
+    "./sequences-and-series.json",
+    "./binomial-theorem.json",
+    "./matrices-and-determinants.json",
+    "./permutations-and-combinations.json",
+    "./probability.json",
+    "./vector-algebra.json",
+    "./3d-geometry.json",
+    "./complex-numbers.json",
+    "./statistics.json",
+    "./trigonometric-ratio-and-identites.json",
+    "./inverse-trigonometric-functions.json",
+    "./straight-lines-and-pair-of-straight-lines.json",
+    "./circle.json",
+    "./parabola.json",
+    "./ellipse.json",
+    "./hyperbola.json",
+    "./functions.json",
+    "./limits-continuity-and-differentiability.json",
+    "./differentiation.json",
+    "./application-of-derivatives.json",
+    "./indefinite-integrals.json",
+    "./definite-integration.json",
+    "./area-under-the-curves.json",
+    "./differential-equations.json"
+  ]
+}

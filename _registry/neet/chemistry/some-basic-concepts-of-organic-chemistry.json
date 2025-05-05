@@ -1,0 +1,655 @@
+{
+  "_index": {
+    "name": "Some Basic Concepts of Organic Chemistry"
+  },
+  "_children": [
+    {
+      "_type": "single_mcq",
+      "body": "<p>A steam volatile organic compound which is immiscible with water has a boiling point of $$250^{\\circ} \\mathrm{C}$$. During steam distillation, a mixture of this organic compound and water will boil :</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "above $$100^{\\circ} \\mathrm{C}$$ but below $$250^{\\circ} \\mathrm{C}$$"
+        },
+        {
+          "key": "B",
+          "value": "above $$250^{\\circ} \\mathrm{C}$$\n"
+        },
+        {
+          "key": "C",
+          "value": "at $$250^{\\circ} \\mathrm{C}$$\n"
+        },
+        {
+          "key": "D",
+          "value": "close to but below $$100^{\\circ} \\mathrm{C}$$\n"
+        }
+      ],
+      "answer": "D",
+      "explanation": "<p>Steam distillation is a separation technique used for purifying organic compounds that are immiscible with water and have high boiling points. In this method, the organic compound co-distills with water. The key concept here is that the total vapor pressure of the mixture is the sum of the vapor pressures of the organic compound and water. When the total vapor pressure equals atmospheric pressure, the mixture will boil.</p>\n\n<p>For a compound that has a boiling point of $$250^{\\circ} \\mathrm{C}$$ and is immiscible with water, during steam distillation, the boiling point of the mixture will be influenced by both the vapor pressure of water and the organic compound. Since water has a boiling point of $$100^{\\circ} \\mathrm{C}$$, steam distillation allows the mixture to boil at a temperature lower than the boiling point of the organic compound when in pure form. This is because the partial pressures of both the water and the organic compound add up to reach the atmospheric pressure more quickly than either would alone.</p>\n\n<p>Practically, the mixture will boil at a temperature close to the boiling point of water, which is $$100^{\\circ} \\mathrm{C}$$. Hence, the correct answer is:</p>\n\n<p>Option D close to but below $$100^{\\circ} \\mathrm{C}$$</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Match List-I with List-II :</p>\n<p><style type=\"text/css\">\n.tg  {border-collapse:collapse;border-spacing:0;}\n.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}\n.tg .tg-7btt{border-color:inherit;font-weight:bold;text-align:center;vertical-align:top}\n.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}\n</style>\n<table class=\"tg\" style=\"undefined;table-layout: fixed; width: 729px\"><colgroup>\n<col style=\"width: 78px\">\n<col style=\"width: 245px\">\n<col style=\"width: 83px\">\n<col style=\"width: 323px\">\n</colgroup>\n<thead>\n  <tr>\n    <th class=\"tg-7btt\"></th>\n    <th class=\"tg-7btt\">List - I<br>(Test/reagent)</th>\n    <th class=\"tg-7btt\"></th>\n    <th class=\"tg-7btt\">List - II<br>(Radical identified)</th>\n  </tr></thead>\n<tbody>\n  <tr>\n    <td class=\"tg-c3ow\">(A)</td>\n    <td class=\"tg-0pky\">Lake Test</td>\n    <td class=\"tg-c3ow\">(I)</td>\n    <td class=\"tg-0pky\">NO$$_3^-$$</td>\n  </tr>\n  <tr>\n    <td class=\"tg-c3ow\">(B)</td>\n    <td class=\"tg-0pky\">Nessler's Reagent</td>\n    <td class=\"tg-c3ow\">(II)</td>\n    <td class=\"tg-0pky\">Fe$$^{3+}$$</td>\n  </tr>\n  <tr>\n    <td class=\"tg-c3ow\">(C)</td>\n    <td class=\"tg-0pky\">Potassium sulphocyanide</td>\n    <td class=\"tg-c3ow\">(III)</td>\n    <td class=\"tg-0pky\">Al$$^{3+}$$</td>\n  </tr>\n  <tr>\n    <td class=\"tg-c3ow\">(D)</td>\n    <td class=\"tg-0pky\">Brown Ring Test</td>\n    <td class=\"tg-c3ow\">(IV)</td>\n    <td class=\"tg-0pky\">NH$$_4^+$$</td>\n  </tr>\n</tbody>\n</table></p>\n<p>Choose the correct answer from the options given below :</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "A-IV, B-II, C-III, D-I\n"
+        },
+        {
+          "key": "B",
+          "value": "A-II, B-IV, C-III, D-I\n"
+        },
+        {
+          "key": "C",
+          "value": "A-II, B-III, C-IV, D-I\n"
+        },
+        {
+          "key": "D",
+          "value": "A-III, B-IV, C-II, D-I"
+        }
+      ],
+      "answer": "D",
+      "explanation": "<p>$$\\begin{array}{lll}\n\\text { Lake test } & - & \\mathrm{Al}^{3+} \\\\\n\\text { Nessler's reagent } & - & \\mathrm{NH}_4^{+} \\\\\n\\text {Potassium sulphocyanide } & - & \\mathrm{Fe}^{3+} \\\\\n\\text { Brown ring test } & - & \\mathrm{NO}_3^{-}\n\\end{array}$$</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Given below are two statements:</p>\n<p>Statement I : The boiling point of three isomeric pentanes follows the order</p>\n<p>n-pentane > isopentane > neopentane</p>\n<p>Statement II : When branching increases, the molecule attains a shape of sphere. This results in smaller surface area for contact, due to which the intermolecular forces between the spherical molecules are weak, thereby lowering the boiling point.</p>\n<p>In the light of the above statements, choose the most appropriate answer from the options given below:</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "Both Statement I and Statement II are correct\n"
+        },
+        {
+          "key": "B",
+          "value": "Both Statement I and Statement II are incorrect\n"
+        },
+        {
+          "key": "C",
+          "value": "Statement I is correct but Statement II is incorrect\n"
+        },
+        {
+          "key": "D",
+          "value": "Statement I is incorrect but Statement II is correct"
+        }
+      ],
+      "answer": "A",
+      "explanation": "<p>The two statements provided deal with molecular structure and boiling points of isomers of pentane. Let's analyze both statements:</p>\n\n<p><strong>Statement I:</strong> This statement lists the boiling point order of the three isomers of pentane as n-pentane > isopentane > neopentane. To verify this statement, let's consider the molecular structure and boiling points of each isomer:</p>\n\n<ul>\n\n<li><strong>n-pentane</strong>: It is a straight-chain alkane with the formula $$C_5H_{12}$$, and it has the highest boiling point among the isomers because of its larger surface area which allows for greater van der Waals forces (dispersion forces).</li>\n\n<li><strong>isopentane</strong> (also known as methylbutane): It has one branch in its carbon chain. The branching reduces the surface area slightly, which slightly weakens the van der Waals forces compared to n-pentane.</li>\n\n<li><strong>neopentane</strong> (also known as dimethylpropane): It has a highly branched structure making it almost spherical. This shape minimizes the surface area significantly, thereby reducing the van der Waals forces drastically compared to the other two isomers.</li>\n\n</ul>\n\n<p>Thus, the boiling point order correctly reflects the influence of molecular structure and intermolecular forces. Hence, <strong>Statement I is correct</strong>.</p>\n\n<p><strong>Statement II:</strong> This statement elaborates on why branching leads to lower boiling points. The assertion is that increased branching gives the molecule a more spherical shape, which then results in a smaller surface area, and thus weaker intermolecular forces (primarily van der Waals forces). Weaker intermolecular forces correspond with a lower energy requirement for the liquid to gas phase transition, thereby lowering the boiling point. This explanation is coherent with concepts in physical chemistry regarding molecular interactions and phase change. Therefore, <strong>Statement II is also correct</strong>.</p>\n\n<p>In summary, both Statement I and Statement II are correct, reflecting the accurate relationship between molecular structure, intermolecular forces, and physical properties like boiling points. Therefore, the correct answer is:</p>\n\n<p><strong>Option A: Both Statement I and Statement II are correct</strong>.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>On heating, some solid substances change from solid to vapour state without passing through liquid state. The technique used for the purification of such solid substances based on the above principle is known as</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "Crystallization\n"
+        },
+        {
+          "key": "B",
+          "value": "Sublimation\n"
+        },
+        {
+          "key": "C",
+          "value": "Distillation\n"
+        },
+        {
+          "key": "D",
+          "value": "Chromatography"
+        }
+      ],
+      "answer": "B",
+      "explanation": "<p>The technique described in the question is known as sublimation. Sublimation is a process where a solid turns directly into a gas without passing through the intermediate liquid state. This physical change occurs under specific conditions of temperature and pressure and is characteristic of certain substances.</p>\n\n<p><b>Option B: Sublimation</b> is the correct answer because it directly describes the process of solid substances transforming into vapour without becoming liquid first. For example, substances like iodine, naphthalene, and dry ice (solid carbon dioxide) sublimate when heated under normal atmospheric conditions. Sublimation is not only a fascinating chemical process but is also exploited in various scientific and industrial applications, including purification of substances, where impurities do not sublimate and can thus be easily separated from the vaporized material.</p>\n\n<p>The other options provided do not describe this process:</p>\n\n<ul>\n\n<li><b>Crystallization</b> (Option A) involves the formation of solid crystals from a homogeneous solution. It is typically used to purify solids wherein the impurities remain dissolved in the solvent.</li>\n\n<li><b>Distillation</b> (Option C) is a process used to separate mixtures based on differences in the conditions required to change the phase (liquid phase) of the components of the mixture. It does not involve direct transition from solid to gas.</li>\n\n<li><b>Chromatography</b> (Option D) is a method for separating components of a mixture based on differences in their movement through a stationary medium under the influence of a solvent or carrier gas. It does not involve the phase transition of solid to gas directly.</li>\n\n</ul>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>During the preparation of Mohr's salt solution (Ferrous ammonium sulphate), which of the following acid is added to prevent hydrolysis of $$\\mathrm{Fe}^{2+}$$ ion?</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "dilute hydrochloric acid\n"
+        },
+        {
+          "key": "B",
+          "value": "concentrated sulphuric acid\n"
+        },
+        {
+          "key": "C",
+          "value": "dilute nitric acid\n"
+        },
+        {
+          "key": "D",
+          "value": "dilute sulphuric acid\n"
+        }
+      ],
+      "answer": "D",
+      "explanation": "<p>Mohr's salt is the ammonium iron(II) sulfate, with the chemical formula $$\\mathrm{(NH_4)_2Fe(SO_4)_2 \\cdot 6H_2O}$$. It is known for its stability compared to the other iron(II) salts which tend to readily oxidize to iron(III) salts when exposed to the air. To prevent the oxidation and hydrolysis of the $$\\mathrm{Fe}^{2+}$$ ion during the preparation of Mohr's salt, an acid is added. This acid serves several purposes: it maintains the acidic environment necessary to prevent hydrolysis, aids in the solubilization of iron(II) sulfate, and minimizes the oxidation of $$\\mathrm{Fe}^{2+}$$ ions to $$\\mathrm{Fe}^{3+}$$.</p>\n\n<p>The options provided give four different types of acids, from which one needs to be selected for the preparation of this salt. We can evaluate them based on their appropriateness:</p>\n\n<ul>\n\n<li><strong>Dilute Hydrochloric Acid:</strong> While capable of maintaining a low pH to prevent oxidation, HCl can potentially introduce chloride ions ($$\\mathrm{Cl^-}$$), which can form complexes with iron, changing the composition of the solution.</li>\n\n<li><strong>Concentrated Sulphuric Acid:</strong> This choice is too strong and can lead to excessive acidity as well as potential safety issues during handling and dilution. It is unnecessary for this application.</li>\n\n<li><strong>Dilute Nitric Acid:</strong> Nitric acid is an oxidizing agent and can promote the oxidation of $$\\mathrm{Fe}^{2+}$$ to $$\\mathrm{Fe}^{3+}$$, which is undesirable in the preparation of Mohr's salt.</li>\n\n<li><strong>Dilute Sulphuric Acid:</strong> This is a very common choice since it helps maintain the stability of the $$\\mathrm{Fe}^{2+}$$ ion without contributing extraneous ions that could form undesired complexes or products. Moreover, it keeps the solution acidic, helping prevent oxidation and hydrolysis, while not introducing any oxidizing characteristics.</li>\n\n</ul>\n\n<p>Given these considerations, the best choice for preventing hydrolysis of the $$\\mathrm{Fe}^{2+}$$ ion during the preparation of Mohr's salt is <strong>Dilute Sulphuric Acid</strong> (Option D). This is because it maintains the suitable acidic conditions needed for stabilizing the ferrous ion and does not interfere with the redox stability of the iron by providing an oxidative chemical environment.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Given below are two statements:</p>\n<p>Statement I : In an organic compound, when inductive and electromeric effects operate in opposite directions, the inductive effect predominates.</p>\n<p>Statement II : Hyperconjugation is observed in o-xylene.</p>\n<p>In the light of the above statements, choose the correct answer from the options given below :</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": " Statement-I is true but Statement-II is false.\n"
+        },
+        {
+          "key": "B",
+          "value": "Statement-I is false but Statement-II is true.\n"
+        },
+        {
+          "key": "C",
+          "value": " Both Statement-I and Statement-II are true.\n"
+        },
+        {
+          "key": "D",
+          "value": "Both Statement-I and Statement-II are false."
+        }
+      ],
+      "answer": "B",
+      "explanation": "<p>To address these statements, let&#39;s analyze each one :</p>\n<p>Statement I : &quot;In an organic compound, when inductive and electromeric effects operate in opposite directions, the inductive effect predominates.&quot;</p>\n<ul>\n<li>The inductive effect refers to the transmission of charge through a chain of atoms in a molecule by electrostatic induction. It&#39;s a permanent effect.</li>\n<br/><li>The electromeric effect is a temporary effect, occurring when a reagent approaches a double bond or a polar molecule and causes electrons to shift entirely from one atom to another.</li>\n<br/><li>Generally, in organic chemistry, the inductive effect is considered to be a weaker effect compared to the electromeric effect. When both effects are present and oppose each other, the electromeric effect, being a more dominant electronic effect, usually prevails.</li>\n</ul>\n<p>Statement II : &quot;Hyperconjugation is observed in o-xylene.&quot;</p>\n<ul>\n<li>Hyperconjugation is a phenomenon where electrons in a sigma bond (usually C-H or C-C) are delocalized into an adjacent empty or partially filled p-orbital or pi-orbital, stabilizing the system.</li>\n<br/><li>o-Xylene is an aromatic compound with two methyl groups attached to the benzene ring in ortho positions. However, hyperconjugation typically occurs in alkenes or carbocations where there is an adjacent p-orbital. In o-xylene, the aromatic system is already stabilized by resonance, and the hyperconjugation of the methyl groups does not significantly contribute to this stability.</li>\n</ul>\n<p>Based on these explanations :</p>\n<ul>\n<li>Statement I is false because the electromeric effect is generally stronger than the inductive effect.</li>\n<li>Statement II is true as hyperconjugation can be observed in o-xylene, although its impact on the molecule&#39;s stability is minimal compared to the aromatic resonance.</li>\n</ul>\n<p>Thus, the correct option is :\n<br/><br/>Option B : Statement-I is false but Statement-II is true.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>In Lassaigne's extract of an organic compound, both nitrogen and sulphur are present, which gives blood red colour with $$\\mathrm{Fe}^{3+}$$ due to the formation of-</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "NaSCN"
+        },
+        {
+          "key": "B",
+          "value": "$$\\left[\\mathrm{Fe}(\\mathrm{CN})_{5} \\mathrm{NOS}\\right]^{4-}$$"
+        },
+        {
+          "key": "C",
+          "value": "$$[\\mathrm{Fe}(\\mathrm{SCN})]^{2+}$$"
+        },
+        {
+          "key": "D",
+          "value": "$$\\mathrm{Fe}_{4}\\left[\\mathrm{Fe}\\left(\\mathrm{CN}_{6}\\right)\\right]_{3} \\cdot \\mathrm{xH}_{2} \\mathrm{O}$$"
+        }
+      ],
+      "answer": "C",
+      "explanation": "<p>Sol. In case nitrogen and sulphur both are present in an organic compound, sodium thiocyanate is formed, it give blood red colour and no prussian blue since there are no free cyanide Ions</p>\n<p>$$\\mathrm{Na}+\\mathrm{C}+\\mathrm{N}+\\mathrm{S} \\rightarrow \\mathrm{NaSCN}$$</p>\n<p>$$\\mathrm{Fe}^{+3}+\\mathrm{SCN}^{\\ominus} \\longrightarrow[\\mathrm{Fe}(\\mathrm{SCN})]^{2+}$$ Blood red</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Given below are two statements : one is labelled as Assertion (A) and the other is labelled as Reason (R).</p>\n<p>Assertion (A) : Chlorine is an electron withdrawing group but it is ortho, para directing in electrophilic aromatic substitution.</p>\n<p>Reason (R) : Inductive effect of chlorine destabilises the intermediate carbocation formed during the electrophilic substitution, however due to the more pronounced resonance effect, the halogen stabilises the carbocation at ortho and para positioins.</p>\n<p>In the light of the above statements, choose the most appropriate answer from the options given below :</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "(A) is not correct but (R) is correct"
+        },
+        {
+          "key": "B",
+          "value": "Both (A) and (R) are correct and (R) is the correct explanation of (A)"
+        },
+        {
+          "key": "C",
+          "value": "Both (A) and (R) are correct but (R) is not the correct explanation of (A)"
+        },
+        {
+          "key": "D",
+          "value": "(A) is correct but (R) is not correct"
+        }
+      ],
+      "answer": "D",
+      "explanation": "<p>Cl has pronounced $$-$$I effect than +R effect due to large size difference between carbon and chlorine, also due to high electronegativity of chlorine.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>The incorrect statement regarding chirality is</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "S<sub>N</sub>1 reaction yields 1 : 1 mixture of both enantiomers"
+        },
+        {
+          "key": "B",
+          "value": "The product obtained by S<sub>N</sub>2 reaction of haloalkane having chirality at the reactive site shows inversion of configuration"
+        },
+        {
+          "key": "C",
+          "value": "Enantiomers are superimposable mirror images on each other"
+        },
+        {
+          "key": "D",
+          "value": "A racemic mixture shows zero optical rotation"
+        }
+      ],
+      "answer": "C",
+      "explanation": "<p>The stereoisomers related to each other as non-superimposable mirror image are called enantiomers.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Paper chromatography is an example of :",
+      "options": [
+        {
+          "key": "A",
+          "value": "Partition chromatography"
+        },
+        {
+          "key": "B",
+          "value": "Thin layer chromatography"
+        },
+        {
+          "key": "C",
+          "value": "Column chromatography"
+        },
+        {
+          "key": "D",
+          "value": "Adsorption chromatography"
+        }
+      ],
+      "answer": "A",
+      "explanation": "Paper chromatography is a type of partition chromatography in which a special quality paper known as chromatography paper is used."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The correct statement regarding electrophile is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "electrophile is a negatively charged species and form a bond by accepting a pair of electrons from another electrophile"
+        },
+        {
+          "key": "B",
+          "value": "electrophiles are generally neutral species and can form a bond by accepting a pair of electrons from a nucleophile"
+        },
+        {
+          "key": "C",
+          "value": "electrophile can be either neutral or positively charged species and can form a bond by accepting a pair of electrons from a nucleophile"
+        },
+        {
+          "key": "D",
+          "value": "electrophile is a negatively charged species and can form a bond by accepting a pair of electrons from a nucleophile. "
+        }
+      ],
+      "answer": "C",
+      "explanation": "Electrophile can be either neutral or positively charged species and can form a bond by accepting a pair of\nelectrons from a nucleophile."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The most suitable method of separation of 1 : 1 mixture of ortho and para-nitrophenols is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "chromatography"
+        },
+        {
+          "key": "B",
+          "value": "crystallisation"
+        },
+        {
+          "key": "C",
+          "value": "steam distillation "
+        },
+        {
+          "key": "D",
+          "value": "sublimation. "
+        }
+      ],
+      "answer": "C",
+      "explanation": "Steam distillation is the most suitable method\nof separation of 1 : 1 mixture of ortho and para\nnitrophenols as there is intramolecular hydrogen\nbonding in o-nitrophenol."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Which of the following statements is not correct for a nucleophile? ",
+      "options": [
+        {
+          "key": "A",
+          "value": "Ammonia is a nucleophile."
+        },
+        {
+          "key": "B",
+          "value": "Nucleophiles attack low e<sup>$$-$$</sup> density sites. "
+        },
+        {
+          "key": "C",
+          "value": "Nucleophiles are not electron seeking. "
+        },
+        {
+          "key": "D",
+          "value": "Nucleophile is a Lewis acid. "
+        }
+      ],
+      "answer": "D",
+      "explanation": "Nucleophile is a species that provide electron\nwhile species which are deficient of electrons are\ntermed as lewis acid, hence nucleophiles are\nusually lewis bases."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "In Duma's method for estimation of nitrogen,  0.25 g of an organic compound gave 40 mL of nitrogen collected at 300 K temperature and 725 mm pressure. If the aqueous tension at 300 K is 25  mm, the percentage of nitrogen in the compound is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "16.75"
+        },
+        {
+          "key": "B",
+          "value": "15.76"
+        },
+        {
+          "key": "C",
+          "value": "17.36"
+        },
+        {
+          "key": "D",
+          "value": "18.20"
+        }
+      ],
+      "answer": "A",
+      "explanation": "Wt. of organic substance = 0.25 g\n<br><br>V<sub>1</sub> = 40 mL, T<sub>1</sub> = 300 K\n<br><br>P<sub>1</sub> = 725 – 25 = 700 mm of Hg\n<br><br>P<sub>2</sub> = 760 mm of Hg (at STP)\n<br><br>T<sub>2</sub> = 273 K\n<br><br>$${{{P_1}{V_1}} \\over {{T_1}}} = {{{P_2}{V_2}} \\over {{T_2}}}$$\n<br><br>V<sub>2</sub> = $${{700 \\times 40 \\times 273} \\over {300 \\times 760}}$$ = 33.52 mL\n<br><br>Percentage of nitrogen\n<br><br>= $${{28 \\times 33.52 \\times 100} \\over {22400 \\times 0.25}}$$\n<br><br>= 16.76%"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "In the Kjeldahl's method for estimation of nitrogen present in a soil sample, ammonia evolved from 0.75 g of sample neutralized 10 mL of 1 M H<sub>2</sub>SO<sub>4</sub>. The percentage of nitrogen in the soil is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "37.33"
+        },
+        {
+          "key": "B",
+          "value": "45.33"
+        },
+        {
+          "key": "C",
+          "value": "35.33"
+        },
+        {
+          "key": "D",
+          "value": "43.33"
+        }
+      ],
+      "answer": "A",
+      "explanation": "10 ml, 1 M H<sub>2</sub>SO<sub>4</sub> = 20 ml, 1 M NH<sub>3</sub>\n<br><br>$$ \\because $$ wt of N in one mole NH<sub>3</sub> = 14\n<br><br>$$ \\therefore $$ 20 × 10<sup>–3</sup> mol NH<sub>3</sub> $$ \\to $$\n20 × 10<sup>–3</sup> × 14 nitrogen\n<br><br>$$ \\therefore $$ 0.75 g of sample contains = $${{14 \\times 20 \\times {{10}^{ - 3}}} \\over {0.75}} \\times 100$$\n<br><br>= 37.33%"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Homolytic fission of the following alkanes forms free radicals CH<sub>3</sub> $$-$$ CH<sub>3</sub>, CH<sub>3</sub> $$-$$ CH<sub>2</sub> $$-$$ CH<sub>3</sub>, (CH<sub>3</sub>)<sub>2</sub>CH $$-$$ CH<sub>3</sub>, CH<sub>3</sub> $$-$$ CH<sub>2</sub> $$-$$CH(CH<sub>3</sub>)<sub>2</sub>.\n<br>Increasing order of stability of the radicals is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$\\eqalign{\n  &amp; {\\left( {C{H_3}} \\right)_2}\\mathop C\\limits^ \\bullet  \\, - \\,C{H_2}C{H_3}\\, &lt; C{H_3}\\, - \\,\\mathop C\\limits^ \\bullet  H - \\,C{H_3}  \\cr \n  &amp;  &lt; C{H_3}\\, - \\,\\mathop C\\limits^ \\bullet  {H_2}\\, &lt; {\\left( {C{H_3}} \\right)_3}\\mathop C\\limits^ \\bullet   \\cr} $$"
+        },
+        {
+          "key": "B",
+          "value": "$$\\eqalign{\n  &amp; C{H_3}\\, - \\,\\mathop C\\limits^ \\bullet  {H_2}\\, &lt; \\,C{H_3}\\, - \\,\\mathop C\\limits^ \\bullet  HH\\, - \\,C{H_3}\\, &lt;   \\cr \n  &amp; {\\left( {C{H_3}} \\right)_2}\\mathop C\\limits^ \\bullet  \\, - \\,C{H_2}\\, - \\,C{H_3}\\, &lt; \\,{\\left( {C{H_3}} \\right)_3}\\mathop C\\limits^ \\bullet   \\cr} $$"
+        },
+        {
+          "key": "C",
+          "value": "$$\\eqalign{\n  &amp; C{H_3} - \\mathop C\\limits^ \\bullet  {H_2} &lt; C{H_3} - \\mathop C\\limits^ \\bullet  H - C{H_3} &lt;   \\cr \n  &amp; {\\left( {C{H_3}} \\right)_3}\\mathop C\\limits^ \\bullet  \\, &lt; {\\left( {C{H_3}} \\right)_2}\\mathop C\\limits^ \\bullet  \\, - C{H_2}C{H_3} \\cr} $$"
+        },
+        {
+          "key": "D",
+          "value": "$$\\eqalign{\n  &amp; {\\left( {C{H_3}} \\right)_3}\\mathop C\\limits^ \\bullet  \\, &lt; {\\left( {C{H_3}} \\right)_2}\\mathop C\\limits^ \\bullet  \\, - C{H_2}C{H_3} &lt;   \\cr \n  &amp; C{H_3} - \\mathop C\\limits^ \\bullet  H - C{H_3} &lt; C{H_3} - \\mathop C\\limits^ \\bullet  {H_2} \\cr} $$"
+        }
+      ],
+      "answer": "B",
+      "explanation": "Stability depends on number of\nhyperconjugative structure. More the number of hyperconjugative structure, the greater is the stability."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Some meta-directing substituents in aromatic substitution are given. Which one is most deactivating ? ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$-$$COOH"
+        },
+        {
+          "key": "B",
+          "value": "$$-$$ NO<sub>2</sub>"
+        },
+        {
+          "key": "C",
+          "value": "$$-$$ C $$ \\equiv $$ N"
+        },
+        {
+          "key": "D",
+          "value": "$$-$$ SO<sub>3</sub>H"
+        }
+      ],
+      "answer": "B",
+      "explanation": "$$-$$ NO<sub>2</sub> is most deactivating due to -I ans -M effect."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Which of the following acids does not exhibit optical isomerism?",
+      "options": [
+        {
+          "key": "A",
+          "value": "Maleic acid"
+        },
+        {
+          "key": "B",
+          "value": "$$\\alpha $$-amino acids"
+        },
+        {
+          "key": "C",
+          "value": "Lactic acid"
+        },
+        {
+          "key": "D",
+          "value": "Tartaric acid"
+        }
+      ],
+      "answer": "A",
+      "explanation": "HOOC – CH = CH – COOH (Maleic acid) almost show optical isomerism."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Which of the following species is not electrophilic in nature? ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$\\mathop C\\limits^ +  l$$"
+        },
+        {
+          "key": "B",
+          "value": "BH<sub>3</sub>"
+        },
+        {
+          "key": "C",
+          "value": "H<sub>3</sub>$$\\mathop O\\limits^ +  $$"
+        },
+        {
+          "key": "D",
+          "value": "$$\\mathop N\\limits^ +  $$O<sub>2</sub>"
+        }
+      ],
+      "answer": "C",
+      "explanation": "H<sub>3</sub>$$\\mathop O\\limits^ +  $$ has a lone pair of\nelectrons on oxygen atom, thus it is not an\nelectrophile. Also the octet is complete"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "If there is no rotation of plane polarised light by a compound in a specific solvent, through to be chiral, it may mean than ",
+      "options": [
+        {
+          "key": "A",
+          "value": "the compound is certainly meso"
+        },
+        {
+          "key": "B",
+          "value": "there is no compound in the solvent "
+        },
+        {
+          "key": "C",
+          "value": "the compound may be a racemic mixture "
+        },
+        {
+          "key": "D",
+          "value": "the compound is certainly a chiral. "
+        }
+      ],
+      "answer": "A",
+      "explanation": "Compounds which do not show optical\nactivity inspite of the presence of chiral carbon\natoms are called meso-compounds. The absence\nof optical activity in these compound is due to\nthe presence of a plane of symmetry in their\nmolecules. e.g. meso-tartaric acid is optically\ninactive."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "For (i) I<sup>$$-$$</sup>, (ii) Cl<sup>$$-$$</sup>, (iii) Br<sup>$$-$$</sup>, the increasing order of nucleophilicity would be",
+      "options": [
+        {
+          "key": "A",
+          "value": "Cl<sup>$$-$$</sup> &lt; Br<sup>$$-$$</sup> &lt; I<sup>$$-$$</sup>"
+        },
+        {
+          "key": "B",
+          "value": "I<sup>$$-$$</sup> &lt; Cl<sup>$$-$$</sup> &lt; Br<sup>$$-$$</sup>"
+        },
+        {
+          "key": "C",
+          "value": "Br<sup>$$-$$</sup> &lt; Cl<sup>$$-$$</sup> &lt; I<sup>$$-$$</sup>"
+        },
+        {
+          "key": "D",
+          "value": "I<sup>$$-$$</sup> &lt; Br<sup>$$-$$</sup> &lt; Cl<sup>$$-$$</sup>"
+        }
+      ],
+      "answer": "A",
+      "explanation": "Nucleophilicity increases down the periodic\ntable :\n<br><br>I<sup>–</sup>\n &gt; Br<sup>–</sup>\n &gt; Cl<sup>–</sup>\n &gt; F<sup>–</sup>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The order of decreasing reactivity towards an electrophilic reagent, for the following would be \n<br>(i)  benzene\n<br>(ii)  toluene\n<br>(iii)  chlorobenzene\n<br>(iv)  phenol",
+      "options": [
+        {
+          "key": "A",
+          "value": "(ii) &gt; (iv) &gt; (i) &gt; (iii)"
+        },
+        {
+          "key": "B",
+          "value": "(iv) &gt; (iii) &gt; (ii) &gt; (i)"
+        },
+        {
+          "key": "C",
+          "value": "(iv) &gt; (ii) &gt; (i) &gt; (iii)"
+        },
+        {
+          "key": "D",
+          "value": "(i) &gt; (ii) &gt; (iii) &gt; (iv)"
+        }
+      ],
+      "answer": "C",
+      "explanation": "Benzene having any activating group, i.e.,\nOH, R etc. undergoes electrophilic substitution\nvery easily as compared to benzene itself. Thus,\ntoluene (C<sub>6</sub>H<sub>5</sub>CH<sub>3</sub>) and phenol (C<sub>6</sub>H<sub>5</sub>OH) undergo\nelectrophilic substitution very readily than benzene.\nChlorine with +E and +M effect deactivates the\nring due to strong –I effect. So, it is difficult to\ncarry out the substitution in chlorobenzene than in\nbenzene, so correct order is\n<br><br>(iv) &gt; (ii) &gt; (i) &gt; (iii)"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The best method for the separation of naphthalene and benzoic acid from their mixture is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "distillation"
+        },
+        {
+          "key": "B",
+          "value": "sublimation"
+        },
+        {
+          "key": "C",
+          "value": "chromatography "
+        },
+        {
+          "key": "D",
+          "value": "crystallisation."
+        }
+      ],
+      "answer": "B",
+      "explanation": "Sublimation would be the best method because\nit is applicable for those organic compounds which\npass directly from solid to vapour state on heating\nand vice versa on cooling. In these compounds\nnaphthalene is volatile and benzoic acid is nonvolatile due to the formation of dimer via intermolecular hydrogen\nbonding."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Which one of the following pairs represents stereoisomerism? ",
+      "options": [
+        {
+          "key": "A",
+          "value": "Structural isomerism and gemetrical isomerism"
+        },
+        {
+          "key": "B",
+          "value": "Optical isomerism and geometrical isomerism"
+        },
+        {
+          "key": "C",
+          "value": "Chain isomerism and rotational isomerism "
+        },
+        {
+          "key": "D",
+          "value": "Linkage isomerism and geometrical isomerism."
+        }
+      ],
+      "answer": "B",
+      "explanation": "Pair of optical isomerism and geometrical\nisomerism are able to exhibit the phenomenon of stereoisomerism because both type of isomers differ\nonly in their orientation in space."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Which one of the following orders of acid strength is correct ? ",
+      "options": [
+        {
+          "key": "A",
+          "value": "RCOOH &gt; ROH &gt; HOH &gt; HC $$ \\equiv $$ CH"
+        },
+        {
+          "key": "B",
+          "value": "RCOOH &gt; HOH &gt; ROH &gt; HC $$ \\equiv $$ CH"
+        },
+        {
+          "key": "C",
+          "value": "RCOOH &gt; HOH &gt; HC $$ \\equiv $$ CH &gt; ROH"
+        },
+        {
+          "key": "D",
+          "value": "RCOOH &gt; HC $$ \\equiv $$ CH &gt; HOH &gt; ROH"
+        }
+      ],
+      "answer": "B",
+      "explanation": "Carboxylic acid is much stronger than water\nand alcohol. Since the carboxylate ion after the\nremoval of proton is stabilised by resonating\nstructures as higher is the tendency to donate\nproton, stronger is the acid. \n<br><br>The – OH in alcohols is almost neutral.\n<br><br>Acetylene is also weakest acid.\n<br><br>Thus the correct\norder is \n<br><br>RCOOH &gt; HOH &gt; ROH &gt; HC $$ \\equiv $$ CH\n<br><br>depending upon the rate of donation of proton."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Geometrical isomers differ in ",
+      "options": [
+        {
+          "key": "A",
+          "value": "position of functional group"
+        },
+        {
+          "key": "B",
+          "value": "position of atoms"
+        },
+        {
+          "key": "C",
+          "value": "spatial arrangement of atoms"
+        },
+        {
+          "key": "D",
+          "value": "length of carbon chain."
+        }
+      ],
+      "answer": "C",
+      "explanation": "Geometrical isomers have same molecular\nformula but differ in the position of atoms or\ngroups in space due to hindered rotation about a\ndouble bond."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "In steam distillation of toluene, the pressure of toluene in vapour is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "equal to pressure of barometer"
+        },
+        {
+          "key": "B",
+          "value": "Less than pressure of barometer"
+        },
+        {
+          "key": "C",
+          "value": "equal to vapour pressure of toluene in simple distillation"
+        },
+        {
+          "key": "D",
+          "value": "more than vapour pressure of toluene in simple distillation. "
+        }
+      ],
+      "answer": "B",
+      "explanation": "In steam distillation of toluene, the pressure of\ntoluene in vapour is less than pressure of barometer,\nbecause it is carried out when a solid or liquid is\ninsoluble in water and is volatile with steam but the\nimpurities are non-volatile."
+    }
+  ]
+}

@@ -1,0 +1,1111 @@
+{
+  "_index": {
+    "name": "Moving Charges and Magnetism"
+  },
+  "_children": [
+    {
+      "_type": "single_mcq",
+      "body": "<p>A tightly wound 100 turns coil of radius $$10 \\mathrm{~cm}$$ carries a current of $$7 \\mathrm{~A}$$. The magnitude of the magnetic field at the centre of the coil is (Take permeability of free space as $$4 \\pi \\times 10^{-7} \\mathrm{SI}$$ units):</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "44 mT"
+        },
+        {
+          "key": "B",
+          "value": "4.4 T"
+        },
+        {
+          "key": "C",
+          "value": "4.4 mT"
+        },
+        {
+          "key": "D",
+          "value": "44 T"
+        }
+      ],
+      "answer": "C",
+      "explanation": "<p>The magnitude of magnetic field due to circular coil of N turns is given by</p>\n<p>$$\n\\begin{aligned}\n& B_C=\\frac{\\mu_0 i N}{2 R} \\\\\n& =\\frac{4 \\pi \\times 10^{-7} \\times 7 \\times 100}{2 \\times 0.1} \\\\\n& =4.4 \\times 10^{-3} \\mathrm{~T} \\\\\n& =4.4 \\mathrm{~mT}\n\\end{aligned}\n$$</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>A wire carrying a current $$I$$ along the positive $$\\mathrm{x}$$-axis has length $$L$$. It is kept in a magnetic field $$\\overrightarrow{\\mathrm{B}}=(2 \\hat{\\mathrm{i}}+3 \\hat{\\mathrm{j}}-4 \\hat{\\mathrm{k}}) \\mathrm{T}$$. The magnitude of the magnetic force acting on the wire is :</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$\\sqrt{5} \\mathrm{~IL}$$"
+        },
+        {
+          "key": "B",
+          "value": "$$5 \\mathrm{~IL}$$"
+        },
+        {
+          "key": "C",
+          "value": "$$\\sqrt{3}$$ IL"
+        },
+        {
+          "key": "D",
+          "value": "3 IL"
+        }
+      ],
+      "answer": "B",
+      "explanation": "<p>$$\\vec{F}=I(\\vec{\\ell} \\times \\vec{B})$$</p>\n<p>$$\n\\begin{aligned}\n& =I[(L \\hat{i}) \\times(2 \\hat{i}+3 \\hat{j}-4 \\hat{k})] \\\\\\\\\n& =I(4 L \\hat{j}+3 L \\hat{k})\n\\end{aligned}\n$$</p>\n<p>$$\n|\\vec{F}|=5 \\text { IL }\n$$</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>A closely packed coil having 1000 turns has an average radius of 62.8 cm. If current carried by the wire of the coil is 1 A, the value of magnetic field produced at the centre of the coil will be (permeability of free space $$ = 4\\pi  \\times {10^{ - 7}}$$ H/m) nearly</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "10<sup>$$-$$3</sup> T"
+        },
+        {
+          "key": "B",
+          "value": "10<sup>$$-$$1</sup> T"
+        },
+        {
+          "key": "C",
+          "value": "10<sup>$$-$$2</sup> T"
+        },
+        {
+          "key": "D",
+          "value": "10<sup>2</sup> T"
+        }
+      ],
+      "answer": "A",
+      "explanation": "<p>Magnetic field at the centre of coil</p>\n<p>$$B = {{{\\mu _0}NI} \\over {2R}}$$</p>\n<p>On substituting the given values</p>\n<p>$$ \\Rightarrow B = {{4\\pi  \\times {{10}^{ - 7}} \\times {{10}^3}} \\over {2 \\times 62.8 \\times {{10}^{ - 2}}}}$$</p>\n<p>$$ = {10^{ - 3}}\\,T$$</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Two very long, straight, parallel conductors A and B carry current of 5 A and 10 A respectively and are at a distance of 10 cm from each other. The direction of current in two conductors is same. The force acting per unit length between two conductors is : ($$\\mu$$<sub>0</sub> = 4$$\\pi$$ $$\\times$$ 10<sup>$$-$$7</sup> SI unit)</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "1 $$\\times$$ 10<sup>$$-$$4</sup> Nm<sup>$$-$$1</sup> and is repulsive"
+        },
+        {
+          "key": "B",
+          "value": "2 $$\\times$$ 10<sup>$$-$$4</sup> Nm<sup>$$-$$1</sup> and is attractive"
+        },
+        {
+          "key": "C",
+          "value": "2 $$\\times$$ 10<sup>$$-$$4</sup> Nm<sup>$$-$$1</sup> and is repulsive"
+        },
+        {
+          "key": "D",
+          "value": "1 $$\\times$$ 10<sup>$$-$$4</sup> Nm<sup>$$-$$1</sup> and is attractive"
+        }
+      ],
+      "answer": "D",
+      "explanation": "<p>Force per unit length between two long current carrying wires $$ = {{{\\mu _0}{l_1}{l_2}} \\over {2\\pi d}}$$</p>\n<p>$$F = {{4\\pi  \\times {{10}^{ - 7}} \\times 5 \\times 10} \\over {2\\pi  \\times 10 \\times {{10}^{ - 2}}}} = {10^{ - 4}}$$ Nm<sup>$$-$$1</sup></p>\n<p>$$\\Rightarrow$$ The force is attractive as direction of current in two conductors is same</p>\n<p>Hence, required force is $$1 \\times {10^{ - 4}}$$ Nm<sup>$$-$$1</sup> and it is attractive.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>The magnetic field on the axis of a circular loop of radius 100 cm carrying current $$I = \\sqrt 2 \\,A$$, at point 1 m away from the centre of the loop is given by :</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$6.28 \\times {10^{ - 4}}$$ T"
+        },
+        {
+          "key": "B",
+          "value": "$$3.14 \\times {10^{ - 7}}$$ T"
+        },
+        {
+          "key": "C",
+          "value": "$$6.28 \\times {10^{ - 7}}$$ T"
+        },
+        {
+          "key": "D",
+          "value": "$$3.14 \\times {10^{ - 4}}$$ T"
+        }
+      ],
+      "answer": "B",
+      "explanation": "<p>Magnetic field at the axis of a current carrying circular loop</p>\n<p>$$|B| = {{{\\mu _0}i{a^2}} \\over {2{{[{a^2} + {d^2}]}^{3/2}}}} \\Rightarrow |B| = {{4\\pi  \\times {{10}^{ - 7}} \\times \\sqrt 2  \\times 1} \\over {2{{[1 + 1]}^{3/2}}}}$$</p>\n<p>$$|B| = {{4\\pi  \\times {{10}^{ - 7}} \\times \\sqrt 2 } \\over {2.{{(2)}^{3/2}}}} = {{4\\pi  \\times {{10}^{ - 7}}} \\over {{{(2)}^{3/2}} \\times {{(2)}^{1/2}}}} = 3.14 \\times {10^{ - 7}}$$ T</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>A long solenoid of radius 1 mm has 100 turns per mm. If 1 A current flows in the solenoid, the magnetic field strength at the centre of the solenoid is</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "6.28 $$\\times$$ 10<sup>$$-$$2</sup> T"
+        },
+        {
+          "key": "B",
+          "value": "12.56 $$\\times$$ 10<sup>$$-$$2</sup> T"
+        },
+        {
+          "key": "C",
+          "value": "12.56 $$\\times$$ 10<sup>$$-$$4</sup> T"
+        },
+        {
+          "key": "D",
+          "value": "6.28 $$\\times$$ 10<sup>$$-$$4</sup> T"
+        }
+      ],
+      "answer": "B",
+      "explanation": "<p>We know, magnetic field at centre of solenoid</p>\n<p>$$B = {\\mu _0}{N \\over l}l = {\\mu _0}nl$$ $$\\left[ {n = {N \\over l}} \\right]$$</p>\n<p>$$ = 4\\pi  \\times {10^{ - 7}} \\times 100 \\times {10^3} \\times 1$$ $$\\left[ {n = {{100} \\over {{{10}^{ - 3}}}}} \\right]$$</p>\n<p>$$ = 4\\pi  \\times {10^{ - 2}}T$$</p>\n<p>$$B = 12.56 \\times {10^{ - 2}}T$$</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Given below are two statements:</p>\n<p>Statement I : Biot-Savart's law gives us the expression for the magnetic field strength of an infinitesimal current element (Idl) of a current carrying conductor only.</p>\n<p>Statement II : Biot-Savart's law is analogous to Coulomb's inverse square law of charge q, with the former being related to the field produced by a scalar source, Idl while the latter being produced by a vector source, q.</p>\n<p>In light of above statements choose the most appropriate answer from the options given below.</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "Both Statement I and Statement II are correct"
+        },
+        {
+          "key": "B",
+          "value": "Both Statement I and Statement II are incorrect"
+        },
+        {
+          "key": "C",
+          "value": "Statement I is correct and Statement II is incorrect"
+        },
+        {
+          "key": "D",
+          "value": "Statement I is incorrect and Statement II is correct"
+        }
+      ],
+      "answer": "C",
+      "explanation": "<p>According to Biot-Savart's law $$d\\overrightarrow B  = {{{\\mu _0}} \\over {4\\pi }}{{Id\\overrightarrow l  \\times \\overrightarrow r } \\over {{r^3}}}$$ which is applicable for infinitesimal element. It is analogous to Coulomb's law, where $$Id\\overrightarrow l $$ is vector source and electric field is produced by scalar source q. Here statement I is correct and statement II is incorrect.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>From Ampere's circuital law for a long straight wire of circular cross-section carrying a steady current, the variation of magnetic field in the inside and outside region of the wire is</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "Uniform and remains constant for both the regions."
+        },
+        {
+          "key": "B",
+          "value": "A linearly increasing function of distance upto the boundary of the wire and then linearly decreasing for the outside region."
+        },
+        {
+          "key": "C",
+          "value": "A linearly increasing function of distance r upto the boundary of the wire and then decreasing one with $${1 \\over r}$$ dependence for the outside region."
+        },
+        {
+          "key": "D",
+          "value": "A linearly decreasing function of distance upto the boundary of the wire and then a linearly increasing one of the outside region."
+        }
+      ],
+      "answer": "C",
+      "explanation": "<p>For solid wire</p>\n<p>Inside point</p>\n<p>$$B = {{{\\mu _0}I{r^2}} \\over {{R^2} \\times 2\\pi {r}}}$$</p>\n<p>$$ = {{{\\mu _0}Ir} \\over {{R^2} \\times 2\\pi }}$$</p>\n<p>$$B \\propto r$$</p>\n<p>Outside point</p>\n<p>$$B = {{{\\mu _0}I} \\over {2\\pi r}}$$</p>\n<p>$$B \\propto {1 \\over r}$$</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A long solenoid of 50 cm length having 100 turns carries a current of 2.5 A. The magnetic field at the centre of the solenoid is :<br>$$\\left( {{\\mu _0} = 4\\pi  \\times {{10}^{ - 7}}Tm{{A}^{-1}}} \\right)$$\n",
+      "options": [
+        {
+          "key": "A",
+          "value": "3.14 $${ \\times {{10}^{ - 4}}T}$$\n"
+        },
+        {
+          "key": "B",
+          "value": "6.28 $${ \\times {{10}^{ - 5}}T}$$\n"
+        },
+        {
+          "key": "C",
+          "value": "3.14 $${ \\times {{10}^{ - 5}}T}$$\n"
+        },
+        {
+          "key": "D",
+          "value": "6.28 $${ \\times {{10}^{ - 4}}T}$$\n"
+        }
+      ],
+      "answer": "D",
+      "explanation": "Magnetic field at centre of solenoid = $${\\mu _0}nI$$\n<br>$$n = {N \\over L} = {{100} \\over {50 \\times {{10}^{ - 2}}}}$$\n<br> = 200 turns/m<br>I = 25A<br>Now, substituting the values,<br>B = 4$$\\pi $$ $$ \\times $$ 10<sup>-7</sup> $$ \\times $$ 200 $$ \\times $$ 2.5<br> = 6.28 $$ \\times $$ 10<sup>-4</sup> T"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Ionized hydrogen atoms and $$\\alpha $$-particles with same momenta enters perpendicular to a constant magnetic field, B. The ratio of their radii of their paths r<sub>H</sub> : r<sub>$$\\alpha $$</sub> will be : ",
+      "options": [
+        {
+          "key": "A",
+          "value": "1 : 2"
+        },
+        {
+          "key": "B",
+          "value": "4 : 1"
+        },
+        {
+          "key": "C",
+          "value": "1 : 4"
+        },
+        {
+          "key": "D",
+          "value": "2 : 1"
+        }
+      ],
+      "answer": "D",
+      "explanation": "Radius of the path (r) = $${{mv} \\over {qB}}$$ = $${p \\over {qB}}$$\n<br><br>So, the radius for H-atom r<sub>H</sub> = $${p \\over {eB}}$$\n<br><br> The radius for $$\\alpha $$ particle r<sub>$$\\alpha $$</sub> = $${p \\over {2eB}}$$\n<br><br>$$ \\therefore $$ $${{{r_H}} \\over {{r_\\alpha }}} = {{{p \\over {eB}}} \\over {{p \\over {2eB}}}}$$ = $${2 \\over 1}$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Current sensitivity of a moving coil\ngalvanometer is 5 div/mA and its voltage\nsensitivity (angular deflection per unit voltage\napplied) is 20 div/V. The resistance of the\ngalvanometer is",
+      "options": [
+        {
+          "key": "A",
+          "value": "40 $$\\Omega $$"
+        },
+        {
+          "key": "B",
+          "value": "25 $$\\Omega $$"
+        },
+        {
+          "key": "C",
+          "value": "250 $$\\Omega $$"
+        },
+        {
+          "key": "D",
+          "value": "500 $$\\Omega $$"
+        }
+      ],
+      "answer": "C",
+      "explanation": "Current sensitivity of moving coil\ngalvanometer\n<br><br>I<sub>s</sub> = $${{NBA} \\over C}$$ .....(i)\n<br><br>Voltage sensitivity of moving coil galvanometer,\n<br><br>V<sub>s</sub> = $${{NBA} \\over {C{R_G}}}$$\n<br><br>Dividing eqn. (i) by (ii)\n<br><br>Resistance of galvanometer\n<br><br>R<sub>G</sub> = $${{{I_s}} \\over {{V_S}}} = {{5 \\times 1} \\over {20 \\times {{10}^{ - 3}}}} = {{5000} \\over {20}} = 250\\,\\Omega $$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "An electron is moving in a circular path under the influence of a transverse magnetic field of 3.57 $$ \\times $$ 10<sup>-2</sup> T. If the value of e/m is 1.76 $$ \\times $$ 10<sup>11</sup> C kg<sup>$$-$$1</sup>, the frequency of revoluation of the electron is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "1 GHz"
+        },
+        {
+          "key": "B",
+          "value": "100 MHz"
+        },
+        {
+          "key": "C",
+          "value": "62.8 MHz"
+        },
+        {
+          "key": "D",
+          "value": "6.28 MHz"
+        }
+      ],
+      "answer": "A",
+      "explanation": "Frequency of revolution of charge in magnetic field is given as \n<br><br>F = $${{qB} \\over {2\\pi m}}$$\n<br><br>= $${{\\left( {1.76 \\times {{10}^{11}}} \\right) \\times 3.57 \\times {{10}^{ - 2}}} \\over {2 \\times 3.14}}$$\n<br><br>= 10<sup>9</sup> Hz\n<br><br>= 1 GHz"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A long wire carrying a steady current is bent into a circular loop of one turn. The magnetic field at the centre of the loop is B. It is then bent into a circular coil of n turns. The magnetic field at the centre of this coil of n turns will be ",
+      "options": [
+        {
+          "key": "A",
+          "value": "nB"
+        },
+        {
+          "key": "B",
+          "value": "n<sup>2</sup>B"
+        },
+        {
+          "key": "C",
+          "value": "2nB"
+        },
+        {
+          "key": "D",
+          "value": "2n<sup>2</sup>B"
+        }
+      ],
+      "answer": "B",
+      "explanation": "For One turn loop :\n<br><br>B = $${{{\\mu _0}i} \\over {2r}}$$\n<br><br>For n turn loop :\n<br><br>r = $${R \\over n}$$\n<br><br>B' = $${{{\\mu _0}ni} \\over {2{R \\over n}}}$$\n<br><br>= $$\\left( {{{{\\mu _0}i} \\over {2R}}} \\right){n^2}$$\n<br><br>= n<sup>2</sup>B"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A long straight wire of radius $$a$$ carries a steady current $$I$$. The current is uniformly distributed over its cross-section. The ratio of the magnetic fields B and B', at radial distance $${a \\over 2}$$ and 2$$a$$ respectively, from the axis of the wire is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "1"
+        },
+        {
+          "key": "B",
+          "value": "4"
+        },
+        {
+          "key": "C",
+          "value": "$${1 \\over 4}$$"
+        },
+        {
+          "key": "D",
+          "value": "$${1 \\over 2}$$"
+        }
+      ],
+      "answer": "A",
+      "explanation": "For points inside the wire i.e., (r $$ \\le $$ R)<br><br> \nMagnetic field $$B = {{{\\mu _0}Ir} \\over {2\\pi {R^2}}}$$<br><br>\nFor points outside the wire (r $$ \\ge $$ R) <br><br>\nMagnetic field, $$B' = {{{\\mu _0}I} \\over {2\\pi R}}$$<br><br>\n$$ \\therefore {B \\over {B'}} = {{{{{\\mu _0}I\\left( {a/2} \\right)} \\over {2\\pi {a^2}}}} \\over {{{{\\mu _0}I} \\over {2\\pi \\left( {2a} \\right)}}}} = 1:1$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A proton and an alpha particle both enter a region of uniform magnetic field B, moving at right angles to the field B. If the radius of circular orbits for both the particles is equal and the kinetic energy acquired by proton is 1 MeV, the energy acquired by the alpha particle will be",
+      "options": [
+        {
+          "key": "A",
+          "value": "1.5 MeV"
+        },
+        {
+          "key": "B",
+          "value": "1 MeV"
+        },
+        {
+          "key": "C",
+          "value": "4 MeV"
+        },
+        {
+          "key": "D",
+          "value": "0.5 MeV"
+        }
+      ],
+      "answer": "B",
+      "explanation": "As we know, F = qvB = $${{m{v^2}} \\over R}$$<br><br>$$ \\therefore $$ $$R = {{mv} \\over {qB}} = {{\\sqrt {2m\\left( {kE} \\right)} } \\over {qB}}$$<br><br>\nSince R is same so, $$KE \\propto {{{q^2}} \\over m}$$<br><br>\nTherefore KE of $$\\alpha $$ particle<br><br>\n$$ = {{{q^2}} \\over m} = {{{{\\left( 2 \\right)}^2}} \\over 4} = 1\\,MeV$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "An electron moving in a circular orbit of radius r makes n rotations per second. The magnetic field produced at the centre has magnitude",
+      "options": [
+        {
+          "key": "A",
+          "value": "$${{{\\mu _0}{n^2}e} \\over r}$$"
+        },
+        {
+          "key": "B",
+          "value": "$${{{\\mu _0}ne} \\over {2r}}$$"
+        },
+        {
+          "key": "C",
+          "value": "$${{{\\mu _0}ne} \\over {2\\pi r}}$$"
+        },
+        {
+          "key": "D",
+          "value": "Zero"
+        }
+      ],
+      "answer": "B",
+      "explanation": "Current in the orbit, $$I = {e \\over T}$$<br><br>\n$$I = {e \\over {\\left( {2\\pi /\\omega } \\right)}} = {{\\omega e} \\over {2\\pi }}$$<br><br>\n$$ = {{\\left( {2\\pi n} \\right)e} \\over {2\\pi }} = ne$$<br><br>\nMagnetic field at centre of current carrying circular coil is given by\n<br><br>$$B = {{{\\mu _0}I} \\over {2r}} = {{{\\mu _0}ne} \\over {2r}}$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "In an ammeter 0.2% of main current passes through the galvanometer. If resistance of galvanometer is G, the resistance of ammeter will be ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$${1 \\over {499}}G$$"
+        },
+        {
+          "key": "B",
+          "value": "$${{499} \\over {500}}G$$"
+        },
+        {
+          "key": "C",
+          "value": "$${1 \\over {500}}G$$"
+        },
+        {
+          "key": "D",
+          "value": "$${{500} \\over {499}}G$$"
+        }
+      ],
+      "answer": "C",
+      "explanation": "In parallel arrangement, I $$ \\alpha $$ R <br><br>\nNow G/S = 99.8/0.2<br><br>\nS = G/499\n<br><br>\nHence, $${R_A} = {{GS} \\over {G + S}} = {G \\over {500}}$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A proton carrying 1 MeV kinetic energy is moving in a circular path of radius R in uniform magnetic field. What should be the energy of an $$\\alpha $$-particle to describe a circle of same radius in the same field? ",
+      "options": [
+        {
+          "key": "A",
+          "value": "2 MeV"
+        },
+        {
+          "key": "B",
+          "value": "1 MeV"
+        },
+        {
+          "key": "C",
+          "value": "0.5 MeV"
+        },
+        {
+          "key": "D",
+          "value": "4 MeV"
+        }
+      ],
+      "answer": "B",
+      "explanation": "According to the principal of circular motion in a magnetic field <br><br>\n$${F_c} = {F_m} \\Rightarrow {{m{v^2}} \\over R} = qVB$$<br><br>\n$$ \\Rightarrow R = {{mv} \\over {qB}} = {P \\over {qB}} = {{\\sqrt {2m.k} } \\over {qB}}$$<br><br>\n$${R_\\alpha } = {{\\sqrt {2\\left( {4m} \\right)K'} } \\over {2qB}}$$<br><br>\n$${R \\over {{R_\\alpha }}} = \\sqrt {{K \\over {K'}}} $$<br><br>\nbut $$R = {R_\\alpha }$$ (given)<br><br>\n$$ \\therefore $$ K = K' = 1 MeV"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "An alternating electric field, of frequency $$v$$, is applied across the does (radius = R) of a cyclotron that is being used to accelerate protons (mass = m). The operating magnetic field (B) used in the cyclotron and the kinetic energy (K) of the proton beam, produced by it, are given by",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$B = {{m\\upsilon } \\over e}$$&nbsp;&nbsp;and&nbsp;&nbsp;$$K = 2m{\\pi ^2}{\\upsilon ^2}{R^2}$$"
+        },
+        {
+          "key": "B",
+          "value": "$$B = {{2\\pi m\\upsilon } \\over e}$$&nbsp;&nbsp;$$K = {m^2}\\pi \\upsilon {R^2}$$"
+        },
+        {
+          "key": "C",
+          "value": "$$B = {{2\\pi m\\upsilon } \\over e}$$&nbsp;&nbsp;$$K = 2m{\\pi ^2}{v^2}{R^2}$$"
+        },
+        {
+          "key": "D",
+          "value": "$$B = {{m\\upsilon } \\over e}$$&nbsp;&nbsp;$$K = {m^2}\\pi \\upsilon {R^2}$$"
+        }
+      ],
+      "answer": "C",
+      "explanation": "Time period of cyclotron is <br><br>\n$$T = {1 \\over v} = {{2\\pi m} \\over {eB}}; B = {{2\\pi m} \\over e}v;R = {{mv} \\over {eB}} = {p \\over {eB}}$$<br><br>\n$$ \\Rightarrow P = eBR = e \\times {{2\\pi mv} \\over e}R = 2\\pi mvR$$<br><br>\n$$K.E. = {{{p^2}} \\over {2m}} = {{{{\\left( {2\\pi mvR} \\right)}^2}} \\over {2m}} = 2{\\pi ^2}m{v^2}{R^2}$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A milli voltmeter of 25 milli volt range is to be converted into an ammeter of 25 ampare range. The value (in ohm) of neccessary shunt will be ",
+      "options": [
+        {
+          "key": "A",
+          "value": "0.001"
+        },
+        {
+          "key": "B",
+          "value": "0.01"
+        },
+        {
+          "key": "C",
+          "value": "1"
+        },
+        {
+          "key": "D",
+          "value": "0.05"
+        }
+      ],
+      "answer": "A",
+      "explanation": "$$S = {{{V_g}} \\over {\\left( {I - {I_g}} \\right)}}$$<br><br>\nNeglecting I<sub>g</sub><br><br> $$ \\therefore $$ $$S = {{{V_g}} \\over I} = {{25 \\times {{10}^{ - 3}}V} \\over {25\\,A}} = 0.001\\Omega $$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Charge q is uniformly spread on a thin ring of radius R. The ring rotates about its axis with a uniform frequency $$f$$ Hz. The magnitude of magnetic induction at the center of the ring is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$${{{\\mu _0}qf} \\over {2\\pi R}}$$"
+        },
+        {
+          "key": "B",
+          "value": "$${{{\\mu _0}qf} \\over {2R}}$$"
+        },
+        {
+          "key": "C",
+          "value": "$${{{\\mu _0}q} \\over {2fR}}$$"
+        },
+        {
+          "key": "D",
+          "value": "$${{{\\mu _0}q} \\over {2\\pi fR}}$$"
+        }
+      ],
+      "answer": "B",
+      "explanation": "When the ring rotates about its axis with a uniform frequency f Hz, the current flowing in the ring is \n<br><br>I = $${q \\over T}$$ = qf\n<br><br>Magnetic field at the centre of the ring is \n<br><br>B = $${{{\\mu _0}I} \\over {2R}}$$ = $${{{\\mu _0}qf} \\over {2R}}$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A uniform electric field and a uniform magnetic field are acting along the same direction in a certain region. If an electron is projected in the region such that its velocity is pointed along the direction of fields, then the electron ",
+      "options": [
+        {
+          "key": "A",
+          "value": "will turn towards right of direction of motion"
+        },
+        {
+          "key": "B",
+          "value": "speed will decrease"
+        },
+        {
+          "key": "C",
+          "value": "speed will increase"
+        },
+        {
+          "key": "D",
+          "value": "will turn towards left of direction of motion"
+        }
+      ],
+      "answer": "B",
+      "explanation": "$$\\overrightarrow v $$ and $$\\overrightarrow B $$ are in same direction so that magnetic force on electron becomes zero, only electric force acts. But force on electron due to electric field is opposite to the direction of velocity."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A closely wound solenoid of 2000 turns and area of cross-section 1.5 $$ \\times $$ 10<sup>$$-$$4</sup> m<sup>2</sup> carries a current of 2.0 A. It is suspended through its centre and perpendicular to its length, allowing it to turn in a horizontal plane in a uniform magnetic field 5 $$ \\times $$ 10<sup>$$-$$2</sup> tesla making an angle of 30<sup>o</sup> with the axis of the solenoid. The torque on the solenoid will be ",
+      "options": [
+        {
+          "key": "A",
+          "value": "3 $$ \\times $$ 10<sup>$$-$$3</sup> N m"
+        },
+        {
+          "key": "B",
+          "value": "1.5 $$ \\times $$ 10<sup>$$-$$3</sup> N m"
+        },
+        {
+          "key": "C",
+          "value": "1.5 $$ \\times $$ 10<sup>$$-$$2</sup> N m"
+        },
+        {
+          "key": "D",
+          "value": "3 $$ \\times $$ 10<sup>$$-$$2</sup> N m"
+        }
+      ],
+      "answer": "C",
+      "explanation": "Magnetic moment of the loop.<br><br>\nM = NIA = 2000 × 2 × 1.5 × 10<sup>–4 </sup>= 0.6 J/T <br><br>\nTorque $$\\tau $$ = MBsin30° <br><br>\n$$ = 0.6 \\times 5 \\times {10^{ - 2}} \\times {1 \\over 2} = 1.5 \\times {10^{ - 2}}\\,Nm$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A particle having a mass of 10<sup>$$-$$2</sup> kg carries a charge of 5 $$ \\times $$ 10<sup>$$-$$8</sup> C. The particle is given an initial horizontal velocity of 10<sup>5</sup> m s<sup>$$-$$1</sup> in the presence of electric field $$\\overrightarrow E $$ and magnetic field $$\\overrightarrow B $$. To keep the particle moving in a horizontal direction, it is necessary that\n<br>(1)&nbsp;&nbsp;$$\\overrightarrow B $$ should be perpendicular to the direction of velocity and $$\\overrightarrow E $$ should be along the direction of velocity \n<br><br>(2)&nbsp;&nbsp;Both $$\\overrightarrow B $$  and  $$\\overrightarrow E $$ should be along the direction of velocity\n<br><br>(3)&nbsp;&nbsp;Both $$\\overrightarrow B $$ and $$\\overrightarrow E $$ are mutually perpendicular and perpendicular to the direction of velocity. \n<br><br>(4)&nbsp;&nbsp;$$\\overrightarrow B $$ should be along the direction of velocity and $$\\overrightarrow E $$ should be perpendicular to the direction of velocity\n<br><br>Which one of the following pairs of statements is possible ? ",
+      "options": [
+        {
+          "key": "A",
+          "value": "(1) and (3)"
+        },
+        {
+          "key": "B",
+          "value": "(3) and (4)"
+        },
+        {
+          "key": "C",
+          "value": "(2) and (3)"
+        },
+        {
+          "key": "D",
+          "value": "(2) and (4)"
+        }
+      ],
+      "answer": "C",
+      "explanation": "Force due to electric field acts along the direction of the electric field but force due to the magnetic field acts along a direction perpendicular to both the velocity of the charged particle and the magnetic field. Hence both statements (2) and (3) are true. In statement (2), magnetic force is zero, so, electric force will keep the particle continue to move in horizontal direction. In statement (3), both electric and magnetic forces will be opposite to each other. If their magnitudes will be equal then the particle will continue horizontal motion."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A galvanometer has a coil of resistance 100 ohm and gives a full scale deflection for 30 mA current. If it is to work as a voltmeter of 30 volt range, the resistance required to be added will be",
+      "options": [
+        {
+          "key": "A",
+          "value": "900 $$\\Omega $$"
+        },
+        {
+          "key": "B",
+          "value": "1800 $$\\Omega $$"
+        },
+        {
+          "key": "C",
+          "value": "500 $$\\Omega $$"
+        },
+        {
+          "key": "D",
+          "value": "1000 $$\\Omega $$"
+        }
+      ],
+      "answer": "A",
+      "explanation": "Let the resistance to be added be R, then \n<br><br>30 = I<sub>g</sub> (r + R)\n<br><br>$$ \\therefore $$ R = $${{30} \\over {{I_g}}} - r$$\n<br><br>= $${{30} \\over {30 \\times {{10}^{ - 3}}}} - 100$$\n<br><br>= 1000 - 100 = 900 $$\\Omega $$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A square current carrying loop is suspended in a uniform magnetic field acting in the plane of the loop. If the force on one arm of the loop is the net force on the remaining three arms of the loop is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$3\\overrightarrow F $$"
+        },
+        {
+          "key": "B",
+          "value": "$$-$$ $$\\overrightarrow F $$"
+        },
+        {
+          "key": "C",
+          "value": "$$-$$ $$3\\overrightarrow F $$"
+        },
+        {
+          "key": "D",
+          "value": "$$\\overrightarrow F $$"
+        }
+      ],
+      "answer": "B",
+      "explanation": "When a current carrying loop is placed in a magnetic field, the coil experiences a torque given by $$\\tau  = NBiA\\sin \\theta $$. Torque is maximum when $$\\theta $$ = 90<sup>o</sup>,i.e., the plane of the coil is parallel to the field $${\\tau _{\\max }} = NBiA$$<br><br>\nForces $${\\overrightarrow F _1}$$ and $${\\overrightarrow F _2}$$ acting on the coil are equal in magnitude and opposite in direction. As the forces $${\\overrightarrow F _2}$$ and $${\\overrightarrow F _2}$$ have the same line of action their resultant effect on the coil is zero. The two forces $${\\overrightarrow F _3}$$ and $${\\overrightarrow F _4}$$ are equal in magnitude and opposite in direction. As the two forces have different lines of action, they constitute a torque. Thus, if the force on one arc of the loop is $$\\overrightarrow F $$ , the net force on the remaining three arms of the loop is - F."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Charge q is uniformly spread on a thin ring of radius R. The ring rotates about its axis with a uniform frequency $$f$$ Hz. The magnitude of magnetic induction at the center of the ring is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$${{{\\mu _0}qf} \\over {2\\pi R}}$$"
+        },
+        {
+          "key": "B",
+          "value": "$${{{\\mu _0}qf} \\over {2R}}$$"
+        },
+        {
+          "key": "C",
+          "value": "$${{{\\mu _0}q} \\over {2fR}}$$"
+        },
+        {
+          "key": "D",
+          "value": "$${{{\\mu _0}q} \\over {2\\pi fR}}$$"
+        }
+      ],
+      "answer": "B",
+      "explanation": "When the ring rotates about its axis with a uniform frequency f Hz, the current flowing in the ring is \n<br><br>I = $${q \\over T}$$ = qf\n<br><br>Magnetic field at the centre of the ring is \n<br><br>B = $${{{\\mu _0}I} \\over {2R}}$$ = $${{{\\mu _0}qf} \\over {2R}}$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Under the influence of a uniform magnetic field, a charged particle moves with constant speed v in a circle of radius R. The time period of rotation of the particle ",
+      "options": [
+        {
+          "key": "A",
+          "value": "depends on R and not on v"
+        },
+        {
+          "key": "B",
+          "value": "is independent of both v and R"
+        },
+        {
+          "key": "C",
+          "value": "depends on both v and R"
+        },
+        {
+          "key": "D",
+          "value": "depends on v and not on R"
+        }
+      ],
+      "answer": "B",
+      "explanation": "For the circular motion in a cyclotron, <br><br>\n$$qvB = {{m{v^2}} \\over r} \\Rightarrow qB = m\\omega  = {{m \\times 2\\pi } \\over T}$$<br><br>\n$$ \\therefore T = {{2\\pi m} \\over {qB}}$$ is independent of  v and r.\n"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The magnetic force acting on a charged particle of charge $$-$$2 $$\\mu $$C in a magnetic frield of 2 T acting in y direction, when the particle velocity is  $$\\left( {2\\widehat i + 3\\widehat j} \\right) \\times {10^6}\\,m{s^{ - 1}}$$",
+      "options": [
+        {
+          "key": "A",
+          "value": "4 N in z direction "
+        },
+        {
+          "key": "B",
+          "value": "8 N in y direction "
+        },
+        {
+          "key": "C",
+          "value": "8 N in z direction "
+        },
+        {
+          "key": "D",
+          "value": "8 N in $$-$$ z direction"
+        }
+      ],
+      "answer": "D",
+      "explanation": "The magnetic force acting on the charged paraticle is given by<br><br>\n$$\\overrightarrow F  = q\\left( {\\overrightarrow v  \\times \\overrightarrow B } \\right)$$<br><br>\n$$ = \\left( { - 2 \\times {{10}^{ - 6}}} \\right)\\left[ {\\left\\{ {\\left( {2\\widehat i + 3\\widehat j} \\right) \\times {{10}^6}} \\right\\} \\times \\left( {2\\widehat j} \\right)} \\right]$$<br><br>\n$$ =  - 4\\left( {2\\widehat k} \\right)$$<br><br>\n$$ =  - 8\\widehat k$$<br><br>$$ \\therefore $$  Force is of 8N along – z-axis. \n"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A galvanometer havings a coil resistance of 60 $$\\Omega $$ shows full scale deflection when a current of 1.0 amp passes through it. It can be converted into an ammeter to read currents upto 5.0 amp by",
+      "options": [
+        {
+          "key": "A",
+          "value": "putting in series a resistance of 15 $$\\Omega $$"
+        },
+        {
+          "key": "B",
+          "value": "putting in series a resistance of 240 $$\\Omega $$"
+        },
+        {
+          "key": "C",
+          "value": "putting in parallel a resistance of 15 $$\\Omega $$"
+        },
+        {
+          "key": "D",
+          "value": "putting in parallel a resistance of 240 $$\\Omega $$"
+        }
+      ],
+      "answer": "C",
+      "explanation": "G = 60 $$\\Omega $$ , I<sub>g</sub> = 1.0A, I = 5A.<br><br>Let S be the shunt resistance connected in parallel to galvanometer <br><br>I<sub>g</sub> G = (I – I<sub>g</sub>) S, <br><br>\n$$S = {{{I_g}G} \\over {I - {I_g}}} = {1 \\over {5 - 1}} \\times 60 = {{1.0 \\times 60} \\over 4} = 15\\Omega $$<br><br>\nThus by putting 15 $$\\Omega $$ in parallel, the galvanometer can be converted into an ammeter. "
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A galvanometer of resistance 50 $$\\Omega $$ is connected to a battery of 3 V along with a resistance of 2950 $$\\Omega $$ in series. A full scale deflection of 30 divisions is obtained in the galvanometer. In order to reduce this deflection to 20 divisions,  the resistance in series should be ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$6050$$ $$\\Omega $$"
+        },
+        {
+          "key": "B",
+          "value": "$$4450\\,\\Omega $$"
+        },
+        {
+          "key": "C",
+          "value": "$$5050\\,\\Omega $$"
+        },
+        {
+          "key": "D",
+          "value": "$$5550\\,\\Omega $$"
+        }
+      ],
+      "answer": "B",
+      "explanation": "Total initial resistance <br><br>= R<sub>G</sub> + R<sub>1</sub> = (50 + 2950) $$\\Omega $$ = 3000 $$\\Omega $$ <br><br>$$\\varepsilon  = 3V$$<br><br>\n$$ \\therefore $$ Current = $${{3V} \\over {3000\\Omega }} = 1 \\times {10^{ - 3}}mA$$<br><br>\nIf the deflection has to be reduced to 20 divisions, current i = 1 mA $$ \\times $$ $${2 \\over 3}$$ as the full deflection scale for 1 mA = 30 divisions.<br><br>\n$$3V = 3000\\Omega  \\times 1mA = x\\Omega  \\times {2 \\over 3}mA$$<br><br>\n$$ \\Rightarrow x = 3000 \\times 1 \\times {3 \\over 2} = 4500\\Omega $$<br><br>\nBut the  galvanometer resistance = 50 $$\\Omega $$<br><br>Therefore the resistance to be added <br><br>= (4500 – 50)$$\\Omega $$ = 4450 $$\\Omega $$. "
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A particle of mass m, charge Q and kinetic energy T enters a transverse uniform magnetic field of induction $$\\overrightarrow B $$. After 3 seconds the kinetic energy of the particle will be",
+      "options": [
+        {
+          "key": "A",
+          "value": "T "
+        },
+        {
+          "key": "B",
+          "value": "4 T"
+        },
+        {
+          "key": "C",
+          "value": "3 T"
+        },
+        {
+          "key": "D",
+          "value": "2 T"
+        }
+      ],
+      "answer": "A",
+      "explanation": "When a charged particle having a given K.E., T enters in a field of magnetic induction, which is perpendicular to its velocity, it takes a circular trajectory. It does not increase in energy, therefore T is the K.E."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The resistance of an ammeter is 13 $$\\Omega $$ and its scale is graduated for a current upto 100 amps. After an additional shunt has been connected to this ammeter it becomes possible to measure currents upto 750 amperes by this meter. The value of shunt-resistance is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "2 $$\\Omega $$"
+        },
+        {
+          "key": "B",
+          "value": "0.2 $$\\Omega $$"
+        },
+        {
+          "key": "C",
+          "value": "2 k$$\\Omega $$"
+        },
+        {
+          "key": "D",
+          "value": "20 $$\\Omega $$"
+        }
+      ],
+      "answer": "A",
+      "explanation": "We know\n<br><br>$${I \\over {{I_S}}} = 1 + {G \\over S}$$<br><br>\n$${{750} \\over {100}} = 1 + {{13} \\over S}$$<br><br>\n$$ \\Rightarrow S = 2\\Omega $$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Under the influence of a uniform magnetic field, a charged particle moves with constant speed v in a circle of radius R. The time period of rotation of the particle ",
+      "options": [
+        {
+          "key": "A",
+          "value": "depends on R and not on v"
+        },
+        {
+          "key": "B",
+          "value": "is independent of both v and R "
+        },
+        {
+          "key": "C",
+          "value": "depends on both v and R"
+        },
+        {
+          "key": "D",
+          "value": "depends on v and not on R"
+        }
+      ],
+      "answer": "B",
+      "explanation": "For the circular motion in a cyclotron, <br><br>\n$$qvB = {{m{v^2}} \\over r} \\Rightarrow qB = m\\omega  = {{m \\times 2\\pi } \\over T}$$<br><br>\n$$ \\therefore T = {{2\\pi m} \\over {qB}}$$ is independent of  v and r.\n"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Two circular coils 1 and 2 are made from the same wire but the radius of the 1<sup>st</sup> coil is twice that of the 2<sup>nd</sup> coil. What is the ratio of potential difference in volts should be applied across them so that the magnetic field at their centres is the same? ",
+      "options": [
+        {
+          "key": "A",
+          "value": "2"
+        },
+        {
+          "key": "B",
+          "value": "3"
+        },
+        {
+          "key": "C",
+          "value": "4"
+        },
+        {
+          "key": "D",
+          "value": "6"
+        }
+      ],
+      "answer": "C",
+      "explanation": "Let r<sub>1</sub> and r<sub>2</sub> are the radius of coil 1 and 2. If B<sub>1</sub>\nand B<sub>2</sub> are magnetic induction at their centre,\nthen\n<br><br>$${B_1} = {{{\\mu _0}{I_1}} \\over {2{r_1}}}$$ and $${B_2} = {{{\\mu _0}{I_2}} \\over {2{r_2}}}$$\n<br><br>Since B<sub>1</sub> = B<sub>2</sub> ; and r<sub>1</sub> = 2r<sub>2</sub>\n therefore I<sub>1</sub> = 2I<sub>2</sub>.\n<br><br>Again if R<sub>1</sub> and R<sub>2</sub> are resistance of the coil 1\nand 2 then R<sub>1</sub> = 2R<sub>2</sub> (as R $$ \\propto $$ length = 2$$\\pi $$r) and if\nV<sub>1</sub> and V<sub>2</sub> are the potential difference across\nthem respectively, then\n<br><br>$${{{V_1}} \\over {{V_2}}} = {{{I_1}{R_1}} \\over {{I_2}{R_2}}} = {{\\left( {2{I_2}} \\right)\\left( {2{R_2}} \\right)} \\over {{I_2}{R_2}}} = 4$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "When a charged particle moving with velocity $$\\overrightarrow v $$ is subjected to a magnetic field of induction $$\\overrightarrow B $$, the force on it is non-zero. This implies that ",
+      "options": [
+        {
+          "key": "A",
+          "value": "angle between is either zero or 180<sup>o</sup>"
+        },
+        {
+          "key": "B",
+          "value": "angle between is necessarily 90<sup>o</sup>"
+        },
+        {
+          "key": "C",
+          "value": "angle between can have any value other than 90<sup>o</sup> "
+        },
+        {
+          "key": "D",
+          "value": "angle between can have any value other than zero and 180<sup>o</sup>. "
+        }
+      ],
+      "answer": "D",
+      "explanation": "Force on a particle moving with velocity $$\\overrightarrow v $$ in a magnetic field $$\\overrightarrow B $$ is\n<br><br>$$\\overrightarrow F  = q\\left( {\\overrightarrow v  \\times \\overrightarrow B } \\right)$$\n<br><br>$$ \\Rightarrow $$ F = qvBsin$$\\theta $$\n<br><br>(i) When $$\\theta $$ = 0°, F = qvBsin0° = 0 \n<br><br>(ii) When $$\\theta $$ = 90°, F = qvBsin90° = qvB \n<br><br>(iii) When $$\\theta $$ = 180°, F = qvBsin180° = 0\n<br><br>If angle between v and B  is either zero or 180º, then value of F will be zero."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "An electron moves in a circular orbit with a uniform speed v. It producess a magnetic field B at the centre of the circle. The radius of the circle is proportional to ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$\\sqrt {B/v} $$"
+        },
+        {
+          "key": "B",
+          "value": "$$B/v$$"
+        },
+        {
+          "key": "C",
+          "value": "$$\\sqrt {v/B} $$"
+        },
+        {
+          "key": "D",
+          "value": "$$v/B$$"
+        }
+      ],
+      "answer": "C",
+      "explanation": "The magnetic field produce by moving electron in circular path\n<br><br>B = $${{{\\mu _0}i} \\over {2r}}$$\n<br><br>and i = $${q \\over {2\\pi r}} \\times v$$\n<br><br>$$ \\therefore $$ B = $${{{\\mu _0}qv} \\over {4\\pi {r^2}}}$$\n<br><br>$$ \\Rightarrow $$ r $$ \\propto $$ $$\\sqrt {{v \\over B}} $$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "To convert a galvanometer into a  voltmeter one should connect a ",
+      "options": [
+        {
+          "key": "A",
+          "value": "high resistance in series with galvanometer "
+        },
+        {
+          "key": "B",
+          "value": "low resistance in series with galvanometer "
+        },
+        {
+          "key": "C",
+          "value": "high resistance in parallel wilh galvanometer"
+        },
+        {
+          "key": "D",
+          "value": "low resistance in parallel with galvanometer. "
+        }
+      ],
+      "answer": "A",
+      "explanation": "For converting galvanometer to voltmeter, a high resistance should be connected in series with  galvanometer."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A galvanometer of 50 ohm resistance has 25 divisions. A current of 4 $$ \\times $$ 10<sup>$$-$$4</sup> ampere gives a deflection of one division. To convert this galvanometer into a voltmeter having a range of 25 volts, it should be connected with a resistance of ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$2500\\,\\Omega $$ as a shunt"
+        },
+        {
+          "key": "B",
+          "value": "2450 $$\\Omega $$ as a shunt"
+        },
+        {
+          "key": "C",
+          "value": "2550 $$\\Omega $$ in series "
+        },
+        {
+          "key": "D",
+          "value": "2450 $$\\Omega $$ in series"
+        }
+      ],
+      "answer": "D",
+      "explanation": "The total current shown by the galvanometer,\n<br><br>I<sub>g</sub> = 25 $$ \\times $$ 4 $$ \\times $$ 10<sup>-4</sup> A = 10<sup>-2</sup> A\n<br><br>The value of resistance connected in series to convert galvanometer into voltmeter of 25 V is\n<br><br>V = I<sub>g</sub>(R<sub>e</sub> + R<sub>g</sub>)\n<br><br>$$ \\Rightarrow $$ R<sub>e</sub> = $${V \\over {{I_g}}} - {R_g}$$ = 2450 $$\\Omega $$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A charged particle moves through a magnetic field in a firection perpendicular to it. Then the ",
+      "options": [
+        {
+          "key": "A",
+          "value": "speed of the particle remains unchanged "
+        },
+        {
+          "key": "B",
+          "value": "direction of the particle remains unchanged "
+        },
+        {
+          "key": "C",
+          "value": "acceleration remains unchanged "
+        },
+        {
+          "key": "D",
+          "value": "velocity remains unchanged "
+        }
+      ],
+      "answer": "A",
+      "explanation": "If a moving charged particle is subjected to a perpendicular uniform magnetic field, then according to F = qvB sin $$\\theta $$, it will experience a maximum force which will provide the centripetal force to particle and it will describe a circular path with uniform speed. "
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A long solenoid carrying a current producess a magnetic field B along its axis. If the current is doubled and the number of turns per cm is halved, the new value of the magnetic field is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "B/2"
+        },
+        {
+          "key": "B",
+          "value": "B"
+        },
+        {
+          "key": "C",
+          "value": "2B"
+        },
+        {
+          "key": "D",
+          "value": "4B"
+        }
+      ],
+      "answer": "B",
+      "explanation": "Magnetic field induction at point inside the solenoid of length l, having n turns per unit length carrying current i is given by\n<br><br>B = $$\\mu $$<sub>0</sub>ni\n<br><br>If i $$ \\to $$ doubled, n $$ \\to $$ halved then B $$ \\to $$ remains same. "
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The magnetic field of given length of wire for single turn coil at its centre is B then its value for two turns coil for the same wire is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "B/4"
+        },
+        {
+          "key": "B",
+          "value": "B/2"
+        },
+        {
+          "key": "C",
+          "value": "4B"
+        },
+        {
+          "key": "D",
+          "value": "2B"
+        }
+      ],
+      "answer": "C",
+      "explanation": "B<sub>1</sub> = B = $${{{\\mu _0}I} \\over {2R}}$$\n<br><br>Further, B<sub>2</sub> = $${{{\\mu _0}\\left( {2I} \\right)} \\over {2r}}$$\n<br><br>Now 2 × 2$$\\pi $$r = 2$$\\pi $$R or r = R/2\n<br><br>Hence  B<sub>2</sub> = $$4 \\times {{{\\mu _0}I} \\over {2R}} = 4B$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A charge q moves in a region where electric field and magnetic field both exist, then force on it is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$q\\left( {\\overrightarrow v  \\times \\overrightarrow B } \\right)$$"
+        },
+        {
+          "key": "B",
+          "value": "$$q\\overrightarrow E  + q\\left( {\\overrightarrow v  \\times \\overrightarrow B } \\right)$$"
+        },
+        {
+          "key": "C",
+          "value": "$$q\\overrightarrow E  + \\overrightarrow q \\left( {\\overrightarrow B  \\times \\overrightarrow v } \\right)$$"
+        },
+        {
+          "key": "D",
+          "value": "$$q\\overrightarrow B  + \\overrightarrow q \\left( {\\overrightarrow E  \\times \\overrightarrow v } \\right)$$"
+        }
+      ],
+      "answer": "B",
+      "explanation": "Lorentz forece\n<br><br>$$\\overrightarrow {{F_L}}  = \\overrightarrow {{F_e}}  + \\overrightarrow {{F_m}} $$\n<br><br>= $$q\\overrightarrow E  + q\\left( {\\overrightarrow v  \\times \\overrightarrow B } \\right)$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "To convert a galvanometer into a voltmeter one should connect a ",
+      "options": [
+        {
+          "key": "A",
+          "value": "high resistance in series with galvanometer "
+        },
+        {
+          "key": "B",
+          "value": "low resistance in series with galvanometer "
+        },
+        {
+          "key": "C",
+          "value": "high resistance in parallel with galvanometer"
+        },
+        {
+          "key": "D",
+          "value": "low resistance in parallel with galvanometer. "
+        }
+      ],
+      "answer": "A",
+      "explanation": "For converting galvanometer to voltmeter, a high resistance should be connected in series with  galvanometer."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "An electron having mass m and kinetic energy E anter in uniform magnetic field B perpendiculaly, then its frequency will be ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$${{eE} \\over {qvB}}$$"
+        },
+        {
+          "key": "B",
+          "value": "$${{2\\pi m} \\over {eB}}$$"
+        },
+        {
+          "key": "C",
+          "value": "$${{eB} \\over {2\\pi m}}$$"
+        },
+        {
+          "key": "D",
+          "value": "$${{2m} \\over {eBE}}$$"
+        }
+      ],
+      "answer": "C",
+      "explanation": "The frequency of revolution of charged particle in a perpendicular magnetic field is\n<br><br>$$f = {1 \\over T} = {1 \\over {{{2\\pi r} \\over v}}} = {v \\over {2\\pi r}} $$\n<br><br>$$= {v \\over {2\\pi }} \\times {{eB} \\over {mv}} = {{eB} \\over {2\\pi m}}$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "If number of turns, area and current through a coil is given by n, A and $$i$$ respectively then its magnetic moment will be ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$niA$$"
+        },
+        {
+          "key": "B",
+          "value": "$${n^2}iA$$"
+        },
+        {
+          "key": "C",
+          "value": "$$ni{A^2}$$"
+        },
+        {
+          "key": "D",
+          "value": "$${{ni} \\over {\\sqrt A }}$$"
+        }
+      ],
+      "answer": "A",
+      "explanation": "Magnetic moment M = niA"
+    }
+  ]
+}

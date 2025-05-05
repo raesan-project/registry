@@ -1,0 +1,193 @@
+{
+  "_index": {
+    "name": "Functions"
+  },
+  "_children": [
+    {
+      "_type": "numerical",
+      "body": "Let $f: \\mathbb{R} \\rightarrow \\mathbb{R}$ be a function such that $f(x+y)=f(x)+f(y)$ for all $x, y \\in \\mathbb{R}$, and $g: \\mathbb{R} \\rightarrow(0, \\infty)$ be a function such that $g(x+y)=g(x) g(y)$ for all $x, y \\in \\mathbb{R}$. If $f\\left(\\frac{-3}{5}\\right)=12$ and $g\\left(\\frac{-1}{3}\\right)=2$, then the value of $\\left(f\\left(\\frac{1}{4}\\right)+g(-2)-8\\right) g(0)$ is _________.",
+      "answer": "51",
+      "explanation": "<p>$$\\begin{aligned}\n& \\mathrm{f}(\\mathrm{x}+\\mathrm{y})=\\mathrm{f}(\\mathrm{x})+\\mathrm{f}(\\mathrm{y}) \\quad \\text{... (1)}\\\\\n& \\Rightarrow \\quad \\mathrm{f}(\\mathrm{nx})=\\operatorname{nf}(\\mathrm{x}) \\forall \\mathrm{n} \\in \\mathrm{N} \\quad \\text{... (2)}\n\\end{aligned}$$</p>\n<p>$$\n\\begin{array}{ll}\n\\text { Now } & \\text { put } \\mathrm{y}=-\\mathrm{x} \\text { in eq.(1) } \\\\\n& \\mathrm{f}(\\mathrm{x})+\\mathrm{f}(-\\mathrm{x})=\\mathrm{f}(0) \\quad\\{\\mathrm{f}(0)=0\\} \\\\\n\\Rightarrow \\quad & \\mathrm{f}(-\\mathrm{x})=-\\mathrm{f}(\\mathrm{x}) \\\\\n\\Rightarrow \\quad & \\mathrm{f} \\text { is odd function } \\\\\n& \\text { from eq. (2) } \\\\\n& \\mathrm{f}(-\\mathrm{nx})=\\mathrm{nf}(-\\mathrm{x}) \\\\\n\\Rightarrow \\quad & \\mathrm{f}(-\\mathrm{nx})=-\\mathrm{nf}(\\mathrm{x}) \\\\\n\\Rightarrow \\quad & \\mathrm{f}(\\mathrm{mx})=\\operatorname{mf}(\\mathrm{x}) \\forall \\mathrm{m} \\in \\mathrm{Z}^{-} \\quad \\text{... (3)}\\\\\n& \\text {from eq. (2) and eq. (3) } \\\\\n& \\mathrm{f}(\\mathrm{nx})=\\mathrm{nf}(\\mathrm{x}) \\forall \\mathrm{n} \\in \\mathrm{Z} \\quad \\text{... (4)}\n\\end{array}$$</p>\n<p>$$\\begin{aligned}\n\\text { Now } & \\text { put } x=\\frac{p}{q} \\text { where } p, q \\in Z, q \\neq 0 \\\\\nf\\left(\\frac{n p}{q}\\right) & =n f\\left(\\frac{p}{q}\\right) \\forall n \\in Z \\\\\n\\text { put } n & =q \\\\\n& f(p)=q f\\left(\\frac{p}{q}\\right)\n\\end{aligned}$$</p>\n<p>$$\\Rightarrow \\quad \\mathrm{pf}(1)=\\mathrm{qf}\\left(\\frac{\\mathrm{p}}{\\mathrm{q}}\\right) \\quad \\{\\text{from eq.(4)}\\}$$</p>\n<p>Let $$f(1)=a$$</p>\n<p>$$\\begin{array}{ll}\n\\text { then } \\quad & \\mathrm{pa}=\\mathrm{qf}\\left(\\frac{\\mathrm{p}}{\\mathrm{q}}\\right) \\\\\n& \\mathrm{f}\\left(\\frac{\\mathrm{p}}{\\mathrm{q}}\\right)=\\frac{\\mathrm{ap}}{\\mathrm{q}} \\\\\n\\Rightarrow \\quad & \\mathrm{f}(\\mathrm{x})=\\mathrm{ax} \\forall \\mathrm{x} \\in \\mathbb{Q}\n\\end{array}$$</p>\n<p>Now, $$f\\left(\\frac{-3}{5}\\right)=a\\left(\\frac{-3}{5}\\right)=12 \\Rightarrow a=-20$$</p>\n<p>$$\\Rightarrow \\quad \\mathrm{f}(\\mathrm{x})=-20 \\mathrm{x} \\forall \\mathrm{x} \\in \\mathbb{Q} \\quad \\text{... (5)}$$</p>\n<p>From the given functional equation it is not possible to find a unique function for irrational values of '$$x$$', there are infinitely many such functions satisfying given functional equation for irrational values of $$x$$, but in this problem we finally need the function at rational values of '$$x$$' only. So, for rational values of $$x$$ we are getting a unique function mentioned in (5).</p>\n<p>Now, $$g(x+y)=g(x) \\cdot g(y)$$</p>\n<p>$$\\begin{array}{ll}\n\\Rightarrow & \\ln (\\mathrm{g}(\\mathrm{x}+\\mathrm{y})=\\ln (\\mathrm{g}(\\mathrm{x}))+\\ln (\\mathrm{g}(\\mathrm{y})) \\\\\n\\text { Let } & \\ln (\\mathrm{g}(\\mathrm{x}))=\\mathrm{h}(\\mathrm{x}) \\\\\n\\Rightarrow & \\mathrm{h}(\\mathrm{x}+\\mathrm{y})=\\mathrm{h}(\\mathrm{x})+\\mathrm{h}(\\mathrm{y}) \\\\\n\\Rightarrow & \\mathrm{h}(\\mathrm{x})=\\mathrm{kx} \\forall \\mathrm{x} \\in \\mathbb{Q} \\\\\n\\Rightarrow & \\mathrm{g}(\\mathrm{x})=\\mathrm{e}^{\\mathrm{kx}} \\forall \\mathrm{x} \\in \\mathbb{Q} \\quad \\text{... (6)}\n\\end{array}$$</p>\n<p>$$\\begin{aligned}\n& \\text { and } \\quad \\mathrm{g}\\left(\\frac{-1}{3}\\right)=\\mathrm{e}^{-\\frac{\\mathrm{K}}{3}}=2 \\quad \\Rightarrow \\quad \\mathrm{K}=-3 \\ln 2 \\\\\n& \\Rightarrow \\quad \\mathrm{K}=\\ln \\left(\\frac{1}{8}\\right) \\\\\n& \\Rightarrow \\quad \\mathrm{g}(\\mathrm{x})=\\mathrm{e}^{\\ln \\left(\\frac{1}{8}\\right) \\cdot \\mathrm{x}}=\\left(\\frac{1}{8}\\right)^x=2^{-3 \\mathrm{x}} \\forall \\mathrm{x} \\in \\mathbb{Q}\n\\end{aligned}$$</p>\n<p>Now, $$f\\left(\\frac{1}{4}\\right)=-5, g(-2)=2^6=64$$</p>\n<p>$$\\mathrm{g}(0)=1$$</p>\n<p>$$\\begin{aligned}\n\\text{So} \\quad & \\left(\\mathrm{f}\\left(\\frac{1}{4}\\right)+\\mathrm{g}(-2)-(8) \\mathrm{g}(0)\\right) \\\\\n& =(-5+64-8)(1)=51\n\\end{aligned}$$</p>"
+    },
+    {
+      "_type": "numerical",
+      "body": "<p>Let the function $f: \\mathbb{R} \\rightarrow \\mathbb{R}$ be defined by</p>\n\n<p>$$ f(x)=\\frac{\\sin x}{e^{\\pi x}} \\frac{\\left(x^{2023}+2024 x+2025\\right)}{\\left(x^2-x+3\\right)}+\\frac{2}{e^{\\pi x}} \\frac{\\left(x^{2023}+2024 x+2025\\right)}{\\left(x^2-x+3\\right)} . $$</p>\n\n<p>Then the number of solutions of $f(x)=0$ in $\\mathbb{R}$ is _________.</p>",
+      "answer": "1",
+      "explanation": "<p>$$\\begin{aligned}\n& \\mathrm{f}(\\mathrm{x})=\\frac{\\left(\\mathrm{x}^{2023}+2024 \\mathrm{x}+2025\\right)}{\\mathrm{e}^{\\pi \\mathrm{x}}\\left(\\mathrm{x}^2-\\mathrm{x}+3\\right)}(\\sin \\mathrm{x}+2) \\\\\n& \\because(\\sin \\mathrm{x}+2) \\text { is never zero } \\\\\n& \\therefore \\text { for } \\mathrm{x}^{2223}+2024 \\mathrm{x}+2025=0 \\\\\n& \\text { let } \\phi(\\mathrm{x})=\\mathrm{x}^{2023}+2024 \\mathrm{x}+2025 \\\\\n& \\phi^{\\prime}(\\mathrm{x})=2023 \\mathrm{x}^{2022}+2024>0 \\forall \\mathrm{x} \\in \\mathrm{R} \\\\\n& \\therefore \\phi(\\mathrm{x}) \\text { is an Strictly Increasing function } \\\\\n& \\therefore \\phi(\\mathrm{x})=0 \\text { for exactly one value of } \\mathrm{x} \\\\\n& \\therefore \\mathrm{f}(\\mathrm{x})=0 \\text { has one solution }\n\\end{aligned}$$</p>"
+    },
+    {
+      "_type": "numerical",
+      "body": "Let the function f : [0, 1] $$ \\to $$ R be defined by<br><br>$$f(x) = {{{4^x}} \\over {{4^x} + 2}}$$<br><br>Then the value of $$f\\left( {{1 \\over {40}}} \\right) + f\\left( {{2 \\over {40}}} \\right) + f\\left( {{3 \\over {40}}} \\right) + ... + f\\left( {{{39} \\over {40}}} \\right) - f\\left( {{1 \\over 2}} \\right)$$ is ..........",
+      "answer": "19",
+      "explanation": "The given function f : [0, 1] $$ \\to $$ R be define by<br><br>$$f(x) = {{{4^x}} \\over {{4^x} + 2}}$$<br><br>$$ \\because $$ $$f(1 - x) = {{{4^{1 - x}}} \\over {{4^{1 - x}} + 2}} = {2 \\over {2 + {4^x}}}$$<br><br>$$ \\therefore $$ $$f(x) + f(1 - x) = {{{4^x}} \\over {{4^x} + 2}} + {2 \\over {2 + {4^x}}}$$<br><br>$$ = {{{4^x} + 2} \\over {{4^x} + 2}}$$<br><br>So, f(x) + f(1 $$-$$ x) = 1 .....(i)<br><br>$$ \\therefore $$ $$f\\left( {{1 \\over {40}}} \\right) + f\\left( {{2 \\over {40}}} \\right) + f\\left( {{3 \\over {40}}} \\right) + ... + f\\left( {{{39} \\over {40}}} \\right) - f\\left( {{1 \\over 2}} \\right)$$<br><br>$$ = \\left[ {f\\left( {{1 \\over {40}}} \\right) + f\\left( {{{39} \\over {40}}} \\right)} \\right] + \\left[ {f\\left( {{2 \\over {40}}} \\right) + f\\left( {{{38} \\over {40}}} \\right)} \\right] + ... + \\left[ {f\\left( {{{18} \\over {40}}} \\right) + f\\left( {{{22} \\over {40}}} \\right)} \\right] + \\left[ {f\\left( {{{19} \\over {40}}} \\right) + f\\left( {{{21} \\over {40}}} \\right)} \\right] + \\left[ {f\\left( {{{20} \\over {40}}} \\right) - f\\left( {{1 \\over 2}} \\right)} \\right]$$<br><br>$$ = \\{ 1 + 1 + ... + 1 + 1\\}  + f\\left( {{1 \\over 2}} \\right) - f\\left( {{1 \\over 2}} \\right)$$\n<br><br> $$ = \\{ 1 + 1 + ... + 1 + 1\\}$$(19 times)\n{from Eq. (i)}<br><br>= 19."
+    },
+    {
+      "_type": "numerical",
+      "body": "Let the function $$f:(0,\\pi ) \\to R$$ be defined by $$f(\\theta ) = {(\\sin \\theta  + \\cos \\theta )^2} + {(\\sin \\theta  - \\cos \\theta )^4}$$<br><br>Suppose the function  f  has a local minimum at $$\\theta $$ precisely when $$\\theta  \\in \\{ {\\lambda _1}\\pi ,....,{\\lambda _r}\\pi \\} $$, where $$0 &lt; {\\lambda _1} &lt; ...{\\lambda _r} &lt; 1$$. Then the value of $${\\lambda _1} + ... + {\\lambda _r}$$ is .............",
+      "answer": "0.5",
+      "explanation": "The given function f : R $$ \\to $$ R be defined by<br><br>$$f(\\theta ) = {(\\sin \\theta  + \\cos \\theta )^2} + {(\\sin \\theta  - \\cos \\theta )^4}$$<br><br>$$ = 1 + \\sin 2\\theta  + {(1 - \\sin 2\\theta )^2}$$<br><br>$$ = 1 + \\sin 2\\theta  + 1 + {\\sin ^2}2\\theta  - 2\\sin 2\\theta $$<br><br>$$ = {\\sin ^2}2\\theta  - \\sin 2\\theta  + 2$$<br><br>$$ = {\\left( {\\sin 2\\theta  - {1 \\over 2}} \\right)^2} + {7 \\over 4}$$<br><br>The local minimum of function 'f' occurs when<br><br>$$\\sin 2\\theta  = {1 \\over 2}$$<br><br>$$ \\Rightarrow 2\\theta  = {\\pi  \\over 6},\\,{{5\\pi } \\over 6},\\,{{13\\pi } \\over 6},\\,...$$<br><br>$$ \\Rightarrow \\theta  = {\\pi  \\over {12}},\\,{{5\\pi } \\over {12}},\\,{{13\\pi } \\over {12}},\\,...$$<br><br>but $$\\theta  \\in \\{ {\\lambda _1}\\pi ,\\,{\\lambda _2}\\pi ,\\,...,\\,{\\lambda _r}\\pi \\} $$,<br><br>where $$0 &lt; {\\lambda _1} &lt; .... &lt; {\\lambda _r} &lt; 1$$.<br><br>$$ \\therefore $$ $$\\theta  = {\\pi  \\over {12}},\\,{{5\\pi } \\over {12}}$$<br><br>So, $${\\lambda _1} + ... + {\\lambda _r} = {1 \\over {12}} + {5 \\over {12}} = 0.50$$"
+    },
+    {
+      "_type": "numerical",
+      "body": "Let f : [0, 2] $$ \\to $$ R be the function defined by<br><br>$$f(x) = (3 - \\sin (2\\pi x))\\sin \\left( {\\pi x - {\\pi  \\over 4}} \\right) - \\sin \\left( {3\\pi x + {\\pi  \\over 4}} \\right)$$<br><br>If $$\\alpha ,\\,\\beta  \\in [0,2]$$ are such that $$\\{ x \\in [0,2]:f(x) \\ge 0\\}  = [\\alpha ,\\beta ]$$, then the value of $$\\beta  - \\alpha $$ is ..........",
+      "answer": "1",
+      "explanation": "The given function f : [0, 2] $$ \\to $$ R defined by<br><br>$$f(x) = (3 - \\sin (2\\pi x))\\sin \\left( {\\pi x - {\\pi  \\over 4}} \\right) - \\sin \\left( {3\\pi x + {\\pi  \\over 4}} \\right)$$<br><br>$$ = (3 - \\sin (2\\pi x))\\left[ {{{\\sin \\pi x} \\over {\\sqrt 2 }} - {{\\cos \\pi x} \\over {\\sqrt 2 }}} \\right] - \\left\\{ {{{\\sin 3\\pi x} \\over {\\sqrt 2 }} + {{\\cos (3\\pi x)} \\over {\\sqrt 2 }}} \\right\\}$$<br><br>$$ = (3 - \\sin (2\\pi x)){{[\\sin (\\pi x) - \\cos (\\pi x)} \\over {\\sqrt 2 }} - {1 \\over {\\sqrt 2 }}[3\\sin (\\pi x) - 4{\\sin ^3}(\\pi x) + 4{\\cos ^3}(\\pi x) - 3\\cos (\\pi x)]$$<br><br>$$ = {{\\sin (\\pi x) - \\cos (\\pi x)} \\over {\\sqrt 2 }}[3 - \\sin (2\\pi x) - 3 + 4\\{ {\\sin ^2}(\\pi x) + {\\cos ^2}(\\pi x) + \\sin (\\pi x)\\cos (\\pi x)\\} ]$$<br><br>$$ = {{\\sin (\\pi x) - \\cos (\\pi x)} \\over {\\sqrt 2 }}[4 + \\sin (2\\pi x)]$$<br><br>As, $$f(x) \\ge 0\\forall  \\in [\\alpha ,\\beta ]$$, where $$\\alpha ,\\beta  \\in [0,2]$$, so<br><br>$$\\sin (\\pi x) - \\cos (\\pi x) \\ge 0$$<br><br>as $$4 + \\sin (2\\pi x) &gt; 0\\,\\forall x \\in R$$.<br><br>$$ \\Rightarrow \\pi x \\in \\left[ {{\\pi  \\over 4},{{5\\pi } \\over 4}} \\right] \\Rightarrow x \\in \\left[ {{1 \\over 4},{5 \\over 4}} \\right]$$<br><br>$$ \\therefore $$ $$\\alpha  = {1 \\over 4}$$ and $$\\beta  = {5 \\over 4}$$<br><br>Therefore the value of $$(\\beta  - \\alpha ) = 1$$"
+    },
+    {
+      "_type": "numerical",
+      "body": "For a polynomial g(x) with real coefficients, let m<sub>g</sub> denote the number of distinct real roots of g(x). Suppose S is the set of polynomials with real coefficients defined by <br><br>$$S = \\{ {({x^2} - 1)^2}({a_0} + {a_1}x + {a_2}{x^2} + {a_3}{x^3}):{a_0},{a_1},{a_2},{a_3} \\in R\\} $$;<br><br>For a polynomial f, let f' and f'' denote its first and second order derivatives, respectively. Then the minimum possible value of (m<sub>f'</sub> + m<sub>f''</sub>), where f $$ \\in $$ S, is ..............",
+      "answer": "5",
+      "explanation": "Given set S of polynomials with real coefficients <br><br>$$S = \\{ {({x^2} - 1)^2}({a_0} + {a_1}x + {a_2}{x^2} + {a_3}{x^3}):{a_0},{a_1},{a_2},{a_3} \\in R\\} $$<br><br>and for a polynomial $$f \\in S$$, Let<br><br>$$f(x) = {({x^2} - 1)^2}({a_0} + {a_1}x + {a_2}{x^2} + {a_3}{x^3})$$ <br><br>it have $$-$$1 and 1 as repeated roots twice, so graph of f(x) touches the X-axis at x = $$-$$1 and x = 1, so f'(x) having at least three roots x = $$-$$1, 1 and $$\\alpha $$. Where $$\\alpha $$$$ \\in $$($$-$$1, 1) and f''(x) having at least two roots in interval ($$-$$1, 1)<br><br>So, m<sub>f'</sub> = 3 and m<sub>f''</sub> = 2<br><br>$$ \\therefore $$ Minimum possible value of (m<sub>f'</sub> + m<sub>f''</sub>) = 5"
+    },
+    {
+      "_type": "numerical",
+      "body": "<p>If the function $$f(x) = {x^3} + {e^{x/2}}$$ and $$g(x) = {f^{ - 1}}(x)$$, then the value of $$g'(1)$$ is _________.</p>",
+      "answer": "2",
+      "explanation": "<p>We have $$f(0) = 1,f'(x) = 3{x^2} + {1 \\over 2}{e^{x/2}}$$</p>\n<p>$$ \\Rightarrow f'(g(x))g'(x) = 1$$</p>\n<p>Substituting $$x = 0 \\Rightarrow g'(1) = {1 \\over {f'(0)}} = 2$$.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "If the function f : R $$ \\to $$ R is defined by f(x) = |x| (x $$-$$ sin x), then which of the following statements is TRUE?",
+      "options": [
+        {
+          "key": "A",
+          "value": "f is one-one, but NOT onto"
+        },
+        {
+          "key": "B",
+          "value": "f is onto, but NOT one-one"
+        },
+        {
+          "key": "C",
+          "value": "f is BOTH one-one and onto"
+        },
+        {
+          "key": "D",
+          "value": "f is NEITHER one-one NOR onto"
+        }
+      ],
+      "answer": "C",
+      "explanation": "The given function f : R $$ \\to $$ R is<br><br>$$f(x) = |x|(x - \\sin x)$$ .....(i)<br><br>$$ \\because $$ The function 'f' is a odd and continuous function and as $$\\mathop {\\lim }\\limits_{x \\to \\infty } f(x) = \\infty $$ and $$\\mathop {\\lim }\\limits_{x \\to \\infty } f(x) =  - \\infty $$, so range is R, therefore, 'f' is a onto function.<br><br>$$ \\because $$ $$f(x) = \\left[ \\matrix{\n  x(x - \\sin x),\\,x \\ge \\,0 \\hfill \\cr \n   - x(x - \\sin x),\\,x\\, &lt; \\,0 \\hfill \\cr}  \\right.$$<br><br>$$ \\therefore $$ $$f'(x) = \\left[ \\matrix{\n  2x - \\sin x - x\\cos x,\\,x &gt; \\,0 \\hfill \\cr \n   - 2x + \\sin x + x\\cos x,\\,x\\, &lt; \\,0 \\hfill \\cr}  \\right.$$<br><br>$$\\left[ \\matrix{\n  (x - \\sin x) + x(1 - \\cos x),\\,x &gt; \\,0 \\hfill \\cr \n  ( - x + \\sin x) - x(1 - \\cos x),\\,x\\, &lt; \\,0 \\hfill \\cr}  \\right.$$<br><br>$$ \\because $$ for x &gt; 0, x $$-$$ sin x &gt; 0 and x(1 $$-$$ cos x) &gt; 0<br><br>$$ \\therefore $$ $$f'(x) &gt; 0\\forall x \\in (0,\\infty )$$<br><br>$$ \\Rightarrow $$ f is strictly increasing function. $$\\forall x \\in (0,\\infty )$$.<br><br>Similarly, for x &lt; 0, $$-$$x + sin x &gt; 0 and ($$-$$ x) (1 $$-$$ cos x) &gt; 0, therefore, $$f'(x) &gt; 0\\forall x \\in ( - \\infty ,0)$$<br><br>$$ \\Rightarrow $$ f is strictly increasing function, $$\\forall x \\in $$(0, $$\\infty $$)<br><br>Therefore 'f' is a strictly increasing function for x$$ \\in $$R and it implies that f is one-one function."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Let S = {1, 2, 3, .........., 9}. For k = 1, 2, .........., 5, let N<sub>k</sub> be the number of subsets of S, each containing five elements out of which exactly k are odd. Then N<sub>1</sub> + N<sub>2</sub> + N<sub>3</sub> + N<sub>4</sub> + N<sub>5</sub> = ",
+      "options": [
+        {
+          "key": "A",
+          "value": "210"
+        },
+        {
+          "key": "B",
+          "value": "252"
+        },
+        {
+          "key": "C",
+          "value": "126"
+        },
+        {
+          "key": "D",
+          "value": "125"
+        }
+      ],
+      "answer": "C",
+      "explanation": "$${N_i} = {}^5{C_k} \\times {}^4{C_{5 - k}}$$<br><br>$$\\eqalign{\n  &amp; {N_1} = 5 \\times 1  \\cr \n  &amp; {N_2} = 10 \\times 4  \\cr \n  &amp; {N_3} = 10 \\times 6  \\cr \n  &amp; {N_4} = 5 \\times 4  \\cr \n  &amp; {N_5} = 1  \\cr \n  &amp; {N_1} + {N_2} + {N_3} + {N_4} + {N_5} = 126 \\cr} $$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Let f(x) = x<sup>2</sup> and g(x) = sin x for all x $$\\in$$ R. Then the set of all x satisfying $$(f \\circ g \\circ g \\circ f)(x) = (g \\circ g \\circ f)(x)$$, where $$(f \\circ g)(x) = f(g(x))$$, is</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$ \\pm \\sqrt {n\\pi } ,\\,n \\in \\{ 0,1,2,....\\} $$"
+        },
+        {
+          "key": "B",
+          "value": "$$ \\pm \\sqrt {n\\pi } ,\\,n \\in \\{ 1,2,....\\} $$"
+        },
+        {
+          "key": "C",
+          "value": "$${\\pi  \\over 2} + 2n\\pi ,\\,n \\in \\{ ....., - 2, - 1,0,1,2,....\\} $$"
+        },
+        {
+          "key": "D",
+          "value": "$$2n\\pi ,n \\in \\{ ....., - 2, - 1,0,1,2,....\\} $$"
+        }
+      ],
+      "answer": "A",
+      "explanation": "<p>$$f(x) = {x^2}$$, $$g(x) = \\sin x$$</p>\n<p>$$(g \\circ f)(x) = \\sin {x^2}$$</p>\n<p>$$g \\circ (g \\circ f)(x) = \\sin (\\sin {x^2})$$</p>\n<p>$$(f \\circ g \\circ g \\circ f)(x) = {(\\sin (\\sin {x^2}))^2}$$ ..... (i)</p>\n<p>Again, $$(g \\circ f)(x) = \\sin {x^2}$$</p>\n<p>$$(g \\circ g \\circ f)(x) = \\sin (\\sin {x^2})$$ ..... (ii)</p>\n<p>Given, $$(f \\circ g \\circ g \\circ f)(x) = (g \\circ g \\circ f)(x)$$</p>\n<p>$$ \\Rightarrow {(\\sin (\\sin {x^2}))^2} = \\sin (\\sin {x^2})$$</p>\n<p>$$ \\Rightarrow \\sin (\\sin {x^2})\\{ \\sin (\\sin {x^2}) - 1\\}  = 0$$</p>\n<p>$$ \\Rightarrow \\sin (\\sin {x^2}) = 0$$ or $$\\sin (\\sin {x^2}) = 1$$</p>\n<p>$$ \\Rightarrow \\sin {x^2} = 0$$ or $$\\sin {x^2} = {\\pi  \\over 2}$$</p>\n<p>$$\\therefore$$ $${x^2} = n\\pi $$ (i.e. not possible as $$ - 1 \\le \\sin \\theta  \\le 1$$)</p>\n<p>$$x =  \\pm \\sqrt {n\\pi } $$</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Let $f, g$ and $h$ be real valued functions defined on the interval $[0,1]$ by \n<br/><br/>$f(x)=e^{x^2}+e^{-x^2}$, \n<br/><br/>$g(x)=x e^{x^2}+e^{-x^2}$ \n<br/><br/>and $h(x)=x^2 e^{x^2}+e^{-x^2}$. \n<br/><br/>If $a, b$ and $c$ denote, respectively, the absolute maximum of $f, g$ and $h$ on $[0,1]$, then :</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "$a=b$ and $c \\neq b$"
+        },
+        {
+          "key": "B",
+          "value": "$a=c$ and $a \\neq b$"
+        },
+        {
+          "key": "C",
+          "value": "$a \\neq b$ and $c \\neq b$"
+        },
+        {
+          "key": "D",
+          "value": "$a=b=c$"
+        }
+      ],
+      "answer": "D",
+      "explanation": "<p>$$ \\begin{aligned} & f(x)=e^{x^2}+e^{-x^2} \\\\\\\\ & \\begin{aligned} f^{\\prime}(x) & =e^{x^2} \\frac{d}{d x}\\left(x^2\\right)+e^{-x^2} \\frac{d}{d x}\\left(-x^2\\right) \\\\\\\\ & =e^{x^2}(2 x)+e^{-x^2}(-2 x) \\\\\\\\ & =2 x\\left(e^{x^2}-e^{-x^2}\\right) \\geq 0 \\forall x \\in[0,1] \\\\\\\\ g(x) & =x e^{x^2}+e^{-x^2} \\\\\\\\ h(x) & =x^2 e^{x^2}+e^{-x^2} \\end{aligned} \\end{aligned} $$</p>\n<p>Clearly for $0 \\leq x \\leq 1 \\quad f(x) \\geq g(x) \\geq h(x)$</p>\n<p>$\\because f(1)=g(1)=h(1)=e+\\frac{1}{e}$ and $f(1)$ is greatest</p>\n<p>$$ \\because a=b=c=e+\\frac{1}{e} $$</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Let $S=\\{1,2,3,4\\}$. The total number of unordered pairs of disjoint subsets of $S$ is equal to :",
+      "options": [
+        {
+          "key": "A",
+          "value": "25"
+        },
+        {
+          "key": "B",
+          "value": "34"
+        },
+        {
+          "key": "C",
+          "value": "42"
+        },
+        {
+          "key": "D",
+          "value": "41"
+        }
+      ],
+      "answer": "D",
+      "explanation": "<p>To solve this problem, we need to determine the total number of <strong>unordered pairs</strong> of <strong>disjoint subsets</strong> of the set $ S = \\{1, 2, 3, 4\\} $.</p>\n<h3><strong>Understanding the Problem:</strong></h3>\n\n<p><p><strong>Disjoint Subsets:</strong> Two subsets $ A $ and $ B $ are disjoint if they have no elements in common, i.e., $ A \\cap B = \\emptyset $.</p></p>\n<p><p><strong>Unordered Pairs:</strong> Pairs where $ \\{A, B\\} $ is considered the same as $ \\{B, A\\} $.</p></p>\n\n<h3><strong>Approach:</strong></h3>\n\n<p><strong>Counting Ordered Pairs of Disjoint Subsets:</strong></p>\n\n\n<p><p>For each element in $ S $, it can be in:</p>\n\n<p><p>Subset $ A $ only,</p></p>\n<p><p>Subset $ B $ only,</p></p>\n<p><p>Neither $ A $ nor $ B $.</p></p></p>\n<p><p><strong>Note:</strong> An element cannot be in both $ A $ and $ B $ because $ A $ and $ B $ are disjoint.</p></p>\n<p><p>Therefore, each element has <strong>3 choices</strong>.</p></p>\n<p><p>Total number of <strong>ordered pairs</strong> $ (A, B) $ is $ 3^4 = 81 $.</p></p>\n\n\n<p><strong>Identifying Ordered Pairs where $ A = B $:</strong></p>\n\n\n<p><p>Since $ A $ and $ B $ are disjoint and $ A = B $, the only possibility is when both are the <strong>empty set</strong>.</p></p>\n<p><p>So, there's <strong>1 ordered pair</strong> where $ A = B = \\emptyset $.</p></p>\n\n\n<p><strong>Calculating Unordered Pairs:</strong></p>\n\n\n<p><p><strong>Ordered Pairs with $ A \\ne B $:</strong> $ 81 - 1 = 80 $.</p></p>\n<p><p><strong>Unordered Pairs from Ordered Pairs with $ A \\ne B $:</strong> Each unordered pair corresponds to <strong>2 ordered pairs</strong> (since $ (A, B) $ and $ (B, A) $ are different but represent the same unordered pair).</p></p>\n<p><p>Number of unordered pairs from $ A \\ne B $ is $ \\frac{80}{2} = 40 $.</p></p>\n<p><p><strong>Include the pair where $ A = B = \\emptyset $:</strong> Add $ 1 $.</p></p>\n<p><p><strong>Total Unordered Pairs:</strong> $ 40 + 1 = 41 $.</p></p>\n\n<h3><strong>Conclusion:</strong></h3>\n\n<p>The total number of unordered pairs of disjoint subsets of $ S $ is <strong>41</strong>.</p>\n\n<hr />\n<p><strong>Answer:</strong> Option D</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Consider the polynomial\n<br>$$f\\left( x \\right) = 1 + 2x + 3{x^2} + 4{x^3}.$$\n<br>Let $$s$$ be the sum of all distinct real roots of $$f(x)$$ and let $$t = \\left| s \\right|.$$</p>\n<p>The real numbers lies in the interval </p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$\\left( { - {1 \\over 4},0} \\right)$$ "
+        },
+        {
+          "key": "B",
+          "value": "$$\\left( { - 11, - {3 \\over 4}} \\right)$$ "
+        },
+        {
+          "key": "C",
+          "value": "$$\\left( { - {3 \\over 4}, - {1 \\over 2}} \\right)$$ "
+        },
+        {
+          "key": "D",
+          "value": "$$\\left( {0,{1 \\over 4}} \\right)$$ "
+        }
+      ],
+      "answer": "C",
+      "explanation": "<p>Given, $$f(x) = 4{x^3} + 3{x^2} + 2x + 1$$</p>\n<p>$$f'(x) = 2(6{x^2} + 3x + 1)$$</p>\n<p>$$D = 9 - 24 < 0$$</p>\n<p>Hence, f(x) = 0 has only one real root.</p>\n<p>$$f\\left( { - {1 \\over 2}} \\right) = 1 - 1 + {3 \\over 4} - {4 \\over 8} > 0$$</p>\n<p>$$f\\left( { - {3 \\over 4}} \\right) = 1 - {6 \\over 4} + {{27} \\over {16}} - {{108} \\over {64}}$$</p>\n<p>$$ = {{64 - 96 + 108 - 108} \\over {64}} < 0$$</p>\n<p>f(x) changes its sign in $$\\left( { - {3 \\over 4},{{ - 1} \\over 2}} \\right)$$,</p>\n<p>hence f(x) = 0 has a root in $$\\left( { - {3 \\over 4},{{ - 1} \\over 2}} \\right)$$.</p>"
+    }
+  ]
+}

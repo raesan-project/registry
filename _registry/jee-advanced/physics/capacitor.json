@@ -1,0 +1,19 @@
+{
+  "_index": {
+    "name": "Capacitor"
+  },
+  "_children": [
+    {
+      "_type": "numerical",
+      "body": "Two capacitors with capacitance values C<sub>1</sub> = 2000 $$ \\pm $$ 10 pF and C<sub>2</sub> = 3000 $$ \\pm $$ 15 pF are connected in series. The voltage applied across this combination is V = 5.00 $$ \\pm $$ 0.02 V. The percentage error in the calculation of the energy stored in this combination of capacitors is ________.",
+      "answer": "1.3",
+      "explanation": "Given that, $C_1=(2000 \\pm 10) \\mathrm{pF} ; \\quad C_2=(3000 \\pm 15) \\mathrm{pF}$ and $V=(5.00 \\pm 8.02) \\mathrm{V}$.<br/><br/>\nCombine capacitance of series combination<br/><br/>\n$$\n\\begin{aligned}\n\\frac{1}{C} & =\\frac{1}{C_1}+\\frac{1}{C_2} ~~~~....(1)\\\\\\\\\n\\Rightarrow & \\frac{1}{C}=\\frac{1}{2000}+\\frac{1}{3000}=\\frac{(6+4)}{12000} \\\\\\\\\n\\frac{1}{C} & =\\frac{10}{12000} \\Rightarrow C=1200 \\mathrm{pF}\n\\end{aligned}\n$$<br/><br/>\nDifferentiating Eq. (1), we get<br/><br/>\n$$\n\\begin{aligned}\n-\\frac{1}{C^2} \\cdot d C & =-\\frac{1}{C_1^2} d C_1+\\left(-\\frac{1}{C_2^2}\\right) \\cdot d C_2 \\\\\\\\\n\\Rightarrow \\frac{d C}{C^2} & =\\left(\\frac{d C_1}{C_1^2}+\\frac{d C_2}{C_2^2}\\right) \\\\\\\\\n\\Rightarrow \\frac{d C}{C} & =\\left[\\frac{d C_1}{C_1^2}+\\frac{d C_2}{C_2^2}\\right] \\cdot C \\\\\\\\\n\\Rightarrow \\frac{d C}{C} & =\\left[\\frac{10}{(2000)^2}+\\frac{15}{(3000)^2}\\right] \\times 1200 \\\\\\\\\n\\Rightarrow \\frac{d C}{C} & =\\left[\\frac{10}{4} \\times 10^{-6}+\\frac{15}{9} \\times 10^{-6}\\right] \\times 1200 \\\\\\\\\n& =\\left[\\frac{10}{4}+\\frac{15}{9}\\right] \\times 12 \\times 10^{-4}\n\\end{aligned}\n$$<br/><br/>\n$$\n\\Rightarrow \\frac{d C}{C}=[2.5+1.66] \\times 12 \\times 10^{-4}=[4.17 \\times 12] \\times 10^{-4}\n$$<br/><br/>\nAnd\n$$\n\\frac{d V}{V}=\\frac{0.02}{5}\n$$<br/><br/>\nEnergy stored in the capacitor is given by<br/><br/>\n$$\nU=\\frac{1}{2} C V^2\n$$    .....(2)<br/><br/>\nDifferentiating Eq. (2), we get<br/><br/>\n$$\n\\begin{aligned}\n\\frac{d U}{U} \\times 100 & =\\frac{d C}{C} \\times 100+2 \\frac{d V}{V} \\times 100 \\\\\\\\\n& =\\left[50.04 \\times 10^{-4} \\times 100+\\frac{2 \\times 0.02}{5} \\times 100\\right] \\\\\\\\\n\\left(\\frac{d U}{U}\\right)^{100} & =[0.5004+0.8] \\% \\Rightarrow 1.30 \\%\n\\end{aligned}\n$$"
+    },
+    {
+      "_type": "numerical",
+      "body": "A parallel plate capacitor of capacitance C has spacing d between two plates having area A. The region between the plates is filled with N dielectric layers, parallel to its plates, each with thickness, $$\\delta  = {d \\over N}$$. The dielectric constant of the m<sup>th</sup> layer is $${K_m} = K\\left( {1 + {m \\over N}} \\right)$$. For a very large N(&gt;10<sup>3</sup>), the capacitance C is $$\\alpha \\left( {{{K{\\varepsilon _0}A} \\over {d\\ln 2}}} \\right)$$<br><br>The value of $$\\alpha $$ will be ..................<br><br>[$$ \\in $$<sub>0</sub> is the permittivity of free space.]",
+      "answer": "1",
+      "explanation": "Parallel plate capacitor,<br><br>$${x \\over m} = {d \\over N}$$<br><br>$$d\\left( {{1 \\over C}} \\right) = {{dx} \\over {{K_m}{\\varepsilon _0}A}} = {{dx} \\over {K{\\varepsilon _0}A\\left( {1 + {m \\over N}} \\right)}} = {{dx} \\over {K{\\varepsilon _0}A\\left( {1 + {x \\over d}} \\right)}}$$<br><br>Integration on both sides, we get<br><br>$${1 \\over {{C_{eq}}}} = \\int {d\\left( {{1 \\over C}} \\right) = \\int_0^D {{{d\\,dx} \\over {K{\\varepsilon _0}A(d + x)}}} } $$<br><br>$${1 \\over {{C_{eq}}}} = \\int {{d \\over {K{\\varepsilon _0}A}}\\ln 2}  \\Rightarrow {C_{eq}} = {{K{\\varepsilon _0}A} \\over {d\\,\\ln 2}}$$<br><br>Therefore, $$\\alpha $$ = 1."
+    }
+  ]
+}

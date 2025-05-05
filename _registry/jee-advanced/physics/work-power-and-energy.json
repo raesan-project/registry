@@ -1,0 +1,181 @@
+{
+  "_index": {
+    "name": "Work Power & Energy"
+  },
+  "_children": [
+    {
+      "_type": "numerical",
+      "body": "A particle of mass 0.2 kg is moving in one dimension under a force that delivers a constant power 0.5 W to\nthe particle. If the initial speed (in m/s) of the particle is zero, the speed (in m/s) after 5 s is",
+      "answer": "5",
+      "explanation": "<p>To determine the speed of a particle after $ t = 5 $ seconds, given a constant power, the following steps should be taken :</p>\n\n<p><p><strong>Power Equation:</strong> Power is the rate at which work is done, and work is the change in kinetic energy :</p>\n<p>$$ P = \\frac{d(W)}{dt} = \\frac{d}{dt} \\left( \\frac{1}{2} m v^2 \\right) $$</p></p>\n<p><p><strong>Given Data :</strong></p></p>\n\n\n<p><p>Mass of the particle ($ m $) = 0.2 kg</p></p>\n<p><p>Constant power ($ P $) = 0.5 W</p></p>\n<p><p>Initial speed ($ v_0 $) = 0 m/s</p></p>\n\n\n<p><p><strong>Differentiating Kinetic Energy with Respect to Time :</strong></p>\n<p>$$ P = \\frac{d}{dt} \\left( \\frac{1}{2} m v^2 \\right) = m v \\frac{dv}{dt} $$</p></p>\n<p><p><strong>Rearranging to Solve for $ v \\frac{dv}{dt} $ :</strong></p>\n<p>$$ 0.5 = 0.2 \\cdot v \\cdot \\frac{dv}{dt} $$</p>\n<p>$$ \\frac{dv}{dt} = \\frac{5}{2v} $$</p></p>\n<p><p><strong>Integrating Both Sides :</strong></p>\n<p>$$ v \\, dv = \\frac{5}{2} \\, dt $$</p>\n<p>$$ \\int v \\, dv = \\int \\frac{5}{2} \\, dt $$</p>\n<p>$$ \\frac{v^2}{2} = \\frac{5t}{2} + C $$</p></p>\n<p><p><strong>Applying Initial Condition (when $ t = 0 $, $ v = 0 $) :</strong></p>\n<p>$$ 0 = \\frac{5 \\cdot 0}{2} + C $$</p>\n<p>$$ C = 0 $$</p></p>\n<p><p><strong>Solving for $ v $ :</strong></p>\n<p>$$ \\frac{v^2}{2} = \\frac{5t}{2} $$</p>\n<p>$$ v^2 = 5t $$</p>\n<p>$$ v = \\sqrt{5t} $$</p></p>\n<p><p><strong>Speed After 5 Seconds :</strong></p>\n<p>$$ v = \\sqrt{5 \\cdot 5} = \\sqrt{25} = 5 \\, \\text{m/s} $$</p></p>\n\n<p>Thus, the speed of the particle after 5 seconds is <strong>5 m/s</strong>.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "In the List-$${\\rm I}$$  below, four different paths of a particle are given as functions of time. In these functions, $$\\alpha $$ and $$\\beta $$ are positive constants of appropriate dimensions and  $$\\alpha  \\ne \\beta $$  In each case, the force acting on the particle is either zero or conservative. In List-$${\\rm I}{\\rm I}$$, five physical quantities of the particle are mentioned $$\\overrightarrow p $$ is the linear momentum, $$\\overrightarrow L $$ is the angular momentum about the origin, $$K$$ is the kinetic energy, $$U$$ is the potential energy and $$E$$ is the total energy. Match each path in List-$${\\rm I}$$ with those quantities in List-$${\\rm II}$$, which are conserved for that path.\n<br><br><style type=\"text/css\">\n.tg  {border-collapse:collapse;border-spacing:0;border-color:#999;}\n.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:#999;color:#444;background-color:#F7FDFA;}\n.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:#999;color:#fff;background-color:#26ADE4;}\n.tg .tg-pjk9{font-size:22px;text-align:left}\n.tg .tg-wrg0{font-size:22px;text-align:center;vertical-align:top}\n.tg .tg-wv9z{font-size:22px;text-align:center}\n.tg .tg-de48{font-weight:bold;font-size:22px;text-align:center}\n</style>\n<table class=\"tg\">\n  <tbody><tr>\n    <th class=\"tg-de48\" colspan=\"2\">LIST - I </th>\n    <th class=\"tg-de48\" colspan=\"2\">LIST - II</th>\n  </tr>\n  <tr>\n    <td class=\"tg-de48\">P.</td>\n    <td class=\"tg-pjk9\">$$\\overrightarrow r $$(t)=$$\\alpha $$ $$t\\,\\widehat i + \\beta t\\widehat j$$ </td>\n    <td class=\"tg-de48\">1.</td>\n    <td class=\"tg-wv9z\">$$\\overrightarrow p $$</td>\n  </tr>\n  <tr>\n    <td class=\"tg-de48\">Q.</td>\n    <td class=\"tg-pjk9\">$$\\overrightarrow r \\left( t \\right) = \\alpha \\cos \\,\\omega t\\,\\widehat i + \\beta \\sin \\omega t\\,\\widehat j$$  </td>\n    <td class=\"tg-de48\">2.</td>\n    <td class=\"tg-wv9z\">$$\\overrightarrow L $$</td>\n  </tr>\n  <tr>\n    <td class=\"tg-de48\">R.</td>\n    <td class=\"tg-pjk9\">$$\\overrightarrow r \\left( t \\right) = \\alpha \\left( {\\cos \\omega t\\,\\widehat i + \\sin \\omega t\\widehat j} \\right)$$ </td>\n    <td class=\"tg-de48\">3.</td>\n    <td class=\"tg-wv9z\">K</td>\n  </tr>\n  <tr>\n    <td class=\"tg-de48\">S.</td>\n    <td class=\"tg-pjk9\">$$\\overrightarrow r \\left( t \\right) = \\alpha t\\,\\widehat i + {\\beta  \\over 2}{t^2}\\widehat j$$ </td>\n    <td class=\"tg-de48\">4.</td>\n    <td class=\"tg-wv9z\">U</td>\n  </tr>\n  <tr>\n    <td class=\"tg-wrg0\"></td>\n    <td class=\"tg-wrg0\"></td>\n    <td class=\"tg-wrg0\">5.</td>\n    <td class=\"tg-wrg0\">E</td>\n  </tr>\n</tbody></table>  ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$P \\to 1,2,3,4,5;\\,Q \\to 2,5;R \\to 2,3,4,5;S \\to 5$$ "
+        },
+        {
+          "key": "B",
+          "value": "$$P \\to 1,2,3,4,5;{\\mkern 1mu} Q \\to 3,5;R \\to 2,3,4,5;S \\to 2,5$$ "
+        },
+        {
+          "key": "C",
+          "value": "$$P \\to 2,3,4;{\\mkern 1mu} Q \\to 5;R \\to 1,2,4;S \\to 2,5$$ "
+        },
+        {
+          "key": "D",
+          "value": "$$P \\to 1,2,3,4,5;{\\mkern 1mu} Q \\to 2,5;R \\to 2,3,4,5;S \\to 2,5$$ "
+        }
+      ],
+      "answer": "A",
+      "explanation": "<p>The linear momentum $$\\overrightarrow p $$ of a particle is conserved if force on it is zero i.e., $$\\overrightarrow F  = m\\overrightarrow a  = \\overrightarrow 0 $$. If $$\\overrightarrow p $$ is conserved then kinetic energy $$K = {p^2}/2m$$ is also conserved. The angular momentum $$\\overrightarrow L $$ of a particle is conserved if torque on it is zero i.e., $$\\overrightarrow \\tau   = \\overrightarrow r  \\times \\overrightarrow F  = \\overrightarrow 0 $$. The total energy E is conserved for conservative forces.</p>\n<p>For P : $$\\overrightarrow r (t) = \\alpha t\\widehat i + \\beta t\\widehat j$$</p>\n<p>$$\\overrightarrow v  = {{d\\overrightarrow r } \\over {dt}} = \\alpha \\widehat i + \\beta \\widehat j$$ = constant</p>\n<p>$$ \\Rightarrow \\overrightarrow p $$ is constant (conserved)</p>\n<p>Now, $$\\left| {\\overrightarrow v } \\right| = \\sqrt {{\\alpha ^2} + {\\beta ^2}} $$ = constant</p>\n<p>Therefore, $$K = {1 \\over 2}m{v^2}$$ is constant (conserved)</p>\n<p>Now, $$\\overrightarrow a  = {{d\\overrightarrow v } \\over {dt}} = 0 \\Rightarrow \\overrightarrow F  = m\\overrightarrow a  = 0$$</p>\n<p>Thus, $$F = \\nabla U \\Rightarrow U$$ is constant (conserved)</p>\n<p>Now, $$E = U + K \\Rightarrow E$$ is constant, since U and K are constant</p>\n<p>Now, $$\\overrightarrow L  = m(\\overrightarrow r  \\times \\overrightarrow v ) = 0 \\Rightarrow \\overrightarrow L $$ is constant (conserved)</p>\n<p>Thus, the correct mapping is $$P \\to 1,2,3,4,5$$.</p>\n<p>For Q : $$\\overrightarrow r (t) = \\alpha \\cos \\omega t\\,\\widehat i + \\beta \\sin \\omega t\\,\\widehat j$$</p>\n<p>$$ \\Rightarrow v = {{d\\overrightarrow r } \\over {dt}} =  - \\alpha \\omega \\sin \\omega t\\,\\widehat i + \\beta \\omega \\cos \\omega t\\,\\widehat j$$</p>\n<p>So v is not a constant $$ \\Rightarrow \\overrightarrow p $$ is not conserved for the path.</p>\n<p>Now, $$\\left| {\\overrightarrow v } \\right| = \\sqrt {{\\alpha ^2}{\\omega ^2}{{\\sin }^2}\\omega t + {\\beta ^2}{\\omega ^2}\\sin \\omega t} $$ which is not constant. Therefore,</p>\n<p>$$K = {1 \\over 2}m{v^2}$$ is not constant (not conserved)</p>\n<p>Now, $$\\overrightarrow a  = {{d\\overrightarrow v } \\over {dt}} =  - \\alpha {\\omega ^2}\\cos \\omega t\\,\\widehat i + \\beta {\\omega ^2}\\sin \\omega t\\,\\widehat j$$</p>\n<p>$$ \\Rightarrow \\overrightarrow a $$ is not constant</p>\n<p>$$ \\Rightarrow \\overrightarrow F $$ is not constant</p>\n<p>$$ \\Rightarrow \\overrightarrow U $$ is not constant (not conserved)</p>\n<p>E = U + K is constant (conserved)</p>\n<p>Now, $$\\overrightarrow L  = m(\\overrightarrow r  \\times \\overrightarrow v ) = m\\omega \\alpha \\beta \\widehat k$$</p>\n<p>$$ \\Rightarrow \\overrightarrow L $$ is constant (conserved)</p>\n<p>Thus, the correct mapping is $$Q \\to 2,5$$.</p>\n<p>For R : $$\\overrightarrow r (t) = \\alpha (\\cos \\omega t\\,\\widehat i + \\sin \\omega t\\,\\widehat j)$$</p>\n<p>$$\\overrightarrow v  = {{d\\overrightarrow r } \\over {dt}} = \\alpha \\omega ( - \\sin \\omega t\\,\\widehat i + \\cos \\omega t\\,\\widehat j)$$</p>\n<p>$$ \\Rightarrow \\overrightarrow v $$ is not a constant</p>\n<p>$$ \\Rightarrow \\overrightarrow p $$ is not a constant (not conserved)</p>\n<p>Now, $$\\left| {\\overrightarrow v } \\right| = \\sqrt {{\\alpha ^2}{\\omega ^2}({{\\sin }^2}\\omega t + {{\\cos }^2}\\omega t)}  = \\alpha \\omega $$</p>\n<p>$$ \\Rightarrow \\left| {\\overrightarrow v } \\right|$$ is constant</p>\n<p>$$ \\Rightarrow K = {1 \\over 2}m{v^2}$$ is a constant (conserved)</p>\n<p>Now, $$\\overrightarrow a  = {{dv} \\over {dt}} = \\alpha {\\omega ^2}( - \\sin \\omega t\\,\\widehat i - \\cos \\omega t\\,\\widehat j)$$</p>\n<p>$$ \\Rightarrow \\overrightarrow a $$ is not constant</p>\n<p>Since $$  E = U + K$$ is constant (conserved)</p>\n<p>$$\\Rightarrow U$$ is constant (conserved)</p>\n<p>Now, $$\\overrightarrow L  = m(\\overrightarrow r  \\times \\overrightarrow v ) = m\\omega {\\alpha ^2}\\widehat k$$</p>\n<p>$$ \\Rightarrow \\overrightarrow L $$ is constant (conserved)</p>\n<p>Thus, the correct mapping is $$R \\to 2,3,4,5.$$</p>\n<p>For S : $$\\overrightarrow r (t) = \\alpha t\\,\\widehat i + {\\beta  \\over 2}{t^2}\\,\\widehat j$$</p>\n<p>$$\\overrightarrow v  = {{d\\overrightarrow r } \\over {dt}} = \\alpha \\widehat i + \\beta t\\,\\widehat j$$</p>\n<p>$$ \\Rightarrow \\overrightarrow v $$ is not conserved</p>\n<p>$$ \\Rightarrow \\overrightarrow p $$ is not conserved</p>\n<p>Now, $$\\left| {\\overrightarrow v } \\right| = \\sqrt {{\\alpha ^2} + {\\beta ^2}\\,{t^2}} $$</p>\n<p>$$ \\Rightarrow \\left| {\\overrightarrow v } \\right|$$ is not conserved</p>\n<p>$$ \\Rightarrow K = {1 \\over 2}m{v^2}$$ is not conserved</p>\n<p>$$\\overrightarrow a  = {{d\\overrightarrow v } \\over {dt}} = \\beta \\widehat j$$</p>\n<p>$$ \\Rightarrow E = U + K$$ is conserved</p>\n<p>But, U is not conserved.</p>\n<p>Now, $$\\overrightarrow L  = m(\\overrightarrow r  \\times \\overrightarrow v ) = {1 \\over 2}\\alpha \\beta {t^2}\\widehat k$$</p>\n<p>$$ \\Rightarrow \\overrightarrow L $$ is not conserved.</p>\n<p>Thus, the correct mapping is $$S \\to 5$$.</p>\n<p>Therefore, option (A) is correct.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "An ideal spring with spring-constant k is hung from the ceiling and a block of mass M is attached to its lower end. The mass is released with the spring initially unstretched. Then the maximum extension in the spring is",
+      "options": [
+        {
+          "key": "A",
+          "value": "$${{4Mg} \\over k}$$"
+        },
+        {
+          "key": "B",
+          "value": "$${{2Mg} \\over k}$$"
+        },
+        {
+          "key": "C",
+          "value": "$${{Mg} \\over k}$$"
+        },
+        {
+          "key": "D",
+          "value": "$${{Mg} \\over {2k}}$$"
+        }
+      ],
+      "answer": "B",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A wind-powered generator converts wind energy into electrical energy. Assume that the generator converts a fixed fraction of the wind energy intercepted by its blades into electrical energy. For wind speed v, the electrical power output will be proportional to",
+      "options": [
+        {
+          "key": "A",
+          "value": "v"
+        },
+        {
+          "key": "B",
+          "value": "v<sup>2</sup>"
+        },
+        {
+          "key": "C",
+          "value": "v<sup>3</sup>"
+        },
+        {
+          "key": "D",
+          "value": "v<sup>4</sup>"
+        }
+      ],
+      "answer": "C",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A spring of force-constant k is cut into two pieces such that one piece is double the length of the other. Then the long piece will have a force-constant of",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$\\left( {{2 \\over 3}} \\right)k$$"
+        },
+        {
+          "key": "B",
+          "value": "$$\\left( {{3 \\over 2}} \\right)k$$"
+        },
+        {
+          "key": "C",
+          "value": "3 k"
+        },
+        {
+          "key": "D",
+          "value": "6 k"
+        }
+      ],
+      "answer": "B",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A particle of mass m is moving in a circular path of constant radius r such that its centripetal acceleration $${a_c}$$ is varying with time t as $${a_c}$$ = k<sup>2</sup>rt<sup>2</sup> where k is a constant. The power delivered to the perticles by the force acting on it is:",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$2\\pi m{k^2}{r^2}t$$"
+        },
+        {
+          "key": "B",
+          "value": "$$m{k^2}{r^2}t$$"
+        },
+        {
+          "key": "C",
+          "value": "$${{\\left( {m{k^4}{r^2}{t^5}} \\right)} \\over 3}$$"
+        },
+        {
+          "key": "D",
+          "value": "zero"
+        }
+      ],
+      "answer": "B",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "If a machine is lubricated with oil",
+      "options": [
+        {
+          "key": "A",
+          "value": "the mechanical advantage of the machine increases"
+        },
+        {
+          "key": "B",
+          "value": "the mechanical efficiency of the machine increases"
+        },
+        {
+          "key": "C",
+          "value": "both its mechanical advantage and efficiency increases"
+        },
+        {
+          "key": "D",
+          "value": "its efficiency increases, but its mechanical advantage decreases"
+        }
+      ],
+      "answer": "B",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Two masses of 1gm and 4 gm are moving with equal kinetic energies. The ratio of the magnitude of their linear momentum is",
+      "options": [
+        {
+          "key": "A",
+          "value": "4 : 1"
+        },
+        {
+          "key": "B",
+          "value": "$$\\sqrt 2 :1$$"
+        },
+        {
+          "key": "C",
+          "value": "$$1:2$$"
+        },
+        {
+          "key": "D",
+          "value": "1 : 16"
+        }
+      ],
+      "answer": "C",
+      "explanation": ""
+    }
+  ]
+}

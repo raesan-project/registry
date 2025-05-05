@@ -1,0 +1,163 @@
+{
+  "_index": {
+    "name": "Salt Analysis"
+  },
+  "_children": [
+    {
+      "_type": "numerical",
+      "body": "The number of moles of potassium iodide required to produce two moles of $\\mathbf{P}$ is _______.",
+      "answer": "2",
+      "explanation": "<p>$$ \\mathrm{KI}+\\mathrm{K}_3\\left[\\mathrm{Fe}(\\mathrm{CN})_6\\right] \\rightleftharpoons \\mathrm{K}_4\\left[\\mathrm{Fe}(\\mathrm{CN})_6\\right]+\\frac{1}{2} \\mathrm{I}_2 $$</p>\n\n<p>Moles of KI required $=2$</p>"
+    },
+    {
+      "_type": "numerical",
+      "body": "The number of zinc ions present in the molecular formula of $\\mathbf{Q}$ is _______.",
+      "answer": "3OR2",
+      "explanation": "<p>$\\begin{gathered}\\mathrm{Zn}^{2+}+\\mathrm{K}_4\\left[\\mathrm{Fe}(\\mathrm{CN})_6\\right] \\rightarrow \\mathrm{K}_2 \\mathrm{Zn}_3\\left[\\mathrm{Fe}(\\mathrm{CN})_6\\right]_2 \\\\ \\mathrm{OR} \\\\ \\mathrm{Zn}^{2+}+\\mathrm{K}_4\\left[\\mathrm{Fe}(\\mathrm{CN})_6\\right] \\rightarrow \\mathrm{Zn}_2\\left[\\mathrm{Fe}(\\mathrm{CN})_6\\right]\\end{gathered}$</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>The precipitate P contains</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "Pb<sup>2+</sup>"
+        },
+        {
+          "key": "B",
+          "value": "Hg$$_2^{2 + }$$"
+        },
+        {
+          "key": "C",
+          "value": "Ag<sup>+</sup>"
+        },
+        {
+          "key": "D",
+          "value": "Hg<sup>2+</sup>"
+        }
+      ],
+      "answer": "A",
+      "explanation": "<p>Pb salts form white precipitate of PbCl<sub>2</sub> with dil. HCl, which dissolves in hot water.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>The coloured solution S contains</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$F{e_2}{(S{O_4})_3}$$"
+        },
+        {
+          "key": "B",
+          "value": "$$CuS{O_4}$$"
+        },
+        {
+          "key": "C",
+          "value": "$$ZnS{O_4}$$"
+        },
+        {
+          "key": "D",
+          "value": "$$N{a_2}Cr{O_4}$$"
+        }
+      ],
+      "answer": "D",
+      "explanation": "<p>The reactions involved are as follows:</p>\n<p>$$\\mathop {C{r^{3 + }}}\\limits_{(Q)}  + 3N{H_4}OH\\buildrel {{H_2}S} \\over\n \\longrightarrow \\mathop {Cr{{(OH)}_3}}\\limits_{(R)\\,(Green\\,ppt.)}  + 3NH_4^ + $$</p>\n<p>$$\\mathop {2Cr{{(OH)}_3}}\\limits_{(R)}  + 3{H_2}{O_2} + 4NaOH \\to \\mathop {2N{a_2}Cr{O_4} + 8{H_2}O}\\limits_{(S)\\,(Yellow\\,solution)} $$</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The metal rod M is",
+      "options": [
+        {
+          "key": "A",
+          "value": "Fe"
+        },
+        {
+          "key": "B",
+          "value": "Cu"
+        },
+        {
+          "key": "C",
+          "value": "Ni"
+        },
+        {
+          "key": "D",
+          "value": "Co"
+        }
+      ],
+      "answer": "B",
+      "explanation": "<p>M is copper and N is silver nitrate according to the equation</p>\n<p>$$\\mathop {Cu}\\limits_{(M)}  + \\mathop {2AgN{O_3}}\\limits_{(N)}  \\to \\mathop {Cu{{(N{O_3})}_2}}\\limits_{Blue}  + 2Ag$$</p>\n<p>The solution of copper nitrate is blue in colour which is formed by the reaction of copper with silver nitrate.</p>\n<p>$$AgN{O_3} + NaCl \\to AgCl + NaN{O_3}$$</p>\n<p>silver chloride precipitates out (white colour ppt.) when silver nitrate reacts with sodium chloride (double displacement reaction).</p>\n<p>$$AgCl + 2N{H_4}OH \\to [Ag{(N{H_3})_2}]Cl + 2{H_2}O$$</p>\n<p>AgCl is soluble in NH<sub>4</sub>OH.</p>\n<p>$$Cu{(N{O_3})_2} + 4N{H_4}OH \\to [Cu{(N{H_3})_4}]{(N{O_3})_2} + 4{H_2}O$$</p>\n<p>Copper nitrate on reaction with ammonia or ammonium hydroxide gives intense blue solution which is due to $$[Cu{(N{H_3})_4}]$$.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>The compound N is</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "AgNO<sub>3</sub>"
+        },
+        {
+          "key": "B",
+          "value": "Zn(NO<sub>3</sub>)<sub>2</sub>"
+        },
+        {
+          "key": "C",
+          "value": "Al(NO<sub>3</sub>)<sub>3</sub>"
+        },
+        {
+          "key": "D",
+          "value": "Pb(NO<sub>3</sub>)<sub>2</sub>"
+        }
+      ],
+      "answer": "A",
+      "explanation": "<p><p>M is copper and N is silver nitrate according to the equation</p>\n<p>$$\\mathop {Cu}\\limits_{(M)}  + \\mathop {2AgN{O_3}}\\limits_{(N)}  \\to \\mathop {Cu{{(N{O_3})}_2}}\\limits_{Blue}  + 2Ag$$</p>\n<p>The solution of copper nitrate is blue in colour which is formed by the reaction of copper with silver nitrate.</p>\n<p>$$AgN{O_3} + NaCl \\to AgCl + NaN{O_3}$$</p>\n<p>silver chloride precipitates out (white colour ppt.) when silver nitrate reacts with sodium chloride (double displacement reaction).</p>\n<p>$$AgCl + 2N{H_4}OH \\to [Ag{(N{H_3})_2}]Cl + 2{H_2}O$$</p>\n<p>AgCl is soluble in NH<sub>4</sub>OH.</p>\n<p>$$Cu{(N{O_3})_2} + 4N{H_4}OH \\to [Cu{(N{H_3})_4}]{(N{O_3})_2} + 4{H_2}O$$</p>\n<p>Copper nitrate on reaction with ammonia or ammonium hydroxide gives intense blue solution which is due to $$[Cu{(N{H_3})_4}]$$.</p></p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>The final solution contains :</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "$${[Pb{(N{H_3})_4}]^{2 + }}$$ and $${[CoC{l_2}]^{2 - }}$$"
+        },
+        {
+          "key": "B",
+          "value": "$${[Al{(N{H_3})_4}]^{3 + }}$$ and $${[Cu{(N{H_3})_4}]^{2 + }}$$"
+        },
+        {
+          "key": "C",
+          "value": "$${[Ag{(N{H_3})_2}]^ + }$$ and $${[Cu{(N{H_3})_4}]^{2 + }}$$"
+        },
+        {
+          "key": "D",
+          "value": "$${[Ag{(N{H_3})_2}]^ + }$$ and $${[Ni{(N{H_3})_6}]^{2 + }}$$"
+        }
+      ],
+      "answer": "C",
+      "explanation": "<p>M is copper and N is silver nitrate according to the equation</p>\n<p>$$\\mathop {Cu}\\limits_{(M)}  + \\mathop {2AgN{O_3}}\\limits_{(N)}  \\to \\mathop {Cu{{(N{O_3})}_2}}\\limits_{Blue}  + 2Ag$$</p>\n<p>The solution of copper nitrate is blue in colour which is formed by the reaction of copper with silver nitrate.</p>\n<p>$$AgN{O_3} + NaCl \\to AgCl + NaN{O_3}$$</p>\n<p>silver chloride precipitates out (white colour ppt.) when silver nitrate reacts with sodium chloride (double displacement reaction).</p>\n<p>$$AgCl + 2N{H_4}OH \\to [Ag{(N{H_3})_2}]Cl + 2{H_2}O$$</p>\n<p>AgCl is soluble in NH<sub>4</sub>OH.</p>\n<p>$$Cu{(N{O_3})_2} + 4N{H_4}OH \\to [Cu{(N{H_3})_4}]{(N{O_3})_2} + 4{H_2}O$$</p>\n<p>Copper nitrate on reaction with ammonia or ammonium hydroxide gives intense blue solution which is due to $$[Cu{(N{H_3})_4}]$$.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Passing H<sub>2</sub>S gas into a mixture of Mn<sup>2+</sup>, Ni<sup>2+</sup>, Cu<sup>2+</sup> and Hg<sup>2+</sup> ions in an acidified aqueous solution precipitates</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "CuS and HgS"
+        },
+        {
+          "key": "B",
+          "value": "MnS and CuS"
+        },
+        {
+          "key": "C",
+          "value": "MnS and NiS"
+        },
+        {
+          "key": "D",
+          "value": "NiS and HgS"
+        }
+      ],
+      "answer": "A",
+      "explanation": "<p>Cu<sup>2+</sup> and Hg<sup>2+</sup> ions belong to Group II of inorganic salt analysis and their sulphides are very less soluble in aqueous medium.</p>\n<p>Hence, CuS and HgS will be precipitated out even in acidic medium by passing H<sub>2</sub>S gas.</p>"
+    }
+  ]
+}

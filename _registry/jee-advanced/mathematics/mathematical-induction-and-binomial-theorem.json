@@ -1,0 +1,367 @@
+{
+  "_index": {
+    "name": "Mathematical Induction and Binomial Theorem"
+  },
+  "_children": [
+    {
+      "_type": "numerical",
+      "body": "Let $a$ and $b$ be two nonzero real numbers. If the coefficient of $x^5$ in the expansion of $\\left(a x^2+\\frac{70}{27 b x}\\right)^4$ is equal to the coefficient of $x^{-5}$ in the expansion of $\\left(a x-\\frac{1}{b x^2}\\right)^7$, then the value of $2 b$ is :",
+      "answer": "3",
+      "explanation": "$$\n\\begin{aligned}\n& \\mathrm{T}_{\\mathrm{r}+1}={ }^4 \\mathrm{C}_{\\mathrm{r}}\\left(\\mathrm{a} \\cdot \\mathrm{x}^2\\right)^{4-\\mathrm{r}} \\cdot\\left(\\frac{70}{27 \\mathrm{bx}}\\right)^{\\mathrm{r}} \\\\\\\\\n& ={ }^4 \\mathrm{C}_{\\mathrm{r}} \\cdot \\mathrm{a}^{4-\\mathrm{r}} \\cdot \\frac{70^{\\mathrm{r}}}{(27 b)^{\\mathrm{r}}} \\cdot x^{8-3 \\mathrm{r}}\n\\end{aligned}\n$$\n<br/><br/>$$\n\\begin{aligned}\n& \\text { here } 8-3 r=5 \\\\\\\\\n& 8-5=3 r \\Rightarrow r=1 \\\\\\\\\n& \\therefore \\text { coeff. }=4 \\cdot a^3 \\cdot \\frac{70}{27 b}\n\\end{aligned}\n$$\n<br/><br/>$$\n\\begin{aligned}\n& \\mathrm{T}_{\\mathrm{r}+1}={ }^7 \\mathrm{C}_{\\mathrm{r}}(\\mathrm{ax})^{7-\\mathrm{r}}\\left(\\frac{-1}{\\mathrm{bx}^2}\\right)^{\\mathrm{r}} \\\\\\\\\n& ={ }^7 \\mathrm{C}_{\\mathrm{r}} \\cdot a^{7-\\mathrm{r}}\\left(\\frac{-1}{\\mathrm{~b}}\\right)^{\\mathrm{r}} \\cdot \\mathrm{x}^{7-3 \\mathrm{r}} \\\\\\\\\n& 7-3 \\mathrm{r}=-5 \\Rightarrow 12=3 \\mathrm{r} \\Rightarrow \\mathrm{r}=4\n\\end{aligned}\n$$\n<br/><br/>$$\n\\begin{aligned}\n& \\text { now } \\frac{35 \\mathrm{a}^3}{\\mathrm{~b}^4}=\\frac{280 \\mathrm{a}^3}{27 \\mathrm{~b}} \\\\\\\\\n& \\mathrm{~b}^3=\\frac{35 \\times 27}{280}=\\mathrm{b}=\\frac{3}{2} \\Rightarrow 2 \\mathrm{~b}=3\n\\end{aligned}\n$$"
+    },
+    {
+      "_type": "numerical",
+      "body": "Let $$X = {({}^{10}{C_1})^2} + 2{({}^{10}{C_2})^2} + 3{({}^{10}{C_3})^2} + ... + 10{({}^{10}{C_{10}})^2}$$,<br/><br/> where $${}^{10}{C_r}$$, r $$ \\in $${1, 2, ..., 10} denote binomial coefficients. Then, the value of $${1 \\over {1430}}X$$ is ..........",
+      "answer": "646",
+      "explanation": "We have,<br><br>$$X = {({}^{10}{C_1})^2} + 2{({}^{10}{C_2})^2} + 3{({}^{10}{C_3})^2} + ... + 10{({}^{10}{C_{10}})^2}$$<br><br>$$ \\Rightarrow X = \\sum\\limits_{r = 1}^{10} r {({}^{10}{C_r})^2}$$<br><br>$$ \\Rightarrow X = \\sum\\limits_{r = 1}^{10} r\\times {}^{10}{C_r}\\times{}^{10}{C_r}$$<br><br>$$ \\Rightarrow X = \\sum\\limits_{r = 1}^{10} r \\times {}^{10}{C_r}\\times {{10} \\over r}\\times{}^9{C_{r - 1}}$$ &nbsp;&nbsp; $$\\left[  \\,\\because{{}^{n}{C_r} = {n \\over r}{}^{n - 1}{C_{r - 1}}} \\right]$$<br><br>$$ \\Rightarrow X = 10\\sum\\limits_{r = 1}^{10} {{}^9{C_{r - 1}}} {}^{10}{C_r}$$<br><br>$$ \\Rightarrow X = 10\\sum\\limits_{r = 1}^{10} {{}^9{C_{r - 1}}} {}^{10}{C_{10 - r}}$$ [&nbsp;$$ \\because $$ $${}^n{C_r} = {}^n{C_{n - r}}$$]<br><br>$$ \\Rightarrow X = 10 \\times {}^{19}{C_9}$$<br><br>[&nbsp;$$ \\because $$ $${}^{n - 1}{C_{r - 1}}{}^n{C_{n - r}} = {}^{2n - 1}{C_{n - 1}}$$]<br><br>Now, $${1 \\over {1430}}X = {{10 \\times {}^{19}{C_9}} \\over {1430}} = {{{}^{19}{C_9}} \\over {143}} = {{{}^{19}{C_9}} \\over {11 \\times 13}}$$<br><br>$$ = {{19 \\times 17 \\times 16} \\over 8} = 19 \\times 34 = 646$$"
+    },
+    {
+      "_type": "numerical",
+      "body": "Let $$m$$ be the smallest positive integer such that the coefficient of $${x^2}$$ in the expansion of $${\\left( {1 + x} \\right)^2} + {\\left( {1 + x} \\right)^3} + ........ + {\\left( {1 + x} \\right)^{49}} + {\\left( {1 + mx} \\right)^{50}}\\,\\,$$ is $$\\left( {3n + 1} \\right)\\,{}^{51}{C_3}$$ for some positive integer $$n$$. Then the value of $$n$$ is ",
+      "answer": "5",
+      "explanation": "It is given that the coefficient of $x^2$ in $(1+x)^2+(1+x)^3+$ $\\cdots+(1+x)^{49}+(1+m x)^{50}$ is $(3 n+1){ }^{51} C_3$.<br/><br/>\nNow,<br/><br/>\n$$\n\\begin{aligned}\n& { }^2 C_2+{ }^3 C_2+{ }^4 C_2+\\cdots+{ }^{49} C_2+m^2{ }^{50} C_2=(3 n+1){ }^{51} C_3 \\\\\\\\\n& \\Rightarrow{ }^3 C_3+{ }^3 C_2+{ }^4 C_2+\\cdots+{ }^{49} C_2+m^2{ }^{50} C_2=(3 n+1){ }^{51} C_3 \\\\\\\\\n& \\quad \\quad\\left(\\text { as } n C r+n C r-1=n^{+1} C r\\right) \\\\\\\\\n& \\Rightarrow{ }^4 C_3+{ }^4 C_2+\\cdots+{ }^{49} C_2+m^{250} C_2=(3 n+1){ }^{51} C_3 \\\\\\\\\n& \\Rightarrow{ }^{49} C_3+{ }^{49} C_2+m{ }^{250} C_2=(3 n+1){ }^{51} C_3 \\\\\\\\\n& \\Rightarrow{ }^{50} C_3+m^2{ }^{50} C_2=(3 n+1){ }^{51} C_3 \\\\\\\\\n& \\Rightarrow{ }^{50} C_3+{ }^{50} C_2+m^2{ }^{50} C_2=(3 n+1){ }^{51} C_3+{ }^{50} C_2 \\\\\\\\\n& \\Rightarrow{ }^{51} C_3+m^2{ }^{50} C_2=3 n{ }^{51} C_3+{ }^{51} C_3+{ }^{50} C_2 \\\\\\\\\n& \\Rightarrow{ }^{-50} C_2+m^{250} C_2=3 n{ }^{51} C_3 \\\\\\\\\n& \\Rightarrow{ }^{50} C_2\\left(m^2-1\\right)=3 n \\cdot \\frac{51}{3}{ }^{50} C_2\\left({ }^n C_r=\\frac{n}{r} \\quad{ }^{n-1} C_{r-1}\\right) \\\\\\\\\n& \\Rightarrow 2\\left(m^2-1\\right)=51\n\\end{aligned}\n$$<br/><br/>\nTherefore, $m^2=51 n+1$.<br/><br/>\n$$\n\\begin{gathered}\n\\Rightarrow n=\\frac{m^2-1}{51} \\\\\\\\\n\\Rightarrow m=16 \\Rightarrow n=5\\left(m, n \\in \\mathrm{I}^{+}\\right)\n\\end{gathered}\n$$"
+    },
+    {
+      "_type": "numerical",
+      "body": "The  coefficient of three consecutive terms of $${\\left( {1 + x} \\right)^{n + 5}}$$ are in the ratio $$5:10:14.$$ Then $$n$$ =",
+      "answer": "6",
+      "explanation": "<p>We know $$(1+x)^{n+5}=\\sum_\\limits{r=0}^{n+5}{ }^{n+5} \\mathrm{C}_r \\cdot x^r$$</p>\n<p>Given, the coefficients of three consecutive terms of $$(1+x)^{n+5}$$ are in the ratio $$5: 10: 14$$.</p>\n<p>$$\\begin{aligned}\n& \\Rightarrow{ }^{n+5} \\mathrm{C}_r:{ }^{n+5} \\mathrm{C}_{r+1}:{ }^{n+5} \\mathrm{C}_{r+2}=5: 10: 14 \\\\\n& \\Rightarrow \\frac{{ }^{n+5} \\mathrm{C}_{r+1}}{{ }^{n+5} \\mathrm{C}_r}=\\frac{10}{5} \\text { and } \\frac{{ }^{n+5} \\mathrm{C}_{r+2}}{{ }^{n+5} \\mathrm{C}_{r+1}}=\\frac{14}{10} \\\\\n& \\Rightarrow{ }^{n+5} \\mathrm{C}_{r+1}=2 .{ }^{n+5} \\mathrm{C}_r \\text { and } 5 .{ }^{n+5} \\mathrm{C}_{r+2}=7 .{ }^{n+5} \\mathrm{C}_{r+1}\n\\end{aligned}$$</p>\n<p>$$ \\Rightarrow {{\\left| \\!{\\underline {\\,\n  {n + 5} \\,}} \\right. } \\over {\\left| \\!{\\underline {\\,\n  {r + 1} \\,}} \\right. \\,\\left| \\!{\\underline {\\,\n  {n - r + 4} \\,}} \\right. }} = 2{{\\left| \\!{\\underline {\\,\n  {n + 5} \\,}} \\right. } \\over {\\left| \\!{\\underline {\\,\n  r \\,}} \\right. \\,\\left| \\!{\\underline {\\,\n  {n - r + 5} \\,}} \\right. }}$$ and</p>\n<p>$$\\,\\,\\,\\,\\,\\,\\,{{5\\left| \\!{\\underline {\\,\n  {n + 5} \\,}} \\right. } \\over {\\left| \\!{\\underline {\\,\n  {r + 2} \\,}} \\right. \\,\\left| \\!{\\underline {\\,\n  {n - r + 3} \\,}} \\right. }} = {{7\\left| \\!{\\underline {\\,\n  {n + 5} \\,}} \\right. } \\over {\\left| \\!{\\underline {\\,\n  {r + 1} \\,}} \\right. \\,\\left| \\!{\\underline {\\,\n  {n - r + 4} \\,}} \\right. }}$$</p>\n<p>$$\\begin{aligned}\n\\Rightarrow \\quad & \\frac{1}{r+1}=\\frac{2}{n-r+5} \\text { and } \\frac{5}{r+2}=\\frac{7}{n-r+4} \\\\\n\\Rightarrow \\quad & n-r+5=2 r+2 \\text { and } \\\\\n& 5 n-5 r+20=7 r+14 \\\\\n\\Rightarrow \\quad & n=3 r-3=\\frac{12 r-6}{5} \\\\\n\\Rightarrow \\quad & n=3(r-1) \\text { and } 15 r-15=12 r-6 \\\\\n\\Rightarrow \\quad & r=3 \\text { and } n=6 \\\\\n\\Rightarrow \\quad & n=6\n\\end{aligned}$$</p>\n<p>Hints :</p>\n<p>(i) Recall $$(1+x)^m=\\sum_\\limits{r=1}^m{ }^m C_r \\cdot x^r$$</p>\n<p>(ii) The coefficients of three consecutive terms $$(1+x)^m$$ are $${ }^m \\mathrm{C}_r,{ }^m \\mathrm{C}_{r+1},{ }^m \\mathrm{C}_{r+2}$$.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Coefficient of $${x^{11}}$$ in the expansion of $${\\left( {1 + {x^2}} \\right)^4}{\\left( {1 + {x^3}} \\right)^7}{\\left( {1 + {x^4}} \\right)^{12}}$$ is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "1051 "
+        },
+        {
+          "key": "B",
+          "value": "1106 "
+        },
+        {
+          "key": "C",
+          "value": "1113 "
+        },
+        {
+          "key": "D",
+          "value": "1120"
+        }
+      ],
+      "answer": "C",
+      "explanation": "<p>We know $$(1+x)^n={ }^n \\mathrm{C}_0+{ }^n \\mathrm{C}_1 x+{ }^n \\mathrm{C}_2 x^2+{ }^n C_3 x^3+\\ldots .+{ }^n C_n x^n$$.</p>\n<p>$$\\begin{aligned}\n& \\text { Given, }\\left(1+x^2\\right)^4\\left(1+x^3\\right)^7\\left(1+x^4\\right)^{12} \\\\\n& \\Rightarrow\\left({ }^4 \\mathrm{C}_0+{ }^4 \\mathrm{C}_1 x^2+{ }^4 \\mathrm{C}_2 x^4+{ }^4 \\mathrm{C}_3 x^6+{ }^4 \\mathrm{C}_4 x^8\\right) \\\\\n& \\quad \\times\\left({ }^7 \\mathrm{C}_0+{ }^7 \\mathrm{C}_1 x^3+{ }^7 \\mathrm{C}_2 x^6+{ }^7 \\mathrm{C}_3 x^9+{ }^7 \\mathrm{C}_4 x^{12}+\\cdots\\right) \\\\\n& \\quad \\times\\left({ }^{12} \\mathrm{C}_0+{ }^{12} \\mathrm{C}_1 x^4+{ }^{12} \\mathrm{C}_2 x^8+{ }^{12} \\mathrm{C}_3 x^{12}+\\ldots .\\right)\n\\end{aligned}$$</p>\n<p>$$\\Rightarrow$$ The coefficient of</p>\n<p>$$\\begin{aligned}\n& x^{11}={ }^4 \\mathrm{C}_0 \\cdot{ }^7 \\mathrm{C}_1 \\cdot{ }^{12} \\mathrm{C}_2+{ }^4 \\mathrm{C}_1 \\cdot{ }^7 \\mathrm{C}_3 \\cdot{ }^{12} \\mathrm{C}_0 \\\\\n& +{ }^4 \\mathrm{C}_2 \\cdot{ }^7 \\mathrm{C}_1 \\cdot{ }^{12} \\mathrm{C}_1+{ }^4 \\mathrm{C}_4 \\cdot{ }^7 \\mathrm{C}_1 \\cdot{ }^{12} \\mathrm{C}_0\n\\end{aligned}$$</p>\n<p>$$\\Rightarrow$$ The coefficient of $$x^{11}=462+140+504+7$$</p>\n<p>$$\\Rightarrow$$ The coefficient of $$x^{11}=1113$$</p>\n<p>Hint:\n(i) Recall</p>\n<p>$$\\begin{aligned}\n& (1+x)^n={ }^n \\mathrm{C}_0+{ }^n \\mathrm{C}_1 x+{ }^n \\mathrm{C}_2 x^2 \\\\\n& +{ }^n \\mathrm{C}_3 x^3+{ }^n \\mathrm{C}_4 x^4+\\ldots \\ldots+{ }^n \\mathrm{C}_n x^n .\n\\end{aligned}$$</p>\n<p>(ii) $${ }^n \\mathrm{C}_r=\\frac{n!}{r!(n-r)!}$$</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "For $$r = 0,\\,1,....,$$  let $${A_r},\\,{B_r}$$ and $${C_r}$$ denote, respectively, the coefficient of $${X^r}$$ in the expansions of $${\\left( {1 + x} \\right)^{10}},$$ $${\\left( {1 + x} \\right)^{20}}$$ and $${\\left( {1 + x} \\right)^{30}}.$$ \n<br>Then $$\\sum\\limits_{r = 1}^{10} {{A_r}\\left( {{B_{10}}{B_r} - {C_{10}}{A_r}} \\right)} $$ is equal to ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$\\left( {{B_{10}} - {C_{10}}} \\right)$$ "
+        },
+        {
+          "key": "B",
+          "value": "$${A_{10}}\\left( {{B^2}_{10}{C_{10}}{A_{10}}} \\right)$$ "
+        },
+        {
+          "key": "C",
+          "value": "$$0$$ "
+        },
+        {
+          "key": "D",
+          "value": "$${{C_{10}} - {B_{10}}}$$ "
+        }
+      ],
+      "answer": "D",
+      "explanation": "<p>A<sub>r</sub> = Coefficient of x<sup>r</sup> in $${(1 + x)^{10}} = {}^{10}{C_r}$$</p>\n<p>B<sub>r</sub> = Coefficient of x<sup>r</sup> in $${(1 + x)^{20}} = {}^{20}{C_r}$$</p>\n<p>C<sub>r</sub> = Coefficient of x<sup>r</sup> in $${(1 + x)^{30}} = {}^{30}{C_r}$$</p>\n<p>$$\\therefore$$ $$\\sum\\limits_{r = 1}^{10} {{A_r}({B_{10}}{B_r} - {C_{10}}{A_r})} $$</p>\n<p>$$ = \\sum\\limits_{r = 1}^{10} {{A_r}{B_{10}}{B_r} - \\sum\\limits_{r = 1}^{10} {{A_r}{C_{10}}{A_r}} } $$</p>\n<p>$$ = \\sum\\limits_{r = 1}^{10} {{}^{10}{C_r}\\,{}^{20}{C_{10}}\\,{}^{20}{C_r} - \\sum\\limits_{r = 1}^{10} {{}^{10}{C_r}\\,{}^{30}{C_{10}}\\,{}^{10}{C_r}} } $$</p>\n<p>$$ = \\sum\\limits_{r = 1}^{10} {{}^{10}{C_{10 - r}}\\,{}^{20}{C_{10}}\\,{}^{20}{C_r} - \\sum\\limits_{r = 1}^{10} {{}^{10}{C_{10 - r}}\\,{}^{30}{C_{10}}\\,{}^{10}{C_r}} } $$</p>\n<p>$$ = {}^{20}{C_{10}}\\sum\\limits_{r = 1}^{10} {{}^{10}{C_{10 - r}}\\,.\\,\\,{}^{20}{C_r} - {}^{30}{C_{10}}\\sum\\limits_{r = 1}^{10} {{}^{10}{C_{10 - r}}\\,.\\,\\,{}^{10}{C_r}} } $$</p>\n<p>$$ = {}^{20}{C_{10}}\\left( {{}^{30}{C_{10}} - 1} \\right) - {}^{30}{C_{10}}\\left( {{}^{20}{C_{10}} - 1} \\right)$$</p>\n<p>$$ = {}^{30}{C_{10}} - {}^{20}{C_{10}} = {C_{10}} - {B_{10}}$$</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The value of $$$\\left( {\\matrix{\n   {30}  \\cr \n   0  \\cr \n\n } } \\right)\\left( {\\matrix{\n   {30}  \\cr \n   {10}  \\cr \n\n } } \\right) - \\left( {\\matrix{\n   {30}  \\cr \n   1  \\cr \n\n } } \\right)\\left( {\\matrix{\n   {30}  \\cr \n   {11}  \\cr \n\n } } \\right) + \\left( {\\matrix{\n   {30}  \\cr \n   2  \\cr \n\n } } \\right)\\left( {\\matrix{\n   {30}  \\cr \n   {12}  \\cr \n\n } } \\right)....... + \\left( {\\matrix{\n   {30}  \\cr \n   {20}  \\cr \n\n } } \\right)\\left( {\\matrix{\n   {30}  \\cr \n   {30}  \\cr \n\n } } \\right)$$$\n<br>is where $$\\left( {\\matrix{\n   n  \\cr \n   r  \\cr \n\n } } \\right) = {}^n{C_r}$$ ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$\\left( {\\matrix{\n   {30}  \\cr \n   {10}  \\cr \n\n } } \\right)$$ "
+        },
+        {
+          "key": "B",
+          "value": "$$\\left( {\\matrix{\n   {30}  \\cr \n   {15}  \\cr \n\n } } \\right)$$ "
+        },
+        {
+          "key": "C",
+          "value": "$$\\left( {\\matrix{\n   {60}  \\cr \n   {30}  \\cr \n\n } } \\right)$$ "
+        },
+        {
+          "key": "D",
+          "value": "$$\\left( {\\matrix{\n   {31}  \\cr \n   {10}  \\cr \n\n } } \\right)$$ "
+        }
+      ],
+      "answer": "A",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "If $${}^{n - 1}{C_r} = \\left( {{k^2} - 3} \\right)\\,{}^n{C_{r + 1,}}$$ then $$k \\in $$ ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$\\left( { - \\infty , - 2} \\right)$$ "
+        },
+        {
+          "key": "B",
+          "value": "$$\\left[ {2,\\infty } \\right)$$ "
+        },
+        {
+          "key": "C",
+          "value": "$$\\left[ { - \\sqrt 3 ,\\sqrt 3 } \\right]$$ "
+        },
+        {
+          "key": "D",
+          "value": "$$\\left( {\\sqrt 3 ,2} \\right]$$ "
+        }
+      ],
+      "answer": "D",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Coefficient of $${t^{24}}$$ in $${\\left( {1 + {t^2}} \\right)^{12}}\\left( {1 + {t^{12}}} \\right)\\left( {1 + {t^{24}}} \\right)$$ is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$${}^{12}{C_6} + 3$$ "
+        },
+        {
+          "key": "B",
+          "value": "$${}^{12}{C_6} + 1$$"
+        },
+        {
+          "key": "C",
+          "value": "$${}^{12}{C_6}$$ "
+        },
+        {
+          "key": "D",
+          "value": "$${}^{12}{C_6} + 2$$ "
+        }
+      ],
+      "answer": "D",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The sum $$\\sum\\limits_{i = 0}^m {\\left( {\\matrix{\n   {10}  \\cr \n   i  \\cr \n\n } } \\right)\\left( {\\matrix{\n   {20}  \\cr \n   {m - i}  \\cr \n\n } } \\right),\\,\\left( {where\\left( {\\matrix{\n   p  \\cr \n   q  \\cr \n\n } } \\right) = 0\\,\\,if\\,\\,p &lt; q} \\right)} $$ is maximum when $$m$$ is  ",
+      "options": [
+        {
+          "key": "A",
+          "value": "5 "
+        },
+        {
+          "key": "B",
+          "value": "10 "
+        },
+        {
+          "key": "C",
+          "value": "15 "
+        },
+        {
+          "key": "D",
+          "value": "20"
+        }
+      ],
+      "answer": "C",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "In the binomial expansion of $${\\left( {a - b} \\right)^n},\\,n \\ge 5,$$ the sum of the $${5^{th}}$$ and $${6^{th}}$$ terms is zero. Then $$a/b$$ equals ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$\\left( {n - 5} \\right)/6$$ "
+        },
+        {
+          "key": "B",
+          "value": "$$\\left( {n - 4} \\right)/5$$"
+        },
+        {
+          "key": "C",
+          "value": "$$5/\\left( {n - 4} \\right)$$ "
+        },
+        {
+          "key": "D",
+          "value": "$$6/\\left( {n - 5} \\right)$$"
+        }
+      ],
+      "answer": "B",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "For $$2 \\le r \\le n,\\,\\,\\,\\,\\left( {\\matrix{\n   n  \\cr \n   r  \\cr \n\n } } \\right) + 2\\left( {\\matrix{\n   n  \\cr \n   {r - 1}  \\cr \n\n } } \\right) + \\left( {\\matrix{\n   n  \\cr \n   {r - 2}  \\cr \n\n } } \\right) = $$ ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$\\left( {\\matrix{\n   {n + 1}  \\cr \n   {r - 1}  \\cr \n\n } } \\right)$$ "
+        },
+        {
+          "key": "B",
+          "value": "$$2\\left( {\\matrix{\n   {n + 1}  \\cr \n   {r + 1}  \\cr \n\n } } \\right)$$ "
+        },
+        {
+          "key": "C",
+          "value": "$$2\\left( {\\matrix{\n   {n + 2}  \\cr \n   r  \\cr \n\n } } \\right)$$ "
+        },
+        {
+          "key": "D",
+          "value": "$$\\left( {\\matrix{\n   {n + 2}  \\cr \n   r  \\cr \n\n } } \\right)$$ "
+        }
+      ],
+      "answer": "D",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "If in the expansion of $${\\left( {1 + x} \\right)^m}{\\left( {1 - x} \\right)^n},$$ the coefficients of $$x$$ and $${x^2}$$ are $$3$$ and $$-6$$ respectively, then $$m$$ is  ",
+      "options": [
+        {
+          "key": "A",
+          "value": "6 "
+        },
+        {
+          "key": "B",
+          "value": "9 "
+        },
+        {
+          "key": "C",
+          "value": "12 "
+        },
+        {
+          "key": "D",
+          "value": "24"
+        }
+      ],
+      "answer": "C",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "If $${a_n} = \\sum\\limits_{r = 0}^n {{1 \\over {{}^n{C_r}}},\\,\\,\\,then\\,\\,\\,\\sum\\limits_{r = 0}^n {{r \\over {{}^n{C_r}}}} } $$  equals ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$\\left( {n - 1} \\right){a_n}$$ "
+        },
+        {
+          "key": "B",
+          "value": "$$n{a_n}$$ "
+        },
+        {
+          "key": "C",
+          "value": "$${1 \\over 2}n{a_n}$$ "
+        },
+        {
+          "key": "D",
+          "value": "None of the above "
+        }
+      ],
+      "answer": "C",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The expansion $${\\left( {x + {{\\left( {{x^3} - 1} \\right)}^{{1 \\over 2}}}} \\right)^5} + {\\left( {x - {{\\left( {{x^3} - 1} \\right)}^{{1 \\over 2}}}} \\right)^5}$$ is a polynomial of degree ",
+      "options": [
+        {
+          "key": "A",
+          "value": "5 "
+        },
+        {
+          "key": "B",
+          "value": "6 "
+        },
+        {
+          "key": "C",
+          "value": "7 "
+        },
+        {
+          "key": "D",
+          "value": "8 "
+        }
+      ],
+      "answer": "C",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "If $${C_r}$$ stands for $${}^n{C_r},$$  then the sum of the series \n$${{2\\left( {{n \\over 2}} \\right){\\mkern 1mu} !{\\mkern 1mu} \\left( {{n \\over 2}} \\right){\\mkern 1mu} !} \\over {n!}}\\left[ {C_0^2 - 2C_1^2 + 3C_2^2 - } \\right......... + {\\left( { - 1} \\right)^n}\\left( {n + 1} \\right)C_n^2\\mathop ]\\limits^ \\sim  \\,,$$ \n<br>where $$n$$ is an even positive integer, is equal to ",
+      "options": [
+        {
+          "key": "A",
+          "value": "0 "
+        },
+        {
+          "key": "B",
+          "value": "$${\\left( { - 1} \\right)^{n/2}}\\left( {n + 1} \\right)$$ "
+        },
+        {
+          "key": "C",
+          "value": "$${\\left( { - 1} \\right)^{n/2}}\\left( {n + 2} \\right)$$ "
+        },
+        {
+          "key": "D",
+          "value": "$${\\left( { - 1} \\right)^n}n$$ "
+        }
+      ],
+      "answer": "C",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Given positive integers $$r &gt; 1,\\,n &gt; 2$$ and that the coefficient of $$\\left( {3r} \\right)$$th and $$\\left( {r + 2} \\right)$$th terms in the binomial expansion of $${\\left( {1 + x} \\right)^{2n}}$$ are equal. Then ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$n = 2r$$ "
+        },
+        {
+          "key": "B",
+          "value": "$$n = 2r + 1$$ "
+        },
+        {
+          "key": "C",
+          "value": "$$n = 3r$$ "
+        },
+        {
+          "key": "D",
+          "value": "none of these "
+        }
+      ],
+      "answer": "A",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The coefficient of $${x^4}$$ in $${\\left( {{x \\over 2} - {3 \\over {{x^2}}}} \\right)^{10}}$$ is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$${{{405} \\over {256}}}$$ "
+        },
+        {
+          "key": "B",
+          "value": "$${{{504} \\over {259}}}$$"
+        },
+        {
+          "key": "C",
+          "value": "$${{{450} \\over {263}}}$$"
+        },
+        {
+          "key": "D",
+          "value": "none of these "
+        }
+      ],
+      "answer": "A",
+      "explanation": ""
+    }
+  ]
+}

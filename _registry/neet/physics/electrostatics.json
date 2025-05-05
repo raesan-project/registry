@@ -1,0 +1,1015 @@
+{
+  "_index": {
+    "name": "Electrostatics"
+  },
+  "_children": [
+    {
+      "_type": "single_mcq",
+      "body": "<p>A metal cube of side $$5 \\mathrm{~cm}$$ is charged with $$6 \\mu \\mathrm{C}$$. The surface charge density on the cube is</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$0.125 \\times 10^{-3} \\mathrm{C} \\mathrm{m}^{-2}$$\n"
+        },
+        {
+          "key": "B",
+          "value": "$$0.25 \\times 10^{-3} \\mathrm{C} \\mathrm{m}^{-2}$$\n"
+        },
+        {
+          "key": "C",
+          "value": "$$4 \\times 10^{-3} \\mathrm{C} \\mathrm{m}^{-2}$$\n"
+        },
+        {
+          "key": "D",
+          "value": "$$0.4 \\times 10^{-3} \\mathrm{C} \\mathrm{m}^{-2}$$\n"
+        }
+      ],
+      "answer": "D",
+      "explanation": "<p>To find the surface charge density of a charged metal cube, we need to determine the charge per unit area. The surface charge density, denoted by $$\\sigma$$, is given by:</p>\n\n<p>\n\n<p>$$\\sigma = \\frac{Q}{A}$$</p>\n\n</p>\n\n<p>where:</p>\n\n<ul>\n\n<li>$ Q $ is the total charge on the cube</li>\n\n<li>$ A $ is the total surface area of the cube</li>\n\n</ul>\n\n<p>The cube has a side length of $ 5 \\mathrm{~cm} $, so each side of the cube is $ 5 \\mathrm{~cm} $. Since 1 cm = 0.01 m, the side length in meters is:</p>\n\n<p>\n\n<p>$$5 \\mathrm{~cm} = 0.05 \\mathrm{~m}$$</p>\n\n</p>\n\n<p>The cube has 6 faces, and the area of one face is given by:</p>\n\n<p>\n\n<p>$$\\text{Area of one face} = \\left( 0.05 \\mathrm{~m} \\right)^2 = 0.0025 \\mathrm{~m}^2$$</p>\n\n</p>\n\n<p>Therefore, the total surface area of the cube is:</p>\n\n<p>\n\n<p>$$A = 6 \\times 0.0025 \\mathrm{~m}^2 = 0.015 \\mathrm{~m}^2$$</p>\n\n</p>\n\n<p>The total charge, $ Q $, is given as $ 6 \\mu \\mathrm{C} $. Converting this to Coulombs:</p>\n\n<p>\n\n<p>$$6 \\mu \\mathrm{C} = 6 \\times 10^{-6} \\mathrm{~C}$$</p>\n\n</p>\n\n<p>Now, plugging the values into the formula for surface charge density:</p>\n\n<p>\n\n<p>$$\\sigma = \\frac{6 \\times 10^{-6} \\mathrm{~C}}{0.015 \\mathrm{~m}^2} = 4 \\times 10^{-4} \\mathrm{~C} \\mathrm{m}^{-2}$$</p>\n\n</p>\n\n<p>Therefore, the surface charge density on the cube is:</p>\n\n<p>\n\n<p>$$\\sigma = 0.4 \\times 10^{-3} \\mathrm{~C} \\mathrm{m}^{-2}$$</p>\n\n</p>\n\n<p>So, the correct answer is:</p>\n\n<p>Option D: $$0.4 \\times 10^{-3} \\mathrm{C} \\mathrm{m}^{-2}$$</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>The value of electric potential at a distance of $$9 \\mathrm{~cm}$$ from the point charge $$4 \\times 10^{-7} \\mathrm{C}$$ is [Given $$\\frac{1}{4 \\pi \\varepsilon_0}=9 \\times 10^9 \\mathrm{~N} \\mathrm{~m}^2 \\mathrm{C}^{-2}$$] :\n</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$4 \\times 10^2 \\mathrm{~V}$$\n"
+        },
+        {
+          "key": "B",
+          "value": "$$44.4 \\mathrm{~V}$$\n"
+        },
+        {
+          "key": "C",
+          "value": "$$4.4 \\times 10^5 \\mathrm{~V}$$\n"
+        },
+        {
+          "key": "D",
+          "value": "$$4 \\times 10^4 \\mathrm{~V}$$\n"
+        }
+      ],
+      "answer": "D",
+      "explanation": "<p>The electric potential (V) at a distance (r) from a point charge (q) is given by:</p>\n\n<p> $$V = \\frac{1}{4 \\pi \\varepsilon_0} \\frac{q}{r}$$</p>\n\n<p>where $$\\frac{1}{4 \\pi \\varepsilon_0}$$ is Coulomb's constant.</p>\n\n<p>In this case, we have:</p>\n\n<ul>\n\n<li> $$q = 4 \\times 10^{-7} \\mathrm{C}$$</li>\n\n<li> $$r = 9 \\mathrm{~cm} = 0.09 \\mathrm{~m}$$</li>\n\n<li> $$\\frac{1}{4 \\pi \\varepsilon_0}=9 \\times 10^9 \\mathrm{~N} \\mathrm{~m}^2 \\mathrm{C}^{-2}$$</li>\n\n</ul>\n\n<p>Substituting these values into the equation for electric potential, we get:</p>\n\n<p> $$V = (9 \\times 10^9 \\mathrm{~N} \\mathrm{~m}^2 \\mathrm{C}^{-2}) \\frac{(4 \\times 10^{-7} \\mathrm{C})}{(0.09 \\mathrm{~m})}$$</p>\n\n<p>$$V = 4 \\times 10^4 \\mathrm{~V}$$</p>\n\n<p>Therefore, the value of electric potential at a distance of $$9 \\mathrm{~cm}$$ from the point charge $$4 \\times 10^{-7} \\mathrm{C}$$ is <strong>$$4 \\times 10^4 \\mathrm{~V}$$</strong>. </p>\n\n<p><strong>The correct answer is Option D.</strong></p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Given below are two statements: one is labelled as Assertion A and the other is labelled as Reason R.</p>\n<p>Assertion A: The potential (V) at any axial point, at $$2 \\mathrm{~m}$$ distance $$(r)$$ from the centre of the dipole of dipole moment vector $$\\vec{P}$$ of magnitude, $$4 \\times 10^{-6} \\mathrm{C} \\mathrm{m}$$, is $$\\pm 9 \\times 10^3 \\mathrm{~V}$$.</p>\n<p>(Take $$\\frac{1}{4 \\pi \\epsilon_0}=9 \\times 10^9 \\mathrm{SI}$$ units)</p>\n<p>Reason R: $$V= \\pm \\frac{2 P}{4 \\pi \\epsilon_0 r^2}$$, where $$r$$ is the distance of any axial point, situated at $$2 \\mathrm{~m}$$ from the centre of the dipole.</p>\n<p>In the light of the above statements, choose the correct answer from the options given below:</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "Both A and R are true and R is the correct explanation of A."
+        },
+        {
+          "key": "B",
+          "value": "Both A and R are true and R is NOT the correct explanation of A."
+        },
+        {
+          "key": "C",
+          "value": "A is true but R is false."
+        },
+        {
+          "key": "D",
+          "value": "A is false but R is true."
+        }
+      ],
+      "answer": "C",
+      "explanation": "<p>The potential $$V$$ at any point, at distance $$r$$ from centre of dipole $$=\\frac{K P \\cos \\theta}{r^2}$$</p>\n<p>At axial point where $$\\theta=0^{\\circ}, V=\\frac{K P}{r^2}=\\frac{9 \\times 10^9 \\times 4 \\times 10^{-6}}{2^2}=9 \\times 10^3 \\mathrm{~V}$$</p>\n<p>At axial point where $$\\theta=180^{\\circ}, V=\\frac{-K P}{r^2}=-9 \\times 10^3 \\mathrm{~V}$$</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>According to Gauss law of electrostatics, electric flux through a closed surface depends on :</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "the area of the surface"
+        },
+        {
+          "key": "B",
+          "value": "the quantity of charges enclosed by the surface"
+        },
+        {
+          "key": "C",
+          "value": "the shape of the surface"
+        },
+        {
+          "key": "D",
+          "value": "the volume enclosed by the surface\n"
+        }
+      ],
+      "answer": "B",
+      "explanation": "<p>$$\\phi=\\frac{\\mathrm{q}_{\\text {inside }}}{\\varepsilon_0}$$</p>\n<p>only depends on charge enclosed by surface.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>A charge $$\\mathrm{Q} ~\\mu \\mathrm{C}$$ is placed at the centre of a cube. The flux coming out from any one of its faces will be (in SI unit) :</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$\\frac{Q}{\\epsilon_0} \\times 10^{-6}$$"
+        },
+        {
+          "key": "B",
+          "value": "$$\\frac{2 \\mathrm{Q}}{3 \\epsilon_0} \\times 10^{-3}$$"
+        },
+        {
+          "key": "C",
+          "value": "$$\\frac{\\mathrm{Q}}{6 \\epsilon_0} \\times 10^{-3}$$"
+        },
+        {
+          "key": "D",
+          "value": "$$\\frac{\\mathrm{Q}}{6 \\epsilon_0} \\times 10^{-6}$$"
+        }
+      ],
+      "answer": "D",
+      "explanation": "<p>The Gaussian surface for the charge placed at the center of the cube will spread out equally through all sides of the cube. According to Gauss's Law, electric flux $$\\Phi$$ through a closed surface is equal to the charge enclosed $$Q$$ divided by the permittivity of free space $$\\epsilon_0$$:</p><p>$$\\Phi_{\\text{total}} = \\frac{Q}{\\epsilon_0}$$</p><p>Given that the cube has 6 faces, and due to symmetry, the flux through each face will be equal, the flux through any one face $$\\Phi_{\\text{face}}$$ is:</p><p>$$\\Phi_{\\text{face}} = \\frac{\\Phi_{\\text{total}}}{6} = \\frac{Q}{6\\epsilon_0}$$</p><p>Since the charge is given in microcoulombs ($$\\mu\\mathrm{C}$$), we need to convert it to coulombs by multiplying with $$10^{-6}$$:</p><p>$$\\Phi_{\\text{face}} = \\frac{Q \\times 10^{-6}}{6\\epsilon_0}$$</p><p>This matches option D, which means the correct flux through one face of the cube given a charge Q microcoulombs at the center is $$\\frac{Q}{6\\epsilon_0} \\times 10^{-6}$$.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>If a conducting sphere of radius $$\\mathrm{R}$$ is charged. Then the electric field at a distance $$\\mathrm{r}(\\mathrm{r} > \\mathrm{R})$$ from the centre of the sphere would be, $$(\\mathrm{V}=$$ potential on the surface of the sphere)</p>\n",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$\\frac{r V}{R^2}$$\n"
+        },
+        {
+          "key": "B",
+          "value": "$$\\frac{R^2 V}{r^3}$$\n"
+        },
+        {
+          "key": "C",
+          "value": "$$\\frac{R V}{r^2}$$\n"
+        },
+        {
+          "key": "D",
+          "value": "$$\\frac{\\mathrm{V}}{\\mathrm{r}}$$\n"
+        }
+      ],
+      "answer": "C",
+      "explanation": "<p>$$\n\\begin{aligned}\n& \\therefore V=\\frac{K Q}{R} \\\\\n& E=\\frac{K Q}{r^2} \\\\\n& E=\\frac{V R}{r^2}\n\\end{aligned}\n$$</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>An electric dipole is placed at an angle of $$30^{\\circ}$$ with an electric field of intensity $$2 \\times 10^{5} \\mathrm{NC}^{-1}$$. It experiences a torque equal to $$4 ~\\mathrm{N~m}$$. Calculate the magnitude of charge on the dipole, if the dipole length is $$2 \\mathrm{~cm}$$.</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "6 mC"
+        },
+        {
+          "key": "B",
+          "value": "4 mC"
+        },
+        {
+          "key": "C",
+          "value": "2 mC"
+        },
+        {
+          "key": "D",
+          "value": "8 mC"
+        }
+      ],
+      "answer": "C",
+      "explanation": "<p>The torque τ experienced by an electric dipole in an electric field is given by the formula:</p>\n<p>$$\\tau = pE\\sin{\\theta}$$</p>\n<p>where p is the electric dipole moment, E is the electric field intensity, and θ is the angle between the dipole and the electric field. The electric dipole moment p can be expressed as:</p>\n<p>$$p = qd$$</p>\n<p>where q is the charge on the dipole, and d is the dipole length.</p>\n<p>We are given the following values:</p>\n<ul>\n<li>Torque τ = 4 N·m</li>\n<li>Electric field intensity E = $$2 \\times 10^5 ~\\mathrm{NC}^{-1}$$</li>\n<li>Angle θ = $$30^{\\circ}$$</li>\n<li>Dipole length d = 2 cm = 0.02 m</li>\n</ul>\n<p>We need to find the charge q on the dipole. Let&#39;s first solve for the electric dipole moment p:</p>\n<p>$$\\tau = pE\\sin{\\theta}$$\n<br/><br/>$$ \\Rightarrow $$ $$p = \\frac{\\tau}{E\\sin{\\theta}}$$</p>\n<p>Substituting the given values:</p>\n<p>$$p = \\frac{4}{(2 \\times 10^5) \\sin{30^{\\circ}}} = \\frac{4}{(2 \\times 10^5)(0.5)} = \\frac{4}{10^5} = 4 \\times 10^{-5} ~\\mathrm{C~m}$$</p>\n<p>Now, let&#39;s solve for the charge q using the formula:</p>\n<p>$$ \\Rightarrow $$ $$p = qd$$\n<br/><br/>$$q = \\frac{p}{d}$$</p>\n<p>Substituting the values for p and d:</p>\n<p>$$q = \\frac{4 \\times 10^{-5}}{0.02} = 2 \\times 10^{-3} ~\\mathrm{C} = 2 ~\\mathrm{mC}$$</p>\n<p>So, the magnitude of the charge on the dipole is 2 mC.</p>\n\n"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>The angle between the electric lines of force and the equipotential surface is</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "0$$^\\circ$$"
+        },
+        {
+          "key": "B",
+          "value": "45$$^\\circ$$"
+        },
+        {
+          "key": "C",
+          "value": "90$$^\\circ$$"
+        },
+        {
+          "key": "D",
+          "value": "180$$^\\circ$$"
+        }
+      ],
+      "answer": "C",
+      "explanation": "<p>dV = $$-$$$$\\overrightarrow E $$ . d$$\\overrightarrow r $$</p>\n<p>dV = $$-$$Edr cos$$\\theta$$</p>\n<p>For equipotential surface,</p>\n<p>dV = 0</p>\n<p>cos$$\\theta$$ = 0</p>\n<p>$$\\Rightarrow$$ $$\\theta$$ = 90$$^\\circ$$</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Two hollow conducting spheres of radii R<sub>1</sub> and R<sub>2</sub> (R<sub>1</sub> >> R<sub>2</sub>) have equal charges. The potential would be</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "More on bigger sphere"
+        },
+        {
+          "key": "B",
+          "value": "More on smaller sphere"
+        },
+        {
+          "key": "C",
+          "value": "Equal on both the spheres"
+        },
+        {
+          "key": "D",
+          "value": "Dependent on the material property of the sphere"
+        }
+      ],
+      "answer": "B",
+      "explanation": "<p>Potential of conducting hollow sphere $$ = {{KQ} \\over R}$$</p>\n<p>Now, Q = same</p>\n<p>$$ \\Rightarrow V \\propto {1 \\over R} \\Rightarrow $$ more the radius less will be the potential.</p>\n<p>$$\\Rightarrow$$ Hence potential would be more on smaller sphere.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Polar molecules are the molecules :",
+      "options": [
+        {
+          "key": "A",
+          "value": "having a permanent electric dipole moment"
+        },
+        {
+          "key": "B",
+          "value": "having zero dipole moment"
+        },
+        {
+          "key": "C",
+          "value": "acquire a dipole moment only in the presence of electric field due to displacement of charges"
+        },
+        {
+          "key": "D",
+          "value": "acquire a dipole moment only when magnetic field is absent"
+        }
+      ],
+      "answer": "A",
+      "explanation": "Polar molecules have centres of positive and negative charges separated by some distance, so they have permanent dipole moment."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Twenty seven drops of same size are charged at 220V each. They combine to form a bigger drop. Calculate the potential of the bigger drop.",
+      "options": [
+        {
+          "key": "A",
+          "value": "1980 V"
+        },
+        {
+          "key": "B",
+          "value": "660 V"
+        },
+        {
+          "key": "C",
+          "value": "1320 V"
+        },
+        {
+          "key": "D",
+          "value": "1520 V"
+        }
+      ],
+      "answer": "A",
+      "explanation": "Let charge and radius of smaller drop is q and r\nrespectively\n<br><br>For smaller drop, V = $${{kq} \\over r} = 220\\,V$$\n<br><br>Let R be radius of bigger drop,\n<br><br>As volume remains the same\n<br><br>$$\\left( {{4 \\over 3}\\pi {r^3}} \\right) \\times 27 = {4 \\over 3}\\pi {R^3}$$\n<br><br>$$ \\Rightarrow $$ R = 3r\n<br><br>Now, using charge conservation,\n<br><br>Q = 27q\n<br><br>V<sub>big drop</sub> = $${{kQ} \\over r} = {{k\\left( {27q} \\right)} \\over r} = 9\\left( {{{kq} \\over r}} \\right)$$\n<br><br>= 9 $$ \\times $$ 220 = 1980 V"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A short electric dipole has a dipole moment of 16 $$ \\times $$ 10<sup>-9</sup> Cm. The electric potential due to the dipole at a point at a distance of 0.6 m from the centre of the dipole, situated on a line making an angle of $$60^\\circ $$ with the dipole axis is :<br><br>$$\\left( {{1 \\over {4\\pi {\\varepsilon _0}}} = 9 \\times {{10}^9}N{m^2}/{C^2}} \\right)$$\n\n\n\n",
+      "options": [
+        {
+          "key": "A",
+          "value": "200 V"
+        },
+        {
+          "key": "B",
+          "value": "400 V"
+        },
+        {
+          "key": "C",
+          "value": "zero"
+        },
+        {
+          "key": "D",
+          "value": "50 V"
+        }
+      ],
+      "answer": "A",
+      "explanation": "Electric potential due to electric dipole (V)<br><br>$$ = {1 \\over {4\\pi {\\varepsilon _0}}}{{p.\\cos \\theta } \\over {{r^2}}}$$<br><br>$$V = {{9 \\times {{10}^9} \\times 16 \\times {{10}^9} \\times \\cos 60} \\over {0.36}}$$<br><br>V = 200 V\n\n"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "In a certain region of space with volume 0.2 m<sup>3</sup>, the electric potential is found to be 5 V throughout. The magnitude of electric field in this region is :",
+      "options": [
+        {
+          "key": "A",
+          "value": "0.5 N/C"
+        },
+        {
+          "key": "B",
+          "value": "1 N/C"
+        },
+        {
+          "key": "C",
+          "value": "5 N/C"
+        },
+        {
+          "key": "D",
+          "value": "zero"
+        }
+      ],
+      "answer": "D",
+      "explanation": "Potential V is constant. Electric field E is the differentiation of potential V with respect to distance. Differentiation of a constant is zero. So E = 0."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A spherical conductor of radius 10 cm has a charge of 3.2 $$ \\times $$ 10<sup>-7</sup> C distributed uniformly. That is the magnetude of electric field at a point 15 cm from the centre of the sphere?<br>$$\\left( {{1 \\over {4\\pi {\\varepsilon _0}}} = 9 \\times {{10}^9}N{m^2}/{c^2}} \\right)$$\n",
+      "options": [
+        {
+          "key": "A",
+          "value": "1.28 $$ \\times $$ 10<sup>5</sup> N/C"
+        },
+        {
+          "key": "B",
+          "value": "1.28 $$ \\times $$ 10<sup>6</sup> N/C"
+        },
+        {
+          "key": "C",
+          "value": "1.28 $$ \\times $$ 10<sup>7</sup> N/C"
+        },
+        {
+          "key": "D",
+          "value": "1.28 $$ \\times $$ 10<sup>4</sup> N/C"
+        }
+      ],
+      "answer": "A",
+      "explanation": "The electric field for the conducting sphere, away from the surface is given by, <br><br>$$E = {1 \\over {4\\pi {\\varepsilon _0}}}{Q \\over {{r^2}}}$$\n<br><br>$$ = {{9 \\times {{10}^9} \\times 3.2 \\times {{10}^{ - 7}}} \\over {225 \\times {{10}^{ - 4}}}}$$\n<br><br>$$ = 0.128 \\times {10^6}$$\n<br><br>$$ = 1.28 \\times {10^5}$$\n N/C"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A hollow metal sphere of radius R is uniformly charged. The electric field due to the sphere at a distance r from the centre :",
+      "options": [
+        {
+          "key": "A",
+          "value": "zero as r increases for r &lt; R, decreases as r  increases for r &gt; R"
+        },
+        {
+          "key": "B",
+          "value": "zero as r increases for r &lt; R, increases as r increases for r &gt; R."
+        },
+        {
+          "key": "C",
+          "value": "decreases as r increases for r &lt; R and for  r &gt; R."
+        },
+        {
+          "key": "D",
+          "value": "increases as r increases for r &lt; R and for r &gt; R."
+        }
+      ],
+      "answer": "A",
+      "explanation": "<b>For inside</b> <b>(r $$&lt;$$ R)</b>\n<br><br>Apply, Gauss law,\n<br><br>$$\\oint {{E_{in}}} .\\overrightarrow {dS} $$ = $${{{q_{en}}} \\over {{\\varepsilon _0}}}$$\n<br><br>$$ \\Rightarrow $$ E<sub>in</sub> = 0 [ As q<sub>en</sub> = 0 ]\n<br><br><b>For outside</b> <b>(r $$&gt;$$ R)</b>\n<br><br>$$\\oint {{{\\overrightarrow E }_{out}}} .\\overrightarrow {dS}  = {{{q_{en}}} \\over {{\\varepsilon _0}}}$$\n<br><br>Here, q<sub>en</sub> = Q\n<br><br>So, E<sub>out</sub>.4$$\\pi $$r<sup>2</sup> = $${Q \\over {{\\varepsilon _0}}}$$\n<br><br>$$ \\therefore $$ E<sub>out</sub> $$ \\propto $$ $${1 \\over {{r^2}}}$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Two point charges A and B, having charges +Q and – Q respectively, are placed at certain distance apart and force acting between them is F. If 25% charge of A is transferred to B, then force between the charges becomes :",
+      "options": [
+        {
+          "key": "A",
+          "value": "F"
+        },
+        {
+          "key": "B",
+          "value": "$${{16F} \\over 9}$$"
+        },
+        {
+          "key": "C",
+          "value": "$${{9F} \\over {16}}$$"
+        },
+        {
+          "key": "D",
+          "value": "$${{4F} \\over 3}$$"
+        }
+      ],
+      "answer": "C",
+      "explanation": "Initially F = $$ - {{K{Q^2}} \\over {{r^2}}}$$\n<br><br>If 25% of charge of A transferred to B then after the\ntransformation of charge.\n<br><br>q<sub>A</sub> = $$Q - {Q \\over 4}$$ = $${{3Q} \\over 4}$$\n<br><br>and q<sub>b</sub> = -Q + $${Q \\over 4}$$ = $$ - {{3Q} \\over 4}$$\n<br><br>New force, F<sub>1</sub> = $${{K\\left( {{{3Q} \\over 4}} \\right)\\left( { - {{3Q} \\over 4}} \\right)} \\over {{r^2}}} $$\n<br><br>$$=  - {9 \\over {16}}{{K{Q^2}} \\over {{r^2}}}$$\n<br><br>= $${{9F} \\over {16}}$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Two parallel infinite line charges with linear charge densities +$$\\lambda $$ C/m and -$$\\lambda $$ C/m are placed at a distance of 2R in free space. What is the electric field mid-way between the two line charges?\n ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$${{2\\lambda } \\over {\\pi {\\varepsilon _0}R}}$$ N/C"
+        },
+        {
+          "key": "B",
+          "value": "zero"
+        },
+        {
+          "key": "C",
+          "value": "$${\\lambda  \\over {\\pi {\\varepsilon _0}R}}$$ N/C"
+        },
+        {
+          "key": "D",
+          "value": "$${\\lambda  \\over {2\\pi {\\varepsilon _0}R}}$$ N/C"
+        }
+      ],
+      "answer": "C",
+      "explanation": "$${\\overrightarrow E _{net}} = {\\overrightarrow E _1} + {\\overrightarrow E _2}$$\n<br><br>= $${\\lambda  \\over {2\\pi {\\varepsilon _0}R}}$$ + $${\\lambda  \\over {2\\pi {\\varepsilon _0}R}}$$\n<br><br>= $${\\lambda  \\over {\\pi {\\varepsilon _0}R}}$$ N/C"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "An electron falls from rest through a vertical\ndistance h in a uniform and vertically upward\ndirected electric field E. The direction of electric\nfield is now reversed, keeping its magnitude the\nsame. A proton is allowed to fall from rest in it\nthrough the same vertical distance h. The time\nof fall of the electron, in comparison to the time\nof fall of the proton is",
+      "options": [
+        {
+          "key": "A",
+          "value": "smaller"
+        },
+        {
+          "key": "B",
+          "value": "5 times greater"
+        },
+        {
+          "key": "C",
+          "value": "10 times greater "
+        },
+        {
+          "key": "D",
+          "value": "equal"
+        }
+      ],
+      "answer": "A",
+      "explanation": "Force experienced by a charged particle in\nan electric field, F = qE\n<br><br>As F = ma\n<br><br>$$ \\therefore $$ ma = qE\n<br><br>$$ \\Rightarrow $$ a = $${{qE} \\over m}$$\n<br><br>As electron and proton both fall from same height at\nrest. Then initial velocity = 0\n<br><br>From the formula, s = ut + $${1 \\over 2}a{t^2}$$\n<br><br>$$ \\therefore $$ h = $${1 \\over 2}a{t^2}$$\n<br><br>$$ \\Rightarrow $$ h = $${1 \\over 2}{{qE} \\over m}{t^2}$$\n<br><br> $$ \\therefore $$ t = $$\\sqrt {{{2hm} \\over {qE}}} $$\n<br><br>$$ \\Rightarrow $$ t $$ \\propto $$ $$\\sqrt m $$ as ‘q’ is same for electron and\nproton.\n<br><br>Since, electron has smaller mass so it will take\nsmaller time."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Suppose the charge of a proton and an electron differ slightly. One of them is $$-$$e, the other is (e + $$\\Delta $$e). If the net of electrostatic force and gravitational force between two hydrogen atoms placed at a distance d (musch greater than atomic size) apart is zero, then $$\\Delta $$e is of the order of \n<br>[Given : mass of hydrogen m<sub>h</sub> = 1.67 $$ \\times $$ 10$$-$$<sup>27</sup> kg]",
+      "options": [
+        {
+          "key": "A",
+          "value": "10<sup>$$-$$23</sup> C "
+        },
+        {
+          "key": "B",
+          "value": "10<sup>$$-$$37</sup> C"
+        },
+        {
+          "key": "C",
+          "value": "10<sup>$$-$$47</sup> C"
+        },
+        {
+          "key": "D",
+          "value": "10<sup>$$-$$20</sup> C"
+        }
+      ],
+      "answer": "B",
+      "explanation": "According to question, the net electrostatic force (F<sub>E</sub>) = gravitational force  (F<sub>G</sub>) <br><br>F<sub>E</sub> = F<sub>G</sub><br><br>\n$$ \\Rightarrow {1 \\over {4\\pi {\\varepsilon _0}}}{{\\Delta {e^2}} \\over {{d^2}}} = {{G{m^2}} \\over {{d^2}}}$$<br><br>$$ \\Rightarrow \\Delta e = m\\sqrt {{G \\over K}} \\left( {{1 \\over {4\\pi {\\varepsilon _0}}} = k = 9 \\times {{10}^9}} \\right)$$<br><br>\n$$ = 1.67 \\times {10^{ - 27}}\\sqrt {{{6.67 \\times {{10}^{ - 11}}} \\over {9 \\times {{10}^9}}}} $$<br><br>\n$$\\Delta e \\approx 1.436 \\times {10^{ - 37}}C$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "An electric dipole is placed at an angle of 30<sup>o</sup> with an electric field intensity 2 $$ \\times $$ 10<sup>5</sup> N C<sup>$$-$$1</sup>. It experiences a torque equal to 4 N m. The charge on the dipole, if the dipole length is 2 cm, is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "8 mC"
+        },
+        {
+          "key": "B",
+          "value": "2 mC"
+        },
+        {
+          "key": "C",
+          "value": "5 mC"
+        },
+        {
+          "key": "D",
+          "value": "7 $$\\mu $$C"
+        }
+      ],
+      "answer": "B",
+      "explanation": "Torque is given by τ = pE sin θ\t<br><br>\nτ = pE sin θ = q$$l$$E sinθ <br><br>\n$$ \\Rightarrow $$ q = τ /$$l$$E sinθ <br><br>\n= 4/(2 × 10<sup>-2</sup> × 0.5 × 2 × 10<sup>5</sup>) = 2 mC "
+    },
+    {
+      "_type": "single_mcq",
+      "body": "If potential (in volts) in a region is expressed as V(x, y, z) = 6xy $$-$$ y + 2yz, the electric field (in N/C) at point (1, 1, 0) is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$ - \\left( {2\\widehat i + 3\\widehat j + \\widehat k} \\right)$$"
+        },
+        {
+          "key": "B",
+          "value": "$$ - \\left( {6\\widehat i + 9\\widehat j + \\widehat k} \\right)$$"
+        },
+        {
+          "key": "C",
+          "value": "$$ - \\left( {3\\widehat i + 5\\widehat j + 3\\widehat k} \\right)$$"
+        },
+        {
+          "key": "D",
+          "value": "$$ - \\left( {6\\widehat i + 5\\widehat j + 2\\widehat k} \\right)$$"
+        }
+      ],
+      "answer": "D",
+      "explanation": "Potential in a region V = 6xy – y + 2yz <br><br>\nAs we know the relation between electric<br>\npotential and electric field is $$\\overrightarrow E  = {{ - dV} \\over {dx}}$$<br><br>\n$$\\overrightarrow E  = \\left( {{{\\partial V} \\over {\\partial x}}\\widehat i + {{\\partial V} \\over {\\partial y}}\\widehat j + {{\\partial V} \\over {\\partial z}}\\widehat k} \\right)$$<br><br>\n$$\\overrightarrow E  = \\left[ {\\left( {6y\\widehat i + \\left( {6x - 1 + 2z} \\right)\\widehat j + \\left( {2y} \\right)\\widehat k} \\right)} \\right]$$<br><br>\n$${\\overrightarrow E _{\\left( {1,1,0} \\right)}} =  - \\left( {6\\widehat i + 5\\widehat j + 2\\widehat k} \\right)$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The electric field in a certain region is acting radially outward and is given by E = Ar. A charge contained in a sphere of radius 'a' centred at the origin of the field, will be given by",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$4\\pi {\\varepsilon _0}A{a^3}$$"
+        },
+        {
+          "key": "B",
+          "value": "$${\\varepsilon _0}A{a^3}$$"
+        },
+        {
+          "key": "C",
+          "value": "$$4\\pi {\\varepsilon _0}A{a^2}$$"
+        },
+        {
+          "key": "D",
+          "value": "$$A{\\varepsilon _0}{a^2}$$"
+        }
+      ],
+      "answer": "A",
+      "explanation": "According to question, electric field varies as <br><br>\nE = Ar  <br><br>\nHere r is the radial distance. <br><br>\nAt r = a, E = Aa  &nbsp;&nbsp;&nbsp; …(i) <br><br>\nNet flux emitted from a spherical surface of radius a is $${\\phi _{net}} = {{{q_{en}}} \\over {{\\varepsilon _0}}}$$<br><br>\n$$ \\Rightarrow \\left( {Aa} \\right) \\times \\left( {4\\pi {a^2}} \\right) = {q \\over {{\\varepsilon _0}}}$$&nbsp;&nbsp;&nbsp;[Using equation (i)] <br><br>\n$$ \\therefore q = 4\\pi {\\varepsilon _0}A{a^3}$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A conducting sphere of radius R is given a charge Q. The electric potential and the electric field at the centre of the sphere rrespectively are ",
+      "options": [
+        {
+          "key": "A",
+          "value": "zero and $${Q \\over {4\\pi {\\varepsilon _0}{R^2}}}$$"
+        },
+        {
+          "key": "B",
+          "value": "$${Q \\over {4\\pi {\\varepsilon _0}R}}$$ and zero"
+        },
+        {
+          "key": "C",
+          "value": "$${Q \\over {4\\pi {\\varepsilon _0}R}}$$ and $${Q \\over {4\\pi {\\varepsilon _0}{R^2}}}$$ "
+        },
+        {
+          "key": "D",
+          "value": "both are zero"
+        }
+      ],
+      "answer": "B",
+      "explanation": "For the conducting sphere,<br> Potential at the centre = Potential on the sphere<br><br>\n $$ = {1 \\over {4\\pi {\\varepsilon _0}}}{Q \\over R}$$<br><br>\nElectric field at the centre = 0"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "In a region, the potential is represented by V(x, y, z) = 6x $$-$$ 8xy $$-$$ 8y + 6yz, &nbsp;&nbsp;where $$V$$ is in volts and x, y, z are in metres. The electric force experienced by a charge of 2 coulomb situated at point (1, 1, 1) is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$6\\sqrt 5 $$ N"
+        },
+        {
+          "key": "B",
+          "value": "30 N"
+        },
+        {
+          "key": "C",
+          "value": "24 N"
+        },
+        {
+          "key": "D",
+          "value": "$$4\\sqrt {35} $$ N"
+        }
+      ],
+      "answer": "D",
+      "explanation": "$$\\overrightarrow E  =  - {{\\partial V} \\over {\\partial x}}\\widehat i - {{\\partial V} \\over {\\partial y}}\\widehat j - {{\\partial V} \\over {\\partial z}}\\widehat k$$<br><br>\n$$ =  - \\left[ {\\left( {6 - 8y} \\right)\\widehat i + \\left( { - 8x - 8 + 6z} \\right)\\widehat j + \\left( {6y} \\right)\\widehat k} \\right]$$<br><br>\nAt (1, 1, 1),  $$\\overrightarrow E  = 2\\widehat i + 10\\widehat j - 6\\widehat k$$<br><br>\n$$ \\Rightarrow \\left( {\\overrightarrow E } \\right) = \\sqrt {{2^2} + {{10}^2} + {6^2}}  = \\sqrt {140}  = 2\\sqrt {35} $$<br><br>\n$$ \\therefore F = q\\overrightarrow E  = 2 \\times 2\\sqrt {35}  = 4\\sqrt {35} $$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "An electric dipole of dipole moment p is aligned parallel to a uniform electric field E. The energy required to rotate the dipole by 90<sup>o</sup> is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "p<sup>2</sup> E"
+        },
+        {
+          "key": "B",
+          "value": "pE"
+        },
+        {
+          "key": "C",
+          "value": "infinity "
+        },
+        {
+          "key": "D",
+          "value": "pE<sup>2</sup>"
+        }
+      ],
+      "answer": "B",
+      "explanation": "Potential energy of dipole, <br>$$U =  - pE\\left( {\\cos {\\theta _2} - \\cos {\\theta _1}} \\right)$$<br><br>\nHere, $${\\theta _1} = {0^o},{\\theta _2} = {90^o}$$<br><br>\n$$ \\therefore $$ U = – pE(cos90° – cos0°) = – pE(0 – 1) = pE"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Two metallic spheres of radii 1 cm and 3 cm are given charges of $$-$$1 $$ \\times $$ 10<sup>$$-$$2</sup> C and 5 $$ \\times $$  10<sup>$$-$$2</sup> C, respectively. If these are connected by a conducting wire, the final charge on the bigger sphere is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "2 $$ \\times $$ 10<sup>$$-$$2</sup> C"
+        },
+        {
+          "key": "B",
+          "value": "3 $$ \\times $$ 10<sup>$$-$$2</sup> C"
+        },
+        {
+          "key": "C",
+          "value": "4 $$ \\times $$ 10<sup>$$-$$2</sup> C"
+        },
+        {
+          "key": "D",
+          "value": "1 $$ \\times $$ 10<sup>$$-$$2</sup> C"
+        }
+      ],
+      "answer": "B",
+      "explanation": "At equilibrium potential of both sphere becomes same if charge of sphere one x and other sphere Q – x<br> then where  Q = 4 × 10<sup>–2 </sup>C <br><br>\nv<sub>1</sub><sub></sub> = v<sub>2</sub><br><br>\n$${{kx} \\over {1\\,cm}} = {{k\\left( {Q - x} \\right)} \\over {3\\,cm}}$$<br><br>\n3x = Q – x   $$ \\Rightarrow $$   4x = Q<br><br>\n$$x = {Q \\over 4} = {{4 \\times {{10}^{ - 2}}} \\over 4}C = 1 \\times {10^{ - 2}}$$<br><br>\nQ' = Q – x = 3 × 10<sup>–2</sup> C"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "An electric dipole of moment p is placed in an electric field of intensity E. The dipole acquires a position such that the axis of the dipole makes an angle $$\\theta $$ with the direction of the field. Assuming that the potential energy of the dipole to be zero when $$\\theta $$ = 90<sup>o</sup>, the torque and the potential energy of the dipole will respectively be ",
+      "options": [
+        {
+          "key": "A",
+          "value": "pEsin$$\\theta $$, &nbsp;$$-$$pEcos$$\\theta $$"
+        },
+        {
+          "key": "B",
+          "value": "pEsin$$\\theta $$, &nbsp;$$-$$2pEcos$$\\theta $$"
+        },
+        {
+          "key": "C",
+          "value": "pEsin$$\\theta $$,&nbsp;2pEcos$$\\theta $$"
+        },
+        {
+          "key": "D",
+          "value": "pEcos$$\\theta $$, &nbsp;$$-$$pEsin$$\\theta $$"
+        }
+      ],
+      "answer": "A",
+      "explanation": "Torque, $$\\tau $$ = pEsin$$\\theta $$<br><br>Potential energy, U = –pEcos$$\\theta $$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The electric potential V at any point (x, y, z), all in metres in space is given by V = 4x<sup>2</sup> volt. The electric field at the point (1, 0, 2) in volt/meter, is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "8 along negative X-axis "
+        },
+        {
+          "key": "B",
+          "value": "8 along positive X-axis "
+        },
+        {
+          "key": "C",
+          "value": "16 along negative X-axis "
+        },
+        {
+          "key": "D",
+          "value": "16 along positive X-axis"
+        }
+      ],
+      "answer": "A",
+      "explanation": "$$\\overrightarrow E  =  - \\overrightarrow \\nabla  V$$<br><br>\nwhere $$\\overrightarrow \\nabla   = \\widehat i{\\partial  \\over {\\partial x}} + \\widehat j{\\partial  \\over {\\partial y}} + {\\partial  \\over {\\partial z}}$$<br><br>\n$$\\overrightarrow E  =  - \\left[ {\\widehat i{{\\partial V} \\over {\\partial x}} + \\widehat j{{\\partial V} \\over {\\partial y}} + \\widehat k{{\\partial V} \\over {\\partial z}}} \\right]$$<br><br>\nHere, V = 4x<sup>2</sup><br>$$ \\therefore \\overrightarrow E  =  - 8x\\widehat i$$<br><br>\nThe electric field at point (1, 0, 2) is <br><br>\n$${\\overrightarrow E _{\\left( {1,0,2} \\right)}} =  - 8\\widehat iV{m^{ - 1}}$$<br><br>\nSo electric field is along the negative X-axis."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A charge Q is enclosed  by a Gaussian spherical surface of radius R. If the radius is doubled, then the outward electric flux will ",
+      "options": [
+        {
+          "key": "A",
+          "value": "increase four times"
+        },
+        {
+          "key": "B",
+          "value": "be reduced to half"
+        },
+        {
+          "key": "C",
+          "value": "remain the same"
+        },
+        {
+          "key": "D",
+          "value": "be doubled "
+        }
+      ],
+      "answer": "C",
+      "explanation": "According to Gauss’s law <br><br>\n$${\\phi _E} = {{{Q_{enclosed}}} \\over {{\\varepsilon _0}}}$$<br><br>\nIf the radius of the Gaussian surface is doubled, the outward electric flux will remain the same. This is because electric flux depends only on the charge enclosed by the surface. "
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The electric field at a distance $${{3R} \\over 2}$$ from the centre of a charged conducting spherical shell of radius R is E. The electric field at a distance $${R \\over 2}$$ from the centre of the sphere is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "zero"
+        },
+        {
+          "key": "B",
+          "value": "E"
+        },
+        {
+          "key": "C",
+          "value": "$${E \\over 2}$$"
+        },
+        {
+          "key": "D",
+          "value": "$${E \\over 3}$$"
+        }
+      ],
+      "answer": "A",
+      "explanation": "Electric field inside a charged conductor is always zero.\n"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Two positives ions, each carrying a charge q, are separated by a distance d. If F is the force of repulsion between the ions, the number of electrons missing from each ion will be (e being the charge on an electron) ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$${{4\\pi {\\varepsilon _0}F{d^2}} \\over {{e^2}}}$$"
+        },
+        {
+          "key": "B",
+          "value": "$$\\sqrt {{{4\\pi {\\varepsilon _0}F{e^2}} \\over {{d^2}}}} $$"
+        },
+        {
+          "key": "C",
+          "value": "$$\\sqrt {{{4\\pi {\\varepsilon _0}F{d^2}} \\over {{e^2}}}} $$"
+        },
+        {
+          "key": "D",
+          "value": "$${{4\\pi {\\varepsilon _0}F{d^2}} \\over {{q^2}}}$$"
+        }
+      ],
+      "answer": "C",
+      "explanation": "According to Coulomb’s law, the force of repulsion between the two positive ions each of charge q, separated by a distance d is given by <br><br>\n$$F = {1 \\over {4\\pi {\\varepsilon _0}}}{{\\left( q \\right)\\left( q \\right)} \\over {{d^2}}}$$<br><br>\n$$F = {{{q^2}} \\over {4\\pi {\\varepsilon _0}{d^2}}}$$<br><br>\n$${q^2} = 4\\pi {\\varepsilon _0}F{d^2}$$<br><br>\n$$q = \\sqrt {4\\pi {\\varepsilon _0}F{d^2}} $$&nbsp;&nbsp;&nbsp;...(i)<br><br>\nSince, q = ne <br>\nwhere, n = number of electrons missing from each ion<br> e = magnitude of charge on electron<br><br>\n$$ \\therefore n = {q \\over e}$$<br><br>\n$$n = {{\\sqrt {4\\pi {\\varepsilon _0}F{d^2}} } \\over e}$$&nbsp;&nbsp;&nbsp;(Using (i))\n <br><br>\n= $$\\sqrt {{{4\\pi {\\varepsilon _0}F{d^2}} \\over {{e^2}}}} $$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Three concentric spherical shells have radii a, b and c (a &lt; b &lt; c) anf have surface charge densities $$\\sigma $$, $$-$$$$\\sigma $$ and $$\\sigma $$ respectively. If V<sub>A</sub>, V<sub>B</sub> and V<sub>C</sub> denote the potentials of the three shells, then, for c = a + b, we have",
+      "options": [
+        {
+          "key": "A",
+          "value": "V<sub>C</sub> = V<sub>B</sub> $$ \\ne $$ V<sub>A</sub>"
+        },
+        {
+          "key": "B",
+          "value": "V<sub>C</sub> $$ \\ne $$ V<sub>B</sub> $$ \\ne $$ V<sub>A</sub>"
+        },
+        {
+          "key": "C",
+          "value": "V<sub>C</sub> = V<sub>B</sub> = V<sub>A</sub>"
+        },
+        {
+          "key": "D",
+          "value": "V<sub>C</sub> = V<sub>A</sub> $$ \\ne $$ V<sub>B</sub>"
+        }
+      ],
+      "answer": "D",
+      "explanation": "$${V_A} = {1 \\over {4\\pi {\\varepsilon _0}}}\\left\\{ {{{qA} \\over a} + {{qB} \\over b} + {{qC} \\over c}} \\right\\}$$<br><br>\n$$ = {{4\\pi } \\over {4\\pi {\\varepsilon _0}}}\\left\\{ {{{{a^2}\\sigma } \\over a} - {{{b^2}\\sigma } \\over b} + {{{c^2}\\sigma } \\over c}} \\right\\}$$<br><br>\n$${V_A} = {1 \\over {{\\varepsilon _0}}}\\left\\{ {{{{a^2}\\sigma } \\over a} - {{{b^2}\\sigma } \\over b} + {{{c^2}\\sigma } \\over c}} \\right\\}$$<br><br>\n$${V_B} = {1 \\over {{\\varepsilon _0}}}\\left\\{ {{{{a^2}\\sigma } \\over a} - {{{b^2}\\sigma } \\over b} + {{{c^2}\\sigma } \\over c}} \\right\\}$$<br><br>\n$${V_C} = {1 \\over {{\\varepsilon _0}}}\\left\\{ {{{{a^2}\\sigma } \\over a} - {{{b^2}\\sigma } \\over b} + {{{c^2}\\sigma } \\over c}} \\right\\}$$<br><br>\nGiven c = a + b. <br>If a = a, b = 2a and c = 3a for example, as c &gt; b &gt; a, <br><br>\n$${V_A} = {1 \\over {{\\varepsilon _0}}}\\left\\{ {{{{a^2}\\sigma } \\over a} - {{4{b^2}\\sigma } \\over {2a}} + {{{c^2}\\sigma } \\over c}} \\right\\}$$<br><br>\n$${V_B} = {1 \\over {{\\varepsilon _0}}}\\left\\{ {{{{a^2}\\sigma } \\over {2a}} - {{4{a^2}\\sigma } \\over {2a}} + {{{c^2}\\sigma } \\over c}} \\right\\}$$<br><br>\n$${V_C} = {1 \\over {{\\varepsilon _0}}}\\left\\{ {{{{a^2}\\sigma } \\over {3a}} - {{4{a^2}\\sigma } \\over {3a}} + {{{c^2}\\sigma } \\over c}} \\right\\}$$<br><br>\nIt can seen by taking out common factors that <br>\nV<sub>A</sub> = V<sub>C</sub> &gt; V<sub>B</sub>    i.e.,  V<sub>A</sub> = V<sub>C</sub> $$ \\ne $$ V<sub>B</sub>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The electric potential at a point (x, y, z) is given by V = $$-$$x<sup>2</sup>y $$-$$ xz<sup>3</sup> + 4\n<br><br>The electric field at that point is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$\\overrightarrow E  = \\widehat i2xy + \\widehat j\\left( {{x^2} + {y^2}} \\right) + \\widehat k\\left( {3xz - {y^2}} \\right)$$"
+        },
+        {
+          "key": "B",
+          "value": "$$\\overrightarrow E  = \\widehat i{z^3} + \\widehat jxyz + \\widehat k{z^2}$$"
+        },
+        {
+          "key": "C",
+          "value": "$$\\overrightarrow E  = \\widehat i\\left( {2xy - {z^3}} \\right) + \\widehat jx{y^2} + \\widehat k3{z^2}x$$"
+        },
+        {
+          "key": "D",
+          "value": "$$\\overrightarrow E  = \\widehat i\\left( {2xy + {z^3}} \\right) + \\widehat j{x^2} + \\widehat k3x{z^2}$$"
+        }
+      ],
+      "answer": "D",
+      "explanation": "The electric potential at a point,<br> V = –x<sup>2</sup>y – xz<sup>3</sup> + 4. <br><br>\nThe field<br>\n$$\\overrightarrow E  =  - \\overrightarrow \\nabla  V =  - \\left( {{{\\partial V} \\over {\\partial x}}\\widehat i + {{\\partial V} \\over {\\partial y}}\\widehat j + {{\\partial V} \\over {\\partial z}}\\widehat k} \\right)$$<br><br>\n$$ \\therefore \\overrightarrow E  = \\widehat i\\left( {2xy + {z^3}} \\right) + \\widehat j{x^2} + \\widehat k\\left( {3x{z^2}} \\right)$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The electric potential at a point in free space due to charge Q coulomb is Q $$ \\times $$ 10<sup>11</sup> volts. The electric field at that point is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$4\\pi {\\varepsilon _0}Q \\times {10^{20}}$$ volt/m"
+        },
+        {
+          "key": "B",
+          "value": "12$$\\pi $$<sub>0</sub>Q $$ \\times $$ 10<sup>22</sup> volt/m"
+        },
+        {
+          "key": "C",
+          "value": "$$4\\pi {\\varepsilon _0}Q \\times {10^{22}}$$ volt/m"
+        },
+        {
+          "key": "D",
+          "value": "$$12\\pi {\\varepsilon _0}Q \\times {10^{20}}$$ volt/m"
+        }
+      ],
+      "answer": "C",
+      "explanation": "$$V = {1 \\over {4\\pi {\\varepsilon _0}}} \\times {Q \\over R}$$<br><br>\n= Q × 10<sup>11</sup> volt&nbsp;&nbsp;&nbsp;   …(i) <br><br>\n$$E = {1 \\over {4\\pi {\\varepsilon _0}}} \\times {Q \\over {{R^2}}}$$<br><br>\n= V/R = Q × 10<sup>11</sup> × $${4\\pi {\\varepsilon _0}}$$ × 10<sup>11</sup>&nbsp;&nbsp;&nbsp; from ...(i) <br><br>\n= $${4\\pi {\\varepsilon _0}}$$  × Q × 10<sup>22</sup> volt/m"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "An electric dipole of moment $$\\overrightarrow p $$ is lying along a uniform electric field $$\\overrightarrow E $$. The work done in rotating the dipole by 90<sup>o</sup> is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "pE"
+        },
+        {
+          "key": "B",
+          "value": "$$\\sqrt 2 pE$$"
+        },
+        {
+          "key": "C",
+          "value": "pE/2"
+        },
+        {
+          "key": "D",
+          "value": "2pE"
+        }
+      ],
+      "answer": "A",
+      "explanation": "Work done in deflecting a dipole through an angle $$\\theta $$ is given by<br><br>\n$$W = \\int\\limits_0^\\theta  {pE\\sin \\theta d\\theta }  = pE\\left( {1 - \\cos \\theta } \\right)$$<br><br>\nSince $$\\theta $$ = 90° <br><br>\n$$ \\therefore $$ W = pE(1 – cos90°)  $$ \\Rightarrow $$  W = pE\n"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A bullet of mass 2 g is having a charge of 2 $$\\mu $$C. Through what potential difference must it be accelerated, starting from rst, to acquire a speed of 10 m/s ? ",
+      "options": [
+        {
+          "key": "A",
+          "value": "5 kV"
+        },
+        {
+          "key": "B",
+          "value": "50 kV"
+        },
+        {
+          "key": "C",
+          "value": "5 V"
+        },
+        {
+          "key": "D",
+          "value": "50 V"
+        }
+      ],
+      "answer": "B",
+      "explanation": "Using $${1 \\over 2}m{v^2} = qV$$<br><br>\n$$V = {1 \\over 2} \\times {{2 \\times {{10}^{ - 3}} \\times 10 \\times 10} \\over {2 \\times {{10}^{ - 6}}}} = 50\\,kV$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A charge q is located at the centre of a cube. The electric flux through any face is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$${{2\\pi q} \\over {6\\left( {4\\pi {\\varepsilon _0}} \\right)}}$$"
+        },
+        {
+          "key": "B",
+          "value": "$${{4\\pi q} \\over {6\\left( {4\\pi {\\varepsilon _0}} \\right)}}$$"
+        },
+        {
+          "key": "C",
+          "value": "$${{\\pi q} \\over {6\\left( {4\\pi {\\varepsilon _0}} \\right)}}$$"
+        },
+        {
+          "key": "D",
+          "value": "$${q \\over {6\\left( {4\\pi {\\varepsilon _0}} \\right)}}$$"
+        }
+      ],
+      "answer": "B",
+      "explanation": "The total flux through the cube $${\\phi _{total}} = {q \\over {{\\varepsilon _0}}}$$<br><br>\n$$ \\therefore $$ The electric flux through any face\n<br>\n$${\\phi _{face}} = {q \\over {6{\\varepsilon _0}}} = {{4\\pi q} \\over {6\\left( {4\\pi {\\varepsilon _0}} \\right)}}$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Some charge is being given to a conductor. Then its potential is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "maximum at surface "
+        },
+        {
+          "key": "B",
+          "value": "maximum at centre"
+        },
+        {
+          "key": "C",
+          "value": "remain same throughout the conductor "
+        },
+        {
+          "key": "D",
+          "value": "maximum somewhere between surface and centre. "
+        }
+      ],
+      "answer": "C",
+      "explanation": "Electric field intensity E is zero within a conductor due to charge given to it. <br><br>\nAlso, $$E =  - {{dV} \\over {dx}} \\Rightarrow {{dV} \\over {dx}} = 0$$&nbsp;&nbsp;&nbsp;(inside the conductor)<br><br>$$ \\therefore $$  V = constant. [V is potential] <br><br>So potential remains same throughout the conductor."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Identical charges ($$-$$q) are placed at each corners of cube of side b then electrostatic potential energy of charge (+q) which is placed at centre of cube will be ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$${{ - 4\\sqrt 2 {q^2}} \\over {\\pi {\\varepsilon _0}b}}$$"
+        },
+        {
+          "key": "B",
+          "value": "$${{ - 8\\sqrt 2 {q^2}} \\over {\\pi {\\varepsilon _0}b}}$$"
+        },
+        {
+          "key": "C",
+          "value": "$${{ - 4\\,{q^2}} \\over {\\sqrt 3 \\,\\pi {\\varepsilon _0}b}}$$"
+        },
+        {
+          "key": "D",
+          "value": "$${{8\\sqrt 2 \\,{q^2}} \\over {4\\,\\pi {\\varepsilon _0}b}}$$"
+        }
+      ],
+      "answer": "C",
+      "explanation": "There are eight corners of a cube and in each corner there is a charge of (–q). At the centre of the corner there is a charge of (+q). Each corner is equidistant from the centres of the cube and the distance (d) is half of the diagonals of the cube. <br><br>\nDiagonal of the cube = $$\\sqrt {{b^2} + {b^2} + {b^2}}  = \\sqrt 3 b$$<br><br>\n$$ \\therefore $$ $$d = \\sqrt 3 b/2$$<br><br>\nNow, electric potential energy of the charge (+q) due to a charge (–q) at one corner <br><br>\nU $$ = {{{q_1}{q_2}} \\over {4\\pi {\\varepsilon _0}r}} = {{\\left( { + q} \\right) \\times \\left( { - q} \\right)} \\over {4\\pi {\\varepsilon _0}\\left( {\\sqrt 3 b/2} \\right)}} =  - {{{q^2}} \\over {2\\pi {\\varepsilon _0}\\left( {\\sqrt 3 b} \\right)}}$$<br><br>\n$$ \\therefore $$ Total electric potential energy due to all the eight identical charges<br>\n= $$8U =  - {{8{q^2}} \\over {2\\pi {\\varepsilon _0}\\sqrt 3 b}} = {{ - 4{q^2}} \\over {\\sqrt 3 \\pi {\\varepsilon _0}b}}$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A charge Q$$\\mu $$C is placed at the centre of a cube, the flux coming out from each face will be ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$${Q \\over {6{\\varepsilon _0}}} \\times {10^{ - 6}}$$"
+        },
+        {
+          "key": "B",
+          "value": "$${Q \\over {6{\\varepsilon _0}}} \\times {10^{ - 3}}$$"
+        },
+        {
+          "key": "C",
+          "value": "$${Q \\over {24{\\varepsilon _0}}}$$"
+        },
+        {
+          "key": "D",
+          "value": "$${Q \\over {8{\\varepsilon _0}}}$$"
+        }
+      ],
+      "answer": "A",
+      "explanation": "For complete cube  $$\\phi  = {Q \\over {{\\varepsilon _0}}} \\times {10^{ - 6}}$$<br><br>\nFor each face $$\\phi  = {1 \\over 6}{Q \\over {{\\varepsilon _0}}} \\times {10^{ - 6}}$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A dipole of dipole moment $$\\overrightarrow p $$ is placed in uniform electric  field $$\\overrightarrow E $$ then torque acting on it is given by ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$\\overrightarrow \\tau   = \\overrightarrow p .\\overrightarrow E $$"
+        },
+        {
+          "key": "B",
+          "value": "$$\\overrightarrow \\tau   = \\overrightarrow p  \\times \\overrightarrow E $$"
+        },
+        {
+          "key": "C",
+          "value": "$$\\overrightarrow \\tau   = \\overrightarrow p  + \\overrightarrow E $$"
+        },
+        {
+          "key": "D",
+          "value": "$$\\overrightarrow \\tau   = \\overrightarrow p  - \\overrightarrow E $$"
+        }
+      ],
+      "answer": "B",
+      "explanation": "When an electric dipole is placed in a uniform electrical field $$\\overrightarrow E $$, the torque on the dipole is given by<br><br>$$\\overrightarrow \\tau   = \\overrightarrow p  \\times \\overrightarrow E $$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A charge Q is situated at the corner of a cube, the electric flux passed through all the six faces of the cube is  ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$${Q \\over {6{\\varepsilon _0}}}$$"
+        },
+        {
+          "key": "B",
+          "value": "$${Q \\over {8{\\varepsilon _0}}}$$"
+        },
+        {
+          "key": "C",
+          "value": "$${Q \\over {{\\varepsilon _0}}}$$"
+        },
+        {
+          "key": "D",
+          "value": "$${Q \\over {2{\\varepsilon _0}}}$$"
+        }
+      ],
+      "answer": "C",
+      "explanation": "According to Gauss's theorem, electric flux through a closed surface = $${Q \\over {{\\varepsilon _0}}}$$ where q is charge enclosed by the surface. "
+    }
+  ]
+}

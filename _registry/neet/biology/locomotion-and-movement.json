@@ -1,0 +1,1255 @@
+{
+  "_index": {
+    "name": "Locomotion and Movement"
+  },
+  "_children": [
+    {
+      "_type": "single_mcq",
+      "body": "<p>Match List-I with List-II:</p>\n<p><style type=\"text/css\">\n.tg  {border-collapse:collapse;border-spacing:0;}\n.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}\n.tg .tg-7btt{border-color:inherit;font-weight:bold;text-align:center;vertical-align:top}\n.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}\n</style>\n<table class=\"tg\" style=\"undefined;table-layout: fixed; width: 746px\"><colgroup>\n<col style=\"width: 78px\">\n<col style=\"width: 262px\">\n<col style=\"width: 83px\">\n<col style=\"width: 323px\">\n</colgroup>\n<thead>\n  <tr>\n    <th class=\"tg-7btt\"></th>\n    <th class=\"tg-7btt\">List - I<br>Location of Joint</th>\n    <th class=\"tg-7btt\"></th>\n    <th class=\"tg-7btt\">List - II<br>Type of Joint</th>\n  </tr></thead>\n<tbody>\n  <tr>\n    <td class=\"tg-c3ow\">(A)</td>\n    <td class=\"tg-0pky\">Joint between humerus and pectoral girdle</td>\n    <td class=\"tg-c3ow\">(I)</td>\n    <td class=\"tg-0pky\">Gliding joint</td>\n  </tr>\n  <tr>\n    <td class=\"tg-c3ow\">(B)</td>\n    <td class=\"tg-0pky\">Knee joint</td>\n    <td class=\"tg-c3ow\">(II)</td>\n    <td class=\"tg-0pky\">Ball and Socket joint</td>\n  </tr>\n  <tr>\n    <td class=\"tg-c3ow\">(C)</td>\n    <td class=\"tg-0pky\">Joint between atlas and axis</td>\n    <td class=\"tg-c3ow\">(III)</td>\n    <td class=\"tg-0pky\">Hinge joint</td>\n  </tr>\n  <tr>\n    <td class=\"tg-c3ow\">(D)</td>\n    <td class=\"tg-0pky\">Joint between carpals</td>\n    <td class=\"tg-c3ow\">(IV)</td>\n    <td class=\"tg-0pky\">Pivot joint</td>\n  </tr>\n</tbody>\n</table></p>\n<p>Chose the correct answer from the options given below:</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "A-II, B-III, C-IV, D-I \n"
+        },
+        {
+          "key": "B",
+          "value": "A-III, B-II, C-I, D-IV\n"
+        },
+        {
+          "key": "C",
+          "value": "A-I, B-IV, C-III, D-II\n"
+        },
+        {
+          "key": "D",
+          "value": "A-II, B-I, C-III, D-IV"
+        }
+      ],
+      "answer": "A",
+      "explanation": "<p>To match the items in List-I (Location of Joint) with items in List-II (Type of Joint), consider the following relationships:</p>\n\n<p><strong>(A)</strong> Joint between humerus and pectoral girdle: This is a ball and socket joint because the humerus fits into the glenoid cavity of the pectoral girdle allowing a wide range of movement in all directions.</p>\n\n<p><strong>(B)</strong> Knee joint: This is a hinge joint, allowing movement primarily in one direction (flexion and extension).</p>\n\n<p><strong>(C)</strong> Joint between atlas and axis: This is a pivot joint because the atlas (C1 vertebra) rotates around the axis (C2 vertebra), allowing for the rotation of the head.</p>\n\n<p><strong>(D)</strong> Joint between carpals: This is a gliding joint because the bones in the wrist (carpals) slide over each other, allowing limited movement in various directions.</p>\n\n<p>With this understanding, let's match List-I with List-II:</p>\n\n<table class=\"tg\">\n\n<thead>\n\n<tr>\n\n<th class=\"tg-7btt\"></th>\n\n<th class=\"tg-7btt\">List - I<br>Location of Joint</th>\n\n<th class=\"tg-7btt\"></th>\n\n<th class=\"tg-7btt\">List - II<br>Type of Joint</th>\n\n</tr>\n\n</thead>\n\n<tbody>\n\n<tr>\n\n<td class=\"tg-c3ow\">(A)</td>\n\n<td class=\"tg-0pky\">Joint between humerus and pectoral girdle</td>\n\n<td class=\"tg-c3ow\">(II)</td>\n\n<td class=\"tg-0pky\">Ball and Socket joint</td>\n\n</tr>\n\n<tr>\n\n<td class=\"tg-c3ow\">(B)</td>\n\n<td class=\"tg-0pky\">Knee joint</td>\n\n<td class=\"tg-c3ow\">(III)</td>\n\n<td class=\"tg-0pky\">Hinge joint</td>\n\n</tr>\n\n<tr>\n\n<td class=\"tg-c3ow\">(C)</td>\n\n<td class=\"tg-0pky\">Joint between atlas and axis</td>\n\n<td class=\"tg-c3ow\">(IV)</td>\n\n<td class=\"tg-0pky\">Pivot joint</td>\n\n</tr>\n\n<tr>\n\n<td class=\"tg-c3ow\">(D)</td>\n\n<td class=\"tg-0pky\">Joint between carpals</td>\n\n<td class=\"tg-c3ow\">(I)</td>\n\n<td class=\"tg-0pky\">Gliding joint</td>\n\n</tr>\n\n</tbody>\n\n</table>\n\n<p>From the matching, the correct answer is:</p>\n\n<p>Option A: A-II, B-III, C-IV, D-I.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Select the correct statements regarding mechanism of muscle contraction.</p>\n<p>A. It is initiated by a signal sent by CNS via sensory neuron.</p>\n<p>B. Neurotransmitter generates action potential in the sarcolemma.</p>\n<p>C. Increased Ca$$^{++}$$ level leads to the binding of calcium with troponin on action filaments.</p>\n<p>D. Masking of active site for actin is activated.</p>\n<p>E. Utilising the energy from ATP hydrolysis to form cross bridge.</p>\n<p>Choose the most appropriate answer from the options given below:</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "B, C and E only \n"
+        },
+        {
+          "key": "B",
+          "value": "C, D and E only\n"
+        },
+        {
+          "key": "C",
+          "value": "A and D only \n"
+        },
+        {
+          "key": "D",
+          "value": "B, D and E only"
+        }
+      ],
+      "answer": "A",
+      "explanation": "<p>Let's analyze each statement to determine its correctness regarding the mechanism of muscle contraction:</p>\n\n<p><strong>Statement A: It is initiated by a signal sent by CNS via sensory neuron.</strong></p>\n\n<p>This statement is incorrect because the signal for muscle contraction is sent by the central nervous system (CNS) via a motor neuron, not a sensory neuron. Sensory neurons carry information from sensory receptors to the CNS, whereas motor neurons carry signals from the CNS to muscles.</p>\n\n<p><strong>Statement B: Neurotransmitter generates action potential in the sarcolemma.</strong></p>\n\n<p>This statement is correct. When a motor neuron releases the neurotransmitter (typically acetylcholine) at the neuromuscular junction, it binds to receptors on the muscle cell membrane (sarcolemma) and generates an action potential.</p>\n\n<p><strong>Statement C: Increased Ca$$^{++}$$ level leads to the binding of calcium with troponin on actin filaments.</strong></p>\n\n<p>This statement is correct. When the action potential travels along the sarcolemma and into the muscle via T-tubules, it triggers the release of Ca$$^{++}$$ from the sarcoplasmic reticulum. The increase in Ca$$^{++}$$ levels leads to calcium binding with troponin on actin filaments.</p>\n\n<p><strong>Statement D: Masking of active site for actin is activated.</strong></p>\n\n<p>This statement is incorrect. The active sites on actin are initially masked by the protein tropomyosin. When Ca$$^{++}$$ binds to troponin, it causes a conformational change that moves tropomyosin away from the active sites on actin, thus exposing them for myosin binding. Therefore, masking is deactivated rather than activated.</p>\n\n<p><strong>Statement E: Utilising the energy from ATP hydrolysis to form cross bridge.</strong></p>\n\n<p>This statement is correct. The hydrolysis of ATP provides the energy necessary for the myosin heads to attach to actin, forming cross-bridges, and to perform the power stroke which leads to muscle contraction.</p>\n\n<p>Based on this analysis, the correct statements are B, C, and E.</p>\n\n<p><strong>The most appropriate answer is Option A (B, C and E only).</strong></p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Match List I with List II :</p>\n<p><style type=\"text/css\">\n.tg  {border-collapse:collapse;border-spacing:0;}\n.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}\n.tg .tg-7btt{border-color:inherit;font-weight:bold;text-align:center;vertical-align:top}\n.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}\n</style>\n<table class=\"tg\" style=\"undefined;table-layout: fixed; width: 635px\">\n<colgroup>\n<col style=\"width: 71px\">\n<col style=\"width: 195px\">\n<col style=\"width: 74px\">\n<col style=\"width: 295px\">\n</colgroup>\n<thead>\n  <tr>\n    <th class=\"tg-7btt\"></th>\n    <th class=\"tg-7btt\">List - I</th>\n    <th class=\"tg-7btt\"></th>\n    <th class=\"tg-7btt\">List - II</th>\n  </tr>\n</thead>\n<tbody>\n  <tr>\n    <td class=\"tg-c3ow\">A.</td>\n    <td class=\"tg-0pky\">Fibrous joints</td>\n    <td class=\"tg-c3ow\">I.</td>\n    <td class=\"tg-0pky\">Adjacent vertebrae, limited movement</td>\n  </tr>\n  <tr>\n    <td class=\"tg-c3ow\">B.</td>\n    <td class=\"tg-0pky\">Cartilaginous joints  </td>\n    <td class=\"tg-c3ow\">II.</td>\n    <td class=\"tg-0pky\">Humerus and Pectoral girdle, rotational movement</td>\n  </tr>\n  <tr>\n    <td class=\"tg-c3ow\">C.</td>\n    <td class=\"tg-0pky\">Hinge joints</td>\n    <td class=\"tg-c3ow\">III.</td>\n    <td class=\"tg-0pky\">Skull, don't allow any movement</td>\n  </tr>\n  <tr>\n    <td class=\"tg-c3ow\">D.</td>\n    <td class=\"tg-0pky\">Ball and socket joints</td>\n    <td class=\"tg-c3ow\">IV.</td>\n    <td class=\"tg-0pky\">Knee, help in locomotion</td>\n  </tr>\n</tbody>\n</table></p>\n<p>Choose the correct answer from the options given below :</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "A-IV, B-II, C-III, D-I\n"
+        },
+        {
+          "key": "B",
+          "value": "A-I, B-III, C-II, D-IV\n"
+        },
+        {
+          "key": "C",
+          "value": "A-II, B-III, C-I, D-IV\n"
+        },
+        {
+          "key": "D",
+          "value": "A-III, B-I, C-IV, D-II"
+        }
+      ],
+      "answer": "D",
+      "explanation": "<p>To match List I (Types of Joints) with List II (Descriptions/Functions), let us consider each type:</p>\n\n<p><strong>Fibrous Joints</strong> (A): These joints are found where bones are closely fitted together, allowing very little or no movement, such as in the sutures of the skull. So, Fibrous joints correspond to:\n\n<strong>III. Skull, don't allow any movement</strong></p>\n\n<p><strong>Cartilaginous Joints</strong> (B): These joints occur where the connection between the articulating bones is made up of cartilage, such as between vertebrae in the spine. These allow for limited movement. So, Cartilaginous joints correspond to:\n\n<strong>I. Adjacent vertebrae, limited movement</strong></p>\n\n<p><strong>Hinge Joints</strong> (C): These include joints like the elbow and knee, where movement is primarily in one axis (like opening and closing a door). So, Hinge joints correspond to:\n\n<strong>IV. Knee, help in locomotion</strong></p>\n\n<p><strong>Ball and Socket Joints</strong> (D): These joints, such as the hip and shoulder joints, allow for a wide range of movement including rotational. So, Ball and socket joints correspond to:\n\n<strong>II. Humerus and Pectoral girdle, rotational movement</strong></p>\n\n<p>The correct matching based on the descriptions and joint types is:</p>\n\n<p>A-III, B-I, C-IV, D-II</p>\n\n<p>Therefore, the correct answer is:</p>\n\n<p><strong>Option D:</strong> A-III, B-I, C-IV, D-II</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Match List I with List II.</p>\n<p><style type=\"text/css\">\n.tg  {border-collapse:collapse;border-spacing:0;}\n.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}\n.tg .tg-7btt{border-color:inherit;font-weight:bold;text-align:center;vertical-align:top}\n.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}\n</style>\n<table class=\"tg\" style=\"undefined;table-layout: fixed; width: 447px\">\n<colgroup>\n<col style=\"width: 49px\">\n<col style=\"width: 154px\">\n<col style=\"width: 54px\">\n<col style=\"width: 190px\">\n</colgroup>\n<thead>\n  <tr>\n    <th class=\"tg-7btt\"></th>\n    <th class=\"tg-7btt\">List I<br>(Type of Joint)</th>\n    <th class=\"tg-7btt\"></th>\n    <th class=\"tg-7btt\">List II<br>(Found between)</th>\n  </tr>\n</thead>\n<tbody>\n  <tr>\n    <td class=\"tg-c3ow\">(A)</td>\n    <td class=\"tg-0pky\">Cartilaginous Joint</td>\n    <td class=\"tg-c3ow\">(I)</td>\n    <td class=\"tg-0pky\">Between flat skull bones</td>\n  </tr>\n  <tr>\n    <td class=\"tg-c3ow\">(B)</td>\n    <td class=\"tg-0pky\">Ball and Socket Joint</td>\n    <td class=\"tg-c3ow\">(II)</td>\n    <td class=\"tg-0pky\">Between adjacent vertebrae in vertebral column</td>\n  </tr>\n  <tr>\n    <td class=\"tg-c3ow\">(C)</td>\n    <td class=\"tg-0pky\">Fibrous Joint</td>\n    <td class=\"tg-c3ow\">(III)</td>\n    <td class=\"tg-0pky\">Between carpal and metacarpal of thumb</td>\n  </tr>\n  <tr>\n    <td class=\"tg-c3ow\">(D)</td>\n    <td class=\"tg-0pky\">Saddle joint</td>\n    <td class=\"tg-c3ow\">(IV)</td>\n    <td class=\"tg-0pky\">Between Humerus and Pectoral girdle</td>\n  </tr>\n</tbody>\n</table></p>\n<p>Choose the correct answer from the options given below:</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "A-II, B-IV, C-I, D-III"
+        },
+        {
+          "key": "B",
+          "value": "A-I, B-IV, C-III, D-II"
+        },
+        {
+          "key": "C",
+          "value": "A-II, B-IV, C-III, D-I"
+        },
+        {
+          "key": "D",
+          "value": "A-III, B-I, C-II, D-IV"
+        }
+      ],
+      "answer": "A",
+      "explanation": "<p>A) Cartilaginous Joint : These joints are connected by cartilage and allow limited movement. They are found between adjacent vertebrae in the vertebral column.\n<br/><br/>B) Ball and Socket Joint : These joints consist of a ball-like structure fitting into a socket, allowing for a wide range of movement. They are found between the humerus and the pectoral girdle.\n<br/><br/>C) Fibrous Joint : These joints are connected by fibrous connective tissue and allow little or no movement. They are found between flat skull bones.\n<br/><br/>D) Saddle Joint : These joints have two bones with concave and convex surfaces that fit together, allowing movement in two planes. They are found between the carpal and metacarpal of the thumb.</p>\n<p>So, the correct matching is :\n<br/><br/>A-II, B-IV, C-I, D-III</p>\n"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Which of the following statements are correct regarding skeletal muscle?</p>\n<p>A. Muscle bundles are held together by collagenous connective tissue layer called fascicle.</p>\n<p>B. Sarcoplasmic reticulum of muscle fibre is a store house of calcium ions.</p>\n<p>C. Striated appearance of skeletal muscle fibre is due to distribution pattern of actin and myosin proteins.</p>\n<p>D. M line is considered as functional unit of contraction called sarcomere.</p>\n<p>Choose the most appropriate answer from the options given below:</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "B and C only"
+        },
+        {
+          "key": "B",
+          "value": "A, C and D only"
+        },
+        {
+          "key": "C",
+          "value": "C and D only"
+        },
+        {
+          "key": "D",
+          "value": "A, B and C only"
+        }
+      ],
+      "answer": "A",
+      "explanation": "<p>Option (A) is the correct answer because statements B and C are only correct statements while A and \nD are incorrect statements.</p>\n<p>Muscle bundles are held together by collagenous connective tissue layer called fascia. Muscle bundles \nare called fascicles. The portion of the myofibril between two successive ‘Z’ lines is considered as \nfunctional unit of contraction called sarcomere.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Choose the correct statement about a muscular tissue</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "Smooth muscles are multinucleated and involuntary."
+        },
+        {
+          "key": "B",
+          "value": "Skeletal muscle fibres are uninucleated and found in parallel bundles."
+        },
+        {
+          "key": "C",
+          "value": "Intercalated discs allow the cardiac muscle cells to contract as a unit."
+        },
+        {
+          "key": "D",
+          "value": "The walls of blood vessels are made up of columnar epithelium."
+        }
+      ],
+      "answer": "C",
+      "explanation": "<p>Option (3) is the correct answer as cardiac muscle fibres possess communication junctions \n(intercalated discs) at some fusion points that allow the cells to contract as unit, i.e., when one cell receives a signal to contract, its neighbours are also stimulated to contract.</p>\n<p>Option (1) is incorrect as smooth muscle fibres are uninucleated.</p>\n<p>Option (2) is incorrect as skeletal muscle fibres are multinucleated.</p>\n<p>Option (4) is incorrect as the wall of blood vessels are made up of simple squamous epithelium.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>According to the sliding filament theory:</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "The actin filaments slide away from A-band resulting in shortening of sarcomere."
+        },
+        {
+          "key": "B",
+          "value": "Actin and myosin filaments slide over each other to increase the length of the sarcomere."
+        },
+        {
+          "key": "C",
+          "value": "Length of A-band does not change"
+        },
+        {
+          "key": "D",
+          "value": "I-band increases in length."
+        }
+      ],
+      "answer": "C",
+      "explanation": "<p>Option (c) is the correct answer because length of A band remains unchanged during muscle contraction.</p>\n<p>Option (a) is incorrect because actin filaments slide towards A-band.</p>\n<p>Option (b) is incorrect because length of sarcomere decreases during muscle contraction.</p>\n<p>Option (d) is incorrect because length of I-band decreases during muscle contraction.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Gout is a type of disorder which leads to:</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "Weakening of bones due to low calcium level"
+        },
+        {
+          "key": "B",
+          "value": "Inflammation of joints due to accumulation of uric acid crystals"
+        },
+        {
+          "key": "C",
+          "value": "Weakening of bones due to decreased bone mass"
+        },
+        {
+          "key": "D",
+          "value": "Inflammation of joints due to cartilage degeneration"
+        }
+      ],
+      "answer": "B",
+      "explanation": "<p>Option (b) is the correct answer as inflammation of joints due to accumulation of uric acid crystals is known as gout.</p>\n<p>Options (a) and (c) are incorrect because weakening of bones due to decreased bones mass, calcium deficiency, decreased levels of estrogen, etc., is termed as osteoporosis.</p>\n<p>Option (d) is incorrect because inflammation of joints due to cartilage degeneration is known as osteoarthritis.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Given below are two statements : one is labelled as Assertion (A) and the other is labelled as Reason (R).</p>\n<p>Assertion (A) : Osteoporosis is characterised by decreased bone mass and increased chance of fractures.</p>\n<p>Reason (R) : Common cause of osteoporosis is increased levels of estrogen.</p>\n<p>In the light of the above statements, choose the most appropriate answer from the options given below:</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "Both (A) and (R) are correct and (R) is the correct explanation of (A)"
+        },
+        {
+          "key": "B",
+          "value": "Both (A) and (R) are correct but (R) is not the correct explanation of (A)"
+        },
+        {
+          "key": "C",
+          "value": "(A) is correct but (R) is not correct"
+        },
+        {
+          "key": "D",
+          "value": "(A) is not correct but (R) is correct"
+        }
+      ],
+      "answer": "C",
+      "explanation": "<p>Option (c) is the correct answer as osteoporosis is due to decreased levels of oestrogen. Osteoporosis is an age-related disorder characterised by decreased bone mass hence, the chances of fractures increase.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Which of the following is a correct match for disease and its symptoms?</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "Arthritis - Inflammed joints"
+        },
+        {
+          "key": "B",
+          "value": "Tetany - High Ca<sup>2+</sup> level causing rapid spasms"
+        },
+        {
+          "key": "C",
+          "value": "Myasthenia gravis - Genetic disorder resulting in weakening and paralysis of skeletal muscle"
+        },
+        {
+          "key": "D",
+          "value": "Muscular dystrophy - An auto immune disorder causing progressive degeneration of skeletal muscle"
+        }
+      ],
+      "answer": "A",
+      "explanation": "<p>Option (a) is the correct answer because Arthritis is inflammation of joints.</p>\n<p>Option (c) is incorrect because myasthenia gravis is an immune disorder affecting neuro-muscular junction leading to fatigue, weakening and paralysis of skeletal muscle.</p>\n<p>Option (d) is incorrect because muscular dystrophy is progressive degeneration of skeletal muscle mostly due to genetic disorder.</p>\n<p>Option (b) is incorrect because tetany is rapid spasms in muscle due to low Ca<sup>++</sup> in body fluid.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Chronic auto immune disorder affecting neuro muscular junction leading to fatigue, weakening and paralysis of skeletal muscle is called as :",
+      "options": [
+        {
+          "key": "A",
+          "value": "Gout"
+        },
+        {
+          "key": "B",
+          "value": "Arthritis"
+        },
+        {
+          "key": "C",
+          "value": "Muscular dystrophy"
+        },
+        {
+          "key": "D",
+          "value": "Myasthenia gravis"
+        }
+      ],
+      "answer": "D",
+      "explanation": "$$\\bullet$$ Option (d) is correct because myasthenia gravis is a chronic auto immune disorder affecting neuromuscular junction leading to fatigue, weakening and paralysis of skeletal muscle.<br><br>$$\\bullet$$ Gout is caused due to deposition of uric acid crystals in joints leading to its inflammation.<br><br>$$\\bullet$$ Arthritis is the\nswelling and tenderness of one or more\nnumber of joints. It is caused by injury,\nabnormal metabolism, and genetic makeup.\n<br><br>$$\\bullet$$ Muscular dystrophy is a disease\ncharacterised by progressive\ndegeneration of muscle fibres without\nthe involvement of nervous system."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Match List-I with List-II<br><br><style type=\"text/css\">\n.tg  {border-collapse:collapse;border-spacing:0;}\n.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg .tg-amwm{font-weight:bold;text-align:center;vertical-align:top}\n.tg .tg-0lax{text-align:left;vertical-align:top}\n</style>\n<table class=\"tg\">\n<thead>\n  <tr>\n    <th class=\"tg-amwm\"></th>\n    <th class=\"tg-amwm\">List-I</th>\n    <th class=\"tg-amwm\"></th>\n    <th class=\"tg-amwm\">List-II</th>\n  </tr>\n</thead>\n<tbody>\n  <tr>\n    <td class=\"tg-0lax\">(a)</td>\n    <td class=\"tg-0lax\">Scapula</td>\n    <td class=\"tg-0lax\">(i)</td>\n    <td class=\"tg-0lax\">Cartilaginous joints</td>\n  </tr>\n  <tr>\n    <td class=\"tg-0lax\">(b)</td>\n    <td class=\"tg-0lax\">Cranium</td>\n    <td class=\"tg-0lax\">(ii)</td>\n    <td class=\"tg-0lax\">Flat bone</td>\n  </tr>\n  <tr>\n    <td class=\"tg-0lax\">(c)</td>\n    <td class=\"tg-0lax\">Sternum</td>\n    <td class=\"tg-0lax\">(iii)</td>\n    <td class=\"tg-0lax\">Fibrous joints</td>\n  </tr>\n  <tr>\n    <td class=\"tg-0lax\">(d)</td>\n    <td class=\"tg-0lax\">Vertebral column</td>\n    <td class=\"tg-0lax\">(iv)</td>\n    <td class=\"tg-0lax\">Triangular flat bone</td>\n  </tr>\n</tbody>\n</table><br><br>Choose the correct answer from the options given below",
+      "options": [
+        {
+          "key": "A",
+          "value": "<table>\n<thead>\n  <tr>\n    <th>(a)</th>\n    <th>(b)</th>\n    <th>(c)</th>\n    <th>(d)</th>\n  </tr>\n</thead>\n<tbody>\n  <tr>\n    <td>(iv)</td>\n    <td>(iii)</td>\n    <td>(ii)</td>\n    <td>(i)</td>\n  </tr>\n</tbody>\n</table>"
+        },
+        {
+          "key": "B",
+          "value": "<pre></pre><table>\n<thead>\n  <tr>\n    <th>(a)</th>\n    <th>(b)</th>\n    <th>(c)</th>\n    <th>(d)</th>\n  </tr>\n</thead>\n<tbody>\n  <tr>\n    <td>(i)</td>\n    <td>(iii)</td>\n    <td>(ii)</td>\n    <td>(iv)</td>\n  </tr>\n</tbody>\n</table>"
+        },
+        {
+          "key": "C",
+          "value": "<table>\n<thead>\n  <tr>\n    <th>(a)</th>\n    <th>(b)</th>\n    <th>(c)</th>\n    <th>(d)</th>\n  </tr>\n</thead>\n<tbody>\n  <tr>\n    <td>(ii)</td>\n    <td>(iii)</td>\n    <td>(iv)</td>\n    <td>(i)</td>\n  </tr>\n</tbody>\n</table>"
+        },
+        {
+          "key": "D",
+          "value": "<table>\n<thead>\n  <tr>\n    <th>(a)</th>\n    <th>(b)</th>\n    <th>(c)</th>\n    <th>(d)</th>\n  </tr>\n</thead>\n<tbody>\n  <tr>\n    <td>(iv)</td>\n    <td>(ii)</td>\n    <td>(iii)</td>\n    <td>(i)</td>\n  </tr>\n</tbody>\n</table>"
+        }
+      ],
+      "answer": "A",
+      "explanation": "The correct option is (a).<br><br>$$\\bullet$$ Scapula It is a flat, triangular shaped\nbone. It is located at the upper thoracic\nregion on the dorsal surface of the ribcage.<br><br>$$\\bullet$$ Cranium It is the part of the skull that\nencloses the brain. They have\nimmovable fibrous joint.<br><br>$$\\bullet$$ Sternum is a flat bone on the ventral midline of thorax. Also referred as\nbreastbone.<br><br>$$\\bullet$$ Vertebral column It is a series of\napproximately 33 bones called\nvertebrae. They have cartilaginous type\njoints designed for weight bearing."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "During muscular contraction which of the following events occur?<br><br>(1) 'H' zone disappears<br><br>(2) 'A' band widens<br><br>(3) 'I' band reduces in width<br><br>(4) Myosine hydrolyzes ATP, releasing the ADP and Pi.<br><br>(5) Z-lines attached to actins are pulled inwards.<br><br>Choose the correct answer from the options given below.",
+      "options": [
+        {
+          "key": "A",
+          "value": "(2), (4), (5), (1) only"
+        },
+        {
+          "key": "B",
+          "value": "(1), (3), (4), (5) only"
+        },
+        {
+          "key": "C",
+          "value": "(1), (2), (3), (4) only"
+        },
+        {
+          "key": "D",
+          "value": "(2), (3), (4), (5) only"
+        }
+      ],
+      "answer": "B",
+      "explanation": "The correct option is (b) because the length of A-band is retained. During muscle contraction, the following events occur:<br><br>(1) The globular head of myosin acts as ATPase and hydrolysis ATP molecule and eventually leads to the formation of cross bridge.<br><br>(2) This pulls the actin filament towards the centre of 'A-band'.<br><br>(3) The Z-line attached to these actins are also pulled inwards thereby causing a shortening of the sarcomere.<br><br>(4) The thin myofilaments move past the thick myofilaments due to which the H-zone narrows. This reduces the length of I-band but retains the length of A-band.<br><br>(5) The myosin then releases ADP + Pi, and goes back to its relaxed state."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Match the following columns and select the\ncorrect option.\n<table style=\"width:100%\">\n<thead>\n  <tr>\n    <th>Column-I</th>\n    <th>Column-II</th>\n  </tr>\n</thead>\n<tbody>\n  <tr>\n    <td>(a) Floating Ribs</td>\n    <td>(i) Located between\n second and\n seventh ribs</td>\n  </tr>\n  <tr>\n    <td>(b) Acromion </td>\n    <td>(ii) Head of the\n Humerus</td>\n  </tr>\n  <tr>\n    <td>(c) Scapula</td>\n    <td>(iii) Clavicle</td>\n  </tr>\n  <tr>\n    <td>(d) Glenoid cavity</td>\n    <td>(iv) Do not connect\n with the sternum\n</td>\n  </tr>\n</tbody>\n</table>",
+      "options": [
+        {
+          "key": "A",
+          "value": "(A) $$ \\to $$ (ii), (B) $$ \\to $$ (iv), (C) $$ \\to $$ (i), (D) $$ \\to $$ (iii)"
+        },
+        {
+          "key": "B",
+          "value": "(A) $$ \\to $$ (i), (B) $$ \\to $$ (iii), (C) $$ \\to $$ (ii), (D) $$ \\to $$ (iv)"
+        },
+        {
+          "key": "C",
+          "value": "(A) $$ \\to $$ (iv), (B) $$ \\to $$ (iii), (C) $$ \\to $$ (i), (D) $$ \\to $$ (ii)"
+        },
+        {
+          "key": "D",
+          "value": "(A) $$ \\to $$ (iii), (B) $$ \\to $$ (ii), (C) $$ \\to $$ (iv), (D) $$ \\to $$ (i)"
+        }
+      ],
+      "answer": "C",
+      "explanation": "11th and 12th pairs of ribs are not\nconnected ventrally and are therefore, called\nfloating ribs. Acromion is a flat expanded\nprocess of spine of scapula. The lateral end\nof clavicle articulates with acromion process.\nScapula is a flat triangular bone in the dorsal\npart of the thorax between 2nd and the 7th rib.\nGlenoid cavity of scapula articulates with head\nof the humerus to form the shoulder joint."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Select the correct option :",
+      "options": [
+        {
+          "key": "A",
+          "value": "Each rib is a flat thin bone and all the ribs are connected dorsally to the thoracic vertebrae and ventrally to\nthe sternum"
+        },
+        {
+          "key": "B",
+          "value": "There are seven pairs of vertebrosternal, three pairs of vertebrochondral and two pairs of vertebral ribs"
+        },
+        {
+          "key": "C",
+          "value": "8<sup>th</sup>, 9<sup>th</sup> and 10<sup>th</sup> pairs of ribs articulate directly with the sternum"
+        },
+        {
+          "key": "D",
+          "value": "11<sup>th</sup> and 12<sup>th</sup> pairs of ribs are connected to the sternum with the help of hyaline cartilage. "
+        }
+      ],
+      "answer": "B",
+      "explanation": "Seven pairs of Ribs are vertebrosternal while 8<sup>th</sup>, 9<sup>th</sup> and 10<sup>th</sup> pair of ribs are vertebrochondral and the last 11<sup>th</sup>, 12<sup>th</sup> pair are vertebral ribs."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Which of the following muscular disorders is inherited? ",
+      "options": [
+        {
+          "key": "A",
+          "value": "Myasthenia gravis"
+        },
+        {
+          "key": "B",
+          "value": "Botulism"
+        },
+        {
+          "key": "C",
+          "value": "Tetany"
+        },
+        {
+          "key": "D",
+          "value": "Muscular dystrophy"
+        }
+      ],
+      "answer": "D",
+      "explanation": "Myasthenia gravis is a chronic auto immune disorder. It affects neuromuscular junction leading to fatigue, weakening and paralysis of skeletal muscles.\n<br><br>Botulism is rare and dangerous type of food poisoning caused by bacterium Clostridium botulinum.\n<br><br>Tetany is a rapid spasm in muscle due to low Ca<sup>2+</sup> in body fluid.   \n<br><br>Muscular dystrophy is a genetic disorder. It is characterized by progressive degeneration of skeletal muscles, which are the muscles that control movement."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Calcium is important in skeletal muscle\ncontraction because it\n",
+      "options": [
+        {
+          "key": "A",
+          "value": "detaches the myosin head from the actin\nfilament"
+        },
+        {
+          "key": "B",
+          "value": "binds to troponin to remove the masking of\nactive sites on actin for myosin\n"
+        },
+        {
+          "key": "C",
+          "value": "prevents the formation of bonds between the\nmyosin cross bridges and the actin filament."
+        },
+        {
+          "key": "D",
+          "value": "activates the myosin ATPase by binding to it"
+        }
+      ],
+      "answer": "B",
+      "explanation": "The sarcoplasmic reticulum to release\ncalcium ions into the muscle interior where\nthey bind to troponin, thus causing\ntropomyosin to shift from the face of the\nactin filament to which myosin heads need\nto bind to produce contraction."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Out of 'X' pairs of ribs in humans only 'Y' pairs are true ribs. Select the option that correctly represents values of X and Y and provides their explanation. ",
+      "options": [
+        {
+          "key": "A",
+          "value": "<table class=\"tg\">\n  <tbody><tr>\n    <th class=\"tg-c4o0\"><i>X</i>=12,  <i>Y</i>=5<br><br>&nbsp;&nbsp;</th>\n    <th class=\"tg-x1hj\"></th>\n    <th class=\"tg-x1hj\">True ribs are attached dorsally <br>to vertebral column and sternum<br>on the two ends</th>\n  </tr>\n</tbody></table>"
+        },
+        {
+          "key": "B",
+          "value": "<table class=\"tg\">\n  <tbody><tr>\n    <th class=\"tg-c4o0\"><i>X</i>=24,  <i>Y</i>=2<br><br>   </th>\n    <th class=\"tg-x1hj\"></th>\n    <th class=\"tg-x1hj\">The true ribs are dorsally attached <br>to vertebral column but are free on<br>ventral side</th>\n  </tr>\n</tbody></table>"
+        },
+        {
+          "key": "C",
+          "value": "<table class=\"tg\">\n  <tbody><tr>\n    <th class=\"tg-c4o0\"><i>X</i>=24,  <i>Y</i>=12<br><br><br> </th>\n    <th class=\"tg-x1hj\"></th>\n    <th class=\"tg-x1hj\">True ribs are dorsally attached <br>to vertebral column but are free on<br>ventral side</th>\n  </tr>\n</tbody></table>"
+        },
+        {
+          "key": "D",
+          "value": "<table class=\"tg\">\n  <tbody><tr>\n    <th class=\"tg-c4o0\"><i>X</i>=12,  <i>Y</i>=7<br><br><br> </th>\n    <th class=\"tg-x1hj\"></th>\n    <th class=\"tg-x1hj\">True ribs are attached dorsally to <br>vertebral column and ventrally to<br>the sternum</th>\n  </tr>\n</tbody></table>"
+        }
+      ],
+      "answer": "D",
+      "explanation": "In human, 12 pairs of ribs are present\nout of which 7 pairs of ribs (1st to 7th pair)\nare dorsally attached to vertebral column and\nventrally to the sternum."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The pivot joint between atlas and axis is a type of ",
+      "options": [
+        {
+          "key": "A",
+          "value": "cartilaginous joint "
+        },
+        {
+          "key": "B",
+          "value": "synovial joint"
+        },
+        {
+          "key": "C",
+          "value": "saddle joint"
+        },
+        {
+          "key": "D",
+          "value": "fibrous joint."
+        }
+      ],
+      "answer": "B",
+      "explanation": "Pivot joint is a type of synovial joint\nwhich provide freely movement between atlas\nand axis vertebrae of vertebral column."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Osteoporosis, an age-related disease of skeletal system, may occur due to ",
+      "options": [
+        {
+          "key": "A",
+          "value": "immune disorder affecting neuromuscular junction leading to fatigue"
+        },
+        {
+          "key": "B",
+          "value": "high concentration of Ca<sup>++</sup> and Na<sup>+</sup>"
+        },
+        {
+          "key": "C",
+          "value": "decreased level of estrogen"
+        },
+        {
+          "key": "D",
+          "value": "accumulation of uric acid leading to inflammation of joints. "
+        }
+      ],
+      "answer": "C",
+      "explanation": "Osteoporosis is reduction in bone mineral\ndensity, resulting in bones that are brittle and liable\nto fracture. Infection, injury and synovitis can cause\nlocalised osteoporosis of adjacent bone. Generalised\nosteoporosis is common in the elderly and in women\nafter menopause. After menopause the estrogen levels\nin blood plasma are much reduced. Estrogen helps to\nregulate bone cells called osteoclasts which are\nresponsible for building new bone. When estrogen\nlevels drop fewer osteoclasts are produced resulting\nin osteoporosis.\n"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Name the ion responsible for unmasking of active sites for myosin for cross-bridge activity during muscle contraction. ",
+      "options": [
+        {
+          "key": "A",
+          "value": "Calcium"
+        },
+        {
+          "key": "B",
+          "value": "Magnesium"
+        },
+        {
+          "key": "C",
+          "value": "Sodium"
+        },
+        {
+          "key": "D",
+          "value": "Potassium"
+        }
+      ],
+      "answer": "A",
+      "explanation": "Calcium ion plays an important role in\nmuscle contraction. Calcium ions bind to troponin\ncausing a change in its shape and position. Thus, in\nturn alters shape and position of tropomyosin to which\ntroponin binds. This shift exposes the active sites on\nF-actin molecules. Myosin cross-bridge are then able\nto bind to these active sites."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Lack of relaxation between successive stimuli in sustained muscle contraction is known as ",
+      "options": [
+        {
+          "key": "A",
+          "value": "tetanus"
+        },
+        {
+          "key": "B",
+          "value": "tonus"
+        },
+        {
+          "key": "C",
+          "value": "spasm"
+        },
+        {
+          "key": "D",
+          "value": "fatigue."
+        }
+      ],
+      "answer": "A",
+      "explanation": "Sustained contraction with no relaxation\nphase is called muscle tetanus."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Which of the following joints would allow no movements? ",
+      "options": [
+        {
+          "key": "A",
+          "value": "Synovial joint"
+        },
+        {
+          "key": "B",
+          "value": "Ball and Sockrt joint"
+        },
+        {
+          "key": "C",
+          "value": "Fibrous joint"
+        },
+        {
+          "key": "D",
+          "value": "Cartilaginous joint"
+        }
+      ],
+      "answer": "C",
+      "explanation": "Fibrous or immovable joints are the joints\nin which no movement occurs between the bones\nconcerned. White fibrous tissue is present between\nthe ends of the bones. Fibrous joint occurs between\nthe bones of the skull called sutures and the joints\nbetween the teeth and the maxilla and the teeth and\nthe mandible.\n"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Which of the following is not a function of the skeletal system?",
+      "options": [
+        {
+          "key": "A",
+          "value": "Production of body heat"
+        },
+        {
+          "key": "B",
+          "value": "Locomotion"
+        },
+        {
+          "key": "C",
+          "value": "Production of erythrocytes"
+        },
+        {
+          "key": "D",
+          "value": "Storage of minerals"
+        }
+      ],
+      "answer": "A",
+      "explanation": "Production of body heat is caused by\nthe process of metabolism (respiration)."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Glenoid cavity articulates ",
+      "options": [
+        {
+          "key": "A",
+          "value": "clavicle with scapula"
+        },
+        {
+          "key": "B",
+          "value": "humerus with scapula"
+        },
+        {
+          "key": "C",
+          "value": "clavicle with acromion"
+        },
+        {
+          "key": "D",
+          "value": "scapula with acromion. "
+        }
+      ],
+      "answer": "B",
+      "explanation": "Upper rounded end of the humerus (bone\nof arm) is called head that articulates into the glenoid\ncavity of the pectoral girdle (shoulder girdle) of\nscapula or shoulder blade bone."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Sliding filament theory can be best explained as ",
+      "options": [
+        {
+          "key": "A",
+          "value": "actin and myosin filaments do not shorten but rather slide pass each other"
+        },
+        {
+          "key": "B",
+          "value": "when myofilaments slide pass each other, myosin filaments shorten while actin filaments do not shorten"
+        },
+        {
+          "key": "C",
+          "value": "when myofilaments slide pass each other actin filaments shorten while myosin filaments do not shorten"
+        },
+        {
+          "key": "D",
+          "value": "actin and myosin filaments shorten and slide pass each other. "
+        }
+      ],
+      "answer": "A",
+      "explanation": "Sliding filament theory was given by\nHuxley and Huxley (1954). It states that\nActin and Myosin filaments do not become\nshort but rather slide pass each other. Because\nof sliding of actin filaments over myosin the\nlength of I-band will change."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Stimulation of a muscle fiber by a motor neuron occurs at ",
+      "options": [
+        {
+          "key": "A",
+          "value": "the neuromuscular junction"
+        },
+        {
+          "key": "B",
+          "value": "the transverse tubules "
+        },
+        {
+          "key": "C",
+          "value": "the myofibril"
+        },
+        {
+          "key": "D",
+          "value": "the sacroplasmic reticulum."
+        }
+      ],
+      "answer": "A",
+      "explanation": "A neuron that transmits a stimulus to muscle\ntissue is called motor neuron. A motor unit consists\nof a single motor neuron (nerve cell) and the muscle\nfibres innervates it. The portion of the muscle plasma\nmembrane (sarcolemma) that lies beneath the nerve\nendings (axon terminals) is called the motor end plate.\nThe axon terminals and the motor end plate together\nconstitute the neuro-muscular junction or neuromotor\njunction.\n"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Select the correct matching of the type of the joint with the example in human skeletal system.",
+      "options": [
+        {
+          "key": "A",
+          "value": "<table class=\"tg\">\n  <tbody><tr>\n    <th class=\"tg-adtk\">Type of joint</th>\n    <th class=\"tg-adtk\"></th>\n    <th class=\"tg-adtk\">Example</th>\n  </tr>\n  <tr>\n    <td class=\"tg-60hs\">Cartilaginous</td>\n    <td class=\"tg-60hs\">-</td>\n    <td class=\"tg-60hs\">Between frontal and parietal</td>\n  </tr>\n</tbody></table>"
+        },
+        {
+          "key": "B",
+          "value": "<table class=\"tg\">\n  <tbody><tr>\n    <th class=\"tg-adtk\">Type of joint</th>\n    <th class=\"tg-adtk\"></th>\n    <th class=\"tg-adtk\">Example</th>\n  </tr>\n  <tr>\n    <td class=\"tg-60hs\">Pivot joint</td>\n    <td class=\"tg-60hs\">-</td>\n    <td class=\"tg-60hs\">Between third and fourth cervical</td>\n  </tr>\n</tbody></table>"
+        },
+        {
+          "key": "C",
+          "value": "<table class=\"tg\">\n  <tbody><tr>\n    <th class=\"tg-adtk\">Type of joint</th>\n    <th class=\"tg-adtk\"></th>\n    <th class=\"tg-adtk\">Example</th>\n  </tr>\n  <tr>\n    <td class=\"tg-60hs\">Hinge joint</td>\n    <td class=\"tg-60hs\">-</td>\n    <td class=\"tg-60hs\">Between humerus and pectoral girdle</td>\n  </tr>\n</tbody></table>"
+        },
+        {
+          "key": "D",
+          "value": "<table class=\"tg\">\n  <tbody><tr>\n    <th class=\"tg-adtk\">Type of joint</th>\n    <th class=\"tg-adtk\"></th>\n    <th class=\"tg-adtk\">Example</th>\n  </tr>\n  <tr>\n    <td class=\"tg-60hs\">Gliding joint</td>\n    <td class=\"tg-60hs\">-</td>\n    <td class=\"tg-60hs\">Between carpals</td>\n  </tr>\n</tbody></table>"
+        }
+      ],
+      "answer": "D",
+      "explanation": "A gliding joint is a common type of\nsynovial joint formed between bones that\nmeet at flat or nearly flat articular surfaces.\nGliding joints allow the bones to glide past\none another in any direction along the plane\nof the joint - up and down, left and right, and\ndiagonally. Many gliding joints are formed in\nthe appendicular skeleton between the carpal\nbones of the wrist; between the carpals and\nthe metacarpals of the palm; between the\ntarsal bones of the ankle; and between the\ntarsals and the metatarsals of the foot."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Select the correct statement with respect to disorders of muscles in humans.",
+      "options": [
+        {
+          "key": "A",
+          "value": "Failure of neuromuscular transmission in myasthenia gravis can prevent normal swallowing."
+        },
+        {
+          "key": "B",
+          "value": "Accumulation of urea and creatine in the joints causes their inflammation."
+        },
+        {
+          "key": "C",
+          "value": "An overdose of vitamin D causes osteoporosis."
+        },
+        {
+          "key": "D",
+          "value": "Rapid contractions of skeletal muscles cause muscle dystrophy."
+        }
+      ],
+      "answer": "A",
+      "explanation": "Myasthenia gravis is a chronic autoimmune muscular disease. It causes breakdown\nof neuromuscular junction due to which the\nbrain loses control over muscles. The symptoms may include drooping eyelids, difficulty\nin swallowing muscle fatigue, difficult breathing and inability to control facial expressions."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "During muscle contraction in humans, the ",
+      "options": [
+        {
+          "key": "A",
+          "value": "sarcomere does not shorten"
+        },
+        {
+          "key": "B",
+          "value": "A band remains same"
+        },
+        {
+          "key": "C",
+          "value": "A, H and I bands shorten"
+        },
+        {
+          "key": "D",
+          "value": "actin filaments shorten."
+        }
+      ],
+      "answer": "B",
+      "explanation": "According to sliding-filament theory of\nmuscle contraction, the actin and myosin filaments\nslide past each other with the help of cross-bridge to\nreduce the length of the sarcomeres. The smallest unit\nof muscle contraction is a sarcomere (which is\ndelineated by Z-lines). As a muscle contracts, the Z\nlines come closer together (shortening sarcomere), the\nwidth of the I bands decreases, the width of the H zones\ndecreases, but there is no change in the width of the A\nband. During relaxation, cross-bridges disappear and\nactin filaments slide back from A-bands, the width of\nthe I bands and H zones increases, but there is still no\nchange in the width of the A band.\n"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The characteristic and an example of a synovial joint in humans is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "<table class=\"tg\">\n  <tbody><tr>\n    <th class=\"tg-adtk\">Characteristics</th>\n    <th class=\"tg-adtk\">Examples</th>\n  </tr>\n  <tr>\n    <td class=\"tg-60hs\">Fluid filled synovial cavity <br>between two bones</td>\n    <td class=\"tg-60hs\">Joint between atlas <br>and axis</td>\n  </tr>\n</tbody></table>"
+        },
+        {
+          "key": "B",
+          "value": "<table class=\"tg\">\n  <tbody><tr>\n    <th class=\"tg-adtk\">Characteristics</th>\n    <th class=\"tg-adtk\">Examples</th>\n  </tr>\n  <tr>\n    <td class=\"tg-60hs\">Lymph filled between two<br>bones, limited movement</td>\n    <td class=\"tg-60hs\">Gliding joint between<br>carpals</td>\n  </tr>\n</tbody></table>"
+        },
+        {
+          "key": "C",
+          "value": "<table class=\"tg\">\n  <tbody><tr>\n    <th class=\"tg-adtk\">Characteristics</th>\n    <th class=\"tg-adtk\">Examples</th>\n  </tr>\n  <tr>\n    <td class=\"tg-60hs\">Fluid cartilage between two <br>bones, limited movements</td>\n    <td class=\"tg-60hs\">Knee joint&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>\n  </tr>\n</tbody></table>"
+        },
+        {
+          "key": "D",
+          "value": "<table class=\"tg\">\n  <tbody><tr>\n    <th class=\"tg-adtk\">Characteristics</th>\n    <th class=\"tg-adtk\">Examples</th>\n  </tr>\n  <tr>\n    <td class=\"tg-60hs\">Fluid filled between two <br>joints, provides cushion</td>\n    <td class=\"tg-60hs\">Skull bones&nbsp;&nbsp;&nbsp;&nbsp;</td>\n  </tr>\n</tbody></table>"
+        }
+      ],
+      "answer": "A",
+      "explanation": "Synovial joints are characterised by\nthe presence of a fluid filled synovial cavity between the articulating surfaces of the\ntwo bones. Such an arrangement allows\nconsiderable movement. These joints help\nin locomotion and many other movements.\nBall and socket joint (between humerus\nand pectoral girdle), Hinge joint (knee\njoint), Pivot joint (between atlas and axis),\nGliding joint (between the carpals) and Saddle\njoint (between carpal and metacarpal of thumb)\nare some examples. "
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The H-zone in the skeletal muscle fibre is due to ",
+      "options": [
+        {
+          "key": "A",
+          "value": "the central gap between actin filaments extending through myosin filaments in the A-bond"
+        },
+        {
+          "key": "B",
+          "value": "extension of myosin filaments in the central portion of the A-band"
+        },
+        {
+          "key": "C",
+          "value": "the absence of myofibrils in the central portion of A-band"
+        },
+        {
+          "key": "D",
+          "value": "the central gap between myosin filaments in the A-band."
+        }
+      ],
+      "answer": "A",
+      "explanation": "Central part of thick filament, not\noverlapped by thin filaments is called the ‘H’\nzone. ‘H’ zone is also called Hensen’s Line. "
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Select the correct statement with respect to locomotion in humans.",
+      "options": [
+        {
+          "key": "A",
+          "value": "The vertebral column has 10 thoracic vertebrae."
+        },
+        {
+          "key": "B",
+          "value": "The joint between adjacent vertebrae is a fibres joint."
+        },
+        {
+          "key": "C",
+          "value": "A decreased level of progesterone causes osteoporosis in old people."
+        },
+        {
+          "key": "D",
+          "value": "Accumulation of uric acid crystals in joints causes their inflammation."
+        }
+      ],
+      "answer": "D",
+      "explanation": "Vertebral column has 12 thoracic\nvertebrate. The joints between adjacent\nvertebrae is cartilaginous joint which permits\nlimited movements. Progesterone is secreted\nby corpus luteum which supports in pregnancy\nin females. Deposition of uric acid in form of\nurate crystal in the joints are responsible for\nthe inflammation and painful symptoms of\ngout."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Which one of the following pairs of chemical substances, is correctly categarised ? ",
+      "options": [
+        {
+          "key": "A",
+          "value": "Secretin and rhodopsin - Polypeptide hormones "
+        },
+        {
+          "key": "B",
+          "value": "Pepsin and prolactin - Two digestive enzymes secreted in stomach "
+        },
+        {
+          "key": "C",
+          "value": "Troponin and myosin - Complex proteins in striated muscles"
+        },
+        {
+          "key": "D",
+          "value": "Calcitonin and thymosin - Thyroid hormones "
+        }
+      ],
+      "answer": "C",
+      "explanation": "Troponin is a protein which is found on\nactin filament and myosin protein is found\nin myosin filament. Both actin and myosin\nare complex proteins in striated muscles.<br>\nThymosin is a hormone secreted by the\nthymus that stimulates development of T\ncells. Prolactin is a hormone released by\nthe pituitary gland that stimulates breast\ndevelopment and milk production in\nwomen. Rhodopsin, also known as visual\npurple, is not a hormone. It is a biological\npigment in photoreceptor cells of the retina\nthat is responsible for the first events in the\nperception of light."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Select the correct statement regarding the specific disorder of muscular or skeletal system. ",
+      "options": [
+        {
+          "key": "A",
+          "value": "Muscular dystrophy $$-$$ Age related shortening of muscles"
+        },
+        {
+          "key": "B",
+          "value": "Osteoporosis $$-$$ Decrease in bone mass and higher chances of fractures with advancing age"
+        },
+        {
+          "key": "C",
+          "value": "Myasthenia gravis $$-$$ Autoimmune disorder which inhibits sliding of myosin filaments "
+        },
+        {
+          "key": "D",
+          "value": "Gout $$-$$ Inflammation of joints due to extra deposition of calcium"
+        }
+      ],
+      "answer": "B",
+      "explanation": "Major causative factors of osteoporosis\nare imbalances of hormones like calcitonin\nof thyroid, parathormone of parathyroids,\nsex hormones, and deficiencies of calcium\nand vitamin D."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The type of muscles present in our",
+      "options": [
+        {
+          "key": "A",
+          "value": "heart is involuntary and unstriated smooth muscles"
+        },
+        {
+          "key": "B",
+          "value": "intestine is striated and involuntary"
+        },
+        {
+          "key": "C",
+          "value": "thigh is striated and voluntary"
+        },
+        {
+          "key": "D",
+          "value": "upper arm is smooth muscle and fusiform in shape."
+        }
+      ],
+      "answer": "C",
+      "explanation": "Cardiac muscles are found in the wall of\nthe heart. It is involuntary and slightly striated.\nSmooth muscles are found in gastrointestinal tract.\nThese are non-striated and involuntary. Striated (or\nskeletal) muscles are found in the limbs and body\nwalls. These muscles are voluntary (under the control\nof animals’ will) and show dark and light bands thus\nare striated.\n"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Three of the following pairs of the human skeletal parts are correctly matched with their respective inclusive skeletel category and one pair is not matched. Identify the non-matching pair.",
+      "options": [
+        {
+          "key": "A",
+          "value": "<table class=\"tg\">\n  <tbody><tr>\n    <th class=\"tg-fu35\">Pair of skeletal parts</th>\n    <th class=\"tg-fu35\"></th>\n    <th class=\"tg-fu35\">Category</th>\n  </tr>\n  <tr>\n    <td class=\"tg-eqm3\">Sternum and ribs</td>\n    <td class=\"tg-eqm3\">-</td>\n    <td class=\"tg-eqm3\">Axial skeleton</td>\n  </tr>\n</tbody></table>"
+        },
+        {
+          "key": "B",
+          "value": "<table class=\"tg\">\n  <tbody><tr>\n    <th class=\"tg-fu35\">Pair of skeletal parts</th>\n    <th class=\"tg-fu35\"></th>\n    <th class=\"tg-fu35\">Category</th>\n  </tr>\n  <tr>\n    <td class=\"tg-eqm3\">Clavicle and glenoid</td>\n    <td class=\"tg-eqm3\">-</td>\n    <td class=\"tg-eqm3\">Pelvic girdle</td>\n  </tr>\n</tbody></table>"
+        },
+        {
+          "key": "C",
+          "value": "<table class=\"tg\">\n  <tbody><tr>\n    <th class=\"tg-fu35\">Pair of skeletal parts</th>\n    <th class=\"tg-fu35\"></th>\n    <th class=\"tg-fu35\">Category</th>\n  </tr>\n  <tr>\n    <td class=\"tg-eqm3\">Humerus and ulna</td>\n    <td class=\"tg-eqm3\">-</td>\n    <td class=\"tg-eqm3\">Appendicular skeleton</td>\n  </tr>\n</tbody></table>"
+        },
+        {
+          "key": "D",
+          "value": "<table class=\"tg\">\n  <tbody><tr>\n    <th class=\"tg-fu35\">Pair of skeletal parts</th>\n    <th class=\"tg-fu35\"></th>\n    <th class=\"tg-fu35\">Category</th>\n  </tr>\n  <tr>\n    <td class=\"tg-eqm3\">Malleus and stapes</td>\n    <td class=\"tg-eqm3\">-</td>\n    <td class=\"tg-eqm3\">Ear ossicles</td>\n  </tr>\n</tbody></table>"
+        }
+      ],
+      "answer": "B",
+      "explanation": "Glenoid cavity is found in pectoral\ngirdle."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Which one of the following pairs of structures is\ncorrectly matched with their corrected description ?",
+      "options": [
+        {
+          "key": "A",
+          "value": "<b>Structure</b> $$ \\to $$ Tibia and\nfibula, <b>Description</b> $$ \\to $$ Both form parts of knee\njoint"
+        },
+        {
+          "key": "B",
+          "value": "<b>Structure</b> $$ \\to $$ Shoulder joint\nand elbow\njoint, <b>Description</b> $$ \\to $$ Ball and socket type\nof joint\n"
+        },
+        {
+          "key": "C",
+          "value": "<b>Structure</b> $$ \\to $$ Cartilage and cornea, <b>Description</b> $$ \\to $$ No blood supply but do\nrequire oxygen for\nrespiratory need"
+        },
+        {
+          "key": "D",
+          "value": "<b>Structure</b> $$ \\to $$ Premolars and\nmolars, <b>Description</b> $$ \\to $$ 20 in all and 3- rooted"
+        }
+      ],
+      "answer": "C",
+      "explanation": "Cartilage is avascular, as the blood vessels\ninnervate only perichondrium through which nutrition\ndiffuses into cartilage cells. Cornea is also avascular.\n"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Which one of the following is the correct description of a certain part of a normal human skeleton?",
+      "options": [
+        {
+          "key": "A",
+          "value": "Parietal bone and the temporal bone of the skull are jointed fibrous joint."
+        },
+        {
+          "key": "B",
+          "value": "First vertebra is axis which articulates with the occipital condyles. "
+        },
+        {
+          "key": "C",
+          "value": "The 9<sup>th</sup> and 10<sup>th</sup> pairs of ribs are called the floating ribs ."
+        },
+        {
+          "key": "D",
+          "value": "Glenoid cavity is a depression to which the thigh bone articulates."
+        }
+      ],
+      "answer": "A",
+      "explanation": "The bones of skulls are joined by white\nfibrous tissue which sustain no movement between\nthe skull bones. This kind of joint is classified as\nfibrous or immovable joints. Thus, parietal and\ntemporal bone of the skull are joined by fibrous joints.\nFirst cervical vertebra, atlas, joins the second cervical\nvertebra axis to form a joint (pivot joint) which allows\nmovement in one plane. The atlas supports the head\nand allows movement of head over neck.<br><br>\nThe last two pairs of ribs are called floating ribs\nbecause their anterior ends are not attached to either\nthe sternum or the cartilage of anterior rib.\nGlenoid cavity is a depression to which humerus\narticulates.\n"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Which one of the following is the correct matching of three items and their grouping category?",
+      "options": [
+        {
+          "key": "A",
+          "value": "<table class=\"tg\">\n  <tbody><tr>\n    <th class=\"tg-wwdd\">Items</th>\n    <th class=\"tg-wwdd\">Group</th>\n  </tr>\n  <tr>\n    <td class=\"tg-eqm3\">Iliumm, ischium, pubis</td>\n    <td class=\"tg-eqm3\">Coxal bones of pelvic girdle</td>\n  </tr>\n</tbody></table>"
+        },
+        {
+          "key": "B",
+          "value": "<table class=\"tg\">\n  <tbody><tr>\n    <th class=\"tg-wwdd\">Items</th>\n    <th class=\"tg-wwdd\">Group</th>\n  </tr>\n  <tr>\n    <td class=\"tg-eqm3\">Actin, myosin, rhodopsin</td>\n    <td class=\"tg-eqm3\">Muscle proteins&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>\n  </tr>\n</tbody></table>"
+        },
+        {
+          "key": "C",
+          "value": "<table class=\"tg\">\n  <tbody><tr>\n    <th class=\"tg-wwdd\">Items</th>\n    <th class=\"tg-wwdd\">Group</th>\n  </tr>\n  <tr>\n    <td class=\"tg-eqm3\">Cytosine, uracil, thiamine</td>\n    <td class=\"tg-eqm3\">Pyrimidines&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>\n  </tr>\n</tbody></table>"
+        },
+        {
+          "key": "D",
+          "value": "<table class=\"tg\">\n  <tbody><tr>\n    <th class=\"tg-wwdd\">Items</th>\n    <th class=\"tg-wwdd\">Group</th>\n  </tr>\n  <tr>\n    <td class=\"tg-eqm3\">Malleus, incus, cochlea</td>\n    <td class=\"tg-eqm3\">Ear ossicles&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>\n  </tr>\n</tbody></table>"
+        }
+      ],
+      "answer": "A",
+      "explanation": "The pelvic girdle is formed by two\ninnominate bones (hip bones). Each innominate\nbones consists of three separate bones, ilium, ischium\nand the pubis.\n"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Elbow joint is an example of ",
+      "options": [
+        {
+          "key": "A",
+          "value": "hinge joint "
+        },
+        {
+          "key": "B",
+          "value": "gliding joint"
+        },
+        {
+          "key": "C",
+          "value": "ball and socket joint"
+        },
+        {
+          "key": "D",
+          "value": "pivot joint."
+        }
+      ],
+      "answer": "A",
+      "explanation": "Elbow joint is an example of hinge\njoint. The elbow is a hinge joint; it can open\nand close like a door. Hinge joint is a form\nof diarthrosis (freely movable joint) that\nallows angular movement in one plane only, increasing or decreasing the angle between\nthe bones e.g. elbow joint, knee joint etc."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Which one of the following items gives its correct total number?",
+      "options": [
+        {
+          "key": "A",
+          "value": "Types of diabetes-3"
+        },
+        {
+          "key": "B",
+          "value": "Cervical vertebrae in humans-8"
+        },
+        {
+          "key": "C",
+          "value": "Floating ribs in humans-4"
+        },
+        {
+          "key": "D",
+          "value": "Amino acids found in proteins-16"
+        }
+      ],
+      "answer": "C",
+      "explanation": "There are twelve pairs of ribs which form\nthe bony lateral walls of the thoracic cage. The first\nseven pairs are called true ribs; eighth, ninth and tenth\npairs are called false ribs. The last two pairs of ribs\nare called floating ribs because their anterior ends are\nnot attached either to the sternum or to the cartilage\nof another rib. The floating ribs protect the kidneys.\n"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "In human body, which one of the following is anatomically correct?",
+      "options": [
+        {
+          "key": "A",
+          "value": "Collar bones &nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3 pairs"
+        },
+        {
+          "key": "B",
+          "value": "Salivary glands &nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1 pairs"
+        },
+        {
+          "key": "C",
+          "value": "Cranial nerves &nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 10 pairs"
+        },
+        {
+          "key": "D",
+          "value": "Floating ribs &nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2 pairs"
+        }
+      ],
+      "answer": "D",
+      "explanation": "Collar bones (Clavicle) – 2 pairs<br>\nSalivary glands – 3 pairs<br>\nCranial nerves – 12 pairs"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The contractile protein of skeletal muscle involving ATPase activity is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "troponin"
+        },
+        {
+          "key": "B",
+          "value": "tropomyosin"
+        },
+        {
+          "key": "C",
+          "value": "myosin "
+        },
+        {
+          "key": "D",
+          "value": "$$\\alpha $$-actinin."
+        }
+      ],
+      "answer": "C",
+      "explanation": "Myosin is a contractile protein that interacts\nwith actin to bring about contraction of muscle or\ncell movement. The type of myosin molecule found\nin muscle fibres consists of a tail, by which it\naggregates with other myosin molecules to form socalled thick filaments and a globular head, which has\nsites for the attachment of actin and ATP molecule.\nTroponin, tropomyosin and $$\\alpha $$-actinin are the actin in\nthe thin filament.\n"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Which of the following pairs is correctly matched?",
+      "options": [
+        {
+          "key": "A",
+          "value": "<table class=\"tg\">\n  <tbody><tr>\n    <th class=\"tg-eqm3\">Hinge joint</th>\n    <th class=\"tg-eqm3\">-</th>\n    <th class=\"tg-eqm3\">Between vertebrae</th>\n  </tr>\n</tbody></table>"
+        },
+        {
+          "key": "B",
+          "value": "<table class=\"tg\">\n  <tbody><tr>\n    <th class=\"tg-eqm3\">Gliding joint</th>\n    <th class=\"tg-eqm3\">-</th>\n    <th class=\"tg-eqm3\">Between zygapophyses of the <br>successive vertebrae</th>\n  </tr>\n</tbody></table>"
+        },
+        {
+          "key": "C",
+          "value": "<table class=\"tg\">\n  <tbody><tr>\n    <th class=\"tg-eqm3\">Cartilaginous joint</th>\n    <th class=\"tg-eqm3\">-</th>\n    <th class=\"tg-eqm3\">Skull bones</th>\n  </tr>\n</tbody></table>"
+        },
+        {
+          "key": "D",
+          "value": "<table class=\"tg\">\n  <tbody><tr>\n    <th class=\"tg-eqm3\">Fibrous joint</th>\n    <th class=\"tg-eqm3\">-</th>\n    <th class=\"tg-eqm3\">between phalanges</th>\n  </tr>\n</tbody></table>"
+        }
+      ],
+      "answer": "B",
+      "explanation": "Gliding joint permits sliding movements of\ntwo bones over each other. Hinge joint allows\nmovements in one plane only. Knee joint, elbow joint,\nankle joint are of this type. Cartilaginous joint is a slightly\nmovable joint and is found between the centre of\nvertebrae, at the pubic symphysis and between ribs and\nsternum. Fibrous joint is an immovable joint which occur\nbetween the bones of cranium."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "An acromian process is characteristically found in the ",
+      "options": [
+        {
+          "key": "A",
+          "value": "pelvic girdle of mammals"
+        },
+        {
+          "key": "B",
+          "value": "pectoral girdle of mammals"
+        },
+        {
+          "key": "C",
+          "value": "skull of frog"
+        },
+        {
+          "key": "D",
+          "value": "sperm of mammals. "
+        }
+      ],
+      "answer": "B",
+      "explanation": "Each half of pectoral girdle has two\nbones i.e. clavicle and scapula. A spine like,\nacromian process is attached to scapula for\narticulation with clavicle bone."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Which cartilage is present at the end of long bones? ",
+      "options": [
+        {
+          "key": "A",
+          "value": "Calcified cartilage"
+        },
+        {
+          "key": "B",
+          "value": "Hyaline cartilage"
+        },
+        {
+          "key": "C",
+          "value": "Elastic cartilage"
+        },
+        {
+          "key": "D",
+          "value": "Fibrous cartilage"
+        }
+      ],
+      "answer": "B",
+      "explanation": "Cartilage is an important component of\nskeleton. It consists of a firm matrix containing\ncollagen and elastin fibres and cells in fluid-filled\nlacunae. Cartilage has many types. Elastic cartilage\noccurs in the pinna and external auditory canal of the\near, epiglottis, Eustachian tubes and tip of the nose\nto make these organs flexible. Fibrous cartilage is very\nstrong yet has a degree of flexibility. It is found in the\nintervertebral discs where it acts as a cushion and in\npubic symphysis where it allows parturition without\ndamage to the girdle. Hyaline cartilage occurs in\nsternal ribs where it allows expansion of chest during\ninspiration. It also forms the tracheal and bronchial\nrings and supports larynx and nasal septum and also\nat the end of long bones.\n"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "What will happen if ligaments are torn?",
+      "options": [
+        {
+          "key": "A",
+          "value": "Bones will move freely at joint and no pain. "
+        },
+        {
+          "key": "B",
+          "value": "Bone less movable at joint and pain."
+        },
+        {
+          "key": "C",
+          "value": "Bone will become unfixed."
+        },
+        {
+          "key": "D",
+          "value": "Bone will become fixed."
+        }
+      ],
+      "answer": "B",
+      "explanation": "<p>When ligaments are torn, the stability of the joint they serve is compromised, leading to increased mobility beyond the normal range, which can cause pain and instability. Therefore, the correct answer is:</p>\n\n<p>Option B: Bone less movable at joint and pain.</p>\n\n<p>This is because ligaments are tough, elastic bands of connective tissue that surround a joint to give support and limit the joint's movement. When ligaments are damaged, it can lead to pain, swelling, and a reduced ability to move the joint, contrary to the joint becoming more movable without pain or the bones moving freely without any discomfort. Ligaments provide stability to the joints, so their injury typically results in instability and pain due to the loss of this support and limitation of movement.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "What is sarcomere?",
+      "options": [
+        {
+          "key": "A",
+          "value": "Part between two H-line"
+        },
+        {
+          "key": "B",
+          "value": "Part between two A-line"
+        },
+        {
+          "key": "C",
+          "value": "Part between two I-band"
+        },
+        {
+          "key": "D",
+          "value": "Part between two Z-line"
+        }
+      ],
+      "answer": "D",
+      "explanation": "Darks bands on the myofibril form\nA-band. Middle part of A-band contains\nlight zones-Hensen line (H-lines). Light\nband on myofibril is called I-band. Middle\npart of I-band contains Z-lines. Sarcomere is\npart between two Z-lines."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "What is the name of joint between ribs and sternum?",
+      "options": [
+        {
+          "key": "A",
+          "value": "Cartilaginous joint"
+        },
+        {
+          "key": "B",
+          "value": "Angular joint"
+        },
+        {
+          "key": "C",
+          "value": "Gliding joint"
+        },
+        {
+          "key": "D",
+          "value": "Fibrous joint"
+        }
+      ],
+      "answer": "A",
+      "explanation": "Cartilaginous joint is present between ribs\nand sternum. It allows only limited movement. An\nangular joint allows movement in two directions -\nside to side and back and forth. Wrist and\nmetacarpophalangeal joints are of this type. Gliding\njoint permits sliding movements of two bones over\neach other, e.g. joints between sternum and clavicles.\nFibrous joints do not allow movement and are present\nbetween the bones of cranium."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Bone related with skull is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "coracoid "
+        },
+        {
+          "key": "B",
+          "value": "arytenoid"
+        },
+        {
+          "key": "C",
+          "value": "pterygoid"
+        },
+        {
+          "key": "D",
+          "value": "atlas."
+        }
+      ],
+      "answer": "C",
+      "explanation": "Atlas is the first cervical vertebra.\nCoracoid is part of the pectoral girdle.\nPterygoid is a small bone articulated with\npalatine. Arytenoids are cartilage present at\nthe back of larynx."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Sternum is connected to ribs by ",
+      "options": [
+        {
+          "key": "A",
+          "value": "bony matter"
+        },
+        {
+          "key": "B",
+          "value": "white fibrous cartilage"
+        },
+        {
+          "key": "C",
+          "value": "hyaline cartilage"
+        },
+        {
+          "key": "D",
+          "value": "areolar tissue."
+        }
+      ],
+      "answer": "C",
+      "explanation": "Sternum is connected to ribs by hyaline\ncartilage (= giving a shiny glass like appearance and\ngives flexibility and support at the joints). Sternum is\nalso called breast bone. It is a narrow, elongated and\nflattened structure, present just under the skin in the\nmiddle of front of the chest. It consists of three parts\n- manubrium, mesosternum and xiphoid process.\nManubrium is the thickest, strongest part and\narticulates with the clavicle of pectoral girdle and first\npair of ribs. Mesosternum provide articulation to\nsecond to sixth pairs of ribs and xiphoid process (also\ncalled metasternum) articulates with seventh pair of\nribs in association with mesosternum.\n"
+    }
+  ]
+}

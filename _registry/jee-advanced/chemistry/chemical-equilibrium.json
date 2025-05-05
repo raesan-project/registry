@@ -1,0 +1,55 @@
+{
+  "_index": {
+    "name": "Chemical Equilibrium"
+  },
+  "_children": [
+    {
+      "_type": "single_mcq",
+      "body": "<b>Paragraph</b><br>\nThermal decomposition of gaseous X<sub>2</sub> to gaseous X at 298 K takes place according to the following equations:<br>\nX<sub>2</sub> (g) $$\\leftrightharpoons$$ 2X (g)<br>\nThe standard reaction Gibbs energy, $$\\Delta _rG^o$$, of this reaction is positive. At the start of the reaction, there is one mole of X<sub>2</sub> and no X. As the reaction proceeds, the number of moles of X formed is given by $$\\beta$$. Thus, $$\\beta _{equilibrium}$$ is the number of moles of X formed at equilibrium. The reaction is carried out at a constant total pressure of 2 bar. Consider the gases to behave ideally.\n(Given R = 0.083 L bar K<sup>-1</sup> mol<sup>-1</sup>)\n<br>\n<b>Question</b><br>\nThe INCORRECT statement among the following for this reaction, is",
+      "options": [
+        {
+          "key": "A",
+          "value": "Decrease in the total pressure will result in formation of more moles of gaseous X"
+        },
+        {
+          "key": "B",
+          "value": "At the start of the reaction, dissociation of gaseous X<sub>2</sub> takes place spontaneously"
+        },
+        {
+          "key": "C",
+          "value": "$${{\\beta _{equilibrium}}}$$ = 0.7"
+        },
+        {
+          "key": "D",
+          "value": "K<sub>c</sub> &lt; 1"
+        }
+      ],
+      "answer": "C",
+      "explanation": "On decreasing total pressure, the reaction will move in the forward direction where number of gaseous molecules is less.<br><br>Hence, option (A) is correct.<br><br>At the start of reaction Q = 0. From $$\\Delta$$G = $$\\Delta$$G<sup>o</sup> + RT lnQ, we have that for Q = 0 at the start of reaction $$\\Delta$$<sub>r</sub>G is negative, this causes dissociation of X<sub>2</sub> to take place spontaneously.<br><br>Hence, option (B) is correct.<br><br>If b<sub>equilibrium</sub> = 0.7, then value of equilibrium constant is<br><br>$${K_p} = {{8\\beta _{eq}^2} \\over {4 - \\beta _{eq}^2}} = {{8{{(0.7)}^2}} \\over {7 - {{(0.7)}^2}}}$$<br><br>The value of K<sub>p</sub> is greater than 1, which is not possible as given that $$\\Delta$$G<sup>o</sup> &gt; 0 for the reaction.<br><br>Hence, option (C) is incorrect.<br><br>As $$\\Delta$$G<sup>o</sup> &gt; 0 and $$\\Delta$$G<sup>o</sup> = $$-$$RT ln(K<sub>p</sub>)<br><br>$$\\Delta$$G<sup>o</sup> &gt; 1, so K<sub>p</sub> should be less than 1.<br><br>We know that<br><br>$${K_p} = {K_c}{(RT)^{\\Delta {n_g}}}$$<br><br>$${K_c} = {{{K_p}} \\over {{{(RT)}^{\\Delta {n_g}}}}}$$<br><br>Therefore, K<sub>c</sub> &lt; K<sub>p</sub> . As K<sub>p</sub> is less than 1, so K<sub>c</sub> is also less than 1.<br><br>Hence, option (D) is correct."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Statement 1 : For every chemical reaction at equilibrium, standard Gibbs energy of reaction is zero.</p>\n<p>and</p>\n<p>Statement 2 : At constant temperature and pressure, chemical reactions are spontaneous in the direction of decreasing Gibbs energy.</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "Statement 1 is True, Statement 2 is True; Statement 2 is correct explanation for Statement 1."
+        },
+        {
+          "key": "B",
+          "value": "Statement 1 is True, Statement 2 is True; Statement 2 is NOT correct explanation for Statement 1."
+        },
+        {
+          "key": "C",
+          "value": "Statement 1 is True, Statement 2 is False."
+        },
+        {
+          "key": "D",
+          "value": "Statement 1 is False, Statement 2 is True."
+        }
+      ],
+      "answer": "D",
+      "explanation": "<p>The Gibbs free energy varies from standard value as a function of temperature and equilibrium constant.</p>\n<p>$$\\Delta$$G = $$\\Delta$$G$$^\\circ$$ + RT ln K$$_{eq}$$</p>\n<p>The standard Gibbs energy for a reaction is given by $$\\Delta$$G$$^\\circ$$.</p>\n<p>At equilibrium, $$\\Delta$$G = 0whereas $$\\Delta$$G$$^\\circ$$ for a reaction may or may not be zero.</p>\n<p>$$\\Delta$$G$$^\\circ$$ = $$-$$RT ln K$$_{eq}$$</p>\n<p>For a spontaneous process, Gibbs energy for a reaction is always negative, $$\\Delta$$G < 0.</p>"
+    }
+  ]
+}

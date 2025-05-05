@@ -1,0 +1,1495 @@
+{
+  "_index": {
+    "name": "Heat and Thermodynamics"
+  },
+  "_children": [
+    {
+      "_type": "single_mcq",
+      "body": "<p>Given below are two statements: One is labelled as Assertion $$\\mathbf{A}$$ and the other is labelled as Reason $$\\mathbf{R}$$.</p>\n<p>Assertion A: Houses made of concrete roofs overlaid with foam keep the room hotter during summer.</p>\n<p>Reason R: The layer of foam insulation prohibits heat transfer, as it contains air pockets.</p>\n<p>In the light of the above statements, choose the correct answer from the options given below.</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "A is true but R is false.\n"
+        },
+        {
+          "key": "B",
+          "value": "A is false but R is true.\n"
+        },
+        {
+          "key": "C",
+          "value": "Both A and R are true and R is the correct explanation of A.\n"
+        },
+        {
+          "key": "D",
+          "value": "Both A and R true but R is NOT the correct explanation of A.\n"
+        }
+      ],
+      "answer": "B",
+      "explanation": "<p>Let's analyze the given statements to determine the correct answer.</p>\n\n<p>Assertion $$\\mathbf{A}$$: Houses made of concrete roofs overlaid with foam keep the room hotter during summer.</p>\n\n<p>Reason $$\\mathbf{R}$$: The layer of foam insulation prohibits heat transfer, as it contains air pockets.</p>\n\n<p><b>Explanation:</b></p>\n\n<p>Foam insulation generally acts as an effective thermal barrier because it contains numerous air pockets that impede heat transfer. The primary function of foam insulation is to reduce the amount of heat that penetrates into or escapes from a building, thereby maintaining a more constant internal temperature. If a house has a concrete roof overlaid with foam, the foam will work to keep the interior cooler in summer by prohibiting the transfer of heat from the outside into the room. Hence, the foam insulation should actually help in keeping rooms cooler during summer, not hotter.</p>\n\n<p>Therefore, the Assertion $$\\mathbf{A}$$ is false because foam insulation typically helps in keeping rooms cooler during summer. Meanwhile, the Reason $$\\mathbf{R}$$ is true because air pockets within the foam insulation impede heat transfer.</p>\n\n<p>Based on this analysis, the correct option is:</p>\n\n<p><b>Option B</b>: <i>A is false but R is true.</i></p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>The equilibrium state of a thermodynamic system is described by</p>\n<p>A. Pressure</p>\n<p>B. Total heat</p>\n<p>C. Temperature</p>\n<p>D. Volume</p>\n<p>E. Work done</p>\n<p>Choose the most appropriate answer from the options given below.</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "A, B and E only\n"
+        },
+        {
+          "key": "B",
+          "value": "B, C and D only\n"
+        },
+        {
+          "key": "C",
+          "value": "A, B and C only\n"
+        },
+        {
+          "key": "D",
+          "value": "A, C and D only"
+        }
+      ],
+      "answer": "D",
+      "explanation": "<p>The correct answer is <strong>Option D: A, C and D only</strong>. Here's why:</p>\n\n<p>The equilibrium state of a thermodynamic system is defined by a set of conditions where the system is in a stable, unchanging state.  These conditions include:</p>\n\n<ul>\n\n<li><strong>Pressure (A):</strong>  A measure of the force exerted by the system per unit area. At equilibrium, the pressure within the system is constant and uniform.</li>\n\n<li><strong>Temperature (C):</strong>  A measure of the average kinetic energy of the particles within the system. At equilibrium, the temperature throughout the system is constant and uniform.</li>\n\n<li><strong>Volume (D):</strong> The amount of space occupied by the system. At equilibrium, the volume remains constant unless external forces act upon the system.</li>\n\n</ul>\n\n<p>Let's examine why the other options are incorrect:</p>\n\n<ul>\n\n<li><strong>Total heat (B):</strong> While heat transfer can occur during a process, the total heat content of a system is not a defining characteristic of its equilibrium state. Equilibrium is about the absence of net change, not the total amount of energy present.</li>\n\n<li><strong>Work done (E):</strong> Work is a process, not a state variable. It describes the energy transfer during a change in the system, not its equilibrium condition. </li>\n\n</ul>\n\n<p>In summary, pressure, temperature, and volume are the key state variables that define the equilibrium state of a thermodynamic system because they are constant and uniform under these conditions. </p>\n\n<p></p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>According to the law of equipartition of energy, the number of vibrational modes of a polyatomic gas of constant $$\\gamma=\\frac{C_p}{C_v}$$ is ($$C_P$$ where $$C_V$$ are the specific heat capacities of the gas at constant pressure and constant volume, respectively):</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$\\frac{4+3 \\gamma}{\\gamma-1}$$\n"
+        },
+        {
+          "key": "B",
+          "value": "$$\\frac{3+4 \\gamma}{\\gamma-1}$$\n"
+        },
+        {
+          "key": "C",
+          "value": "$$\\frac{4-3 \\gamma}{\\gamma-1}$$\n"
+        },
+        {
+          "key": "D",
+          "value": "$$\\frac{3-4 \\gamma}{\\gamma-1}$$"
+        }
+      ],
+      "answer": "C",
+      "explanation": "<p>A polygamic gas has 3 translational, 3 rotational and $$f$$ vibration modes</p>\n<p>$$\\begin{aligned}\n& U=\\frac{3}{2} k_B T+\\frac{3}{2} k_B T+f k_B T \\\\\n& U=(3+f) k_B T \\\\\n& C_V=(3+f) R \\\\\n& C_p=(4+f) R \\\\\n& \\frac{C_p}{C_v}=\\frac{4+f}{3+f}=\\gamma \\\\\n& 4+f=3 \\gamma+f \\gamma \\\\\n& 4-3 \\gamma=f(\\gamma-1) \\Rightarrow f=\\frac{4-3 \\gamma}{\\gamma-1}\n\\end{aligned}$$</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>A container of volume $$200 \\mathrm{~cm}^3$$ contains 0.2 mole of hydrogen gas and 0.3 mole of argon gas. The pressure of the system at temperature $$200 \\mathrm{~K}$$ ($$\\mathrm{R}=8.3 \\mathrm{JK}^{-1} \\mathrm{~mol}^{-1}$$) will be :-</p>\n",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$6.15 \\times 10^5 \\mathrm{~Pa}$$\n"
+        },
+        {
+          "key": "B",
+          "value": "$$6.15 \\times 10^4 \\mathrm{~Pa}$$\n"
+        },
+        {
+          "key": "C",
+          "value": "$$4.15 \\times 10^5 \\mathrm{~Pa}$$\n"
+        },
+        {
+          "key": "D",
+          "value": "$$4.15 \\times 10^6 \\mathrm{~Pa}$$\n"
+        }
+      ],
+      "answer": "D",
+      "explanation": "<p>$$\n\\begin{aligned}\n& P_{\\text {mix }}=\\frac{\\left(\\mu_1+\\mu_2\\right) \\mathrm{RT}_{\\text {mix }}}{\\mathrm{V}_{\\text {mix }}} \\\\\n& =\\frac{(0.2+0.3) \\times 8.3 \\times 200}{200 \\times 10^{-6}} \\\\\n& =\\frac{0.5 \\times 8.3 \\times 200}{200 \\times 10^{-6}} \\\\\n& \\mathrm{P}_{\\text {mix }}=4.15 \\times 10^6 \\mathrm{P}_{\\mathrm{a}}\n\\end{aligned}\n$$</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>The temperature of a gas is $$-50^{\\circ} \\mathrm{C}$$. To what temperature the gas should be heated so that the rms speed is increased by $$3$$ times?</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$3295^{\\circ} \\mathrm{C}$$"
+        },
+        {
+          "key": "B",
+          "value": "$$3097 \\mathrm{~K}$$"
+        },
+        {
+          "key": "C",
+          "value": "$$223 \\mathrm{~K}$$"
+        },
+        {
+          "key": "D",
+          "value": "$$669^{\\circ} \\mathrm{C}$$"
+        }
+      ],
+      "answer": "A",
+      "explanation": "<p>$$v_{\\mathrm{rms}} \\propto \\sqrt{T}$$</p>\n<p>$$\\frac{\\mathrm{v}_{1}}{\\mathrm{v}_{2}}=\\sqrt{\\frac{\\mathrm{T}_{1}}{\\mathrm{~T}_{2}}}$$</p>\n<p>$$=$$ let initial speed is $$\\mathrm{v}$$</p>\n<p>As speed is increased by $$3$$ times so final speed become $$4 v$$</p>\n<p>$$\\Rightarrow \\frac{\\mathrm{v}}{4 \\mathrm{v}}=\\sqrt{\\frac{223}{\\mathrm{~T}}}$$</p>\n<p>$$\\mathrm{T}=3568 \\mathrm{~K}$$</p>\n<p>So temp. in $${ }^{\\circ} \\mathrm{C}=3568-273=3295^{\\circ} \\mathrm{C}$$</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>A Carnot engine has an efficiency of $$50 \\%$$ when its source is at a temperature $$327^{\\circ} \\mathrm{C}$$. The temperature of the sink is :-</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$15^{\\circ} \\mathrm{C}$$"
+        },
+        {
+          "key": "B",
+          "value": "$$100^{\\circ} \\mathrm{C}$$"
+        },
+        {
+          "key": "C",
+          "value": "$$200^{\\circ} \\mathrm{C}$$"
+        },
+        {
+          "key": "D",
+          "value": "$$27^{\\circ} \\mathrm{C}$$"
+        }
+      ],
+      "answer": "D",
+      "explanation": "<p>Efficiency of carnot engine</p>\n<p>$$\n\\begin{aligned}\n& \\% \\eta=\\left(1-\\frac{T_{\\text {sink }}}{\\mathrm{T}_{\\text {source }}}\\right) \\times 100 \\\\\n& T_{\\text {source }}=327^{\\circ} \\mathrm{C}=600 \\mathrm{~K} \\\\\n& 50=\\left(1-\\frac{\\mathrm{T}_{\\text {sink }}}{600}\\right) \\times 100 \\\\\n& \\frac{1}{2}=1-\\frac{\\mathrm{T}_{\\text {sink }}}{600} \\\\\n& \\mathrm{~T}_{\\text {Sink }}=300 \\mathrm{~K}\n\\end{aligned}\n$$</p>\n<p>So temp. of sink is $${ }^{\\circ} \\mathrm{C}=300-2763=27^{\\circ} \\mathrm{C}$$</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>An ideal gas follows a process described by the equation $$P{V^2} = C$$ from the initial $$({P_1},\\,{V_1},\\,{T_1})$$ to final $$({P_2},\\,{V_2},\\,{T_2})$$ thermodynamic states, where C is a constant. Then</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "If $${P_1} > {P_2}$$ then $${V_1} > {V_2}$$"
+        },
+        {
+          "key": "B",
+          "value": "If $${P_1} > {P_2}$$ then $${T_1} < {T_2}$$"
+        },
+        {
+          "key": "C",
+          "value": "If $${V_2} > {V_1}$$ then $${T_2} > {T_1}$$"
+        },
+        {
+          "key": "D",
+          "value": "If $${V_2} > {V_1}$$ then $${T_2} < {T_1}$$"
+        }
+      ],
+      "answer": "D",
+      "explanation": "<p>We know,</p>\n<p>$$PV = nRT$$</p>\n<p>Given, $$P{V^2} = $$ constant</p>\n<p>$$\\Rightarrow$$ If $${P_1} > {P_2} \\Rightarrow {V_1} < {V_2}$$</p>\n<p>$$P{\\left( {{{nRT} \\over P}} \\right)^2} = $$ constant</p>\n<p>$${P^{ - 1}}{T^2} = $$ constant</p>\n<p>$$ \\Rightarrow P \\propto {T^2}$$</p>\n<p>i.e., if $${P_1} > {P_2} \\Rightarrow {T_1} > {T_2}$$</p>\n<p>Also, $$\\left( {{{nRT} \\over V}} \\right){V^2} = $$ constant</p>\n<p>$$TV = $$ constant</p>\n<p>$$\\Rightarrow$$ If $${V_2} > {V_1}$$ then $${T_2} < {T_1}$$</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Two rods one made of copper and other made of steel of same length and same cross sectional area are joined together. The thermal conductivity of copper and steel are 385 J s<sup>$$-$$1</sup> K<sup>$$-$$1</sup> m<sup>$$-$$1</sup> and 50 J s<sup>$$-$$1</sup> K<sup>$$-$$1</sup> m<sup>$$-$$1</sup> respectively. The free ends of copper and steel are held at 100$$^\\circ$$C and 0$$^\\circ$$C respectively. The temperature at the junction is, nearly :</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$88.5^\\circ C$$"
+        },
+        {
+          "key": "B",
+          "value": "$$12^\\circ C$$"
+        },
+        {
+          "key": "C",
+          "value": "$$50^\\circ C$$"
+        },
+        {
+          "key": "D",
+          "value": "$$73^\\circ C$$"
+        }
+      ],
+      "answer": "A",
+      "explanation": "<p>We know in conduction, rate of flow of heat $$q = {{ - K.A.\\Delta T} \\over {\\Delta x}}$$</p>\n<p>As it is a case of steady state heat transfer</p>\n<p>$$ \\Rightarrow {{ - {K_{cu}} \\times A \\times [100 - {T_j}]} \\over l} = {{ - {K_{steel}} \\times A \\times [{T_j} - 0]} \\over l}$$</p>\n<p>Where T<sub>j</sub> is temperature of the junction</p>\n<p>$$ \\Rightarrow 385(100 - {T_j}) = 50({T_j})$$</p>\n<p>$$ \\Rightarrow {{100} \\over {{T_j}}} - 1 = {{50} \\over {385}} \\Rightarrow {{100} \\over {{T_j}}} = 1 + {{50} \\over {385}} \\Rightarrow {{100} \\over {{T_j}}} = 1.1298$$</p>\n<p>$$ \\Rightarrow {T_j} = 88.5^\\circ C$$</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Three vessels of equal capacity have gases at the same temperature and pressure. The first vessel contains helium (monoatomic), the second contains fluorine (diatomic) and the third contains sulfur hexafluoride (polyatomic). The correct statement, among the following is :</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "The root mean square speed of sulfur hexafluoride is the largest"
+        },
+        {
+          "key": "B",
+          "value": "All vessels contain unequal number of respective molecules"
+        },
+        {
+          "key": "C",
+          "value": "The root mean square speed of molecules is same in all three cases"
+        },
+        {
+          "key": "D",
+          "value": "The root mean square speed of helium is the largest"
+        }
+      ],
+      "answer": "D",
+      "explanation": "<p>All three vessels have equal volume and same temperature and pressure.</p>\n<p>From ideal gas equation</p>\n<p>$$PV = nRT$$</p>\n<p>$$nR = {{PV} \\over T}$$</p>\n<p>$$n = {{PV} \\over {RT}} = $$ constant</p>\n<p>So, here all three vessels contains equal number of moles and number of gas molecules.</p>\n<p>Now, $${v_{rms}} = \\sqrt {{{3RT} \\over M}}  \\Rightarrow {v_{rms}} \\propto {1 \\over {\\sqrt M }}$$</p>\n<p>Here, rms speed of helium is the largest.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>The volume occupied by the molecules contained in 4.5 kg water at STP, if the intermolecular forces vanish away is</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "5.6 $$\\times$$ 10<sup>6</sup> m<sup>3</sup>"
+        },
+        {
+          "key": "B",
+          "value": "5.6 $$\\times$$ 10<sup>3</sup> m<sup>3</sup>"
+        },
+        {
+          "key": "C",
+          "value": "5.6 $$\\times$$ 10<sup>$$-$$3</sup> m<sup>3</sup>"
+        },
+        {
+          "key": "D",
+          "value": "5.6 m<sup>3</sup>"
+        }
+      ],
+      "answer": "D",
+      "explanation": "<p>From ideal gas equation</p>\n<p>$$PV = nRT$$</p>\n<p>$$\\left[ {n = {{mass\\,of\\,water} \\over {mol.\\,wt.}} = {{4.5 \\times {{10}^3}} \\over {18}}} \\right]$$</p>\n<p>$$V = {{nRT} \\over P}$$</p>\n<p>At $$STP \\Rightarrow T = 273\\,K$$</p>\n<p>$$P = {10^5}$$ N/m<sup>2</sup></p>\n<p>$$V = {{4.5 \\times {{10}^3}} \\over {18}} \\times {{8.3 \\times 273} \\over {{{10}^5}}} = 5.66$$ m<sup>3</sup></p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A cup of coffee cools from 90$$^\\circ$$C to 80$$^\\circ$$C in t minutes, when the room temperature is 20$$^\\circ$$C. The time taken by a similar cup of coffee to cool from 80$$^\\circ$$C to 60$$^\\circ$$C at a room temperature same at 20$$^\\circ$$C is :",
+      "options": [
+        {
+          "key": "A",
+          "value": "$${5 \\over {13}}$$t"
+        },
+        {
+          "key": "B",
+          "value": "$${13 \\over {10}}$$t"
+        },
+        {
+          "key": "C",
+          "value": "$${13 \\over {5}}$$t"
+        },
+        {
+          "key": "D",
+          "value": "$${10 \\over {13}}$$t"
+        }
+      ],
+      "answer": "C",
+      "explanation": "$${{dT} \\over {dt}} = K({T_{av}} - {T_0})$$<br><br>$${{10} \\over t} = K(85 - 20)$$<br><br>$${{20} \\over t} = K(70 - 20)$$<br><br>$${{t'} \\over {2t}} = {{65} \\over {50}}$$<br><br>$${{t'} \\over t} = {{130} \\over {50}}$$<br><br>$$t' = {{13} \\over 5}t$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Match Column - I and Column - II and choose the correct match from the given choices.<br><br><table>\n<thead>\n  <tr>\n    <th></th>\n    <th>Column - I</th>\n    <th></th>\n    <th>Column - II</th>\n  </tr>\n</thead>\n<tbody>\n  <tr>\n    <td>(A)</td>\n    <td>Root mean square speed of gas molecules</td>\n    <td>(P)</td>\n    <td>$${1 \\over 3}nm{\\overline v ^2}$$</td>\n  </tr>\n  <tr>\n    <td>(B)</td>\n    <td>Pressure exerted by ideal gas</td>\n    <td>(Q)</td>\n    <td>$$\\sqrt {{{3RT} \\over M}} $$</td>\n  </tr>\n  <tr>\n    <td>(C)</td>\n    <td>Average kinetic energy of a molecule</td>\n    <td>(R)</td>\n    <td>$${5 \\over 2}RT$$</td>\n  </tr>\n  <tr>\n    <td>(D)</td>\n    <td>Total internal energy of 1 mole of a diatomic gas</td>\n    <td>(S)</td>\n    <td>$${3 \\over 2}{k_B}T$$</td>\n  </tr>\n</tbody>\n</table>",
+      "options": [
+        {
+          "key": "A",
+          "value": "(A) - (R), (B) - (Q), (C) - (P), (D) - (S)"
+        },
+        {
+          "key": "B",
+          "value": "(A) - (R), (B) - (P), (C) - (S), (D) - (Q)"
+        },
+        {
+          "key": "C",
+          "value": "(A) - (Q), (B) - (R), (C) - (S), (D) - (P)"
+        },
+        {
+          "key": "D",
+          "value": "(A) - (Q), (B) - (P), (C) - (S), (D) - (R)"
+        }
+      ],
+      "answer": "D",
+      "explanation": "(A) $${V_{rms}} = \\sqrt {{{3RT} \\over M}} $$<br><br>(B) $$P = $$ $${1 \\over 3}nm{\\overline v ^2}$$<br><br>(C) $$E = {3 \\over 2}kT$$<br><br>(D) $${E_{Total}} = n{f \\over 2}RT = {5 \\over 2}RT$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The average thermal energy for a mono-atomic gas is : (k<sub>B</sub> is Boltzmann constant and T absolute temperature)",
+      "options": [
+        {
+          "key": "A",
+          "value": "$${3 \\over 2}{k_B}T$$\n"
+        },
+        {
+          "key": "B",
+          "value": "$${5 \\over 2}{k_B}T$$\n"
+        },
+        {
+          "key": "C",
+          "value": "$${7 \\over 2}{k_B}T$$\n"
+        },
+        {
+          "key": "D",
+          "value": "$${1 \\over 2}{k_B}T$$\n"
+        }
+      ],
+      "answer": "A",
+      "explanation": "The degree of freedom for monoatomic gas is 3. So, average thermal energy per molecule,<br>K.E.<sub>avg</sub> = $${3 \\over 2}{k_B}T$$\n"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The mean free path for a gas, with molecular diameter d and number density n can be expressed as :",
+      "options": [
+        {
+          "key": "A",
+          "value": "$${1 \\over {\\sqrt 2 n\\pi {d^2}}}$$\n"
+        },
+        {
+          "key": "B",
+          "value": "$${1 \\over {\\sqrt 2 {n^2}\\pi {d^2}}}$$\n"
+        },
+        {
+          "key": "C",
+          "value": "$${1 \\over {\\sqrt 2 {n^2}{\\pi ^2}{d^2}}}$$\n"
+        },
+        {
+          "key": "D",
+          "value": "$${1 \\over {\\sqrt 2 n\\pi d}}$$\n"
+        }
+      ],
+      "answer": "A",
+      "explanation": "As per the formula,<br>$$\\lambda  = {1 \\over {\\sqrt 2 n\\pi {d^2}}}$$\n"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A cylinder contains hydrogen gas at pressure 249 kPa and temperature 27$$^\\circ $$C<br>Its density is : (R = 8.3 J mol<sup>-1</sup> K<sup>-1</sup>)",
+      "options": [
+        {
+          "key": "A",
+          "value": "0.2 kg/m<sup>3</sup>"
+        },
+        {
+          "key": "B",
+          "value": "0.1 kg/m<sup>3</sup>"
+        },
+        {
+          "key": "C",
+          "value": "0.02 kg/m<sup>3</sup>"
+        },
+        {
+          "key": "D",
+          "value": "0.5 kg/m<sup>3</sup>"
+        }
+      ],
+      "answer": "A",
+      "explanation": "From the ideal gas equation, PV = nRT also<br>Volume (V) = $${{mass(M)} \\over {density(\\rho )}}$$\n<br>So, PM = $$\\rho $$RT<br>P = 249 $$ \\times $$ 10<sup>3</sup> N/m<sup>2</sup><br>M = 2 $$ \\times $$ 10<sup>-3</sup> kg<br>T = 333 K<br>$$\\rho $$ = $${{\\left( {249 \\times {{10}^3}} \\right)\\left( {2 \\times {{10}^{ - 3}}} \\right)} \\over {8.3 \\times 300}}$$\n <br>= 0.2 kg/m<sup>3</sup>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The quantities of heat required to raise the temperature of two solid copper spheres of radii r<sub>1</sub> and r<sub>2</sub> (r<sub>1</sub> = 1.5r<sub>2</sub>) through 1 K are in the ratio :",
+      "options": [
+        {
+          "key": "A",
+          "value": "$${9 \\over 4}$$\n"
+        },
+        {
+          "key": "B",
+          "value": "$${3 \\over 2}$$\n"
+        },
+        {
+          "key": "C",
+          "value": "$${5 \\over 3}$$\n"
+        },
+        {
+          "key": "D",
+          "value": "$${27 \\over 8}$$\n"
+        }
+      ],
+      "answer": "D",
+      "explanation": "$$\\Delta Q = ms\\Delta T$$\n<br><br>$$\\Delta Q = {4 \\over 3}\\rho s\\Delta T$$\n<br><br>$${{\\Delta {Q_1}} \\over {\\Delta {Q_2}}} = {{r_1^3} \\over {r_2^3}} = {1.5^3} = {{27} \\over 8}$$\n"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Two cylinders A and B of equal capacity are connected to each other via a stop cock. A contains an ideal gas at standard temperature and pressure. B is completely evacuated. The entire systems is thermally insulated. The stop cock is suddenly opened. The Process is :",
+      "options": [
+        {
+          "key": "A",
+          "value": "adiabatic"
+        },
+        {
+          "key": "B",
+          "value": "isochoric"
+        },
+        {
+          "key": "C",
+          "value": "isobaric"
+        },
+        {
+          "key": "D",
+          "value": "isothermal"
+        }
+      ],
+      "answer": "A",
+      "explanation": "The system is insulated thermally. So no heat exchange takes place. Therefore the process is adiabatic."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "In which of the following processes, heat is neither absorbed nor released by a system?",
+      "options": [
+        {
+          "key": "A",
+          "value": "adiabatic"
+        },
+        {
+          "key": "B",
+          "value": "isobaric"
+        },
+        {
+          "key": "C",
+          "value": "isochoric"
+        },
+        {
+          "key": "D",
+          "value": "isothermal"
+        }
+      ],
+      "answer": "A",
+      "explanation": "From the characteristic property of adiabatic process, there is no exchange in heat."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Increase in tempertaure of a gas filled in a container would lead to :",
+      "options": [
+        {
+          "key": "A",
+          "value": "increase in its kinetic energy"
+        },
+        {
+          "key": "B",
+          "value": "decrease in intermolecular distance"
+        },
+        {
+          "key": "C",
+          "value": "decrease in its pressure"
+        },
+        {
+          "key": "D",
+          "value": "increase in its mass"
+        }
+      ],
+      "answer": "A",
+      "explanation": "Since, the increase of temperature will increase the kinetic energy for the given gas. \n<br><br>For the given ideal gas,\n<br><br>U = $${F \\over 2}nRT$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The efficiency of an ideal heat engine working\nbetween the freezing point and boiling point\nof water, is",
+      "options": [
+        {
+          "key": "A",
+          "value": "26.8%"
+        },
+        {
+          "key": "B",
+          "value": "20%"
+        },
+        {
+          "key": "C",
+          "value": "6.25%"
+        },
+        {
+          "key": "D",
+          "value": "12.5%"
+        }
+      ],
+      "answer": "A",
+      "explanation": "Efficiency of ideal heat engine,\n<br><br>$$\\eta  = \\left( {1 - {{{T_2}} \\over {{T_1}}}} \\right)$$\n<br><br>Freezing point of water = 0<sup>o</sup>C = 273 K\n<br><br>Boiling point of water = 100<sup>o</sup>C = (100 + 273) K\n = 373 K\n<br><br>$$ \\therefore $$ Sink temperature, T<sub>2</sub>\n = 0<sup>o</sup>C = 0 + 273 = 273 K\n<br><br>$$ \\therefore $$ Source temperature, T<sub>1</sub>\n = 100<sup>o</sup>C = 100 + 273 = 373 K\n<br><br>Percentage efficiency, %$$\\eta  = \\left( {1 - {{{T_2}} \\over {{T_1}}}} \\right) \\times 100$$\n<br><br>= $$\\left( {1 - {{273} \\over {373}}} \\right) \\times 100$$\n<br><br>= $$\\left( {{{100} \\over {373}}} \\right) \\times 100$$ = 26.8%"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A sample of 0.1 g of water at 100°C and normal\npressure (1.013 × 10<sup>5</sup>\n N m<sup>–2</sup>) requires 54 cal\nof heat energy to convert to steam at 100°C.\nIf the volume of the steam produced is 167.1 cc,\nthe change in internal energy of the sample, is",
+      "options": [
+        {
+          "key": "A",
+          "value": "104.3 J"
+        },
+        {
+          "key": "B",
+          "value": "208.7 J"
+        },
+        {
+          "key": "C",
+          "value": "42.2 J"
+        },
+        {
+          "key": "D",
+          "value": "84.5 J"
+        }
+      ],
+      "answer": "B",
+      "explanation": "Using first law of thermodynamics,\n<br><br>$$\\Delta $$Q = $$\\Delta $$U + $$\\Delta $$W\n<br><br>$$ \\Rightarrow $$ 54 × 4.18 = $$\\Delta $$U + 1.013 × 10<sup>5</sup>(167.1 × 10<sup>–6</sup> – 0)\n<br><br>$$ \\Rightarrow $$ $$\\Delta $$U = 208.7 J"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "At what temperature will the rms speed of\noxygen molecules become just sufficient for\nescaping from the Earth’s atmosphere?<br> (Given :\nMass of oxygen molecule (m) = 2.76 × 10<sup>–26</sup> kg,\nBoltzmann’s constant k<sub>B</sub>\n = 1.38 × 10<sup>–23</sup> J K<sup>–1</sup>)",
+      "options": [
+        {
+          "key": "A",
+          "value": "2.508 × 10<sup>4</sup> K"
+        },
+        {
+          "key": "B",
+          "value": "8.360 × 10<sup>4</sup> K"
+        },
+        {
+          "key": "C",
+          "value": "5.016 × 10<sup>4</sup> K"
+        },
+        {
+          "key": "D",
+          "value": "1.254 × 10<sup>4</sup> K"
+        }
+      ],
+      "answer": "B",
+      "explanation": "Escape velocity from the Earth’s surface is\nvescape = 11200 m s<sup>–1</sup>\n<br><br>Let at temperature T, rms speed of oxygen\nmolecules become just sufficient for escaping\nfrom the Earth’s atmosphere.\n<br><br>Also, V<sub>rms</sub> = V<sub>escape</sub> = $$\\sqrt {{{3{k_B}T} \\over {{m_{{O_2}}}}}} $$\n<br><br>$$ \\Rightarrow $$ 11200 = $$\\sqrt {{{3 \\times 1.38 \\times {{10}^{ - 23}} \\times T} \\over {2.76 \\times {{10}^{ - 26}}}}} $$\n<br><br>$$ \\Rightarrow $$ T = 8.360 × 10<sup>4</sup> K"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A carnot engine having an efficiency of $${1 \\over {10}}$$ as heat engine, is used as a refrigerator. If the work done on the system is 10 J, the amount of energy absorbed from the reservoir at lower temperature is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "90 J"
+        },
+        {
+          "key": "B",
+          "value": "99 J"
+        },
+        {
+          "key": "C",
+          "value": "100 J"
+        },
+        {
+          "key": "D",
+          "value": "1 J"
+        }
+      ],
+      "answer": "A",
+      "explanation": "Given, efficiency of engine, $$\\eta  = {1 \\over {10}}$$<br><br>\nwork done on system  W = 10J<br><br>\nCoefficient of performance of refrigerator <br><br>\n$$\\beta  = {{{Q_2}} \\over W} = {{1 - \\eta } \\over \\eta } = {{1 - {1 \\over {10}}} \\over {{1 \\over {10}}}} = {{{9 \\over {10}}} \\over {{1 \\over {10}}}} = 9$$<br><br>\nEnergy absorbed from reservoir<br><br>\n$${Q_2} = \\beta w$$<br><br>\n$${Q_2} = 9 \\times 10 = 90\\,J$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A gas mixture consists of 2 moles of O<sub>2</sub> and 4 moles of Ar at temperature T. Neglecting all vibrational modes, the total internal energy of the system is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "15 RT"
+        },
+        {
+          "key": "B",
+          "value": "9 RT "
+        },
+        {
+          "key": "C",
+          "value": "11 RT "
+        },
+        {
+          "key": "D",
+          "value": "4 RT "
+        }
+      ],
+      "answer": "C",
+      "explanation": "Internal energy of the system is given by\n<br><br>\n$$U = {f \\over 2}nRT$$<br><br>\nDegree of freedom <br>\nF<sub>diatomic</sub> = 5 <br>\nf<sub>monoatomic</sub> = 3 <br>\n<br>\nand, number of moles n(O<sub>2</sub>) = 2<br> n(Ar)  = 4 <br><br>\n$${U_{total}} = {5 \\over 2}\\left( 2 \\right)RT + {3 \\over 2}\\left( 4 \\right)RT = 11RT$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "One mole of an ideal monatomic gas undergoes a process described by the equation PV<sup>3</sup> = constant. The heat capacity of the gas during this process is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$${3 \\over 2}$$ R"
+        },
+        {
+          "key": "B",
+          "value": "$${5 \\over 2}$$ R"
+        },
+        {
+          "key": "C",
+          "value": "2R"
+        },
+        {
+          "key": "D",
+          "value": "R"
+        }
+      ],
+      "answer": "D",
+      "explanation": "Process described by the equation, <br><br>\nPV<sup>3</sup> = constant<br><br>\nFor a polytropic process, PV<sup>$$\\alpha $$</sup> = constant <br><br>\n$$C = {C_V} + {R \\over {1 - \\alpha }} = {3 \\over 2}R + {R \\over {1 - 3}} = R$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The temperature inside a refrigerator is t<sub>2</sub> <sup>o</sup>C. The amount of heat delivered to the room for each joule of electrical energy consumed ideally will be ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$${{{t_1}} \\over {{t_1} - {t_2}}}$$"
+        },
+        {
+          "key": "B",
+          "value": "$${{{t_1} + 273} \\over {{t_1} - {t_2}}}$$"
+        },
+        {
+          "key": "C",
+          "value": "$${{{t_2} + 273} \\over {{t_1} - {t_2}}}$$"
+        },
+        {
+          "key": "D",
+          "value": "$${{{t_1} + {t_2}} \\over {{t_1} + 273}}$$"
+        }
+      ],
+      "answer": "B",
+      "explanation": "Temperature inside refrigerator = t<sub>2</sub> °C <br><br>\nRoom temperature = t<sub>1</sub> °C <br><br>\nFor refrigerator,\n<br><br>\n$${{{\\rm{Heat\\,given\\,to\\,high\\,temperature}}\\,\\left( {{Q_1}} \\right)} \\over {{\\rm{Heat\\,taken\\,from\\,lower \\,temperature\\, }}\\left( {{Q_2}} \\right)}} = {{{T_1}} \\over {{T_2}}}$$<br><br>\n$${{{Q_1}} \\over {{Q_2}}} = {{{t_1} + 273} \\over {{t_2} + 273}}$$<br><br>\n$$ \\Rightarrow {{{Q_1}} \\over {{Q_1} - W}} = {{{t_1} + 273} \\over {{t_2} + 273}}$$<br><br>\n$$ \\Rightarrow 1 - {W \\over {{Q_1}}} = {{{t_2} + 273} \\over {{t_1} + 273}}$$<br><br>\n$$ \\Rightarrow {W \\over {{Q_1}}} = {{{t_1} - {t_2}} \\over {{t_1} + 273}}$$<br><br>\nThe amount of heat delivered to the room for each joule of electrical energy (W = 1 J) <br><br>\n$${Q_1} = {{{t_1} + 273} \\over {{t_1} - {t_2}}}$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A given sample of an ideal gas occupies a volume V at a pressure P and absolute temperature T. The mass of each molecule of the gas is m. Which of the following gives the density of the gas ? ",
+      "options": [
+        {
+          "key": "A",
+          "value": "P/(kT)"
+        },
+        {
+          "key": "B",
+          "value": "Pm/(kT)"
+        },
+        {
+          "key": "C",
+          "value": "P/(KTV)"
+        },
+        {
+          "key": "D",
+          "value": "mkT"
+        }
+      ],
+      "answer": "B",
+      "explanation": "As PV = nRT <br><br>\n$$ \\Rightarrow n = {{PV} \\over {RT}} = {{mass} \\over {molar\\,mass}}$$&nbsp;&nbsp;&nbsp;...(i)<br><br>\nDensity, $$\\rho $$ = $${{mass} \\over {volume}} = {{\\left( {molar\\,mass} \\right)P} \\over {RT}} = {{\\left( {m{N_A}} \\right)P} \\over {RT}}$$<br>&nbsp;&nbsp;&nbsp;[From eqn. (i)]<br><br>\n$$\\rho  = {{mP} \\over {kT}}$$ &nbsp;&nbsp;&nbsp;$$\\left( \\because{R = {N_A}k} \\right)$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A refrigerator works between 4<sup>o</sup>C and 30<sup>o</sup>C. It is required to remove 600 calories of heat every second in order to keep the temperature of the refrigerated space constant. The power required is (Take 1 cal = 4.2 Joules)",
+      "options": [
+        {
+          "key": "A",
+          "value": "236.5 W"
+        },
+        {
+          "key": "B",
+          "value": "2365 W"
+        },
+        {
+          "key": "C",
+          "value": "2.365 W"
+        },
+        {
+          "key": "D",
+          "value": "23.65 W"
+        }
+      ],
+      "answer": "A",
+      "explanation": "Now $$COP = {{{L_Q}} \\over {Power}} = {{{T_L}} \\over {{T_H} - {T_L}}}$$<br><br>\n$$ \\Rightarrow Power = {{{L_Q} \\times \\left( {{T_H} - {T_L}} \\right)} \\over {{T_L}}}$$<br><br>\n= (600 × 4.2) × 26/277 = 236.53 W \n"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The molecules of a given mass of a gas have r.m.s. velocity of 2000 m s<sup>$$-$$1</sup> at 27<sup>o</sup>C and 1.0 $$ \\times $$ 10<sup>5</sup> N m<sup>$$-$$2</sup> pressure. When the temperature and pressure of the gas are respectively, 127<sup>o</sup>C and 0.05 $$ \\times $$ 10<sup>5</sup><sup></sup> N m<sup>$$-$$2</sup>, the r.m.s. velocity of its molecules in m s<sup>$$-$$1</sup> is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$${{100\\sqrt 2 } \\over 3}$$"
+        },
+        {
+          "key": "B",
+          "value": "$${{100} \\over 3}$$"
+        },
+        {
+          "key": "C",
+          "value": "$$100\\sqrt 2 $$"
+        },
+        {
+          "key": "D",
+          "value": "$${{400} \\over {\\sqrt 3 }}$$"
+        }
+      ],
+      "answer": "D",
+      "explanation": "It is observed that the rms velocity of molecule is directly proportional to temperature, so<br><br>\n$${v_{rms}} \\propto \\sqrt T $$<br><br>\n$$ \\Rightarrow v_{rms}^{'} = {v_{rms}}\\sqrt {{{T'} \\over T}} $$<br><br>\nHence, $$v_{rms}^{'} = 200 \\times \\sqrt {{{400} \\over {300}}}  = 400/\\sqrt 3 $$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Two vessels separately contain two ideal gases A and B at the same temperature, the pressure of A being twice that of B. Under such conditions, the density of A is found to be 1.5 times the density of B. The ratio of molecular weight of A and B is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "2 "
+        },
+        {
+          "key": "B",
+          "value": "$${1 \\over 2}$$"
+        },
+        {
+          "key": "C",
+          "value": "$${2 \\over 3}$$"
+        },
+        {
+          "key": "D",
+          "value": "$${3 \\over 4}$$"
+        }
+      ],
+      "answer": "D",
+      "explanation": "From PV = nRT<br><br>\n$${P_A} = {{{\\rho _A}{M_A}} \\over {RT}}$$ and $${P_B} = {{{\\rho _B}{M_B}} \\over {RT}}$$<br><br>\nFrom question,<br><br>\n$${{{P_A}} \\over {{P_B}}} = {{{\\rho _A}} \\over {{\\rho _B}}}{{{M_A}} \\over {{M_B}}} = 2{{{M_A}} \\over {{M_B}}} = {3 \\over 2}$$<br><br>\n$$ \\therefore $$ $${{{M_A}} \\over {{M_B}}} = {3 \\over 4}$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The coefficient of performance of a refrigerator is 5. If the temperature inside freezer is $$-$$20<sup>o</sup>C, the temperature of the surroundings to which it rejects heat is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "11<sup>o</sup>C"
+        },
+        {
+          "key": "B",
+          "value": "21<sup>o</sup>C"
+        },
+        {
+          "key": "C",
+          "value": "31<sup>o</sup>C"
+        },
+        {
+          "key": "D",
+          "value": "41<sup>o</sup>C"
+        }
+      ],
+      "answer": "C",
+      "explanation": "Coefficient of performance, <br><br>\n$$Cop = {{{T_2}} \\over {{T_1} - {T_2}}}$$<br><br>\n$$5 = {{273 - 20} \\over {{T_1} - \\left( {273 - 20} \\right)}} = {{253} \\over {{T_1} - 253}}$$<br><br>\n5T<sub>1</sub> – (5 × 253) = 253 <br><br>\n5T<sub>1</sub> = 253 + (5 × 253) = 1518 <br><br>\n$$ \\therefore $$ $${T_1} = {{1518} \\over 5} = 303.6$$<br><br>\n$$ \\Rightarrow $$ T<sub>1</sub> = 303.6 – 273 = 30.6 $$ \\cong $$ 31°C\n"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A Carnot engine, having an efficiency of as heat engine, is used as a refrigerator. If the work done on the system is 10 J, the amount of energy absorbed from the reservoir at lower temperature is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "90 J"
+        },
+        {
+          "key": "B",
+          "value": "1 J"
+        },
+        {
+          "key": "C",
+          "value": "100 J"
+        },
+        {
+          "key": "D",
+          "value": "99 J"
+        }
+      ],
+      "answer": "A",
+      "explanation": "Given, efficiency of engine, $$\\eta  = {1 \\over {10}}$$<br><br>\nwork done on system  W = 10J<br><br>\nCoefficient of performance of refrigerator <br><br>\n$$\\beta  = {{{Q_2}} \\over W} = {{1 - \\eta } \\over \\eta } = {{1 - {1 \\over {10}}} \\over {{1 \\over {10}}}} = {{{9 \\over {10}}} \\over {{1 \\over {10}}}} = 9$$<br><br>\nEnergy absorbed from reservoir<br><br>\n$${Q_2} = \\beta w$$<br><br>\n$${Q_2} = 9 \\times 10 = 90\\,J$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The ratio of the specific heats $${{{C_p}} \\over {{C_v}}} = \\gamma $$ in terms of degrees of freedom (n) is given by ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$\\left( {1 + {2 \\over n}} \\right)$$"
+        },
+        {
+          "key": "B",
+          "value": "$$\\left( {1 + {n \\over 2}} \\right)$$"
+        },
+        {
+          "key": "C",
+          "value": "$$\\left( {1 + {1 \\over n}} \\right)$$"
+        },
+        {
+          "key": "D",
+          "value": "$$\\left( {1 + {n \\over 3}} \\right)$$"
+        }
+      ],
+      "answer": "A",
+      "explanation": "For n degrees of freedom, $${C_v} = {n \\over 2}R$$<br><br>\nAlso, $${C_p} - {C_v} = R$$<br><br>\n$${C_p} = {C_v} + R = {n \\over 2}R + R = \\left( {{n \\over 2} + 1} \\right)R$$<br><br>\n$$\\gamma  = {{{C_p}} \\over {{C_v}}} = {{\\left( {{n \\over 2} + 1} \\right)R} \\over {{n \\over 2}R}} = {{n + 2} \\over n}$$<br><br>\n$$ \\therefore $$ $$\\gamma  = 1 + {2 \\over n}$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A monatomic gas at a pressure P, having a volume V expands isothermally to a volume 2V and then adiabatically to a volume 16V. The final pressure of the gas is (Take $$\\gamma $$ = 5/3)",
+      "options": [
+        {
+          "key": "A",
+          "value": "64P"
+        },
+        {
+          "key": "B",
+          "value": "32P"
+        },
+        {
+          "key": "C",
+          "value": "P/64"
+        },
+        {
+          "key": "D",
+          "value": "16P"
+        }
+      ],
+      "answer": "C",
+      "explanation": "First, isothermal expansion <br><br>\n$$PV = P'\\left( {2V} \\right);P' = {P \\over 2}$$<br><br>\nThen, adiabatic expansion <br><br>\n$$P'{\\left( {2V} \\right)^\\gamma } = {P_f}{\\left( {16V} \\right)^\\gamma }$$<br>\n(For adiabatic process, PV<sup>$$\\gamma $$</sup> = constant)<br><br>\n$${P \\over 2}\\left( {2V} \\right) = {P_f}{\\left( {16V} \\right)^{5/3}}$$<br><br>\n$${P_f} = {P \\over 2}{\\left( {{{2V} \\over {16V}}} \\right)^{5/3}} = {P \\over 2}{\\left( {{1 \\over 8}} \\right)^{5/3}}$$<br><br>\n$$ = {P \\over 2}{\\left( {{1 \\over {{2^3}}}} \\right)^{5/3}} = {P \\over 2}\\left( {{1 \\over {{2^5}}}} \\right) = {P \\over {64}}$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The mean free path of molecules of a gas, (radius r) is inversely proportional to ",
+      "options": [
+        {
+          "key": "A",
+          "value": "r<sup>3</sup>"
+        },
+        {
+          "key": "B",
+          "value": "r<sup>2</sup>"
+        },
+        {
+          "key": "C",
+          "value": "r"
+        },
+        {
+          "key": "D",
+          "value": "$$\\sqrt r $$"
+        }
+      ],
+      "answer": "B",
+      "explanation": "Mean free path $${\\lambda _m} = {1 \\over {\\sqrt 2 \\pi {d^2}n}}$$<br><br>\nwhere d = diameter of molecule and d = 2r <br><br>\n$$ \\therefore {\\lambda _m} \\propto {1 \\over {{r^2}}}$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "In a vessel, the gas is at pressure P. If the mass of all the molecules is halved and their speed is doubled, then the resultant pressure will be",
+      "options": [
+        {
+          "key": "A",
+          "value": "2P"
+        },
+        {
+          "key": "B",
+          "value": "P"
+        },
+        {
+          "key": "C",
+          "value": "P/2"
+        },
+        {
+          "key": "D",
+          "value": "4P"
+        }
+      ],
+      "answer": "A",
+      "explanation": "As $$P = {1 \\over 3}{{mN} \\over V}v_{rms}^2$$&nbsp;&nbsp;&nbsp;...(i)<br><br>\nwhere m is the mass of each molecule, N is the total number of molecules, V is the volume of the gas. When mass of all the molecules is halved and their speed is doubled, then the pressure will be <br><br>\n$$P' = {1 \\over 3}\\left( {{m \\over 2}} \\right) \\times {N \\over V} \\times {\\left( {2{v_{rms}}} \\right)^2}$$<br><br>\n$$ = {2 \\over 3}{{mN} \\over V}v_{rms}^2 = 2P$$&nbsp;&nbsp;&nbsp;(Using (i))\n"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Two Carnot engines A and B are operated in series. The engine A receives heat from the source at temperature T<sub>1</sub> and rejects the heat to the sink at temperature T.  The second engine B receives the heat at temperature T and rejects to its sink at temperature T<sub>2</sub>. For what values of T the efficiencies of the two engines are equal ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$${{{T_1} - {T_2}} \\over 2}$$"
+        },
+        {
+          "key": "B",
+          "value": "$${T_1}{T_2}$$"
+        },
+        {
+          "key": "C",
+          "value": "$$\\sqrt {{T_1}{T_2}} $$"
+        },
+        {
+          "key": "D",
+          "value": "$${{{T_1} + {T_2}} \\over 2}$$"
+        }
+      ],
+      "answer": "C",
+      "explanation": "Efficiency of engine A,  $${\\eta _1} = 1 - {T \\over {{T_1}}}$$<br><br>\nEfficiency of engine B,  $${\\eta _2} = 1 - {{{T_2}} \\over T}$$<br><br>\nHere, $${\\eta _1} = {\\eta _2}$$<br><br>\n $$ \\therefore {T \\over {{T_1}}} = {{{T_2}} \\over T} \\Rightarrow T = \\sqrt {{T_1}{T_2}} $$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Which of the following relations does not give the equation of an adiabatic process, where terms have their usual meaning? ",
+      "options": [
+        {
+          "key": "A",
+          "value": "P<sup>1$$-$$$$\\gamma $$</sup> T<sup>$$\\gamma $$</sup>&nbsp;&nbsp;=&nbsp;&nbsp;constant"
+        },
+        {
+          "key": "B",
+          "value": "PV<sup>$$\\gamma $$</sup> &nbsp;&nbsp;=&nbsp;&nbsp;constant"
+        },
+        {
+          "key": "C",
+          "value": "TV<sup>$$\\gamma $$$$-$$1</sup>&nbsp;&nbsp;=&nbsp;&nbsp;constant"
+        },
+        {
+          "key": "D",
+          "value": "P<sup>$$\\gamma $$</sup>&nbsp;&nbsp;T<sup>1$$-$$$$\\gamma $$</sup>&nbsp;&nbsp;=&nbsp;&nbsp;constant"
+        }
+      ],
+      "answer": "D",
+      "explanation": "For an adiabatic process,<br><br>\n$$P{V^\\gamma }$$ = constant …(i) <br><br>\nAccording to ideal gas equation <br><br>\n$${\\rm{PV  =  nRT }} \\Rightarrow P = {{nRT} \\over V}$$<br><br>\nPutting value of P in (i), we get <br><br>\n$${{nRT} \\over V}{V^\\gamma }$$ = constant; $$ \\therefore $$ $$T{V^{\\gamma  - 1}}$$ = constant<br><br>\nAgain from the ideal gas equation <br><br>\n$$V = {{nRT} \\over P}$$<br><br>\nPutting value of V in (i), we get <br><br>\n$$P{\\left( {{{nRT} \\over P}} \\right)^\\gamma }$$ = constant; $${P^{1 - \\gamma }}{T^\\gamma }$$ = constant"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "During an adiabatic process, the pressure of a gas is found to be proportional to the cube of its temperature. The ratio of $${{{C_p}} \\over {{C_p}}}$$ for the gas is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$${5 \\over 3}$$"
+        },
+        {
+          "key": "B",
+          "value": "$${3 \\over 2}$$"
+        },
+        {
+          "key": "C",
+          "value": "$${4 \\over 3}$$"
+        },
+        {
+          "key": "D",
+          "value": "2"
+        }
+      ],
+      "answer": "B",
+      "explanation": "According to question $$P \\propto {T^3}$$ <br><br>But as we know for an adiabatic process the pressure $$P \\propto {T^{{\\gamma  \\over {\\gamma  - 1}}}}$$<br><br>\nSo, $${\\gamma  \\over {\\gamma  - 1}} = 3 \\Rightarrow \\gamma  = {3 \\over 2}$$<br><br>\n$$ \\therefore $$ $$ {{{C_p}} \\over {{C_v}}} = {3 \\over 2}$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The amount of heat energy required to raise the temperature of 1 g of Helium at NTP, from T<sub>1</sub>K to T<sub>2</sub>K is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$${3 \\over 4}{N_a}{k_B}\\left( {{T_2} - {T_1}} \\right)$$"
+        },
+        {
+          "key": "B",
+          "value": "$${3 \\over 4}{N_a}{k_B}\\left( {{{{T_2}} \\over {{T_1}}}} \\right)$$"
+        },
+        {
+          "key": "C",
+          "value": "$${3 \\over 8}{N_a}{k_B}\\left( {{T_2} - {T_1}} \\right)$$"
+        },
+        {
+          "key": "D",
+          "value": "$${3 \\over 2}{N_a}{k_B}\\left( {{T_2} - {T_1}} \\right)$$"
+        }
+      ],
+      "answer": "C",
+      "explanation": "From first law of thermodynamics <br><br>\n$$\\Delta Q = \\Delta U + \\Delta W = {3 \\over 2}.{1 \\over 4}R\\left( {{T_2} - {T_1}} \\right) + 0$$<br><br>\n$$ = {3 \\over 8}{N_a}{K_B}\\left( {{T_2} - {T_1}} \\right)$$&nbsp;&nbsp;&nbsp;&nbsp;$$\\left[\\because{K = {R \\over N}} \\right]$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A mass of diatomic gas $$(\\gamma  = 1.4)$$ at a pressure of 2 atmospheres is compressed adiabatically so that its temperature rises from 27<sup>o</sup>C to 927<sup>o</sup>C. The pressure of the gas in the final state is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "8 atm"
+        },
+        {
+          "key": "B",
+          "value": "28 atm"
+        },
+        {
+          "key": "C",
+          "value": "68.7 atm"
+        },
+        {
+          "key": "D",
+          "value": "256 atm"
+        }
+      ],
+      "answer": "D",
+      "explanation": "T<sub>1</sub> = 273 + 27 = 300K <br><br>\nT<sub>2</sub> = 273 + 927 = 1200K <br><br>\nFor adiabatic process, <br><br>\n$${P^{1 - \\gamma }}{T^\\gamma }$$ = constant<br><br>\n$$ \\Rightarrow {P_1}^{1 - \\gamma }{T_1}^\\gamma  = {P_2}^{1 - \\gamma }{T_2}^\\gamma $$<br><br>\n$$ \\Rightarrow {\\left( {{{{P_2}} \\over {{P_1}}}} \\right)^{1 - \\gamma }} = {\\left( {{{{T_1}} \\over {{T_2}}}} \\right)^\\gamma }$$<br><br>\n$$ \\Rightarrow {\\left( {{{{P_1}} \\over {{T_2}}}} \\right)^{1 - \\gamma }} = {\\left( {{{{T_2}} \\over {{T_1}}}} \\right)^\\gamma }$$<br><br>\n$${\\left( {{{{P_1}} \\over {{P_2}}}} \\right)^{1 - 1.4}} = {\\left( {{{1200} \\over {300}}} \\right)^{1.4}}$$\n<br><br>\n$${\\left( {{{{P_1}} \\over {{P_2}}}} \\right)^{ - 0.4}} = {\\left( 4 \\right)^{1.4}}$$<br><br>\n$${\\left( {{{{P_2}} \\over {{P_1}}}} \\right)^{0.4}} = {4^{1.4}}$$<br><br>\n$${P_2} = {P_1}{4^{\\left( {{{1.4} \\over {0.4}}} \\right)}} = {P_1}{4^{\\left( {{7 \\over 2}} \\right)}}$$<br><br>\n= P<sub>1</sub> (2<sup>7</sup>) = 2 × 128 = 256 atm"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "During an isothermal expansion, a confined ideal gas does $$-$$ 150 J of work against its surroundings. This implies that",
+      "options": [
+        {
+          "key": "A",
+          "value": "150 J of heat has been removed from the gas "
+        },
+        {
+          "key": "B",
+          "value": "300 J of heat has been added to the gas "
+        },
+        {
+          "key": "C",
+          "value": "no heat is transferred because the process is isothermal"
+        },
+        {
+          "key": "D",
+          "value": "150 J of heat has been added to the gas "
+        }
+      ],
+      "answer": "D",
+      "explanation": "If a process is expansion then work done is positive so answer will be (a). <br><br>But in question work done by gas is given –150J so that according to it answer will be (d). "
+    },
+    {
+      "_type": "single_mcq",
+      "body": "When 1 kg of ice at 0<sup>o</sup>C melts to water at 0<sup>o</sup>C,  the resulting change in its entropy, taking latent heat of ice to be 80 cal/<sup>o</sup>C, is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "273 cal/K"
+        },
+        {
+          "key": "B",
+          "value": "8 $$ \\times $$ 10<sup>4</sup> cal/K"
+        },
+        {
+          "key": "C",
+          "value": "80 cal/K"
+        },
+        {
+          "key": "D",
+          "value": "293 cal/K"
+        }
+      ],
+      "answer": "D",
+      "explanation": "Change in entropy is given by\n<br><br>\n$$dS = {{dQ} \\over T} \\Rightarrow \\Delta S = {{\\Delta Q} \\over T} = {{m{L_f}} \\over {273}}$$<br><br>\n$$\\Delta S = {{1000 \\times 80} \\over {273}} = 293\\,cal/K$$<br><br>\n<b>Note :</b> In the question paper unit of latent heat of ice is given to be cal/°C. It is wrong. The unit of latent heat of ice is cal/g. "
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A monatomic gas at pressure P<sub>1</sub> and volume V<sub>1</sub> is compressed adiabatically to $${{1 \\over 8}^{th}}$$ of its original volume. What is the final pressure of the gas? ",
+      "options": [
+        {
+          "key": "A",
+          "value": "64P<sub>1</sub> "
+        },
+        {
+          "key": "B",
+          "value": "P<sub>1</sub>"
+        },
+        {
+          "key": "C",
+          "value": "16P<sub>1</sub>"
+        },
+        {
+          "key": "D",
+          "value": "32P<sub>1</sub>"
+        }
+      ],
+      "answer": "D",
+      "explanation": "Ideal gas equation, for an adiabatic process is <br><br>\n$$P{V^\\gamma } = $$ constant $$ \\Rightarrow $$ $${P_1}V_1^\\gamma  = {P_2}V_2^\\gamma $$<br><br>\nFor monoatomic gas  $$\\gamma  = {5 \\over 3}$$<br><br>\n$$ \\therefore $$ $${P_1}V_1^{5/3} = {P_2}{\\left( {{{{V_1}} \\over 8}} \\right)^{5/3}}$$<br><br>\n$$ \\Rightarrow $$ P<sub>2</sub> = P<sub>1</sub> × (2)<sup>5</sup> = 32 P<sub>1</sub>. \n"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "If c<sub>p</sub> and c<sub>v</sub> denote the specific heats (per unit mass of an ideal gas of molecular weight M, then ",
+      "options": [
+        {
+          "key": "A",
+          "value": "c<sub>p</sub> $$-$$ c<sub>v</sub> = R/M<sup>2</sup>"
+        },
+        {
+          "key": "B",
+          "value": "c<sub>p</sub> $$-$$ c<sub>v</sub> = R"
+        },
+        {
+          "key": "C",
+          "value": "c<sub>p</sub> $$-$$ c<sub>v</sub> = R/M"
+        },
+        {
+          "key": "D",
+          "value": "c<sub>p</sub> $$-$$ c<sub>v</sub> = MR"
+        }
+      ],
+      "answer": "C",
+      "explanation": "C<sub>v</sub> = molar specific heat of the ideal gas at constant volume\n<br><br>C<sub>p</sub> = molar specific heat of the ideal gas at constant pressure,<br><br>\nC<sub>p</sub>' = MC<sub>p</sub> and C<sub>v</sub>’ = MC<sub>v</sub><br><br>\nAlso $${C_p}' - {C_v}' = R$$<br><br>\nMC<sub>p</sub> – MC<sub>v</sub> = R <br><br>\nC<sub>p</sub> – C<sub>v</sub> = R/M "
+    },
+    {
+      "_type": "single_mcq",
+      "body": "If $$\\Delta $$U and $$\\Delta $$W represent the increase in internal energy and work done by the system respectively in a thermodynamical process, which of the following is true ? ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$\\Delta $$U = $$-$$$$\\Delta $$W, in an adiabtic process"
+        },
+        {
+          "key": "B",
+          "value": "$$\\Delta $$U = $$\\Delta $$W, in an isothermal process "
+        },
+        {
+          "key": "C",
+          "value": "$$\\Delta $$U = $$\\Delta $$W, in an adiabatic process"
+        },
+        {
+          "key": "D",
+          "value": "$$\\Delta $$U = $$-$$ $$\\Delta $$W, in an isothermal process "
+        }
+      ],
+      "answer": "A",
+      "explanation": "By first law of thermodynamics, <br><br>\n$$\\Delta Q = \\Delta U + \\Delta W$$<br><br>\nIn adiabatic process, $$\\Delta Q = 0$$<br><br>\n$$ \\therefore $$ $$\\Delta U =  - \\Delta W$$<br><br>\nIn isothermal process, $$\\Delta U = 0$$<br><br>\n$$ \\therefore $$ $$\\Delta Q = \\Delta W$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The internal energy change in a system that has absorbed 2 kcal of heat and done 500 J of work is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "6400 J"
+        },
+        {
+          "key": "B",
+          "value": "5400 J"
+        },
+        {
+          "key": "C",
+          "value": "7900 J"
+        },
+        {
+          "key": "D",
+          "value": "8900 J"
+        }
+      ],
+      "answer": "C",
+      "explanation": "When a quantity Q of heat is supplied to a system it is used to do an amount of work W by the system and to increase the internal energy of the system by ∆U : <br><br>\nQ = ∆U + W <br><br>\nHere, Q given in kilo calories is converted into joule.<br> Therefore Q = 2×1000×4.2 J = 8400 J <br><br>\nThe increase the internal energy<br><br>\n∆U = Q – W = 8400 – 500 = 7900 J"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "In thermodynamic processes which of the following statements is not true ? ",
+      "options": [
+        {
+          "key": "A",
+          "value": "In an isochoric process pressure remains constant. "
+        },
+        {
+          "key": "B",
+          "value": "In an isothermal process the temperature remains constant. "
+        },
+        {
+          "key": "C",
+          "value": "In an adiabatic process PV<sup>$$\\gamma $$</sup> = constant."
+        },
+        {
+          "key": "D",
+          "value": "In an adiabatic process the system is insulated from the surroundings. "
+        }
+      ],
+      "answer": "A",
+      "explanation": "The only statement which is not true is statement (a). A process in which the pressure remains constant is called isobaric process and not isochoric as in isochoric process the volume remains constant. "
+    },
+    {
+      "_type": "single_mcq",
+      "body": "If Q, E and W denote respectively the heat added, change in internal energy and the work done in a closed cyclic process, then ",
+      "options": [
+        {
+          "key": "A",
+          "value": "E = 0"
+        },
+        {
+          "key": "B",
+          "value": "Q = 0"
+        },
+        {
+          "key": "C",
+          "value": "W = 0"
+        },
+        {
+          "key": "D",
+          "value": "Q = W = 0"
+        }
+      ],
+      "answer": "A",
+      "explanation": "Internal energy depends only on the initial and final states of temperature and not on the path. In a cyclic process, as initial and final states are the same, change in internal energy is zero. Hence E is $$\\Delta $$U, the change in internal energy."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "At 10<sup>o</sup>C the value of the density of a fixed mass of an ideal gas divided by it pressure is x. At 110<sup>o</sup>C this ratio is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$${{10} \\over {110}}x$$"
+        },
+        {
+          "key": "B",
+          "value": "$${{283} \\over {383}}x$$"
+        },
+        {
+          "key": "C",
+          "value": "$$x$$"
+        },
+        {
+          "key": "D",
+          "value": "$${{383} \\over {283}}x$$"
+        }
+      ],
+      "answer": "B",
+      "explanation": "PV = nRT <br><br>\n$$ \\Rightarrow PV = {m \\over M}RT$$<br><br>\n$$ \\Rightarrow {{PV} \\over m} = {{RT} \\over M}$$<br><br>\n$$ \\Rightarrow {P \\over \\rho } = {{RT} \\over M}$$<br><br>\n$$ \\Rightarrow {P \\over \\rho } \\propto T$$<br><br>\n$$ \\therefore {P \\over \\rho } \\propto {1 \\over T}$$<br><br>\n$${{{{{P_1}} \\over {{\\rho _1}}}} \\over {{{{P_2}} \\over {{\\rho _2}}}}} = {{{T_1}} \\over {{T_2}}} = {{383} \\over {283}}$$<br><br>\n$$ \\Rightarrow {x \\over {{{{P_2}} \\over {{P_2}}}}} = {{383} \\over {283}}$$<br><br>\n$$ \\therefore {{{P_2}} \\over {{P_2}}} = {{383} \\over {283}}x$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "An engine has an efficiency of 1/6. When the temperature of sink is reduced by 62<sup>o</sup>C, its efficiency is doubled. Temperatures of the source is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "37<sup>o</sup>C"
+        },
+        {
+          "key": "B",
+          "value": "62<sup>o</sup>C"
+        },
+        {
+          "key": "C",
+          "value": "99<sup>o</sup>C"
+        },
+        {
+          "key": "D",
+          "value": "124<sup>o</sup>C. "
+        }
+      ],
+      "answer": "C",
+      "explanation": "Since efficiency of engine is $$\\eta  = 1 - {{{T_2}} \\over {{T_1}}}$$<br><br>\nAccording to problem,\n<br><br>\n$${1 \\over 6} = 1 - {{{T_2}} \\over {{T_1}}}$$&nbsp;&nbsp;&nbsp;...(i)<br><br>\nWhen the temperature of the sink is reduced by 62°C, its efficiency is doubled\n<br><br>\n$$2\\left( {{1 \\over 6}} \\right) = 1 - {{{T_2} - 62} \\over {{T_1}}}$$&nbsp;&nbsp;&nbsp;...(ii)<br><br>\nSolving (i) and (ii)<br> T<sub>2</sub> = 372 K <br><br>\nT<sub>1</sub> = 99°C = Temperature of source. "
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The molar specific heat at constant pressure of an ideal gas is (7/2) R.  The ratio of specific heat at constant pressure to that at constant volume is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "9/7"
+        },
+        {
+          "key": "B",
+          "value": "7/5"
+        },
+        {
+          "key": "C",
+          "value": "8/7"
+        },
+        {
+          "key": "D",
+          "value": "5/7"
+        }
+      ],
+      "answer": "B",
+      "explanation": "$${C_P} = {7 \\over 2}R;{C_V} = {C_P} - R$$<br><br>\n$$ = {7 \\over 2}R - R = {5 \\over 2}R$$<br><br>\n$${{{C_P}} \\over {{C_V}}} = {{7/2R} \\over {5/2R}} = {7 \\over 5}$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A Carnot engine whose sink is at 300 K has an efficiency of 40%. By how much should the temperature of source be increased so as to increase its efficiency by 50% of original efficiency ? ",
+      "options": [
+        {
+          "key": "A",
+          "value": "380 K"
+        },
+        {
+          "key": "B",
+          "value": "275 K "
+        },
+        {
+          "key": "C",
+          "value": "325 K"
+        },
+        {
+          "key": "D",
+          "value": "250  K "
+        }
+      ],
+      "answer": "D",
+      "explanation": "We know that efficiency of Carnot Engine\n<br><br>\n$$ = {{{T_1} - {T_2}} \\over {{T_1}}}$$<br><br>\nwhere, T<sub>1</sub> is temp. of source &amp; T<sub>2</sub> is temp. of sink<br><br>\n$$ \\therefore 0.40 = {{{T_1} - 300} \\over {{T_1}}} \\Rightarrow {T_1} - 300 = 0.40{T_1}$$<br><br>\n$$0.6{T_1} = 300 \\Rightarrow {T_1} = {{300} \\over {0.6}} = {{3000} \\over 6} = 500K$$<br><br>\nNow efficiency to be increased by 50%<br><br>\n$$ \\therefore $$ $$0.60 = {{{T_1} - 300} \\over {{T_1}}} \\Rightarrow {T_1} - 300 = 0.6{T_1}$$<br><br>\n$$0.4{T_1} = 300 \\Rightarrow {T_1} = {{300} \\over {0.4}} = {{300 \\times 10} \\over 4} = 750$$<br><br>\nIncrease in temp = 750 – 500 = 250 K "
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Which of the following processes is reversible? ",
+      "options": [
+        {
+          "key": "A",
+          "value": "Transfer of heat by conduction "
+        },
+        {
+          "key": "B",
+          "value": "Transfer of heat by radiation"
+        },
+        {
+          "key": "C",
+          "value": "Isothermal compression"
+        },
+        {
+          "key": "D",
+          "value": "Electrical heating of a nichrome wire. "
+        }
+      ],
+      "answer": "C",
+      "explanation": "For a process to be reversible, it must be quasi-static. For quasi static process, all changes take place infinitely slowly. Isothermal process occur very slowly so it is quasi-static and hence it is reversible. "
+    },
+    {
+      "_type": "single_mcq",
+      "body": "An ideal gas heat engine operates in Carnot cycle between 227<sup>o</sup>C and 127<sup>o</sup>C. It absorbs 6 $$ \\times $$ 10<sup>4</sup> cal of heat at higher temperature. Amount of heat converted to work is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "4.8 $$ \\times $$ 10<sup>4</sup> cal"
+        },
+        {
+          "key": "B",
+          "value": "6 $$ \\times $$ 10<sup>4</sup> cal"
+        },
+        {
+          "key": "C",
+          "value": "2.4 $$ \\times $$ 10<sup>4</sup> cal"
+        },
+        {
+          "key": "D",
+          "value": "1.2 $$ \\times $$ 10<sup>4</sup> cal. "
+        }
+      ],
+      "answer": "D",
+      "explanation": "$$1 - {{{T_2}} \\over {{T_1}}} = 1 - {{{Q_2}} \\over {{Q_1}}}$$<br><br>\n$$ \\Rightarrow 1 - {{400} \\over {500}} = 1 - {{{Q_2}} \\over {6 \\times {{10}^4}}}$$<br><br>\n$$ \\Rightarrow {4 \\over 5} = {{{Q_2}} \\over {6 \\times {{10}^4}}} \\Rightarrow {Q_2} = 4.8 \\times {10^4}cal$$<br><br>\nNet heat converted into work <br><br>\n$$ = 6.0 \\times {10^4} - 4.8 \\times {10^4} = 1.2 \\times {10^4}cal$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "One mole of an ideal gas at an initial temperature of T K does 6R joule of work adiabatically. If the ratio of specific heats of this gas at constant pressure and at constant volume is 5/3, the final temperature of gas will be",
+      "options": [
+        {
+          "key": "A",
+          "value": "(T + 2.4) K "
+        },
+        {
+          "key": "B",
+          "value": "(T $$-$$ 2.4) K"
+        },
+        {
+          "key": "C",
+          "value": "(T + 4) K"
+        },
+        {
+          "key": "D",
+          "value": "(T $$-$$ 4) K"
+        }
+      ],
+      "answer": "D",
+      "explanation": "$${T_1} = T,W = 6R\\,joules,\\gamma  = {5 \\over 3}$$<br><br>\n$$W = {{{P_1}{V_1} - {P_2}{V_2}} \\over {\\gamma  - 1}} = {{nR{T_1} - nR{T_2}} \\over {\\gamma  - 1}}$$<br><br>\n$$ = {{nR\\left( {{T_1} - {T_2}} \\right)} \\over {\\gamma  - 1}}$$<br><br>\n$$n = 1,{T_1} = T \\Rightarrow {{R\\left( {T - {T_2}} \\right)} \\over {5/3 - 1}} = 6R$$<br><br>\n$$ \\Rightarrow {T_2} = \\left( {T - 4} \\right)K$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The equation of state for 5 g of oxygen at a pressure P and temperature T, when occupying a volume V, will be \n<br>(where R is the gas constant)",
+      "options": [
+        {
+          "key": "A",
+          "value": "PV = (5/32)RT"
+        },
+        {
+          "key": "B",
+          "value": "PV = 5RT"
+        },
+        {
+          "key": "C",
+          "value": "PV = (5/2)RT"
+        },
+        {
+          "key": "D",
+          "value": "PV = (5/16) RT "
+        }
+      ],
+      "answer": "A",
+      "explanation": "As PV = nRT\n<br><br>\n$$n = {m \\over {molecular\\,mass}} = {5 \\over {32}}$$<br><br>\n$$ \\Rightarrow PV = \\left( {{5 \\over {32}}} \\right)RT$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "An ideal gas heat engine operates in a Carnot cycle between 227<sup>o</sup>C and 127<sup>o</sup>C. It absorbs 6 kcal at the height temperature. The amount of heat (in kcal) converted into work is equal to",
+      "options": [
+        {
+          "key": "A",
+          "value": "4.8"
+        },
+        {
+          "key": "B",
+          "value": "3.5"
+        },
+        {
+          "key": "C",
+          "value": "1.6"
+        },
+        {
+          "key": "D",
+          "value": "1.2"
+        }
+      ],
+      "answer": "D",
+      "explanation": "Efficiency of Carnot engine\n<br><br>\n$$ = {W \\over {{Q_1}}} = 1 - {{{T_2}} \\over {{T_1}}}$$<br><br>\n$${W \\over 6} = 1 - {{400} \\over {500}} = {1 \\over 5} \\Rightarrow W = {6 \\over 5} = 1.2\\,kcal$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The efficiency of Carnot engine is 50% and temperature of sink is 500 K. If temperature of source is kept constant and its efficiency raised to 60%, then the required temperature of sink will be ",
+      "options": [
+        {
+          "key": "A",
+          "value": "100 K"
+        },
+        {
+          "key": "B",
+          "value": "600 K"
+        },
+        {
+          "key": "C",
+          "value": "400 K "
+        },
+        {
+          "key": "D",
+          "value": "500 K"
+        }
+      ],
+      "answer": "C",
+      "explanation": "Efficiency ($$\\eta$$) of a carnot engine is given by\n $$\\eta  = 1 - {{{T_2}} \\over {{T_1}}}$$, where T<sub>1</sub> is the temperature of the source and T<sub>2</sub> is the temperature of the sink. <br><br>\nHere, T<sub>2</sub> = 500 K <br><br>\n$$ \\therefore $$ $$0.5 = 1 - {{500} \\over {{T_1}}} \\Rightarrow {T_1} = 1000K$$<br><br>\nNow, $$\\eta  = 0.6 = 1 - {{{T_2}'} \\over {1000}}$$ (T<sub>2</sub>' is the new sink\ntemperature)<br><br>$$ \\Rightarrow {T_2}' = 400\\,K$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A scientist says that the efficiency of his heat engine which work at source temperature 127<sup>o</sup>C and sink temperature 27<sup>o</sup>C is 26%, then",
+      "options": [
+        {
+          "key": "A",
+          "value": "it is impossible"
+        },
+        {
+          "key": "B",
+          "value": "it is possible but less probable"
+        },
+        {
+          "key": "C",
+          "value": "it is quite probable"
+        },
+        {
+          "key": "D",
+          "value": "data are incomplete."
+        }
+      ],
+      "answer": "A",
+      "explanation": "Efficiency is maximum in Carnot engine which is an ideal engine. <br><br>\n$$ \\because \\eta  = {{400 - 300} \\over {400}} \\times 100\\%  = 25\\% $$<br><br>\n$$ \\therefore $$  efficiency 26% is impossible for his heat engine.\n"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "To find out degree of freedom, the expansion is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$f = {2 \\over {\\gamma  - 1}}$$"
+        },
+        {
+          "key": "B",
+          "value": "$$f = {{\\gamma  + 1} \\over 2}$$"
+        },
+        {
+          "key": "C",
+          "value": "$$f = {2 \\over {\\gamma  + 1}}$$"
+        },
+        {
+          "key": "D",
+          "value": "$$f = {1 \\over {\\gamma  + 1}}$$"
+        }
+      ],
+      "answer": "A",
+      "explanation": "$$\\gamma  = 1 + {2 \\over f}$$<br><br>\nwhere f is the degree of freedom <br><br>\n$$ \\therefore $$ $${2 \\over f} = \\gamma  - 1 \\Rightarrow f = {2 \\over {\\gamma  - 1}}$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The (W/Q) of a Carnot engine is 1/6, now the temperature of sink is reduced by 62<sup>o</sup>C, then this ratio becomes twice, therefore the initial temperature of the sink and source are respectively ",
+      "options": [
+        {
+          "key": "A",
+          "value": "33<sup>o</sup>C, 67<sup>o</sup>C"
+        },
+        {
+          "key": "B",
+          "value": "37<sup>o</sup>C, 99<sup>o</sup>C"
+        },
+        {
+          "key": "C",
+          "value": "67<sup>o</sup>C, 33<sup>o</sup>C "
+        },
+        {
+          "key": "D",
+          "value": "97 K, 37 K"
+        }
+      ],
+      "answer": "B",
+      "explanation": "Initially the efficiency of the engine was\n$${1 \\over 6}$$ which increases to $${1 \\over 3}$$ when the sink temperature reduces by 62º C.<br><br>\n$$\\eta  = {1 \\over 6} = 1 - {{{T_2}} \\over {{T_1}}}$$ when T<sub>2</sub> = sink temperature\n, T<sub>1</sub> = source temperature<br><br>\n$$ \\Rightarrow {T_2} = {5 \\over 6}{T_1}$$<br><br>\nSecondly,<br>\n$${1 \\over 3} = 1 - {{{T_2} - 62} \\over {{T_1}}} = 1 - {{{T_2}} \\over {{T_1}}} + {{62} \\over {{T_1}}}$$<br><br>\n$$ = 1 - {5 \\over 6} + {{62} \\over {{T_1}}}$$<br><br>\n$$ \\Rightarrow {T_1} = 62 \\times 6 = 372K = 372 - 273 = {99^o}C$$<br><br>\n&amp; $${T_2} = {5 \\over 6} \\times 372 = 310K = 310 - 273 = {37^o}C$$"
+    }
+  ]
+}

@@ -1,0 +1,835 @@
+{
+  "_index": {
+    "name": "Circle"
+  },
+  "_children": [
+    {
+      "_type": "single_mcq",
+      "body": "Consider M with $$r = {{1025} \\over {513}}$$. Let k be the number of all those circles C<sub>n</sub> that are inside M. Let l be the maximum possible number of circles among these k circles such that no two circles intersect. Then",
+      "options": [
+        {
+          "key": "A",
+          "value": "k + 2l = 22"
+        },
+        {
+          "key": "B",
+          "value": "2k + l = 26"
+        },
+        {
+          "key": "C",
+          "value": "2k + 3l = 34"
+        },
+        {
+          "key": "D",
+          "value": "3k + 2l = 40"
+        }
+      ],
+      "answer": "D",
+      "explanation": "$$\\because$$ $${a_n} = {1 \\over {{2^{n - 1}}}}$$ and $${S_n} = 2\\left( {1 - {1 \\over {{2^n}}}} \\right)$$<br/><br/>For circle C<sub>n</sub> to be inside M.<br/><br/>$${S_{n - 1}} + {a_n} < {{1025} \\over {513}} \\Rightarrow {S_n} < {{1025} \\over {513}}$$<br/><br/>$$ \\Rightarrow 2\\left( {1 - {1 \\over {{2^n}}}} \\right) < {{1025} \\over {513}} \\Rightarrow 1 - {1 \\over {{2^n}}} < {{1025} \\over {1026}}$$<br/><br/>$$ \\Rightarrow 1 - {1 \\over {{2^n}}} < 1 - {1 \\over {1026}} \\Rightarrow {{ - 1} \\over {{2^n}}} < {{ - 1} \\over {1026}}$$<br/><br/>$$ \\Rightarrow {1 \\over {{2^n}}} > {1 \\over {1026}} \\Rightarrow {2^n} < 1026 \\Rightarrow n \\le 10$$<br/><br/>$$\\therefore$$ Number of circles inside be 10 = k. Clearly, alternate circle do not intersect each other i.e. C<sub>1</sub>, C<sub>3</sub>, C<sub>5</sub>, C<sub>7</sub>, C<sub>9</sub> do not intersect each other as well as C<sub>2</sub>, C<sub>4</sub>, C<sub>6</sub>, C<sub>8</sub> and C<sub>10</sub> do not intersect each other.<br/><br/>Hence, maximum 5 set of circles do not intersect each other.<br/><br/>$$\\therefore$$ l = 5<br/><br/>So, 3k + 2l = 40"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Consider M with $$r = {{({2^{199}} - 1)\\sqrt 2 } \\over {{2^{198}}}}$$. The number of all those circles D<sub>n</sub> that are inside M is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "198"
+        },
+        {
+          "key": "B",
+          "value": "199"
+        },
+        {
+          "key": "C",
+          "value": "200"
+        },
+        {
+          "key": "D",
+          "value": "201"
+        }
+      ],
+      "answer": "B",
+      "explanation": "$$\\because$$ $$r = {{({2^{199}} - 1)\\sqrt 2 } \\over {{2^{198}}}}$$<br/><br/>Now, $$\\sqrt 2 {s_{n - 1}} + {a_n} < \\left( {{{{2^{199}} - 1} \\over {{2^{198}}}}} \\right)\\sqrt 2 $$<br/><br/>$$2\\sqrt 2 \\left( {1 - {1 \\over {{2^{n - 1}}}}} \\right) + {1 \\over {{2^{n - 1}}}} < \\left( {{{{2^{199}} - 1} \\over {{2^{198}}}}} \\right)\\sqrt 2 $$<br/><br/>$$\\therefore$$ $$2\\sqrt 2  - {{\\sqrt 2 } \\over {{2^{n - 2}}}} + {1 \\over {{2^{n - 1}}}} < 2\\sqrt 2  - {{\\sqrt 2 } \\over {{2^{198}}}}$$<br/><br/>$${1 \\over {{2^{n - 2}}}}\\left( {{1 \\over 2} - \\sqrt 2 } \\right) <  - {{\\sqrt 2 } \\over {{2^{198}}}} \\Rightarrow {{2\\sqrt 2  - 1} \\over {2\\,.\\,{2^{n - 2}}}} > {{\\sqrt 2 } \\over {{2^{198}}}}$$<br/><br/>$$ \\Rightarrow {2^{n - 2}} < \\left( {2 - {1 \\over {\\sqrt 2 }}} \\right)\\,.\\,{2^{197}}$$<br/><br/>$$\\therefore$$ n $$\\le$$ 199<br/><br/>So, number of circles = 199"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A tangent PT is drawn to the circle $${x^2}\\, + {y^2} = 4$$ at the point P $$\\left( {\\sqrt 3 ,1} \\right)$$. A straight line L, perpendicular to PT is a tangent to the circle $${(x - 3)^2}$$ + $${y^2}$$ = 1.\n<p> A possible equation of L is </p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "$${x - \\sqrt 3 \\,y = 1}$$ "
+        },
+        {
+          "key": "B",
+          "value": "$${x + \\sqrt 3 \\,y = 1}$$"
+        },
+        {
+          "key": "C",
+          "value": "$${x - \\sqrt 3 \\,y = -1}$$"
+        },
+        {
+          "key": "D",
+          "value": "$${x + \\sqrt 3 \\,y = 5}$$ "
+        }
+      ],
+      "answer": "A",
+      "explanation": "<p>Equation of tangent PT of the circle $$x^2+y^2=4$$ at $$\\mathrm{P}(\\sqrt{3}, 1)$$ is</p>\n<p>$$\\Rightarrow \\quad \\sqrt{3} x+y=4$$</p>\n<p>Given, L is a line perpendicular to PT</p>\n<p>$$\\therefore \\quad \\mathrm{L} \\equiv x-\\sqrt{3} y=\\lambda$$</p>\n<p>Also given L is the tangent of circle</p>\n<p>$$(x-3)^2+y^2=1$$</p>\n<p>$$\\begin{array}{ll}\n\\Rightarrow & 1=\\frac{|3-\\sqrt{3} \\cdot 0-\\lambda|}{\\sqrt{1^2+(-\\sqrt{3})^2}} \\\\\n\\Rightarrow & |3-\\lambda|=2 \\\\\n\\Rightarrow & 3-\\lambda= \\pm 2 \\\\\n\\Rightarrow & \\lambda=1,5\n\\end{array}$$</p>\n<p>Hence, the possible equation of line L are $$x-\\sqrt{3} y=1$$ and $$x-\\sqrt{3} y=5$$.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A tangent PT is drawn to the circle $${x^2}\\, + {y^2} = 4$$ at the point P $$\\left( {\\sqrt 3 ,1} \\right)$$. A straight line L, perpendicular to PT is a tangent to the circle $${(x - 3)^2}$$ + $${y^2}$$ = 1\n<p> A common tangent of the two circles is </p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "x = 4"
+        },
+        {
+          "key": "B",
+          "value": "y = 2"
+        },
+        {
+          "key": "C",
+          "value": "$${x + \\sqrt 3 \\,y = 4}$$"
+        },
+        {
+          "key": "D",
+          "value": "$${x +2 \\sqrt 2 \\,y = 6}$$"
+        }
+      ],
+      "answer": "D",
+      "explanation": "<p>The equation of tangent of the circle $$x^2+y^2=4$$ is $$y=m x \\pm 2 \\sqrt{1+m^2}\\quad \\text{.... (i)}$$</p>\n<p>Let $$y=m x \\pm 2 \\sqrt{1+m^2}$$ also touches $$(x-3)^2+ y^2=1$$</p>\n<p>$$\\Rightarrow(x-3)^2+\\left(m x \\pm 2 \\sqrt{1+m^2}\\right)^2=1$$</p>\n<p>$$\\Rightarrow x^2-6 x+9+m^2 x^2+4\\left(1+m^2\\right) \\pm 4 m \\sqrt{1+m^2} x=1$$</p>\n<p>$$\\Rightarrow\\left(1+m^2\\right) x^2+\\left(-6 \\pm 4 m \\sqrt{1+m^2}\\right) x+4\\left(m^2+3\\right)=0$$</p>\n<p>Apply</p>\n<p>$$\\begin{aligned}\n& \\quad \\left(-6 \\pm 4 m \\sqrt{1+m^2}\\right)^2-4\\left(1+m^2\\right) \\cdot 4\\left(m^2+3\\right)=0 \\\\\n\\Rightarrow \\quad & 36+16 m^2\\left(1+m^2\\right) \\pm 48 m \\sqrt{1+m^2} \\\\\n& \\quad -16\\left(m^4+4 m^2+3\\right)=0 \\\\\n\\Rightarrow \\quad & 4 m^2+1= \\pm 4 m \\sqrt{1+m^2}\n\\end{aligned}$$</p>\n<p>On squaring both side</p>\n<p>$$\\begin{array}{rlrl}\n\\Rightarrow & 16 m^4+1+8 m^2 =16 m^2+16 m^4 \\\\\n\\Rightarrow & m^2 =\\frac{1}{8} \\\\\n\\Rightarrow & m = \\pm \\frac{1}{2 \\sqrt{2}}\n\\end{array}$$</p>\n<p>$$\\begin{array}{ll}\n\\text { Put } & m= \\pm \\frac{1}{2 \\sqrt{2}} \\text { in the equation (i) } \\\\\n\\Rightarrow & y= \\pm \\frac{x}{2 \\sqrt{2}} \\pm \\frac{6}{2 \\sqrt{2}} \\\\\n\\Rightarrow & 2 \\sqrt{2} y= \\pm x \\pm 6\n\\end{array}$$</p>\n<p>Hence, the equation of common tangent of given circles are $$2 \\sqrt{2} y=-x+6,2 \\sqrt{2} y=x+6, 2 \\sqrt{2} y=-x-6$$ and $$2 \\sqrt{2} y=x-6$$.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The circle passing through the point (-1, 0) and touching the y-axis at (0, 2) also passes through the point.",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$\\left( { - {3 \\over 0},0} \\right)$$ "
+        },
+        {
+          "key": "B",
+          "value": "$$\\left( { - {5 \\over 2},2} \\right)$$"
+        },
+        {
+          "key": "C",
+          "value": "$$\\left( { - {3 \\over 0},\\,{5 \\over 2}} \\right)$$ "
+        },
+        {
+          "key": "D",
+          "value": "(- 4, 0)"
+        }
+      ],
+      "answer": "D",
+      "explanation": "<p>Circle touching y-axis at (0, 2) is $${(x - 0)^2} + {(y - 2)^2} + \\lambda x = 0$$ passes through ($$-$$1, 0).</p>\n<p>Therefore, $$1 + 4 - \\lambda  = 0 \\Rightarrow \\lambda  = 5$$</p>\n<p>Hence, $${x^2} + {y^2} + 5x - 4y + 4 = 0$$</p>\n<p>Substituting $$y = 0 \\Rightarrow x =  - 1,\\, - 4$$.</p>\n<p>Hence, the Circle passes through ($$-$$4, 0).</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Tangents drawn from the point P (1, 8) to the circle \n<br> $${x^2}\\, + \\,{y^2}\\, - \\,6x\\, - 4y\\, - 11 = 0$$\n<br> touch the circle at the points A and B. The equation of the cirumcircle of the triangle PAB is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$${x^2}\\, + \\,{y^2}\\, + \\,4x\\,\\, - 6y\\, + 19 = 0$$ "
+        },
+        {
+          "key": "B",
+          "value": "$${x^2}\\, + \\,{y^2}\\, - \\,4x\\,\\, - 10y\\, + 19 = 0$$ "
+        },
+        {
+          "key": "C",
+          "value": "$${x^2}\\, + \\,{y^2}\\, - \\,2x\\,\\, + 6y\\, - 29 = 0$$ "
+        },
+        {
+          "key": "D",
+          "value": "$${x^2}\\, + \\,{y^2}\\, - \\,6x\\,\\, - 4y\\, + 19 = 0$$ "
+        }
+      ],
+      "answer": "B",
+      "explanation": "<p>From the given data, the centre of the circle is C(3, 2).</p>\n<p>Since, CA and CB are perpendicular to PA and PB, CP is the diameter of the circumcircle of triangle PAB. Its equation is</p>\n<p>$$(x - 3)(x - 1) + (y - 2)(y - 8) = 0$$</p>\n<p>or $${x^2} + {y^2} - 4x - 10y + 19 = 0$$.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p> The equation of circle C is </p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "$${\\left( {x\\, - 2\\sqrt 3 \\,} \\right)^2} + {(y - 1)^2} = 1$$ "
+        },
+        {
+          "key": "B",
+          "value": "$${\\left( {x\\, - 2\\sqrt 3 \\,} \\right)^2} + {(y + {1 \\over 2})^2} = 1$$ "
+        },
+        {
+          "key": "C",
+          "value": "$${\\left( {x\\, - \\sqrt 3 \\,} \\right)^2} + {(y + 1)^2} = 1$$ "
+        },
+        {
+          "key": "D",
+          "value": "$${\\left( {x\\, - \\sqrt 3 \\,} \\right)^2} + {(y - 1)^2} = 1$$  "
+        }
+      ],
+      "answer": "D",
+      "explanation": "<p>Let centre of circle C be (h, k) then,</p>\n<p>$$\\left| {{{\\sqrt 3 h + k - 6} \\over {\\sqrt {3 + 1} }}} \\right| = 1$$</p>\n<p>$$\\sqrt 3 h + k - 6 = 2, - 2$$</p>\n<p>$$\\sqrt 3 h + k = 4$$ (rejecting 2 because origin and centre of point $$\\left( {\\sqrt 3 ,1} \\right)$$, satisfies eq.)</p>\n<p>eq. of circle (C) is</p>\n<p>$${\\left( {x - \\sqrt 3 } \\right)^2} + {(y - 1)^2} = 1$$</p>\n<p>Clearly point E and F satisfy the equation in given option D.</p>\n<p>As $${\\left( {x - 2\\sqrt 3 } \\right)^2} + {(y - 1)^2} = 1$$ not possible.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p> Points E and F are given by </p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$\\left( {{{\\,\\sqrt 3 } \\over 2},\\,{3 \\over 2}} \\right),\\,\\left( {\\sqrt 3 ,\\,0} \\right)$$ "
+        },
+        {
+          "key": "B",
+          "value": "$$\\left( {{{\\,\\sqrt 3 } \\over 2},\\,{1 \\over 2}} \\right),\\,\\left( {\\sqrt 3 ,\\,0} \\right)$$"
+        },
+        {
+          "key": "C",
+          "value": "$$\\left( {{{\\,\\sqrt 3 } \\over 2},\\,{3 \\over 2}} \\right),\\,\\left( {{{\\,\\sqrt 3 } \\over 2},\\,{1 \\over 2}} \\right)$$ "
+        },
+        {
+          "key": "D",
+          "value": "$$\\left( {{{\\,3} \\over 2},\\,{{\\sqrt 3 } \\over 2}} \\right),\\,\\left( {{{\\,\\sqrt 3 } \\over 2},\\,{1 \\over 2}} \\right)$$ "
+        }
+      ],
+      "answer": "A",
+      "explanation": "<p>Slope of line $$PQ =  - \\sqrt 3 $$</p>\n<p>Therefore, PQ make 120$$^\\circ$$ angle with x-axis. So, side PR lies along X-axis.</p>\n<p>Therefore, $$F = \\left( {\\sqrt 3 ,0} \\right)$$</p>\n<p>Now, equation CE is $${{x - \\sqrt 3 } \\over {{{ - \\sqrt 3 } \\over 2}}} = {{y - 1} \\over {{1 \\over 2}}} = 1$$</p>\n<p>$$E = \\left( {{{\\sqrt 3 } \\over 2},{3 \\over 2}} \\right)$$</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p> Equations of the sides QR, RP are </p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$y = {2 \\over {\\sqrt 3 }}\\,x + \\,1,\\,\\,y = \\,  - {2 \\over {\\sqrt 3 }}\\,x - 1$$ "
+        },
+        {
+          "key": "B",
+          "value": "$$y = {1 \\over {\\sqrt 3 }}\\,x,\\,\\,y = \\,0$$ "
+        },
+        {
+          "key": "C",
+          "value": "$$y = {{\\sqrt 3 } \\over 2}\\,x + \\,1,\\,\\,y = \\, - {{\\sqrt 3 } \\over 2}\\,x - 1$$ "
+        },
+        {
+          "key": "D",
+          "value": "$$y = \\sqrt 3 \\,x,\\,\\,y = \\,0$$ "
+        }
+      ],
+      "answer": "D",
+      "explanation": "<p>Equation of PR is X-axis, that is $$y = 0$$ and the equation of side QR is</p>\n<p>$$\\left( {y - {3 \\over 2}} \\right) = \\sqrt 3 \\left( {x - {{\\sqrt 3 } \\over 2}} \\right)$$</p>\n<p>$$y = \\sqrt 3 x$$</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "ABCD is a square of side length 2 units. $$C_1$$ is the circle touching all the sides of the square ABCD and $$C_2$$ is the circumcircle of  square ABCD. L is a fixed line in the same plane and R is a fixed point.\n<p> If a circle is such that it touches the line L and the circle $$C_1$$ externally, such that both the circles are on the same side of the line, then the locus of centre of the circle is </p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "ellipse"
+        },
+        {
+          "key": "B",
+          "value": "hyper bola"
+        },
+        {
+          "key": "C",
+          "value": "parabola"
+        },
+        {
+          "key": "D",
+          "value": "pair of straight line "
+        }
+      ],
+      "answer": "B",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "ABCD is a square of side length 2 units. $$C_1$$ is the circle touching all the sides of the square ABCD and $$C_2$$ is the circumcircle of  square ABCD. L is a fixed line in the same plane and R is a fixed point.\n<p> A line L' through A is drawn parallel to BD. Point S moves such that its distances from the BD and the vertex A are equal. If locus of S cuts L' at $$T_2$$ and $$T_3$$  and AC at $$T_1$$, then area of $$\\Delta \\,{T_1}\\,{T_2}\\,{T_3}$$ is </p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "$${1 \\over 2}\\,sq.\\,units$$ "
+        },
+        {
+          "key": "B",
+          "value": "$${2 \\over 3}\\,sq.\\,units$$"
+        },
+        {
+          "key": "C",
+          "value": "1 sq. units"
+        },
+        {
+          "key": "D",
+          "value": "2 sq.units "
+        }
+      ],
+      "answer": "C",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "ABCD is a square of side length 2 units. $${C_1}$$ is the circle touching all the sides of the square ABCD and $${C_2}$$ is the circumcircle of  square ABCD. L is a fixed line in the same plane and R is a fixed point.\n<p> If P is any point of $${C_1}$$ and Q is another point on $${C_2}$$, then </p>\n<br> $${{P{A^2}\\, + \\,P{B^2}\\, + P{C^2}\\, + P{D^2}} \\over {Q{A^2} + \\,Q{B^2}\\, + Q{C^2}\\, + Q{D^2}}}$$ is equal to ",
+      "options": [
+        {
+          "key": "A",
+          "value": "0.75"
+        },
+        {
+          "key": "B",
+          "value": "1.25"
+        },
+        {
+          "key": "C",
+          "value": "1 "
+        },
+        {
+          "key": "D",
+          "value": "0.5"
+        }
+      ],
+      "answer": "A",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A circle is given by $${x^2}\\, + \\,{(y\\, - \\,1\\,)^2}\\, = \\,1$$,  another circle C touches it externally and also the x-axis, then thelocus of its centre is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$\\{ (x,\\,y):\\,\\,{x^2} = \\,4y\\} \\, \\cup \\,\\{ (x,\\,y):\\,\\,y \\le \\,0\\,\\} $$ "
+        },
+        {
+          "key": "B",
+          "value": "$$\\{ (x,\\,y):\\,\\,{x^2} + \\,{(y\\, - \\,1)^2}\\, = \\,4\\} \\, \\cup \\,\\{ (x,\\,\\,y):\\,\\,y \\le \\,0\\,\\} $$ "
+        },
+        {
+          "key": "C",
+          "value": "$$\\{ (x,\\,y):\\,\\,{x^2} = \\,y\\} \\, \\cup \\,\\{ (0,\\,\\,y):\\,\\,y \\le \\,0\\,\\} $$ "
+        },
+        {
+          "key": "D",
+          "value": "$$\\{ (x,\\,y):\\,\\,{x^2} = \\,4y\\} \\, \\cup \\,\\{ (0,\\,\\,y):\\,\\,y \\le \\,0\\,\\} $$ "
+        }
+      ],
+      "answer": "D",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "If one of the diameters of the circle $${x^2} + {y^2} - 2x - 6y + 6 = 0$$ is a chord to the circle with centre (2, 1), then the radius of the circle is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$${\\sqrt 3 }$$ "
+        },
+        {
+          "key": "B",
+          "value": "$${\\sqrt 2 }$$"
+        },
+        {
+          "key": "C",
+          "value": "3 "
+        },
+        {
+          "key": "D",
+          "value": "2 "
+        }
+      ],
+      "answer": "C",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The centre of circle inscibed in square formed by the lines $${x^2} - 8x + 12 = 0\\,\\,and\\,{y^2} - 14y + 45 = 0$$, is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "(4, 7)"
+        },
+        {
+          "key": "B",
+          "value": "(7, 4)"
+        },
+        {
+          "key": "C",
+          "value": "(9, 4)"
+        },
+        {
+          "key": "D",
+          "value": "(4, 9)"
+        }
+      ],
+      "answer": "A",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "If $$a &gt; 2b &gt; 0$$ then the positive value of $$m$$ for which $$y = mx - b\\sqrt {1 + {m^2}} $$ is a common tangent to $${x^2} + {y^2} = {b^2}$$ and $${\\left( {x - a} \\right)^2} + {y^2} = {b^2}$$ is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$${{2b} \\over {\\sqrt {{a^2} - 4{b^2}} }}$$ "
+        },
+        {
+          "key": "B",
+          "value": "$${{\\sqrt {{a^2} - 4{b^2}} } \\over {2b}}$$ "
+        },
+        {
+          "key": "C",
+          "value": "$${{2b} \\over {a - 2b}}$$ "
+        },
+        {
+          "key": "D",
+          "value": "$${{b} \\over {a - 2b}}$$"
+        }
+      ],
+      "answer": "A",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "If the tangent at the point P on the circle $${x^2} + {y^2} + 6x + 6y = 2$$  meets a straight line 5x - 2y + 6 = 0 at a point Q on the y-axis, then the lenght of PQ is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "4 "
+        },
+        {
+          "key": "B",
+          "value": "$${2\\sqrt 5 }$$ "
+        },
+        {
+          "key": "C",
+          "value": "5 "
+        },
+        {
+          "key": "D",
+          "value": "$${3\\sqrt 5 }$$"
+        }
+      ],
+      "answer": "C",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Let PQ and RS be tangents at the extremities of the diameter PR of a circle of radius r. If PS and RQ intersect at a point X on the circumference of the circle, then 2r equals ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$\\sqrt {PQ.\\,RS} $$ "
+        },
+        {
+          "key": "B",
+          "value": "(PQ + RS) / 2"
+        },
+        {
+          "key": "C",
+          "value": "2 PQ. RS/(PQ + RS)"
+        },
+        {
+          "key": "D",
+          "value": "$$\\sqrt {\\left( {P{Q^2} + \\,R{S^2}} \\right)} \\,\\,/2$$ "
+        }
+      ],
+      "answer": "A",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Let A B be a chord of the circle $${x^2} + {y^2} = {r^2}$$ subtending a right angle at the centre. Then the locus of the centriod of the triangle PAB as P moves on the circle is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "a parabola"
+        },
+        {
+          "key": "B",
+          "value": "a circle"
+        },
+        {
+          "key": "C",
+          "value": "an ellipse"
+        },
+        {
+          "key": "D",
+          "value": "a pair of straight lines "
+        }
+      ],
+      "answer": "B",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "If the circles $${x^2}\\, + \\,{y^2}\\, + \\,\\,2x\\, + \\,2\\,k\\,y\\,\\, + \\,6\\,\\, = \\,\\,0,\\,\\,{x^2}\\, + \\,\\,{y^2}\\, + \\,2ky\\, + \\,k\\, = \\,0$$ intersect orthogonally, then k is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "2 or $$ - {3 \\over 2}$$"
+        },
+        {
+          "key": "B",
+          "value": "- 2 or $$ - {3 \\over 2}$$"
+        },
+        {
+          "key": "C",
+          "value": "2 or $$  {3 \\over 2}$$"
+        },
+        {
+          "key": "D",
+          "value": "- 2 or $$  {3 \\over 2}$$"
+        }
+      ],
+      "answer": "A",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The triangle PQR is inscribed in the circle $${x^2}\\, + \\,\\,{y^2} = \\,25$$.  If Q and R have co-ordinates (3, 4) and ( - 4, 3) respectively, then $$\\angle \\,Q\\,P\\,R$$  is equal to ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$${\\pi  \\over 2}$$ "
+        },
+        {
+          "key": "B",
+          "value": "$${\\pi  \\over 3}$$"
+        },
+        {
+          "key": "C",
+          "value": "$${\\pi  \\over 4}$$"
+        },
+        {
+          "key": "D",
+          "value": "$${\\pi  \\over 6}$$"
+        }
+      ],
+      "answer": "C",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "If two distinct chords, drawn from the point (p, q) on the circle $${x^2}\\, + \\,{y^2} = \\,px\\, + \\,qy\\,\\,(\\,where\\,pq\\, \\ne \\,0)$$  are bisected by the x - axis, then",
+      "options": [
+        {
+          "key": "A",
+          "value": "$${p^2}\\, = \\,\\,{q^2}$$ "
+        },
+        {
+          "key": "B",
+          "value": "$$\\,{p^2}\\, = \\,\\,8\\,{q^2}$$ "
+        },
+        {
+          "key": "C",
+          "value": "$${p^2}\\, &lt; \\,\\,8\\,{q^2}$$ "
+        },
+        {
+          "key": "D",
+          "value": "$${p^2}\\, &gt; \\,\\,8\\,{q^2}$$."
+        }
+      ],
+      "answer": "D",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The angle between a pair of tangents drawn from a point P to the circle $${x^2}\\, + \\,{y^2}\\, + \\,\\,4x\\, - \\,6\\,y\\, + \\,9\\,{\\sin ^2}\\,\\alpha \\, + \\,13\\,{\\cos ^2}\\,\\alpha \\, = \\,0$$ is $$2\\,\\alpha $$. \n<br> The equation of the locus of the point P is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$${x^2}\\, + \\,{y^2}\\, + \\,\\,4x\\, - \\,6\\,y\\, + \\,4\\, = \\,0$$ "
+        },
+        {
+          "key": "B",
+          "value": "$${x^2}\\, + \\,{y^2}\\, + \\,\\,4x\\, - \\,6\\,y\\,\\, - \\,9\\,\\, = \\,0$$ "
+        },
+        {
+          "key": "C",
+          "value": "$${x^2}\\, + \\,{y^2}\\, + \\,\\,4x\\, - \\,6\\,y\\,\\, - \\,4\\,\\, = \\,0$$ "
+        },
+        {
+          "key": "D",
+          "value": "$${x^2}\\, + \\,{y^2}\\, + \\,\\,4x\\, - \\,6\\,y\\,\\, + \\,9\\,\\, = \\,0$$ "
+        }
+      ],
+      "answer": "D",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The circles $${x^2} + {y^2} - 10x + 16 = 0$$ and $${x^2} + {y^2} = {r^2}$$ intersect each other in two distinct points if ",
+      "options": [
+        {
+          "key": "A",
+          "value": "r &lt; 2"
+        },
+        {
+          "key": "B",
+          "value": "r &gt; 8"
+        },
+        {
+          "key": "C",
+          "value": "2 &lt; r &lt; 8"
+        },
+        {
+          "key": "D",
+          "value": "$$2 \\le r \\le 8$$ "
+        }
+      ],
+      "answer": "C",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The locus of the centre of a circle, which touches externally the circle $${x^2} + {y^2} - 6x - 6y + 14 = 0$$ and also touches the y-axis, is given by the equation:",
+      "options": [
+        {
+          "key": "A",
+          "value": "$${x^2} - 6x - 10y + 14 = 0$$ "
+        },
+        {
+          "key": "B",
+          "value": "$${x^2} - 10x - 6y + 14 = 0$$ "
+        },
+        {
+          "key": "C",
+          "value": "$${y^2} - 6x - 10y + 14 = 0$$ "
+        },
+        {
+          "key": "D",
+          "value": "$${y^2} - 10x - 6y + 14 = 0$$ "
+        }
+      ],
+      "answer": "D",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The centre of a circle passing through the points (0, 0), (1, 0) and touching the circle $${x^2} + {y^2} = 9$$is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$\\left( {{3 \\over 2},{1 \\over 2}} \\right)\\,$$ "
+        },
+        {
+          "key": "B",
+          "value": "$$\\left( {{1 \\over 2},{3 \\over 2}} \\right)\\,$$ "
+        },
+        {
+          "key": "C",
+          "value": "$$\\left( {{1 \\over 2},{1 \\over 2}} \\right)\\,$$"
+        },
+        {
+          "key": "D",
+          "value": "$$\\left( {{1 \\over 2}, - {2^{{1 \\over 2}}}} \\right)\\,$$ "
+        }
+      ],
+      "answer": "D",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "If the two circles $${(x - 1)^2} + {(y - 3)^2} = {r^2}$$ and $${x^2} + {y^2} - 8x + 2y + 8 = 0$$ intersect in two distinct points, then ",
+      "options": [
+        {
+          "key": "A",
+          "value": "2 &lt; r &lt; 8"
+        },
+        {
+          "key": "B",
+          "value": "r &lt; 2"
+        },
+        {
+          "key": "C",
+          "value": "r = 2"
+        },
+        {
+          "key": "D",
+          "value": "r &gt; 2"
+        }
+      ],
+      "answer": "A",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The lines 2x - 3y = 5 and 3x - 4y = 7 are diameters of a circle of area 154 sq. units. Then the equation of this circle is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$${x^2} + {y^2} + 2x - 2y = 62$$ "
+        },
+        {
+          "key": "B",
+          "value": "$${x^2} + {y^2} + 2x - 2y = 47$$ "
+        },
+        {
+          "key": "C",
+          "value": "$${x^2} + {y^2} - 2x + 2y = 47$$ "
+        },
+        {
+          "key": "D",
+          "value": "$${x^2} + {y^2} - 2x + 2y = 62$$c"
+        }
+      ],
+      "answer": "C",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "If a circle passes through the point (a, b) and cuts the circle $${x^2}\\, + \\,{y^2}\\, = \\,{k^2}$$ orthogonally, then the equation of the locus of its centre is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$2\\,ax\\, + \\,2\\,by\\, - \\,({a^2}\\, + \\,{b^2}\\, + \\,\\,{k^2})\\, = \\,0$$ "
+        },
+        {
+          "key": "B",
+          "value": "$$2\\,ax\\, + \\,2\\,by\\, - \\,({a^2}\\, - \\,\\,{b^2}\\, + \\,\\,{k^2})\\, = \\,0$$ "
+        },
+        {
+          "key": "C",
+          "value": "$${x^2}\\, + \\,{y^2}\\, - \\,3\\,\\,ax\\, + \\,4\\,by\\, + \\,\\,({a^2}\\, + \\,\\,{b^2}\\, - \\,\\,{k^2})\\, = \\,0$$ "
+        },
+        {
+          "key": "D",
+          "value": "$${x^2}\\, + \\,{y^2}\\, - \\,2\\,\\,ax\\, - \\,4\\,by\\, + \\,\\,({a^2}\\, - \\,\\,{b^2}\\, - \\,\\,{k^2})\\, = \\,0$$."
+        }
+      ],
+      "answer": "A",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The locus of the mid-point of a chord of the circle $${x^2} + {y^2} = 4$$ which subtends a right angle at the origin is",
+      "options": [
+        {
+          "key": "A",
+          "value": "x + y = 2"
+        },
+        {
+          "key": "B",
+          "value": "$${x^2} + {y^2} = 1$$ "
+        },
+        {
+          "key": "C",
+          "value": "$${x^2} + {y^2} = 2$$"
+        },
+        {
+          "key": "D",
+          "value": "$$x + y $$=1"
+        }
+      ],
+      "answer": "C",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The centre of the circle passing through the point (0, 1) and touching the curve $$\\,y = {x^2}$$ at (2, 4) is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$\\left( {{{ - 16} \\over 5},{{ - 27} \\over {10}}} \\right)$$ "
+        },
+        {
+          "key": "B",
+          "value": "$$\\left( {{{ - 16} \\over 7},{{53} \\over {10}}} \\right)$$ "
+        },
+        {
+          "key": "C",
+          "value": "$$\\left( {{{ - 16} \\over 5},{{53} \\over {10}}} \\right)$$ "
+        },
+        {
+          "key": "D",
+          "value": "none of these"
+        }
+      ],
+      "answer": "C",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The  equation of the circle passing through (1, 1) and the points of intersection of $${x^2} + {y^2} + 13x - 3y = 0$$ and $$2{x^2} + 2{y^2} + 4x - 7y - 25 = 0$$ is",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$4{x^2} + 4{y^2} - 30x - 10y - 25 = 0$$ "
+        },
+        {
+          "key": "B",
+          "value": "$$4{x^2} + 4{y^2} + 30x - 13y - 25 = 0$$ "
+        },
+        {
+          "key": "C",
+          "value": "$$4{x^2} + 4{y^2} - 17x - 10y + 25 = 0$$ "
+        },
+        {
+          "key": "D",
+          "value": "none of these "
+        }
+      ],
+      "answer": "B",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Two circles $${x^2} + {y^2} = 6$$ and $${x^2} + {y^2} - 6x + 8 = 0$$ are given. Then the equation of the circle through their points of intersection and the point (1, 1) is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$${x^2} + {y^2} - 6x + 4 = 0$$ "
+        },
+        {
+          "key": "B",
+          "value": "$${x^2} + {y^2} - 3x + 1 = 0$$ "
+        },
+        {
+          "key": "C",
+          "value": "$${x^2} + {y^2} - 4y + 2 = 0$$ "
+        },
+        {
+          "key": "D",
+          "value": "none of these"
+        }
+      ],
+      "answer": "B",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A square is inscribed in the circle $${x^2} + {y^2} - 2x + 4y + 3 = 0$$. Its sides are parallel to the coordinate axes. The one vertex of the square is  ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$\\left( {1 + \\sqrt {2,}  - 2} \\right)$$ "
+        },
+        {
+          "key": "B",
+          "value": "$$\\,\\left( {1 - \\sqrt {2},  - 2} \\right)$$ "
+        },
+        {
+          "key": "C",
+          "value": "$$\\,\\,\\left( {1, - 2 + \\sqrt 2 } \\right)$$ "
+        },
+        {
+          "key": "D",
+          "value": "none of these "
+        }
+      ],
+      "answer": "D",
+      "explanation": ""
+    },
+    {
+      "_type": "numerical",
+      "body": "Let $A_1, A_2, A_3, \\ldots, A_8$ be the vertices of a regular octagon that lie on a circle of radius 2 . Let $P$ be a point on the circle and let $P A_i$ denote the distance between the points $P$ and $A_i$ for $i=1,2, \\ldots, 8$. If $P$ varies over the circle, then the maximum value of the product $P A_1 \\times P A_2 \\times \\cdots \\cdots \\times P A_8$, is :",
+      "answer": "512",
+      "explanation": "$A_1, A_2, A_3, \\ldots, A_8$ vertices of a regular octagon lying on a circle of radius 2 .\n<br/><br/>Let say, $Z=(2)(1)^{1 / 8}$\n<br/><br/>$$\n\\begin{aligned}\n& \\Rightarrow Z^8=2^8 \\times 1 \\\\\\\\\n& \\Rightarrow Z^8-2^8=0\n\\end{aligned}\n$$\n<br/><br/>$\\begin{aligned} & \\Rightarrow Z=2,2 \\alpha, 2 \\alpha^2, 2 \\alpha^3, \\ldots, 2 \\alpha^7 ; \\alpha=e^{i \\frac{2 \\pi}{8}} \\\\\\\\ & \\Rightarrow Z^8-2^8=(Z-2)(Z-2 \\alpha)\\left(Z-2 \\alpha^2\\right)\\left(Z-2 \\alpha^3\\right) \\ldots\\left(Z-2 \\alpha^7\\right) \\\\\\\\ & \\Rightarrow\\left|Z^8-2^8\\right|=|Z-2||Z-2 \\alpha| \\ldots .\\left|Z-2 \\alpha^7\\right| \\\\\\\\ & \\text { But }\\left|Z^8+\\left(-2^8\\right)\\right| \\leq|Z|^8+2^8\\end{aligned}$\n<br/><br/>$\\begin{aligned} \\Rightarrow|Z-2||Z-2 \\alpha| \\ldots\\left|Z-2 \\alpha^7\\right| & \\leq|Z|^8+2^8 \\\\\\\\ & \\leq 2^8+2^8 \\\\\\\\ & \\leq 2^9\\end{aligned}$\n<br/><br/>$\\Rightarrow \\operatorname{Max}\\left(P A_1 \\cdot P A_2 \\ldots P A_8\\right)=2^9$"
+    },
+    {
+      "_type": "numerical",
+      "body": "Let O be the centre of the circle x<sup>2</sup> + y<sup>2</sup> = r<sup>2</sup>, where $$r &gt; {{\\sqrt 5 } \\over 2}$$. Suppose PQ is a chord of this circle and the equation of the line passing through P and Q is 2x + 4y = 5. If the centre of the circumcircle of the triangle OPQ lies on the line x + 2y = 4, then the value of r is .............",
+      "answer": "2",
+      "explanation": "As we know that the equation of family of circles passes through the points of intersection of given circle x<sup>2</sup> + y<sup>2</sup> = r<sup>2</sup> and line PQ : 2x + 4y = 5 is,<br><br>(x<sup>2</sup> + y<sup>2</sup> $$-$$ r<sup>2</sup>) + $$\\lambda $$(2x + 4y $$-$$ 5) = 0 ......(i)<br><br>Since, the circle (i) passes through the centre of circle<br><br>x<sup>2</sup> + y<sup>2</sup> = r<sup>2</sup>,<br><br>So, $$-$$ r<sup>2</sup> $$-$$ 5$$\\lambda $$ = 0<br><br>or 5$$\\lambda $$ + r<sup>2</sup> = 0 ....(ii)<br><br>and the centre of circle (i) lies on the line x + 2y = 4, so centre ($$-$$ $$\\lambda $$, $$-$$ 2$$\\lambda $$) satisfy the line x + 2y = 4.<br><br>Therefore, $$-$$$$\\lambda $$ $$-$$4$$\\lambda $$ = 4<br><br>$$ \\Rightarrow $$ $$-$$5$$\\lambda $$ = 4<br><br>$$ \\Rightarrow $$ r<sup>2</sup> = 4 {from Eq. (ii)}<br><br>$$ \\Rightarrow $$ r = 2 "
+    }
+  ]
+}

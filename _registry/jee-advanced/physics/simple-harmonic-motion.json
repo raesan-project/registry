@@ -1,0 +1,121 @@
+{
+  "_index": {
+    "name": "Simple Harmonic Motion"
+  },
+  "_children": [
+    {
+      "_type": "numerical",
+      "body": "A particle of mass $1 \\mathrm{~kg}$ is subjected to a force which depends on the position as $\\vec{F}=$ $-k(x \\hat{\\imath}+y \\hat{\\jmath}) \\mathrm{kg}\\, \\mathrm{m} \\mathrm{s}^{-2}$ with $k=1 \\mathrm{~kg} \\mathrm{~s}^{-2}$. At time $t=0$, the particle's position $\\vec{r}=$ $\\left(\\frac{1}{\\sqrt{2}} \\hat{\\imath}+\\sqrt{2} \\hat{\\jmath}\\right) m$ and its velocity $\\vec{v}=\\left(-\\sqrt{2} \\hat{\\imath}+\\sqrt{2} \\hat{\\jmath}+\\frac{2}{\\pi} \\hat{k}\\right) m s^{-1}$. Let $v_{x}$ and $v_{y}$ denote the $x$ and the $y$ components of the particle's velocity, respectively. Ignore gravity. When $z=0.5 \\mathrm{~m}$, the value of $\\left(x v_{y}-y v_{x}\\right)$ is __________ $m^{2} s^{-1}$.",
+      "answer": "3",
+      "explanation": "$$\nF_x=-x=m a_x\n$$\n<br/><br/>So $a_x=\\frac{d^2 x}{d t^2}=-x$\n<br/><br/>$$\n\\Rightarrow x=A_x \\sin \\left(\\omega t+\\phi_x\\right) \\quad(\\omega=1 \\mathrm{rad} / \\mathrm{s})\n$$\n<br/><br/>and $v_x=A_x \\omega \\cos \\left(\\omega t+\\phi_x\\right)$\n<br/><br/>at $t=0, x=\\frac{1}{\\sqrt{2}} \\mathrm{~m}$ and $v_x=-\\sqrt{2} \\mathrm{~m} / \\mathrm{s}$\n<br/><br/>So $\\frac{1}{\\sqrt{2}}=A_x \\sin \\phi_x$\n<br/><br/>and $-\\sqrt{2}=A_x \\cos \\phi_x$\n<br/><br/>$$\n\\begin{aligned}\n& \\Rightarrow \\tan \\phi_x=-\\frac{1}{2} ......(1) \\\\\n& \\text { and } A_x=\\sqrt{\\frac{5}{2}} \\mathrm{~m} ......(2)\n\\end{aligned}\n$$\n<br/><br/>Similarly\n<br/><br/>$$\n\\begin{aligned}\n& F_y=-y=m a_y . \\\\\\\\\n& \\Rightarrow \\frac{d^2 y}{d t^2}=-y\n\\end{aligned}\n$$\n<br/><br/>So, $y=A_y \\sin \\left(\\omega \\mathrm{t}+\\phi_{\\mathrm{y}}\\right) \\quad(\\omega=1 \\mathrm{rad} / \\mathrm{s})$ and <br/><br/>$v_y=A_y \\omega \\cos \\left(\\omega t+\\phi_y\\right)$\n<br/><br/> at $t=0,y=\\sqrt{2} \\mathrm{~m}$ and $v_y=\\sqrt{2} \\mathrm{~m} / \\mathrm{s}$\n<br/><br/> So $\\sqrt{2}=A_y \\sin \\phi$\n<br/><br/> and $\\sqrt{2}=A_y \\cos \\phi$\n<br/><br/>$$\n\\Rightarrow \\phi=\\frac{\\pi}{4} \\text { and } A_y=2\n$$\n<br/><br/>So, \n<br/><br/>$\\left(x v_y-y v_x\\right) $\n<br/><br/>$\n =\\sqrt{\\frac{5}{2}} \\sin \\left(\\omega t+\\phi_x\\right) \\times 2 \\cos \\left(\\omega t+\\phi_y\\right)-2 \\sin \\left(\\omega t+\\phi_y\\right) \\times \\sqrt{\\frac{5}{2}} \\cos \\left(\\omega t+\\phi_x\\right) $\n<br/><br/>$ =\\sqrt{\\frac{5}{2}} \\times 2\\left(\\sin \\left(\\omega t+\\phi_x\\right) \\cos \\left(\\omega t+\\phi_y\\right)-\\sin \\left(\\omega t+\\phi_y\\right) \\times \\cos \\left(\\omega t+\\phi_x\\right)\\right. $\n<br/><br/>$ =\\sqrt{10} \\sin \\left(\\phi_x-\\phi_y\\right)$\n<br/><br/>$ =\\sqrt{10}\\left(\\sin \\phi_x \\cos \\phi_y-\\cos \\phi_x \\sin \\phi_y\\right) $\n<br/><br/>$ =\\sqrt{10}\\left(\\frac{1}{\\sqrt{5}} \\times \\frac{1}{\\sqrt{2}}-\\left(-\\frac{2}{\\sqrt{5}}\\right) \\times \\frac{1}{\\sqrt{2}}\\right) $\n<br/><br/>$=3$"
+    },
+    {
+      "_type": "numerical",
+      "body": "<p>On a frictionless horizontal plane, a bob of mass $m=0.1 \\mathrm{~kg}$ is attached to a spring with natural length $l_{0}=0.1 \\mathrm{~m}$. The spring constant is $k_{1}=0.009 \\,\\mathrm{Nm}^{-1}$ when the length of the spring $l>l_{0}$ and is $k_{2}=0.016 \\,\\mathrm{Nm}^{-1}$ when $l < l_{0}$. Initially the bob is released from $l=$ $0.15 \\mathrm{~m}$. Assume that Hooke's law remains valid throughout the motion. If the time period of the full oscillation is $T=(n \\pi) s$, then the integer closest to $n$ is __________.</p>",
+      "answer": "6",
+      "explanation": "Time period of oscillation\n<br/><br/>$$\n\\begin{aligned}\n& =\\mathrm{T}_1+\\mathrm{T}_2 \\\\\\\\\n& =\\pi \\sqrt{\\frac{m}{K_1}}+\\pi \\sqrt{\\frac{m}{K_2}} \\\\\\\\\n& =\\pi \\sqrt{\\frac{0.1}{0.009}}+\\pi \\sqrt{\\frac{0.1}{0.016}} \\\\\\\\\n& =\\frac{\\pi}{0.3}+\\frac{\\pi}{0.4} \\\\\\\\\n& =\\frac{\\pi(0.4+0.3)}{0.12} \\\\\\\\\n& =\\frac{70 \\pi}{12} \\\\\\\\\n& =5.83 \\pi \\text { seconds } \\\\\\\\\n& \\simeq 6 \\pi \\text { seconds }\n\\end{aligned}\n$$"
+    },
+    {
+      "_type": "numerical",
+      "body": "An object of mass 0.2 kg executes simple harmonic oscillation along the x-axis with a frequency of $$\\left( {{{25} \\over \\pi }} \\right)$$ Hz. At the position x = 0.04, the object has kinetic energy of 0.5 J and potential energy 0.4 J. The amplitude of oscillations is ................ m.",
+      "answer": "0.06",
+      "explanation": "<p>To find the amplitude of oscillation, let's start by considering the given data and the formulae related to simple harmonic motion (SHM).</p>\n<p>The total mechanical energy of a system in SHM is constant and is the sum of kinetic energy (KE) and potential energy (PE) at any point in its motion. We are given:</p>\n\n<p><p>Kinetic Energy, $$ KE = 0.5 \\, \\text{J} $$</p></p>\n<p><p>Potential Energy, $$ PE = 0.4 \\, \\text{J} $$</p></p>\n\n<p>Therefore, the total energy (E) is:</p>\n<p>$$ E = KE + PE = 0.5 + 0.4 = 0.9 \\, \\text{J} $$</p>\n<p>In SHM, the total mechanical energy can also be expressed as:</p>\n<p>$$ E = \\frac{1}{2} k A^2 $$</p>\n<p>where $ k $ is the spring constant and $ A $ is the amplitude.</p>\n<p>We can also express kinetic and potential energy in SHM in terms of amplitude $ A $, position $ x $, and angular frequency $ \\omega $:</p>\n\n<p><p>Kinetic Energy: $$ KE = \\frac{1}{2} m \\omega^2 (A^2 - x^2) $$</p></p>\n<p><p>Potential Energy: $$ PE = \\frac{1}{2} m \\omega^2 x^2 $$</p></p>\n\n<p>Given mass $ m = 0.2 \\, \\text{kg} $, position $ x = 0.04 \\, \\text{m} $.</p>\n<p>The angular frequency $ \\omega $ is related to the frequency $ f $ by:</p>\n<p>$$ \\omega = 2\\pi f $$</p>\n<p>Given frequency:</p>\n<p>$$ f = \\frac{25}{\\pi} \\, \\text{Hz} $$</p>\n<p>Thus,</p>\n<p>$$ \\omega = 2\\pi \\left(\\frac{25}{\\pi}\\right) = 50 \\, \\text{rad/s} $$</p>\n<p>Using the expression for the total energy in SHM:</p>\n<p>$$ \\frac{1}{2} k A^2 = \\frac{1}{2} m \\omega^2 A^2 $$</p>\n<p>Since the total energy $ E = 0.9 \\, \\text{J} $, it follows:</p>\n<p>$$ 0.9 = \\frac{1}{2} \\cdot 0.2 \\cdot (50)^2 \\cdot A^2 $$</p>\n<p>Solving for $ A^2 $:</p>\n<p>$$ 0.9 = \\frac{1}{2} \\cdot 0.2 \\cdot 2500 \\cdot A^2 $$</p>\n<p>$$ 0.9 = \\frac{1}{2} \\cdot 500 \\cdot A^2 $$</p>\n<p>$$ 0.9 = 250 \\cdot A^2 $$</p>\n<p>$$ A^2 = \\frac{0.9}{250} $$</p>\n<p>$$ A^2 = 0.0036 $$</p>\n<p>$$ A = \\sqrt{0.0036} $$</p>\n<p>$$ A = 0.06 \\, \\text{m} $$</p>\n<p>The amplitude of the oscillations is <strong>0.06 m</strong>.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A simple pendulum has time period T<sub>1</sub>. The point of suspension is now moved upward according to the relation y = Kt<sup>2</sup>, (K = 1 m/s<sup>2</sup>) where y is the vertical displacement. The time period now become T<sub>2</sub>. The ratio of $${{T_1^2} \\over {T_2^2}}$$ is (g = 10 m/s<sup>2</sup>)",
+      "options": [
+        {
+          "key": "A",
+          "value": "$${5 \\over 6}$$"
+        },
+        {
+          "key": "B",
+          "value": "$${6 \\over 5}$$"
+        },
+        {
+          "key": "C",
+          "value": "1"
+        },
+        {
+          "key": "D",
+          "value": "$${4 \\over 5}$$"
+        }
+      ],
+      "answer": "B",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A particle executes simple harmonic motion between x = - A to x = + A. The time taken for it to go from 0 to $${A \\over 2}$$ is T<sub>1</sub> and to go from $${A \\over 2}$$ to A is T<sub>2</sub>. Then",
+      "options": [
+        {
+          "key": "A",
+          "value": "T<sub>1</sub> &lt; T<sub>2</sub>"
+        },
+        {
+          "key": "B",
+          "value": "T<sub>1</sub> &gt; T<sub>2</sub>"
+        },
+        {
+          "key": "C",
+          "value": "T<sub>1</sub> = T<sub>2</sub>"
+        },
+        {
+          "key": "D",
+          "value": "T<sub>1</sub> = 2T<sub>2</sub>"
+        }
+      ],
+      "answer": "A",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The period of oscillation of a simple pendulum of length $$L$$ suspended from the roof of a vehicle which moves without friction down an inclined plane of inclination $$\\alpha$$, is given by",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$2\\pi \\sqrt {{L \\over {g\\cos \\alpha }}} $$"
+        },
+        {
+          "key": "B",
+          "value": "$$2\\pi \\sqrt {{L \\over {g\\sin \\alpha }}} $$"
+        },
+        {
+          "key": "C",
+          "value": "$$2\\pi \\sqrt {{L \\over g}} $$"
+        },
+        {
+          "key": "D",
+          "value": "$$2\\pi \\sqrt {{L \\over {g\\tan \\alpha }}} $$"
+        }
+      ],
+      "answer": "A",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Two bodies M and N of equal masses are suspended from two separate massless springs of spring constant k<sub>1</sub> and k<sub>2</sub> respectively. If the two bodies oscillate vertically such that their maximum velocities are equal, the ratio of the amplitude of vibration of M to that of N is",
+      "options": [
+        {
+          "key": "A",
+          "value": "$${{{k_1}} \\over {{k_2}}}$$"
+        },
+        {
+          "key": "B",
+          "value": "$$\\sqrt {{{{k_1}} \\over {{k_2}}}} $$"
+        },
+        {
+          "key": "C",
+          "value": "$${{{k_2}} \\over {{k_1}}}$$"
+        },
+        {
+          "key": "D",
+          "value": "$$\\sqrt {{{{k_2}} \\over {{k_1}}}} $$"
+        }
+      ],
+      "answer": "D",
+      "explanation": ""
+    }
+  ]
+}

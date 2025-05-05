@@ -1,0 +1,247 @@
+{
+  "_index": {
+    "name": "Dual Nature of Radiation"
+  },
+  "_children": [
+    {
+      "_type": "single_mcq",
+      "body": "A metal target with atomic number $Z=46$ is bombarded with a high energy electron beam. The emission of X-rays from the target is analyzed. The ratio $r$ of the wavelengths of the $K_\\alpha$-line and the cut-off is found to be $r=2$. If the same electron beam bombards another metal target with $Z=41$, the value of $r$ will be",
+      "options": [
+        {
+          "key": "A",
+          "value": " 2.53"
+        },
+        {
+          "key": "B",
+          "value": "1.27"
+        },
+        {
+          "key": "C",
+          "value": "2.24"
+        },
+        {
+          "key": "D",
+          "value": "1.58"
+        }
+      ],
+      "answer": "A",
+      "explanation": "<p>To solve this problem, we need to understand the relationship between the atomic number $ Z $, the characteristic X-ray wavelengths, and the cut-off wavelength in X-ray spectra.</p>\n\n<p>The cut-off wavelength, also known as the minimum wavelength ($ \\lambda_{\\text{min}} $), corresponds to the maximum energy of the X-rays produced and can be related to the accelerating voltage used in the X-ray tube. The characteristic X-rays, such as the $ K_\\alpha $-line, correspond to specific electron transitions in the atom and are dependent on the atomic number $ Z $ of the target material.</p>\n\n<p>The wavelength of the $ K_\\alpha $-line is given by Moseley's Law, which can be approximated as:</p>\n\n<p>$$ \\lambda_{K_\\alpha} \\propto \\frac{1}{(Z - 1)^2} $$</p>\n\n<p>The cut-off wavelength is given by the relationship between the energy of the incident electrons and the X-ray produced:</p>\n\n<p>$$ \\lambda_{\\text{min}} = \\frac{hc}{eV} $$</p>\n\n<p>Now, given the ratio $ r $ for the first metal target with $ Z = 46 $ :</p>\n\n<p>$$ r = \\frac{\\lambda_{K_\\alpha}}{\\lambda_{\\text{min}}} = 2 $$</p>\n\n<p>For the second metal target with $ Z = 41 $, let's denote the new ratio as $ r_2 $. We assume the same cutoff wavelength since the same electron beam is used.</p>\n\n<p>The ratio for $ Z = 41 $ can be calculated using the relationship between the $ K_\\alpha $-line wavelenghts:</p>\n\n<p>$$ \\frac{\\lambda_{K_\\alpha (1)}}{\\lambda_{K_\\alpha (2)}} = \\left( \\frac{Z_2 - 1}{Z_1 - 1} \\right)^2 $$</p>\n\n<p>Substituting $ Z_1 = 46 $ and $ Z_2 = 41 $:</p>\n\n<p>$$ \\frac{\\lambda_{K_\\alpha (1)}}{\\lambda_{K_\\alpha (2)}} = \\left( \\frac{41 - 1}{46 - 1} \\right)^2 = \\left( \\frac{40}{45} \\right)^2 = \\left( \\frac{8}{9} \\right)^2 = \\frac{64}{81} $$</p>\n\n<p>Let $ \\lambda_{K_\\alpha (1)} = 2 \\lambda_{\\text{min}} $ because $ r = 2 $. Therefore:</p>\n\n<p>$$ \\lambda_{K_\\alpha (2)} = \\lambda_{K_\\alpha (1)} \\cdot \\frac{81}{64} = 2 \\lambda_{\\text{min}} \\cdot \\frac{81}{64} $$</p>\n\n<p>Thus, the new ratio $ r_2 $ is:</p>\n\n<p>$$ r_2 = \\frac{\\lambda_{K_\\alpha (2)}}{\\lambda_{\\text{min}}} = 2 \\cdot \\frac{81}{64} = \\frac{162}{64} = 2.53 $$</p>\n\n<p>So, the value of $ r $ for the second metal target with $ Z = 41 $ is:</p>\n\n<p>Option A: 2.53</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>When light of a given wavelength is incident on a metallic surface, the minimum potential needed to stop the emitted photoelectrons is $6.0 \\mathrm{~V}$. This potential drops to $0.6 \\mathrm{~V}$ if another source with wavelength four times that of the first one and intensity half of the first one is used. What are the wavelength of the first source and the work function of the metal, respectively? [Take $\\frac{h c}{e}=1.24 \\times$ $10^{-6} \\mathrm{JmC}^{-1}$.]</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "$1.72 \\times 10^{-7} \\mathrm{~m}, 1.20 \\mathrm{eV}$"
+        },
+        {
+          "key": "B",
+          "value": "$1.72 \\times 10^{-7} \\mathrm{~m}, 5.60 \\mathrm{eV}$"
+        },
+        {
+          "key": "C",
+          "value": "$3.78 \\times 10^{-7} \\mathrm{~m}, 5.60 \\mathrm{eV}$"
+        },
+        {
+          "key": "D",
+          "value": "$3.78 \\times 10^{-7} \\mathrm{~m}, 1.20 \\mathrm{eV}$"
+        }
+      ],
+      "answer": "A",
+      "explanation": "By Einstein's photoelectric equation, we have:\n<br/><br/>$\n\n\\mathrm{KE}  =h v-\\phi$\n<br/><br/>$\nh v-\\phi  =6 \\mathrm{eV} $\n<br/><br/>$\n\\frac{h c}{\\lambda}-\\phi  =6 \\mathrm{eV} $ .........(i)\n<br/><br/>$\n\\frac{h c}{4 \\lambda}-\\phi  =0.6 \\mathrm{eV} $\n<br/><br/>$\n\\frac{3 h c}{4 \\lambda}  =5.4 \\mathrm{eV}$\n<br/><br/>$$ \\Rightarrow $$ $\\lambda=\\frac{3 h c}{5.4 \\mathrm{eV} \\times 4} $\n<br/><br/>$$ \\Rightarrow $$ $\n\\lambda =\\frac{3 \\times 1.24 \\times 10^{-6}}{4 \\times 5.4}=1.72 \\times \\times^{-7} \\mathrm{~m}$ ........(ii)\n<br/><br/>From equation (i) and (ii), we conclude \n<br/><br/>$\\frac{h c}{1.72 \\times 10^{-7}} \\times \\frac{1}{1.6 \\times 10^{-19}}-\\phi=6 \\mathrm{eV}$\n<br/><br/>on subsituting all the values we get\n<br/><br/>$$\n\\begin{aligned}\n& \\phi=(7.27-6) \\\\\\\\\n&\\Rightarrow \\phi=1.27 \\mathrm{eV} \\\\\\\\\n&\\Rightarrow \\phi=1.20 \\mathrm{eV}\n\\end{aligned}\n$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A photoelectric material having work-function $${\\phi _0}$$ is illuminated with light of wavelength $$\\lambda \\left( {\\lambda  &lt; {{he} \\over {{\\phi _0}}}} \\right).$$ The fastest photoelectron has a de-Broglic wavelength $${\\lambda _d}.$$ A change in wavelength of the incident light by $$\\Delta \\lambda $$ result in a change $$\\Delta {\\lambda _d}$$ in $${\\lambda _d}.$$ Then the ratio $$\\Delta {\\lambda _d}/\\Delta \\lambda $$ is proportional to ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$${\\lambda _d}/\\lambda $$ "
+        },
+        {
+          "key": "B",
+          "value": "$$\\lambda _d^2/{\\lambda ^2}$$ "
+        },
+        {
+          "key": "C",
+          "value": "$$\\lambda _d^3/\\lambda $$ "
+        },
+        {
+          "key": "D",
+          "value": "$$\\lambda _d^3/{\\lambda ^2}$$ "
+        }
+      ],
+      "answer": "D",
+      "explanation": "<p>Here, $$\\lambda$$ is the wavelength of incident light and $$\\lambda$$<sub>d</sub> is the de Broglie wavelength of the fastest photoelectron. The fastest ejected photoelectron has the maximum kinetic energy which is given by</p>\n<p>$${K_{\\max }} = {{hc} \\over \\lambda } - {\\phi _0}$$ .....(1)</p>\n<p>The de Broglie wavelength of the photoelectron having kinetic energy $${K_{\\max }} = {{{p^2}} \\over {2m}}$$ is given by</p>\n<p>$${\\lambda _d} = {h \\over p} = {h \\over {\\sqrt {2m{K_{\\max }}} }}$$ ..... (2)</p>\n<p>where m is the mass of the electron and p is its linear momentum. Eliminate K<sub>max</sub> from equations (1) and (2) to get</p>\n<p>$${{{h^2}} \\over {2m\\lambda _d^2}} = {{hc} \\over \\lambda } - {\\phi _0}$$ ...... (3)</p>\n<p>Differentiate equation (3) to get</p>\n<p>$$( - 2){{{h^2}} \\over {2m\\lambda _d^3}}\\Delta {\\lambda _d} = ( - 1){{hc} \\over {{\\lambda ^2}}}\\Delta \\lambda $$,</p>\n<p>which gives</p>\n<p>$${{\\Delta {\\lambda _d}} \\over {\\Delta \\lambda }} = {{mc} \\over h}{{\\lambda _d^3} \\over {{\\lambda ^2}}}$$.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "In a historical experiment to determine  Planck's constant, a metal surface was  irradiated with light of different  wavelengths. The emitted  photoelectron energies were measured  by applying a stopping potential. The  relevant data for the wavelength ($$\\lambda $$) of  incident light and the corresponding  stopping potential (V<sub>0</sub>) are given  below:\n<br><br><style type=\"text/css\">\n.tg  {border-collapse:collapse;border-spacing:0;}\n.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg .tg-baqh{text-align:center;vertical-align:top}\n</style>\n<table class=\"tg\">\n<thead>\n  <tr>\n    <th class=\"tg-baqh\">$$\\lambda \\left( {\\mu m} \\right)$$</th>\n    <th class=\"tg-baqh\">V<sub>0</sub>(Volt)</th>\n  </tr>\n</thead>\n<tbody>\n  <tr>\n    <td class=\"tg-baqh\">0.3</td>\n    <td class=\"tg-baqh\">2.0</td>\n  </tr>\n  <tr>\n    <td class=\"tg-baqh\">0.4</td>\n    <td class=\"tg-baqh\">1.0</td>\n  </tr>\n  <tr>\n    <td class=\"tg-baqh\">0.5</td>\n    <td class=\"tg-baqh\">0.4</td>\n  </tr>\n</tbody>\n</table>\n<br><br>Given that c = 3 $$ \\times $$ 10<sup>8</sup>  ms<sup>-1</sup> and  e = 1.6 $$ \\times $$ 10<sup>-19</sup> C, Planck's constant (in  units of J-s) found from such an  experiment is) :",
+      "options": [
+        {
+          "key": "A",
+          "value": "6.0 $$ \\times $$ 10<sup>-34</sup>"
+        },
+        {
+          "key": "B",
+          "value": "6.6 $$ \\times $$ 10<sup>-34</sup>"
+        },
+        {
+          "key": "C",
+          "value": "6.4 $$ \\times $$ 10<sup>-34</sup>"
+        },
+        {
+          "key": "D",
+          "value": "6.8 $$ \\times $$ 10<sup>-34</sup>"
+        }
+      ],
+      "answer": "C",
+      "explanation": "$${{hc} \\over \\lambda } - \\phi  = e{V_0}$$ ($$\\phi$$ = work function)<br><br>$${{hc} \\over {0.3 \\times {{10}^{ - 6}}}} - \\phi  = 2e$$ .... (i)<br><br>$${{hc} \\over {0.4 \\times {{10}^{ - 6}}}} - \\phi  = 1e$$ .... (ii)<br><br>Subtracting Eq. (ii) from Eq. (i)<br><br>$$hc\\left( {{1 \\over {0.3}} - {1 \\over {0.4}}} \\right){10^6} = e$$<br><br>$$hc\\left( {{{0.1} \\over {0.12}} \\times {{10}^6}} \\right) = e$$<br><br>$$h = 0.64 \\times {10^{ - 33}}$$<br><br>$$ = 6.4 \\times {10^{ - 34}}$$ J-s"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>A metal surface is illuminated by light of two different wavelengths 248 nm and 310 nm. The maximum speeds of the photoelectrons corresponding to these wavelengths are u<sub>1</sub> and u<sub>2</sub>, respectively. If the ratio u<sub>1</sub> : u<sub>2</sub> = 2 : 1 and hc = 1240 eV nm, the work function of the metal is nearly</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "3.7 eV"
+        },
+        {
+          "key": "B",
+          "value": "3.2 eV"
+        },
+        {
+          "key": "C",
+          "value": "2.8 eV"
+        },
+        {
+          "key": "D",
+          "value": "2.5 eV"
+        }
+      ],
+      "answer": "A",
+      "explanation": "<p>From Einstein's photoelectric equation,</p>\n<p>kinetic energy of photoelectrons,</p>\n<p>$$K = {1 \\over 2}m{v^2} = {{hc} \\over \\lambda } - \\phi $$ ..... (i)</p>\n<p>For $$\\lambda$$ = 248 nm, v = u<sub>1</sub></p>\n<p>$$\\therefore$$ $${K_1} = {1 \\over 2}mu_1^2 = {{hc} \\over {248}} - \\phi $$ ...... (ii)</p>\n<p>For $$\\lambda$$ = 310 nm, v = u<sub>2</sub></p>\n<p>$$\\therefore$$ $${K_2} = {1 \\over 2}mu_2^2 = {{hc} \\over {310}} - \\phi $$ ....... (iii)</p>\n<p>Divide eqn. (ii) by eqn. (iii),</p>\n<p>$${{u_1^2} \\over {u_2^2}} = {{{{hc} \\over {248}} - \\phi } \\over {{{hc} \\over {310}} - \\phi }} = {{{{1240} \\over {248}} - \\phi } \\over {{{1240} \\over {310}} - \\phi }}$$</p>\n<p>$$ \\Rightarrow {\\left( {{2 \\over 1}} \\right)^2} = {{5 - \\phi } \\over {4 - \\phi }}$$</p>\n<p>$$ \\Rightarrow 16 - 4\\phi  = 5 - \\phi  \\Rightarrow 3\\phi  = 11$$</p>\n<p>or, $$\\phi$$ = 3.67 eV $$\\approx$$ 3.7 eV</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>If the mass of the particle is $$m=1.0\\times10^{-30}$$ kg and $$a=6.6$$ nm, the energy of the particle in its ground state is closest to</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "0.8 meV"
+        },
+        {
+          "key": "B",
+          "value": "8 meV"
+        },
+        {
+          "key": "C",
+          "value": "80 meV"
+        },
+        {
+          "key": "D",
+          "value": "800 meV"
+        }
+      ],
+      "answer": "B",
+      "explanation": "<p>For ground state, $$n = 1$$. Therefore,</p>\n<p>$${E_1} = {{{h^2}} \\over {8m{a^2}}} = \\left[ {{{{{(6.6 \\times {{10}^{ - 34}})}^2}} \\over {8 \\times {{10}^{ - 30}} \\times {{(6.6 \\times {{10}^{ - 9}})}^2}}}} \\right]$$ J</p>\n<p>Therefore, $${{{E_1}} \\over e} = \\left( {{{{E_1}} \\over {1.6 \\times {{10}^{ - 19}}}}} \\right)$$ meV = 8 meV</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Which one of the following statements is WRONG in the context of X-rays generated from a X-ray tube?</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "Wavelength of characteristic X-rays decreases when the atomic number of the target increases."
+        },
+        {
+          "key": "B",
+          "value": "Cut-off wavelength of the continuous X-rays depends on the atomic number of the target."
+        },
+        {
+          "key": "C",
+          "value": "Intensity of the characteristic X-rays depends on the electrical power given to the X-ray tube."
+        },
+        {
+          "key": "D",
+          "value": "Cut-off wavelength of the continuous X-rays depends on the energy of the electrons in the X-ray tube."
+        }
+      ],
+      "answer": "B",
+      "explanation": "<p>The cut-off wavelength is given by $${\\lambda _{\\min }} = {{hc} \\over {eV}}$$</p>\n<p>The cut-off wavelength depends on the energy eV of the accelerated electrons and is independent of the atomic number of target. Thus, greater the accelerating voltage for electrons, higher will be kinetic energy it attains before striking the target, higher will be the frequency of X-rays and smaller will be wavelength.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Electrons with de-Broglie wavelength $$\\lambda$$ fall on the target in an X-ray tube. The cut-off wavelength of the emitted X-rays is</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$\\lambda_{0}=\\frac{2 m c \\lambda^{2}}{h}$$"
+        },
+        {
+          "key": "B",
+          "value": "$$\\lambda_{0}=\\frac{2 h}{m c}$$"
+        },
+        {
+          "key": "C",
+          "value": "$$\\lambda_{0}=\\frac{2 m^{2} c^{2} \\lambda^{3}}{h^{2}}$$"
+        },
+        {
+          "key": "D",
+          "value": "$$\\lambda_{0}=\\lambda$$"
+        }
+      ],
+      "answer": "A",
+      "explanation": "<p>The cut off wavelength is given by</p>\n<p>$$\\lambda_{0}=\\frac{h c}{e v}$$ ..... (i)</p>\n<p>According to de-Broglie equation</p>\n<p>$$\\lambda=\\frac{h}{p}=\\frac{h}{\\sqrt{2 m e \\mathrm{~V}}}$$</p>\n<p>$$\\Rightarrow \\quad \\lambda^{2}=\\frac{h^{2}}{2 m e \\mathrm{~V}}$$</p>\n<p>$$\\Rightarrow \\quad \\mathrm{V}=\\frac{h^{2}}{2 m e \\lambda^{2}}$$ ..... (ii)</p>\n<p>From (i) and (ii)</p>\n<p>$$\\lambda_{0}=\\frac{h c \\times 2 m e \\lambda^{2}}{e h^{2}}=2 m c \\lambda^{2}$$</p>"
+    },
+    {
+      "_type": "numerical",
+      "body": "A Hydrogen-like atom has atomic number $Z$. Photons emitted in the electronic transitions from level $n=4$ to level $n=3$ in these atoms are used to perform photoelectric effect experiment on a target metal. The maximum kinetic energy of the photoelectrons generated is $1.95 \\mathrm{eV}$. If the photoelectric threshold wavelength for the target metal is $310 \\mathrm{~nm}$, the value of $Z$ is _________.<br/><br/>\n[Given: $h c=1240 \\mathrm{eV}-\\mathrm{nm}$ and $R h c=13.6 \\mathrm{eV}$, where $R$ is the Rydberg constant, $h$ is the Planck's constant and $c$ is the speed of light in vacuum]",
+      "answer": "3",
+      "explanation": "<p>To find the atomic number $$ Z $$ for the hydrogen-like atom emitting photons that cause photoelectrons to eject from the metal surface with a maximum kinetic energy of $$ 1.95 \\mathrm{eV} $$, we need to make use of the concept of energy transitions in atoms, as well as the photoelectric effect equation. We are given the photoelectric threshold wavelength for the metal and the constants $$ h c $$ and $$ R h c $$.</p>\n<p>First, let&#39;s calculate the energy of the photon emitted during the transition from level $$ n=4 $$ to level $$ n=3 $$ in the hydrogen-like atom. The energy of a photon emitted when an electron transitions between two levels in a hydrogen-like atom is given by :</p>\n<p>$$\n\\Delta E = Z^2 R h c \\left( \\frac{1}{n_1^2} - \\frac{1}{n_2^2} \\right)\n$$</p>\n<p>where:</p>\n<ul>\n<li>$$ Z $$ is the atomic number.</li>\n<li>$$ R h c $$ is the ionization energy of hydrogen (13.6 eV).</li>\n<li>$$ n_1 $$ and $$ n_2 $$ are the principal quantum numbers of the initial and final energy levels, respectively.</li>\n</ul>\n<p>For the transition from $$ n_1 = 4 $$ to $$ n_2 = 3 $$, the energy of the photon is:</p>\n<p>$$\n\\Delta E = Z^2 \\cdot 13.6 \\cdot \\left( \\frac{1}{3^2} - \\frac{1}{4^2} \\right) \\mathrm{eV}\n$$</p>\n<p>$$\n\\Delta E = Z^2 \\cdot 13.6 \\cdot \\left( \\frac{1}{9} - \\frac{1}{16} \\right) \\mathrm{eV}\n$$</p>\n<p>$$\n\\Delta E = Z^2 \\cdot 13.6 \\cdot \\left( \\frac{16 - 9}{144} \\right) \\mathrm{eV}\n$$</p>\n<p>$$\n\\Delta E = Z^2 \\cdot 13.6 \\cdot \\frac{7}{144} \\mathrm{eV}\n$$</p>\n<p>Next, using the photoelectric effect equation, the maximum kinetic energy (K.E.) of the ejected photoelectrons is equal to the energy of the incident photon minus the work function ($$ \\phi $$). The work function can be calculated using the given threshold wavelength :</p>\n<p>$$\n\\phi = \\frac{h c}{\\lambda}\n$$</p>\n<p>Given:\n$$ \\lambda = 310 \\mathrm{nm} $$\n$$ h c = 1240 \\mathrm{eV} \\cdot \\mathrm{nm} $$</p>\n<p>So the work function is:</p>\n<p>$$\n\\phi = \\frac{1240}{310} \\mathrm{eV}\n$$</p>\n<p>$$\n\\phi = 4 \\mathrm{eV}\n$$</p>\n<p>The maximum kinetic energy is given by :</p>\n<p>$$\nK.E. = \\Delta E - \\phi\n$$</p>\n<p>We are given $$ K.E. = 1.95 \\mathrm{eV} $$, hence :</p>\n<p>$$\n1.95 = Z^2 \\cdot 13.6 \\cdot \\frac{7}{144} - 4\n$$</p>\n<p>$$ \\Rightarrow $$ $$\nZ^2 \\cdot 13.6 \\cdot \\frac{7}{144} = 1.95 + 4\n$$</p>\n<p>$$ \\Rightarrow $$ $$\nZ^2 = \\frac{1.95 + 4}{13.6 \\cdot \\frac{7}{144}}\n$$</p>\n<p>$$ \\Rightarrow $$ $$\nZ^2 = \\frac{5.95 \\times 144}{13.6 \\times 7}\n$$</p>\n<p>$$ \\Rightarrow $$ $$\nZ^2 = \\frac{856.8}{95.2}\n$$</p>\n<p>$$ \\Rightarrow $$ $$\nZ^2 = 9\n$$</p>\n<p>$$ \\Rightarrow $$ $$\nZ = \\sqrt{9}\n$$</p>\n<p>$$ \\Rightarrow $$ $$\nZ = 3\n$$</p>\n"
+    },
+    {
+      "_type": "numerical",
+      "body": "In a photoemission experiment, the maximum kinetic energies of photoelectrons from metals P, Q and R are E<sub>P</sub>, E<sub>Q</sub> and E<sub>R</sub>, respectively, and they are related by E<sub>P</sub> = 2E<sub>Q</sub> = 2E<sub>R</sub>. In this experiment, the same source of monochromatic light is used for metals P and Q while a different source of monochromatic light is used for the metal R. The work functions for metals P, Q and R are 4.0 eV, 4.5 eV and 5.5 eV, respectively. The energy of the incident photon used for metal R, in eV, is ___________.",
+      "answer": "6",
+      "explanation": "<p>E<sub>P</sub> = 2E<sub>Q</sub> = 2E<sub>R</sub> = E(assume)</p>\n<p>For metal P and Q,</p>\n<p>E<sub>1</sub> - 4 = E<sub>P</sub> = E ……..(1)</p>\n<p> E<sub>1</sub> - 4.5 = E<sub>A</sub> = E/2 ……..(2)</p>\n<p>Subtracting equation (2) from (1), we get</p>\n<p>E/2 = 0.5</p>\n<p>For metal R</p>\n<p>E<sub>2</sub> - 5.5 = E<sub>R</sub> = E/2 = 0.5</p>\n<p>$$ \\Rightarrow $$ E<sub>2</sub> = 6</p>\n"
+    },
+    {
+      "_type": "numerical",
+      "body": "In a photoelectric experiment a parallel beam of monochromatic light with power of $$200$$ $$W$$ is incident on a perfectly absorbing cathode of work function $$6.25$$ $$ev.$$ The frequency of light is just above the threshold frequency so that the photoelectrons are emitted with negligible kinetic energy. Assume that the photoelectron  emission efficiency  is $$100\\% $$. A potential difference of $$500$$ $$V$$  is applied between the cathode and the anode. All the emitted electrons are  incident normally on the anode and are absorbed.  The anode experiences a force $$F = n \\times {10^{ - 4}}$$ $$N$$ due to the impact of the electrons. The value of $$n$$  is ______________. Mass of the electron $${M_e} = 9 \\times {10^{ - 31}}\\,kg$$  and $$1.0eV = 1.6 \\times {10^{ - 19}}\\,J.$$ ",
+      "answer": "24",
+      "explanation": "<p>The frequency of incident light is just above the threshold frequency. Hence, the energy of each photon is equal to the work function (E<sub>p</sub> = $$\\phi$$ = 6.25 eV) and the kinetic energy of emitted photo-electron is zero (K<sub>e0</sub> = 0). The energy incident per second on the cathode is incident power P = 200 W. Thus, number of photons incident per second is</p>\n<p>N<sub>p</sub> = P/E<sub>p</sub> = P/$$\\phi$$.</p>\n<p>The photo-electron emission efficiency is 100%. Thus, number of photo-electron emitted per second is equal to the number of photons incident per second i.e., N<sub>e</sub> = N<sub>p</sub>. These photo-electrons are accelerated by a potential difference V = 500 V. Thus, gain in potential energy of each photo-electron is $$\\Delta$$U = eV = 500 eV. By conservation of energy, kinetic energy of the photo-electron when it reaches the anode is</p>\n<p>K<sub>e</sub> = K<sub>e0</sub> + $$\\Delta$$U = 500 eV.</p>\n<p>The linear momentum of photo-electron of mass m<sub>e</sub> and kinetic energy K<sub>e</sub> is given by</p>\n<p>$${p_e} = \\sqrt {2{m_e}{K_e}} $$.</p>\n<p>The photo-electron transfer its entire linear momentum to the anode (absorbed by the anode). Thus, gain in linear momentum of the anode by absorbing one photo-electron is</p>\n<p>$$\\Delta$$p<sub>a</sub> = p<sub>e</sub>.</p>\n<p>The force on the anode is equal to the increase in its linear momentum per second. Since N<sub>e</sub> photo-electrons strikes the anode per second, the force acting on the anode is given by</p>\n<p>$${F_a} = {N_e}\\Delta {p_a} = {N_e}{p_e}$$ ($$\\because$$ $$\\Delta {p_a} = {p_e}$$)</p>\n<p>$$ = {N_p}{p_e} = (P/\\phi ){p_e}$$ ($$\\because$$ $${N_e} = {N_p} = P/\\phi $$)</p>\n<p>$$ = (P/\\phi )\\sqrt {2{m_e}{K_e}} $$ ($$\\because$$ $${p_e} = \\sqrt {2{m_e}{K_e}} $$)</p>\n<p>$$ = (P/\\phi )\\sqrt {2{m_e}eV} $$ ($$\\because$$ $${K_e} = eV$$</p>\n<p>$$ = 2.4 \\times {10^{ - 4}}N$$.</p>"
+    },
+    {
+      "_type": "numerical",
+      "body": "An electron in an excited state of Li<sup>2+</sup> ion has angular momentum $${{3h} \\over {2\\pi }}$$. The de Broglie wavelength of the electron in this state is p$$\\pi$$a<sub>0</sub> (where a<sub>0</sub> is the Bohr radius). The value of p is",
+      "answer": "2",
+      "explanation": "<p>Angular momentum $$mvr = {{nh} \\over {2\\pi }}$$ where $$r = 3{a_0}$$ where $$n = 3$$, that is, electron in $$L{i^{2 + }}$$ is in second excited state</p>\n<p>$$\\lambda  = {h \\over {mv}} = p\\pi {a_0}$$</p>\n<p>$$ \\Rightarrow n = p\\pi (mv{a_0}) = p\\pi \\left( {{{mvr} \\over 3}} \\right) = {{p\\pi } \\over 3}\\left( {{{3h} \\over {2\\pi }}} \\right) = {{ph} \\over 2}$$</p>\n<p>Therefore, $$p = 2$$.</p>"
+    },
+    {
+      "_type": "numerical",
+      "body": "<p>A proton is fired from very far away towards a nucleus with charge Q = 120e, where e is the electronic charge. It makes a closest approach of 10 fm to the nucleus. The de Broglie wavelength (in units of fm) of the proton at its start is ____________. (Take the proton mass, $${m_p} = (5 \\times 3) \\times {10^{ - 27}}$$ kg; $$h/e = 4.2 \\times {10^{ - 15}}$$ J.s/C; $${1 \\over {4\\pi {\\varepsilon _0}}} = 9 \\times {10^9}$$ m/F; 1 fm = 10<sup>15</sup> m.)</p>",
+      "answer": "7",
+      "explanation": "<p>Let initial and final kinetic energies of the proton be K<sub>i</sub> and K<sub>f</sub> and corresponding potential energies be U<sub>i</sub> and U<sub>f</sub>. When proton is far away from the nucleus (r $$\\to$$ $$\\infty$$), its potential energy is</p>\n<p>$${U_i} = \\mathop {\\lim }\\limits_{r \\to \\infty } {1 \\over {4\\pi {\\varepsilon _0}}}{{120{e^2}} \\over r} = 0$$.</p>\n<p>At closest distance, the proton comes to rest momentarily, giving K<sub>f</sub> = 0. The potential energy at closest distance is</p>\n<p>$${U_f} = {1 \\over {4\\pi {\\varepsilon _0}}}{{120{e^2}} \\over a}$$,</p>\n<p>where a is the distance of closest approach. Since electrostatic force is conservative, total energy is conserved i.e., $${K_i} + {U_i} = {K_f} + {U_f}$$. Substitute the values to get</p>\n<p>$${K_i} = {U_f} = {1 \\over {4\\pi {\\varepsilon _0}}}{{120{e^2}} \\over a}$$</p>\n<p>The de-Broglie wavelength of the proton is given by</p>\n<p>$${\\lambda _i} = {h \\over {{p_i}}} = {h \\over {\\sqrt {2{m_p}{K_i}} }} = {h \\over e}\\sqrt {{{4\\pi {\\varepsilon _0}a} \\over {240{m_p}}}} $$</p>\n<p>$$ = 4.2 \\times {10^{ - 15}}{\\left( {{{10 \\times {{10}^{ - 15}}} \\over {9 \\times {{10}^9} \\times 240 \\times (5/3) \\times {{10}^{ - 27}}}}} \\right)^{1/2}}$$</p>\n<p> = 7 fm.</p>"
+    },
+    {
+      "_type": "numerical",
+      "body": "<p>The activity of a freshly prepared radioactive sample is 10<sup>10</sup> disintegrations per second, whose mean life is 10<sup>9</sup> s. The mass of an atom of this radioisotope is 10<sup>$$-$$25</sup> kg. The mass (in mg) of the radioactive sample is _________.</p>",
+      "answer": "1",
+      "explanation": "<p>Activity $$A = \\lambda N$$, where $$\\lambda$$ is decay constant and N is number of particles present. Therefore,</p>\n<p>$$N = {A \\over \\lambda } = A\\tau $$</p>\n<p>where $$\\tau$$ = 1 / $$\\lambda$$ is the mean life of the sample. The mass of the sample is</p>\n<p>$$M = mN = mA\\tau $$</p>\n<p>where m is mass of an atom. Therefore, the mass of the radioactive sample is</p>\n<p>M = 10<sup>$$-$$25</sup> $$\\times$$ 10<sup>10</sup> $$\\times$$ 10<sup>9</sup> = 10<sup>$$-$$6</sup> kg = 1 mg</p>"
+    },
+    {
+      "_type": "numerical",
+      "body": "<p>A silver sphere of radius 1 cm and work function 4.7 eV is suspended from an insulating thread in free-space. It is under continuous illumination of 200 nm wavelength light. As photoelectrons are emitted, the sphere gets charged and acquires a potential. The maximum number of photoelectrons emitted from the spheres is A $$\\times$$ 10<sup>Z</sup> (where 1 < A < 10). The value of Z is _____________.</p>",
+      "answer": "7",
+      "explanation": "<p>The silver sphere gets positively charged due to emission of photoelectrons. This positively charged sphere attracts (binds) the emitted photoelectrons. The emitted photoelectrons cannot escape if their kinetic energies (hc/$$\\lambda$$ $$-$$ $$\\phi$$) are less than or equal to their potential energies $$\\left( {{1 \\over {4\\pi {\\varepsilon _0}}}{{n{e^2}} \\over r}} \\right)$$. Thus, in limiting case,</p>\n<p>$${{hc} \\over \\lambda } - \\phi  = {1 \\over {4\\pi {\\varepsilon _0}}}{{n{e^2}} \\over r}$$ ..... (1)</p>\n<p>Substitute the values of various parameters in equation (1),</p>\n<p>$${{1242} \\over {200}} - 4.7 = {{n(9 \\times {{10}^9})(1.6 \\times {{10}^{ - 19}})} \\over {{{10}^{ - 2}}}}$$,<p>\n<p>to get n = 1.04 $$\\times$$ 10<sup>7</sup>. [We have used hc = 1242 eV-nm.]</p>"
+    },
+    {
+      "_type": "numerical",
+      "body": "<p>An $$\\alpha$$-particle and a proton are accelerated from the rest by a potential difference of 100 V. After this, their de Broglie wavelengths are $$\\lambda$$<sub>$$\\alpha$$</sub> and $$\\lambda$$<sub>p</sub>, respectively. The ratio $${{{\\lambda _p}} \\over {{\\lambda _\\alpha }}}$$, to the nearest integer, is _____________.</p>",
+      "answer": "3",
+      "explanation": "<p>The de Broglie wavelength of a particle with momentum p is given by</p>\n<p>$$\\lambda$$ = h/p.</p>\n<p>The momentum and kinetic energy of a particle of mass m are related by</p>\n<p>$$p = \\sqrt {2mK} $$.</p>\n<p>The kinetic energy of a charge q, accelerated through potential V, is given by K = qV. Thus,</p>\n<p>$$\\lambda  = h/\\sqrt {2mK}  = h/\\sqrt {2mqV} $$,</p>\n<p>which gives</p>\n<p>$${{{\\lambda _p}} \\over {{\\lambda _\\alpha }}} = \\sqrt {{{2{m_\\alpha }{q_\\alpha }V} \\over {2{m_p}{q_p}V}}}  = \\sqrt {{{2\\,.\\,4u\\,.\\,2e\\,.\\,100} \\over {2\\,.\\,1u\\,.\\,1e\\,.\\,100}}} $$</p>\n<p>$$ = \\sqrt 8  = 2.8 \\approx 3$$</p>"
+    }
+  ]
+}

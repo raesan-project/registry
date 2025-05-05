@@ -1,0 +1,1591 @@
+{
+  "_index": {
+    "name": "p-Block Elements"
+  },
+  "_children": [
+    {
+      "_type": "single_mcq",
+      "body": "<p>Identify the incorrect statement from the following :</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "The acidic strength of $$\\mathrm{HX}(\\mathrm{X}=\\mathrm{F}, \\mathrm{Cl}, \\mathrm{Br}$$ and $$\\mathrm{I})$$ follows the order: $$\\mathrm{HF}>\\mathrm{HCl}>\\mathrm{HBr}>\\mathrm{HI}$$.\n"
+        },
+        {
+          "key": "B",
+          "value": "Fluorine exhibits $$-$$1 oxidation state whereas other halogens exhibit $$+1,+3,+5$$ and $$+7$$ oxidation states also."
+        },
+        {
+          "key": "C",
+          "value": "The enthalpy of dissociation of $$\\mathrm{F}_2$$ is smaller than that of $$\\mathrm{Cl}_2$$."
+        },
+        {
+          "key": "D",
+          "value": "Fluorine is stronger oxidising agent than chlorine."
+        }
+      ],
+      "answer": "A",
+      "explanation": "<p>Let's analyze each statement to identify the incorrect one:</p>\n\n<p><strong>Option A:</strong> The acidic strength of $$\\mathrm{HX}(\\mathrm{X}=\\mathrm{F}, \\mathrm{Cl}, \\mathrm{Br}$$ and $$\\mathrm{I})$$ follows the order: $$\\mathrm{HF}>\\mathrm{HCl}>\\mathrm{HBr}>\\mathrm{HI}$$.</p>\n\n<p>This statement is incorrect. The correct order of acidic strength for hydrohalic acids is $$\\mathrm{HF} < \\mathrm{HCl} < \\mathrm{HBr} < \\mathrm{HI}$$. This is because as we move down the group, the bond strength between hydrogen and the halide decreases, making it easier to ionize in water and making the acid stronger.</p>\n\n<p><strong>Option B:</strong> Fluorine exhibits $$-1$$ oxidation state whereas other halogens exhibit $$+1, +3, +5$$ and $$+7$$ oxidation states also.</p>\n\n<p>This statement is correct. Fluorine is the most electronegative element and can only exhibit $$-1$$ oxidation state. Other halogens can exhibit positive oxidation states due to the availability of d-orbitals.</p>\n\n<p><strong>Option C:</strong> The enthalpy of dissociation of $$\\mathrm{F}_2$$ is smaller than that of $$\\mathrm{Cl}_2$$.</p>\n\n<p>This statement is correct. The bond dissociation energy of $$\\mathrm{F}_2$$ is indeed smaller than that of $$\\mathrm{Cl}_2$$ because the F-F bond is weaker due to significant electron-electron repulsion between the non-bonding electrons in the small fluorine molecule.</p>\n\n<p><strong>Option D:</strong> Fluorine is a stronger oxidising agent than chlorine.</p>\n\n<p>This statement is correct. Fluorine is the most electronegative element, which makes it the strongest oxidizing agent among the halogens.</p>\n\n<p>Therefore, the incorrect statement is <strong>Option A</strong>.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Match List I with List II:</p>\n<p><style type=\"text/css\">\n.tg  {border-collapse:collapse;border-spacing:0;}\n.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}\n.tg .tg-7btt{border-color:inherit;font-weight:bold;text-align:center;vertical-align:top}\n.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}\n</style>\n<table class=\"tg\" style=\"undefined;table-layout: fixed; width: 746px\"><colgroup>\n<col style=\"width: 78px\">\n<col style=\"width: 262px\">\n<col style=\"width: 83px\">\n<col style=\"width: 323px\">\n</colgroup>\n<thead>\n  <tr>\n    <th class=\"tg-7btt\"></th>\n    <th class=\"tg-7btt\">List - I<br>Solid salt treated with dil. H$$_2$$SO$$_4$$</th>\n    <th class=\"tg-7btt\"></th>\n    <th class=\"tg-7btt\">List - II<br>Anion detected</th>\n  </tr></thead>\n<tbody>\n  <tr>\n    <td class=\"tg-c3ow\">(A)</td>\n    <td class=\"tg-0pky\">effervescence of colourless gas</td>\n    <td class=\"tg-c3ow\">(I)</td>\n    <td class=\"tg-0pky\">NO$$_2^-$$</td>\n  </tr>\n  <tr>\n    <td class=\"tg-c3ow\">(B)</td>\n    <td class=\"tg-0pky\">gas with smell of rotten egg</td>\n    <td class=\"tg-c3ow\">(II)</td>\n    <td class=\"tg-0pky\">CO$$_3^{2-}$$</td>\n  </tr>\n  <tr>\n    <td class=\"tg-c3ow\">(C)</td>\n    <td class=\"tg-0pky\">gas with pungent smell</td>\n    <td class=\"tg-c3ow\">(III)</td>\n    <td class=\"tg-0pky\">S$$^{2-}$$</td>\n  </tr>\n  <tr>\n    <td class=\"tg-c3ow\">(D)</td>\n    <td class=\"tg-0pky\">brown fumes</td>\n    <td class=\"tg-c3ow\">(IV)</td>\n    <td class=\"tg-0pky\">SO$$_3^{2-}$$</td>\n  </tr>\n</tbody>\n</table></p>\n<p>Choose the correct answer from the options given below:</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "A-II, B-III, C-IV, D-I\n"
+        },
+        {
+          "key": "B",
+          "value": "A-IV, B-III, C-II, D-I\n"
+        },
+        {
+          "key": "C",
+          "value": "A-I, B-II, C-III, D-IV\n"
+        },
+        {
+          "key": "D",
+          "value": "A-II, B-III, C-I, D-IV"
+        }
+      ],
+      "answer": "A",
+      "explanation": "<p>Anion $$\\quad-$$ Observation on treatment with dil. $$\\mathrm{H}_2 \\mathrm{SO}_4$$</p>\n<p>(A) Carbonate $$\\left(\\mathrm{CO}_3^{2-}\\right)\\quad$$\nBrisk effervescence of colourless and odourless gas $$\\left(\\mathrm{CO}_2\\right)$$</p>\n<p>(B) Sulphide $$\\left(\\mathrm{S}^{2-}\\right)\\quad$$\nEvolution of colourless gas with rotten egg like smell $$\\left(\\mathrm{H}_2 \\mathrm{~S}\\right)$$</p>\n<p>(C) Sulphite $$\\left(\\mathrm{SO}_3^{2-}\\right)\\quad$$\nGas with pungent smell $$\\left(\\mathrm{SO}_2\\right)$$</p>\n<p>(D) Nitrite $$\\left(\\mathrm{NO}_2^{-}\\right)\\quad$$\nBrown fumes $$\\left(\\mathrm{NO}_2\\right)$$</p>\n<p>Correct Match : A – II, B-III, C-IV, D-I</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Among Group 16 elements, which one does NOT show -2 oxidation state?</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "O"
+        },
+        {
+          "key": "B",
+          "value": "$$\\mathrm{Se}$$\n"
+        },
+        {
+          "key": "C",
+          "value": "$$\\mathrm{Te}$$\n"
+        },
+        {
+          "key": "D",
+          "value": "Po"
+        }
+      ],
+      "answer": "D",
+      "explanation": "<p>The elements in Group 16 of the periodic table, also known as the chalcogens, include oxygen (O), sulfur (S), selenium (Se), tellurium (Te), and polonium (Po). Generally, these elements are known to commonly exhibit a -2 oxidation state because they have six electrons in their outermost shell and can gain two electrons to complete their octet, thereby achieving a stable electronic configuration similar to the nearest noble gas.</p>\n\n<p>Oxygen, being the most electronegative element in this group, predominantly shows a -2 oxidation state in most of its compounds, such as water ($\\mathrm{H_2O}$) and oxides like $\\mathrm{SO_2}$. </p>\n\n<p>Selenium and Tellurium also typically exhibit the -2 oxidation state. For instance, in compounds like $\\mathrm{H_2Se}$ (hydrogen selenide) and $\\mathrm{H_2Te}$ (hydrogen telluride), these elements are in the -2 state.</p>\n\n<p>Polonium (Po), on the other hand, is different from the lighter chalcogens. Being a metalloid with more metallic character, it does not favor the -2 oxidation state nearly as strongly as the other elements in its group. Polonium most commonly exhibits +2 and +4 oxidation states in its compounds, like $\\mathrm{PoO_2}$ and $\\mathrm{PoCl_2}$. Due to the relativistic effects and its position in the periodic table, the -2 oxidation state is unstable and rare in polonium compounds.</p>\n\n<p>Given this, the correct answer is Option D: Po. Polonium does not commonly exhibit the -2 oxidation state like the other Group 16 elements.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Given below are certain cations. Using inorganic qualitative analysis, arrange them in increasing group number from 0 to $$\\mathrm{VI}$$.</p>\n<p>A. $$\\mathrm{Al}^{3+}$$</p>\n<p>B. $$\\mathrm{Cu}^{2+}$$</p>\n<p>C. $$\\mathrm{Ba}^{2+}$$</p>\n<p>D. $$\\mathrm{Co}^{2+}$$</p>\n<p>E. $$\\mathrm{Mg}^{2+}$$</p>\n<p>Choose the correct answer from the options given below.</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "B, A, D, C, E"
+        },
+        {
+          "key": "B",
+          "value": "B, C, A, D, E"
+        },
+        {
+          "key": "C",
+          "value": "E, C, D, B, A"
+        },
+        {
+          "key": "D",
+          "value": "E, A, B, C, D"
+        }
+      ],
+      "answer": "A",
+      "explanation": "<p><style type=\"text/css\">\n.tg  {border-collapse:collapse;border-spacing:0;}\n.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}\n.tg .tg-7btt{border-color:inherit;font-weight:bold;text-align:center;vertical-align:top}\n</style>\n<table class=\"tg\" style=\"undefined;table-layout: fixed; width: 343px\">\n<colgroup>\n<col style=\"width: 167px\">\n<col style=\"width: 176px\">\n</colgroup>\n<thead>\n  <tr>\n    <th class=\"tg-7btt\">Group</th>\n    <th class=\"tg-7btt\">Cations</th>\n  </tr>\n</thead>\n<tbody>\n  <tr>\n    <td class=\"tg-c3ow\">Group-II</td>\n    <td class=\"tg-c3ow\">Cu$$^{2+}$$</td>\n  </tr>\n  <tr>\n    <td class=\"tg-c3ow\">Group-III</td>\n    <td class=\"tg-c3ow\">Al$$^{3+}$$</td>\n  </tr>\n  <tr>\n    <td class=\"tg-c3ow\">Group-IV</td>\n    <td class=\"tg-c3ow\">Co$$^{2+}$$</td>\n  </tr>\n  <tr>\n    <td class=\"tg-c3ow\">Group-V</td>\n    <td class=\"tg-c3ow\">Ba$$^{2+}$$</td>\n  </tr>\n  <tr>\n    <td class=\"tg-c3ow\">Group-VI</td>\n    <td class=\"tg-c3ow\">Mg$$^{2+}$$</td>\n  </tr>\n</tbody>\n</table></p>\n<p>The correct order of group number of ions is $$\n\\underset{(\\mathrm{B})}{\\mathrm{Cu}^{2+}}<\\underset{(\\mathrm{A})}{\\mathrm{Al}^{3+}}<\\underset{(\\mathrm{D})}{\\mathrm{Co}^{2+}}<\\underset{(\\mathrm{C})}{\\mathrm{Ba}^{2+}}<\\underset{(\\mathrm{E})}{\\mathrm{Mg}^{2+}}\n$$</p>\n<p>$$\\therefore$$ The correct order is B, A, D, C, E</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Match the List - I with List - II</p>\n<p><style type=\"text/css\">\n.tg  {border-collapse:collapse;border-spacing:0;}\n.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg .tg-baqh{text-align:center;vertical-align:top}\n.tg .tg-amwm{font-weight:bold;text-align:center;vertical-align:top}\n.tg .tg-0lax{text-align:left;vertical-align:top}\n</style>\n<table class=\"tg\" style=\"undefined;table-layout: fixed; width: 457px\">\n<colgroup>\n<col style=\"width: 48px\">\n<col style=\"width: 170px\">\n<col style=\"width: 55px\">\n<col style=\"width: 184px\">\n</colgroup>\n<thead>\n  <tr>\n    <th class=\"tg-amwm\"></th>\n    <th class=\"tg-amwm\">List - I<br>(Hydride)</th>\n    <th class=\"tg-amwm\"></th>\n    <th class=\"tg-amwm\">List - II<br>(Type of Hydride)</th>\n  </tr>\n</thead>\n<tbody>\n  <tr>\n    <td class=\"tg-baqh\">(A)</td>\n    <td class=\"tg-0lax\">$$\\mathrm{NaH}$$</td>\n    <td class=\"tg-baqh\">(I)</td>\n    <td class=\"tg-0lax\">Electron precise</td>\n  </tr>\n  <tr>\n    <td class=\"tg-baqh\">(B)</td>\n    <td class=\"tg-0lax\">$$\\mathrm{PH_3}$$</td>\n    <td class=\"tg-baqh\">(II)</td>\n    <td class=\"tg-0lax\">Saline</td>\n  </tr>\n  <tr>\n    <td class=\"tg-baqh\">(C)</td>\n    <td class=\"tg-0lax\">$$\\mathrm{GeH_4}$$</td>\n    <td class=\"tg-baqh\">(III)</td>\n    <td class=\"tg-0lax\">Metallic</td>\n  </tr>\n  <tr>\n    <td class=\"tg-baqh\">(D)</td>\n    <td class=\"tg-0lax\">$$\\mathrm{LaH_{2.87}}$$</td>\n    <td class=\"tg-baqh\">(IV)</td>\n    <td class=\"tg-0lax\">Electron rich</td>\n  </tr>\n</tbody>\n</table></p>\n<p>Choose the correct answer from the options given below :</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "(A)-(III), (B)-(IV), (C)-(II), (D)-(I)"
+        },
+        {
+          "key": "B",
+          "value": "(A)-(II), (B)-(III), (C)-(IV), (D)-(I)"
+        },
+        {
+          "key": "C",
+          "value": "(A)-(I), (B)-(III), (C)-(II), (D)-(IV)"
+        },
+        {
+          "key": "D",
+          "value": "(A)-(II), (B)-(IV), (C)-(I), (D)-(III)"
+        }
+      ],
+      "answer": "D",
+      "explanation": "<p>$$\\mathrm{LaH_{2.87}}$$ $$\\to$$ non-stoichiometric</p>\n<p>$$\\to$$ Metallic/Interstitial hydride.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Given below are two statements : one is labelled as Assertion A and the other is labelled as Reason R.</p>\n<p>Assertion A : Helium is used to dilute oxygen in diving apparatus.</p>\n<p>Reason R : Helium has high solubility in O$$_2$$.</p>\n<p>In the light of the above statements, choose the correct answer from the options given below:</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "Both A and R are true but R is NOT the correct explanation of A."
+        },
+        {
+          "key": "B",
+          "value": "A is true but R is false."
+        },
+        {
+          "key": "C",
+          "value": "A is false but R is true."
+        },
+        {
+          "key": "D",
+          "value": "Both A and R are true and R is the correct explanation of  A."
+        }
+      ],
+      "answer": "B",
+      "explanation": "<p>Assertion is true because He has low solubility in blood. (NCERT)</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>The element expected to form largest ion to achieve the nearest noble gas configuration is</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$\\mathrm{F}$$"
+        },
+        {
+          "key": "B",
+          "value": "$$\\mathrm{N}$$"
+        },
+        {
+          "key": "C",
+          "value": "$$\\mathrm{Na}$$"
+        },
+        {
+          "key": "D",
+          "value": "$$\\mathrm{O}$$"
+        }
+      ],
+      "answer": "B",
+      "explanation": "<p>$$\\mathrm{F}^{-1}, \\mathrm{~N}^{-3}, \\mathrm{Na}^{+} ~\\& ~\\mathrm{O}^{-2}$$</p>\n<p>all ions are isoelectronic containing $$10 e^{-}$$</p>\n<p>$$\\mathrm{Z}_{\\text {eff }} \\rightarrow \\mathrm{Na}^{+}>\\mathrm{F}^{-}>\\mathrm{O}^{-2}>\\mathrm{N}^{-3}$$</p>\n<p>order of radius $$\\rightarrow \\mathrm{N}^{-3}>\\mathrm{O}^{-2}>\\mathrm{F}^{-}>\\mathrm{Na}^{+}$$</p>\n<p>$$\\rightarrow$$ Nitrogen to achieve Noble gas configuration it gain $$3 e^{-}$$, & form $$\\mathrm{N}^{-3}$$</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Match List-I with List-II :</p>\n<p><style type=\"text/css\">\n.tg  {border-collapse:collapse;border-spacing:0;}\n.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg .tg-7btt{border-color:inherit;font-weight:bold;text-align:center;vertical-align:top}\n.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}\n</style>\n<table class=\"tg\">\n<thead>\n  <tr>\n    <th class=\"tg-7btt\"></th>\n    <th class=\"tg-7btt\">List-I<br>(Compounds)</th>\n    <th class=\"tg-7btt\"></th>\n    <th class=\"tg-7btt\">List-II<br>(Molecular formula)</th>\n  </tr>\n</thead>\n<tbody>\n  <tr>\n    <td class=\"tg-0pky\">(a)</td>\n    <td class=\"tg-0pky\">Borax</td>\n    <td class=\"tg-0pky\">(i)</td>\n    <td class=\"tg-0pky\">NaBO$$_2$$</td>\n  </tr>\n  <tr>\n    <td class=\"tg-0pky\">(b)</td>\n    <td class=\"tg-0pky\">Kernite</td>\n    <td class=\"tg-0pky\">(ii)</td>\n    <td class=\"tg-0pky\">Na$$_2$$B$$_4$$O$$_7$$ . 4H$$_2$$O</td>\n  </tr>\n  <tr>\n    <td class=\"tg-0pky\">(c)</td>\n    <td class=\"tg-0pky\">Orthoboric acid</td>\n    <td class=\"tg-0pky\">(iii)</td>\n    <td class=\"tg-0pky\">H$$_3$$BO$$_3$$</td>\n  </tr>\n  <tr>\n    <td class=\"tg-0pky\">(d)</td>\n    <td class=\"tg-0pky\">Borax bead</td>\n    <td class=\"tg-0pky\">(iv)</td>\n    <td class=\"tg-0pky\">Na$$_2$$B$$_4$$O$$_7$$ . 10H$$_2$$O</td>\n  </tr>\n</tbody>\n</table></p>\n<p>Choose the correct answer from the options given below :</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "(a) - (i), (b) - (iii), (c) - (iv), (d) - (ii)"
+        },
+        {
+          "key": "B",
+          "value": "(a) - (iv), (b) - (ii), (c) - (iii), (d) - (i)"
+        },
+        {
+          "key": "C",
+          "value": "(a) - (ii), (b) - (iv), (c) - (iii), (d) - (i)"
+        },
+        {
+          "key": "D",
+          "value": "(a) - (iii), (b) - (i), (c) - (iv), (d) - (ii)"
+        }
+      ],
+      "answer": "B",
+      "explanation": "<p>$$\\bullet$$ Borax : Na<sub>2</sub>B<sub>4</sub>O<sub>7</sub> . 10H<sub>2</sub>O = Na<sub>2</sub>[B<sub>4</sub>O<sub>5</sub>(OH)<sub>4</sub>] . 8H<sub>2</sub>O</p>\n<p>$$\\bullet$$ Kernite : Na<sub>2</sub>B<sub>4</sub>O<sub>7</sub> . 4H<sub>2</sub>O</p>\n<p>$$\\bullet$$ Orthoboric acid : H<sub>3</sub>BO<sub>3</sub> = B(OH)<sub>3</sub></p>\n<p>$$\\bullet$$ Borax bead : NaBO<sub>2</sub> (Sodium metaborate)</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Which of the following reactions is a part of the large scale industrial preparation of nitric acid?</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "Cu(NO<sub>3</sub>)<sub>2</sub> + 2NO<sub>2</sub> + 2H<sub>2</sub>O $$\\mathrel{\\mathop{\\kern0pt\\longrightarrow}\n\\limits_{\\mathrm{500\\,K,\\,9\\,bar}}^{\\mathrm{Pt}}} $$ 4HNO<sub>3</sub> + Cu"
+        },
+        {
+          "key": "B",
+          "value": "NaNO<sub>3</sub> + H<sub>2</sub>SO<sub>4</sub> $$\\mathrel{\\mathop{\\kern0pt\\longrightarrow}\n\\limits_{\\mathrm{500\\,K,\\,9\\,bar}}^{\\mathrm{Pt}}} $$ NaHSO<sub>4</sub> + HNO<sub>3</sub>"
+        },
+        {
+          "key": "C",
+          "value": "4NH<sub>3</sub> + 5O<sub>2</sub> (from air) $$\\mathrel{\\mathop{\\kern0pt\\longrightarrow}\n\\limits_{\\mathrm{500\\,K,\\,9\\,bar}}^{\\mathrm{Pt}}} $$ 4NO + 6H<sub>2</sub>O"
+        },
+        {
+          "key": "D",
+          "value": "4HPO<sub>3</sub> + 2N<sub>2</sub>O<sub>5</sub> $$\\mathrel{\\mathop{\\kern0pt\\longrightarrow}\n\\limits_{\\mathrm{500\\,K,\\,9\\,bar}}^{\\mathrm{Pt}}} $$ 4HNO<sub>3</sub> + P<sub>4</sub>O<sub>10</sub>"
+        }
+      ],
+      "answer": "C",
+      "explanation": "<p>4NH<sub>3</sub> + 5O<sub>2</sub> (from air) $$\\mathrel{\\mathop{\\kern0pt\\longrightarrow}\n\\limits_{\\mathrm{500\\,K,\\,9\\,bar}}^{\\mathrm{Pt}}} $$ 4NO + 6H<sub>2</sub>O</p>\n<p>2NO(g)  + O<sub>2</sub>(g) $$\\rightleftharpoons$$ 2NO<sub>2</sub>(g)</p>\n<p>3NO<sub>2</sub>(g) + H<sub>2</sub>O(l) $$\\to$$ 2HNO<sub>3</sub>(aq) + NO(g)</p>\n<p>This is industrial method of preparation of nitric acid.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Na<sub>2</sub>B<sub>4</sub>O<sub>7</sub> $$\\buildrel {heat} \\over\n \\longrightarrow $$ X + NaBO<sub>2</sub></p>\n<p>in the above reaction the product \"X\" is :</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "NaB<sub>3</sub>O<sub>5</sub>"
+        },
+        {
+          "key": "B",
+          "value": "H<sub>3</sub>BO<sub>3</sub>"
+        },
+        {
+          "key": "C",
+          "value": "B<sub>2</sub>O<sub>3</sub>"
+        },
+        {
+          "key": "D",
+          "value": "Na<sub>2</sub>B<sub>2</sub>O<sub>5</sub>"
+        }
+      ],
+      "answer": "C",
+      "explanation": "<p>Na<sub>2</sub>B<sub>4</sub>O<sub>7</sub> $$\\buildrel {\\Delta} \\over\n \\longrightarrow $$ B<sub>2</sub>O<sub>3</sub> + 2NaBO<sub>2</sub></p>\n<p>Product X is B<sub>2</sub>O<sub>3</sub></p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Match List-I with List-II.</p>\n<p><style type=\"text/css\">\n.tg  {border-collapse:collapse;border-spacing:0;}\n.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg .tg-1wig{font-weight:bold;text-align:left;vertical-align:top}\n.tg .tg-0lax{text-align:left;vertical-align:top}\n</style>\n<table class=\"tg\">\n<thead>\n  <tr>\n    <th class=\"tg-1wig\"></th>\n    <th class=\"tg-1wig\">List - I<br>(Hydrides)</th>\n    <th class=\"tg-1wig\"></th>\n    <th class=\"tg-1wig\">List - II<br>(Nature)</th>\n  </tr>\n</thead>\n<tbody>\n  <tr>\n    <td class=\"tg-0lax\">(a)</td>\n    <td class=\"tg-0lax\">MgH$$_2$$</td>\n    <td class=\"tg-0lax\">(i)</td>\n    <td class=\"tg-0lax\">Electron precise</td>\n  </tr>\n  <tr>\n    <td class=\"tg-0lax\">(b)</td>\n    <td class=\"tg-0lax\">GeH$$_4$$</td>\n    <td class=\"tg-0lax\">(ii)</td>\n    <td class=\"tg-0lax\">Electron deficient</td>\n  </tr>\n  <tr>\n    <td class=\"tg-0lax\">(c)</td>\n    <td class=\"tg-0lax\">B$$_2$$H$$_6$$</td>\n    <td class=\"tg-0lax\">(iii)</td>\n    <td class=\"tg-0lax\">Electron rich</td>\n  </tr>\n  <tr>\n    <td class=\"tg-0lax\">(d)</td>\n    <td class=\"tg-0lax\">HF</td>\n    <td class=\"tg-0lax\">(iv)</td>\n    <td class=\"tg-0lax\">Ionic</td>\n  </tr>\n</tbody>\n</table></p>\n<p>Choose the correct answer from the options given below:</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "(a) - (iv), (b) - (i), (c) - (ii), (d) - (iii)"
+        },
+        {
+          "key": "B",
+          "value": "(a) - (iii), (b) - (i), (c) - (ii), (d) - (iv)"
+        },
+        {
+          "key": "C",
+          "value": "(a) - (i), (b) - (ii), (c) - (iv), (d) - (iii)"
+        },
+        {
+          "key": "D",
+          "value": "(a) - (ii), (b) - (iii), (c) - (iv), (d) - (i)"
+        }
+      ],
+      "answer": "A",
+      "explanation": "<p><style type=\"text/css\">\n.tg  {border-collapse:collapse;border-spacing:0;}\n.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg .tg-fymr{border-color:inherit;font-weight:bold;text-align:left;vertical-align:top}\n.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}\n</style>\n<table class=\"tg\">\n<thead>\n  <tr>\n    <th class=\"tg-fymr\"></th>\n    <th class=\"tg-fymr\">List - I<br>(Hydrides)</th>\n    <th class=\"tg-fymr\"></th>\n    <th class=\"tg-fymr\">List - II<br>(Nature)</th>\n  </tr>\n</thead>\n<tbody>\n  <tr>\n    <td class=\"tg-0pky\">(a)</td>\n    <td class=\"tg-0pky\">MgH$$_2$$</td>\n    <td class=\"tg-0pky\">$$ \\to $$</td>\n    <td class=\"tg-0pky\">Ionic</td>\n  </tr>\n  <tr>\n    <td class=\"tg-0pky\">(b)</td>\n    <td class=\"tg-0pky\">GeH$$_4$$</td>\n    <td class=\"tg-0pky\">$$ \\to $$</td>\n    <td class=\"tg-0pky\">Electron precise</td>\n  </tr>\n  <tr>\n    <td class=\"tg-0pky\">(c)</td>\n    <td class=\"tg-0pky\">B$$_2$$H$$_6$$</td>\n    <td class=\"tg-0pky\">$$ \\to $$</td>\n    <td class=\"tg-0pky\">Electron deficient</td>\n  </tr>\n  <tr>\n    <td class=\"tg-0pky\">(d)</td>\n    <td class=\"tg-0pky\">HF</td>\n    <td class=\"tg-0pky\">$$ \\to $$</td>\n    <td class=\"tg-0pky\">Electron rich</td>\n  </tr>\n</tbody>\n</table></p>\n<p>(a) - (iv), (b) - (i), (c) - (ii), (d) - (iii)</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Given below are two statements</p>\n<p>Statement I : The boiling points of the following hydrides of group 16 elements increases in the order -</p>\n<p>H<sub>2</sub>O < H<sub>2</sub>S < H<sub>2</sub>Se < H<sub>2</sub>Te</p>\n<p>Statement II : The boiling points of these hydrides increase with increase in molar mass.</p>\n<p>In the light of the above statements, choose the most appropriate answer from the options given below :</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "Both Statement I and Statement II are correct"
+        },
+        {
+          "key": "B",
+          "value": "Both Statement I and Statement II are incorrect"
+        },
+        {
+          "key": "C",
+          "value": "Statement I is correct but Statement II is incorrect"
+        },
+        {
+          "key": "D",
+          "value": "Statement I is incorrect but Statement II is correct"
+        }
+      ],
+      "answer": "B",
+      "explanation": "<p><style type=\"text/css\">\n.tg  {border-collapse:collapse;border-spacing:0;}\n.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg .tg-baqh{text-align:center;vertical-align:top}\n</style>\n<table class=\"tg\" style=\"undefined;table-layout: fixed; width: 249px\">\n<colgroup>\n<col style=\"width: 139px\">\n<col style=\"width: 110px\">\n</colgroup>\n<thead>\n  <tr>\n    <th class=\"tg-baqh\">Compound</th>\n    <th class=\"tg-baqh\">Boiling point (K)</th>\n  </tr>\n</thead>\n<tbody>\n  <tr>\n    <td class=\"tg-baqh\">H$$_2$$O</td>\n    <td class=\"tg-baqh\">373</td>\n  </tr>\n  <tr>\n    <td class=\"tg-baqh\">H$$_2$$S</td>\n    <td class=\"tg-baqh\">213</td>\n  </tr>\n  <tr>\n    <td class=\"tg-baqh\">H$$_2$$Se</td>\n    <td class=\"tg-baqh\">232</td>\n  </tr>\n  <tr>\n    <td class=\"tg-baqh\">H$$_2$$Te</td>\n    <td class=\"tg-baqh\">269</td>\n  </tr>\n</tbody>\n</table></p>\n<p>$$\\bullet$$ The boiling points of these hybrids not exactly increases with increase in molar mass.</p>\n<p>$$\\bullet$$ H<sub>2</sub>O has maximum boiling point due to intermolecular hydrogen bonding.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Statement I : Acid strength increases in the order given as HF &lt;&lt; HCl &lt;&lt; HBr &lt;&lt; HI.<br><br>Statement II : As the size of the elements, F, Cl, Br, I increases down the group, the bond strength of HF, HCl, HBr and HI decreases and so the acid strength increases.<br><br>In the light of the above statements, choose the correct answer from the options given below.",
+      "options": [
+        {
+          "key": "A",
+          "value": "Statement I is incorrect but Statement II is true."
+        },
+        {
+          "key": "B",
+          "value": "Both Statement I and Statement II are true."
+        },
+        {
+          "key": "C",
+          "value": "Both Statement I and Statement II are false."
+        },
+        {
+          "key": "D",
+          "value": "Statement I is correct but Statement II is false."
+        }
+      ],
+      "answer": "B",
+      "explanation": "In the modern periodic table, moving down the group as the size of halogen atom increases, the H - X bond length also increases as a result the bond enthalpy decreases. Hence, the acidic strength also increases.<br><br>So, the correct order of acidic strength is <br><br>HI &gt; HBr &gt; HCl &gt; HF"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Noble gases are named because of their inertness towards reactivity. Identify an incorrect statement about them.",
+      "options": [
+        {
+          "key": "A",
+          "value": "Noble gases have large positive values of electron gain enthalpy"
+        },
+        {
+          "key": "B",
+          "value": "Noble gases are sparingly soluble in water"
+        },
+        {
+          "key": "C",
+          "value": "Noble gases have very high melting and boiling points"
+        },
+        {
+          "key": "D",
+          "value": "Noble gases have weak dispersion forces"
+        }
+      ],
+      "answer": "C",
+      "explanation": "Nobles gases have weak interatomic\nforces (van der Waals' forces). So,\nthey have low melting and boiling\npoints."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "In which one of the following arrangements the given sequence is not strictly according to the properties indicted against it?",
+      "options": [
+        {
+          "key": "A",
+          "value": "CO<sub>2</sub> &lt; SiO<sub>2</sub> &lt; SnO<sub>2</sub> &lt; PbO<sub>2</sub> : Increasing oxidizing order"
+        },
+        {
+          "key": "B",
+          "value": "HF &lt; HCl &lt; HBr &lt; HI : Increasing acidic strength"
+        },
+        {
+          "key": "C",
+          "value": "H<sub>2</sub>O &lt; H<sub>2</sub>S &lt; H<sub>2</sub>Se &lt; H<sub>2</sub>Te : Increasing pK<sub>a</sub> values"
+        },
+        {
+          "key": "D",
+          "value": "NH<sub>3</sub> &lt; PH<sub>3</sub> &lt; AsH<sub>3</sub> &lt; SbH<sub>3</sub> : Increasing acidic character"
+        }
+      ],
+      "answer": "C",
+      "explanation": "Stronger is the acid, lower is the value of pK<sub>a</sub>. On moving down the group, bond dissociation enthalpy of hydrides of group 16 elements decreases hence acidity increases and pK<sub>a</sub> value decreases. Correct order of pK<sub>a</sub> value will be<br><br>H<sub>2</sub>O &gt; H<sub>2</sub>S &gt; H<sub>2</sub>Se &gt; H<sub>2</sub>Te"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Which of the following is not correct about carbon monoxide?",
+      "options": [
+        {
+          "key": "A",
+          "value": "It reduces oxygen carrying ability of blood."
+        },
+        {
+          "key": "B",
+          "value": "The carboxyhemoglobin (haemoglobin bound to CO) is less stable than oxyhaemoglobin."
+        },
+        {
+          "key": "C",
+          "value": "It produced due to incomplete combustion."
+        },
+        {
+          "key": "D",
+          "value": "It forms carboxyhaemoglobin."
+        }
+      ],
+      "answer": "B",
+      "explanation": "The carboxyhaemoglobin is about 300 times more stable than oxyhaemoglobin."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Match the following and identify the correct option.<br><table>\n<thead>\n  <tr>\n    <td>(A)\n    </td><td>CO(g) + H<sub>2</sub>(g)</td>\n    <td>(i)\n    </td><td>Mg(HCO<sub>3</sub>)<sub>2</sub> + Ca(HCO<sub>3</sub>)<sub>2</sub></td>\n  </tr>\n</thead>\n<tbody>\n  <tr>\n    <td>(B)</td>\n    <td>Temporary hardness of water</td>\n    <td>(ii)</td>\n    <td>An electron deficient hydride</td>\n  </tr>\n  <tr>\n    <td>(C)</td>\n    <td>B<sub>2</sub>H<sub>6</sub></td>\n    <td>(iii)</td>\n    <td>Synthesis gas</td>\n  </tr>\n  <tr>\n    <td>(D)</td>\n    <td>H<sub>2</sub>O<sub>2</sub></td>\n    <td>(iv)</td>\n    <td>Non-planar structure</td>\n  </tr>\n</tbody>\n</table>",
+      "options": [
+        {
+          "key": "A",
+          "value": "<table>\n<thead>\n  <tr>\n    <th>(A)</th>\n    <th>(B)</th>\n    <th>(C)</th>\n    <th>(D)</th>\n  </tr>\n</thead>\n<tbody>\n  <tr>\n    <td>(iii)</td>\n    <td>(ii)</td>\n    <td>(i)</td>\n    <td>(iv)</td>\n  </tr>\n  <tr>\n    <td></td>\n    <td></td>\n    <td></td>\n    <td></td>\n  </tr>\n  <tr>\n    <td></td>\n    <td></td>\n    <td></td>\n    <td></td>\n  </tr>\n  <tr>\n    <td></td>\n    <td></td>\n    <td></td>\n    <td></td>\n  </tr>\n</tbody>\n</table>"
+        },
+        {
+          "key": "B",
+          "value": "<table>\n<thead>\n  <tr>\n    <th>(A)</th>\n    <th>(B)</th>\n    <th>(C)</th>\n    <th>(D)</th>\n  </tr>\n</thead>\n<tbody>\n  <tr>\n    <td>(iii)</td>\n    <td>(iv)</td>\n    <td>(ii)</td>\n    <td>(i)</td>\n  </tr>\n  <tr>\n    <td></td>\n    <td></td>\n    <td></td>\n    <td></td>\n  </tr>\n  <tr>\n    <td></td>\n    <td></td>\n    <td></td>\n    <td></td>\n  </tr>\n  <tr>\n    <td></td>\n    <td></td>\n    <td></td>\n    <td></td>\n  </tr>\n</tbody>\n</table>"
+        },
+        {
+          "key": "C",
+          "value": "<table>\n<thead>\n  <tr>\n    <th>(A)</th>\n    <th>(B)</th>\n    <th>(C)</th>\n    <th>(D)</th>\n  </tr>\n</thead>\n<tbody>\n  <tr>\n    <td>(i)</td>\n    <td>(iii)</td>\n    <td>(ii)</td>\n    <td>(iv)</td>\n  </tr>\n  <tr>\n    <td></td>\n    <td></td>\n    <td></td>\n    <td></td>\n  </tr>\n  <tr>\n    <td></td>\n    <td></td>\n    <td></td>\n    <td></td>\n  </tr>\n  <tr>\n    <td></td>\n    <td></td>\n    <td></td>\n    <td></td>\n  </tr>\n</tbody>\n</table>"
+        },
+        {
+          "key": "D",
+          "value": "<table>\n<thead>\n  <tr>\n    <th>(A)</th>\n    <th>(B)</th>\n    <th>(C)</th>\n    <th>(D)</th>\n  </tr>\n</thead>\n<tbody>\n  <tr>\n    <td>(iii)</td>\n    <td>(i)</td>\n    <td>(ii)</td>\n    <td>(iv)</td>\n  </tr>\n  <tr>\n    <td></td>\n    <td></td>\n    <td></td>\n    <td></td>\n  </tr>\n  <tr>\n    <td></td>\n    <td></td>\n    <td></td>\n    <td></td>\n  </tr>\n  <tr>\n    <td></td>\n    <td></td>\n    <td></td>\n    <td></td>\n  </tr>\n</tbody>\n</table>"
+        }
+      ],
+      "answer": "D",
+      "explanation": "$$ \\bullet $$ Mixture of CO and H<sub>2</sub> gases is known as water gas or synthesis gas.<br>$$ \\bullet $$ Temporary hardness of water is due to bicarbonates of calcium and magnesium.<br>$$ \\bullet $$ Diborane (B<sub>2</sub>H<sub>6</sub>) is an electron deficient hydride.<br>$$ \\bullet $$ H<sub>2</sub>O<sub>2</sub> is non-planar molecule having open book like structure.\n\n\n\n"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Identify the correct statements from the following :<br>(A) CO<sub>2</sub>(g) is used as refrigerant for ice-cream and frozen food.<br>(B) The structure of C<sub>60</sub> contains twelve six-carbon rings and twenty five carbon rings.<br>(C) ZSM-5, a type of zeolite, is used to convert alcohols into gasoline.<br>(D) CO is colourless and odourless gas.",
+      "options": [
+        {
+          "key": "A",
+          "value": "(A) and (C) only"
+        },
+        {
+          "key": "B",
+          "value": "(B) and (C) only"
+        },
+        {
+          "key": "C",
+          "value": "(C) and (D) only"
+        },
+        {
+          "key": "D",
+          "value": "(A), (B) and (C) only"
+        }
+      ],
+      "answer": "C",
+      "explanation": "Dry ice is used as refrigerant. C<sub>60</sub> contains 20 six membered ring, 12 five membered rings. In the presence of a zeolite catalyst (HZSM-5), ethanol, methanol and larger alcohols can be converted into gasoline at 300-400$$^\\circ $$\n C. CO, is a tasteless, colorless, and odorless gas."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Which is the correct thermal stability order for H<sub>2</sub>E (E = O, S, Se, Te and Po)?",
+      "options": [
+        {
+          "key": "A",
+          "value": "H<sub>2</sub>Po &lt; H<sub>2</sub>Te &lt; H<sub>2</sub>Se &lt; H<sub>2</sub>S &lt; H<sub>2</sub>O"
+        },
+        {
+          "key": "B",
+          "value": "H<sub>2</sub>Se &lt; H<sub>2</sub>Te &lt; H<sub>2</sub>Po &lt; H<sub>2</sub>O &lt; H<sub>2</sub>S"
+        },
+        {
+          "key": "C",
+          "value": "H<sub>2</sub>S &lt; H<sub>2</sub>O &lt; H<sub>2</sub>Se &lt; H<sub>2</sub>Te &lt; H<sub>2</sub>Po"
+        },
+        {
+          "key": "D",
+          "value": "H<sub>2</sub>O &lt; H<sub>2</sub>S &lt; H<sub>2</sub>Se &lt; H<sub>2</sub>Te &lt; H<sub>2</sub>Po"
+        }
+      ],
+      "answer": "A",
+      "explanation": "The thermal stability of hydrides decreases\ndown the group due to decrease in bond\ndissociation energy down the group.\n<br><br> Therefore,\nthermal stability order will be :\n<br><br>H<sub>2</sub>Po &lt; H<sub>2</sub>Te &lt; H<sub>2</sub>Se &lt; H<sub>2</sub>S &lt; H<sub>2</sub>O"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Which of the following species is <b>not</b> stable?",
+      "options": [
+        {
+          "key": "A",
+          "value": "[Sn(OH)<sub>6</sub>]<sup>2-</sup>"
+        },
+        {
+          "key": "B",
+          "value": "[SiCl<sub>6</sub>]<sup>2–</sup>"
+        },
+        {
+          "key": "C",
+          "value": "[SiF<sub>6</sub>]<sup>2–</sup>"
+        },
+        {
+          "key": "D",
+          "value": "[GeCl<sub>6</sub>]<sup>2–</sup>"
+        }
+      ],
+      "answer": "B",
+      "explanation": "[SiCl<sub>6</sub>]<sup>2–</sup> does not exist because six large chloride ions cannot be accommodated around Si<sup>+4</sup> due to its small size."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Which of the following is <b>incorrect</b> statement?",
+      "options": [
+        {
+          "key": "A",
+          "value": "GeX<sub>4</sub>(X = F, Cl, Br, I) is more stable than GeX<sub>2</sub>"
+        },
+        {
+          "key": "B",
+          "value": "SnF<sub>4</sub> is ionic in nature"
+        },
+        {
+          "key": "C",
+          "value": "PbF<sub>4</sub> is covalent in nature"
+        },
+        {
+          "key": "D",
+          "value": "SiCl<sub>4</sub> is easily hydrolysed "
+        }
+      ],
+      "answer": "C",
+      "explanation": "PbF<sub>4</sub> is an ionic compound."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Match the following :\n<br><br><style type=\"text/css\">\n.tg  {border-collapse:collapse;border-spacing:0;}\n.tg td{border-style:solid;border-width:0px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;\n  padding:10px 5px;word-break:normal;}\n.tg th{border-style:solid;border-width:0px;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;\n  overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg .tg-eqm3{border-color:inherit;font-size:20px;text-align:left;vertical-align:top}\n</style>\n<table class=\"tg\">\n  <tbody><tr>\n    <th class=\"tg-eqm3\">(a) Pure nitrogen</th>\n    <th class=\"tg-eqm3\">(i) Chlorine</th>\n  </tr>\n  <tr>\n    <td class=\"tg-eqm3\">(b) Haber process</td>\n    <td class=\"tg-eqm3\">(ii) Sulphuric acid</td>\n  </tr>\n  <tr>\n    <td class=\"tg-eqm3\">(c) Contact process</td>\n    <td class=\"tg-eqm3\">(iii) Ammonia<br></td>\n  </tr>\n  <tr>\n    <td class=\"tg-eqm3\">(d) Deacon’s process</td>\n    <td class=\"tg-eqm3\">(iv) Sodium azide or Barium azide</td>\n  </tr>\n</tbody></table>\n<br><br>Which of the following is the correct option?",
+      "options": [
+        {
+          "key": "A",
+          "value": "<table class=\"tg\">\n  <tbody><tr>\n    <th class=\"tg-amwm\">(a)</th>\n    <th class=\"tg-amwm\">(b)</th>\n    <th class=\"tg-amwm\">(c)</th>\n    <th class=\"tg-amwm\">(d)</th>\n  </tr>\n  <tr>\n    <td class=\"tg-baqh\">(iii)</td>\n    <td class=\"tg-baqh\">(iv)</td>\n    <td class=\"tg-baqh\">(ii)</td>\n    <td class=\"tg-baqh\">(i)</td>\n  </tr>\n</tbody></table>"
+        },
+        {
+          "key": "B",
+          "value": "<table class=\"tg\">\n  <tbody><tr>\n    <th class=\"tg-amwm\">(a)</th>\n    <th class=\"tg-amwm\">(b)</th>\n    <th class=\"tg-amwm\">(c)</th>\n    <th class=\"tg-amwm\">(d)</th>\n  </tr>\n  <tr>\n    <td class=\"tg-baqh\">(iv)</td>\n    <td class=\"tg-baqh\">(iii)</td>\n    <td class=\"tg-baqh\">(ii)</td>\n    <td class=\"tg-baqh\">(i)</td>\n  </tr>\n</tbody></table>"
+        },
+        {
+          "key": "C",
+          "value": "<table class=\"tg\">\n  <tbody><tr>\n    <th class=\"tg-amwm\">(a)</th>\n    <th class=\"tg-amwm\">(b)</th>\n    <th class=\"tg-amwm\">(c)</th>\n    <th class=\"tg-amwm\">(d)</th>\n  </tr>\n  <tr>\n    <td class=\"tg-baqh\">(i)</td>\n    <td class=\"tg-baqh\">(ii)</td>\n    <td class=\"tg-baqh\">(iii)</td>\n    <td class=\"tg-baqh\">(iv)</td>\n  </tr>\n</tbody></table>"
+        },
+        {
+          "key": "D",
+          "value": "<table class=\"tg\">\n  <tbody><tr>\n    <th class=\"tg-amwm\">(a)</th>\n    <th class=\"tg-amwm\">(b)</th>\n    <th class=\"tg-amwm\">(c)</th>\n    <th class=\"tg-amwm\">(d)</th>\n  </tr>\n  <tr>\n    <td class=\"tg-baqh\">(ii)</td>\n    <td class=\"tg-baqh\">(iv)</td>\n    <td class=\"tg-baqh\">(i)</td>\n    <td class=\"tg-baqh\">(iii)</td>\n  </tr>\n</tbody></table>"
+        }
+      ],
+      "answer": "B",
+      "explanation": "Pure N<sub>2</sub> : BaN<sub>3</sub> $$ \\to $$ Ba + N<sub>2</sub>\n<br><br>Haber process : N<sub>2</sub> + 3H<sub>2</sub> $$ \\to $$ 2NH<sub>3</sub>\n<br><br>Contact process : 2SO<sub>2</sub> + O<sub>2</sub> $$ \\to $$ 2SO<sub>3</sub>\n<br><br>Deacon’s process : HCl + O<sub>2</sub> $$\\buildrel {CuC{l_2}} \\over\n \\longrightarrow $$ H<sub>2</sub>O + Cl<sub>2</sub>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Which of the following statements is not true\nfor halogens?",
+      "options": [
+        {
+          "key": "A",
+          "value": "All are oxidizing agents."
+        },
+        {
+          "key": "B",
+          "value": "All form monobasic oxyacids."
+        },
+        {
+          "key": "C",
+          "value": "All but fluorine show positive oxidation\nstates."
+        },
+        {
+          "key": "D",
+          "value": "Chlorine has the highest electron-gain\nenthalpy. "
+        }
+      ],
+      "answer": "C",
+      "explanation": "All halogens show both positive and\nnegative oxidation states while fluorine shows only\nnegative oxidation state except  due to high\nelectronegativity and small size, F forms only one\noxoacid, HOF known as Fluoric (I) acid. Oxidation\nnumber of F is +1 in HOF."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Which one of the following elements is unable\nto form MF<sub>6</sub><sup>3–</sup> ion?",
+      "options": [
+        {
+          "key": "A",
+          "value": "Ga"
+        },
+        {
+          "key": "B",
+          "value": "Al"
+        },
+        {
+          "key": "C",
+          "value": "B"
+        },
+        {
+          "key": "D",
+          "value": "In"
+        }
+      ],
+      "answer": "C",
+      "explanation": "Boron does not have vacant d-orbitals in\nits valence shell, so it cannot extend its covalency\nbeyond 4. i.e., ‘B’ cannot form the ions like MF<sub>6</sub><sup>3–</sup>."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Match the interhalogen compounds of column-I with the geometry in column-II and assign the correct code.\n<br><br><style type=\"text/css\">\n.tg  {border-collapse:collapse;border-spacing:0;border:none;}\n.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;}\n.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;}\n.tg .tg-pjk9{font-size:22px;text-align:left}\n.tg .tg-wrg0{font-size:22px;text-align:center;vertical-align:top}\n.tg .tg-cyim{font-size:22px;text-align:left;vertical-align:top}\n.tg .tg-wv9z{font-size:22px;text-align:center}\n.tg .tg-de48{font-weight:bold;font-size:22px;text-align:center}\n.tg .tg-ujoh{font-weight:bold;font-size:22px;text-align:center;vertical-align:top}\n</style>\n<table class=\"tg\">\n  <tbody><tr>\n    <th class=\"tg-de48\" colspan=\"2\">Column $${\\rm I}$$</th>\n    <th class=\"tg-ujoh\"></th>\n    <th class=\"tg-de48\" colspan=\"2\">Column $${\\rm I}$$$${\\rm I}$$</th>\n  </tr>\n  <tr>\n    <td class=\"tg-pjk9\">(A)</td>\n    <td class=\"tg-wv9z\">XX'</td>\n    <td class=\"tg-cyim\"></td>\n    <td class=\"tg-pjk9\">(i)</td>\n    <td class=\"tg-wv9z\">T-shape</td>\n  </tr>\n  <tr>\n    <td class=\"tg-pjk9\">(B)</td>\n    <td class=\"tg-wv9z\">XX'<sub>3</sub></td>\n    <td class=\"tg-cyim\"></td>\n    <td class=\"tg-pjk9\">(ii)</td>\n    <td class=\"tg-wv9z\">Pentagonal bipyramidal</td>\n  </tr>\n  <tr>\n    <td class=\"tg-pjk9\">(C)</td>\n    <td class=\"tg-wv9z\">XX'<sub>5</sub></td>\n    <td class=\"tg-cyim\"></td>\n    <td class=\"tg-pjk9\">(iii)</td>\n    <td class=\"tg-wv9z\">Linear</td>\n  </tr>\n  <tr>\n    <td class=\"tg-pjk9\">(D)</td>\n    <td class=\"tg-wv9z\">XX'<sub>7</sub></td>\n    <td class=\"tg-cyim\"></td>\n    <td class=\"tg-pjk9\">(iv)</td>\n    <td class=\"tg-wv9z\">Square pyramidal</td>\n  </tr>\n  <tr>\n    <td class=\"tg-cyim\"></td>\n    <td class=\"tg-cyim\"></td>\n    <td class=\"tg-cyim\"></td>\n    <td class=\"tg-cyim\">(v)</td>\n    <td class=\"tg-wrg0\">Tetrahedral</td>\n  </tr>\n</tbody></table>",
+      "options": [
+        {
+          "key": "A",
+          "value": "(A) $$ \\to $$ (iii);&nbsp;&nbsp;(B) $$ \\to $$ (i);&nbsp;&nbsp;(C) $$ \\to $$ (iv);&nbsp;&nbsp;(D) $$ \\to $$ (ii)"
+        },
+        {
+          "key": "B",
+          "value": "(A) $$ \\to $$ (v);&nbsp;&nbsp;(B) $$ \\to $$ (iv);&nbsp;&nbsp;(C) $$ \\to $$ (iii);&nbsp;&nbsp;(D) $$ \\to $$ (ii)"
+        },
+        {
+          "key": "C",
+          "value": "(A) $$ \\to $$ (iv);&nbsp;&nbsp;(B) $$ \\to $$ (iii);&nbsp;&nbsp;(C) $$ \\to $$ (ii);&nbsp;&nbsp;(D) $$ \\to $$ (i)"
+        },
+        {
+          "key": "D",
+          "value": "(A) $$ \\to $$ (iii);&nbsp;&nbsp;(B) $$ \\to $$ (iv);&nbsp;&nbsp;(C) $$ \\to $$ (i);&nbsp;&nbsp;(D) $$ \\to $$ (ii)"
+        }
+      ],
+      "answer": "A",
+      "explanation": "XX' $$ \\to $$ Linear (e.g. ClF, BrF) \n<br><br>XX<sub>3</sub>'  $$ \\to $$ T-Shape (e.g. ClF<sub>3</sub>, BrF<sub>3</sub>) \n<br><br>XX<sub>5</sub>'  $$ \\to $$ Square pyramidal (e.g. BrF<sub>5</sub>, IF<sub>5</sub>) \n<br><br>XX<sub>7</sub>' $$ \\to $$ Pentagonal bipyramidal (e.g. IF<sub>7</sub>) "
+    },
+    {
+      "_type": "single_mcq",
+      "body": "It is because of inability of ns<sup>2</sup> electrons of the valence shell to participate in bonding that ",
+      "options": [
+        {
+          "key": "A",
+          "value": "Sn<sup>2+</sup> is oxidising while Pb<sup>4+</sup> is reducing"
+        },
+        {
+          "key": "B",
+          "value": "Sn<sup>2+</sup> and Pb<sup>2+</sup> are both oxidising and reducing"
+        },
+        {
+          "key": "C",
+          "value": "Sn<sup>4+</sup> is reducing while Pb<sup>4+</sup> is oxidising"
+        },
+        {
+          "key": "D",
+          "value": "Sn<sup>2+</sup> is reducing while Pb<sup>4+</sup> is oxidising"
+        }
+      ],
+      "answer": "D",
+      "explanation": "The inertness of s-subshell electrons\ntowards bond formation is known as inert pair\neffect. This effect increases down the group thus,\nfor Sn, +4 oxidation state is more stable, whereas,\nfor Pb, +2 oxidation state is more stable, i.e., Sn<sup>2+</sup> is\nreducing while Pb<sup>4+</sup> is oxidising"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Boric acid is an acid because its molecule",
+      "options": [
+        {
+          "key": "A",
+          "value": "contains replaceable H<sup>+</sup> ion"
+        },
+        {
+          "key": "B",
+          "value": "gives up a proton"
+        },
+        {
+          "key": "C",
+          "value": "accepts OH<sup>$$-$$</sup> from water releasing proton "
+        },
+        {
+          "key": "D",
+          "value": "combines with proton from water molecule. "
+        }
+      ],
+      "answer": "C",
+      "explanation": "Boric acid behaves as a Lewis acid, by accepting\na pair of electrons from OH<sup>–</sup>\n ion of water thereby\nreleasing a proton.\n<br><br>H-OH+B(OH)<sub>3</sub> $$ \\to $$ [B(OH)<sub>4</sub>]<sup>–</sup>\n + H<sup>+</sup>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "AlF<sub>3</sub> is soluble in HF only in presence of KF. It is due to the formation of ",
+      "options": [
+        {
+          "key": "A",
+          "value": "K<sub>3</sub>[AlF<sub>3</sub>H<sub>3</sub>]"
+        },
+        {
+          "key": "B",
+          "value": "K<sub>3</sub>[AlF<sub>6</sub>]"
+        },
+        {
+          "key": "C",
+          "value": "AlH<sub>3</sub>"
+        },
+        {
+          "key": "D",
+          "value": "K[AlF<sub>3</sub>H]"
+        }
+      ],
+      "answer": "B",
+      "explanation": "AlF<sub>3</sub> is insoluble in anhydrous HF because the\nF<sup>–</sup>\n ions are not available in hydrogen bonded HF\nbut, it becomes soluble in presence of little amount\nof KF due to formation of complex, K<sub>3</sub>[AIF<sub>6</sub>].\n<br><br>AIF<sub>3</sub> + 3KF $$ \\to $$ K<sub>3</sub>[AIF<sub>6</sub>]."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Among the following the correct order of acidity is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "HClO<sub>2</sub> &lt; HClO &lt; HClO<sub>3</sub> &lt; HClO<sub>4</sub>"
+        },
+        {
+          "key": "B",
+          "value": "HClO<sub>4</sub> &lt; HClO<sub>2</sub> &lt; HClO &lt; HClO<sub>3</sub>"
+        },
+        {
+          "key": "C",
+          "value": "HClO<sub>3</sub> &lt; HClO<sub>4</sub> &lt; HClO<sub>2</sub> &lt; HClO"
+        },
+        {
+          "key": "D",
+          "value": "HClO &lt; HClO<sub>2</sub> &lt; HClO<sub>3</sub> &lt; HClO<sub>4</sub>"
+        }
+      ],
+      "answer": "D",
+      "explanation": "The acidic character of the oxoacids increases with increase in oxidation number of the halogen atom i.e.,\n<br><br>HClO &lt; HClO<sub>2</sub> &lt; HClO<sub>3</sub> &lt; HClO<sub>4</sub>\n<br><br> Since the stability of the anion decreases in the order. \n<br><br>ClO<sub>4</sub><sup>-</sup> &gt; ClO<sub>3</sub><sup>-</sup> &gt; ClO<sub>2</sub><sup>-</sup> &gt; ClO<sup>–</sup>\n<br><br>Acid strength also decreases in the same order."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "When copper is heated with conc. HNO<sub>3</sub> it produces",
+      "options": [
+        {
+          "key": "A",
+          "value": "Cu(NO<sub>3</sub>)<sub>2</sub>,  NO  and  NO<sub>2</sub>"
+        },
+        {
+          "key": "B",
+          "value": "Cu(NO<sub>3</sub>)<sub>2</sub>  and  N<sub>2</sub>O"
+        },
+        {
+          "key": "C",
+          "value": "Cu(NO<sub>3</sub>)<sub>2</sub>  and  NO<sub>2</sub>"
+        },
+        {
+          "key": "D",
+          "value": "Cu(NO<sub>3</sub>)<sub>2</sub>  and  NO"
+        }
+      ],
+      "answer": "C",
+      "explanation": "Cu +4HNO<sub>3</sub> (conc.) $$ \\to $$ Cu(NO<sub>3</sub>)<sub>2</sub>    + 2NO<sub>2</sub> + 2H<sub>2</sub>O "
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Which one of the following orders is correct for the bond dissociation enthalpy of halogen molecules? ",
+      "options": [
+        {
+          "key": "A",
+          "value": "Br<sub>2</sub> &gt; I<sub>2</sub> &gt; F<sub>2</sub> &gt; Cl<sub>2</sub>"
+        },
+        {
+          "key": "B",
+          "value": "F<sub>2</sub> &gt; Cl<sub>2</sub> &gt; Br<sub>2</sub> &gt; I<sub>2</sub>"
+        },
+        {
+          "key": "C",
+          "value": "I<sub>2</sub> &gt; Br<sub>2</sub> &gt; Cl<sub>2</sub> &gt; F<sub>2</sub>"
+        },
+        {
+          "key": "D",
+          "value": "Cl<sub>2</sub> &gt; Br<sub>2</sub> &gt; F<sub>2</sub> &gt; I<sub>2</sub>"
+        }
+      ],
+      "answer": "D",
+      "explanation": "Bond dissociation enthalpy decreases as the bond distance increases from F2 to I2. This is due to increase in the size of the atom, on moving from F to I.\n<br><br>F – F bond dissociation enthalpy is smaller then Cl – Cl and even smaller than Br – Br. This is because F atom is very small and hence the three lone pairs of electrons on each F atom repel the bond pair holding the F-atoms in F<sub>2</sub> molecules. \n<br><br>The order of bond dissociation enthalpy is :\n<br><br>Cl<sub>2</sub> &gt; Br<sub>2</sub> &gt; F<sub>2</sub> &gt; I<sub>2</sub>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The variation of the boiling points of the hydrogen halides is in the order HF &gt; HI &gt; HBr &gt; HCl. \n<br><br>What explains the higher boiling point of hydrogen fluoride? ",
+      "options": [
+        {
+          "key": "A",
+          "value": "There is strong hydrogen bonding between HF molecules. "
+        },
+        {
+          "key": "B",
+          "value": "The bond energy of HF molecules is greater than in other hydrogen halides. "
+        },
+        {
+          "key": "C",
+          "value": "The effect of nuclear shielding is much reduced in fluorine which polarises the HF molecule. "
+        },
+        {
+          "key": "D",
+          "value": "The electronegativity of fluorine is much higher than for other elements in the group. "
+        }
+      ],
+      "answer": "A",
+      "explanation": "HF forms strong intermolecular H-bonding due to high electronegativity of F. Hence, the boiling point of HF is exceptionally high. Boiling points of other hydrogen halides gradually increases from HCl to HI due to increase in the size of halogen atoms form Cl to I, which further increases the magnitude of van der Waal's forces."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The stability of +1 oxidation state among Al, Ga, In and Tl increases in the sequence",
+      "options": [
+        {
+          "key": "A",
+          "value": "Al &lt; Ga &lt; In &lt; Tl"
+        },
+        {
+          "key": "B",
+          "value": "Tl &lt; In &lt; Ga &lt; Al"
+        },
+        {
+          "key": "C",
+          "value": "In &lt; Tl &lt; Ga &lt; Al"
+        },
+        {
+          "key": "D",
+          "value": "Ga &lt; In &lt; Al &lt; Tl"
+        }
+      ],
+      "answer": "A",
+      "explanation": "The given elements belong to 13th group.\nThe elements mainly exhibit +3 and +1 oxidation\nstates. As we know, the stability of lower oxidation\nstate i.e., +1 state, increases on moving down the\ngroup due to inert pair effect. The, stability follows\nthe order :\n<br><br>Al &lt; Ga &lt; In &lt; Tl"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Which of the statements given below is incorrect? ",
+      "options": [
+        {
+          "key": "A",
+          "value": "O<sub>3</sub> molecule is bent."
+        },
+        {
+          "key": "B",
+          "value": "ONF is isoelectronic with O<sub>2</sub>N"
+        },
+        {
+          "key": "C",
+          "value": "OF<sub>2</sub> is an oxides of fluorine."
+        },
+        {
+          "key": "D",
+          "value": "Cl<sub>2</sub>O<sub>7</sub> is an anhydride of perchloric acid. "
+        }
+      ],
+      "answer": "C",
+      "explanation": "OF<sub>2</sub> (oxygen difluoride) is a fluoride of oxygen because fluorine is more electronegative than oxygen. "
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The formation of the oxide ion, O<sup>2$$-$$</sup><sub>(g)</sub> from oxygen atom requires first an exthermic and then an endothermic step as shown below: \n<br>O<sub>(g)</sub> + e<sup>$$-$$</sup> $$ \\to $$ O<sup>$$-$$</sup><sub>(g)</sub>;&nbsp;&nbsp;$$\\Delta $$<sub>f</sub>H<sup>o</sup> = $$-$$141 kJ mol<sup>$$-$$1</sup>\n<br><br>O<sup>$$-$$</sup><sub>(g)</sub> + e<sup>$$-$$</sup> $$ \\to $$  O<sup>2$$-$$</sup><sub>(g)</sub>;&nbsp;&nbsp;$$\\Delta $$<sub>f</sub>H<sup>o</sup> = +780 kJ mol<sup>$$-$$1</sup>\n<br><br>Thus, process of formation of O<sup>2$$-$$</sup> is isoelectronic with neon. It is due to the fact that, ",
+      "options": [
+        {
+          "key": "A",
+          "value": "O<sup>$$-$$</sup> ion has comparatively smaller size than oxygen atom"
+        },
+        {
+          "key": "B",
+          "value": "oxygen is more electronegative"
+        },
+        {
+          "key": "C",
+          "value": "addition of electron in oxygen results in larger size of the ion"
+        },
+        {
+          "key": "D",
+          "value": "electron repulsion outweighs the stability gained by achieving noble gas configuration. "
+        }
+      ],
+      "answer": "D",
+      "explanation": "The process of formation of O<sup>2–</sup> in gas phase is unfavourable even though O<sup>2–</sup> is isoelectronic with neon because electron repulsion outweigh the stability gained by achieving noble gas configuration. "
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Nitrogen dioxide and sulphur dioxide have some properties in common . Which property is shown by one of these compounds , but not by the other? ",
+      "options": [
+        {
+          "key": "A",
+          "value": "Is soluble in water."
+        },
+        {
+          "key": "B",
+          "value": "Is used as a food preservative. "
+        },
+        {
+          "key": "C",
+          "value": "Forms 'acid-rain'."
+        },
+        {
+          "key": "D",
+          "value": "Is a reducing agent."
+        }
+      ],
+      "answer": "B",
+      "explanation": "SO<sub>2</sub> is widely used in food and drinks industries for its property as a preservative and antioxidant while NO<sub>2</sub> is not used as food preservative. "
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Acidity of diprotic acids in aqueous solutions increases in the order",
+      "options": [
+        {
+          "key": "A",
+          "value": "H<sub>2</sub>S &lt; H<sub>2</sub>Se &lt; H<sub>2</sub>Te"
+        },
+        {
+          "key": "B",
+          "value": "H<sub>2</sub>Se &lt; H<sub>2</sub>S &lt; H<sub>2</sub>Te"
+        },
+        {
+          "key": "C",
+          "value": "H<sub>2</sub>Te &lt; H<sub>2</sub>S &lt; H<sub>2</sub>Se"
+        },
+        {
+          "key": "D",
+          "value": "H<sub>2</sub>Se &lt; H<sub>2</sub>Te &lt; H<sub>2</sub>S"
+        }
+      ],
+      "answer": "A",
+      "explanation": "As the atomic size increases down the group the bond length increases and the bond strength decreases and the cleavage of E - H bond become easier thus, more will be the acidity. Thus, order of acidity will be\n<br><br>H<sub>2</sub>S $$&lt;$$ H<sub>2</sub>Se $$&lt;$$ H<sub>2</sub>Te"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Which statement is wrong?",
+      "options": [
+        {
+          "key": "A",
+          "value": "Beryl is an example of cyclic silicate."
+        },
+        {
+          "key": "B",
+          "value": "Mg<sub>2</sub>SiO<sub>4</sub>  is orthosilicate."
+        },
+        {
+          "key": "C",
+          "value": "Basic structural unit in silicates is the SiO<sub>4</sub> tetrahedron."
+        },
+        {
+          "key": "D",
+          "value": "Feldspars are not aluminosilicates."
+        }
+      ],
+      "answer": "D",
+      "explanation": "Feldspars are three dimensional\naluminosilicates."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Which of the following structure is similar to graphite? ",
+      "options": [
+        {
+          "key": "A",
+          "value": "B<sub>4</sub>C"
+        },
+        {
+          "key": "B",
+          "value": "B<sub>2</sub>H<sub>6</sub>"
+        },
+        {
+          "key": "C",
+          "value": "BN"
+        },
+        {
+          "key": "D",
+          "value": "B"
+        }
+      ],
+      "answer": "C",
+      "explanation": "Boron nitride (BN) is known as inorganic\ngraphite. The most stable form is hexagonal one.\nIt has layered structure similar to graphite."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The basic structural unit of silicates is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "SiO<sub>3</sub><sup>2$$-$$</sup>"
+        },
+        {
+          "key": "B",
+          "value": "SiO$$_4^{2 - }$$"
+        },
+        {
+          "key": "C",
+          "value": "SiO<sup>$$-$$</sup>"
+        },
+        {
+          "key": "D",
+          "value": "SiO$$_4^{4 - }$$"
+        }
+      ],
+      "answer": "D",
+      "explanation": "SiO$$_4^{4 - }$$ orthosilicate is basic unit of silicates.\n"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Which of these is not a monomer for a high molecular mass silicone polymer? ",
+      "options": [
+        {
+          "key": "A",
+          "value": "Me<sub>3</sub>SiCl"
+        },
+        {
+          "key": "B",
+          "value": "PhSiCl<sub>3</sub>"
+        },
+        {
+          "key": "C",
+          "value": "MeSiCl<sub>3</sub>"
+        },
+        {
+          "key": "D",
+          "value": "Me<sub>2</sub>SiCl<sub>2</sub>"
+        }
+      ],
+      "answer": "A",
+      "explanation": "Since Me<sub>3</sub>SiCl contains only one Cl,\ntherefore it can’t form high molecular mass\nsilicon polymer. It can form only dimer."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Which of the following does not give oxygen on heating? ",
+      "options": [
+        {
+          "key": "A",
+          "value": "K<sub>2</sub>Cr<sub>2</sub>O<sub>7</sub>"
+        },
+        {
+          "key": "B",
+          "value": "(NH<sub>4</sub>)<sub>2</sub>Cr<sub>2</sub>O<sub>7</sub>"
+        },
+        {
+          "key": "C",
+          "value": "KClO<sub>3</sub>"
+        },
+        {
+          "key": "D",
+          "value": "Zn(ClO<sub>3</sub>)<sub>2</sub>"
+        }
+      ],
+      "answer": "B",
+      "explanation": "(NH<sub>4</sub>)<sub>2</sub>Cr<sub>2</sub>O<sub>7</sub> \n$$\\buildrel \\Delta  \\over\n \\longrightarrow $$ N<sub>2</sub> + Cr<sub>2</sub>O<sub>3</sub> + 4H<sub>2</sub>O\n<br><br> Zn(ClO<sub>3</sub>)<sub>2</sub> \n$$\\buildrel \\Delta  \\over\n \\longrightarrow $$ ZnCl<sub>2</sub> + 3O<sub>2</sub>\n<br><br> KClO<sub>3</sub> \n$$\\buildrel \\Delta  \\over\n \\longrightarrow $$ KCl + $${3 \\over 2}$$O<sub>2</sub>\n<br><br>2K<sub>2</sub>Cr<sub>2</sub>O<sub>7</sub> \n$$\\buildrel \\Delta  \\over\n \\longrightarrow $$ 2K<sub>2</sub>CrO<sub>4</sub> + Cr<sub>2</sub>O<sub>3 </sub> + $${3 \\over 2}$$\nO<sub>2</sub>\n\n \n \n "
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Which is the strongest acid in the following?",
+      "options": [
+        {
+          "key": "A",
+          "value": "HClO<sub>4</sub>"
+        },
+        {
+          "key": "B",
+          "value": "H<sub>2</sub>SO<sub>3</sub>"
+        },
+        {
+          "key": "C",
+          "value": "H<sub>2</sub>SO<sub>4</sub>"
+        },
+        {
+          "key": "D",
+          "value": "HClO<sub>3</sub>"
+        }
+      ],
+      "answer": "A",
+      "explanation": "HClO<sub>4</sub> with highest oxidation number and its conjugate base is resonance stabilised, hence it is most acidic. "
+    },
+    {
+      "_type": "single_mcq",
+      "body": "In which of the following arrangements the given sequence is not strictly according to the property indicated against it?",
+      "options": [
+        {
+          "key": "A",
+          "value": "HF &lt; HCl &lt; HBr &lt; HI :  increasing acidic strength"
+        },
+        {
+          "key": "B",
+          "value": "H<sub>2</sub>O &lt; H<sub>2</sub>S &lt; H<sub>2</sub>Se &lt; H<sub>2</sub>Te : increasing pK<sub>a</sub> values"
+        },
+        {
+          "key": "C",
+          "value": "NH<sub>3</sub> &lt; PH<sub>3</sub> &lt; AsH<sub>3</sub> &lt; SbH<sub>3</sub> : increasing acidic character"
+        },
+        {
+          "key": "D",
+          "value": "CO<sub>2</sub> &lt; SiO<sub>2</sub> &lt; SnO<sub>2</sub> &lt; PbO<sub>2</sub> :  increasing oxidising power"
+        }
+      ],
+      "answer": "B",
+      "explanation": "If acidic nature is high, K<sub>a</sub> is high and pK<sub>a</sub> is low.\n<br><br>since pK<sub>a</sub> = – log K<sub>a</sub>\n<br><br>Hence the order of pK<sub>a</sub> will be\n<br><br>H<sub>2</sub>O &gt; H<sub>2</sub>S &gt; H<sub>2</sub>Se &gt; H<sub>2</sub>Te"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Sulphur trioxide can be obtained by which of the following reaction? ",
+      "options": [
+        {
+          "key": "A",
+          "value": "CaSO<sub>4</sub> + C $$\\buildrel \\Delta  \\over\n \\longrightarrow $$"
+        },
+        {
+          "key": "B",
+          "value": "Fe<sub>2</sub>(SO<sub>4</sub>)<sub>3</sub> $$\\buildrel \\Delta  \\over\n \\longrightarrow $$"
+        },
+        {
+          "key": "C",
+          "value": "S + H<sub>2</sub>SO<sub>4</sub> $$\\buildrel \\Delta  \\over\n \\longrightarrow $$"
+        },
+        {
+          "key": "D",
+          "value": "H<sub>2</sub>SO<sub>4</sub> + PCl<sub>5</sub> $$\\buildrel \\Delta  \\over\n \\longrightarrow $$"
+        }
+      ],
+      "answer": "B",
+      "explanation": "Fe<sub>2</sub>(SO<sub>4</sub>)<sub>3</sub> $$\\buildrel \\Delta  \\over\n \\longrightarrow $$ Fe<sub>2</sub>O<sub>3</sub> + 3SO<sub>3</sub> "
+    },
+    {
+      "_type": "single_mcq",
+      "body": "In which of the following compounds, nitrogen exhibits highest oxidation state? ",
+      "options": [
+        {
+          "key": "A",
+          "value": "N<sub>2</sub>H<sub>4</sub>"
+        },
+        {
+          "key": "B",
+          "value": "NH<sub>3</sub>"
+        },
+        {
+          "key": "C",
+          "value": "N<sub>3</sub>H"
+        },
+        {
+          "key": "D",
+          "value": "NH<sub>2</sub>OH"
+        }
+      ],
+      "answer": "C",
+      "explanation": "N<sub>2</sub>H<sub>4</sub> :  Oxidation state of N = – 2    \n<br><br>NH<sub>3</sub> : Oxidation state of N = – 3  \n<br><br>N<sub>3</sub>H :  Oxidation state of N = – 1/3  \n<br><br>NH<sub>2</sub>OH :  Oxidation state of N = – 1 \n<br><br>$$ \\therefore $$ Highest oxidation state = –1/3 "
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Which of the following oxide is amphoteric? ",
+      "options": [
+        {
+          "key": "A",
+          "value": "SnO<sub>2</sub>"
+        },
+        {
+          "key": "B",
+          "value": "CaO"
+        },
+        {
+          "key": "C",
+          "value": "SiO<sub>2</sub>"
+        },
+        {
+          "key": "D",
+          "value": "CO<sub>2</sub>"
+        }
+      ],
+      "answer": "A",
+      "explanation": "SnO<sub>2</sub>\n reacts with acid as well as base. So\nSnO<sub>2</sub>\n is an amphoteric.\n<br><br>SnO<sub>2</sub>\n + 4HCl $$ \\to $$ SnCl<sub>2</sub>\n + 2H<sub>2</sub>O\n<br><br>SnO<sub>2</sub>\n + 2NaOH $$ \\to $$ Na<sub>2</sub>SnO<sub>3</sub>\n + H<sub>2</sub>O\n<br><br>CaO is basic in nature while SiO<sub>2</sub>\n and CO<sub>2</sub>\n are acidic\nin nature.\n"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Which of the following statements is incorrect? ",
+      "options": [
+        {
+          "key": "A",
+          "value": "Pure sodium metal dissolves in liquid ammonia to give blue solution."
+        },
+        {
+          "key": "B",
+          "value": "NaOH reacts with glass to give sodium silicate."
+        },
+        {
+          "key": "C",
+          "value": "Aluminium reacts with excess NaOH to give Al(OH)<sub>3</sub>."
+        },
+        {
+          "key": "D",
+          "value": "NaHCO<sub>3</sub> on heating gives Na<sub>2</sub>CO<sub>3</sub>."
+        }
+      ],
+      "answer": "C",
+      "explanation": "Al reacts with NaOH to give sodium\nmetaaluminate.\n<br><br>2Al(s) + 2NaOH (aq) + 2H<sub>2</sub>O(l) $$ \\to $$ 2NaAlO<sub>2</sub> + 3H<sub>2</sub>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The Lassaigne's extract is boiled with conc. HNO<sub>3</sub> while testing for halogens. By doing so it ",
+      "options": [
+        {
+          "key": "A",
+          "value": "decomposes Na<sub>2</sub>S and NaCN, formed "
+        },
+        {
+          "key": "B",
+          "value": "helps in the precipitation of AgCl"
+        },
+        {
+          "key": "C",
+          "value": "increases the solubility product of AgCl"
+        },
+        {
+          "key": "D",
+          "value": "increases the concentration of N$$_3^ - $$ ions"
+        }
+      ],
+      "answer": "A",
+      "explanation": "In case of Lassaigne’s test of halogens, it is\nnecessary to remove NaCN and Na<sub>2</sub>S from the\nsodium extract, if nitrogen and sulphur are present.\nThis is done by boiling the sodium extract with\nconc. HNO<sub>3</sub>.\n<br><br>NaCN + HNO<sub>3</sub> $$ \\to $$ NaNO<sub>3</sub>\n + HCN $$ \\uparrow $$\n<br><br>Na<sub>2</sub>S + 2HNO<sub>3</sub> $$ \\to $$ 2NaNO<sub>3</sub>\n + H<sub>2</sub>S $$ \\uparrow $$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Which one of the following molecular hydrides acts as a Lewis acid? ",
+      "options": [
+        {
+          "key": "A",
+          "value": "NH<sub>3</sub>"
+        },
+        {
+          "key": "B",
+          "value": "H<sub>2</sub>O"
+        },
+        {
+          "key": "C",
+          "value": "B<sub>2</sub>H<sub>6</sub>"
+        },
+        {
+          "key": "D",
+          "value": "CH<sub>4</sub>"
+        }
+      ],
+      "answer": "C",
+      "explanation": "Among the given molecules, only diborane(B<sub>2</sub>H<sub>6</sub>) is\nelectron deficient i.e., it does not complete octet.\n<br><br>Thus, it acts as a Lewis acid.\n<br><br>NH<sub>3</sub> and H<sub>2</sub>O being electron rich species behave as\nLewis base."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The tendency of BF<sub>3</sub>, BCl<sub>3</sub> and BBr<sub>3</sub> to behave as Lewis acid decreases in the sequence",
+      "options": [
+        {
+          "key": "A",
+          "value": "BCl<sub>3</sub> &gt; BF<sub>3</sub> &gt; BBr<sub>3</sub>"
+        },
+        {
+          "key": "B",
+          "value": "BBr<sub>3</sub> &gt; BCl<sub>3</sub> &gt; BF<sub>3</sub>"
+        },
+        {
+          "key": "C",
+          "value": "BBr<sub>3</sub> &gt; BF<sub>3</sub> &gt; BCl<sub>3</sub>"
+        },
+        {
+          "key": "D",
+          "value": "BF<sub>3</sub> &gt; BCl<sub>3</sub> &gt; BBr<sub>3</sub>"
+        }
+      ],
+      "answer": "B",
+      "explanation": "In BF<sub>3</sub>, p-p overlap between B and F is\nmaximum due to identical size and energy of\np-orbitals, so electron deficiency in boron of BF<sub>3</sub>\nis neutralized partially to the maximum extent by\nback donation. Also, the tendency to back\ndonate decreases from F to I. So the order will\nbe:\n<br><br>BBr<sub>3</sub> &gt; BCl<sub>3</sub> &gt; BF<sub>3</sub>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Oxidation states of P in H<sub>4</sub>P<sub>2</sub>O<sub>5</sub>, H<sub>4</sub>P<sub>2</sub>O<sub>6</sub>, H<sub>4</sub>P<sub>2</sub>O<sub>7</sub> are respectively",
+      "options": [
+        {
+          "key": "A",
+          "value": "+3, +5, +4"
+        },
+        {
+          "key": "B",
+          "value": "+5, +3, +4"
+        },
+        {
+          "key": "C",
+          "value": "+5, +4, +3"
+        },
+        {
+          "key": "D",
+          "value": "+3, +4, +5"
+        }
+      ],
+      "answer": "D",
+      "explanation": "The oxidation state can be calculated as : \n<br><br>H<sub>4</sub>P<sub>2</sub>O<sub>5</sub> : +4 + 2x + 5(– 2) = 0 $$ \\Rightarrow $$ 2x – 6 = 0 $$ \\Rightarrow $$ x = +3 \n<br><br>H<sub>4</sub>P<sub>2</sub>O<sub>6</sub> : +4 + 2x + 6(– 2) = 0 $$ \\Rightarrow $$ 2x – 8 = 0 $$ \\Rightarrow $$ x = +4 \n<br><br>H<sub>4</sub>P<sub>2</sub>O<sub>7</sub> :  +4 + 2x + 7(– 2) = 0 $$ \\Rightarrow $$ 2x – 10 = 0 $$ \\Rightarrow $$ 2x = 10 $$ \\Rightarrow $$ x = +5"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The correct order of increasing bond angles in the following species is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "Cl<sub>2</sub>O &lt; ClO<sub>2</sub> &lt; ClO$$_2^ - $$"
+        },
+        {
+          "key": "B",
+          "value": "ClO<sub>2</sub> &lt; Cl<sub>2</sub>O &lt; ClO$$_2^ - $$"
+        },
+        {
+          "key": "C",
+          "value": "Cl<sub>2</sub>O &lt; ClO$$_2^ - $$ &lt; ClO<sub>2</sub>"
+        },
+        {
+          "key": "D",
+          "value": "ClO$$_2^ - $$ &lt; Cl<sub>2</sub>O &lt; ClO<sub>2</sub>"
+        }
+      ],
+      "answer": "D",
+      "explanation": "The correct order of increasing bond angles is\n<br><br>ClO$$_2^ - $$ &lt; Cl<sub>2</sub>O &lt; ClO<sub>2</sub>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The stability of +1 oxidation state among Al, Ga, In and Tl increases in the sequence",
+      "options": [
+        {
+          "key": "A",
+          "value": "Al &lt; Ga &lt; In &lt; Tl"
+        },
+        {
+          "key": "B",
+          "value": "Tl &lt; In &lt; Ga &lt; Al"
+        },
+        {
+          "key": "C",
+          "value": "In &lt; Tl &lt; Ga &lt; Al"
+        },
+        {
+          "key": "D",
+          "value": "Ga &lt; In &lt; Al &lt; Tl"
+        }
+      ],
+      "answer": "A",
+      "explanation": "The given elements belong to 13th group.\nThe elements mainly exhibit +3 and +1 oxidation\nstates. As we know, the stability of lower oxidation\nstate i.e., +1 state, increases on moving down the\ngroup due to inert pair effect. The, stability follows\nthe order :\n<br><br>Al &lt; Ga &lt; In &lt; Tl"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Among the following which is the strongest oxidising agent?",
+      "options": [
+        {
+          "key": "A",
+          "value": "Br<sub>2</sub>"
+        },
+        {
+          "key": "B",
+          "value": "I<sub>2</sub>"
+        },
+        {
+          "key": "C",
+          "value": "Cl<sub>2</sub>"
+        },
+        {
+          "key": "D",
+          "value": "F<sub>2</sub>"
+        }
+      ],
+      "answer": "D",
+      "explanation": "Standard reduction potential of halogens are positive and decrease from fluorine to iodine. So, F<sub>2</sub> is the strongest oxidizing agent. "
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Which of the following anions is present in the chain structure of silicates? ",
+      "options": [
+        {
+          "key": "A",
+          "value": "(Si<sub>2</sub>O$$_5^{2 - }$$)<sub>n</sub>"
+        },
+        {
+          "key": "B",
+          "value": "(SiO$$_3^{2 - }$$)<sub>n</sub>"
+        },
+        {
+          "key": "C",
+          "value": "SiO$$_4^{4 - }$$"
+        },
+        {
+          "key": "D",
+          "value": "Si<sub>2</sub>O$$_7^{6 - }$$"
+        }
+      ],
+      "answer": "B",
+      "explanation": "[SiO<sub>3</sub><sup>2–</sup>]<sub>n</sub> and [Si<sub>4</sub>O<sub>11</sub>]<sup>6–</sup> have chain structure of\nsilicates."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Which of the following oxidation states are the most characteristic for lead and tin respectively?",
+      "options": [
+        {
+          "key": "A",
+          "value": "+2, +4"
+        },
+        {
+          "key": "B",
+          "value": "+4, +4"
+        },
+        {
+          "key": "C",
+          "value": "+2, +2"
+        },
+        {
+          "key": "D",
+          "value": "+4, +2"
+        }
+      ],
+      "answer": "A",
+      "explanation": "The tendency to from +2 ionic state increases\non moving down the group due to inert pair effect.\nMost characteristic oxidation state for lead and tin\nare +2, +4 respectively."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "In which of the following molecules are all the bonds are not equal? ",
+      "options": [
+        {
+          "key": "A",
+          "value": "NF<sub>3</sub>"
+        },
+        {
+          "key": "B",
+          "value": "ClF<sub>3</sub>"
+        },
+        {
+          "key": "C",
+          "value": "BF<sub>3</sub>"
+        },
+        {
+          "key": "D",
+          "value": "AlF<sub>3</sub>"
+        }
+      ],
+      "answer": "B",
+      "explanation": "The Cl - F (Cl - F<sub>b</sub>) bond length is equal to 1.60 $$\\mathop A\\limits^o $$ while each of two axial Cl - F (Cl - F<sub>a</sub>) bond length is equal to 1.70 $$\\mathop A\\limits^o $$. "
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The correct order regarding the electronegativity of hybrid orbitals of carbon is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "sp &lt; sp<sup>2</sup> &lt; sp<sup>3</sup>"
+        },
+        {
+          "key": "B",
+          "value": "sp &gt; sp<sup>2</sup> &lt; sp<sup>3</sup>"
+        },
+        {
+          "key": "C",
+          "value": "sp &gt; sp<sup>2</sup> &gt; sp<sup>3</sup>"
+        },
+        {
+          "key": "D",
+          "value": "sp &lt; sp<sup>2</sup> &gt; sp<sup>3</sup>"
+        }
+      ],
+      "answer": "C",
+      "explanation": "Among the three given hybrid orbitals, sp\nhybrid orbital is most electronegative.\nContribution of s in sp hybrid orbital is maximum\n(50%) so this orbital is closer to nucleus. Naturally it will have greater tendency to pull electron\ntowards it. Hence it becomes more electronegative\nand sp<sup>3</sup> becomes least electronegative as it has\nonly 25% s-character."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Which of the following is the most basic oxide?",
+      "options": [
+        {
+          "key": "A",
+          "value": "SeO<sub>2</sub>"
+        },
+        {
+          "key": "B",
+          "value": "Al<sub>2</sub>O<sub>3</sub>"
+        },
+        {
+          "key": "C",
+          "value": "Sb<sub>2</sub>O<sub>3</sub>"
+        },
+        {
+          "key": "D",
+          "value": "Bi<sub>2</sub>O<sub>3</sub>"
+        }
+      ],
+      "answer": "D",
+      "explanation": "SeO<sub>2</sub> $$ \\to $$ acidic oxide\n<br><br>Al<sub>2</sub>O<sub>3</sub> $$ \\to $$ amphoteric, \n<br><br>Sb<sub>2</sub>O<sub>3</sub> $$ \\to $$ amphoteric\n<br><br>Bi<sub>2</sub>O<sub>3</sub> $$ \\to $$ basic oxide."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Among K, Ca, Fe and Zn, the element which can from more than one binary compound with chlorine is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "Fe"
+        },
+        {
+          "key": "B",
+          "value": "Zn"
+        },
+        {
+          "key": "C",
+          "value": "K"
+        },
+        {
+          "key": "D",
+          "value": "Ca"
+        }
+      ],
+      "answer": "A",
+      "explanation": "A binary compound is one made of two different elements.\n<br><br>Metals which have variable oxidation number can form more than one type of binary compound like Fe shows the oxidation state +2 and +3. Hence it forms two types of binary compounds. e.g., FeCl<sub>2</sub>, FeCl<sub>3</sub>. "
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Which one of the following statements about the zeolite is false?",
+      "options": [
+        {
+          "key": "A",
+          "value": "They are used as cation exchangers."
+        },
+        {
+          "key": "B",
+          "value": "They have open structure which enables them to take up small molecules."
+        },
+        {
+          "key": "C",
+          "value": "Zeolites are aluminosilicates having three dimensional network."
+        },
+        {
+          "key": "D",
+          "value": "Some of the SiO$$_4^{4 - }$$ units are replaced by AlO$$_4^{5 - }$$ and AlO$$_6^{9 - }$$ ions in zeolites."
+        }
+      ],
+      "answer": "D",
+      "explanation": "Zeolites are alumino silicates having three\ndimensional open structure in which four or six \nmembered ring predominates. Thus, due to open\nchain structure, they have cavities and can take up\nwater and other small molecules."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Which one of the following statements is not true? ",
+      "options": [
+        {
+          "key": "A",
+          "value": "Among halide ions, iodide is the most powerful reducing agent. "
+        },
+        {
+          "key": "B",
+          "value": "Fluorine is the only halogen that does not show a variable oxidation state. "
+        },
+        {
+          "key": "C",
+          "value": "HOCl is a stronger acid than HOBr."
+        },
+        {
+          "key": "D",
+          "value": "HF is a stronger acid than HCl."
+        }
+      ],
+      "answer": "D",
+      "explanation": "F is more electronegative than Cl therefore\nHF bond is stronger than HCl and hence proton\nis not given off easily and hence HF is a weakest\nacid."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Which one of the following compounds is not a protonic acid?",
+      "options": [
+        {
+          "key": "A",
+          "value": "B(OH)<sub>3</sub>"
+        },
+        {
+          "key": "B",
+          "value": "PO(OH)<sub>3</sub>"
+        },
+        {
+          "key": "C",
+          "value": "SO(OH)<sub>2</sub>"
+        },
+        {
+          "key": "D",
+          "value": "SO<sub>2</sub>(OH)<sub>2</sub>"
+        }
+      ],
+      "answer": "A",
+      "explanation": "B(OH)<sub>3</sub> does not provide H<sup>+</sup> ions in water\ninstead it accepts OH<sup>–</sup> ion and hence it is Lewis\nacid.\n<br><br>B(OH)<sub>3</sub> + H<sub>2</sub>O ⇌ [B(OH)<sub>4</sub>]<sup>-</sup> + H<sup>+</sup>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Which of the following statement is true? ",
+      "options": [
+        {
+          "key": "A",
+          "value": "Silicon exhibits 4 coordination number in its compound."
+        },
+        {
+          "key": "B",
+          "value": "Bond energy of F<sub>2</sub> is less than Cl<sub>2</sub>."
+        },
+        {
+          "key": "C",
+          "value": "Mn(III) oxidation state is more stable than Mn(II) in aqueous state."
+        },
+        {
+          "key": "D",
+          "value": "Elements of 15<sup>th</sup> group shows only + 3 and +5 oxidation states."
+        }
+      ],
+      "answer": "B",
+      "explanation": "Fluorine is more reactive than chlorine. So, bond energy of chlorine is greater than fluorine. \n<br><br>Silicon exhibits 6 coordination numbers.\n<br><br>In aqueous state Mn(II) is more stable.\n<br><br>Mn ⇌ Mn<sup>2+</sup> + 2e<sup>-</sup>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Which compound is electron deficient? ",
+      "options": [
+        {
+          "key": "A",
+          "value": "BeCl<sub>2</sub>"
+        },
+        {
+          "key": "B",
+          "value": "BCl<sub>3</sub>"
+        },
+        {
+          "key": "C",
+          "value": "CCl<sub>4</sub>"
+        },
+        {
+          "key": "D",
+          "value": "PCl<sub>5</sub>"
+        }
+      ],
+      "answer": "B",
+      "explanation": "In BCl<sub>3</sub>\n the central atom ‘B’ is sp<sup>2</sup>\n hybridised\nand contains only ‘six’ electrons in its valence shell.\nTherefore it is electron deficient."
+    }
+  ]
+}

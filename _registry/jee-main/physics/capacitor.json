@@ -1,0 +1,1159 @@
+{
+  "_index": {
+    "name": "Capacitor"
+  },
+  "_children": [
+    {
+      "_type": "numerical",
+      "body": "A parallel plate capacitor has charge $5 \\times 10^{-6} \\mathrm{C}$. A dielectric slab is inserted between the plates and almost fills the space between the plates. If the induced charge on one face of the slab is $4 \\times 10^{-6} \\mathrm{C}$ then the dielectric constant of the slab is _______________.",
+      "answer": "5",
+      "explanation": "<p>To find the dielectric constant $ K $ of the slab, we use the formula for the induced charge $ Q_{\\text{in}} $ in a parallel plate capacitor:</p>\n<p>$ Q_{\\text{in}} = Q \\left(1 - \\frac{1}{K}\\right) $</p>\n<p>Given:</p>\n\n<p><p>Total charge $ Q = 5 \\times 10^{-6} \\, \\text{C} $</p></p>\n<p><p>Induced charge $ Q_{\\text{in}} = 4 \\times 10^{-6} \\, \\text{C} $</p></p>\n\n<p>We substitute the values into the formula:</p>\n<p>$ 4 \\times 10^{-6} = 5 \\times 10^{-6} \\left(1 - \\frac{1}{K}\\right) $</p>\n<p>To solve for the dielectric constant $ K $, simplify the equation:</p>\n\n<p><p>Divide both sides by $ 5 \\times 10^{-6} $:</p>\n<p>$ \\frac{4}{5} = 1 - \\frac{1}{K} $</p></p>\n<p><p>Rearrange to solve for $ \\frac{1}{K} $:</p>\n<p>$ 1 - \\frac{4}{5} = \\frac{1}{K} $</p>\n<p>$ \\frac{1}{5} = \\frac{1}{K} $</p></p>\n<p><p>Invert both sides to find $ K $:</p>\n<p>$ K = 5 $</p></p>\n\n<p>Therefore, the dielectric constant of the slab is $ K = 5 $.</p>"
+    },
+    {
+      "_type": "numerical",
+      "body": "<p>A parallel plate capacitor consisting of two circular plates of radius 10 cm is being charged by a constant current of 0.15 A . If the rate of change of potential difference between the plates is $7 \\times 10^8 \\mathrm{~V} / \\mathrm{s}$ then the integer value of the distance between the parallel plates is <div></div>$\\left(\\right.$ Take, $\\left.\\epsilon_0=9 \\times 10^{-12} \\frac{\\mathrm{~F}}{\\mathrm{~m}}, \\pi=\\frac{22}{7}\\right)$ ____________ $\\mu \\mathrm{m}$.</p>",
+      "answer": "1320",
+      "explanation": "<p>Given, $$r = 10\\,cm = {1 \\over {10}}\\,m$$</p>\n<p>$$I = 0.15\\,A$$, and $${{dv} \\over {dt}} = 7 \\times {10^8}v/s$$</p>\n<p>We know, for a parallel plate capacitor,</p>\n<p>$$c = {{{\\varepsilon _0}A} \\over d} \\Rightarrow c = {{{\\varepsilon _0}\\pi {r^2}} \\over d}$$ .... (1)</p>\n<p>In a capacitor,</p>\n<p>$$Q = CV$$</p>\n<p>$$ \\Rightarrow V = {Q \\over C}$$</p>\n<p>by differentiating w.r.t. t</p>\n<p>$$ \\Rightarrow {{dv} \\over {dt}} = {1 \\over C}{{dQ} \\over {dt}}$$</p>\n<p>$$ \\Rightarrow {{dv} \\over {dt}} = {d \\over {{\\varepsilon _0}\\pi {r^2}}}I$$ (As $$I = {{dQ} \\over {dt}}$$)</p>\n<p>$$ \\Rightarrow d = {{{\\varepsilon _0}\\pi {r^2}} \\over I}{{dv} \\over {dt}}$$ .... (From (1))</p>\n<p>$$ \\Rightarrow d = {{9 \\times {{10}^{ - 12}}} \\over {0.15}} \\times {{22} \\over 7} \\times {1 \\over {100}} \\times 7 \\times 10$$</p>\n<p>$$ = {{198} \\over {0.15}} \\times {10^{ - 6}}$$</p>\n<p>$$ = 1320 \\times {10^{ - 6}}$$ m</p>\n<p>$$ \\Rightarrow d = 1320\\,\\mu m$$</p>"
+    },
+    {
+      "_type": "numerical",
+      "body": "<p>The electric field between the two parallel plates of a capacitor of $$1.5 \\mu \\mathrm{F}$$ capacitance drops to one third of its initial value in $$6.6 \\mu \\mathrm{s}$$ when the plates are connected by a thin wire. The resistance of this wire is ________ $$\\Omega$$. (Given, $$\\log 3=1.1$$)</p>",
+      "answer": "4",
+      "explanation": "<p>To find the resistance of the wire connecting the two plates of the capacitor, we need to apply the formula that relates the time constant $$\\tau$$ (in seconds) of a capacitor-resistor (CR) circuit to the capacitance C (in Farads) and resistance R (in Ohms). The time constant $$\\tau$$ is given by:</p>\n\n<p>$$\\tau = R \\times C$$</p>\n\n<p>The time constant also defines the time it takes for the voltage across the capacitor (and therefore the electric field between the plates, since they are directly related) to drop to approximately $$\\frac{1}{e}$$ (where $$e$$ is the base of natural logarithms, approximately equal to 2.718) of its initial value. However, the question states that the electric field drops to one-third of its initial value. Using the natural logarithm properties, we can relate this decay process to the concept of the time constant.</p>\n\n<p>The formula for the voltage (or electric field) across a discharging capacitor as a function of time $$t$$ is:</p>\n\n<p>$$V(t) = V_0 \\times e^{-\\frac{t}{RC}}$$</p>\n\n<p>where:</p>\n\n<ul>\n\n<li>$$V(t)$$ is the voltage across the capacitor at time $$t$$,</li>\n\n<li>$$V_0$$ is the initial voltage,</li>\n\n<li>$$R$$ is the resistance,</li>\n\n<li>$$C$$ is the capacitance, and</li>\n\n<li>$$t$$ is the time.</li>\n\n</ul>\n\n<p>Given that the electric field drops to one-third of its initial value in $$6.6 \\mu \\mathrm{s}$$, we can set $$V(t)$$ to $$\\frac{1}{3}V_0$$ and solve for $$R$$:</p>\n\n<p>$$\\frac{1}{3}V_0 = V_0 \\times e^{-\\frac{6.6 \\mu s}{R \\times 1.5 \\mu F}}$$</p>\n\n<p>By dividing both sides by $$V_0$$, we simplify to:</p>\n\n<p>$$\\frac{1}{3} = e^{-\\frac{6.6}{R \\times 1.5}}$$</p>\n\n<p>Taking the natural logarithm of both sides to solve for $$R$$:</p>\n\n<p>$$\\ln\\left(\\frac{1}{3}\\right) = -\\frac{6.6}{R \\times 1.5}$$</p>\n\n<p>Given that $$\\ln\\left(\\frac{1}{3}\\right) = \\ln(3^{-1}) = -\\ln(3) = -1.1$$ (since $$\\log 3 = 1.1$$ and using the natural log instead of common log), we have:</p>\n\n<p>$$-1.1 = -\\frac{6.6}{R \\times 1.5}$$</p>\n\n<p>Solving for $$R$$:</p>\n\n<p>$$R = \\frac{6.6}{1.5 \\times 1.1}$$</p>\n\n<p>Now, calculate the value of $$R$$:</p>\n\n<p>$$R = \\frac{6.6}{1.65} = 4\\, \\Omega$$</p>\n\n<p>Therefore, the resistance of the wire connecting the two plates of the capacitor is $$4 \\, \\Omega$$.</p>"
+    },
+    {
+      "_type": "numerical",
+      "body": "<p>Three capacitors of capacitances $$25 \\mu \\mathrm{F}, 30 \\mu \\mathrm{F}$$ and $$45 \\mu \\mathrm{F}$$ are connected in parallel to a supply of $$100 \\mathrm{~V}$$. Energy stored in the above combination is E. When these capacitors are connected in series to the same supply, the stored energy is $$\\frac{9}{x} \\mathrm{E}$$. The value of $$x$$ is _________.</p>",
+      "answer": "86",
+      "explanation": "<p>$$E=\\frac{1}{2}(25+30+45)(100)^2 \\quad \\text{.... (i)}$$</p>\n<p>$$\\text { Also, } \\frac{9}{x} E=\\frac{1}{2} \\frac{1}{\\left(\\frac{1}{25}+\\frac{1}{30}+\\frac{1}{45}\\right)}(100)^2 \\quad \\text{.... (ii)}$$</p>\n<p>From (i) and (ii)</p>\n<p>$$x=86$$</p>"
+    },
+    {
+      "_type": "numerical",
+      "body": "<p>A parallel plate capacitor of capacitance $$12.5 \\mathrm{~pF}$$ is charged by a battery connected between its plates to potential difference of $$12.0 \\mathrm{~V}$$. The battery is now disconnected and a dielectric slab $$(\\epsilon_{\\mathrm{r}}=6)$$ is inserted between the plates. The change in its potential energy after inserting the dielectric slab is ________ $$\\times10^{-12} \\mathrm{~J}$$.</p>",
+      "answer": "750",
+      "explanation": "<p>$$\\begin{aligned}\nE_1 & =\\frac{1}{2}\\left(\\frac{25}{2}\\right) \\times 10^{-12} \\times 144 \\\\\n& =900 \\times 10^{-12} \\mathrm{~J} \\\\\nE_2 & =\\frac{1}{2}\\left(6 \\times \\frac{25}{2} \\times 10^{-12}\\right)\\left(\\frac{12}{6}\\right)^2=150 \\times 10^{-12} \\mathrm{~J} \\\\\n\\Delta E & =750 \\times 10^{-12} \\mathrm{~J}\n\\end{aligned}$$</p>"
+    },
+    {
+      "_type": "numerical",
+      "body": "<p>A parallel plate capacitor with plate separation $$5 \\mathrm{~mm}$$ is charged up by a battery. It is found that on introducing a dielectric sheet of thickness $$2 \\mathrm{~mm}$$, while keeping the battery connections intact, the capacitor draws $$25 \\%$$ more charge from the battery than before. The dielectric constant of the sheet is _________.</p>",
+      "answer": "2",
+      "explanation": "<p>Without dielectric</p>\n<p>$$\\mathrm{Q}=\\frac{\\mathrm{A} \\in_0}{\\mathrm{~d}} \\mathrm{~V}$$</p>\n<p>with dielectric</p>\n<p>$$Q=\\frac{A \\in_0 V}{d-t+\\frac{t}{K}}$$</p>\n<p>given</p>\n<p>$$\\begin{aligned}\n& \\frac{\\mathrm{A} \\in_0 \\mathrm{~V}}{\\mathrm{~d}-\\mathrm{t}+\\frac{\\mathrm{t}}{\\mathrm{K}}}=(1.25) \\frac{\\mathrm{A} \\in_0 \\mathrm{~V}}{\\mathrm{~d}} \\\\\n& \\Rightarrow 1.25\\left(3+\\frac{2}{\\mathrm{~K}}\\right)=5 \\\\\n& \\Rightarrow \\mathrm{K}=2\n\\end{aligned}$$</p>"
+    },
+    {
+      "_type": "numerical",
+      "body": "<p>A capacitor of capacitance $$\\mathrm{C}$$ and potential $$\\mathrm{V}$$ has energy $$\\mathrm{E}$$. It is connected to another capacitor of capacitance $$2 \\mathrm{C}$$ and potential $$2 \\mathrm{~V}$$. Then the loss of energy is $$\\frac{x}{3} \\mathrm{E}$$, where $$x$$ is _______.</p>",
+      "answer": "2",
+      "explanation": "<p>$$\\begin{aligned}\n& \\text { Energy loss }=\\frac{1}{2} \\frac{C_1 C_2}{C_1+C_2}\\left(V_1-V_2\\right)^2 \\\\\n& =\\frac{2}{3} \\cdot E \\\\\n& \\therefore x=2\n\\end{aligned}$$</p>"
+    },
+    {
+      "_type": "numerical",
+      "body": "<p>A $$600 ~\\mathrm{pF}$$ capacitor is charged by $$200 \\mathrm{~V}$$ supply. It is then disconnected from the supply and is connected to another uncharged $$600 ~\\mathrm{pF}$$ capacitor. Electrostatic energy lost in the process is ____________ $$\\mu \\mathrm{J}$$</p>",
+      "answer": "6",
+      "explanation": "<p>The energy stored in a capacitor can be calculated using the formula:</p>\n<p>$ U = \\frac{1}{2} C V^2 $</p>\n<p>where:</p>\n<ul>\n<li>(U) is the energy,</li>\n<li>(C) is the capacitance,</li>\n<li>(V) is the voltage.</li>\n</ul>\n<p>Initially, the energy stored in the first capacitor is:</p>\n<p>$ U_{\\text{initial}} = \\frac{1}{2} C V^2 = \\frac{1}{2} \\times 600 \\times 10^{-12} \\, \\text{F} \\times (200 \\, \\text{V})^2 = 0.012 \\, \\text{J} = 12 \\, \\mu\\text{J}. $</p>\n<p>When the charged capacitor is connected to the uncharged capacitor, the charge will distribute equally between them because they have the same capacitance. Therefore, the final voltage across each capacitor is half of the initial voltage, i.e., 100 V.</p>\n<p>The energy in each capacitor after the redistribution is:</p>\n<p>$ U_{\\text{final each}} = \\frac{1}{2} C \\left(\\frac{V}{2}\\right)^2 = \\frac{1}{2} \\times 600 \\times 10^{-12} \\, \\text{F} \\times (100 \\, \\text{V})^2 = 0.003 \\, \\text{J} = 3 \\, \\mu\\text{J}. $</p>\n<p>As there are two capacitors, the total final energy is:</p>\n<p>$ U_{\\text{final total}} = 2 \\times U_{\\text{final each}} = 2 \\times 3 \\, \\mu\\text{J} = 6 \\, \\mu\\text{J}. $</p>\n<p>The energy loss is the difference between the initial energy and the final energy:</p>\n<p>$ \\Delta U = U_{\\text{initial}} - U_{\\text{final total}} = 12 \\, \\mu\\text{J} - 6 \\, \\mu\\text{J} = 6 \\, \\mu\\text{J}. $</p>\n"
+    },
+    {
+      "_type": "numerical",
+      "body": "Two parallel plate capacitors $C_{1}$ and $C_{2}$ each having capacitance of $10 \\mu \\mathrm{F}$ are individually charged by a 100 V D.C. source. Capacitor $C_{1}$ is kept connected to the source and a dielectric slab is inserted between it plates. Capacitor $\\mathrm{C}_{2}$ is disconnected from the source and then a dielectric slab is inserted in it. Afterwards the capacitor $C_{1}$ is also disconnected from the source and the two capacitors are finally connected in parallel combination. The common potential of the combination will be ________ V.\n<br/><br/>\n(Assuming Dielectric constant $=10$ )",
+      "answer": "55",
+      "explanation": "Charge on $\\mathrm{C}_{1}=\\mathrm{KCV}$\n\n<br/><br/>And charge on $\\mathrm{C}_{2}=\\mathrm{CV}$\n\n<br/><br/>When they are connected in parallel charge will be equally divided so charge on one capacitor is\n\n<br/><br/>$q=\\frac{K+1}{2} \\mathrm{CV}$\n\n<br/><br/>So, $V=\\frac{q}{K C}=\\frac{K+1}{2 K}=55 \\mathrm{~V}$"
+    },
+    {
+      "_type": "numerical",
+      "body": "<p>A capacitor of capacitance $$900 \\mu \\mathrm{F}$$ is charged by a $$100 \\mathrm{~V}$$ battery. The capacitor is disconnected from the battery and connected to another uncharged identical capacitor such that one plate of uncharged capacitor connected to positive plate and another plate of uncharged capacitor connected to negative plate of the charged capacitor. The loss of energy in this process is measured as $$x \\times 10^{-} { }^{2} \\mathrm{~J}$$. The value of $$x$$ is _____________.</p>",
+      "answer": "225",
+      "explanation": "<p>$${U_i} = {1 \\over 2}C{V^2} = {1 \\over 2} \\times 900 \\times {10^{ - 6}} \\times {100^2} = 4.5$$ J</p>\n<p>As the other capacitor is identical therefore charge is equally divided and potential difference across the capacitors becomes half. So</p>\n<p>$${U_f} = {1 \\over 2}2C{\\left( {{V \\over 2}} \\right)^2} = {1 \\over 2} \\times 2 \\times 900 \\times {10^{ - 6}}{\\left( {{{100} \\over 2}} \\right)^2}$$</p>\n<p>$$ = {9 \\over 4}$$ J = 2.25 J</p>\n<p>So, loss in energy $$\\Delta {U_{loss}} = {U_i} - {U_f}$$</p>\n<p>= 2.25 J</p>\n<p>= 225 $$\\times$$ 10$$^{-2}$$ J</p>"
+    },
+    {
+      "_type": "numerical",
+      "body": "<p>A parallel plate capacitor with air between the plate has a capacitance of 15pF. The separation between the plate becomes twice and the space between them is filled with a medium of dielectric constant 3.5. Then the capacitance becomes $$\\frac{x}{4}$$ pF. The value of $$x$$ is ____________.</p>",
+      "answer": "105",
+      "explanation": "<p>Initially</p>\n\n<p>$$\n\\frac{\\varepsilon_{0} A}{d}=15 \\times 10^{-12} \\mathrm{~F}\n$$</p>\n\n<p>Finally</p>\n\n$$\n\\begin{aligned}\n& \\frac{3.5 \\varepsilon_{0} A}{2 d}=\\frac{x}{4} \\times 10^{-12} \\mathrm{~F} \\\\\\\\\n& \\therefore \\frac{3.5}{2} \\times 15=\\frac{x}{4} \\\\\\\\\n& \\Rightarrow x=\\frac{3.5 \\times 15 \\times 4}{2}=105\n\\end{aligned}\n$$"
+    },
+    {
+      "_type": "numerical",
+      "body": "<p>A parallel plate capacitor with width $$4 \\mathrm{~cm}$$, length $$8 \\mathrm{~cm}$$ and separation between the plates of $$4 \\mathrm{~mm}$$ is connected to a battery of $$20 \\mathrm{~V}$$. A dielectric slab of dielectric constant 5 having length $$1 \\mathrm{~cm}$$, width $$4 \\mathrm{~cm}$$ and thickness $$4 \\mathrm{~mm}$$ is inserted between the plates of parallel plate capacitor. The electrostatic energy of this system will be ____________ $$\\epsilon_{0}$$ J. (Where $$\\epsilon_{0}$$ is the permittivity of free space)</p>",
+      "answer": "240",
+      "explanation": "<p>$${d_1} = 4 \\times {10^{ - 3}}$$</p>\n<p>$${A_1} = 8 \\times 4 \\times {10^{ - 4}}\\,{m^2}$$</p>\n<p>$$V = 20\\,V$$</p>\n<p>$${d_2} = 4 \\times {10^{ - 3}},$$</p>\n<p>$${A_2} = 4 \\times 1 \\times {10^{ - 4}}\\,{m^2}$$</p>\n<p>$${C_{eq}} = {{({A_1} + 5{A_2} - {A_2}){\\varepsilon _0}} \\over d} = {{3(16) \\times {{10}^{ - 4}}} \\over {4 \\times {{10}^{ - 3}}}}{\\varepsilon _0}$$</p>\n<p>$$\\varepsilon  = {1 \\over 2}{C_{eq}}{V^2} = {3 \\over 2}\\left( {{4 \\over {10}}} \\right)(400){\\varepsilon _0} = 240{\\varepsilon _0}$$</p>"
+    },
+    {
+      "_type": "numerical",
+      "body": "<p>A capacitor of capacitance 50 pF is charged by 100 V source. It is then connected to another uncharged identical capacitor. Electrostatic energy loss in the process is ___________ nJ.</p>",
+      "answer": "125",
+      "explanation": "<p>Electrical energy lost $$ = {1 \\over 2}\\left( {{1 \\over 2}C{V^2}} \\right)$$</p>\n<p>$$ = {1 \\over 2} \\times {1 \\over 2} \\times 50 \\times {10^{ - 12}} \\times {(100)^2}$$</p>\n<p>$$ = {{500} \\over 4}$$ nJ</p>\n<p>$$ = 125$$ nJ</p>"
+    },
+    {
+      "_type": "numerical",
+      "body": "A parallel plate capacitor of capacitance 200 $$\\mu$$F is connected to a battery of 200 V. A dielectric slab of dielectric constant 2 is now inserted into the space between plates of capacitor while the battery remain connected. The change in the electrostatic energy in the capacitor will be ____________J.",
+      "answer": "4",
+      "explanation": "$$\\Delta U = {1 \\over 2}(\\Delta C){V^2}$$<br><br>$$\\Delta U = {1 \\over 2}(KC - C){V^2}$$<br><br>$$\\Delta U = {1 \\over 2}(2 - 1)C{V^2}$$<br><br>$$\\Delta U = {1 \\over 2} \\times 200 \\times {10^{ - 6}} \\times 200 \\times 200$$<br><br>$$\\Delta U = 4$$ J"
+    },
+    {
+      "_type": "numerical",
+      "body": "A parallel plate capacitor whose capacitance C is 14 pF is charged by a battery to a potential difference V = 12 V between its plates. The charging battery is now disconnected and a porcelin plate with k = 7 is inserted between the plates, then the plate would oscillate back and forth between the plates with a constant mechanical energy of _____________ pJ. (Assume no friction)",
+      "answer": "864",
+      "explanation": "$${U_i} = {1 \\over 2}c{v^2}$$<br><br>$$ = {1 \\over 2} \\times 14 \\times {(12)^2}$$ pJ<br><br>= 1008 pJ<br><br>$${U_f} = {{{Q^2}} \\over {2kC}}$$<br><br>$$ = {{{{(14 \\times 12)}^2}} \\over {2 \\times 7 \\times 14}}$$<br><br>= 144 pJ<br><br>oscillating energy = U<sub>i</sub> $$-$$ U<sub>f</sub><br><br>= 1008 $$-$$ 144<br><br>= 864 pJ"
+    },
+    {
+      "_type": "numerical",
+      "body": "A 5 $$\\mu $$F capacitor is charged fully by a 220 V\nsupply. It is then disconnected from the supply\nand is connected in series to another\nuncharged 2.5 $$\\mu $$F capacitor. If the energy\nchange during the charge redistribution is\n$${X \\over {100}}J$$ then value of X to the nearest integer is\n_____.",
+      "answer": "4",
+      "explanation": "u<sub>i</sub> = $$\\frac{1}{2} $$ $$ \\times $$ 5 $$ \\times $$ 10<sup>-6</sup>$$ \\times $$220\n<br><br>Final common potential\n<br><br>= $$\\frac{220\\times 5+0\\times 2.5}{5+2.5} $$ = 220 $$ \\times $$ $$\\frac{2}{3} $$\n<br><br>u<sub>f</sub> = $$\\frac{1}{2} $$ $$ \\times $$ (5 + 2.5)$$ \\times $$10<sup>-6</sup> $$ \\times $$ $$\\left( 220\\times \\frac{2}{3} \\right)^{2} $$\n<br><br>$$\\Delta $$u = u<sub>i</sub> - u<sub>f</sub>\n<br><br>$$ \\Rightarrow $$ $$\\Delta $$u = –403.33 × 10<sup>–4</sup>\n<br><br>$$ \\Rightarrow $$ –403.33 × 10<sup>–4</sup> = $${X \\over {100}}J$$\n<br><br>$$ \\Rightarrow $$ X = -4.03\n<br><br>Value of X is approximate 4"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>A parallel plate capacitor of capacitance 1 µF is charged to a potential difference of 20 V. The distance between plates is 1 µm. The energy density between plates of capacitor is :</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "<p>$1.8 \\times 10^3$ J/m<sup>3</sup></p>"
+        },
+        {
+          "key": "B",
+          "value": "<p>$2 \\times 10^2$ J/m<sup>3</sup></p>"
+        },
+        {
+          "key": "C",
+          "value": "<p>$2 \\times 10^{-4}$ J/m<sup>3</sup></p>"
+        },
+        {
+          "key": "D",
+          "value": "<p>$1.8 \\times 10^5$ J/m<sup>3</sup></p>"
+        }
+      ],
+      "answer": "A",
+      "explanation": "<p>The energy density ($u$) between the plates of a capacitor is given by the formula:</p>\n<p>$$ u = \\frac{1}{2} \\varepsilon_0 E^2 $$</p>\n<p>where $\\varepsilon_0$ is the permittivity of free space ($8.85 \\times 10^{-12} \\, \\text{F/m}$) and $E$ is the electric field between the plates. The electric field $E$ is related to the potential difference $V$ and the separation $d$ between the plates by:</p>\n<p>$$ E = \\frac{V}{d} $$</p>\n<p>Given:</p>\n\n<p><p>Capacitance ($C$) = 1 µF = $1 \\times 10^{-6} \\, \\text{F}$</p></p>\n<p><p>Potential Difference ($V$) = 20 V</p></p>\n<p><p>Distance ($d$) = 1 µm = $1 \\times 10^{-6} \\, \\text{m}$</p></p>\n\n<p>First, calculate the electric field $E$:</p>\n<p>$$ E = \\frac{V}{d} = \\frac{20 \\, \\text{V}}{1 \\times 10^{-6} \\, \\text{m}} = 2 \\times 10^7 \\, \\text{V/m} $$</p>\n<p>Now plug this into the formula for energy density:</p>\n<p>$$ u = \\frac{1}{2} \\times 8.85 \\times 10^{-12} \\, \\text{F/m} \\times (2 \\times 10^7 \\, \\text{V/m})^2 $$</p>\n<p>Calculate $u$:</p>\n<p>$$ u = \\frac{1}{2} \\times 8.85 \\times 10^{-12} \\times 4 \\times 10^{14} $$</p>\n<p>$$ u = 2 \\times 8.85 \\times 10^2 $$</p>\n<p>$$ u = 1770 \\, \\text{J/m}^3 $$</p>\n<p>This value is approximately $1.8 \\times 10^3 \\, \\text{J/m}^3$. Therefore, the correct option is:</p>\n<p><strong>Option A</strong>: $1.8 \\times 10^3 \\, \\text{J/m}^3$</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>A parallel plate capacitor was made with two rectangular plates, each with a length of $l=3 \\mathrm{~cm}$ and breath of $\\mathrm{b}=1 \\mathrm{~cm}$. The distance between the plates is $3 \\mu \\mathrm{~m}$. Out of the following, which are the ways to increase the capacitance by a factor of 10 ?</p>\n<p>A. $l=30 \\mathrm{~cm}, \\mathrm{~b}=1 \\mathrm{~cm}, \\mathrm{~d}=1 \\mu \\mathrm{~m}$</p>\n<p>B. $l=3 \\mathrm{~cm}, \\mathrm{~b}=1 \\mathrm{~cm}, \\mathrm{~d}=30 \\mu \\mathrm{~m}$</p>\n<p>C. $l=6 \\mathrm{~cm}, \\mathrm{~b}=5 \\mathrm{~cm}, \\mathrm{~d}=3 \\mu \\mathrm{~m}$</p>\n<p>D. $l=1 \\mathrm{~cm}, \\mathrm{~b}=1 \\mathrm{~cm}, \\mathrm{~d}=10 \\mu \\mathrm{~m}$</p>\n<p>E. $l=5 \\mathrm{~cm}, \\mathrm{~b}=2 \\mathrm{~cm}, \\mathrm{~d}=1 \\mu \\mathrm{~m}$</p>\n<p>Choose the correct answer from the options given below:</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "C only\n"
+        },
+        {
+          "key": "B",
+          "value": "A only\n"
+        },
+        {
+          "key": "C",
+          "value": "B and D only\n"
+        },
+        {
+          "key": "D",
+          "value": "C and E only"
+        }
+      ],
+      "answer": "D",
+      "explanation": "<p><strong>The capacitance of a parallel plate capacitor is given by</strong></p>\n<p>$$ C = \\frac{\\epsilon_0 A}{d}, $$</p>\n<p><strong>where:</strong>  </p>\n\n<p><p>$$\\epsilon_0$$ is the permittivity of free space,  </p></p>\n<p><p>$$A$$ is the area of a plate, and  </p></p>\n<p><p>$$d$$ is the separation between the plates.</p></p>\n\n<p>A change in the capacitor’s dimensions will change its capacitance by a factor of</p>\n<p>$$ \\frac{C_{\\text{new}}}{C_{\\text{initial}}} = \\frac{A_{\\text{new}}}{A_{\\text{initial}}} \\cdot \\frac{d_{\\text{initial}}}{d_{\\text{new}}}. $$</p>\n<p>The initial dimensions are:  </p>\n\n<p><p>Length: $$l = 3\\,\\text{cm} = 0.03\\,\\text{m},$$  </p></p>\n<p><p>Breadth: $$b = 1\\,\\text{cm} = 0.01\\,\\text{m},$$  </p></p>\n<p><p>Hence, the original area is </p></p>\n\n<p>$$ A_{\\text{initial}} = 0.03 \\times 0.01 = 3 \\times 10^{-4}\\,\\text{m}^2, $$  </p>\n\n<p>Plate separation: $$d_{\\text{initial}} = 3\\,\\mu\\text{m} = 3 \\times 10^{-6}\\,\\text{m}.$$</p>\n\n<p><strong>For each modification, we compare the new factor:</strong></p>\n\n<p><strong>Case C:</strong>  </p>\n\n\n<p><p>New dimensions:  </p>\n<p>$$l = 6\\,\\text{cm} = 0.06\\,\\text{m}, \\quad b = 5\\,\\text{cm} = 0.05\\,\\text{m}.$$  </p></p>\n<p><p>New area:  </p>\n<p>$$      A_{\\text{new}} = 0.06 \\times 0.05 = 3 \\times 10^{-3}\\,\\text{m}^2.      $$</p></p>\n<p><p>Ratio of areas:  </p>\n<p>$$      \\frac{A_{\\text{new}}}{A_{\\text{initial}}} = \\frac{3 \\times 10^{-3}}{3 \\times 10^{-4}} = 10.      $$</p></p>\n<p><p>The plate separation is unchanged:  </p>\n<p>$$      \\frac{d_{\\text{initial}}}{d_{\\text{new}}} = \\frac{3 \\times 10^{-6}}{3 \\times 10^{-6}} = 1.      $$</p></p>\n<p><p>Overall factor:  </p>\n<p>$$      10 \\times 1 = 10.      $$</p></p>\n\n\n<p><strong>Case E:</strong>  </p>\n\n\n<p><p>New dimensions:  </p>\n<p>$$l = 5\\,\\text{cm} = 0.05\\,\\text{m}, \\quad b = 2\\,\\text{cm} = 0.02\\,\\text{m}.$$  </p></p>\n<p><p>New area:  </p>\n<p>$$      A_{\\text{new}} = 0.05 \\times 0.02 = 1 \\times 10^{-3}\\,\\text{m}^2.      $$</p></p>\n<p><p>Ratio of areas:  </p>\n<p>$$      \\frac{A_{\\text{new}}}{A_{\\text{initial}}} = \\frac{1 \\times 10^{-3}}{3 \\times 10^{-4}} \\approx 3.33.      $$</p></p>\n<p><p>New plate separation:  </p>\n<p>$$d_{\\text{new}} = 1\\,\\mu\\text{m} = 1 \\times 10^{-6}\\,\\text{m},$$  </p>\n<p>so the ratio of separations is  </p>\n<p>$$      \\frac{d_{\\text{initial}}}{d_{\\text{new}}} = \\frac{3 \\times 10^{-6}}{1 \\times 10^{-6}} = 3.      $$</p></p>\n<p><p>Overall factor:  </p>\n<p>$$      3.33 \\times 3 \\approx 10.      $$</p></p>\n\n<p><strong>Both Case C and Case E yield a capacitance that is 10 times the original value.</strong></p>\n<p><strong>Thus, the correct modifications are those in Case C and Case E.</strong></p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Which one of the following is the correct dimensional formula for the capacitance in F ? $\\mathrm{M}, \\mathrm{L}, \\mathrm{T}$ and $C$ stand for unit of mass, length, time and charge,</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "$[\\mathrm{F}]=\\left[\\mathrm{CM}^{-1} \\mathrm{~L}^{-2} \\mathrm{~T}^2\\right]$\n"
+        },
+        {
+          "key": "B",
+          "value": "$[\\mathrm{F}]=\\left[\\mathrm{C}^2 \\mathrm{M}^{-2} \\mathrm{~L}^2 \\mathrm{~T}^2\\right]$\n"
+        },
+        {
+          "key": "C",
+          "value": "$[\\mathrm{F}]=\\left[\\mathrm{C}^2 \\mathrm{M}^{-1} \\mathrm{~L}^{-2} \\mathrm{~T}^2\\right]$\n"
+        },
+        {
+          "key": "D",
+          "value": "$[\\mathrm{F}]=\\left[\\mathrm{CM}^{-2} \\mathrm{~L}^{-2} \\mathrm{~T}^{-2}\\right]$"
+        }
+      ],
+      "answer": "C",
+      "explanation": "<p>The capacitance (in farads) is defined as the ratio of charge to potential difference. Let's go through the steps:</p>\n\n<p><p>Capacitance is given by:  </p>\n<p>$$C = \\frac{Q}{V}$$  </p>\n<p>where:</p></p>\n\n\n<p><p>$ Q $ is the charge with dimensional symbol $ C $.</p></p>\n<p><p>$ V $ is the potential difference.</p></p>\n\n\n<p><p>Voltage (potential difference) is defined as energy per unit charge:  </p>\n<p>$$V = \\frac{W}{Q}$$  </p>\n<p>where:</p></p>\n\n\n<p><p>$ W $ is energy with dimensions:  </p>\n<p>$$[W] = [M L^2 T^{-2}]$$</p></p>\n\n\n<p><p>Therefore, the dimensions of voltage are:  </p>\n<p>$$[V] = \\frac{[ML^2T^{-2}]}{[C]}$$</p></p>\n<p><p>Now, substitute this back into the expression for capacitance:  </p>\n<p>$$[C] = \\frac{[Q]}{[ML^2T^{-2}]/[C]} = \\frac{[C]^2}{ML^2T^{-2}}$$</p></p>\n<p><p>Simplifying gives:  </p>\n<p>$$[C] = [C^2 M^{-1}L^{-2}T^2]$$</p></p>\n\n<p>Comparing with the given options, we see that Option C is:  </p>\n<p>$$[F] = [C^2 M^{-1}L^{-2}T^2]$$</p>\n<p>Thus, the correct dimensional formula for the capacitance in farads is given by Option C.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": " <p>A parallel-plate capacitor of capacitance $40 \\mu \\mathrm{~F}$ is connected to a 100 V power supply. Now the intermediate space between the plates is filled with a dielectric material of dielectric constant $\\mathrm{K}=2$. Due to the introduction of dielectric material, the extra charge and the change in the electrostatic energy in the capacitor, respectively, are</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "8 mC and 2.0 J\n"
+        },
+        {
+          "key": "B",
+          "value": "4 mC and 0.2 J\n"
+        },
+        {
+          "key": "C",
+          "value": "2 mC and 0.2 J\n"
+        },
+        {
+          "key": "D",
+          "value": "2 mC and 0.4 J"
+        }
+      ],
+      "answer": "B",
+      "explanation": "<p>Given, $$K = 2,\\,C = 40\\mu F,\\,V = 100\\,V$$</p>\n<p>$$\\Delta q = (KC)V - CV$$ (As $$q = CV$$)</p>\n<p>$$ = (K - 1)CV$$</p>\n<p>$$ = (2 - 1) \\times 40 \\times {10^{ - 6}} \\times 100 = 4 \\times {10^{ - 3}}C$$</p>\n<p>$$\\Delta q = 4\\,mC$$</p>\n<p>$$\\Delta u = {1 \\over 2}C'{V^2} - {1 \\over 2}C{V^2}$$</p>\n<p>$$ = {1 \\over 2}{V^2}(C' - C) = {1 \\over 2}{V^2}(KC - C)$$</p>\n<p>$$ = {1 \\over 2}{V^2}C(K - 1) = {1 \\over 2} \\times {10^4} \\times 40 \\times {10^{ - 6}}(2 - 1)$$</p>\n<p>$$ = \\Delta u = 2 \\times {10^{ - 1}} = 0.2\\,J$$</p>\n<p>$$ \\Rightarrow \\Delta u = 0.2\\,J$$</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Two identical capacitors have same capacitance $C$. One of them is charged to the potential $V$ and other to the potential $2 \\mathrm{~V}$. The negative ends of both are connected together. When the positive ends are also joined together, the decrease in energy of the combined system is :",
+      "options": [
+        {
+          "key": "A",
+          "value": "$\\frac{1}{4} \\mathrm{CV}^2$"
+        },
+        {
+          "key": "B",
+          "value": "$\\frac{3}{4} \\mathrm{CV}^2$"
+        },
+        {
+          "key": "C",
+          "value": "$\\frac{1}{2} \\mathrm{CV}^2$"
+        },
+        {
+          "key": "D",
+          "value": "$2 \\mathrm{CV}^2$"
+        }
+      ],
+      "answer": "A",
+      "explanation": "<p>To solve the problem, let's start by considering the energy stored in each capacitor before they are connected together.\n\n<p>The energy stored in a capacitor is given by the formula:</p></p>\n\n<p>$$E = \\frac{1}{2} C V^2$$</p>\n\n<p>Where $E$ is the energy, $C$ is the capacitance, and $V$ is the potential.\n\n<p>For the first capacitor charged to the potential $V$, the energy stored is:</p></p>\n\n<p>$$E_1 = \\frac{1}{2} C V^2$$</p>\n\n<p>For the second capacitor charged to the potential $2V$, the energy stored is:</p>\n\n<p>$$E_2 = \\frac{1}{2} C (2V)^2 = \\frac{1}{2} C \\cdot 4V^2 = 2 CV^2$$</p>\n\n<p>The total initial energy stored in the system is the sum of $E_1$ and $E_2$:</p>\n\n<p>$$E_{\\text{initial}} = E_1 + E_2 = \\frac{1}{2} CV^2 + 2 CV^2 = \\frac{5}{2} CV^2$$</p>\n\n<p>When the two capacitors are connected together, their potentials will become equal because they are identical capacitors. Let's denote this final potential as $V_f$. The total charge before and after the connection remains constant because charge is conserved. Therefore, we can write:</p>\n\n<p>$$C \\cdot V + C \\cdot 2V = 2C \\cdot V_f$$</p>\n\n<p>Simplifying this equation gives us the final potential:</p>\n\n<p>$$V + 2V = 2 V_f$$</p>\n\n<p>$$3V = 2 V_f$$</p>\n\n<p>$$V_f = \\frac{3}{2} V$$</p>\n\n<p>The final energy stored in the system when the capacitors are connected is now the total energy stored across both capacitors at the final potential $V_f$:</p>\n\n<p>$$E_{\\text{final}} = 2 \\cdot \\frac{1}{2} C V_f^2 = 2 \\cdot \\frac{1}{2} C \\left(\\frac{3}{2} V\\right)^2 = C \\cdot \\frac{9}{4} V^2$$</p>\n\n<p>The decrease in energy $ \\Delta E $ of the combined system is the initial energy minus the final energy:</p>\n\n<p>$$\\Delta E = E_{\\text{initial}} - E_{\\text{final}}$$</p>\n\n<p>$$\\Delta E = \\frac{5}{2} CV^2 - \\frac{9}{4} CV^2$$</p>\n\n<p>$$\\Delta E = \\frac{10}{4} CV^2 - \\frac{9}{4} CV^2$$</p>\n\n<p>$$\\Delta E = \\frac{1}{4} CV^2$$</p>\n\n<p>The correct answer is:</p>\n\n<p>Option A: $\\frac{1}{4} CV^2$</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>A capacitor of capacitance $$\\mathrm{C}$$ is charged to a potential V. The flux of the electric field through a closed surface enclosing the positive plate of the capacitor is :</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "Zero"
+        },
+        {
+          "key": "B",
+          "value": "$$\\frac{C V}{\\varepsilon_{0}}$$"
+        },
+        {
+          "key": "C",
+          "value": "$$\\frac{C V}{2 \\varepsilon_{0}}$$"
+        },
+        {
+          "key": "D",
+          "value": "$$\\frac{2 C V}{\\varepsilon_{0}}$$"
+        }
+      ],
+      "answer": "B",
+      "explanation": "<p>The electric field inside a parallel plate capacitor is uniform and given by $\\mathbf{E}=\\frac{V}{d} \\hat{\\mathbf{j}}$ where $d$ is the separation between the plates. <br/><br/>The electric flux through a closed surface enclosing only the positive plate of the capacitor is given by $\\Phi_E = \\oint_S \\mathbf{E}\\cdot d\\mathbf{A}$. <br/><br/>Since the electric field is perpendicular to the surface of the plate, the flux through the surface will be constant and given by $\\Phi_E = E A$, where $A$ is the area of the plate.</p>\n<p>The area of the positive plate is $A = \\frac{Q}{\\varepsilon_0 V}$, where $Q = C V$ is the charge on the positive plate. Therefore, the electric flux through the surface is given by:</p>\n<p>$$\\Phi_E = \\frac{Q}{\\varepsilon_0 V} \\frac{V}{d} = \\frac{Q}{\\varepsilon_0 d} = \\frac{C V}{\\varepsilon_0 d}$$</p>\n<p>Thus, the answer is $\\frac{C V}{\\varepsilon_0}$.</p>\n"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>A parallel plate capacitor of capacitance $$2 \\mathrm{~F}$$ is charged to a potential $$\\mathrm{V}$$, The energy stored in the capacitor is $$E_{1}$$. The capacitor is now connected to another uncharged identical capacitor in parallel combination. The energy stored in the combination is $$\\mathrm{E}_{2}$$. The ratio $$\\mathrm{E}_{2} / \\mathrm{E}_{1}$$ is :</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "1 : 2"
+        },
+        {
+          "key": "B",
+          "value": "2 : 3"
+        },
+        {
+          "key": "C",
+          "value": "2 : 1"
+        },
+        {
+          "key": "D",
+          "value": "1 : 4"
+        }
+      ],
+      "answer": "A",
+      "explanation": "<p>To determine the ratio $$\\mathrm{E}_{2} / \\mathrm{E}_{1}$$, we will follow these steps:</p>\n\n<p>1. Calculate the initial energy stored in the original capacitor $$\\mathrm{E}_{1}$$.</p>\n\n<p>2. Determine the energy stored in the system when two capacitors are connected in parallel, which is $$\\mathrm{E}_{2}$$.</p>\n\n<p>3. Find the ratio $$\\mathrm{E}_{2} / \\mathrm{E}_{1}$$.</p>\n\n<p><b>Step 1: Calculate the initial energy stored in the original capacitor $$\\mathrm{E}_{1}$$.</b></p>\n\n<p>The energy stored in a capacitor is given by the formula:</p>\n\n<p>$$E = \\frac{1}{2} CV^2$$</p>\n\n<p>Given that the capacitance $$C$$ is $$2 \\mathrm{~F}$$, and the potential difference is $$\\mathrm{V}$$, the initial energy $$\\mathrm{E}_{1}$$ is:</p>\n\n<p>$$E_{1} = \\frac{1}{2} \\cdot 2 \\mathrm{~F} \\cdot V^2$$</p>\n\n<p>$$E_{1} = V^2 \\mathrm{~J}$$</p>\n\n<p><b>Step 2: Determine the energy stored when two capacitors are connected in parallel</b></p>\n\n<p>When the charged capacitor (capacitor 1) is connected to an identical uncharged capacitor (capacitor 2), the charge will redistribute between the two capacitors. The total capacitance of the parallel combination is:</p>\n\n<p>$$C_{\\text{total}} = 2 \\mathrm{~F} + 2 \\mathrm{~F} = 4 \\mathrm{~F}$$</p>\n\n<p>The initial charge on capacitor 1 is:</p>\n\n<p>$$Q_1 = CV = 2 \\mathrm{~F} \\cdot V = 2V \\mathrm{~C}$$</p>\n\n<p>After connection, this charge will be shared equally by the two capacitors because they are identical. Therefore, the voltage across each capacitor in the parallel combination will be:</p>\n\n<p>$$V_{\\text{across each capacitor}} = \\frac{\\text{Total charge}}{\\text{Total capacitance}} = \\frac{2V}{4 \\mathrm{~F}} = \\frac{V}{2}$$</p>\n\n<p>The energy stored in the parallel combination is:</p>\n\n<p>$$E_{2} = \\frac{1}{2} \\cdot 4 \\mathrm{~F} \\cdot \\left(\\frac{V}{2}\\right)^2$$</p>\n\n<p>$$E_{2} = \\frac{1}{2} \\cdot 4 \\mathrm{~F} \\cdot \\frac{V^2}{4}$$</p>\n\n<p>$$E_{2} = V^2 \\cdot \\frac{1}{2} \\mathrm{~J}$$</p>\n\n<p><b>Step 3: Find the ratio $$\\mathrm{E}_{2} / \\mathrm{E}_{1}$$</b></p>\n\n<p>We know that:</p>\n\n<p>$$E_{1} = V^2 \\mathrm{~J}$$</p>\n\n<p>$$E_{2} = \\frac{1}{2} V^2 \\mathrm{~J}$$</p>\n\n<p>The ratio is then:</p>\n\n<p>$$\\frac{E_{2}}{E_{1}} = \\frac{\\frac{1}{2} V^2}{V^2} = \\frac{1}{2} = 1 : 2$$</p>\n\n<p>Therefore, the correct answer is:</p>\n\n<p><b>Option A: 1 : 2</b></p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>The distance between two plates of a capacitor is $$\\mathrm{d}$$ and its capacitance is $$\\mathrm{C}_{1}$$, when air is the medium between the plates. If a metal sheet of thickness $$\\frac{2 d}{3}$$ and of the same area as plate is introduced between the plates, the capacitance of the capacitor becomes $$\\mathrm{C}_{2}$$. The ratio $$\\frac{\\mathrm{C}_{2}}{\\mathrm{C}_{1}}$$ is</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "1 : 1"
+        },
+        {
+          "key": "B",
+          "value": "3 : 1"
+        },
+        {
+          "key": "C",
+          "value": "2 : 1"
+        },
+        {
+          "key": "D",
+          "value": "4 : 1"
+        }
+      ],
+      "answer": "B",
+      "explanation": "<p>When a metal sheet of thickness ($\\frac{2d}{3}$) is introduced between the plates of a capacitor, it divides the capacitor into two separate capacitors. The metal sheet acts as a new plate in each capacitor, and because the metal is a conductor, it is at the same potential as the plates on either side. </p>\n<p>The capacitance of the original capacitor with air between the plates is given by:</p>\n<p>$\\mathrm{C}_1 = \\frac{\\epsilon_0 \\mathrm{A}}{\\mathrm{d}}$</p>\n<p>where ($\\epsilon_0$) is the permittivity of free space, ($\\mathrm{A}$) is the area of one of the plates, and ($\\mathrm{d}$) is the distance between the plates.</p>\n<p>When the metal sheet of thickness ($\\frac{2d}{3}$) is introduced, the distance between the plates is reduced by ($\\frac{2d}{3}$), so the capacitance of each of the new capacitors is:</p>\n<p>$\\mathrm{C}&#39; = \\frac{\\epsilon_0 \\mathrm{A}}{\\mathrm{d}-\\frac{2d}{3}}$</p>\n<p>Simplifying, we get:</p>\n<p>$\\mathrm{C}&#39; = \\frac{3\\epsilon_0 \\mathrm{A}}{\\mathrm{d}}$</p>\n<p>Since the two capacitors are in parallel with each other, the total capacitance is:</p>\n<p>$\\mathrm{C}_2 = 2\\mathrm{C}&#39; = 2 \\times \\frac{3\\epsilon_0 \\mathrm{A}}{\\mathrm{d}} = 3\\mathrm{C}_1$</p>\n<p>So the ratio of the capacitances is:</p>\n<p>$\\frac{\\mathrm{C}_2}{\\mathrm{C}_1} = 3:1$</p>\n"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Given below are two statements: One is labeled as Assertion A and the other is labeled as Reason R.</p>\n<p><b>Assertion A :</b> Two metallic spheres are charged to the same potential. One of them is hollow and another is solid, and both have the same radii. Solid sphere will have lower charge than the hollow one.</p>\n<p><b>Reason R :</b> Capacitance of metallic spheres depend on the radii of spheres</p>\n<p>In light of the above statements, choose the correct answer from the options given below.</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "Both $$\\mathbf{A}$$ and $$\\mathbf{R}$$ are true but $$\\mathbf{R}$$ is not the correct explanation of $$\\mathbf{A}$$"
+        },
+        {
+          "key": "B",
+          "value": "Both $$\\mathbf{A}$$ and $$\\mathbf{R}$$ are true and $$\\mathbf{R}$$ is the correct explanation of $$\\mathbf{A}$$"
+        },
+        {
+          "key": "C",
+          "value": "$$\\mathbf{A}$$ is false but $$\\mathbf{R}$$ is true"
+        },
+        {
+          "key": "D",
+          "value": "$$\\mathbf{A}$$ is true but $$\\mathbf{R}$$ is false"
+        }
+      ],
+      "answer": "C",
+      "explanation": "The amount of charge on each sphere will be the same if they are charged to the same potential. Whether the sphere is solid or hollow doesn't affect the amount of charge stored on the sphere as long as they have the same radii and are charged to the same potential.\n<br/><br/>Therefore, assertion A is false\n<br/><br/>As we know, capacitance of spherical conductor\n<br/><br/>$$\n\\mathrm{C}=4 \\pi \\varepsilon_0 \\mathrm{R}\n$$\n<br/><br/>So, capacitance does not depend on its charge, it depends only on the radius of the conductor (R).\n<br/><br/>Therefore, Reason $\\mathrm{R}$ is true."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>A slab of dielectric constant $$\\mathrm{K}$$ has the same cross-sectional area as the plates of a parallel plate capacitor and thickness $$\\frac{3}{4} \\mathrm{~d}$$, where $$\\mathrm{d}$$ is the separation of the plates. The capacitance of the capacitor when the slab is inserted between the plates will be :</p>\n<p>(Given $$\\mathrm{C}_{0}$$ = capacitance of capacitor with air as medium between plates.)</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$\\frac{4 K C_{0}}{3+K}$$"
+        },
+        {
+          "key": "B",
+          "value": "$$\\frac{3 K C_{0}}{3+K}$$"
+        },
+        {
+          "key": "C",
+          "value": "$$\\frac{3+K}{4 K C_{0}}$$"
+        },
+        {
+          "key": "D",
+          "value": "$$\\frac{K}{4+K}$$"
+        }
+      ],
+      "answer": "A",
+      "explanation": "<p>$${C_0} = {{{\\varepsilon _0}A} \\over d}$$</p>\n<p>$$C = {{{\\varepsilon _0}A} \\over {d - {{3d} \\over 4} + {{3d} \\over {4K}}}} = {{4{\\varepsilon _0}AK} \\over {3d + Kd}}$$</p>\n<p>$$ = {{4K{C_0}} \\over {3 + K}}$$</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>The total charge on the system of capacitors $$C_{1}=1 \\mu \\mathrm{F}, C_{2}=2 \\mu \\mathrm{F}, \\mathrm{C}_{3}=4 \\mu \\mathrm{F}$$ and $$\\mathrm{C}_{4}=3 \\mu \\mathrm{F}$$ connected in parallel is :</p>\n<p>(Assume a battery of $$20 \\mathrm{~V}$$ is connected to the combination)</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$200 \\,\\mu \\mathrm{C}$$"
+        },
+        {
+          "key": "B",
+          "value": "200 C"
+        },
+        {
+          "key": "C",
+          "value": "$$10 \\,\\mu \\mathrm{C}$$"
+        },
+        {
+          "key": "D",
+          "value": "10 C"
+        }
+      ],
+      "answer": "A",
+      "explanation": "<p>Equivalent $$C = \\sum {{C_i}} $$</p>\n<p>$$ = 10\\,\\mu F$$</p>\n<p>$$\\Rightarrow$$ Charge $$Q = CV$$</p>\n<p>$$ = 200\\,\\mu C$$</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Capacitance of an isolated conducting sphere of radius R<sub>1</sub> becomes n times when it is enclosed by a concentric conducting sphere of radius R<sub>2</sub> connected to earth. The ratio of their radii $$\\left( {{{{R_2}} \\over {{R_1}}}} \\right)$$ is :</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "$${n \\over {n - 1}}$$"
+        },
+        {
+          "key": "B",
+          "value": "$${{2n} \\over {2n + 1}}$$"
+        },
+        {
+          "key": "C",
+          "value": "$${{n + 1} \\over n}$$"
+        },
+        {
+          "key": "D",
+          "value": "$${{2n + 1} \\over n}$$"
+        }
+      ],
+      "answer": "A",
+      "explanation": "<p>Initially $$ = {C_0} = 4\\pi {\\varepsilon _0}{R_1}$$</p>\n<p>Finally $${{4\\pi {\\varepsilon _0}{R_1}{R_2}} \\over {{R_2} - {R_1}}} = n{C_0} = 4\\pi {\\varepsilon _0}n{R_1}$$</p>\n<p>$$ \\Rightarrow $$ $${{{R_2}} \\over {{R_2} - {R_1}}} = n$$</p>\n<p>$$ \\Rightarrow $$$$1 - {{{R_1}} \\over {{R_2}}} = {1 \\over n}$$</p>\n<p>$$ \\Rightarrow $$ $${{{R_1}} \\over {{R_2}}} = {{n - 1} \\over n}$$</p>\n<p>$$ \\Rightarrow $$ $${{{R_2}} \\over {{R_1}}} = {n \\over {n - 1}}$$</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>A capacitor is discharging through a resistor R. Consider in time t<sub>1</sub>, the energy stored in the capacitor reduces to half of its initial value and in time t<sub>2</sub>, the charge stored reduces to one eighth of its initial value. The ratio t<sub>1</sub>/t<sub>2</sub> will be</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "1/2"
+        },
+        {
+          "key": "B",
+          "value": "1/3"
+        },
+        {
+          "key": "C",
+          "value": "1/4"
+        },
+        {
+          "key": "D",
+          "value": "1/6"
+        }
+      ],
+      "answer": "D",
+      "explanation": "<p>For a discharging capacitor when energy reduces to half the charge would become $${1 \\over {\\sqrt 2 }}$$ times the initial value.</p>\n<p>$$ \\Rightarrow {\\left( {{1 \\over 2}} \\right)^{1/2}} = {e^{ - {t_1}/\\tau }}$$</p>\n<p>Similarly, $${\\left( {{1 \\over 2}} \\right)^3} = {e^{ - {t_2}/\\tau }}$$</p>\n<p>$$ \\Rightarrow {{{t_1}} \\over {{t_2}}} = {1 \\over 6}$$</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>A parallel plate capacitor filled with a medium of dielectric constant 10, is connected across a battery and is charged. The dielectric slab is replaced by another slab of dielectric constant 15. Then the energy of capacitor will :</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "increase by 50%"
+        },
+        {
+          "key": "B",
+          "value": "decrease by 15%"
+        },
+        {
+          "key": "C",
+          "value": "increase by 25%"
+        },
+        {
+          "key": "D",
+          "value": "increase by 33%"
+        }
+      ],
+      "answer": "A",
+      "explanation": "<p>$$U = {1 \\over 2}(k{C_0}){V^2}$$</p>\n<p>$$ \\Rightarrow {{U'} \\over U} = 1.5$$</p>\n<p>$$\\Rightarrow$$ Energy increases by 50%</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>A force of 10 N acts on a charged particle placed between two plates of a charged capacitor. If one plate of capacitor is removed, then the force acting on that particle will be.</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "5 N"
+        },
+        {
+          "key": "B",
+          "value": "10 N"
+        },
+        {
+          "key": "C",
+          "value": "20 N"
+        },
+        {
+          "key": "D",
+          "value": "Zero"
+        }
+      ],
+      "answer": "A",
+      "explanation": "<p>E between two plates is $${\\sigma  \\over {{\\varepsilon _0}}}$$ and due to one plate is $${\\sigma  \\over {2{\\varepsilon _0}}}$$ so the force will be halved</p>\n<p>So new force F = 5 N</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Two metallic plates form a parallel plate capacitor. The distance between the plates is 'd'. A metal sheet of thickness $${d \\over 2}$$ and of area equal to area of each plate is introduced between the plates. What will be the ratio of the new capacitance to the original capacitance of the capacitor?</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "2 : 1"
+        },
+        {
+          "key": "B",
+          "value": "1 : 2"
+        },
+        {
+          "key": "C",
+          "value": "1 : 4"
+        },
+        {
+          "key": "D",
+          "value": "4 : 1"
+        }
+      ],
+      "answer": "A",
+      "explanation": "<p>$${C_{eq}} = {{{\\varepsilon _0}A} \\over {d - {d \\over 2} + {d \\over {2k}}}} = {{{\\varepsilon _0}A} \\over {{d \\over 2}}} = {{2{\\varepsilon _0}A} \\over d}$$</p>\n<p>If $$C = {{{\\varepsilon _0}A} \\over d}$$</p>\n<p>$$ \\Rightarrow {C_{eq}} = 2C$$ or $${{{C_{new}}} \\over {{C_{old}}}} = {2 \\over 1}$$</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>If the charge on a capacitor is increased by 2 C, the energy stored in it increases by 44%. The original charge on the capacitor is (in C)</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "10"
+        },
+        {
+          "key": "B",
+          "value": "20"
+        },
+        {
+          "key": "C",
+          "value": "30"
+        },
+        {
+          "key": "D",
+          "value": "40"
+        }
+      ],
+      "answer": "A",
+      "explanation": "<p>Let initially the charge is q so</p>\n<p>$${1 \\over 2}{{{q^2}} \\over C} = {U_i}$$</p>\n<p>And $${1 \\over 2}{{{{(q + 2)}^2}} \\over C} = {U_f}$$</p>\n<p>Given $${{{U_f} - {U_i}} \\over {{U_i}}} \\times 100 = 44$$</p>\n<p>$${{{{(q + 2)}^2} - {q^2}} \\over q} = .44$$</p>\n<p>$$ \\Rightarrow q = 10C$$</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>A parallel plate capacitor is formed by two plates each of area 30$$\\pi$$ cm<sup>2</sup> separated by 1 mm. A material of dielectric strength 3.6 $$\\times$$ 10<sup>7</sup> Vm<sup>$$-$$1</sup> is filled between the plates. If the maximum charge that can be stored on the capacitor without causing any dielectric breakdown is 7 $$\\times$$ 10<sup>$$-$$6</sup>C, the value of dielectric constant of the material is :</p>\n<p>[Use $${1 \\over {4\\pi {\\varepsilon _0}}} = 9 \\times {10^9}$$ Nm<sup>2</sup> C<sup>$$-$$2</sup>]</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "1.66"
+        },
+        {
+          "key": "B",
+          "value": "1.75"
+        },
+        {
+          "key": "C",
+          "value": "2.25"
+        },
+        {
+          "key": "D",
+          "value": "2.33"
+        }
+      ],
+      "answer": "D",
+      "explanation": "<p>Field inside the dielectric $$ = {\\sigma  \\over {k{\\varepsilon _0}}}$$</p>\n<p>According to the given information,</p>\n<p>$${\\sigma  \\over {k{\\varepsilon _0}}} = 3.6 \\times {10^7}$$</p>\n<p>$$ \\Rightarrow {{{Q \\over A}} \\over {k{\\varepsilon _0}}} = 3.6 \\times {10^7}$$</p>\n<p>$$ \\Rightarrow k = 2.33$$</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A capacitor is connected to a 20 V battery through a resistance of 10$$\\Omega$$. It is found that the potential difference across the capacitor rises to 2 V in 1 $$\\mu$$s. The capacitance of the capacitor is __________ $$\\mu$$F. Given : $$\\ln \\left( {{{10} \\over 9}} \\right) = 0.105$$",
+      "options": [
+        {
+          "key": "A",
+          "value": "9.52"
+        },
+        {
+          "key": "B",
+          "value": "0.95"
+        },
+        {
+          "key": "C",
+          "value": "0.105"
+        },
+        {
+          "key": "D",
+          "value": "1.85"
+        }
+      ],
+      "answer": "B",
+      "explanation": "Given, the peak voltage of the battery, V<sub>0</sub> = 20V<br/><br/>The voltage of the battery, V = 2V<br/><br/>Time, t = 1 $$\\mu$$s = 1 $$\\times$$ 10<sup>$$-$$6</sup>s<br/><br/>Resistance of the capacitor, R = 10 $$\\Omega$$<br/><br/>As we know that, <br/><br/>V = V<sub>0</sub>(1 $$-$$ e<sup>$$-$$t/RC</sup>)<br/><br/>Substituting the values in the above equation, we get<br/><br/>2 = 20(1 $$-$$ e<sup>$$-$$t/RC</sup>)<br/><br/>$$ \\Rightarrow {t \\over {RC}} = \\ln \\left( {{{10} \\over 9}} \\right)$$<br/><br/>$$ \\Rightarrow C = {t \\over {R\\ln (10/9)}} = {{{{10}^{ - 6}}} \\over {10 \\times \\ln (10/9)}} = 0.95$$ $$\\mu$$F<br/><br/>$$\\therefore$$ The capacitance of the capacitor is 0.95 $$\\mu$$F."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The material filled between the plates of a parallel plate capacitor has resistivity 200 $$\\Omega$$m. The value of capacitance of the capacitor is 2 pF. If a potential difference of 40 V is applied across the plates of the capacitor, then the value of leakage current flowing out of the capacitor is : (given the value of relative permittivity of material is 50) ",
+      "options": [
+        {
+          "key": "A",
+          "value": "9.0 $$\\mu$$A"
+        },
+        {
+          "key": "B",
+          "value": "9.0 mA"
+        },
+        {
+          "key": "C",
+          "value": "0.9 mA"
+        },
+        {
+          "key": "D",
+          "value": "0.9 $$\\mu$$A"
+        }
+      ],
+      "answer": "C",
+      "explanation": "$$\\rho$$ = 200 $$\\Omega$$m<br><br>C = 2 $$\\times$$ 10<sup>$$-$$12</sup> F<br><br>V = 40 V<br><br>K = 56<br><br>$$i = {q \\over {\\rho k{\\varepsilon _0}}} = {{{q_0}} \\over {\\rho k{\\varepsilon _0}}}{e^{ - {t \\over {\\rho k{\\varepsilon _0}}}}}$$<br><br>$${i_{\\max }} = {{2 \\times {{10}^{ - 12}} \\times 40} \\over {200 \\times 50 \\times 8.85 \\times {{10}^{ - 12}}}}$$<br><br>$$ = {{80} \\over {{{10}^4} \\times 8.85}}$$ = 903 $$\\mu$$A = 0.9 mA"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Match List I with List II.<br><br><table>\n<thead>\n  <tr>\n    <th></th>\n    <th>List - I</th>\n    <th></th>\n    <th>List - II</th>\n  </tr>\n</thead>\n<tbody>\n  <tr>\n    <td>(a)</td>\n    <td>Capacitance, C</td>\n    <td>(i)</td>\n    <td>$${M^1}{L^1}{T^{ - 3}}{A^{ - 1}}$$</td>\n  </tr>\n  <tr>\n    <td>(b)</td>\n    <td>Permittivity of free space, $${\\varepsilon _0}$$</td>\n    <td>(ii)</td>\n    <td>$${M^{ - 1}}{L^{ - 3}}{T^4}{A^2}$$</td>\n  </tr>\n  <tr>\n    <td>(c)</td>\n    <td>Permeability of free space, $${\\mu _0}$$</td>\n    <td>(iii)</td>\n    <td>$${M^{ - 1}}{L^{ - 2}}{T^4}{A^2}$$</td>\n  </tr>\n  <tr>\n    <td>(d)</td>\n    <td>Electric field, E</td>\n    <td>(iv)</td>\n    <td>$${M^1}{L^1}{T^{ - 2}}{A^{ - 2}}$$</td>\n  </tr>\n</tbody>\n</table><br><br>Choose the correct answer from the options given below ",
+      "options": [
+        {
+          "key": "A",
+          "value": "(a) $$\\to$$ (iii), (b) $$\\to$$ (ii), (c) $$\\to$$ (iv), (d) $$\\to$$ (i)"
+        },
+        {
+          "key": "B",
+          "value": "(a) $$\\to$$ (iii), (b) $$\\to$$ (iv), (c) $$\\to$$ (ii), (d) $$\\to$$ (i)"
+        },
+        {
+          "key": "C",
+          "value": "(a) $$\\to$$ (iv), (b) $$\\to$$ (ii), (c) $$\\to$$ (iii), (d) $$\\to$$ (i)"
+        },
+        {
+          "key": "D",
+          "value": "(a) $$\\to$$ (iv), (b) $$\\to$$ (iii), (c) $$\\to$$ (ii), (d) $$\\to$$ (i)"
+        }
+      ],
+      "answer": "A",
+      "explanation": "q = CV<br><br>$$[C] = \\left[ {{q \\over V}} \\right] = {{(A \\times T)} \\over {M{L^2}{T^{ - 2}}}}$$<br><br>$$ = {M^{ - 1}}{L^{ - 2}}{T^4}{A^2}$$<br><br>$$[E] = \\left[ {{F \\over q}} \\right] = {{ML{T^{ - 2}}} \\over {AT}}$$<br><br>$$ = ML{T^{ - 3}}{A^{ - 1}}$$<br><br>$$F = {{{q_1}{q_2}} \\over {4\\pi { \\in _0}{r^2}}}$$<br><br>$$[{ \\in _0}] = {M^{ - 1}}{L^{ - 3}}{T^4}{A^2}$$<br><br>Speed of light $$c = {1 \\over {\\sqrt {{\\mu _0}{ \\in _0}} }}$$<br><br>$${\\mu _0} = {1 \\over {{ \\in _0}{c^2}}}$$<br><br>$$[{\\mu _0}] = {1 \\over {{M^{ - 1}}{L^{ - 3}}{T^4}{A^2}]{{[L{T^{ - 1}}]}^2}}}$$<br><br>$$ = [{M^1}{L^1}{T^{ - 2}}{A^{ - 2}}]$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Consider the combination of 2 capacitors C<sub>1</sub> and C<sub>2</sub> with C<sub>2</sub> &gt; C<sub>1</sub>, when connected in parallel, the equivalent capacitance is $${{15} \\over 4}$$ times the equivalent capacitance of the same connected in series. Calculate the ratio of capacitors, $${{{C_2}} \\over {{C_1}}}$$.",
+      "options": [
+        {
+          "key": "A",
+          "value": "$${{15} \\over {11}}$$"
+        },
+        {
+          "key": "B",
+          "value": "No Solutions"
+        },
+        {
+          "key": "C",
+          "value": "$${{29} \\over {15}}$$"
+        },
+        {
+          "key": "D",
+          "value": "$${{15} \\over {4}}$$"
+        }
+      ],
+      "answer": "B",
+      "explanation": "When connected in parallel<br><br>C<sub>eq</sub> = C<sub>1</sub> + C<sub>2</sub><br><br>When in series<br><br>$$C{'_{eq}} = {{{C_1}{C_2}} \\over {{C_1} + {C_2}}}$$<br><br>$${C_1} + {C_2} = {{15} \\over 4}\\left( {{{{C_1}{C_2}} \\over {{C_1} + {C_2}}}} \\right)$$<br><br>$$4{({C_1} + {C_2})^2} = 15{C_1}{C_2}$$<br><br>$$4{C_1}^2 + 4{C_2}^2 - 7{C_1}{C_2} = 0$$<br><br>dividing by $${C_1}^2$$<br><br>$$4{\\left( {{{{C_2}} \\over {{C_1}}}} \\right)^2} - {{7{C_2}} \\over {{C_1}}} + 4 = 0$$<br><br>Let $${{{C_2}} \\over {{C_1}}} = x$$<br><br>$$4{x^2} - 7x + 4 = 0$$<br><br>$${b^2} - 4ac = 49 - 64 &lt; 0$$<br><br>$$ \\therefore $$ No solution exixts."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Two equal capacitors are first connected in series and then in parallel. The ratio of the equivalent capacities in the two cases will be :",
+      "options": [
+        {
+          "key": "A",
+          "value": "4 : 1"
+        },
+        {
+          "key": "B",
+          "value": "1 : 2"
+        },
+        {
+          "key": "C",
+          "value": "2 : 1"
+        },
+        {
+          "key": "D",
+          "value": "1 : 4"
+        }
+      ],
+      "answer": "D",
+      "explanation": "Given, C<sub>1</sub> = C<sub>2</sub> = C<br/><br/>When both capacitors are connected in series, their equivalent capacitance will be<br/><br/>$${1 \\over {{C_s}}} = {1 \\over C} + {1 \\over C} = {2 \\over C}$$<br/><br/>$$ \\Rightarrow {C_s} = {C \\over 2}$$<br/><br/>When both capacitors are connected in parallel, their equivalent capacitance will be<br/><br/>C<sub>p</sub> = C + C = 2C<br/><br/>$$\\therefore$$ The ratio of equivalent capacitance in series and parallel combination is<br/><br/>$${{{C_s}} \\over {{C_p}}} = {{C/2} \\over {2C}} = {1 \\over 4}$$<br/><br/>$$\\therefore$$ C<sub>s</sub> : C<sub>p</sub> = 1 : 4"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A capacitor C is fully charged with voltage V<sub>0</sub>. After disconnecting the voltage source, it is connected\nin parallel with another uncharged capacitor of capacitance $${C \\over 2}$$. The energy loss in the process\nafter the charge is distributed between the two capacitors is :",
+      "options": [
+        {
+          "key": "A",
+          "value": "$${1 \\over 2}CV_0^2$$"
+        },
+        {
+          "key": "B",
+          "value": "$${1 \\over 4}CV_0^2$$"
+        },
+        {
+          "key": "C",
+          "value": "$${1 \\over 3}CV_0^2$$"
+        },
+        {
+          "key": "D",
+          "value": "$${1 \\over 6}CV_0^2$$"
+        }
+      ],
+      "answer": "D",
+      "explanation": "Heat loss = $${1 \\over 2}\\left( {{{{C_1}{C_2}} \\over {{C_1} + {C_2}}}} \\right)V_0^2$$\n<br><br>= $${1 \\over 2}\\left( {{{C \\times {C \\over 2}} \\over {C + {C \\over 2}}}} \\right)V_0^2$$\n<br><br>= $${1 \\over 6}CV_0^2$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A 10 $$\\mu $$F capacitor is fully charged to a potential\ndifference of 50 V. After removing the source\nvoltage it is connected to an uncharged\ncapacitor in parallel. Now the potential\ndifference across them becomes 20 V. The\ncapacitance of the second capacitor is :",
+      "options": [
+        {
+          "key": "A",
+          "value": "20 $$\\mu $$F"
+        },
+        {
+          "key": "B",
+          "value": "15 $$\\mu $$F"
+        },
+        {
+          "key": "C",
+          "value": "10 $$\\mu $$F"
+        },
+        {
+          "key": "D",
+          "value": "30 $$\\mu $$F"
+        }
+      ],
+      "answer": "B",
+      "explanation": "Initially,\n<br><br>Charge on capacitor 10 μF\n<br><br>Q = CV = (10 μF) (50V)\n<br><br>Q = 500 μC\n<br><br>Final Charge on 10 μF capacitor\n<br><br>Q = CV = (10 μF) (20V)\n<br><br>Q = 200 μC\n<br><br>From charge conservation,\n<br><br>Charge on unknown capacitor\n<br><br>Q = 500 μC – 200 μC = 300 μC\n<br><br>$$ \\Rightarrow $$ Capacitance (C) = $${Q \\over V}$$ = $${{300} \\over {20}}$$ = 15 $$\\mu $$F"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Effective capacitance of parallel combination\nof two capacitors C<sub>1</sub> and C<sub>2</sub> is 10 μF. When\nthese capacitors are individually connected to\na voltage source of 1V, the energy stored in the\ncapacitor C<sub>2</sub> is 4 times that of C<sub>1</sub>. If these\ncapacitors are connected in series, their\neffective capacitance will be :",
+      "options": [
+        {
+          "key": "A",
+          "value": "4.2 μF"
+        },
+        {
+          "key": "B",
+          "value": "8.4 μF"
+        },
+        {
+          "key": "C",
+          "value": "1.6 μF"
+        },
+        {
+          "key": "D",
+          "value": "3.2 μF"
+        }
+      ],
+      "answer": "C",
+      "explanation": "C<sub>1</sub>\n + C<sub>2</sub>\n = 10 ......(1)\n<br><br>$${1 \\over 2}{C_2}{V^2} = 4 \\times {1 \\over 2}{C_1}{V^2}$$\n<br><br>$$ \\Rightarrow $$ C<sub>2</sub>\n = 4C<sub>1</sub>  .....(2)\n<br><br>From (1) ans (2),\n<br><br>C<sub>1</sub>\n = 2 and C<sub>2</sub>\n = 8\n<br><br>For series combination\n<br><br>C<sub>eq</sub> = $${{{C_1}{C_2}} \\over {{C_1} + {C_2}}}$$ = $${{8 \\times 2} \\over {8 + 2}}$$ = 1.6 $$\\mu $$F"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A capacitor with capacitance 5μF is charged to\n5μC. If the plates are pulled apart to reduce the\ncapacitance to 2μF, how much work is done ?",
+      "options": [
+        {
+          "key": "A",
+          "value": "2.16 × 10<sup>–6</sup> J"
+        },
+        {
+          "key": "B",
+          "value": "2.55 × 10<sup>–6</sup> J"
+        },
+        {
+          "key": "C",
+          "value": "3.75 × 10<sup>–6</sup> J"
+        },
+        {
+          "key": "D",
+          "value": "6.25 × 10<sup>–6</sup> J"
+        }
+      ],
+      "answer": "C",
+      "explanation": "Work done = $$\\Delta $$U<br><br>\n= U<sub>f</sub> – U<sub>i</sub><br><br>\n$$ = {{{q^2}} \\over {2{C_r}}} - {{{q^2}} \\over {2{C_i}}}$$<br><br>\n$$ = {{{{\\left( {5 \\times {{10}^{ - 6}}} \\right)}^2}} \\over 2}.\\left( {{1 \\over {2 \\times {{10}^{ - 6}}}} - {1 \\over {5 \\times {{10}^{ - 6}}}}} \\right)$$<br><br>\n$$ = {{15} \\over 4} \\times {10^{ - 6}} = 3.75{\\rm{ }} \\times {\\rm{ }}{10^{-6}}{\\rm{ }}J$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Voltage rating of a parallel plate capacitor is\n500V. Its dielectric can withstand a maximum\nelectric field of 10<sup>6</sup> V/m. The plate area is\n10<sup>–4</sup> m<sup>2</sup>. What is the dielectric constant is the\ncapacitance is 15 pF?\n(given $$\\varepsilon $$<sub>0</sub> = 8.86 × 10<sup>–12</sup> C<sup>2</sup>/Nm<sup>2</sup>)",
+      "options": [
+        {
+          "key": "A",
+          "value": "8.5"
+        },
+        {
+          "key": "B",
+          "value": "4.5"
+        },
+        {
+          "key": "C",
+          "value": "3.8"
+        },
+        {
+          "key": "D",
+          "value": "6.2"
+        }
+      ],
+      "answer": "A",
+      "explanation": "A = 10<sup>–4</sup> m<sup>2</sup><br><br>\nE<sub>max</sub> = 10<sup>6</sup> V/m<br><br>\nC = 15 $$\\mu $$F<br><br>\n$$C = {{k{\\varepsilon _0}A} \\over d};{{Cd} \\over {{\\varepsilon _0}A}} = k$$<br><br>\n$$k = {{15 \\times {{10}^{ - 12}} \\times 500 \\times {{10}^{ - 6}}} \\over {8.86 \\times {{10}^{ - 12}} \\times {{10}^4}}}$$<br><br>\n= $${{15 \\times 5} \\over {8.86}} = 8.465$$<br><br>\nk $$ \\approx $$ 8.5\n"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A parallel plate capacitor with plates of area 1 m<sup>2</sup> each, are at a separation of 0.1 m. If the electric field between the plates is 100 N/C, the magnitude of charge on each plate is : \n<br><br>(Take $$\\varepsilon $$<sub>0</sub> = 8.85 $$ \\times $$ 10<sup>$$-$$12</sup> $${{{C^2}} \\over {N - {m^2}}}$$)",
+      "options": [
+        {
+          "key": "A",
+          "value": "9.85 $$ \\times $$ 10<sup>–10</sup> C"
+        },
+        {
+          "key": "B",
+          "value": "8.85 $$ \\times $$ 10<sup>–10</sup> C"
+        },
+        {
+          "key": "C",
+          "value": "6.85 $$ \\times $$ 10<sup>–10</sup> C"
+        },
+        {
+          "key": "D",
+          "value": "7.85 × 10<sup>–10</sup> C"
+        }
+      ],
+      "answer": "B",
+      "explanation": "$$E = {\\sigma  \\over {{ \\in _0}}} = {Q \\over {A\\,{ \\in _0}}}$$\n<br><br>Q = AE$$ \\in $$<sub>0</sub>\n<br><br>Q = (1) (100) (8.85 $$ \\times $$ 10<sup>$$-$$12</sup>)\n<br><br>Q = 8.85 $$ \\times $$ 10<sup>$$-$$10</sup>C"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A parallel plate capacitor having capacitance 12 pF is charged by a battery to a potential difference of 10 V between its plates. The charging battery is now disconnected and a porcelain slab of dielectric constant 6.5 is slipped between the plates. The work done by the capacitor on the slab is :",
+      "options": [
+        {
+          "key": "A",
+          "value": "508 pJ"
+        },
+        {
+          "key": "B",
+          "value": "692 pJ"
+        },
+        {
+          "key": "C",
+          "value": "560 pJ"
+        },
+        {
+          "key": "D",
+          "value": "600 pJ"
+        }
+      ],
+      "answer": "A",
+      "explanation": "Initial energy of capacitor\n<br><br>U<sub>i</sub> = $${1 \\over 2}$$ $${{{v^2}} \\over c}$$\n<br><br>=  $${1 \\over 2}$$ $$ \\times $$ $${{120 \\times 120} \\over {12}}$$ = 600 J\n<br><br>Since battery is disconnected so charge remain same. \n<br><br>Final energy of capacitor\n<br><br>U<sub>f</sub> = $${1 \\over 2}{{{v^2}} \\over c}$$\n<br><br>=  $${1 \\over 2} \\times {{120 \\times 120} \\over {12 \\times 6.5}}$$ = 92\n<br><br>W + U<sub>f</sub> = U<sub>i</sub>\n<br><br>W = 508 J"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A parallel plate capacitor of capacitance 90 pF is connected to a battery of emf 20 V. If a dielectric material\nof dielectric constant K = 5/3 is inserted between the plates, the magnitude of the induced charge will be :",
+      "options": [
+        {
+          "key": "A",
+          "value": "0.9 n C"
+        },
+        {
+          "key": "B",
+          "value": "1.2 n C"
+        },
+        {
+          "key": "C",
+          "value": "0.3 n C"
+        },
+        {
+          "key": "D",
+          "value": "2.4 n C"
+        }
+      ],
+      "answer": "B",
+      "explanation": "Charge on Capacitor initially, \n<br><br>Q<sub>i</sub> = CV\n<br><br>After inserting dielectric of dielectric constant = K,\n<br><br>new capacitance, Q<sub>f</sub> = (KC) $$ \\vee $$\n<br><br>$$\\therefore\\,\\,\\,$$ Induced charges on dielectric \n<br><br>= Q<sub>f</sub> $$-$$ Q<sub>i</sub>\n<br><br>= KCV $$-$$ CV\n<br><br>= (K $$-$$ ) CV\n<br><br>= $$\\left( {{5 \\over 3} - 1} \\right)$$ $$ \\times $$ 90 $$ \\times $$ 10<sup>$$-$$12</sup> $$ \\times $$ 20\n<br><br>= 1.2 $$ \\times $$ 10<sup>$$-$$9</sup> C\n<br><br>= 1.2 nC"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A parallel plate capacitor with area 200 cm<sup>2</sup> and separation between the plates 1.5 cm,  is connected across a battery of emf V. If the force of attraction between the plates is $$25 \\times {10^{ - 6}}N,$$ the value of V is approximately : $$\\left( {{ \\in _o} = 8.85 \\times {{10}^{ - 12}}{{{C^2}} \\over {N.{m^2}}}} \\right)$$",
+      "options": [
+        {
+          "key": "A",
+          "value": "250 V"
+        },
+        {
+          "key": "B",
+          "value": "100 V"
+        },
+        {
+          "key": "C",
+          "value": "300 V"
+        },
+        {
+          "key": "D",
+          "value": "150 V"
+        }
+      ],
+      "answer": "A",
+      "explanation": "Given area of Parallel plate capacitor, A = 200 cm<sup>2</sup>\n<br><br/>Separation between the plates, d = 1.5 cm\n<br><br/>Force of attraction between the plates, F = 25 × 10<sup>–6</sup> N\n<br><br>F = QE\n<br><br>$$ \\Rightarrow $$ F = $${{{Q^2}} \\over {2A{ \\in _0}}}$$\n<br><br>[ As E due to parallel plate = $${\\sigma  \\over {2{ \\in _0}}} = {Q \\over {2A{ \\in _0}}}$$]\n<br><br>Also we know, Q = CV = $${{{ \\in _0}AV} \\over d}$$\n<br><br>$$ \\therefore $$ F = $${{{{\\left( {{ \\in _0}AV} \\right)}^2}} \\over {{d^2} \\times 2A{ \\in _0}}}$$\n<br><br>$$ \\Rightarrow $$ V = d$$\\sqrt {{{2F} \\over {{ \\in _0}A}}} $$\n<br><br>$$ \\Rightarrow $$ V = $$1.5 \\times {10^{ - 2}}\\sqrt {{{2 \\times 25 \\times {{10}^{ - 6}}} \\over {8.85 \\times {{10}^{ - 12}} \\times 2 \\times {{10}^{ - 2}}}}} $$\n<br><br>= $$1.5 \\times {10^{ - 2}}\\sqrt {{{25} \\over {8.85}}} $$ = 250 V"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The energy stored in the electric field produced by a metal sphere is 4.5 J. If the sphere contains 4 $$\\mu $$C charge, its radius will be :\n<br>[ Take : $${1 \\over {4\\,\\pi { \\in _0}}} = $$ 9 $$ \\times $$ 10<sup>9</sup>  N $$-$$ m<sup>2</sup>/C<sup>2</sup> ]",
+      "options": [
+        {
+          "key": "A",
+          "value": "20 mm"
+        },
+        {
+          "key": "B",
+          "value": "32 mm"
+        },
+        {
+          "key": "C",
+          "value": "28 mm"
+        },
+        {
+          "key": "D",
+          "value": "16 mm"
+        }
+      ],
+      "answer": "D",
+      "explanation": "Energy of sphere = $${{{Q^2}} \\over {2C}}$$\n<br><br>$$\\therefore\\,\\,\\,$$ $${{16 \\times {{10}^{ - 12}}} \\over {2C}}$$ = 4.5\n<br><br>$$ \\Rightarrow $$$$\\,\\,\\,$$ C = $${{16 \\times {{10}^{ - 12}}} \\over 9}$$\n<br><br>We know capacity of spherical conductor,  \n<br><br>C = 4$$\\pi $$$$\\varepsilon $$<sub>0</sub>R\n<br><br>$$\\therefore\\,\\,\\,$$ 4$$\\pi $$$$\\varepsilon $$<sub>0</sub>R = $${{16 \\times {{10}^{ - 12}}} \\over 9}$$\n<br><br>$$ \\Rightarrow $$$$\\,\\,\\,$$ R = $${1 \\over {4\\pi {\\varepsilon _0}}} \\times {{16 \\times {{10}^{ - 12}}} \\over 9}$$\n<br><br>= 9 $$ \\times $$ 10<sup>9</sup> $$ \\times $$ $${{16 \\times {{10}^{ - 12}}} \\over 9}$$\n<br><br>= 16 mm"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Three capacitors each of 4 $$\\mu $$F are to be connected in such a way that the effective capacitance is 6 $$\\mu $$F. This can be done by connecting them :",
+      "options": [
+        {
+          "key": "A",
+          "value": "all in series"
+        },
+        {
+          "key": "B",
+          "value": "two in series and one in parallel\n"
+        },
+        {
+          "key": "C",
+          "value": "all in parallel"
+        },
+        {
+          "key": "D",
+          "value": "two in parallel and one in series"
+        }
+      ],
+      "answer": "B",
+      "explanation": "(a)&nbsp;&nbsp;&nbsp;$${1 \\over {{C_{eq}}}} = {1 \\over 4} + {1 \\over 4} + {1 \\over 4} = {3 \\over 4}$$\n<br><br>$$ \\Rightarrow $$&nbsp;&nbsp;&nbsp;$${C_{eq}} = {4 \\over 3}\\,\\mu F$$\n<br><br>(b)&nbsp;&nbsp;&nbsp;$${C_{eq}} = {{4 \\times 4} \\over {4 + 4}} + 4 = 6\\mu F$$\n<br><br>(c)&nbsp;&nbsp;&nbsp;$${C_{eq}} = 4 + 4 + 4 = 12\\,\\mu F$$\n<br><br>(d)&nbsp;&nbsp;&nbsp;$${C_{eq}} = {{\\left( {4 + 4} \\right) \\times 4} \\over {\\left( {4 + 4} \\right) + 4}} = {8 \\over 3}\\mu F$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A parallel plate capacitor is made of two circular plates separated by a distance $$5$$ $$mm$$ and with a dielectric of dielectric constant $$2.2$$ between them. When the electric field in the dielectric is $$3 \\times {10^4}\\,V/m$$ the charge density of the positive plate will be close to: ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$6 \\times {10^{ - 7}}\\,\\,C/{m^2}$$ "
+        },
+        {
+          "key": "B",
+          "value": "$$3 \\times {10^{ - 7}}\\,\\,C/{m^2}$$ "
+        },
+        {
+          "key": "C",
+          "value": "$$3 \\times {10^4}\\,\\,C/{m^2}$$ "
+        },
+        {
+          "key": "D",
+          "value": "$$6 \\times {10^4}\\,\\,C/{m^2}$$ "
+        }
+      ],
+      "answer": "A",
+      "explanation": "Electric field in presence of dielectric between the two plates of a parallel plate capacitor is given by,\n<br><br>$$E = {\\sigma  \\over {K{\\varepsilon _0}}}$$\n<br><br>Then, charge density\n<br><br>$$\\sigma  = K{\\varepsilon _0}E$$\n<br><br>$$ = 2.2 \\times 8.85 \\times {10^{ - 12}} \\times 3 \\times {10^4} \\approx 6 \\times {10^{ - 7}}\\,\\,C/{m^2}$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Let $$C$$ be the capacitance of a capacitor discharging through a resistor $$R.$$ Suppose $${t_1}$$ is the time taken for the energy stored in the capacitor to reduce  to half its initial value and $${t_2}$$ is the time taken for the charge to reduce to one-fourth its initial value. Then the ratio $${t_1}/{t_2}$$ will be ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$1$$ "
+        },
+        {
+          "key": "B",
+          "value": "$${1 \\over 2}$$ "
+        },
+        {
+          "key": "C",
+          "value": "$${1 \\over 4}$$ "
+        },
+        {
+          "key": "D",
+          "value": "$$2$$ "
+        }
+      ],
+      "answer": "C",
+      "explanation": "Initial energy of capacitor, $${E_1} = {{q_1^2} \\over {2C}}$$\n<br><br>Final energy of capacitor, $${E_2} = {1 \\over 2}{E_1} = {{q_1^2} \\over {4C}} = {\\left( {{{{{{q_1}} \\over {\\sqrt 2 }}} \\over {2C}}} \\right)^2}$$\n<br><br>$$\\therefore$$ $${t_1}=$$  time for the charge to reduce to $${1 \\over {\\sqrt 2 }}$$ of its initial value \n<br><br>and $${t_2} = $$ time for the charge to reduce to $${1 \\over 4}$$ of its initial value\n<br><br>We have, $${q_2} = {q_1}{e^{ - t/CR}}$$\n<br><br>$$ \\Rightarrow \\ln \\left( {{{{q_2}} \\over {{q_1}}}} \\right) =  - {t \\over {CR}}$$ \n<br><br>$$\\therefore$$$$\\ln \\left( {{1 \\over {\\sqrt 2 }}} \\right) = {{ - {t_1}} \\over {CR}}...\\left( 1 \\right)$$\n<br><br>and $$\\ln \\left( {{1 \\over 4}} \\right) = {{ - {t_2}} \\over {CR}}\\,\\,...\\left( 2 \\right)$$\n<br><br>By $$(1)$$ and $$(2),$$ $${{{t_1}} \\over {{t_2}}} = {{\\ln \\left( {{1 \\over {\\sqrt 2 }}} \\right)} \\over {\\ln \\left( {{1 \\over 4}} \\right)}}$$\n<br><br>$$ = {1 \\over 2}{{\\ln \\left( {{1 \\over 2}} \\right)} \\over {2\\ln \\left( {{1 \\over 2}} \\right)}} = {1 \\over 4}$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A battery is used to charge a parallel plate capacitor till the potential difference between the plates becomes equal to the electromotive force of the battery. The ratio of the energy stored in the capacitor and the work done by the battery will be ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$1/2$$ "
+        },
+        {
+          "key": "B",
+          "value": "$$1$$ "
+        },
+        {
+          "key": "C",
+          "value": "$$2$$ "
+        },
+        {
+          "key": "D",
+          "value": "$$1/4$$ "
+        }
+      ],
+      "answer": "A",
+      "explanation": "Required ratio\n<br><br>$$ = {{Energy\\,\\,\\,stored\\,\\,in\\,\\,capacitor} \\over {Workdone\\,\\,by\\,\\,the\\,\\,battery}} = {{{1 \\over 2}C{V^2}} \\over {C{e^2}}}$$\n<br><br>where $$C=$$ Capacitance of capacitor\n<br><br>$$V=$$ Potential difference, \n<br><br>$$e=$$ $$emf$$ of battery\n<br><br>$$ = {{{1 \\over 2}C{e^2}} \\over {C{e^2}}} = {1 \\over 2}$$ \n<br><br>$$\\left( \\, \\right.$$ as  $$V=e$$ $$\\left. \\, \\right)$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A parallel plate condenser with a dielectric of dielectric constant $$K$$ between the plates has a capacity $$C$$ and is charged to a potential $$V$$ volt. The dielectric slab is slowly removed from between the plates and then reinserted. The net work done by the system in this process is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "zero "
+        },
+        {
+          "key": "B",
+          "value": "$${1 \\over 2}\\,\\left( {K - 1} \\right)\\,C{V^2}$$ "
+        },
+        {
+          "key": "C",
+          "value": "$${{C{V^2}\\left( {K - 1} \\right)} \\over K}$$ "
+        },
+        {
+          "key": "D",
+          "value": "$$\\left( {K - 1} \\right)\\,C{V^2}$$ "
+        }
+      ],
+      "answer": "A",
+      "explanation": "<p>First, let&#39;s consider the capacitor with the dielectric between its plates. The charge on the capacitor is Q, its capacitance is C (which includes the effect of the dielectric), and the potential difference (voltage) across its plates is V. According to the formula for the energy stored in a capacitor :</p>\n<p>$$U = \\frac{1}{2} CV^2$$</p>\n<p>we find that the energy is equal to half of the product of the capacitance and the square of the voltage.</p>\n<p>Now, consider the process where the dielectric slab is removed from the capacitor. When the dielectric is removed, the capacitance of the capacitor decreases. However, because the capacitor is not connected to anything that can supply or absorb charge, the charge Q on the capacitor stays the same. Since the charge stays the same but the capacitance decreases, the voltage V across the capacitor must increase to keep Q = CV true.</p>\n<p>The energy of the capacitor without the dielectric is still given by :</p>\n<p>$$U = \\frac{1}{2} CV^2$$</p>\n<p>but now C is smaller and V is larger. However, because both C and V<sup>2</sup> change in such a way that their product remains constant, the energy of the capacitor doesn&#39;t change when the dielectric is removed.</p>\n<p>Therefore, the energy of the capacitor before the dielectric is removed is the same as the energy of the capacitor after the dielectric is removed. When the dielectric is reinserted, the process is just reversed, so again no net work is done.</p>\n<p>So the total work done by the system in the process of removing the dielectric and then reinserting it is zero. This is because work is the transfer of energy, and in this case, the energy of the system (the charged capacitor) does not change. Therefore, no energy is transferred, so no work is done.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A parallel plate capacitor is made by stacking $$n$$ equally spaced plates connected alternatively. If the capacitance between any two adjacent plates is $$'C'$$ then the resultant capacitance is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$\\left( {n + 1} \\right)C$$ "
+        },
+        {
+          "key": "B",
+          "value": "$$\\left( {n - 1} \\right)C$$ "
+        },
+        {
+          "key": "C",
+          "value": "$$nC$$ "
+        },
+        {
+          "key": "D",
+          "value": "$$C$$ "
+        }
+      ],
+      "answer": "B",
+      "explanation": "As $$n$$ plates are joined,  it means $$(n-1)$$ capacitor joined in parallel.\n<br><br>$$\\therefore$$ resultant capacitance $$=(n-1)C$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A fully charged capacitor has a capacitance $$'C'$$. It is discharged through a small coil of resistance wire embedded in a thermally insulated block of specific heat capacity $$'s'$$ and mass $$'m'.$$ If the temperature of the block is raised by $$'\\Delta T',$$ the potential difference $$'v'$$ across the capacitance is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$${{mCAT} \\over s}$$ "
+        },
+        {
+          "key": "B",
+          "value": "$$\\sqrt {{{2mCAT} \\over s}} $$ "
+        },
+        {
+          "key": "C",
+          "value": "$$\\sqrt {{{2msAT} \\over C}} $$ "
+        },
+        {
+          "key": "D",
+          "value": "$${{ms\\Delta T} \\over C}$$ "
+        }
+      ],
+      "answer": "C",
+      "explanation": "Applying conservation of energy,\n<br><br>$${1 \\over 2}C{V^2} = m.s\\Delta T;\\,\\,\\,$$\n<br><br>$$V = \\sqrt {{{2m.s.\\Delta T} \\over C}} $$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A sheet of aluminium foil of negligible thickness is introduced between the plates of a capacitor. The capacitance of the capacitor ",
+      "options": [
+        {
+          "key": "A",
+          "value": "decreases "
+        },
+        {
+          "key": "B",
+          "value": "remains unchanged "
+        },
+        {
+          "key": "C",
+          "value": "becomes infinite "
+        },
+        {
+          "key": "D",
+          "value": "increases "
+        }
+      ],
+      "answer": "B",
+      "explanation": "The capacitancce of parallel plate capacitor in which a metal plate of thickness $$t$$ is inserted is given by\n<br><br>$$C = {{{\\varepsilon _0}A} \\over {d - t}}.\\,\\,\\,\\,\\,$$\n<br><br>Here $$t \\to 0\\,\\,\\,\\,\\,\\,$$ $$\\therefore$$ $$C = {{{\\varepsilon _0}A} \\over d}$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The work done in placing a charge of $$8 \\times {10^{ - 18}}$$ coulomb on a condenser of capacity $$100$$ micro-farad is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$16 \\times {10^{ - 32}}\\,\\,joule$$ "
+        },
+        {
+          "key": "B",
+          "value": "$$3.1 \\times {10^{ - 26}}\\,\\,joule$$"
+        },
+        {
+          "key": "C",
+          "value": "$$4 \\times {10^{ - 10}}\\,\\,joule$$"
+        },
+        {
+          "key": "D",
+          "value": "$$32 \\times {10^{ - 32}}\\,\\,joule$$"
+        }
+      ],
+      "answer": "D",
+      "explanation": "The work done is stored as the potential energy. The potential energy stored in a capacitor is given by \n<br><br>$$U = {1 \\over 2}{{{Q^2}} \\over C}$$\n<br><br>$$ = {1 \\over 2} \\times {{{{\\left( {8 \\times {{10}^{ - 18}}} \\right)}^2}} \\over {100 \\times {{10}^{ - 6}}}}$$\n<br><br>$$ = 32 \\times {10^{ - 32}}J$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "If there are $$n$$ capacitors in parallel connected to $$V$$ volt source, then the energy stored is equal to ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$CV$$ "
+        },
+        {
+          "key": "B",
+          "value": "$${1 \\over 2}nC{V^2}$$ "
+        },
+        {
+          "key": "C",
+          "value": "$$C{V^2}$$ "
+        },
+        {
+          "key": "D",
+          "value": "$${1 \\over {2n}}C{V^2}$$ "
+        }
+      ],
+      "answer": "B",
+      "explanation": "The equivalent capacitance of $$n$$ identical capacitors of capacitance $$C$$ is equal to $$nC.$$ Energy stored in this capacitor\n<br><br>$$E = {1 \\over 2}\\left( {nC} \\right){V^2} = {1 \\over 2}nC{V^2}$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Capacitance (in $$F$$) of a spherical conductor with radius $$1$$ $$m$$ is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$1.1 \\times {10^{ - 10}}$$ "
+        },
+        {
+          "key": "B",
+          "value": "$${10^{ - 6}}$$ "
+        },
+        {
+          "key": "C",
+          "value": "$$9 \\times {10^{ - 9}}$$ "
+        },
+        {
+          "key": "D",
+          "value": "$${10^{ - 3}}$$"
+        }
+      ],
+      "answer": "A",
+      "explanation": "For an isolated sphere, the capacitance is given by \n<br><br>$$C = 4\\pi \\,{ \\in _0}\\,r$$\n<br><br>$$ = {1 \\over {9 \\times {{10}^9}}} \\times 1$$\n<br><br>$$ = 1.1 \\times {10^{ - 10}}F$$"
+    }
+  ]
+}

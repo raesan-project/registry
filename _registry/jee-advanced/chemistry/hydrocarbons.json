@@ -1,0 +1,31 @@
+{
+  "_index": {
+    "name": "Hydrocarbons"
+  },
+  "_children": [
+    {
+      "_type": "single_mcq",
+      "body": "In allene (C<sub>3</sub>H<sub>4</sub>), the type(s) of hybridisation of the carbon atoms is (are):",
+      "options": [
+        {
+          "key": "A",
+          "value": "sp and sp<sup>3</sup>"
+        },
+        {
+          "key": "B",
+          "value": "sp and sp<sup>2</sup>"
+        },
+        {
+          "key": "C",
+          "value": "only sp<sup>3</sup>"
+        },
+        {
+          "key": "D",
+          "value": "sp<sup>2</sup> and sp<sup>3</sup>"
+        }
+      ],
+      "answer": "B",
+      "explanation": "The structure of allene is CH<sub>2</sub> = C = CH<sub>2</sub> . Here both the terminal carbons are sp<sup>2</sup> hybridised while the central carbon is sp hybridised."
+    }
+  ]
+}

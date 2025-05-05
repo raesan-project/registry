@@ -1,0 +1,319 @@
+{
+  "_index": {
+    "name": "Aldehydes, Ketones and Carboxylic Acids"
+  },
+  "_children": [
+    {
+      "_type": "single_mcq",
+      "body": "<p>Match List-I with List-II :</p>\n<p><style type=\"text/css\">\n.tg  {border-collapse:collapse;border-spacing:0;}\n.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg .tg-7btt{border-color:inherit;font-weight:bold;text-align:center;vertical-align:top}\n.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}\n</style>\n<table class=\"tg\">\n<thead>\n  <tr>\n    <th class=\"tg-7btt\"></th>\n    <th class=\"tg-7btt\">List-I<br>(Reaction)</th>\n    <th class=\"tg-7btt\"></th>\n    <th class=\"tg-7btt\">List-II<br>(Product formed)</th>\n  </tr>\n</thead>\n<tbody>\n  <tr>\n    <td class=\"tg-0pky\">(a)</td>\n    <td class=\"tg-0pky\">Gabriel synthesis</td>\n    <td class=\"tg-0pky\">(i)</td>\n    <td class=\"tg-0pky\">Benzaldehyde</td>\n  </tr>\n  <tr>\n    <td class=\"tg-0pky\">(b)</td>\n    <td class=\"tg-0pky\">Kolbe synthesis</td>\n    <td class=\"tg-0pky\">(ii)</td>\n    <td class=\"tg-0pky\">Ethers</td>\n  </tr>\n  <tr>\n    <td class=\"tg-0pky\">(c)</td>\n    <td class=\"tg-0pky\">Williamson synthesis</td>\n    <td class=\"tg-0pky\">(iii)</td>\n    <td class=\"tg-0pky\">Primary amines</td>\n  </tr>\n  <tr>\n    <td class=\"tg-0pky\">(d)</td>\n    <td class=\"tg-0pky\">Etard reaction</td>\n    <td class=\"tg-0pky\">(iv)</td>\n    <td class=\"tg-0pky\">Salicylic acid</td>\n  </tr>\n</tbody>\n</table></p>\n<p>Choose the correct answer from the options given below :</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "(a) - (iii), (b) - (iv), (c) - (ii), (d) - (i)"
+        },
+        {
+          "key": "B",
+          "value": "(a) - (iii), (b) - (i), (c) - (ii), (d) - (iv)"
+        },
+        {
+          "key": "C",
+          "value": "(a) - (ii), (b) - (iii), (c) - (i), (d) - (iv)"
+        },
+        {
+          "key": "D",
+          "value": "(a) - (iv), (b) - (iii), (c) - (i), (d) - (ii)"
+        }
+      ],
+      "answer": "A",
+      "explanation": "<p>$$\\bullet$$ Gabriel phthalimide synthesis is used for preparation of aliphatic primary amines.</p>\n<p>$$\\bullet$$ Kolbe synthesis with phenol gives salicylic acid</p>\n<p>$$\\bullet$$ Williamson synthesis gives ether on reaction of alkyl halide and alcoxide</p>\n<p>$$\\bullet$$ Etard reaction gives benzaldehyde from benzene</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Given below are two statements :</p>\n<p>Statement I : The boiling points of aldehydes and ketones are higher than hydrocarbons of comparable molecular masses because of weak molecular association in aldehydes and ketones due to dipole - dipole interactions.</p>\n<p>Statement II : The boiling points of aldehydes and ketones are lower than the alcohols of similar molecular masses due to the absence of H-bonding.</p>\n<p>In the light of the above statements, choose the most appropriate answer from the given below</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "Both Statement I and Statement II are correct"
+        },
+        {
+          "key": "B",
+          "value": "Both Statement I and Statement II are incorrect"
+        },
+        {
+          "key": "C",
+          "value": "Statement I is correct but Statement II is incorrect"
+        },
+        {
+          "key": "D",
+          "value": "Statement I is incorrect but Statement II is correct"
+        }
+      ],
+      "answer": "A",
+      "explanation": "<p>$$\\bullet$$ The boiling points of aldehydes and ketones are higher than hydrocarbons of comparable molecular masses due to weak molecular association in aldehydes and ketones arising out of the dipole - dipole interaction.</p>\n<p>$$\\bullet$$ Alcohols involved intermolecular hydrogen bonding, because of which the boiling point of aldehydes and ketones are lower than the alcohols of similar molecular masses.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Consider the reaction : \n<br>RCHO + NH<sub>2</sub>NH<sub>2</sub> $$ \\to $$ RCH $$=$$ N $$-$$ NH<sub>2</sub>\n<br><br>What sort of reaction is it?",
+      "options": [
+        {
+          "key": "A",
+          "value": "Electrophilic addition-elimination reaction"
+        },
+        {
+          "key": "B",
+          "value": "Free radical addition-elimination reaction"
+        },
+        {
+          "key": "C",
+          "value": "Electrophilic substitution-elimination reaction"
+        },
+        {
+          "key": "D",
+          "value": "Nucleophilic addition-elimination reaction"
+        }
+      ],
+      "answer": "D",
+      "explanation": "RCHO + NH<sub>2</sub>NH<sub>2</sub> $$ \\to $$ RCH $$=$$ N $$-$$ NH<sub>2</sub>\n<br><br>Such reactions take place in slightly acidic\nmedium and involve nucleophilic addition of the\nammonia derivative."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "CH<sub>3</sub>CHO  and  C<sub>6</sub>H<sub>5</sub>CH<sub>2</sub>CHO  can be distinguished chemically by",
+      "options": [
+        {
+          "key": "A",
+          "value": "Benedict's test"
+        },
+        {
+          "key": "B",
+          "value": "Iodoform test"
+        },
+        {
+          "key": "C",
+          "value": "Tollen's reagent test"
+        },
+        {
+          "key": "D",
+          "value": "Fehling's solution test"
+        }
+      ],
+      "answer": "B",
+      "explanation": "CH<sub>3</sub>CHO gives Iodoform test but\nC<sub>6</sub>H<sub>5</sub>CH<sub>2</sub>CHO does not give Iodoform test due\nto absence of methyl group."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Match the compounds given in List-I with List-II and select the suitable option using the code given below. \n<br><br><style type=\"text/css\">\n.tg  {border-collapse:collapse;border-spacing:0;}\n.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}\n.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}\n.tg .tg-pjk9{font-size:22px;text-align:left}\n.tg .tg-wv9z{font-size:22px;text-align:center}\n</style>\n<table class=\"tg\">\n  <tbody><tr>\n    <th class=\"tg-wv9z\" colspan=\"2\">List-I<br></th>\n    <th class=\"tg-wv9z\" colspan=\"2\">List-II<br></th>\n  </tr>\n  <tr>\n    <td class=\"tg-pjk9\">(A)</td>\n    <td class=\"tg-pjk9\">Benzaldehyde</td>\n    <td class=\"tg-pjk9\">(i)</td>\n    <td class=\"tg-pjk9\">Phenolphthalein</td>\n  </tr>\n  <tr>\n    <td class=\"tg-pjk9\">(B)</td>\n    <td class=\"tg-pjk9\">Phthalic anhydride</td>\n    <td class=\"tg-pjk9\">(ii)</td>\n    <td class=\"tg-pjk9\">Benzoin condensation</td>\n  </tr>\n  <tr>\n    <td class=\"tg-pjk9\">(C)</td>\n    <td class=\"tg-pjk9\">Phenyl benzoate</td>\n    <td class=\"tg-pjk9\">(iii)</td>\n    <td class=\"tg-pjk9\">Oil of wintergreen</td>\n  </tr>\n  <tr>\n    <td class=\"tg-pjk9\">(D)</td>\n    <td class=\"tg-pjk9\">Methyl salicylate</td>\n    <td class=\"tg-pjk9\">(iv)</td>\n    <td class=\"tg-pjk9\">Fries rearrangement</td>\n  </tr>\n</tbody></table>",
+      "options": [
+        {
+          "key": "A",
+          "value": "(A)-(iv),&nbsp;&nbsp;(B)-(i),&nbsp;&nbsp;(C)-(iii),&nbsp;&nbsp;(D)-(ii)"
+        },
+        {
+          "key": "B",
+          "value": "(A)-(iv),&nbsp;&nbsp;(B)-(ii),&nbsp;&nbsp;(C)-(iii),&nbsp;&nbsp;(D)-(i)"
+        },
+        {
+          "key": "C",
+          "value": "(A)-(ii),&nbsp;&nbsp;(B)-(iii),&nbsp;&nbsp;(C)-(iv),&nbsp;&nbsp;(D)-(i)"
+        },
+        {
+          "key": "D",
+          "value": "(A)-(ii),&nbsp;&nbsp;(B)-(i),&nbsp;&nbsp;(C)-(iv),&nbsp;&nbsp;(D)-(iii)"
+        }
+      ],
+      "answer": "D",
+      "explanation": "(A) Benzaldehyde &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(ii) Benzoin\ncondensation\n<br><br>(B) Phthalic anhydride &nbsp;&nbsp;&nbsp;(i) Phenolphthalein\n<br><br>(C) Phenyl benzoate &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(iv) Fries\nrearrangement\n<br><br>(D) methyl salicylate &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(iii) Oil of\nwintergreen"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Among the given compounds, the most susceptible to nucleophilic attack at the carbonyl group is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "CH<sub>3</sub>COOCH<sub>3</sub>"
+        },
+        {
+          "key": "B",
+          "value": "CH<sub>3</sub>CONH<sub>2</sub>"
+        },
+        {
+          "key": "C",
+          "value": "CH<sub>3</sub>COOCOCH<sub>3</sub>"
+        },
+        {
+          "key": "D",
+          "value": "CH<sub>3</sub>COCl"
+        }
+      ],
+      "answer": "D",
+      "explanation": "CH<sub>3</sub>COCl is most susceptible to\nnucleophilic attack. The susceptibility of a substrate\ntowards nucleophilic attack depends on how good\na leaving group is attached to it. Cl<sup>–</sup>\n is a weak base\nand therefore a good leaving group.\n"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The relative reactivities of acyl compounds towards nucleophilic substitution are in the order of",
+      "options": [
+        {
+          "key": "A",
+          "value": "Acid anhydride &gt; Amide &gt; Ester &gt; Acyl chloride"
+        },
+        {
+          "key": "B",
+          "value": "Acyl chloride &gt; Ester &gt; Acid anhydride &gt; Amide"
+        },
+        {
+          "key": "C",
+          "value": "Acyl chloride &gt; Acid anhydride &gt; Ester &gt; Amide"
+        },
+        {
+          "key": "D",
+          "value": "Ester &gt; Acyl chloride &gt; Amide &gt; Acid anhydride."
+        }
+      ],
+      "answer": "C",
+      "explanation": "The more the basic character of the leaving\ngroup, the lesser is the reactivity the basic\ncharacter follows the order\n<br><br>NH<sub>2</sub><sup>–</sup> &gt; OR<sup>–</sup> &gt; RCOO<sup>–</sup> &gt; Cl<sup>–</sup>\n<br><br>Hence, the relative reactivities of acyl\ncompounds towards nucleophilic substitution\nfollow the order \n<br><br>Acyl halides &gt; Acid anhydride\n&gt; Ester &gt; Amide."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A strong base can abstract an $$\\alpha $$-hydrogen from",
+      "options": [
+        {
+          "key": "A",
+          "value": "ketone"
+        },
+        {
+          "key": "B",
+          "value": "alkane"
+        },
+        {
+          "key": "C",
+          "value": "alkene"
+        },
+        {
+          "key": "D",
+          "value": "amine"
+        }
+      ],
+      "answer": "A",
+      "explanation": "As the carbonyl carbon is electron deficient so\nmost susceptible to attack by ncleophilic reagent or\nbase.\n<br><br>Thus $$\\alpha $$-hydrogen is the easily obstructed from\nketones by a base."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Which of the following represents the correct order of the acidity in the given compounds ? ",
+      "options": [
+        {
+          "key": "A",
+          "value": "FCH<sub>2</sub>COOH  &gt;  CH<sub>3</sub>COOH  &gt;  BrCH<sub>2</sub>COOH &gt; ClCH<sub>2</sub>COOH"
+        },
+        {
+          "key": "B",
+          "value": "BrCH<sub>2</sub>COOH &gt; ClCH<sub>2</sub>COOH &gt; FCH<sub>2</sub>COOH &gt; CH<sub>3</sub>COOH"
+        },
+        {
+          "key": "C",
+          "value": "FCH<sub>2</sub>COOH &gt; ClCH<sub>2</sub>COOH &gt; BrCH<sub>2</sub>COOH &gt; CH<sub>3</sub>COOH"
+        },
+        {
+          "key": "D",
+          "value": "CH<sub>3</sub>COOH &gt; BrCH<sub>2</sub>COOH &gt; ClCH<sub>2</sub>COOH &gt; FCH<sub>2</sub>COOH"
+        }
+      ],
+      "answer": "C",
+      "explanation": "Acidity decreases as the –I effect of the group\ndecreases, F is the most electronegative atom and\nhence it has highest –I effect among the halogens.\n<br><br>FCH<sub>2</sub>COOH &gt; ClCH<sub>2</sub>COOH &gt; BrCH<sub>2</sub>COOH &gt; CH<sub>3</sub>COOH"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The product formed in Aldol condensation is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "a beta-hydroxy aldehyde or a beta-hydroxy ketone"
+        },
+        {
+          "key": "B",
+          "value": "an alpha-hydroxy aldehyde or ketone "
+        },
+        {
+          "key": "C",
+          "value": "an alpha, beta unsaturated ester"
+        },
+        {
+          "key": "D",
+          "value": "a beta-hydroxy acid."
+        }
+      ],
+      "answer": "A",
+      "explanation": "The aldehydes or ketones containing $$\\alpha $$-H\natom in presence of dilute alkali undergo self\ncondensation reaction to form $$\\beta $$-hydroxyaldehyde\nor $$\\beta $$-hydroxyketone. This reaction is known as Aldol\ncondensation.\n"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The $$-$$ OH group of an alcohol or the $$-$$ COOH group of a carboxylic acid can be replaced by $$-$$ Cl using",
+      "options": [
+        {
+          "key": "A",
+          "value": "phosphorus pentachloride"
+        },
+        {
+          "key": "B",
+          "value": "hypochlorous acid"
+        },
+        {
+          "key": "C",
+          "value": "chlorine"
+        },
+        {
+          "key": "D",
+          "value": "hydrochloric acid"
+        }
+      ],
+      "answer": "A",
+      "explanation": "ROH + PCl<sub>5</sub> $$ \\to $$ RCl + POCl<sub>3</sub>\n + HCl\n<br><br>RCOOH + PCl<sub>5</sub> $$ \\to $$ RCOCl + POCl<sub>3</sub>\n + HCl\n"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Which of the following is incorrect?",
+      "options": [
+        {
+          "key": "A",
+          "value": "FeCl<sub>3</sub> is used in detection of phenol. "
+        },
+        {
+          "key": "B",
+          "value": "Fehling solution is used in detection of glucose"
+        },
+        {
+          "key": "C",
+          "value": "Tollen's reagent is used in detection of unsaturation. "
+        },
+        {
+          "key": "D",
+          "value": "NaHSO<sub>3</sub> is used in detection of carbonyl compound. "
+        }
+      ],
+      "answer": "C",
+      "explanation": "Tollen's reagent is used to detect aldehydic\ngroup. Tollen's reagent is an ammonical solution\nof silver nitrate. When aldehyde is added to\nTollen's reagent, silver oxide is reduced to metallic\nsilver which deposits as mirror.\n<br><br>RCHO + Ag<sub>2</sub>O $$ \\to $$ RCOOH + 2Ag"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Which of the following give positive Fehling solution test? ",
+      "options": [
+        {
+          "key": "A",
+          "value": "Sucrose"
+        },
+        {
+          "key": "B",
+          "value": "Glucose"
+        },
+        {
+          "key": "C",
+          "value": "Fats"
+        },
+        {
+          "key": "D",
+          "value": "Protein"
+        }
+      ],
+      "answer": "B",
+      "explanation": "Glucose reduces Fehling solution because\nglucose has free –CHO group which is readily\noxidised.\n"
+    }
+  ]
+}

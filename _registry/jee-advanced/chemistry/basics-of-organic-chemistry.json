@@ -1,0 +1,61 @@
+{
+  "_index": {
+    "name": "Basics of Organic Chemistry"
+  },
+  "_children": [
+    {
+      "_type": "single_mcq",
+      "body": "<p>Hyperconjugation involves overlapping of the following orbitals:</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$\\sigma-\\sigma$$"
+        },
+        {
+          "key": "B",
+          "value": "$$\\sigma-p$$"
+        },
+        {
+          "key": "C",
+          "value": "$$p-p$$"
+        },
+        {
+          "key": "D",
+          "value": "$$\\pi-\\pi$$"
+        }
+      ],
+      "answer": "B",
+      "explanation": "<p>Hyperconjugation effect is one of the type of permanent effect in which delocalisation of $$\\sigma$$ electrons of C-H bond of an alkyl group directly attached to an atom of the unsaturated system or to an atom with an unshared p orbital. The main role of hyperconjugation is to stabilise the carbocation because it helps in the dispersal of positive charge. Higher the number of alkyl groups attached to a positively charged carbon atom, greater is the hyperconjugative effect and stability of carbonation. It generally involves the interaction of electrons in a C-H sigma orbital with nearby non-bonding p or anti-bonding $$\\sigma^*$$ or $$\\pi^*$$ orbitals to provide extended conjugation which further increases the stability of the carbocation. Sometimes, low lying anti-bonding $$\\sigma^*$$ also interact with filled orbitals of lone pair character. This type of conjugation is termed as negative hyperconjugation.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The hybridization of carbon atoms in C-C single bond of HC $$ \\equiv $$ C - CH = CH<sub>2</sub> is",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$sp^3 - sp^3$$"
+        },
+        {
+          "key": "B",
+          "value": "$$sp^2 - sp^3$$"
+        },
+        {
+          "key": "C",
+          "value": "$$sp - sp^2$$"
+        },
+        {
+          "key": "D",
+          "value": "$$sp^3 - sp$$"
+        }
+      ],
+      "answer": "C",
+      "explanation": ""
+    },
+    {
+      "_type": "numerical",
+      "body": "The total number of cyclic isomers possible for a hydrocarbon with the molecular formula C<sub>4</sub>H<sub>6</sub> is",
+      "answer": "5",
+      "explanation": ""
+    }
+  ]
+}

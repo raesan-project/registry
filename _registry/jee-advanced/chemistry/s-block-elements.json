@@ -1,0 +1,373 @@
+{
+  "_index": {
+    "name": "s-Block Elements"
+  },
+  "_children": [
+    {
+      "_type": "numerical",
+      "body": "<p>Reaction of Br<sub>2</sub> with Na<sub>2</sub>CO<sub>3</sub> in aqueous solution gives sodium bromide and sodium bromate with evolution of CO<sub>2</sub> gas. The number of sodium bromide molecules involved in the balanced chemical equation is ________.</p>",
+      "answer": "5",
+      "explanation": "<p>The balanced chemical equation is</p>\n<p>3Na<sub>2</sub>CO<sub>3</sub> + 3Br<sub>2</sub> $$\\to$$ 5NaBr + NaBrO<sub>3</sub> + 3CO<sub>2</sub></p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Aqueous solutions of Na$$_2$$S$$_2$$O$$_3$$ on reaction with Cl$$_2$$ gives:</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "Na$$_2$$S$$_4$$O$$_6$$"
+        },
+        {
+          "key": "B",
+          "value": "NaHSO$$_4$$"
+        },
+        {
+          "key": "C",
+          "value": "NaCl"
+        },
+        {
+          "key": "D",
+          "value": "NaOH"
+        }
+      ],
+      "answer": "B",
+      "explanation": "<p>The product formed the reaction is used for chlorination of water bodies. The compound Na$$_2$$S$$_2$$O$$_3$$ gets oxidised by chlorine to form NaHSO$$_3$$. The balanced chemical reaction is,</p>\n<p>Na$$_2$$S$$_2$$O$$_3$$ + 4Cl$$_2$$ + 5H$$_2$$O $$\\to$$ 2NaHSO$$_4$$ + 8HCl</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The question contains STATEMENT - 1 (Assertion) and STATEMENT - 2 (Reason) and has 4 choices (a), (b), (c) and (d) out of which ONLY ONE is correct.<br>\n<b>STATEMENT - 1</b> Alkali metals dissolve in liquid ammonia to give blue solutions. because<br>\n<b>STATEMENT - 2</b> Alkali metals is liquid ammonia give solvated species of the type [M(NH<sub>3</sub>)<sub>n</sub>]<sup>+</sup> (M =  alkali metals)",
+      "options": [
+        {
+          "key": "A",
+          "value": "Statement - 1 is true and Statement - 2 is true; Statement - 2 is a correct explanation for Statement - 1"
+        },
+        {
+          "key": "B",
+          "value": "Statement - 1 is true and Statement - 2 is true; Statement - 2 is not a correct explanation for Statement - 1"
+        },
+        {
+          "key": "C",
+          "value": "Statement - 1 is True, Statement - 2 is False"
+        },
+        {
+          "key": "D",
+          "value": "Statement - 1 is False, Statement - 2 is True"
+        }
+      ],
+      "answer": "B",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A sodium salt on treatment with MgCl<sub>3</sub> gives white precipitate only on heating. The anion of the sodium salt is",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$HCO_3^-$$"
+        },
+        {
+          "key": "B",
+          "value": "$$CO_3^{2-}$$"
+        },
+        {
+          "key": "C",
+          "value": "$$NO_3^{-}$$"
+        },
+        {
+          "key": "D",
+          "value": "$$SO_4^{2-}$$"
+        }
+      ],
+      "answer": "A",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The set representing the correct order of  first ionization potential is",
+      "options": [
+        {
+          "key": "A",
+          "value": "K &gt; Na &gt; Li"
+        },
+        {
+          "key": "B",
+          "value": "Be &gt; Mg &gt; Ca"
+        },
+        {
+          "key": "C",
+          "value": "B &gt; C &gt; N"
+        },
+        {
+          "key": "D",
+          "value": "Ge &gt; Si &gt; C"
+        }
+      ],
+      "answer": "B",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The following compounds have been arranged in order of their increasing thermal stabilities. Identify the correct order<br>\nK<sub>2</sub>CO<sub>3</sub> (A), MgCO<sub>3</sub> (B), CaCO<sub>3</sub> (C), BeCO<sub>3</sub> (D)",
+      "options": [
+        {
+          "key": "A",
+          "value": "A &lt; B &lt; C &lt; D"
+        },
+        {
+          "key": "B",
+          "value": "D &lt; B &lt; C &lt; A"
+        },
+        {
+          "key": "C",
+          "value": "D &lt; B &lt; A &lt; C"
+        },
+        {
+          "key": "D",
+          "value": "B &lt; D &lt; C &lt; A"
+        }
+      ],
+      "answer": "B",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<b>Statement (S)</b> The alkali metals can form ionic hydrides which contain the hydride ion H<sup>-</sup>.<br>\n<b>Explanation (E)</b> The alkali metals have low electronegativity; their hydrides conduct electricity when fused and liberate hydrogen at the anode.",
+      "options": [
+        {
+          "key": "A",
+          "value": "Both S and E are true and E is the correct explanation of S"
+        },
+        {
+          "key": "B",
+          "value": "Both S and E are true but E is not the correct explanation of S"
+        },
+        {
+          "key": "C",
+          "value": "S is true but E is false"
+        },
+        {
+          "key": "D",
+          "value": "S is false but E is true"
+        }
+      ],
+      "answer": "A",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The metallic lustre exhibited by sodium is explained by",
+      "options": [
+        {
+          "key": "A",
+          "value": "diffusion of sodium ions"
+        },
+        {
+          "key": "B",
+          "value": "oscillation of loose electrons"
+        },
+        {
+          "key": "C",
+          "value": "excitation of free protons"
+        },
+        {
+          "key": "D",
+          "value": "existence of body centered cubic lattice"
+        }
+      ],
+      "answer": "B",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The pair of compound which cannot exist together in solution is:",
+      "options": [
+        {
+          "key": "A",
+          "value": "NaHCO<sub>3</sub> and NaOH"
+        },
+        {
+          "key": "B",
+          "value": "Na<sub>2</sub>CO<sub>3</sub> and NaHCO<sub>3</sub>"
+        },
+        {
+          "key": "C",
+          "value": "Na<sub>2</sub>CO<sub>3</sub> and NaOH"
+        },
+        {
+          "key": "D",
+          "value": "NaHCO<sub>3</sub> and NaCl"
+        }
+      ],
+      "answer": "A",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Molecular formula of Glauber's salt is:",
+      "options": [
+        {
+          "key": "A",
+          "value": "MgSO<sub>4</sub>.7H<sub>2</sub>O"
+        },
+        {
+          "key": "B",
+          "value": "CuSO<sub>4</sub>.5H<sub>2</sub>O"
+        },
+        {
+          "key": "C",
+          "value": "FeSO<sub>4</sub>.7H<sub>2</sub>O"
+        },
+        {
+          "key": "D",
+          "value": "Na<sub>2</sub>SO<sub>4</sub>.10H<sub>2</sub>O"
+        }
+      ],
+      "answer": "D",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The oxide that gives hydrogen peroxide on treatment with a dilute acid is",
+      "options": [
+        {
+          "key": "A",
+          "value": "PbO<sub>2</sub>"
+        },
+        {
+          "key": "B",
+          "value": "Na<sub>2</sub>O<sub>2</sub>"
+        },
+        {
+          "key": "C",
+          "value": "MnO<sub>2</sub>"
+        },
+        {
+          "key": "D",
+          "value": "TiO<sub>2</sub>"
+        }
+      ],
+      "answer": "B",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The hydration energy of Mg<sup>++</sup> is larger than that of:",
+      "options": [
+        {
+          "key": "A",
+          "value": "Al<sup>3+</sup>"
+        },
+        {
+          "key": "B",
+          "value": "Na<sup>+</sup>"
+        },
+        {
+          "key": "C",
+          "value": "Be<sup>++</sup>"
+        },
+        {
+          "key": "D",
+          "value": "Mg<sup>3+</sup>"
+        }
+      ],
+      "answer": "B",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A solution of sodium metal in liquid ammonia is strongly reducing due to the presence of",
+      "options": [
+        {
+          "key": "A",
+          "value": "sodium atoms"
+        },
+        {
+          "key": "B",
+          "value": "sodium hydride"
+        },
+        {
+          "key": "C",
+          "value": "sodium amide"
+        },
+        {
+          "key": "D",
+          "value": "solvated electrons"
+        }
+      ],
+      "answer": "D",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Calcium is obtained by",
+      "options": [
+        {
+          "key": "A",
+          "value": "electrolysis of molten CaCl<sub>2</sub>"
+        },
+        {
+          "key": "B",
+          "value": "electrolysis of solution CaCl<sub>2</sub> in water"
+        },
+        {
+          "key": "C",
+          "value": "Reduction of CaCl<sub>2</sub> with carbon"
+        },
+        {
+          "key": "D",
+          "value": "roasting of limestone"
+        }
+      ],
+      "answer": "A",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "HCL is added to the following oxides. Which one would give H<sub>2</sub>O<sub>2</sub>?",
+      "options": [
+        {
+          "key": "A",
+          "value": "MnO<sub>2</sub>"
+        },
+        {
+          "key": "B",
+          "value": "PbO<sub>2</sub>"
+        },
+        {
+          "key": "C",
+          "value": "BaO<sub>2</sub>.8H<sub>2</sub>O"
+        },
+        {
+          "key": "D",
+          "value": "NO<sub>2</sub>"
+        }
+      ],
+      "answer": "C",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The substance absorbs CO<sub>2</sub> and violently reacts with water. The substance is",
+      "options": [
+        {
+          "key": "A",
+          "value": "CaCO<sub>3</sub>"
+        },
+        {
+          "key": "B",
+          "value": "CaO"
+        },
+        {
+          "key": "C",
+          "value": "H<sub>2</sub>SO<sub>4</sub>"
+        },
+        {
+          "key": "D",
+          "value": "ZnO"
+        }
+      ],
+      "answer": "B",
+      "explanation": "<p>The correct answer to the question is Option B: CaO.</p>\n\n<p>Let's break down the reasoning:</p>\n\n<p><strong>CaO</strong> (Calcium oxide), also known as quicklime, vigorously reacts with water to form calcium hydroxide (Ca(OH)<sub>2</sub>) and releases a significant amount of heat. This reaction is known as slaking of lime and can be represented as:</p>\n\n<p>$$ \\text{CaO} + \\text{H}_2\\text{O} \\rightarrow \\text{Ca(OH)}_2 $$</p>\n\n<p>Additionally, calcium oxide has a strong affinity for carbon dioxide (CO<sub>2</sub>). It absorbs CO<sub>2</sub> from the air to form calcium carbonate (CaCO<sub>3</sub>) through the following reaction:</p>\n\n<p>$$ \\text{CaO} + \\text{CO}_2 \\rightarrow \\text{CaCO}_3 $$</p>\n\n<p>Thus, CaO fulfills both conditions: it absorbs CO<sub>2</sub> and reacts violently with water. The other substances listed do not meet these criteria:</p>\n\n<p><strong>CaCO<sub>3</sub>:</strong> Calcium carbonate reacts with acids but does not react violently with water and does not absorb CO<sub>2</sub>.</p>\n\n<p><strong>H<sub>2</sub>SO<sub>4</sub>:</strong> Sulfuric acid is a liquid that reacts vigorously with water (specifically, dilution of concentrated sulfuric acid is exothermic), but it does not absorb CO<sub>2</sub>.</p>\n\n<p><strong>ZnO:</strong> Zinc oxide is an amphoteric oxide that does not react violently with water and does not absorb CO<sub>2</sub>.</p>\n\n<p>Therefore, the most appropriate answer is:</p>\n\n<p><strong>Option B</strong>: CaO</p>"
+    }
+  ]
+}

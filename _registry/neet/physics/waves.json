@@ -1,0 +1,1231 @@
+{
+  "_index": {
+    "name": "Waves"
+  },
+  "_children": [
+    {
+      "_type": "single_mcq",
+      "body": "<p>The displacement of a travelling wave $$y=C \\sin \\frac{2 \\pi}{\\lambda}$$ (at $$-x$$) where $$t$$ is time, $$x$$ is distance and $$\\lambda$$ is the wavelength, all in S.I. units. Then the frequency of the wave is</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$\\frac{2 \\pi \\lambda}{a}$$\n"
+        },
+        {
+          "key": "B",
+          "value": "$$\\frac{2 \\pi a}{\\lambda}$$\n"
+        },
+        {
+          "key": "C",
+          "value": "$$\\frac{\\lambda}{a}$$\n"
+        },
+        {
+          "key": "D",
+          "value": "$$\\frac{a}{\\lambda}$$\n"
+        }
+      ],
+      "answer": "D",
+      "explanation": "<p>To find the frequency of the wave, we need to start by analyzing the given displacement equation of the wave:</p>\n\n<p>$$y = C \\sin \\left( \\frac{2 \\pi}{\\lambda} (at - x) \\right)$$</p>\n\n<p>Where:</p>\n\n<ul>\n\n<li>$$y$$ is the displacement of the wave</li>\n\n<li>$$C$$ is the amplitude</li>\n\n<li>$$\\frac{2 \\pi}{\\lambda}$$ is the wave number (denoting how many wavelengths fit into a unit length)</li>\n\n<li>$$\\lambda$$ is the wavelength</li>\n\n<li>$$a$$ is some constant (likely representing the speed of the wave)</li>\n\n<li>$$t$$ is time</li>\n\n<li>$$x$$ is the distance</li>\n\n</ul>\n\n<p>By comparing with the standard form of a travelling wave, we have:</p>\n\n<p>$$y = C \\sin \\left( k (at - x) \\right)$$</p>\n\n<p>Where $$k$$ is the wave number:</p>\n\n<p>$$k = \\frac{2 \\pi}{\\lambda}$$</p>\n\n<p>From the standard wave equation, the argument of the sine function is usually written as:</p>\n\n<p>$$k (at - x)$$</p>\n\n<p>This implies that $$ka$$ in the wave equation represents the angular frequency $$\\omega$$ of the wave:</p>\n\n<p>$$\\omega = k a$$</p>\n\n<p>Substituting $$k = \\frac{2 \\pi}{\\lambda}$$ into $$\\omega$$:</p>\n\n<p>$$\\omega = \\left( \\frac{2 \\pi}{\\lambda} \\right) a = \\frac{2 \\pi a}{\\lambda}$$</p>\n\n<p>Angular frequency $$\\omega$$ is related to the frequency $$f$$ by:</p>\n\n<p>$$\\omega = 2 \\pi f$$</p>\n\n<p>So:</p>\n\n<p>$$2 \\pi f = \\frac{2 \\pi a}{\\lambda}$$</p>\n\n<p>Solving for the frequency $$f$$:</p>\n\n<p>$$f = \\frac{a}{\\lambda}$$</p>\n\n<p>Therefore, the correct answer is:</p>\n\n<p>Option D: $$\\frac{a}{\\lambda}$$</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>The $$4^{\\text {th }}$$ overtone of a closed organ pipe is same as that of $$3^{\\text {rd }}$$ overtone of an open pipe. The ratio of the length of the closed pipe to the length of the open pipe is :</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "8 : 9"
+        },
+        {
+          "key": "B",
+          "value": "9 : 7"
+        },
+        {
+          "key": "C",
+          "value": "9 : 8"
+        },
+        {
+          "key": "D",
+          "value": "7 : 9"
+        }
+      ],
+      "answer": "C",
+      "explanation": "<p>$$\\begin{aligned}\n& \\mathrm{n}_{\\text {oop }}=(2 \\mathrm{M}+1)^{\\text {th }} \\text { Har. }=(2 \\times 4+1) \\times \\frac{\\mathrm{V}}{4 \\ell_{\\mathrm{c}}}=\\frac{9 \\mathrm{~V}}{4 \\ell_{\\mathrm{c}}} \\\\\n& \\mathrm{n}_{\\text {oop }}=(\\mathrm{M}+1)^{\\text {th }} \\text { Har. }=(3+1) \\frac{\\mathrm{V}}{2 \\ell_0}=\\frac{4 \\mathrm{~V}}{2 \\ell_0} \\\\\n& \\text { now } \\frac{9 \\mathrm{~V}}{4 \\ell_{\\mathrm{c}}}=\\frac{4 \\mathrm{~V}}{2 \\ell_0} \\\\\n& \\frac{\\ell_{\\mathrm{c}}}{\\ell_0}=\\frac{18}{16}=\\frac{9}{8}\n\\end{aligned}\n$$</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>The ratio of frequencies of fundamental harmonic produced by an open pipe to that of closed pipe having the same length is</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$2: 1$$"
+        },
+        {
+          "key": "B",
+          "value": "$$1: 3$$"
+        },
+        {
+          "key": "C",
+          "value": "$$3: 1$$"
+        },
+        {
+          "key": "D",
+          "value": "$$1: 2$$"
+        }
+      ],
+      "answer": "A",
+      "explanation": "<p>The fundamental frequency of an open pipe, <i>n<sub>oop</sub></i>, is given by <i>V / (2L)</i>, where <i>V</i> is the speed of sound and <i>L</i> is the length of the pipe.<br/><br/> For a closed pipe of the same length, the fundamental frequency, <i>n<sub>cop</sub></i>, is <i>V / (4L)</i> since only half as many wavelengths fit into the same length due to the closed end. <br/><br/>Therefore, the ratio of frequencies of an open pipe to a closed pipe is:</p>\n<p>$$\\frac{n_{\\text{oop}}}{n_{\\text{cop}}} = \\frac{V / (2L)}{V / (4L)} = \\frac{4L}{2L} = 2:1$$</p>\n<p>This shows that the fundamental frequency of an open pipe is twice that of a closed pipe of the same length.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>An organ pipe filled with a gas at 27$$^\\circ$$C resonates at 400 Hz in its fundamental mode. If it is filled with the same gas at 90$$^\\circ$$C, the resonance frequency at the same mode will be</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "512 Hz"
+        },
+        {
+          "key": "B",
+          "value": "420 Hz"
+        },
+        {
+          "key": "C",
+          "value": "440 Hz"
+        },
+        {
+          "key": "D",
+          "value": "484 Hz"
+        }
+      ],
+      "answer": "C",
+      "explanation": "<p>$${f_0} = {v \\over {2L}} = {{\\sqrt {{{\\gamma RT} \\over M}} } \\over {2L}}$$</p>\n<p>$${{{f_{{0_1}}}} \\over {{f_{{0_2}}}}} = \\sqrt {{{{T_1}} \\over {{T_2}}}}  = \\sqrt {{{300} \\over {363}}}  = {1 \\over {1.1}}$$</p>\n<p>$${f_{{0_2}}} = 1\\,.\\,1{f_{{0_1}}} = 1\\,.\\,1(400)$$</p>\n<p>$$ = 440$$ Hz</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>If the initial tension on a stretched string is doubled, then the ratio of the initial and final speeds of a transverse wave along the string is</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "1 : 1"
+        },
+        {
+          "key": "B",
+          "value": "$$\\sqrt2$$ : 1"
+        },
+        {
+          "key": "C",
+          "value": "1 : $$\\sqrt2$$"
+        },
+        {
+          "key": "D",
+          "value": "1 : 2"
+        }
+      ],
+      "answer": "C",
+      "explanation": "<p>We know, velocity of transverse wave</p>\n<p>$$v = \\sqrt {{T \\over \\mu }} $$</p>\n<p>$$\\therefore$$ $${v_i} = \\sqrt {{T \\over \\mu }} $$ and $${v_f} = \\sqrt {{{2T} \\over \\mu }} $$</p>\n<p>$$\\therefore$$ $${{{v_i}} \\over {{v_f}}} = {1 \\over {\\sqrt 2 }}$$</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "In a guitar, two strings A and B made of same material are slightly out of tune and produce beats of frequency 6 Hz. When tension in B is slightly decreased, the beat frequency of A is 530 Hz, the original freqnency of B will be :",
+      "options": [
+        {
+          "key": "A",
+          "value": "524 Hz"
+        },
+        {
+          "key": "B",
+          "value": "536 Hz"
+        },
+        {
+          "key": "C",
+          "value": "537 Hz"
+        },
+        {
+          "key": "D",
+          "value": "523 Hz"
+        }
+      ],
+      "answer": "A",
+      "explanation": "Difference of $${f _A} &gt; {f _B}$$\n<br><br>$${f_A} - {f_B}$$\n= 6 Hz<br><br>$${f_A}$$\n = 530 Hz<br><br>$${f_B}$$ = 524 Hz (original)\n\n"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The fundamental frequency in an open organ\npipe is equal to the third harmonic of a closed\norgan pipe. If the length of the closed organ\npipe is 20 cm, the length of the open organ\npipe is",
+      "options": [
+        {
+          "key": "A",
+          "value": "13.2 cm"
+        },
+        {
+          "key": "B",
+          "value": "8 cm"
+        },
+        {
+          "key": "C",
+          "value": "12.5 cm"
+        },
+        {
+          "key": "D",
+          "value": "16 cm"
+        }
+      ],
+      "answer": "A",
+      "explanation": "For closed organ pipe, third harmonic\n<br><br>n = $${{\\left( {2N - 1} \\right)V} \\over {4l}} = {{3V} \\over {4l}}$$ ($$ \\because $$ N = 2 )\n<br><br>For open organ pipe, fundamental\nfrequenty\n<br><br>n = $${{NV} \\over {2l}} = {V \\over {2l'}}$$ ($$ \\because $$ N = 1 )\n<br><br>Given, third harmonic for closed organ pipe\n= fundamental frequency for open organ pipe.\n<br><br>$$ \\therefore $$ $${{3V} \\over {4l}} = {V \\over {2l'}}$$\n<br><br>$$ \\Rightarrow $$ <i>l'</i> = $${{4l} \\over {3 \\times 2}}$$ = $${{2l} \\over 3}$$ = $${{2 \\times 20} \\over 3}$$ = 13.33 cm"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A tuning fork is used to produce resonance in\na glass tube. The length of the air column in\nthis tube can be adjusted by a variable piston.\nAt room temperature of 27°C two successive\nresonances are produced at 20 cm and 73 cm\nof column length. If the frequency of the tuning\nfork is 320 Hz, the velocity of sound in air at\n27°C is",
+      "options": [
+        {
+          "key": "A",
+          "value": "330 m s<sup>–1</sup>"
+        },
+        {
+          "key": "B",
+          "value": "339 m s<sup>–1</sup>"
+        },
+        {
+          "key": "C",
+          "value": "350 m s<sup>–1</sup>"
+        },
+        {
+          "key": "D",
+          "value": "300 m s<sup>–1</sup>"
+        }
+      ],
+      "answer": "B",
+      "explanation": "Two successive resonance are produced\nat 20 cm and 73 cm of column length\n<br><br>$$ \\therefore $$ $${\\lambda  \\over 2}$$ = (73 - 20) $$ \\times $$ 10<sup>-2</sup> m\n<br><br>$$ \\Rightarrow $$ $$\\lambda $$ = 2$$ \\times $$ (73 - 20) $$ \\times $$ 10<sup>-2</sup> m\n<br><br>Velocity of sound, v = n$$\\lambda $$\n<br><br>= 2 $$ \\times $$ 320 $$ \\times $$(73 - 20) $$ \\times $$ 10<sup>-2</sup> m\n<br><br>= 339 m/s"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Two cars moving in opposite directions approach each other with speed of 22 m <sup>s$$-$$1</sup> and 16.5 m s<sup>$$-$$1</sup> respectively. The driver of the first car blows a horn having a frequency 400 Hz. The frequency heard by the driver of the second car is (velocity of sound is 340 m s<sup>$$-$$1</sup>)",
+      "options": [
+        {
+          "key": "A",
+          "value": "361 Hz"
+        },
+        {
+          "key": "B",
+          "value": "411 Hz"
+        },
+        {
+          "key": "C",
+          "value": "448 Hz"
+        },
+        {
+          "key": "D",
+          "value": "350 Hz"
+        }
+      ],
+      "answer": "C",
+      "explanation": "As we known from Doppler's Effect <br><br>\n$${f_{apprent}} = {f_0}\\left[ {{{v + {v_0}} \\over {v - {v_s}}}} \\right] = 400\\left[ {{{340 + 16.5} \\over {340 - 22}}} \\right]$$<br><br>\n$$ \\therefore $$ f<sub>apprent</sub> = 448 Hz "
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The two nearest harmonics of a tube closed at one end and open at other end are 220 Hz and 260 Hz. What is the fundamental frequency of the system ?",
+      "options": [
+        {
+          "key": "A",
+          "value": "20 Hz"
+        },
+        {
+          "key": "B",
+          "value": "30 Hz"
+        },
+        {
+          "key": "C",
+          "value": "40 Hz"
+        },
+        {
+          "key": "D",
+          "value": "10 Hz"
+        }
+      ],
+      "answer": "A",
+      "explanation": "The difference of frequencies of closed pipe <br>\n$${{2v} \\over {4l}} = 260 - 220 = 40\\,Hz$$<br><br>\nSo, the fundamental frequency $$f' = {v \\over {4l}} = 20\\,Hz$$\n "
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Three sound waves  of equal amplitudes have frequencies (n $$-$$ 1), n, (n + 1). They superimpose to give beats. The number of beats produced per second  will be ",
+      "options": [
+        {
+          "key": "A",
+          "value": "1"
+        },
+        {
+          "key": "B",
+          "value": "4"
+        },
+        {
+          "key": "C",
+          "value": "3"
+        },
+        {
+          "key": "D",
+          "value": "2"
+        }
+      ],
+      "answer": "D",
+      "explanation": "(n – 1) and (n + 1) suppose to form frequency n<br><br> n and n will be at resonance<br><br> n – 1 and n produce 1 beat<br><br> n + 1 and n produce 1 beat<br><br>$$ \\therefore $$ Number of beats formed are ‘2’"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The second overtone of an open organ pipe has the same frquency as the first overtone of a closed pipe L metre long. The length of the open pipe will  be",
+      "options": [
+        {
+          "key": "A",
+          "value": "L"
+        },
+        {
+          "key": "B",
+          "value": "2L"
+        },
+        {
+          "key": "C",
+          "value": "$${L \\over 2}$$"
+        },
+        {
+          "key": "D",
+          "value": "4L"
+        }
+      ],
+      "answer": "B",
+      "explanation": "Second overtone of an open organ pipe <br><br>\n(Third harmonic)  $$ = 3 \\times v{'_0} = 3 \\times {v \\over {2L'}}$$<br><br>\nFirst overtone of a closed organ pipe <br><br>\n(Third harmonic) $$ = 3 \\times {v_0} = 3 \\times {v \\over {4L}}$$<br><br>\nAccording to question,\n<br>\n$$3v{'_0} = 3{v_0} \\Rightarrow 3 \\times {v \\over {2L'}} = 3 \\times {v \\over {4L}}$$<br><br>\n$$ \\therefore $$ L' = 2L\n"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The fundamental frequency of a closed organ pipe of length 20 cm is equal to the second overtone of an organ pipe open at both the ends. The length of organ pipe open at both the ends is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "120 cm"
+        },
+        {
+          "key": "B",
+          "value": "140 cm"
+        },
+        {
+          "key": "C",
+          "value": "80 cm"
+        },
+        {
+          "key": "D",
+          "value": "100 cm"
+        }
+      ],
+      "answer": "A",
+      "explanation": "Fundamental frequency of closed organ pipe<br><br>\n$${V_c} = {V \\over {4{l_c}}}$$<br><br>\nFundamental frequency of open organ pipe\n<br><br>$${V_0} = {V \\over {2{l_0}}}$$<br><br>\nSecond overtone frequency of open organ pipe\n<br><br>$$ = {{3V} \\over {2{l_0}}}$$<br><br>\n$${V \\over {4{l_c}}} = {{3V} \\over {2{l_0}}}$$<br><br>\n$$ \\Rightarrow {l_0} = 6{l_c} = 6 \\times 20 = 120$$ cm \n"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "4.0 g of a gas occupies 22.4 litres at NTP. The specific heat capacity of the gas at constant volume is 5.0 J K<sup>$$-$$1</sup> mol<sup>$$-$$1</sup>. If the speed of sound in this gas at NTP  is 952 m s<sup>$$-$$1</sup>, then the heat capacity at constant pressure is \n<br>(Take gas constant R $$=$$ 8.3 J K<sup>$$-$$1</sup> mol<sup>$$-$$1</sup>)",
+      "options": [
+        {
+          "key": "A",
+          "value": "7.0 J K<sup>$$-$$1</sup> mol<sup>$$-$$1</sup>"
+        },
+        {
+          "key": "B",
+          "value": "8.5 J K<sup>$$-$$1</sup> mol<sup>$$-$$1</sup>"
+        },
+        {
+          "key": "C",
+          "value": "8.0 J K<sup>$$-$$1</sup> mol<sup>$$-$$1</sup>"
+        },
+        {
+          "key": "D",
+          "value": "7.5 J K<sup>$$-$$1</sup> mol<sup>$$-$$1</sup>"
+        }
+      ],
+      "answer": "C",
+      "explanation": "Molar mass of the gas = 4g/mol<br> Speed of sound<br><br>\n $$V = \\sqrt {{{\\gamma RT} \\over m}}  \\Rightarrow 952 = \\sqrt {{{\\gamma  \\times 3.3 \\times 273} \\over {4 \\times {{10}^{ - 3}}}}} $$<br><br>\n$$ \\Rightarrow \\gamma  = 1.6 = {{16} \\over {10}} = {8 \\over 5}$$<br><br>\nAlso, $$\\gamma  = {{{C_P}} \\over {{C_V}}} = {8 \\over 5}$$<br><br>\n$$ \\Rightarrow {C_P} = {{8 \\times 5} \\over 5} = 8\\,J{K^{ - 1}}mo{l^{ - 1}}$$<br>\n[C<sub>V</sub> = 5.0 JK<sup>–1</sup> given] "
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The number of possible natural oscillations of air column in a pipe closed at one end length 85 cm whose frequencies lie below 1250 Hz are (Velocity of sound = 340 m s<sup>$$-$$1</sup>)",
+      "options": [
+        {
+          "key": "A",
+          "value": "4"
+        },
+        {
+          "key": "B",
+          "value": "5"
+        },
+        {
+          "key": "C",
+          "value": "7"
+        },
+        {
+          "key": "D",
+          "value": "6"
+        }
+      ],
+      "answer": "D",
+      "explanation": "Fundamental frequency of the closed organ pipe is\n<br><br>\n$$\\upsilon = {v \\over {4L}}$$<br><br>\nHere, v = 340 m s<sup>–1</sup>, L = 85 cm = 0.85 m <br><br>\n$$ \\therefore $$ $$\\upsilon  = {{340\\,m{s^{ - 1}}} \\over {4 \\times 0.85\\,m}} = 100\\,Hz$$<br><br>\nThe natural frequencies of the closed organ pipe will be <br><br>\n$${\\upsilon _n} = \\left( {2n - 1} \\right)\\upsilon \\, = \\upsilon ,3\\upsilon ,5\\upsilon ,7\\upsilon ,9\\upsilon ,11\\upsilon ....$$<br><br>\n = 100 Hz, 300 Hz, 500 Hz, 700 Hz, 900 Hz, 1100 Hz, 1300 Hz,... and so on <br><br>\nThus, the natural frequencies lies below the 1250 Hz is 6."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A speeding motorcyclist sees traffic jam ahead him. He slows down to 36 km hour<sup>$$-$$1</sup>. He finds that traffic has eased and a car moving ahead of him at 18 km hour<sup>$$-$$1</sup> is honking at a frequency of 1392  Hz. If the speed of sound is 343 m s<sup>$$-$$1</sup>, the frequency of the honk as heard by him will be",
+      "options": [
+        {
+          "key": "A",
+          "value": "1332 Hz"
+        },
+        {
+          "key": "B",
+          "value": "1372 Hz"
+        },
+        {
+          "key": "C",
+          "value": "1412 Hz"
+        },
+        {
+          "key": "D",
+          "value": "1454 Hz"
+        }
+      ],
+      "answer": "C",
+      "explanation": "Here, speed of motorcyclist, v<sub>m</sub> = 36 km hour<sup>–1 </sup><br><br>\n$$ = 36 \\times {5 \\over {18}} = 10m{s^{ - 1}}$$<br><br>Speed of car,<br><br>\n$${v_c} = 18\\,km\\,hou{r^{ - 1}} = 18 \\times {5 \\over {18}}m{s^{ - 1}} = 5m{s^{ - 1}}$$<br><br>\nFrequency of source, $${\\upsilon _0}$$ = 1392 Hz <br><br>\nSpeed of sound, v = 343 m s<sup>–1</sup><br><br> \nThe frequency of the honk heard by the motorcyclist is\n<br><br>\n$$v' = {\\upsilon _0}\\left( {{{v + {v_m}} \\over {v + {v_C}}}} \\right) = 1392\\left( {{{343 + 10} \\over {343 + 5}}} \\right)$$<br><br>\n$$ = {{1392 \\times 353} \\over {348}} = 1412\\,Hz$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The length of the wire between two ends of a sonometer is 100 cm. What should be the positions of two bridges below the wire so that the three segments of the wire have their fundamental frequencies in the ratio 1 : 3 : 5. ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$${{1500} \\over {23}}cm,{{500} \\over {23}}cm$$"
+        },
+        {
+          "key": "B",
+          "value": "$${{1500} \\over {23}}cm,$$ $${{300} \\over {23}}cm$$"
+        },
+        {
+          "key": "C",
+          "value": "$${{300} \\over {23}}cm,{{1500} \\over {23}}cm$$"
+        },
+        {
+          "key": "D",
+          "value": "$${{1500} \\over {23}}cm,{{2000} \\over {23}}cm$$"
+        }
+      ],
+      "answer": "D",
+      "explanation": "From formula, $$f = {1 \\over x}\\sqrt {{T \\over m}} $$<br><br>\n$$ \\Rightarrow {1 \\over f} \\propto l$$<br><br>\n$$ \\therefore {l_1}:{l_2}:{l_3} = {1 \\over {{f_1}}}:{1 \\over {{f_2}}}:{1 \\over {{f_3}}}$$<br><br>\n=  f<sub>2</sub>f<sub>3</sub> : f<sub>1</sub>f<sub>3</sub> : f<sub>1</sub>f<sub>2</sub><br>[Given: f<sub>1</sub> : f<sub>2</sub> : f<sub>3</sub> = 1 : 3 : 5]<br><br>\n= 15 : 5 : 3 <br><br>Therefore the positions of two bridges below the wire are <br><br>\n$${{15 \\times 100} \\over {15 + 5 + 3}}cm$$ and $${{15 \\times 100 + 5 \\times 100} \\over {15 + 5 + 3}}cm$$<br><br>\n$$ \\Rightarrow {{1500} \\over {23}}cm,\\,\\,{{2000} \\over {23}}cm$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Two sources P and Q produce notes of frequency 660 Hz. each. A listener moves from P to Q with a speed of 1 ms<sup>$$-$$1</sup>. If the speed of sound is 330 m/s, then the number of beats heard by the listener per second will be ",
+      "options": [
+        {
+          "key": "A",
+          "value": "4"
+        },
+        {
+          "key": "B",
+          "value": "8"
+        },
+        {
+          "key": "C",
+          "value": "2"
+        },
+        {
+          "key": "D",
+          "value": "zero"
+        }
+      ],
+      "answer": "A",
+      "explanation": "$${{\\Delta f} \\over f} = {v \\over C}$$<br><br>\n$$ \\Rightarrow {{\\left( {Beats} \\right)/2} \\over f} = {v \\over C}$$<br><br>\n$$ \\Rightarrow Beats = {{2fv} \\over C} = 4$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A source of unknown frequency gives 4 beats/s when sounded with a source of known frquency 250 Hz. The second harmonic of the source of unknown frequency gives five beats per second, when sounded with a source of frequency 513 Hz. The unknown frequency is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "240 Hz"
+        },
+        {
+          "key": "B",
+          "value": "260 Hz"
+        },
+        {
+          "key": "C",
+          "value": "254 Hz"
+        },
+        {
+          "key": "D",
+          "value": "246 Hz"
+        }
+      ],
+      "answer": "C",
+      "explanation": "Let $$\\upsilon $$ be frequency of the unknown source. As  it gives 4 beats per second when sounded with a source of frequency 250 Hz,<br><br>\n$$ \\therefore \\upsilon  = 250 \\pm 4 = 246\\,Hz\\,or\\,254\\,Hz$$<br><br>\nSecond harmonic of this unknown source = 492 Hz or 508 Hz which gives 5 beats per second, when sounded with a source of frequency 513 Hz.<br><br>\nTherefore unknown frequency, $$\\upsilon $$ = 254 Hz. "
+    },
+    {
+      "_type": "single_mcq",
+      "body": "If we study the vibration of a pipe open at both ends. then the following statement is not true. ",
+      "options": [
+        {
+          "key": "A",
+          "value": "All harmonics of the fundamental frequency will be generated. "
+        },
+        {
+          "key": "B",
+          "value": "Pressure change will be maximum at both ends. "
+        },
+        {
+          "key": "C",
+          "value": "Open end will be antinode."
+        },
+        {
+          "key": "D",
+          "value": "Odd harmonics of the  fundamental frequency will be generated. "
+        }
+      ],
+      "answer": "B",
+      "explanation": "Pressure change will be minimum at both ends. "
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A wave travelling in the + ve x-direction having displacement along  y-direction as 1 m, wavelength 2$$\\pi $$ m and frequency of $${1 \\over \\pi }$$ Hz is represented by ",
+      "options": [
+        {
+          "key": "A",
+          "value": "y = sin(10$$\\pi $$x $$-$$ 20$$\\pi $$t)"
+        },
+        {
+          "key": "B",
+          "value": "y = sin(2$$\\pi $$x + 2$$\\pi $$t)"
+        },
+        {
+          "key": "C",
+          "value": "y = sin(x $$-$$ 2t)"
+        },
+        {
+          "key": "D",
+          "value": "y $$=$$ sin(2$$\\pi $$x $$-$$ 2$$\\pi $$t)"
+        }
+      ],
+      "answer": "C",
+      "explanation": "The standard equation of a wave travelling along +ve x-direction is given by <br><br>\n$${\\rm{y  =  Asin(kx - }}\\omega {\\rm{t)}}$$<br><br>\nwhere A = Amplitude of the wave<br> k = angular wave number<br> $$\\omega $$ = angular frequency of the wave <br><br>\nGiven: A = 1 m, $$\\lambda  = {\\rm{2}}\\pi m,\\upsilon  = {1 \\over \\pi }Hz$$<br><br>\nAs $$k = {{2\\pi } \\over \\lambda } = {{2\\pi } \\over {2\\pi }} = 1$$<br><br>\n$$\\omega  = 2\\pi \\upsilon  = 2\\pi  \\times {1 \\over \\pi } = 2$$<br><br>\n$$ \\therefore $$ The equation of the given wave is <br><br>\ny = 1 sin (1x – 2t) = sin(x – 2t)"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A train moving at a speed of 220 m s<sup>$$-$$1</sup> towards a stationary object, emits a sound of frequency 1000 Hz. Some of the sound reaching the object gets reflected back to the train as echo. The frequency of the echo as detected by the driver of the train is \n<br>(Speed of sound in air is 330 m s<sup>$$-$$1</sup>)",
+      "options": [
+        {
+          "key": "A",
+          "value": "3500 Hz"
+        },
+        {
+          "key": "B",
+          "value": "4000 Hz"
+        },
+        {
+          "key": "C",
+          "value": "5000 Hz"
+        },
+        {
+          "key": "D",
+          "value": "3000 Hz"
+        }
+      ],
+      "answer": "C",
+      "explanation": "Here, Speed of the train, v<sub>T</sub> = 220 ms<sup>–1</sup><br> Speed of sound in air, v = 330 ms<sup>–1</sup> <br>The frequency of the echo detected by the driver of the train is <br><br>\n$$\\upsilon ' = \\upsilon \\left( {{{v + {v_T}} \\over {v - {v_T}}}} \\right) = 1000\\left( {{{330 + 220} \\over {330 - 220}}} \\right)$$<br><br>\n$$ = 1000 \\times {{550} \\over {110}} = 5000\\,Hz$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The equation of a simple harmonic wave is given by\n<br><br>y = 3 sin$${\\pi  \\over 2}$$(50t $$-$$ x), \n<br><br>where x and y are in metres and t is in seconds. The ratio of maximum particle velocity to the wave velocity is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "2$$\\pi $$"
+        },
+        {
+          "key": "B",
+          "value": "$${3 \\over 2}\\pi $$"
+        },
+        {
+          "key": "C",
+          "value": "$$3\\pi $$"
+        },
+        {
+          "key": "D",
+          "value": "$${2 \\over 3}\\pi $$"
+        }
+      ],
+      "answer": "B",
+      "explanation": "$$y = 3\\sin {\\pi  \\over 2}\\left( {50t - x} \\right)$$<br><br>\n$$y = 3\\sin \\left( {25\\pi t - {\\pi  \\over 2}x} \\right)$$ on comparing with the standard wave equation<br><br>\n$$y = a\\sin \\left( {\\omega t - kx} \\right)$$<br><br>\nWave velocity $$v = {\\omega  \\over k} = {{25\\pi } \\over {\\pi /2}} = 50\\,m/\\sec $$<br><br>\nThe velocity of particle<br><br>\n$${v_p} = {{\\partial y} \\over {\\partial t}} = 75\\pi \\cos \\left( {25\\pi t - {\\pi  \\over 2}x} \\right)$$<br><br>\n$${v_{p_{\\max}}} = 75\\pi $$<br><br>\nthen $${{{v_{{p_{\\max }}}}} \\over v} = {{75\\pi } \\over {50}} = {{3\\pi } \\over 2}$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Two sources of sound placed close to each other, are emitting progressive waves given by \n<br>y<sub>1</sub> = 4sin600$$\\pi $$t  and  y<sub>2</sub> = 5sin608$$\\pi $$t\n<br>An observer located near these two sources of sound will hear",
+      "options": [
+        {
+          "key": "A",
+          "value": "4 beats per second with intensity ratio 25 : 16 between waxing and waning."
+        },
+        {
+          "key": "B",
+          "value": "8 beats per second with intensity ratio 25 : 16 between waxing and waning."
+        },
+        {
+          "key": "C",
+          "value": "8 beats per second with intensity ratio 81 : 1 between waxing and  warning. "
+        },
+        {
+          "key": "D",
+          "value": "4 beats per second with  intensity ratio 81 : 1 between waxing and waning. "
+        }
+      ],
+      "answer": "D",
+      "explanation": "$$2\\pi {f_1} = 600\\pi $$<br><br>\n$${f_1} = 300$$&nbsp;&nbsp;&nbsp;...(i)<br><br>\n$$2\\pi {f_2} = 608\\pi $$<br><br>\n$${f_2} = 304$$&nbsp;&nbsp;&nbsp;...(ii)<br><br>\n$$\\left| {{f_1} - {f_2}} \\right| = 4\\,beats$$<br><br>\n$${{{I_{\\max }}} \\over {{I_{m.n}}}} = {{{{\\left( {{A_1} + {A_2}} \\right)}^2}} \\over {{{\\left( {{A_1} + {A_2}} \\right)}^2}}} = {{{{\\left( {5 + 4} \\right)}^2}} \\over {{{\\left( {5 - 4} \\right)}^2}}} = {{81} \\over 1}$$<br><br>\nwhere A<sub>1</sub>, A<sub>2</sub> are amplitudes of given two sound wave. "
+    },
+    {
+      "_type": "single_mcq",
+      "body": "When a string is divided into three segments of length $$l$$<sub>1</sub>, $$l$$<sub>2</sub> and $$l$$<sub>3</sub> the fundamental frequencies of these three segments are $${\\upsilon _1},{\\upsilon _2}$$ and $${\\upsilon _3}$$ respectively. The original fundamental frequency ($$v$$) of the string is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$\\sqrt v  = \\sqrt {{v_1}}  + \\sqrt {{v_2}}  + \\sqrt {{v_3}} $$"
+        },
+        {
+          "key": "B",
+          "value": "$$v = {v_1} + {v_2} + {v_3}$$"
+        },
+        {
+          "key": "C",
+          "value": "$${1 \\over v} = {1 \\over {{v_1}}} + {1 \\over {{v_2}}} + {1 \\over {{v_3}}}$$"
+        },
+        {
+          "key": "D",
+          "value": "$${1 \\over {\\sqrt v }} = {1 \\over {\\sqrt {{v_1}} }} + {1 \\over {\\sqrt {{v_2}} }} + {1 \\over {\\sqrt {{v_3}} }}$$"
+        }
+      ],
+      "answer": "C",
+      "explanation": "Let $$l$$ be the length of the string. Fundamental frequency is given by <br><br>\n$$\\upsilon  = {1 \\over {2l}}\\sqrt {{T \\over \\mu }} $$<br><br>\n$$ \\Rightarrow v \\propto {1 \\over l}$$&nbsp;&nbsp;($$ \\because $$ T and $$\\mu $$ are constants) <br><br>\nHere, $${l_1} = {k \\over {{\\upsilon _1}}},{l_2} = {k \\over {{\\upsilon _2}}},{l_3} = {k \\over {{\\upsilon _3}}}$$ and $$ l = {k \\over \\upsilon }$$<br><br>\nBut  $$l = l_1 + l_2 + l_3$$<br><br>\n$${1 \\over \\upsilon } = {1 \\over {{\\upsilon _1}}} + {1 \\over {{\\upsilon _2}}} + {1 \\over {{\\upsilon _3}}}$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Two identical piano wires, kept under the same tension T have a fundamental frequency of 600 Hz. The fractional increase in the tension of one of the wires which will lead to occurrence of 6 beats/s when both the wires oscillate together would be",
+      "options": [
+        {
+          "key": "A",
+          "value": "0.01"
+        },
+        {
+          "key": "B",
+          "value": "0.02"
+        },
+        {
+          "key": "C",
+          "value": "0.03"
+        },
+        {
+          "key": "D",
+          "value": "0.04 "
+        }
+      ],
+      "answer": "B",
+      "explanation": "As $$\\upsilon  = {1 \\over {2L}}\\sqrt {{T \\over \\mu }} $$<br><br>\n$$ \\therefore {{\\Delta \\upsilon } \\over \\upsilon } = {1 \\over 2}{{\\Delta T} \\over T}$$<br><br>\n$${{\\Delta T} \\over T} = 2{{\\Delta \\upsilon } \\over \\upsilon } = 2 \\times {6 \\over {600}} = 0.02$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Sound waves travel at 350 m/s through a warm air and at 3500 m/s through brass. The wavelength of a 700 Hz acoustic wave as it enters brass from warm air",
+      "options": [
+        {
+          "key": "A",
+          "value": "decrease by a factor 10"
+        },
+        {
+          "key": "B",
+          "value": "increase by a factor 20 "
+        },
+        {
+          "key": "C",
+          "value": "increase by a factor 10 "
+        },
+        {
+          "key": "D",
+          "value": "decrease by a factor 20"
+        }
+      ],
+      "answer": "C",
+      "explanation": "We have, v = n$$\\lambda $$<br><br>\n$$ \\Rightarrow v \\propto \\lambda $$  (as n remains constant)<br><br>\nThus, as v increases 10 times, $$\\lambda $$ also increases 10 times.\n"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Two waves are represented by the equations \n<br>y<sub>1</sub> = $$a$$sin($$\\omega $$t + kx + 0.57) m and \n<br>y<sub>2</sub> = acos($$\\omega $$t + kx) m, where x is in meter and t $$in$$ sec. The phase difference between them is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "1.0 radian "
+        },
+        {
+          "key": "B",
+          "value": "1.25 radian"
+        },
+        {
+          "key": "C",
+          "value": "1.57 radian"
+        },
+        {
+          "key": "D",
+          "value": "0.57 radian"
+        }
+      ],
+      "answer": "A",
+      "explanation": "Here, y<sub>1</sub> = a sin ($$\\omega $$t + kx + 0.57) <br>\nand  y<sub>2</sub> = a cos ($$\\omega $$t + kx)<br><br>\n$$ = a\\sin \\left[ {{\\pi  \\over 2} + \\left( {\\omega t + kx} \\right)} \\right]$$<br><br>\nPhase difference,  $$\\Delta \\phi  = {\\phi _2} - {\\phi _1}$$<br><br>\n$$ = {\\pi  \\over 2} - 0.57$$<br><br>\n$$ = {{3.14} \\over 2} - 0.57$$<br><br>\n= 1.57 – 0.57 = 1 radian "
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A transverse wave is represented by \n<br>y = Asin($$\\omega $$t $$-$$ kx). For what value of the wavelength is the wave velocity equal to the maximum particle velocity ? ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$\\pi A/2$$"
+        },
+        {
+          "key": "B",
+          "value": "$$\\pi A$$"
+        },
+        {
+          "key": "C",
+          "value": "2$$\\pi A$$"
+        },
+        {
+          "key": "D",
+          "value": "$$A$$"
+        }
+      ],
+      "answer": "C",
+      "explanation": "y = A sin ($$\\omega $$t–kx) <br><br>\nParticle velocity,\n<br><br>$${v_p} = {{dy} \\over {dt}} = A\\omega \\cos \\left( {\\omega t - kx} \\right)$$<br><br>\n$$ \\therefore {v_{p\\,\\max }} = A\\omega $$<br><br>\nwave velocity = $${\\omega  \\over k}$$<br><br>\n$$ \\therefore $$ $$A\\omega  = {\\omega  \\over k}$$<br><br>\ni.e, $$A = {1 \\over k}$$ But $$k = {{2\\pi } \\over \\lambda }$$<br><br>\n$$ \\therefore \\lambda  = 2\\pi A$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The driver of a car travelling with speed 30 m/s towards a hill sounds a horn of frequency 600 Hz. If the velocity of sound in air is 330 m/s, the frequency of reflected sound as heard by driver is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "555.5 Hz"
+        },
+        {
+          "key": "B",
+          "value": "720 Hz"
+        },
+        {
+          "key": "C",
+          "value": "500 Hz"
+        },
+        {
+          "key": "D",
+          "value": "550 Hz"
+        }
+      ],
+      "answer": "B",
+      "explanation": "Car is the source and the hill is observer. Frequency heard at the hill, $${\\upsilon _1}$$<br><br>\n$$ \\therefore {\\upsilon _1} = {{\\upsilon  \\times v} \\over {\\left( {v - V} \\right)}} = {{600 \\times 330} \\over {330 - 30}}$$<br><br>\nNow for reflection, the hill is the source and the driver the observer.\n<br><br>\n$$ \\therefore $$ $${\\upsilon _2} = {\\upsilon _1} \\times {{\\left( {330 + 30} \\right)} \\over {330}}$$<br><br>\n$$ \\Rightarrow {\\upsilon _2} = {{600 \\times 330} \\over {300}} \\times {{360} \\over {330}} \\Rightarrow {\\upsilon _2} = 720$$ Hz."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A wave in a string has an amplitude of 2 cm. The wave travels in the +ve direction of x axis with a speed of 128 m/s. and it is noted that 5 complete waves fit in 4m length of the string.  The equation describing the wave is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "y = (0.02) m sin (15.7 x $$-$$ 2010t)"
+        },
+        {
+          "key": "B",
+          "value": "y = (0.02) m sin (15.7 x + 2010t)"
+        },
+        {
+          "key": "C",
+          "value": "y = (0.02) m sin (7.85 x $$-$$ 1005t)"
+        },
+        {
+          "key": "D",
+          "value": "y = (0.02) m sin (7.85 x + 1005t)"
+        }
+      ],
+      "answer": "C",
+      "explanation": "As $$A = 2cm,{\\omega  \\over k} = 128m{s^{ - 1}}$$,<br><br>\n$$5\\lambda  = 4 $$, $$ \\lambda  = {4 \\over 5}m$$<br><br> y = A sin (kx – $$\\omega $$t)<br><br>\n$$k = {{2\\pi } \\over \\lambda } = {{2\\pi  \\times 5} \\over 4} = {{31.4} \\over 4} = 7.85$$<br><br>\n$$ \\therefore $$ $$\\omega $$ = 128 × 7.85 = 1005 <br><br>\nso y = 0.02 m sin (7.85x – 1005 t)\n"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Each of the two strings of length 51.6 cm and 49.1 cm are tensioned separately by 20 N force. Mass per unit length of both the strings is same and equal to 1 g/m. When both the strings vibrate simultaneously the number of beats is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "7"
+        },
+        {
+          "key": "B",
+          "value": "8"
+        },
+        {
+          "key": "C",
+          "value": "3"
+        },
+        {
+          "key": "D",
+          "value": "5"
+        }
+      ],
+      "answer": "A",
+      "explanation": "$$l_1$$ = 0.516 m, $$l_2$$ = 0.491 m, T = 20 N. <br><br>\nMass per unit length, $$\\mu $$ = 0.001 kg/m.<br><br>\nFrequency, $$\\upsilon  = {1 \\over {2l}}\\sqrt {{T \\over \\mu }} $$<br><br>\n$${\\upsilon _1} = {1 \\over {2 \\times 0.516}}\\sqrt {{{20} \\over {0.001}}} $$<br><br>\n$${\\upsilon _2} = {1 \\over {2 \\times 0.491}}\\sqrt {{{20} \\over {0.001}}} $$<br><br>\n$$ \\therefore $$ Number of beats = $${\\upsilon _1} - {\\upsilon _2} = 7$$. "
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The wave described by y = 0.25 sin(10$$\\pi $$x $$-$$ 2$$\\pi $$t), where x and y are in metres and t in seconds, is a wave travelling along the ",
+      "options": [
+        {
+          "key": "A",
+          "value": "+ve x direction with frequency 1 Hz and wavelength $$\\lambda $$ = 0.2 m."
+        },
+        {
+          "key": "B",
+          "value": "$$-$$ve x direction with amplitude 0.25 m and wavelength $$\\lambda $$ = 0.2 m."
+        },
+        {
+          "key": "C",
+          "value": "$$-$$ve x direction with frequency 1 Hz."
+        },
+        {
+          "key": "D",
+          "value": "+ve x direction with frequency $$\\pi $$ Hz and wavelength $$\\lambda $$ = 0.2 m."
+        }
+      ],
+      "answer": "A",
+      "explanation": "y = 0.25sin(10$$\\pi $$x – 2$$\\pi $$t) <br><br>\n$${y_{\\max }} = 0.25$$<br><br>\n$$k = {{2\\pi } \\over \\lambda } = 10\\pi  \\Rightarrow \\lambda  = 0.2\\,m$$<br><br>\n$$\\omega  = 2\\pi f = 2\\pi  \\Rightarrow f = 1\\,Hz$$<br><br>\nThe sign is negative inside the bracket. Therefore this wave travels in the positive x-direction. "
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Two periodic waves of intensities $$I$$<sub>1</sub> and $$I$$<sub>2</sub> pass through a region at the same time in the same direction. The sum of the maximum and minimum intensities is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$${\\left( {\\sqrt {{I_1}}  - \\sqrt {{I_2}} } \\right)^2}$$"
+        },
+        {
+          "key": "B",
+          "value": "$$2\\left( {{I_1} + {I_2}} \\right)$$"
+        },
+        {
+          "key": "C",
+          "value": "$${{I_1} + {I_2}}$$"
+        },
+        {
+          "key": "D",
+          "value": "$${\\left( {\\sqrt {{I_1}}  + \\sqrt {{I_2}} } \\right)^2}$$"
+        }
+      ],
+      "answer": "B",
+      "explanation": "Other factors such as $$\\omega $$ and v remaining\nthe same, I = A<sup>2</sup> constant K, or A = $$\\sqrt {{I \\over K}} $$<br><br>\nOn superposition <br><br>\n$${A_{\\max }} = {A_1} + {A_2}$$ and $${A_{\\min }} = {A_1} - {A_2}$$<br><br>\n$$ \\therefore A_{\\max }^2 = A_1^2 + A_2^2 + 2{A_1}{A_2}$$<br><br>\n$$ \\Rightarrow {{{I_{\\max }}} \\over K} = {{{I_1}} \\over K} + {{{I_2}} \\over K} + {{2\\sqrt {{I_1}{I_2}} } \\over K}$$<br><br>\n$$A_{\\min }^2 = A_1^2 + A_2^2 - 2{A_1}{A_2}$$<br><br>\n$$ \\Rightarrow {{{I_{\\min }}} \\over K} = {{{I_1}} \\over K} + {{{I_2}} \\over K} - {{2\\sqrt {{I_1}{I_2}} } \\over K}$$<br><br>\n$$ \\therefore {I_{\\max }} + {I_{\\min }} = 2{I_1} + 2{I_2}$$\n"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A point performs simple harmonic oscillation of period T and the equation of motion is given by x = a sin($$\\omega $$t + $$\\pi $$/6). After the elapse of what fraction of the time period the velocity of the point will be equal to half of its maximum velocity? ",
+      "options": [
+        {
+          "key": "A",
+          "value": "T/3"
+        },
+        {
+          "key": "B",
+          "value": "T/12"
+        },
+        {
+          "key": "C",
+          "value": "T/8"
+        },
+        {
+          "key": "D",
+          "value": "T/6"
+        }
+      ],
+      "answer": "B",
+      "explanation": "We have $$x = a\\sin \\left( {\\omega t + {\\pi  \\over 6}} \\right)$$<br><br>\n$$ \\therefore $$ Velocity, $$v = {{dx} \\over {dt}} = a\\omega \\cos \\left( {\\omega t + {\\pi  \\over 6}} \\right)$$<br><br>\nMaximum velocity = a$$\\omega $$<br> According to question, <br><br>\n$${{a\\omega } \\over 2} = a\\omega \\cos \\left( {\\omega t + {\\pi  \\over 6}} \\right)$$<br><br>\n$$ \\Rightarrow \\cos \\left( {\\omega t + {\\pi  \\over 6}} \\right) = {1 \\over 2} = \\cos {60^o}$$ or $${\\cos {\\pi  \\over 3}}$$<br><br>\n$$ \\Rightarrow \\omega t = {\\pi  \\over 3} - {\\pi  \\over 6} \\Rightarrow \\omega t = {\\pi  \\over 6}$$<br><br>\n$$ \\Rightarrow {{2\\pi } \\over T}.t = {\\pi  \\over 6} \\Rightarrow t = {T \\over {12}}$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A transverse wave propagating along x-axis is represented by y(x, t) = 8.0 sin (0.5 $$\\pi $$x $$-$$ 4$$\\pi $$t $$-$$ $$\\pi $$/4) where x is in metres and t is in seconds. The speed of the wave is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "8 m/s"
+        },
+        {
+          "key": "B",
+          "value": "4$$\\pi $$ m/s"
+        },
+        {
+          "key": "C",
+          "value": "0.5$$\\pi $$ m/s"
+        },
+        {
+          "key": "D",
+          "value": "$$\\pi $$/4 m/s."
+        }
+      ],
+      "answer": "A",
+      "explanation": "$$y\\left( {x,t} \\right) = 8.0\\sin \\left( {0.5\\pi x - 4\\pi t - {\\pi  \\over 4}} \\right)$$<br><br>\nCompare with a standard wave equation, <br><br>\n$$y = a\\sin \\left( {{{2\\pi x} \\over \\lambda } - {{2\\pi t} \\over T} + \\phi } \\right)$$<br><br>\nwe get $${{2\\pi } \\over \\lambda } = 0.5\\pi  \\Rightarrow \\lambda  = {{2\\pi } \\over {0.5\\pi }} = 4m$$<br><br>\n$${{2\\pi } \\over T} = 4\\pi  \\Rightarrow T = {{2\\pi } \\over {4\\pi }} = {1 \\over 2}\\sec $$<br><br>\n$$\\upsilon  = 1/T = 2\\,Hz$$.<br><br>\nWave velocity, $$v = \\lambda \\upsilon  = 4 \\times 2 = 8$$ m/sec."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Two vibrating tuning forks produce waves given by y<sub>1</sub> = 4 sin 500$$\\pi $$t and y<sub>2</sub> = 2 sin506 $$\\pi $$t. Number of beats produced per minute is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "360"
+        },
+        {
+          "key": "B",
+          "value": "180"
+        },
+        {
+          "key": "C",
+          "value": "60"
+        },
+        {
+          "key": "D",
+          "value": "3"
+        }
+      ],
+      "answer": "B",
+      "explanation": "Y<sub>1</sub> = 4 sin500$$\\pi $$t, Y<sub>2</sub> = 2 sin506$$\\pi $$t<br><br>\n$${\\omega _1} = 500\\pi $$, $${\\omega _1} = 2\\pi \\upsilon $$, <br>\n$${\\upsilon _1} = 250,{\\upsilon _2} = 253$$<br><br>\n$$\\upsilon  = {\\upsilon _2} - {\\upsilon _1} = 253 - 250 = 3$$  beats/s<br><br>\n$$ \\therefore $$ Number of beats per minute = 3 × 60 = 180\n"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Two sound waves with wavelengths 5.0 m and 5.5. m respectively, each propagate in a gas with velocity 330 m/s. We expect the following number of beats per second. ",
+      "options": [
+        {
+          "key": "A",
+          "value": "6 "
+        },
+        {
+          "key": "B",
+          "value": "12"
+        },
+        {
+          "key": "C",
+          "value": "0"
+        },
+        {
+          "key": "D",
+          "value": "1"
+        }
+      ],
+      "answer": "A",
+      "explanation": "Frequencies of sound waves are <br>\n$${{330} \\over 5}$$ &amp; $${{330} \\over {5.5}}$$<br><br>\ni.e.,  66 Hz and 60 Hz<br><br>\nFrequencies of beat = 66 – 60 = 6 per second"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The time of reverberation of a room A is one second. What will be the time (in seconds of reverberation of a room, having all the dimensions double of those of room A ? ",
+      "options": [
+        {
+          "key": "A",
+          "value": "1 "
+        },
+        {
+          "key": "B",
+          "value": "2"
+        },
+        {
+          "key": "C",
+          "value": "4"
+        },
+        {
+          "key": "D",
+          "value": "1/2"
+        }
+      ],
+      "answer": "B",
+      "explanation": "Reverberation time is defined as the time during which the intensity of sound in the auditorium becomes one millionth of the initial intensity.<br><br>\nSabine has shown that standard reverberation time for an auditorium is given by the formula\n<br><br>\n$${T_R} = K{V \\over {\\alpha S}}$$<br><br>\nHere, V is volume of the auditorium, S is the surface area. <br><br>\n$$ \\therefore {T_R} = {{K.V} \\over {\\alpha S}} = 1$$ (given)<br><br>\n$$ \\Rightarrow {T_R} = {{K.{l^3}} \\over {6\\alpha {l^2}}} = {K \\over {6\\alpha }}l$$ $${T_R} = {{K.{l^3}} \\over {6\\alpha {l^2}}} = {K \\over {6\\alpha }}l$$<br>\n(Assuming auditorium to be cubic in shape)<br><br>\n$$ \\therefore {T_R} \\propto l$$<br><br>\nIf dimension is doubled, reverberation time t will be doubled.<br>\n So, New T<sub>R</sub> = 2 sec."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Which one of the following statements is true ? ",
+      "options": [
+        {
+          "key": "A",
+          "value": "both light and sound waves can travel in vaccum "
+        },
+        {
+          "key": "B",
+          "value": "both light and sound waves in air are transverse "
+        },
+        {
+          "key": "C",
+          "value": "The second waves in air are longitudinal while the light waves are transverse"
+        },
+        {
+          "key": "D",
+          "value": "both light and sound waves in air are"
+        }
+      ],
+      "answer": "C",
+      "explanation": "Light waves are electromagnetic waves. Light waves are transverse in nature and do not require a medium to travel, hence they can travel in vacuum. Sound waves are longitudinal waves and require a medium to travel. They do not travel in vacuum. "
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A point source emits sound equally in all directions in a non-absorbing medium. Two points P and Q are at distances of 2 m and 3 m respectively from the source. The ratio of the intensities of the waves at P and Q is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "3 : 2"
+        },
+        {
+          "key": "B",
+          "value": "2 : 3"
+        },
+        {
+          "key": "C",
+          "value": "9 : 4"
+        },
+        {
+          "key": "D",
+          "value": "4 : 9"
+        }
+      ],
+      "answer": "C",
+      "explanation": "d<sub>1</sub> = 2 m, d<sub>2</sub> = 3 m<br><br>\n$$Intensity \\propto {1 \\over {{{\\left( {distance} \\right)}^2}}}$$<br><br>\n$${I_1} \\propto {1 \\over {{2^2}}}$$ and $${I_2} \\propto {1 \\over {{3^2}}}$$<br><br>\n$$ \\therefore {{{I_1}} \\over {{I_2}}} = {9 \\over 4}$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The phase difference between two waves. represented by\n<br>y<sub>1</sub> = 10<sup>$$-$$6</sup> sin[100t + (x/50) + 0.5] m\n<br>y<sub>2</sub> = 10<sup>$$-$$6</sup> cos[100t + (x/50)] m,\n<br>where x is expressed in metres and t is exressed in secondss, is approximately.",
+      "options": [
+        {
+          "key": "A",
+          "value": "1.07 radians"
+        },
+        {
+          "key": "B",
+          "value": "2.07 radians"
+        },
+        {
+          "key": "C",
+          "value": "0.5 radians"
+        },
+        {
+          "key": "D",
+          "value": "1.5 radians "
+        }
+      ],
+      "answer": "A",
+      "explanation": "y<sub>1</sub> = 10<sup>–6</sup>sin[100t + (x/50) + 0.5] <br><br>\n y<sub>2</sub> = 10<sup>–6</sup>cos[100t + (x/50)] <br>\n[using cosx = sin(x + $$\\pi $$/2)] <br><br>\n= 10<sup>–6</sup>sin[100t + (x/50) + $$\\pi $$/2] <br><br>\n = 10<sup>–6</sup>sin[100t + (x/50) + 1.57] <br><br>\nThe phase difference = 1.57 – 0.5 = 1.07 <br><br>\n[or using sinx = cos($$\\pi $$/2 – x). We get the same result.] "
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A car is moving towards a high  cliff. The driver sounds a horn of frequency $$f$$. The reflected sound heard by the driver has frequency $$2f$$. If v is the velocity of sound, then the velocity of the car, in the same velocity units, will be",
+      "options": [
+        {
+          "key": "A",
+          "value": "v/$$\\sqrt 2 $$"
+        },
+        {
+          "key": "B",
+          "value": "v/3"
+        },
+        {
+          "key": "C",
+          "value": "v/4"
+        },
+        {
+          "key": "D",
+          "value": "v/2"
+        }
+      ],
+      "answer": "B",
+      "explanation": "Let f' be the frequency of sound heard by cliff.<br><br>\n$$ \\therefore $$ $$f = {{vf} \\over {v - {v_c}}}$$&nbsp;&nbsp;&nbsp;...(1)<br><br>\nNow, for the reflected wave, cliff acts as a source, <br><br>\n$$ \\therefore $$ $$2f = {{f'\\left( {v + {v_c}} \\right)} \\over v}$$&nbsp;&nbsp;&nbsp;...(2)<br><br>\n$$2f = {{f\\left( {v + {v_c}} \\right)} \\over {v - {v_c}}}$$<br><br>\n$$ \\Rightarrow 2v - 2{v_c} = v + {v_c}$$<br><br>\n$$ \\Rightarrow {v \\over 3} = {v_c}$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "An observer moves towards a stationary source of sound with a speed 1/5<sup>th</sup> of the speed of sound. The wavelength and frequency of the source emitted are $$\\lambda $$ and $$f$$ respectively. The apparent frequency and wavelength recorded by the observer are respectively",
+      "options": [
+        {
+          "key": "A",
+          "value": "1.2 $$f$$, &nbsp;&nbsp;1.2 $$\\lambda $$"
+        },
+        {
+          "key": "B",
+          "value": "1.2 $$f$$,&nbsp;&nbsp;$$\\lambda $$"
+        },
+        {
+          "key": "C",
+          "value": "$$f$$,&nbsp;&nbsp;1.2 $$\\lambda $$"
+        },
+        {
+          "key": "D",
+          "value": "0.8 $$f$$, &nbsp;&nbsp;0.8 $$\\lambda $$"
+        }
+      ],
+      "answer": "B",
+      "explanation": "Apparent frequency, $$f' = {{v + {v_0}} \\over v}f$$<br><br>\n$$ = {{v + (1/5)v} \\over v}f = 1.2f$$<br><br>\nWavelength does not change by motion of observer."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A wave travelling in positive X-direction with a $$=$$ 0.2 ms<sup>$$-$$2</sup>, velocity = 360 ms<sup>$$-$$1</sup> and $$\\lambda $$ $$=$$ 60 m,  then correct expression for the wave is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$y = 0.2\\sin \\left[ {2\\pi \\left( {6t + {x \\over {60}}} \\right)} \\right]$$"
+        },
+        {
+          "key": "B",
+          "value": "$$y = 0.2\\sin \\left[ {\\pi \\left( {6t + {x \\over {60}}} \\right)} \\right]$$"
+        },
+        {
+          "key": "C",
+          "value": "$$y = 0.2\\sin \\left[ {2\\pi \\left( {6t - {x \\over {60}}} \\right)} \\right]$$"
+        },
+        {
+          "key": "D",
+          "value": "$$y = 0.2\\sin \\left[ {\\pi \\left( {6t - {x \\over {60}}} \\right)} \\right]$$"
+        }
+      ],
+      "answer": "C",
+      "explanation": "The equation of progressive wave travelling in positive x-direction is given by <br><br>\n$$y = a\\sin {{2\\pi } \\over \\lambda }\\left( {vt - x} \\right)$$<br><br>\nHere a = 0.2 m, v = 360 m/sec, $$\\lambda $$ = 60 m<br><br>\n$$ \\therefore y = 0.2\\sin {{2\\pi } \\over {60}}\\left( {360t - x} \\right)$$<br><br>$$ = 0.2sin\\left[ {2\\pi \\left( {6t - {x \\over {60}}} \\right)} \\right]$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The equation of a wave is represented by  \n<br><br>y $$=$$ 10<sup>$$-$$4</sup> sin(100t $$-$$ $${x \\over {10}}$$) m. then the velocity of wave will be",
+      "options": [
+        {
+          "key": "A",
+          "value": "100 m/s"
+        },
+        {
+          "key": "B",
+          "value": "4 m/s"
+        },
+        {
+          "key": "C",
+          "value": "1000 m/s"
+        },
+        {
+          "key": "D",
+          "value": "10 m/s"
+        }
+      ],
+      "answer": "C",
+      "explanation": "Comparing the given equation with general equation,<br> $$y = a\\sin 2\\pi \\left( {{t \\over T} - {x \\over \\lambda }} \\right)$$, we get<br><br>\n$$T = {{2\\pi } \\over {100}}$$ and $$\\lambda  = 20\\pi $$<br><br>\n$$ \\therefore v = \\upsilon \\lambda  = {{100} \\over {2\\pi }} \\times 20\\pi  = 1000\\,m/s$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "If the tension and diameter of a sonometer wire of fundamental frequency n is doubled and density is halved then its fundamental frequency will become ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$${\\pi  \\over 4}$$"
+        },
+        {
+          "key": "B",
+          "value": "$$\\sqrt 2 n$$"
+        },
+        {
+          "key": "C",
+          "value": "n"
+        },
+        {
+          "key": "D",
+          "value": "$${n \\over {\\sqrt 2 }}$$"
+        }
+      ],
+      "answer": "C",
+      "explanation": "$$n = {1 \\over {2l}}\\sqrt {{T \\over {\\pi {r^2}\\rho }}} $$<br><br>\n$$\\rho _1^{'} = {\\rho  \\over 2};T' = 2T$$<br><br>\nD' = 2D or r' = 2r<br><br>\n$$n' = {1 \\over {2l}}\\sqrt {{{2T} \\over {\\pi {{\\left( {2r} \\right)}^2}{\\rho  \\over 2}}}} $$<br><br>\nAfter solving, $$n' = {1 \\over {2l}}\\sqrt {{{2T} \\over {\\pi {r^2}l}}}  = n$$\n"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Two waves having equation x<sub>1</sub> = $$a$$sin($$\\omega $$t $$-$$ kx + $$\\phi $$<sub>1</sub>), x<sub>2</sub> = asin($$\\omega $$t $$-$$kx + $$\\phi $$<sub>2</sub>). If in the resultant wave the frequency and amplitude remain equal to amplitude of superimposing waves, the phase difference between them  is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$${\\pi  \\over 6}$$"
+        },
+        {
+          "key": "B",
+          "value": "$${{2\\pi } \\over 3}$$"
+        },
+        {
+          "key": "C",
+          "value": "$${\\pi  \\over 4}$$"
+        },
+        {
+          "key": "D",
+          "value": "$${\\pi  \\over 3}$$"
+        }
+      ],
+      "answer": "B",
+      "explanation": "Resultant amplitude = 2a (1 + cos$$\\phi $$) = a <br><br>$$ \\therefore $$ $$\\left( {1 + \\cos \\phi } \\right) = 1/2;$$<br><br>\n$$cos\\phi  =  - {1 \\over 2};\\phi  = {{2\\pi } \\over 3}$$\n\n"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A string is cut into three parts, having fundamental frequencies n<sub>1</sub>, n<sub>2</sub>, n<sub>3</sub> respectively.  Then original fundamental frequency n related by the expression as ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$${1 \\over n} = {1 \\over {{n_1}}} + {1 \\over {{n_2}}} + {1 \\over {{n_3}}}$$"
+        },
+        {
+          "key": "B",
+          "value": "$$n = {n_1} \\times {n_2} \\times {n_3}$$"
+        },
+        {
+          "key": "C",
+          "value": "n $$=$$ n<sub>1</sub> + n<sub>2</sub> + n<sub>3</sub>"
+        },
+        {
+          "key": "D",
+          "value": "$$n = {{{n_1} + {n_2} + {n_3}} \\over 3}$$"
+        }
+      ],
+      "answer": "A",
+      "explanation": "As $$n \\propto \\left( {1/l} \\right)$$<br><br>\n$$l = {l_1} + {l_2} + {l_3}$$<br><br>\n$$ \\therefore {1 \\over n} = {1 \\over {{n_1}}} + {1 \\over {{n_2}}} + {1 \\over {{n_3}}}$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Two stationary sources each emitting waves of wavelength $$\\lambda $$, an observer moves from one source to another with velovcity u. Then number of beats heard by him",
+      "options": [
+        {
+          "key": "A",
+          "value": "$${{2u} \\over \\lambda }$$"
+        },
+        {
+          "key": "B",
+          "value": "$${u \\over \\lambda }$$"
+        },
+        {
+          "key": "C",
+          "value": "$$\\sqrt {u\\lambda } $$"
+        },
+        {
+          "key": "D",
+          "value": "$${u \\over {2\\lambda }}$$"
+        }
+      ],
+      "answer": "A",
+      "explanation": "$$f' = {{v - u} \\over v}f;f'' = {{v + u} \\over v}f$$<br><br>\nNumber of beats = $$f'' - f' = {{2u} \\over \\lambda }$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The equations of two waves acting in perpendicular directions are given as \n<br>x = $$a$$cos($$\\omega $$t +$$\\delta $$) and y = $$a$$cos($$\\omega $$t + $$\\alpha $$), where $$\\delta $$ = $$\\alpha $$ +  $${\\pi  \\over 2}$$, the resultant wave represents",
+      "options": [
+        {
+          "key": "A",
+          "value": "a parabola"
+        },
+        {
+          "key": "B",
+          "value": "a circle"
+        },
+        {
+          "key": "C",
+          "value": "an ellipse "
+        },
+        {
+          "key": "D",
+          "value": "a straight line"
+        }
+      ],
+      "answer": "B",
+      "explanation": "Given : x = acos($$\\omega $$t + $$\\delta $$) <br>\nand y = acos($$\\omega $$t + $$\\alpha $$)&nbsp;&nbsp;&nbsp;&nbsp; ...(i) <br><br>\nwhere, $$\\delta  = \\alpha  + \\pi /2$$<br><br>\n$$ \\therefore {\\rm{x  =  acos(}}\\omega {\\rm{t  +  }}\\alpha {\\rm{  +  }}\\pi {\\rm{/2)}}$$<br><br>\n = –asin($$\\omega $$t + $$\\alpha $$) ...(ii) <br><br>\nGiven the two waves are acting in perpendicular direction with the same frequency and phase difference $$\\pi $$/2.<br><br>\nFrom equations (i) and (ii),<br> x<sup>2</sup> + y<sup>2</sup> = a<sup>2</sup><br> which represents the equation of a circle. "
+    }
+  ]
+}

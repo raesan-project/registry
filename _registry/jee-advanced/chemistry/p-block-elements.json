@@ -1,0 +1,631 @@
+{
+  "_index": {
+    "name": "p-Block Elements"
+  },
+  "_children": [
+    {
+      "_type": "single_mcq",
+      "body": "<p>The species formed on fluorination of phosphorus pentachloride in a polar organic solvent are</p>\n\n<p></p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "$\\left[\\mathrm{PF}_4\\right]^{+}\\left[\\mathrm{PF}_6\\right]^{-}$and $\\left[\\mathrm{PCl}_4\\right]^{+}\\left[\\mathrm{PF}_6\\right]^{-}$"
+        },
+        {
+          "key": "B",
+          "value": "$\\left[\\mathrm{PCl}_4\\right]^{+}\\left[\\mathrm{PCl}_4 \\mathrm{~F}_2\\right]^{-}$and $\\left[\\mathrm{PCl}_4\\right]^{+}\\left[\\mathrm{PF}_6\\right]^{-}$"
+        },
+        {
+          "key": "C",
+          "value": "$\\mathrm{PF}_3$ and $\\mathrm{PCl}_3$"
+        },
+        {
+          "key": "D",
+          "value": "$\\mathrm{PF}_5$ and $\\mathrm{PCl}_3$"
+        }
+      ],
+      "answer": "B",
+      "explanation": "<p>When $ \\text{PCl}_5 $ is fluorinated in a polar organic solvent, it forms ionic isomers. The formation of these ionic species can be understood as follows:</p>\n\n<ol>\n<li>$ \\text{PCl}_5 $ in a polar organic solvent can dissociate into ionic forms, such as $ \\left[\\text{PCl}_4\\right]^+ $ and $ \\left[\\text{PCl}_6\\right]^- $.</li><br>\n<li>Upon fluorination, $ \\text{PCl}_5 $ can be converted into $ \\left[\\text{PF}_6\\right]^- $ and $ \\left[\\text{PCl}_4\\right]^+ $.</li><br>\n<li>Further fluorination can lead to the formation of mixed ionic compounds where $ \\text{PCl}_5 $ can form isomers like $ \\left[\\text{PCl}_4\\right]^+ \\left[\\text{PCl}_4 \\text{F}_2\\right]^- $.</li>\n</ol>\n<p>The two ionic isomers formed are:</p>\n\n<ol>\n<li>$ \\left[\\text{PCl}_4\\right]^+ \\left[\\text{PCl}_4 \\text{F}_2\\right]^- $, which are colorless crystals.</li><br>\n<li>$ \\left[\\text{PCl}_4\\right]^+ \\left[\\text{PF}_6\\right]^- $, which are white crystals.</li>\n</ol>\n<p>Hence, the ionic isomers formed when $ \\text{PCl}_5 $ is fluorinated in a polar organic solvent are :</p>\n\n<strong>Option B :</strong> $ \\left[\\text{PCl}_4\\right]^+ \\left[\\text{PCl}_4 \\text{F}_2\\right]^- $ and $ \\left[\\text{PCl}_4\\right]^+ \\left[\\text{PF}_6\\right]^- $"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>At room temperature, disproportionation of an aqueous solution of in situ generated nitrous acid $\\left(\\mathrm{HNO}_2\\right)$ gives the species</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "$\\mathrm{H}_3 \\mathrm{O}^{+}, \\mathrm{NO}_3^{-}$and $\\mathrm{NO}$"
+        },
+        {
+          "key": "B",
+          "value": "$\\mathrm{H}_3 \\mathrm{O}^{+}, \\mathrm{NO}_3{ }^{-}$and $\\mathrm{NO}_2$"
+        },
+        {
+          "key": "C",
+          "value": "$\\mathrm{H}_3 \\mathrm{O}^{+}, \\mathrm{NO}^{-}$and $\\mathrm{NO}_2$"
+        },
+        {
+          "key": "D",
+          "value": "$\\mathrm{H}_3 \\mathrm{O}^{+}, \\mathrm{NO}_3{ }^{-}$and $\\mathrm{N}_2 \\mathrm{O}$"
+        }
+      ],
+      "answer": "A",
+      "explanation": "<p>To determine the products of the disproportionation of nitrous acid ($$ \\mathrm{HNO}_2 $$) at room temperature, let's analyze the chemical behavior of $$ \\mathrm{HNO}_2 $$ in aqueous solution.</p>\n\n<p>Disproportionation is a redox reaction in which a single substance is simultaneously oxidized and reduced, yielding two different products. In the case of nitrous acid ($$ \\mathrm{HNO}_2 $$), the reaction can be represented as follows:</p>\n\n<p>$$ 3 \\mathrm{HNO}_2 \\rightarrow \\mathrm{HNO}_3 + \\mathrm{H_2O} + 2 \\mathrm{NO} $$</p>\n\n<p>Breaking this down, we see that nitrous acid disproportionates into nitric acid ($$ \\mathrm{HNO}_3 $$), water ($$ \\mathrm{H_2O} $$), and nitrogen monoxide ($$ \\mathrm{NO} $$). Additionally, in an aqueous solution, nitric acid dissociates to form $$ \\mathrm{H_3O}^+ $$ (hydronium ion) and $$ \\mathrm{NO_3}^- $$ (nitrate ion).</p>\n\n<p>Therefore, the species formed from this disproportionation reaction are $$ \\mathrm{H_3O}^+ $$, $$ \\mathrm{NO_3}^- $$, and $$ \\mathrm{NO} $$.</p>\n\n<p>From the given options, the correct answer is:</p>\n<p><strong>Option A</strong></p>\n<p>$$ \\mathrm{H_3O}^+ $$, $$ \\mathrm{NO_3}^- $$, and $$ \\mathrm{NO} $$</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Match the reactions (in the given stoichiometry of the reactants) in List-I with one of their products given in List-II and choose the correct option.<br/><br/>\n<style type=\"text/css\">\n.tg  {border-collapse:collapse;border-spacing:0;width:100%}\n.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg .tg-1wig{font-weight:bold;text-align:left;vertical-align:top}\n.tg .tg-0lax{text-align:left;vertical-align:top}\n</style>\n<table class=\"tg\">\n<thead>\n  <tr>\n    <th class=\"tg-1wig\">List - I</th>\n    <th class=\"tg-1wig\">List - II</th>\n  </tr>\n</thead>\n<tbody>\n  <tr>\n    <td class=\"tg-0lax\">(P) $\\mathrm{P}_2 \\mathrm{O}_3+3 \\mathrm{H}_2 \\mathrm{O} \\rightarrow$</td>\n    <td class=\"tg-0lax\">(1) $\\mathrm{P}(\\mathrm{O})\\left(\\mathrm{OCH}_3\\right) \\mathrm{Cl}_2$</td>\n  </tr>\n  <tr>\n    <td class=\"tg-0lax\">(Q) $\\mathrm{P}_4+3 \\mathrm{NaOH}+3 \\mathrm{H}_2 \\mathrm{O} \\rightarrow$</td>\n    <td class=\"tg-0lax\">(2) $\\mathrm{H}_3 \\mathrm{PO}_3$</td>\n  </tr>\n  <tr>\n    <td class=\"tg-0lax\">(R) $\\mathrm{PCl}_5+\\mathrm{CH}_3 \\mathrm{COOH} \\rightarrow$</td>\n    <td class=\"tg-0lax\">(3) $\\mathrm{PH}_3$</td>\n  </tr>\n  <tr>\n    <td class=\"tg-0lax\">(S) $\\mathrm{H}_3 \\mathrm{PO}_2+2 \\mathrm{H}_2 \\mathrm{O}+4 \\mathrm{AgNO}_3 \\rightarrow$</td>\n    <td class=\"tg-0lax\">(4) $\\mathrm{POCl}_3$</td>\n  </tr>\n  <tr>\n    <td class=\"tg-0lax\"></td>\n    <td class=\"tg-0lax\">(5) $\\mathrm{H}_3 \\mathrm{PO}_4$</td>\n  </tr>\n</tbody>\n</table>",
+      "options": [
+        {
+          "key": "A",
+          "value": "$\\mathrm{P} \\rightarrow 2 ; \\mathrm{Q} \\rightarrow 3 ; \\mathrm{R} \\rightarrow 1 ; \\mathrm{S} \\rightarrow 5$"
+        },
+        {
+          "key": "B",
+          "value": "$\\mathrm{P} \\rightarrow 3 ; \\mathrm{Q} \\rightarrow 5 ; \\mathrm{R} \\rightarrow 4 ; \\mathrm{S} \\rightarrow 2$"
+        },
+        {
+          "key": "C",
+          "value": "$\\mathrm{P} \\rightarrow 5 ; \\mathrm{Q} \\rightarrow 2 ; \\mathrm{R} \\rightarrow 1 ; \\mathrm{S} \\rightarrow 3$"
+        },
+        {
+          "key": "D",
+          "value": "$\\mathrm{P} \\rightarrow 2 ; \\mathrm{Q} \\rightarrow 3 ; \\mathrm{R} \\rightarrow 4 ; \\mathrm{S} \\rightarrow 5$"
+        }
+      ],
+      "answer": "D",
+      "explanation": "<p>To match the reactions given in List-I with the products in List-II, let's analyze each reaction individually based on its reactants and expected products.</p>\n\n<ul>\n<li><strong>Reaction (P):</strong> $\\mathrm{P}_2 \\mathrm{O}_3 + 3 \\mathrm{H}_2 \\mathrm{O} \\rightarrow$ involves the hydration of phosphorus trioxide. The product of this reaction is phosphorous acid:</li>\n</ul>\n<p>$ \\mathrm{P}_2 \\mathrm{O}_3 + 3 \\mathrm{H}_2 \\mathrm{O} \\rightarrow 2 \\mathrm{H}_3 \\mathrm{PO}_3 $</p>\n\n<p>Hence, P matches with (2) $\\mathrm{H}_3 \\mathrm{PO}_3$.</p>\n\n<ul>\n<li><strong>Reaction (Q):</strong> $\\mathrm{P}_4 + 3 \\mathrm{NaOH} + 3 \\mathrm{H}_2 \\mathrm{O} \\rightarrow$ involves the reaction of phosphorus with a base (NaOH) and water, leading to the production of phosphine and sodium hypophosphite, not exactly reflected in the products listed, but given the context and possible products, we align with phosphorus chemistry principles. Typically, reactions involving phosphorus and strong bases can generate phosphine:</li>\n</ul>\n<p>$ \\mathrm{P}_4 + \\mathrm{NaOH} + 3 \\mathrm{H}_2 \\mathrm{O} \\rightarrow \\mathrm{PH}_3 +\\mathrm{NaH}_2 \\mathrm{PO}_2 $</p>\n\n<p>Thus, Q matches best with (3) $\\mathrm{PH}_3$ given the options, acknowledging the simplicity of the given answer choices.</p>\n\n<ul>\n<li><strong>Reaction (R):</strong> $\\mathrm{PCl}_5 + \\mathrm{CH}_3 \\mathrm{COOH} \\rightarrow$ involves phosphorus pentachloride and acetic acid. The key reaction here is that $\\mathrm{PCl}_5$ reacts with $\\mathrm{CH}_3\\mathrm{COOH}$ to replace $\\mathrm{OH}$ groups in acetic acid with $\\mathrm{Cl}$, creating acetyl chloride $\\mathrm{CH}_3\\mathrm{COCl}$ and $\\mathrm{POCl}_3$:</li>\n</ul>\n<p>$ \\mathrm{PCl}_5 + \\mathrm{CH}_3 \\mathrm{COOH} \\rightarrow \\mathrm{CH}_3\\mathrm{COCl} + \\mathrm{POCl}_3 $</p>\n\n<p>Therefore, R matches with (4) $\\mathrm{POCl}_3$.</p>\n\n<ul>\n<li><strong>Reaction (S):</strong> $\\mathrm{H}_3 \\mathrm{PO}_2 + 2 \\mathrm{H}_2 \\mathrm{O} + 4 \\mathrm{AgNO}_3 \\rightarrow$ involves hypophosphorous acid reacting in an oxidative environment given by silver nitrate, leading to the production of orthophosphoric acid among other products:</li>\n</ul>\n<p>$ \\mathrm{H}_3 \\mathrm{PO}_2 + 2 \\mathrm{H}_2 \\mathrm{O} + 4 \\mathrm{AgNO}_3 \\rightarrow \\mathrm{H}_3 \\mathrm{PO}_4 +\\mathrm{Ag}+\\mathrm{HNO}_3 $</p>\n\n<p>S, therefore, matches with (5) $\\mathrm{H}_3 \\mathrm{PO}_4$.</p>\n\n<p>Given these reactions and the best fits for the products listed,</p>\n\n<ul>\n<li>P matches with 2,</li><br>\n<li>Q matches with 3,</li><br>\n<li>R matches with 4,</li><br>\n<li>S matches with 5.</li>\n</ul>\n<p>Thus, the correct option is <strong>Option D</strong>: $\\mathrm{P} \\rightarrow 2 ; \\mathrm{Q} \\rightarrow 3 ; \\mathrm{R} \\rightarrow 4 ; \\mathrm{S} \\rightarrow 5$.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The reaction of $\\mathrm{HClO}_{3}$ with $\\mathrm{HCl}$ gives a paramagnetic gas, which upon reaction with $\\mathrm{O}_{3}$ produces",
+      "options": [
+        {
+          "key": "A",
+          "value": "$\\mathrm{Cl}_{2} \\mathrm{O}$"
+        },
+        {
+          "key": "B",
+          "value": "$\\mathrm{ClO}_{2}$"
+        },
+        {
+          "key": "C",
+          "value": "$\\mathrm{Cl}_{2} \\mathrm{O}_{6}$"
+        },
+        {
+          "key": "D",
+          "value": "$\\mathrm{Cl}_{2} \\mathrm{O}_{7}$"
+        }
+      ],
+      "answer": "C",
+      "explanation": "$\\mathrm{HClO}_3$ reacts with $\\mathrm{HCl}$ according to the following equation,\n<br/><br/>$$\n2 \\mathrm{HClO}_3+2 \\mathrm{HCl} \\longrightarrow 2 \\mathrm{ClO}_2+\\mathrm{Cl}_2+2 \\mathrm{H}_2 \\mathrm{O}\n$$\n<br/><br/>$\\mathrm{ClO}_2$ molecule is paramagnetic, as it contains odd number of electrons.\n<br/><br/>$$\n2 \\mathrm{ClO}_2+2 \\mathrm{O}_3 \\longrightarrow \\mathrm{Cl}_2 \\mathrm{O}_6+2 \\mathrm{O}_2\n$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The reaction of $\\mathrm{Pb}\\left(\\mathrm{NO}_{3}\\right)_{2}$ and $\\mathrm{NaCl}$ in water produces a precipitate that dissolves upon the addition of $\\mathrm{HCl}$ of appropriate concentration. The dissolution of the precipitate is due to the formation of",
+      "options": [
+        {
+          "key": "A",
+          "value": "$\\mathrm{PbCl}_{2}$"
+        },
+        {
+          "key": "B",
+          "value": "$\\mathrm{PbCl}_{4}$"
+        },
+        {
+          "key": "C",
+          "value": "$\\left[\\mathrm{PbCl}_{4}\\right]^{2-}$"
+        },
+        {
+          "key": "D",
+          "value": "$\\left[\\mathrm{PbCl}_{6}\\right]^{2-}$"
+        }
+      ],
+      "answer": "C",
+      "explanation": "$\\mathrm{Pb}^{2+}$ on reaction with $\\mathrm{Cl}^{-}$, produces white precipitate of $\\mathrm{PbCl}_2$\n<br/><br/>$$\n\\mathrm{Pb}^{2+}+2 \\mathrm{Cl}^{-} \\longrightarrow \\mathrm{PbCl}_2 \\downarrow\n$$\n(White)\n<br/><br/>This precipitate is soluble in concentrated hydrochloric acid due to formation of tetrachloroplumbate (II) ion\n<br/><br/>$$\n\\mathrm{PbCl}_2 \\downarrow+2 \\mathrm{Cl}^{-} \\longrightarrow\\left[\\mathrm{PbCl}_4\\right]^{2-}\n$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "$$Y$$ and $$Z$$ are, respectively  ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$${N_2}{O_3}$$ and $${H_3}P{O_4}$$ "
+        },
+        {
+          "key": "B",
+          "value": "$${N_2}{O_5}$$ and $$HP{O_3}$$ "
+        },
+        {
+          "key": "C",
+          "value": "$${N_2}{O_4}$$ and $$HP{O_3}$$ "
+        },
+        {
+          "key": "D",
+          "value": "$${N_2}{O_4}$$ and $${H_3}P{O_3}$$ "
+        }
+      ],
+      "answer": "B",
+      "explanation": "Reaction of $\\mathrm{P}_4 \\mathrm{O}_{10}$ with pure nitric acid $\\left(\\mathrm{HNO}_3\\right)$ gives dinitrogen pentaoxide $\\left(\\mathrm{N}_2 \\mathrm{O}_5\\right)$ and metaphosphoric acid $\\left(\\mathrm{HPO}_3\\right)$<br/><br/>\n$$\n\\mathrm{P}_4 \\mathrm{O}_{10}+4 \\mathrm{HNO}_3 \\rightarrow \\underset{Z}{4 \\mathrm{HPO}_3}+\\underset{Y}{2 \\mathrm{~N}_2 \\mathrm{O}_5}\n$$<br/><br/>\nThe compound $\\mathrm{Y}$ is dinitrogen pentaoxide $\\left(\\mathrm{N}_2 \\mathrm{O}_5\\right)$ and compound $\\mathrm{Z}$ is metaphosphoric $\\operatorname{acid}\\left(\\mathrm{HPO}_3\\right)$."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "$$W$$ and $$X$$ are, respectively",
+      "options": [
+        {
+          "key": "A",
+          "value": "$${O_3}$$ and $${P_4}{O_6}$$ "
+        },
+        {
+          "key": "B",
+          "value": "$${O_2}$$ and $${P_4}{O_6}$$ "
+        },
+        {
+          "key": "C",
+          "value": "$${O_2}$$ and $${P_4}{O_{10}}$$ "
+        },
+        {
+          "key": "D",
+          "value": "$${O_3}$$ and $${P_4}{O_{10}}$$ "
+        }
+      ],
+      "answer": "C",
+      "explanation": "(i) Potassium chlorate $\\left(\\mathrm{KClO}_3\\right)$ is decomposed in presence of $\\mathrm{MnO}_2$ as catalyst to form potassium chloride and oxygen gas.<br/><br/>\n$2 \\mathrm{KClO}_3(s) \\underset{\\mathrm{MnO}_2}{\\stackrel{\\Delta}{\\longrightarrow}} 2 \\mathrm{KCl}+\\underset{(w)}{3 \\mathrm{O}_2(g)}$<br/>\n<br/>\nThe gas $(w)$ is oxygen.<br/><br/>\n(ii) Reaction of white phosphorous with excess of gas $w$ (i.e., $\\mathrm{O}_2$ ) gives $\\mathrm{P}_4 \\mathrm{O}_{10}$ (a dimer of phosphorous pentaoxide).<br/><br/>\n$$\n\\underset{\\text{White}}{\\mathrm{P}_4(s)}+\\underset{\\text{(excess)}}{5 \\mathrm{O}_2(g)} \\rightarrow \\underset{(X)}{\\mathrm{P}_4 \\mathrm{O}_{10}(s)}$$<br/><br/>\nphosphorous oxygen <br/><br/>The compound $(X)$ is $\\mathrm{P}_4 \\mathrm{O}_{10}$."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>The increasing order of atomic radii of the following group 13 elements is</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "Al < Ga < In < Tl"
+        },
+        {
+          "key": "B",
+          "value": "Ga < Al < In < Tl"
+        },
+        {
+          "key": "C",
+          "value": "Al < In < Ga < Tl"
+        },
+        {
+          "key": "D",
+          "value": "Al < Ga < Tl < In"
+        }
+      ],
+      "answer": "B",
+      "explanation": "<p>The increasing order of atomic radii is as follows:</p>\n<p>Ga < Al < In < Tl</p>\nThe atomic radius generally increases on moving down a group in the periodic table. As an anomaly, the atomic radius of Ga is less than that of aluminium because of poor shielding of nuclear charge by 10 number of 3d electrons. As a result, the outershell electrons are held more firmly by the nucleus and contraction of radius is observed. This contraction is also called d-block contraction. The size of Tl is similarly affected by 14 number of 4f electrons (lanthanoid contraction) and the atomic radius of Tl is almost similar in size to In.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>The product formed in the reaction of SOCl<sub>2</sub> with white phosphorus is</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "PCl<sub>3</sub>"
+        },
+        {
+          "key": "B",
+          "value": "SO<sub>2</sub>Cl<sub>2</sub>"
+        },
+        {
+          "key": "C",
+          "value": "SCl<sub>2</sub>"
+        },
+        {
+          "key": "D",
+          "value": "POCl<sub>3</sub>"
+        }
+      ],
+      "answer": "A",
+      "explanation": "<p>The reaction involved is</p>\n<p>P<sub>4</sub> + 8SOCl<sub>2</sub> $$\\to$$ 4PCl<sub>3</sub> + 4SO<sub>2</sub> + 2S<sub>2</sub>Cl<sub>2</sub></p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "P and Q, respectively, are the sodium salts of",
+      "options": [
+        {
+          "key": "A",
+          "value": "Hypochlorous and chloric acids."
+        },
+        {
+          "key": "B",
+          "value": "Hypochlorous and chlorous acids."
+        },
+        {
+          "key": "C",
+          "value": "Chloric and perchloric acids."
+        },
+        {
+          "key": "D",
+          "value": "Chloric and hypochlorous acids."
+        }
+      ],
+      "answer": "A",
+      "explanation": "<p>The reactions involved are</p>\n<p>Cl<sub>2</sub> + 2NaOH (cold, dil.) $$\\to$$ $$\\mathop {NaOCl}\\limits_{(P)} $$ + NaCl + H<sub>2</sub>O</p>\n<p>3Cl<sub>2</sub> + 6NaOH (hot, conc.) $$\\to$$ $$\\mathop {NaCl{O_3}}\\limits_{(Q)} $$ + 5NaCl + 3H<sub>2</sub>O</p>\n<p>where NaOCl and NaClO<sub>3</sub> are salts of hypochlorous acid (HOCl) and chloric acid (HClO<sub>3</sub>), respectively.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>R, S and T respectively, are</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "SO<sub>2</sub>Cl<sub>2</sub>, PCl<sub>5</sub> and H<sub>3</sub>PO<sub>4</sub>"
+        },
+        {
+          "key": "B",
+          "value": "SO<sub>2</sub>Cl<sub>2</sub>, PCl<sub>3</sub> and H<sub>3</sub>PO<sub>3</sub>"
+        },
+        {
+          "key": "C",
+          "value": "SOCl<sub>2</sub>, PCl<sub>3</sub> and H<sub>3</sub>PO<sub>2</sub>"
+        },
+        {
+          "key": "D",
+          "value": "SOCl<sub>2</sub>, PCl<sub>5</sub> and H<sub>3</sub>PO<sub>4</sub>"
+        }
+      ],
+      "answer": "A",
+      "explanation": "<p>The reactions involved are</p>\n<p>$$S{O_2} + C{l_2}\\buildrel {Charcoal} \\over\n \\longrightarrow \\mathop {S{O_2}C{l_2}}\\limits_{(R)} $$</p>\n<p>$$\\mathop {10S{O_2}C{l_2}}\\limits_{(R)}  + {P_4} \\to \\mathop {4PC{l_5}}\\limits_{(S)}  + 10S{O_2}$$</p>\n<p>$$\\mathop {PC{l_5}}\\limits_{(S)}  + 4{H_2}O \\to \\mathop {{H_3}P{O_4}}\\limits_{(T)}  + 5HCl$$</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>The unbalanced chemical reactions given in List I show missing reagent or condition (?) which are provided in List II. Match List I with List II and select the correct answer using the code given below the lists :</p>\n<p><style type=\"text/css\">\n.tg  {border-collapse:collapse;border-spacing:0;}\n.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg .tg-baqh{text-align:center;vertical-align:top}\n.tg .tg-0lax{text-align:left;vertical-align:top}\n</style>\n<table class=\"tg\">\n<thead>\n  <tr>\n    <th class=\"tg-0lax\"></th>\n    <th class=\"tg-baqh\">List I</th>\n    <th class=\"tg-0lax\"></th>\n    <th class=\"tg-baqh\">List II</th>\n  </tr>\n</thead>\n<tbody>\n  <tr>\n    <td class=\"tg-0lax\">P.</td>\n    <td class=\"tg-0lax\">$$Pb{O_2} + {H_2}S{O_4}\\buildrel ? \\over<br> \\longrightarrow PbS{O_4} + {O_2} + Other\\,products$$</td>\n    <td class=\"tg-0lax\">1.</td>\n    <td class=\"tg-0lax\">NO</td>\n  </tr>\n  <tr>\n    <td class=\"tg-0lax\">Q.</td>\n    <td class=\"tg-0lax\">$$N{a_2}{S_2}{O_3} + {H_2}O\\buildrel ? \\over<br> \\longrightarrow NaHS{O_4} + Other\\,products$$</td>\n    <td class=\"tg-0lax\">2.</td>\n    <td class=\"tg-0lax\">$${I_2}$$</td>\n  </tr>\n  <tr>\n    <td class=\"tg-0lax\">R.</td>\n    <td class=\"tg-0lax\">$${N_2}{H_4}\\buildrel ? \\over<br> \\longrightarrow {N_2} + Other\\,products$$</td>\n    <td class=\"tg-0lax\">3.</td>\n    <td class=\"tg-0lax\">Warm</td>\n  </tr>\n  <tr>\n    <td class=\"tg-0lax\">S.</td>\n    <td class=\"tg-0lax\">$$Xe{F_2}\\buildrel ? \\over<br> \\longrightarrow Xe + Other\\,products$$</td>\n    <td class=\"tg-0lax\">4.</td>\n    <td class=\"tg-0lax\">$$C{l_2}$$</td>\n  </tr>\n</tbody>\n</table></p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "P-4, Q-2, R-3, S-1"
+        },
+        {
+          "key": "B",
+          "value": "P-3, Q-2, R-1, S-4"
+        },
+        {
+          "key": "C",
+          "value": "P-1, Q-4, R-2, S-3"
+        },
+        {
+          "key": "D",
+          "value": "P-3, Q-4, R-2, S-1"
+        }
+      ],
+      "answer": "D",
+      "explanation": "<p>The reactions involved are as follows:</p>\n<p>(P) $$Pb{O_2} + {H_2}S{O_4}\\buildrel {Warm} \\over\n \\longrightarrow PbS{O_4} + {H_2}O + {1 \\over 2}{O_2}$$</p>\n<p>(Q) $$2N{a_2}{S_2}{O_3} + 2{H_2}O + C{l_2} \\to 2NaCl + 2NaHS{O_4} + 2S$$</p>\n<p>(R) $${N_2}{H_4} + 2{I_2} \\to {N_2} + 4HI$$</p>\n<p>(S) $$Xe{F_2} + 2NO \\to Xe + 2NOF$$</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Concentrated nitric acid, upon long standing, turns yellow-brown due to the formation of</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "NO"
+        },
+        {
+          "key": "B",
+          "value": "NO<sub>2</sub>"
+        },
+        {
+          "key": "C",
+          "value": "N<sub>2</sub>O"
+        },
+        {
+          "key": "D",
+          "value": "N<sub>2</sub>O<sub>4</sub>"
+        }
+      ],
+      "answer": "B",
+      "explanation": "<p>The reaction involved is 4HNO<sub>3</sub> $$\\to$$ 4NO<sub>2</sub> + 2H<sub>2</sub>O + O<sub>2</sub>. The yellow-brown color appears due to the formation of NO<sub>2</sub>.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>The reaction of white phosphorous with aqueous NaOH gives phosphine along with another phosphorus containing compound. The reaction type; the oxidation states of phosphorus in phosphine and the other product are, respectively,</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "redox reaction; $$-$$3 and $$-$$5"
+        },
+        {
+          "key": "B",
+          "value": "redox reaction; +3 and +5"
+        },
+        {
+          "key": "C",
+          "value": "disproportionation reaction; $$-$$3 and +1"
+        },
+        {
+          "key": "D",
+          "value": "disproportionation reaction; $$-$$3 and +3"
+        }
+      ],
+      "answer": "C",
+      "explanation": "<p>According to the reaction</p>\n<p>P<sub>4</sub> + NaOH + 3H<sub>2</sub>O $$\\to$$ PH<sub>3</sub> + 3NaH<sub>2</sub>PO<sub>2</sub></p>\n<p>oxidation state of phosphorus in P<sub>4</sub> is zero while in PH<sub>3</sub> it is $$-$$3 and in NaH<sub>2</sub>PO<sub>2</sub>, it is +1. This shows that this is a type of disproportionation reaction because there is an increase as well as decrease in the oxidation state of phosphorus.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Bleaching powder contains a salt of an oxoacid as one of its components. The anhydride of that oxoacid is</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "Cl<sub>2</sub>O"
+        },
+        {
+          "key": "B",
+          "value": "Cl<sub>2</sub>O<sub>7</sub>"
+        },
+        {
+          "key": "C",
+          "value": "ClO<sub>2</sub>"
+        },
+        {
+          "key": "D",
+          "value": "Cl<sub>2</sub>O<sub>6</sub>"
+        }
+      ],
+      "answer": "A",
+      "explanation": "<p>Bleaching powder is CaOCl<sub>2</sub> which contains HOCl as an oxoacid and the anhydride of which is Cl<sub>2</sub>O.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>25 mL of household bleach solution was mixed with 30 mL of 0.50 M KI and 10 mL of 4 N acetic acid. In the titration of the liberated iodine, 48 mL of 0.25 N Na<sub>2</sub>S<sub>2</sub>O<sub>3</sub> was used to reach the end point. The molarity of the household bleach solution is</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "0.48 M"
+        },
+        {
+          "key": "B",
+          "value": "0.96 M"
+        },
+        {
+          "key": "C",
+          "value": "0.24 M"
+        },
+        {
+          "key": "D",
+          "value": "0.024 M"
+        }
+      ],
+      "answer": "C",
+      "explanation": "<p>Consider the titration reaction</p>\n<p>CaOCl<sub>2</sub> + 2KI $$\\to$$ I<sub>2</sub> + Ca(OH)<sub>2</sub> + KCl</p>\n<p>According to this reaction, 25 mL of CaOCl<sub>2</sub> reacts with 30 mL of 0.50 M KI</p>\n<p>I<sub>2</sub>  + 2Na<sub>2</sub>S<sub>2</sub>O<sub>3</sub> $$\\to$$ Na<sub>2</sub>S<sub>4</sub>O<sub>6</sub> + 2NaI</p>\n<p>Given that 48 mL of 0.25 N Na<sub>2</sub>S<sub>2</sub>O<sub>3</sub> was used to reach the end point. So, the number of moles of I<sub>2</sub> produced = 48 $$\\times$$ 0.25/2 = 6.</p>\n<p>According to the reaction,</p>\n<p>Number of millimoles of bleaching powder = Number of moles of I<sub>2</sub> = (1/2) $$\\times$$ Number of moles of Na<sub>2</sub>S<sub>2</sub>O<sub>3</sub> = 6</p>\n<p>So, the molarity of CaOCl<sub>2</sub> is</p>\n<p>$${{Number\\,of\\,moles\\,of\\,bleaching\\,powder} \\over {Volume\\,of\\,solution}} = {{6\\,mmol} \\over {25\\,mL}} = 0.24M$$</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Which ordering of compounds is according to the decreasing order of the oxidation state of nitrogen?</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "HNO<sub>3</sub>, NO, NH<sub>4</sub>Cl, N<sub>2</sub>"
+        },
+        {
+          "key": "B",
+          "value": "HNO<sub>3</sub>, NO, N<sub>2</sub>, NH<sub>4</sub>Cl"
+        },
+        {
+          "key": "C",
+          "value": "HNO<sub>3</sub>, NH<sub>4</sub>Cl, NO, N<sub>2</sub>"
+        },
+        {
+          "key": "D",
+          "value": "NO, HNO<sub>3</sub>, NH<sub>4</sub>Cl, N<sub>2</sub>"
+        }
+      ],
+      "answer": "B",
+      "explanation": "<p>In HNO<sub>3</sub>, the oxidation state of N is +5 while in NO, it is +2. In N<sub>2</sub>, it is zero and in NH<sub>4</sub>Cl, the oxidation state of nitrogen is $$-$$3. So, the decreasing order of oxidation state of nitrogen is</p>\n<p>HNO<sub>3</sub> > NO > N<sub>2</sub> > NH<sub>4</sub>Cl</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Extra very pure N<sub>2</sub> can be obtained by heating</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "NH<sub>3</sub> with CuO"
+        },
+        {
+          "key": "B",
+          "value": "NH<sub>4</sub>NO<sub>3</sub>"
+        },
+        {
+          "key": "C",
+          "value": "(NH<sub>4</sub>)<sub>2</sub>CrO<sub>7</sub>"
+        },
+        {
+          "key": "D",
+          "value": "Ba(N<sub>3</sub>)<sub>2</sub>"
+        }
+      ],
+      "answer": "D",
+      "explanation": "<p>Extra pure N<sub>2</sub> can be obtained by heating Ba(N<sub>3</sub>)<sub>2</sub>.</p>\n<h3>Explanation</h3>\n<h4>Thermal Decomposition of Barium Azide</h4>\n<p>Thermal decomposition of barium azide produces very pure nitrogen gas (N<sub>2</sub>).</p>\n<p>$$\\text{Ba(N}_3)_2 \\xrightarrow{\\Delta} \\text{Ba}(s) + 3\\text{N}_2(g)$$</p>\n<p>This reaction yields pure nitrogen gas.</p>\n<h4>Decomposition of Ammonium Dichromate</h4>\n<p>Decomposition of ammonium dichromate ((NH<sub>4</sub>)<sub>2</sub>Cr<sub>2</sub>O<sub>7</sub>) produces chromium (III) oxide as impurities.</p>\n<p>$$(\\text{NH}_4)_2\\text{Cr}_2\\text{O}_7 \\xrightarrow{\\Delta} \\text{N}_2(g) + 4\\text{H}_2\\text{O} + \\text{Cr}_2\\text{O}_3(s)$$</p>\n<p>While nitrogen gas is produced, chromium oxide impurities also form.</p>\n<h4>Heating Ammonium Nitrate</h4>\n<p>Heating ammonium nitrate (NH<sub>4</sub>NO<sub>3</sub>) results in the formation of nitrous oxide and water, not pure nitrogen gas.</p>\n<p>$$\\text{NH}_4\\text{NO}_3 \\xrightarrow{\\Delta} \\text{N}_2\\text{O}(g) + \\text{H}_2\\text{O}$$</p>\n<p>No nitrogen gas is produced in this reaction.</p>\n<h4>Reaction of Ammonia with Copper Oxide</h4>\n<p>The reaction between ammonia (NH<sub>3</sub>) and copper oxide (CuO) gives nitrogen gas along with copper as an impurity.</p>\n<p>$$2\\text{NH}_3(g) + 3\\text{CuO}(s) \\rightarrow \\text{N}_2(g) + 3\\text{Cu}(s) + 3\\text{H}_2\\text{O}(l)$$</p>\n<p>While nitrogen gas is produced, copper impurities remain.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Match each of the reactions given in Column I with the corresponding product(s) given in Column II:</p>\n<p><style type=\"text/css\">\n.tg  {border-collapse:collapse;border-spacing:0;}\n.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}\n.tg .tg-7btt{border-color:inherit;font-weight:bold;text-align:center;vertical-align:top}\n.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}\n.tg .tg-fymr{border-color:inherit;font-weight:bold;text-align:left;vertical-align:top}\n</style>\n<table class=\"tg\" style=\"undefined;table-layout: fixed; width: 642px\">\n<colgroup>\n<col style=\"width: 50px\">\n<col style=\"width: 298px\">\n<col style=\"width: 51px\">\n<col style=\"width: 243px\">\n</colgroup>\n<thead>\n  <tr>\n    <th class=\"tg-c3ow\"></th>\n    <th class=\"tg-7btt\">Column I</th>\n    <th class=\"tg-c3ow\"></th>\n    <th class=\"tg-7btt\">Column II</th>\n  </tr>\n</thead>\n<tbody>\n  <tr>\n    <td class=\"tg-7btt\">(A)</td>\n    <td class=\"tg-0pky\">$$\\mathrm{Cu+dil.~HNO_3}$$</td>\n    <td class=\"tg-7btt\">(P)</td>\n    <td class=\"tg-0pky\">$$\\mathrm{NO}$$</td>\n  </tr>\n  <tr>\n    <td class=\"tg-7btt\">(B)</td>\n    <td class=\"tg-0pky\">$$\\mathrm{Cu+conc.~HNO_3}$$</td>\n    <td class=\"tg-7btt\">(Q)</td>\n    <td class=\"tg-0pky\">$$\\mathrm{NO_2}$$</td>\n  </tr>\n  <tr>\n    <td class=\"tg-7btt\">(C)</td>\n    <td class=\"tg-0pky\">$$\\mathrm{Zn+dil.~HNO_3}$$</td>\n    <td class=\"tg-7btt\">(R)</td>\n    <td class=\"tg-0pky\">$$\\mathrm{N_2O}$$</td>\n  </tr>\n  <tr>\n    <td class=\"tg-7btt\">(D)</td>\n    <td class=\"tg-0pky\">$$\\mathrm{Zn+conc.~HNO_3}$$</td>\n    <td class=\"tg-7btt\">(S)</td>\n    <td class=\"tg-0pky\">$$\\mathrm{Cu(NO_3)_2}$$</td>\n  </tr>\n  <tr>\n    <td class=\"tg-fymr\"></td>\n    <td class=\"tg-0pky\"></td>\n    <td class=\"tg-7btt\">(T)</td>\n    <td class=\"tg-0pky\">$$\\mathrm{Zn(NO_3)_2}$$</td>\n  </tr>\n</tbody>\n</table></p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "(A)$$\\to$$(P), (S); (B)$$\\to$$(R), (S); (C)$$\\to$$(R), (T); (D)$$\\to$$(R), (T)"
+        },
+        {
+          "key": "B",
+          "value": "(A)$$\\to$$(T), (S); (B)$$\\to$$(P), (S); (C)$$\\to$$(R), (T); (D)$$\\to$$(S), (T)"
+        },
+        {
+          "key": "C",
+          "value": "(A)$$\\to$$(P), (S); (B)$$\\to$$(Q), (S); (C)$$\\to$$(R), (T); (D)$$\\to$$(Q), (T)"
+        },
+        {
+          "key": "D",
+          "value": "(A)$$\\to$$(R), (S); (B)$$\\to$$(Q), (S); (C)$$\\to$$(R), (T); (D)$$\\to$$(S), (T)"
+        }
+      ],
+      "answer": "C",
+      "explanation": "<p>The reactions are as follows:</p>\n<p>(A) 3Cu + 8HNO$$_3$$ (dil.) $$\\to$$ 3Cu(NO$$_3$$)$$_2$$ + 4H$$_2$$O + 2NO</p>\n<p>(B) Cu + 4HNO$$_3$$ (conc.) $$\\to$$ Cu(NO$$_3$$)$$_2$$ + 4H$$_2$$O + 2NO$$_2$$</p>\n<p>(C) 4Zn + 10HNO$$_3$$ (dil.) $$\\to$$ 4Zn(NO$$_3$$)$$_2$$ + 5H$$_2$$O + N$$_2$$O</p>\n<p>(D) Zn + HNO$$_3$$ (conc.) $$\\to$$ Zn(NO$$_3$$)$$_2$$ + 2H$$_2$$O + 2NO$$_2$$</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>The reaction of P$$_4$$ with X leads selectively to P$$_4$$O$$_6$$. The X is</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "Dry O$$_2$$."
+        },
+        {
+          "key": "B",
+          "value": "A mixture of O$$_2$$ and N$$_2$$."
+        },
+        {
+          "key": "C",
+          "value": "Moist O$$_2$$."
+        },
+        {
+          "key": "D",
+          "value": "O$$_2$$ in the presence of aqueous NaOH."
+        }
+      ],
+      "answer": "B",
+      "explanation": "<p>Phosphorus reacts with limited supply of oxygen to form the given product.</p>\n<p>P$$_4$$ + 3O$$_2$$ $$\\to$$ P$$_4$$O$$_6$$</p>\n<p>N$$_2$$ is used to retard the further oxidation.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Statement 1 : Pb$$^{4+}$$ compounds are stronger oxidising agents than Sn$$^{4+}$$ compounds.</p>\n<p>and</p>\n<p>Statement 2 : The higher oxidation states for the group 14 elements are more stable for the heavier members of the group due to 'inert pair effect'.</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "Statement 1 is True, Statement 2 is True; Statement 2 is correct explanation for Statement 1."
+        },
+        {
+          "key": "B",
+          "value": "Statement 1 is True, Statement 2 is True; Statement 2 is NOT correct explanation for Statement 1."
+        },
+        {
+          "key": "C",
+          "value": "Statement 1 is True, Statement 2 is False."
+        },
+        {
+          "key": "D",
+          "value": "Statement 1 is False, Statement 2 is True."
+        }
+      ],
+      "answer": "C",
+      "explanation": "<p>In p-block elements, inert pair effect is observed, due to which lower oxidation state becomes more stable on going down the group. In 14<sup>th</sup> group (C, Si, Ge, Sn, Pb) Pb is placed at lower position than Sn, that's why lower oxidation state is more stable for lead (Pb$$^{2+}$$) and Sn$$^{+4}$$ is more stable than Pb$$^{+4}$$. So, Pb$$^{+4}$$ compounds are stronger oxidising agents than Sn$$^{+4}$$ compounds. Lower oxidation for the group 14<sup>th</sup> elements are more stable for the heavier members.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Among the following, the correct statement is:</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "Phosphates have no biological significance in humans."
+        },
+        {
+          "key": "B",
+          "value": "Between nitrates and phosphates, phosphates are less abundant in earth's crust."
+        },
+        {
+          "key": "C",
+          "value": "Between nitrates and phosphates, nitrates are less abundant in earth's crust."
+        },
+        {
+          "key": "D",
+          "value": "Oxidation of nitrates is possible in soil."
+        }
+      ],
+      "answer": "C",
+      "explanation": "<p>Due to greater solubility and nature to be prone to microbial action, nitrates are less abundant in earth's crust. Nitrates are soluble. In nitrates, nitrogen has maximum oxidation state and cannot be further oxidised.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Among the following, the correct statement is :</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "Between NH$$_3$$ and PH$$_3$$, NH$$_3$$ is better electron donor because the lone pair of electrons occupies spherical 's' orbital and is less directional."
+        },
+        {
+          "key": "B",
+          "value": "Between NH$$_3$$ and PH$$_3$$, PH$$_3$$ is a better electron donor because the lone pair of electrons occupies sp$$^3$$ orbital and is more directional."
+        },
+        {
+          "key": "C",
+          "value": "Between NH$$_3$$ and PH$$_3$$, NH$$_3$$ is a better electron donor because the lone pair of electrons occupies sp$$^3$$ orbital and is more directional."
+        },
+        {
+          "key": "D",
+          "value": "Between NH$$_3$$ and PH$$_3$$, PH$$_3$$ is better electron donor because the lone pair of electrons occupies spherical 's' orbital and is less directional."
+        }
+      ],
+      "answer": "C",
+      "explanation": "<p>Both NH$$_3$$ and PH$$_3$$ have one lone pair of electron on it. The lone pair in case of ammonia occupy sp$$^3$$ orbital is directional.</p>\n<p>Hence, the lone pair in case of ammonia is easily available and can be easily donated. But for PH$$_3$$ the lone pair of electrons occupy spherical s-orbital which is less directional and thus its lone pair is not easily available neither it can be donated easily.</p>\n<p>Also the lone pair of electrons in sp$$^3$$ orbital has lesser s-character and less attracted by nucleus and available for easy donation than in PH$$_3$$ with pure s orbital, the lone pair in which lone pair are more strongly attracted by nucleus. As we go down a group, the p-character in bond pair increases and the s-character in lone pair increases.</p>\n<p>Thus ammonia is a better base than PH$$_3$$.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>White phosphorus on reaction with NaOH gives PH$$_3$$ as one of the products. This is a:</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "dimerisation reaction"
+        },
+        {
+          "key": "B",
+          "value": "disproportionation reaction"
+        },
+        {
+          "key": "C",
+          "value": "condensation reaction"
+        },
+        {
+          "key": "D",
+          "value": "precipitation reaction"
+        }
+      ],
+      "answer": "B",
+      "explanation": "<p>White phosphorus on reaction with NaOH gives PH$$_3$$ as one of the products.</p>\n<p>P$$_4$$ + 3NaOH + 3H$$_2$$O $$\\to$$ 3NaH$$_2$$PO$$_2$$ + PH$$_3$$</p>\n<p>The oxidation state of P in P$$_4$$, NaH$$_2$$PO$$_2$$ and PH$$_3$$ is 0, +1 and $$-$$3 respectively. It is an example of disproportionation reaction.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The oxidation number of sulphur in S<sub>8</sub>,S<sub>2</sub>F<sub>2</sub>,H<sub>2</sub>S \nrespectively, are",
+      "options": [
+        {
+          "key": "A",
+          "value": "0, +1 and -2"
+        },
+        {
+          "key": "B",
+          "value": "+2, +1 and -2"
+        },
+        {
+          "key": "C",
+          "value": "0, +1 and +2"
+        },
+        {
+          "key": "D",
+          "value": "-2, +1 and -2"
+        }
+      ],
+      "answer": "A",
+      "explanation": "<p>The oxidation number of an atom in a molecule or an ion is essentially a theoretical charge that the atom would have if all the bonds to atoms of different elements were completely ionic. To determine the oxidation numbers of sulfur in the given compounds: S<sub>8</sub>, S<sub>2</sub>F<sub>2</sub>, and H<sub>2</sub>S, let's analyze them one by one.</p>\n\n<p><strong>1. In S<sub>8</sub>:</strong> This is an elemental form of sulfur, comprising of sulfur atoms only. In elemental forms, the atoms are not bonded to atoms of a different element, but only to themselves. In such cases, the oxidation number is always 0. Hence, the oxidation number of sulfur in S<sub>8</sub> is 0.</p>\n\n<p><strong>2. In S<sub>2</sub>F<sub>2</sub>:</strong> This is a molecule consisting of sulfur and fluorine. Fluorine is more electronegative than sulfur and virtually always has an oxidation number of -1 in its compounds. Let's denote the oxidation number of sulfur as $x$. Since there are two fluorine atoms, each contributing -1, and the overall molecule is neutral, we get:</p>\n\n<p>$2x + (2 \\times -1) = 0$</p>\n\n<p>$2x - 2 = 0$</p>\n\n<p>$2x = 2$</p>\n\n<p>$x = +1$</p>\n\n<p>Therefore, the oxidation number of sulfur in S<sub>2</sub>F<sub>2</sub> is +1.</p>\n\n<p><strong>3. In H<sub>2</sub>S:</strong> In this compound, hydrogen has an oxidation number of +1 (except when bonded to metals where it can be -1). Since there are two hydrogens, their total contribution is +2. Let's denote the oxidation number of sulfur in this compound as $x$. The compound is neutral overall, so:</p>\n\n<p>$2(+1) + x = 0$</p>\n\n<p>$2 + x = 0$</p>\n\n<p>$x = -2$</p>\n\n<p>Therefore, the oxidation number of sulfur in H<sub>2</sub>S is -2.</p>\n\n<p>Comparing with the given options, the correct answers are 0, +1, and -2 for S<sub>8</sub>, S<sub>2</sub>F<sub>2</sub>, and H<sub>2</sub>S, respectively. Therefore, the correct option is <strong>Option A: 0, +1, and -2</strong>.</p>"
+    },
+    {
+      "_type": "numerical",
+      "body": "<p>Dissolving $1.24 \\mathrm{~g}$ of white phosphorous in boiling $\\mathrm{NaOH}$ solution in an inert atmosphere gives a gas $\\mathbf{Q}$. The amount of $\\mathrm{CuSO}_{4}$ (in g) required to completely consume the gas $\\mathbf{Q}$ is _________.\n</p>\n<p>[Given: Atomic mass of $\\mathrm{H}=1, \\mathrm{O}=16, \\mathrm{Na}=23, \\mathrm{P}=31, \\mathrm{~S}=32, \\mathrm{Cu}=63$ ]</p>",
+      "answer": "2.37TO2.41",
+      "explanation": "<p>$$\\mathop {{P_4}}\\limits_{\\matrix{\n   {1.24\\,g}  \\cr \n   {or}  \\cr \n   {0.01\\,mole}  \\cr \n\n } } +3NaOH+3H_2O\\to PH_3+3NaH_2PO_2$$</p>\n<p>As NaOH is present in excess. So, amount of phosphine formed is 0.01 mole (as P<sub>4</sub> is limiting)</p>\n<p>$$\\mathop {2P{H_3}}\\limits_{0.01\\,mole} +3CuSO_4\\to Cu_3P_2+3H_2SO_4$$</p>\n<p>Amount of CuSO<sub>4</sub> required = $$\\frac{3\\times0.01}{2}$$ mole</p>\n<p>Mass of CuSO<sub>4</sub> (in g) required = $$\\frac{0.03}{2}\\times(63+32+16\\times4)$$</p>\n<p>$$=\\frac{0.03}{2}\\times159=2.38$$ g</p>"
+    },
+    {
+      "_type": "numerical",
+      "body": "<p>Three moles of B<sub>2</sub>H<sub>6</sub> are completely reacted with methanol. The number of moles of boron containing product formed is ____________.</p>",
+      "answer": "6",
+      "explanation": "<p>The reaction is</p>\n<p>B<sub>2</sub>H<sub>6</sub> + 6CH<sub>3</sub>OH $$\\to$$ 2B(OCH<sub>3</sub>)<sub>3</sub> + 6H<sub>2</sub></p>\n<p>From the reaction, 1 mol of B<sub>2</sub>H<sub>6</sub> reacts with 6 mol of CH<sub>3</sub>OH to produce 2 mol of B(OCH<sub>3</sub>)<sub>3</sub>.</p>\n<p>Therefore, 3 mol of B<sub>2</sub>H<sub>6</sub> would react with 18 mol of CH<sub>3</sub>OH to produce 6 mol of B(OCH<sub>3</sub>)<sub>3</sub>.</p>"
+    },
+    {
+      "_type": "numerical",
+      "body": "<p>Among the following, the number of compounds that can react with PCl<sub>5</sub> to given POCl<sub>3</sub> is _____________.</p>\n<p>O<sub>2</sub>, CO<sub>2</sub>, SO<sub>2</sub>, H<sub>2</sub>O, H<sub>2</sub>SO<sub>4</sub>, P<sub>4</sub>O<sub>10</sub></p>",
+      "answer": "5",
+      "explanation": "<p>The following reactions show how PCl<sub>5</sub> reacts with different compounds to form POCl<sub>3</sub> :</p>\n\n<p><p>$$CO_2 + PCl_5 \\rightarrow POCl_3 + COCl_2$$</p></p>\n<p><p>$$H_2O + PCl_5 \\rightarrow POCl_3 + 2HCl$$</p></p>\n<p><p>$$SO_2 + PCl_5 \\rightarrow POCl_3 + SOCl_2$$</p></p>\n<p><p>$$P_4O_{10} + 6PCl_5 \\rightarrow 10POCl_3$$</p></p>\n<p><p>$$H_2SO_4 + PCl_5 \\rightarrow POCl_3 + HSO_3Cl + HCl$$</p></p>\n\n<p>From these reactions, it is clear that CO<sub>2</sub>, H<sub>2</sub>O, SO<sub>2</sub>, P<sub>4</sub>O<sub>10</sub>, and H<sub>2</sub>SO<sub>4</sub> can react with PCl<sub>5</sub> to give POCl<sub>3</sub>. </p>\n<p>There are 5 compounds that meet this criterion.</p>"
+    },
+    {
+      "_type": "numerical",
+      "body": "<p>The value of $$n$$ in the molecular formula $$\\mathrm{Be_n Al_2Si_6O_{18}}$$ is ___________.</p>",
+      "answer": "3",
+      "explanation": "<p>In the given molecular formula $$\\mathrm{Be_n Al_2Si_6O_{18}}$$, according to charge balance in a molecule, we get</p>\n<p>$$2n+2(+3)+6(+4)-18(2)=0$$\n<br/><br/>$$\\Rightarrow n=3$$</p>\n<p>So, the formula is $$\\mathrm{Be_3 Al_2Si_6O_{18}}$$.</p>"
+    }
+  ]
+}

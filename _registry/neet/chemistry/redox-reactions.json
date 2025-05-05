@@ -1,0 +1,319 @@
+{
+  "_index": {
+    "name": "Redox Reactions"
+  },
+  "_children": [
+    {
+      "_type": "single_mcq",
+      "body": "<p>The oxidation states not shown by Mn in given reaction is :</p>\n<p>$$\n3 \\mathrm{MnO}_4^{2-}+4 \\mathrm{H}^{+} \\longrightarrow 2 \\mathrm{MnO}_4^{-}+\\mathrm{MnO}_2+2 \\mathrm{H}_2 \\mathrm{O}\n$$</p>\n<p>A. +6</p>\n<p>B. +2</p>\n<p>C. +4</p>\n<p>D. +7</p>\n<p>E. +3</p>\n<p>Choose the most appropriate answer from the options given below :</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "D and E only"
+        },
+        {
+          "key": "B",
+          "value": "B and D only"
+        },
+        {
+          "key": "C",
+          "value": "A and B only"
+        },
+        {
+          "key": "D",
+          "value": "B and E only"
+        }
+      ],
+      "answer": "D",
+      "explanation": "<p>In the following reaction</p>\n<p>$$3 \\mathrm{MnO}_4^{2-}+4 \\mathrm{H}^{+} \\longrightarrow 2 \\mathrm{MnO}_4^{-}+\\mathrm{MnO}_2+2 \\mathrm{H}_2 \\mathrm{O}$$</p>\n<p><style type=\"text/css\">\n.tg  {border-collapse:collapse;border-spacing:0;}\n.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg .tg-baqh{text-align:center;vertical-align:top}\n.tg .tg-amwm{font-weight:bold;text-align:center;vertical-align:top}\n</style>\n<table class=\"tg\" style=\"undefined;table-layout: fixed; width: 342px\"><colgroup>\n<col style=\"width: 175px\">\n<col style=\"width: 167px\">\n</colgroup>\n<thead>\n  <tr>\n    <th class=\"tg-amwm\">Oxidation state of Mn</th>\n    <th class=\"tg-amwm\">Species</th>\n  </tr></thead>\n<tbody>\n  <tr>\n    <td class=\"tg-baqh\">+6</td>\n    <td class=\"tg-baqh\">MnO$$_4^{2-}$$</td>\n  </tr>\n  <tr>\n    <td class=\"tg-baqh\">+7</td>\n    <td class=\"tg-baqh\">MnO$$_4^{-}$$</td>\n  </tr>\n  <tr>\n    <td class=\"tg-baqh\">+4</td>\n    <td class=\"tg-baqh\">MnO$$_2$$</td>\n  </tr>\n</tbody>\n</table></p>\n<p>So +2 and +3 oxidation state is not shown by Mn.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>The correct option for a redox couple is:</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "Both are oxidised forms involving same element."
+        },
+        {
+          "key": "B",
+          "value": "Both are reduced forms involving same element."
+        },
+        {
+          "key": "C",
+          "value": "Both the reduced and oxidised forms involve same element."
+        },
+        {
+          "key": "D",
+          "value": "Cathode and anode together."
+        }
+      ],
+      "answer": "C",
+      "explanation": "<p>Redox couple is both the reduced and oxidised form involve same element.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>On balancing the given redox reaction,</p>\n<p>$$\\mathrm{aCr}_{2} \\mathrm{O}_{7}^{2-}+\\mathrm{bSO}_{3}^{2-}(\\mathrm{aq})+\\mathrm{cH}^{+}(\\mathrm{aq}) \\rightarrow 2 \\mathrm{aCr}^{3+}(\\mathrm{aq})+\\mathrm{bSO}_{4}^{2-}(\\mathrm{aq})+\\frac{\\mathrm{c}}{2} \\mathrm{H}_{2} \\mathrm{O}(\\ell)$$</p>\n<p>the coefficients $$\\mathrm{a}, \\mathrm{b}$$ and $$\\mathrm{c}$$ are found to be, respectively -</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "3, 8, 1"
+        },
+        {
+          "key": "B",
+          "value": "1, 8, 3"
+        },
+        {
+          "key": "C",
+          "value": "8, 1, 3"
+        },
+        {
+          "key": "D",
+          "value": "1, 3, 8"
+        }
+      ],
+      "answer": "D",
+      "explanation": "<p>Reaction has to be balanced in acidic medium 'O' atoms are balanced by adding $$\\mathrm{H}_{2} \\mathrm{O}$$ and then $$\\mathrm{H}$$-atom is balanced by adding $$\\mathrm{H}^{+}$$ ions and charge is balanced by $$e^{\\ominus}$$.</p>\n<p>Oxidation: $$\\left.\\mathrm{SO}_{3}^{2-}+\\mathrm{H}_{2} \\mathrm{O} \\rightarrow \\mathrm{SO}_{4}^{2-}+2 \\mathrm{H}^{+}+2 e^{\\ominus}\\right] \\times 3$$</p>\n<p>Reduction: $$\\mathrm{Cr}_{2} \\mathrm{O}_{7}^{2-}+14 \\mathrm{H}^{+}+6 e^{\\ominus} \\rightarrow 2 \\mathrm{Cr}^{3+}+7 \\mathrm{H}_{2} \\mathrm{O}$$</p>\n<p>$$\\mathrm{Cr}_{2} \\mathrm{O}_{7}^{2-}+3 \\mathrm{SO}_{3}^{2-}+8 \\mathrm{H}^{\\oplus} \\rightarrow 2 \\mathrm{Cr}^{3+}+3 \\mathrm{SO}_{4}^{2-}+4 \\mathrm{H}_{2} \\mathrm{O}$$</p>\n<p>$$\\mathrm{a}=1$$</p>\n<p>$$\\mathrm{b}=3$$</p>\n<p>$$\\mathrm{c}=8$$</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Which of the following reactions is a decomposition redox reaction?</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "P<sub>4</sub>(s) + 3OH<sup>$$-$$</sup>(aq) + 3H<sub>2</sub>O(l) $$\\to$$ PH<sub>3</sub>(g) + 3H<sub>2</sub>PO$$_2^ - $$(aq)"
+        },
+        {
+          "key": "B",
+          "value": "2Pb(NO<sub>3</sub>)<sub>2</sub>(s) $$\\to$$ 2PbO(s) + 4NO<sub>2</sub>(g) + O<sub>2</sub>(g)"
+        },
+        {
+          "key": "C",
+          "value": "N<sub>2</sub>(g) + O<sub>2</sub>(g) $$\\to$$ 2NO(g)"
+        },
+        {
+          "key": "D",
+          "value": "Cl<sub>2</sub>(g) + 2OH<sup>$$-$$</sup>(aq) $$\\to$$ ClO<sup>$$-$$</sup>(aq) + Cl<sup>$$-$$</sup>(aq) + 4H<sub>2</sub>O(l)"
+        }
+      ],
+      "answer": "B",
+      "explanation": "<p>Decomposition redox reaction leads to breakdown of a compound into two or more compounds at least one of which must be in the elemental state with change in oxidation number.</p>\n<p>$$\\mathrm{2Pb{\\left( {N\\mathop {{O_3}}\\limits^{2 - } } \\right)_2}(s) \\to 2PbO(s) + 4N{O_2}(g) + \\mathop {{O_2}}\\limits^0 (g)}$$</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "For the redox reaction,\n<br>MnO<sub>4</sub><sup>–</sup>\n + C<sub>2</sub>O<sub>4</sub>\n<sup>2–</sup> + H<sup>+</sup> $$ \\to $$ Mn<sup>2+</sup> + CO<sub>2</sub>\n + H<sub>2</sub>O\n<br>The correct coefficients of the reactants for\nthe balanced equation are",
+      "options": [
+        {
+          "key": "A",
+          "value": "<table class=\"tg\">\n<thead>\n  <tr>\n    <th class=\"tg-baqh\">MnO<sub>4</sub><sup>-</sup></th>\n    <th class=\"tg-baqh\">C<sub>2</sub>O<sub>4</sub><sup>2-</sup></th>\n    <th class=\"tg-baqh\">H<sup>+</sup></th>\n  </tr>\n</thead>\n<tbody>\n  <tr>\n    <td class=\"tg-baqh\">16</td>\n    <td class=\"tg-baqh\">5</td>\n    <td class=\"tg-baqh\">2</td>\n  </tr>\n</tbody>\n</table>"
+        },
+        {
+          "key": "B",
+          "value": "<table class=\"tg\">\n<thead>\n  <tr>\n    <th class=\"tg-baqh\">MnO<sub>4</sub><sup>-</sup></th>\n    <th class=\"tg-baqh\">C<sub>2</sub>O<sub>4</sub><sup>2-</sup></th>\n    <th class=\"tg-baqh\">H<sup>+</sup></th>\n  </tr>\n</thead>\n<tbody>\n  <tr>\n    <td class=\"tg-baqh\">2</td>\n    <td class=\"tg-baqh\">5</td>\n    <td class=\"tg-baqh\">16</td>\n  </tr>\n</tbody>\n</table>"
+        },
+        {
+          "key": "C",
+          "value": "<table class=\"tg\">\n<thead>\n  <tr>\n    <th class=\"tg-baqh\">MnO<sub>4</sub><sup>-</sup></th>\n    <th class=\"tg-baqh\">C<sub>2</sub>O<sub>4</sub><sup>2-</sup></th>\n    <th class=\"tg-baqh\">H<sup>+</sup></th>\n  </tr>\n</thead>\n<tbody>\n  <tr>\n    <td class=\"tg-baqh\">2</td>\n    <td class=\"tg-baqh\">16</td>\n    <td class=\"tg-baqh\">5</td>\n  </tr>\n</tbody>\n</table>"
+        },
+        {
+          "key": "D",
+          "value": "<table class=\"tg\">\n<thead>\n  <tr>\n    <th class=\"tg-baqh\">MnO<sub>4</sub><sup>-</sup></th>\n    <th class=\"tg-baqh\">C<sub>2</sub>O<sub>4</sub><sup>2-</sup></th>\n    <th class=\"tg-baqh\">H<sup>+</sup></th>\n  </tr>\n</thead>\n<tbody>\n  <tr>\n    <td class=\"tg-baqh\">5</td>\n    <td class=\"tg-baqh\">16</td>\n    <td class=\"tg-baqh\">2</td>\n  </tr>\n</tbody>\n</table>"
+        }
+      ],
+      "answer": "B",
+      "explanation": "The correct balanced equation is\n<br>2MnO<sub>4</sub><sup>–</sup>\n + 5C<sub>2</sub>O<sub>4</sub>\n<sup>2–</sup> + 16H<sup>+</sup> $$ \\to $$ 2Mn<sup>2+</sup> + 10CO<sub>2</sub>\n + 8H<sub>2</sub>O"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The correct order of N-compounds in its\ndecreasing order of oxidation states is",
+      "options": [
+        {
+          "key": "A",
+          "value": "HNO<sub>3</sub>\n, NO, N<sub>2</sub>\n, NH<sub>4</sub>Cl"
+        },
+        {
+          "key": "B",
+          "value": "HNO<sub>3</sub>\n, NO, NH<sub>4</sub>Cl, N<sub>2</sub>"
+        },
+        {
+          "key": "C",
+          "value": "HNO<sub>3</sub>\n, NH<sub>4</sub>Cl, NO, N"
+        },
+        {
+          "key": "D",
+          "value": "NH<sub>4</sub>Cl, N<sub>2</sub>\n, NO, HNO<sub>3</sub>"
+        }
+      ],
+      "answer": "A",
+      "explanation": "$$H\\mathop N\\limits^{ + 5} {O_3},\\mathop N\\limits^{ + 2} O,\\mathop {{N_2}}\\limits^0 ,\\mathop N\\limits^{ - 3} {H_4}Cl$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Hot concentrated sulphate acid is a moderately strong oxidizing agent. Which of the following reactions does not show oxidizing behaviour? ",
+      "options": [
+        {
+          "key": "A",
+          "value": "Cu + 2H<sub>2</sub>SO<sub>4</sub> $$ \\to $$ CuSO<sub>4</sub> + SO<sub>2</sub>  + 2H<sub>2</sub>O"
+        },
+        {
+          "key": "B",
+          "value": "S + 2H<sub>2</sub>SO<sub>4</sub> $$ \\to $$ 3SO<sub>2</sub> + 2H<sub>2</sub>O"
+        },
+        {
+          "key": "C",
+          "value": "C + 2H<sub>2</sub>SO<sub>4</sub> $$ \\to $$ CO<sub>2</sub> + 2SO<sub>2</sub> + 2H<sub>2</sub>O"
+        },
+        {
+          "key": "D",
+          "value": "CaF<sub>2</sub> + H<sub>2</sub>SO<sub>4</sub> $$ \\to $$ CaSO<sub>4</sub> + 2HF"
+        }
+      ],
+      "answer": "D",
+      "explanation": "CaF<sub>2</sub> + H<sub>2</sub>SO<sub>4</sub> $$ \\to $$ CaSO<sub>4</sub> + 2HF\n<br><br>Here, the oxidation state of every atom remains the\nsame so, it is not a redox reaction."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The pair of compounds that can exist together is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "FeCl<sub>3</sub>, SnCl<sub>2</sub>"
+        },
+        {
+          "key": "B",
+          "value": "HgCl<sub>2</sub>, SnCl<sub>2</sub>"
+        },
+        {
+          "key": "C",
+          "value": "FeCl<sub>2</sub>, SnCl<sub>2</sub>"
+        },
+        {
+          "key": "D",
+          "value": "FeCl<sub>3</sub>, KI"
+        }
+      ],
+      "answer": "C",
+      "explanation": "Both FeCl<sub>2</sub>\n and SnCl<sub>2</sub>\n are reducing agents\nwith low oxidation numbers."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A mixture of potassium chlorate, oxalic acid and sulphuric acid is heated. During the reaction which element undergoes maximum change in the oxidation number? ",
+      "options": [
+        {
+          "key": "A",
+          "value": "S"
+        },
+        {
+          "key": "B",
+          "value": "H"
+        },
+        {
+          "key": "C",
+          "value": "Cl"
+        },
+        {
+          "key": "D",
+          "value": "C"
+        }
+      ],
+      "answer": "C",
+      "explanation": "KClO<sub>3</sub> + C<sub>2</sub>H<sub>2</sub>O<sub>4</sub> + H<sub>2</sub>SO<sub>4</sub> $$ \\to $$ K<sub>2</sub>SO<sub>4</sub>\n+ CO<sub>2</sub> + KCl + H<sub>2</sub>O\n<br><br>Maximum change in oxidation number of chlorine,\ni.e., from +5 to –1."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Oxidation numbers of P in PO$$_4^{3 - }$$, of S in SO$$_4^{2 - }$$ and that of Cr in Cr<sub>2</sub>O$$_7^{2 - }$$ are respectively",
+      "options": [
+        {
+          "key": "A",
+          "value": "+3, +6  and +5"
+        },
+        {
+          "key": "B",
+          "value": "+5, +3 and +6"
+        },
+        {
+          "key": "C",
+          "value": "$$-$$3, +6 and + 6"
+        },
+        {
+          "key": "D",
+          "value": "+5, +6 and +6"
+        }
+      ],
+      "answer": "D",
+      "explanation": "Let oxidation number of P in PO<sub>4</sub>\n<sup>3–</sup> be x.\n<br><br>$$ \\therefore $$ x + 4(–2) = –3 \n<br><br>$$ \\Rightarrow $$ x = +5\n<br><br>Let oxidation number of S in SO<sub>4</sub>\n<sup>2–</sup> be y.\n<br><br>$$ \\therefore $$ y + 4(–2) = –2 \n<br><br>$$ \\Rightarrow $$  y = +6\n<br><br>Let oxidation number of Cr in Cr<sub>2</sub>O<sub>7</sub>\n<sup>2–</sup> be z.\n<br><br>$$ \\Rightarrow $$ 2z + 7(–2) = –2 \n<br><br>$$ \\Rightarrow $$ z = +6"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Number of moles of MnO$$_4^{ - }$$ required to oxidize one mole of ferrous oxalate completely in acidic medium will be",
+      "options": [
+        {
+          "key": "A",
+          "value": "7.5 moles"
+        },
+        {
+          "key": "B",
+          "value": "0.2 moles"
+        },
+        {
+          "key": "C",
+          "value": "0.6 moles"
+        },
+        {
+          "key": "D",
+          "value": "0.4 moles"
+        }
+      ],
+      "answer": "C",
+      "explanation": "The balanced ionic equation for oxidation of\nferrous oxalate by MnO<sub>4</sub><sup>–</sup>\n in acidic medium is as\nfollows :\n<br><br>3MnO<sub>4</sub><sup>-</sup> + 5FeC<sub>2</sub>O<sub>4</sub> + 24H<sup>+</sup> $$ \\to $$  \n<br><br>3Mn<sup>2+</sup> + 10CO<sub>2</sub>\n+ 12H<sub>2</sub>O + 5Fe<sup>3+</sup>\n<br><br>Thus, 5 moles of FeC<sub>2</sub>O<sub>4</sub> require 3 moles of MnO<sub>4</sub><sup>-</sup>.\n<br><br> So, 1 mole of FeC<sub>2</sub>O<sub>4</sub> requires\n<br><br>= $${3 \\over 5}$$ = 0.6 moles of MnO<sub>4</sub><sup>-</sup>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Which is the best description of the behaviour of bromine in the reaction given below? \n<br>H<sub>2</sub>O + Br<sub>2</sub> $$ \\to $$ HOBr + HBr",
+      "options": [
+        {
+          "key": "A",
+          "value": "Proton acceptor only"
+        },
+        {
+          "key": "B",
+          "value": "Both oxidised and reduced "
+        },
+        {
+          "key": "C",
+          "value": "Oxidised only"
+        },
+        {
+          "key": "D",
+          "value": "Reduced only"
+        }
+      ],
+      "answer": "B",
+      "explanation": "H<sub>2</sub>O + $${\\mathop {Br}\\limits^0}$$<sub>2</sub> $$ \\to $$ HO$$\\mathop {Br}\\limits^{ + 1} $$ + H$$\\mathop {Br}\\limits^{ - 1} $$\n<br><br>In the above reaction the oxidation number of Br<sub>2</sub>\nincreases from zero (in Br<sub>2</sub>\n) to +1 (in HOBr) and\ndecreases from zero (in Br<sub>2</sub>\n) to –1 (in HBr). Thus Br<sub>2</sub>\nis oxidised as well as reduced and hence it is a redox\nreaction.\n"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The oxidation states of sulphur in the anions \n<br><br>SO3$${_3^{2 - }}$$, S<sub>2</sub>O$${_4^{2 - }}$$  and  S<sub>2</sub>O$${_6^{2 - }}$$  follow the order ",
+      "options": [
+        {
+          "key": "A",
+          "value": "S<sub>2</sub>O$${_4^{2 - }}$$  &lt;  SO$${_3^{2 - }}$$  &lt;  S<sub>2</sub>O$${_6^{2 - }}$$"
+        },
+        {
+          "key": "B",
+          "value": "SO$${_3^{2 - }}$$  &lt;  S<sub>2</sub>O$${_4^{2 - }}$$  &lt;  S<sub>2</sub>O$${_6^{2 - }}$$"
+        },
+        {
+          "key": "C",
+          "value": "S<sub>2</sub>O$${_4^{2 - }}$$  &lt;  S<sub>2</sub>O$${_6^{2 - }}$$  &lt; SO$${_3^{2 - }}$$"
+        },
+        {
+          "key": "D",
+          "value": "S<sub>2</sub>O$${_6^{2 - }}$$  &lt;  S<sub>2</sub>O$${_4^{2 - }}$$  &lt; SO$${_3^{2 - }}$$"
+        }
+      ],
+      "answer": "A",
+      "explanation": "SO<sub>3</sub><sup>2–</sup> : oxidation state of ‘S’ is +4\n<br><br>S<sub>2</sub>O<sub>4</sub><sup>2–</sup> : oxidation state of ‘S’ is +3.\n<br><br>S<sub>2</sub>O<sub>6</sub><sup>2–</sup> : oxidation state of ‘S’ is +5.\n<br><br>So, the order is S<sub>2</sub>O$${_4^{2 - }}$$  &lt;  SO$${_3^{2 - }}$$  &lt;  S<sub>2</sub>O$${_6^{2 - }}$$."
+    }
+  ]
+}

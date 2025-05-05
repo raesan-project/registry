@@ -1,0 +1,34 @@
+{
+  "_index": {
+    "name": "Physics"
+  },
+  "_children": [
+    "./units-and-measurements.json",
+    "./vector-algebra.json",
+    "./motion-in-a-straight-line.json",
+    "./motion-in-a-plane.json",
+    "./circular-motion.json",
+    "./laws-of-motion.json",
+    "./work-power-and-energy.json",
+    "./center-of-mass.json",
+    "./rotational-motion.json",
+    "./properties-of-matter.json",
+    "./heat-and-thermodynamics.json",
+    "./simple-harmonic-motion.json",
+    "./waves.json",
+    "./gravitation.json",
+    "./electrostatics.json",
+    "./current-electricity.json",
+    "./capacitor.json",
+    "./magnetics.json",
+    "./magnetic-properties-of-matter.json",
+    "./electromagnetic-induction.json",
+    "./alternating-current.json",
+    "./electromagnetic-waves.json",
+    "./geometrical-optics.json",
+    "./wave-optics.json",
+    "./atoms-and-nuclei.json",
+    "./dual-nature-of-radiation.json",
+    "./electronic-devices.json"
+  ]
+}

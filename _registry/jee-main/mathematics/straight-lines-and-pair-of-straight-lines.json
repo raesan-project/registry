@@ -1,0 +1,1465 @@
+{
+  "_index": {
+    "name": "Straight Lines and Pair of Straight Lines"
+  },
+  "_children": [
+    {
+      "_type": "single_mcq",
+      "body": "<p>Let ABC be the triangle such that the equations of lines AB and AC be $3 y-x=2$ and $x+y=2$, respectively, and the points B and C lie on $x$-axis. If P is the orthocentre of the triangle ABC , then the area of the triangle PBC is equal to</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "8"
+        },
+        {
+          "key": "B",
+          "value": "4"
+        },
+        {
+          "key": "C",
+          "value": "10"
+        },
+        {
+          "key": "D",
+          "value": "6"
+        }
+      ],
+      "answer": "D",
+      "explanation": "<p>Equation of line $A B$ is $3 y-x=2$</p>\n<p>And $A C$ is $x+y=2$</p>\n<p>In line $A B$,</p>\n<p>When $y=0, x=-2$</p>\n<p>$$\\therefore \\quad B(-2,0)$$</p>\n<p>In line $A C$,</p>\n<p>When $y=0, x=2$</p>\n<p>$$\\therefore \\quad C(2 x, 0)$$</p>\n<p>Equation of altitude of $B C$,</p>\n<p>$$Y=x+2$$</p>\n<p>Similarly, equation of altitude of $A B$,</p>\n<p>$$y=-3 x+6$$</p>\n<p>$\\therefore$ On solving, orthocentre $P(1,3)$</p>\n<p>$$\\therefore \\quad \\operatorname{ar}(\\triangle P B C)=6$$</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Let the area of the triangle formed by a straight line $\\mathrm{L}: x+\\mathrm{b} y+\\mathrm{c}=0$ with co-ordinate axes be 48 square units. If the perpendicular drawn from the origin to the line L makes an angle of $45^{\\circ}$ with the positive $x$-axis, then the value of $\\mathrm{b}^2+\\mathrm{c}^2$ is :\n",
+      "options": [
+        {
+          "key": "A",
+          "value": "90\n"
+        },
+        {
+          "key": "B",
+          "value": "83\n"
+        },
+        {
+          "key": "C",
+          "value": "93\n"
+        },
+        {
+          "key": "D",
+          "value": " 97"
+        }
+      ],
+      "answer": "D",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>If A and B are the points of intersection of the circle $x^2 + y^2 - 8x = 0$ and the hyperbola $\\frac{x^2}{9} - \\frac{y^2}{4} = 1$ and a point P moves on the line $2x - 3y + 4 = 0$, then the centroid of $\\Delta PAB$ lies on the line :</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "<p>$x + 9y = 36$</p>"
+        },
+        {
+          "key": "B",
+          "value": "<p>$9x - 9y = 32$</p>"
+        },
+        {
+          "key": "C",
+          "value": "<p>$4x - 9y = 12$</p>"
+        },
+        {
+          "key": "D",
+          "value": "<p>$6x - 9y = 20$</p>"
+        }
+      ],
+      "answer": "D",
+      "explanation": "<p>$$\\begin{aligned}\n& x^2+y^2-8 x=0, \\frac{x^2}{9}-\\frac{y^2}{4}=1 \\quad\\text{.... (1)}\\\\\n& 4 x^2-9 y^2=36 \\quad\\text{.... (2)}\\\\\n& \\text { Solve }(1) \\&(2) \\\\\n& 4 x^2-9\\left(8 x-x^2\\right)=36 \\\\\n& 13 x^2-72 x-36=0 \\\\\n& (13 x+6)(x=6)=0 \\\\\n& x=\\frac{-6}{13}, x=6 \\\\\n& x=\\frac{-6}{13}(\\text { rejected }) \\\\\n& y \\rightarrow \\text { Imaginary } \\\\\n& n=6, \\frac{36}{9}-\\frac{y^2}{4}=1 \\\\\n& y^2=12, y=I \\sqrt{12} \\\\\n& A(6, \\sqrt{12}), B(6,-\\sqrt{12}) \\\\\n& p\\left(\\alpha, \\frac{2 \\alpha+4}{3}\\right) P \\text { lies on }\n\\end{aligned}$$</p>\n<p>$$\\begin{aligned}\n& \\text { centroid }(\\mathrm{h}, \\mathrm{k}) \\quad 2x-3y+y=0\\\\\n& \\mathrm{h}=\\frac{12+\\alpha}{3}, \\alpha=3 \\mathrm{~h}-12 \\\\\n& \\mathrm{k}=\\frac{\\frac{2 \\alpha-3 y}{3}}{3} \\Rightarrow 2 \\alpha+4=9 \\mathrm{y} \\\\\n& \\alpha=\\frac{9 \\mathrm{k}-4}{2} \\\\\n& 6 \\mathrm{~h}-2 \\mathrm{y}=9 \\mathrm{k}-4 \\\\\n& 6 \\mathrm{x}-9 \\mathrm{y}=20\n\\end{aligned}$$</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Let the triangle PQR be the image of the triangle with vertices $(1,3),(3,1)$ and $(2,4)$ in the line $x+2 y=2$. If the centroid of $\\triangle \\mathrm{PQR}$ is the point $(\\alpha, \\beta)$, then $15(\\alpha-\\beta)$ is equal to :</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "21"
+        },
+        {
+          "key": "B",
+          "value": "19"
+        },
+        {
+          "key": "C",
+          "value": "22"
+        },
+        {
+          "key": "D",
+          "value": "24"
+        }
+      ],
+      "answer": "C",
+      "explanation": "<p>Let ' $G$ ' be the centroid of $\\Delta$ formed by $(1,3)(3,1)$ \\&amp; $(2,4)$</p>\n<p>$$ \\mathrm{G} \\cong\\left(2, \\frac{8}{3}\\right) $$</p>\n<p>Image of G w.r.t. $x+2 y-2=0$</p>\n<p>$$ \\begin{aligned} & \\frac{\\alpha-2}{1}=\\frac{\\beta-\\frac{8}{3}}{2}=-2 \\frac{\\left(2+\\frac{16}{3}-2\\right)}{1+4} \\\\ & =\\frac{-2}{5}\\left(\\frac{16}{3}\\right) \\\\ & \\Rightarrow \\alpha=\\frac{-32}{15}+2=\\frac{-2}{15}, \\beta=\\frac{-32 \\times 2}{15}+\\frac{8}{3}=\\frac{-24}{15} \\\\ & 15(\\alpha-\\beta)=-2+24=22 \\end{aligned} $$</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>If the line segment joining the points $$(5,2)$$ and $$(2, a)$$ subtends an angle $$\\frac{\\pi}{4}$$ at the origin, then the absolute value of the product of all possible values of $a$ is :</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "4"
+        },
+        {
+          "key": "B",
+          "value": "8"
+        },
+        {
+          "key": "C",
+          "value": "6"
+        },
+        {
+          "key": "D",
+          "value": "2"
+        }
+      ],
+      "answer": "A",
+      "explanation": "<p>To solve this problem, we will use the concept of the slope and tangent of the angle subtended by the line segments at the origin.</p>\n\n<p>Given points: $$(5,2)$$ and $$(2,a)$$</p>\n\n<p>The slope of the line joining the origin and $$(5,2)$$ is:</p>\n\n$$m_1 = \\frac{2-0}{5-0} = \\frac{2}{5}$$\n\n<p>The slope of the line joining the origin and $$(2,a)$$ is:</p>\n\n$$m_2 = \\frac{a-0}{2-0} = \\frac{a}{2}$$\n\n<p>The line segment joining these points subtends an angle $$\\theta = \\frac{\\pi}{4}$$ at the origin.</p>\n\n<p>According to the tangent formula for the angle between two lines:</p>\n\n$$ \\tan \\theta = \\left| \\frac{m_2 - m_1}{1 + m_1 m_2} \\right| $$\n\n<p>Here, $$\\theta = \\frac{\\pi}{4}$$ so, $$\\tan \\left( \\frac{\\pi}{4} \\right) = 1$$. Therefore,</p>\n\n$$ 1 = \\left| \\frac{\\frac{a}{2} - \\frac{2}{5}}{1 + \\left(\\frac{2}{5} \\cdot \\frac{a}{2}\\right)} \\right| $$\n\n<p>This simplifies to:</p>\n\n$$ 1 = \\left| \\frac{\\frac{5a - 4}{10}}{1 + \\frac{2a}{10}} \\right| $$\n\n<p>Multiplying both the numerator and denominator by 10 to simplify:</p>\n\n$$ 1 = \\left| \\frac{5a - 4}{10 + 2a} \\right| $$\n\n<p>This leads to two equations due to the absolute value:</p>\n\n<p>1. $$ 5a - 4 = 10 + 2a $$</p>\n\n$$ 3a = 14 $$\n\n$$ a = \\frac{14}{3} $$\n\n<p>2. $$ 5a - 4 = -(10 + 2a) $$</p>\n\n$$ 5a - 4 = -10 - 2a $$\n\n$$ 7a = -6 $$\n\n$$ a = -\\frac{6}{7} $$\n\n<p>Thus, the possible values of $$a$$ are $$\\frac{14}{3}$$ and $$-\\frac{6}{7}$$.</p>\n\n<p>The product of these values is:</p>\n\n$$ \\left| \\frac{14}{3} \\times -\\frac{6}{7} \\right| $$\n\n$$ = \\left| -\\frac{84}{21} \\right| $$\n\n$$ = \\left| -4 \\right| $$\n\n$$ = 4 $$\n\n<p>Therefore, the absolute value of the product of all possible values of $$a$$ is 4.</p>\n\n<p><strong>Answer: Option A</strong></p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>If $$x^2-y^2+2 h x y+2 g x+2 f y+c=0$$ is the locus of a point, which moves such that it is always equidistant from the lines $$x+2 y+7=0$$ and $$2 x-y+8=0$$, then the value of $$g+c+h-f$$ equals</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "8"
+        },
+        {
+          "key": "B",
+          "value": "14"
+        },
+        {
+          "key": "C",
+          "value": "29"
+        },
+        {
+          "key": "D",
+          "value": "6"
+        }
+      ],
+      "answer": "B",
+      "explanation": "<p>Cocus of point $$\\mathrm{P}(\\mathrm{x}, \\mathrm{y})$$ whose distance from Gives\n$$X+2 y+7=0$$ & $$2 x-y+8=0$$ are equal is $$\\frac{x+2 y+7}{\\sqrt{5}}= \\pm \\frac{2 x-y+8}{\\sqrt{5}}$$</p>\n<p>$$(x+2 y+7)^2-(2 x-y+8)^2=0$$</p>\n<p>Combined equation of lines</p>\n<p>$$\\begin{aligned}\n& (x-3 y+1)(3 x+y+15)=0 \\\\\n& 3 x^2-3 y^2-8 x y+18 x-44 y+15=0 \\\\\n& x^2-y^2-\\frac{8}{3} x y+6 x-\\frac{44}{3} y+5=0 \\\\\n& x^2-y^2+2 h x y+2 g x 2+2 f y+c=0 \\\\\n& h=\\frac{4}{3}, g=3, f=-\\frac{22}{3}, c=5 \\\\\n& g+c+h-f=3+5-\\frac{4}{3}+\\frac{22}{3}=8+6=14\n\\end{aligned}$$</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Let $$\\mathrm{A}$$ be the point of intersection of the lines $$3 x+2 y=14,5 x-y=6$$ and $$\\mathrm{B}$$ be the point of intersection of the lines $$4 x+3 y=8,6 x+y=5$$. The distance of the point $$P(5,-2)$$ from the line $$\\mathrm{AB}$$ is</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$\\frac{13}{2}$$"
+        },
+        {
+          "key": "B",
+          "value": "8"
+        },
+        {
+          "key": "C",
+          "value": "$$\\frac{5}{2}$$"
+        },
+        {
+          "key": "D",
+          "value": "6"
+        }
+      ],
+      "answer": "D",
+      "explanation": "<p>Solving lines $$\\mathrm{L}_1(3 \\mathrm{x}+2 \\mathrm{y}=14)$$ and $$\\mathrm{L}_2(5 \\mathrm{x}-\\mathrm{y}=6)$$ to get $$\\mathrm{A}(2,4)$$ and solving lines $$\\mathrm{L}_3(4 \\mathrm{x}+3 \\mathrm{y}=8)$$ and $$\\mathrm{L}_4(6 \\mathrm{x}+\\mathrm{y}=5)$$ to get $$\\mathrm{B}\\left(\\frac{1}{2}, 2\\right)$$.</p>\n<p>Finding Eqn. of $$\\mathrm{AB}: 4 \\mathrm{x}-3 \\mathrm{y}+4=0$$</p>\n<p>Calculate distance PM</p>\n<p>$$\\Rightarrow\\left|\\frac{4(5)-3(-2)+4}{5}\\right|=6$$</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Let $$(\\alpha, \\beta)$$ be the centroid of the triangle formed by the lines $$15 x-y=82,6 x-5 y=-4$$ and $$9 x+4 y=17$$. Then $$\\alpha+2 \\beta$$ and $$2 \\alpha-\\beta$$ are the roots of the equation :</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$x^{2}-7 x+12=0$$"
+        },
+        {
+          "key": "B",
+          "value": "$$x^{2}-13 x+42=0$$"
+        },
+        {
+          "key": "C",
+          "value": "$$x^{2}-14 x+48=0$$"
+        },
+        {
+          "key": "D",
+          "value": "$$x^{2}-10 x+25=0$$"
+        }
+      ],
+      "answer": "B",
+      "explanation": "<ol>\n<li>Solve the equations $15x - y = 82$ and $6x - 5y = -4$</li>\n</ol>\n<p>Multiply the first equation by 5 and the second by 1 and then subtract the second from the first:</p>\n<p>$75x - 5y = 410$</p>\n<p>$6x - 5y = -4$</p>\n<p>Subtracting these gives $69x = 414$ which leads to $x = 6$</p>\n<p>Substitute $x = 6$ into the first equation to get $y = 8$</p>\n<p>So, the first vertex is $(6,8)$.</p>\n<ol>\n<li>Solve the equations $15x - y = 82$ and $9x + 4y = 17$</li>\n</ol>\n<p>Multiply the first equation by 4 and the second by 1 and then add:</p>\n<p>$60x - 4y = 328$</p>\n<p>$9x + 4y = 17$</p>\n<p>Adding these gives $69x = 345$ which leads to $x = 5$</p>\n<p>Substitute $x = 5$ into the second equation to get $y = -7$</p>\n<p>So, the second vertex is $(5,-7)$.</p>\n<ol>\n<li>Solve the equations $6x - 5y = -4$ and $9x + 4y = 17$</li>\n</ol>\n<p>Multiply the first equation by 4 and the second by 5 and then add:</p>\n<p>$24x - 20y = -16$</p>\n<p>$45x + 20y = 85$</p>\n<p>Adding these gives $69x = 69$ which leads to $x = 1$</p>\n<p>Substitute $x = 1$ into the first equation to get $y = 2$</p>\n<p>So, the third vertex is $(1,2)$.</p>\n<p>So, the vertices of the triangle are $(6,8)$, $(5,-7)$, and $(1,2)$.</p>\n\n<p>Now that we have the vertices of the triangle, we can find the centroid. The centroid $(\\alpha, \\beta)$ of a triangle with vertices $(x_1, y_1)$, $(x_2, y_2)$, and $(x_3, y_3)$ is given by :</p>\n<p>$$\n\\alpha=\\frac{x_1+x_2+x_3}{3}$$,\n<br/><br/>$$\n\\beta=\\frac{y_1+y_2+y_3}{3}\n$$</p>\n<p>Substituting the coordinates of the vertices into these equations, we get:</p>\n<p>$$\n\\alpha=\\frac{6+5+1}{3}=4 $$,\n<br/><br/>$$\n\\beta=\\frac{8-7+2}{3}=1\n$$</p>\n<p>Then, we find $\\alpha+2\\beta$ and $2\\alpha-\\beta$:</p>\n<p>$$\n\\alpha+2\\beta=4+2(1)=6 \\\n2\\alpha-\\beta=2(4)-1=7\n$$</p>\n<p>So, $\\alpha+2\\beta=6$ and $2\\alpha-\\beta=7$ are the roots of the quadratic equation. </p>\n<p>We can write the quadratic equation as </p>\n<p>$$x^2-(\\alpha+2\\beta+2\\alpha-\\beta)x+(\\alpha+2\\beta)(2\\alpha-\\beta)=0$$</p>\n<p>Substituting $\\alpha=4$, $\\beta=1$ gives us:</p>\n<p>$$x^2-13x+42=0$$</p>\n\n"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>The combined equation of the two lines $$ax+by+c=0$$ and $$a'x+b'y+c'=0$$ can be written as \n<br/><br/>$$(ax+by+c)(a'x+b'y+c')=0$$.</p>\n<p>The equation of the angle bisectors of the lines represented by the equation $$2x^2+xy-3y^2=0$$ is :</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$3{x^2} + xy - 2{y^2} = 0$$"
+        },
+        {
+          "key": "B",
+          "value": "$${x^2} - {y^2} - 10xy = 0$$"
+        },
+        {
+          "key": "C",
+          "value": "$${x^2} - {y^2} + 10xy = 0$$"
+        },
+        {
+          "key": "D",
+          "value": "$$3{x^2} + 5xy + 2{y^2} = 0$$"
+        }
+      ],
+      "answer": "B",
+      "explanation": "For pair of straight lines in this form \n<br/><br/>$a x^2+b y^2+2 h x y+2 g x+2 f y+c=0$ \n<br/><br/>Equation of angle bisector is\n<br/><br/>$$\n\\frac{x^2-y^2}{a-b}=\\frac{x y}{h}\n$$\n<br/><br/>for $2 x^2+x y-3 y^2=0$\n<br/><br/>$$\na=2, b=-3, h=\\frac{1}{2}\n$$\n<br/><br/>Equation of angle bisector is\n<br/><br/>$$\n\\begin{aligned}\n& \\frac{x^2-y^2}{5}=\\frac{x y}{1 / 2} \\\\\\\\\n& \\Rightarrow \\mathrm{x}^2-\\mathrm{y}^2-10 \\mathrm{xy}=0\n\\end{aligned}\n$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Let $$B$$ and $$C$$ be the two points on the line $$y+x=0$$ such that $$B$$ and $$C$$ are symmetric with respect to the origin. Suppose $$A$$ is a point on $$y-2 x=2$$ such that $$\\triangle A B C$$ is an equilateral triangle. Then, the area of the $$\\triangle A B C$$ is :</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$\\frac{10}{\\sqrt{3}}$$"
+        },
+        {
+          "key": "B",
+          "value": "$$2 \\sqrt{3}$$"
+        },
+        {
+          "key": "C",
+          "value": "$$3 \\sqrt{3}$$"
+        },
+        {
+          "key": "D",
+          "value": "$$\\frac{8}{\\sqrt{3}}$$"
+        }
+      ],
+      "answer": "D",
+      "explanation": "Origin $(O)$ is mid-point of $B C(x+y=0)$.\n<br/><br/>\n$A$ lies on perpendicular bisector of $B C$, which is $x-y=0$\n<br/><br/>\nA is point of intersection of $x-y=0$ and $y-2 x=2$\n<br/><br/>\n$\\therefore A \\equiv(-2,-2)$\n<br/><br/>\nLet $h=A O=\\frac{-2-2}{\\sqrt{1^{2}+1^{2}}}=2 \\sqrt{2}$\n<br/><br/>\n$$\n\\text { Area }=\\frac{h^{2}}{\\sqrt{3}}=\\frac{8}{\\sqrt{3}}\n$$\n"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Let $$m_{1}, m_{2}$$ be the slopes of two adjacent sides of a square of side a such that $$a^{2}+11 a+3\\left(m_{1}^{2}+m_{2}^{2}\\right)=220$$. If one vertex of the square is $$(10(\\cos \\alpha-\\sin \\alpha), 10(\\sin \\alpha+\\cos \\alpha))$$, where $$\\alpha \\in\\left(0, \\frac{\\pi}{2}\\right)$$ and the equation of one diagonal is $$(\\cos \\alpha-\\sin \\alpha) x+(\\sin \\alpha+\\cos \\alpha) y=10$$, then $$72\\left(\\sin ^{4} \\alpha+\\cos ^{4} \\alpha\\right)+a^{2}-3 a+13$$ is equal to :</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "119"
+        },
+        {
+          "key": "B",
+          "value": "128"
+        },
+        {
+          "key": "C",
+          "value": "145"
+        },
+        {
+          "key": "D",
+          "value": "155"
+        }
+      ],
+      "answer": "B",
+      "explanation": "One vertex of square is\n<br/><br/>\n$(10(\\cos \\alpha-\\sin \\alpha), 10(\\sin \\alpha+\\cos \\alpha))$\n<br/><br/>\nand one of the diagonal is\n<br/><br/>\n$(\\cos \\alpha-\\sin \\alpha) x+(\\sin \\alpha+\\cos \\alpha) y=10$\n<br/><br/>\nSo the other diagonal can be obtained as\n<br/><br/>\n$(\\cos \\alpha+\\sin \\alpha) x-(\\cos \\alpha-\\sin \\alpha) y=0$\n<br/><br/>\nSo, the point of intersection of the diagonal will be\n<br/><br/>\n(5( $\\cos \\alpha-\\sin \\alpha), 5(\\cos \\alpha+\\sin \\alpha))$.\n<br/><br/>\nTherefore, the vertex opposite to the given vertex is $(0,0)$.\n<br/><br/>\nSo, the diagonal length $=10 \\sqrt{2}$\n<br/><br/>\nSide length $(a)=10$\n<br/><br/>\nIt is given that\n<br/><br/>\n$a^{2}+11 a+3\\left(m_{1}^{2}+m_{2}^{2}\\right)=220$\n<br/><br/>\n$m_{1}^{2}+m_{2}^{2}=\\frac{220-100-110}{3}=\\frac{10}{3}$\n<br/><br/>\nand $m_{1} m_{2}=-1$\n<br/><br/>\nSlopes of the sides are tan $\\alpha$ and $-\\cot \\alpha$\n<br/><br/>\n$\\tan ^{2} \\alpha=3$ or $\\frac{1}{3}$\n<br/><br/>\n$72\\left(\\sin ^{4} \\alpha+\\cos ^{4} \\alpha\\right)+a^{2}-3 a+13$\n<br/><br/>\n$=72 \\cdot \\frac{\\tan ^{4} \\alpha+1}{\\left(1+\\tan ^{2} \\alpha\\right)^{2}}+a^{2}-3 a+13=128$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>A point $$P$$ moves so that the sum of squares of its distances from the points $$(1,2)$$ and $$(-2,1)$$ is 14. Let $$f(x, y)=0$$ be the locus of $$\\mathrm{P}$$, which intersects the $$x$$-axis at the points $$\\mathrm{A}$$, $$\\mathrm{B}$$ and the $$y$$-axis at the points C, D. Then the area of the quadrilateral ACBD is equal to :</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "$${9 \\over 2}$$"
+        },
+        {
+          "key": "B",
+          "value": "$${{3\\sqrt {17} } \\over 2}$$"
+        },
+        {
+          "key": "C",
+          "value": "$${{3\\sqrt {17} } \\over 4}$$"
+        },
+        {
+          "key": "D",
+          "value": "9"
+        }
+      ],
+      "answer": "B",
+      "explanation": "<p>Let point $$P:(h,\\,k)$$</p>\n<p>$${(h - 1)^2} + {(k - 2)^2} + {(h + 2)^2} + {(k - 1)^2} = 14$$</p>\n<p>$$2{h^2} + 2{k^2} + 2h - 6k - 4 = 0$$</p>\n<p>Locus of $$P:{x^2} + {y^2} + x - 3y - 2 = 0$$</p>\n<p>Intersection with x-axis,</p>\n<p>$${x^2} + x - 2 = 0$$</p>\n<p>$$ \\Rightarrow x =  - 2,\\,1$$</p>\n<p>Intersection with y-axis,</p>\n<p>$${y^2} - 3y - 2 = 0$$</p>\n<p>$$ \\Rightarrow y = {{3\\, \\pm \\,\\sqrt {17} } \\over 2}$$</p>\n<p>Area of the quadrilateral ACBD is</p>\n<p>$$ = {1 \\over 2}(|{x_1}| + |{x_2}|)(|{y_1}| + |{y_2}|)$$</p>\n<p>$$ = {1 \\over 2} \\times 3 \\times \\sqrt {17}  = {{3\\sqrt {17} } \\over 2}$$</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>The distance between the two points A and A' which lie on y = 2 such that both the line segments AB and A' B (where B is the point (2, 3)) subtend angle $${\\pi  \\over 4}$$ at the origin, is equal to :</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "10"
+        },
+        {
+          "key": "B",
+          "value": "$${48  \\over 5}$$"
+        },
+        {
+          "key": "C",
+          "value": "$${52  \\over 5}$$"
+        },
+        {
+          "key": "D",
+          "value": "3"
+        }
+      ],
+      "answer": "C",
+      "explanation": "Let $A(\\alpha, 2) \\quad$ Given $B(2,3)$\n<br/><br/>\n$$\n\\begin{aligned}\n& m_{O A}=\\frac{2}{\\alpha} \\quad\\&\\quad m_{O B}=\\frac{3}{2} \\\\\\\\\n& \\tan \\frac{\\pi}{4}=\\left|\\frac{\\frac{2}{\\alpha}-\\frac{3}{2}}{1+\\frac{2}{\\alpha} \\cdot \\frac{3}{2}}\\right| \\Rightarrow \\frac{4-3 \\alpha}{2 \\alpha+6}=\\pm 1 \\\\\\\\\n& 4-3 \\alpha=2 \\alpha+6 \\quad \\& 4-3 \\alpha=-2 \\alpha-6 \\\\\\\\\n& \\alpha=\\frac{-2}{5} \\& \\alpha=10 \\\\\\\\\n& A\\left(-\\frac{2}{5}, 2\\right) \\& A^{\\prime}(10,2) \\text { and } B(2,3) \\\\\\\\\n& A A^{\\prime}=10+\\frac{2}{5}=\\frac{52}{5}\n\\end{aligned}\n$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Let the area of the triangle with vertices A(1, $$\\alpha$$), B($$\\alpha$$, 0) and C(0, $$\\alpha$$) be 4 sq. units. If the points ($$\\alpha$$, $$-$$$$\\alpha$$), ($$-$$$$\\alpha$$, $$\\alpha$$) and ($$\\alpha$$<sup>2</sup>, $$\\beta$$) are collinear, then $$\\beta$$ is equal to :</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "64"
+        },
+        {
+          "key": "B",
+          "value": "$$-$$8"
+        },
+        {
+          "key": "C",
+          "value": "$$-$$64"
+        },
+        {
+          "key": "D",
+          "value": "512"
+        }
+      ],
+      "answer": "C",
+      "explanation": "<p>$$\\because$$ A(1, $$\\alpha$$), B($$\\alpha$$, 0) and C(0, $$\\alpha$$) are the vertices of $$\\Delta$$ABC and area of $$\\Delta$$ABC = 4</p>\n<p>$$\\therefore$$ $$\\left| {{1 \\over 2}\\left| {\\matrix{\n   1 & \\alpha  & 1  \\cr \n   \\alpha  & 0 & 1  \\cr \n   0 & \\alpha  & 1  \\cr \n\n } } \\right|} \\right| = 4$$</p>\n<p>$$ \\Rightarrow \\left| {1(1 - \\alpha ) - \\alpha (\\alpha ) + {\\alpha ^2}} \\right| = 8$$</p>\n<p>$$ \\Rightarrow \\alpha  = \\, \\pm \\,8$$</p>\n<p>Now, $$(\\alpha ,\\, - \\alpha ),\\,( - \\alpha ,\\alpha )$$ and $$({\\alpha ^2},\\beta )$$ are collinear</p>\n<p>$$\\therefore$$ $$\\left| {\\matrix{\n   8 & { - 8} & 1  \\cr \n   { - 8} & 8 & 1  \\cr \n   {64} & \\beta  & 1  \\cr \n\n } } \\right| = 0 = \\left| {\\matrix{\n   { - 8} & 8 & 1  \\cr \n   8 & { - 8} & 1  \\cr \n   {64} & \\beta  & 1  \\cr \n\n } } \\right|$$</p>\n<p>$$ \\Rightarrow 8(8 - \\beta ) + 8( - 8 - 64) + 1( - 8\\beta  - 8 \\times 64) = 0$$</p>\n<p>$$ \\Rightarrow 8 - \\beta  - 72 - \\beta  - 64 = 0$$</p>\n<p>$$ \\Rightarrow \\beta  =  - 64$$</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "If p and q are the lengths of the perpendiculars from the origin on the lines,<br><br>x cosec $$\\alpha$$ $$-$$ y sec $$\\alpha$$ = k cot 2$$\\alpha$$ and<br><br>x sin$$\\alpha$$ + y cos$$\\alpha$$ = k sin2$$\\alpha$$<br><br>respectively, then k<sup>2</sup> is equal to :",
+      "options": [
+        {
+          "key": "A",
+          "value": "4p<sup>2</sup> + q<sup>2</sup>"
+        },
+        {
+          "key": "B",
+          "value": "2p<sup>2</sup> + q<sup>2</sup>"
+        },
+        {
+          "key": "C",
+          "value": "p<sup>2</sup> + 2q<sup>2</sup>"
+        },
+        {
+          "key": "D",
+          "value": "p<sup>2</sup> + 4q<sup>2</sup>"
+        }
+      ],
+      "answer": "A",
+      "explanation": "First line is $${x \\over {\\sin \\alpha }} - {y \\over {\\cos \\alpha }} = {{k\\cos 2\\alpha } \\over {\\sin 2\\alpha }}$$<br><br>$$ \\Rightarrow x\\cos \\alpha  - y\\sin \\alpha  = {k \\over 2}\\cos 2\\alpha $$ <br><br>$$ \\Rightarrow p = \\left| {{k \\over 2}\\cos \\alpha } \\right| \\Rightarrow 2p = \\left| {k\\cos 2\\alpha } \\right|$$ .... (i)<br><br>second line is $$x\\sin \\alpha  + y\\cos \\alpha  = k\\sin 2\\alpha $$<br><br>$$ \\Rightarrow q = \\left| {k\\sin 2\\alpha } \\right|$$ .... (ii)<br><br>Hence, $$4{p^2} + {q^2} = {k^2}$$ (From (i) &amp; (ii))"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The point P (a, b) undergoes the following three transformations successively :<br><br>(a) reflection about the line y = x.<br><br>(b) translation through 2 units along the positive direction of x-axis.<br><br>(c) rotation through angle $${\\pi  \\over 4}$$ about the origin in the anti-clockwise direction.<br><br>If the co-ordinates of the final position of the point P are $$\\left( { - {1 \\over {\\sqrt 2 }},{7 \\over {\\sqrt 2 }}} \\right)$$, then the value of 2a + b is equal to :",
+      "options": [
+        {
+          "key": "A",
+          "value": "13"
+        },
+        {
+          "key": "B",
+          "value": "9"
+        },
+        {
+          "key": "C",
+          "value": "5"
+        },
+        {
+          "key": "D",
+          "value": "7"
+        }
+      ],
+      "answer": "B",
+      "explanation": "Image of A(a, b) along y = x is B(b, a). Translating it 2 units it becomes C(b + 2, a).<br><br>Now, applying rotation theorem<br><br>$$ - {1 \\over {\\sqrt 2 }} + {7 \\over {\\sqrt 2 }}i = \\left( {(b + 2) + ai} \\right)\\left( {\\cos {\\pi  \\over 4} + i\\sin {\\pi  \\over 4}} \\right)$$<br><br>$$ - {1 \\over {\\sqrt 2 }} + {7 \\over {\\sqrt 2 }}i = \\left( {{{b + 2} \\over {\\sqrt 2 }} - {a \\over {\\sqrt 2 }}} \\right) + i\\left( {{{b + 2} \\over {\\sqrt 2 }} + {a \\over {\\sqrt 2 }}} \\right)$$<br><br>$$\\Rightarrow$$ b $$-$$ a + 2 = $$-$$1 ......(i)<br><br>and b + 2 + a = 7 ...... (ii)<br><br>$$\\Rightarrow$$ a = 4; b = 1<br><br>$$\\Rightarrow$$ 2a + b = 9"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Let the equation of the pair of lines, y = px and y = qx, can be written as (y $$-$$ px) (y $$-$$ qx) = 0. Then the equation of the pair of the angle bisectors of the lines x<sup>2</sup> $$-$$ 4xy $$-$$ 5y<sup>2</sup> = 0 is :",
+      "options": [
+        {
+          "key": "A",
+          "value": "x<sup>2</sup> $$-$$ 3xy + y<sup>2</sup> = 0"
+        },
+        {
+          "key": "B",
+          "value": "x<sup>2</sup> + 4xy $$-$$ y<sup>2</sup> = 0"
+        },
+        {
+          "key": "C",
+          "value": "x<sup>2</sup> + 3xy $$-$$ y<sup>2</sup> = 0"
+        },
+        {
+          "key": "D",
+          "value": "x<sup>2</sup> $$-$$ 3xy $$-$$ y<sup>2</sup> = 0"
+        }
+      ],
+      "answer": "C",
+      "explanation": "Equation of angle bisector of homogeneous <br>equation of pair of straight line ax<sup>2</sup>\n + 2hxy + by<sup>2</sup>\n is\n<br><br>$${{{x^2} - {y^2}} \\over {a - b}} = {{xy} \\over h}$$\n<br><br>for x<sup>2</sup> – 4xy – 5y<sup>2</sup>\n = 0\n<br><br> a = 1, h = – 2, b = – 5\n<br><br>So, equation of angle bisector is\n<br><br>$${{{x^2} - {y^2}} \\over {1 - ( - 5)}} = {{xy} \\over { - 2}}$$<br><br>$${{{x^2} - {y^2}} \\over 6} = {{xy} \\over { - 2}}$$<br><br>$$ \\Rightarrow {x^2} - {y^2} =  - 3xy$$<br><br>So, combined equation of angle bisector is $$  {x^2} + 3xy - {y^2} = 0$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The number of integral values of m so that the abscissa of point of intersection of lines 3x + 4y = 9 and y = mx + 1 is also an integer, is :",
+      "options": [
+        {
+          "key": "A",
+          "value": "1"
+        },
+        {
+          "key": "B",
+          "value": "2"
+        },
+        {
+          "key": "C",
+          "value": "3"
+        },
+        {
+          "key": "D",
+          "value": "0"
+        }
+      ],
+      "answer": "B",
+      "explanation": "3x + 4(mx + 1) = 9<br><br>$$ \\Rightarrow $$ x(3 + 4m) = 5<br><br>$$ \\Rightarrow $$ $$x = {5 \\over {(3 + 4m)}}$$<br><br>$$ \\Rightarrow $$ (3 + 4m) = $$\\pm$$1, $$\\pm$$5<br><br>$$ \\Rightarrow $$ 4m = $$-$$3 $$\\pm$$ 1, $$-$$3 $$\\pm$$ 5 <br><br>$$ \\Rightarrow $$ 4m = $$-$$4, $$-$$2, $$-$$8, 2<br><br>$$ \\Rightarrow $$ m = $$-$$1, $$-$$$${1 \\over 2}$$, $$-$$2, $${1 \\over 2}$$<br><br>$$ \\therefore $$ Two integral value of m."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The equation of one of the straight lines which passes through the point (1, 3) and makes an angles $${\\tan ^{ - 1}}\\left( {\\sqrt 2 } \\right)$$ with the straight line, y + 1 = 3$${\\sqrt 2 }$$ x is :",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$4\\sqrt 2 x + 5y - \\left( {15 + 4\\sqrt 2 } \\right) = 0$$"
+        },
+        {
+          "key": "B",
+          "value": "$$5\\sqrt 2 x + 4y - \\left( {15 + 4\\sqrt 2 } \\right) = 0$$"
+        },
+        {
+          "key": "C",
+          "value": "$$4\\sqrt 2 x + 5y - 4\\sqrt 2  = 0$$"
+        },
+        {
+          "key": "D",
+          "value": "$$4\\sqrt 2 x - 5y - \\left( {5 + 4\\sqrt 2 } \\right) = 0$$"
+        }
+      ],
+      "answer": "A",
+      "explanation": "Let slope of line be m<br><br>$$ \\therefore $$ $$\\left| {{{m - 3\\sqrt 2 } \\over {1 + 3\\sqrt 2 m}}} \\right| = \\sqrt 2 $$<br><br>$$ \\Rightarrow m - 3\\sqrt 2  =  \\pm \\,\\sqrt 2  \\pm 6m$$<br><br>$$ \\Rightarrow m \\mp 6m =  \\pm \\sqrt 2  + 3\\sqrt 2 $$<br><br>$$ \\Rightarrow m =  - {{4\\sqrt 2 } \\over 5}$$ or $${{2\\sqrt 2 } \\over 7}$$<br><br>Hence line can be<br><br>$$y - 3 = {{ - 4\\sqrt 2 } \\over 5}(x - 1)$$<br><br>$$ \\Rightarrow 5y - 15 =  - 4\\sqrt 2 x + 4\\sqrt 2 $$<br><br>$$ \\Rightarrow 4\\sqrt 2 x + 5y - (15 + 4\\sqrt 2 ) = 0$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "In a triangle PQR, the co-ordinates of the points P and Q are ($$-$$2, 4) and (4, $$-$$2) respectively. If the equation of the perpendicular bisector of PR is 2x $$-$$ y + 2 = 0, then the centre of the circumcircle of the $$\\Delta$$PQR is :",
+      "options": [
+        {
+          "key": "A",
+          "value": "($$-$$1, 0)"
+        },
+        {
+          "key": "B",
+          "value": "(1, 4)"
+        },
+        {
+          "key": "C",
+          "value": "(0, 2)"
+        },
+        {
+          "key": "D",
+          "value": "($$-$$2, $$-$$2)"
+        }
+      ],
+      "answer": "D",
+      "explanation": "Mid point of $$PQ \\equiv \\left( {{{ - 2 + 4} \\over 2},{{4 - 2} \\over 2}} \\right) \\equiv (1,1)$$<br><br>Slope of $$PQ = {{4 + 2} \\over { - 2 - 4}} =  - 1$$<br><br>Slope of perpendicular bisector of PQ = 1<br><br>Equation of perpendicular bisector of PQ <br><br>$$y - 1 = 1(x - 1)$$<br><br>$$ \\Rightarrow y = x$$<br><br>Solving with perpendicular bisector of PR,\n<br><br>2x $$-$$ y + 2 = 0<br><br>Circumcentre is ($$-$$2, $$-$$2)"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The intersection of three lines x $$-$$ y = 0, x + 2y = 3 and 2x + y = 6 is a :",
+      "options": [
+        {
+          "key": "A",
+          "value": "Right angled triangle"
+        },
+        {
+          "key": "B",
+          "value": "Equilateral triangle"
+        },
+        {
+          "key": "C",
+          "value": "None of the above"
+        },
+        {
+          "key": "D",
+          "value": "Isosceles triangle"
+        }
+      ],
+      "answer": "D",
+      "explanation": "The given three lines are x $$-$$ y = 0, x + 2y = 3 and 2x + y = 6 then point of intersection,<br><br>lines x $$-$$ y = 0 and x + 2y = 3 is (1, 1)<br><br>lines x $$-$$ y = 0 and 2x + y = 6 is (2, 2)<br><br>and lines x + 2y = 3 and 2x + y = 0 is (3, 0)<br><br>The triangle ABC has vertices A(1, 1), B(2, 2) and C(3, 0)<br><br>$$ \\therefore $$ AB = $$\\sqrt 2 $$, BC = $$\\sqrt 5 $$ and AC = $$\\sqrt 5 $$<br><br>$$ \\therefore $$ $$\\Delta$$ABC is isosceles"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The image of the point (3, 5) in the line x $$-$$ y + 1 = 0, lies on :",
+      "options": [
+        {
+          "key": "A",
+          "value": "(x $$-$$ 4)<sup>2</sup> + (y $$-$$ 4)<sup>2</sup> = 8"
+        },
+        {
+          "key": "B",
+          "value": "(x $$-$$ 4)<sup>2</sup> + (y $$+$$ 2)<sup>2</sup> = 16"
+        },
+        {
+          "key": "C",
+          "value": "(x $$-$$ 2)<sup>2</sup> + (y $$-$$ 2)<sup>2</sup> = 12"
+        },
+        {
+          "key": "D",
+          "value": "(x $$-$$ 2)<sup>2</sup> + (y $$-$$ 4)<sup>2</sup> = 4"
+        }
+      ],
+      "answer": "D",
+      "explanation": "So, let the image is (x, y)<br><br>So, we have<br><br>$${{x - 3} \\over 1} = {{y - 5} \\over { - 1}} =  - {{2(3 - 5 + 1)} \\over {1 + 1}}$$<br><br>$$ \\Rightarrow $$ x = 4, y = 4<br><br>$$ \\Rightarrow $$ Point (4, 4)<br><br>Which will satisfy the curve <br><br>(x $$-$$ 2)<sup>2</sup> + (y $$-$$ 4)<sup>2</sup> = 4<br><br>as (4 $$-$$ 2)<sup>2</sup> + (4 $$-$$ 4)<sup>2</sup> = 4 + 0 = 4"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Let L denote the line in the xy-plane with x and\ny intercepts as 3 and 1 respectively. Then the\nimage of the point (–1, –4) in this line is :\n",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$\\left( {{{11} \\over 5},{{28} \\over 5}} \\right)$$"
+        },
+        {
+          "key": "B",
+          "value": "$$\\left( {{{29} \\over 5},{{11} \\over 5}} \\right)$$"
+        },
+        {
+          "key": "C",
+          "value": "$$\\left( {{{29} \\over 5},{8 \\over 5}} \\right)$$"
+        },
+        {
+          "key": "D",
+          "value": "$$\\left( {{8 \\over 5},{{29} \\over 5}} \\right)$$"
+        }
+      ],
+      "answer": "A",
+      "explanation": "Line is $${x \\over 3} + {y \\over 1} = 1$$\n<br><br>$$ \\Rightarrow $$ x + 3y – 3 = 0\n<br><br>Let Image of point (–1, –4) is ($$\\alpha $$, $$\\beta $$)\n<br><br>Hence, $${{\\alpha  + 1} \\over 1} = {{\\beta  + 4} \\over 3} =  - 2\\left( {{{ - 1 - 12 - 3} \\over {10}}} \\right)$$\n<br><br>$$ \\Rightarrow $$ $${{\\alpha  + 1} \\over 1} = {{\\beta  + 4} \\over 3} = {{16} \\over 5}$$\n<br><br>$$ \\Rightarrow $$ $$\\alpha $$ = $${{11} \\over 5}$$, $$\\beta $$ = $${{28} \\over 5}$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "If the perpendicular bisector of the line segment joining the points P(1 ,4) and Q(k, 3) has y-intercept equal to –4, then a value of k is :",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$\\sqrt {14} $$"
+        },
+        {
+          "key": "B",
+          "value": "-4"
+        },
+        {
+          "key": "C",
+          "value": "–2 "
+        },
+        {
+          "key": "D",
+          "value": "$$\\sqrt {15} $$"
+        }
+      ],
+      "answer": "B",
+      "explanation": "$${m_{PQ}} = {{4 - 3} \\over {1 - k}} $$\n<br><br>$$ \\therefore $$ Slope of perpendicular bisector of PQ, $$ {m_ \\bot } = k - 1$$<br><br>mid point of PQ = $$\\left( {{{k + 1} \\over 2},{7 \\over 2}} \\right)$$<br><br>equation of perpendicular bisector<br><br>$$y - {7 \\over 2} = (k - 1)\\left( {x - {{k + 1} \\over 2}} \\right)$$<br><br>for y intercept put x = 0<br><br>$$y = {7 \\over 2} - \\left( {{{{k^2} - 1} \\over 2}} \\right) =  - 4$$<br><br>$${{{k^2} - 1} \\over 2} = {{15} \\over 2} \\Rightarrow k =  \\pm 4$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The set of all possible values of\n$$\\theta $$ in the interval\n<br>(0, $$\\pi $$) for which the points (1, 2) and (sin\n $$\\theta $$, cos $$\\theta $$) lie <br>on the same side of the line x + y =\n1 is :\n",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$\\left( {0,{\\pi  \\over 4}} \\right)$$"
+        },
+        {
+          "key": "B",
+          "value": "$$\\left( {0,{{3\\pi } \\over 4}} \\right)$$"
+        },
+        {
+          "key": "C",
+          "value": "$$\\left( {{\\pi  \\over 4},{{3\\pi } \\over 4}} \\right)$$"
+        },
+        {
+          "key": "D",
+          "value": "$$\\left( {0,{\\pi  \\over 2}} \\right)$$"
+        }
+      ],
+      "answer": "D",
+      "explanation": "Let f(x, y) = x + y - 1<br><br>\n$$ \\because f\\left( {1,2} \\right).f\\left( {\\sin \\theta ,\\cos \\theta } \\right) &gt; 0$$<br><br>\n$$ \\Rightarrow 2\\left[ {\\sin \\theta  + \\cos \\theta  - 1} \\right] &gt; 0$$<br><br>\n$$ \\Rightarrow \\sin \\theta  + \\cos \\theta  &gt; 1$$<br><br>\n$$ \\Rightarrow \\sin \\left( {\\theta  + {\\pi  \\over 4}} \\right) &gt; {1 \\over {\\sqrt 2 }}$$<br><br>\n$$ \\Rightarrow \\theta  + {\\pi  \\over 4} \\in \\left( {{\\pi  \\over 4},{{3\\pi } \\over 4}} \\right)$$<br><br>\n$$ \\Rightarrow \\theta  \\in \\left( {0,{\\pi  \\over 2}} \\right)$$\n"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Let C be the centroid of the triangle with\nvertices (3, –1), (1, 3) and (2, 4). Let P be the\npoint of intersection of the lines x + 3y – 1 = 0\nand 3x – y + 1 = 0. Then the line passing through\nthe points C and P also passes through the\npoint :",
+      "options": [
+        {
+          "key": "A",
+          "value": "(–9, –7)"
+        },
+        {
+          "key": "B",
+          "value": "(9, 7)"
+        },
+        {
+          "key": "C",
+          "value": "(7, 6)"
+        },
+        {
+          "key": "D",
+          "value": "(–9, –6)"
+        }
+      ],
+      "answer": "D",
+      "explanation": "Centroid C $$\\left( {{{3 + 1 + 2} \\over 3},{{ - 1 + 3 + 4} \\over 3}} \\right)$$ = (2, 2)\n<br><br>Point of intersection of lines x + 3y – 1 = 0 <br><br>and 3x – y + 1 = 0 is P $$\\left( { - {1 \\over 5},{2 \\over 5}} \\right)$$\n<br><br>So, equation of line CP is 8x – 11y + 6 = 0\n<br><br>Point (–9, –6) satisfy this equation."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Let two points be A(1, –1) and B(0, 2). If a point\nP(x', y') be such that the area of $$\\Delta $$PAB = 5 sq.\nunits and it lies on the line, 3x + y – 4$$\\lambda $$ = 0,\nthen a value of $$\\lambda $$ is :",
+      "options": [
+        {
+          "key": "A",
+          "value": "4"
+        },
+        {
+          "key": "B",
+          "value": "1"
+        },
+        {
+          "key": "C",
+          "value": "-3"
+        },
+        {
+          "key": "D",
+          "value": "3"
+        }
+      ],
+      "answer": "D",
+      "explanation": "Point P(x', y') lies on the line 3x + y – 4$$\\lambda $$ = 0\n<br><br>$$ \\therefore $$ 3x' + y' – 4$$\\lambda $$ = 0\n<br><br>Area of $$\\Delta $$PAB = 5\n<br><br>$$ \\Rightarrow $$ $${1 \\over 2}\\left| {\\matrix{\n   1 &amp; 1 &amp; { - 1}  \\cr \n   1 &amp; 0 &amp; 2  \\cr \n   1 &amp; {x'} &amp; {y'}  \\cr \n\n } } \\right|$$ = $$ \\pm $$ 5\n<br><br>$$ \\Rightarrow $$ [(–2x') – (y' – 2) – (x')] = $$ \\pm $$ 10\n<br><br>$$ \\Rightarrow $$ – 3x' – y' + 2 = $$ \\pm $$ 10\n<br><br>$$ \\Rightarrow $$ 2 - 4$$\\lambda $$ = $$ \\pm $$ 10\n<br><br>$$ \\Rightarrow $$ $$\\lambda $$ = -2 or $$\\lambda $$ = 3"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Lines are drawn parallel to the line 4x – 3y + 2 = 0, at a distance\n$${3 \\over 5}$$\n from the origin. Then which one of the\nfollowing points lies on any of these lines ? ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$\\left( {{1 \\over 4}, - {1 \\over 3}} \\right)$$"
+        },
+        {
+          "key": "B",
+          "value": "$$\\left( { - {1 \\over 4},{2 \\over 3}} \\right)$$"
+        },
+        {
+          "key": "C",
+          "value": "$$\\left( { - {1 \\over 4}, - {2 \\over 3}} \\right)$$"
+        },
+        {
+          "key": "D",
+          "value": "$$\\left( {{1 \\over 4},{1 \\over 3}} \\right)$$"
+        }
+      ],
+      "answer": "B",
+      "explanation": "Line parallel to 4x – 3y + 2 = 0<br><br>\nis given as 4x – 3y + $$\\lambda $$ = 0<br><br>\ndistance from origin is <br><br>\n$$\\left| {{\\lambda  \\over 5}} \\right| = {3 \\over 5}$$<br><br>\n$$ \\Rightarrow \\lambda  =  \\pm 3$$<br><br>\n$$ \\therefore $$ required lines are 4x – 3y + 3 = 0 &amp; 4x – 3y – 3 = 0<br><br>\nBy Putting $$\\left( { - {1 \\over 4},{2 \\over 3}} \\right)$$ on both lines it satisfy.\n"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "If the two lines x + (a – 1) y = 1 and\n2x + a<sup>2</sup>y = 1 (a$$ \\in $$R – {0, 1}) are perpendicular, then\nthe distance of their point of intersection from the\norigin is :",
+      "options": [
+        {
+          "key": "A",
+          "value": "$${2 \\over \\sqrt5}$$"
+        },
+        {
+          "key": "B",
+          "value": "$${\\sqrt2 \\over 5}$$"
+        },
+        {
+          "key": "C",
+          "value": "$${2 \\over 5}$$"
+        },
+        {
+          "key": "D",
+          "value": "$$\\sqrt{2 \\over 5}$$"
+        }
+      ],
+      "answer": "D",
+      "explanation": "Line 1 : x + (a – 1) y = 1\n<br><br>Slope of this line (m<sub>1</sub>) = $${{ - 1} \\over {a - 1}}$$\n<br><br>Line 2 : 2x + a<sup>2</sup>y = 1\n<br><br>Slope of this line (m<sub>2</sub>) = $$ - {2 \\over {{a^2}}}$$\n<br><br>Line 1 and Line 2 are perpendicular to each other.\n<br><br>$$ \\therefore $$ m<sub>1</sub> m<sub>2</sub> = -1\n<br><br>$$ \\Rightarrow $$ $$\\left( {{{ - 1} \\over {a - 1}}} \\right)\\left( { - {2 \\over {{a^2}}}} \\right) =  - 1$$\n<br><br>$$ \\Rightarrow $$ $${a^3} - {a^2} + 2 = 0$$\n<br><br>$$ \\Rightarrow $$ $$\\left( {a + 1} \\right)$$$$\\left( {{a^2} - 2a + 2} \\right)$$ = 0\n<br><br>$$ \\therefore $$ $${a =  - 1}$$\n<br><br>So lines are\n<br><br>Line 1 : x - 2y + 1 = 0\n<br><br>Line 2 : 2x + y - 1 = 0\n<br><br>Solving these equation we get point of intersection\n<br><br>P$$\\left( {{3 \\over 5}, - {1 \\over 5}} \\right)$$\n<br><br>Now distance of P from origin\n<br><br>OP = $$\\sqrt {{{\\left( {{3 \\over 5}} \\right)}^2} + {{\\left( { - {1 \\over 5}} \\right)}^2}} $$\n<br><br>= $$\\sqrt {{{10} \\over {25}}} $$\n<br><br>= $$\\sqrt {{2 \\over 5}} $$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Suppose that the points (h,k), (1,2) and (–3,4) lie\non the line L<sub>1</sub>\n. If a line L<sub>2</sub>\n passing through the points\n(h,k) and (4,3) is perpendicular to L<sub>1</sub>\n, then\n$$k \\over h$$\nequals :\n",
+      "options": [
+        {
+          "key": "A",
+          "value": "$${1 \\over 3}$$"
+        },
+        {
+          "key": "B",
+          "value": "3"
+        },
+        {
+          "key": "C",
+          "value": "0"
+        },
+        {
+          "key": "D",
+          "value": "-$${1 \\over 7}$$"
+        }
+      ],
+      "answer": "A",
+      "explanation": "Equation of line L<sub>1</sub> passing through points (1, 2) and (–3, 4) is :\n<br><br>y - 2 = $$\\left( {{{4 - 2} \\over { - 3 - 1}}} \\right)$$(x - 1)\n<br><br>$$ \\Rightarrow $$ y - 2 = $$ - {1 \\over 2}$$(x - 1)\n<br><br>$$ \\Rightarrow $$ 2y – 4 = –x + 1\n<br><br>$$ \\Rightarrow $$ x + 2y = 5 .......(L<sub>1</sub>)\n<br><br>Line L<sub>1</sub> passes through point (h, k).\n<br><br>$$ \\therefore $$ h + 2k = 5 .......(1)\n<br><br>Line L<sub>2</sub> is perpendicular to line L<sub>1</sub>.\n<br><br>$$ \\therefore $$ Equation of line L<sub>2</sub> :\n<br><br>2x - y = $$\\lambda $$\n<br><br>This line L<sub>2</sub> passes through point (4, 3).\n<br><br>$$ \\therefore $$ 2(4) - 3 = $$\\lambda $$\n<br><br>$$ \\Rightarrow $$ $$\\lambda $$ = 5\n<br><br>$$ \\therefore $$ Line L<sub>2</sub> :\n<br><br>2x - y = 5\n<br><br>L<sub>2</sub> also passes through (h, k)\n<br><br>$$ \\therefore $$ 2h - k = 5  ............(2)\n<br><br>Solving (1) and (2) we get,\n<br><br>h = 3 and k = 1\n<br><br>$$ \\therefore $$ $${k \\over h} = {1 \\over 3}$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "If the system of linear equations<br><br>\nx – 2y + kz = 1<br>\n2x + y + z = 2<br>\n3x – y – kz = 3<br><br>\nhas a solution (x,y,z), z $$ \\ne $$ 0, then (x,y) lies on\nthe straight line whose equation is :",
+      "options": [
+        {
+          "key": "A",
+          "value": "4x – 3y – 4 = 0"
+        },
+        {
+          "key": "B",
+          "value": "3x – 4y – 1 = 0"
+        },
+        {
+          "key": "C",
+          "value": "4x – 3y – 1 = 0"
+        },
+        {
+          "key": "D",
+          "value": "3x – 4y – 4 = 0"
+        }
+      ],
+      "answer": "A",
+      "explanation": "x – 2y + kz = 1 ......(1)<br><br>\n2x + y + z = 2 .........(2)<br><br>\n3x – y – kz = 3 ........(3)\n<br><br>for locus of (x, y)\nadd equation (1) + (3)\n<br><br>4x – 3y = 4\n<br><br>$$ \\Rightarrow $$ 4x – 3y - 4 = 0"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "If the straight line, 2x – 3y + 17 = 0 is perpendicular to the line passing through the points (7, 17) and (15, $$\\beta $$), then $$\\beta $$ equals : ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$${{35} \\over 3}$$"
+        },
+        {
+          "key": "B",
+          "value": "$$-$$ 5"
+        },
+        {
+          "key": "C",
+          "value": "$$-$$ $${{35} \\over 3}$$"
+        },
+        {
+          "key": "D",
+          "value": "5"
+        }
+      ],
+      "answer": "D",
+      "explanation": "$${{17 - \\beta } \\over { - 8}} \\times {2 \\over 3} =  - 1$$\n<br><br>$$\\beta $$ = 5"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "If in a parallelogram ABDC, the coordinates of A, B and C are respectively (1, 2), (3, 4) and (2, 5), then the\nequation of the diagonal AD is :",
+      "options": [
+        {
+          "key": "A",
+          "value": "5x + 3y – 11 = 0"
+        },
+        {
+          "key": "B",
+          "value": "5x – 3y + 1 = 0"
+        },
+        {
+          "key": "C",
+          "value": "3x – 5y + 7 = 0"
+        },
+        {
+          "key": "D",
+          "value": "3x + 5y – 13 = 0"
+        }
+      ],
+      "answer": "B",
+      "explanation": "co-ordinates of point D are (4, 7)\n<br><br>$$ \\Rightarrow $$&nbsp;&nbsp;line AD is 5x $$-$$ 3y + 1 = 0"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A point P moves on the line 2x – 3y + 4 = 0. If Q(1, 4) and R (3, – 2) are fixed points, then the locus of the centroid of $$\\Delta $$PQR is a line :",
+      "options": [
+        {
+          "key": "A",
+          "value": "parallel to y-axis"
+        },
+        {
+          "key": "B",
+          "value": "with slope $${2 \\over 3}$$"
+        },
+        {
+          "key": "C",
+          "value": "parallel to x-axis"
+        },
+        {
+          "key": "D",
+          "value": "with slope $${3 \\over 2}$$"
+        }
+      ],
+      "answer": "B",
+      "explanation": "Let the centroid of $$\\Delta $$PQR is (h, k) &amp; P is ($$\\alpha $$, $$\\beta $$),  then\n<br><br>$${{\\alpha  + 1 + 3} \\over 3} = h\\,$$&nbsp;&nbsp;&nbsp;and&nbsp;&nbsp;&nbsp;$${{\\beta  + 4 - 2} \\over 3} = k$$\n<br><br>$$\\alpha  = \\left( {3h - 4} \\right)$$&nbsp;&nbsp;&nbsp;$$\\beta  = \\left( {3k - 4} \\right)$$\n<br><br>Point P($$\\alpha $$, $$\\beta $$) lies on the line 2x $$-$$ 3y + 4 = 0\n<br><br>$$ \\therefore $$&nbsp;&nbsp;2(3h $$-$$ 4) $$-$$ 3 (3k $$-$$ 2) + 4 = 0\n<br><br>$$ \\Rightarrow $$&nbsp;&nbsp;locus  is 6x $$-$$ 9y + 2 = 0"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "If 5, 5r, 5r<sup>2</sup> are the lengths of the sides of a triangle, then r cannot be equal to :",
+      "options": [
+        {
+          "key": "A",
+          "value": "$${7 \\over 4}$$"
+        },
+        {
+          "key": "B",
+          "value": "$${5 \\over 4}$$"
+        },
+        {
+          "key": "C",
+          "value": "$${3 \\over 4}$$"
+        },
+        {
+          "key": "D",
+          "value": "$${3 \\over 2}$$"
+        }
+      ],
+      "answer": "A",
+      "explanation": "<p>For three lengths to form a triangle, the sum of the lengths of any two sides must be greater than the length of the third side. This is known as the triangle inequality theorem.</p>\n<p>Let&#39;s apply this to our lengths: $5$, $5r$, and $5r^2$. We have three inequalities to check:</p>\n<ol>\n<li>$5 + 5r &gt; 5r^2$</li>\n<li>$5 + 5r^2 &gt; 5r$</li>\n<li>$5r + 5r^2 &gt; 5$</li>\n</ol>\n<p>Solving these inequalities will give us a range of values for $r$. Any value outside of this range will mean that $r$ cannot form a triangle with the given sides.</p>\n<ol>\n<li>1. $1 + r &gt; r^2$</li>\n</ol>\n<p>We can rewrite this as:\n$r^2 - r - 1 &lt; 0$\n<br/><br/>$\\Rightarrow\\left[r-\\left(\\frac{1-\\sqrt{5}}{2}\\right)\\right]\\left[r-\\left(\\frac{1+\\sqrt{5}}{2}\\right)\\right]<0$</p>\n\n<p>The roots of this quadratic equation are $\\frac{1-\\sqrt{5}}{2}$ and $\\frac{1+\\sqrt{5}}{2}$, so the inequality holds for $r$ in the interval $\\left(\\frac{1-\\sqrt{5}}{2}, \\frac{1+\\sqrt{5}}{2}\\right)$.</p>\n<ol>\n<li>2. $1 + r^2 &gt; r$</li>\n</ol>\n<p>We can rewrite this as:\n$r^2 - r + 1 &gt; 0$</p>\n\n$$\n\\begin{array}{lc}\n\n\\Rightarrow  r^2-2 \\cdot \\frac{1}{2} r+\\left(\\frac{1}{2}\\right)^2+1-\\left(\\frac{1}{2}\\right)^2>0 \\\\\\\\\n\\Rightarrow  \\left(r-\\frac{1}{2}\\right)^2+\\frac{3}{4}>0 \\\\\\\\\n\\Rightarrow  r \\in R \n\\end{array}\n$$\n\n<p>This inequality is true for all real numbers since the left-hand side is always positive, which means the inequality holds for all real $R$.</p>\n<ol>\n<li>3. $r + r^2 &gt; 1$</li>\n</ol>\n<p>We can rewrite this as:\n$r^2 + r - 1 &gt; 0$</p>\n\n<br/>$$\n\\begin{aligned}\n\n& \\Rightarrow {\\left[r-\\left(\\frac{-1-\\sqrt{5}}{2}\\right)\\right]\\left[r-\\left(\\frac{-1+\\sqrt{5}}{2}\\right)\\right]>0} \\\\\\\\\n& {\\left[\\because r^2+r-1=0 \\Rightarrow r=\\frac{-1 \\pm \\sqrt{1+4}}{2}=\\frac{-1 \\pm \\sqrt{5}}{2}\\right]} \\\\\\\\\n& \\Rightarrow r \\in\\left(-\\infty, \\frac{-1-\\sqrt{5}}{2}\\right) \\cup\\left(\\frac{-1+\\sqrt{5}}{2}, \\infty\\right) \n\\end{aligned}\n$$\n\n<p>Taking the intersection of the intervals from the three inequalities, we get $\\left(\\frac{1-\\sqrt{5}}{2}, \\frac{1+\\sqrt{5}}{2}\\right)$ as the valid range for $r$.</p>\n\n<p>Given the solution of the inequalities $r \\in \\left(\\frac{1-\\sqrt{5}}{2}, \\frac{1+\\sqrt{5}}{2}\\right)$, we need to determine which of the options are outside this interval. </p>\n<ol>\n<li>Option A: $\\frac{7}{4}$</li>\n</ol>\n<p>The decimal representation of $\\frac{7}{4}$ is 1.75, which is outside the interval $\\left(\\frac{1-\\sqrt{5}}{2}, \\frac{1+\\sqrt{5}}{2}\\right)$ or approximately (-0.618, 1.618). Hence, r cannot be equal to $\\frac{7}{4}$.</p>\n<ol>\n<li>Option B: $\\frac{5}{4}$</li>\n</ol>\n<p>The decimal representation of $\\frac{5}{4}$ is 1.25, which is inside the interval $\\left(\\frac{1-\\sqrt{5}}{2}, \\frac{1+\\sqrt{5}}{2}\\right)$. Hence, r can be equal to $\\frac{5}{4}$.</p>\n<ol>\n<li>Option C: $\\frac{3}{4}$</li>\n</ol>\n<p>The decimal representation of $\\frac{3}{4}$ is 0.75, which is also inside the interval $\\left(\\frac{1-\\sqrt{5}}{2}, \\frac{1+\\sqrt{5}}{2}\\right)$. Hence, r can be equal to $\\frac{3}{4}$.</p>\n<ol>\n<li>Option D: $\\frac{3}{2}$</li>\n</ol>\n<p>The decimal representation of $\\frac{3}{2}$ is 1.5, which is also inside the interval $\\left(\\frac{1-\\sqrt{5}}{2}, \\frac{1+\\sqrt{5}}{2}\\right)$. Hence, r can be equal to $\\frac{3}{2}$.</p>\n<p>Therefore, the only value that r cannot be equal to, among the given options, is $\\frac{7}{4}$. So, the correct answer is:</p>\n<p>Option A: $\\frac{7}{4}$</p>\n"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Consider the set of all lines px + qy + r = 0  such that 3p + 2q + 4r = 0.  Which one of the following statements\nis true?\n",
+      "options": [
+        {
+          "key": "A",
+          "value": "The lines are not concurrent"
+        },
+        {
+          "key": "B",
+          "value": "The lines are concurrent at the point $$\\left( {{3 \\over 4},{1 \\over 2}} \\right)$$"
+        },
+        {
+          "key": "C",
+          "value": "The lines are all parallel  "
+        },
+        {
+          "key": "D",
+          "value": "Each line passes through the origin"
+        }
+      ],
+      "answer": "B",
+      "explanation": "Equation of lines;\n<br><br>px + qy + r = 0 &nbsp;&nbsp;. . . . . (1)\n<br><br>Also given \n<br><br>3p + 2q + 4r = 0 &nbsp;&nbsp;. . . . . . (2)\n<br><br>divide equation (2) by 4, we get\n<br><br>$${3 \\over 4}P + {2 \\over 4}q + r = 0$$ &nbsp;&nbsp;. . . . (3)\n<br><br>By comparing (1) and (3) we get, \n<br><br>x = $${3 \\over 4}$$ and y = $${2 \\over 4}$$ = $${1 \\over 2}$$\n<br><br>For any value of p,q and r, the equation of set of lines will pan through  $$\\left( {{3 \\over 4},{1 \\over 2}} \\right)$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The foot of the perpendicular drawn from the origin, on the line, 3x + y = $$\\lambda $$ ($$\\lambda $$ $$ \\ne $$ 0) is P. If the line meets x-axis at A and y-axis at B, then the ratio BP : PA is : ",
+      "options": [
+        {
+          "key": "A",
+          "value": "1 : 3"
+        },
+        {
+          "key": "B",
+          "value": "3 : 1"
+        },
+        {
+          "key": "C",
+          "value": "1 : 9"
+        },
+        {
+          "key": "D",
+          "value": "9 : 1"
+        }
+      ],
+      "answer": "D",
+      "explanation": "Equation of the line, which is perpendicular to the line,  \n<br><br>3x + y = $$\\lambda $$($$\\lambda $$ $$ \\ne $$0) and passing  through  origin , \n<br><br>is given by $${{x - 0} \\over 3} = {{y - 0} \\over 1} = r$$\n<br><br>For foot of perpendicular\n<br><br>r = $${{ - \\left( {\\left( {3 \\times 0} \\right) + \\left( {1 \\times 0} \\right) - \\lambda } \\right)} \\over {{3^2} + {1^2}}}$$ = $${\\lambda  \\over {10}}$$\n<br><br>So, foot of perpendicular P = $$\\left( {{{3\\lambda } \\over {10}},{\\lambda  \\over {10}}} \\right)$$\n<br><br> Given the line meets X-axis where y = 0, so 3x + 0 = $$\\lambda $$\n<br><br>$$ \\Rightarrow $$ x = $${\\lambda  \\over 3}$$\n<br><br>Hence, coordinates of A = $$\\left( {{\\lambda  \\over 3},0} \\right)$$ and meets \n<br><br>Y-axis at B = (0, $$\\lambda $$)\n<br><br>So, BP = $$\\sqrt {{{\\left( {{{3\\lambda } \\over {10}}} \\right)}^2} + {{\\left( {{\\lambda  \\over {10}} - \\lambda } \\right)}^2}} $$ \n<br><br>$$ \\Rightarrow $$ &nbsp;&nbsp;BP = $$\\sqrt {{{9{\\lambda ^2}} \\over {100}} + {{81{\\lambda ^2}} \\over {100}}} $$\n<br><br>= BP = $$\\sqrt {{{90{\\lambda ^2}} \\over {100}}} $$\n<br><br>Now, PA = $$\\sqrt {{{\\left( {{\\lambda  \\over 3} - {{3\\lambda } \\over {10}}} \\right)}^2} + {{\\left( {0 - {\\lambda  \\over {10}}} \\right)}^2}} $$ \n<br><br>$$ \\Rightarrow $$$$\\,\\,\\,$$ PA = $$\\sqrt {{{{\\lambda ^2}} \\over {900}} + {{{\\lambda ^2}} \\over {100}}}  \\Rightarrow PA$$ =  $$\\sqrt {{{10{\\lambda ^2}} \\over {900}}} $$\n<br><br>Therefore BP : PA = 9 : 1\n<br><br>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The sides of a rhombus ABCD are parallel to the lines, x $$-$$ y + 2 = 0 and 7x $$-$$ y + 3 = 0. If the diagonals of the rhombus intersect P(1, 2) and the vertex A (different from the origin) is on the y-axis, then the coordinate of A is :",
+      "options": [
+        {
+          "key": "A",
+          "value": "$${5 \\over 2}$$"
+        },
+        {
+          "key": "B",
+          "value": "$${7 \\over 4}$$"
+        },
+        {
+          "key": "C",
+          "value": "2"
+        },
+        {
+          "key": "D",
+          "value": "$${7 \\over 2}$$"
+        }
+      ],
+      "answer": "A",
+      "explanation": "Let the coordinate A be (0, c)\n<br><br>Equations of the given lines are \n<br><br>x $$-$$ y + 2 = 0 and 7x $$-$$ y + 3 = 0\n<br><br>We know that the diagonals of the rhombus will be parallel to the angle bisectors of the two given lines; y = x + 2 and y = 7x + 3\n<br><br>$$\\therefore\\,\\,\\,$$ equation of angle bisectors is given as : \n<br><br>$${{x - y + 2} \\over {\\sqrt 2 }} =  \\pm {{7x - y + 3} \\over {5\\sqrt 2 }}$$\n<br><br>5x $$-$$ 5y + 10 = $$ \\pm $$ (7x $$-$$ y + 3)\n<br><br>$$\\therefore\\,\\,\\,$$ Parallel equations of the diagonals are 2x + 4y $$-$$ 7 = 0\n<br><br>and 12x $$-$$ 6y + 13 = 0\n<br><br>$$\\therefore\\,\\,\\,$$ slopes of diagonals are $${{ - 1} \\over 2}$$ and 2.\n<br><br>Now, slope of the diagonal from A(0, c) and passing through  P(1, 2) is (2 $$-$$ c)\n<br><br>$$\\therefore\\,\\,\\,$$ 2 $$-$$ c = 2 $$ \\Rightarrow $$&nbsp;c = 0 (not possible)\n<br><br>$$ \\therefore $$$$\\,\\,\\,$$ 2 $$-$$ c = $${{ - 1} \\over 2}$$ $$ \\Rightarrow $$ c = $${5 \\over 2}$$\n<br><br>$$\\therefore\\,\\,\\,$$ Coordinate of A is $${5 \\over 2}$$. "
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A straight line through origin O meets the lines 3y = 10 − 4x and 8x + 6y + 5 = 0 at points A and B respectively. Then O divides the segment AB in the ratio :",
+      "options": [
+        {
+          "key": "A",
+          "value": "2 : 3 "
+        },
+        {
+          "key": "B",
+          "value": "1 : 2"
+        },
+        {
+          "key": "C",
+          "value": "4 : 1"
+        },
+        {
+          "key": "D",
+          "value": "3 : 4"
+        }
+      ],
+      "answer": "C",
+      "explanation": "The lines 4x + 3y $$-$$ 10 = 0 and  \n<br><br>8x + 6y + 5 = 0 , are parallel as \n<br><br>&nbsp;&nbsp;&nbsp;&nbsp;$${4 \\over 8}$$&nbsp;&nbsp;=&nbsp;&nbsp;$${3 \\over 6}$$\n<br><br>Now length of perpendicular from \n<br><br>(0, 0, 0) to 4x + 3y $$-$$ 10 = 0 is, \n<br><br>P<sub>1</sub> &nbsp;&nbsp;= &nbsp;&nbsp;$$\\left| {{{4\\left( 0 \\right) + 3\\left( 0 \\right) - 10} \\over {\\sqrt {{4^2} + {3^2}} }}} \\right|$$&nbsp;&nbsp;=&nbsp;&nbsp;$${{10} \\over 5}$$&nbsp;&nbsp;=&nbsp;&nbsp;2\n<br><br>Length of perpendicular from \n<br><br>0 (0, 0) to 8x + 6y + 5 = 0 is \n<br><br>P<sub>2</sub> &nbsp;&nbsp;=&nbsp;&nbsp;$$\\left| {{{8\\left( 0 \\right) + 6\\left( 0 \\right) + 5} \\over {\\sqrt {{6^2} + {8^2}} }}} \\right|$$ &nbsp;&nbsp;=&nbsp;&nbsp;$${5 \\over {10}}$$&nbsp;&nbsp; =&nbsp;&nbsp;$${1 \\over 2}$$\n<br><br>$$\\therefore\\,\\,\\,$$ P<sub>1</sub> : P<sub>2</sub> &nbsp;&nbsp;=&nbsp;&nbsp; 2 : $${1 \\over 2}$$ &nbsp;&nbsp;=&nbsp;&nbsp; 4 : 1"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "If a variable line drawn through the intersection of the lines  $${x \\over 3} + {y \\over 4} = 1$$ and $${x \\over 4} + {y \\over 3} = 1,$$ meets the coordinate axes at A and B, (A $$ \\ne $$ B), then the locus of the midpoint of AB is :",
+      "options": [
+        {
+          "key": "A",
+          "value": "6xy = 7(x + y)"
+        },
+        {
+          "key": "B",
+          "value": "4(x + y)<sup>2</sup> − 28(x + y) + 49 = 0"
+        },
+        {
+          "key": "C",
+          "value": "7xy = 6(x + y)\n"
+        },
+        {
+          "key": "D",
+          "value": "14(x + y)<sup>2</sup> − 97(x + y) + 168 = 0"
+        }
+      ],
+      "answer": "C",
+      "explanation": "L<sub>1</sub> : 4x + 3y $$-$$ 12 = 0\n<br><br>L<sub>2</sub> : 3x + 4y $$-$$ 12 = 0\n<br><br>Equation of line passing through  the intersection of these two lines L<sub>1</sub> and L<sub>2</sub> is \n<br><br>L<sub>1</sub> + $$\\lambda $$L<sub>2</sub> = 0\n<br><br>$$ \\Rightarrow $$$$\\,\\,\\,$$(4x + 3y $$-$$ 12) + $$\\lambda $$(3x + 4y $$-$$ 12) = 0\n<br><br>$$ \\Rightarrow $$$$\\,\\,\\,$$ x(4 + 3$$\\lambda $$) + y(3 + 4$$\\lambda $$) $$-$$ 12(1 + $$\\lambda $$) = 0\n<br><br>this line meets x coordinate at point A and y coordinate at point B.\n<br><br>$$\\therefore\\,\\,\\,$$ Point A = $$\\left( {{{12\\left( {1 + \\lambda } \\right)} \\over {4 + 3\\lambda }},0} \\right)$$\n<br><br>and Point B = $$\\left( {0,\\,\\,{{12\\left( {1 + \\lambda } \\right)} \\over {3 + 4\\lambda }}} \\right)$$\n<br><br>Let coordinate of midpoint of line AB is  (h, k).\n<br><br>$$\\therefore\\,\\,\\,$$ h = $${{6\\left( {1 + \\lambda } \\right)} \\over {4 + 3\\lambda }}$$ . . . . . (1)\n<br><br>and k = $${{6\\left( {1 + \\lambda } \\right)} \\over {3 + 4\\lambda }}$$ . . . . (2)\n<br><br>Eliminate $$\\lambda $$ from (1) and (2), then  we get \n<br><br>6(h + k) = 7 hk\n<br><br>$$\\therefore\\,\\,\\,$$ Locus of midpoint of line AB is , \n<br><br>6(x + y) = 7xy"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Let $$a, b, c$$ and $$d$$ be non-zero numbers. If the point of intersection of the lines $$4ax + 2ay + c = 0$$ and $$5bx + 2by + d = 0$$ lies in the fourth quadrant and is equidistant from the two axes then :",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$3bc - 2ad = 0$$ "
+        },
+        {
+          "key": "B",
+          "value": "$$3bc + 2ad = 0$$"
+        },
+        {
+          "key": "C",
+          "value": "$$2bc - 3ad = 0$$"
+        },
+        {
+          "key": "D",
+          "value": "$$2bc + 3ad = 0$$"
+        }
+      ],
+      "answer": "A",
+      "explanation": "<p>Since the point of intersection lies on fourth quadrant and equidistant from the two axes,</p>\n<p>i.e., let the point be (k, $$-$$k) and this point satisfies the two equations of the given lines.</p>\n<p>$$\\therefore$$ 4ak $$-$$ 2ak + c = 0 ......... (1)</p>\n<p>and 5bk $$-$$ 2bk + d = 0 ..... (2)</p>\n<p>From (1) we get, $$k = {{ - c} \\over {2a}}$$</p>\n<p>Putting the value of k in (2) we get,</p>\n<p>$$5b\\left( { - {c \\over {2a}}} \\right) - 2b\\left( { - {c \\over {2a}}} \\right) + d = 0$$</p>\n<p>or, $$ - {{5bc} \\over {2a}} + {{2bc} \\over {2a}} + d = 0$$ or, $$ - {{3bc} \\over {2a}} + d = 0$$</p>\n<p>or, $$ - 3bc + 2ad = 0$$ or, $$3bc - 2ad = 0$$</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "If the line $$2x + y = k$$ passes through the point which divides the line segment joining the points $$(1, 1)$$ and $$(2, 4)$$ in the ratio $$3 : 2$$, then $$k$$ equals :",
+      "options": [
+        {
+          "key": "A",
+          "value": "$${{29 \\over 5}}$$"
+        },
+        {
+          "key": "B",
+          "value": "$$5$$"
+        },
+        {
+          "key": "C",
+          "value": "$$6$$ "
+        },
+        {
+          "key": "D",
+          "value": "$${{11 \\over 5}}$$"
+        }
+      ],
+      "answer": "C",
+      "explanation": "<p>The point which divides the line segment joining the points (1, 1) and (2, 4) in the ratio 3 : 2 is</p>\n<p>$$ = \\left( {{{3 \\times 2 + 2 \\times 1} \\over {3 + 2}},{{3 \\times 4 + 2 \\times 1} \\over {3 + 2}}} \\right)$$</p>\n<p>$$ = \\left( {{{6 + 2} \\over 5},{{12 + 2} \\over 5}} \\right) = \\left( {{8 \\over 5},{{14} \\over 5}} \\right)$$</p>\n<p>Since the line 2x + y = k passes through this point,</p>\n<p>$$\\therefore$$ $$2 \\times {8 \\over 5} + {{14} \\over 5} = k$$ or $${{30} \\over 5} = k$$ or, k = 6</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The line $$L$$ given by $${x \\over 5} + {y \\over b} = 1$$ passes through the point $$\\left( {13,32} \\right)$$. The line K is parrallel to $$L$$ and has the equation $${x \\over c} + {y \\over 3} = 1.$$ Then the distance between $$L$$ and $$K$$ is :",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$\\sqrt {17} $$ "
+        },
+        {
+          "key": "B",
+          "value": "$${{17} \\over {\\sqrt {15} }}$$ "
+        },
+        {
+          "key": "C",
+          "value": "$${{23} \\over {\\sqrt {17} }}$$ "
+        },
+        {
+          "key": "D",
+          "value": "$${{23} \\over {\\sqrt {15} }}$$ "
+        }
+      ],
+      "answer": "C",
+      "explanation": "Slope of line $$L =  - {b \\over 5}$$\n<br><br>Slope of line $$K =  - {3 \\over c}$$\n<br><br>Line $$L$$ is parallel to line $$k.$$ \n<br><br>$$ \\Rightarrow {b \\over 5} = {3 \\over c} \\Rightarrow bc = 15$$\n<br><br>$$(13,32)$$ is a point on $$L.$$ \n<br><br>$$\\therefore$$ $${{13} \\over 5} + {{32} \\over b} = 1 \\Rightarrow {{32} \\over b} =  - {8 \\over 5}$$\n<br><br>$$ \\Rightarrow b =  - 20 \\Rightarrow c =  - {3 \\over 4}$$\n<br><br>Equation of $$K:$$ $$y - 4x = 3$$\n<br><br>$$\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,$$ $$ \\Rightarrow 4x - y + 3 = 0$$\n<br><br>Distance between $$L$$ and $$K$$ \n<br><br>$$ = {{\\left| {52 - 32 + 3} \\right|} \\over {\\sqrt {17} }} = {{23} \\over {\\sqrt {17} }}$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The shortest distance between the line $$y - x = 1$$ and the curve $$x = {y^2}$$ is :",
+      "options": [
+        {
+          "key": "A",
+          "value": "$${{2\\sqrt 3 } \\over 8}$$ "
+        },
+        {
+          "key": "B",
+          "value": "$${{3\\sqrt 2 } \\over 5}$$"
+        },
+        {
+          "key": "C",
+          "value": "$${{\\sqrt 3 } \\over 4}$$ "
+        },
+        {
+          "key": "D",
+          "value": "$${{3\\sqrt 2 } \\over 8}$$"
+        }
+      ],
+      "answer": "D",
+      "explanation": "Let $$\\left( {{a^2},a} \\right)$$ be the point of shortest distance on $$x = {y^2}$$\n<br><br>Then distance between $$\\left( {{a^2},a} \\right)$$ and line $$x - y + 1 = 0$$\n<br><br>is given by\n<br><br>$$\\,\\,\\,\\,\\,\\,\\,\\,D = {{{a^2} - a + 1} \\over {\\sqrt 2 }} = {1 \\over {\\sqrt 2 }}\\left[ {{{\\left( {a - {1 \\over 2}} \\right)}^2} + {3 \\over 4}} \\right]$$\n<br><br>It is min when $$a = {1 \\over 2}$$ and $$D{}_{\\min } = {3 \\over {4\\sqrt 2 }} = {{3\\sqrt 2 } \\over 8}$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The lines $$p\\left( {{p^2} + 1} \\right)x - y + q = 0$$ and $$\\left( {{p^2} + 1} \\right){}^2x + \\left( {{p^2} + 1} \\right)y + 2q$$ $$=0$$ are perpendicular to a common line for : ",
+      "options": [
+        {
+          "key": "A",
+          "value": "exactly one values of $$p$$"
+        },
+        {
+          "key": "B",
+          "value": "exactly two values of $$p$$ "
+        },
+        {
+          "key": "C",
+          "value": "more than two values of $$p$$ "
+        },
+        {
+          "key": "D",
+          "value": "no value of $$p$$ "
+        }
+      ],
+      "answer": "A",
+      "explanation": "If the lines $$p\\left( {{p^2} + 1} \\right)x - y + q = 0$$\n<br><br>and $${\\left( {{p^2} + 1} \\right)^2}x + \\left( {{p^2} + 1} \\right)y + 2q = 0$$\n<br><br>are perpendicular to a common line then these lines -\n<br><br>must be parallel to each other, \n<br><br>$$\\therefore$$ $${m_1} = {m_2} \\Rightarrow  - {{p\\left( {{p^2} + 1} \\right)} \\over { - 1}} =  - {{{{\\left( {{p^2} + 1} \\right)}^2}} \\over {{p^2} + 1}}$$\n<br><br>$$ \\Rightarrow \\left( {{p^2} + 1} \\right)\\left( {p + 1} \\right) = 0$$\n<br><br>$$ \\Rightarrow p =  - 1$$\n<br><br>$$\\therefore$$ $$p$$ can have exactly one value. "
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The perpendicular bisector of the line segment joining P(1, 4) and Q(k, 3) has y-intercept -4. Then a possible value of k is :",
+      "options": [
+        {
+          "key": "A",
+          "value": "1 "
+        },
+        {
+          "key": "B",
+          "value": "2 "
+        },
+        {
+          "key": "C",
+          "value": "-2"
+        },
+        {
+          "key": "D",
+          "value": "-4"
+        }
+      ],
+      "answer": "D",
+      "explanation": "Slope of $$PQ = {{3 - 4} \\over {k - 1}} = {{ - 1} \\over {k - 1}}$$\n<br><br>$$\\therefore$$ Slope of perpendicular bisector of \n<br><br>$$PQ = \\left( {k - 1} \\right)$$\n<br><br>Also mid point of \n<br><br>$$PQ\\left( {{{k + 1} \\over 2},{7 \\over 2}} \\right).$$\n<br><br>Equation of perpendicular bisector is \n<br><br>$$y - {7 \\over 2} = \\left( {k - 1} \\right)\\left( {x - {{k + 1} \\over 2}} \\right)$$\n<br><br>$$ \\Rightarrow 2y - 7 = 2\\left( {k - 1} \\right)x - \\left( {{k^2} - 1} \\right)$$\n<br><br>$$ \\Rightarrow 2\\left( {k - 1} \\right)x - 2y + \\left( {8 - {k^2}} \\right) = 0$$\n<br><br>$$\\therefore$$ $$y$$-intercept $$ = {{8 - {k^2}} \\over { - 2}} =  - 4$$ \n<br><br>$$ \\Rightarrow $$ $$8 - {k^2} =  - 8$$ or $${k^2} = 16 \\Rightarrow k =  \\pm 4$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "If non zero numbers $$a, b, c$$ are in $$H.P.,$$ then the straight line $${x \\over a} + {y \\over b} + {1 \\over c} = 0$$ always passes through a fixed point. That point is :",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$(-1,2)$$ "
+        },
+        {
+          "key": "B",
+          "value": "$$(-1, -2)$$ "
+        },
+        {
+          "key": "C",
+          "value": "$$(1, -2)$$ "
+        },
+        {
+          "key": "D",
+          "value": "$$\\left( {1, - {1 \\over 2}} \\right)$$ "
+        }
+      ],
+      "answer": "C",
+      "explanation": "$$a,b,c$$ are in $$H.P. \\Rightarrow {1 \\over a}.{1 \\over b},{1 \\over c}$$ are in $$A.P.$$ \n<br><br>$$ \\Rightarrow {2 \\over b} = {1 \\over a} + {1 \\over c}$$\n<br><br>$$ \\Rightarrow {1 \\over a} - {2 \\over b} + {1 \\over c} = 0$$\n<br><br>$$\\therefore$$ $${x \\over a} + {y \\over a} + {1 \\over c} = 0$$ passes through $$\\left( {1, - 2} \\right)$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The line parallel to the $$x$$ - axis and passing through the intersection of the lines $$ax + 2by + 3b = 0$$ and $$bx - 2ay - 3a = 0,$$ where $$(a, b)$$ $$ \\ne $$ $$(0, 0)$$ is :",
+      "options": [
+        {
+          "key": "A",
+          "value": "below the $$x$$ - axis at a distance of $${3 \\over 2}$$ from it "
+        },
+        {
+          "key": "B",
+          "value": "below the $$x$$ - axis at a distance of $${2 \\over 3}$$ from it "
+        },
+        {
+          "key": "C",
+          "value": "above  the $$x$$ - axis at a distance of $${3 \\over 2}$$ from it  "
+        },
+        {
+          "key": "D",
+          "value": "above  the $$x$$ - axis at a distance of $${2 \\over 3}$$ from it   "
+        }
+      ],
+      "answer": "A",
+      "explanation": "The line passing through the intersection of lines \n<br><br>$$ax + 2by = 3b = 0$$\n<br><br>and $$bx - 2ay - 3a = 0$$ is \n<br><br>$$ax + 2by + 3b + \\lambda \\left( {bx - 2ay - 3a} \\right) = 0$$\n<br><br>$$ \\Rightarrow \\left( {a + b\\lambda } \\right)x + \\left( {2b - 2a\\lambda } \\right)y + 3b - 3\\lambda a = 0$$\n<br><br>As this line is parallel to $$x$$-axis.\n<br><br>$$\\therefore$$ $$a + b\\lambda  = 0 \\Rightarrow \\lambda  =  - a/b$$\n<br><br>$$ \\Rightarrow ax + 2by + 3b - {a \\over b}\\left( {bx - 2ay - 3a} \\right) = 0$$\n<br><br>$$ \\Rightarrow ax + 2by + 3b - ax + {{2{a^2}} \\over b}y + {{3{a^2}} \\over b} = 0$$\n<br><br>$$y\\left( {2b + {{2{a^2}} \\over b}} \\right) + 3b + {{3{a^2}} \\over b} = 0$$\n<br><br>$$y\\left( {{{2{b^2} + 2{a^2}} \\over b}} \\right) =  - \\left( {{{3{b^2} + 3{a^2}} \\over b}} \\right)$$\n<br><br>$$y = {{ - 3\\left( {{a^2} + {b^2}} \\right)} \\over {2\\left( {{b^2} + {a^2}} \\right)}} = {{ - 3} \\over 2}$$\n<br><br>So it is $$3/2$$ units below $$x$$-axis. "
+    },
+    {
+      "_type": "single_mcq",
+      "body": "If the sum of the slopes of the lines given by $${x^2} - 2cxy - 7{y^2} = 0$$ is four times their product $$c$$ has the value :",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$-2$$ "
+        },
+        {
+          "key": "B",
+          "value": "$$-1$$ "
+        },
+        {
+          "key": "C",
+          "value": "$$2$$ "
+        },
+        {
+          "key": "D",
+          "value": "$$1$$"
+        }
+      ],
+      "answer": "C",
+      "explanation": "Let the lines be $$y = {m_1}x$$ and $$y = {m_2}x$$ then\n<br><br>$${m_1} + {m_2} =  - {{2c} \\over 7}$$ and $${m_1}{m_2} =  - {1 \\over 7}$$\n<br><br>Given $${m_1} + {m_2} = 4m{}_1{m_2}$$\n<br><br>$$ \\Rightarrow {{2c} \\over 7} =  - {4 \\over 7} \\Rightarrow c = 2$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "If one of the lines given by $$6{x^2} - xy + 4c{y^2} = 0$$ is $$3x + 4y = 0,$$ then $$c$$ equals :",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$-3$$ "
+        },
+        {
+          "key": "B",
+          "value": "$$-1$$"
+        },
+        {
+          "key": "C",
+          "value": "$$3$$ "
+        },
+        {
+          "key": "D",
+          "value": "$$1$$ "
+        }
+      ],
+      "answer": "A",
+      "explanation": "$$3x+4y=0$$ is one of the lines of the pair\n<br><br>$$6{x^2} - xy + 4c{y^2} = 0,$$  $$\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,$$\n<br><br>Put  $$y =  - {3 \\over 4}x,$$\n<br><br>we get $$6{x^2} + {3 \\over 4}{x^2} + 4c{\\left( { - {3 \\over 4}x} \\right)^2} = 0$$\n<br><br>$$ \\Rightarrow 6 + {3 \\over 4} + {{9c} \\over 4} = 0 \\Rightarrow c =  - 3$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Let $$A\\left( {2, - 3} \\right)$$ and $$B\\left( {-2,  1} \\right)$$ be vertices of a triangle $$ABC$$. If the centroid of this triangle moves on the line $$2x + 3y = 1$$, then the locus of the vertex $$C$$ is the line :",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$3x - 2y = 3$$"
+        },
+        {
+          "key": "B",
+          "value": "$$2x - 3y = 7$$"
+        },
+        {
+          "key": "C",
+          "value": "$$3x + 2y = 5$$"
+        },
+        {
+          "key": "D",
+          "value": "$$2x + 3y = 9$$"
+        }
+      ],
+      "answer": "D",
+      "explanation": "Let the vertex $$C$$ be $$(h,k),$$  then the \n<br><br>centroid of $$\\Delta ABC$$ is $$\\left( {{{2 + (- 2) + h} \\over 3},{{ - 3 + 1 + k} \\over 3}} \\right)$$ \n<br><br>or $$\\left( {{h \\over 3},{{ - 2 + k} \\over 3}} \\right).$$ It lies on $$2x+3y=1$$ \n<br><br>$$ \\Rightarrow {{2h} \\over 3} - 2 + k = 1$$\n<br><br>$$ \\Rightarrow 2h + 3k = 9$$\n<br><br>$$ \\therefore $$ Locus of $$C$$ is $$2x+3y=9$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The equation of the straight line passing through the point $$(4, 3)$$ and making intercepts on the co-ordinate axes whose sum is $$-1$$ is :",
+      "options": [
+        {
+          "key": "A",
+          "value": "$${x \\over 2} - {y \\over 3} = 1$$ and $${x \\over -2} +{y \\over 1} = 1$$"
+        },
+        {
+          "key": "B",
+          "value": "$${x \\over 2} - {y \\over 3} = -1$$ and $${x \\over -2} +{y \\over 1} = -1$$"
+        },
+        {
+          "key": "C",
+          "value": "$${x \\over 2} + {y \\over 3} = 1$$ and $${x \\over 2} +{y \\over 1} = 1$$ "
+        },
+        {
+          "key": "D",
+          "value": "$${x \\over 2} + {y \\over 3} = -1$$ and  $${x \\over -2} +{y \\over 1} = -1$$"
+        }
+      ],
+      "answer": "A",
+      "explanation": "Let the required line be $${x \\over a} + {y \\over b} = 1.......\\left( 1 \\right)$$\n<br><br>then $$a+b=-1$$ $$\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,.........\\left( 2 \\right)$$\n<br><br>$$(1)$$ passes through $$(4,3), $$ $$ \\Rightarrow {4 \\over a} + {3 \\over b} = 1$$\n<br><br>$$ \\Rightarrow 4b + 3a = ab\\,\\,...............\\left( 3 \\right)$$\n<br><br>Eliminating $$b$$ from $$(2)$$ and $$(3),$$  we get \n<br><br>$${a^2} - 4 = 0 \\Rightarrow a =  \\pm 2 \\Rightarrow b =  - 3$$, $$1$$\n<br><br>$$\\therefore$$ Equation of straight lines are\n<br><br>$${x \\over 2} + {y \\over { - 3}} = 1$$ \n<br><br>or $${x \\over { - 2}} + {y \\over 1} = 1$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "If the pair of straight lines $${x^2} - 2pxy - {y^2} = 0$$ and $${x^2} - 2qxy - {y^2} = 0$$ be such that each pair bisects the angle between the other pair, then :",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$pq = -1$$ "
+        },
+        {
+          "key": "B",
+          "value": "$$p = q$$ "
+        },
+        {
+          "key": "C",
+          "value": "$$p = -q$$ "
+        },
+        {
+          "key": "D",
+          "value": "$$pq = 1$$."
+        }
+      ],
+      "answer": "A",
+      "explanation": "Equation of bisectors of second pair of straight lines is, \n<br><br>$$q{x^2} + 2xy - q{y^2} = 0\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,...\\left( 1 \\right)$$\n<br><br>It must be identical  to the  first  pair\n<br><br>$${x^2} - 2\\,pxy - {y^2} = 0\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\left(... 2 \\right)$$\n<br><br>from $$(1)$$  and $$(2)$$ $${q \\over 1} = {2 \\over { - 2p}} = {{ - q} \\over { - 1}}$$\n<br><br>$$ \\Rightarrow pq =  - 1.$$ "
+    },
+    {
+      "_type": "single_mcq",
+      "body": "If the equation of the locus of a point equidistant from the point $$\\left( {{a_{1,}}{b_1}} \\right)$$ and $$\\left( {{a_{2,}}{b_2}} \\right)$$ is \n<br>$$\\left( {{a_1} - {a_2}} \\right)x + \\left( {{b_1} - {b_2}} \\right)y + c = 0$$  ,  then the value of $$'c'$$ is :",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$\\sqrt {{a_1}^2 + {b_1}^2 - {a_2}^2 - {b_2}^2} $$ "
+        },
+        {
+          "key": "B",
+          "value": "$${1 \\over 2}\\left( {{a_2}^2 + {b_2}^2 - {a_1}^2 - {b_1}^2} \\right)$$ "
+        },
+        {
+          "key": "C",
+          "value": "$${{a_1}^2 - {a_2}^2 + {b_1}^2 - {b_2}^2}$$ "
+        },
+        {
+          "key": "D",
+          "value": "$${1 \\over 2}\\left( {{a_1}^2 + {a_2}^2 + {b_1}^2 + {b_2}^2} \\right)$$."
+        }
+      ],
+      "answer": "B",
+      "explanation": "Since, the points $\\left(a_1, b_1\\right)$ and $\\left(a_2, b_2\\right)$ satisfy the equation. So, that\n<br/><br/>$$\n\\begin{aligned}\n& a_1\\left(a_1-a_2\\right)+b_1\\left(b_1-b_2\\right)+c=0 ~~........(1) \\\\\\\\\n& \\text { and } a_2\\left(a_1-a_2\\right)+b_2\\left(b_1-b_2\\right)+c=0 ~~.........(2) \\\\\\\\\n& \\text { On adding Eqs. (i) and (ii), we get } \\\\\\\\\n& \\left(a_1+a_2\\right)\\left(a_1-a_2\\right)+\\left(b_1+b_2\\right)\\left(b_1-b_2\\right)+2 c=0 \\\\\\\\\n& \\Rightarrow  2 c=-\\left(a_1^2-a_2^2+b_1^2-b_2^2\\right) \\\\\\\\\n& \\Rightarrow  c=\\frac{1}{2}\\left(a_2^2+b_2^2-a_1^2-b_1^2\\right)\n\\end{aligned}\n$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Locus of centroid of the triangle whose vertices are $$\\left( {a\\cos t,a\\sin t} \\right),\\left( {b\\sin t, - b\\cos t} \\right)$$ and $$\\left( {1,0} \\right),$$ where $$t$$ is a parameter, is :",
+      "options": [
+        {
+          "key": "A",
+          "value": "$${\\left( {3x + 1} \\right)^2} + {\\left( {3y} \\right)^2} = {a^2} - {b^2}$$ "
+        },
+        {
+          "key": "B",
+          "value": "$${\\left( {3x - 1} \\right)^2} + {\\left( {3y} \\right)^2} = {a^2} - {b^2}$$"
+        },
+        {
+          "key": "C",
+          "value": "$${\\left( {3x - 1} \\right)^2} + {\\left( {3y} \\right)^2} = {a^2} + {b^2}$$"
+        },
+        {
+          "key": "D",
+          "value": "$${\\left( {3x + 1} \\right)^2} + {\\left( {3y} \\right)^2} = {a^2} + {b^2}$$"
+        }
+      ],
+      "answer": "C",
+      "explanation": "$$x = {{a\\cos t + b\\sin t + 1} \\over 3}$$\n<br><br>$$ \\Rightarrow a\\cos t + b\\sin t = 3x - 1$$\n<br><br>$$y = {{a\\sin t - b\\cos t} \\over 3}$$\n<br><br>$$ \\Rightarrow a\\sin t - b\\cos t = 3y$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "If $${x_1},{x_2},{x_3}$$ and $${y_1},{y_2},{y_3}$$ are both in G.P. with the same common ratio, then the points $$\\left( {{x_1},{y_1}} \\right),\\left( {{x_2},{y_2}} \\right)$$ and $$\\left( {{x_3},{y_3}} \\right)$$ :",
+      "options": [
+        {
+          "key": "A",
+          "value": "are vertices of a triangle"
+        },
+        {
+          "key": "B",
+          "value": "lie on a straight line "
+        },
+        {
+          "key": "C",
+          "value": "lie on an ellipse "
+        },
+        {
+          "key": "D",
+          "value": "lie on a circle "
+        }
+      ],
+      "answer": "B",
+      "explanation": "Taking co-ordinates as\n<br><br>$$\\left( {{x \\over r},{y \\over r}} \\right);\\left( {x,y} \\right)\\,\\,\\&amp; \\,\\,\\left( {xr,yr} \\right)$$\n<br><br>Then slope of line joining\n<br><br>$$\\left( {{x \\over r},{y \\over r}} \\right),\\left( {x,y} \\right) = {{y\\left( {1 - {1 \\over r}} \\right)} \\over {x\\left( {1 - {1 \\over r}} \\right)}} = {y \\over x}$$\n<br><br>and slope of line joining $$(x,y)$$ and $$(xr, yr)$$ \n<br><br>$$ = {{y\\left( {r - 1} \\right)} \\over {x\\left( {r - 1} \\right)}} = {y \\over x}$$\n<br><br>$$\\therefore$$ $${m_1} = {m_2}$$\n<br><br>$$ \\Rightarrow $$ Points lie on the straight line."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "If the pair of lines \n<br><br>$$a{x^2} + 2hxy + b{y^2} + 2gx + 2fy + c = 0$$\n<br><br>intersect on the $$y$$-axis then :",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$2fgh = b{g^2} + c{h^2}$$ "
+        },
+        {
+          "key": "B",
+          "value": "$$b{g^2} \\ne c{h^2}$$ "
+        },
+        {
+          "key": "C",
+          "value": "$$abc = 2fgh$$ "
+        },
+        {
+          "key": "D",
+          "value": "none of these "
+        }
+      ],
+      "answer": "A",
+      "explanation": "Put $$x=0$$ in the given equation\n<br><br>$$ \\Rightarrow b{y^2} + 2fy + c = 0.$$\n<br><br>For unique point of intersection $${f^2} - bc = 0$$\n<br><br>$$ \\Rightarrow a{f^2} - abc = 0.$$ \n<br><br>Since $$abc + 2fgh - a{f^2} - b{g^2} - c{h^2} = 0$$\n<br><br>$$ \\Rightarrow 2fgh - b{g^2} - c{h^2} = 0$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The pair of lines represented by \n$$$3a{x^2} + 5xy + \\left( {{a^2} - 2} \\right){y^2} = 0$$$\n<br><br>are perpendicular to each other for :",
+      "options": [
+        {
+          "key": "A",
+          "value": "two values of $$a$$"
+        },
+        {
+          "key": "B",
+          "value": "$$\\forall \\,a$$ "
+        },
+        {
+          "key": "C",
+          "value": "for one value of $$a$$ "
+        },
+        {
+          "key": "D",
+          "value": "for no values of $$a$$ "
+        }
+      ],
+      "answer": "A",
+      "explanation": "$$3a + {a^2} - 2 = 0 \\Rightarrow {a^2} + 3a - 2 = 0;$$\n<br><br>$$ \\Rightarrow a = {{ - 3 \\pm \\sqrt {9 + 8} } \\over 2} = {{ - 3 \\pm \\sqrt {17} } \\over 2}$$ "
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A triangle with vertices $$\\left( {4,0} \\right),\\left( { - 1, - 1} \\right),\\left( {3,5} \\right)$$ is :",
+      "options": [
+        {
+          "key": "A",
+          "value": "isosceles and right angled"
+        },
+        {
+          "key": "B",
+          "value": "isosceles but not right angled"
+        },
+        {
+          "key": "C",
+          "value": "right angled but not isosceles "
+        },
+        {
+          "key": "D",
+          "value": "neither right angled nor isosceles "
+        }
+      ],
+      "answer": "A",
+      "explanation": "$$AB = \\sqrt {{{\\left( {4 + 1} \\right)}^2} + {{\\left( {0 + 1} \\right)}^2}}  = \\sqrt {26} ;$$\n<br><br>$$BC = \\sqrt {{{\\left( {3 + 1} \\right)}^2} + {{\\left( {5 + 1} \\right)}^2}}  = \\sqrt {52} $$\n<br><br>$$CA = \\sqrt {{{\\left( {4 - 3} \\right)}^2} + {{\\left( {0 - 5} \\right)}^2}}  = \\sqrt {26} ;$$\n<br><br>In isosceles triangle side $$AB=CA$$\n<br><br>For right angled triangle, $$B{C^2} = A{B^2} + A{C^2}$$\n<br><br>So, here $$BC = \\sqrt {52} $$ or $$B{C^2} = 52$$\n<br><br>or $$\\,\\,\\,\\,\\,\\,\\,\\,\\,{\\left( {\\sqrt {26} } \\right)^2} + {\\left( {\\sqrt {26} } \\right)^2} = 52$$\n<br><br>So, the given triangle is right angled and also isosceles."
+    },
+    {
+      "_type": "numerical",
+      "body": "<p>Let the distance between two parallel lines be 5 units and a point $P$ lie between the lines at a unit distance from one of them. An equilateral triangle $P Q R$ is formed such that $Q$ lies on one of the parallel lines, while R lies on the other. Then $(Q R)^2$ is equal to _________.</p>",
+      "answer": "28",
+      "explanation": "<p>We set up a coordinate system so that the two parallel lines are given by</p>\n<p>$$ y = 0 \\quad \\text{and} \\quad y = 5, $$</p>\n<p>since their distance is 5 units. Choose point</p>\n<p>$$ P = (0,1) $$</p>\n<p>so that the distance from $P$ to the line $y=0$ is 1 unit (and its distance to the line $y=5$ is 4 units).</p>\n<p>Let point</p>\n<p>$$ Q = (a,0) $$</p>\n<p>be on the line $y = 0$, and let point</p>\n<p>$$ R = (b,5) $$</p>\n<p>be on the line $y = 5$. Since triangle $PQR$ is equilateral with side length $s$, we require:</p>\n<p>$$ PQ = PR = QR = s. $$</p>\n<p>A convenient method is to “rotate” $Q$ about $P$ by an angle of $60^\\circ$ to obtain $R$. In complex-number (or vector) terms, if we translate so that $P$ is at the origin, then the rotation is given by</p>\n<p>$$ e^{i60^\\circ} = \\cos 60^\\circ + i \\sin 60^\\circ = \\frac{1}{2} + i \\frac{\\sqrt{3}}{2}. $$</p>\n<p>Thus, writing $Q$ in vector form relative to $P$, we have</p>\n<p>$$ Q - P = (a, -1). $$</p>\n<p>Rotating this by $60^\\circ$ gives</p>\n<p>$$ R - P = \\left(a\\cos60^\\circ - (-1)\\sin60^\\circ,\\; a\\sin60^\\circ + (-1)\\cos60^\\circ\\right). $$</p>\n<p>Substituting the values $\\cos60^\\circ = \\frac{1}{2}$ and $\\sin60^\\circ = \\frac{\\sqrt{3}}{2}$, we obtain</p>\n<p>$ \\begin{aligned} R - P &= \\left(\\frac{a}{2} + \\frac{\\sqrt{3}}{2},\\; \\frac{a\\sqrt{3}}{2} - \\frac{1}{2}\\right), \\\\ \\text{so} \\quad R &= \\left( \\frac{a+\\sqrt{3}}{2},\\; 1 + \\frac{a\\sqrt{3}}{2} - \\frac{1}{2} \\right) = \\left( \\frac{a+\\sqrt{3}}{2},\\; \\frac{a\\sqrt{3}+1}{2} \\right). \\end{aligned} $</p>\n<p>Since $R$ lies on $y = 5$, its $y$-coordinate must equal 5:</p>\n<p>$$ \\frac{a\\sqrt{3}+1}{2} = 5. $$</p>\n<p>Solve for $a$:</p>\n<p>$ \\begin{aligned} a\\sqrt{3} + 1 &= 10, \\\\ a\\sqrt{3} &= 9, \\\\ a &= \\frac{9}{\\sqrt{3}} = 3\\sqrt{3}. \\end{aligned} $</p>\n<p>Now, the side length $s$ (which is the distance $PQ$) is given by</p>\n<p>$ \\begin{aligned} s^2 &= PQ^2 = \\left(3\\sqrt{3} - 0\\right)^2 + \\left(0 - 1\\right)^2 \\\\ &= (3\\sqrt{3})^2 + 1^2 \\\\ &= 27 + 1 \\\\ &= 28. \\end{aligned} $</p>\n<p>Thus, the square of side $QR$ is</p>\n<p>$$ (QR)^2 = s^2 = 28. $$</p>"
+    },
+    {
+      "_type": "numerical",
+      "body": "The lines $\\mathrm{L}_1, \\mathrm{~L}_2, \\ldots, \\mathrm{L}_{20}$ are distinct. For $\\mathrm{n}=1,2,3, \\ldots, 10$ all the lines $\\mathrm{L}_{2 \\mathrm{n}-1}$ are parallel to each other and all the lines $L_{2 n}$ pass through a given point $P$. The maximum number of points of intersection of pairs of lines from the set $\\left\\{\\mathrm{L}_1, \\mathrm{~L}_2, \\ldots, \\mathrm{L}_{20}\\right\\}$ is equal to ___________.",
+      "answer": "101",
+      "explanation": "<p>To find the maximum number of points of intersection of pairs of lines from the given set, we need to consider how the lines are arranged based on the given conditions.</p><p>Firstly, there are 10 lines (${L}_1, {L}_3, ..., {L}_{19}$) that are parallel to each other. Since parallel lines do not intersect with each other, these 10 lines will not contribute to the number of intersection points among themselves.</p><p>Secondly, there are 10 lines (${L}_2, {L}_4, ..., {L}_{20}$) that all pass through a given point $P$. Although these lines intersect at $P$, they only contribute one unique point of intersection to the total count.</p><p>To calculate the maximum number of intersection points, we need to consider the total number of ways to pick pairs of lines from the 20 lines available without restrictions, then subtract the combinations that do not result in intersections, which includes the combinations of parallel lines among themselves and the concurrent lines through point $P$.</p><p>This calculation is represented as:</p><p>$$Total = ^{20}C_2 - ^{10}C_2 - ^{10}C_2 + 1$$</p><p>Here, $^{20}C_2$ calculates the total number of ways to pick any two lines out of 20, which includes intersecting and non-intersecting lines. $^{10}C_2$ is subtracted twice: once for the set of parallel lines (${L}_1, {L}_3, ..., {L}_{19}$) that don't intersect among themselves and once more for the set of concurrent lines (${L}_2, {L}_4, ..., {L}_{20}$) intersecting only at point $P$. Since all the concurrent lines intersect at the same point, we add 1 back to include this intersection point.</p><p>Carrying out this calculation gives us the total number of distinct intersection points as $101$.</p>"
+    },
+    {
+      "_type": "numerical",
+      "body": "<p>If the sum of squares of all real values of $$\\alpha$$, for which the lines $$2 x-y+3=0,6 x+3 y+1=0$$ and $$\\alpha x+2 y-2=0$$ do not form a triangle is $$p$$, then the greatest integer less than or equal to $$p$$ is _________.</p>",
+      "answer": "32",
+      "explanation": "<p>$$\\begin{aligned}\n& 2 x-y+3=0 \\\\\n& 6 x+3 y+1=0 \\\\\n& \\alpha x+2 y-2=0\n\\end{aligned}$$</p>\n<p>Will not form a $$\\Delta$$ if $$\\alpha x+2 y-2=0$$ is concurrent with $$2 x-y+3=0$$ and $$6 x+3 y+1=0$$ or parallel to either of them so</p>\n<p>Case-1: Concurrent lines</p>\n<p>$$\\left|\\begin{array}{ccc}\n2 & -1 & 3 \\\\\n6 & 3 & 1 \\\\\n\\alpha & 2 & -2\n\\end{array}\\right|=0 \\Rightarrow \\alpha=\\frac{4}{5}$$</p>\n<p>Case-2 : Parallel lines</p>\n<p>$$\\begin{aligned}\n& -\\frac{\\alpha}{2}=\\frac{-6}{3} \\text { or }-\\frac{\\alpha}{2}=2 \\\\\n& \\Rightarrow \\alpha=4 \\text { or } \\alpha=-4 \\\\\n& P=16+16+\\frac{16}{25} \\\\\n& {[P]=\\left[32+\\frac{16}{25}\\right]=32}\n\\end{aligned}$$</p>"
+    },
+    {
+      "_type": "numerical",
+      "body": "<p>If the line $$l_{1}: 3 y-2 x=3$$ is the angular bisector of the lines $$l_{2}: x-y+1=0$$ and $$l_{3}: \\alpha x+\\beta y+17=0$$, then $$\\alpha^{2}+\\beta^{2}-\\alpha-\\beta$$ is equal to _________.</p>",
+      "answer": "348",
+      "explanation": "$$\n\\begin{aligned}\n& L_1: 3 y-2 x=3 \\\\\\\\\n& L_2: x-y+1=0 \\\\\\\\\n& L_3: \\alpha x+\\beta y+17=0\n\\end{aligned}\n$$\n<br/><br/>Point of intersection of $L_1 $ and $ L_2$ is $(0,1)$, should lie on $L_3 \\Rightarrow \\beta=-17$\n<br/><br/>Any point, say $\\left(\\frac{-3}{2}, 0\\right)$ on $L_1$ should be equidistant from the lines $L_2 $ and $ L_3$\n<br/><br/>$$\n\\begin{aligned}\n& \\Rightarrow\\left|\\frac{\\frac{-3}{2}-0+1}{\\sqrt{1^2+1^2}}\\right|=\\left|\\frac{\\frac{-3 \\alpha}{2}+0+17}{\\sqrt{\\alpha^2+(-17)^2}}\\right| \\\\\\\\\n& \\Rightarrow (\\alpha-7)(\\alpha-17)=0\n\\end{aligned}\n$$\n<br/><br/>For $\\alpha=17, L_2 $ and $ L_3$ coincides $\\Rightarrow \\alpha=7$\n<br/><br/>$$\n\\begin{aligned}\n\\alpha^2+\\beta^2-\\alpha-\\beta & =(7)^2+(-17)^2-7+17 \\\\\\\\\n& =348\n\\end{aligned}\n$$"
+    },
+    {
+      "_type": "numerical",
+      "body": "<p>Let $$A\\left( {{3 \\over {\\sqrt a }},\\sqrt a } \\right),\\,a > 0$$, be a fixed point in the xy-plane. The image of A in y-axis be B and the image of B in x-axis be C. If $$D(3\\cos \\theta ,a\\sin \\theta )$$ is a point in the fourth quadrant such that the maximum area of $$\\Delta$$ACD is 12 square units, then a is equal to ____________.</p>",
+      "answer": "8",
+      "explanation": "Clearly $B$ is $\\left(-\\frac{3}{\\sqrt{a}},+\\sqrt{a}\\right)$ and $C$ is $\\left(-\\frac{3}{\\sqrt{a}},-\\sqrt{a}\\right)$\n<br/><br/>\n$$\n\\begin{aligned}\n&\\text { Area of } \\triangle A C D=\\frac{1}{2}\\left|\\begin{array}{ccc}\n\\frac{3}{\\sqrt{a}} & \\sqrt{a} & 1 \\\\\\\\\n-\\frac{3}{\\sqrt{a}} & -\\sqrt{a} & 1 \\\\\\\\\n3 \\cos \\theta & a \\sin \\theta & 1\n\\end{array}\\right| \\\\\\\\\n&\\Rightarrow \\quad \\Delta=\\left|\\begin{array}{ccc}\n0 & 0 & 1 \\\\\\\\\n-\\frac{3}{\\sqrt{a}} & -\\sqrt{a} & 1 \\\\\\\\\n3 \\cos \\theta & a \\sin \\theta & 1\n\\end{array}\\right| \\\\\\\\\n&\\Rightarrow \\quad \\Delta=|3 \\sqrt{a} \\sin \\theta+3 \\sqrt{a} \\cos \\theta|=3 \\sqrt{a}|\\sin \\theta+\\cos \\theta| \\\\\\\\\n&\\Rightarrow \\quad \\Delta_{\\max }=3 \\sqrt{a} \\cdot \\sqrt{2}=12 \\Rightarrow a=(2 \\sqrt{2})^{2}=8\n\\end{aligned}\n$$"
+    },
+    {
+      "_type": "numerical",
+      "body": "Let tan$$\\alpha$$, tan$$\\beta$$ and tan$$\\gamma$$; $$\\alpha$$, $$\\beta$$, $$\\gamma$$ $$\\ne$$ $${{(2n - 1)\\pi } \\over 2}$$, n$$\\in$$N be the slopes of three line segments OA, OB and OC, respectively, where O is origin. If circumcentre of $$\\Delta$$ABC coincides with origin and its orthocentre lies on y-axis, then the value of $${\\left( {{{\\cos 3\\alpha  + \\cos 3\\beta  + \\cos 3\\gamma } \\over {\\cos \\alpha \\cos \\beta \\cos \\gamma }}} \\right)^2}$$ is equal to ____________.",
+      "answer": "144",
+      "explanation": "Since orthocentre and circumcentre both lies on y-axis.<br><br>$$ \\Rightarrow $$ Centroid also lies on y-axis.<br><br>$$ \\Rightarrow $$ $$\\sum {\\cos \\alpha  = 0} $$<br><br>cos$$\\alpha$$ + cos$$\\beta$$ + cos$$\\gamma$$ = 0<br><br>$$ \\Rightarrow $$ cos<sup>3</sup> $$\\alpha$$ + cos<sup>3</sup> $$\\beta$$ + cos<sup>3</sup> $$\\gamma$$ = 3cos$$\\alpha$$cos$$\\beta$$cos$$\\gamma$$<br><br>$$ \\therefore $$ $${{\\cos 3\\alpha  + \\cos 3\\beta  + \\cos 3\\gamma } \\over {\\cos \\alpha \\cos \\beta \\cos \\gamma }}$$<br><br>$$ = {{4({{\\cos }^3}\\alpha  + {{\\cos }^3}\\beta  + {{\\cos }^3}\\gamma ) - 3(\\cos \\alpha  + \\cos \\beta  + \\cos \\gamma )} \\over {\\cos \\alpha \\cos \\beta \\cos \\gamma }} = 12$$<br><br>then, $${\\left( {{{\\cos 3\\alpha  + \\cos 3\\beta  + \\cos 3\\gamma } \\over {\\cos \\alpha \\cos \\beta \\cos \\gamma }}} \\right)^2} = 144$$"
+    },
+    {
+      "_type": "numerical",
+      "body": "If the line, 2x - y + 3 = 0 is at a distance<br> $${1 \\over {\\sqrt 5 }}$$\nand $${2 \\over {\\sqrt 5 }}$$ from the lines 4x - 2y + $$\\alpha $$ = 0 <br>and 6x - 3y + $$\\beta $$ = 0, respectively, then the sum of all possible values of $$\\alpha $$ and $$\\beta $$ is :\n",
+      "answer": "30",
+      "explanation": "Apply distance between parallel line formula<br><br>$$4x - 2y + \\alpha  = 0$$<br><br>$$4x - 2y + 6 = 0$$<br><br>$$\\left| {{{\\alpha  - 6} \\over {25}}} \\right| = {1 \\over {55}}$$<br><br>$$|\\alpha  - 6|\\, = 2 \\Rightarrow \\alpha  = 8,4$$<br><br>sum = 12<br><br>Again <br><br>$$6x - 3y + \\beta  = 0$$<br><br>$$6x - 3y + 9 = 0$$<br><br>$$\\left| {{{\\beta  - 9} \\over {3\\sqrt 5 }}} \\right| = {2 \\over {\\sqrt 5 }}$$<br><br>$$|\\beta  - 9|\\, = 6 \\Rightarrow \\beta  = 15,3$$<br><br>sum = 18<br><br>$$ \\therefore $$ Sum of all values of $$\\alpha$$ and $$\\beta$$ is = 30"
+    }
+  ]
+}

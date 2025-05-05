@@ -1,0 +1,139 @@
+{
+  "_index": {
+    "name": "Solid State"
+  },
+  "_children": [
+    {
+      "_type": "single_mcq",
+      "body": "In a metal deficient oxide sample, $\\mathbf{M}_{\\mathbf{x}} \\mathbf{Y}_2 \\mathbf{O}_4$ ( $\\mathbf{M}$ and $\\mathbf{Y}$ are metals), $\\mathbf{M}$ is present in both +2 and +3 oxidation states and $\\mathbf{Y}$ is in +3 oxidation state. If the fraction of $\\mathbf{M}^{2+}$ ions present in $\\mathbf{M}$ is $\\frac{1}{3}$, the value of $\\mathbf{X}$ is _______ . ",
+      "options": [
+        {
+          "key": "A",
+          "value": "0.25"
+        },
+        {
+          "key": "B",
+          "value": "0.33"
+        },
+        {
+          "key": "C",
+          "value": "0.67"
+        },
+        {
+          "key": "D",
+          "value": "0.75"
+        }
+      ],
+      "answer": "D",
+      "explanation": "<p>To find the value of $ X $ in the metal deficient oxide sample $ M_x Y_2 O_4 $, where $ M $ is present in both +2 and +3 oxidation states and $ Y $ is in the +3 oxidation state, and given that the fraction of $ M^{2+} $ ions present in $ M $ is $\\frac{1}{3}$, follow these steps:</p>\n\n<ol>\n\n<li><strong>Charge Balance Equation:</strong></li>\n\n</ol>\n\n<p>The total charge contributed by the cations ($ M $ and $ Y $) must balance the total negative charge contributed by the oxide ions $ O $:</p>\n\n<p></p>\n\n<p>$    x(M^{2+} + M^{3+}) + 2(Y^{3+}) = 4(-2)    $</p>\n\n<ol>\n\n<li><strong>Oxidation States and Charges:</strong></li>\n\n<br/></ol>\n\n<ul>\n\n<li>Let the total number of $ M $ ions be $ x $.</li><br>\n\n<li>Given $\\frac{1}{3}$ of $ M $ ions are $ M^{2+} $, the remaining $\\frac{2}{3}$ are $ M^{3+} $.</li>\n\n</ul>\n\n<ol>\n\n<br/><li><strong>Number of Ions:</strong></li>\n\n</ol>\n\n<br/><ul>\n\n<li>Number of $ M^{2+} $ ions = $\\frac{x}{3}$.</li><br>\n\n<li>Number of $ M^{3+} $ ions = $\\frac{2x}{3}$.</li>\n\n</ul>\n\n<br/><ol>\n\n<li><strong>Total Positive Charge:</strong></li>\n\n</ol>\n\n<br/><ul>\n\n<li>Charge from $ M^{2+} $ ions = $ \\left(\\frac{x}{3}\\right) \\times 2 = \\frac{2x}{3} $.</li><br>\n\n<li>Charge from $ M^{3+} $ ions = $ \\left(\\frac{2x}{3}\\right) \\times 3 = 2x $.</li><br>\n\n<li>Charge from $ Y^{3+} $ ions = $ 2 \\times 3 = 6 $.</li>\n\n</ul>\n\n<br/><ol>\n\n<li><strong>Total Positive Charge Calculation:</strong></li>\n\n</ol>\n\n<p>$    \\frac{2x}{3} + 2x + 6    $</p>\n\n<br/><ol>\n\n<li><strong>Total Negative Charge:</strong></li>\n\n</ol>\n\n<br/><ul>\n\n<li>Charge from 4 oxygen ions $ (O^{2-}) $:</li>\n\n</ul>\n\n<p>$    4 \\times (-2) = -8    $</p>\n\n<ol>\n\n<li><strong>Setting Up the Charge Balance:</strong></li>\n\n</ol>\n\n<p>$    \\frac{2x}{3} + 2x + 6 = 8    $</p>\n\n<ol>\n\n<li><strong>Solving for $ x $:</strong></li>\n\n</ol>\n\n<p>$    \\frac{2x}{3} + 2x + 6 = 8    $</p>\n\n<p>$    \\frac{2x}{3} + 2x = 2    $</p>\n\n<p>$    \\frac{2x + 6x}{3} = 2    $</p>\n\n<p>$    \\frac{8x}{3} = 2    $</p>\n\n<p>$    8x = 6    $</p>\n\n<p>$    x = \\frac{6}{8}    $</p>\n\n<p>$    x = 0.75    $</p>\n\n<p>Thus, the value of $ X $ is $ \\boxed{0.75} $.</p>\n\n<strong>Answer:</strong>\n\n<p>Option D: 0.75</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Atom $\\mathrm{X}$ occupies the fcc lattice sites as well as alternate tetrahedral voids of the same lattice. The packing efficiency (in %) of the resultant solid is closest to",
+      "options": [
+        {
+          "key": "A",
+          "value": "25"
+        },
+        {
+          "key": "B",
+          "value": "35"
+        },
+        {
+          "key": "C",
+          "value": "55"
+        },
+        {
+          "key": "D",
+          "value": "75"
+        }
+      ],
+      "answer": "B",
+      "explanation": "Atom $X$ occupies FCC lattice sites as well as alternate tetrahedral voids of FCC.\n<br/><br/>In FCC, tetrahedral voids are 8 (in a unit cell)\n<br/><br/>Hence\n<br/><br/>Atom $X$ in a unit cell (FCC lattice sites) $=8 \\times \\frac{1}{8}+6 \\times \\frac{1}{2}=4$\n<br/><br/>Atom $X$ in a unit cell (in T.V.) $=\\frac{1}{2} \\times 8=4$\n<br/><br/>Total atom $\\mathrm{X}$ in one unit cell $=8$\n<br/><br/>For relation between a and r, since T.V. forms at $\\frac{1}{4}$ th of body diagonal,\n<br/><br/>$$\n\\begin{aligned}\n& \\frac{a \\sqrt{3}}{4}=2 r \\\\\\\\\n&\\Rightarrow a=\\frac{8 r}{\\sqrt{3}}\n\\end{aligned}\n$$\n<br/><br/>Packing efficiency \n<br/><br/>$=\\frac{8 \\times \\frac{4}{3} \\pi r^3}{a^3} \\times 100=\\frac{8 \\times \\frac{4}{3} \\pi r^3}{\\left(\\frac{8 r}{\\sqrt{3}}\\right)^3} \\times 100 \\simeq 35 \\%$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>The number of atoms in this HCP unit cell is :</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "4"
+        },
+        {
+          "key": "B",
+          "value": "6"
+        },
+        {
+          "key": "C",
+          "value": "12"
+        },
+        {
+          "key": "D",
+          "value": "17"
+        }
+      ],
+      "answer": "B",
+      "explanation": "<p>The number of atoms in a HCP unit cells is 6.</p>\n<p>3 atoms are at the middle of the unit cell and each atom contributes 1 atom to the unit cell.</p>\n<p>2 atoms are at the two face centres of the unit cell and each atom contributes 1/2 atom to the unit cell.</p>\n<p>12 atoms are at the 12 corners of the unit cell and each atom contributes 1/6 atom to the unit cell.</p>\n<p>The number of atoms in one unit cell</p>\n<p>(3 $$\\times$$ 1) + (2 $$\\times$$ 1/2) + (12 $$\\times$$ 1/6) = 3 + 1 + 2 = 6</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>The volume of this HCP unit cell is :</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$24\\sqrt 2 \\,{r^3}$$"
+        },
+        {
+          "key": "B",
+          "value": "$$16\\sqrt 2 \\,{r^3}$$"
+        },
+        {
+          "key": "C",
+          "value": "$$12\\sqrt 2 \\,{r^3}$$"
+        },
+        {
+          "key": "D",
+          "value": "$${{64} \\over {3\\sqrt 3 }}\\,{r^3}$$"
+        }
+      ],
+      "answer": "A",
+      "explanation": "<p>Volume of unit cell = Area of base $$\\times$$ Height of the unit cell</p>\n<p>The (HCP) is a hexagonal prism structure. The base of (HCP) is a hexagon. We know that the hexagon is made of the 6 equilateral triangles.</p>\n<p>Area of equilateral triangle $$ = {{\\sqrt 3 } \\over 4}\\,{a^2}$$</p>\n<p>Therefore, the area of the base is given as,</p>\n<p>Area of base $$ = 6\\times{{\\sqrt 3 } \\over 4}\\,{a^2}$$</p>\n<p>Let's the 'h' be the height of the hexagonal unit</p>\n<p>Therefore, we have</p>\n<p>$${h \\over a} = \\sqrt {{8 \\over 3}} $$</p>\n<p>Now, substitute these values in the volumes of (HCP) we have,</p>\n<p>Volume of HCP = Area of base $$\\times$$ height of the hexagon</p>\n<p>$$\\therefore$$ Volume of HCP $$ = 6 \\times {{\\sqrt 3 } \\over 4}\\,{a^2} \\times \\sqrt {{8 \\over 3}} a$$</p>\n<p>Since, spheres touch each other, the edge length 'a' is equal to twice the radius of the atom. That is a = 2r</p>\n<p>Substitute these values in the volume we get,</p>\n<p>Volume of HCP $$ = 6 \\times {{\\sqrt 3 } \\over 4}\\,{a^2} \\times \\sqrt {{8 \\over 3}} a$$</p>\n<p>$$ = 6 \\times {{\\sqrt 3 } \\over 4}\\,{(2r)^2} \\times {{\\sqrt 8 } \\over {\\sqrt 2 }}2r = 24\\sqrt 2 {r^3}$$</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>The empty space in this HCP unit cell is :</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "74%"
+        },
+        {
+          "key": "B",
+          "value": "47.6%"
+        },
+        {
+          "key": "C",
+          "value": "32%"
+        },
+        {
+          "key": "D",
+          "value": "26%"
+        }
+      ],
+      "answer": "D",
+      "explanation": "<p>Packing fraction = $$\\frac{\\mathrm{Total~volume~of~unit~cell}}{\\mathrm{Volume~occupied}}$$</p>\n<p>Substituting the values of occupied sphere and volume of the unit cell we have:</p>\n<p>$$ \\Rightarrow {{6 \\times {4 \\over 3} \\times \\pi {r^3}} \\over {24\\sqrt 2 {r^3}}} = 0.74$$</p>\n<p>Rearranging and solving % occupied space = 74%</p>\n<p>The space in the HCP unit cell = 100 $$-$$ 74 = 26%</p>"
+    },
+    {
+      "_type": "numerical",
+      "body": "A crystalline solid of a pure substance has a face-centered cubic structure with a cell edge of $$400$$ $$pm.$$ If the density of the substance in the crystal is $$8$$ $$g\\,c{m^{ - 3}},$$ then the number of atoms present in $$256$$ $$g$$ of the crystal is $$N \\times {10^{24}}.$$ The value of $$N$$ is ",
+      "answer": "2",
+      "explanation": "<b>Given</b>:<br/><br/>\n(i) Edge length of face centred cubic (FCC) unit cell (a) $=400 \\mathrm{pm}$<br/><br/>\n(ii) Density of the substance $(\\rho)=8 \\mathrm{~g} \\mathrm{~cm}^{-3}$<br/><br/>\n(iii) Mass of the crystal $(m)=256 \\mathrm{~g}$<br/><br/>\n<b>To Find</b>: The value of $\\mathrm{N}$ in $\\mathrm{N} \\times 10^{24}$<br/><br/>\n<b>Formula</b>: Density of the cell $(\\rho)$<br/><br/>\n$$\n\\begin{aligned}\n& =\\frac{\\text { Mass of crystal }(\\mathrm{M}) \\times \\begin{array}{l}\n\\text { No. of atoms in unit cell } \\\\\n\\end{array}}{\\text { Volume of unit cell } \\times \\text { No. of atoms of pure substance in mass m }} \\\\\n\\end{aligned}\n$$\n<br/><br/>\n<b>Calculations</b>: A face-centred cubic (F.C.C.) lattice has atoms of pure substance at the corner of the unit cell and/or atom each at the centre of the face of the unit cell.\n<br/><br/>\nSince there are eight atoms at the corners and one atom at each of the six faces (i.e., six atoms in total):\n<br/><br/>\nTotal number of atoms present per unit cell $(z)$<br/><br/>\n$$\n=\\frac{1}{8} \\times 8+\\frac{1}{2} \\times 6=4\n$$<br/><br/>\nDensity of the cell $(\\rho)$<br/><br/>\n$$\n\\begin{aligned}\n& =\\frac{256 \\mathrm{~g} \\times 4}{\\left(400 \\times 10^{-10}\\right)^3 \\times \\mathrm{N}^1} \\\\\\\\\n& 8 \\mathrm{~g} \\mathrm{~cm}^{-3}=\\frac{256 \\mathrm{~g} \\times 4}{\\left(400 \\times 10^{-10}\\right) \\times \\mathrm{N}^1} \\\\\\\\\n& \\mathrm{~N}^{\\prime}=\\frac{256 \\mathrm{~g} \\times 4}{8 \\mathrm{~g} \\mathrm{~cm}^{-3} \\times(400)^3 \\times 10^{-30}} \\\\\\\\\n& \\mathbf{N}^{\\prime}=2 \\times 10^{24} \\text { atoms }\n\\end{aligned}\n$$<br/><br/>\nHence, the crystal of pure substance of mass $256 \\mathrm{~g}$ contains $2 \\times 10^{24}$ atoms.<br/><br/>\nNow, $\\mathrm{N}^{\\prime}=\\mathrm{N} \\times 10^{24}$<br/><br/>\nTherefore, value of $\\mathrm{N}=2$."
+    },
+    {
+      "_type": "numerical",
+      "body": "<p>The coordination number of Al in the crystalline state of AlCl$$_3$$ is ___________.</p>",
+      "answer": "6",
+      "explanation": "<p>AlCl<sub>3</sub> exists as a close packed lattice of chloride\nions Cl<sup>–</sup>\n with Al<sup>3+</sup> occupying octahedral holes.\nHence, coordination number of Al<sup>3+</sup> is = 6.</p>"
+    }
+  ]
+}

@@ -1,0 +1,295 @@
+{
+  "_index": {
+    "name": "Ellipse"
+  },
+  "_children": [
+    {
+      "_type": "single_mcq",
+      "body": "<p>Tangents are drawn from the point $$P(3, 4)$$ to the ellipse $${{{x^2}} \\over 9} + {{{y^2}} \\over 4} = 1$$ touching the ellipse at points $$A$$ and $$B$$.</p>\n<p>The coordinates of $$A$$ and $$B$$ are</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$(3,0)$$ and $$(0,2)$$ "
+        },
+        {
+          "key": "B",
+          "value": "$$\\left( { - {8 \\over 5},{{2\\sqrt {161} } \\over {15}}} \\right)$$ and $$\\left( { - {9 \\over 5},{8 \\over 5}} \\right)$$  "
+        },
+        {
+          "key": "C",
+          "value": "$$\\left( { - {8 \\over 5},{{2\\sqrt {161} } \\over {15}}} \\right)$$ and $$(0,2)$$  "
+        },
+        {
+          "key": "D",
+          "value": "$$(3,0)$$ and $$\\left( { - {9 \\over 5},{8 \\over 5}} \\right)$$  "
+        }
+      ],
+      "answer": "D",
+      "explanation": "<p>Equation of chord of contact is $${x \\over 3} + y = 1$$, i.e. $$x = 3(1 - y)$$</p>\n<p>Solving it with the ellipse $${{{x^2}} \\over 9} + {{{y^2}} \\over 4} = 1$$</p>\n<p>$${(1 - y)^2} + {{{y^2}} \\over 4} = 1 \\Rightarrow 4({y^2} - 2y + 1) + {y^2} = 4$$</p>\n<p>$$\\therefore$$ $$y = 0 \\Rightarrow 5{y^2} - 8y = 0$$</p>\n<p>$$\\therefore$$ $$y = 0,\\,8/5$$</p>\n<p>Correspondingly $$x = 3,\\, - 9/5$$</p>\n<p>Points are $$(3,0)$$ and $$\\left( { - {9 \\over 5},{8 \\over 5}} \\right)$$</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Tangents are drawn from the point $$P(3, 4)$$ to the ellipse $${{{x^2}} \\over 9} + {{{y^2}} \\over 4} = 1$$ touching the ellipse at points $$A$$ and $$B$$.</p>\n<p>The equation of the locus of the point whose distances from the point $$P$$ and the line $$AB$$ are equal, is </p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$9{x^2} + {y^2} - 6xy - 54x - 62y + 241 = 0$$ "
+        },
+        {
+          "key": "B",
+          "value": "$${x^2} + 9{y^2} + 6xy - 54x + 62y - 241 = 0$$ "
+        },
+        {
+          "key": "C",
+          "value": "$$9{x^2} + 9{y^2} - 6xy - 54x - 62y - 241 = 0$$"
+        },
+        {
+          "key": "D",
+          "value": "$${x^2} + {y^2} - 2xy + 27x + 31y - 120 = 0$$"
+        }
+      ],
+      "answer": "A",
+      "explanation": "<p>From the given condition,</p>\n<p>$$\\sqrt {{{(x - 3)}^2} - {{(y - 4)}^2}}  = {{|x + 3y - 3|} \\over {\\sqrt {1 + 9} }}$$</p>\n<p>$$ \\Rightarrow 10\\{ ({x^2} - 6x + 9) + ({y^2} - 8y + 16)\\}  = {(x + 3y - 3)^2}$$</p>\n<p>$$ \\Rightarrow 10{x^2} + 10{y^2} - 60x - 80y + 250 = {x^2} + 9{y^2} + 9 + 6xy - 6x - 18y$$</p>\n<p>$$ \\Rightarrow 9{x^2} + {y^2} - 6xy - 54x - 62y + 241 = 0$$</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Match the conics in Column I with the statements/expressions in Column II :</p>\n<p><style type=\"text/css\">\n.tg  {border-collapse:collapse;border-spacing:0;}\n.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}\n.tg .tg-7btt{border-color:inherit;font-weight:bold;text-align:center;vertical-align:top}\n.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}\n.tg .tg-fymr{border-color:inherit;font-weight:bold;text-align:left;vertical-align:top}\n</style>\n<table class=\"tg\" style=\"undefined;table-layout: fixed; width: 635px\">\n<colgroup>\n<col style=\"width: 50px\">\n<col style=\"width: 240px\">\n<col style=\"width: 51px\">\n<col style=\"width: 294px\">\n</colgroup>\n<thead>\n  <tr>\n    <th class=\"tg-c3ow\"></th>\n    <th class=\"tg-7btt\">Column I</th>\n    <th class=\"tg-c3ow\"></th>\n    <th class=\"tg-7btt\">Column II</th>\n  </tr>\n</thead>\n<tbody>\n  <tr>\n    <td class=\"tg-7btt\">(A)</td>\n    <td class=\"tg-0pky\">Circle</td>\n    <td class=\"tg-7btt\">(P)</td>\n    <td class=\"tg-0pky\">The locus of the point ($$h,k$$) for which the line $$hx+ky=1$$ touches the circle $$x^2+y^2=4$$.</td>\n  </tr>\n  <tr>\n    <td class=\"tg-7btt\">(B)</td>\n    <td class=\"tg-0pky\">Parabola</td>\n    <td class=\"tg-7btt\">(Q)</td>\n    <td class=\"tg-0pky\">Points z in the complex plane satisfying $$|z+2|-|z-2|=\\pm3$$.</td>\n  </tr>\n  <tr>\n    <td class=\"tg-7btt\">(C)</td>\n    <td class=\"tg-0pky\">Ellipse</td>\n    <td class=\"tg-7btt\">(R)</td>\n    <td class=\"tg-0pky\">Points of the conic have parametric representation $$x = \\sqrt 3 \\left( {{{1 - {t^2}} \\over {1 + {t^2}}}} \\right),y = {{2t} \\over {1 + {t^2}}}$$</td>\n  </tr>\n  <tr>\n    <td class=\"tg-7btt\">(D)</td>\n    <td class=\"tg-0pky\">Hyperbola</td>\n    <td class=\"tg-7btt\">(S)</td>\n    <td class=\"tg-0pky\">The eccentricity of the conic lies in the interval $$1 \\le x \\le \\infty $$.</td>\n  </tr>\n  <tr>\n    <td class=\"tg-fymr\"></td>\n    <td class=\"tg-0pky\"></td>\n    <td class=\"tg-7btt\">(T)</td>\n    <td class=\"tg-0pky\">Points z in the complex plane satisfying $${\\mathop{\\rm Re}\\nolimits} {(z + 1)^2} = |z{|^2} + 1$$.</td>\n  </tr>\n</tbody>\n</table></p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "(A)$$\\to$$(P); (B)$$\\to$$(S), (T); (C)$$\\to$$(R); (D)$$\\to$$(R), (S)"
+        },
+        {
+          "key": "B",
+          "value": "(A)$$\\to$$(P); (B)$$\\to$$(S), (T); (C)$$\\to$$(R); (D)$$\\to$$(Q), (S)"
+        },
+        {
+          "key": "C",
+          "value": "(A)$$\\to$$(P); (B)$$\\to$$(S), (T); (C)$$\\to$$(S); (D)$$\\to$$(R), (S)"
+        },
+        {
+          "key": "D",
+          "value": "(A)$$\\to$$(P); (B)$$\\to$$(P), (T); (C)$$\\to$$(R); (D)$$\\to$$(Q), (S)"
+        }
+      ],
+      "answer": "B",
+      "explanation": "<p>(P) We have $${1 \\over {{k^2}}} = 4\\left( {1 + {{{h^2}} \\over {{k^2}}}} \\right) \\Rightarrow 1 = 4({k^2} + {h^2})$$</p>\n<p>Hence, $${h^2} + {k^2} = {\\left( {{1 \\over 2}} \\right)^2}$$ , which is a circle.</p>\n<p>(Q) If $$|z - {z_1}| - |z - {z_2}| = k$$, where $$k < |{z_1} - {z_2}|$$, the locus is a hyperbola.</p>\n<p>(R) Let $$t = \\tan \\alpha $$. Hence,</p>\n<p>$$x = \\sqrt 3 \\cos 2\\alpha $$ and $$y = \\sin 2\\alpha $$</p>\n<p>or $$\\cos 2\\alpha  = {x \\over {\\sqrt 3 }}$$ and $$\\sin 2\\alpha  = y$$</p>\n<p>$${{{x^2}} \\over 3} + {y^2} = {\\sin ^2}2\\alpha  + {\\cos ^2}2\\alpha  = 1$$, which is an ellipse.</p>\n<p>(S) If eccentricity is $$[1,\\infty]$$, then the conic can be a parabola (if $$e=1$$) and a hyperbola if $$e\\in(1,\\infty)$$.</p>\n<p>(T) Let $$z = x + iy;x,y \\in R$$. Hence,</p>\n<p>$${(x + 1)^2} - {y^2} = {x^2} + {y^2} + 1$$</p>\n<p>$$ \\Rightarrow {y^2} = x;$$ which is a parabola</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The line passing through the extremity $$A$$ of the major axis and extremity $$B$$ of the minor axis of the ellipse $${x^2} + 9{y^2} = 9$$ meets its auxiliary circle at the point $$M$$. Then the area of the triangle with vertices at $$A$$, $$M$$ and the origin $$O$$ is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$${{31} \\over {10}}$$ "
+        },
+        {
+          "key": "B",
+          "value": "$${{29} \\over {10}}$$"
+        },
+        {
+          "key": "C",
+          "value": "$${{21} \\over {10}}$$"
+        },
+        {
+          "key": "D",
+          "value": "$${{27} \\over {10}}$$"
+        }
+      ],
+      "answer": "D",
+      "explanation": "<p>Equation of line AM is $$x + 3y - 3 = 0$$.</p>\n<p>Perpendicular distance of line from origin is $$3/\\sqrt {10} $$.</p>\n<p>Length of AM is</p>\n<p>$$2\\sqrt {9 - {9 \\over {10}}}  = 2 \\times {9 \\over {\\sqrt {10} }}$$</p>\n<p>The required area of the rectangle is</p>\n<p>$${1 \\over 2} \\times 2 \\times {9 \\over {\\sqrt {10} }} \\times {3 \\over {\\sqrt {10} }} = {{27} \\over {10}}$$ sq. unit</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The minimum area of triangle formed by the tangent to the $${{{x^2}} \\over {{a^2}}} + {{{y^2}} \\over {{b^2}}} = 1$$ and coordinate axes is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$ab$$ sq. units"
+        },
+        {
+          "key": "B",
+          "value": "$${{{{a^2} + {b^2}} \\over 2}}$$ sq. units"
+        },
+        {
+          "key": "C",
+          "value": "$${{{{\\left( {a + b} \\right)}^2}} \\over 2}$$ sq. units "
+        },
+        {
+          "key": "D",
+          "value": "$${{{a^2} + ab + {b^2}} \\over 3}$$ sq. units"
+        }
+      ],
+      "answer": "A",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "If tangents are drawn to the ellipse $${x^2} + 2{y^2} = 2,$$ then the locus of the mid-point of the intercept made by the tangents between the coordinate axes is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$${1 \\over {2{x^2}}} + {1 \\over {4{y^2}}} = 1$$ "
+        },
+        {
+          "key": "B",
+          "value": "$${1 \\over {4{x^2}}} + {1 \\over {2{y^2}}} = 1$$"
+        },
+        {
+          "key": "C",
+          "value": "$${{{x^2}} \\over 2} + {{{y^2}} \\over 4} = 1$$ "
+        },
+        {
+          "key": "D",
+          "value": "$${{{x^2}} \\over 4} + {{{y^2}} \\over 2} = 1$$ "
+        }
+      ],
+      "answer": "A",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The area of the quadrilateral formed by the tangents at the end points of latus rectum to the ellipse $${{{x^2}} \\over 9} + {{{y^2}} \\over 5} = 1,$$ is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$27/4$$ sq. units "
+        },
+        {
+          "key": "B",
+          "value": "$$9$$ sq. units "
+        },
+        {
+          "key": "C",
+          "value": "$$27/2$$ sq. units "
+        },
+        {
+          "key": "D",
+          "value": "$$27$$ sq. units "
+        }
+      ],
+      "answer": "D",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "If $$P=(x, y)$$, $${F_1} = \\left( {3,0} \\right),\\,{F_2} = \\left( { - 3,0} \\right)$$ and $$16{x^2} + 25{y^2} = 400,$$ then $$P{F_1} + P{F_2}$$ equals ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$8$$ "
+        },
+        {
+          "key": "B",
+          "value": "$$6$$ "
+        },
+        {
+          "key": "C",
+          "value": "$$10$$ "
+        },
+        {
+          "key": "D",
+          "value": "$$12$$ "
+        }
+      ],
+      "answer": "C",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The number of values of $$c$$ such that the straight line $$y=4x + c$$ touches the  curve $$\\left( {{x^2}/4} \\right) + {y^2} = 1$$ is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$0$$ "
+        },
+        {
+          "key": "B",
+          "value": "$$1$$ "
+        },
+        {
+          "key": "C",
+          "value": "$$2$$ "
+        },
+        {
+          "key": "D",
+          "value": "infinite."
+        }
+      ],
+      "answer": "C",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The radius of the circle passing through the foci of the ellipse $${{{x^2}} \\over {16}} + {{{y^2}} \\over 9} = 1$$, and having its centre at $$(0, 3)$$ is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$4$$ "
+        },
+        {
+          "key": "B",
+          "value": "$$3$$ "
+        },
+        {
+          "key": "C",
+          "value": "$$\\sqrt {{1 \\over 2}} $$ "
+        },
+        {
+          "key": "D",
+          "value": "$${{7 \\over 2}}$$"
+        }
+      ],
+      "answer": "A",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The equation $$2{x^2} + 3{y^2} - 8x - 18y + 35 = k$$ represents ",
+      "options": [
+        {
+          "key": "A",
+          "value": "no locus if $$k &gt; 0$$ "
+        },
+        {
+          "key": "B",
+          "value": "an ellipse if $$k &lt; 0$$ "
+        },
+        {
+          "key": "C",
+          "value": "a point if $$k = 0$$"
+        },
+        {
+          "key": "D",
+          "value": "a hyperbola if $$k &gt; 0$$ "
+        }
+      ],
+      "answer": "C",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Let $$E$$ be the ellipse $${{{x^2}} \\over 9} + {{{y^2}} \\over 4} = 1$$ and $$C$$ be the circle $${x^2} + {y^2} = 9$$. Let $$P$$ and $$Q$$ be the points $$(1, 2)$$ and $$(2, 1)$$ respectively. Then ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$Q$$ lies inside $$C$$ but outside $$E$$ "
+        },
+        {
+          "key": "B",
+          "value": "$$Q$$ lies outside both $$C$$ and $$E$$ "
+        },
+        {
+          "key": "C",
+          "value": "$$P$$ lies inside both $$C$$ and $$E$$ "
+        },
+        {
+          "key": "D",
+          "value": "$$P$$ lies inside $$C$$ but outside $$E$$ "
+        }
+      ],
+      "answer": "D",
+      "explanation": ""
+    }
+  ]
+}

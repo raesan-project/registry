@@ -1,0 +1,3175 @@
+{
+  "_index": {
+    "name": "Animal Kingdom"
+  },
+  "_children": [
+    {
+      "_type": "single_mcq",
+      "body": "<p>Match List-I with List-II.</p>\n<p><style type=\"text/css\">\n.tg  {border-collapse:collapse;border-spacing:0;}\n.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}\n.tg .tg-7btt{border-color:inherit;font-weight:bold;text-align:center;vertical-align:top}\n.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}\n</style>\n<table class=\"tg\" style=\"undefined;table-layout: fixed; width: 746px\"><colgroup>\n<col style=\"width: 78px\">\n<col style=\"width: 262px\">\n<col style=\"width: 83px\">\n<col style=\"width: 323px\">\n</colgroup>\n<thead>\n  <tr>\n    <th class=\"tg-7btt\"></th>\n    <th class=\"tg-7btt\">List - I</th>\n    <th class=\"tg-7btt\"></th>\n    <th class=\"tg-7btt\">List - II</th>\n  </tr></thead>\n<tbody>\n  <tr>\n    <td class=\"tg-c3ow\">(A)</td>\n    <td class=\"tg-0pky\">Chondrichthyes</td>\n    <td class=\"tg-c3ow\">(I)</td>\n    <td class=\"tg-0pky\">Clarias</td>\n  </tr>\n  <tr>\n    <td class=\"tg-c3ow\">(B)</td>\n    <td class=\"tg-0pky\">Cyclostomata</td>\n    <td class=\"tg-c3ow\">(II)</td>\n    <td class=\"tg-0pky\">Carcharodon</td>\n  </tr>\n  <tr>\n    <td class=\"tg-c3ow\">(C)</td>\n    <td class=\"tg-0pky\">Osteichthyes</td>\n    <td class=\"tg-c3ow\">(III)</td>\n    <td class=\"tg-0pky\">Myxine</td>\n  </tr>\n  <tr>\n    <td class=\"tg-c3ow\">(D)</td>\n    <td class=\"tg-0pky\">Amphibia</td>\n    <td class=\"tg-c3ow\">(IV)</td>\n    <td class=\"tg-0pky\">Ichthyophis</td>\n  </tr>\n</tbody>\n</table></p>\n<p>Choose the correct answer from the options given below :</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "A-II, B-IV, C-I, D-III"
+        },
+        {
+          "key": "B",
+          "value": "A-I, B-III C-II, D-IV"
+        },
+        {
+          "key": "C",
+          "value": "A-II, B-III, C-I, D-IV"
+        },
+        {
+          "key": "D",
+          "value": "A-I, B-II, C-III, D-IV"
+        }
+      ],
+      "answer": "C",
+      "explanation": "<p>To match List-I with List-II correctly, let's consider the characteristics and common representatives of each class of animals mentioned:</p>\n\n<p>\n\n<b>Chondrichthyes:</b> This class includes cartilaginous fishes such as sharks. Among the options,\n\n<b>Carcharodon</b> (Great White Shark) fits this class.\n\n</p>\n\n<p>\n\n<b>Cyclostomata:</b> This class includes jawless fish like lampreys and hagfishes. Among the options,\n\n<b>Myxine</b> (hagfish) fits this class.\n\n</p>\n\n<p>\n\n<b>Osteichthyes:</b> This class includes bony fishes. Among the options,\n\n<b>Clarias</b> (catfish) fits this class.\n\n</p>\n\n<p>\n\n<b>Amphibia:</b> This class includes amphibians. Among the options,\n\n<b>Ichthyophis</b> (a type of caecilian, which is an amphibian) fits this class.\n\n</p>\n\n<p>Therefore, the correct matching should be:</p>\n\n<p>(A) Chondrichthyes -> (II) Carcharodon</p>\n\n<p>(B) Cyclostomata -> (III) Myxine</p>\n\n<p>(C) Osteichthyes -> (I) Clarias</p>\n\n<p>(D) Amphibia -> (IV) Ichthyophis</p>\n\n<p>The correct answer is:</p>\n\n<p><b>Option C</b>: A-II, B-III, C-I, D-IV</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Open Circulatory system is present in :</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "Palaemon, Nereis, Balanoglossus \n"
+        },
+        {
+          "key": "B",
+          "value": "Hirudinaria, Bombyx, Salpa\n"
+        },
+        {
+          "key": "C",
+          "value": "Anopheles, Limax, Limulus \n"
+        },
+        {
+          "key": "D",
+          "value": "Pheretima, Musca, Pila"
+        }
+      ],
+      "answer": "C",
+      "explanation": "<p>An open circulatory system is a type of circulatory system in which the blood is not entirely contained within blood vessels. Instead, the blood is pumped from the heart into the body cavities, where tissues are directly bathed in blood. This is typical of many invertebrates, including arthropods and some mollusks.</p>\n\n<p>Let's analyze the options provided:</p>\n\n<p><strong>Option A:</strong> <em>Palaemon, Nereis, Balanoglossus</em></p>\n\n<p>- Palaemon is a type of prawn (crustacean, arthropod).</p>\n\n<p>- Nereis is a polychaete worm (annelid).</p>\n\n<p>- Balanoglossus is a hemichordate.</p>\n\n<p>Here, Palaemon has an open circulatory system, but the other two do not fit this category.</p>\n\n<p><strong>Option B:</strong> <em>Hirudinaria, Bombyx, Salpa</em></p>\n\n<p>- Hirudinaria, a leech (annelid).</p>\n\n<p>- Bombyx, the silkworm moth (arthropod).</p>\n\n<p>- Salpa, a type of tunicate (urochordata).</p>\n\n<p>Bombyx has an open circulatory system, but the other two do not.</p>\n\n<p><strong>Option C:</strong> <em>Anopheles, Limax, Limulus</em></p>\n\n<p>- Anopheles, a mosquito (arthropod).</p>\n\n<p>- Limax, a type of slug (mollusk).</p>\n\n<p>- Limulus, the horseshoe crab (arthropod).</p>\n\n<p>All three organisms listed in Option C have an open circulatory system.</p>\n\n<p><strong>Option D:</strong> <em>Pheretima, Musca, Pila</em></p>\n\n<p>- Pheretima, an earthworm (annelid).</p>\n\n<p>- Musca, the common housefly (arthropod).</p>\n\n<p>- Pila, an apple snail (mollusk).</p>\n\n<p>Musca and Pila have an open circulatory system, but Pheretima does not.</p>\n\n<p>Based on this analysis, the correct answer is:</p>\n\n<p><strong>Option C: Anopheles, Limax, Limulus</strong></p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Which of the following pairs is an incorrect match?</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "Annelids and arthropods-Bilateral symmetry\n"
+        },
+        {
+          "key": "B",
+          "value": "Sponges-Acoelomates\n"
+        },
+        {
+          "key": "C",
+          "value": "Coelenterates and Ctenophores-Radial symmetry\n"
+        },
+        {
+          "key": "D",
+          "value": "Platyhelminthes-Diploblastic organisation\n"
+        }
+      ],
+      "answer": "D",
+      "explanation": "<p>To evaluate which pair is an incorrect match, let's analyze the characteristics of each mentioned group in the options.</p>\n\n<p><b>Option A: Annelids and arthropods - Bilateral symmetry</b></p>\n\n<p>Annelids (segmented worms) and arthropods (such as insects, spiders, and crustaceans) both exhibit bilateral symmetry. This means they have a body plan that can be divided into symmetrical halves along a single plane. Therefore, this match is correct.</p>\n\n<p><b>Option B: Sponges - Acoelomates</b></p>\n\n<p>Sponges are indeed acoelomates. They lack a true body cavity (coelom) and are known for their simple, porous body structure. Hence, this match is also correct.</p>\n\n<p><b>Option C: Coelenterates and Ctenophores - Radial symmetry</b></p>\n\n<p>Both coelenterates (such as jellyfish and corals) and ctenophores (comb jellies) possess radial symmetry. Radial symmetry means their body parts are arranged around a central axis. Thus, this match is correct.</p>\n\n<p><b>Option D: Platyhelminthes - Diploblastic organisation</b></p>\n\n<p>Platyhelminthes, commonly known as flatworms, actually exhibit triploblastic organisation, meaning their body structure arises from three primary germ layers: the ectoderm, mesoderm, and endoderm. Diploblastic organisms have only two germ layers: the ectoderm and endoderm. Therefore, this match is incorrect.</p>\n\n<p>So, the incorrect match is Option D: Platyhelminthes - Diploblastic organisation.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Given below are two statements: One is labelled as Assertion A and the other is labelled as Reason R.</p> \n<p>Assertion A: Members of subphylum vertebrata possess notochord during the embryonic period. The notochord is replaced by a cartilaginous or bony vertebral column in the adult.</p> \n<p>Reason R: Thus all chordates are vertebrates not all vertebrates are chordates.</p>\n<p>In the light of the above statements choose the correct answer from the option given below.</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "A is true but R is false.\n"
+        },
+        {
+          "key": "B",
+          "value": "A is false but R is true\n"
+        },
+        {
+          "key": "C",
+          "value": "Both A and R are true and R is the correct explanation of A. \n"
+        },
+        {
+          "key": "D",
+          "value": "Both A and R are true but R is NOT the correct explanation of A."
+        }
+      ],
+      "answer": "A",
+      "explanation": "<p>The correct answer is <strong>Option A: A is true but R is false.</strong></p>\n\n<p>Let's break down why:</p>\n\n<p><strong>Assertion A:</strong> This statement is <strong>true</strong>. Vertebrates, belonging to the subphylum Vertebrata, do indeed possess a notochord during their embryonic development. This notochord is a flexible rod that provides support.  As the embryo develops, the notochord is gradually replaced by a vertebral column, which can be either cartilaginous or bony depending on the species.</p>\n\n<p><strong>Reason R:</strong> This statement is <strong>false</strong>. The statement \"Thus all chordates are vertebrates, not all vertebrates are chordates\" is incorrect.  The relationship between chordates and vertebrates is actually the opposite. </p>\n\n<p>Here's the correct relationship:</p>\n\n<ul>\n\n<li><strong>Chordates:</strong> This is a phylum that includes all animals possessing a notochord at some point in their life cycle. They also have other key features like a dorsal hollow nerve cord, pharyngeal slits, and a post-anal tail. </li>\n\n<li><strong>Vertebrates:</strong> This is a subphylum within the chordates. Vertebrates are distinguished by the presence of a vertebral column. </li>\n\n</ul>\n\n<p>Therefore, <strong>all vertebrates are chordates</strong>, but not all chordates are vertebrates. There are other groups within the chordate phylum that lack a vertebral column, such as tunicates and cephalochordates. </p>\n\n<p>In conclusion, Assertion A is a correct statement about the development of vertebrates. However, Reason R misrepresents the relationship between chordates and vertebrates. </p>\n\n<p></p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Match List I with List II:</p>\n<p><style type=\"text/css\">\n.tg  {border-collapse:collapse;border-spacing:0;}\n.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}\n.tg .tg-7btt{border-color:inherit;font-weight:bold;text-align:center;vertical-align:top}\n.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}\n</style>\n<table class=\"tg\" style=\"undefined;table-layout: fixed; width: 555px\">\n<colgroup>\n<col style=\"width: 71px\">\n<col style=\"width: 195px\">\n<col style=\"width: 74px\">\n<col style=\"width: 215px\">\n</colgroup>\n<thead>\n  <tr>\n    <th class=\"tg-7btt\"></th>\n    <th class=\"tg-7btt\">List - I</th>\n    <th class=\"tg-7btt\"></th>\n    <th class=\"tg-7btt\">List - II</th>\n  </tr>\n</thead>\n<tbody>\n  <tr>\n    <td class=\"tg-c3ow\">A.</td>\n    <td class=\"tg-0pky\">Pleurobrachia</td>\n    <td class=\"tg-c3ow\">I.</td>\n    <td class=\"tg-0pky\">Mollusca</td>\n  </tr>\n  <tr>\n    <td class=\"tg-c3ow\">B.</td>\n    <td class=\"tg-0pky\">Radula</td>\n    <td class=\"tg-c3ow\">II.</td>\n    <td class=\"tg-0pky\">Ctenophora</td>\n  </tr>\n  <tr>\n    <td class=\"tg-c3ow\">C.</td>\n    <td class=\"tg-0pky\">Stomochord</td>\n    <td class=\"tg-c3ow\">III.</td>\n    <td class=\"tg-0pky\">Osteichthyes</td>\n  </tr>\n  <tr>\n    <td class=\"tg-c3ow\">D.</td>\n    <td class=\"tg-0pky\">Air bladder</td>\n    <td class=\"tg-c3ow\">IV.</td>\n    <td class=\"tg-0pky\">Hemichordata</td>\n  </tr>\n</tbody>\n</table></p>\n<p>Choose the correct answer from the options given below :</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "A-IV, B-II, C-III, D-I\n"
+        },
+        {
+          "key": "B",
+          "value": "A-II, B-I, C-IV, D-III\n"
+        },
+        {
+          "key": "C",
+          "value": "A-II, B-IV, C-I, D-III\n"
+        },
+        {
+          "key": "D",
+          "value": "A-IV, B-III, C-II, D-I"
+        }
+      ],
+      "answer": "B",
+      "explanation": "<p>To solve this matching question, we must evaluate each term in List I and determine its corresponding class or phylum in List II. Let's analyze each match:</p>\n\n<p><strong>Pleurobrachia:</strong> Pleurobrachia is a genus that belongs to the phylum Ctenophora, which is commonly known as comb jellies. Thus, A should be matched with II (Ctenophora).</p>\n\n<p><strong>Radula:</strong> A radula is a toothed, chitinous organ found within mollusks that is used for scraping or cutting food before the food enters the esophagus. Hence, B should be matched with I (Mollusca).</p>\n\n<p><strong>Stomochord:</strong> The stomochord is a small, tubular structure found in the collar of hemichordates, a fundamental character previously thought to link hemichordates and chordates. Therefore, C should be matched with IV (Hemichordata).</p>\n\n<p><strong>Air bladder:</strong> The air bladder, or swim bladder, is a gas-filled sac present in many bony fish that helps to maintain buoyancy. Hence, D should be matched with III (Osteichthyes, a class of bony fish).</p>\n\n<p>Now, let's review the options given:</p>\n\n<ul>\n\n<li>Option A: A-IV, B-II, C-III, D-I</li>\n\n<li>Option B: A-II, B-I, C-IV, D-III</li>\n\n<li>Option C: A-II, B-IV, C-I, D-III</li>\n\n<li>Option D: A-IV, B-III, C-II, D-I</li>\n\n</ul>\n\n<p>The correct matches, based on the classification should be: A-II, B-I, C-IV, D-III. Therefore, the correct answer is:</p>\n\n<p><strong>Option B</strong></p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Consider the following statements :</p>\n<p>A. Annelids are true coelomates</p>\n<p>B. Poriferans are pseudocoelomates</p>\n<p>C. Aschelminthes are acoelomates</p>\n<p>D. Platyhelminthes are pseudocoelomates</p>\n<p>Choose the correct answer from the options given below :</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "B only"
+        },
+        {
+          "key": "B",
+          "value": "A only"
+        },
+        {
+          "key": "C",
+          "value": "C only"
+        },
+        {
+          "key": "D",
+          "value": "D only"
+        }
+      ],
+      "answer": "B",
+      "explanation": "<p>Let's evaluate each statement with regard to the type of body cavity they describe:</p>\n\n<p><strong>A. Annelids are true coelomates:</strong> This statement is correct. Annelids (segmented worms, including earthworms) possess a true coelom, which is a body cavity fully lined with a mesodermal layer more specifically called peritoneum. This allows for the distinction of the internal organs from the body wall, and it facilitates greater complexity and organization of the internal structures.</p>\n\n<p><strong>B. Poriferans are pseudocoelomates:</strong> This statement is incorrect. Poriferans (sponges) do not have any type of body cavity. Sponges are at a basic level of complexity and lack true tissues and organs, including a coelom or a pseudocoelom. They are considered to have no body cavity and are thus neither coelomates nor pseudocoelomates.</p>\n\n<p><strong>C. Aschelminthes are acoelomates:</strong> This statement is incorrect. Aschelminthes, more commonly referred to as Nematoda or roundworms, are actually pseudocoelomates. They possess a pseudocoelom, which is a body cavity that is not entirely lined by mesodermal tissue, unlike a true coelom. The pseudocoel serves as a rudimentary circulatory system and provides a space for internal organs.</p>\n\n<p><strong>D. Platyhelminthes are pseudocoelomates:</strong> This statement is incorrect. Platyhelminthes (flatworms) are acoelomates, meaning they lack any body cavity. Their bodies are solid between the digestive tract and the body wall, lacking a filled cavity that would separate these structures.</p>\n\n<p>From the analysis above, only statement A is accurate:</p>\n\n<ul>\n\n<li>A. Annelids are true coelomates - Correct</li>\n\n<li>B. Poriferans are pseudocoelomates - Incorrect</li>\n\n<li>C. Aschelminthes are acoelomates - Incorrect</li>\n\n<li>D. Platyhelminthes are pseudocoelomates - Incorrect</li>\n\n</ul>\n\n<p>Thus, the correct answer to the question is:</p>\n\n<p>Option B: A only</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Match List I with List II :</p>\n<p><style type=\"text/css\">\n.tg  {border-collapse:collapse;border-spacing:0;}\n.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}\n.tg .tg-7btt{border-color:inherit;font-weight:bold;text-align:center;vertical-align:top}\n.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}\n</style>\n<table class=\"tg\" style=\"undefined;table-layout: fixed; width: 635px\">\n<colgroup>\n<col style=\"width: 71px\">\n<col style=\"width: 195px\">\n<col style=\"width: 74px\">\n<col style=\"width: 295px\">\n</colgroup>\n<thead>\n  <tr>\n    <th class=\"tg-7btt\"></th>\n    <th class=\"tg-7btt\">List - I</th>\n    <th class=\"tg-7btt\"></th>\n    <th class=\"tg-7btt\">List - II</th>\n  </tr>\n</thead>\n<tbody>\n  <tr>\n    <td class=\"tg-c3ow\">A.</td>\n    <td class=\"tg-0pky\">Pterophyllum</td>\n    <td class=\"tg-c3ow\">I.</td>\n    <td class=\"tg-0pky\">Hag fish</td>\n  </tr>\n  <tr>\n    <td class=\"tg-c3ow\">B.</td>\n    <td class=\"tg-0pky\">Myxine</td>\n    <td class=\"tg-c3ow\">II.</td>\n    <td class=\"tg-0pky\">Saw fish</td>\n  </tr>\n  <tr>\n    <td class=\"tg-c3ow\">C.</td>\n    <td class=\"tg-0pky\">Pristis</td>\n    <td class=\"tg-c3ow\">III.</td>\n    <td class=\"tg-0pky\">Angel fish</td>\n  </tr>\n  <tr>\n    <td class=\"tg-c3ow\">D.</td>\n    <td class=\"tg-0pky\">Exocoetus</td>\n    <td class=\"tg-c3ow\">IV.</td>\n    <td class=\"tg-0pky\">Flying fish</td>\n  </tr>\n</tbody>\n</table></p>\n<p>Choose the correct answer from the options given below :</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "A-II, B-I, C-IIII, D-IV\n"
+        },
+        {
+          "key": "B",
+          "value": "A-III, B-I, C-II, D-IV\n"
+        },
+        {
+          "key": "C",
+          "value": "A-IV, B-I, C-II, D-III\n"
+        },
+        {
+          "key": "D",
+          "value": "A-III, B-II, C-I, D-IV"
+        }
+      ],
+      "answer": "B",
+      "explanation": "<p>Let's analyze the match between the items in List I and those in List II. We will specifically address the scientific names provided in List I and match them with their common names given in List II:</p>\n\n<p><strong>List I (Scientific Names) with List II (Common Names):</strong></p>\n\n<ul>\n\n<li><strong>Pterophyllum (A) -&gt; Angel fish (III)</strong>: Pterophyllum is the scientific name for a type of cichlid commonly called angel fish. Therefore, A matches with III.</li>\n\n<li><strong>Myxine (B) -&gt; Hag fish (I)</strong>: Myxine is the genus for hagfish, which are known for their slime-producing capability. Hence, B matches with I.</li>\n\n<li><strong>Pristis (C) -&gt; Saw fish (II)</strong>: Pristis is the genus comprising the sawfishes, which are known for their long, saw-like rostrums. Consequently, C matches with II.</li>\n\n<li><strong>Exocoetus (D) -&gt; Flying fish (IV)</strong>: Exocoetus is a genus of marine fish known as flying fish, due to their ability to glide above the water's surface for short distances. Therefore, D matches with IV.</li>\n\n</ul>\n\n<p>Now, compiling these matches together:</p>\n\n<ul>\n\n<li>A - III</li>\n\n<li>B - I</li>\n\n<li>C - II</li>\n\n<li>D - IV</li>\n\n</ul>\n\n<p>The correct option that matches each scientific name with their respective common names accordingly is:</p>\n\n<p><strong>Option B:</strong>\n\n<p>A-III, B-I, C-II, D-IV</p></p>\n\n<p></p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>The following are the statements about non-chordates:</p>\n<p>A. Pharynx is perforated by gill slits.</p>\n<p>B. Notochord is absent.</p>\n<p>C. Central nervous system is dorsal.</p>\n<p>D. Heart is dorsal if present.</p>\n<p>E. Post anal tail is absent.</p>\n<p>Choose the most appropriate answer from the options given below:</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "A & C only"
+        },
+        {
+          "key": "B",
+          "value": "A, B & D only"
+        },
+        {
+          "key": "C",
+          "value": "B, D & E only"
+        },
+        {
+          "key": "D",
+          "value": "B, C & D only"
+        }
+      ],
+      "answer": "C",
+      "explanation": "<p>The correct answer is <strong>Option C: B, D & E only</strong>. Here's why:</p>\n\n<ul>\n<li><strong>B. Notochord is absent:</strong> This is the defining characteristic of non-chordates. Chordates possess a notochord at some stage of their development, while non-chordates do not.</li><br>\n<li><strong>D. Heart is dorsal if present:</strong> In non-chordates with a circulatory system, the heart is located on the dorsal (back) side of the body, unlike chordates where it's ventral (front).</li><br>\n<li><strong>E. Post anal tail is absent:</strong> Non-chordates lack a post-anal tail, a feature present in chordates.</li>\n</ul>\n<br/><strong>Why the other options are incorrect:</strong>\n\n<br/><br/><ul>\n<li><strong>A. Pharynx is perforated by gill slits:</strong> This is a characteristic of chordates, particularly in aquatic forms for respiration.</li><br>\n<li><strong>C. Central nervous system is dorsal:</strong>  While this is true for chordates, non-chordates have a ventral nerve cord.</li>\n</ul>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Match List-I with List-II.</p>\n<p><style type=\"text/css\">\n.tg  {border-collapse:collapse;border-spacing:0;}\n.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}\n.tg .tg-7btt{border-color:inherit;font-weight:bold;text-align:center;vertical-align:top}\n.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}\n</style>\n<table class=\"tg\" style=\"undefined;table-layout: fixed; width: 457px\">\n<colgroup>\n<col style=\"width: 48px\">\n<col style=\"width: 170px\">\n<col style=\"width: 55px\">\n<col style=\"width: 184px\">\n</colgroup>\n<thead>\n  <tr>\n    <th class=\"tg-7btt\"></th>\n    <th class=\"tg-7btt\">List - I</th>\n    <th class=\"tg-7btt\"></th>\n    <th class=\"tg-7btt\">List - II</th>\n  </tr>\n</thead>\n<tbody>\n  <tr>\n    <td class=\"tg-c3ow\">(A)</td>\n    <td class=\"tg-0pky\">Contractile vacuole</td>\n    <td class=\"tg-c3ow\">(I)</td>\n    <td class=\"tg-0pky\">Asterias</td>\n  </tr>\n  <tr>\n    <td class=\"tg-c3ow\">(B)</td>\n    <td class=\"tg-0pky\">Water vascular system</td>\n    <td class=\"tg-c3ow\">(II)</td>\n    <td class=\"tg-0pky\">Amoeba</td>\n  </tr>\n  <tr>\n    <td class=\"tg-c3ow\">(C)</td>\n    <td class=\"tg-0pky\">Canal system</td>\n    <td class=\"tg-c3ow\">(III)</td>\n    <td class=\"tg-0pky\">Spongilla</td>\n  </tr>\n  <tr>\n    <td class=\"tg-c3ow\">(D)</td>\n    <td class=\"tg-0pky\">Flame cells</td>\n    <td class=\"tg-c3ow\">(IV)</td>\n    <td class=\"tg-0pky\">Taenia</td>\n  </tr>\n</tbody>\n</table></p>\n<p>Choose the correct answer from the options given \nbelow : </p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "(A)-(IV), (B)-(II), (C)-(I), (D)-(III) "
+        },
+        {
+          "key": "B",
+          "value": "(A)-(I), (B)-(III), (C)-(II), (D)-(IV)"
+        },
+        {
+          "key": "C",
+          "value": "(A)-(III), (B)-(II), (C)-(I), (D)-(IV) "
+        },
+        {
+          "key": "D",
+          "value": "(A)-(II), (B)-(I), (C)-(III), (D)-(IV)"
+        }
+      ],
+      "answer": "D",
+      "explanation": "<p>The correct answer is :</p>\n<p>Option D : (A)-(II), (B)-(I), (C)-(III), (D)-(IV)</p>\n<p>Explanation :\n<br/><br/>(A) Contractile vacuoles are found in single-celled organisms like Amoeba (II). They help in osmoregulation by expelling excess water out of the cell.</p>\n<p>(B) A water vascular system is a unique characteristic of echinoderms such as Asterias (I), a genus of starfish. This system is involved in locomotion, feeding, respiration, and excretion.</p>\n<p>(C) The canal system is characteristic of sponges such as Spongilla (III). It aids in the circulation of water for feeding, respiration, and excretion.</p>\n<p>(D) Flame cells are part of the excretory system in platyhelminthes like Taenia (IV), commonly known as tapeworm. These cells function in osmoregulation and excretion.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Select the correct statements : </p>\n<p> (A) Platyhelminthes are triploblastic \npseudocoelomate and bilaterally symmetrical \norganisms. </p>\n<p> (B) Ctenophores reproduce only sexually and \nfertilization is external. </p>\n<p> (C) In tapeworm, fertilization is internal but sexes \nare not separate. </p>\n<p> (D) Ctenophores are exclusively marine, diploblastic \nand bioluminescent organisms. </p>\n<p> (E) In sponges, fertilization is external and \ndevelopment is direct. </p>\n<p> Choose the correct answer from the options given \nbelow : </p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "(A), (C) and (D) only"
+        },
+        {
+          "key": "B",
+          "value": "(B), (C) and (D) only "
+        },
+        {
+          "key": "C",
+          "value": "(A) and (E) only "
+        },
+        {
+          "key": "D",
+          "value": "(B) and (D) only"
+        }
+      ],
+      "answer": "B",
+      "explanation": "Option (B) is answer as it includes the correct statement i.e. (B), (C) and (D) options.\n<br/><br/>Option (C) is incorrect as platyhelminths are coelomate invertebrates and sponges show internal\nfertilization, thus statements (A) and (E) are incorrect.\n<br/><br/>Option (A) is incorrect as it includes statements (A).\n<br/><br/>Option (D) is incorrect as it includes only (B) and (D) statements whereas statements (C) is also correct\ni.e. tapeworm is a flatworm and is hermaphrodite."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Radial symmetry is NOT found in adults of phylum ______.</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "Hemichordata"
+        },
+        {
+          "key": "B",
+          "value": "Coelenterata"
+        },
+        {
+          "key": "C",
+          "value": "Echinodermata"
+        },
+        {
+          "key": "D",
+          "value": "Ctenophora"
+        }
+      ],
+      "answer": "A",
+      "explanation": "Radial symmetry is a type of symmetry where an organism can be divided into similar halves by more than two planes passing through the central axis. This type of symmetry is found in organisms that tend to meet their environment in all directions, such as aquatic animals.\n\n<br/><br/>1. Hemichordata : Adult organisms in this phylum, which includes acorn worms, pterobranchs, and graptolites, exhibit bilateral symmetry. This means they can be divided into two identical halves only along a single plane. Hence, radial symmetry is <b>not</b> found in the adults of this phylum.\n\n<br/><br/>2. Coelenterata (also known as Cnidaria) : This phylum includes jellyfish, sea anemones, and corals. They exhibit radial symmetry. So, radial symmetry is found in this phylum.\n\n<br/><br/>3. Echinodermata : Adult organisms in this phylum, which includes starfish, sea urchins, and sea cucumbers, exhibit radial symmetry. However, it's important to note that their larvae exhibit bilateral symmetry. Therefore, radial symmetry is found in adults of this phylum.\n\n<br/><br/>4. Ctenophora (also known as comb jellies) : These marine animals also exhibit radial symmetry. Thus, radial symmetry is found in this phylum."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Select the correct statements with reference to chordates.</p>\n<p>A. Presence of a mid-dorsal, solid and double nerve cord.</p>\n<p>B. Presence of closed circulatory system.</p>\n<p>C. Presence of paired pharyngeal gill slits.</p>\n<p>D. Presence of dorsal heart</p>\n<p>E. Triploblastic pseudocoelomate animals.</p>\n<p>Choose the correct answer from the options given below:</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "B and C only"
+        },
+        {
+          "key": "B",
+          "value": "B, D and E only"
+        },
+        {
+          "key": "C",
+          "value": "C, D and E only"
+        },
+        {
+          "key": "D",
+          "value": "A, C and D only"
+        }
+      ],
+      "answer": "A",
+      "explanation": "Chordates are defined by having certain specific anatomical features at some point during their development. The correct attributes of chordates are:\n\n<br/><br/>1. Presence of a dorsal, hollow nerve cord (not a mid-dorsal, solid and double nerve cord as mentioned in statement A)\n<br/><br/>2. Presence of a closed circulatory system.\n<br/><br/>3. Presence of paired pharyngeal gill slits.\n<br/><br/>4. Presence of a post-anal tail.\n<br/><br/>5. Presence of a notochord.\n\n<br/><br/>Regarding the other statements :\n\n<br/><br/>- The heart of chordates is ventral, not dorsal (as in statement D).\n<br/><br/>- Chordates are triploblastic and coelomate, not pseudocoelomate (as in statement E).\n\n<br/><br/>So, based on these facts, the correct answer is :\n\n<br/><br/>Option A : B and C only."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>The unique mammalian characteristics are :</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "hairs, pinna and mammary glands"
+        },
+        {
+          "key": "B",
+          "value": "hairs, pinna and indirect development"
+        },
+        {
+          "key": "C",
+          "value": "pinna, monocondylic skull and mammary glands"
+        },
+        {
+          "key": "D",
+          "value": "hairs, tympanic membrane and mammary glands"
+        }
+      ],
+      "answer": "A",
+      "explanation": "Unique mammalian characteristics include:\n\n<br/><br/>1. Hair or fur: Mammals are the only animals that have hair. This hair helps to insulate the body to maintain a constant body temperature.\n\n<br/><br/>2. Mammary glands: These are glands that, in females, produce milk for the nourishment of young ones. This is a characteristic feature of all mammals and is, in fact, the feature that gives this group its name.\n\n<br/><br/>3. The presence of pinnae (external ears): Most mammals have pinnae that help to collect and direct sound waves into the ear.\n\n<br/><br/>Option B is incorrect because indirect development is not a unique characteristic of mammals; many animals, including certain insects, amphibians, and fishes, undergo indirect development.\n\n<br/><br/>Option C is incorrect because a monocondylic skull, in which the skull only articulates with the first vertebra via a single condyle, is a characteristic of some reptiles and amphibians, not mammals. Mammals possess a dicondylic skull, with two occipital condyles.\n\n<br/><br/>Option D is incorrect because while mammals do have a tympanic membrane (ear drum), it is not unique to mammals; other vertebrate groups, such as birds and reptiles, also have a tympanic membrane.\n\n<br/><br/>So, the correct answer is :\n\n<br/><br/>Option A : hairs, pinna and mammary glands."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Which of the following animals has three chambered heart?</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "Pteropus"
+        },
+        {
+          "key": "B",
+          "value": "Scoliodon"
+        },
+        {
+          "key": "C",
+          "value": "Hippocampus"
+        },
+        {
+          "key": "D",
+          "value": "Chelone"
+        }
+      ],
+      "answer": "D",
+      "explanation": "<p>Option (4) is the correct answer because Chelone (turtle) is a reptile and the heart of reptiles are usually three-chambered except crocodiles.</p>\n<p>Option (1) is incorrect as Pteropus (flying fox) possess four -chambered heart.</p>\n<p>Option (2) and (3) are incorrect as Scoliodon (dog fish) and Hippocampus (sea horse) possess two - chambered heart.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Match List-I with List-II</p>\n<p><style type=\"text/css\">\n.tg  {border-collapse:collapse;border-spacing:0;}\n.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg .tg-amwm{font-weight:bold;text-align:center;vertical-align:top}\n.tg .tg-0lax{text-align:left;vertical-align:top}\n</style>\n<table class=\"tg\">\n<thead>\n  <tr>\n    <th class=\"tg-amwm\"></th>\n    <th class=\"tg-amwm\">List - I</th>\n    <th class=\"tg-amwm\"></th>\n    <th class=\"tg-amwm\">List - II</th>\n  </tr>\n</thead>\n<tbody>\n  <tr>\n    <td class=\"tg-0lax\">(a)</td>\n    <td class=\"tg-0lax\">Chlamydomonas</td>\n    <td class=\"tg-0lax\">(i)</td>\n    <td class=\"tg-0lax\">Conidia</td>\n  </tr>\n  <tr>\n    <td class=\"tg-0lax\">(b)</td>\n    <td class=\"tg-0lax\">Penicillium</td>\n    <td class=\"tg-0lax\">(ii)</td>\n    <td class=\"tg-0lax\">Zoospores</td>\n  </tr>\n  <tr>\n    <td class=\"tg-0lax\">(c)</td>\n    <td class=\"tg-0lax\">Hydra</td>\n    <td class=\"tg-0lax\">(iii)</td>\n    <td class=\"tg-0lax\">Gemmules</td>\n  </tr>\n  <tr>\n    <td class=\"tg-0lax\">(d)</td>\n    <td class=\"tg-0lax\">Sponge</td>\n    <td class=\"tg-0lax\">(iv)</td>\n    <td class=\"tg-0lax\">Buds</td>\n  </tr>\n</tbody>\n</table></p>\n<p>Choose the correct answer from the options given below :</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "(a) - (iv), (b) - (iii), (c) - (ii), (d) - (i)"
+        },
+        {
+          "key": "B",
+          "value": "(a) - (i), (b) - (iv), (c) - (iii), (d) - (ii)"
+        },
+        {
+          "key": "C",
+          "value": "(a) - (ii), (b) - (i), (c) - (iv), (d) - (iii)"
+        },
+        {
+          "key": "D",
+          "value": "(a) - (iii), (b) - (ii), (c) - (i), (d) - (iv)"
+        }
+      ],
+      "answer": "C",
+      "explanation": "<p>$$\\bullet$$ Penicillium asexually reproduces by conidia formation</p>\n<p>$$\\bullet$$ Chlamydomonas asexually reproduces by zoospores</p>\n<p>Hydra reproduces by budding whereas sponges produce gemmules for asexual reproduction</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Select the incorrect statements with respect to Cyclostomes:</p>\n<p>(a) They lack scales and paired fins.</p>\n<p>(b) They have circular mouth with jaws.</p>\n<p>(c) They bear 6-15 pairs of gills.</p>\n<p>(d) They migrate to deep sea for spawning.</p>\n<p>Choose the most appropriate answer from the options given below:</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "(a) and (d) only"
+        },
+        {
+          "key": "B",
+          "value": "(a) and (b) only"
+        },
+        {
+          "key": "C",
+          "value": "(b) and (c) only"
+        },
+        {
+          "key": "D",
+          "value": "(b) and (d) only"
+        }
+      ],
+      "answer": "D",
+      "explanation": "<p>Option (d) is the correct answer because statement (b) is false as cyclostomes have a circular mouth without jaws and statement (d) is false as they migrate from marine water to fresh water for spawning. Statements (a) and (c) are correct for cyclostomes as they have 6-15 pairs of gills and body is divoid of scales and paired fins.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Exoskeleton of arthropods is composed of:</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "Cutin"
+        },
+        {
+          "key": "B",
+          "value": "Cellulose"
+        },
+        {
+          "key": "C",
+          "value": "Chitin"
+        },
+        {
+          "key": "D",
+          "value": "Glucosamine"
+        }
+      ],
+      "answer": "C",
+      "explanation": "<p>Option (3) is the correct answer as chitin forms the exoskeleton is arthropods and is found in fungal cell wall. N-acetyl glucosamine is the monomeric unit. Cellulose is a polysaccharide. Cutin is a derived lipid.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Given below are two statements : one is labelled as Assertion (A) and the other is labelled as Reason (R).</p>\n<p>Assertion (A) : All vertebrates are chordates but all chordates are not vertebrates.</p>\n<p>Reason (R) : Notochord is replaced by vertebral column in the adult vertebrates.</p>\n<p>In the light of the above statements, choose the most appropriate answer from the option given below:</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "Both (A) and (R) are correct and (R) is the correct explanation of (A)"
+        },
+        {
+          "key": "B",
+          "value": "Both (A) and (R) are correct but (R) is not the correct explanation of (A)"
+        },
+        {
+          "key": "C",
+          "value": "(A) is correct but (R) is not correct"
+        },
+        {
+          "key": "D",
+          "value": "(A) is not correct but (R) is correct"
+        }
+      ],
+      "answer": "A",
+      "explanation": "<p>Option (a) is the correct answer because all chordates are divided into three subphyla - Urochordata, Cephalochordata and Vertebrata. In subphylum Vertebrata, notochord is replaced by bony or cartilaginous vertebral column in adults. Therefore, all vertebrates are chordates but all chordates are not vertebrates.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Match the following :<br><br><style type=\"text/css\">\n.tg  {border-collapse:collapse;border-spacing:0;}\n.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg .tg-7btt{border-color:inherit;font-weight:bold;text-align:center;vertical-align:top}\n.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}\n</style>\n<table class=\"tg\">\n<thead>\n  <tr>\n    <th class=\"tg-7btt\"></th>\n    <th class=\"tg-7btt\">List-I</th>\n    <th class=\"tg-7btt\"></th>\n    <th class=\"tg-7btt\">List-II</th>\n  </tr>\n</thead>\n<tbody>\n  <tr>\n    <td class=\"tg-0pky\">(a)</td>\n    <td class=\"tg-0pky\">Physalia</td>\n    <td class=\"tg-0pky\">(i)</td>\n    <td class=\"tg-0pky\">Pearl oyster</td>\n  </tr>\n  <tr>\n    <td class=\"tg-0pky\">(b)</td>\n    <td class=\"tg-0pky\">Limulus</td>\n    <td class=\"tg-0pky\">(ii)</td>\n    <td class=\"tg-0pky\">Portuguese Man of War</td>\n  </tr>\n  <tr>\n    <td class=\"tg-0pky\">(c)</td>\n    <td class=\"tg-0pky\">Ancylostoma</td>\n    <td class=\"tg-0pky\">(iii)</td>\n    <td class=\"tg-0pky\">Living fossil</td>\n  </tr>\n  <tr>\n    <td class=\"tg-0pky\">(d)</td>\n    <td class=\"tg-0pky\">Pinctada</td>\n    <td class=\"tg-0pky\">(iv)</td>\n    <td class=\"tg-0pky\">Hookworm</td>\n  </tr>\n</tbody>\n</table><br><br>Choose the correct answer from the options given below.",
+      "options": [
+        {
+          "key": "A",
+          "value": "<table>\n<thead>\n  <tr>\n    <th>(a)</th>\n    <th>(b)</th>\n    <th>(c)</th>\n    <th>(d)</th>\n  </tr>\n</thead>\n<tbody>\n  <tr>\n    <td>(i)</td>\n    <td>(iv)</td>\n    <td>(iii)</td>\n    <td>(ii)</td>\n  </tr>\n</tbody>\n</table>"
+        },
+        {
+          "key": "B",
+          "value": "<table>\n<thead>\n  <tr>\n    <th>(a)</th>\n    <th>(b)</th>\n    <th>(c)</th>\n    <th>(d)</th>\n  </tr>\n</thead>\n<tbody>\n  <tr>\n    <td>(ii)</td>\n    <td>(iii)</td>\n    <td>(i)</td>\n    <td>(iv)</td>\n  </tr>\n</tbody>\n</table>"
+        },
+        {
+          "key": "C",
+          "value": "<table>\n<thead>\n  <tr>\n    <th>(a)</th>\n    <th>(b)</th>\n    <th>(c)</th>\n    <th>(d)</th>\n  </tr>\n</thead>\n<tbody>\n  <tr>\n    <td>(iv)</td>\n    <td>(i)</td>\n    <td>(iii)</td>\n    <td>(ii)</td>\n  </tr>\n</tbody>\n</table>"
+        },
+        {
+          "key": "D",
+          "value": "<table>\n<thead>\n  <tr>\n    <th>(a)</th>\n    <th>(b)</th>\n    <th>(c)</th>\n    <th>(d)</th>\n  </tr>\n</thead>\n<tbody>\n  <tr>\n    <td>(ii)</td>\n    <td>(iii)</td>\n    <td>(iv)</td>\n    <td>(i)</td>\n  </tr>\n</tbody>\n</table>"
+        }
+      ],
+      "answer": "D",
+      "explanation": "$$\\bullet$$ Option (d) is correct because Physalia belongs to phylum-Coelenterata (Cnidaria) and is commonly known as Portuguese man of war.<br><br>$$\\bullet$$ Limulus is considered as a living fossil and commonly known as king crab.<br><br>$$\\bullet$$ Ancylostoma is a roundworm and commonly known as hookworm.<br><br>$$\\bullet$$ Pinctada is commonly known known as pearl oyster, included in phylum Mollusca."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Read the following statements<br><br>(1) Metagenesis is observed in Helminths.<br><br>(2) Echinoderms are triploblastic and coelomate animals.<br><br>(3) Round worms have organ-system level of body organization.<br><br>(4) Comb plates present in ctenophores help in digestion.<br><br>(5) Water vascular system is characteristic of Echinoderms.<br><br>Choose the correct answer from the options given below.",
+      "options": [
+        {
+          "key": "A",
+          "value": "(2), (3) and (5) are correct"
+        },
+        {
+          "key": "B",
+          "value": "(3), (4) and (5) are correct"
+        },
+        {
+          "key": "C",
+          "value": "Round (1), (2) and (3) are correct"
+        },
+        {
+          "key": "D",
+          "value": "(1), (4) and (5) are correct"
+        }
+      ],
+      "answer": "A",
+      "explanation": "$$\\bullet$$ Metagenesis (alternation of generation) is observed in members of phylum Coelenterata (Cnidaria).<br><br>$$\\bullet$$ Echinoderms are triploblastic and coelomate animals as true coelom is observed in them.<br><br>$$\\bullet$$ Roundworms (Aschelminths) have organ system level of organization.<br><br>$$\\bullet$$ Comb plates present in ctenophores help in locomotion.<br><br>$$\\bullet$$ Water vascular system is seen in echinoderms, which helps in locomotion, capture and transport of food and respiration."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Match List-I with List-II.<br><br><style type=\"text/css\">\n.tg  {border-collapse:collapse;border-spacing:0;}\n.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg .tg-7btt{border-color:inherit;font-weight:bold;text-align:center;vertical-align:top}\n.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}\n</style>\n<table class=\"tg\">\n<thead>\n  <tr>\n    <th class=\"tg-7btt\"></th>\n    <th class=\"tg-7btt\">List-I</th>\n    <th class=\"tg-7btt\"></th>\n    <th class=\"tg-7btt\">List-II</th>\n  </tr>\n</thead>\n<tbody>\n  <tr>\n    <td class=\"tg-0pky\">(a)</td>\n    <td class=\"tg-0pky\">Metamerism</td>\n    <td class=\"tg-0pky\">(i)</td>\n    <td class=\"tg-0pky\">Coelenterata</td>\n  </tr>\n  <tr>\n    <td class=\"tg-0pky\">(b)</td>\n    <td class=\"tg-0pky\">Canal system</td>\n    <td class=\"tg-0pky\">(ii)</td>\n    <td class=\"tg-0pky\">Ctenophora</td>\n  </tr>\n  <tr>\n    <td class=\"tg-0pky\">(c)</td>\n    <td class=\"tg-0pky\">Comb plates</td>\n    <td class=\"tg-0pky\">(iii)</td>\n    <td class=\"tg-0pky\">Annelida</td>\n  </tr>\n  <tr>\n    <td class=\"tg-0pky\">(d)</td>\n    <td class=\"tg-0pky\">Cnidoblasts</td>\n    <td class=\"tg-0pky\">(iv)</td>\n    <td class=\"tg-0pky\">Porifera</td>\n  </tr>\n</tbody>\n</table><br><br>Choose the correct answer from the options given below.",
+      "options": [
+        {
+          "key": "A",
+          "value": "<table>\n<thead>\n  <tr>\n    <th>(a)</th>\n    <th>(b)</th>\n    <th>(c)</th>\n    <th>(d)</th>\n  </tr>\n</thead>\n<tbody>\n  <tr>\n    <td>(iv)</td>\n    <td>(i)</td>\n    <td>(ii)</td>\n    <td>(iii)</td>\n  </tr>\n</tbody>\n</table>"
+        },
+        {
+          "key": "B",
+          "value": "<table>\n<thead>\n  <tr>\n    <th>(a)</th>\n    <th>(b)</th>\n    <th>(c)</th>\n    <th>(d)</th>\n  </tr>\n</thead>\n<tbody>\n  <tr>\n    <td>(iv)</td>\n    <td>(iii)</td>\n    <td>(i)</td>\n    <td>(ii)</td>\n  </tr>\n</tbody>\n</table>"
+        },
+        {
+          "key": "C",
+          "value": "<table>\n<thead>\n  <tr>\n    <th>(a)</th>\n    <th>(b)</th>\n    <th>(c)</th>\n    <th>(d)</th>\n  </tr>\n</thead>\n<tbody>\n  <tr>\n    <td>(iii)</td>\n    <td>(iv)</td>\n    <td>(i)</td>\n    <td>(ii)</td>\n  </tr>\n</tbody>\n</table>"
+        },
+        {
+          "key": "D",
+          "value": "<table>\n<thead>\n  <tr>\n    <th>(a)</th>\n    <th>(b)</th>\n    <th>(c)</th>\n    <th>(d)</th>\n  </tr>\n</thead>\n<tbody>\n  <tr>\n    <td>(iii)</td>\n    <td>(iv)</td>\n    <td>(ii)</td>\n    <td>(i)</td>\n  </tr>\n</tbody>\n</table>"
+        }
+      ],
+      "answer": "D",
+      "explanation": "Metamerism is commonly seen in the members of phylum Annelida where the body is externally and internally divided into segments with a serial repetition of at least some organs.<br><br>Water canal system is present in the members of phylum Porifera.<br><br>The body of ctenophores bears 8 external rows of ciliated comb plates which help in locomotion.<br><br>Cnidoblasts or cnidocytes are characteristic feature of cnidarians (coelantrata)."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Which one of the following organisms bears hollow and pneumatic long bones?",
+      "options": [
+        {
+          "key": "A",
+          "value": "Ornithorhynchus"
+        },
+        {
+          "key": "B",
+          "value": "Neophron"
+        },
+        {
+          "key": "C",
+          "value": "Hemidactylus"
+        },
+        {
+          "key": "D",
+          "value": "Macropus"
+        }
+      ],
+      "answer": "B",
+      "explanation": "$$\\bullet$$ Hollow and pneumatic long bones are found in birds, which enables them to fly. Neophron(vulture) is a bird.<br><br>$$\\bullet$$ Ornithorhynchus (Platypus) and Macropus (Kangaroo) belong to class Mammalia.<br><br>$$\\bullet$$ Hemidactylus (Wall lizard) is a member of class Reptilia."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Bilaterally symmetrical and acoelomate animals are exemplified by",
+      "options": [
+        {
+          "key": "A",
+          "value": "Platyhelminthes"
+        },
+        {
+          "key": "B",
+          "value": "Aschelminthes"
+        },
+        {
+          "key": "C",
+          "value": "Annelida"
+        },
+        {
+          "key": "D",
+          "value": "Ctenophora"
+        }
+      ],
+      "answer": "A",
+      "explanation": "Platyhelminthes are bilaterally symmetrical, triploblastic and acoelomate animals with organ level of organisation."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Which of the following statements are true for the phylum-Chordata<br><br> (i) In Urochordata notochord extends from head to tail and it is present throughout their life. <br>(ii) In Vertebrata notochord is present during the embryonic period only. <br>(iii) Central nervous system is dorsal and hollow. <br>(iv) Chordata is divided into 3 subphyla: Hemichordata, Tunicata and Cephalochordata. ",
+      "options": [
+        {
+          "key": "A",
+          "value": "(iii) and (i)"
+        },
+        {
+          "key": "B",
+          "value": "(i) and (ii)"
+        },
+        {
+          "key": "C",
+          "value": "(ii) and (iii)"
+        },
+        {
+          "key": "D",
+          "value": "(i) and (iii)"
+        }
+      ],
+      "answer": "C",
+      "explanation": "In vertebrata, notochord is present during embryonic period only as it is replaced by vertebral column. In chordates, central nervous system is dorsal and hollow."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "If the head of cockroach is removed, it may live for few days because",
+      "options": [
+        {
+          "key": "A",
+          "value": "the cockroach does not have nervous system."
+        },
+        {
+          "key": "B",
+          "value": "the head holds a small proportion of a nervous system while the rest is situated along the ventral part of its body."
+        },
+        {
+          "key": "C",
+          "value": "the head holds a 1/3<sup>rd</sup> of a nervous system while the rest is situated along the dorsal part of its body."
+        },
+        {
+          "key": "D",
+          "value": "the supra-oesophageal ganglia of the cockroach are situated in ventral part of abdomen."
+        }
+      ],
+      "answer": "B",
+      "explanation": "Cockroaches breathe passively through a network of pipes connected to holes called spiracles along the length of their body. They are independent of blood circulation to move oxygen around and their body fluids are at a much lower pressure. The sensory input from the eyes and antennae, along with many other behaviours, are transmitted and handled by their brain such as running and reacting to touch, handled by ‘mini brains’ called ganglia in each body segment. A decapitated cockroach will eventually starve to death but this can still take few days."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Match the following columns and select the correct option :\n<br><style type=\"text/css\">\n.tg  {border-collapse:collapse;border-spacing:0;}\n.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg .tg-amwm{font-weight:bold;text-align:center;vertical-align:top}\n.tg .tg-0lax{text-align:left;vertical-align:top}\n</style>\n<table class=\"tg\">\n<thead>\n  <tr>\n    <th class=\"tg-amwm\">Column-I</th>\n    <th class=\"tg-amwm\">Column-II</th>\n  </tr>\n</thead>\n<tbody>\n  <tr>\n    <td class=\"tg-0lax\">(a) Gregarious,<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;polyphagous pest</td>\n    <td class=\"tg-0lax\">(i) Asterias</td>\n  </tr>\n  <tr>\n    <td class=\"tg-0lax\">(b) Adult with radial<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;symmetry and larva<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;with bilateral symmetry</td>\n    <td class=\"tg-0lax\">(ii) Scorpion</td>\n  </tr>\n  <tr>\n    <td class=\"tg-0lax\">(c) Book lungs</td>\n    <td class=\"tg-0lax\">(iii) Ctenoplana</td>\n  </tr>\n  <tr>\n    <td class=\"tg-0lax\">(d) Bioluminescence</td>\n    <td class=\"tg-0lax\">(iv) Locusta</td>\n  </tr>\n</tbody>\n</table>",
+      "options": [
+        {
+          "key": "A",
+          "value": "<table class=\"tg\">\n<thead>\n  <tr>\n    <th class=\"tg-1wig\">(A)</th>\n    <th class=\"tg-1wig\">(B)</th>\n    <th class=\"tg-1wig\">(C)</th>\n    <th class=\"tg-1wig\">(D)</th>\n  </tr>\n</thead>\n<tbody>\n  <tr>\n    <td class=\"tg-0lax\">(iv)</td>\n    <td class=\"tg-0lax\">(i)</td>\n    <td class=\"tg-0lax\">(ii)</td>\n    <td class=\"tg-0lax\">(iii)</td>\n  </tr>\n</tbody>\n</table>"
+        },
+        {
+          "key": "B",
+          "value": "<table class=\"tg\">\n<thead>\n  <tr>\n    <th class=\"tg-1wig\">(A)</th>\n    <th class=\"tg-1wig\">(B)</th>\n    <th class=\"tg-1wig\">(C)</th>\n    <th class=\"tg-1wig\">(D)</th>\n  </tr>\n</thead>\n<tbody>\n  <tr>\n    <td class=\"tg-0lax\">(iii)</td>\n    <td class=\"tg-0lax\">(ii)</td>\n    <td class=\"tg-0lax\">(i)</td>\n    <td class=\"tg-0lax\">(iv)</td>\n  </tr>\n</tbody>\n</table>"
+        },
+        {
+          "key": "C",
+          "value": "<table class=\"tg\">\n<thead>\n  <tr>\n    <th class=\"tg-1wig\">(A)</th>\n    <th class=\"tg-1wig\">(B)</th>\n    <th class=\"tg-1wig\">(C)</th>\n    <th class=\"tg-1wig\">(D)</th>\n  </tr>\n</thead>\n<tbody>\n  <tr>\n    <td class=\"tg-0lax\">(ii)</td>\n    <td class=\"tg-0lax\">(i)</td>\n    <td class=\"tg-0lax\">(iii)</td>\n    <td class=\"tg-0lax\">(iv)</td>\n  </tr>\n</tbody>\n</table>"
+        },
+        {
+          "key": "D",
+          "value": "<table class=\"tg\">\n<thead>\n  <tr>\n    <th class=\"tg-1wig\">(A)</th>\n    <th class=\"tg-1wig\">(B)</th>\n    <th class=\"tg-1wig\">(C)</th>\n    <th class=\"tg-1wig\">(D)</th>\n  </tr>\n</thead>\n<tbody>\n  <tr>\n    <td class=\"tg-0lax\">(i)</td>\n    <td class=\"tg-0lax\">(iii)</td>\n    <td class=\"tg-0lax\">(ii)</td>\n    <td class=\"tg-0lax\">(iv)</td>\n  </tr>\n</tbody>\n</table>"
+        }
+      ],
+      "answer": "A",
+      "explanation": "Locusta is a gregareous pest. In Echinoderms, adults are radially symmetrical but larvae are bilaterally symmetrical. Scorpions respire through book lungs. Bioluminescence is well marked in ctenophores."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Match the following columns and select the correct option :\n<br><br><style type=\"text/css\">\n.tg  {border-collapse:collapse;border-spacing:0;}\n.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg .tg-amwm{font-weight:bold;text-align:center;vertical-align:top}\n.tg .tg-0lax{text-align:left;vertical-align:top}\n</style>\n<table class=\"tg\">\n<thead>\n  <tr>\n    <th class=\"tg-amwm\">Column-I</th>\n    <th class=\"tg-amwm\">Column-II</th>\n  </tr>\n</thead>\n<tbody>\n  <tr>\n    <td class=\"tg-0lax\">(a) 6-15 pairs of gill slits</td>\n    <td class=\"tg-0lax\">(i) Trygon</td>\n  </tr>\n  <tr>\n    <td class=\"tg-0lax\">(b) Heterocercal </td>\n    <td class=\"tg-0lax\">(ii) Cyclostomes</td>\n  </tr>\n  <tr>\n    <td class=\"tg-0lax\">(c) Air Bladder</td>\n    <td class=\"tg-0lax\">(iii) Chondrichthyes</td>\n  </tr>\n  <tr>\n    <td class=\"tg-0lax\">(d) Poison sting</td>\n    <td class=\"tg-0lax\">(iv) Osteichthyes</td>\n  </tr>\n</tbody>\n</table>",
+      "options": [
+        {
+          "key": "A",
+          "value": "<table class=\"tg\">\n<thead>\n  <tr>\n    <th class=\"tg-1wig\">(A)</th>\n    <th class=\"tg-1wig\">(B)</th>\n    <th class=\"tg-1wig\">(C)</th>\n    <th class=\"tg-1wig\">(D)</th>\n  </tr>\n</thead>\n<tbody>\n  <tr>\n    <td class=\"tg-0lax\">(iii)</td>\n    <td class=\"tg-0lax\">(iv)</td>\n    <td class=\"tg-0lax\">(i)</td>\n    <td class=\"tg-0lax\">(ii)</td>\n  </tr>\n</tbody>\n</table>"
+        },
+        {
+          "key": "B",
+          "value": "<table class=\"tg\">\n<thead>\n  <tr>\n    <th class=\"tg-1wig\">(A)</th>\n    <th class=\"tg-1wig\">(B)</th>\n    <th class=\"tg-1wig\">(C)</th>\n    <th class=\"tg-1wig\">(D)</th>\n  </tr>\n</thead>\n<tbody>\n  <tr>\n    <td class=\"tg-0lax\">(iv)</td>\n    <td class=\"tg-0lax\">(ii)</td>\n    <td class=\"tg-0lax\">(iii)</td>\n    <td class=\"tg-0lax\">(i)</td>\n  </tr>\n</tbody>\n</table>"
+        },
+        {
+          "key": "C",
+          "value": "<table class=\"tg\">\n<thead>\n  <tr>\n    <th class=\"tg-1wig\">(A)</th>\n    <th class=\"tg-1wig\">(B)</th>\n    <th class=\"tg-1wig\">(C)</th>\n    <th class=\"tg-1wig\">(D)</th>\n  </tr>\n</thead>\n<tbody>\n  <tr>\n    <td class=\"tg-0lax\">(i)</td>\n    <td class=\"tg-0lax\">(iv)</td>\n    <td class=\"tg-0lax\">(iii)</td>\n    <td class=\"tg-0lax\">(ii)</td>\n  </tr>\n</tbody>\n</table>"
+        },
+        {
+          "key": "D",
+          "value": "<table class=\"tg\">\n<thead>\n  <tr>\n    <th class=\"tg-1wig\">(A)</th>\n    <th class=\"tg-1wig\">(B)</th>\n    <th class=\"tg-1wig\">(C)</th>\n    <th class=\"tg-1wig\">(D)</th>\n  </tr>\n</thead>\n<tbody>\n  <tr>\n    <td class=\"tg-0lax\">(ii)</td>\n    <td class=\"tg-0lax\">(iii)</td>\n    <td class=\"tg-0lax\">(iv)</td>\n    <td class=\"tg-0lax\">(i)</td>\n  </tr>\n</tbody>\n</table>"
+        }
+      ],
+      "answer": "D",
+      "explanation": "Cyclostomes have an elongated body bearing 6-15 pairs of gill slits for respiration. The caudal fin is the tail fin located at the end of the caudal peduncle and is used for propulsion. See body-caudal fin locomotion. <br><br>Heterocercal means the vertebrae extend into the upper lobe of the tail, making it longer (as in sharks). It is the opposite of hypocercal. <br><br>Air bladder and poison string (for. e.g, Trygon) are found in Chondrichthyes as they have to swim constantly to avoid sinking."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Consider following features:\n<br><br>(a) Organ system level of organisation\n<br>(b) Bilateral symmetry\n<br>(c) True coelomates with segmentation of body\n<br><br>Select the correct option of animal groups which possess all the above characteristics",
+      "options": [
+        {
+          "key": "A",
+          "value": "Arthropoda, Mollusca and chordata"
+        },
+        {
+          "key": "B",
+          "value": "Annelida, Mollusca and chordata"
+        },
+        {
+          "key": "C",
+          "value": "Annelida, Arthropoda and chordate"
+        },
+        {
+          "key": "D",
+          "value": "Annelida, Arthropoda and Mollusca"
+        }
+      ],
+      "answer": "C",
+      "explanation": "Annelida, arthropoda and chordata have all the given three features: Organ system level of organization, Bilateral symmetry, true coelomates with segmentation of body."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Match the following organisms with their respective characteristics:\n<br><br><style type=\"text/css\">\n.tg  {border-collapse:collapse;border-spacing:0;}\n.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg .tg-nx8p{font-size:18px;text-align:left;vertical-align:top}\n</style>\n<table class=\"tg\">\n  <tbody><tr>\n    <th class=\"tg-nx8p\">(a)</th>\n    <th class=\"tg-nx8p\">Pila</th>\n    <th class=\"tg-nx8p\">(i)</th>\n    <th class=\"tg-nx8p\">Flame cells</th>\n  </tr>\n  <tr>\n    <td class=\"tg-nx8p\">(b)</td>\n    <td class=\"tg-nx8p\">Bombyx</td>\n    <td class=\"tg-nx8p\">(ii)</td>\n    <td class=\"tg-nx8p\">Comb plates</td>\n  </tr>\n  <tr>\n    <td class=\"tg-nx8p\">(c)</td>\n    <td class=\"tg-nx8p\">Pleurobrachia</td>\n    <td class=\"tg-nx8p\">(iii)</td>\n    <td class=\"tg-nx8p\">Radula</td>\n  </tr>\n  <tr>\n    <td class=\"tg-nx8p\">(d)</td>\n    <td class=\"tg-nx8p\">Taenia</td>\n    <td class=\"tg-nx8p\">(iv)</td>\n    <td class=\"tg-nx8p\">Malpighian</td>\n  </tr>\n</tbody></table>\n<br>Select the correct option from the following : ",
+      "options": [
+        {
+          "key": "A",
+          "value": "<table class=\"tg\">\n  <tbody><tr>\n    <th class=\"tg-amwm\">(a)</th>\n    <th class=\"tg-amwm\">(b)</th>\n    <th class=\"tg-amwm\">(c)</th>\n    <th class=\"tg-amwm\">(d)</th>\n  </tr>\n  <tr>\n    <td class=\"tg-baqh\">(ii)</td>\n    <td class=\"tg-baqh\">(iv)</td>\n    <td class=\"tg-baqh\">(iii)</td>\n    <td class=\"tg-baqh\">(i)</td>\n  </tr>\n</tbody></table>"
+        },
+        {
+          "key": "B",
+          "value": "<table class=\"tg\">\n  <tbody><tr>\n    <th class=\"tg-amwm\">(a)</th>\n    <th class=\"tg-amwm\">(b)</th>\n    <th class=\"tg-amwm\">(c)</th>\n    <th class=\"tg-amwm\">(d)</th>\n  </tr>\n  <tr>\n    <td class=\"tg-baqh\">(iii)</td>\n    <td class=\"tg-baqh\">(ii)</td>\n    <td class=\"tg-baqh\">(iv)</td>\n    <td class=\"tg-baqh\">(i)</td>\n  </tr>\n</tbody></table>"
+        },
+        {
+          "key": "C",
+          "value": "<table class=\"tg\">\n  <tbody><tr>\n    <th class=\"tg-amwm\">(a)</th>\n    <th class=\"tg-amwm\">(b)</th>\n    <th class=\"tg-amwm\">(c)</th>\n    <th class=\"tg-amwm\">(d)</th>\n  </tr>\n  <tr>\n    <td class=\"tg-baqh\">(iii)</td>\n    <td class=\"tg-baqh\">(ii)</td>\n    <td class=\"tg-baqh\">(i)</td>\n    <td class=\"tg-baqh\">(iv)</td>\n  </tr>\n</tbody></table>"
+        },
+        {
+          "key": "D",
+          "value": "<table class=\"tg\">\n  <tbody><tr>\n    <th class=\"tg-amwm\">(a)</th>\n    <th class=\"tg-amwm\">(b)</th>\n    <th class=\"tg-amwm\">(c)</th>\n    <th class=\"tg-amwm\">(d)</th>\n  </tr>\n  <tr>\n    <td class=\"tg-baqh\">(iii)</td>\n    <td class=\"tg-baqh\">(iv)</td>\n    <td class=\"tg-baqh\">(ii)</td>\n    <td class=\"tg-baqh\">(i)</td>\n  </tr>\n</tbody></table>"
+        }
+      ],
+      "answer": "D",
+      "explanation": "Pila (mollusca) have radula\n<br><br> Bombyx (arthropoda) have malphigian tubules.\n<br><br>Pleurobrachia (ctenophora) have comb plates.\n<br><br>Taenia (platyhelminthes) have flame cells for excretion."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Which of the following animals does not undergo metamorphosis?",
+      "options": [
+        {
+          "key": "A",
+          "value": "Tunicate"
+        },
+        {
+          "key": "B",
+          "value": "Starfish"
+        },
+        {
+          "key": "C",
+          "value": "Earthworm"
+        },
+        {
+          "key": "D",
+          "value": "Moth"
+        }
+      ],
+      "answer": "C",
+      "explanation": "In earthworm development is direct i.e.,\nthere is no larval stage and hence no\nmetamorphosis."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Identify the vertebrate group of animals characterised by crop and gizzard in its digestive system. ",
+      "options": [
+        {
+          "key": "A",
+          "value": "Amphibia"
+        },
+        {
+          "key": "B",
+          "value": "Osteichthyes"
+        },
+        {
+          "key": "C",
+          "value": "Reptilia"
+        },
+        {
+          "key": "D",
+          "value": "Aves"
+        }
+      ],
+      "answer": "D",
+      "explanation": "The digestive tract of aves has additional\nchambers in their digestive system as crop\nand gizzard. Crop is concerned with\nstorage of food grains, whereas gizzard is\na masticatory organ in birds used to crush\nfood grain."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Which one of these animals is not a homeotherm? ",
+      "options": [
+        {
+          "key": "A",
+          "value": "Chelone"
+        },
+        {
+          "key": "B",
+          "value": "Macropus"
+        },
+        {
+          "key": "C",
+          "value": "Psittacula"
+        },
+        {
+          "key": "D",
+          "value": "Camelus"
+        }
+      ],
+      "answer": "A",
+      "explanation": "Reptiles (Chelone = Turtles) are poikilotherms or cold blooded,  whereas birds (Psittacula = Parrot) and mammals (Macropus = Kangroo, Camelus = Camel) are  homeotherm which maintain\nconstant body temperature, irrespective of\nsurrounding temperature by metabolic activity."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Which among these is the correct combination of aquatic mammals?",
+      "options": [
+        {
+          "key": "A",
+          "value": "Dolphins, Seals, <i>Trygon</i>"
+        },
+        {
+          "key": "B",
+          "value": "Whales, Dolphins, Seals"
+        },
+        {
+          "key": "C",
+          "value": "<i>Trygon</i>, Whales, Seals"
+        },
+        {
+          "key": "D",
+          "value": "Seals, Dolphins, Sharks"
+        }
+      ],
+      "answer": "B",
+      "explanation": "Whales, dolphin and seals are examples of\naquatic mammals. Trygon and sharks are cartilaginous\nfishes.\n"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "In case of poriferans, the spongocoel is lined\nwith flagellated cells called\n",
+      "options": [
+        {
+          "key": "A",
+          "value": "mesenchymal cells "
+        },
+        {
+          "key": "B",
+          "value": "oscula"
+        },
+        {
+          "key": "C",
+          "value": "ostia"
+        },
+        {
+          "key": "D",
+          "value": "choanocytes\n"
+        }
+      ],
+      "answer": "D",
+      "explanation": "In poriferans (sponges) choanocytes\n(collar cells) form lining of spongocoel.\nFlagella present in collar cells provide\ncirculation to water in water canal system."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "In case of proiferans, the spongocoel is lined with flagellated cells called",
+      "options": [
+        {
+          "key": "A",
+          "value": "oscula"
+        },
+        {
+          "key": "B",
+          "value": "choanocytes"
+        },
+        {
+          "key": "C",
+          "value": "mesenchymal cells"
+        },
+        {
+          "key": "D",
+          "value": "ostia."
+        }
+      ],
+      "answer": "B",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Important characteristic that hemichordates share with chordates is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "ventral tubular nerve cord"
+        },
+        {
+          "key": "B",
+          "value": "pharynx with gill slits"
+        },
+        {
+          "key": "C",
+          "value": "pharynx without gill slits"
+        },
+        {
+          "key": "D",
+          "value": "absence of motochord."
+        }
+      ],
+      "answer": "B",
+      "explanation": "Pharyngeal gill slits are present in\nhemichordates and in chordates. Notochord\nis present in chordates only. Ventral tubular\nnerve cord is present in non-chordates."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Which of the following represents order of 'Horse'?",
+      "options": [
+        {
+          "key": "A",
+          "value": "Perissodactyla"
+        },
+        {
+          "key": "B",
+          "value": "Caballus"
+        },
+        {
+          "key": "C",
+          "value": "Ferus"
+        },
+        {
+          "key": "D",
+          "value": "Equidae"
+        }
+      ],
+      "answer": "A",
+      "explanation": "Horse belongs to :<br>\n Orders - Perissodactyla<br>\n Family - Equidae<br>\n Genus - Equus<br>\n Species - ferus<br>\n Subspecies - caballus"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Choose the correct statement",
+      "options": [
+        {
+          "key": "A",
+          "value": "All mammals are viviparous."
+        },
+        {
+          "key": "B",
+          "value": "All cyclostomes do not posses jaws and paired fins."
+        },
+        {
+          "key": "C",
+          "value": "All reptiles have a three-chambered heart."
+        },
+        {
+          "key": "D",
+          "value": "All pisces have gills covered by an operculum."
+        }
+      ],
+      "answer": "B",
+      "explanation": "<i>Ornithorhynchus</i> and <i>Tachyglossus</i> are\noviparous mammals. Crocodile is a reptile which\npossesses four chambered heart. In cartilaginous fish\n(except <i>Chimaera</i>) gills are not covered by an operculum.\n"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Match column I with column II for housefly classification and select the correct option using the codes given below. \n<br><br><style type=\"text/css\">\n.tg  {border-collapse:collapse;border-spacing:0;border:none;width:100%}\n.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;}\n.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;}\n.tg .tg-x1hj{font-size:22px;border-color:inherit;text-align:left;vertical-align:top}\n.tg .tg-0xlv{font-weight:bold;font-size:22px;border-color:inherit;text-align:center}\n.tg .tg-4qqe{font-weight:bold;font-size:22px;border-color:inherit;text-align:center;vertical-align:top}\n.tg .tg-c4o0{font-size:22px;border-color:inherit;text-align:left}\n</style>\n<table class=\"tg\">\n  <tbody><tr>\n    <th class=\"tg-0xlv\" colspan=\"2\"><span style=\"font-weight:700\">Column $${\\rm I}$$</span></th>\n    <th class=\"tg-4qqe\"></th>\n    <th class=\"tg-0xlv\" colspan=\"2\"><span style=\"font-weight:700\">Column $${\\rm I}$$$${\\rm I}$$</span></th>\n  </tr>\n  <tr>\n    <td class=\"tg-c4o0\">(A)</td>\n    <td class=\"tg-c4o0\">Family</td>\n    <td class=\"tg-x1hj\"></td>\n    <td class=\"tg-c4o0\">(i)</td>\n    <td class=\"tg-c4o0\">Diptera</td>\n  </tr>\n  <tr>\n    <td class=\"tg-c4o0\">(B)</td>\n    <td class=\"tg-c4o0\">Order</td>\n    <td class=\"tg-x1hj\"></td>\n    <td class=\"tg-c4o0\">(ii)</td>\n    <td class=\"tg-c4o0\">Arthropoda</td>\n  </tr>\n  <tr>\n    <td class=\"tg-c4o0\">(C)</td>\n    <td class=\"tg-c4o0\">Class</td>\n    <td class=\"tg-x1hj\"></td>\n    <td class=\"tg-c4o0\">(iii)</td>\n    <td class=\"tg-c4o0\">Muscidae</td>\n  </tr>\n  <tr>\n    <td class=\"tg-c4o0\">(D)</td>\n    <td class=\"tg-c4o0\">Phylum</td>\n    <td class=\"tg-x1hj\"></td>\n    <td class=\"tg-c4o0\">(iv)</td>\n    <td class=\"tg-c4o0\">Insecta</td>\n  </tr>\n</tbody></table>",
+      "options": [
+        {
+          "key": "A",
+          "value": "(A)-(iii),&nbsp;&nbsp;(B)-(i),&nbsp;&nbsp;(C)-(iv),&nbsp;&nbsp;(D)-(ii)"
+        },
+        {
+          "key": "B",
+          "value": "(A)-(iii),&nbsp;&nbsp;(B)-(ii),&nbsp;&nbsp;(C)-(iv),&nbsp;&nbsp;(D)-(i)"
+        },
+        {
+          "key": "C",
+          "value": "(A)-(iv),&nbsp;&nbsp;(B)-(iii),&nbsp;&nbsp;(C)-(ii),&nbsp;&nbsp;(D)-(i)"
+        },
+        {
+          "key": "D",
+          "value": "(A)-(iv),&nbsp;&nbsp;(B)-(ii),&nbsp;&nbsp;(C)-(i),&nbsp;&nbsp;(D)-(iii)"
+        }
+      ],
+      "answer": "A",
+      "explanation": "Classification of housefly\n<br/><br/>A. Family – Muscidae\n<br/><br/> B. Order – Diptera\n<br/><br/> C. Class – Insecta\n<br/><br/> D. Phylum – Arthropoda"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Which of the following features is not present in the Phylum Arthropoda?",
+      "options": [
+        {
+          "key": "A",
+          "value": "Parapodia"
+        },
+        {
+          "key": "B",
+          "value": "Jointed appendages"
+        },
+        {
+          "key": "C",
+          "value": "Chitinous exoskeleton"
+        },
+        {
+          "key": "D",
+          "value": "Metameric segmentation"
+        }
+      ],
+      "answer": "A",
+      "explanation": "Parapodia are flattened, fleshy, vertical flaplike outgrowths of body wall found in annelids on\nlateral sides of trunk segments. These are hollow\nstructures enclosing coelom which is continuous with\nthat of trunk segments. These serve the dual purpose\nof locomotion and respiration.\n"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Which one of the following characteristics is not shared by birds and mammals? ",
+      "options": [
+        {
+          "key": "A",
+          "value": "Viviparity"
+        },
+        {
+          "key": "B",
+          "value": "Warm blooded nature"
+        },
+        {
+          "key": "C",
+          "value": "Ossified endoskeleton"
+        },
+        {
+          "key": "D",
+          "value": "Breathing using lungs"
+        }
+      ],
+      "answer": "A",
+      "explanation": "Giving birth to young that develop within\nthe mother’s body rather than hatching from eggs. All mammals except the monotremes\nare viviparous."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Which of the following characteristic features always holds true for the corresponding group of animals?\n<style type=\"text/css\">\n.tg  {border-collapse:collapse;border-spacing:0;width:100%}\n.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}\n.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}\n.tg .tg-pjk9{font-size:22px;text-align:left}\n</style>",
+      "options": [
+        {
+          "key": "A",
+          "value": "<table class=\"tg\">\n  <tbody><tr>\n    <th class=\"tg-pjk9\">Possess a mouth with an <br>upper and a lower jaw</th>\n    <th class=\"tg-pjk9\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Chordata</th>\n  </tr>\n</tbody></table>"
+        },
+        {
+          "key": "B",
+          "value": "<table class=\"tg\">\n  <tbody><tr>\n    <th class=\"tg-pjk9\">3-chambered heart with <br>one incompletely divided <br>ventricle</th>\n    <th class=\"tg-pjk9\">     Reptilia</th>\n  </tr>\n</tbody></table>"
+        },
+        {
+          "key": "C",
+          "value": "<table class=\"tg\">\n  <tbody><tr>\n    <th class=\"tg-pjk9\">Cartilaginous endoskeleton</th>\n    <th class=\"tg-pjk9\">     Chondrichthyes</th>\n  </tr>\n</tbody></table>"
+        },
+        {
+          "key": "D",
+          "value": "<table class=\"tg\">\n  <tbody><tr>\n    <th class=\"tg-pjk9\">Viviparous</th>\n    <th class=\"tg-pjk9\">     Mammalia</th>\n  </tr>\n</tbody></table>"
+        }
+      ],
+      "answer": "C",
+      "explanation": "Phylum Chordata includes both jawless\nvertebrates (Agnatha) and jawed vertebrates\n(Gnathostomata). Crocodile of Class Reptilia has four\nchambered heart with two auricles and two ventricles.\nDuck billed platypus and spiny anteater are oviparous\nmammals.\n"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Body having meshwork of cells, internal cavities lined with food filtering flagellated cells and indirect development are the characteristics of Phylum",
+      "options": [
+        {
+          "key": "A",
+          "value": "Mollusca"
+        },
+        {
+          "key": "B",
+          "value": "Protozoa"
+        },
+        {
+          "key": "C",
+          "value": "Coelenterata"
+        },
+        {
+          "key": "D",
+          "value": "Porifera."
+        }
+      ],
+      "answer": "D",
+      "explanation": "The given characteristic features define\nthe phylum porifera."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Metagenesis refers to ",
+      "options": [
+        {
+          "key": "A",
+          "value": "occurrence of a drastic change in form during post-embryonic development "
+        },
+        {
+          "key": "B",
+          "value": "presence of a segmented body and parthenogenetic mode of reproduction"
+        },
+        {
+          "key": "C",
+          "value": "presence of different morphic forms "
+        },
+        {
+          "key": "D",
+          "value": "alternation of generation between asexual and sexual phases of an organisms. "
+        }
+      ],
+      "answer": "D",
+      "explanation": "An alternation of generation between\nasexual and sexual phases of an organism is referred\nto as metagenesis. E.g., in Obelia (a coelenterate),\npolyps reproduce asexually and medusae reproduce\nsexually.\n"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A jawless fish, which lays eggs in fresh water and whose ammocoetes larvae after metamorphosis return to the ocean is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "<i>Neomyxine</i>"
+        },
+        {
+          "key": "B",
+          "value": "<i>Petromyzon</i>"
+        },
+        {
+          "key": "C",
+          "value": "<i>Eptatretus</i>"
+        },
+        {
+          "key": "D",
+          "value": "<i>Myxine</i>"
+        }
+      ],
+      "answer": "B",
+      "explanation": "Petrormyzon marinus, commonly known\nas sea lamprey lays eggs in fresh water and\nits larvae, after metamorphosis, return to the\nocean (saline water)."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Which of the following represents the correct combination without any exception?",
+      "options": [
+        {
+          "key": "A",
+          "value": "<table class=\"tg\">\n  <tbody><tr>\n    <th class=\"tg-bhpp\">Characteristics</th>\n    <th class=\"tg-bhpp\">Class</th>\n  </tr>\n  <tr>\n    <td class=\"tg-pjk9\">Sucking and circular mouth; <br>jaws absent,integument without <br>scals; paired appendages.</td>\n    <td class=\"tg-pjk9\">Cyclostomata</td>\n  </tr>\n</tbody></table>"
+        },
+        {
+          "key": "B",
+          "value": "<table class=\"tg\">\n  <tbody><tr>\n    <th class=\"tg-bhpp\">Characteristics</th>\n    <th class=\"tg-bhpp\">Class</th>\n  </tr>\n  <tr>\n    <td class=\"tg-pjk9\">Body covered with feathers; <br>skin moist and glandular, <br>forelimbs form wings; lungs-<br>with air sacs.</td>\n    <td class=\"tg-pjk9\">Aves  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  </td>\n  </tr>\n</tbody></table>"
+        },
+        {
+          "key": "C",
+          "value": "<table class=\"tg\">\n  <tbody><tr>\n    <th class=\"tg-bhpp\">Characteristics</th>\n    <th class=\"tg-bhpp\">Class</th>\n  </tr>\n  <tr>\n    <td class=\"tg-pjk9\">Mammary gland; hair on body;<br>pinnae; two pairs of limbs. <br></td>\n    <td class=\"tg-pjk9\">Mammalia</td>\n  </tr>\n</tbody></table>"
+        },
+        {
+          "key": "D",
+          "value": "<table class=\"tg\">\n  <tbody><tr>\n    <th class=\"tg-bhpp\">Characteristics</th>\n    <th class=\"tg-bhpp\">Class</th>\n  </tr>\n  <tr>\n    <td class=\"tg-pjk9\">Mouth ventral; gills without<br>operculum; skin with placoid<br>scales; persistent notochord. <br></td>\n    <td class=\"tg-pjk9\">Chondrichthyes</td>\n  </tr>\n</tbody></table>"
+        }
+      ],
+      "answer": "D",
+      "explanation": "(i) Aves possess dry skin, without\nglands except oil gland near the base\nof tail.<br>\n (ii) Pinnae are not found in aquatic\nanimals and egg laying mammals.<br>\n (iii) In cyclostomes, unpaired appendages\n(joints) are found."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Which of the following endoparasites of humans does show viviparity?",
+      "options": [
+        {
+          "key": "A",
+          "value": "<i>Trichinella spiralis</i>"
+        },
+        {
+          "key": "B",
+          "value": "<i>Ascaris lumbricoides</i>"
+        },
+        {
+          "key": "C",
+          "value": "<i>Ancylostoma duodenale</i>"
+        },
+        {
+          "key": "D",
+          "value": "<i>Enterobius vermicularis</i>"
+        }
+      ],
+      "answer": "A",
+      "explanation": "Trichinella spiralis is a minute nematode\nparasite that shows viviparity i.e., produces live\nyoungs (larvae) not eggs. The adults of T. spiralis\nlive in the human small intestine, where the females\nrelease large numbers of larvae. <br><br>These larvae bore\nthrough the intestine and can cause trichinosis or\ntrichiniasis which has symptoms like diarrohea,\nnausea, vertigo, pain in limbs and fever etc.<br><br>\nHumans get infected after eating imperfectly cooked\nmeat infected with the parasite’s larval cysts."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Which of the following animals is not viviparous?",
+      "options": [
+        {
+          "key": "A",
+          "value": "Platypus"
+        },
+        {
+          "key": "B",
+          "value": "Whale"
+        },
+        {
+          "key": "C",
+          "value": "Flying fox (Bat)"
+        },
+        {
+          "key": "D",
+          "value": "Elephant"
+        }
+      ],
+      "answer": "A",
+      "explanation": "Duck-billed platypus is an egg laying\nmammal. It is found in the rivers in Eastern Australia\nand Tasmania. It is a beaver like monotreme about\n50-60 cm long and well adapted to live in water.\nUsually, two eggs are laid at a time. <br><br>The female curls\naround them for incubation and remains inactive for\nabout two weeks. Newly hatched young ones are very\nimmature, naked, blind and each is 2.5 cm long."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Which of the following characteristics is mainly responsible for diversification of insects on land? ",
+      "options": [
+        {
+          "key": "A",
+          "value": "Exoskeleton"
+        },
+        {
+          "key": "B",
+          "value": "Eyes"
+        },
+        {
+          "key": "C",
+          "value": "Segmentation"
+        },
+        {
+          "key": "D",
+          "value": "Bilateral symmetry"
+        }
+      ],
+      "answer": "A",
+      "explanation": "The exoskeleton of insects consists of\nchitinous cuticle. It gets hardened due to\ndeposition of calcium. It prevents dessication\nand gives protection."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A marine cartilaginous fish that can produce electric current is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "<i>Pristis</i>"
+        },
+        {
+          "key": "B",
+          "value": "<i>Torpedo</i>"
+        },
+        {
+          "key": "C",
+          "value": "<i>Trygon</i>"
+        },
+        {
+          "key": "D",
+          "value": "<i>Scoliodon. </i>"
+        }
+      ],
+      "answer": "B",
+      "explanation": "<i>Torpedo</i> is a bottom-living marine fish,\ndischarging electricity which is sufficient to stun preys\nsuch as small fishes, etc. A pair of electric organs are\nsituated on the dorsal side of the trunk region. Infact\nthe electric organs are the modified lateral muscleplates innervated by the cranial nerves."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<i>Planaria</i> possesses high capacity of",
+      "options": [
+        {
+          "key": "A",
+          "value": "alternation of generation"
+        },
+        {
+          "key": "B",
+          "value": "regeneration\n"
+        },
+        {
+          "key": "C",
+          "value": "bioluminescence. "
+        },
+        {
+          "key": "D",
+          "value": "metamorphosis"
+        }
+      ],
+      "answer": "B",
+      "explanation": "All arthropods possess a stiff exoskeleton\n(external skeleton) composed primarily of\nchitin. Arthropod bodies are divided into\nsegments. Parapodia are paired, lateral\nappendages extending from the body\nsegments. Arthropod appendages may be\neither biramous (branched) or uniramous\n(unbranched). They do not possess jointed\nappendages."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<i>Planaria</i> possesses high capacity of ",
+      "options": [
+        {
+          "key": "A",
+          "value": "metamorphosis "
+        },
+        {
+          "key": "B",
+          "value": "regeneration "
+        },
+        {
+          "key": "C",
+          "value": "alternation of generation"
+        },
+        {
+          "key": "D",
+          "value": "bioluminescence."
+        }
+      ],
+      "answer": "B",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Which one of the following living organisms completely lacks a cell wall? ",
+      "options": [
+        {
+          "key": "A",
+          "value": "Cyanobacteria"
+        },
+        {
+          "key": "B",
+          "value": "Sea - fan (<i>Gorgonia</i>)"
+        },
+        {
+          "key": "C",
+          "value": "<i>Saccharomyces</i>"
+        },
+        {
+          "key": "D",
+          "value": "Blue - green algae"
+        }
+      ],
+      "answer": "B",
+      "explanation": "Gorgonia (sea fan) is an animal belonging\nto Phylum Coelenterata. All animals lack cell wall."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Select the taxon mentioned that represents both marine and fresh water species. ",
+      "options": [
+        {
+          "key": "A",
+          "value": "Echinoderms "
+        },
+        {
+          "key": "B",
+          "value": "Ctenophora"
+        },
+        {
+          "key": "C",
+          "value": "Cephalochordata"
+        },
+        {
+          "key": "D",
+          "value": "Cnidaria"
+        }
+      ],
+      "answer": "D",
+      "explanation": "Cnidarians are the sac-like animals which\nare aquatic, mostly marine except a few like Hydra,\nare fresh water. They are the simplest organisms that\nhave attained a tissue level of organization. Members\nof Ctenophora, Cephalochordata and Echinodermata\nare exclusively marine.\n"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The characteristics of Class Reptilia are",
+      "options": [
+        {
+          "key": "A",
+          "value": "body covered with moist skin which is devoid of scales, the ear is represented by a tympanum, alimentary canal, urinary and reproductive tracts open into a common cloaca"
+        },
+        {
+          "key": "B",
+          "value": "fresh water animals with bony endoskeleton, air-bladder to regulate buoyancy"
+        },
+        {
+          "key": "C",
+          "value": "marine animals with cartilaginous endoskeleton, body covered with placoid scales "
+        },
+        {
+          "key": "D",
+          "value": "body covered with dry and cornified skin, scales over the body are epidermal, they do not have external ears."
+        }
+      ],
+      "answer": "D",
+      "explanation": "In option (d), all the characteristics\nbelong to class Reptilia. In options (a), (b) and\n(c) the characteristics belong to the classes\nAmphibia, Osteichthyes and Chondrichthyes\nrespectively"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Sharks and dogfishes differ from skates and rays because",
+      "options": [
+        {
+          "key": "A",
+          "value": "gill slits are ventrally placed"
+        },
+        {
+          "key": "B",
+          "value": "head and turnk are widened considerably"
+        },
+        {
+          "key": "C",
+          "value": "distinct demarcation between body and tail"
+        },
+        {
+          "key": "D",
+          "value": "their pectoral fins distinctly marked off from cylindrical bodies."
+        }
+      ],
+      "answer": "D",
+      "explanation": "Sharks and dogfishes have cylindrical body\nwhile skates and rays have both of their pectoral fins\nfused. It gives a wing-like appearance and are not\ndistinct from body.\n"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Which one of the following is one of the paths followed by air or O<sub>2</sub> during respiration in the adult male <i>Periplaneta americana</i> it enters the animal body? ",
+      "options": [
+        {
+          "key": "A",
+          "value": "Spiracle in metathorax, trachea, tracheloes, oxygen diffuses into cells"
+        },
+        {
+          "key": "B",
+          "value": "Mouth, bronchial tube, trachea, oxygen enters cells"
+        },
+        {
+          "key": "C",
+          "value": "Spiracles in prothorax, tracheoles, trachea, oxygen diffuses into cells."
+        },
+        {
+          "key": "D",
+          "value": "Hypopharynx, mouth, pharynx, trachea, tissues"
+        }
+      ],
+      "answer": "A",
+      "explanation": "The respiratory system is well developed in\na cockroach in order to compensate the poorly\ndeveloped circulatory system. It consists of tracheae,\ntracheoles and spiracles. The main tracheal trunks\nopen to the exterior on body surface through 10 pairs\nof segmentally arranged apertures termed spiracles or stigmata.<br><br> Two pairs of spiracles are thoracic, one\nbetween pro and mesothorax and the other between\nmeso and metathorax. Haemocoel contains a network\nof elastic, closed and branching air tubes or tracheae.\n<br><br>The ultimate finer branches of tracheae are called\ntracheoles which come in contact with the individual\nbody cells. The elaborate tracheal system carries\noxygen directly to all the body cells.\n"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Which one of the following animals is correctly matched with its one characteristic and the taxon?",
+      "options": [
+        {
+          "key": "A",
+          "value": "<table class=\"tg\">\n  <tbody><tr>\n    <th class=\"tg-de48\">Animal</th>\n    <th class=\"tg-de48\">Characteristic</th>\n    <th class=\"tg-de48\">Taxon</th>\n  </tr>\n  <tr>\n    <td class=\"tg-wrg0\">Millipede</td>\n    <td class=\"tg-wrg0\">Ventral nerve<br></td>\n    <td class=\"tg-wrg0\">Arachnida</td>\n  </tr>\n</tbody></table>"
+        },
+        {
+          "key": "B",
+          "value": "<table class=\"tg\">\n  <tbody><tr>\n    <th class=\"tg-de48\">Animal</th>\n    <th class=\"tg-de48\">Characteristic</th>\n    <th class=\"tg-de48\">Taxon</th>\n  </tr>\n  <tr>\n    <td class=\"tg-wrg0\">Sea anemone</td>\n    <td class=\"tg-wrg0\">Triploblastic<br></td>\n    <td class=\"tg-wrg0\">Cnidaria</td>\n  </tr>\n</tbody></table>"
+        },
+        {
+          "key": "C",
+          "value": "<table class=\"tg\">\n  <tbody><tr>\n    <th class=\"tg-0xlv\">Animal</th>\n    <th class=\"tg-0xlv\">Characteristic</th>\n    <th class=\"tg-0xlv\">Taxon</th>\n  </tr>\n  <tr>\n    <td class=\"tg-9d8n\">Silverfish</td>\n    <td class=\"tg-9d8n\">Pectoral and <br>pelvic fins<br></td>\n    <td class=\"tg-9d8n\">Chordata</td>\n  </tr>\n</tbody></table>"
+        },
+        {
+          "key": "D",
+          "value": "<table class=\"tg\">\n  <tbody><tr>\n    <th class=\"tg-0xlv\">Animal</th>\n    <th class=\"tg-0xlv\">Characteristic</th>\n    <th class=\"tg-0xlv\">Taxon</th>\n  </tr>\n  <tr>\n    <td class=\"tg-9d8n\">Duckbilled<br>platypus</td>\n    <td class=\"tg-9d8n\">Oviparous<br></td>\n    <td class=\"tg-9d8n\">Mammalia</td>\n  </tr>\n</tbody></table>"
+        }
+      ],
+      "answer": "D",
+      "explanation": "Duckbilled platypus is oviparous and\ncomes under phylum mammalia. Millipede\nbelongs to the phylum arthropoda. Seaanemone is diploblastic and belongs to\nphylum cnidaria. Silver-fish is an insect\nbelonging to phylum arthropoda, having long\nantennae, no wings and move in a wiggling\nmotion that resembles the movement of a fish."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Which one of the following groups of animals reproduces only by sexual means?",
+      "options": [
+        {
+          "key": "A",
+          "value": "Cnidaria"
+        },
+        {
+          "key": "B",
+          "value": "Porifera"
+        },
+        {
+          "key": "C",
+          "value": "Protozoa"
+        },
+        {
+          "key": "D",
+          "value": "Ctenophora"
+        }
+      ],
+      "answer": "D",
+      "explanation": "In ctenophores, asexual reproduction is\nabsent. They are monoecious and fertilization is\ngenerally external. In cnidaria, asexual reproduction\n(budding) is found in the polyps and sexual\nreproduction is found in the medusa form. Both\nasexual and sexual reproduction occur in porifera\n(sponges). Asexual reproduction occurs by budding\nand gemmules. In protozoa, asexual reproduction\ntakes place by binary fission, budding, etc., and sexual\nreproduction takes place by syngamy and conjugation."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Which of the following are correctly  matched with respect to their taxonomic classification? ",
+      "options": [
+        {
+          "key": "A",
+          "value": "House fly, butterfly, tse tse fly, silverfish-Insecta"
+        },
+        {
+          "key": "B",
+          "value": "Spiny anteater, sea urchin, sea cucumber - Echinodermata"
+        },
+        {
+          "key": "C",
+          "value": "Flying fish, cuttlefish, silverfish-Pisces"
+        },
+        {
+          "key": "D",
+          "value": "Centipede, millipede, spider, scorpion-Insecta"
+        }
+      ],
+      "answer": "A",
+      "explanation": "House fly, butterfly, tse tse fly, silverfish\nall belongs to insecta"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "One of the representatives of Phylum Arthropoda is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "puffer fish "
+        },
+        {
+          "key": "B",
+          "value": "flying fish"
+        },
+        {
+          "key": "C",
+          "value": "cuttle fish"
+        },
+        {
+          "key": "D",
+          "value": "silver fish."
+        }
+      ],
+      "answer": "D",
+      "explanation": "Representive of Phylum Arthropoda is\nsilverfish. Arthropoda is the largest phylum\nof Animalia, which covers two-thirds of all\nnamed species."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Match the name of the animal (column I), with one characteristic (column II), and the phylum/class (column III) to which it belongs.",
+      "options": [
+        {
+          "key": "A",
+          "value": "<table class=\"tg\">\n  <tbody><tr>\n    <th class=\"tg-de48\">Column $${\\rm I}$$</th>\n    <th class=\"tg-de48\">Column $${\\rm I}$$$${\\rm I}$$</th>\n    <th class=\"tg-de48\">Column $${\\rm I}$$$${\\rm I}$$$${\\rm I}$$</th>\n  </tr>\n  <tr>\n    <td class=\"tg-wrg0\"><i>Limulus</i></td>\n    <td class=\"tg-wrg0\">Body covered by chitinous<br>exoskeleton</td>\n    <td class=\"tg-wrg0\">Pisces</td>\n  </tr>\n</tbody></table>"
+        },
+        {
+          "key": "B",
+          "value": "<table class=\"tg\">\n  <tbody><tr>\n    <th class=\"tg-de48\">Column $${\\rm I}$$</th>\n    <th class=\"tg-de48\">Column $${\\rm I}$$$${\\rm I}$$</th>\n    <th class=\"tg-de48\">Column $${\\rm I}$$$${\\rm I}$$$${\\rm I}$$</th>\n  </tr>\n  <tr>\n    <td class=\"tg-wrg0\"><i>Adamsia</i></td>\n    <td class=\"tg-wrg0\">Radially symmetrical<br></td>\n    <td class=\"tg-wrg0\">Porifera</td>\n  </tr>\n</tbody></table>"
+        },
+        {
+          "key": "C",
+          "value": "<table class=\"tg\">\n  <tbody><tr>\n    <th class=\"tg-de48\">Column $${\\rm I}$$</th>\n    <th class=\"tg-de48\">Column $${\\rm I}$$$${\\rm I}$$</th>\n    <th class=\"tg-de48\">Column $${\\rm I}$$$${\\rm I}$$$${\\rm I}$$</th>\n  </tr>\n  <tr>\n    <td class=\"tg-wrg0\"><i>Petronmyzon</i></td>\n    <td class=\"tg-wrg0\">Ectoparasite <br></td>\n    <td class=\"tg-wrg0\">Cyclostomata</td>\n  </tr>\n</tbody></table>"
+        },
+        {
+          "key": "D",
+          "value": "<table class=\"tg\">\n  <tbody><tr>\n    <th class=\"tg-de48\">Column $${\\rm I}$$$${\\rm I}$$</th>\n    <th class=\"tg-de48\">Column $${\\rm I}$$$${\\rm I}$$</th>\n    <th class=\"tg-de48\">Column $${\\rm I}$$$${\\rm I}$$$${\\rm I}$$</th>\n  </tr>\n  <tr>\n    <td class=\"tg-wrg0\"><i>Ichthyophis</i></td>\n    <td class=\"tg-wrg0\">Terrestrial<br></td>\n    <td class=\"tg-wrg0\">Reptilia</td>\n  </tr>\n</tbody></table>"
+        }
+      ],
+      "answer": "C",
+      "explanation": "Ichthyophis – Amphibian<br>\n Limulus – Arthropoda<br>\n Adamsia – Cnidaria<br>\n Petramyzon – Jawless\n vertebrate &amp;\nectoparasite,\ncyclostomate"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Which group of animals belong to the same phylum?",
+      "options": [
+        {
+          "key": "A",
+          "value": "Prawn, Scorpion, <i>Locusta</i>"
+        },
+        {
+          "key": "B",
+          "value": "Sponge, Sea anemone, Starfish"
+        },
+        {
+          "key": "C",
+          "value": "Malarial parasite, <i>Amoeba,</i> Mosquito"
+        },
+        {
+          "key": "D",
+          "value": "Earthworm, Pinworm, Tapeworm"
+        }
+      ],
+      "answer": "A",
+      "explanation": "Animals belonging to option (d) have\nearthworm an Annelida and Tapeworm a\nplatyhelminth. Option (b) have sponge of\nPhylum Porifera and Starfish of Phylum\nEchinodermata. Option (c) have malarial\nparasite a protozoan and Mosquito of phylum\nArthropoda."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Which one of the following categories of animals, is correctly described with no single exception in it? ",
+      "options": [
+        {
+          "key": "A",
+          "value": "All reptiles posses scales, have a three chambered heart and are cold blooded (poikilothermal). "
+        },
+        {
+          "key": "B",
+          "value": "All bony fishes have four pairs of gills and an operculum on each side. "
+        },
+        {
+          "key": "C",
+          "value": "All sponges are marine and have collared cells."
+        },
+        {
+          "key": "D",
+          "value": "All mammals are viviparous and possess diaphargm for breathing. "
+        }
+      ],
+      "answer": "B",
+      "explanation": "Heart is generally 3-chambered in reptiles\nbut in crocodile, it is 4-chambered. Sponges are\ngenerally marine and have collared cells but few fresh\nwater forms can also be seen like Spongilla. All\nmammals are viviparous (giving birth to young ones)\nwith an exception, Ornithorhynchus (platypus), which\nis oviparous (egg laying)."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Which one of the following pairs of animals are similar to each other pertaining to the feature stated against them?",
+      "options": [
+        {
+          "key": "A",
+          "value": "<table class=\"tg\">\n  <tbody><tr>\n    <th class=\"tg-c4o0\"><i>Pteropus</i> and<br><i>Ornithorhynchus</i></th>\n    <th class=\"tg-0lax\"></th>\n    <th class=\"tg-x1hj\">_</th>\n    <th class=\"tg-0lax\"></th>\n    <th class=\"tg-c4o0\">Viviparity</th>\n  </tr>\n</tbody></table>"
+        },
+        {
+          "key": "B",
+          "value": "<table class=\"tg\">\n  <tbody><tr>\n    <th class=\"tg-c4o0\">Garden lizard and<br>crocodile</th>\n    <th class=\"tg-0lax\"></th>\n    <th class=\"tg-x1hj\">_</th>\n    <th class=\"tg-0lax\"></th>\n    <th class=\"tg-c4o0\">Three chambered heart</th>\n  </tr>\n</tbody></table>"
+        },
+        {
+          "key": "C",
+          "value": "<table class=\"tg\">\n  <tbody><tr>\n    <th class=\"tg-c4o0\"><i>Ascaris</i> and <i>Ancylostoma</i></th>\n    <th class=\"tg-0lax\"></th>\n    <th class=\"tg-9d8n\">-</th>\n    <th class=\"tg-0lax\"></th>\n    <th class=\"tg-c4o0\">Metameric segmentation</th>\n  </tr>\n</tbody></table>"
+        },
+        {
+          "key": "D",
+          "value": "<table class=\"tg\">\n  <tbody><tr>\n    <th class=\"tg-c4o0\">Sea horse and flying fish</th>\n    <th class=\"tg-0lax\"></th>\n    <th class=\"tg-9d8n\">-</th>\n    <th class=\"tg-0lax\"></th>\n    <th class=\"tg-c4o0\">Cold blooded (poikilothermal)</th>\n  </tr>\n</tbody></table>"
+        }
+      ],
+      "answer": "D",
+      "explanation": "Sea horse and flying fish are cold blooded\nanimals. Ornithorhyncus is oviparous. Crocodile has four chambered heart. Ascaris and\nAncylostoma are segmented roundworms.\n"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<i>Pheretima</i> and its close relatives derive nourishment from",
+      "options": [
+        {
+          "key": "A",
+          "value": "sugarcane roots"
+        },
+        {
+          "key": "B",
+          "value": "decaying fallen leaves and soil organic matter"
+        },
+        {
+          "key": "C",
+          "value": "soil insects"
+        },
+        {
+          "key": "D",
+          "value": "small pieces of fresh fallen leaves of maize, etc."
+        }
+      ],
+      "answer": "B",
+      "explanation": "Earthworms are found in moist soil containing\nrich organic matter, on which they feed."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "In which one of the following, the genus name, its two characters and its phylum are not correctly matched, whereas the remaining three are correct? ",
+      "options": [
+        {
+          "key": "A",
+          "value": "<table class=\"tg\">\n  <tbody><tr>\n    <th class=\"tg-bhpp\">Genus name</th>\n    <th class=\"tg-bhpp\"></th>\n    <th class=\"tg-bhpp\">Two characters</th>\n    <th class=\"tg-bhpp\"></th>\n    <th class=\"tg-bhpp\">Class/Phylum</th>\n  </tr>\n  <tr>\n    <td class=\"tg-c4o0\"><i>Pila</i></td>\n    <td class=\"tg-x1hj\"></td>\n    <td class=\"tg-c4o0\">(a)&nbsp;&nbsp;Body segmented<br>(b)&nbsp;&nbsp;Mouth with radula</td>\n    <td class=\"tg-cyim\"></td>\n    <td class=\"tg-cyim\">Mollusca</td>\n  </tr>\n</tbody></table>"
+        },
+        {
+          "key": "B",
+          "value": "<table class=\"tg\">\n  <tbody><tr>\n    <th class=\"tg-bhpp\">Genus name</th>\n    <th class=\"tg-bhpp\"></th>\n    <th class=\"tg-bhpp\">Two characters</th>\n    <th class=\"tg-bhpp\"></th>\n    <th class=\"tg-bhpp\">Class/Phylum</th>\n  </tr>\n  <tr>\n    <td class=\"tg-c4o0\"><i>Asteria</i></td>\n    <td class=\"tg-x1hj\"></td>\n    <td class=\"tg-c4o0\">(a)&nbsp;&nbsp;Spiny Skinned<br>(b)&nbsp;&nbsp;Water vascular system</td>\n    <td class=\"tg-cyim\"></td>\n    <td class=\"tg-cyim\">Echinoermata</td>\n  </tr>\n</tbody></table>"
+        },
+        {
+          "key": "C",
+          "value": "<table class=\"tg\">\n  <tbody><tr>\n    <th class=\"tg-bhpp\">Genus name</th>\n    <th class=\"tg-bhpp\"></th>\n    <th class=\"tg-bhpp\">Two characters</th>\n    <th class=\"tg-bhpp\"></th>\n    <th class=\"tg-bhpp\">Class/Phylum</th>\n  </tr>\n  <tr>\n    <td class=\"tg-c4o0\"><i>Sycon</i></td>\n    <td class=\"tg-x1hj\"></td>\n    <td class=\"tg-c4o0\">(a)&nbsp;&nbsp;Pore bearing<br>(b)&nbsp;&nbsp;Canal system</td>\n    <td class=\"tg-cyim\"></td>\n    <td class=\"tg-cyim\">Porifera</td>\n  </tr>\n</tbody></table>"
+        },
+        {
+          "key": "D",
+          "value": "<table class=\"tg\">\n  <tbody><tr>\n    <th class=\"tg-bhpp\">Genus name</th>\n    <th class=\"tg-bhpp\"></th>\n    <th class=\"tg-bhpp\">Two characters</th>\n    <th class=\"tg-bhpp\"></th>\n    <th class=\"tg-bhpp\">Class/Phylum</th>\n  </tr>\n  <tr>\n    <td class=\"tg-c4o0\"><i>Periplaneta</i></td>\n    <td class=\"tg-x1hj\"></td>\n    <td class=\"tg-c4o0\">(a)&nbsp;&nbsp;Jointed appendages<br>(b)&nbsp;&nbsp;Chitinous exoskeleton</td>\n    <td class=\"tg-cyim\"></td>\n    <td class=\"tg-cyim\">Arthropoda</td>\n  </tr>\n</tbody></table>"
+        }
+      ],
+      "answer": "A",
+      "explanation": "Pila belongs to Phylum Mollusca. The body\nof molluscs (soft bodied animals) is unsegmented,\nwith a distinct head, muscular foot and visceral hump.\nRadula is found in mouth of Pila."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Ureters act as urinogenital ducts in ",
+      "options": [
+        {
+          "key": "A",
+          "value": "human males"
+        },
+        {
+          "key": "B",
+          "value": "human females"
+        },
+        {
+          "key": "C",
+          "value": "both male and female frogs"
+        },
+        {
+          "key": "D",
+          "value": "male frogs"
+        }
+      ],
+      "answer": "D",
+      "explanation": "In male frogs, two ureters act as urinogenital\nduct which open into the cloaca. They run backwards\nfrom the kidneys and open into the cloaca. In female\nureters carry urine alone, while in male both sperms\nand urine are carried. Hence, are called urinogenital\nducts."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Consider the following four statements (A$$-$$D) related to the common frog <i>Rana tigrina,</i> and select the correct option starting which ones are true (T) and which ones are false (F). Statements: \n<br>A.&nbsp;&nbsp;On dry land it would die due to lack of O<sub>2</sub> if its mouth is forcibly kept closed for a few days.\n<br>B.&nbsp;&nbsp;It has four-chambered heart.\n<br>C.&nbsp;&nbsp;On dry land it turns uricotelic from ureotelic.\n<br>D.&nbsp;&nbsp;Its life-history is carried out in pond water. ",
+      "options": [
+        {
+          "key": "A",
+          "value": "A-T,&nbsp;&nbsp;B-F,&nbsp;&nbsp;C-F,&nbsp;&nbsp;D-T"
+        },
+        {
+          "key": "B",
+          "value": "A-T,&nbsp;&nbsp;B-T,&nbsp;&nbsp;C-F,&nbsp;&nbsp;D-F"
+        },
+        {
+          "key": "C",
+          "value": "A-F,&nbsp;&nbsp;B-F,&nbsp;&nbsp;C-T,&nbsp;&nbsp;D-T"
+        },
+        {
+          "key": "D",
+          "value": "A-F,&nbsp;&nbsp;B-T,&nbsp;&nbsp;C-T,&nbsp;&nbsp;D-F"
+        }
+      ],
+      "answer": "A",
+      "explanation": "(A) Dry skin causes ceased cutaneous\nrespiration<br>\n (B) Three chambered heart.<br>\n (C) Frog never becomes uricotelic<br>\n (D) External fertilization occurs in water\n"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Which one of the following statements is totally wrong about the occurrence of notochord, while the other three are correct?",
+      "options": [
+        {
+          "key": "A",
+          "value": "It is present only in larval tail in ascidian. "
+        },
+        {
+          "key": "B",
+          "value": "It is replaced by a vertebral column in adult frog."
+        },
+        {
+          "key": "C",
+          "value": "It is absent throughout life in humans form the very beginning. "
+        },
+        {
+          "key": "D",
+          "value": "It is present throughout life in <i>Amphioxus. </i>"
+        }
+      ],
+      "answer": "C",
+      "explanation": "Notochord is present is the embryonic stage\nwhich is replaced by bony vertebral column."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Which one of the following groups of animals is correctly matched with its characteristic feature without any exception? ",
+      "options": [
+        {
+          "key": "A",
+          "value": "Reptilia : posses 3-chambeared heart with an incomplrtrly divided ventricle"
+        },
+        {
+          "key": "B",
+          "value": "Chordata : possess a mouth with an upper and a lower jaw"
+        },
+        {
+          "key": "C",
+          "value": "Chondrichthyes : possess cartilaginous endoskeleton"
+        },
+        {
+          "key": "D",
+          "value": "Mammalia : give birth to young ones"
+        }
+      ],
+      "answer": "C",
+      "explanation": "The group of animals that is correctly matched with its characteristic feature without any exception is:\n<br/><br/>\nOption C: Chondrichthyes - possess cartilaginous endoskeleton.\n<br/><br/>\nChondrichthyes are a class of fish that includes sharks, rays, and chimeras. They are characterized by their cartilaginous endoskeleton, which is made up of a tough, flexible tissue similar to the cartilage found in human ears and noses. Unlike other fish, they do not have bones in their skeletons.\n<br/><br/>\nOption A: Reptilia is incorrect because not all reptiles possess a 3-chambered heart with an incompletely divided ventricle. Some reptiles, such as crocodiles and alligators, have a 4-chambered heart that is similar to that of birds and mammals.\n<br/><br/>\nOption B: Chordata is incorrect because not all chordates possess a mouth with an upper and a lower jaw. Jawless fish, such as lampreys and hagfish, are also members of the chordate phylum.\n<br/><br/>\nOption D: Mammalia is incorrect because not all mammals give birth to live young. The platypus and echidna, both of which are mammals, lay eggs instead of giving birth to live young.\n<br/><br/>\nTherefore, the correct answer is Option C: Chondrichthyes - possess cartilaginous endoskeleton."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "What will you look for to identify the sex of the following?",
+      "options": [
+        {
+          "key": "A",
+          "value": "Female <i>Ascaris</i>-sharply curved posterior end"
+        },
+        {
+          "key": "B",
+          "value": "Male frog- a copulatory pad on the first digit of the hind limb"
+        },
+        {
+          "key": "C",
+          "value": "Female cockroach-anal cerci"
+        },
+        {
+          "key": "D",
+          "value": "Male shark-claspers brone on pelvic fins"
+        }
+      ],
+      "answer": "D",
+      "explanation": "A male shark possesses a pair of claspers\nwhich are inserted into a female shark’s cloaca\n(an opening on the underside of the body)\nat the time of mating. Claspers are located\non the inner edge of the pelvic fins near the\nmale’s cloaca. The function of claspers is to\nintroduce sperm into a female shark’s body\nfor the purpose of fertilizing her eggs. Female\nsharks do not have claspers."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "In which one of the following the genus name, its two characters and its class/phylun are correctly matched? ",
+      "options": [
+        {
+          "key": "A",
+          "value": "<table class=\"tg\">\n  <tbody><tr>\n    <th class=\"tg-bhpp\">Genus name</th>\n    <th class=\"tg-bhpp\"></th>\n    <th class=\"tg-bhpp\">Two characters</th>\n    <th class=\"tg-bhpp\"></th>\n    <th class=\"tg-bhpp\">Class/Phylum</th>\n  </tr>\n  <tr>\n    <td class=\"tg-c4o0\"><i>Ascaris</i></td>\n    <td class=\"tg-x1hj\"></td>\n    <td class=\"tg-c4o0\">(i)&nbsp;&nbsp;Body segmented<br>(ii)&nbsp;&nbsp;Males and feamales distinct</td>\n    <td class=\"tg-cyim\"></td>\n    <td class=\"tg-cyim\">Annelida</td>\n  </tr>\n</tbody></table>"
+        },
+        {
+          "key": "B",
+          "value": "<table class=\"tg\">\n  <tbody><tr>\n    <th class=\"tg-bhpp\">Genus name</th>\n    <th class=\"tg-bhpp\"></th>\n    <th class=\"tg-bhpp\">Two characters</th>\n    <th class=\"tg-bhpp\"></th>\n    <th class=\"tg-bhpp\">Class/Phylum</th>\n  </tr>\n  <tr>\n    <td class=\"tg-c4o0\"><i>Salamandra</i></td>\n    <td class=\"tg-x1hj\"></td>\n    <td class=\"tg-c4o0\">(i)  A tympanum represents ear<br>(ii) Fertilization is external</td>\n    <td class=\"tg-cyim\"></td>\n    <td class=\"tg-cyim\">Amphibia</td>\n  </tr>\n</tbody></table>"
+        },
+        {
+          "key": "C",
+          "value": "<table class=\"tg\">\n  <tbody><tr>\n    <th class=\"tg-bhpp\">Genus name</th>\n    <th class=\"tg-bhpp\"></th>\n    <th class=\"tg-bhpp\">Two characters</th>\n    <th class=\"tg-bhpp\"></th>\n    <th class=\"tg-bhpp\">Class/Phylum</th>\n  </tr>\n  <tr>\n    <td class=\"tg-c4o0\"><i>Pteropus</i></td>\n    <td class=\"tg-x1hj\"></td>\n    <td class=\"tg-c4o0\">(i)  Skin possessess<br>(ii)  Oviparous</td>\n    <td class=\"tg-cyim\"></td>\n    <td class=\"tg-cyim\">Mammalia</td>\n  </tr>\n</tbody></table>"
+        },
+        {
+          "key": "D",
+          "value": "<table class=\"tg\">\n  <tbody><tr>\n    <th class=\"tg-bhpp\">Genus name</th>\n    <th class=\"tg-bhpp\"></th>\n    <th class=\"tg-bhpp\">Two characters</th>\n    <th class=\"tg-bhpp\"></th>\n    <th class=\"tg-bhpp\">Class/Phylum</th>\n  </tr>\n  <tr>\n    <td class=\"tg-c4o0\"><i>Aurelia</i></td>\n    <td class=\"tg-x1hj\"></td>\n    <td class=\"tg-c4o0\">(i)  Cnidoblasts<br>(ii)  Organ level of organization</td>\n    <td class=\"tg-cyim\"></td>\n    <td class=\"tg-cyim\">Coelenterata</td>\n  </tr>\n</tbody></table>"
+        }
+      ],
+      "answer": "B",
+      "explanation": "Salamandra (salamander) is a member of class  amphibia. A tympanum represents the ear. Fertilization  is external. Pteropus is viviparous, Aurelia shows tissue level of organization and in ascaris, the body is  unsegmented."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Crocodile and penguin are similar to whale and dogfish in which one of the following features? ",
+      "options": [
+        {
+          "key": "A",
+          "value": "Possess a solid single stranded central nervous system"
+        },
+        {
+          "key": "B",
+          "value": "Lay eggs and guard them till they hatch "
+        },
+        {
+          "key": "C",
+          "value": "Possess bony skeleton"
+        },
+        {
+          "key": "D",
+          "value": "Have gill slits at some stage"
+        }
+      ],
+      "answer": "D",
+      "explanation": "Animals belonging to Phylum Chordata are\nfundamentally characterised by the presence of a\nnotochord, a dorsal hollow nerve cord and paired\npharyngeal gill slits. Crocodile, penguin, whale and\ndogfish are all chordates.<br><br> All of them have gill slits\nor have had it during embryonic development. Thus,\npaired gill slits are present in these animal at some\nstage of life.\n"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "In which one of the following organisms its excretory organs are correctly stated?",
+      "options": [
+        {
+          "key": "A",
+          "value": "Humans :- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kidneys, Sebaceous glands and tear glands"
+        },
+        {
+          "key": "B",
+          "value": "Earthworm :- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Pharyngeal, integumentary and septal nephridia"
+        },
+        {
+          "key": "C",
+          "value": "Cockroach :- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Malpighian tubules and enteric caeca"
+        },
+        {
+          "key": "D",
+          "value": "Frog :- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kidneys, skin and buccal epithelium"
+        }
+      ],
+      "answer": "B",
+      "explanation": "Nephridia is the excretory organ of the\nearthworm. Earthworms have three types of nephridial\nstructures called as septal, integumentary and\npharyngeal nephridia. These three nephridial\nstructures are present on different positions in the\nbody and also vary in structures. <br><br>Septal and\npharyngeal nephridia are both enteronephric i.e.,\nnitrogen products are expelled in gut. Integumentary\nnephridia is exonephric i.e., nitrogen waste products\nare directly discharged outside.\n"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Which one of the following statements about certain given animals is correct? ",
+      "options": [
+        {
+          "key": "A",
+          "value": "Roundworms (Aschelminthes) are pseudo-coelomates"
+        },
+        {
+          "key": "B",
+          "value": "Molluses are acoelomates"
+        },
+        {
+          "key": "C",
+          "value": "Inssect are pseudocoelomates"
+        },
+        {
+          "key": "D",
+          "value": "Flatworms (Platyhelminthes) are coelomates. "
+        }
+      ],
+      "answer": "A",
+      "explanation": "Acoelomates are animals having no body\ncavity or coelom. Examples are poriferans\ncoelenterates, ctenophora, platyhelminthes and\nnemertinea. In pseudocoelomates, body space is\npseudocoelom or false coelom. Examples are\nectoprocta, aschelminthes.<br><br> In coelomates, body space\nis a true coelom enclosed by mesoderm on both sides.\nRemaining phyla of bilateria, from annelida to\narthropoda are coelomates. Molluses and insects are\ncoelomates while flatworms are acoelomates.\n"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Which one of the following kinds of animals are triploblastic? ",
+      "options": [
+        {
+          "key": "A",
+          "value": "Flatworms"
+        },
+        {
+          "key": "B",
+          "value": "Sponges"
+        },
+        {
+          "key": "C",
+          "value": "Ctenophores "
+        },
+        {
+          "key": "D",
+          "value": "Corals"
+        }
+      ],
+      "answer": "A",
+      "explanation": "Triploblastic condition can be seen in flat\nworms. Ctenophores, sponges and corals are\ndiploblastic."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Which one of the following statements about all the four of <i>Spongilla, </i> leech, dolphin and penguin is correct? ",
+      "options": [
+        {
+          "key": "A",
+          "value": "Penguin is homoiothermic while the remaining three are poikilothermic. "
+        },
+        {
+          "key": "B",
+          "value": "Leech is a fresh water form while all others are marine. "
+        },
+        {
+          "key": "C",
+          "value": "<i>Spongilla</i> has special collared cells called choanocytes, not found in the remaining three. All arebilaterally symmetrical."
+        },
+        {
+          "key": "D",
+          "value": "All are bilaterally symmetrical."
+        }
+      ],
+      "answer": "C",
+      "explanation": "<i>Spongilla</i> is a common, widely distributed\nfresh water sponge belonging to phylum porifera.\nCanal system in <i>Spongilla</i> is essentially of rhagon\ntype with choanocytes restricted to small rounded\nchambers. It is not found in leech, dolphin and\npenguin.\n"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "One example of animals having a single opening to the outside that serves both as mouth as well as anus is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "<i>Octopus</i>"
+        },
+        {
+          "key": "B",
+          "value": "<i>Asterias</i>"
+        },
+        {
+          "key": "C",
+          "value": "<i>Ascidia</i>"
+        },
+        {
+          "key": "D",
+          "value": "<i>Fasciola.</i>"
+        }
+      ],
+      "answer": "D",
+      "explanation": "Fasciola, a flatworm has a single body\ncavity to the outside that serves both as\nmouth for ingestion and anus for egestion of\nundigested food. This is known as blind sac\nplan."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Which one of the following pairs of animals comprises 'jawless fishes'?",
+      "options": [
+        {
+          "key": "A",
+          "value": "Mackerals and rohu"
+        },
+        {
+          "key": "B",
+          "value": "Lampreys and hag fishes "
+        },
+        {
+          "key": "C",
+          "value": "Guppies and hag fishes "
+        },
+        {
+          "key": "D",
+          "value": "Lampreys and eels"
+        }
+      ],
+      "answer": "B",
+      "explanation": "Lampreys and hagfishes are unusual,\njawless fish that comprise the order\nCyclostomata, so named because of the\ncircular shape of the mouth. The brains of\nlampreys and hagfishes differ a lot, but they\nalso show a large number of similarities, as\ndo all craniate brains."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Which one of the following groups of animals is bilaterally symmetrical and triploblastic? ",
+      "options": [
+        {
+          "key": "A",
+          "value": "Aschelminthes (round worms)"
+        },
+        {
+          "key": "B",
+          "value": "Ctenophores"
+        },
+        {
+          "key": "C",
+          "value": "Sponges"
+        },
+        {
+          "key": "D",
+          "value": "Coelenterates (cnidarians)"
+        }
+      ],
+      "answer": "A",
+      "explanation": "Aschelminthes is bilaterally symmetrical\nand triploblastic. These are mostly aquatic,\nfree living or parasitic. Their body is three\nlayered which is ectoderm, mesoderm and\nendoderm."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "If a live earthworm is pricked with a needle on its outer surface without damaging its gut, the fluid that comes out is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "coelomic fluid "
+        },
+        {
+          "key": "B",
+          "value": "haemolymph"
+        },
+        {
+          "key": "C",
+          "value": "slimy mucus "
+        },
+        {
+          "key": "D",
+          "value": "excretory fluid. "
+        }
+      ],
+      "answer": "A",
+      "explanation": "Coelom or body cavity of earthworm is filled\nwith coelomic fluid. It lies between body wall and\nalimentary canal. So if a live earthworm is pricked\nwith a needle on its outer surface without damaging\nthe gut then only coelomic fluid will come out.\n"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Which one of the following in birds, indicates their reptilian ancestry? ",
+      "options": [
+        {
+          "key": "A",
+          "value": "Two special chambers crop and gizzard in their digestive tract"
+        },
+        {
+          "key": "B",
+          "value": "Eggs with a calcareous shell "
+        },
+        {
+          "key": "C",
+          "value": "Scales on their hind limbs"
+        },
+        {
+          "key": "D",
+          "value": "Four-chambered heart"
+        }
+      ],
+      "answer": "C",
+      "explanation": "Birds have originated from some ancestral\nreptilian stalk. These two classes have so many\nfeatures in common that link the two groups. The\nevidence of reptilian ancestry of birds is furnished\nby their comparative anatomy, embryology and\npalaeontology.<br><br> One of the features is that all birds\nhave horny epidermal scales confined to the lower\nparts of their legs and feet, which are exactly like the\nepidermal scales of the reptiles.\n"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Which one of the following is not a characteristic of Phylum Annelida?",
+      "options": [
+        {
+          "key": "A",
+          "value": "Pseudocoelom"
+        },
+        {
+          "key": "B",
+          "value": "Ventral nerve cord"
+        },
+        {
+          "key": "C",
+          "value": "Closed circulatory system"
+        },
+        {
+          "key": "D",
+          "value": "Segmentation"
+        }
+      ],
+      "answer": "A",
+      "explanation": "Phylum Annelida comprises invertebrates,\nwhich are segmented worms having cylindrical soft\nbodies showing metameric segmentation. These are\ntriploblastic animals showing bilateral symmetry. A\ntrue coelom is present which is filled with coelomic\nfluid containing cells. Annelids are perhaps the first\nanimals to have a true schizocoelic coelom.\n"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Which one of the following phyla is correctly matched with its two general characteristics? ",
+      "options": [
+        {
+          "key": "A",
+          "value": "echinodermata - pentamerous radial symmetry and mostly internal fertilization "
+        },
+        {
+          "key": "B",
+          "value": "Mollusca - normally oviparous and development through a trochophore or veliger larva "
+        },
+        {
+          "key": "C",
+          "value": "Arthropoda - body divided into head, thorax and abdomen and respiration by tracheae "
+        },
+        {
+          "key": "D",
+          "value": "Chordata - notochord at some stage and separate anal and urinary openings to the outside. "
+        }
+      ],
+      "answer": "C",
+      "explanation": "Mollusca mostly oviparous and a few\nviviparous. The development may be direct\nor indirect with trochophore, velliger and\nglochidium."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Which one of the following pairs of items correctly belongs to the category of organs mentioned against it? ",
+      "options": [
+        {
+          "key": "A",
+          "value": "Nephridia of earthworm and Malpighian tubules of cockroach - excretory organs "
+        },
+        {
+          "key": "B",
+          "value": "wings of honey bee and wings of crow homologous organs"
+        },
+        {
+          "key": "C",
+          "value": "Thorn of <i>Bougainvillea</i> and tendrils of <i>Cucurbita</i> - analogous organs "
+        },
+        {
+          "key": "D",
+          "value": "Nictitating membrane and blind spot in human eye  - vestigial organs"
+        }
+      ],
+      "answer": "A",
+      "explanation": "Nephridia of earthworm and malphigian\ntubules of cockroach belongs to excretory\norgans. Earthworm has a well developed\nexcretory system which is composed of large\nnumber of minute, coiled and glandular\nsegmentally arranged excretory tubules\ncalled the nephridia. Malphigian tubules\nof cockroach are extremely fine yellowish\nunbranched thread like structure present at\nthe function of midgut and hindgut."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Which one of the following groups of three animals each is correctly matched with their one characteristic morphological feature? ",
+      "options": [
+        {
+          "key": "A",
+          "value": "<table class=\"tg\">\n  <tbody><tr>\n    <th class=\"tg-7hap\">Animals</th>\n    <th class=\"tg-7hap\"></th>\n    <th class=\"tg-7hap\">Morphological features</th>\n  </tr>\n  <tr>\n    <td class=\"tg-wwri\">Scorpion, spider,</td>\n    <td class=\"tg-eqm3\"></td>\n    <td class=\"tg-wwri\">ventral solid central cockroach<br>nervous system</td>\n  </tr>\n</tbody></table>"
+        },
+        {
+          "key": "B",
+          "value": "<table class=\"tg\">\n  <tbody><tr>\n    <th class=\"tg-7hap\">Animals</th>\n    <th class=\"tg-7hap\"></th>\n    <th class=\"tg-7hap\">Morphological features</th>\n  </tr>\n  <tr>\n    <td class=\"tg-wwri\">Cockroach, locust,<br><i>Taenia</i></td>\n    <td class=\"tg-eqm3\"></td>\n    <td class=\"tg-wwri\">metameric segmentation</td>\n  </tr>\n</tbody></table>"
+        },
+        {
+          "key": "C",
+          "value": "<table class=\"tg\">\n  <tbody><tr>\n    <th class=\"tg-7hap\">Animals</th>\n    <th class=\"tg-7hap\"></th>\n    <th class=\"tg-7hap\">Morphological features</th>\n  </tr>\n  <tr>\n    <td class=\"tg-wwri\">Liver fluke, sea anemone, <br>sea cucumber</td>\n    <td class=\"tg-eqm3\"></td>\n    <td class=\"tg-wwri\">bilateral symmetry</td>\n  </tr>\n</tbody></table>"
+        },
+        {
+          "key": "D",
+          "value": "<table class=\"tg\">\n  <tbody><tr>\n    <th class=\"tg-7hap\">Animals</th>\n    <th class=\"tg-7hap\"></th>\n    <th class=\"tg-7hap\">Morphological features</th>\n  </tr>\n  <tr>\n    <td class=\"tg-wwri\">Centipede, prawn, sea<br>urchin</td>\n    <td class=\"tg-eqm3\"></td>\n    <td class=\"tg-wwri\">jointed appendages</td>\n  </tr>\n</tbody></table>"
+        }
+      ],
+      "answer": "A",
+      "explanation": "Scorpion, spider and cockroach belong to\nPhylum Arthropoda and are invertebrates. They\npossess ventral solid central nervous system which\nconsists of a dorsal brain connected with a nerve ring\nto a double ventral nerve cord."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<i>Ascaris</i> is characterized by ",
+      "options": [
+        {
+          "key": "A",
+          "value": "presence of true coelom but absence of metamerism"
+        },
+        {
+          "key": "B",
+          "value": "presence of true coelom and metamerism (metamerisation)"
+        },
+        {
+          "key": "C",
+          "value": "absence of true coelom but presence of metamerism"
+        },
+        {
+          "key": "D",
+          "value": "presence of neither true coelom nor metamerism."
+        }
+      ],
+      "answer": "D",
+      "explanation": "Ascaris is a common parasite found in\nthe large intestine of man. It is world wide\nin distribution. The number of worms may\nbe 500 or more in a single host. Ascaris is\ncharacterised by presence of neither true\ncoelom nor metamerism."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "What is common between parrot, platypus and kangaroo?",
+      "options": [
+        {
+          "key": "A",
+          "value": "Toothless Jaws"
+        },
+        {
+          "key": "B",
+          "value": "Functional post-anal tail"
+        },
+        {
+          "key": "C",
+          "value": "Ovoparity"
+        },
+        {
+          "key": "D",
+          "value": "Homoiothermy"
+        }
+      ],
+      "answer": "D",
+      "explanation": "Homoiothermy is the maintenance by an\nanimal in which body temperature remains constant\nand does not change with the change of environmental\ntemperature. Homoiothermy occurs in birds and\nmammals, which are described as endotherms. <br><br>The\nheat produced by their tissue metabolism and the heat\nlost to the environment are balanced by various means\nto keep body temperature constant: 36-38ºC in\nmammals and 38-40ºC in birds. The hypothalamus\nin the brain monitors blood temperature and controls\nthermoregulation by both nervous and hormonal\nmeans. Thus parrot (bird) and platypus and kangaroo\n(mammals) are homoiothermic animals.\n"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "What is true about <i>Nereis,</i> scorpion, cockroach and silver fish?",
+      "options": [
+        {
+          "key": "A",
+          "value": "They all possess dorsal heart."
+        },
+        {
+          "key": "B",
+          "value": "None of them is aquatic. "
+        },
+        {
+          "key": "C",
+          "value": "They all belong to the same phylum."
+        },
+        {
+          "key": "D",
+          "value": "They all have jointed paired appendages. "
+        }
+      ],
+      "answer": "A",
+      "explanation": "Nereis (belonging to class polychaeta of\nphylum Annelida), scorpion and cockroach\n(belonging to phylum arthropoda) and silver\nfish all have dorsal heart.\n"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Which of the following pairs are correctly matched?\n<br><style type=\"text/css\">\n.tg  {border-collapse:collapse;border-spacing:0;border:none;}\n.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;}\n.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;}\n.tg .tg-pjk9{font-size:22px;text-align:left}\n.tg .tg-cyim{font-size:22px;text-align:left;vertical-align:top}\n</style>\n<table class=\"tg\">\n  <tbody><tr>\n    <th class=\"tg-pjk9\"></th>\n    <th class=\"tg-pjk9\">Animals</th>\n    <th class=\"tg-pjk9\"></th>\n    <th class=\"tg-cyim\">Morphological features</th>\n  </tr>\n  <tr>\n    <td class=\"tg-pjk9\">(i)</td>\n    <td class=\"tg-pjk9\">Crocodile</td>\n    <td class=\"tg-pjk9\">-</td>\n    <td class=\"tg-cyim\">4-chambered heart</td>\n  </tr>\n  <tr>\n    <td class=\"tg-cyim\">(ii)</td>\n    <td class=\"tg-cyim\">Sea urchin</td>\n    <td class=\"tg-cyim\">-</td>\n    <td class=\"tg-cyim\">Parapodia</td>\n  </tr>\n  <tr>\n    <td class=\"tg-cyim\">(iii)</td>\n    <td class=\"tg-cyim\"><i>Obelia</i></td>\n    <td class=\"tg-cyim\">-</td>\n    <td class=\"tg-cyim\">Metagenesis</td>\n  </tr>\n  <tr>\n    <td class=\"tg-cyim\">(iv)</td>\n    <td class=\"tg-cyim\">Lemur</td>\n    <td class=\"tg-cyim\">-</td>\n    <td class=\"tg-cyim\">Thecodont</td>\n  </tr>\n</tbody></table>",
+      "options": [
+        {
+          "key": "A",
+          "value": "(ii), (iii) and (iv)"
+        },
+        {
+          "key": "B",
+          "value": "only (i) and (iv)"
+        },
+        {
+          "key": "C",
+          "value": "only (i) and (ii)"
+        },
+        {
+          "key": "D",
+          "value": "(i), (iii) and (iv)"
+        }
+      ],
+      "answer": "D",
+      "explanation": "Crocodile belongs to class reptilia which\nhas four chambered heart. Lemur teeth are\nembedded in the sockets of two which is\nknown as thecodont."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Which one of the following is a matching pair of body feature and the animal possessing it?",
+      "options": [
+        {
+          "key": "A",
+          "value": "Ventral central nervous system &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;Leech"
+        },
+        {
+          "key": "B",
+          "value": "Pharyngeal gill slits absent in embryo&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;Chamaeleon"
+        },
+        {
+          "key": "C",
+          "value": "Ventral heat&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;Scorpion"
+        },
+        {
+          "key": "D",
+          "value": "Post-anal tail&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;Octopus"
+        }
+      ],
+      "answer": "A",
+      "explanation": "Leech has ventral central nervous\nsystem which consists of nerve ring, and a\nsolid, double, mid ventral nerve cord with\nganglia."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "In which one of the following sets of animals do all the four give birth to young ones? ",
+      "options": [
+        {
+          "key": "A",
+          "value": "Kangaroo, hedgehog, dolphin, Loris "
+        },
+        {
+          "key": "B",
+          "value": "Lion, bat, whale, ostrich"
+        },
+        {
+          "key": "C",
+          "value": "<i>Platypus,</i> penguin, bat, hippopotamus"
+        },
+        {
+          "key": "D",
+          "value": "shrew, bat, cat, kiwi"
+        }
+      ],
+      "answer": "A",
+      "explanation": "Kangaroo, hedgehog, dolphin and Loris are\nmammals and thus give brith to young ones. Ostrich\nand kiwi are brids that lay eggs. Platypus is a most\nprimitive living mammal that lays eggs. Other animals\nin the options are mammals and give birth to young\nones.\n"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Two common characters found in centipede, cockroach, and crab are ",
+      "options": [
+        {
+          "key": "A",
+          "value": "book lungs and antennae"
+        },
+        {
+          "key": "B",
+          "value": "compound eyes and anal cerci"
+        },
+        {
+          "key": "C",
+          "value": "jointed legs and chitinous exoskeleton"
+        },
+        {
+          "key": "D",
+          "value": "green gland and tracheae."
+        }
+      ],
+      "answer": "C",
+      "explanation": "Jointed legs &amp; chitinous exoskeleton are\nthe common characters found in centipede,\ncockroach &amp; crab."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Biradial symmetry and lack of cnidoblasts are the characteristic of ",
+      "options": [
+        {
+          "key": "A",
+          "value": "<i>Hydra</i> and starfish"
+        },
+        {
+          "key": "B",
+          "value": "starfish and sea anemone"
+        },
+        {
+          "key": "C",
+          "value": "<i>Ctenoplana </i> and <i>Beroe</i>"
+        },
+        {
+          "key": "D",
+          "value": "<i>Aurelia</i> and <i>Paramecium</i>."
+        }
+      ],
+      "answer": "C",
+      "explanation": "Ctenophora is a small phylum of exclusively\nmarine, invertebrate animals. Ctenoplana and Beroe\nare examples of ctenophora. They have biradial\nsymmetry (a combination of radial and bilateral\nsymmetries).<br><br>\nThey lack the specialized stinging cells (nematocysts)\nfound in coelenterates, but one species (Haeckelia\nrubra) incorporates those of its jellyfish prey for its\nown defense.\n"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Which one of the following is not a living fossil?",
+      "options": [
+        {
+          "key": "A",
+          "value": "<i>Peripatus</i>"
+        },
+        {
+          "key": "B",
+          "value": "King crab"
+        },
+        {
+          "key": "C",
+          "value": "<i>Sphenodon</i>"
+        },
+        {
+          "key": "D",
+          "value": "<i>Archaeopteryx</i>"
+        }
+      ],
+      "answer": "D",
+      "explanation": "Archaeopteryx is a fossile (dead) found\nfrom the mesozoic rocks. It is a connecting\nlink between reptiles and birds."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Annual migration does not occur in the case of ",
+      "options": [
+        {
+          "key": "A",
+          "value": "arctic term"
+        },
+        {
+          "key": "B",
+          "value": "salmon"
+        },
+        {
+          "key": "C",
+          "value": "siberian crene "
+        },
+        {
+          "key": "D",
+          "value": "salamander"
+        }
+      ],
+      "answer": "D",
+      "explanation": "Salamander does not undergo any annual\nmigration as it occurs in Siberian crane, Arctic\ntern and Salmon mainly for the search of food\nor for breeding."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Which one of the following is a matching set of a phylum and its three examples? ",
+      "options": [
+        {
+          "key": "A",
+          "value": "Porifera &nbsp;&nbsp;-&nbsp;&nbsp;<i>Spongilla, Euplectella, Pennatula</i>"
+        },
+        {
+          "key": "B",
+          "value": "Cnidaria&nbsp;&nbsp;-&nbsp;&nbsp;<i>Bonellia, Physalia, Aurelia</i>"
+        },
+        {
+          "key": "C",
+          "value": "Platyhelminthes&nbsp;&nbsp;-&nbsp;&nbsp;<i>Planaria, Schistosoma, Enterobius</i>"
+        },
+        {
+          "key": "D",
+          "value": "Mollusca&nbsp;&nbsp;-&nbsp;&nbsp;<i>Loligo, Teredo, Octopus</i>"
+        }
+      ],
+      "answer": "D",
+      "explanation": "Mollusca includes those animals which have\nsoft bodies, usually furnished with a shell. The body\nis often divided into a head, with eyes or tentacles, a\nmuscular foot and a visceral mass housing the organs.\nLoligo (squid or sea arrow), Teredo (shipworm),\nOctopus are some of their examples.<br><br>\nIn option (a) Spongilla and Euplectella belong to\nporifera but Pennatula (the sea pen or sea feather)\nbelongs to coelenterata. In option (b) Physalia and\nAurelia belong to cnidaria but Bonellia belongs to\nPhylum Annelida. In option (c) Planaria and\nSchistosoma belong to platyhelminthes but\nEnterobius (Pinworm) belongs to aschelminthes."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Metameric segmentation is the characteristic of ",
+      "options": [
+        {
+          "key": "A",
+          "value": "mollusca and chordata"
+        },
+        {
+          "key": "B",
+          "value": "platyhelminthes and arthropoda"
+        },
+        {
+          "key": "C",
+          "value": "echinodermata and annelida"
+        },
+        {
+          "key": "D",
+          "value": "annelida and arthropoda."
+        }
+      ],
+      "answer": "D",
+      "explanation": "Metameric segmentation means body is\ndivided externally as well as internally. This\ncharacteristic is present in annelida (eg. earth\nworm) and arthropoda (eg. cockroach). Their\nbody is divided externally and internally as\nwell."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "What is common about <i>Trypanosoma, Noctiluca, Monocystis </i> and <i>Giardia</i>?",
+      "options": [
+        {
+          "key": "A",
+          "value": "These are all parasities. "
+        },
+        {
+          "key": "B",
+          "value": "These are all unicellular protists."
+        },
+        {
+          "key": "C",
+          "value": "They have flagella."
+        },
+        {
+          "key": "D",
+          "value": "They produce spores."
+        }
+      ],
+      "answer": "B",
+      "explanation": "Trypanosoma, Noctiluca, Monocystis &amp;\nGiardia are unicellular protists i.e. unicellular\neukaryotes."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Which one of the following characters is not typical of the class mammalia?",
+      "options": [
+        {
+          "key": "A",
+          "value": "Thecodont dentition"
+        },
+        {
+          "key": "B",
+          "value": "Alveolar lungs"
+        },
+        {
+          "key": "C",
+          "value": "Ten pairs of cranial nerves"
+        },
+        {
+          "key": "D",
+          "value": "Seven cervical vertebrae"
+        }
+      ],
+      "answer": "C",
+      "explanation": "Mammals have twelve pair of cranial nerves.\nTen pairs of cranial nerves are present in fish and\namphibians. Reptiles and birds also have 12 pairs of\ncranial nerves."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The world's highly prized wool yielding\n'Pashmina' breed is -",
+      "options": [
+        {
+          "key": "A",
+          "value": "Sheep"
+        },
+        {
+          "key": "B",
+          "value": "Goat-sheep cross "
+        },
+        {
+          "key": "C",
+          "value": "Kashmir sheep-Afghan sheep cross"
+        },
+        {
+          "key": "D",
+          "value": "Goat"
+        }
+      ],
+      "answer": "D",
+      "explanation": "The world’s highly prized wool yielding\nPashmina breed is the under fur of Kashmiri\nand Tibetan goats.<br>\nPashmina is an almost generic name for\naccessories made from a type of mohair\nthat is obtained from a special breed of goat\nindigenous to high altitudes of the Himalayan\nRange Belt of Asia.<br>\nThe name comes from Pashmineh, made from\nPersian pashm (= “wool”). The special goat’s\nfleece has been used for thousands of years to\nmake high-quality shawls that also bear the\nsame name."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Which of the following unicellular  organisms has a macronucleus for trophic function and one or more micronuclei for reproduction?",
+      "options": [
+        {
+          "key": "A",
+          "value": "<i>Euglena</i>"
+        },
+        {
+          "key": "B",
+          "value": "<i>Amoeba</i>"
+        },
+        {
+          "key": "C",
+          "value": "<i>Paramecium</i>"
+        },
+        {
+          "key": "D",
+          "value": "<i>Trypanosoma</i>"
+        }
+      ],
+      "answer": "C",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "From the following statements select the wrong one",
+      "options": [
+        {
+          "key": "A",
+          "value": "Prawn has two pairs of antennae."
+        },
+        {
+          "key": "B",
+          "value": "Nematocysts are characteristics of the phylum cnidaria."
+        },
+        {
+          "key": "C",
+          "value": "Millepedes have two pairs of appendages in each segment of the body. "
+        },
+        {
+          "key": "D",
+          "value": "Animals belonging to phylum  porifera are marine and frsh water. "
+        }
+      ],
+      "answer": "A",
+      "explanation": "Animals belonging to Phylum Porifera\nare mostly marine except a few which are\nfound in fresh water- e.g. Spongilla, Euspongia."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "In contrast to annelids the platyhelminthes show ",
+      "options": [
+        {
+          "key": "A",
+          "value": "absence of body cavity"
+        },
+        {
+          "key": "B",
+          "value": "bilateral symmetry"
+        },
+        {
+          "key": "C",
+          "value": "radial symmetry"
+        },
+        {
+          "key": "D",
+          "value": "presence of pseudocoel."
+        }
+      ],
+      "answer": "A",
+      "explanation": "Platyhelminthes do not have body cavity so\nthey are acoelomates. In annelids, the body cavity is\ntrue and schizocoelous. Both annelids and\nplatyhelminthes have bilateral symmetry.\n"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "In Arthropoda, hend and thorax are often used to form cephalothorax, but in which one of the following classes, is the body divided into head thorax and abdomen? ",
+      "options": [
+        {
+          "key": "A",
+          "value": "Insecta"
+        },
+        {
+          "key": "B",
+          "value": "Myriapoda"
+        },
+        {
+          "key": "C",
+          "value": "Crustacea"
+        },
+        {
+          "key": "D",
+          "value": "Arachnida and curstacea"
+        }
+      ],
+      "answer": "A",
+      "explanation": "Body in arthropoda is segmented. Segments\nare grouped into 3 forms - head, thorax and abdomen.\nWhen head and thorax are fused then they are referred to as cephalothorax. Class Insecta of Phylum\nArthropoda have body divided into head, thorax and\nabdomen."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The animals with bilateral symmetry in young stage, and radial pentamerous symmetry in the adult stage, belong to the Phylum",
+      "options": [
+        {
+          "key": "A",
+          "value": "Annelida"
+        },
+        {
+          "key": "B",
+          "value": "Mollusca"
+        },
+        {
+          "key": "C",
+          "value": "Cnidaria"
+        },
+        {
+          "key": "D",
+          "value": "Echinodermata."
+        }
+      ],
+      "answer": "D",
+      "explanation": "Echinoderms show bilateral symmetry\nin their larval stage and pentamerous radial\nsymmetry in the adult stage. Annelids are\nbilaterally symmetrical, coelenterates show radial symmetry. Molluscs are also bilaterally\nsymmetrical."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Presence of gills in the tadpole of frog indicates that",
+      "options": [
+        {
+          "key": "A",
+          "value": "fish were amphibious in the past"
+        },
+        {
+          "key": "B",
+          "value": "fish evolved from frog-like ancestors"
+        },
+        {
+          "key": "C",
+          "value": "frog will have gills in future"
+        },
+        {
+          "key": "D",
+          "value": "frog evolved from gilled ancestors."
+        }
+      ],
+      "answer": "D",
+      "explanation": "It is universally accepted that amphibians\n(frogs) have originated from fishes. Resemblance of\namphibia to fish is seen in most systems of the body.\nBoth are cold blooded. Fish respire by gills and also\ntadpole of frog respires by gills. To prevent dessication\nin air, both usually lay eggs in water.\n"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Uricotelism is found in ",
+      "options": [
+        {
+          "key": "A",
+          "value": "mammals and birds"
+        },
+        {
+          "key": "B",
+          "value": "fish and fresh water protozoans"
+        },
+        {
+          "key": "C",
+          "value": "birds,  land reptiles and insects"
+        },
+        {
+          "key": "D",
+          "value": "frogs and toads."
+        }
+      ],
+      "answer": "C",
+      "explanation": "In uricotelic animals nitrogenous waste\nis eliminated in the form of uric acid. Ammonotelism is seen in aquatic animals wherein\nnitrogenous wastes is eliminated in the form\nof ammonia eg. Fishes, tadpole. Ureotelism\nis observed in human beings in which nitogenous waste is eliminated as urea."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "When a fresh-water protozoan possessing a contractile vacuole, is placed in a glass containing marrine water, the vacuole will ",
+      "options": [
+        {
+          "key": "A",
+          "value": "increase in number"
+        },
+        {
+          "key": "B",
+          "value": "disappear"
+        },
+        {
+          "key": "C",
+          "value": "increase in size"
+        },
+        {
+          "key": "D",
+          "value": "decrease in size"
+        }
+      ],
+      "answer": "D",
+      "explanation": "A fresh water protozoan when placed\nin marine water medium, loss of water takes\nplace i.e., exosmosis. Hence the contractile\nvacuole will decrease in size."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "One of the following is a very unique feature of the mammalian body",
+      "options": [
+        {
+          "key": "A",
+          "value": "homeothermy"
+        },
+        {
+          "key": "B",
+          "value": "presence of diaphragm"
+        },
+        {
+          "key": "C",
+          "value": "four chambered heart"
+        },
+        {
+          "key": "D",
+          "value": "rib cage."
+        }
+      ],
+      "answer": "B",
+      "explanation": "The unique feature of mammals is the\npresence of diaphragm. It is a membrane that separates\nthoracic cavity from abdominal cavity. The cavity of\nother animals is not divided into thoracic and\nabdominal cavities. Homeothermy, four chambered\nheart and rib cage are the characters of mammals as\nwell as some other animals also."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<i>Sycon</i> belongs to a group of animals, which are best described as",
+      "options": [
+        {
+          "key": "A",
+          "value": "unicellular or acellular "
+        },
+        {
+          "key": "B",
+          "value": "multicellular without any tissue organization"
+        },
+        {
+          "key": "C",
+          "value": "multicellular with a gastrovascular system "
+        },
+        {
+          "key": "D",
+          "value": "multicellular having tissue organization, but no body cavity."
+        }
+      ],
+      "answer": "B",
+      "explanation": "Sponges show cellular grade of organization. They do not have tissue system. Sycon is\na sponge."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Bartholin's glands are situated",
+      "options": [
+        {
+          "key": "A",
+          "value": "on the sides of the head of some amphibians"
+        },
+        {
+          "key": "B",
+          "value": "at the reduced tail end of birds"
+        },
+        {
+          "key": "C",
+          "value": "on either side of vagina in humans"
+        },
+        {
+          "key": "D",
+          "value": "on either side of vas deferens in humans."
+        }
+      ],
+      "answer": "C",
+      "explanation": "Bartholin’s glands are situated on either side\nof vagina in human females. These glands secrete a\nfluid that lubricates the vulva during copulation."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "During the life-cycle, <i>Fasciola hepatica</i> (liver fluke) infects its intermediate host and primary host at the following larval stages respectively",
+      "options": [
+        {
+          "key": "A",
+          "value": "redia and miracidium"
+        },
+        {
+          "key": "B",
+          "value": "cercaria and redia "
+        },
+        {
+          "key": "C",
+          "value": "metacercaria and cercaria"
+        },
+        {
+          "key": "D",
+          "value": "miracidium and metacercaria"
+        }
+      ],
+      "answer": "D",
+      "explanation": "<p>The correct option is <b>Option D</b>, which states that <i>Fasciola hepatica</i> (liver fluke) infects its intermediate host and primary host at the larval stages of <b>miracidium</b> and <b>metacercaria</b> respectively. Here&#39;s a brief overview of the life cycle of <i>Fasciola hepatica</i> to explain why:</p>\n\n<p>\n1. <b>Miracidium:</b> The life cycle begins when eggs released into the environment from an infected primary host (typically a sheep or a cow) hatch into miracidia upon contact with water. The miracidium is equipped to infect the intermediate host, which is a specific type of freshwater snail.\n</p>\n\n<p>\n2. <b>Redia &amp; Cercaria:</b> Inside the snail, the miracidium undergoes several developmental stages, initially transforming into sporocysts, then into rediae, and finally into cercariae. The redia stage is particularly noteworthy because within the snail, it will produce several generations, which increase the number of cercariae produced. The cercariae are then released from the snail into the water.\n</p>\n\n<p>\n3. <b>Metacercaria:</b> Once free-swimming, the cercariae encyst as metacercariae on aquatic vegetation or other surfaces. This encysted stage is infectious to the primary host. When the primary host ingests these metacercariae-laden plants or water, the life cycle progresses.\n</p>\n\n<p>\n4. <b>Adult:</b> Inside the primary host&#39;s intestines, the metacercariae excyst and migrate to the liver, where they mature into adult flukes, completing the cycle.\n</p>\n\n<p>\nTherefore, the miracidium phase targets the intermediate snail host, initiating internal development, while the metacercaria phase represents the stage at which <i>Fasciola hepatica</i> is capable of infecting the primary host, marking the transition from external to internal parasitism in the latter.\n</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Systemic heart refers to ",
+      "options": [
+        {
+          "key": "A",
+          "value": "the heart that contracts under stimulation from nervous system "
+        },
+        {
+          "key": "B",
+          "value": "left auricle and left ventricle in higher vertebrates"
+        },
+        {
+          "key": "C",
+          "value": "entire heart in lower vertebrates "
+        },
+        {
+          "key": "D",
+          "value": "the two ventricles together in humans. "
+        }
+      ],
+      "answer": "C",
+      "explanation": "Systemic heart refers to the entire heart of\nlower vertebrates. This heart pumps blood to body\nparts and not the lungs."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The chief advantage of encystment of an <i>Amoeba</i> is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "the ability to survive during adverse physical conditions"
+        },
+        {
+          "key": "B",
+          "value": "the ability to live for some time without ingesting food"
+        },
+        {
+          "key": "C",
+          "value": "protection from parasites and predators"
+        },
+        {
+          "key": "D",
+          "value": "the chance to get rid of accumulated waste products."
+        }
+      ],
+      "answer": "A",
+      "explanation": "Amoeba forms a cyst and reproduces by\nmultiple fission, during adverse environmental\nconditions. The animal secretes a three-layered,\nprotective, chitinous cyst around it and becomes\ninactive. Inside the cyst, the nucleus repeatedly\ndivides to form several daughter nuclei, which arrange\nthemselves near the periphery. Each daughter nucleus\nbecomes enveloped by a small amount of cytoplasm, thus forming a daughter Amoeba, called amoebula or\npseudopodiospore. <br><br>When favourable conditions\narrive, the cyst breaks off liberating the young\npseudopodiospores, each with fine pseudopodia. They\nfeed and grow rapidly to become adults and lead an\nindependent life.\n"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Ommatidia serve the purpose of photoreception in ",
+      "options": [
+        {
+          "key": "A",
+          "value": "cockroach"
+        },
+        {
+          "key": "B",
+          "value": "frog"
+        },
+        {
+          "key": "C",
+          "value": "humans"
+        },
+        {
+          "key": "D",
+          "value": "sunflower."
+        }
+      ],
+      "answer": "A",
+      "explanation": "In cockroach, the compound eyes are a pair\nof large, black, kidney-shaped organs situated\ndorsolaterally on the head, one on either side. Their\nsurface is marked by a large number of hexagonal\nareas, the facets. Each facet represents a visual unit\nnamed ommatidium. The eyes are the organs of sight\n(photoreception).\n"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Which one of the following is a  matching pair of an animal and a certain phenomenon it exhibits? ",
+      "options": [
+        {
+          "key": "A",
+          "value": "<i>Pheretima</i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;$$-$$&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sexual dimorphism"
+        },
+        {
+          "key": "B",
+          "value": "<i>Musca</i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;$$-$$&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Complete metamorphosis"
+        },
+        {
+          "key": "C",
+          "value": "<i>Chameleon</i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;$$-$$&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mimicry "
+        },
+        {
+          "key": "D",
+          "value": "<i>Taenia</i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;$$-$$&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Polymorphism"
+        }
+      ],
+      "answer": "B",
+      "explanation": "Obelia exhibits polymorphism. Round\nworm (Ascaris) exhibits sexual dimorphism.\nPheretima is a hermaphrodite and Chameleon\nshows camouflage."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Given below are four matchings of an animal and its kind of respiratory organ : \n<br>(A)&nbsp;&nbsp;Silver fish&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;$$-$$&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Trachea\n<br>(B)&nbsp;&nbsp;Scorpion&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;$$-$$&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Book lung\n<br>(C)&nbsp;&nbsp;Sea squirt&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;$$-$$&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Pharyngeal slits\n<br>(D)&nbsp;&nbsp;Dolphin&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;$$-$$&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Skin\n<br>The correct matchings are ",
+      "options": [
+        {
+          "key": "A",
+          "value": "(A) and (B) "
+        },
+        {
+          "key": "B",
+          "value": "(A), (B) and (C)"
+        },
+        {
+          "key": "C",
+          "value": "(B) and (D)"
+        },
+        {
+          "key": "D",
+          "value": "(C) and (D)."
+        }
+      ],
+      "answer": "B",
+      "explanation": "Silver fish is an insect in which respiration\noccurs by tracheae. These communicate with the\nexterior by paired apertures, called spiracles.\nRespiratory system of scorpion consists of 4 pairs of\nbook lungs that communicate with the outer air\nthrough stigma. In sea squirt, respiration occurs\nthrough pharyngeal slits. In dolphin, respiration\noccurs by lungs.\n"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "In which of the following animals nerve cell is present but brain is absent? ",
+      "options": [
+        {
+          "key": "A",
+          "value": "sponge"
+        },
+        {
+          "key": "B",
+          "value": "Earthworm"
+        },
+        {
+          "key": "C",
+          "value": "Cockroach"
+        },
+        {
+          "key": "D",
+          "value": "<i>Hydra</i>"
+        }
+      ],
+      "answer": "D",
+      "explanation": "Hydra which belongs to the Phylum\nCoelenterata has nerve cells but no brain. Its nervous\nsystem consists of nerve cells and their processes.\nSensory cells are also present. Sponges do not have\nnerve cells, they lack nervous system. <br><br>Earthworm\n(annelida) has nervous system consisting of a\ncircumenteric nerve ring and a solid, double,\nmidventral nerve cord with ganglia. Cockroach\n(arthropoda) has the nervous system as that of\nearthworm.\n"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "In which of the following animals dimorphic nucleus is found? ",
+      "options": [
+        {
+          "key": "A",
+          "value": "<i>Amoeba proteus</i>"
+        },
+        {
+          "key": "B",
+          "value": "<i>Trypanosoma gambiense</i>"
+        },
+        {
+          "key": "C",
+          "value": "<i>Plasmodium vivax</i>"
+        },
+        {
+          "key": "D",
+          "value": "<i>Paramecium caudatum</i>"
+        }
+      ],
+      "answer": "D",
+      "explanation": "Dimorphic nucleus means two types of\nnuclei are present in P. caudatum – large\nmacronucleus and small micronucleus. The\nmacronucleus is roughly kidney-shaped and with\ninconspicuous nuclear membrane. Macronucleus is\nthe somatic or vegetative nucleus and controls the\nday-to-day metabolic activities of the cell. The\nmicronucleusis lodged in a depression on the surface\nof the macronucleus.<br><br> It is usually spherical, with a\nnuclear membrane and with diploid number of\nchromosomes. It controls the reproductive activities\nof the organism. Amoeba, Trypanosoma and\nPlasmodium have only one nucleus.\n"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "In protozoa like <i>Amoeba</i> and <i>Paramecium, </i> the organ for osmoregulation is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "contractile vacuole"
+        },
+        {
+          "key": "B",
+          "value": "mitochondria"
+        },
+        {
+          "key": "C",
+          "value": "nucleus"
+        },
+        {
+          "key": "D",
+          "value": "food vacuole."
+        }
+      ],
+      "answer": "A",
+      "explanation": "The function of contractile vacuole is\nosmoregulatory. Water in freshwater protozoa enters\nthe organism by endosmosis and during feeding. If\nthe organism does not possess a mechanism to get\nrid of this excess water, it will swell to the point of\nrupture and dissolution. The mechanism which is\nassumed to effect water regulation is the contractile\nvacuole. The vacuole periodically increases in volume\n(diastole) to get filled with water and contracts\n(systole) to discharge its water content to the\nsurrounding environment."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "In which of the following, notochord is present in embryonic stage?",
+      "options": [
+        {
+          "key": "A",
+          "value": "All chordates"
+        },
+        {
+          "key": "B",
+          "value": "Some chordates"
+        },
+        {
+          "key": "C",
+          "value": "Vertebrates "
+        },
+        {
+          "key": "D",
+          "value": "Non chordates"
+        }
+      ],
+      "answer": "A",
+      "explanation": "Presence of notochord in any stage of the\nlife cycle is a major chordate characteristic."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "In <i>Hydra,</i> waste material of food digestion and nitrogenous waste material are removed respectively from",
+      "options": [
+        {
+          "key": "A",
+          "value": "mouth and mouth"
+        },
+        {
+          "key": "B",
+          "value": "body wall and body wall"
+        },
+        {
+          "key": "C",
+          "value": "mouth and body wall"
+        },
+        {
+          "key": "D",
+          "value": "mouth and tentacles."
+        }
+      ],
+      "answer": "C",
+      "explanation": "Hydra being a coelenterate, has blind\nsac body plan. It has only one mouth which\nserves as the opening for ingestion and waste\nelimination besides diffusion across body\nwall. "
+    },
+    {
+      "_type": "single_mcq",
+      "body": "In which of the following animals post anal tail is found?",
+      "options": [
+        {
+          "key": "A",
+          "value": "Earthworm"
+        },
+        {
+          "key": "B",
+          "value": "Lower invertebrates"
+        },
+        {
+          "key": "C",
+          "value": "Scorpion"
+        },
+        {
+          "key": "D",
+          "value": "Snake"
+        }
+      ],
+      "answer": "D",
+      "explanation": "Snakes are limbless reptiles with elongated\ncylindrical body, covered with overlapping scales\ndifferentiated into shields and plates and have post\nanal tail which is long.\n"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "In which of the following animals, haemocyanin pigment is found?",
+      "options": [
+        {
+          "key": "A",
+          "value": "Annelida"
+        },
+        {
+          "key": "B",
+          "value": "Echinodermata"
+        },
+        {
+          "key": "C",
+          "value": "Insecta"
+        },
+        {
+          "key": "D",
+          "value": "Mollusca"
+        }
+      ],
+      "answer": "D",
+      "explanation": "Haemocyanin is the pigment carrying O<sub>2</sub>\nin molluscs. Annelids have erythrocruosin.\n"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "What is true for mammalia? ",
+      "options": [
+        {
+          "key": "A",
+          "value": "<i>Platypus</i> is oviparous."
+        },
+        {
+          "key": "B",
+          "value": "Bats have feather."
+        },
+        {
+          "key": "C",
+          "value": "Elephant is ovoviviparous."
+        },
+        {
+          "key": "D",
+          "value": "Diaphragm is absent in them."
+        }
+      ],
+      "answer": "A",
+      "explanation": "Mammals are viviparous i.e., they give birth\nto young ones. Protherians (e.g., Platypus) are\nprimitive mammals and lay eggs, so they are\noviparous."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Which of the following characters is absent in all chordates?",
+      "options": [
+        {
+          "key": "A",
+          "value": "Diaphragam"
+        },
+        {
+          "key": "B",
+          "value": "Coelom"
+        },
+        {
+          "key": "C",
+          "value": "Pharyngeal gill clefts"
+        },
+        {
+          "key": "D",
+          "value": "Dorsal nerve cord"
+        }
+      ],
+      "answer": "A",
+      "explanation": "Diaphragm is a membrane that separates\nthoracic cavity from abdominal cavity. It is present\nonly in mammals. All other chordates do not have\ndiaphragm as their body cavity is not divided into\nthoracic and abdominal cavities. <br><br>Chordates are\ncoelomate animals having a true coelom, entercoelic\nand shizocoelic in origin. Pharyngeal gill slits are\npresent at some stage, may or may not be functional.\nNerve cord is dorsal and tubular.\n"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "What happens if bone of frog is kept in dilute hydrochloric acid?",
+      "options": [
+        {
+          "key": "A",
+          "value": "Will become flexible"
+        },
+        {
+          "key": "B",
+          "value": "Will turn black"
+        },
+        {
+          "key": "C",
+          "value": "will break into pieces"
+        },
+        {
+          "key": "D",
+          "value": "Will shrink"
+        }
+      ],
+      "answer": "A",
+      "explanation": "Main component of bone is collagen which is a complex combination of amino acids. When frog’s bone is treated with HCl, these compounds are broken down and the bone becomes flexible.\n"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Similarly in <i>Ascaris lumbricoides </i> and <i>Anopheles stephensi</i> is",
+      "options": [
+        {
+          "key": "A",
+          "value": "sexual dimorphism"
+        },
+        {
+          "key": "B",
+          "value": "metamerism"
+        },
+        {
+          "key": "C",
+          "value": "anaerobic respiration"
+        },
+        {
+          "key": "D",
+          "value": "endoparasitism."
+        }
+      ],
+      "answer": "A",
+      "explanation": "Sexual dimorphism is the difference in the\nform of individuals of different sexes but of same\nspecies. Sexes in Ascaris are separate and sexual\ndimorphism is well defined. Males are smaller than\nfemales. They possess a recurved tail with pre and\npost anal papillae, a cloaca and a pair of spicules or\npenial setae. In Anopheles, the ends of maxillary palps\nin males are club-shaped while in females they are\nnot.\n"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Which of the following animals have scattered cells with cell - tissue grade organisation?",
+      "options": [
+        {
+          "key": "A",
+          "value": "Sponge"
+        },
+        {
+          "key": "B",
+          "value": "<i>Hydra</i>"
+        },
+        {
+          "key": "C",
+          "value": "Liver fluke"
+        },
+        {
+          "key": "D",
+          "value": "<i>Ascaris</i>"
+        }
+      ],
+      "answer": "B",
+      "explanation": "Hydra, has tissue level of organization. Its\nbody is multicellular and the cells occur in 2 distinct\nlayers or tissues of specialized cells. Sponges have\ncellular level of organization. Liver fluke and Ascaris\nhave organ-system level of organization.\n"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Cleavage in mammals is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "holoblastic equal"
+        },
+        {
+          "key": "B",
+          "value": "holoblastic unequal"
+        },
+        {
+          "key": "C",
+          "value": "superficial"
+        },
+        {
+          "key": "D",
+          "value": "discoidal."
+        }
+      ],
+      "answer": "B",
+      "explanation": "Cleavage in mammals is holoblastic\nunequal. Mammals have microlecithal eggs so they\nhave holoblastic cleavage in which the segmentation\nlines pass through the entire egg, dividing it\ncompletely. As the eggs are microlecithal so one\nwould expect that first cleavage will produce two\nequal blastomeres. But, this is not the case.<br><br> The two\nblastomeres produced are unequal which divide\nfurther to form 4 unequal blastomeres and this process\ncontinues to form a ball of cells called morula.\nSuperficial cleavage occurs in insects and discoidal\ncleavage occurs in birds.\n"
+    }
+  ]
+}

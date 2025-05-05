@@ -1,0 +1,175 @@
+{
+  "_index": {
+    "name": "Nuclear Chemistry"
+  },
+  "_children": [
+    {
+      "_type": "single_mcq",
+      "body": "<p>The half life of a first order reaction is 2000 years. If the concentration after 8000 years is 0.02 M, then the initial concentration was :</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "0.04 M"
+        },
+        {
+          "key": "B",
+          "value": "0.16 M"
+        },
+        {
+          "key": "C",
+          "value": "0.32 M"
+        },
+        {
+          "key": "D",
+          "value": "0.08 M"
+        }
+      ],
+      "answer": "C",
+      "explanation": "<p>Let the initial concentration is A molar.</p>\n<p>Number of half lives in 8000 years $$ = {{8000} \\over {2000}} = 4$$</p>\n<p>$$0.02 = {{[A]} \\over {{{(2)}^4}}}$$</p>\n<p>$$[A] = 0.02 \\times {2^4} = 0.32$$ M</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A nuclide of an alkaline earth metal undergoes radioactive decay by emission of the periodic table to which the resulting daughter element would belong is",
+      "options": [
+        {
+          "key": "A",
+          "value": "Gr.13"
+        },
+        {
+          "key": "B",
+          "value": "Gr. 17"
+        },
+        {
+          "key": "C",
+          "value": "Gr. 14"
+        },
+        {
+          "key": "D",
+          "value": "Gr. 16"
+        }
+      ],
+      "answer": "C",
+      "explanation": "When IIA group element (Ra) emits one $$\\alpha $$-particle its group no. decreases by two unit. i.e., go into zero group (Gr. 16) But as it is radioactive thus due to successive emission last product is Pb i.e., (Gr.14). "
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The radioactive isotope $${}_{27}^{60}$$Co which is used in the treatment of cancer can be made by (n.p) reaction. For this reaction the tarfet nucleus is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$_{28}^{59}$$ Ni"
+        },
+        {
+          "key": "B",
+          "value": "$$_{27}^{59}$$ Co"
+        },
+        {
+          "key": "C",
+          "value": "$$_{28}^{60}$$ Ni"
+        },
+        {
+          "key": "D",
+          "value": "$$_{27}^{60}$$ Co"
+        }
+      ],
+      "answer": "C",
+      "explanation": "$$_{28}^{60}$$ Ni + $$_{0}^{1}$$ n $$ \\to $$ $${}_{27}^{60}$$Co + $$_{1}^{1}$$ n"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The radioistope, tritium ($${}_1^3$$H) has a half-life of 12.3 years. If the initial amount of tritium is 32 mg, how many milligrams of it would remain after 49.2 years? ",
+      "options": [
+        {
+          "key": "A",
+          "value": "1 mg"
+        },
+        {
+          "key": "B",
+          "value": "2 mg"
+        },
+        {
+          "key": "C",
+          "value": "4 mg"
+        },
+        {
+          "key": "D",
+          "value": "8 mg"
+        }
+      ],
+      "answer": "B",
+      "explanation": "Given t<sub>1/2</sub> = 12.3 years \n<br><br>Initial amount (N<sub>0</sub>) = 32 mg \n<br><br>Total time = 49.2 years\n<br><br>No. of half lives(n) = $${T \\over {{t_{1/2}}}} = {{49.2} \\over {12.3}} = 4$$\n<br><br>N = N<sub>0</sub>$${\\left( {{1 \\over 2}} \\right)^n}$$ = $$32{\\left( {{1 \\over 2}} \\right)^4}$$ = 2 mg"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "$${}_{92}^{235}$$U, nucleus absorbs a neutron and distintegrate in $${}_{54}^{139}$$Xe,  $${}_{38}^{94}$$Sr  and  $$x$$ so, what will be product $$x$$? ",
+      "options": [
+        {
+          "key": "A",
+          "value": "3-neutrons"
+        },
+        {
+          "key": "B",
+          "value": "2-neutrons"
+        },
+        {
+          "key": "C",
+          "value": "$$\\alpha $$-particle"
+        },
+        {
+          "key": "D",
+          "value": "$$\\beta $$-particle"
+        }
+      ],
+      "answer": "A",
+      "explanation": "$${}_{92}^{235}$$U + $${}_{0}^{1}$$ n $$ \\to $$ $${}_{54}^{139}$$Xe + $${}_{38}^{94}$$Sr + 3$${}_{0}^{1}$$ n"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A human body required 0.01 m activity of radioactive substance after 24 hours. Half life of radioactive substance is 6 hours. Then inhection of maximum activity of radioactive substance that can be injected is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "0.08"
+        },
+        {
+          "key": "B",
+          "value": "0.04"
+        },
+        {
+          "key": "C",
+          "value": "0.16"
+        },
+        {
+          "key": "D",
+          "value": "0.32"
+        }
+      ],
+      "answer": "C",
+      "explanation": "At the end of 24 hrs. activity = 0.01 M\n<br><br>Half life = 6 hrs.\n<br><br> In 24 hrs. there are 24/6 = 4 half life.\n<br><br>Activity of substance after n half-life = $${A \\over {{2^n}}}$$\n<br><br>$$ \\therefore $$ $${A \\over {{2^4}}} = 0.01$$\n<br><br>$$ \\Rightarrow $$ A = 0.16"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A 300 grams radioactive sample at initial half life is 3 hours. After 18 hours remaining quantity ",
+      "options": [
+        {
+          "key": "A",
+          "value": "4.68 gram"
+        },
+        {
+          "key": "B",
+          "value": "2.34 gram"
+        },
+        {
+          "key": "C",
+          "value": "3.34 gram"
+        },
+        {
+          "key": "D",
+          "value": "9.37 gram"
+        }
+      ],
+      "answer": "A",
+      "explanation": "No. of half life’s gone = $${{18} \\over 3}$$ = 6\n<br><br>N<sub>0</sub> = 300 g\n<br><br>N<sub>t</sub> = N<sub>0</sub> $$ \\times $$ $${\\left( {{1 \\over 2}} \\right)^n}$$\n<br><br>= $$300 \\times {\\left( {{1 \\over 2}} \\right)^6}$$\n<br><br>= $$300 \\times {1 \\over {64}} = 4.68\\,g$$"
+    }
+  ]
+}

@@ -1,0 +1,511 @@
+{
+  "_index": {
+    "name": "Capacitor"
+  },
+  "_children": [
+    {
+      "_type": "single_mcq",
+      "body": "<p>A $$12 \\mathrm{~pF}$$ capacitor is connected to a $$50 \\mathrm{~V}$$ battery, the electrostatic energy stored in the capacitor in $$\\mathrm{nJ}$$ is</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "15"
+        },
+        {
+          "key": "B",
+          "value": "7.5"
+        },
+        {
+          "key": "C",
+          "value": "0.3"
+        },
+        {
+          "key": "D",
+          "value": "150"
+        }
+      ],
+      "answer": "A",
+      "explanation": "<p>The electrostatic energy stored in a capacitor can be calculated using the formula:</p>\n\n<p>\n\n<p>$$ U = \\frac{1}{2} C V^2 $$</p>\n\n</p>\n\n<p>Where:</p>\n\n<ul>\n\n<li>$$ U $$ is the stored energy in joules (J)</li>\n\n<li>$$ C $$ is the capacitance in farads (F)</li>\n\n<li>$$ V $$ is the voltage in volts (V)</li>\n\n</ul>\n\n<p>Given:</p>\n\n<ul>\n\n<li>$$ C = 12 \\mathrm{~pF} $$ (which is $$ 12 \\times 10^{-12} $$ F)</li>\n\n<li>$$ V = 50 \\mathrm{~V} $$</li>\n\n</ul>\n\n<p>Substitute the values into the formula:</p>\n\n<p>\n\n<p>$$ U = \\frac{1}{2} \\times 12 \\times 10^{-12} \\times (50)^2 $$</p>\n\n</p>\n\n<p>Calculate the values inside the parentheses first:</p>\n\n<p>\n\n<p>$$ 50^2 = 2500 $$</p>\n\n</p>\n\n<p>Now substitute this back into the equation:</p>\n\n<p>\n\n<p>$$ U = \\frac{1}{2} \\times 12 \\times 10^{-12} \\times 2500 $$</p>\n\n</p>\n\n<p>Perform the multiplication:</p>\n\n<p>\n\n<p>$$ U = \\frac{1}{2} \\times 30000 \\times 10^{-12} $$</p>\n\n</p>\n\n<p>Which simplifies to:</p>\n\n<p>\n\n<p>$$ U = 15000 \\times 10^{-12} $$</p>\n\n</p>\n\n<p>Convert this to nanojoules (nJ) by recognizing that $$ 1 \\mathrm{~nJ} = 10^{-9} \\mathrm{~J} $$:</p>\n\n<p>\n\n<p>$$ U = 15 \\mathrm{~nJ} $$</p>\n\n</p>\n\n<p>Thus, the electrostatic energy stored in the capacitor is:</p>\n\n<p><strong>Option A: 15 nJ</strong></p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>The capacitance of a capacitor with charge $$q$$ and a potential difference $$V$$ depends on</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "both $$q$$ and $$V$$\n"
+        },
+        {
+          "key": "B",
+          "value": "the geometry of the capacitor\n\n"
+        },
+        {
+          "key": "C",
+          "value": "$$q$$ only"
+        },
+        {
+          "key": "D",
+          "value": "$$V$$ only"
+        }
+      ],
+      "answer": "B",
+      "explanation": "<p>The correct answer is <strong>Option B: the geometry of the capacitor</strong>. Here's why:</p>\n\n<p>Capacitance (denoted by *C*) is a fundamental property of a capacitor that describes its ability to store electrical energy. It's defined by the ratio of the charge stored on the capacitor (<em>q</em>) to the potential difference across its plates (<em>V</em>):</p>\n\n<p> $$C = \\frac{q}{V}$$</p>\n\n<p>While the formula seems to suggest that capacitance depends on both charge and voltage, the reality is that the geometry of the capacitor determines its capacitance. Here's a breakdown:</p>\n\n<ul>\n\n<li><b>Charge (<em>q</em>)</b>: The charge stored on a capacitor is directly proportional to the applied voltage. If you increase the voltage, you increase the charge stored. However, the capacitance itself remains constant for a given capacitor.</li>\n\n<br/><li><b>Voltage (<em>V</em>)</b>: Similarly, the voltage across a capacitor is directly proportional to the charge stored. Increasing the charge increases the voltage, but again, the capacitance remains unchanged.</li>\n\n<br/><li><b>Geometry</b>: The geometry of a capacitor dictates how much electric field is created between its plates for a given charge. This electric field determines the potential difference between the plates. Here are some key factors:\n\n<ul>\n\n<br/><li><b>Area of plates (A)</b>: Larger plates can hold more charge for a given voltage, resulting in higher capacitance.</li>\n\n<br/><li><b>Distance between plates (d)</b>: Smaller distances between plates create a stronger electric field, which leads to higher capacitance.</li>\n\n<br/><li><b>Dielectric material</b>: The material between the plates (dielectric) affects the strength of the electric field and therefore the capacitance. A material with a higher dielectric constant increases the capacitance.</li>\n\n</ul>\n\n</li>\n\n</ul>\n\n<p>In summary, while charge and voltage are related to capacitance through the formula, they are not the determining factors. It's the capacitor's physical characteristics – its geometry – that ultimately determine its capacitance.</p>\n\n<p></p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>If the plates of a parallel plate capacitor connected to a battery are moved close to each other, then</p>\n<p>A. the charge stored in it, increases.</p>\n<p>B. the energy stored in it, decreases.</p>\n<p>C. its capacitance increases.</p>\n<p>D. the ratio of charge to its potential remains the same.</p>\n<p>E. the product of charge and voltage increases.</p>\n<p>Choose the most appropriate answer from the options given below:</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "A, B and E only\n"
+        },
+        {
+          "key": "B",
+          "value": "A, C and E only\n"
+        },
+        {
+          "key": "C",
+          "value": "B, D and E only\n"
+        },
+        {
+          "key": "D",
+          "value": "A, B and C only"
+        }
+      ],
+      "answer": "B",
+      "explanation": "<p>Given $$V^{\\prime}=V=$$ Constant</p>\n<p>$$\\begin{aligned}\n\\text{(i)}\\quad & C^{\\prime}=\\frac{\\varepsilon_0 A}{d^{\\prime}}, C=\\frac{\\varepsilon_0 A}{d} \\\\\n& d^{\\prime}< d \\\\\n& C^{\\prime}> C\n\\end{aligned}$$</p>\n<p>Hence, final capacitance greater than initial capacitance,</p>\n<p>$$\n\\begin{aligned}\n\\text { (ii) } \\quad U^{\\prime} & =\\frac{1}{2} C^{\\prime} V^2 \\\\\nU & =\\frac{1}{2} C V^2 \\\\\nU^{\\prime} & >U\n\\end{aligned}\n$$</p>\n<p>Hence final energy is greater than initial energy</p>\n<p>$$\n\\begin{aligned}\n\\text { (iii) }\\quad \\frac{Q^{\\prime}}{V^{\\prime}} & =C^{\\prime} \\text { and } \\frac{Q}{V}=C \\\\\n\\frac{Q^{\\prime}}{V^{\\prime}} & \\neq \\frac{Q}{V}\n\\end{aligned}$$</p>\n<p>(iv) Product of charge and voltage</p>\n<p>$$\\begin{aligned}\n& X^{\\prime}=Q^{\\prime} V=C^{\\prime} V^2 \\\\\n& X=Q V=C V^2 \\\\\n& X^{\\prime}>X\n\\end{aligned}$$</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>To produce an instantaneous displacement current of $$2 \\mathrm{~mA}$$ in the space between the parallel plates of a capacitor of capacitance $$4 ~\\mu \\mathrm{F}$$, the rate of change of applied variable potential difference $$\\left(\\frac{\\mathrm{dV}}{\\mathrm{dt}}\\right)$$ must be :-</p>\n\n",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$800 \\mathrm{~V} / \\mathrm{s}$$\n"
+        },
+        {
+          "key": "B",
+          "value": "$$500 \\mathrm{~V} / \\mathrm{s}$$\n"
+        },
+        {
+          "key": "C",
+          "value": "$$200 \\mathrm{~V} / \\mathrm{s}$$\n"
+        },
+        {
+          "key": "D",
+          "value": "$$400 \\mathrm{~V} / \\mathrm{s}$$\n"
+        }
+      ],
+      "answer": "B",
+      "explanation": "<p>$$\n\\begin{aligned}\n& \\mathrm{Q}=\\mathrm{CV} \\\\\\\\\n& \\begin{aligned}\n\\frac{\\mathrm{dQ}}{\\mathrm{dt}}=\\mathrm{C} \\cdot \\frac{\\mathrm{dV}}{\\mathrm{dt}} \\Rightarrow \\frac{\\mathrm{dV}}{\\mathrm{dt}} & =\\frac{\\mathrm{I}}{\\mathrm{C}}=\\frac{2 \\times 10^{-3}}{4 \\times 10^{-6}} \\\\\n& =\\frac{10^3}{2}=500 \\frac{\\mathrm{V}}{\\mathrm{s}}\n\\end{aligned}\n\\end{aligned}\n$$</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>The distance between the two plates of a parallel plate capacitor is doubled and the area of each plate is halved. If C is its initial capacitance, its final capacitance is equal to</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "$${C \\over 4}$$"
+        },
+        {
+          "key": "B",
+          "value": "2C"
+        },
+        {
+          "key": "C",
+          "value": "$${C \\over 2}$$"
+        },
+        {
+          "key": "D",
+          "value": "4C"
+        }
+      ],
+      "answer": "A",
+      "explanation": "<p>For a capacitor of area A and distance between the plates as d, the capacitance (C) is</p>\n<p>$$C = {{A{ \\in _0}} \\over d}$$</p>\n<p>On doubling the distance and reducing area to half</p>\n<p>$${C_1} = {{{A \\over 2}{ \\in _0}} \\over {2d}}$$</p>\n<p>$$ \\Rightarrow {C_1} = {{A{ \\in _0}} \\over {4d}}$$</p>\n<p>$$ \\Rightarrow {C_1} = {C \\over 4}$$</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>The effective capacitances of two capacitors are 3 $$\\mu$$F and 16 $$\\mu$$F, when they are connected in series and parallel respectively. The capacitance of two capacitors are :</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "1.2 $$\\mu$$F, 1.8 $$\\mu$$F"
+        },
+        {
+          "key": "B",
+          "value": "10 $$\\mu$$F, 6 $$\\mu$$F"
+        },
+        {
+          "key": "C",
+          "value": "8 $$\\mu$$F, 8 $$\\mu$$F"
+        },
+        {
+          "key": "D",
+          "value": "12 $$\\mu$$F, 4 $$\\mu$$F"
+        }
+      ],
+      "answer": "D",
+      "explanation": "<p>Here, $${1 \\over {{C_1}}} + {1 \\over {{C_2}}} = {1 \\over 3}$$ (Series combination)</p>\n<p>While, $${C_1} + {C_2} = 16$$ (Parallel combination)</p>\n<p>Solving the above equations we get</p>\n<p>$${C_1} = 12\\,\\mu F$$ and $${C_2} = 4\\,\\mu F$$</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A parallel plate capacitor has a uniform electric field $$\\overrightarrow E $$ in the space between the plates. If the distance between the plates is 'd' and the area of each plate is 'A', the energy stored in the capacitor is : ($$\\varepsilon $$<sub>0</sub> = permittivity of free space)",
+      "options": [
+        {
+          "key": "A",
+          "value": "$${{{E^2}Ad} \\over {{\\varepsilon _0}}}$$"
+        },
+        {
+          "key": "B",
+          "value": "$${1 \\over 2}{\\varepsilon _0}{E^2}$$"
+        },
+        {
+          "key": "C",
+          "value": "$${\\varepsilon _0}EAd$$"
+        },
+        {
+          "key": "D",
+          "value": "$${1 \\over 2}{\\varepsilon _0}{E^2}Ad$$"
+        }
+      ],
+      "answer": "D",
+      "explanation": "Energy = Energy density $$\\times$$ volume<br><br>= $${1 \\over 2}{\\varepsilon _0}{E^2}Ad$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The capacitance of a parallel plate capacitor with air as medium is 6$$\\mu $$F. With the introduction of a dielectric medium, the capacitance become 30 $$\\mu $$F The permittivity of the medium is :<br>$$\\left( {{\\varepsilon _0} = 8.85 \\times {{10}^{ - 12}}{C^2}{N^{ - 1}}{m^{ - 2}}} \\right)$$\n",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$1.77 \\times {10^{ - 12}}{C^2}{N^{ - 1}}{m^{ - 2}}$$\n"
+        },
+        {
+          "key": "B",
+          "value": "$$0.44 \\times {10^{ - 10}}{C^2}{N^{ - 1}}{m^{ - 2}}$$\n"
+        },
+        {
+          "key": "C",
+          "value": "$$5.00{C^2}{N^{ - 1}}{m^{ - 2}}$$\n"
+        },
+        {
+          "key": "D",
+          "value": "$$0.44 \\times {10^{ - 13}}{C^2}{N^{ - 1}}{m^{ - 2}}$$\n"
+        }
+      ],
+      "answer": "B",
+      "explanation": "The capacitance increases with dielectric constant K<br><br>$$C = K{C_0}$$<br><br>(or)$$K = {C \\over {{C_0}}} = {{30} \\over 6} = 5$$<br><br>$$\\varepsilon  = K{\\varepsilon _0} = $$$$5 \\times 8.85 \\times {10^{ - 12}} =$$<br><br>$$ 0.44 \\times {10^{ - 10}}$$\n\n"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A parallel plate capacitor  of capacitance 20 $$\\mu $$F is being charged by a voltage source whose potential is changing at the rate of 3V/s. The conduction current through the connecting wires, and the displacement current through the plates of the capacitor, would be, respectively : ",
+      "options": [
+        {
+          "key": "A",
+          "value": "zero, zero"
+        },
+        {
+          "key": "B",
+          "value": "zero, 60 $$\\mu $$A"
+        },
+        {
+          "key": "C",
+          "value": "60 $$\\mu $$A, 60 $$\\mu $$A"
+        },
+        {
+          "key": "D",
+          "value": "60 $$\\mu $$A, zero"
+        }
+      ],
+      "answer": "C",
+      "explanation": "As, q = CV\n<br><br>Differentiating above equation w.r.t. t, we get\n<br><br>$${{dq} \\over {dt}} = C{{dV} \\over {dt}}$$\n<br><br>$$ \\Rightarrow $$ i<sub>c</sub> = $$C{{dV} \\over {dt}}$$ [As i = $${{dq} \\over {dt}}$$]\n<br><br>= 20 $$ \\times $$ 10<sup>-6</sup> $$ \\times $$ 3\n<br><br>= 60 $$ \\times $$ 10<sup>-6</sup> A = 60$$\\mu $$A\n<br><br>Also, conduction current in wires is equal to displacement current between the plates of capacitor.\n<br><br>$$ \\therefore $$  i<sub>d</sub> = i<sub>c</sub> = 60 $$\\mu $$A"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The electrostatic force between the metal plates\nof an isolated parallel plate capacitor C having\na charge Q and area A, is",
+      "options": [
+        {
+          "key": "A",
+          "value": "Independent of the distance between the\nplates"
+        },
+        {
+          "key": "B",
+          "value": "Linearly proportional to the distance\nbetween the plates"
+        },
+        {
+          "key": "C",
+          "value": "Proportional to the square root of the\ndistance between the plates"
+        },
+        {
+          "key": "D",
+          "value": "Inversely proportional to the distance\nbetween the plates"
+        }
+      ],
+      "answer": "A",
+      "explanation": "In an isolated capacitor Q is constant, so an\nelectrostatic force between metal plates is given as:\n<br><br>F = QE = Q $$ \\times $$ $${\\sigma  \\over {2{\\varepsilon _0}}}$$ = $${{{Q^2}} \\over {2A{\\varepsilon _0}}}$$ [$$ \\because $$ $$\\sigma  = {Q \\over {A}}$$]\n<br><br>F is independent of the distance between plates."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A parallel plate air capacitor has capacity C, distance of separation between plates is d and potential difference $$V$$ is applied between the plates. Force of attraction between the plates of the parallel plate air capacitor is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$${{C{V^2}} \\over d}$$"
+        },
+        {
+          "key": "B",
+          "value": "$${{{C^2}{V^2}} \\over {2{d^2}}}$$"
+        },
+        {
+          "key": "C",
+          "value": "$${{{C^2}{V^2}} \\over {2d}}$$"
+        },
+        {
+          "key": "D",
+          "value": "$${{C{V^2}} \\over {2d}}$$"
+        }
+      ],
+      "answer": "D",
+      "explanation": "Force of attraction between the plates, F = qE<br><br>\n$$ = q \\times {\\sigma  \\over {2{ \\in _0}}} = q{q \\over {2A{ \\in _0}}}$$<br><br>\n$$ = {{{q^2}} \\over {2\\left( {{{{ \\in _0}A} \\over d}} \\right) \\times d}} = {{{C^2}{V^2}} \\over {2cd}} = {{C{V^2}} \\over {2d}}$$<br><br>\nHere, $$C = {{{ \\in _0}A} \\over d}$$, $$q = CV$$, A = area"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A parallel plate capacitor has a uniform electric field E in the space between the plates. If the distance between the plates is d and area of each plate is A, the energy stored in the capacitor is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$${1 \\over 2}{\\varepsilon _0}{E^2}$$"
+        },
+        {
+          "key": "B",
+          "value": "$${{{E^2}Ad} \\over {{\\varepsilon _0}}}$$"
+        },
+        {
+          "key": "C",
+          "value": "$${1 \\over 2}{\\varepsilon _0}{E^2}Ad$$"
+        },
+        {
+          "key": "D",
+          "value": "$${\\varepsilon _0}EAd$$"
+        }
+      ],
+      "answer": "C",
+      "explanation": "Capacitance of a parallel plate capacitor is <br><br>\n$$C = {{{\\varepsilon _0}A} \\over d}$$&nbsp;&nbsp;&nbsp;...(i)<br><br>\nPotential difference between the plates is<br><br>\nV = Ed&nbsp;&nbsp;&nbsp; ...(ii) <br><br>\nThe energy stored in the capacitor is <br><br>\n$$U = {1 \\over 2}C{V^2} = {1 \\over 2}\\left( {{{{\\varepsilon _0}A} \\over d}} \\right){\\left( {Ed} \\right)^2}$$&nbsp;&nbsp; (Using (i) and (ii))\n <br><br>$$ = {1 \\over 2}{\\varepsilon _0}{E^2}Ad$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A parallel plate capacitor has a uniform electric field E in the space between the plates. If the distance between the plates is d and area of each plate is A, the energy stored in the capacitor is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$${1 \\over 2}{\\varepsilon _0}{E^2}$$"
+        },
+        {
+          "key": "B",
+          "value": "$${{{E^2}Ad} \\over {{\\varepsilon _0}}}$$"
+        },
+        {
+          "key": "C",
+          "value": "$${1 \\over 2}{\\varepsilon _0}{E^2}Ad$$"
+        },
+        {
+          "key": "D",
+          "value": "$${\\varepsilon _0}EAd$$"
+        }
+      ],
+      "answer": "C",
+      "explanation": "Capacitance of a parallel plate capacitor is <br><br>\n$$C = {{{\\varepsilon _0}A} \\over d}$$&nbsp;&nbsp;&nbsp;...(i)<br><br>\nPotential difference between the plates is<br><br>\nV = Ed&nbsp;&nbsp;&nbsp; ...(ii) <br><br>\nThe energy stored in the capacitor is <br><br>\n$$U = {1 \\over 2}C{V^2} = {1 \\over 2}\\left( {{{{\\varepsilon _0}A} \\over d}} \\right){\\left( {Ed} \\right)^2}$$&nbsp;&nbsp; (Using (i) and (ii))\n <br><br>$$ = {1 \\over 2}{\\varepsilon _0}{E^2}Ad$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Two parallel metal plates having charges +Q and $$-$$Q face each other at a certain distance between them. If the plates are now dipped in kerosene oil tank, the electric field between the plates will ",
+      "options": [
+        {
+          "key": "A",
+          "value": "become zero"
+        },
+        {
+          "key": "B",
+          "value": "increase"
+        },
+        {
+          "key": "C",
+          "value": "decrease"
+        },
+        {
+          "key": "D",
+          "value": "remain same"
+        }
+      ],
+      "answer": "C",
+      "explanation": "Electric field between two parallel plates placed in vacuum is given by\n<br><br>$$E = {\\sigma  \\over {{\\varepsilon _0}}}$$<br><br>\nIn a medium of dielectric constant K, $$E' = {\\sigma  \\over {{\\varepsilon _0}}}$$<br><br>\nFor kerosene oil K &gt; 1   $$ \\Rightarrow $$   E' &lt; E "
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A series combination of n<sub>1</sub> capacitors, each of value C<sub>1</sub>, is charged by a source of potential difference 4V. When another parallel  combination of n<sub>2</sub> capacitors,  each of value C<sub>2</sub>, is charged by a source of potential difference V, it has the same (total) energy stored in it. as the first combination has. The value of C<sub>2</sub>. in terms of C<sub>1</sub>, is then ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$${{2{C_1}} \\over {{n_1}{n_2}}}$$"
+        },
+        {
+          "key": "B",
+          "value": "$$16{{{n_2}} \\over {{n_1}}}{C_1}$$"
+        },
+        {
+          "key": "C",
+          "value": "$$2{{{n_2}} \\over {{n_1}}}{C_1}$$"
+        },
+        {
+          "key": "D",
+          "value": "$${{16{C_1}} \\over {{n_1}{n_2}}}$$"
+        }
+      ],
+      "answer": "D",
+      "explanation": "A series combination of n1 capacitors each of capacitance C<sub>1</sub> are connected to 4V source.<br><br>\nTotal capacitance of the series combination of the capacitors is <br><br>\n1/C<sub>s</sub> = 1/C<sub>1</sub> + 1/C<sub>1</sub> + 1/C<sub>1</sub> .... upto n<sub>1</sub> terms = n<sub>1</sub>/C<sub>1 </sub><br><br>\n$$ \\Rightarrow $$ C<sub>s</sub> = C<sub>1</sub>/n<sub>1</sub><br><br> \nTotal energy stored in a series combination of the capacitors is <br><br>\nU<sub>s</sub> = (1/2) C<sub>s</sub> (4V)<sup>2</sup> = (1/2) (C<sub>1</sub>/n<sub>1</sub>) (4V)<sup>2</sup> &nbsp;&nbsp;&nbsp;…(1) <br><br>\nNow a parallel combination of n<sub>2</sub> capacitors each of capacitance C<sub>2</sub> are connected to V source<br><br>\nTotal capacitance of the parallel combination of capacitors is <br><br>\nC<sub>p</sub> = C<sub>1</sub> + C<sub>2</sub> + ... + upto n<sub>2</sub> terms = n<sub>2</sub>C<sub>2</sub> <br><br>\n$$ \\Rightarrow $$ C<sub>p</sub> = n<sub>2</sub>C<sub>2</sub> <br><br>\nTotal energy stored in a parallel combination of capacitors is <br><br>\nU<sub>p</sub> = (1/2)C<sub>p</sub>V<sup>2</sup> = (1/2)(n<sub>2</sub>C<sub>2</sub> )(V)<sup>2</sup>&nbsp;&nbsp;&nbsp; ...(ii) <br><br>\nAccording to the given problem, U<sub>s</sub> = U<sub>p</sub> <br><br>\n (1/2) (C<sub>1</sub>/n<sub>1</sub>)(4V)<sup>2</sup> = (1/2)(n<sup>2</sup>C<sup>2</sup>)(V)<sup>2 </sup><br><br>\nC<sub>1</sub> × 16/n<sub>1</sub> = n<sub>2</sub>C<sub>2</sub>  <br><br>      C<sub>2</sub> = 16 × C<sub>1</sub> / (n<sub>1</sub> × n<sub>2</sub>) "
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Three capacitors each of capacitance C and of breakdown voltage V are joined in series. The capacitance and breakdown voltages of the combination will be",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$3C,{V \\over 3}$$"
+        },
+        {
+          "key": "B",
+          "value": "$${C \\over 3},3V$$"
+        },
+        {
+          "key": "C",
+          "value": "$$3C,3V$$"
+        },
+        {
+          "key": "D",
+          "value": "$${C \\over 3},{V \\over 3}$$"
+        }
+      ],
+      "answer": "B",
+      "explanation": "In series combination of capacitors <br>\nV<sub>eff</sub>  = V + V + V = 3V<br><br>\n$${1 \\over {{C_{eff}}}} = {1 \\over C} + {1 \\over C} + {1 \\over C}$$<br><br>\n$$ \\Rightarrow {C_{eff}} = {C \\over 3}$$<br><br>\nThus, the capacitance and breakdown voltage\nof the combination will be $${C \\over 3}$$ and 3V."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A parallel plate capacitor has a uniform electric field E in the space between the plates. If the distance between the plates is d and area of each plate is A, the energy stored in the capacitor is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$${1 \\over 2}{\\varepsilon _0}{E^2}$$"
+        },
+        {
+          "key": "B",
+          "value": "$${{{E^2}Ad} \\over {{\\varepsilon _0}}}$$"
+        },
+        {
+          "key": "C",
+          "value": "$${1 \\over 2}{\\varepsilon _0}{E^2}Ad$$"
+        },
+        {
+          "key": "D",
+          "value": "$${\\varepsilon _0}EAd$$"
+        }
+      ],
+      "answer": "C",
+      "explanation": "Capacitance of a parallel plate capacitor is <br><br>\n$$C = {{{\\varepsilon _0}A} \\over d}$$&nbsp;&nbsp;&nbsp;...(i)<br><br>\nPotential difference between the plates is<br><br>\nV = Ed&nbsp;&nbsp;&nbsp; ...(ii) <br><br>\nThe energy stored in the capacitor is <br><br>\n$$U = {1 \\over 2}C{V^2} = {1 \\over 2}\\left( {{{{\\varepsilon _0}A} \\over d}} \\right){\\left( {Ed} \\right)^2}$$&nbsp;&nbsp; (Using (i) and (ii))\n <br><br>$$ = {1 \\over 2}{\\varepsilon _0}{E^2}Ad$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A parallel plate air capacitor is charged to a potential difference of V volts. After disconnecting the charging battery the distance between the plates of the capacitor is increased using an insulting handle. As a result the potential difference between the plates ",
+      "options": [
+        {
+          "key": "A",
+          "value": "increases "
+        },
+        {
+          "key": "B",
+          "value": "decreases "
+        },
+        {
+          "key": "C",
+          "value": "does not charge "
+        },
+        {
+          "key": "D",
+          "value": "becomes zero"
+        }
+      ],
+      "answer": "A",
+      "explanation": "If we increase the distance between the plates its capacity decreases resulting in higher potential as we know Q = CV. Since Q is constant (battery has been disconnected), on decreasing C, V will increase. "
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A capacitor of capacity C<sub>1</sub> charged upto V volt and then connected to an uncharged capacitor of capacity C<sub>2</sub>. The final potential difference across each will be\n",
+      "options": [
+        {
+          "key": "A",
+          "value": "$${{{C_1}V} \\over {{C_1} + {C_2}}}$$"
+        },
+        {
+          "key": "B",
+          "value": "$${{{C_2}V} \\over {{C_1} + {C_2}}}$$"
+        },
+        {
+          "key": "C",
+          "value": "$$\\left( {1 - {{{C_2}} \\over {{C_1}}}} \\right)V$$"
+        },
+        {
+          "key": "D",
+          "value": "$$\\left( {1 + {{{C_2}} \\over {{C_1}}}} \\right)$$"
+        }
+      ],
+      "answer": "A",
+      "explanation": "Charge Q = C<sub>1</sub>V<br> Total capacity of combination (parallel) <br><br>\nC = C<sub>1</sub>+ C<sub>2</sub><br><br>\n$$P.D. = {Q \\over C} = {{{C_1}V} \\over {{C_1} + {C_2}}}$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Energy per unit volume for a capacitor having area A and  separation d kept at potential difference V is given by ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$${1 \\over 2}{\\varepsilon _0}{{{V^2}} \\over {{d^2}}}$$ "
+        },
+        {
+          "key": "B",
+          "value": "$${1 \\over {2{\\varepsilon _0}}}{{{V^2}} \\over {{d^2}}}$$"
+        },
+        {
+          "key": "C",
+          "value": "$${1 \\over 2}C{V^2}$$ "
+        },
+        {
+          "key": "D",
+          "value": "$${{{Q^2}} \\over {2C}}.$$"
+        }
+      ],
+      "answer": "A",
+      "explanation": "Energy stored per unit volume <br><br>\n$$ = {1 \\over 2}{\\varepsilon _0}{E^2} = {1 \\over 2}{\\varepsilon _0}{\\left( {{V \\over d}} \\right)^2} = {1 \\over 2}{\\varepsilon _0}{{{V^2}} \\over {{d^2}}}$$<br>&nbsp;&nbsp;&nbsp;$$\\left(\\because {E = {V \\over d}} \\right)$$\n"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A capacitor is charged with a battery and energy stored is U. After disconnecting battery another capacitor of same capacity is connected in parallel to the first capacitor. Then energy stored in each capacitor is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$U/2$$"
+        },
+        {
+          "key": "B",
+          "value": "U/4"
+        },
+        {
+          "key": "C",
+          "value": "4U"
+        },
+        {
+          "key": "D",
+          "value": "2U"
+        }
+      ],
+      "answer": "B",
+      "explanation": "Let q be the charge on each capacitor. <br><br>\n$$ \\therefore $$ Energy stored,  $$U = {1 \\over 2}C{V^2} = {1 \\over 2}{{{q^2}} \\over C}$$<br><br>\nNow, when battery is disconnected and another capacitor  of same capacity is connected in parallel to the first capacitor, then voltage across each capacitor, $$V = {q \\over {2C}}$$<br><br>\n$$ \\therefore $$ Energy stored = $${1 \\over 2}C{\\left( {{q \\over {2C}}} \\right)^2} = {1 \\over 4}.{1 \\over 2}{{{q^2}} \\over C} = {1 \\over 4}U.$$"
+    }
+  ]
+}

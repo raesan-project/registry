@@ -1,0 +1,13 @@
+{
+  "_index": {
+    "name": "Biomolecules"
+  },
+  "_children": [
+    {
+      "_type": "numerical",
+      "body": "<p>A tetrapeptide has $$-$$COOH group on alanine. This produces glycine (Gly), valine (Val), phenyl alanine (Phe) and alanine (Ala), on complete hydrolysis. For this tetrapeptide, the number of possible sequences (primary structures) with $$-$$NH<sub>2</sub> group attached to a chiral center is _______.</p>",
+      "answer": "4",
+      "explanation": "<p>The possible combinations with C-terminal as alanine and N-terminal with chiral carbon (i.e. excluding glycine) are four.</p>\n<p>Val$$-$$Phe$$-$$Gly$$-$$Ala</p>\n<p>Val$$-$$Gly$$-$$Phe$$-$$Ala</p>\n<p>Phe$$-$$Val$$-$$Gly$$-$$Ala</p>\n<p>Phe$$-$$Gly$$-$$Val$$-$$Ala</p>"
+    }
+  ]
+}

@@ -1,0 +1,1351 @@
+{
+  "_index": {
+    "name": "Current Electricity"
+  },
+  "_children": [
+    {
+      "_type": "single_mcq",
+      "body": "<p>A uniform wire of diameter $$d$$ carries a current of $$100 \\mathrm{~mA}$$ when the mean drift velocity of electrons in the wire is $$v$$. For a wire of diameter $$\\frac{d}{2}$$ of the same material to carry a current of $$200 \\mathrm{~mA}$$, the mean drift velocity of electrons in the wire is</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$4 v$$\n"
+        },
+        {
+          "key": "B",
+          "value": "$$8 v$$\n"
+        },
+        {
+          "key": "C",
+          "value": "$$v$$\n"
+        },
+        {
+          "key": "D",
+          "value": "$$2 v$$\n"
+        }
+      ],
+      "answer": "B",
+      "explanation": "<p>To solve this problem, we need to understand the relationship between the current, the drift velocity, and the cross-sectional area of the wire. The electric current $$I$$ in a wire is given by</p>\n\n<p>$$I = n e A v_d$$</p>\n\n<p>where:</p>\n\n<ul>\n\n<li>$$n$$ is the number density of electrons,</li>\n\n<li>$$e$$ is the charge of an electron,</li>\n\n<li>$$A$$ is the cross-sectional area of the wire, and</li>\n\n<li>$$v_d$$ is the mean drift velocity of the electrons.</li>\n\n</ul>\n\n<p>Let's denote the current in the thicker wire as $$I_1 = 100 \\mathrm{~mA} = 0.1 \\mathrm{~A}$$ and the current in the thinner wire as $$I_2 = 200 \\mathrm{~mA} = 0.2 \\mathrm{~A}$$.</p>\n\n<p>The diameter of the thicker wire is $$d$$, so its cross-sectional area, $$A_1$$, is</p>\n\n<p>$$A_1 = \\pi \\left(\\frac{d}{2}\\right)^2 = \\frac{\\pi d^2}{4}$$</p>\n\n<p>For the thinner wire, the diameter is $$\\frac{d}{2}$$, so its cross-sectional area, $$A_2$$, is</p>\n\n<p>$$A_2 = \\pi \\left(\\frac{d}{4}\\right)^2 = \\frac{\\pi d^2}{16}$$</p>\n\n<p>Using the relation for current in the thicker wire, we have</p>\n\n<p>$$I_1 = n e A_1 v = n e \\left(\\frac{\\pi d^2}{4}\\right) v = 0.1 \\mathrm{~A}$$</p>\n\n<p>Let the mean drift velocity in the thinner wire be denoted by $$v'$$. For the thinner wire:</p>\n\n<p>$$I_2 = n e A_2 v' = n e \\left(\\frac{\\pi d^2}{16}\\right) v' = 0.2 \\mathrm{~A}$$</p>\n\n<p>Now, we can equate the expressions for current and solve for $$v'$$:</p>\n\n<p>$$\\frac{\\pi d^2}{16} n e v' = 0.2 \\mathrm{~A}$$</p>\n\n<p>$$v' = \\frac{0.2 \\mathrm{~A}}{n e \\left(\\frac{\\pi d^2}{16}\\right)}$$</p>\n\n<p>From the equation for the thicker wire:</p>\n\n<p>$$0.1 \\mathrm{~A} = \\frac{\\pi d^2}{4} n e v$$</p>\n\n<p>$$v = \\frac{0.1 \\mathrm{~A}}{n e \\left(\\frac{\\pi d^2}{4}\\right)}$$</p>\n\n<p>Dividing the two equations, we get</p>\n\n<p>$$\\frac{v'}{v} = \\frac{0.2 \\mathrm{~A}}{\\left(\\frac{\\pi d^2}{16}\\right) n e} \\times \\frac{(\\frac{\\pi d^2}{4}) n e}{0.1 \\mathrm{~A}} = \\frac{0.2 \\mathrm{~A} \\times 4}{0.1 \\mathrm{~A} \\times 16} = \\frac{4}{1} = 8$$</p>\n\n<p>Thus,</p>\n\n<p>$$v' = 8 v$$</p>\n\n<p>The mean drift velocity of electrons in the thinner wire is 8 times the mean drift velocity in the thicker wire. Therefore, the correct option is:</p>\n\n<p><b>Option B</b>: $$8 v$$</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>A wire of length '$$l$$' and resistance $$100 \\Omega$$ is divided into 10 equal parts. The first 5 parts are connected in series while the next 5 parts are connected in parallel. The two combinations are again connected in series. The resistance of this final combination is:</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$26 \\Omega$$\n"
+        },
+        {
+          "key": "B",
+          "value": "$$52 \\Omega$$\n"
+        },
+        {
+          "key": "C",
+          "value": "$$55 \\Omega$$\n"
+        },
+        {
+          "key": "D",
+          "value": "$$60 \\Omega$$"
+        }
+      ],
+      "answer": "B",
+      "explanation": "<p>To solve this problem, we first need to understand how the resistance changes when we cut the wire into equal parts and how it behaves when connected in different configurations (series and parallel).</p>\n\n<p>Given:</p>\n\n<ul>\n\n<li>Original length of the wire, $ l $.\n\n<li>Total resistance of the wire $ R = 100 \\Omega $.\n\n<li>The wire is divided into 10 equal parts.</li>\n\n</ul>\n\n<p><strong>Resistance of each part:</strong></p>\n\n<p>Since the wire is divided into 10 equal parts, the length of each part is $\\frac{l}{10}$. Resistance is proportional to length (as long as the cross-sectional area and material of the wire remain constant). Therefore, the resistance of each part, denoted as $ r $, is $\\frac{1}{10}$th of the total resistance:</p>\n\n<p>$$ r = \\frac{R}{10} = \\frac{100 \\Omega}{10} = 10 \\Omega $$</p>\n\n<p><strong>First 5 parts in series:</strong></p>\n\n<p>When resistors are connected in series, the total resistance is the sum of the individual resistances:</p>\n\n<p>$$ R_{\\text{series}} = 5 \\times 10 \\Omega = 50 \\Omega $$</p>\n\n<p><strong>Next 5 parts in parallel:</strong></p>\n\n<p>When resistors are connected in parallel, the total resistance $ R_{\\text{parallel}} $ can be calculated using the reciprocal formula:</p>\n\n<p>$$ \\frac{1}{R_{\\text{parallel}}} = \\frac{1}{10 \\Omega} + \\frac{1}{10 \\Omega} + \\frac{1}{10 \\Omega} + \\frac{1}{10 \\Omega} + \\frac{1}{10 \\Omega} = 5 \\times \\frac{1}{10 \\Omega} = \\frac{5}{10 \\Omega} = \\frac{1}{2 \\Omega} $$</p>\n\n<p>Thus,</p>\n\n<p>$$ R_{\\text{parallel}} = 2 \\Omega $$</p>\n\n<p><strong>Final combination in series:</strong></p>\n\n<p>The total resistance of the combination, where the series and parallel groups are again connected in series, will be:</p>\n\n<p>$$ R_{\\text{total}} = R_{\\text{series}} + R_{\\text{parallel}} = 50 \\Omega + 2 \\Omega = 52 \\Omega $$</p>\n\n<p>Thus, the correct answer to the resistance of the final combination is:</p>\n\n<p>Option B $$52 \\Omega$$</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Two heaters $$A$$ and $$B$$ have power rating of $$1 \\mathrm{~kW}$$ and $$2 \\mathrm{~kW}$$, respectively. Those two are first connected in series and then in parallel to a fixed power source. The ratio of power outputs for these two cases is:</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$1: 1$$\n"
+        },
+        {
+          "key": "B",
+          "value": "$$2: 9$$\n"
+        },
+        {
+          "key": "C",
+          "value": "$$1: 2$$\n"
+        },
+        {
+          "key": "D",
+          "value": "$$2: 3$$"
+        }
+      ],
+      "answer": "B",
+      "explanation": "<p>To find the ratio of power outputs when two heaters with different power ratings are connected first in series and then in parallel, we need to understand how the total power output varies based on the type of connection.</p>\n\n<p><strong>Heater Specifications:</strong>\n\n<ul>\n\n<li>Power of heater A $$ (P_A) = 1 \\, \\text{kW} = 1000 \\, \\text{W} $$\n\n<li>Power of heater B $$ (P_B) = 2 \\, \\text{kW} = 2000 \\, \\text{W} $$\n\n</ul>\n\n</p>\n\n<p><strong>Scenario 1: Series Connection</strong><br />\n\n<p>When resistors (or heaters in this case) are connected in series, the total resistance ($R_{\\text{series}}$) is the sum of the individual resistances ($R_A$ and $R_B$).</p></p>\n\n<p>Using the formula for electrical power: $$ P = \\frac{V^2}{R} $$,\n\n<p>where $$ P $$ is power, $$ V $$ is voltage, and $$ R $$ is resistance, we can express the resistance of each heater as:</p>\n\n<p>$$ R_A = \\frac{V^2}{P_A} $$</p>\n\n<p>$$ R_B = \\frac{V^2}{P_B} $$</p>\n\n</p>\n\n<p>Substitute the given power values:\n\n<p>$$ R_A = \\frac{V^2}{1000} $$</p>\n\n<p>$$ R_B = \\frac{V^2}{2000} $$</p>\n\n</p>\n\n<p>Then the total resistance for the series connection is:\n\n<p>$$ R_{\\text{series}} = R_A + R_B = \\frac{V^2}{1000} + \\frac{V^2}{2000} = \\frac{3V^2}{2000} $$</p>\n\n</p>\n\n<p>The total power output in series ($P_{\\text{series}}$) is:\n\n<p>$$ P_{\\text{series}} = \\frac{V^2}{R_{\\text{series}}} = \\frac{V^2}{\\frac{3V^2}{2000}} = \\frac{2000}{3} \\text{W} $$</p>\n\n</p>\n\n<p><strong>Scenario 2: Parallel Connection</strong><br />\n\n<p>For parallel connections, the total resistance ($R_{\\text{parallel}}$) is given by:</p>\n\n<p>$$ \\frac{1}{R_{\\text{parallel}}} = \\frac{1}{R_A} + \\frac{1}{R_B} = \\frac{1}{\\frac{V^2}{1000}} + \\frac{1}{\\frac{V^2}{2000}} = \\frac{3}{2V^2} $$</p>\n\n</p>\n\n<p>Reformulate to find $R_{\\text{parallel}}$:\n\n<p>$$ R_{\\text{parallel}} = \\frac{2V^2}{3} $$</p>\n\n</p>\n\n<p>And the total power output in parallel ($P_{\\text{parallel}}$) is:\n\n<p>$$ P_{\\text{parallel}} = \\frac{V^2}{R_{\\text{parallel}}} = \\frac{V^2}{\\frac{2V^2}{3}} = \\frac{3V^2}{2} $$</p>\n\n</p>\n\n<p>However, simplifying,\n\n<p>$$ P_{\\text{parallel}} = \\frac{3}{2} V^2 $$</p>\n\n</p>\n\n<p>The ratio of powers is then:\n\n<p>$$ \\frac{P_{\\text{series}}}{P_{\\text{parallel}}} = \\frac{\\frac{2000}{3}}{\\frac{3V^2}{2}} $$</p>\n\n<p>Solving and simplifying,</p>\n\n<p>$$ \\text{Ratio} = \\frac{\\frac{2000}{3}}{\\frac{3 \\times V^2}{2}} = \\frac{2000 \\times 2}{3 \\times 3 \\times V^2} = \\frac{4000}{9V^2} $$</p>\n\n</p>\n\n<p>Given that we know one ratio of the actual power values, we simplify further. For calculating power in simple terms, consider voltage to be normalized (taken out of the fraction):\n\n<p>$$ \\frac{P_{\\text{series}}}{P_{\\text{parallel}}} = \\frac{\\frac{2000}{3}}{\\frac{6000}{2}} = \\frac{2000 \\times 2}{3 \\times 6000} = \\frac{4000}{18000} = \\frac{2}{9} $$</p>\n\n</p>\n\n<p>Therefore, the ratio of the power outputs when the heaters are connected first in series and then in parallel is <strong>2:9</strong>, which corresponds to <strong>Option B</strong>.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>A certain wire $$\\mathrm{A}$$ has resistance $$81 ~\\Omega$$. The resistance of another wire $$\\mathrm{B}$$ of same material and equal length but of diameter thrice the diameter of A will be :<p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$81 ~\\Omega$$"
+        },
+        {
+          "key": "B",
+          "value": "$$9 ~\\Omega$$"
+        },
+        {
+          "key": "C",
+          "value": "$$729 ~\\Omega$$"
+        },
+        {
+          "key": "D",
+          "value": "$$243 ~\\Omega$$"
+        }
+      ],
+      "answer": "B",
+      "explanation": "<p>$$\\mathrm{R=\\frac{\\rho L}{A}}$$</p>\n<p>If diameter becomes thrice then cross section area will become 9 times so</p>\n<p>$$\\mathrm{R\\propto \\frac{1}{A}}$$ </p>\n<p>Resistance will become $$\\frac{1}{9}$$ times</p>\n<p>$$\\mathrm{R'=\\frac{81\\Omega}{9}=9\\Omega}$$</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>A copper wire of radius $$1 \\mathrm{~mm}$$ contains $$10^{22}$$ free electrons per cubic metre. The drift velocity for free electrons when $$10 \\mathrm{~A}$$ current flows through the wire will be (Given, charge on electron $$=1.6 \\times 10^{-19} \\mathrm{C}$$ ) :</p>\n\n",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$\\frac{6.25 \\times 10^4}{\\pi} \\mathrm{ms}^{-1}$$\n"
+        },
+        {
+          "key": "B",
+          "value": "$$\\frac{6.25}{\\pi} \\times 10^3 \\mathrm{~ms}^{-1}$$\n"
+        },
+        {
+          "key": "C",
+          "value": "$$\\frac{6.25}{\\pi} \\mathrm{ms}^{-1}$$\n"
+        },
+        {
+          "key": "D",
+          "value": "$$\\frac{6.25 \\times 10^5}{\\pi} \\mathrm{ms}^{-1}$$\n"
+        }
+      ],
+      "answer": "B",
+      "explanation": "<p>$$\n\\begin{aligned}\n& \\mathrm{I}=\\mathrm{neAV_{d }} \\\\\n& \\mathrm{V}_{\\mathrm{d}}=\\frac{\\mathrm{I}}{\\mathrm{neA}}=\\frac{10}{10^{22} \\times 1.6 \\times 10^{-19} \\times \\pi \\times 10^{-6}} \\\\\n& \\mathrm{~V}_{\\mathrm{d}}=\\frac{6.25}{\\pi} \\times 10^3 \\mathrm{~m} / \\mathrm{sec}\n\\end{aligned}\n$$</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>The emf of a cell having internal resistance $$1 \\Omega$$ is balanced against a length of $$330 \\mathrm{~cm}$$ on a potentiometer wire. When an external resistance of $$2 \\Omega$$ is connected across the cell, the balancing length will be :</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "220 cm"
+        },
+        {
+          "key": "B",
+          "value": "330 cm"
+        },
+        {
+          "key": "C",
+          "value": "115 cm"
+        },
+        {
+          "key": "D",
+          "value": "332 cm"
+        }
+      ],
+      "answer": "A",
+      "explanation": "<p>$$\\begin{aligned} & \\mathrm{r}=\\left(\\frac{\\ell_{\\mathrm{o}}-\\ell_{\\mathrm{c}}}{\\ell_{\\mathrm{c}}}\\right) \\mathrm{R} \\\\ & 1=\\left(\\frac{330-\\ell_{\\mathrm{c}}}{\\ell_{\\mathrm{c}}}\\right) \\times 2 \\\\ & 3 \\ell_{\\mathrm{c}}=660 \\\\ & \\ell_{\\mathrm{c}}=220 \\mathrm{~cm}\\end{aligned}$$</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Resistance of a carbon resistor determined from colour codes is $$(22000 \\pm 5 \\%) \\Omega$$. The colour of third band must be :</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "Green"
+        },
+        {
+          "key": "B",
+          "value": "Orange"
+        },
+        {
+          "key": "C",
+          "value": "Yellow"
+        },
+        {
+          "key": "D",
+          "value": "Red"
+        }
+      ],
+      "answer": "B",
+      "explanation": "<p>$$R=\\left[22 \\times 10^{3} \\pm 5 \\%\\right] \\Omega$$</p>\n<p>Acc. to color code</p>\n<p>Third Band $$\\to$$ Orange</p>\n<p>(color code for digit 3 is orange)</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>The resistance of platinum wire at $$0^{\\circ} \\mathrm{C}$$ is $$2 ~\\Omega$$ and $$6.8 ~\\Omega$$ at $$80^{\\circ} \\mathrm{C}$$. The temperature coefficient of resistance of the wire is :</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$3 \\times 10^{-3} \\mathrm{C}^{-1}$$"
+        },
+        {
+          "key": "B",
+          "value": "$$3 \\times 10^{-2} \\mathrm{C}^{-1}$$"
+        },
+        {
+          "key": "C",
+          "value": "$$3 \\times 10^{-10} \\mathrm{C}^{-1}$$"
+        },
+        {
+          "key": "D",
+          "value": "$$3 \\times 10^{-4} \\mathrm{C}^{-1}$$"
+        }
+      ],
+      "answer": "B",
+      "explanation": "<p>$$\\mathrm{R}_{\\mathrm{T}}=\\mathrm{R}_{0}\\left[1+\\alpha\\left(\\mathrm{T}-\\mathrm{T}_{0}\\right)\\right]$$</p>\n<p>$$6.8=2[1+\\alpha(80-\\alpha)]$$</p>\n<p>$$\\alpha=\\frac{2.4}{80}=0.03 /{ }^{\\circ} \\mathrm{C}=3 \\times 10^{-2} /{ }^{\\circ} \\mathrm{C}$$</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>10 resistors, each of resistance $$\\mathrm{R}$$ are connected in series to a battery of emf $$E$$ and negligible internal resistance. Then those are connected in parallel to the same battery, the current is increased $$n$$ times. The value of $$n$$ is :</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "100"
+        },
+        {
+          "key": "B",
+          "value": "1"
+        },
+        {
+          "key": "C",
+          "value": "1000"
+        },
+        {
+          "key": "D",
+          "value": "10"
+        }
+      ],
+      "answer": "A",
+      "explanation": "<p>$$\\mathrm{I}_{\\mathrm{S}}=\\frac{E}{10 R}$$ ..... (1)</p>\n<p>$$\\mathrm{I}_{\\mathrm{P}}=\\frac{\\mathrm{E}}{\\mathrm{R} / 10}=\\frac{10 \\mathrm{E}}{\\mathrm{R}}$$ .... (2)</p>\n<p>$$\\mathrm{n}=\\frac{\\mathrm{I}_{\\mathrm{P}}}{\\mathrm{I}_{\\mathrm{S}}}=100 \\Rightarrow \\mathrm{n}=100$$</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>The reciprocal of resistance is :</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "conductance"
+        },
+        {
+          "key": "B",
+          "value": "reactance"
+        },
+        {
+          "key": "C",
+          "value": "mobility"
+        },
+        {
+          "key": "D",
+          "value": "conductivity"
+        }
+      ],
+      "answer": "A",
+      "explanation": "<p>$$R = {1 \\over G}$$</p>\n<p>Thus reciprocal of resistance (R) is conductance (G)</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Two resistors of resistance, 100 $$\\Omega$$ and 200 $$\\Omega$$ are connected in parallel in an electrical circuit. The ratio of the thermal energy developed in 100 $$\\Omega$$ to that in 200 $$\\Omega$$ in a given time is</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "1 : 2"
+        },
+        {
+          "key": "B",
+          "value": "2 : 1"
+        },
+        {
+          "key": "C",
+          "value": "1 : 4"
+        },
+        {
+          "key": "D",
+          "value": "4 : 1"
+        }
+      ],
+      "answer": "B",
+      "explanation": "<p>For parallel combination</p>\n<p>$$P = {{{V^2}} \\over R}$$</p>\n<p>$${{{P_1}} \\over {{P_2}}} = {{{R_2}} \\over {{R_1}}}$$</p>\n<p>$$ \\Rightarrow {{{P_1}} \\over {{P_2}}} = {{200} \\over {100}} = {2 \\over 1}$$</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>A copper wire of length 10 m and radius $$\\left( {{{{{10}^{ - 2}}} \\over {\\sqrt \\pi  }}} \\right)$$ m has electrical resistance of 10 $$\\Omega$$. The current density in the wire for an electric field strength of 10 (V/m) is</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "10<sup>4</sup> A/m<sup>2</sup>"
+        },
+        {
+          "key": "B",
+          "value": "10<sup>6</sup> A/m<sup>2</sup>"
+        },
+        {
+          "key": "C",
+          "value": "10<sup>$$-$$5</sup> A/m<sup>2</sup>"
+        },
+        {
+          "key": "D",
+          "value": "10<sup>5</sup> A/m<sup>2</sup>"
+        }
+      ],
+      "answer": "D",
+      "explanation": "<p>Resistance, $$R = \\rho {L \\over A} = {L \\over {\\sigma A}}$$</p>\n<p>$$ \\Rightarrow \\sigma  = {L \\over {RA}}$$</p>\n<p>Also current density $$j = \\sigma E = {{LE} \\over {RA}}$$</p>\n<p>$$J = {{10 \\times 10} \\over {10 \\times \\pi {{\\left( {{{{{10}^{ - 2}}} \\over {\\sqrt \\pi  }}} \\right)}^2}}} = {{100} \\over {10 \\times \\pi  \\times \\left( {{{{{10}^{ - 4}}} \\over \\pi }} \\right)}}$$</p>\n<p>$$ = {10^5}$$ A/m<sup>2</sup></p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "In a potentiometer circuit a cell of EMF 1.5 V gives balance point at 36 cm length of wire. If another cell of EMF 2.5 V replaces the first cell, then at what length of the wire, the balance point occurs?",
+      "options": [
+        {
+          "key": "A",
+          "value": "62 cm"
+        },
+        {
+          "key": "B",
+          "value": "60 cm"
+        },
+        {
+          "key": "C",
+          "value": "21.6 cm"
+        },
+        {
+          "key": "D",
+          "value": "64 cm"
+        }
+      ],
+      "answer": "B",
+      "explanation": "$$\\phi$$ = constant<br><br>E<sub>unknown</sub> = $$\\phi$$ I<sub>b</sub> <br><br>$$\\Rightarrow$$ E<sub>unknown</sub> $$\\propto$$ I<sub>b</sub><br><br>$${{{E_1}} \\over {{E_2}}} = {{{I_1}} \\over {{I_2}}} \\Rightarrow {{1.5} \\over {2.5}} = {{36} \\over x}$$<br><br>$$x = {{36 \\times 5} \\over 3} = 60$$ cm"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The effective resistance of a parallel connection that consists of four wires of equal length, equal area of cross-section and same material is 0.25$$\\Omega$$. What will be the effective resistance if they are connected in series?",
+      "options": [
+        {
+          "key": "A",
+          "value": "4$$\\Omega$$"
+        },
+        {
+          "key": "B",
+          "value": "0.25$$\\Omega$$"
+        },
+        {
+          "key": "C",
+          "value": "0.5$$\\Omega$$"
+        },
+        {
+          "key": "D",
+          "value": "1$$\\Omega$$"
+        }
+      ],
+      "answer": "A",
+      "explanation": "$${R \\over 4}$$ = .25<br><br>R = 1\n<br><br>Now these four resistances are arranged in series\n<br><br>R<sub>S</sub> = R + R + R + R = 4R\n<br><br>= 4 $$ \\times $$ 1 = 4$$\\Omega$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Column - I gives certain physical terms associated with flow of current through a metallic conductor. Column-II gives some mathematical relations involving electrical quantities. Match column-I and column-II with appropriate relations.<br><br><table>\n<thead>\n  <tr>\n    <th></th>\n    <th>Column - I</th>\n    <th></th>\n    <th>Column - II</th>\n  </tr>\n</thead>\n<tbody>\n  <tr>\n    <td>(A)</td>\n    <td>Drift Velocity</td>\n    <td>(P)</td>\n    <td>$${m \\over {n{e^2}p}}$$</td>\n  </tr>\n  <tr>\n    <td>(B)</td>\n    <td>Electrical Resistivity</td>\n    <td>(Q)</td>\n    <td>$$ne{\\upsilon _d}$$</td>\n  </tr>\n  <tr>\n    <td>(C)</td>\n    <td>Relaxation Period</td>\n    <td>(R)</td>\n    <td>$${{eE} \\over m}\\tau $$</td>\n  </tr>\n  <tr>\n    <td>(D)</td>\n    <td>Current Density</td>\n    <td>(S)</td>\n    <td>$${E \\over J}$$</td>\n  </tr>\n</tbody>\n</table>",
+      "options": [
+        {
+          "key": "A",
+          "value": "(A)-(R); (B)-(Q); (C)-(S); (D)-(P)"
+        },
+        {
+          "key": "B",
+          "value": "(A)-(R); (B)-(S); (C)-(P); (D)-(Q)"
+        },
+        {
+          "key": "C",
+          "value": "(A)-(R); (B)-(S); (C)-(Q); (D)-(P)"
+        },
+        {
+          "key": "D",
+          "value": "(A)-(R); (B)-(P); (C)-(S); (D)-(Q)"
+        }
+      ],
+      "answer": "B",
+      "explanation": "Current density, J = $${I \\over A}$$ = nev<sub>d</sub><br><br>Drift velocity, V<sub>d</sub> = $${{eE} \\over m}$$$$\\tau $$ ; \n<br><br>Electrical resistivity, $$\\rho$$ = $${m \\over {n{e^2}\\tau }}$$ or $$\\rho$$ = $${E \\over J}$$\n<br><br>Relaxation period, $$\\tau  = {m \\over {n{e^2}\\rho }}$$\n<br><br>A $$\\to$$ R<br><br>B $$\\to$$ S<br><br>D $$\\to$$ Q<br><br>C $$\\to$$ P"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A charged particle having drift velocity 7.5$$ \\times $$10<sup>-4</sup> ms<sup>-1</sup> in an electric field of 3$$ \\times $$10<sup>-10</sup> Vm<sup>-1</sup> has a mobility in m<sup>2</sup> V<sup>-1</sup>s<sup>-1</sup> of :",
+      "options": [
+        {
+          "key": "A",
+          "value": "2.5 $$ \\times $$10<sup>6</sup>"
+        },
+        {
+          "key": "B",
+          "value": "2.5 $$ \\times $$10<sup>-6</sup>"
+        },
+        {
+          "key": "C",
+          "value": "2.25 $$ \\times $$10<sup>-15</sup>"
+        },
+        {
+          "key": "D",
+          "value": "2.25 $$ \\times $$10<sup>15</sup>"
+        }
+      ],
+      "answer": "A",
+      "explanation": "The relation between the mobility and drift velocity is,<br><br>Mobility, $$\\mu  = {{{\\upsilon _d}} \\over E}$$\n<br><br>$$ = {{7.5 \\times {{10}^{ - 4}}} \\over {3 \\times {{10}^{ - 10}}}}$$\n<br><br>$$ = 2.5 \\times {10^6}{m^2}{V^{ - 1}}{s^{ - 1}}$$\n"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The solids which have the negative temperature coefficient of resistance are :",
+      "options": [
+        {
+          "key": "A",
+          "value": "insulators only"
+        },
+        {
+          "key": "B",
+          "value": "semiconductors only"
+        },
+        {
+          "key": "C",
+          "value": "insulators and semiconductors"
+        },
+        {
+          "key": "D",
+          "value": "metals"
+        }
+      ],
+      "answer": "C",
+      "explanation": "The temperature coefficient of resistance is negative for semiconductor and insulators, and it is positive for metals."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Which of the following acts as a circuit protection device?",
+      "options": [
+        {
+          "key": "A",
+          "value": "inductor"
+        },
+        {
+          "key": "B",
+          "value": "conductor"
+        },
+        {
+          "key": "C",
+          "value": "switch"
+        },
+        {
+          "key": "D",
+          "value": "fuse"
+        }
+      ],
+      "answer": "D",
+      "explanation": "Fuse is the protective device because of low melting point of the wire that can save other device on heating. "
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A carbon resistor of (47 $$ \\pm $$ 4.7) k$$\\Omega $$ is to be marked\nwith rings of different colours for its identification.\nThe colour code sequence will be",
+      "options": [
+        {
+          "key": "A",
+          "value": "Violet – Yellow – Orange – Silver"
+        },
+        {
+          "key": "B",
+          "value": "Yellow – Violet – Orange – Silver"
+        },
+        {
+          "key": "C",
+          "value": "Yellow – Green – Violet – Gold"
+        },
+        {
+          "key": "D",
+          "value": "Green – Orange – Violet – Gold"
+        }
+      ],
+      "answer": "B",
+      "explanation": "Colour code for carbon resistor\n<br><br>0 - Black\n<br>1 - Brown\n<br>2 - Red\n<br>3 - Orange\n<br>4 - Yellow\n<br>5 - Green\n<br>6 - Blue\n<br>7 - Violet\n<br>8 - Grey\n<br>9 - White\n<br><br>Tolerance : \n<br>± 5% Gold\n<br>± 10% Silver\n<br> ± 20% No colour\n<br><br> (47 $$ \\pm $$ 4.7) k$$\\Omega $$ = 47 $$ \\times $$ 10<sup>3</sup> $$ \\pm $$ 10% $$\\Omega $$\n<br><br>Which shows the colour code Yellow – Violet –\nOrange – Silver."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A set of n equal resistors, of value R each, are\nconnected in series to a battery of emf E and\ninternal resistance R. The current drawn is I. Now,\nthe n resistors are connected in parallel to the\nsame battery. Then the current drawn from battery\nbecomes 10I. The value of n is",
+      "options": [
+        {
+          "key": "A",
+          "value": "10"
+        },
+        {
+          "key": "B",
+          "value": "11"
+        },
+        {
+          "key": "C",
+          "value": "20"
+        },
+        {
+          "key": "D",
+          "value": "9"
+        }
+      ],
+      "answer": "A",
+      "explanation": "n series grouping equivalent resistance\n<br><br>R<sub>series</sub> = nR\n<br><br>In parallel grouping equivalent resistance\n<br><br>R<sub>parallel</sub> = $${R \\over n}$$\n<br><br>Current drawn from a battery when n\nresistors are connected in series is\n<br><br>I = $${E \\over {nR + R}}$$ ......(i)\n<br><br>Current drawn from same battery when n resistors\nare connected in parallel is\n<br><br>10I = $${E \\over {{R \\over n} + R}}$$ ......(ii)\n<br><br>On dividing eqn. (ii) by (i),\n<br><br>10 = $${{\\left( {n + 1} \\right)R} \\over {\\left( {{1 \\over n} + 1} \\right)R}}$$\n<br><br>Solving we get, n = 10"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A potentiometer is an accurate and versatile device to make electrical measurements of EMF because the method involves",
+      "options": [
+        {
+          "key": "A",
+          "value": "potential gradients "
+        },
+        {
+          "key": "B",
+          "value": "a condition of  no current flow through the galvanometer "
+        },
+        {
+          "key": "C",
+          "value": "a combination of cells, galvanometer and resistances"
+        },
+        {
+          "key": "D",
+          "value": "cells"
+        }
+      ],
+      "answer": "B",
+      "explanation": "A potentiometer is an accurate and versatile device to make electrical measurements of E.M.F. because the method involves zero deflection without any current in galvanometer."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The resistance of a wire is 'R' ohm. If it is melted and stretched to 'n' times its original length. its new resistance will be ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$${R \\over n}$$"
+        },
+        {
+          "key": "B",
+          "value": "n<sup>2</sup>R"
+        },
+        {
+          "key": "C",
+          "value": "$${R \\over {{n^2}}}$$"
+        },
+        {
+          "key": "D",
+          "value": "nR"
+        }
+      ],
+      "answer": "B",
+      "explanation": "Resistance $$R = \\rho l/A$$<br><br>\n$$l' = nl$$ and $$A' = {A \\over n},R' = {{\\rho l} \\over {A'}}$$<br><br>\n$$R' = {{\\rho nl} \\over {A/n}} = {{\\rho l} \\over A}{n^2}$$<br><br>\n$$R' = R{n^2}$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A filament bulb (500 W, 100 V) is to be used in a 230 V main supply. When a resistance R is connected in series, it works perfectly and the bulb consumes 500 W. The value of R is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "230 $$\\Omega $$"
+        },
+        {
+          "key": "B",
+          "value": "46 $$\\Omega $$"
+        },
+        {
+          "key": "C",
+          "value": "26 $$\\Omega $$"
+        },
+        {
+          "key": "D",
+          "value": "13 $$\\Omega $$"
+        }
+      ],
+      "answer": "C",
+      "explanation": "Resistance of bulb, <br>$${R_B} = {{{V^2}} \\over P} = {{{{\\left( {100} \\right)}^2}} \\over {500}} = 20\\Omega $$<br><br>Power of the bulb in the circuit, <br>\nP = VI <br><br>\n$$I = {P \\over {{V_B}}}$$<br><br>\n$$ = {{500} \\over {100}} = 5A$$<br><br>\nV<sub>R</sub> = IR  $$ \\Rightarrow $$  (230 – 100) = 5 × R <br><br>$$ \\therefore $$ R = 26 $$\\Omega $$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The charge flowing through a resistance R varies with time t is Q = at $$-$$ bt<sup>2</sup>, where $$a$$ and $$b$$ are positive constants. The total heat produced in R is \n",
+      "options": [
+        {
+          "key": "A",
+          "value": "$${{{a^3}R} \\over {2b}}$$"
+        },
+        {
+          "key": "B",
+          "value": "$${{{a^3}R} \\over {b}}$$"
+        },
+        {
+          "key": "C",
+          "value": "$${{{a^3}R} \\over {6b}}$$"
+        },
+        {
+          "key": "D",
+          "value": "$${{{a^3}R} \\over {3b}}$$"
+        }
+      ],
+      "answer": "C",
+      "explanation": "Given: Charge Q = at – bt<sup>2</sup><br><br>\n$$ \\therefore $$ Current $$i = {{\\partial Q} \\over {\\partial t}} = a - 2bt$$<br>\n$$\\left\\{ {for\\,i = 0 \\Rightarrow t = {a \\over {2b}}} \\right\\}$$<br><br>\nFrom joule's law of heating, heat produced<br> dH = i<sup>2</sup>Rdt<br><br>\n$$H = \\int\\limits_0^{a/2b} {{{\\left( {a - 2bt} \\right)}^2}Rdt} $$<br><br>\n$$H = \\left. {{{{{\\left( {a - 2bt} \\right)}^2}R} \\over { - 3 \\times 2b}}} \\right|_0^{{a \\over {2b}}} = {{{a^3}R} \\over {6b}}$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A potentiometer wire is 100 cm long and a constant potential difference is maintained across it. Two cells are connected in series first to support one another and then in opposite direction. The balance points are obtained at 50 cm and 10 cm from the positive end of the wire in the two cases.  The ratio of emf's is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "3 : 4"
+        },
+        {
+          "key": "B",
+          "value": "3 : 2"
+        },
+        {
+          "key": "C",
+          "value": "5 : 1"
+        },
+        {
+          "key": "D",
+          "value": "5 : 4"
+        }
+      ],
+      "answer": "B",
+      "explanation": "When two cells are connected in series i.e., E<sub>1</sub> + E<sub>2</sub> the balance point is at 50 cm. And when two cells are connected in opposite direction i.e., E<sub>1</sub> – E<sub>2</sub> the balance point is at 10 cm. According to principle of potential <br><br>$${{{E_1} + {E_2}} \\over {{E_1} - {E_2}}} = {{50} \\over {10}}$$<br><br>$$ \\Rightarrow {{2{E_1}} \\over {2{E_2}}} = {{50 + 10} \\over {50 - 10}}$$<br><br>$$ \\Rightarrow {{{E_1}} \\over {{E_2}}} = {3 \\over 2}$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Across a metallic conductor of non-uniform cross section a constant potential difference is applied. The quantity which remains constant along the conductor is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "drift velocity"
+        },
+        {
+          "key": "B",
+          "value": "electric field "
+        },
+        {
+          "key": "C",
+          "value": "current density "
+        },
+        {
+          "key": "D",
+          "value": "current "
+        }
+      ],
+      "answer": "D",
+      "explanation": "The area of cross section of conductor is non uniform so current density will be different but the flow of electrons will be uniform so current will be constant."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Two cities are 150 km apart. Electric power is sent from one city to another city through copper wires. The fall of potential per km is 8  volt  and the average resistance per km is 0.5 $$\\Omega $$. The power loss in the wire is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "19.2 W "
+        },
+        {
+          "key": "B",
+          "value": "19.2 kW"
+        },
+        {
+          "key": "C",
+          "value": "19.2 J"
+        },
+        {
+          "key": "D",
+          "value": "12.2 kW"
+        }
+      ],
+      "answer": "B",
+      "explanation": "Total voltage drop across the wire :  V = 150 × 8= 1200 volt<br><br>\nTotal resistance of wire, (R) = 150 × 0.5 = 75 $$\\Omega $$<br><br>\nHence, current through wire<br> I = V/R <br><br>\n$$ \\Rightarrow $$ I = 1200/75 =16 A<br><br>\nFinally the power loss will be, <br>P = I<sup>2</sup>R = (16)<sup>2</sup> × 75<br><br>\n= 19200 W or 19.2 kW"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A potentiometer circuit has been set up for finding the internal resistance of a given cell. The main battery, used across the potentiometer wire, has an emf of 2.0 V and a negligible internal resistance. The potentiometer wire itself is 4 m long. When the resistance R, connected across the given cell, has values of (i) infinity,&nbsp;&nbsp;&nbsp; (ii) 9.5 $$\\Omega $$ \n<br>the balancing lengths on the potentiometer wire are found to be 3 m and 2.85 m, respectively. The value of internal resistance of the cell is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "0.25 $$\\Omega $$"
+        },
+        {
+          "key": "B",
+          "value": "0.95 $$\\Omega $$"
+        },
+        {
+          "key": "C",
+          "value": "0.5 $$\\Omega $$"
+        },
+        {
+          "key": "D",
+          "value": "0.75 $$\\Omega $$"
+        }
+      ],
+      "answer": "C",
+      "explanation": "Internal resistance of the cell,\n<br><br>$$r = \\left( {{{E - V} \\over V}} \\right)R = \\left( {{{{\\ell _1} - {\\ell _2}} \\over {{\\ell _2}}}} \\right)R$$<br><br>$$ = \\left( {{{3 - 2.85} \\over {2.85}}} \\right) \\times \\left( {9.5} \\right)\\Omega  = 0.5\\Omega $$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A wire of resistance 4 $$\\Omega $$ is stretched to twice its original length. The resistance of stretched wire would be ",
+      "options": [
+        {
+          "key": "A",
+          "value": "8 $$\\Omega $$"
+        },
+        {
+          "key": "B",
+          "value": "16 $$\\Omega $$"
+        },
+        {
+          "key": "C",
+          "value": "2 $$\\Omega $$"
+        },
+        {
+          "key": "D",
+          "value": "4 $$\\Omega $$"
+        }
+      ],
+      "answer": "B",
+      "explanation": "Resistance of a wire, <br>\n$$R = \\rho {l \\over A} = 4\\Omega $$&nbsp;&nbsp;&nbsp;...(i)<br><br>\nWhen wire is stretched twice, its new length be $$l'$$. Then <br><br>\n$$l' = 2l$$<br><br>On stretching volume of the wire remains constant. <br><br>\n$$ \\therefore lA = l'A'$$ where A' is the new cross-sectional area<br><br>\n$$ \\Rightarrow A' = {l \\over {l'}}A = {l \\over {2l}}A = {A \\over 2}$$<br><br>$$ \\therefore $$ Resistance of the stretched wire is\n <br><br> $$R' = \\rho {{l'} \\over {A'}} = \\rho {{2l} \\over {\\left( {A/2} \\right)}} = 4\\rho {l \\over A}$$<br><br>$$ = 4\\left( {4\\Omega } \\right) = 16\\Omega $$\n\n\n"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The resistances of the four arms P, Q, R and S in a Wheatstone's bridge are 10 ohm, 30 ohm, 30 ohm and 90 ohm, respectively. The e.m.f. and internal resistance of the cell are 7 volt and 5 ohm respectively. If the galvanometer resistance is 50 ohm, the current drawn from the celll will be ",
+      "options": [
+        {
+          "key": "A",
+          "value": "0.1 A "
+        },
+        {
+          "key": "B",
+          "value": "2.0 A "
+        },
+        {
+          "key": "C",
+          "value": "1.0 A "
+        },
+        {
+          "key": "D",
+          "value": "0.2  A"
+        }
+      ],
+      "answer": "D",
+      "explanation": "From the question, total resistance of Wheatstone bridge is:<br> (40) × (120)/(40 + 120) = 30$$\\Omega $$<br><br>Now the current through the cell is:<br> = 7V/(5+30)$$\\Omega $$ = (1/5)A = 0.2A "
+    },
+    {
+      "_type": "single_mcq",
+      "body": "If voltage across a bulb rated 220 volt-100 watt drops by 2.5% of its rated value, the percentage of the rated value by which the power would decrease is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "20%"
+        },
+        {
+          "key": "B",
+          "value": "2.5%"
+        },
+        {
+          "key": "C",
+          "value": "5%"
+        },
+        {
+          "key": "D",
+          "value": "10%"
+        }
+      ],
+      "answer": "C",
+      "explanation": "Resistance of bulb is constant <br><br>\n$$P = {{{V^2}} \\over R} \\Rightarrow {{\\Delta p} \\over p} = {{2\\Delta V} \\over V} + {{\\Delta R} \\over R}$$<br><br>\n$$ \\therefore {{\\Delta p} \\over p} = 2 \\times 2.5 + 0 = 5\\% $$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A thermocouple of negligible resistance\nproduces an e.m.f. of 40 µV/ºC in the linear range\nof temperature. A galvanometer of resistance 10\nohm whose sensitivity is 1 µA/division, is\nemployed with the thermocouple. The smallest\nvalue of temperature difference that can be\ndetected by the system will be",
+      "options": [
+        {
+          "key": "A",
+          "value": "1ºC"
+        },
+        {
+          "key": "B",
+          "value": "0.5 ºC "
+        },
+        {
+          "key": "C",
+          "value": "0.1ºC "
+        },
+        {
+          "key": "D",
+          "value": "0.25ºC"
+        }
+      ],
+      "answer": "D",
+      "explanation": "For minimum deflection of 1 division\nrequired current = 1 µA <br><br>$$ \\Rightarrow $$ Voltage required = IR = (1µA) (10) = 10 µV <br><br>\n$$ \\therefore $$ 40 µV ≡ 1ºC<br><br>\n$$ \\Rightarrow $$  10 µV ≡  $${1 \\over 4}$$ ºC = 0.25ºC\n"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Consider the following two statements. \n<br>(A)&nbsp;&nbsp;Kirchoff's junction law follows from the conservation of charge. \n<br>(B)&nbsp;&nbsp;Kirchhoff's loop law follows from the conservation of energy. \n<br><br>Which of the following is correct? ",
+      "options": [
+        {
+          "key": "A",
+          "value": "Both (A) and (B) are wrong "
+        },
+        {
+          "key": "B",
+          "value": "(A) is correct and (B) is wrong "
+        },
+        {
+          "key": "C",
+          "value": "(A) is wrong and (B) is correct "
+        },
+        {
+          "key": "D",
+          "value": "Both (A) and (B) are correct "
+        }
+      ],
+      "answer": "D",
+      "explanation": "Kirchhoff’s junction law or Kirchhoff’s first law is based on the conservation of charge. <br><br>Kirchhoff’s loop law or Kirchhoff’s second law is based on the conservation of energy. <br><br>Hence both statements (A) and (B) are correct. "
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A student measures the terminal potential difference (V) of a cell (of emf $$\\varepsilon $$ and internal resistance r) as a function of the current (I) flowing through it. The slope, and intercept, of the graph between V and I, then respectively, equal ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$-$$ r and $$\\varepsilon $$ "
+        },
+        {
+          "key": "B",
+          "value": "r and $$-$$ $$\\varepsilon $$"
+        },
+        {
+          "key": "C",
+          "value": "$$-$$ $$\\varepsilon $$ and r"
+        },
+        {
+          "key": "D",
+          "value": "$$\\varepsilon $$ and $$-$$ r"
+        }
+      ],
+      "answer": "A",
+      "explanation": "The terminal potential difference of a cell is given by V + Ir = $$\\varepsilon $$<br><br>\nV = V<sub>A</sub> – V<sub>B </sub><br><br>\n$$ \\Rightarrow $$  V = $$\\varepsilon $$ – Ir<br><br>\n$$ \\Rightarrow {{dV} \\over {dI}} =  - r$$,  Also for,  i = 0 then V = $$\\varepsilon $$ <br><br>\n$$ \\therefore $$ slope = – r, intercept = $$\\varepsilon $$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The mean free path of electrons in a metal is 4 $$ \\times $$ 10<sup>$$-$$8</sup> m. The electric field which can give on an average 2 eV energy to an electron in the metal will be in units V/m",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$5 \\times {10^{ - 11}}$$"
+        },
+        {
+          "key": "B",
+          "value": "8 $$ \\times $$  10<sup>$$-$$11</sup>"
+        },
+        {
+          "key": "C",
+          "value": "5 $$ \\times $$ 10<sup>7</sup>"
+        },
+        {
+          "key": "D",
+          "value": "8 $$ \\times $$ 10<sup>7</sup>"
+        }
+      ],
+      "answer": "C",
+      "explanation": "Given, Energy = 2 eV = eE$$\\lambda $$\n<br><br>$$ \\therefore $$ E = $${{2eV} \\over {e\\lambda }} = {2 \\over {4 \\times {{10}^{ - 8}}}} = 5 \\times {10^7}$$ V/m"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A wire of a certain material is stretched slowly by ten percent. Its new resistance and specific resistance become respectively ",
+      "options": [
+        {
+          "key": "A",
+          "value": "both remain the same "
+        },
+        {
+          "key": "B",
+          "value": "1.1 times, 1.1 times"
+        },
+        {
+          "key": "C",
+          "value": "1.2 times, 1.1 times"
+        },
+        {
+          "key": "D",
+          "value": "1.21 times, same "
+        }
+      ],
+      "answer": "D",
+      "explanation": "$${{\\Delta l} \\over l} = 0.1$$&nbsp;&nbsp;$$ \\therefore $$ $$l = 1.1$$<br><br>\nbut the area also decreases by 0.1. <br><br>\nmass = $$\\rho lA = V\\rho $$,  $$\\ln l + \\ln A = \\ln $$ mass.<br><br>\n$$ \\therefore $$ $${{\\Delta l} \\over l} + {{\\Delta A} \\over A} = 0 \\Rightarrow {{\\Delta l} \\over l} = {{ - \\Delta A} \\over A}$$<br><br>\nLength increases by 0.1, resistance increases, area decreases by 0.1, then also resistance will increase. Total increase in resistance is approximately 1.2 times, due to increase in length and decrease in area. But specific resistance does not change. "
+    },
+    {
+      "_type": "single_mcq",
+      "body": "An electric kettle takes 4 A current at 220 V. How much time will it take to boil 1 kg of water from temperature 20<sup>o</sup>C ? The temperature of boiling water is 100<sup>o</sup>C",
+      "options": [
+        {
+          "key": "A",
+          "value": "12.6 min "
+        },
+        {
+          "key": "B",
+          "value": "4.2  min"
+        },
+        {
+          "key": "C",
+          "value": "6.3 min"
+        },
+        {
+          "key": "D",
+          "value": "8.4 min "
+        }
+      ],
+      "answer": "C",
+      "explanation": "Power = 220 V × 4 A = 880 watts. = 880 J/s.<br> Heat needed to raise the temperature of 1 kg water through 80°C <br><br>\n= ms.$$\\Delta $$T × 4.2 J/cal <br><br>\n= 1000 g × 1 cal/g × 80 × 4.2 J/cal.<br><br>\n$$ \\therefore $$ Time taken = $${{1000 \\times 1 \\times 80 \\times 4.2} \\over {880}} = {{336 \\times {{10}^3}} \\over {880}}$$<br><br>\n = 382 s = 6.3 min.\n"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A cell can be balanced against 110 cm and 100 cm of potentiometer wire, respectively with and without being short circuited through a resistance of 10 $$\\Omega $$. Its internal resistance is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "2.0 ohm "
+        },
+        {
+          "key": "B",
+          "value": "zero "
+        },
+        {
+          "key": "C",
+          "value": "1.0 ohm "
+        },
+        {
+          "key": "D",
+          "value": "0.5 ohm "
+        }
+      ],
+      "answer": "C",
+      "explanation": "Here $$E &gt; {{ER} \\over {R + r}}$$, hence the lengths 110 cm and 100 cm are interchanged.<br><br>\nWithout being short-circuited through R, only the battery E is balanced.\n<br><br>\n$$E = {V \\over L} \\times {l_1} = {V \\over L} \\times 110$$&nbsp;&nbsp;&nbsp;...(i)<br><br>\nWhen R is connected across E,  $$Ri = {V \\over L} \\times {l_2}$$<br><br>\n$$ \\Rightarrow R\\left( {{E \\over {R + r}}} \\right) = {V \\over L} \\times 100$$&nbsp;&nbsp;&nbsp;...(ii)<br><br>Dividing (i) by (ii), we get <br><br>\n$${{R + r} \\over R} = {{110} \\over {100}}$$<br><br>\n$$ \\Rightarrow $$ 100 R + 100 r = 110 R <br><br>$$ \\Rightarrow $$ 10 R = 100 r <br><br>\n$$ \\therefore $$ $$r = {{10R} \\over {100}} = {{10 \\times 10} \\over {100}}$$&nbsp;&nbsp;($$ \\because $$ R = 10$$\\Omega $$)<br><br>\n$$ \\Rightarrow $$ r = 1$$\\Omega $$.\n"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Three resistances, P, Q, R each of 2$$\\Omega $$ and an unknown resistance S from the four arms of a Wheatstone bridge circuit. When a resistance of 6 $$\\Omega $$ is connected in parallel to S the bridge gets balanced. What is the value of S? ",
+      "options": [
+        {
+          "key": "A",
+          "value": "3 $$\\Omega $$ "
+        },
+        {
+          "key": "B",
+          "value": "6 $$\\Omega $$"
+        },
+        {
+          "key": "C",
+          "value": "1 $$\\Omega $$"
+        },
+        {
+          "key": "D",
+          "value": "2 $$\\Omega $$. "
+        }
+      ],
+      "answer": "A",
+      "explanation": "A balanced wheatstone bridge simply requires <br><br>\n$${P \\over Q} = {R \\over S} \\Rightarrow {2 \\over 2} = {2 \\over S}$$<br><br>\nTherefore, S should be 2$$\\Omega $$.<br> A resistance of 6$$\\Omega $$ is connected in parallel.<br> In parallel combination,<br><br>\n$${1 \\over R} = {1 \\over {{R_1}}} + {1 \\over {{R_2}}}$$<br><br>\n$${1 \\over 2} = {1 \\over 6} + {1 \\over S}$$<br><br>$$ \\Rightarrow S = 3\\Omega $$\n"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Kirchoff's first and second laws of electrical circuits are consequences of ",
+      "options": [
+        {
+          "key": "A",
+          "value": "conservation of energy and electric charge respectively "
+        },
+        {
+          "key": "B",
+          "value": "conservation of energy "
+        },
+        {
+          "key": "C",
+          "value": "conservation of electric charhge and energy respectively "
+        },
+        {
+          "key": "D",
+          "value": "conservation of electric charge. "
+        }
+      ],
+      "answer": "C",
+      "explanation": "Kirchhoff’s first law of electrical circuit is based on conservation of charge and Kirchhoff’s second law of electrical circuit is based on conservation of energy."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A 5-ampere fuse wire can withstand a maximum power of 1 watt in the circuit. The resistance of the fuse wire is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "0.04 ohm"
+        },
+        {
+          "key": "B",
+          "value": "0.2 ohm"
+        },
+        {
+          "key": "C",
+          "value": "5 ohm "
+        },
+        {
+          "key": "D",
+          "value": "0.4 ohm"
+        }
+      ],
+      "answer": "A",
+      "explanation": "P = i<sup>2</sup>R  or 1 = 25 × R <br><br>$$R = {1 \\over {25}} = 0.04\\Omega $$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "when three identical bulbs of 60 watt, 200 volt rating are connected in series to a 200 volt supply, the power drawn by them will be ",
+      "options": [
+        {
+          "key": "A",
+          "value": "60 watt"
+        },
+        {
+          "key": "B",
+          "value": "180 watt"
+        },
+        {
+          "key": "C",
+          "value": "10 watt"
+        },
+        {
+          "key": "D",
+          "value": "20 watt"
+        }
+      ],
+      "answer": "D",
+      "explanation": "The resistance of each bulb <br><br>\n$$ = {{{V^2}} \\over P} = {{{{\\left( {200} \\right)}^2}} \\over {60}}\\Omega $$<br><br>\nWhen three bulbs are connected in series their resultant resistance<br><br>\n$$ = {{3 \\times {{\\left( {200} \\right)}^2}} \\over {60}}$$<br><br>\nThus power drawn by bulb when connected across 200 V supply <br><br>\n$$P = {{{V^2}} \\over {{R_{re}}}} = {{{{\\left( {200} \\right)}^2}} \\over {3 \\times {{\\left( {200} \\right)}^2}/60}} = 20W$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The electric resistance of a certain wire of iron is R. If its length and radius are both doubled, then ",
+      "options": [
+        {
+          "key": "A",
+          "value": "The resistance will be doubled and the specific resistance will be halved."
+        },
+        {
+          "key": "B",
+          "value": "The resistance will be halved and the specific resistance will remain unchanged. "
+        },
+        {
+          "key": "C",
+          "value": "The resistance will be halved and the specific resistance will be doubled. "
+        },
+        {
+          "key": "D",
+          "value": "The resistance and the specific resistance, will both remain unchanged. "
+        }
+      ],
+      "answer": "B",
+      "explanation": "Resistance of wire  = $$\\rho {l \\over A}$$<br><br>\n$$R \\propto {l \\over A} = {l \\over {\\pi {r^2}}}$$<br><br>\nWhen length and radius are both doubled\n <br><br>\n$${R_1} \\propto {{2l} \\over {\\pi {{\\left( {2r} \\right)}^2}}} \\Rightarrow {R_1} \\propto {1 \\over 2}R$$<br><br>\nThe specific resistance of wire is independent of geometry of the wire, it only depends on the material of the wire.\n"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "In India electricity is supplied for domestic use at 220 V. It is supplied at 110 V in USA. If the resistance of a 60 W bulb for use in India is R, the resistance of a 60 W bulb for use in USA will be ",
+      "options": [
+        {
+          "key": "A",
+          "value": "R "
+        },
+        {
+          "key": "B",
+          "value": "2R"
+        },
+        {
+          "key": "C",
+          "value": "R/4"
+        },
+        {
+          "key": "D",
+          "value": "R/2"
+        }
+      ],
+      "answer": "C",
+      "explanation": "$$P = {{{V^2}} \\over R}$$<br><br>\n$$ \\Rightarrow R = {{{V^2}} \\over P} = {{{{\\left( {220} \\right)}^2}} \\over {60}} = {{4 \\times {{\\left( {110} \\right)}^2}} \\over {60}}$$<br><br>\n$$R' = {{{{\\left( {110} \\right)}^2}} \\over {60}} = {R \\over 4}$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Resistance n, each of r ohm, when connected in parallel give an equivalent resistance of R ohm.  If these resistances were connected in series, the combination would have a resistance in ohms, equal to ",
+      "options": [
+        {
+          "key": "A",
+          "value": "n<sup>2</sup>R"
+        },
+        {
+          "key": "B",
+          "value": "R/n<sup>2</sup>"
+        },
+        {
+          "key": "C",
+          "value": "R/n"
+        },
+        {
+          "key": "D",
+          "value": "nR"
+        }
+      ],
+      "answer": "A",
+      "explanation": "$$R = {r \\over n} \\Rightarrow r = nR$$<br><br>\nWhen connected in series,  $${R_{eq}} = nr$$<br><br>\n= n (nR) = n<sup>2</sup>R "
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A 6 volt battery is connected to the terminals of a three metre long wire of uniform thickness  and resistance of 100 ohm. The difference of potential between two points on the wire separated by a distance of 50 cm will be",
+      "options": [
+        {
+          "key": "A",
+          "value": "2 volt"
+        },
+        {
+          "key": "B",
+          "value": "3 volt"
+        },
+        {
+          "key": "C",
+          "value": "1 volt"
+        },
+        {
+          "key": "D",
+          "value": "1.5 volt"
+        }
+      ],
+      "answer": "C",
+      "explanation": "$$R\\,\\alpha \\,\\ell $$<br><br>\nFor 300 cm, R = 100 $$\\Omega $$<br><br>\nFor 50 cm, $$R' = {{100} \\over {300}} \\times 50 = {{50} \\over 3}\\Omega $$<br><br>\n$$ \\therefore $$  IR = 6\n<br><br>$$ \\Rightarrow IR' = {6 \\over R} \\times R' = {6 \\over {100}} \\times {{50} \\over 3} = 1\\,volt.$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "An electric kettle has two heating coils. When one of the coils is connected to an a.c. source, the water in the kettle boils in 10 minutes. When the other coil is used the water boils in 40 minutes. If both the coils are connected in parallel, the time taken by the same quantity of water to boil will be",
+      "options": [
+        {
+          "key": "A",
+          "value": "8 minutes "
+        },
+        {
+          "key": "B",
+          "value": "4 minutes "
+        },
+        {
+          "key": "C",
+          "value": "25 minutes "
+        },
+        {
+          "key": "D",
+          "value": "15 minutes "
+        }
+      ],
+      "answer": "A",
+      "explanation": "Let R<sub>1</sub> and R<sub>2</sub> be the resistance of the two coils and V be the voltage supplied. <br><br>\nEffective resistance of two coils in parallel = $${{{R_1}{R_2}} \\over {{R_1} + {R_2}}}$$<br><br>\nLet H be the heat required to begin boiling in kettle.\n<br><br>\nThen H = Power $$ \\times $$ time = $${{{V^2}{t_1}} \\over {{R_1}}} = {{{V^2}{t_2}} \\over {{R_2}}}$$<br><br>\nFor parallel combination, H = $${{{V^2}\\left( {{R_1} + {R_2}} \\right){t_p}} \\over {{R_1}{R_2}}}$$<br><br>\n$$ \\Rightarrow {1 \\over {{t_p}}} = \\left( {{{{t_2} + {t_1}} \\over {{t_2}{t_1}}}} \\right)$$<br><br>\n$$ \\therefore {t_p} = {{{t_2}{t_1}} \\over {{t_2} + {t_1}}} = {{10 \\times 40} \\over {10 + 40}} = 8$$ minute"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Fuse wire is a wire of  ",
+      "options": [
+        {
+          "key": "A",
+          "value": "high resistance and high melting point "
+        },
+        {
+          "key": "B",
+          "value": "high resistance and low melting point "
+        },
+        {
+          "key": "C",
+          "value": "low resistance and low melting point"
+        },
+        {
+          "key": "D",
+          "value": "low resistance and high melting point "
+        }
+      ],
+      "answer": "B",
+      "explanation": "Fuse wire should have high resistance and low melting point. "
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Two 220 volt, 100 watt bulbs are connected first in series and then  in parallel. Each time the combination is connected to a 220 volt a.c. supply line. The power drawn by the combination in each case respectively will be ",
+      "options": [
+        {
+          "key": "A",
+          "value": "50 watt, 100 watt"
+        },
+        {
+          "key": "B",
+          "value": "100 watt, 50 watt"
+        },
+        {
+          "key": "C",
+          "value": "200 watt, 150 watt"
+        },
+        {
+          "key": "D",
+          "value": "50 watt, 200 watt"
+        }
+      ],
+      "answer": "D",
+      "explanation": "$$R = {{{V^2}} \\over P} = {{220 \\times 220} \\over {100}} = 484\\Omega $$<br><br>\nIn series, R<sub>eq</sub> = 484 + 484 = 968 $$\\Omega $$ <br><br>\n$$ \\therefore {P_{eq}} = {{{V^2}} \\over {968}} = {{220 \\times 220} \\over {968}} = 50\\,watt$$<br><br>\nIn parallel, $${R_{eq}} = 242\\Omega $$<br><br>\n$$ \\therefore {P_{eq}} = {{{V^2}} \\over {242}} = {{220 \\times 220} \\over {242}} = 200\\,watt$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Specific resistance of a conductor increases with ",
+      "options": [
+        {
+          "key": "A",
+          "value": "increase in temperature "
+        },
+        {
+          "key": "B",
+          "value": "increase in cross-section area"
+        },
+        {
+          "key": "C",
+          "value": "increase in cross-section and decrease in length "
+        },
+        {
+          "key": "D",
+          "value": "decrease in cross secton area. "
+        }
+      ],
+      "answer": "A",
+      "explanation": "Resistance of a conductor is given by R = $$\\rho {l \\over A}$$, where $$\\rho $$ is the specific resistance, $$l$$ is the length and A is the cross-sectional area of the conductor. Now, when $$l$$ = 1 and A = 1, R = $$\\rho $$. <br><br>So specific resistance or resistivity of a material may be defined as the resistance of a specimen of the material having unit length and unit cross-section. Hence, specific resistance is a property of a material and it will increase with the increase of temperature, but will not vary with the dimensions (length, crosssection) of the conductor. "
+    },
+    {
+      "_type": "single_mcq",
+      "body": "If specific resistance of a potentiometer wire is 10<sup>-7</sup>$$\\Omega $$ m and current flow through it is 0.1 amp., cross-sectional area of wire is 10<sup>$$-$$6</sup> m<sup>2</sup> then potential gradient will be ",
+      "options": [
+        {
+          "key": "A",
+          "value": "10<sup>$$-$$2</sup> volt/m"
+        },
+        {
+          "key": "B",
+          "value": "10<sup>$$-$$4</sup> volt/m "
+        },
+        {
+          "key": "C",
+          "value": "10<sup>$$-$$6</sup> volt/m "
+        },
+        {
+          "key": "D",
+          "value": "10<sup>$$-$$8</sup> volt/m. "
+        }
+      ],
+      "answer": "A",
+      "explanation": "Potential gradient = Potential fall per unit length. In this case resistance of unit length. <br><br>\n$$R = {{\\rho l} \\over A} = {{{{10}^{ - 7}} \\times 1} \\over {{{10}^{ - 6}}}} = {10^{ - 1}}\\Omega $$<br><br>\nPotential fall across R is <br><br>\nV = I.R = 0.1 $$ \\times $$ 10<sup>-1</sup> =  0.01volt/m.<br><br>\n$$ = {10^{ - 2}}$$ volt/m"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Copper and silicon is cooled from 300 K to 60 K , the specific resistance ",
+      "options": [
+        {
+          "key": "A",
+          "value": "decrease in copper but increase in silicon "
+        },
+        {
+          "key": "B",
+          "value": "increase in copper but decrease in silicon "
+        },
+        {
+          "key": "C",
+          "value": "increase in both "
+        },
+        {
+          "key": "D",
+          "value": "decrease in both "
+        }
+      ],
+      "answer": "A",
+      "explanation": "For metals specific resistance decrease with decrease in temperature whereas for semiconductors specific resistance increases with decrease in temperature. "
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The resistance of each arm of the Wheatstone's bridge is 10 ohm. A resistance of 10 ohm is connected in series with a galvanometer then the equivalent resistance across the battery will be ",
+      "options": [
+        {
+          "key": "A",
+          "value": "10 ohm "
+        },
+        {
+          "key": "B",
+          "value": "15 ohm"
+        },
+        {
+          "key": "C",
+          "value": "20 ohm"
+        },
+        {
+          "key": "D",
+          "value": "40 ohm"
+        }
+      ],
+      "answer": "A",
+      "explanation": "Here, P = Q = S = R = 10 $$\\Omega $$<br><br>\nsince  $${P \\over Q} = {S \\over R} = 1$$, so it is balanced Wheatstone bridge and no current pass through galvanometer.<br><br>\n$$ \\therefore $$ Equivalent resistance is given by<br><br> R = $${{\\left( {10 + 10} \\right)\\left( {10 + 10} \\right)} \\over {\\left( {10 + 10} \\right) + \\left( {10 + 10} \\right)}}$$<br><br>$$ = {{20 \\times 20} \\over {40}} = 10\\Omega $$\n"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The potentiometer is best  for measuring voltage, as ",
+      "options": [
+        {
+          "key": "A",
+          "value": "it has a sensitive galvanometer and gives null deflection "
+        },
+        {
+          "key": "B",
+          "value": "it has wire of high resistance "
+        },
+        {
+          "key": "C",
+          "value": "it measures p.d. in closed circuit "
+        },
+        {
+          "key": "D",
+          "value": "it measures p.d in open circuit."
+        }
+      ],
+      "answer": "A",
+      "explanation": "When we measure the emf of a cell by the potentiometer then no current draws in the circuit in zero-deflection condition i.e., cell is in open circuit. Thus, in this condition the actual value of a cell is found. In this way potentiometer is equivalent to an ideal voltmeter of infinite resistance.<br><br>\n<b>Note:</b> The emf by the potentiometer is measured from null method in which zero deflection position is found on the wire."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Two bulbs of (40 W, 200 V), and (100 W, 200 V). Then correct relation for their resistances",
+      "options": [
+        {
+          "key": "A",
+          "value": "R<sub>40</sub> &lt; R<sub>100</sub> "
+        },
+        {
+          "key": "B",
+          "value": "R<sub>40</sub> &gt; R<sub>100</sub>"
+        },
+        {
+          "key": "C",
+          "value": "R<sub>40</sub> = R<sub>100</sub>"
+        },
+        {
+          "key": "D",
+          "value": "no relation can be predicted."
+        }
+      ],
+      "answer": "B",
+      "explanation": "$$P = {{{V^2}} \\over R}$$<br><br>\n$$ \\Rightarrow R \\propto {1 \\over P}$$<br><br>\n$$ \\therefore {R_{40}} &gt; {R_{100}}$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A car battery of emf 12 V and internal resistance $$5 \\times {10^{ - 2}}$$ $$\\Omega $$., receives a current of 60 amp, from external source, then terminal potential difference of battery is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "12 V"
+        },
+        {
+          "key": "B",
+          "value": "9 V"
+        },
+        {
+          "key": "C",
+          "value": "15 V"
+        },
+        {
+          "key": "D",
+          "value": "20 V"
+        }
+      ],
+      "answer": "C",
+      "explanation": "$${{V - E} \\over r} = I \\Rightarrow {{V - 12} \\over {5 \\times {{10}^{ - 2}}}} = 60$$<br><br>\n$$ \\Rightarrow V = 15V$$"
+    }
+  ]
+}

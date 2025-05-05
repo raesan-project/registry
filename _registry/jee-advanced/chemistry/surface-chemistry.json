@@ -1,0 +1,109 @@
+{
+  "_index": {
+    "name": "Surface Chemistry"
+  },
+  "_children": [
+    {
+      "_type": "numerical",
+      "body": "<p>To form a complete monolayer of acetic acid on $1 \\mathrm{~g}$ of charcoal, $100 \\mathrm{~mL}$ of $0.5 \\mathrm{M}$ acetic acid was used. Some of the acetic acid remained unadsorbed. To neutralize the unadsorbed acetic acid, 40 $\\mathrm{mL}$ of $1 \\mathrm{M} \\mathrm{NaOH}$ solution was required. If each molecule of acetic acid occupies $\\mathbf{P} \\times 10^{-23} \\mathrm{~m}^2$ surface area on charcoal, the value of $\\mathbf{P}$ is  _____.<br/><br/> [Use given data: Surface area of charcoal $=1.5 \\times 10^2 \\mathrm{~m}^2 \\mathrm{~g}^{-1}$; Avogadro's number $\\left(\\mathrm{N}_{\\mathrm{A}}\\right)=6.0 \\times 10^{23}$ $\\left.\\mathrm{mol}^{-1}\\right]$</p>",
+      "answer": "2500",
+      "explanation": "<p>Let's first understand and break down the given information. We are provided with the following details to solve for the value of $\\mathbf{P}$:</p>\n\n<p>1. Volume of acetic acid solution used: $100 \\mathrm{~mL}$ of $0.5 \\mathrm{M}$ acetic acid.</p>\n<p>2. Volume of $\\mathrm{NaOH}$ solution used for neutralization: $40 \\mathrm{~mL}$ of $1 \\mathrm{M} \\mathrm{NaOH}$.</p>\n<p>3. Surface area of the charcoal: $1.5 \\times 10^2 \\mathrm{~m}^2 \\mathrm{~g}^{-1}$.</p>\n<p>4. Avogadro's number: $\\mathrm{N}_{\\mathrm{A}}=6.0 \\times 10^{23} \\mathrm{~mol}^{-1}$.</p>\n\n<p>Let's start with the concentration and volume of acetic acid used:</p>\n\n$$\n\\text{Moles of acetic acid initially} = 0.5 \\text{ M} \\times \\frac{100 \\text{ mL}}{1000} = 0.05 \\text{ moles}\n$$\n\n<p>Next, let's determine the moles of $\\mathrm{NaOH}$ used for neutralization:</p>\n\n$$\n\\text{Moles of } \\mathrm{NaOH} = 1 \\text{ M} \\times \\frac{40 \\text{ mL}}{1000} = 0.04 \\text{ moles}\n$$\n\n<p>Since $\\mathrm{NaOH}$ completely neutralizes the unadsorbed acetic acid:</p>\n\n$$\n\\text{Moles of unadsorbed acetic acid} = 0.04 \\text{ moles}\n$$\n\n<p>Therefore, the moles of acetic acid adsorbed on the charcoal is given by:</p>\n\n$$\n\\text{Moles of adsorbed acetic acid} = 0.05 - 0.04 = 0.01 \\text{ moles}\n$$\n\n<p>Now, we need to calculate the total number of molecules of acetic acid adsorbed:</p>\n\n$$\n\\text{Number of molecules} = 0.01 \\text{ moles} \\times 6.0 \\times 10^{23} \\text{ molecules/mole} = 6.0 \\times 10^{21} \\text{ molecules}\n$$\n\n<p>Given the surface area of charcoal, we can find the total surface area:</p>\n\n$$\n\\text{Total surface area} = 1.5 \\times 10^2 \\text{ m}^2 / \\text{g} \\times 1 \\text{ g} = 1.5 \\times 10^2 \\text{ m}^2\n$$\n\n<p>Finally, we need to determine the area occupied by each molecule of acetic acid:</p>\n\n$$\n\\text{Area per molecule of acetic acid} = \\frac{\\text{Total surface area}}{\\text{Number of molecules}} = \\frac{1.5 \\times 10^2 \\text{ m}^2}{6.0 \\times 10^{21} \\text{ molecules}}\n$$\n\n<p>Let's perform the calculation:</p>\n\n$$\n\\text{Area per molecule of acetic acid} = \\frac{1.5 \\times 10^2}{6.0 \\times 10^{21}} = 0.25 \\times 10^{-19} \\text{ m}^2 = 2.5 \\times 10^{-20} \\text{ m}^2\n$$\n\n<p>Since the problem states that the area per molecule is $\\mathbf{P} \\times 10^{-23} \\mathrm{~m}^2$, we equate:</p>\n\n$$\n2.5 \\times 10^{-20} = \\mathbf{P} \\times 10^{-23}\n$$\n\n<p>Solving for $\\mathbf{P}$:</p>\n\n$$\n\\mathbf{P} = \\frac{2.5 \\times 10^{-20}}{10^{-23}} = 2.5 \\times 10^3 = 2500\n$$\n\n<p>Therefore, the value of $\\mathbf{P}$ is <strong>2500</strong>.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Consider the following statements related to colloids.\n<br/><br/>(I) Lyophobic colloids are <b>not</b> formed by simple mixing of dispersed phase and dispersion medium.\n<br/><br/>(II) For emulsions, both the dispersed phase and the dispersion medium are liquid.\n<br/><br/>(III) Micelles are produced by dissolving a surfactant in any solvent at any temperature.\n<br/><br/>(IV) Tyndall effect can be observed from a colloidal solution with dispersed phase having the same refractive index as that of the dispersion medium.\n<br/><br/>The option with the correct set of statements is :",
+      "options": [
+        {
+          "key": "A",
+          "value": "(I) and (II)"
+        },
+        {
+          "key": "B",
+          "value": "(II) and (III)"
+        },
+        {
+          "key": "C",
+          "value": "(III) and (IV)"
+        },
+        {
+          "key": "D",
+          "value": "(II) and (IV)"
+        }
+      ],
+      "answer": "A",
+      "explanation": "<p>Analyzing each statement in regard to colloids:</p>\n\n<p>(I) Lyophobic colloids are <strong>not</strong> formed by simple mixing of dispersed phase and dispersion medium. This statement is correct. Lyophobic colloids (hydrophobic when water is the dispersion medium) have molecules or particles that do not have an affinity towards the dispersion medium. They require special methods to be prepared because the dispersed phase does not naturally mix with the dispersion medium. For example, high-energy inputs like ultrasonication, high-speed stirring, or the addition of stabilizing agents are often needed to create and stabilize these colloids.</p>\n\n<p>(II) For emulsions, both the dispersed phase and the dispersion medium are liquid. This statement is also correct. Emulsions are a type of colloid where both the dispersed phase and the dispersion medium are liquids. These two liquids are immiscible or not capable of mixing together without the help of emulsifying agents (like surfactants) which stabilize the emulsion.</p>\n\n<p>(III) Micelles are produced by dissolving a surfactant in any solvent at any temperature. This statement is incorrect for two reasons. First, micelle formation specifically depends on a critical concentration known as the critical micelle concentration (CMC) above which micelles begin to form in solution. Second, temperature also affects the formation of micelles, as the critical micelle concentration can change with temperature. Not any solvent or any temperature condition will result in micelle formation.</p>\n\n<p>(IV) Tyndall effect can be observed from a colloidal solution with dispersed phase having the same refractive index as that of the dispersion medium. This statement is incorrect. The Tyndall effect is the scattering of light by particles in a colloid or another fine dispersion. For the Tyndall effect to be observed, there must be a significant difference in the refractive index between the dispersed particles and the dispersion medium. If the dispersed phase and the dispersion medium have the same refractive index, the light will not scatter, and the Tyndall effect will not be observed.</p>\n\n<p>Given these analyses, the correct set of statements is Option A: (I) and (II).</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Methylene blue, from its aqueous solution, is adsorbed on activated charcoal at 25<sup>o</sup>C. For this process, the\ncorrect statement is",
+      "options": [
+        {
+          "key": "A",
+          "value": "The adsorption requires activation at 25<sup>o</sup>C."
+        },
+        {
+          "key": "B",
+          "value": "The adsorption is accompanied by a decrease in enthalpy"
+        },
+        {
+          "key": "C",
+          "value": "The adsorption increases with increase of temperature"
+        },
+        {
+          "key": "D",
+          "value": "The adsorption is irreversible"
+        }
+      ],
+      "answer": "B",
+      "explanation": "<p>Methylene blue adsorbs onto activated charcoal from its aqueous solution at 25°C in a process known as physical adsorption (physisorption).</p>\n\n<p>(i) Physical adsorption of methylene blue on activated charcoal can occur at all temperatures, but it is more pronounced at lower temperatures. This means Option (A) is incorrect.</p>\n\n<p>(ii) In the bulk, forces between molecules are balanced. However, molecules on the surface experience unbalanced or residual attractive forces, leading to higher surface energy. These unbalanced forces are responsible for van der Waals attractions between the adsorbent (activated charcoal) and the adsorbate (methylene blue). The formation of these weak attractions reduces the energy of surface molecules, resulting in a decrease in the system's enthalpy. Therefore, Option (B) is correct.</p>\n\n<p>(iii) The extent of physisorption decreases as temperature increases because the weak van der Waals forces weaken at higher temperatures, reducing the adsorbate's ability to adhere to the adsorbent surface. Consequently, Option (C) is incorrect.</p>\n\n<p>(iv) Physical adsorption is a reversible process. As the temperature decreases, the attractive forces between the adsorbent and adsorbate strengthen, increasing the extent of physisorption. Thus, Option (D) is incorrect.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Among the electrolytes Na$$_2$$SO$$_4$$, CaCl$$_2$$, Al$$_2$$(SO$$_4$$)$$_3$$ and NH$$_4$$Cl, the most effective coagulating agent for Sb$$_2$$S$$_3$$ sol is</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "Na$$_2$$SO$$_4$$"
+        },
+        {
+          "key": "B",
+          "value": "CaCl$$_2$$"
+        },
+        {
+          "key": "C",
+          "value": "Al$$_2$$(SO$$_4$$)$$_3$$"
+        },
+        {
+          "key": "D",
+          "value": "NH$$_4$$Cl"
+        }
+      ],
+      "answer": "C",
+      "explanation": "<p>As Sb$$_2$$S$$_3$$ is a negative sol, so, Al$$_2$$(SO$$_4$$)$$_3$$ will be the most effective coagulant due to higher charge density on Al$$^{3+}$$ in accordance with Hardy-Schulze rule.</p>\n<p>Order of effectiveness of cations: Al$$^{3+}$$ > Ca$$^{2+}$$ > Na$$^{+}$$ > NH$$^{+}_{4}$$</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Among the following, the surfactant that will form micelles in aqueous solution at the lowest molar concentration at ambient condition is:</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "CH$$_3$$(CH$$_2$$)$$_{15}$$N$$^+$$(CH$$_3$$)$$_3$$Br$$^-$$"
+        },
+        {
+          "key": "B",
+          "value": "CH$$_3$$(CH$$_2$$)$$_{11}$$OSO$$_3^-$$Na$$^+$$"
+        },
+        {
+          "key": "C",
+          "value": "CH$$_3$$(CH$$_2$$)$$_6$$COO$$^-$$Na$$^+$$"
+        },
+        {
+          "key": "D",
+          "value": "CH$$_3$$(CH$$_2$$)$$_{11}$$N$$^+$$(CH$$_3$$)$$_3$$Br$$^-$$"
+        }
+      ],
+      "answer": "A",
+      "explanation": "<p>The surfactant CH$$_3$$(CH$$_2$$)$$_{15}$$N$$^+$$(CH$$_3$$)$$_3$$Br$$^-$$ forms micelles at lowest concentration.</p>\n<p>Critical concentration for micelle formation decreases as the molecular weight of hydrocarbon chain of surfactant grows because its true solubility diminishes and the tendency of surfactant molecule to associate increases. The molecular weight is maximum in case of CH$$_3$$(CH$$_2$$)$$_{15}$$N$$^+$$(CH$$_3$$)$$_3$$Br$$^-$$.</p>"
+    }
+  ]
+}

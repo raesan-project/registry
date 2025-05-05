@@ -1,0 +1,103 @@
+{
+  "_index": {
+    "name": "Waves"
+  },
+  "_children": [
+    {
+      "_type": "numerical",
+      "body": "A string of length $1 \\mathrm{~m}$ and mass $2 \\times 10^{-5} \\mathrm{~kg}$ is under tension $T$. When the string vibrates, two successive harmonics are found to occur at frequencies $750 \\mathrm{~Hz}$ and $1000 \\mathrm{~Hz}$. The value of tension $T$ is ________ Newton.",
+      "answer": "5",
+      "explanation": "$I=1 \\mathrm{~m}, m=2 \\times 10^{-5} \\mathrm{~kg},$\n<br/><br/>T : Tension in the string.\n<br/><br/>$\\because$ Successive frequencies are being given\n<br/><br/>$\\therefore$ It is the case of both ends fixed.\n<br/><br/>Now,\n<br/><br/>$$\n\\begin{aligned}\n& f_{n+1}-f_n=1000-750 \\\\\\\\\n\\Rightarrow & \\frac{(n+1)}{2 l} \\sqrt{\\frac{T}{\\mu}}-\\frac{n}{2 l} \\sqrt{\\frac{T}{\\mu}}=250 \\\\\\\\\n\\Rightarrow & \\frac{1}{2 l} \\sqrt{\\frac{T}{\\mu}}=250\n\\end{aligned}\n$$\n<br/><br/>$\\begin{aligned} & \\Rightarrow \\sqrt{\\frac{T}{2 \\times 10^{-5}}}=250 \\times 2 \\times 1 \\\\\\\\ & \\Rightarrow \\frac{T}{2 \\times 10^{-5}}=25 \\times 10^{-4} \\\\\\\\ & \\Rightarrow T=50 \\times 10^{-1} \\\\\\\\ & T=5 \\mathrm{~N}\\end{aligned}$"
+    },
+    {
+      "_type": "numerical",
+      "body": "A stationary tuning fork is in resonance with an air column in a pipe. If the tuning fork is moved with\na speed of 2 ms<sup>−1</sup>\nin front of the open end of the pipe and parallel to it, the length of the pipe should\nbe changed for the resonance to occur with the moving tuning fork. If the speed of sound in air is\n320 ms<sup>−1</sup>, the smallest value of the percentage change required in the length of the pipe is\n____________.",
+      "answer": "0.62to0.63",
+      "explanation": "$$f \\propto {1 \\over {{l_1}}} \\Rightarrow f = {k \\over {{l_1}}}$$ ....(i)<br><br>(where, l<sub>1</sub> $$ \\Rightarrow $$ initial length of pipe)<br><br>$$\\left( {{v \\over {v - {v_T}}}} \\right)f = {k \\over {{l_1}}}$$ ....(ii)<br><br>(where, v<sub>T</sub> = speed of tuning fork, l<sub>2</sub> = new length of pipe)<br><br>Dividing Eq. (i) by Eq. (ii), we get<br><br>$${{v - {v_T}} \\over c} = {{{l_2}} \\over {{l_1}}} \\Rightarrow {{{l_2}} \\over {{l_1}}} - 1 = {{v - {v_T}} \\over v} - 1$$<br><br>$${{{l_2} - {l_1}} \\over {{l_1}}} = {{ - {v_T}} \\over v}$$<br><br>$${{{l_2} - {l_1}} \\over {{l_1}}} \\times 100 = {{ - 2} \\over {320}} \\times 100 =  - 0.625$$<br><br>Therefore, smallest value of percentage change required in the length of pipe is 0.625."
+    },
+    {
+      "_type": "numerical",
+      "body": "Four harmonic waves of equal frequencies and equal intensities I<sub>0</sub> have phase angles 0, $${\\pi  \\over 3},{{2\\pi } \\over 3}$$ and $$\\pi$$. When they are superposed, the intensity of the resulting wave is nI<sub>0</sub>. The value of n is",
+      "answer": "3",
+      "explanation": "<p>The intensity of a wave is proportional to the square of its amplitude i.e., I<sub>0</sub> = cA<sup>2</sup>, where c is a constant. The amplitudes of four harmonic waves are equal as their intensities are equal. Let these waves be travelling along the x direction with wave vector k and angular frequency $$\\omega$$. The resultant displacement of these waves is given by</p>\n<p>$$y = {y_1} + {y_2} + {y_3} + {y_4}$$</p>\n<p>$$ = A\\sin (\\omega t - kx + 0) + A\\sin (\\omega t - kx + \\pi /3) + Asin(\\omega t - kx + 2\\pi /3) + A\\sin (\\omega t - kx + \\pi )$$</p>\n<p>$$ = A\\sin (\\omega t - kx + \\pi /3) + Asin(\\omega t - kx + 2\\pi /3)$$</p>\n<p>$$ = 2A\\sin (\\omega t - kx + \\pi /2)\\cos (\\pi /6)$$</p>\n<p>$$ = \\sqrt 3 A\\cos (\\omega t - kx)$$.</p>\n<p>The amplitude of the resultant wave is $${A_r} = \\sqrt 3 A$$ and its intensity is $${I_r} = cA_r^2 = 3c{A^2} = 3{I_0}$$.</p>"
+    },
+    {
+      "_type": "numerical",
+      "body": "<p>When two progressive waves $${y_1} = 4\\sin (2x - 6t)$$ and $${y_2} = 3\\sin \\left( {2x - 6t - {\\pi  \\over 2}} \\right)$$ are superimposed, the amplitude of the resultant wave is __________.</p>",
+      "answer": "5",
+      "explanation": "<p>Here, $${y_1} = 4\\sin (2x - 6t)$$</p>\n<p>$${y_2} = 3\\sin \\left( {2x - 6t - {\\pi  \\over 2}} \\right)$$</p>\n<p>The phase difference between two waves is $$\\phi  = {\\pi  \\over 2}$$</p>\n<p>The amplitude of the resultant wave is</p>\n<p>$$A = \\sqrt {A_1^2 + A_2^2 + 2{A_1}{A_2}\\cos \\phi } $$</p>\n<p>$$ = \\sqrt {{4^2} + {3^2} + 2 \\times 4 \\times 3 \\times \\cos {\\pi  \\over 2}}  = 5$$</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A student is performing the experiment of resonance Column. The diameter of the column tube is\n4 cm. The frequency of the tuning fork is 512 Hz. The air temperature is 38<sup>o</sup>C in which the speed\nof sound is 336 m/s. The zero of the meter scale coincides with the top end of the Resonance\nColumn tube. When the first resonance occurs, the reading of the water level in the column is",
+      "options": [
+        {
+          "key": "A",
+          "value": "14.0 cm"
+        },
+        {
+          "key": "B",
+          "value": "15.2 cm"
+        },
+        {
+          "key": "C",
+          "value": "16.4 cm"
+        },
+        {
+          "key": "D",
+          "value": "17.6 cm"
+        }
+      ],
+      "answer": "B",
+      "explanation": "<p>A student is conducting a resonance column experiment. The tube has a diameter of 4 cm, and the tuning fork vibrates at 512 Hz. The air temperature is 38<sup>o</sup>C, where the speed of sound is 336 m/s. The zero mark on the meter stick aligns with the top of the tube. For the first resonance, the water level reads :</p>\n\n<p>During the first resonance :</p>\n\n<p>$$ \\frac{\\lambda}{4} = l_1 + e $$</p>\n\n<p>where $ l_1 $ is the length of the air column at resonance</p>\n\n<p>Given that :</p>\n\n<p>$$ \\text{end correction} = e = 0.6r = 0.6 \\times 2 = 1.2 \\, \\text{cm} $$</p>\n\n<p>where $ r $ is the radius of the tube</p>\n\n<p>The wavelength $ \\lambda $ can be expressed as :</p>\n\n<p>$$ \\lambda = 4(l_1 + e) $$</p>\n\n<p>The frequency $ f $ is related to the wavelength $ \\lambda $ by :</p>\n\n<p>$$ f = \\frac{v}{\\lambda} = \\frac{v}{4(l_1 + e)} $$</p>\n\n<p>Rearranging for $ l_1 $ :</p>\n\n<p>$$ 4(l_1 + e) = \\frac{v}{f} $$</p>\n\n<p>Solving for $ l_1 $ :</p>\n\n<p>$$ l_1 = \\frac{v}{4f} - e $$</p>\n\n<p>Substitute the given values :</p>\n\n<p>$$ l_1 = \\frac{336 \\, \\text{m/s}}{4 \\times 512 \\, \\text{Hz}} - 0.012 \\, \\text{m} $$</p>\n\n<p>$$ l_1 = \\frac{336}{2048} - 0.012 $$</p>\n\n<p>$$ l_1 = 0.164 \\, \\text{m} - 0.012 \\, \\text{m} $$</p>\n\n<p>$$ l_1 = 0.152 \\, \\text{m} $$</p>\n\n<p>Converting to cm :</p>\n\n<p>$$ l_1 = 15.2 \\, \\text{cm} $$</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A police car with a siren of frequency 8 kHz is moving with uniform velocity 36 km/hr towards a tall\nbuilding which reflects the sound waves. The speed of sound in air is 320 m/s. The frequency of the siren\nheard by the car driver is",
+      "options": [
+        {
+          "key": "A",
+          "value": "8.50 kHz"
+        },
+        {
+          "key": "B",
+          "value": "8.25 kHz"
+        },
+        {
+          "key": "C",
+          "value": "7.75 kHz"
+        },
+        {
+          "key": "D",
+          "value": "7.50 kHz"
+        }
+      ],
+      "answer": "A",
+      "explanation": "<p>u = 36 km h<sup>$$-$$1</sup> = 10 ms<sup>$$-$$1</sup>,</p>\n<p>$$v$$ = 320 ms<sup>$$-$$1</sup>, $$\\nu $$ = 8 kHz</p>\n<p>The sound reflected from the building may be imagined to be coming from the mirror image. The driver is approaching the image-source which is also approaching him with the same speed. Hence the frequency of sound heard by the driver is</p>\n<p>$$\\nu $$' = $$\\nu $$ $$\\left( {{{v + u} \\over {v - u}}} \\right)$$</p>\n<p>= 8 kHz $$\\times$$ $$\\left( {{{320 + 10} \\over {320 - 10}}} \\right)$$ = 8.5 kHz</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>A vibrating string of certain length 1 under a tension T resonates with a mode corresponding to the first overtone (third harmonic) of an air column of length 75 cm inside a tube closed at one end. The string also generates 4 beats per second when excited along with a tuning fork of frequency n. Now when the tension of the string is slightly increased the number of beats reduces to 2 per second. Assuming the velocity of sound in air to be 340 m/s, the frequency n of the tuning fork in Hz is:</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "344"
+        },
+        {
+          "key": "B",
+          "value": "336"
+        },
+        {
+          "key": "C",
+          "value": "117.3"
+        },
+        {
+          "key": "D",
+          "value": "109.3"
+        }
+      ],
+      "answer": "A",
+      "explanation": "<p>Let f be frequency of string</p>\n<p>According to close open pipe, we have</p>\n<p>$$ \\Rightarrow f = {{3V} \\over {4l}} = {{3 \\times 340} \\over {4 \\times 75 \\times {{10}^{ - 2}}}}$$</p>\n<p>$$ = 340$$ Hz</p>\n<p>Where, $$V = 340$$ m/s</p>\n<p>$$l = 75$$ cm $$ \\times {10^{ - 2}}$$ m</p>\n<p>$$ = 75 \\times {10^{ - 2}}$$ m</p>\n<p>And, n = frequency of tuning fork</p>\n<p>$$ = (340 + 4)$$ or $$(340 - 4)$$</p>\n<p>$$ \\Rightarrow n = 344$$ or 336</p>\n<p>As tension T increase, beat frequency decrease</p>\n<p>But frequency of tuning fork increases</p>\n<p>$$\\therefore$$ $$n = 344$$ Hz</p>"
+    }
+  ]
+}

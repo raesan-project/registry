@@ -1,0 +1,37 @@
+{
+  "_index": {
+    "name": "Impulse & Momentum"
+  },
+  "_children": [
+    {
+      "_type": "single_mcq",
+      "body": "<p>A block of mass $5 \\mathrm{~kg}$ moves along the $x$-direction subject to the force $F=(-20 x+10) \\mathrm{N}$, with the value of $x$ in metre. At time $t=0 \\mathrm{~s}$, it is at rest at position $x=1 \\mathrm{~m}$. The position and momentum of the block at $t={\\pi  \\over 4} \\mathrm{s}$ are</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "$-0.5 \\mathrm{~m}, 5 \\mathrm{~kg} \\mathrm{~m} / \\mathrm{s}$"
+        },
+        {
+          "key": "B",
+          "value": "$0.5 \\mathrm{~m}, 0 \\mathrm{~kg} \\mathrm{~m} / \\mathrm{s}$"
+        },
+        {
+          "key": "C",
+          "value": "$0.5 \\mathrm{~m},-5 \\mathrm{~kg} \\mathrm{~m} / \\mathrm{s}$"
+        },
+        {
+          "key": "D",
+          "value": "$-1 \\mathrm{~m}, 5 \\mathrm{~kg} \\mathrm{~m} / \\mathrm{s}$"
+        }
+      ],
+      "answer": "C",
+      "explanation": "<p>Let's solve the problem step by step. We are given a block of mass $5 \\mathrm{~kg}$ subjected to a force $F = (-20x + 10) \\mathrm{N}$. To find the position and momentum of the block at $t = \\frac{\\pi}{4}$ seconds, we'll use the equations of motion and integrate the force to find the acceleration, velocity, and position.</p>\n\n<p>First, we start with Newton's second law:</p>\n\n<p>\n$$F = m \\cdot a$$\n</p>\n\n<p>Given:</p>\n\n<p>\n$$m = 5 \\mathrm{~kg}$$\n$$F = -20x + 10$$\n</p>\n\n<p>So, the acceleration $a$ can be expressed as:</p>\n\n<p>\n$$a = \\frac{F}{m} = \\frac{-20x + 10}{5} = -4x + 2$$\n</p>\n\n<p>Acceleration is the second derivative of position with respect to time:</p>\n\n<p>\n$$a = \\frac{d^2 x}{dt^2} = -4x + 2$$\n</p>\n\n<p>To solve this differential equation, let's solve it step by step. Assume a solution of the form $x(t) = A \\cos(\\omega t) + B \\sin(\\omega t) + C$. Consider using the method of undetermined coefficients:</p>\n\n<p>We first need to find the homogeneous solution (no forcing term):</p>\n\n<p>\n$$\\frac{d^2 x_h}{dt^2} + 4x_h = 0$$\n</p>\n\n<p>This is a second-order homogeneous differential equation with constant coefficients. Its characteristic equation is:</p>\n\n<p>\n$$r^2 + 4 = 0$$\n</p>\n\n<p>Solving for $r$:</p>\n\n<p>\n$$r = \\pm 2i$$\n</p>\n\n<p>Thus, the general solution to the homogeneous equation is:</p>\n\n<p>\n$$x_h(t) = A \\cos(2t) + B \\sin(2t)$$\n</p>\n\n<p>Next, we need a particular solution to the non-homogeneous equation:</p>\n\n<p>\n$$x_p = C$$\n</p>\n\n<p>Substituting $x_p$ into the differential equation:</p>\n\n<p>\n$$a = -4C + 2 = 0 \\implies C = \\frac{1}{2}$$\n</p>\n\n<p>Therefore, the general solution of the differential equation is:</p>\n\n<p>\n$$x(t) = A \\cos(2t) + B \\sin(2t) + \\frac{1}{2}$$\n</p>\n\n<p>Using the initial conditions to determine $A$ and $B$:</p>\n\n<p>At $t = 0$, $x(0) = 1$:</p>\n\n<p>\n$$1 = A \\cdot \\cos(0) + B \\cdot \\sin(0) + \\frac{1}{2} \\implies 1 = A + \\frac{1}{2} \\implies A = \\frac{1}{2}$$\n</p>\n\n<p>Since the block is initially at rest, $\\frac{dx}{dt}|_{t=0} = 0$:</p>\n\n<p>\n$$\\frac{dx}{dt} = -2A \\sin(2t) + 2B \\cos(2t)$$\n</p>\n\n<p>At $t = 0$:</p>\n\n<p>\n$$0 = -2A \\cdot \\sin(0) + 2B \\cdot \\cos(0) = 2B \\implies B = 0$$\n</p>\n\n<p>Therefore, the position equation simplifies to:</p>\n\n<p>\n$$x(t) = \\frac{1}{2} \\cos(2t) + \\frac{1}{2}$$\n</p>\n\n<p>Now, we find the position at $t = \\frac{\\pi}{4}$ seconds:</p>\n\n<p>\n$$x\\left(\\frac{\\pi}{4}\\right) = \\frac{1}{2} \\cos\\left(2 \\cdot \\frac{\\pi}{4}\\right) + \\frac{1}{2} = \\frac{1}{2} \\cos\\left(\\frac{\\pi}{2}\\right) + \\frac{1}{2} = \\frac{1}{2} \\cdot 0 + \\frac{1}{2} = \\frac{1}{2} \\mathrm{~m}$$\n</p>\n\n<p>To find the momentum, we first find the velocity by differentiating the position function:</p>\n\n<p>\n$$v(t) = \\frac{dx}{dt} = -\\sin(2t)$$\n</p>\n\n<p>Thus, the velocity at $t = \\frac{\\pi}{4}$ is:</p>\n\n<p>\n$$v\\left(\\frac{\\pi}{4}\\right) = -\\sin\\left(2 \\cdot \\frac{\\pi}{4}\\right) = -\\sin\\left(\\frac{\\pi}{2}\\right) = -1$$\n</p>\n\n<p>Finally, the momentum $p$ is given by:</p>\n\n<p>\n$$p = m \\cdot v = 5 \\mathrm{~kg} \\cdot -1 \\mathrm{~m/s} = -5 \\mathrm{~kg \\cdot m/s}$$\n</p>\n\n<p>Therefore, the position and momentum of the block at $t = \\frac{\\pi}{4} \\mathrm{s}$ are:</p>\n\n<p>Position: $0.5 \\mathrm{~m}$</p>\n<p>Momentum: $-5 \\mathrm{~kg \\cdot m/s}$</p>\n\n<p>The correct option is:</p>\n<p>Option C: $0.5 \\mathrm{~m}, -5 \\mathrm{~kg} \\cdot \\mathrm{m} / \\mathrm{s}$</p>"
+    },
+    {
+      "_type": "numerical",
+      "body": "A pendulum consists of a bob of mass m = 0.1 kg and a massless inextensible string of length L = 1.0 m. It is suspended from a fixed point at height H = 0.9 m above a frictionless horizontal floor. Initially, the bob of the pendulum is lying on the floor at rest vertically below the point of suspension. A horizontal impulse P = 0.2 kg-m/s is imparted to the bob at some instant. After the bob slides for some distance, the string becomes taut and the bob lifts off the floor. The magnitude of the angular momentum of the pendulum about the point of suspension just before the bob lifts off is J kg-m<sup>2</sup>/s. The kinetic energy of the pendulum just after the lift-off is K Joules.<br><br>The value of J is ___________.",
+      "answer": "0.18",
+      "explanation": "Angular momentum, L = P $$\\times$$ 0.9 = 0.18 kgm<sup>2</sup>/s"
+    }
+  ]
+}

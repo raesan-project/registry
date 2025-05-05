@@ -1,0 +1,79 @@
+{
+  "_index": {
+    "name": "Electromagnetic Waves"
+  },
+  "_children": [
+    {
+      "_type": "single_mcq",
+      "body": "In electromagnetic theory, the electric and magnetic phenomena are related to each other. Therefore, the dimensions of electric and magnetic quantities must also be related to each other. In the questions below, $$[E]$$ and $$[B]$$ stand for dimensions of electric and magnetic fields respectively, while $$\\left[ {{\\varepsilon _0}} \\right]$$ and $$\\left[ {{\\mu _0}} \\right]$$ stand for dimensions of the permittivity and permeability of free space respectively. $$\\left[ L \\right]$$ and $$\\left[ T \\right]$$ are dimensions of length and time respectively. All the quantities are given in $$SI$$ units. \n<br><br>The relation between $$\\left[ {{\\varepsilon _0}} \\right]$$ and $$\\left[ {{\\mu _0}} \\right]$$ is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$\\left[ {{\\mu _0}} \\right] = \\left[ {{\\varepsilon _0}} \\right]{\\left[ L \\right]^2}{\\left[ T \\right]^{ - 2}}$$ "
+        },
+        {
+          "key": "B",
+          "value": "$$\\left[ {{\\mu _0}} \\right] = \\left[ {{\\varepsilon _0}} \\right]{\\left[ L \\right]^{ - 2}}{\\left[ T \\right]^2}$$ "
+        },
+        {
+          "key": "C",
+          "value": "$$\\left[ {{\\mu _0}} \\right] = {\\left[ {{\\varepsilon _0}} \\right]^{ - 1}}{\\left[ L \\right]^2}{\\left[ T \\right]^{ - 2}}$$ "
+        },
+        {
+          "key": "D",
+          "value": "$$\\left[ {{\\mu _0}} \\right] = {\\left[ {{\\varepsilon _0}} \\right]^{ - 1}}{\\left[ L \\right]^{ - 2}}{\\left[ T \\right]^2}$$ "
+        }
+      ],
+      "answer": "D",
+      "explanation": "<p>$$c = {1 \\over {\\sqrt {{\\mu _0}{\\varepsilon _0}} }}$$</p>\n<p>$${c^2} = {1 \\over {{\\mu _0}{\\varepsilon _0}}}$$</p>\n<p>$${\\mu _0} = \\varepsilon _0^{ - 1}\\,.\\,{c^{ - 2}}$$</p>\n<p>$$[{\\mu _0}] = {[{\\varepsilon _0}]^{ - 1}}[{L^{ - 2}}{T^2}]$$</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "In electromagnetic theory, the electric and magnetic phenomena are related to each other. Therefore, the dimensions of electric and magnetic quantities must also be related to each other. In the questions below, $$[E]$$ and $$[B]$$ stand for dimensions of electric and magnetic fields respectively, while $$\\left[ {{\\varepsilon _0}} \\right]$$ and $$\\left[ {{\\mu _0}} \\right]$$ stand for dimensions of the permittivity and permeability of free space respectively. $$\\left[ L \\right]$$ and $$\\left[ T \\right]$$ are dimensions of length and time respectively. All the quantities are given in $$SI$$ units. \n<br><br>The relation between $$[E]$$ and $$[B]$$ is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$\\left[ E \\right] = \\left[ B \\right]\\left[ L \\right]\\left[ T \\right]$$ "
+        },
+        {
+          "key": "B",
+          "value": "$$\\left[ E \\right] = \\left[ B \\right]{\\left[ L \\right]^{ - 1}}\\left[ T \\right]$$ "
+        },
+        {
+          "key": "C",
+          "value": "$$\\left[ E \\right] = \\left[ B \\right]\\left[ L \\right]{\\left[ T \\right]^{ - 1}}$$ "
+        },
+        {
+          "key": "D",
+          "value": "$$\\left[ E \\right] = \\left[ B \\right]{\\left[ L \\right]^{ - 1}}{\\left[ T \\right]^{ - 1}}$$ "
+        }
+      ],
+      "answer": "C",
+      "explanation": "<p>We know $$B = {E \\over c}$$ or $$E = Bc$$</p>\n<p>Now, $$[E] = [B][c]$$</p>\n<p>We know that $$[c] = [L{T^{ - 1}}]$$</p>\n<p>Therefore, $$[E] = [B][L{T^{ - 1}}] = [B][L]{[T]^{ - 1}}$$</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>A pulse of light of duration 100 ns is absorbed completely by a small object initially at rest. Power of the pulse is 30 mW and the speed of light is 3 $$\\times$$ 10<sup>8</sup> ms<sup>$$-$$1</sup>. The final momentum of the object is</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "0.3 $$\\times$$ 10<sup>$$-$$17</sup> kg-ms<sup>$$-$$1</sup>"
+        },
+        {
+          "key": "B",
+          "value": "1.0 $$\\times$$ 10<sup>$$-$$17</sup> kg-ms<sup>$$-$$1</sup>"
+        },
+        {
+          "key": "C",
+          "value": "3.0 $$\\times$$ 10<sup>$$-$$17</sup> kg-ms<sup>$$-$$1</sup>"
+        },
+        {
+          "key": "D",
+          "value": "9.0 $$\\times$$ 10<sup>$$-$$17</sup> kg-ms<sup>$$-$$1</sup>"
+        }
+      ],
+      "answer": "B",
+      "explanation": "<p>Duration of pulse, t = 100 ns = 100 $$\\times$$ 10<sup>$$-$$9</sup> s.</p>\n<p>Power of the pulse, P = 30 mW = 30 $$\\times$$ 10<sup>$$-$$3</sup> W.</p>\n<p>Speed of light, c = 3 $$\\times$$ 10<sup>8</sup> ms<sup>$$-$$1</sup></p>\n<p>The final momentum of the object is</p>\n<p>$$p = {E \\over c} = {{P \\times t} \\over c} = {{30 \\times {{10}^{ - 3}} \\times 100 \\times {{10}^{ - 9}}} \\over {3 \\times {{10}^8}}} = {10^{ - 17}}$$ kg-ms<sup>$$-$$1</sup></p>"
+    }
+  ]
+}

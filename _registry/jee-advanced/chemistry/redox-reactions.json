@@ -1,0 +1,301 @@
+{
+  "_index": {
+    "name": "Redox Reactions"
+  },
+  "_children": [
+    {
+      "_type": "numerical",
+      "body": "A sample (5.6 g) containing iron is completely dissolved in cold dilute HCl to prepare a 250 mL of solution. Titration of 25.0 mL of this solution requires 12.5 mL of 0.03 M KMnO<sub>4</sub> solution to reach the end point. Number of moles of Fe<sup>2+</sup> present in 250 mL solution is x $$\\times$$ 10<sup>$$-$$2</sup> (consider complete dissolution of FeCl<sub>2</sub>). The amount of iron present in the sample is y% by weight.<br><br>(Assume : KMnO<sub>4</sub> reacts only with Fe<sup>2+</sup> in the solution <br><br>Use : Molar mass of iron as 56 g mol<sup>$$-$$1</sup>)<br><br>The value of x is ______.",
+      "answer": "1.875",
+      "explanation": "$$\\mathop {Fe}\\limits_{(x \\times {{10}^{ - 2}}mol)}  + 2HCl \\to \\mathop {FeC{l_2}}\\limits_{(x \\times {{10}^{ - 2}}mol)}  + {H_2}$$<br/><br/>Concentration of Fe<sup>2+</sup>, $${M_1} = {{x \\times {{10}^{ - 2}}} \\over {250}} \\times 1000$$<br/><br/>$$ = {{10x} \\over {250}}M = {x \\over {25}}M$$<br/><br/>Volume of Fe<sup>2+</sup> solution titrated, V<sub>1</sub> = 25.0 mL<br/><br/>Concentration of $$MnO_4^ - $$, M<sub>2</sub> = 0.03 M<br/><br/>Volume of $$MnO_4^ - $$ used, V<sub>2</sub> = 12.5 mL<br/><br/>$$5F{e^{2 + }} + MnO_4^ -  \\to M{n^{2 + }} + 5F{e^{3 + }}$$<br/><br/>Using relation,<br/><br/>$${{{M_1}{V_1}} \\over {{n_1}}} = {{{M_2}{V_2}} \\over {{n_2}}}$$<br/><br/>n<sub>2</sub>M<sub>1</sub>V<sub>1</sub> = n<sub>1</sub>M<sub>2</sub>V<sub>2</sub> [n<sub>1</sub> and n<sub>2</sub> are number of moles of Fe<sup>2+</sup> and MnO$$_4^ - $$ reacting]<br/><br/>$$1 \\times {x \\over {25}} \\times 25 = 5 \\times 0.03 \\times 12.5 \\Rightarrow x = 1.88$$<br/><br/>The volume of x is 1.88."
+    },
+    {
+      "_type": "numerical",
+      "body": "A sample (5.6 g) containing iron is completely dissolved in cold dilute HCl to prepare a 250 mL of solution. Titration of 25.0 mL of this solution requires 12.5 mL of 0.03 M KMnO<sub>4</sub> solution to reach the end point. Number of moles of Fe<sup>2+</sup> present in 250 mL solution is x $$\\times$$ 10<sup>$$-$$2</sup> (consider complete dissolution of FeCl<sub>2</sub>). The amount of iron present in the sample is y% by weight.<br><br>(Assume : KMnO<sub>4</sub> reacts only with Fe<sup>2+</sup> in the solution <br><br>Use : Molar mass of iron as 56 g mol<sup>$$-$$1</sup>)<br><br>The value of y is ______.",
+      "answer": "18.75",
+      "explanation": "Mass of sample = 5.6 g<br/><br/>Number of moles of Fe  = 1.88 $$\\times$$ 10<sup>$$-$$2</sup> mol<br/><br/>Molar mass of Fe = 56 g/mol<br/><br/>Mass of Fe = Moles of Fe $$\\times$$ Molar mass<br/><br/>= 1.88 $$\\times$$ 10<sup>$$-$$2</sup> $$\\times$$ 56 = 1.05 g<br/><br/>% Fe = $${{Mass\\,of\\,Fe} \\over {Mass\\,of\\,sample}} \\times 100 = {{1.05} \\over {5.6}} \\times 100$$<br/><br/>$$\\Rightarrow$$ y = 18.75%<br/><br/>The value of y is 18.75."
+    },
+    {
+      "_type": "numerical",
+      "body": "Ozonolysis of ClO<sub>2</sub> produces an oxide of chlorine. The average oxidation state of chlorine in this oxide is __________.",
+      "answer": "6",
+      "explanation": "<p>$$\\mathop {2Cl{O_2}}\\limits_{Chlorine\\,dioxide}  + 2{O_3}\\buildrel {} \\over\n \\longrightarrow \\mathop {C{l_2}{O_6}}\\limits_{Chloral\\,perchlorate}  + 2{O_2}$$</p>\n<p>Oxidation state of Cl in Cl<sub>2</sub>O<sub>6</sub> = 2x + 6($$-$$2) = 0</p>\n<p>2x $$-$$ 12 = 0</p>\n<p>2x = 12 $$\\Rightarrow$$ x = + 6</p>\n<p>Average oxidation state of Cl in Cl<sub>2</sub>O<sub>6</sub> is 6.</p>"
+    },
+    {
+      "_type": "numerical",
+      "body": "In neutral or faintly alkaline solution, 8 moles of permanganate anion quantitative oxidise thiosulphate anions to produce X moles of a sulphur containing product. The magnitude of X is.... ",
+      "answer": "6",
+      "explanation": "<p>In neutral or faintly alkaline solution, thiosulphate is\noxidized to sulphate by permanganate,</p>\n<p>8MnO<sub>4</sub><sup>–</sup> + 3S<sub>2</sub>O<sub>3</sub><sup>2–</sup> + H<sub>2</sub>O $$ \\to $$ 8MnO<sub>2</sub> + 6SO<sub>4</sub><sup>2–</sup> + 2OH<sup>–</sup></p>"
+    },
+    {
+      "_type": "numerical",
+      "body": "Consider the following list of reagents, acidified K<sub>2</sub>Cr<sub>2</sub>O<sub>7</sub>, alkaline KMnO<sub>4</sub>, CuSO<sub>4</sub>, H<sub>2</sub>O<sub>2</sub>, Cl<sub>2</sub>, O<sub>3</sub>, FeCl<sub>3</sub>, HNO<sub>3</sub> and Na<sub>2</sub>S<sub>2</sub>O<sub>3</sub>. The total number of reagents that can oxidise aqueous iodide to iodine is",
+      "answer": "7",
+      "explanation": "Acidified K<sub>2</sub>Cr<sub>2</sub>O<sub>7</sub>, CuSO<sub>4</sub>, H<sub>2</sub>O<sub>2</sub>, Cl<sub>2</sub>, O<sub>3</sub>, FeCl<sub>3</sub> and HNO<sub>3</sub> oxidise aq. iodide to iodine. Alkaline KMnO<sub>4</sub> oxidise aq. iodide to IO$$_3^ - $$.<br/><br/>Na<sub>2</sub>S<sub>2</sub>O<sub>3</sub> is a strong reducing agent which on reaction with I<sub>2</sub> produces I<sup>$$-$$</sup>.<br/><br/>Na<sub>2</sub>S<sub>2</sub>O<sub>3</sub> + I<sub>2</sub> $$\\to$$ 2I<sup>$$-$$</sup> + Na<sub>2</sub>S<sub>4</sub>O<sub>6</sub><br/><br/>Therefore, no reaction takes place between Na<sub>2</sub>S<sub>2</sub>O<sub>3</sub> and iodide ion. Hence, correct integer is (7)."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The order of the oxidation state of the phosphorous atom in \n<br><br>$${H_3}P{O_2},{H_3}P{O_4},{H_3}P{O_3}$$ and $${H_4}{P_2}{O_6}$$ is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$${H_3}P{O_3} &gt; {H_3}P{O_2} &gt; {H_3}P{O_4} &gt; {H_4}{P_2}{O_6}$$ "
+        },
+        {
+          "key": "B",
+          "value": "$${H_3}P{O_4} &gt; {H_3}P{O_2} &gt; {H_3}P{O_3} &gt; {H_4}{P_2}{O_6}$$ "
+        },
+        {
+          "key": "C",
+          "value": "$${H_3}P{O_4} &gt; {H_4}{P_2}{O_6} &gt; {H_3}P{O_3} &gt; {H_3}P{O_2}$$ "
+        },
+        {
+          "key": "D",
+          "value": "$${H_3}P{O_2} &gt; {H_3}P{O_3} &gt; {H_4}{P_2}{O_6} &gt; {H_3}P{O_4}$$ "
+        }
+      ],
+      "answer": "C",
+      "explanation": "<p>Let oxidation states of phosphorus in H<sub>3</sub>PO<sub>2</sub>, H<sub>3</sub>PO<sub>4</sub>, H<sub>3</sub>PO<sub>3</sub> and H<sub>4</sub>P<sub>2</sub>O<sub>6</sub> be p, q, r and s respectively.</p>\n<p>Oxidation state of hydrogen = + 1</p>\n<p>Oxidation state of oxygen = $$-$$2</p>\n<p>Thus, in H<sub>3</sub>PO<sub>2</sub> :</p>\n<p>3 $$\\times$$ (+1) + p + 2 $$\\times$$ ($$-$$2) = 0 $$\\therefore$$ p = +1</p>\n<p>In H<sub>3</sub>PO<sub>4</sub> :</p>\n<p>3 $$\\times$$ (+1) + q + 4 $$\\times$$ ($$-$$2) = 0 $$\\therefore$$ q = +5</p>\n<p>In H<sub>3</sub>PO<sub>3</sub> :</p>\n<p>3 $$\\times$$ (+1) + r + 3 $$\\times$$ ($$-$$2) = 0 $$\\therefore$$ r = + 3</p>\n<p>In H<sub>4</sub>P<sub>2</sub>O<sub>6</sub> :</p>\n<p>4 $$\\times$$ (+1) + 2s + 6 $$\\times$$ ($$-$$2) = 0 $$\\therefore$$ s = +4</p>\n<p>Thus, the order of oxidation state is :</p>\n<p>H<sub>3</sub>PO<sub>4</sub> > H<sub>4</sub>P<sub>2</sub>O<sub>6</sub> > H<sub>3</sub>PO<sub>3</sub> > H<sub>3</sub>PO<sub>2</sub></p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The reaction, $$3Cl{O^ - }(aq)$$$$ \\to ClO_3^ - (aq) + 2C{l^ - }(aq)$$ is an example of :\n",
+      "options": [
+        {
+          "key": "A",
+          "value": "Oxidation reaction"
+        },
+        {
+          "key": "B",
+          "value": "Reduction reaction"
+        },
+        {
+          "key": "C",
+          "value": "Disproportionate reaction"
+        },
+        {
+          "key": "D",
+          "value": "Decomposition reaction"
+        }
+      ],
+      "answer": "C",
+      "explanation": "<p>The given reaction is:</p>\n\n<p>$$3ClO^- (aq) \\to ClO_3^- (aq) + 2Cl^- (aq)$$</p>\n\n<p>This reaction is an example of a Disproportionation Reaction. Disproportionation reactions are a type of redox reaction in which the same element is simultaneously oxidized and reduced. In this given reaction, chlorine undergoes both oxidation and reduction.</p>\n\n<p>To understand why it is a disproportionation reaction, let's assign oxidation states to chlorine in different species:</p>\n\n<ul>\n<li>In $ClO^-$, chlorine has an oxidation state of +1.</li><br>\n<li>In $ClO_3^-$, chlorine has an oxidation state of +5.</li><br>\n<li>In $Cl^-$, chlorine has an oxidation state of -1.</li>\n</ul>\n<p>In going from $ClO^-$ to $ClO_3^-$, the oxidation state of chlorine increases from +1 to +5, indicating oxidation. Simultaneously, in going from $ClO^-$ to $Cl^-$, the oxidation state of chlorine decreases from +1 to -1, indicating reduction. Since one species of chlorine is getting oxidized while another is getting reduced, and both processes involve the same element (chlorine in this case), it classifies as a disproportionation reaction.</p>\n\n<p>Therefore, the correct answer is:</p>\n\n<p><strong>Option C: Disproportionate reaction</strong></p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Amongst the following identify the species with an atom in +6 oxidation state",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$MnO_4^ - $$"
+        },
+        {
+          "key": "B",
+          "value": "$$Cr(CN)_6^{3 - }$$"
+        },
+        {
+          "key": "C",
+          "value": "$$NiF_6^{2 - }$$"
+        },
+        {
+          "key": "D",
+          "value": "$$Cr{O_2}C{l_2}$$"
+        }
+      ],
+      "answer": "D",
+      "explanation": "<p>To identify the species with an atom in +6 oxidation state, let's analyze each option given:</p>\n\n<p><strong>Option A: $MnO_4^-$</strong></p>\n\n<p>To determine the oxidation state of Mn in $MnO_4^-$, recall that the oxidation state of oxygen is typically -2. In the permanganate ion, there are four oxygens, contributing a total of $4 \\times (-2) = -8$ to the charge. The overall charge of the $MnO_4^-$ ion is -1, which means the oxidation state of Mn must balance the charge contributed by oxygen to achieve the overall -1 charge. Thus, if we let the oxidation state of Mn be x, we have:</p>\n\n<p>$$x + 4(-2) = -1$$</p>\n\n<p>Solving for x gives:</p>\n\n<p>$$x - 8 = -1 \\Rightarrow x = +7$$</p>\n\n<p><strong>Option B: $Cr(CN)_6^{3-}$</strong></p>\n\n<p>For the $Cr(CN)_6^{3-}$ ion, cyanide $(CN)^-$ is a ligand with a -1 charge. With six cyanide ions, the total charge contributed by the ligands is $6 \\times (-1) = -6$. The overall charge of the complex is -3, which means the oxidation state of Cr must offset the ligands' charge to achieve the overall -3 charge. Letting the oxidation state of Cr be x, we can set up the equation:</p>\n\n<p>$$x + 6(-1) = -3$$</p>\n\n<p>Solving for x gives:</p>\n\n<p>$$x - 6 = -3 \\Rightarrow x = +3$$</p>\n\n<p><strong>Option C: $NiF_6^{2-}$</strong></p>\n\n<p>In $NiF_6^{2-}$, the fluoride ion $(F^-)$ has an oxidation state of -1. With six fluoride ions, the total charge from the fluoride ions is $6 \\times (-1) = -6$. For the complex to have an overall charge of -2, the oxidation state of Ni (let's call it x) needs to satisfy the following equation:</p>\n\n<p>$$x + 6(-1) = -2$$</p>\n\n<p>Solving for x gives:</p>\n\n<p>$$x - 6 = -2 \\Rightarrow x = +4$$</p>\n\n<p><strong>Option D: $CrO_2Cl_2$</strong></p>\n\n<p>In chromium dioxide dichloride, we have two oxygen atoms and two chlorine atoms bonded to chromium. Oxygen has a typical oxidation state of -2, and chlorine has a typical oxidation state of -1. However, being in a molecule (not an ion), the total must sum to zero. Let the oxidation state of Cr be x; we can set up the equation as follows:</p>\n\n<p>$$x + 2(-2) + 2(-1) = 0$$</p>\n\n<p>This simplifies to:</p>\n\n<p>$$x - 4 - 2 = 0 \\Rightarrow x = +6$$</p>\n\n<p><strong>Conclusion:</strong> From the analysis above, the species with a chromium atom in the +6 oxidation state is found in Option D: $CrO_2Cl_2$.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The normality of 0.3 M phosphorus acid (H<sub>3</sub>PO<sub>3</sub>) is",
+      "options": [
+        {
+          "key": "A",
+          "value": "0.1"
+        },
+        {
+          "key": "B",
+          "value": "0.9"
+        },
+        {
+          "key": "C",
+          "value": "0.3"
+        },
+        {
+          "key": "D",
+          "value": "0.6"
+        }
+      ],
+      "answer": "D",
+      "explanation": "<p>Normality (N) is a measure of concentration equivalent to the gram equivalent weight per liter of solution. For acids, it's determined by the amount of H<sup>+</sup> ions that one molecule of acid can furnish in its reaction. Phosphorous acid, $H_3PO_3$, is a diprotic acid, meaning each molecule can furnish two H<sup>+</sup> ions for reactions, despite having three hydrogen atoms, because only two of the hydrogen atoms are bonded in such a way that they can be ionized and participate in a reaction as protons ($H^+$).</p>\n\n<p>To calculate the normality of a solution, you use the formula:</p>\n\n<p>$N = M \\times n$</p>\n\n<p>where:</p>\n\n<ul>\n\n<li>$N$ is the normality,</li>\n\n<li>$M$ is the molarity of the solution, and</li>\n\n<li>$n$ is the number of moles of replaceable ions furnished by one mole of solute (in this case, the $H^+$ ions from phosphorus acid).</li>\n\n</ul>\n\n<p>Given that the molarity ($M$) of phosphorus acid is 0.3 M, and it can furnish 2 $H^+$ ions per molecule, we use $n = 2$:</p>\n\n<p>$N = 0.3 \\,M \\times 2 = 0.6\\,N$</p>\n\n<p>Therefore, the normality of the 0.3 M phosphorus acid ($H_3PO_3$) solution is 0.6 N. So, the correct option is:</p>\n\n<p><strong>Option D: 0.6</strong></p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "For the redox reaction:<br>\n$$MnO_4^ -  + {C_2}O_4^{ - 2} + {H^ + }$$ $$ \\to M{n^{2 + }} + C{O_2} + {H_2}O$$<br>\nThe correct coefficients of the reactants for the balanced \nreaction are",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$MnO_4^ - \\,\\, \\to \\,\\,2,\\,\\,{C_2}O_4^{2 - }\\, \\to \\,\\,5,\\,{H^ + } \\to \\,\\,16$$ "
+        },
+        {
+          "key": "B",
+          "value": "$$MnO_4^ - \\,\\, \\to \\,\\,16,\\,\\,{C_2}O_4^{2 - }\\, \\to \\,\\,5,\\,{H^ + } \\to \\,\\,2$$"
+        },
+        {
+          "key": "C",
+          "value": "$$MnO_4^ - \\,\\, \\to \\,\\,5,\\,\\,{C_2}O_4^{2 - }\\, \\to \\,\\,16,\\,{H^ + } \\to \\,\\,2$$"
+        },
+        {
+          "key": "D",
+          "value": "$$MnO_4^ - \\,\\, \\to \\,\\,2,\\,\\,{C_2}O_4^{2 - }\\, \\to \\,\\,16,\\,{H^ + } \\to \\,\\,5$$"
+        }
+      ],
+      "answer": "A",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The volume strength of 1.5 N H<sub>2</sub>O<sub>2</sub> solution is",
+      "options": [
+        {
+          "key": "A",
+          "value": "4.8"
+        },
+        {
+          "key": "B",
+          "value": "8.4"
+        },
+        {
+          "key": "C",
+          "value": "3.0"
+        },
+        {
+          "key": "D",
+          "value": "8.0"
+        }
+      ],
+      "answer": "B",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The oxidation number of phosphorus in Ba(H<sub>2</sub>PO<sub>2</sub>) is :",
+      "options": [
+        {
+          "key": "A",
+          "value": "+3"
+        },
+        {
+          "key": "B",
+          "value": "+2"
+        },
+        {
+          "key": "C",
+          "value": "+1"
+        },
+        {
+          "key": "D",
+          "value": "-1"
+        }
+      ],
+      "answer": "C",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The equivalent weight of MnSO<sub>4</sub> is half of its molecular weight, when it converts to ",
+      "options": [
+        {
+          "key": "A",
+          "value": "Mn<sub>2</sub>O<sub>3</sub> "
+        },
+        {
+          "key": "B",
+          "value": "MnO<sub>2</sub> "
+        },
+        {
+          "key": "C",
+          "value": "$$MnO_4^ - $$"
+        },
+        {
+          "key": "D",
+          "value": "$$MnO_4^{2 - }$$"
+        }
+      ],
+      "answer": "B",
+      "explanation": "<p>To determine which option corresponds to the scenario where the equivalent weight of $MnSO_4$ is half its molecular weight upon conversion, we need to analyze each oxidation process and find out the change in oxidation state of manganese (Mn) in each case. The equivalent weight of a compound in a given reaction depends on the change in oxidation number per atom of the element in question. It is calculated as the molecular weight divided by the number of electrons lost or gained in the reaction.</p>\n\n<p>The molecular weight of $MnSO_4$ (Manganese(II) sulfate) is primarily irrelevant for the specifics of calculating equivalent weight in this manner; what's crucial is the stoichiometry of the electron transfer involved in its reaction.</p>\n\n<p>Let's consider the oxidation state of Mn in $MnSO_4$, which is +2.</p>\n\n<p>Option A: $Mn_2O_3$</p>\n\n<p>Mn's oxidation state in $Mn_2O_3$ is +3. Thus, going from +2 in $MnSO_4$ to +3 in $Mn_2O_3$ involves a loss (or gain) of 1 electron per manganese atom. Given that there are two Mn atoms in $Mn_2O_3$, this would not match the stated requirement directly without considering the specifics of the individual reaction stoichiometry.</p>\n\n<p>Option B: $MnO_2$</p>\n\n<p>The oxidation state of Mn in $MnO_2$ is +4. The change from +2 to +4 implies a gain or loss of 2 electrons.</p>\n\n<p>Option C: $MnO_4^-$ (Permanganate)</p>\n\n<p>In $MnO_4^-$, the oxidation state of Mn is +7. The change from +2 in $MnSO_4$ to +7 in $MnO_4^-$ involves a change of 5 electrons.</p>\n\n<p>Option D: $MnO_4^{2-}$</p>\n\n<p>This oxidation state is not typically encountered for manganese and may represent a mistaken formulation, as Mn typically shows +7 oxidation state in permanganate $(MnO_4^-)$, not a doubly charged anion.</p>\n\n<p>Given these considerations, the question's conditions mention that the equivalent weight of $MnSO_4$ becomes half of its molecular weight when it converts to one of these products. This would imply a situation where the number of electrons transferred per formula unit of $MnSO_4$ is equivalent to 2 (since the molecular weight divided by 2 equals the equivalent weight when each mole of $MnSO_4$ involves the transfer of 2 moles of electrons).</p>\n\n<p>Thus, the correct answer is:</p>\n\n<p>Option B: $MnO_2$, because the conversion from $Mn^{+2}$ to $Mn^{+4}$ involves a transfer of 2 electrons per manganese atom, which fits the condition that the equivalent weight is half the molecular weight in this context.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The oxidation number of carbon in CH<sub>2</sub>O is",
+      "options": [
+        {
+          "key": "A",
+          "value": "-2"
+        },
+        {
+          "key": "B",
+          "value": "+2"
+        },
+        {
+          "key": "C",
+          "value": "0"
+        },
+        {
+          "key": "D",
+          "value": "+4"
+        }
+      ],
+      "answer": "C",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "1 mole of N<sub>2</sub>H<sub>4</sub> loses 10 moles of electrons to form a new compound Y. assuming that all nitrogen appears in the new compound , what is the oxidation state of nitrogen in Y  ? (there is no change in the oxidation state of hydrogen)",
+      "options": [
+        {
+          "key": "A",
+          "value": "-1"
+        },
+        {
+          "key": "B",
+          "value": "-3"
+        },
+        {
+          "key": "C",
+          "value": "+3"
+        },
+        {
+          "key": "D",
+          "value": "+5"
+        }
+      ],
+      "answer": "C",
+      "explanation": "<p>First, let's understand the given information. We have hydrazine (N<sub>2</sub>H<sub>4</sub>) losing 10 moles of electrons to form a new compound (Y). In this context, the oxidation state of hydrogen remains unchanged, which is +1.</p>\n\n<p>To solve this problem, we should follow these steps:</p>\n\n<p>1. Determine the initial oxidation state of nitrogen in N<sub>2</sub>H<sub>4</sub>.<br>\n\n<p>In N<sub>2</sub>H<sub>4</sub>, hydrogen is in the +1 oxidation state. Since the molecule is neutral, the sum of oxidation states must equal 0. We can express this relationship as:<br></p>\n\n<p>2x + 4(+1) = 0<br></p>\n\n<p>Where x is the oxidation state of one nitrogen atom. This can be rearranged to find x:<br></p>\n\n<p>2x = -4<br></p>\n\n<p>x = -2<br></p>\n\n<p>So, the initial oxidation state of nitrogen in N<sub>2</sub>H<sub>4</sub> is -2.</p></p>\n\n<p>2. Determine the change in oxidation state of nitrogen.<br>\n\n<p>When 1 mole of N<sub>2</sub>H<sub>4</sub> loses 10 moles of electrons, the nitrogen atoms undergo oxidation, meaning their oxidation state increases. The loss of 10 electrons per mole of N<sub>2</sub>H<sub>4</sub> means that there's an increase of 5 oxidation states per nitrogen atom, because there are 2 nitrogen atoms in each molecule of N<sub>2</sub>H<sub>4</sub>.</p></p>\n\n<p>3. Calculate the final oxidation state of nitrogen.<br>\n\n<p>The initial oxidation state of nitrogen is -2. With the loss of electrons, the oxidation state increases by 5 for each nitrogen atom:<br></p>\n\n<p>Final oxidation state = Initial oxidation state + Increase in oxidation state<br></p>\n\n<p>Final oxidation state of nitrogen = -2 + 5 = +3</p></p>\n\n<p>Therefore, the oxidation state of nitrogen in the new compound Y is +3.</p>\n\n<p>The correct answer is Option C: +3.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "M is molecular weight of KMnO<sub>4</sub>. The equivalent wight of KMnO<sub>4</sub> when it is converted into K<sub>2</sub>MnO<sub>4</sub> is",
+      "options": [
+        {
+          "key": "A",
+          "value": "M"
+        },
+        {
+          "key": "B",
+          "value": "M/3"
+        },
+        {
+          "key": "C",
+          "value": "M/5"
+        },
+        {
+          "key": "D",
+          "value": "M/7"
+        }
+      ],
+      "answer": "A",
+      "explanation": "<p>The equivalent weight of a substance is given by the formula:</p>\n\n<p>$$\\text{Equivalent weight} = \\frac{\\text{Molecular weight}}{\\text{n}}$$</p>\n\n<p>where <b>n</b> is the change in oxidation number per molecule of the reactant (the valence change).</p>\n\n<p>To find the equivalent weight of $ KMnO_4 $ when it is converted to $ K_2MnO_4 $, we first need to establish the oxidation states of manganese (Mn) in both compounds.</p>\n\n<ul>\n<li>In $ KMnO_4 $, Mn has an oxidation state of +7.</li><br>\n<li>In $ K_2MnO_4 $, Mn has an oxidation state of +6.</li>\n</ul>\n<p>The change in oxidation state per $ KMnO_4 $ molecule is from +7 to +6, which is a decrease of 1. Therefore, $ n = 1 $ in this case.</p>\n\n<p>Substituting this value into the formula gives us:</p>\n\n<p>$$\\text{Equivalent weight} = \\frac{\\text{Molecular weight (M)}}{1} = M$$</p>\n\n<p>Thus, the correct option is <b>Option A: M</b>.</p>"
+    }
+  ]
+}

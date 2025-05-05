@@ -1,0 +1,1135 @@
+{
+  "_index": {
+    "name": "Alternating Current"
+  },
+  "_children": [
+    {
+      "_type": "single_mcq",
+      "body": "<p>A step up transformer is connected to an ac mains supply of $$220 \\mathrm{~V}$$ to operate at $$11000 \\mathrm{~V}, 88$$ watt. The current in the secondary circuit, ignoring the power loss in the transformer, is</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "8 mA"
+        },
+        {
+          "key": "B",
+          "value": "4 mA"
+        },
+        {
+          "key": "C",
+          "value": "0.4 A"
+        },
+        {
+          "key": "D",
+          "value": "4 A"
+        }
+      ],
+      "answer": "A",
+      "explanation": "<p>Let's analyze the problem step by step. We are given a step-up transformer with the following specifications:</p>\n\n<p>\n\n<em>Primary Voltage (V<sub>p</sub>)</em> = $$220 \\mathrm{~V}$$<br>\n\n<em>Secondary Voltage (V<sub>s</sub>)</em> = $$11000 \\mathrm{~V}$$<br>\n\n<em>Power (P)</em> = $$88$$ watt\n\n</p>\n\n<p>The power input to the transformer is equal to the power output, assuming there is no loss in the transformer.</p>\n\n<p>Hence,\n\n<p>$$P_{primary} = P_{secondary} = P = 88 \\mathrm{~W}$$</p></p>\n\n<p>The power equations can be written as:</p>\n\n<p>\n\n<p>$$P_{primary} = V_p I_p$$<br></p>\n\n<p>$$P_{secondary} = V_s I_s$$</p>\n\n</p>\n\n<p>Given the power in the secondary winding is $$88 \\mathrm{~W}$$ and the secondary voltage is $$11000 \\mathrm{~V}$$, we can find the secondary current $$I_s$$ using the formula:</p>\n\n<p>\n\n<p>$$P_{secondary} = V_s I_s$$</p>\n\n</p>\n\n<p>Rearranging to solve for $$I_s$$ gives:</p>\n\n<p>\n\n<p>$$I_s = \\frac{P}{V_s}$$</p>\n\n</p>\n\n<p>Substituting the given values:</p>\n\n<p>\n\n<p>$$I_s = \\frac{88 \\mathrm{~W}}{11000 \\mathrm{~V}}$$</p>\n\n</p>\n\n<p>Simplifying this expression:</p>\n\n<p>\n\n<p>$$I_s = \\frac{88}{11000} \\mathrm{~A}$$<br></p>\n\n<p>$$I_s = 0.008 \\mathrm{~A}$$<br></p>\n\n<p>$$I_s = 8 \\mathrm{~mA}$$</p>\n\n</p>\n\n<p>Therefore, the current in the secondary circuit, ignoring the power loss in the transformer, is <strong>8 mA</strong>.</p>\n\n<p>The correct option is <strong>Option A: 8 mA</strong>.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>The amplitude of the charge oscillating in a circuit decreases exponentially as $$Q=Q_0 e^{-R t/2 L}$$, where $$Q_0$$ is the charge at $$t=0 \\mathrm{~s}$$. The time at which charge amplitude decreases to $$0.50 Q_0$$ is nearly:</p>\n<p>[Given that $$R=1.5 \\Omega, L=12 \\mathrm{~mH}, \\ln (2)=0.693$$]</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "19.01 ms"
+        },
+        {
+          "key": "B",
+          "value": "11.09 ms"
+        },
+        {
+          "key": "C",
+          "value": "19.01 s"
+        },
+        {
+          "key": "D",
+          "value": "11.09 s"
+        }
+      ],
+      "answer": "B",
+      "explanation": "<p>The given equation for the amplitude of the charge oscillating in a circuit is:</p>\n\n<p>$$Q = Q_0 e^{- \\frac{R t}{2 L} }$$</p>\n\n<p>We need to find the time, $$t$$, at which charge amplitude decreases to $$0.50 Q_0$$. So, we set $$Q = 0.50 Q_0$$:</p>\n\n<p>$$0.50 Q_0 = Q_0 e^{- \\frac{R t}{2 L} }$$</p>\n\n<p>Divide both sides by $$Q_0$$:</p>\n\n<p>$$0.50 = e^{- \\frac{R t}{2 L} }$$</p>\n\n<p>Take the natural logarithm on both sides to solve for $$t$$:</p>\n\n<p>$$\\ln(0.50) = - \\frac{R t}{2 L}$$</p>\n\n<p>Recall that $$\\ln(0.50) = - \\ln(2)$$. Substituting the given value $$\\ln(2) = 0.693$$, we get:</p>\n\n<p>$$-0.693 = - \\frac{R t}{2 L}$$</p>\n\n<p>Remove the negative signs from both sides:</p>\n\n<p>$$0.693 = \\frac{R t}{2 L}$$</p>\n\n<p>Now, solve for $$t$$:</p>\n\n<p>$$t = \\frac{2 L \\cdot 0.693}{R}$$</p>\n\n<p>Substituting the given values $$R = 1.5 \\Omega$$ and $$L = 12 \\mathrm{~mH} = 12 \\times 10^{-3} \\mathrm{~H}$$, we have:</p>\n\n<p>$$t = \\frac{2 \\times 12 \\times 10^{-3} \\cdot 0.693}{1.5}$$</p>\n\n<p>Calculate the numerator and denominator:</p>\n\n<p>$$t = \\frac{16.632 \\times 10^{-3}}{1.5}$$</p>\n\n<p>Finally, compute the value of $$t$$:</p>\n\n<p>$$t = 11.09 \\times 10^{-3} \\mathrm{~s} = 11.09 \\mathrm{~ms}$$</p>\n\n<p>Therefore, the time at which the charge amplitude decreases to $$0.50 Q_0$$ is nearly 11.09 ms. Thus, the correct answer is:</p>\n\n<p><strong>Option B: 11.09 ms</strong></p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>In an ideal transformer, the turns ratio is $$\\frac{N_P}{N_S}=\\frac{1}{2}$$. The ratio $$V_S: V_P$$ is equal to (the symbols carry their usual meaning) :</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$1: 2$$\n"
+        },
+        {
+          "key": "B",
+          "value": "$$2: 1$$\n"
+        },
+        {
+          "key": "C",
+          "value": "$$1: 1$$\n"
+        },
+        {
+          "key": "D",
+          "value": "$$1: 4$$"
+        }
+      ],
+      "answer": "B",
+      "explanation": "<p>An ideal transformer is a device that transfers electrical energy from one circuit to another through inductively coupled conductors—the transformer's coils. The primary coil (with $$N_P$$ turns) is connected to the input voltage ($$V_P$$), and the secondary coil (with $$N_S$$ turns) delivers the output voltage ($$V_S$$).</p>\n\n<p>The relationship between the input (primary) voltage and output (secondary) voltage in a transformer is determined by the ratio of the number of turns in the primary coil to the number of turns in the secondary coil, expressed by the formula:</p>\n\n$$\n\\frac{V_S}{V_P} = \\frac{N_S}{N_P}\n$$\n\n<p>In this case, the given turns ratio is $$\\frac{N_P}{N_S} = \\frac{1}{2}$$. To find the correct expression for $$\\frac{V_S}{V_P}$$, we need to invert the given ratio to reflect the relationship with respect to the voltages. This means:</p>\n\n$$\n\\frac{N_S}{N_P} = 2\n$$\n\n<p>Therefore, substituting into the voltage ratio equation:</p>\n\n$$\n\\frac{V_S}{V_P} = 2\n$$\n\n<p>This indicates that the secondary voltage ($$V_S$$) is twice the primary voltage ($$V_P$$). If we were to express the ratio $$V_S:V_P$$ based on this, it would be:</p>\n\n<p>Option B\n$$2: 1$$</p>\n\n<p>This is the correct answer as it represents that, in accordance with the transformer's turns ratio, the voltage in the secondary coil is twice that in the primary coil.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>The maximum power is dissipated for an ac in a/an:</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "resistive circuit"
+        },
+        {
+          "key": "B",
+          "value": "LC circuit"
+        },
+        {
+          "key": "C",
+          "value": "inductive circuit"
+        },
+        {
+          "key": "D",
+          "value": "capacitive circuit"
+        }
+      ],
+      "answer": "A",
+      "explanation": "<p>Power dissipated is maximum of purely resistive circuit.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>In a series LCR circuit, the inductance $$L$$ is $$10 ~\\mathrm{mH}$$, capacitance $$C$$ is $$1 ~\\mu \\mathrm{F}$$ and resistance $$R$$ is $$100 ~\\Omega$$. The frequency at which resonance occurs is :-</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "15.9 kHz"
+        },
+        {
+          "key": "B",
+          "value": "1.59 rad/s"
+        },
+        {
+          "key": "C",
+          "value": "1.59 kHz"
+        },
+        {
+          "key": "D",
+          "value": "15.9 rad/s"
+        }
+      ],
+      "answer": "C",
+      "explanation": "<p>The goal is to find the frequency at which resonance occurs in a series LCR circuit. To achieve resonance, the inductive reactance ($$X_L$$) should equal the capacitive reactance ($$X_C$$).</p>\n<p>Given are:</p>\n<ul>\n<li>Inductance, $$L = 10 ~\\mathrm{mH} = 10 \\times 10^{-3} ~\\mathrm{H}$$</li>\n<li>Capacitance, $$C = 1 ~\\mu\\mathrm{F} = 1 \\times 10^{-6} ~\\mathrm{F}$$</li>\n<li>Resistance, $$R = 100 ~\\Omega$$ (which does not directly impact the resonance frequency)</li>\n</ul>\n<p>Resonance occurs when the angular frequency ($$\\omega$$) meets the condition $$\\omega L = \\frac{1}{\\omega C}$$, leading to the formula for calculating the resonance frequency ($$f$$) as $$f = \\frac{\\omega}{2\\pi} = \\frac{1}{2\\pi\\sqrt{LC}}$$.</p>\n<p>Substituting the given values:</p>\n<p>$$f = \\frac{1}{2\\pi\\sqrt{10 \\times 10^{-3} \\cdot 1 \\times 10^{-6}}} = 1.59 \\mathrm{kHz}$$</p>\n<p>Thus, the frequency at which resonance occurs in this LCR circuit is 1.59 kHz.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>A $$12 \\mathrm{~V}, 60 \\mathrm{~W}$$ lamp is connected to the secondary of a step down transformer, whose primary is connected to ac mains of $$220 \\mathrm{~V}$$. Assuming the transformer to be ideal, what is the current in the primary winding ?</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "2.7 A"
+        },
+        {
+          "key": "B",
+          "value": "3.7 A"
+        },
+        {
+          "key": "C",
+          "value": "0.37 A"
+        },
+        {
+          "key": "D",
+          "value": "0.27 A"
+        }
+      ],
+      "answer": "D",
+      "explanation": "<p>To find the current in the primary winding of an ideal step-down transformer, we first understand that an ideal transformer's power input (primary side) equals its power output (secondary side). This is because an ideal transformer is assumed to have 100% efficiency, meaning there are no losses in the transformation process.</p><p>The power of the lamp (which is connected to the secondary side of the transformer) is given as $$60\\,\\mathrm{W}$$, and it operates at $$12\\,\\mathrm{V}$$. The voltage on the primary side of the transformer is $$220\\,\\mathrm{V}$$.</p><p>Using the power formula $$P = IV$$, where $$P$$ is the power in watts, $$I$$ is the current in amperes, and $$V$$ is the voltage in volts, we equate the power on both sides of the transformer because of its ideal nature, i.e., $$P_{\\text{primary}} = P_{\\text{secondary}}$$.</p><p>Hence, $$60\\,\\mathrm{W} = 220\\,\\mathrm{V} \\times I_{\\text{primary}}$$.</p><p>Solving for $$I_{\\text{primary}}$$ gives:</p><p>$$I_{\\text{primary}} = \\frac{60\\,\\mathrm{W}}{220\\,\\mathrm{V}} = 0.2727... \\approx 0.27\\,\\mathrm{A}$$.</p><p>Therefore, the current in the primary winding of the transformer is approximately $$0.27\\,\\mathrm{A}$$.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>An ac source is connected to a capacitor C. Due to decrease in its operating frequency</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "displacement current increases."
+        },
+        {
+          "key": "B",
+          "value": "displacement current decreases."
+        },
+        {
+          "key": "C",
+          "value": "capacitive reactance remains constant."
+        },
+        {
+          "key": "D",
+          "value": "capacitive reactance decreases."
+        }
+      ],
+      "answer": "B",
+      "explanation": "<p>When an AC source is connected to a capacitor, the current (I) depends on the capacitive reactance (X<sub>C</sub>), where $$X_{C} = \\frac{1}{\\omega C}$$, with $\\omega$ representing the angular frequency $\\omega = 2\\pi f$, and C denoting the capacitance.</p> \n\n<p>The formula for capacitive reactance shows that it is inversely proportional to the frequency (f) of the operation.<br/><br/> Thus, if the frequency decreases, the capacitive reactance increases because $X_{C} = \\frac{1}{\\omega C}$ and $\\omega$ is proportional to frequency. <br/><br/>As capacitive reactance increases, the displacement current (I), which flows through the capacitor, decreases according to the relationship $$I = \\frac{V}{X_{C}}$$, with V being the voltage across the capacitor. <br/><br/>So, among the given choices, the correct interpretation is that the displacement current decreases with a decrease in operating frequency.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>The magnetic energy stored in an inductor of inductance $$4 ~\\mu \\mathrm{H}$$ carrying a current of $$2 \\mathrm{~A}$$ is :</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$4 \\mathrm{~mJ}$$"
+        },
+        {
+          "key": "B",
+          "value": "$$8 \\mathrm{~mJ}$$"
+        },
+        {
+          "key": "C",
+          "value": "$$8 ~\\mu \\mathrm{J}$$"
+        },
+        {
+          "key": "D",
+          "value": "$$4 ~\\mu \\mathrm{J}$$"
+        }
+      ],
+      "answer": "C",
+      "explanation": "<p>The formula for calculating the magnetic energy stored in an inductor is given by:</p>\n<p>$$E = \\frac{1}{2} L I^2$$</p>\n<p>where:</p>\n<ul>\n<li>\n$$E$$ is the energy stored (in joules, J),</li>\n<li>\n$$L$$ is the inductance of the inductor (in henrys, H),</li>\n<li>\n$$I$$ is the current flowing through the inductor (in amperes, A).</li>\n</ul>\n<p>Plugging the given values into the formula:</p>\n<p>\n$$E = \\frac{1}{2} \\times 4 \\mu H \\times (2 A)^2$$</p>\n<p>\n$$E =\\frac{1}{2} \\times 4 \\times 10^{-6} H \\times 4 A^2$$</p>\n<p>\n$$E = 2 \\times 10^{-6} H \\cdot 4$$</p>\n<p>\n$$E = 8 \\times 10^{-6} J$$</p>\n<p>Hence, the energy stored in the inductor is $$8 \\mu J$$.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>An inductor of inductance 2 mH is connected to a 220 V, 50 Hz ac source. Let the inductive reactance in the circuit is X<sub>1</sub>. If a 220 V dc source replace the ac source in the circuit, then the inductive reactance in the circuit is X<sub>2</sub>. X<sub>1</sub> and X<sub>2</sub> respectively are :</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "0.628 $$\\Omega$$, infinity"
+        },
+        {
+          "key": "B",
+          "value": "6.28 $$\\Omega$$, zero"
+        },
+        {
+          "key": "C",
+          "value": "6.28 $$\\Omega$$, infinity"
+        },
+        {
+          "key": "D",
+          "value": "0.628 $$\\Omega$$, zero"
+        }
+      ],
+      "answer": "D",
+      "explanation": "<p>We know, for A.C. source</p>\n<p>$${X_L} = \\omega L$$</p>\n<p>$$ = 2\\pi f(L)$$</p>\n<p>$$ = 100\\pi (2 \\times {10^{ - 3}})$$</p>\n<p>$$ = 0.2\\pi \\,\\Omega  = 0.628\\,\\Omega $$</p>\n<p>For D.C. source</p>\n<p>The inductor behaves as a closed circuit offering no resistance at all (at steady state) as $$\\omega  = 0$$ (For D.C.)</p>\n<p>$$\\therefore$$ $${X_L} = 0\\,\\Omega $$</p>\n<p></p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>A standard filament lamp consumes 100 W when connected to 200 V ac mains supply. The peak current through the bulb will be :</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "2 A"
+        },
+        {
+          "key": "B",
+          "value": "0.707 A"
+        },
+        {
+          "key": "C",
+          "value": "1 A"
+        },
+        {
+          "key": "D",
+          "value": "1.414 A"
+        }
+      ],
+      "answer": "B",
+      "explanation": "<p>$${P_{avg}} = {V_{rms}} \\times {I_{rms}} \\times \\cos \\phi $$</p>\n<p>Here, $$\\phi  = 0^\\circ $$ as current and voltage are in same phase in a resistor.</p>\n<p>$$ \\Rightarrow 100 = 200 \\times {I_{rms}} \\Rightarrow {I_{rms}} = {1 \\over 2} \\Rightarrow {{{I_0}} \\over {\\sqrt 2 }} = {1 \\over 2} \\Rightarrow {I_0} = {1 \\over {\\sqrt 2 }} = 0.707\\,A$$ </p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>The peak voltage of the ac source is equal to</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "The value of voltage supplied to the circuit"
+        },
+        {
+          "key": "B",
+          "value": "The rms value of the ac source"
+        },
+        {
+          "key": "C",
+          "value": "$$\\sqrt2$$ times the rms value of the ac source"
+        },
+        {
+          "key": "D",
+          "value": "1/$$\\sqrt2$$ times the rms value of the ac source"
+        }
+      ],
+      "answer": "C",
+      "explanation": "<p>We know,</p>\n<p>RMS value of A.C. $${E_{rms}} = {{{E_0}} \\over {\\sqrt 2 }}$$</p>\n<p>$${E_0} = \\sqrt 2 {E_{rms}}$$</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>A series LCR circuit with inductance 10 H, capacitance 10 $$\\mu$$F, resistance 50 $$\\Omega$$ is connected to an ac source of voltage, V = 200sin(100t) volt. If the resonant frequency of the LCR circuit is v<sub>0</sub> and the frequency of the ac source is v, then</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "$${v_0} = v = 50$$ Hz"
+        },
+        {
+          "key": "B",
+          "value": "$${v_0} = v = {{50} \\over \\pi }$$ Hz"
+        },
+        {
+          "key": "C",
+          "value": "$${v_0} = {{50} \\over \\pi }$$ Hz, $$v = 50$$ Hz"
+        },
+        {
+          "key": "D",
+          "value": "$$v = 100$$ Hz, $${v_0} = {{100} \\over \\pi }$$ Hz"
+        }
+      ],
+      "answer": "B",
+      "explanation": "<p>$$\\omega L = {1 \\over {\\omega C}}$$</p>\n<p>$$\\omega  = {1 \\over {\\sqrt {LC} }} = {1 \\over {\\sqrt {10 \\times 10 \\times {{10}^{ - 6}}} }}$$</p>\n<p>$$\\omega  = 100$$</p>\n<p>$$\\omega  = 2\\pi f \\Rightarrow f = {\\omega  \\over {2\\pi }}$$</p>\n<p>$${v_0} = {f_0} = {{100} \\over {2\\pi }} = {{50} \\over \\pi }$$ Hz, $$\\omega  = 100$$</p>\n<p>$$v = f = {{100} \\over {2\\pi }} = {{50} \\over \\pi }$$</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A capacitor of capacitance 'C', is connected across an ac source of voltage V, given by <br><br>V = V<sub>0</sub>sin$$\\omega$$t<br><br>The displacement current between the plates of the capacitor, would then be given by :",
+      "options": [
+        {
+          "key": "A",
+          "value": "$${I_d} = {V_0}\\omega C\\sin \\omega t$$"
+        },
+        {
+          "key": "B",
+          "value": "$${I_d} = {V_0}\\omega C\\cos \\omega t$$"
+        },
+        {
+          "key": "C",
+          "value": "$${I_d} = {{{V_0}} \\over {\\omega C}}\\cos \\omega t$$"
+        },
+        {
+          "key": "D",
+          "value": "$${I_d} = {{{V_0}} \\over {\\omega C}}\\sin \\omega t$$"
+        }
+      ],
+      "answer": "B",
+      "explanation": "Given, V = V<sub>0</sub>sin$$\\omega$$t\n<br><br>We know, $$q = CV$$<br><br>Now displacement current I<sub>d</sub> is given by,\n<br><br>I<sub>d</sub> = $${{dq} \\over {dt}} = {{CdV} \\over {dt}}$$<br><br>$${I_d} = C({V_0}\\omega \\cos \\omega t)$$<br><br>$$ = {V_0}\\omega C\\cos \\omega t$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A step down transformer connected to an ac mains supply of 220 V is made to operate at 11 V, 44W lamp. Ignoring power losses in the transformer, what is the current in the primary circuit ?",
+      "options": [
+        {
+          "key": "A",
+          "value": "4A"
+        },
+        {
+          "key": "B",
+          "value": "0.2A"
+        },
+        {
+          "key": "C",
+          "value": "0.4A"
+        },
+        {
+          "key": "D",
+          "value": "2A"
+        }
+      ],
+      "answer": "B",
+      "explanation": "Power loss = 0<br><br>$$\\eta $$ = 100%<br><br>P<sub>in</sub> = P<sub>o/p</sub><br><br>V<sub>P</sub>I<sub>p</sub> = V<sub>S</sub>I<sub>s</sub><br><br>220 $$\\times$$ I<sub>p</sub> = 44<br><br>I<sub>p</sub> = $${{44} \\over {220}} = {1 \\over 5}$$A = .2A"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A series LCR circuit containing 5.0 H inductor, 80$$\\mu$$F capacitor and 40$$\\Omega$$ resistor is connected to 230V variable frequency ac source. The angular frequencies of the source at which power transferred to the circuit is half the power at the resonant angular frequency are likely to be :",
+      "options": [
+        {
+          "key": "A",
+          "value": "42 rad/s and 58 rad/s"
+        },
+        {
+          "key": "B",
+          "value": "25 rad/s and 75 rad/s"
+        },
+        {
+          "key": "C",
+          "value": "50 rad/s and 25 rad/s"
+        },
+        {
+          "key": "D",
+          "value": "46 rad/s and 54 rad/s"
+        }
+      ],
+      "answer": "D",
+      "explanation": "$$Q = {\\omega  \\over {\\Delta \\omega }} = {{\\omega L} \\over R} \\Rightarrow \\Delta \\omega  = R/L = {{50} \\over 4} = 8$$ rad/sec<br><br>$${\\omega _0} = {1 \\over {\\sqrt {LC} }} = {1 \\over {\\sqrt {5 \\times 80 \\times {{10}^{ - 6}}} }} = 50$$ rad/sec<br><br>$${\\omega _{\\min }} = {\\omega _0} - {{\\Delta \\omega } \\over 2} = 46$$ rad/sec<br><br>$${\\omega _{\\max }} = {\\omega _0} - {{\\Delta \\omega } \\over 2} = 54$$ rad/sec"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A 40 $$\\mu $$F capacitor is connected to a 200 V. 50 Hz ac supply. The rms value of the current on the circuit is, nearly :",
+      "options": [
+        {
+          "key": "A",
+          "value": "2.05 A"
+        },
+        {
+          "key": "B",
+          "value": "2.5 A"
+        },
+        {
+          "key": "C",
+          "value": "25.1 A"
+        },
+        {
+          "key": "D",
+          "value": "1.7 A"
+        }
+      ],
+      "answer": "B",
+      "explanation": "i<sub>rms</sub> = C$$\\omega $$\n$$\\varepsilon$$<sub>rms</sub><br><br>C = 40 $$ \\times $$ 10<sup>-6</sup> F<br><br>$$\\omega $$\n = 2$$\\pi f$$ = 100$$\\pi $$<br><br>$$\\varepsilon $$<sub>rms</sub> = 200 V<br><br>i<sub>rms</sub> = 200 $$ \\times $$ 40 $$ \\times $$ 10<sup>-6</sup> $$ \\times $$ 2$$\\pi $$ $$ \\times $$ 50<br>= 2.5 A\n"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A series LCR circuit is connected to an ac voltage source. When L is removed from the circuit, the phase difference between current and voltage is $${\\pi  \\over 3}$$. If instead C is\nremoved from the circuit, the phase difference is again $${\\pi  \\over 3}$$\nbetween current and voltage. The power factor of the circuit is :",
+      "options": [
+        {
+          "key": "A",
+          "value": "0.5"
+        },
+        {
+          "key": "B",
+          "value": "1.0"
+        },
+        {
+          "key": "C",
+          "value": "$$ - $$\n1.0"
+        },
+        {
+          "key": "D",
+          "value": "zero"
+        }
+      ],
+      "answer": "B",
+      "explanation": "The power factor for the LCR circuit will be :<br>When L is removed,<br><br/>$$\\tan \\phi  = {{\\left| {{X_C}} \\right|} \\over R}$$\n<br><br/>$$ \\Rightarrow \\tan {\\pi  \\over 3} = {{{X_C}} \\over R}$$\n ...(i)<br><br/> When C is removed,<br><br/>$$\\tan \\phi  = {{\\left| {{X_L}} \\right|} \\over R}$$\n<br><br/>$$ \\Rightarrow \\tan {\\pi  \\over 3} = {{{X_L}} \\over R}$$\n ...(ii)<br><br/>Since, X<sub>L</sub> = X<sub>C</sub>, the circuit is in resonance,<br><br/>Z = R<br><br/>Power factor = cos $$\\phi $$ = $${R \\over Z}$$\n = 1"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "An inductor 20 mH, a capacitor 100 $$\\mu $$F and\na resistor 50 $$\\Omega $$ are connected in series across\na source of emf, V = 10 sin 314 t. The power\nloss in the circuit is",
+      "options": [
+        {
+          "key": "A",
+          "value": "0.79 W"
+        },
+        {
+          "key": "B",
+          "value": "0.43 W"
+        },
+        {
+          "key": "C",
+          "value": "2.74 W"
+        },
+        {
+          "key": "D",
+          "value": "1.13 W"
+        }
+      ],
+      "answer": "A",
+      "explanation": "Average power in impedance\n<br><br>Z = $$\\sqrt {{R^2} + {{\\left( {{X_C} - {X_L}} \\right)}^2}} $$\n<br><br>where X<sub>C</sub>\n = capacitive\nreactance and X<sub>L</sub>\n = inductive reactance.\n<br><br>Also X<sub>C</sub> = $${1 \\over {\\omega C}}$$ and X<sub>L</sub> = $$\\omega L$$\n<br><br>$$ \\therefore $$ Z = $$\\sqrt {{{\\left( {50} \\right)}^2} + {{\\left( {{1 \\over {314 \\times 100 \\times {{10}^{ - 6}}}} - 314 \\times 20 \\times {{10}^{ - 3}}} \\right)}^2}} $$\n<br><br>$$ \\Rightarrow $$ Z = 56.15 $$\\Omega $$\n<br><br>I<sub>rms</sub> = $${{{V_{rms}}} \\over Z}$$ = $${{{V_m}} \\over {\\sqrt 2  \\times Z}} = {{10} \\over {\\sqrt 2  \\times 56}}$$\n<br><br>Hence power loss in the circuit\n<br><br>= $${\\left( {{{10} \\over {\\sqrt 2  \\times 56}}} \\right)^2} \\times 50$$ = 0.79 W"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The magnetic potential energy stored in a\ncertain inductor is 25 mJ, when the current\nin the inductor is 60 mA. This inductor is of\ninductance",
+      "options": [
+        {
+          "key": "A",
+          "value": "0.138 H"
+        },
+        {
+          "key": "B",
+          "value": "138.88 H"
+        },
+        {
+          "key": "C",
+          "value": "1.389 H"
+        },
+        {
+          "key": "D",
+          "value": "13.89 H"
+        }
+      ],
+      "answer": "D",
+      "explanation": "From question energy stored in inductor,\nU = 25 × 10<sup>–3</sup> J\n<br><br>Current, I = 60 mA\n<br><br>Also, energy stored in inductor, U = $${1 \\over 2}L{I^2}$$\n<br><br>25 × 10<sup>–3</sup> = $${1 \\over 2} \\times L \\times {\\left( {60 \\times {{10}^{ - 3}}} \\right)^2}$$\n<br><br>$$ \\Rightarrow $$ L = $${{25 \\times 2 \\times {{10}^6} \\times {{10}^{ - 3}}} \\over {3600}}$$ = 13.89 H"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A 100 $$\\Omega $$ resistance and a capacitor of 100 $$\\Omega $$ reactance are connected in series across a 220 V source. When the capacitor is 50% charged, the peak value of the displacement current is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "2.2 A"
+        },
+        {
+          "key": "B",
+          "value": "11 A"
+        },
+        {
+          "key": "C",
+          "value": "4.4 A"
+        },
+        {
+          "key": "D",
+          "value": "11$$\\sqrt 2 A$$"
+        }
+      ],
+      "answer": "A",
+      "explanation": "Net impedance, Z = $$\\sqrt {{R^2} + X_L^2} $$ = $$100\\sqrt 2 \\,\\Omega $$\n<br><br>Peak value of displacement current = Maximum conduction current in the circuit \n<br><br>= $${{{\\varepsilon _0}} \\over Z}$$ = $${{220\\sqrt 2 } \\over {100\\sqrt 2 }}$$ = 2.2 A"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The potential differences across the resistance, capacitance and inductance are 80 V, 40 V and 100 V respectively in an L-C-R circuit. The power factor of this circuit is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "0.4"
+        },
+        {
+          "key": "B",
+          "value": "0.5"
+        },
+        {
+          "key": "C",
+          "value": "0.8"
+        },
+        {
+          "key": "D",
+          "value": "1.0"
+        }
+      ],
+      "answer": "C",
+      "explanation": "Power factor, cos $$\\phi $$ = $${R \\over Z}$$\n<br><br>= $${{{V_R}} \\over V}$$\n<br><br>= $${{{V_R}} \\over {\\sqrt {V_R^2 + {{\\left( {{V_L} - {V_C}} \\right)}^2}} }}$$\n<br><br>= $${{80} \\over {\\sqrt {{{80}^2} + {{\\left( {100 - 40} \\right)}^2}} }}$$\n<br><br>= 0.8"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Which of the following combinations should be selected for better tuning of an L-C-R circuit used for combination ? ",
+      "options": [
+        {
+          "key": "A",
+          "value": "R = 20 $$\\Omega $$, L = 1.5 H, C = 35 $$\\mu $$F"
+        },
+        {
+          "key": "B",
+          "value": "R = 25 $$\\Omega $$, L = 2.5 H, C = 45 $$\\mu $$F"
+        },
+        {
+          "key": "C",
+          "value": "R = 15 $$\\Omega $$, L = 3.5 H, C = 30 $$\\mu $$F"
+        },
+        {
+          "key": "D",
+          "value": "R = 25 $$\\Omega $$, L = 1.5 H, C = 45 $$\\mu $$F"
+        }
+      ],
+      "answer": "C",
+      "explanation": "Quality factor of an L-C-R circuit is given by, \n<br><br>Q = $${1 \\over R}\\sqrt {{L \\over C}} $$\n<br><br>So, Q<sub>1</sub> = $${1 \\over {20}}\\sqrt {{{1.5} \\over {35 \\times {{10}^{ - 6}}}}} $$ = 10.35\n<br><br>Q<sub>2</sub> = $${1 \\over {25}}\\sqrt {{{2.5} \\over {45 \\times {{10}^{ - 6}}}}} $$ = 9.43\n<br><br>Q<sub>3</sub> = $${1 \\over {15}}\\sqrt {{{3.5} \\over {30 \\times {{10}^{ - 6}}}}} $$ = 22.77\n<br><br>Q<sub>4</sub> = $${1 \\over {25}}\\sqrt {{{1.5} \\over {45 \\times {{10}^{ - 6}}}}} $$ = 7.30\n<br><br>As Q<sub>3</sub> is maximum of Q<sub>1</sub>, Q<sub>2</sub>, Q<sub>3</sub>, and Q<sub>4</sub>. Hence, option (c) should be selected for better tuning of an L-C-R circuit."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "An inductor 20 mH, a capacitor 50 $$\\mu F$$ and a resistor 40 $$\\Omega $$ are connected in series across a source of emf V = 10 sin 340t. The power loss in A.C. circuit is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "0.76 W"
+        },
+        {
+          "key": "B",
+          "value": "0.89 W"
+        },
+        {
+          "key": "C",
+          "value": "0.51 W"
+        },
+        {
+          "key": "D",
+          "value": "0.67 W"
+        }
+      ],
+      "answer": "C",
+      "explanation": "X<sub>L</sub> = $$\\omega $$L = 340 $$ \\times $$ 20 $$ \\times $$ 10<sup>-3</sup> = 6.8 $$\\Omega $$\n<br><br>X<sub>C</sub> = $${1 \\over {340 \\times 50 \\times {{10}^{ - 6}}}}$$ = 58.82 $$\\Omega $$\n<br><br>Average power in impedance\n<br><br>Z = $$\\sqrt {{R^2} + {{\\left( {{X_C} - {X_L}} \\right)}^2}} $$\n<br><br>= $$\\sqrt {{{40}^2} + {{\\left( {58.82 - 6.8} \\right)}^2}} $$ = 65.62 $$\\Omega $$\n<br><br>Power loss in A.C. circuit,\n<br><br>= V<sub>rms</sub> I<sub>rms</sub> cos$$\\phi $$\n<br><br>= $${1 \\over 2}$$V<sub>0</sub> I<sub>0</sub> cos$$\\phi $$\n<br><br>= $${1 \\over 2} \\times 10 \\times {{10} \\over {65.62}} \\times {{40} \\over {65.62}}$$\n<br><br>= 0.46 W"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A small signal voltage V(t) = V<sub>0</sub> sin$$\\omega $$t is applied across an ideal capacitor C",
+      "options": [
+        {
+          "key": "A",
+          "value": "Current $$I(t)$$ is in phase with voltage $$V(t)$$."
+        },
+        {
+          "key": "B",
+          "value": "Current $$I(t)$$ leads voltage V(t) by 180<sup>o</sup>"
+        },
+        {
+          "key": "C",
+          "value": "Current $$I(t)$$, legs voltage $$V(t)$$ by 90<sup>o</sup>."
+        },
+        {
+          "key": "D",
+          "value": "Over a full cycle the capacitor C foes not consume any energy from the voltage source. "
+        }
+      ],
+      "answer": "D",
+      "explanation": "In ideal capacitor,  I leads from voltage by 90<sup>o</sup> and capacitor does not consume energy. "
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A resistance 'R' draws power 'P' when connected to an AC source. If an inductance is now placed in series with the resistance, such that the impedance of the circuit becomes 'Z'. the power drawn will be",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$P\\left( {{R \\over Z}} \\right)$$"
+        },
+        {
+          "key": "B",
+          "value": "P"
+        },
+        {
+          "key": "C",
+          "value": "$$P{\\left( {{R \\over Z}} \\right)^2}$$"
+        },
+        {
+          "key": "D",
+          "value": "$$P\\sqrt {{R \\over Z}} $$"
+        }
+      ],
+      "answer": "C",
+      "explanation": "For pure resistor circuit, power \n<br><br>P = $${{V_{rms}^2} \\over R}$$\n<br><br>$$ \\Rightarrow $$ $${V_{rms}^2}$$ = PR\n<br><br>For L-R series circuit, power\n<br><br>P' = V<sub>rms</sub> I<sub>rms</sub> cos$$\\phi $$\n<br><br>= $${V_{rms}} \\times {{{V_{rms}}} \\over Z} \\times {R \\over Z}$$\n<br><br>= $${{V_{rms}^2R} \\over {{Z^2}}}$$ = $${{PR \\times R} \\over {{Z^2}}}$$\n<br><br>$$ \\therefore $$ P' = $$P{\\left( {{R \\over Z}} \\right)^2}$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A transformer having efficiency of 90% is working on 200 V and 3 kW power supply. If the current in the secondary coil is 6 A, the voltage across the secondary coil and the current in the primary coil respectively are ",
+      "options": [
+        {
+          "key": "A",
+          "value": "300 V, 15 A"
+        },
+        {
+          "key": "B",
+          "value": "450 V, 15 A"
+        },
+        {
+          "key": "C",
+          "value": "450 V, 13.5 A"
+        },
+        {
+          "key": "D",
+          "value": "600 V, 15 A"
+        }
+      ],
+      "answer": "B",
+      "explanation": "Now P<sub>p</sub> = V<sub>p</sub>I<sub>p</sub> or I<sub>p</sub> = P<sub>p</sub>/V<sub>p</sub>\n<br><br> = 3000/200 = 15 A \n<br><br>Also, V<sub>s</sub> = Ps<sub></sub>/I<sub>s</sub> = 2700/6 = 450 V "
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The primary of a transformer when connected to a dc battery of 10 Volt draws a current of 1 mA. The number of turns of the primary and secondary windings are 50 and 100 respectively. The voltage in the secondary and the current drawn by the circuit in the secondary are respectively",
+      "options": [
+        {
+          "key": "A",
+          "value": "20 V and 2.0 mA"
+        },
+        {
+          "key": "B",
+          "value": "10 V and 0.5 mA"
+        },
+        {
+          "key": "C",
+          "value": "Zero volt and therefore no current "
+        },
+        {
+          "key": "D",
+          "value": "20 V and 0.5 mA"
+        }
+      ],
+      "answer": "C",
+      "explanation": "Transformer cannot work on dc. \n<br><br>$$ \\therefore $$ V<sub>s</sub> = 0 and I<sub>s</sub> = 0"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A coil of self-inductance L is connected in series with a bulb B and an AC source. Brightness of the bulb decreases when ",
+      "options": [
+        {
+          "key": "A",
+          "value": "a capacitance of reactance X<sub>C</sub> = X<sub>L</sub> is included in the same citcuit. "
+        },
+        {
+          "key": "B",
+          "value": "an iron rod is inserted in the coil. "
+        },
+        {
+          "key": "C",
+          "value": "frequency of the AC source is decreased. "
+        },
+        {
+          "key": "D",
+          "value": "number of turns in the coil is reduced. "
+        }
+      ],
+      "answer": "B",
+      "explanation": "If a bulb B and AC source are connected in series with self-inductance coil, then in such case the brightness of the bulb decreases when an iron rod is inserted in the coil which further increases impedance of the circuit. "
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The instantaneous values of alternating current and voltage in a circuit are given as \n<br><br>$$i = {1 \\over {\\sqrt 2 }}$$ sin (100 $$\\pi $$t) ampere\n<br><br>$$e = {1 \\over {\\sqrt 2 }}\\sin \\left( {100\\pi t + {\\pi  \\over 3}} \\right)$$ Volt\n<br><br>The average power in watts consumed in the circuit is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$${1 \\over 4}$$"
+        },
+        {
+          "key": "B",
+          "value": "$${{\\sqrt 3 } \\over 4}$$"
+        },
+        {
+          "key": "C",
+          "value": "$${1 \\over 2}$$"
+        },
+        {
+          "key": "D",
+          "value": "$${1 \\over 8}$$"
+        }
+      ],
+      "answer": "D",
+      "explanation": "i<sub>rms</sub> = $${{{i_0}} \\over {\\sqrt 2 }} = {{{1 \\over {\\sqrt 2 }}} \\over {\\sqrt 2 }} = {1 \\over 2}$$ A\n<br><br>e<sub>rms</sub> = $${{{e_0}} \\over {\\sqrt 2 }} = {{{1 \\over {\\sqrt 2 }}} \\over {\\sqrt 2 }} = {1 \\over 2}$$ V\n<br><br>Average power consumed in the circuit,\n<br><br>P = i<sub>rms</sub>e<sub>rms</sub> cos$$\\phi $$\n<br><br>= $$\\left( {{1 \\over 2}} \\right)\\left( {{1 \\over 2}} \\right)\\cos {\\pi  \\over 3}$$ = $${1 \\over 8}$$ W"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "In an electrical circuit R, L, C and a.c. voltage source are all connected in series. When L is removed from the circuit, the phase difference between the voltage and the current in the circuit is If instead, C is removed from the circuit, the phase difference is again. The power factor of the circuit is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$${1 \\over 2}$$"
+        },
+        {
+          "key": "B",
+          "value": "$${1 \\over {\\sqrt 2 }}$$"
+        },
+        {
+          "key": "C",
+          "value": "1"
+        },
+        {
+          "key": "D",
+          "value": "$${{\\sqrt 3 } \\over 2}$$"
+        }
+      ],
+      "answer": "C",
+      "explanation": "When L is removed, the phase difference between the voltage and current is\n<br><br>tan$$\\phi $$<sub>1</sub> = $${{{X_C}} \\over R}$$\n<br><br>$$ \\Rightarrow $$ $$\\tan {\\pi  \\over 3} = {{{X_C}} \\over R}$$\n<br><br>$$ \\Rightarrow $$ X<sub>C</sub> = $$\\sqrt 3 R$$\n<br><br>When C is removed, the phase difference between the voltage and current is\n<br><br>tan$$\\phi $$<sub>2</sub> = $${{{X_L}} \\over R}$$\n<br><br>$$ \\Rightarrow $$ $$\\tan {\\pi  \\over 3} = {{{X_L}} \\over R}$$\n<br><br>$$ \\Rightarrow $$ X<sub>L</sub> = $$\\sqrt 3 R$$\n<br><br>As X<sub>L</sub> = X<sub>C</sub>, the series LCR circuit is in resonance.\n<br><br>Net impedence, Z = $$\\sqrt {{R^2} + {{\\left( {{X_L} - {X_C}} \\right)}^2}} $$ = R\n<br><br>Power factor, cos$$\\phi $$ = $${R \\over Z} = {R \\over R} = 1$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A coil has resistance 30 ohm and inductive reactance 20 ohm at 50 Hz frequency. If an ac source, of 200 volt, 100 Hz, is connected across the coil, the current in the coil will be ",
+      "options": [
+        {
+          "key": "A",
+          "value": "2.0 A"
+        },
+        {
+          "key": "B",
+          "value": "4.0 A"
+        },
+        {
+          "key": "C",
+          "value": "8.0 A"
+        },
+        {
+          "key": "D",
+          "value": "$${{20} \\over {\\sqrt {13} }}A$$"
+        }
+      ],
+      "answer": "B",
+      "explanation": "Current flowing in the coil is\n<br><br>I = $${{200} \\over Z} = {{200} \\over {\\sqrt {{R^2} + {{\\left( {\\omega L} \\right)}^2}} }} = {{200} \\over {\\sqrt {{{\\left( {30} \\right)}^2} + {{\\left( {40} \\right)}^2}} }}$$ = 4 A"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "An ac voltage is applied to a resistance R and an inductor L in series.  If R and the inductive reactance are both equal to 3 $$\\Omega $$, the phase difference between the applied voltage and the current in the circuit is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$\\pi /6$$"
+        },
+        {
+          "key": "B",
+          "value": "$$\\pi /4$$"
+        },
+        {
+          "key": "C",
+          "value": "$$\\pi /2$$"
+        },
+        {
+          "key": "D",
+          "value": "zero"
+        }
+      ],
+      "answer": "B",
+      "explanation": "tan $$\\phi $$ = $${{{X_L}} \\over R}$$ = $${3 \\over 3}$$ = 1\n<br><br>$$ \\Rightarrow $$ $$\\phi $$ = 45<sup>o</sup> or $${\\pi  \\over 4}$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "In the ac circuit an alternating voltage e = $$200\\sqrt 2 $$sin100t volts is connected to a capacitor of capacity 1 $$\\mu $$F.  The r.m.s. value of the current in the circuit is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "10 mA"
+        },
+        {
+          "key": "B",
+          "value": "100 mA"
+        },
+        {
+          "key": "C",
+          "value": "200 mA"
+        },
+        {
+          "key": "D",
+          "value": "20 mA"
+        }
+      ],
+      "answer": "D",
+      "explanation": "e<sub>0</sub> = $$200\\sqrt 2 $$ V, $$\\omega $$ = 100 rad s<sup>-1</sup>\n<br><br>The capacitive reactance is\n<br><br>X<sub>C</sub> = $${1 \\over {\\omega C}} = {1 \\over {100 \\times 1 \\times {{10}^{ - 6}}}}$$\n<br><br>The r.m.s. value of the current in the circuit is\n<br><br>i<sub>r.m.s</sub> = $${{{V_{rms}}} \\over {{X_C}}} = {{{{{e_0}} \\over {\\sqrt 2 }}} \\over {{1 \\over {\\omega C}}}}$$\n<br><br>= $${{{{200\\sqrt 2 } \\over {\\sqrt 2 }}} \\over {{1 \\over {100 \\times {{10}^{ - 6}}}}}}$$\n<br><br>= 200 × 100 × 10<sup>–6</sup> A = 2 × 10<sup>–2</sup> A = 20 mA"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A condenser of capacity C is charged to a potential difference of V<sub>1</sub>. The plates of th condenser are then connected to an ideal inductor of inductance L. The current through the inductor when the potential difference across the condenser reduces to V<sub>2</sub> is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$${\\left( {{{C{{\\left( {{V_1} - {V_2}} \\right)}^2}} \\over L}} \\right)^{{1 \\over 2}}}$$"
+        },
+        {
+          "key": "B",
+          "value": "$${{C\\left( {V_1^2 - V_2^2} \\right)} \\over L}$$"
+        },
+        {
+          "key": "C",
+          "value": "$${{C\\left( {V_1^2 + V_2^2} \\right)} \\over L}$$"
+        },
+        {
+          "key": "D",
+          "value": "$${\\left( {{{C\\left( {V_1^2 - V_2^2} \\right)} \\over L}} \\right)^{{1 \\over 2}}}$$"
+        }
+      ],
+      "answer": "D",
+      "explanation": "q = q<sub>0</sub> cos$$\\omega $$t\n<br><br>$$ \\Rightarrow $$ cos$$\\omega $$t = $${q \\over {{q_0}}} = {{C{V_2}} \\over {C{V_1}}} = {{{V_2}} \\over {{V_1}}}$$\n<br><br>Current through the inductor\n<br><br>I = $${{dq} \\over {dt}} = {d \\over {dt}}\\left( {{q_0}\\cos \\omega t} \\right)$$ = - q<sub>0</sub>$$\\omega $$ sin$$\\omega $$t\n<br><br>$$ \\therefore $$ |I| = $${C{V_1}{1 \\over {\\sqrt {LC} }}{{\\left[ {1 - {{\\cos }^2}\\omega t} \\right]}^{1/2}}}$$\n<br><br>= $${V_1}\\sqrt {{C \\over L}} {\\left[ {1 - \\left( {{{{V_2}} \\over {{V_1}}}} \\right)} \\right]^{1/2}}$$\n<br><br>= $${\\left( {{{C\\left( {V_1^2 - V_2^2} \\right)} \\over L}} \\right)^{{1 \\over 2}}}$$\n"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A 220 volt input is supplied to a transformer. The output circuit draws a current of 2.0 ampere at 440 volts. If the efficiency of the transformer is 80%, the current drwn by the primary windings of the transformer is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "3.6 ampere"
+        },
+        {
+          "key": "B",
+          "value": "2.8 ampere"
+        },
+        {
+          "key": "C",
+          "value": "2.5 ampere"
+        },
+        {
+          "key": "D",
+          "value": "5.0 ampere"
+        }
+      ],
+      "answer": "D",
+      "explanation": "Efficiency of the transformer,\n<br>$$\\eta $$ = <span style=\"display: inline-block;vertical-align: middle;\">\n     <div style=\"text-align: center;border-bottom: 1px solid black;\">Output power</div>\n     <div style=\"text-align: center;\">Input power</div>\n</span>\n<br><br>$$ \\Rightarrow $$ $${{80} \\over {100}} = {{{V_s}{I_s}} \\over {{V_p}{I_p}}}$$\n<br><br>$$ \\Rightarrow $$ I<sub>p</sub> = $${{440 \\times 2} \\over {{{80} \\over {100}} \\times 220}}$$ = 5 A"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Power dissipated in an LCR series circuit connected to an A.C. source of emf $$\\varepsilon $$ is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$${{{\\varepsilon ^2}\\sqrt {{R^2} + {{\\left( {L\\omega  - {1 \\over {\\omega }}} \\right)}^2}} } \\over R}$$"
+        },
+        {
+          "key": "B",
+          "value": "$${{{\\varepsilon ^2}\\sqrt {{R^2} + {{\\left( {L\\omega  - {1 \\over {C\\omega }}} \\right)}^2}} } \\over R}$$"
+        },
+        {
+          "key": "C",
+          "value": "$${{{\\varepsilon ^2}R} \\over {\\sqrt {{R^2} + {{\\left( {L  - {1 \\over {C\\omega }}} \\right)}^2}} }}$$"
+        },
+        {
+          "key": "D",
+          "value": "$${{{\\varepsilon ^2}R} \\over {\\left[ {{R^2} + {{\\left( {L\\omega  - {1 \\over {C\\omega }}} \\right)}^2}} \\right]}}$$"
+        }
+      ],
+      "answer": "D",
+      "explanation": "Power dissipated, P = E<sub>rms</sub>I<sub>rms</sub> cos$$\\phi $$\n<br><br>cos$$\\phi $$ = $${R \\over Z}$$\n<br><br>But I<sub>rms</sub> = $${{{E_{rms}}} \\over Z}$$\n<br><br>$$ \\therefore $$ P = $$E_{rms}^2.{R \\over {{Z^2}}}$$\n<br><br>Also we know, Z = $$\\sqrt {{R^2} + {{\\left( {{X_L} - {X_C}} \\right)}^2}} $$\n<br><br>So, P = $$E_{rms}^2.{R \\over {{R^2} + {{\\left( {{X_L} - {X_C}} \\right)}^2}}}$$\n<br><br>= $${{{\\varepsilon ^2}R} \\over {\\left[ {{R^2} + {{\\left( {L\\omega  - {1 \\over {C\\omega }}} \\right)}^2}} \\right]}}$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "In an a.c. circuit the e.m.f. ($$\\varepsilon $$) and the current \n<br><br>(i)&nbsp;&nbsp;at any instant are given respectively by \n<br>$$\\varepsilon $$ = E<sub>0</sub>sin$$\\omega $$t, &nbsp;&nbsp;$$i$$ = $$I$$<sub>0</sub>sin($$\\omega $$t $$-$$ $$\\phi $$)\n<br><br>The average power in the circuit over one cycle of a.c. is",
+      "options": [
+        {
+          "key": "A",
+          "value": "$${{{E_0}{I_0}} \\over 2}\\cos \\phi $$"
+        },
+        {
+          "key": "B",
+          "value": "$${{E_0}{I_0}}$$"
+        },
+        {
+          "key": "C",
+          "value": "$${{{E_0}{I_0}} \\over 2}$$"
+        },
+        {
+          "key": "D",
+          "value": "$${{{E_0}{I_0}} \\over 2}\\sin \\phi $$"
+        }
+      ],
+      "answer": "A",
+      "explanation": "Average power = $${{{E_0}{I_0}} \\over 2}\\cos \\phi $$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A transformer is used to light a 100 W and 110 V lamp from a 220 V mains. If the main current is 0.5 amp, the efficiency of the transformer is approximately",
+      "options": [
+        {
+          "key": "A",
+          "value": "50%"
+        },
+        {
+          "key": "B",
+          "value": "90%"
+        },
+        {
+          "key": "C",
+          "value": "10%"
+        },
+        {
+          "key": "D",
+          "value": "30%"
+        }
+      ],
+      "answer": "B",
+      "explanation": "Efficiency of the transformer\n\n<br><br>= $${{{P_{output}}} \\over {{P_{input}}}} \\times 100$$\n<br><br>= $${{100} \\over {220 \\times 0.5}} \\times 100$$ = 90 %"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The primary and secondary coils of a transformer have 50 and 1500 turns respectively. If the magnetic flux $$\\phi $$ linked with the primary coil is given by $$\\phi $$ = $$\\phi $$<sub>0</sub> + 4t, where $$\\phi $$ is webers, t is time in seconds and $$\\phi $$<sub>0</sub> is a constant, the output voltage across the secondary coil is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "120 volt"
+        },
+        {
+          "key": "B",
+          "value": "220 volts"
+        },
+        {
+          "key": "C",
+          "value": "30 volts"
+        },
+        {
+          "key": "D",
+          "value": "90 volts."
+        }
+      ],
+      "answer": "A",
+      "explanation": "Voltage across the primary,\n<br><br>V<sub>p</sub> = $${{d\\phi } \\over {dt}} = {d \\over {dt}}\\left( {{\\phi _0} + 4t} \\right) = $$ 4 volt\n<br><br>Also $${{{V_s}} \\over {{V_p}}} = {{{N_s}} \\over {{N_p}}}$$\n<br><br>Where, N<sub></sub>s = No. of turns across primary coil = 50 \n<br><br>N<sub>p</sub> = No. of turns across secondary coil = 1500\n<br><br>$$ \\therefore $$ V<sub>s</sub> = $${{1500} \\over {50}} \\times 4$$ = 120 V"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "What is the value of inductance L for which the current is maximum in a series LCR circuit with C = 10 $$\\mu $$F and $$\\omega $$ = 1000 s<sup>$$-$$1</sup> ? ",
+      "options": [
+        {
+          "key": "A",
+          "value": "1 mH"
+        },
+        {
+          "key": "B",
+          "value": "cannot be calculated unless R is known "
+        },
+        {
+          "key": "C",
+          "value": "10 mH"
+        },
+        {
+          "key": "D",
+          "value": "100 mH"
+        }
+      ],
+      "answer": "D",
+      "explanation": "Condition for which current is maximum in a series LCR circuit is,\n<br><br>$$\\omega  = {1 \\over {\\sqrt {LC} }}$$\n<br><br>$$ \\Rightarrow $$ 1000 = $${1 \\over {\\sqrt {L\\left( {10 \\times {{10}^6}} \\right)} }}$$\n<br><br>$$ \\Rightarrow $$ L = 100 mH"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A transistor-oscillator using a resonant circuit with an inductor L (of negligible resistance) and a capacitor C in series produce oscillations of frequency $$f$$.  If L is doubled and C is changed to 4C, the frequency will be ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$f/2$$"
+        },
+        {
+          "key": "B",
+          "value": "$$f/4$$"
+        },
+        {
+          "key": "C",
+          "value": "$$8f$$"
+        },
+        {
+          "key": "D",
+          "value": "$$f/2$$$$\\sqrt 2 $$"
+        }
+      ],
+      "answer": "D",
+      "explanation": "We know that frequency of electrical oscillation in L.C. circuit is\n<br><br>f = $${1 \\over {2\\pi }}\\sqrt {{1 \\over {LC}}} $$\n<br><br>$$ \\therefore $$ $${{{f_1}} \\over {{f_2}}} = {\\left( {{{{L_2}{C_2}} \\over {{L_1}{C_1}}}} \\right)^{1/2}}$$\n<br><br>= $${\\left( {{{2L \\times 4C} \\over {L \\times C}}} \\right)^{1/2}} = {\\left( 8 \\right)^{1/2}}$$\n<br><br>$$ \\therefore $$ $${{{f_1}} \\over {{f_2}}} = 2\\sqrt 2 $$\n<br><br>$$ \\Rightarrow $$ $${{f_2} = {{{f_1}} \\over {2\\sqrt 2 }}}$$\n<br><br>$$ \\Rightarrow $$ $${{f_2} = {f \\over {2\\sqrt 2 }}}$$ [As f<sub>1</sub> = f]"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The core of a transformer is laminated because ",
+      "options": [
+        {
+          "key": "A",
+          "value": "ratio of voltage in primary and secondary may be increased"
+        },
+        {
+          "key": "B",
+          "value": "energy losses due to eddy currents may be minimised"
+        },
+        {
+          "key": "C",
+          "value": "the weight of the transformer may be reduced "
+        },
+        {
+          "key": "D",
+          "value": "rusting of the core may be prevented. "
+        }
+      ],
+      "answer": "B",
+      "explanation": "The core of a transformer is laminated to minimise the energy losses due to eddy currents."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A coil of inductive reactance 31 $$\\Omega $$ has a resistance of 8 $$\\Omega $$. It is placed in series with a condenser of capacitative reactance 25 $$\\Omega $$. The combination is connected to an a.c. source of 110 V. The power factor of the circuit is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "0.33"
+        },
+        {
+          "key": "B",
+          "value": "0.56"
+        },
+        {
+          "key": "C",
+          "value": "0.64"
+        },
+        {
+          "key": "D",
+          "value": "0.80"
+        }
+      ],
+      "answer": "D",
+      "explanation": "Impedance of series LCR is \n<br><br>Z = $$\\sqrt {{R^2} + {{\\left( {{X_L} - {X_C}} \\right)}^2}} $$\n<br><br>= $$\\sqrt {{8^2} + {{\\left( {31 - 25} \\right)}^2}} $$\n<br><br>= $$\\sqrt {64 + 36} $$ = 10 $$\\Omega $$\n<br><br>Power factor, cos$$\\phi $$ = $${R \\over Z} = {8 \\over {10}} = 0.8$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "In a circuit L, C and R are connected in series with an alternating voltage source of frquency $$f.$$ The current leads the voltage by 45<sup>o</sup>. The value of C is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$${1 \\over {\\pi f\\left( {2\\pi f\\,L - R} \\right)}}$$ "
+        },
+        {
+          "key": "B",
+          "value": "$${1 \\over {2\\pi f\\left( {2\\pi f\\,L - R} \\right)}}$$"
+        },
+        {
+          "key": "C",
+          "value": "$${1 \\over {\\pi f\\left( {2\\pi f\\,L + R} \\right)}}$$"
+        },
+        {
+          "key": "D",
+          "value": "$${1 \\over {2\\pi f\\left( {2\\pi f\\,L + R} \\right)}}$$"
+        }
+      ],
+      "answer": "D",
+      "explanation": "tan$$\\phi $$ = $${{{X_C} - {X_L}} \\over R}$$\n<br><br>$$ \\Rightarrow $$ $$\\tan \\left( {{\\pi  \\over 4}} \\right) = {{{1 \\over {\\omega C}} - \\omega L} \\over R}$$\n<br><br>$$ \\Rightarrow $$ R = $${{1 \\over {\\omega C}} - \\omega L}$$\n<br><br>$$ \\Rightarrow $$ R + 2$$\\pi $$fL = $${1 \\over {2\\pi fC}}$$\n<br><br>$$ \\Rightarrow $$ C = $${1 \\over {2\\pi f\\left( {R + 2\\pi fL} \\right)}}$$\n"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A coil of 40 henry inductance is connected in series with a resistance of 8 ohm and the combination is joined to the terminals of a 2 volt battery. The time constant of the circuit is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "5 seconds"
+        },
+        {
+          "key": "B",
+          "value": "1/5  seconds"
+        },
+        {
+          "key": "C",
+          "value": "40 seconds"
+        },
+        {
+          "key": "D",
+          "value": "20 seconds"
+        }
+      ],
+      "answer": "A",
+      "explanation": "Time constant of LR circuit is $$\\tau $$ = L/R. \n<br><br>$$ \\therefore $$ $$\\tau $$ = 40/8 = 5 sec.\n"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "For a series LCR circuit the power loss at resonance is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$${{{V^2}} \\over {\\left[ {\\omega L - {1 \\over {\\omega C}}} \\right]}}$$"
+        },
+        {
+          "key": "B",
+          "value": "$${I^2}L\\omega $$"
+        },
+        {
+          "key": "C",
+          "value": "$${I^2}R$$"
+        },
+        {
+          "key": "D",
+          "value": "$${{{V^2}} \\over {C\\omega }}$$"
+        }
+      ],
+      "answer": "C",
+      "explanation": "The impedance Z of a series LCR circuit is given by, \n<br><br>Z = $$\\sqrt {{R^2} + {{\\left( {{X_L} - {X_C}} \\right)}^2}} $$\n<br><br>At resonance, X<sub>L</sub> = X<sub>C</sub>, hence Z = R.\n<br><br>Let, supply voltage = V<sub>R</sub> = V\n<br><br>$$ \\therefore $$ R.M.S. current, I = $${V \\over R}$$\n<br><br>$$ \\therefore $$ Power loss = VI = I<sup>2</sup>R"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A capacitor of capacity C has reactance X. If capacitance and frequency become double then reactance will be ",
+      "options": [
+        {
+          "key": "A",
+          "value": "4X"
+        },
+        {
+          "key": "B",
+          "value": "X/2"
+        },
+        {
+          "key": "C",
+          "value": "X/4"
+        },
+        {
+          "key": "D",
+          "value": "2X"
+        }
+      ],
+      "answer": "C",
+      "explanation": "Reactance X = $${1 \\over {\\omega C}} = {1 \\over {2\\pi fC}}$$\n<br><br>$$ \\therefore $$ X $$ \\propto $$ $${1 \\over {fC}}$$\n<br><br>$$ \\therefore $$ $${{{X_1}} \\over X} = {{fC} \\over {{f_1}{C_1}}}$$ = $${{fC} \\over {2f \\times 2C}}$$ = $${1 \\over 4}$$\n<br><br>$$ \\Rightarrow $$ X<sub>1</sub> = $${X \\over 4}$$"
+    }
+  ]
+}

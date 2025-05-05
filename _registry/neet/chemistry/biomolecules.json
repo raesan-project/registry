@@ -1,0 +1,1111 @@
+{
+  "_index": {
+    "name": "Biomolecules"
+  },
+  "_children": [
+    {
+      "_type": "single_mcq",
+      "body": "<p>Given below are two statements :</p>\n<p>Statement I : Glycogen is similar to amylose in its structure.</p>\n<p>Statement II : Glycogen is found in yeast and fungi also.</p>\n<p>In the light of the above statements, choose the correct answer from the options given below :</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "Statement I is true but Statement II is false.\n"
+        },
+        {
+          "key": "B",
+          "value": "Statement I is false but Statement II is true.\n"
+        },
+        {
+          "key": "C",
+          "value": "Both Statement I and Statement II are true.\n"
+        },
+        {
+          "key": "D",
+          "value": "Both Statement I and Statement II are false.\n"
+        }
+      ],
+      "answer": "B",
+      "explanation": "<p>Let's analyze the statements one by one:</p>\n\n<p><strong>Statement I: Glycogen is similar to amylose in its structure.</strong></p>\n\n<p>This statement is not correct. Glycogen and amylose are both polysaccharides, but they have different structures. Amylose is a linear polymer of glucose units linked by α-1,4-glycosidic bonds, which makes it a component of starch. Glycogen, on the other hand, is a highly branched polymer of glucose with α-1,4-glycosidic bonds in the linear chains and α-1,6-glycosidic bonds at the branching points. This high level of branching makes glycogen structurally distinct from amylose.</p>\n\n<p><strong>Statement II: Glycogen is found in yeast and fungi also.</strong></p>\n\n<p>This statement is correct. Glycogen is a form of energy storage in many organisms, including animals, plants, bacteria, and fungi. In fungi and yeasts, glycogen serves as a reserve of glucose which can be mobilized when needed.</p>\n\n<p>Therefore, the correct option is:</p>\n\n<p><strong>Option B<br>\n\n<p>Statement I is false but Statement II is true.</strong></p></p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>The reagents with which glucose does not react to give the corresponding tests/products are</p>\n<p>A. Tollen's reagent</p>\n<p>B. Schiff's reagent</p>\n<p>C. HCN</p>\n<p>D. $$\\mathrm{NH}_2 \\mathrm{OH}$$</p>\n<p>E. $$\\mathrm{NaHSO}_3$$</p>\n<p>Choose the correct options from the given below:</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "B and C"
+        },
+        {
+          "key": "B",
+          "value": "A and D"
+        },
+        {
+          "key": "C",
+          "value": "B and E"
+        },
+        {
+          "key": "D",
+          "value": "E and D"
+        }
+      ],
+      "answer": "C",
+      "explanation": "<p>Let's analyze each reagent and its reaction with glucose to determine which ones do not react accordingly.</p>\n\n<p><strong>Glucose</strong> is an aldohexose, meaning it has an aldehyde group in its straight-chain form and can form a cyclic hemiacetal structure. This structure is predominant under physiological conditions.</p>\n\n<p><strong>A. Tollen's Reagent:</strong> Tollen's reagent is a solution of silver nitrate in ammonia, used to detect reducing sugars. Glucose, having a free aldehyde group or an easily openable hemiacetal in its cyclic form, can reduce Tollen's reagent to metallic silver, showing a positive test. Thus, glucose reacts with Tollen's reagent.</p>\n\n<p><strong>B. Schiff's Reagent:</strong> Schiff's reagent is used to detect aldehydic groups. It is sensitive to free aldehydes, turning pink when aldehydes are present. Since the aldehyde form of glucose is present in very minute amounts at equilibrium (most glucose is in the cyclic form), it generally does not react strongly with Schiff's reagent, leading to a negative test.</p>\n\n<p><strong>C. HCN:</strong> Hydrogen cyanide (HCN) can react with carbonyl groups to form cyanohydrins. In the case of glucose, the reactive aldehyde group can react with HCN to form glucosyl cyanohydrin. Thus, glucose does react with HCN.</p>\n\n<p><strong>D. $$\\mathrm{NH}_2\\mathrm{OH}$$ (Hydroxylamine):</strong> Hydroxylamine reacts with carbonyl compounds to form oximes. Glucose, containing an aldehyde group, can react with hydroxylamine to form glucose oxime. Therefore, glucose reacts with hydroxylamine.</p>\n\n<p><strong>E. $$\\mathrm{NaHSO}_3$$ (Sodium Bisulfite):</strong> Sodium bisulfite reacts with aldehydes to form bisulfite adducts. However, because glucose in solution predominantly exists in its cyclic form rather than the open-chain form, it does not readily react with sodium bisulfite. Hence, glucose generally does not react with sodium bisulfite, unless placed under certain conditions that favor the open-chain form.</p>\n\n<p>In conclusion, the reagents with which glucose does not react to give the corresponding tests/products are:</p>\n\n<p><strong>B. Schiff's Reagent and</strong></p>\n\n<p><strong>E. $$\\mathrm{NaHSO}_3$$</strong></p>\n\n<p>Therefore, the correct answer is <strong>Option C: B and E</strong>.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Fehling's solution 'A' is</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "aqueous copper sulphate\n"
+        },
+        {
+          "key": "B",
+          "value": "alkaline copper sulphate\n"
+        },
+        {
+          "key": "C",
+          "value": "alkaline solution of sodium potassium tartrate (Rochelle's salt)\n"
+        },
+        {
+          "key": "D",
+          "value": "aqueous sodium citrate\n"
+        }
+      ],
+      "answer": "A",
+      "explanation": "<p>Fehling's solution is a chemical reagent used to differentiate between water-soluble carbohydrates and ketone-functional groups, and as a test for monosaccharides. It is used specially in the Fehling's test for reducing sugars. The test involves two solutions, generally known as Fehling's A and Fehling's B, which are mixed together and added to perform the test.</p>\n\n<p>Fehling's solution 'A' is an aqueous solution of copper(II) sulfate. Thus, the correct option is:</p>\n\n<p><strong>Option A: aqueous copper sulphate</strong></p>\n\n<p>The function of Fehling's A is to provide copper(II) ions, $$ Cu^{2+} $$, which act as the oxidizing agent in the reaction with the reducing sugar. When Fehling's Solution A and B are mixed and heated with a reducing sugar, the copper(II) ions are reduced to copper(I) oxide, which precipitates as a red solid, indicating a positive result.</p>\n\n<p>Fehling's Solution B, on the other hand, contains alkaline sodium potassium tartrate, which helps to maintain the solution in an alkaline condition and keeps the copper(II) ions in solution.</p>\n\n<p>Thus, in summary, Fehling's A consists of aqueous copper sulfate, which directly matches with Option A.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>The incorrect statement about denaturation of proteins is :</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "Uncoiling of the helical structure takes place"
+        },
+        {
+          "key": "B",
+          "value": "It results due to change of temperature and/or pH"
+        },
+        {
+          "key": "C",
+          "value": "It results in loss of biological activity of proteins"
+        },
+        {
+          "key": "D",
+          "value": "A protein is formed from amino acids linked by peptide bonds"
+        }
+      ],
+      "answer": "D",
+      "explanation": "<p>$$\\bullet$$ Proteins are polymers of $$\\alpha$$-amino acids and they are connected to each other by peptide bond, but this is not denaturation process.</p>\n<p>$$\\bullet$$ Due to denaturation globules unfold and helix get uncoiled and protein loses its biological activity.</p>\n<p>Denaturation can be caused if protein in its native form, is subjected to physical change like change in temperature or chemical change like change in pH</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>The incorrect statement regarding enzymes is</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "Enzymes are biocatalysts."
+        },
+        {
+          "key": "B",
+          "value": "Like chemical catalysts enzymes reduce the activation energy of bio processes."
+        },
+        {
+          "key": "C",
+          "value": "Enzymes are polysaccharides."
+        },
+        {
+          "key": "D",
+          "value": "Enzymes are very specific for a particular reaction and substrate."
+        }
+      ],
+      "answer": "C",
+      "explanation": "Enzymes are complex nitrogenous organic compounds which are produced by living plants and animals. They are protein molecules of high molecular mass. They are not polysaccharides."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Which of the following is a basic amino acid?",
+      "options": [
+        {
+          "key": "A",
+          "value": "Alanine"
+        },
+        {
+          "key": "B",
+          "value": "Tyrosine"
+        },
+        {
+          "key": "C",
+          "value": "Lysine"
+        },
+        {
+          "key": "D",
+          "value": "Serine"
+        }
+      ],
+      "answer": "C",
+      "explanation": "Lysine is a basic amino acid it contains more number of $$ - $$\nNH<sub>2</sub> groups as compared to $$ - $$\nCOOH groups due to their symmetrical."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Sucrose on hydrolysis gives :",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$\\alpha $$-D-Glucose + $$\\beta $$-D-Glucose"
+        },
+        {
+          "key": "B",
+          "value": "$$\\alpha $$-D-Glucose + $$\\beta $$-D-Fructose"
+        },
+        {
+          "key": "C",
+          "value": "$$\\alpha $$-D-Fructose + $$\\beta $$-D-Fructose"
+        },
+        {
+          "key": "D",
+          "value": "$$\\alpha $$-D-Glucose + $$\\alpha $$-D-Fructose"
+        }
+      ],
+      "answer": "B",
+      "explanation": "<p>Sucrose is a disaccharide composed of two monosaccharide units, glucose and fructose, joined together via a glycosidic bond. Upon hydrolysis, this bond is broken, and the two constituent monosaccharides are released. Hydrolysis of sucrose results in the formation of one molecule of glucose and one molecule of fructose. However, it is important to specify the configurations of these monosaccharides as they exist in specific forms.</p>\nSucrose $$\\buildrel {Hydrolysis} \\over\n \\longrightarrow $$\n$$\\alpha $$-D-Glucose + $$\\beta $$-D-Fructose\n<p>Glucose in sucrose is in the $$\\alpha$$-D form while fructose is in the $$\\beta$$-D configuration. Thus, the correct answer reflecting the products of sucrose hydrolysis is:</p>\n\n<p>Option B: $$\\alpha$$-D-Glucose + $$\\beta$$-D-Fructose</p>\n\n<p>This reflects the correct stereochemistry and identity of the monosaccharides produced from the hydrolysis of sucrose.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The non-essential amino acid among the following is :",
+      "options": [
+        {
+          "key": "A",
+          "value": "alanine"
+        },
+        {
+          "key": "B",
+          "value": "lysine"
+        },
+        {
+          "key": "C",
+          "value": "valine"
+        },
+        {
+          "key": "D",
+          "value": "leucine"
+        }
+      ],
+      "answer": "A",
+      "explanation": "Non Essential amino acid is Alanine."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The difference between amylose and amylopectin\nis",
+      "options": [
+        {
+          "key": "A",
+          "value": "amylopectin have 1 $$ \\to $$ 4 $$\\alpha $$-linkage and\n1 $$ \\to $$ 6 $$\\alpha $$-linkage"
+        },
+        {
+          "key": "B",
+          "value": "amylose have 1 $$ \\to $$ 4 $$\\alpha $$-linkage and\n1 $$ \\to $$ 6 $$\\beta $$-linkage"
+        },
+        {
+          "key": "C",
+          "value": "amylopectin have 1 $$ \\to $$ 4 $$\\alpha $$-linkage and\n1 $$ \\to $$ 6 $$\\beta $$-linkage"
+        },
+        {
+          "key": "D",
+          "value": "amylose is made up of glucose and\ngalactose"
+        }
+      ],
+      "answer": "A",
+      "explanation": "Amylose and amylopectin are polymers of\n$$\\alpha $$-D-glucose, so $$\\beta $$-link is not possible.\nAmylose is linear with 1 $$ \\to $$ 4 $$\\alpha $$-linkage\nwhereas amylopectin is branched and has\nboth 1 $$ \\to $$ 4 and 1 $$ \\to $$ 6 $$\\alpha $$-linkages."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Which of the following statements is not correct? ",
+      "options": [
+        {
+          "key": "A",
+          "value": "Ovalbumin is a simple food reserve in egg-white. "
+        },
+        {
+          "key": "B",
+          "value": "Blood proteins thrombin and fibrinogen are involved in blood clothing."
+        },
+        {
+          "key": "C",
+          "value": "Denaturation makes the proteins more active. "
+        },
+        {
+          "key": "D",
+          "value": "Insulin maintains sugar level in the blood of a human body."
+        }
+      ],
+      "answer": "C",
+      "explanation": "Denaturation changes the structure of a\nprotein and protein loses its activity."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The central dogma of molecular genetics states that the genetic information flows from ",
+      "options": [
+        {
+          "key": "A",
+          "value": "Amino acids $$ \\to $$ Proteins $$ \\to $$ DNA"
+        },
+        {
+          "key": "B",
+          "value": "DNA $$ \\to $$ Carbohydrates $$ \\to $$ Proteins"
+        },
+        {
+          "key": "C",
+          "value": "DNA $$ \\to $$ RNA $$ \\to $$ Proteins"
+        },
+        {
+          "key": "D",
+          "value": "DNA $$ \\to $$ RNA $$ \\to $$ Carbohydrates"
+        }
+      ],
+      "answer": "C",
+      "explanation": "The central dogma of molecular genetics is\n<br><br>DNA $$\\buildrel {Transcription} \\over\n \\longrightarrow $$ RNA $$\\buildrel {Translation} \\over\n \\longrightarrow $$ Proteins"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The correct statement regarding RNA and DNA, respectively is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "The sugar component in RNA is a arabinose and the sugar component in DNA is ribose"
+        },
+        {
+          "key": "B",
+          "value": "The sugar component in RNA is 2'-deoxyribose and the sugar component in DNA is arabinose"
+        },
+        {
+          "key": "C",
+          "value": "the sugar component in RNA is arabinose and the sugar component in DNA is 2'-deoxyibose"
+        },
+        {
+          "key": "D",
+          "value": "the sugar component in RNA is ribose and the sugar component in DNA is 2'-deoxyribose."
+        }
+      ],
+      "answer": "D",
+      "explanation": "Sugar in DNA is 2'-deoxyribose whereas\nsugar in RNA is ribose."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Which one given below is a non-reducing sugar?",
+      "options": [
+        {
+          "key": "A",
+          "value": "Glucose"
+        },
+        {
+          "key": "B",
+          "value": "Sucrose"
+        },
+        {
+          "key": "C",
+          "value": "Maltose"
+        },
+        {
+          "key": "D",
+          "value": "Lactose"
+        }
+      ],
+      "answer": "B",
+      "explanation": "All monosaccharides whether aldoses or\nketoses are reducing sugars. Disaccharides such\nas sucrose in which the two monosaccharide units\nare linked through their reducing centres i.e.,\naldehydic or ketonic groups are non-reducing."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "In a protein molecule various amino acids are linked together by ",
+      "options": [
+        {
+          "key": "A",
+          "value": "peptide bond"
+        },
+        {
+          "key": "B",
+          "value": "dative bond"
+        },
+        {
+          "key": "C",
+          "value": "$$\\alpha $$-glycosidic bond"
+        },
+        {
+          "key": "D",
+          "value": "$$\\beta $$-glycosidic bond. "
+        }
+      ],
+      "answer": "A",
+      "explanation": "In a protein molecule various amino acids are\nlinked together by peptide bond."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Which of the following hormones is produced under the condition of stress which simulate glycogenlysis in the liver of human beings? ",
+      "options": [
+        {
+          "key": "A",
+          "value": "Thyroxin"
+        },
+        {
+          "key": "B",
+          "value": "Insulin"
+        },
+        {
+          "key": "C",
+          "value": "Adrenaline"
+        },
+        {
+          "key": "D",
+          "value": "Estradiol"
+        }
+      ],
+      "answer": "C",
+      "explanation": "Adrenaline is a hormone produced by\nadrenal glands during high stress or exciting\nsituations. This powerful hormone is part of the\nhuman body’s acute stress response system,\nalso called the fight or flight response"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "In DNA, the linkages between different nitrogenous bases are ",
+      "options": [
+        {
+          "key": "A",
+          "value": "phosphate linkage"
+        },
+        {
+          "key": "B",
+          "value": "H-bonding"
+        },
+        {
+          "key": "C",
+          "value": "glycosidic linkage"
+        },
+        {
+          "key": "D",
+          "value": "peptide linkage"
+        }
+      ],
+      "answer": "B",
+      "explanation": "Nitrogeneous bases are linked together by\nhydrogen bonds."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Which one of the following sets of monosaccharides forms sucrose? ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$\\alpha $$-$$D$$-galactopyranose\n<br>and $$\\alpha $$-$$D$$ glucopyranose"
+        },
+        {
+          "key": "B",
+          "value": "$$\\alpha $$-$$D$$-glucopyranose\n<br>and $$\\beta $$-$$D$$ fructofuranose"
+        },
+        {
+          "key": "C",
+          "value": "$$\\beta $$-$$D$$-glucopyranose\n<br>and $$\\alpha $$-$$D$$ fructofuranose"
+        },
+        {
+          "key": "D",
+          "value": "$$\\alpha $$-$$D$$-glucopyranose\n<br>and $$\\beta $$-$$D$$ fructofuranose"
+        }
+      ],
+      "answer": "B",
+      "explanation": "Sucrose is formed by the condensation of\n$$\\alpha $$-D-glucopyranose and $$\\beta $$-D-fructofuranose.\n"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Deficiency of vitamin B<sub>1</sub> causes the disease",
+      "options": [
+        {
+          "key": "A",
+          "value": "convulsions "
+        },
+        {
+          "key": "B",
+          "value": "beri-beri"
+        },
+        {
+          "key": "C",
+          "value": "cheilosis"
+        },
+        {
+          "key": "D",
+          "value": "sterility"
+        }
+      ],
+      "answer": "B",
+      "explanation": "Deficiency of vitamin B<sub>1</sub> causes Beri-beri."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Which of the statements about ''Denaturation'' given below are correct? \n<br><br>(1)&nbsp;&nbsp;Denaturation of proteins causes loss of secondary and tertiary structures of the protein.\n<br>(2)&nbsp;&nbsp;Denaturation leads to the conversion of double strand of DND into single strand.\n<br>(3)&nbsp;&nbsp;Denaturation affects primary structure which gets distorted.",
+      "options": [
+        {
+          "key": "A",
+          "value": "(2) and (3)"
+        },
+        {
+          "key": "B",
+          "value": "(1) and (3)"
+        },
+        {
+          "key": "C",
+          "value": "(1) and (2)"
+        },
+        {
+          "key": "D",
+          "value": "(1), (2) and (3)"
+        }
+      ],
+      "answer": "C",
+      "explanation": "When the proteins are subjected to the\naction of heat, mineral acids or alkali, the water\nsoluble form of globular protein changes to water\ninsoluble fibrous protein. This is called\ndenaturation of proteins. During denaturation\nsecondary and tertiary structures of protein\ndestroyed but primary structures remains intact."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Which of the following  is not a fat soluble vitamin? ",
+      "options": [
+        {
+          "key": "A",
+          "value": "Vitamin B complex "
+        },
+        {
+          "key": "B",
+          "value": "Vitamin D"
+        },
+        {
+          "key": "C",
+          "value": "Vitamin E"
+        },
+        {
+          "key": "D",
+          "value": "Vitamin A"
+        }
+      ],
+      "answer": "A",
+      "explanation": "Vitamin B complex is not a fat soluble vitamin.\nIt is a water soluble vitamin."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Which one of the following statements is  not true regarding (+) lactose? ",
+      "options": [
+        {
+          "key": "A",
+          "value": "On hydrolysis (+) lactose gives equal amount of D(+) glucose and D(+) galactose."
+        },
+        {
+          "key": "B",
+          "value": "(+) Lactose is a $$\\beta $$-glucoside formed by the union of a molecule of D(+) glucose and a molecule of D(+) galactose."
+        },
+        {
+          "key": "C",
+          "value": "(+) Lactose is a reducing sugar and does not exihibit mutarotation."
+        },
+        {
+          "key": "D",
+          "value": "(+) Lactose, C<sub>12</sub>H<sub>22</sub>O<sub>11</sub> contains 8-OH groups"
+        }
+      ],
+      "answer": "C",
+      "explanation": "(+) Lactose is a reducing sugar and all\nreducing sugar shows mutarotation."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Fructose reduces Tollen's reagent due to ",
+      "options": [
+        {
+          "key": "A",
+          "value": "asymmetric carbons"
+        },
+        {
+          "key": "B",
+          "value": "primary alcoholic group"
+        },
+        {
+          "key": "C",
+          "value": "secondary alcoholic group"
+        },
+        {
+          "key": "D",
+          "value": "enolisation of fructose followed by conversion to aldehyde by base"
+        }
+      ],
+      "answer": "D",
+      "explanation": "Under alkaline conditions of the reagent,\nfructose gets converted into a mixture of glucose\nand mannose (Lobry de Bruyn van Ekenstein\nrearrangement) both of which contain the –CHO\ngroup and hence reduce Tollens’ reagent to give\nsilver mirror test."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Which one of the following does not exhibit the phenomenon of mutaroation? ",
+      "options": [
+        {
+          "key": "A",
+          "value": "(+) Sucrose"
+        },
+        {
+          "key": "B",
+          "value": "(+) Lactose"
+        },
+        {
+          "key": "C",
+          "value": "(+) Maltose"
+        },
+        {
+          "key": "D",
+          "value": "($$-$$) Fructose"
+        }
+      ],
+      "answer": "A",
+      "explanation": "Sucrose does not show mutarotation.\n<br><br>Only those sugars which have a free aldehyde or ketone group are capable\nof showing mutarotation."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The segment of DNA which acts as the instrumental manual for the synthesis of the protein is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "ribose"
+        },
+        {
+          "key": "B",
+          "value": "gene"
+        },
+        {
+          "key": "C",
+          "value": "nucleoside"
+        },
+        {
+          "key": "D",
+          "value": "nucleotide"
+        }
+      ],
+      "answer": "B",
+      "explanation": "The DNA sequence that codes for a specific\nprotein is called a Gene and thus every protein\nin a cell has a corrosponding gene."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Which of the following is an amine hormone? ",
+      "options": [
+        {
+          "key": "A",
+          "value": "Insulin"
+        },
+        {
+          "key": "B",
+          "value": "Progesterone"
+        },
+        {
+          "key": "C",
+          "value": "Thyroxine"
+        },
+        {
+          "key": "D",
+          "value": "Oxypurin"
+        }
+      ],
+      "answer": "C",
+      "explanation": "Thyroxine is an amino hormone."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "In DNA, the complimentary bases are ",
+      "options": [
+        {
+          "key": "A",
+          "value": "adenine and guanine; thymine and cytosine"
+        },
+        {
+          "key": "B",
+          "value": "uracil and adenine; cytosine and guanine "
+        },
+        {
+          "key": "C",
+          "value": "adenine and thymine; guanine and cytosine"
+        },
+        {
+          "key": "D",
+          "value": "adenine and thymine; guanine and uracil."
+        }
+      ],
+      "answer": "C",
+      "explanation": "DNA contains two types of nitrogeneous\nbases\n<br><br>Purine $$ \\to $$ Adenine (A) and guanine (G)\n<br><br>Pyrimidine $$ \\to $$ Cytosine (C) and thymine (T)\n<br><br>The purine and pyrimidine bases pair only in certain\ncombination. Adenine pairs with thymine (A : T) by\ntwo hydrogen bonds and guanine with cytosine (G : C) by three hydrogen bonds."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Which of the following vitamins is water-soluble?",
+      "options": [
+        {
+          "key": "A",
+          "value": "Vitamin E"
+        },
+        {
+          "key": "B",
+          "value": "Vitamin K"
+        },
+        {
+          "key": "C",
+          "value": "Vitamin A"
+        },
+        {
+          "key": "D",
+          "value": "Vitamin B"
+        }
+      ],
+      "answer": "D",
+      "explanation": "Vitamin B is water soluble whereas all other\nare water insoluble."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "RNA and DNA are chiral molecules, their chirality is due to",
+      "options": [
+        {
+          "key": "A",
+          "value": "chiral bases"
+        },
+        {
+          "key": "B",
+          "value": "chiral phosphate ester units"
+        },
+        {
+          "key": "C",
+          "value": "$$D$$-sugar component"
+        },
+        {
+          "key": "D",
+          "value": "$$L$$-sugar component"
+        }
+      ],
+      "answer": "C",
+      "explanation": "Each nucleic acid consists of a pentose\nsugar a heterocyclic base, and phosphoric acid.\nThe sugar present in DNA is -D (–) -2-deoxy\nribose and the sugar present in RNA is D (–)-\nribose. The chirality of DNA and RNA molecules\nare due to the presence of sugar components."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Which one of the following is a peptide hormone?",
+      "options": [
+        {
+          "key": "A",
+          "value": "Adrenaline"
+        },
+        {
+          "key": "B",
+          "value": "Glucagon"
+        },
+        {
+          "key": "C",
+          "value": "Testosterone"
+        },
+        {
+          "key": "D",
+          "value": "Thyroxine"
+        }
+      ],
+      "answer": "B",
+      "explanation": "Glucagon is a single chain peptide of 29\namino acids, synthesised by the $$\\alpha $$-cells in the islets\nof Langerhans of the pancreas.\n"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The human body does not produce",
+      "options": [
+        {
+          "key": "A",
+          "value": "enzymes"
+        },
+        {
+          "key": "B",
+          "value": "DNA"
+        },
+        {
+          "key": "C",
+          "value": "vitamins"
+        },
+        {
+          "key": "D",
+          "value": "hormones"
+        }
+      ],
+      "answer": "C",
+      "explanation": "Vitamins are not produced in human body\nand they have to be taken from an outside source."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The cell membranes are mainly composed of ",
+      "options": [
+        {
+          "key": "A",
+          "value": "fats"
+        },
+        {
+          "key": "B",
+          "value": "proteins"
+        },
+        {
+          "key": "C",
+          "value": "phospholipids"
+        },
+        {
+          "key": "D",
+          "value": "carbohydrates"
+        }
+      ],
+      "answer": "C",
+      "explanation": "Cell membranes (Plasma membranes) constitutes bilayer of phospholipid with embedded\nproteins. In humans, lipids accounts for upto\n79% of cell membrance."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Which functional group participates in disulphide bond formation in proteins? ",
+      "options": [
+        {
+          "key": "A",
+          "value": "Thioester"
+        },
+        {
+          "key": "B",
+          "value": "Thioether"
+        },
+        {
+          "key": "C",
+          "value": "Thiol"
+        },
+        {
+          "key": "D",
+          "value": "Thiolactone"
+        }
+      ],
+      "answer": "C",
+      "explanation": "Disulphide bond may be reduced to thiol\nby means of reagents i.e., NaBH<sub>4</sub>\n, which shows the\npresence of thiol group in disulphide bond\nformation.\n"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The helical structure of protein is stablised by",
+      "options": [
+        {
+          "key": "A",
+          "value": "dipeptide bonds"
+        },
+        {
+          "key": "B",
+          "value": "hydrogen bonds"
+        },
+        {
+          "key": "C",
+          "value": "ether bonds"
+        },
+        {
+          "key": "D",
+          "value": "peptide bonds"
+        }
+      ],
+      "answer": "B",
+      "explanation": "The $$\\alpha $$-helix structure is formed when the\nchain of $$\\alpha $$-amino acids coils as a right handed\nscrew (called $$\\alpha $$-helix) because of the formation\nof hydrogen bonds between amide groups of\nthe same peptide chain, i.e., NH group in one\nunit is linked to carbonyl oxygen of the third\nunit by hydrogen bonding. This hydrogen\nbonding between different units is responsible\nfor holding helix in a position."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The hormone that helps in the conversion of glucose to glycogen is",
+      "options": [
+        {
+          "key": "A",
+          "value": "cortisone"
+        },
+        {
+          "key": "B",
+          "value": "bile acids"
+        },
+        {
+          "key": "C",
+          "value": "adrenaline"
+        },
+        {
+          "key": "D",
+          "value": "insulin"
+        }
+      ],
+      "answer": "D",
+      "explanation": "Insulin is a hormone secreted by the\npancreas that lowers blood glucose level by\npromoting the uptake of glucose by cells and the\nconversion of glucose to glycogen by the liver and\nskeletal muscle."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The correct statement in respect of protein haemoglobin is that it",
+      "options": [
+        {
+          "key": "A",
+          "value": "functions as a catalyst for biological reactions"
+        },
+        {
+          "key": "B",
+          "value": "maintains blood sugar level"
+        },
+        {
+          "key": "C",
+          "value": "acts as an oxygen carrier in the blood"
+        },
+        {
+          "key": "D",
+          "value": "forms antibodies and offers resistance to diseases. "
+        }
+      ],
+      "answer": "C",
+      "explanation": "Haemoglobin acts as an oxygen carrier in\nthe blood since it reacts with oxygen to form\nunstable oxyhaemoglobin which easily breaks\nto give back haemoglobin and oxygen."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A sequence of how many nucleotides in messenger RNA makes a codon for an amino acid? ",
+      "options": [
+        {
+          "key": "A",
+          "value": "Three"
+        },
+        {
+          "key": "B",
+          "value": "Four"
+        },
+        {
+          "key": "C",
+          "value": "One"
+        },
+        {
+          "key": "D",
+          "value": "Two"
+        }
+      ],
+      "answer": "A",
+      "explanation": "There are four bases in mRNA, i.e., adenine,\ncytosine, guanine and uracil. They form triplets and\neach triplet behave as a code for the synthesis of a\nparticular amino acid."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Glycolysis is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "oxidation of glucose to glutamate"
+        },
+        {
+          "key": "B",
+          "value": "conversion of pyruvate to citrate"
+        },
+        {
+          "key": "C",
+          "value": "oxidation of glucose to pyruvate"
+        },
+        {
+          "key": "D",
+          "value": "conversion of glucose to haem. "
+        }
+      ],
+      "answer": "C",
+      "explanation": "Glycolysis is the oxidation of glucose. It is an\nanaerobic process and involves the degradation of\nglucose into two molecules of pyruvate with the\ngeneration of two molecules of ATP."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Vitamin B<sub>12</sub> contains",
+      "options": [
+        {
+          "key": "A",
+          "value": "Fe (II)"
+        },
+        {
+          "key": "B",
+          "value": "Co (III)"
+        },
+        {
+          "key": "C",
+          "value": "Zn (II)"
+        },
+        {
+          "key": "D",
+          "value": "Ca (II)"
+        }
+      ],
+      "answer": "B",
+      "explanation": "Vit B<sub>12</sub> also called Cyanocobaltamin, is\nanti-pernicious anaemia vitamin.\n"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Chargaff's rule states that in an organism",
+      "options": [
+        {
+          "key": "A",
+          "value": "amount of adenine (A) is equal to that of thymine (T) and the amount of guanine (G) is equal to that of cytosine (C)"
+        },
+        {
+          "key": "B",
+          "value": "amount of adenine (A) is equal to that of guanine (G) and the amount of thymine (T) is equal to that of cytosine (C)"
+        },
+        {
+          "key": "C",
+          "value": "amount of adenine (A) is equal to that of cytosine (C) and the amount of thymine (T) is equal to that of guanine (G)"
+        },
+        {
+          "key": "D",
+          "value": "amounts of all bases are equal. "
+        }
+      ],
+      "answer": "A",
+      "explanation": "Amount of A = T and amount of G = C, this is\nstated by Chargaff’s rule."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Which is not true statement? ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$\\alpha $$-carbon of $$\\alpha $$-amino acid is asymmetric."
+        },
+        {
+          "key": "B",
+          "value": "All proteins are found in $$L$$-form"
+        },
+        {
+          "key": "C",
+          "value": "Human body can synthesise all proteins they need."
+        },
+        {
+          "key": "D",
+          "value": "At pH = 7 both amino and carboxylic groups exist in ionised form."
+        }
+      ],
+      "answer": "B",
+      "explanation": "Some proteins are also found in the D-form."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Enzymes are made up of ",
+      "options": [
+        {
+          "key": "A",
+          "value": "edible proteins"
+        },
+        {
+          "key": "B",
+          "value": "proteins with specific structure"
+        },
+        {
+          "key": "C",
+          "value": "nitrogen containing carbohydrates"
+        },
+        {
+          "key": "D",
+          "value": "carbohydrates."
+        }
+      ],
+      "answer": "B",
+      "explanation": "Enzymes are proteins that act as catalyst\nfor bio-chemical processes of life. They speed up\nthese reactions enormously and with a high degree\nof selectivity."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Which is the correct statement? ",
+      "options": [
+        {
+          "key": "A",
+          "value": "Starch is a polymer of $$\\alpha $$-glucose."
+        },
+        {
+          "key": "B",
+          "value": "Amylose is a component of cellulose."
+        },
+        {
+          "key": "C",
+          "value": "Proteins are composed of only one type of amino acid."
+        },
+        {
+          "key": "D",
+          "value": "In cyclic structure of fructose, there are four carbons and one oxygen atom."
+        }
+      ],
+      "answer": "A",
+      "explanation": "Starch is also know as amylum which\noccurs in all green plants. A molecule of starch\n(C<sub>6</sub>H<sub>10</sub>O<sub>5</sub>)<sub>n</sub> is built of a large number of\n$$\\alpha $$-glucose ring joined through oxygen-atom."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Which of the following is correct about H-bonding in nucleotide? ",
+      "options": [
+        {
+          "key": "A",
+          "value": "A $$-$$ T, G $$-$$ C"
+        },
+        {
+          "key": "B",
+          "value": "A $$-$$ G,  T $$-$$ C"
+        },
+        {
+          "key": "C",
+          "value": "G $$-$$ T,  A $$-$$ C"
+        },
+        {
+          "key": "D",
+          "value": "A $$-$$ A,  T $$-$$ T"
+        }
+      ],
+      "answer": "A",
+      "explanation": "Guanine G is linked to cytosine C by three\nhydrogen bonds and adenine A is linked with\nthymine T by two hydrogen bonds. It is abbreviate\nas : G ≡ C and A = T"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Which of the following is correct? ",
+      "options": [
+        {
+          "key": "A",
+          "value": "Cycloheptane is an aromatic compound."
+        },
+        {
+          "key": "B",
+          "value": "Diastase is an enzyme"
+        },
+        {
+          "key": "C",
+          "value": "Acetophenone is an ether."
+        },
+        {
+          "key": "D",
+          "value": "All of these. "
+        }
+      ],
+      "answer": "B",
+      "explanation": "Diastase is an enzyme. (The protein\nproduced by living systems which acts as a\nbiological catalyst). Enzymes are characterised by\nthe name ending with -ase."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Which one is responsible for production of energy in bio-reaction?",
+      "options": [
+        {
+          "key": "A",
+          "value": "Thyroxine"
+        },
+        {
+          "key": "B",
+          "value": "Adrenaline"
+        },
+        {
+          "key": "C",
+          "value": "Oestrogen"
+        },
+        {
+          "key": "D",
+          "value": "Progesterone"
+        }
+      ],
+      "answer": "A",
+      "explanation": "It is a hormone secreted from thyroid gland.\nIt controls various biochemical reactions involving\nburning of proteins, carbohydrates, fats to release\nenergy.\n"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Mg is present in ",
+      "options": [
+        {
+          "key": "A",
+          "value": "chlorophyll"
+        },
+        {
+          "key": "B",
+          "value": "haemoglobin"
+        },
+        {
+          "key": "C",
+          "value": "vitamin-D"
+        },
+        {
+          "key": "D",
+          "value": "vitamin-B"
+        }
+      ],
+      "answer": "A",
+      "explanation": "Chlorophyll is an organometallic complex with\nMg as central metal. It’s formula is C<sub>55</sub>H<sub>72</sub>MgN<sub>2</sub>O<sub>6</sub>."
+    }
+  ]
+}

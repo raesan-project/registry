@@ -1,0 +1,325 @@
+{
+  "_index": {
+    "name": "Limits, Continuity and Differentiability"
+  },
+  "_children": [
+    {
+      "_type": "single_mcq",
+      "body": "Let $k \\in \\mathbb{R}$. If $\\lim \\limits_{x \\rightarrow 0+}(\\sin (\\sin k x)+\\cos x+x)^{\\frac{2}{x}}=e^6$, then the value of $k$ is",
+      "options": [
+        {
+          "key": "A",
+          "value": "1"
+        },
+        {
+          "key": "B",
+          "value": "2"
+        },
+        {
+          "key": "C",
+          "value": "3"
+        },
+        {
+          "key": "D",
+          "value": "4"
+        }
+      ],
+      "answer": "B",
+      "explanation": "<p>$$\\begin{aligned}\n& \\lim _{x \\rightarrow 0} \\frac{2}{x}(\\sin (\\sin k x)+\\cos x+x-1)=6 \\\\\n& \\lim _{x \\rightarrow 0} \\frac{\\sin (\\sin k x) \\cdot \\sin k x}{(\\sin k x) k x} \\cdot k+1-\\lim _{x \\rightarrow 0} \\frac{1-\\cos x}{x^2} \\cdot x=3 \\\\\n& k+1=3 \\Rightarrow k=2\n\\end{aligned}$$</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Let $f: \\mathbb{R} \\rightarrow \\mathbb{R}$ be a function defined by</p>\n\n<p>$$ f(x)=\\left\\{\\begin{array}{cc} x^2 \\sin \\left(\\frac{\\pi}{x^2}\\right), & \\text { if } x \\neq 0, \\\\ 0, & \\text { if } x=0 . \\end{array}\\right. $$</p>\n\n<p>Then which of the following statements is TRUE?</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "$f(x)=0$ has infinitely many solutions in the interval $\\left[\\frac{1}{10^{10}}, \\infty\\right)$."
+        },
+        {
+          "key": "B",
+          "value": "$f(x)=0$ has no solutions in the interval $\\left[\\frac{1}{\\pi}, \\infty\\right)$."
+        },
+        {
+          "key": "C",
+          "value": "The set of solutions of $f(x)=0$ in the interval $\\left(0, \\frac{1}{10^{10}}\\right)$ is finite."
+        },
+        {
+          "key": "D",
+          "value": "$f(x)=0$ has more than 25 solutions in the interval $\\left(\\frac{1}{\\pi^2}, \\frac{1}{\\pi}\\right)$."
+        }
+      ],
+      "answer": "D",
+      "explanation": "<p>Option-A : $$\\mathrm{f}(\\mathrm{x})=\\mathrm{x}^2 \\sin \\frac{\\pi}{\\mathrm{x}^2}$$</p>\n<p>$$\\mathrm{f}(\\mathrm{x})=0 \\Rightarrow \\sin \\frac{\\pi}{\\mathrm{x}^2}=0 \\Rightarrow \\frac{\\pi}{\\mathrm{x}^2}=\\mathrm{n} \\pi, \\mathrm{n} \\in \\mathrm{N}$$</p>\n<p>$$\\mathrm{x}^2=\\frac{1}{\\mathrm{n}} \\Rightarrow \\mathrm{x}=\\frac{1}{\\sqrt{\\mathrm{n}}}$$</p>\n<p>$$\\frac{1}{\\sqrt{\\mathrm{n}}} \\geq \\frac{1}{10^{10}} \\Rightarrow 10^{10} \\geq \\sqrt{\\mathrm{n}} \\Rightarrow \\mathrm{n} \\leq 10^{20}$$, finite number of solutions</p>\n<p>Option-B : $$\\mathrm{x}=\\frac{1}{\\sqrt{\\mathrm{n}}} \\Rightarrow \\frac{1}{\\sqrt{\\mathrm{n}}}>\\frac{1}{\\pi} \\Rightarrow \\pi>\\sqrt{\\mathrm{n}} \\Rightarrow \\mathrm{n}<\\pi^2$$, Number of solutions is 9</p>\n<p>Option-C : $$\\mathrm{x}=\\frac{1}{\\sqrt{\\mathrm{n}}}, \\frac{1}{\\sqrt{\\mathrm{n}}}<\\frac{1}{10^{10}} \\Rightarrow \\sqrt{\\mathrm{n}}>10^{10} \\Rightarrow \\mathrm{n}>10^{20}$$, Infinite number of solutions</p>\n<p>Option-D : $$\\frac{1}{\\pi^2}<\\frac{1}{\\sqrt{\\mathrm{n}}}<\\frac{1}{\\pi} \\Rightarrow \\sqrt{\\mathrm{n}} \\in\\left(\\pi, \\pi^2\\right) \\Rightarrow \\mathrm{n} \\in\\left(\\pi^2, \\pi^4\\right)$$, Definitely more than 25 solutions</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "For positive integer $n$, define\n\n<br/><br/>$$\nf(n)=n+\\frac{16+5 n-3 n^{2}}{4 n+3 n^{2}}+\\frac{32+n-3 n^{2}}{8 n+3 n^{2}}+\\frac{48-3 n-3 n^{2}}{12 n+3 n^{2}}+\\cdots+\\frac{25 n-7 n^{2}}{7 n^{2}} .\n$$\n\n<br/><br/>Then, the value of $$\\mathop {\\lim }\\limits_{n \\to \\infty } f\\left( n \\right)$$ is equal to :",
+      "options": [
+        {
+          "key": "A",
+          "value": "$3+\\frac{4}{3} \\log _{e} 7$"
+        },
+        {
+          "key": "B",
+          "value": "$4-\\frac{3}{4} \\log _{e}\\left(\\frac{7}{3}\\right)$"
+        },
+        {
+          "key": "C",
+          "value": "$4-\\frac{4}{3} \\log _{e}\\left(\\frac{7}{3}\\right)$"
+        },
+        {
+          "key": "D",
+          "value": "$3+\\frac{3}{4} \\log _{e} 7$ "
+        }
+      ],
+      "answer": "B",
+      "explanation": "$$\n\\begin{aligned}\n& f(n)=n+\\frac{16+5 n-3 n^{2}}{4 n+3 n^{2}}+\\frac{32+n-3 n^{2}}{8 n+3 n^{2}}+\\ldots .+\\frac{25 n-7 n^{2}}{7 n^{2}} \\\\\\\\\n& =\\left(\\frac{16+5 n-3 n^{2}}{4 n+3 n^{2}}+1\\right)+\\left(\\frac{32+n-3 n^{2}}{8 n+3 n^{2}}+1\\right)+\\ldots \\ldots+\\left(\\frac{25 n-7 n^{2}}{7 n^{2}}+1\\right) \\\\\\\\\n& f(n)=\\frac{9 n+16}{4 n+3 n^{2}}+\\frac{9 n+32}{8 n+3 n^{2}}+\\ldots . .+\\frac{25 n}{7 n^{2}} \\\\\\\\\n& =\\sum_{r=1}^{n} \\frac{9 n+16 r}{4 r n+3 n^{2}}=\\frac{1}{n} \\sum_{r=1}^{n} \\frac{9+16\\left(\\frac{r}{n}\\right)}{4\\left(\\frac{r}{n}\\right)+3} \\\\\\\\\n& \\lim _{n \\rightarrow \\infty} f(n)=\\int_{0}^{1} \\frac{9+16 x}{4 x+3} d x \\\\\\\\\n& =\\int_{0}^{1} \\frac{(16 x+12)-3}{4 x+3} d x \\\\\\\\\n& =\\left.\\left(4 x-\\frac{3}{4} \\ln |4 x+3|\\right)\\right|_{0} ^{1} \\\\\\\\\n& =4-\\frac{3}{4} \\ln \\frac{7}{3}\n\\end{aligned}\n$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Let $${f_1}:R \\to R,\\,{f_2}:\\left( { - {\\pi  \\over 2},{\\pi  \\over 2}} \\right) \\to R,\\,{f_3}:( - 1,{e^{\\pi /2}} - 2) \\to R$$ and $${f_4}:R \\to R$$ be functions defined by<br><br>(i) $${f_1}(x) = \\sin (\\sqrt {1 - {e^{ - {x^2}}}} )$$,<br><br>(ii) $${f_2}(x) = \\left\\{ \\matrix{\n  {{|\\sin x|} \\over {\\tan { - ^1}x}}if\\,x \\ne 0,\\,where \\hfill \\cr \n  1\\,if\\,x = 0 \\hfill \\cr}  \\right.$$<br><br>the inverse trigonometric function tan<sup>$$-$$1</sup>x assumes values in $$\\left( { - {\\pi  \\over 2},{\\pi  \\over 2}} \\right)$$,<br><br>(iii) $${f_3}(x) = [\\sin ({\\log _e}(x + 2))]$$, where for $$t \\in R,\\,[t]$$ denotes the greatest integer less than or equal to t,<br><br>(iv) $${f_4}(x) = \\left\\{ \\matrix{\n  {x^2}\\sin \\left( {{1 \\over x}} \\right)\\,if\\,x \\ne 0 \\hfill \\cr \n  0\\,if\\,x = 0 \\hfill \\cr}  \\right.$$<br>\n<style>\n        table {\n            width: 100%;\n            border-collapse: collapse;\n            margin: 20px 0;\n        }\n        th {\n            background-color: blue;\n            color: white;\n            border: 1px solid black;\n            padding: 10px;\n        }\n        td {\n            border: 1px solid black;\n            padding: 10px;\n            text-align: left;\n        }\n    </style>\n<table>\n    <tr>\n        <th>LIST-I</th>\n        <th>LIST-II</th>\n    </tr>\n    <tr>\n        <td>P. The function $$ f_1 $$ is</td>\n        <td>1. NOT continuous at $$ x = 0 $$</td>\n    </tr>\n    <tr>\n        <td>Q. The function $$ f_2 $$ is</td>\n        <td>2. continuous at $$ x = 0 $$ and NOT differentiable at $$ x = 0 $$</td>\n    </tr>\n    <tr>\n        <td>R. The function $$ f_3 $$ is</td>\n        <td>3. differentiable at $$ x = 0 $$ and its derivative is NOT continuous at $$ x = 0 $$</td>\n    </tr>\n    <tr>\n        <td>S. The function $$ f_4 $$ is</td>\n        <td>4. differentiable at $$ x = 0 $$ and its derivative is continuous at $$ x = 0 $$</td>\n    </tr>\n</table>\n",
+      "options": [
+        {
+          "key": "A",
+          "value": "P $$ \\to $$ 2 ; Q $$ \\to $$ 3 ; R $$ \\to $$ 1 ; S $$ \\to $$ 4"
+        },
+        {
+          "key": "B",
+          "value": "P $$ \\to $$ 4 ; Q $$ \\to $$ 1 ; R $$ \\to $$ 2 ; S $$ \\to $$ 3"
+        },
+        {
+          "key": "C",
+          "value": "P $$ \\to $$ 4 ; Q $$ \\to $$ 2 ; R $$ \\to $$ 1 ; S $$ \\to $$ 3"
+        },
+        {
+          "key": "D",
+          "value": "P $$ \\to $$ 2 ; Q $$ \\to $$ 1 ; R $$ \\to $$ 4 ; S $$ \\to $$ 3"
+        }
+      ],
+      "answer": "D",
+      "explanation": "(i) Given, <br><br>f<sub>1</sub> : R $$ \\to $$ R and f<sub>1</sub>(x) = sin$$(\\sqrt {1 - {e^{ - {x^2}}}} )$$<br><br>$$ \\therefore $$ f<sub>1</sub>(x) is continuous at x = 0<br><br>Now, <br><br>$${f_1}'(x) = \\cos \\sqrt {1 - {e^{ - {x^2}}}} .{1 \\over {2\\sqrt {1 - {e^{ - {x^2}}}} }}(2x{e^{ - {x^2}}})$$<br><br>At x = 0<br><br>f<sub>1</sub>'(x) does not exists.<br><br>$$ \\therefore $$ f<sub>1</sub>(x) is not differential at x = 0<br><br>Hence, option (2) for P.<br><br>(ii) Given, $${f_2}(x) = \\left\\{ \\matrix{\n  {{|\\sin x|} \\over {{{\\tan }^{ - 1}}x'}}\\,if\\,x \\ne 0 \\hfill \\cr \n  1,\\,if\\,x = 0 \\hfill \\cr}  \\right\\}$$<br><br>$$ \\Rightarrow {f_2}(x) = \\left\\{ \\matrix{\n  {{ - \\sin x} \\over {{{\\tan }^{ - 1}}x}}x &lt; 0 \\hfill \\cr \n  {{\\sin x} \\over {{{\\tan }^{ - 1}}x}}x &gt; 0 \\hfill \\cr \n  1\\,x = 0 \\hfill \\cr}  \\right.$$<br><br>Clearly, f<sub>2</sub>(x) is not continuous at x = 0.<br><br>$$ \\therefore $$ Option (1) for Q.<br><br>(iii) Given, f<sub>3</sub>(x) = [sin(log<sub>e</sub>(x + 2))], where [ ] is G.I.F.<br><br>and f<sub>3</sub> : ($$-$$1, e<sup>$$\\pi $$/2</sup> $$-$$ 2) $$ \\to $$ R<br><br>It is given, <br><br>$$ - 1 &lt; x &lt; {e^{\\pi /2}} - 2$$<br><br>$$ \\Rightarrow  - 1 + 2 &lt; x + 2 &lt; {e^{\\pi /2}} - 2 + 2$$<br><br>$$ \\Rightarrow 1 &lt; x + 2 &lt; {e^{\\pi /2}}$$<br><br>$$ \\Rightarrow {\\log _e}1 &lt; {\\log _e}(x + 2) &lt; {\\log _e}{e^{\\pi /2}}$$<br><br>$$ \\Rightarrow 0 &lt; {\\log _e}(x + 2) &lt; {\\pi  \\over 2}$$<br><br>$$ \\Rightarrow \\sin 0 &lt; \\sin {\\log _e}(x + 2) &lt; \\sin {\\pi  \\over 2}$$<br><br>$$ \\Rightarrow 0 &lt; \\sin {\\log _e}(x + 2) &lt; 1$$<br><br>$$ \\therefore $$ $$[\\sin {\\log _e}(x + 2)] = 0$$<br><br>$$ \\therefore $$ $${f_3}(x) = 0,\\,f{'_3}(x) = {f_3}''(x) = 0$$<br><br>It is differentiable and continuous at x = 0.<br><br>$$ \\therefore $$ Option (4) for R<br><br>(iv) Given, $${f_4}(x) = \\left\\{ \\matrix{\n  {x^2}\\sin \\left( {{1 \\over x}} \\right),\\,if\\,x \\ne 0 \\hfill \\cr \n  0,\\,if\\,x = 0 \\hfill \\cr}  \\right.$$<br><br>Now, $$\\mathop {\\lim }\\limits_{x \\to 0} {f_4}(x) = \\mathop {\\lim }\\limits_{x \\to 0} {x^2}\\sin \\left( {{1 \\over x}} \\right) = 0$$<br><br>$${f_4}'(x) = 2x\\sin \\left( {{1 \\over x}} \\right) - \\cos \\left( {{1 \\over x}} \\right)$$<br><br>For $$x = 0,\\,{f_4}'(x) = \\mathop {\\lim }\\limits_{h \\to 0} {{f(0 + h) - f(0)} \\over h}$$<br><br>$$ \\Rightarrow {f_4}'(x) = \\mathop {\\lim }\\limits_{h \\to 0} {{{h^2}\\sin \\left( {{1 \\over h}} \\right) - 0} \\over h}$$<br><br>$$ \\Rightarrow {f_4}'(x) = \\mathop {\\lim }\\limits_{h \\to 0} h\\sin \\left( {{1 \\over h}} \\right) = 0$$<br><br>Thus,<br><br>$${f_4}'(x) = \\left\\{ \\matrix{\n  2x\\sin \\left( {{1 \\over x}} \\right) - \\cos \\left( {{1 \\over x}} \\right),\\,x \\ne 0 \\hfill \\cr \n  0,\\,x = 0 \\hfill \\cr}  \\right.$$<br><br>Again, $$\\mathop {\\lim }\\limits_{x \\to 0} $$<br><br>$$f'(x) = \\mathop {\\lim }\\limits_{x \\to 0} \\left( {2x\\sin \\left( {{1 \\over x}} \\right) - \\cos \\left( {{1 \\over x}} \\right)} \\right)$$<br><br>does not exists.<br><br>Since, $$\\mathop {\\lim }\\limits_{x \\to 0} $$ cos$${\\left( {{1 \\over x}} \\right)}$$ does not exists.<br><br>Hence, f'(x) is not continuous at x = 0.<br><br>$$ \\therefore $$ Option (3) for S."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "If f : R $$ \\to $$ R is a twice differentiable function such that f\"(x) &gt; 0 for all x$$ \\in $$R, and $$f\\left( {{1 \\over 2}} \\right) = {1 \\over 2}$$, f(1) = 1, then ",
+      "options": [
+        {
+          "key": "A",
+          "value": "f'(1) $$ \\le $$ 0"
+        },
+        {
+          "key": "B",
+          "value": "f'(1) &gt; 1"
+        },
+        {
+          "key": "C",
+          "value": "0 &lt; f'(1) $$ \\le $$ $${1 \\over 2}$$"
+        },
+        {
+          "key": "D",
+          "value": "$${1 \\over 2}$$ &lt; f'(1) $$ \\le $$ 1"
+        }
+      ],
+      "answer": "B",
+      "explanation": "f'(x) is increasing<br><br>For some x in $$\\left( {{1 \\over 2},\\,1} \\right)$$<br><br>f'(x) = 1 [LMVT]<br><br>$$ \\therefore $$ f'(1) &gt; 1"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>If $$\\mathop {\\lim }\\limits_{x \\to \\infty } \\left( {{{{x^2} + x + 1} \\over {x + 1}} - ax - b} \\right) = 4$$, then</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "a = 1, b = 4"
+        },
+        {
+          "key": "B",
+          "value": "a = 1, b = $$-$$4"
+        },
+        {
+          "key": "C",
+          "value": "a = 2, b = $$-$$3"
+        },
+        {
+          "key": "D",
+          "value": "a = 2, b = 3"
+        }
+      ],
+      "answer": "B",
+      "explanation": "<p>$$\\mathop {\\lim }\\limits_{x \\to \\infty } \\left( {{{{x^2} + x + 1} \\over {x + 1}} - ax - b} \\right) = 4$$</p>\n<p>$$ \\Rightarrow \\mathop {\\lim }\\limits_{x \\to \\infty } {{{x^2} + x + 1 - a{x^2} - ax - bx - b} \\over {x + 1}} = 4$$</p>\n<p>$$ \\Rightarrow \\mathop {\\lim }\\limits_{x \\to \\infty } {{{x^2}(1 - a) + x(1 - a - b) + (1 - b)} \\over {x + 1}} = 4$$</p>\n<p>Here, we make degree of N<sup>r</sup> = degree of D<sup>r</sup></p>\n<p>$$\\therefore$$ $$1 - a = 0$$</p>\n<p>and $$\\mathop {\\lim }\\limits_{x \\to \\infty } {{x(1 - a - b) + (1 - b)} \\over {x + 1}} = 4$$</p>\n<p>$$ \\Rightarrow 1 - a - b = 4$$</p>\n<p>$$ \\Rightarrow b =  - 4$$</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Let $$f(x) = \\left\\{ {\\matrix{\n   {{x^2}\\left| {\\cos {\\pi  \\over x}} \\right|,} & {x \\ne 0}  \\cr \n   {0,} & {x = 0}  \\cr \n\n } } \\right.$$</p>\n<p>x$$\\in$$R, then f is</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "differentiable both at x = 0 and at x = 2."
+        },
+        {
+          "key": "B",
+          "value": "differentiable at x = 0 but not differentiable at x = 2."
+        },
+        {
+          "key": "C",
+          "value": "not differentiable at x = 0 but differentiable at x = 2."
+        },
+        {
+          "key": "D",
+          "value": "differentiable neither at x = 0 nor at x = 2."
+        }
+      ],
+      "answer": "B",
+      "explanation": "<p>To check differentiable at x = 0</p>\n<p>$$R\\{ f'(0)\\}  = \\mathop {\\lim }\\limits_{h \\to 0} {{f(0 + h) - f(0)} \\over h}$$</p>\n<p>$$ = \\mathop {\\lim }\\limits_{h \\to 0} {{{h^2}\\left| {\\cos {\\pi  \\over h}} \\right| - 0} \\over h}$$</p>\n<p>$$ = \\mathop {\\lim }\\limits_{h \\to 0} h.\\,\\left| {\\cos {\\pi  \\over h}} \\right| = 0$$</p>\n<p>$$L\\{ f'(0)\\}  = \\mathop {\\lim }\\limits_{h \\to 0} {{f(0 - h) - f(0)} \\over { - h}}$$</p>\n<p>$$ = \\mathop {\\lim }\\limits_{h \\to 0} {{{h^2}\\left| {\\cos \\left( { - {\\pi  \\over h}} \\right)} \\right| - 0} \\over { - h}}$$<?p>\n<p>$$ = 0$$</p>\n<p>So, f(x) is differentiable at x = 0</p>\n<p>To check differentiability at x = 2</p>\n<p>$$R\\{ f'(2)\\}  = \\mathop {\\lim }\\limits_{h \\to 0} {{f(2 + h) - f(2)} \\over h}$$</p>\n<p>$$ = \\mathop {\\lim }\\limits_{h \\to 0} {{{{(2 + h)}^2}\\left| {\\cos \\left( {{\\pi  \\over {2 + h}}} \\right)} \\right| - 0} \\over h}$$</p>\n<p>$$ = \\mathop {\\lim }\\limits_{h \\to 0} {{{{(2 + h)}^2}.\\cos \\left( {{\\pi  \\over {2 + h}}} \\right)} \\over h}$$</p>\n<p>$$ = \\mathop {\\lim }\\limits_{h \\to 0} {{{{(2 + h)}^2}.\\sin \\left( {{\\pi  \\over 2} - {\\pi  \\over {2 + h}}} \\right)} \\over h}$$</p>\n<p>$$ = \\mathop {\\lim }\\limits_{h \\to 0} {{{{(2 + h)}^2}.\\sin \\left( {{{\\pi h} \\over {2(2 + h)}}} \\right)} \\over {h.{\\pi  \\over {2(2 + h)}}.{\\pi  \\over {2(2 + h)}}}}$$</p>\n<p>$$ \\Rightarrow R\\left( {f'(2)} \\right) = \\pi $$</p>\n<p>$$L\\left( {f'(2)} \\right) = \\mathop {\\lim }\\limits_{h \\to 0} {{f(2 - h) - f(2)} \\over { - h}}$$</p>\n<p>$$ = \\mathop {\\lim }\\limits_{h \\to 0} {{{{(2 - h)}^2}.\\left| {\\cos {\\pi  \\over {2 - h}}} \\right| - {2^2}.\\left| {\\cos {\\pi  \\over 2}} \\right|} \\over { - h}}$$</p>\n<p>$$ = \\mathop {\\lim }\\limits_{h \\to 0} {{{{(2 - h)}^2} - \\left( { - \\cos {\\pi  \\over {2 - h}}} \\right) - 0} \\over { - h}}$$</p>\n<p>$$ = \\mathop {\\lim }\\limits_{h \\to 0} {{ - {{(2 - h)}^2}.\\sin \\left( {{\\pi  \\over 2} - {\\pi  \\over {2 - h}}} \\right)} \\over h}$$</p>\n<p>$$ = \\mathop {\\lim }\\limits_{h \\to 0} {{{{(2 - h)}^2}.\\sin \\left( { - {{\\pi h} \\over {2(2 - h)}}} \\right)} \\over {h \\times {{ - \\pi } \\over {2(2 - h)}} \\times {{ - \\pi } \\over {2(2 - h)}}}}$$<?p>\n<p>$$ \\Rightarrow L(f'(2)) =  - \\pi $$</p>\n<p>Thus, f(x) is differentiable at x = 0 but not at x = 2.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>If $$\\mathop {\\lim }\\limits_{x \\to 0} {[1 + x\\ln (1 + {b^2})]^{1/x}} = 2b{\\sin ^2}\\theta $$, $$b > 0$$ and $$\\theta  \\in ( - \\pi ,\\pi ]$$, then the value of $$\\theta$$ is</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$ \\pm {\\pi  \\over 4}$$"
+        },
+        {
+          "key": "B",
+          "value": "$$ \\pm {\\pi  \\over 3}$$"
+        },
+        {
+          "key": "C",
+          "value": "$$ \\pm {\\pi  \\over 6}$$"
+        },
+        {
+          "key": "D",
+          "value": "$$ \\pm {\\pi  \\over 2}$$"
+        }
+      ],
+      "answer": "D",
+      "explanation": "<p>Here, $$\\mathop {\\lim }\\limits_{x \\to 0} {\\{ 1 + x\\log (1 + {b^2})\\} ^{1/x}}$$ [1<sup>$$\\infty$$</sup> from]</p>\n<p>$$ \\Rightarrow {e^{\\mathop {\\lim }\\limits_{x \\to 0} \\{ x\\log (1 + {b^2})\\} \\,.\\,{1 \\over x}}}$$</p>\n<p>$$ \\Rightarrow {e^{\\log (1 + {b^2})}} = {(1 + b)^2}$$ ..... (i)</p>\n<p>Given,</p>\n<p>$$\\mathop {\\lim }\\limits_{x \\to 0} {\\{ 1 + x\\log (1 + {b^2})\\} ^{1/x}} = 2b{\\sin ^2}\\theta $$</p>\n<p>$$ \\Rightarrow (1 + {b^2}) = 2b{\\sin ^2}\\theta $$</p>\n<p>$$\\therefore$$ $${\\sin ^2}\\theta  = {{1 + {b^2}} \\over {2{b^2}}}$$ ..... (ii)</p>\n<p>By $$AM \\ge GM$$</p>\n<p>$${{b + {1 \\over b}} \\over 2} \\ge {\\left( {b\\,.\\,{1 \\over b}} \\right)^{1/2}} \\Rightarrow {{{b^2} + 1} \\over {2b}} \\ge 1$$ ...... (iii)</p>\n<p>From Eqs. (ii) and (iii), we get $${\\sin ^2}\\theta  = 1$$</p>\n<p>$$ \\Rightarrow \\theta  =  \\pm {\\pi  \\over 2}$$ as $$\\theta  \\in ( - \\pi ,\\pi ]$$</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Which of the following is true?</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$f(x)$$ is decreasing on $$(-1,1)$$ and has a local minimum at $$x=1$$"
+        },
+        {
+          "key": "B",
+          "value": "$$f(x)$$ is increasing on $$(-1,1)$$ and has a local minimum at $$x=1$$"
+        },
+        {
+          "key": "C",
+          "value": "$$f(x)$$ is increasing on $$(-1,1)$$ but has neither a local maximum nor a local minimum at $$x=1$$"
+        },
+        {
+          "key": "D",
+          "value": "$$f(x)$$ is decreasing on $$(-1,1)$$ but has neither a local maximum nor a local minimum at $$x=1$$"
+        }
+      ],
+      "answer": "A",
+      "explanation": "<p>As when $$x \\in ( - 1,1),f'(x) < 0$$</p>\n<p>So, f(x) is decreasing on ($$-1,1$$) at x = 1</p>\n<p>$$f''(1) = {{4a} \\over {{{(a + 2)}^2}}} > 0$$</p>\n<p>So, local minima at x = 1</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Let the function $$g:\\left( { - \\infty ,\\infty } \\right) \\to \\left( { - {\\pi  \\over 2},{\\pi  \\over 2}} \\right)$$ be given by\n<br><br/>$$g\\left( u \\right) = 2{\\tan ^{ - 1}}\\left( {{e^u}} \\right) - {\\pi  \\over 2}.$$ Then, $$g$$ is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "even and is strictly increasing in $$\\left( {0,\\infty } \\right)$$ "
+        },
+        {
+          "key": "B",
+          "value": "odd and is strictly decreasing in $$\\left( { - \\infty ,\\infty } \\right)$$ "
+        },
+        {
+          "key": "C",
+          "value": "odd and is strictly increasing in $$\\left( { - \\infty ,\\infty } \\right)$$ "
+        },
+        {
+          "key": "D",
+          "value": "neither even nor odd, but is strictly increasing in $$\\left( { - \\infty ,\\infty } \\right)$$"
+        }
+      ],
+      "answer": "C",
+      "explanation": "<p>Given that,</p>\n<p>$$g(u) = 2{\\tan ^{ - 1}}({e^u}) - {\\pi  \\over 2}$$ for $$u \\in ( - \\infty ,\\infty )$$</p>\n<p>$$g( - u) = 2{\\tan ^{ - 1}}{e^{ - u}} - {\\pi  \\over 2} = 2{\\cot ^{ - 1}}({e^u}) - {\\pi  \\over 2}$$</p>\n<p>$$ = 2\\left( {{\\pi  \\over 2} - {{\\tan }^{ - 1}}({e^u}) - {\\pi  \\over 2}} \\right)$$</p>\n<p>$$ =  - 2{\\tan ^{ - 1}}({e^u}) + {\\pi  \\over 2}$$</p>\n<p>$$ =  - g(u)$$</p>\n<p>$$\\therefore$$ $$g(u) =  - g(u)$$</p>\n<p>$$ \\Rightarrow g(u)$$ is an odd function</p>\n<p>We have, $$g(u) = 2{\\tan ^{ - 1}}({e^u}) - {\\pi  \\over 2}$$</p>\n<p>$$g'(u) = {{2{e^u}} \\over {1 + 2{e^{2u}}}}$$</p>\n<p>$$g'(u) > 0,\\forall u \\in R$$ [$$\\because$$ $${e^u} > 0$$]<?p>\n<p>So, $$g'(u)$$ is increasing function.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Let $$g(x) = {{{{(x - 1)}^n}} \\over {\\log {{\\cos }^m}(x - 1)}};0 < x < 2,m$$ and $$n$$ are integers, $$m \\ne 0,n > 0$$, and let $$p$$ be the left hand derivative of $$|x - 1|$$ at $$x = 1$$. If $$\\mathop {\\lim }\\limits_{x \\to {1^ + }} g(x) = p$$, then</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$n = 1,m = 1$$"
+        },
+        {
+          "key": "B",
+          "value": "$$n = 1,m =  - 1$$"
+        },
+        {
+          "key": "C",
+          "value": "$$n = 2,m = 2$$"
+        },
+        {
+          "key": "D",
+          "value": "$$n > 2,m = n$$"
+        }
+      ],
+      "answer": "C",
+      "explanation": "<p>Given, $$g(x) = {{{{(x - 1)}^n}} \\over {\\log {{\\cos }^m}(x - 1)}},0 < x < 2,m \\ne 0,n > 0,m,n$$ are integer.</p>\n<p>Left hand derivative (L.H.D.) of $$|x - 1|$$ at $$x = 1$$ is P.</p>\n<p>As $$|x - 1| = \\left\\{ {\\matrix{\n   {x - 1,} & {x \\ge 1}  \\cr \n   { - (1 - x),} & {x < 1}  \\cr \n\n } } \\right.$$</p>\n<p>$$\\therefore$$ L.H.D. at $$x = 1$$ will be $$-1$$.</p>\n<p>[$$\\therefore$$ L.H.D. at $$x = 1$$ is $$\\mathop {\\lim }\\limits_{h \\to 0} {{f(1 - h) - f(1)} \\over { - h}}$$]</p>\n<p>$$p =  - 1$$</p>\n<p>Also, $$\\mathop {\\lim }\\limits_{x \\to {1^ + }} g(x) = p =  - 1$$</p>\n<p>$$ \\Rightarrow \\mathop {\\lim }\\limits_{h \\to 0} {{{{(1 + h - 1)}^n}} \\over {\\log {{\\cos }^m}(1 + h - 1)}} =  - 1$$</p>\n<p>$$ \\Rightarrow \\mathop {\\lim }\\limits_{h \\to 0} {{{h^n}} \\over {\\log {{\\cos }^m}h}} =  - 1$$</p>\n<p>$$ \\Rightarrow \\mathop {\\lim }\\limits_{h \\to 0} {{{h^n}} \\over {m\\log \\cos \\,h}} =  - 1$$</p>\n<p>$$ \\Rightarrow \\mathop {\\lim }\\limits_{h \\to 0} {{n\\,.\\,{h^{n - 1}}} \\over {m\\log \\cos \\,h}} =  - 1$$ [using L. Hospital rule]</p>\n<p>$$ \\Rightarrow \\mathop {\\lim }\\limits_{h \\to 0} \\left( {{{ - n} \\over m}} \\right)\\,.\\,{{{h^{n - 2}}} \\over {\\left( {{{\\tan \\,h} \\over h}} \\right)}} =  - 1$$</p>\n<p>$$ \\Rightarrow \\left( {{n \\over m}} \\right)\\mathop {\\lim }\\limits_{h \\to 0} {{{h^{n - 2}}} \\over {\\left( {{{\\tan \\,h} \\over h}} \\right)}} = 1$$</p>\n<p>$$n - 2 = 0$$ and $${n \\over m} = 1 \\Rightarrow m = n = 2$$</p>\n<p>or</p>\n<p>$$[f(x) = |x - 1| =  - x + 1,x < 1f'(x) =  - 1$$</p>\n<p>So, L.H.D. at $$x =  - 1$$ is $$-1$$</p>\n<p>$$\\therefore$$ $$P =  - 1$$</p>\n<p>Now, $$\\mathop {\\lim }\\limits_{x \\to {1^ + }} {{{{(x - 1)}^n}} \\over {\\log {{\\cos }^m}(x - 1)}} = p$$ .... (i)</p>\n<p>Let $$x - 1 = t$$ in L.H.S. of eq. (i)</p>\n<p>$$\\mathop {\\lim }\\limits_{t \\to } {{{t^n}} \\over {m\\log \\cos \\,t}},\\left( {{0 \\over 0}\\,\\mathrm{form}} \\right)$$ [using L' Hospital rule]</p>\n<p>We get, $$\\mathop {\\lim }\\limits_{t \\to 0} {{n{t^{n - 1}}} \\over {m\\tan \\,t}} = {{ - n} \\over m}\\mathop {\\lim }\\limits_{t \\to 0} {{{t^{n - 1}}} \\over {\\tan \\,t}}\\left( {{0 \\over 0}\\,\\mathrm{form}} \\right)$$</p>\n<p>Again using L' Hospital rule,</p>\n<p>$${{ - n} \\over m}\\mathop {\\lim }\\limits_{t \\to 0} {{(n - 1){t^{n - 2}}} \\over {{{\\sec }^2}t}} = P$$</p>\n<p>$$ \\Rightarrow {{ + n} \\over m}\\mathop {\\lim }\\limits_{t \\to 0} {{(n - 1){t^{n - 2}}} \\over {{{\\sec }^2}t}} =  - 1$$</p>\n<p>For non-zero answer</p>\n<p>$$n - 2 = 0 \\Rightarrow n = 2$$ Also $$m = n = 2$$.</p>"
+    },
+    {
+      "_type": "numerical",
+      "body": "If\n<br/><br/>$$\n\\beta=\\lim \\limits_{x \\to 0} \\frac{e^{x^{3}}-\\left(1-x^{3}\\right)^{\\frac{1}{3}}+\\left(\\left(1-x^{2}\\right)^{\\frac{1}{2}}-1\\right) \\sin x}{x \\sin ^{2} x},\n$$\n\n<br/><br/>then the value of $6 \\beta$ is ___________.",
+      "answer": "5",
+      "explanation": "<p>Given,</p>\n<p>$$\\beta  = \\mathop {\\lim }\\limits_{x \\to 0} {{{e^{{x^3}}} - {{(1 - {x^3})}^{{1 \\over 3}}} + ({{(1 - {x^2})}^{{1 \\over 2}}} - 1)\\sin x} \\over {x{{\\sin }^2}x}}$$</p>\n<p>$$ = \\mathop {\\lim }\\limits_{x \\to 0} {{(1 + {x^3}\\, + \\,...) - \\left( {1 - {{{x^3}} \\over 3}\\, + \\,...} \\right) + \\left( {\\left( {1 - {1 \\over 2}{x^2}\\, + \\,...} \\right) - 1} \\right)x} \\over {x\\,.\\,{{{{\\sin }^2}x} \\over {{x^2}}}\\,.\\,{x^2}}}$$</p>\n<p>$$ = \\mathop {\\lim }\\limits_{x \\to 0} {{\\left( {{x^3} + {{{x^3}} \\over 3} - {{{x^3}} \\over 2}} \\right) + {x^4}(......)} \\over {{x^3}}}$$</p>\n<p>$$ = \\mathop {\\lim }\\limits_{x \\to 0} {{{x^3}\\left( {1 + {1 \\over 3} - {1 \\over 2}} \\right)} \\over {{x^3}}}$$ [Neglecting higher power of x]</p>\n<p>$$ = 1 + {1 \\over 3} - {1 \\over 2} = {5 \\over 6}$$</p>\n<p>$$\\therefore$$ $$6\\beta  = 6 \\times {5 \\over 6} = 5$$</p>"
+    },
+    {
+      "_type": "numerical",
+      "body": "Let the functions $$f:( - 1,1) \\to R$$ and $$g:( - 1,1) \\to ( - 1,1)$$ be defined by $$f(x) = |2x - 1| + |2x + 1|$$ and $$g(x) = x - [x]$$, where [x] denotes the greatest integer less than or equal to x. Let $$f\\,o\\,g:( - 1,1) \\to R$$ be the composite function defined by $$(f\\,o\\,g)(x) = f(g(x))$$. Suppose c is the number of points in the interval ($$-$$1, 1) at which $$f\\,o\\,g$$ is NOT continuous, and suppose d is the number of points in the interval ($$-$$1, 1) at which $$f\\,o\\,g$$ is NOT differentiable. Then the value of c + d is ............",
+      "answer": "4",
+      "explanation": "The given functions $$f:( - 1,1) \\to R$$ and $$g:( - 1,1) \\to ( - 1,1)$$ be defined by $$f(x) = |2x - 1| + |2x + 1|$$ and $$g(x) = x - [x]$$.<br><br>As, we know the composite function (fog) (x) is discontinuous at the points, where g(x) is discontinuous for given domain. And, since g(x) is discontinuous at x = 0 lies in interval ($$-$$1, 1), so value of c = 1.<br><br>And, since (fog) (x) is not differentiable at the point where g(x) is not differentiable as well as at those points also where g(x) attains the values so that f(g(x)) is non-differentiable.<br><br>Since g(x) is not continuous at x = 0$$ \\in $$ ($$-$$1, 1) so fog(x) is not differentiable and as $$f(x) = |2x - 1| + |2x + 1|$$ is not differentiable at x = $$-$$1/2 and 1/2, so (fog) (x) is not differentiable for those x, for which g(x) = $$-$$1/2 or 1/2.<br><br>But g(x) $$ \\ge $$ 0, so g(x) can be 1/2 only and for x = $$-$$1/2 and 1/2, g(x) = $${1 \\over 2}$$.<br><br>So, (fog) (x) is not differentiable at x = $$-$$1/2, 0, 1/2, therefore value of d = 3<br><br>$$ \\therefore $$ c + d = 1 + 3 = 4."
+    },
+    {
+      "_type": "numerical",
+      "body": "The value of the limit<br><br>$$\\mathop {\\lim }\\limits_{x \\to {\\pi  \\over 2}} {{4\\sqrt 2 (\\sin 3x + \\sin x)} \\over {\\left( {2\\sin 2x\\sin {{3x} \\over 2} + \\cos {{5x} \\over 2}} \\right) - \\left( {\\sqrt 2  + \\sqrt 2 \\cos 2x + \\cos {{3x} \\over 2}} \\right)}}$$<br><br>is ...........",
+      "answer": "8",
+      "explanation": "The limit<br><br>$$\\mathop {\\lim }\\limits_{x \\to {\\pi  \\over 2}} {{4\\sqrt 2 (\\sin 3x + \\sin x)} \\over {\\left( {2\\sin 2x\\sin {{3x} \\over 2} + \\cos {{5x} \\over 2}} \\right) - \\left( {\\sqrt 2  + \\sqrt 2 \\cos 2x + \\cos {{3x} \\over 2}} \\right)}}$$<br><br>$$ = \\mathop {\\lim }\\limits_{x \\to {\\pi  \\over 2}} {{4\\sqrt 2 (2\\sin 2x\\cos x)} \\over {2\\sin 2x\\sin {{3x} \\over 2} + \\left( {\\cos {{5x} \\over 2} - \\cos {{3x} \\over 2}} \\right) - \\sqrt 2 (1 + cos2x)}}$$<br><br>$$ = \\mathop {\\lim }\\limits_{x \\to {\\pi  \\over 2}} {{8\\sqrt 2 \\sin 2x\\cos x} \\over {2\\sin 2x\\sin {{3x} \\over 2} - 2\\sin 2x\\sin {x \\over 2} - \\sqrt 2 (2{{\\cos }^2}x)}}$$<br><br>$$ = \\mathop {\\lim }\\limits_{x \\to {\\pi  \\over 2}} {{4\\sqrt 2 \\sin 2x\\cos x} \\over {\\sin 2x\\left( {\\sin {{3x} \\over 2} - \\sin {x \\over 2}} \\right) - \\sqrt 2 {{\\cos }^2}x}}$$<br><br>$$ = \\mathop {\\lim }\\limits_{x \\to {\\pi  \\over 2}} {{4\\sqrt 2 \\sin 2x\\cos x} \\over {2\\sin 2x\\cos x\\sin {x \\over 2} - \\sqrt 2 {{\\cos }^2}x}}$$<br><br>$$ = \\mathop {\\lim }\\limits_{x \\to {\\pi  \\over 2}} {{4\\sqrt 2 \\sin 2x} \\over {2\\sin 2x\\sin {x \\over 2} - \\sqrt 2 \\cos x}}$$<br><br>$$ = \\mathop {\\lim }\\limits_{x \\to {\\pi  \\over 2}} {{8\\sqrt 2 \\sin x} \\over {4\\sin x\\sin {x \\over 2} - \\sqrt 2 }}$$<br><br>$$ = {{8\\sqrt 2 } \\over {{4 \\over {\\sqrt 2 }} - \\sqrt 2 }} = {{16} \\over {4 - 2}} = 8$$"
+    },
+    {
+      "_type": "numerical",
+      "body": "let e denote the base of the natural logarithm. The value of the real number a for which the right hand limit<br><br>$$\\mathop {\\lim }\\limits_{x \\to {0^ + }} {{{{(1 - x)}^{1/x}} - {e^{ - 1}}} \\over {{x^a}}}$$<br><br>is equal to a non-zero real number, is .............",
+      "answer": "1",
+      "explanation": "The right hand limit<br><br>$$\\mathop {\\lim }\\limits_{x \\to {0^ + }} {{{{(1 - x)}^{1/x}} - {e^{ - 1}}} \\over {{x^a}}}$$<br><br>$$ = \\mathop {\\lim }\\limits_{x \\to {0^ + }} {{{e^{\\left\\{ {{1 \\over x}{{\\log }_e}(1 - x)} \\right\\}}} - {e^{ - 1}}} \\over {{x^a}}}$$<br><br>$$ = \\mathop {\\lim }\\limits_{x \\to {0^ + }} {{{e^{{1 \\over x}\\left( { - x - {{{x^2}} \\over 2} - {{{x^3}} \\over 3} - ...} \\right)}} - {e^{ - 1}}} \\over {{x^a}}}$$<br><br>$$ = \\mathop {\\lim }\\limits_{x \\to {0^ + }} {{{e^{ - 1}}.{e^{\\left( { - {x \\over 2} - {{{x^2}} \\over 3} - {{{x^3}} \\over 4} - ....} \\right)}} - {e^{ - 1}}} \\over {{x^a}}}$$<br><br>$$ = {e^{ - 1}}\\mathop {\\lim }\\limits_{x \\to {0^ + }} {{{e^{  \\left( {-{x \\over 2} - {{{x^2}} \\over 3} - {{{x^3}} \\over 4} - ....} \\right)}} - 1} \\over {{x^a}}}$$\n<br><br>$$ = {e^{ - 1}}\\mathop {\\lim }\\limits_{x \\to {0^ + }} {{{e^{\\left( { - {x \\over 2} - {{{x^2}} \\over 3} - {{{x^3}} \\over 4} - ...} \\right)}} - 1} \\over {^{\\left( { - {x \\over 2} - {{{x^2}} \\over 3} - {{{x^3}} \\over 4} - ...} \\right)}}} \\times {{\\left( { - {x \\over 2} - {{{x^2}} \\over 3} - {{{x^3}} \\over 4} - ...} \\right)} \\over {{x^a}}}$$\n<br><br>$$ = {e^{ - 1}}\\mathop {\\lim }\\limits_{x \\to {0^ + }} {{\\left( { - {x \\over 2} - {{{x^2}} \\over 3} - {{{x^3}} \\over 4} - ...} \\right)} \\over {{x^a}}}$$\n<br><br>$$ = {e^{ - 1}}\\mathop {\\lim }\\limits_{x \\to {0^ + }} \\left( { - {1 \\over 2}{x^{1 - a}} - {1 \\over 3}{x^{2 - a}} - ...} \\right)$$\n<br><br>The above limit will be non-zero, if a = 1. And at a = 1, the value of the limit is <br><br>$$ = {e^{ - 1}}\\left( { - {1 \\over 2}} \\right) =  - {1 \\over {2e}}$$"
+    },
+    {
+      "_type": "numerical",
+      "body": "The value of $${({({\\log _2}9)^2})^{{1 \\over {{{\\log }_2}({{\\log }_2}9)}}}} \\times {(\\sqrt 7 )^{{1 \\over {{{\\log }_4}7}}}}$$ is ....................",
+      "answer": "8",
+      "explanation": "$${({({\\log _2}9)^2})^{{1 \\over {{{\\log }_2}({{\\log }_2}9)}}}} \\times {(\\sqrt 7 )^{{1 \\over {{{\\log }_4}7}}}}$$<br><br>$$ = {({\\log _2}9)^{{{2.{{\\log }_2}} \\over {{{\\log }_2}9}}}} \\times {7^{{1 \\over 2}.{{\\log }_7}4}}$$<br><br>$$ = {({\\log _2}9)^{{{\\log }_{\\log {2^{{9^{{2^2}}}}}}}}} \\times {7^{{{\\log }_7}2}}$$<br><br>$$ = {2^2} \\times 2 = 8$$"
+    },
+    {
+      "_type": "numerical",
+      "body": "Let f : R $$ \\to $$ R be a differentiable function such that f(0) = 0, $$f\\left( {{\\pi  \\over 2}} \\right) = 3$$ and f'(0) = 1.<br><br>If $$g(x) = \\int\\limits_x^{\\pi /2} {[f'(t)\\text{cosec}\\,t - \\cot t\\,\\text{cosec}\\,t\\,f(t)]dt} $$<br><br>for $$x \\in \\left( {0,\\,{\\pi  \\over 2}} \\right]$$, then $$\\mathop {\\lim }\\limits_{x \\to 0} g(x)$$ = ",
+      "answer": "2",
+      "explanation": "<p>Let $$g(x) = \\int\\limits_x^{\\pi /2} {[f'(t)\\text{cosec}\\,t - \\cot t\\,\\text{cosec}\\,t\\,f(t)]dt} $$</p>\n<p>$$ = \\int\\limits_x^{\\pi /2} {{d \\over {dt}}(f(t)\\cos ect))} $$</p>\n<p>So, $$g(x) = f(\\pi /2)\\cos ec{\\pi  \\over 2} - f(x)\\cos ecx$$</p>\n<p>$$ = 3 - f(x)\\cos ecx$$</p>\n<p>$$\\therefore$$ $$g(x) = 3 - {{f(x)} \\over {\\sin x}}$$</p>\n<p>$$\\mathop {\\lim }\\limits_{x \\to 0} g(x) = 3 - \\mathop {\\lim }\\limits_{x \\to 0} {{f(x)} \\over {\\sin x}}$$</p>\n<p>As the above is a 0/0 form, use L'Hospital's rule to get</p>\n<p>$$\\mathop {\\lim }\\limits_{x \\to 0} g(x) = 3 - \\mathop {\\lim }\\limits_{x \\to 0} {{f'(x)} \\over {\\cos x}} = 3 - f'(0) = 3 - 1 = 2$$</p>"
+    },
+    {
+      "_type": "numerical",
+      "body": "<p>Let $$\\alpha$$, $$\\beta$$ $$\\in$$ R be such that $$\\mathop {\\lim }\\limits_{x \\to 0} {{{x^2}\\sin (\\beta x)} \\over {\\alpha x - \\sin x}} = 1$$. Then 6($$\\alpha$$ + $$\\beta$$) equals _________.</p>",
+      "answer": "7",
+      "explanation": "<p>Here, $$\\mathop {\\lim }\\limits_{x \\to 0} {{{x^2}\\sin (\\beta x)} \\over {\\alpha x - \\sin x}} = 1$$</p>\n<p>$$\\mathop {\\lim }\\limits_{x \\to 0} {{{x^2}\\left( {\\beta x - {{{{(\\beta x)}^3}} \\over {3!}} + {{{{(\\beta x)}^5}} \\over {5!}} - ....} \\right)} \\over {\\alpha x - \\left( {x - {{{x^3}} \\over {3!}} + {{{x^5}} \\over {5!}} - ....} \\right)}} = 1$$</p>\n<p>$$ \\Rightarrow \\mathop {\\lim }\\limits_{x \\to 0} {{{x^3}\\left( {\\beta  - {{{\\beta ^3}{x^2}} \\over {3!}} + {{{\\beta ^5}{x^4}} \\over {5!}} - ....} \\right)} \\over {(\\alpha  - 1)x + {{{x^3}} \\over {3!}} + {{{x^5}} \\over {5!}} - ...}} = 1$$</p>\n<p>Limit exists only, when $$\\alpha$$ $$-$$ 1 = 0</p>\n<p>$$\\Rightarrow$$ $$\\alpha$$ = 1 ...... (i)</p>\n<p>$$\\therefore$$ $$ \\Rightarrow \\mathop {\\lim }\\limits_{x \\to 0} {{{x^3}\\left( {\\beta  - {{{\\beta ^3}{x^2}} \\over {3!}} + {{{\\beta ^5}{x^4}} \\over {5!}} - ....} \\right)} \\over {{x^3}\\left( {{1 \\over {3!}} - {{{x^2}} \\over {5!}} - ...} \\right)}} = 1$$</p>\n<p>$$\\Rightarrow$$ 6$$\\beta$$ = 1 ....... (ii)</p>\n<p>From Eqs. (i) and (ii), we get</p>\n<p>6($$\\alpha$$ + $$\\beta$$) = 6$$\\alpha$$ + 6$$\\beta$$</p>\n<p>= 6 + 1</p>\n<p>= 7</p>"
+    },
+    {
+      "_type": "numerical",
+      "body": "Let m and n be two positive integers greater than 1. If\n$$$\\mathop {\\lim }\\limits_{\\alpha  \\to 0} \\left( {{{{e^{\\cos \\left( {{\\alpha ^n}} \\right)}} - e} \\over {{\\alpha ^m}}}} \\right) =  - \\left( {{e \\over 2}} \\right)$$$\nthen the value of $${m \\over n}$$ is _________.",
+      "answer": "2",
+      "explanation": "<p>Given, $$\\mathop {\\lim }\\limits_{\\alpha  \\to 0} \\left[ {{{{e^{\\cos ({\\alpha ^n})}} - e} \\over {{\\alpha ^m}}}} \\right] =  - {e \\over 2}$$</p>\n<p>$$ \\Rightarrow \\mathop {\\lim }\\limits_{\\alpha  \\to 0} {{e\\{ {e^{\\cos ({\\alpha ^n}) - 1}} - 1\\} } \\over {\\cos ({\\alpha ^n}) - 1}}.{{\\cos ({\\alpha ^n}) - 1} \\over {{\\alpha ^m}}} = {{ - e} \\over 2}$$</p>\n<p>$$ \\Rightarrow \\mathop {\\lim }\\limits_{\\alpha  \\to 0} e\\left\\{ {{{{e^{\\cos ({\\alpha ^n}) - 1}} - 1} \\over {\\cos ({\\alpha ^n}) - 1}}} \\right\\}.\\mathop {\\lim }\\limits_{\\alpha  \\to 0} {{ - 2{{\\sin }^2}{{{\\alpha ^n}} \\over 2}} \\over {{\\alpha ^m}}} =  - e/2$$</p>\n<p>$$ \\Rightarrow e \\times 1 \\times ( - 2)\\mathop {\\lim }\\limits_{\\alpha  \\to 0} {{{{\\sin }^2}\\left( {{{{\\alpha ^n}} \\over 2}} \\right)} \\over {{{{\\alpha ^{2n}}} \\over 4}}}.{{{\\alpha ^{2n}}} \\over {4{\\alpha ^m}}} = {{ - e} \\over 2}$$</p>\n<p>$$ \\Rightarrow e \\times 1 \\times  - 2 \\times 1 \\times \\mathop {\\lim }\\limits_{\\alpha  \\to 0} {{{\\alpha ^{2n - m}}} \\over 4} = {{ - e} \\over 2}$$</p>\n<p>For this to be exists,</p>\n<p>$$2n - m = 0 \\Rightarrow {m \\over n} = 2$$</p>"
+    },
+    {
+      "_type": "numerical",
+      "body": "The largest value of the non-negative integer a for which $$\\mathop {\\lim }\\limits_{x \\to 1} {\\left\\{ {{{ - ax + \\sin (x - 1) + a} \\over {x + \\sin (x - 1) - 1}}} \\right\\}^{{{1 - x} \\over {1 - \\sqrt x }}}} = {1 \\over 4}$$ is",
+      "answer": "0",
+      "explanation": "Given, $$\\mathop {\\lim }\\limits_{x \\to 1} {\\left\\{ {{{\\sin (x - 1) + a(1 - x)} \\over {(x - 1) + \\sin (x - 1)}}} \\right\\}^{{{(1 - \\sqrt x )(1 - \\sqrt x )} \\over {1 - \\sqrt x }}}} = {1 \\over 4}$$<br/><br/>$$ \\Rightarrow \\mathop {\\lim }\\limits_{x \\to 1} {\\left\\{ {{{{{\\sin (x - 1)} \\over {(x - 1)}} - a} \\over {1 + {{\\sin (x - 1)} \\over {(x - 1)}}}}} \\right\\}^{1 + \\sqrt x }} = {1 \\over 4}$$<br/><br/>$$ \\Rightarrow {\\left( {{{1 - a} \\over 2}} \\right)^2} = {1 \\over 4}$$<br/><br/>$$ \\Rightarrow {(a - 1)^2} = 1$$<br/><br/>$$\\Rightarrow$$ a = 2 or 0<br/><br/>But for a = 2, base of above limit approaches $$-$$1/2 and exponent approaches to 2 and since base cannot be negative, hence limit does not exist."
+    }
+  ]
+}

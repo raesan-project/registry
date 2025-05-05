@@ -1,0 +1,1063 @@
+{
+  "_index": {
+    "name": "Trigonometric Functions & Equations"
+  },
+  "_children": [
+    {
+      "_type": "single_mcq",
+      "body": "<p>Let $\\frac{\\pi}{2} < x < \\pi$ be such that $\\cot x=\\frac{-5}{\\sqrt{11}}$. Then</p>\n\n<p>$$ \\left(\\sin \\frac{11 x}{2}\\right)(\\sin 6 x-\\cos 6 x)+\\left(\\cos \\frac{11 x}{2}\\right)(\\sin 6 x+\\cos 6 x) $$</p>\n\n<p>is equal to :</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "$\\frac{\\sqrt{11}-1}{2 \\sqrt{3}}$"
+        },
+        {
+          "key": "B",
+          "value": "$\\frac{\\sqrt{11}+1}{2 \\sqrt{3}}$"
+        },
+        {
+          "key": "C",
+          "value": "$\\frac{\\sqrt{11}+1}{3 \\sqrt{2}}$"
+        },
+        {
+          "key": "D",
+          "value": "$\\frac{\\sqrt{11}-1}{3 \\sqrt{2}}$"
+        }
+      ],
+      "answer": "B",
+      "explanation": "<p>Given the information, let's start by analyzing the trigonometric relationships involving $\\cot x = \\frac{-5}{\\sqrt{11}}$ where $\\frac{\\pi}{2} < x < \\pi$.</p>\n\n<p>We know that $\\cot x$ is the reciprocal of $\\tan x$. Hence, </p>\n\n<p>$$ \\cot x = \\frac{\\cos x}{\\sin x} = \\frac{-5}{\\sqrt{11}} $$</p>\n\n<p>From the above, it follows that:</p>\n\n<p>$$ \\cos x = -5k \\text{ and } \\sin x = \\sqrt{11}k $$</p>\n\n<p>for some constant $k$. Using the Pythagorean identity:</p>\n\n<p>$$ \\cos^2 x + \\sin^2 x = 1 $$</p>\n\n<p>Let’s substitute the values of $\\cos x$ and $\\sin x$ into this identity:</p>\n\n<p>$$ (-5k)^2 + (\\sqrt{11}k)^2 = 1 $$</p>\n\n<p>$$ 25k^2 + 11k^2 = 1 $$</p>\n\n<p>$$ 36k^2 = 1 $$</p>\n\n<p>$$ k^2 = \\frac{1}{36} $$</p>\n\n<p>$$ k = \\frac{1}{6} \\text{ or } k = -\\frac{1}{6} $$</p>\n\n<p>Therefore, we have two sets of values:</p>\n\n<p>$$ \\cos x = -\\frac{5}{6} \\text{ and } \\sin x = \\frac{\\sqrt{11}}{6} $$</p>\n\n<p>Given that $x$ is in the interval $\\left(\\frac{\\pi}{2}, \\pi\\right)$, where sine is positive and cosine is negative, we take:</p>\n\n<p>$$ \\cos x = -\\frac{5}{6},\\  \\sin x = \\frac{\\sqrt{11}}{6} $$</p>\n\n<p></p>\n\n<p>Now consider the expression:</p>\n\n<p>$$\\left(\\sin \\frac{11 x}{2}\\right)(\\sin 6 x - \\cos 6 x) + \\left(\\cos \\frac{11 x}{2}\\right)(\\sin 6 x + \\cos 6 x) $$</p>\n\n<p>To solve this, first find $\\frac{11x}{2}$ which lies in the interval $\\left(\\frac{11\\pi}{4}, \\frac{11\\pi}{2}\\right)$. Next, we simplify each term using sum-to-product identities:</p>\n\n<p>Notice:</p>\n\n<p>$$ \\sin 6x - \\cos 6x = \\sqrt{2} \\sin \\left( 6x - \\frac{\\pi}{4} \\right) $$</p>\n\n<p>$$ \\sin 6x + \\cos 6x = \\sqrt{2} \\cos \\left( 6x - \\frac{\\pi}{4} \\right) $$</p>\n\n<p>Using these, the given expression becomes:</p>\n\n<p>$$ \\left(\\sin \\frac{11x}{2}\\right) \\sqrt{2} \\sin \\left(6x - \\frac{\\pi}{4} \\right) + \\left(\\cos \\frac{11x}{2}\\right) \\sqrt{2} \\cos \\left(6x - \\frac{\\pi}{4} \\right) $$</p>\n\n<p>This further simplifies using the angle sum identities:</p>\n\n<p>$$ = \\sqrt{2} \\left(\\sin \\frac{11x}{2} \\sin \\left(6x - \\frac{\\pi}{4}\\right) + \\cos \\frac{11x}{2} \\cos \\left(6x - \\frac{\\pi}{4}\\right)\\right) $$</p>\n\n<p>Utilizing the cosine of the difference identity:</p>\n\n<p>$$ \\sin A \\sin B + \\cos A \\cos B = \\cos(A - B) $$</p>\n\n<p>Substitute $A = \\frac{11x}{2}$ and $B = 6x - \\frac{\\pi}{4}$:</p>\n\n<p>$$ \\cos \\left(\\frac{11x}{2} - \\left(6x - \\frac{\\pi}{4}\\right)\\right) = \\cos \\left(\\frac{11x}{2} - 6x + \\frac{\\pi}{4}\\right) = \\cos \\left( - \\frac{x}{2} + \\frac{\\pi}{4} \\right) = \\cos \\left(\\frac{\\pi}{4} - \\frac{x}{2}\\right) $$</p>\n\n<p>Using the values of trigonometric functions:</p>\n\n<p>$$ \\cos \\left(\\frac{\\pi}{4} - \\frac{x}{2}\\right) = \\frac{\\sqrt{11}+1}{2\\sqrt{3}} $$</p>\n\n<p>Thus, the correct option is:</p>\n\n<p>Option B</p>\n\n<p>$$ \\frac{\\sqrt{11}+1}{2 \\sqrt{3}} $$</p>\n\n<p></p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Consider the following lists :</p>\n<p><style type=\"text/css\">\n.tg  {border-collapse:collapse;border-spacing:0;}\n.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg .tg-amwm{font-weight:bold;text-align:center;vertical-align:top}\n.tg .tg-0lax{text-align:left;vertical-align:top}\n</style>\n<table class=\"tg\">\n<thead>\n  <tr>\n    <th class=\"tg-amwm\">List-I</th>\n    <th class=\"tg-amwm\"><span style=\"font-weight:bold;font-style:normal\">List-II</span></th>\n  </tr>\n</thead>\n<tbody>\n  <tr>\n    <td class=\"tg-0lax\">(I) $$\\left\\{x \\in\\left[-\\frac{2 \\pi}{3}, \\frac{2 \\pi}{3}\\right]: \\cos x+\\sin x=1\\right\\}$$</td>\n    <td class=\"tg-0lax\">(P) has two elements</td>\n  </tr>\n  <tr>\n    <td class=\"tg-0lax\">(II) $$\\left\\{x \\in\\left[-\\frac{5 \\pi}{18}, \\frac{5 \\pi}{18}\\right]: \\sqrt{3} \\tan 3 x=1\\right\\}$$</td>\n    <td class=\"tg-0lax\">(Q) has three elements</td>\n  </tr>\n  <tr>\n    <td class=\"tg-0lax\">(III) $$\\left\\{x \\in\\left[-\\frac{6 \\pi}{5}, \\frac{6 \\pi}{5}\\right]: 2 \\cos (2 x)=\\sqrt{3}\\right\\}$$</td>\n    <td class=\"tg-0lax\">(R) has four elements</td>\n  </tr>\n  <tr>\n    <td class=\"tg-0lax\">(IV) $$\\left\\{x \\in\\left[-\\frac{7 \\pi}{4}, \\frac{7 \\pi}{4}\\right]: \\sin x-\\cos x=1\\right\\}$$</td>\n    <td class=\"tg-0lax\">(S) has five elements</td>\n  </tr>\n  <tr>\n    <td class=\"tg-0lax\"></td>\n    <td class=\"tg-0lax\">(T) has six elements</td>\n  </tr>\n</tbody>\n</table></p>\n<p>The correct option is:</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "(I) $$\\rightarrow(\\mathrm{P})$$; (II) $$\\rightarrow(\\mathrm{S})$$; (III) $$\\rightarrow(\\mathrm{P})$$; (IV) $$\\rightarrow(\\mathrm{S})$$"
+        },
+        {
+          "key": "B",
+          "value": "(I) $$\\rightarrow$$ (P); (II) $$\\rightarrow$$ (P); (III) $$\\rightarrow$$ (T); (IV) $$\\rightarrow$$ (R)"
+        },
+        {
+          "key": "C",
+          "value": "(I) $$\\rightarrow$$ (Q); (II) $$\\rightarrow(\\mathrm{P})$$; (III) $$\\rightarrow$$ (T); (IV) $$\\rightarrow$$ (S)"
+        },
+        {
+          "key": "D",
+          "value": "(I) $$\\rightarrow(\\mathrm{Q})$$; (II) $$\\rightarrow(\\mathrm{S}) ;$$ (III) $$\\rightarrow(\\mathrm{P})$$; (IV) $$\\rightarrow(\\mathrm{R})$$"
+        }
+      ],
+      "answer": "B",
+      "explanation": "Solving all question one by one we get,\n<br/><br/>$$\n\\begin{aligned}\n\\text { (i) } & \\left\\{x \\in\\left[\\frac{-2 \\pi}{3}, \\frac{2 \\pi}{3}\\right], \\cos x+\\sin x=1\\right\\} \\\\\\\\\n& \\cos x+\\sin x=1 \\\\\\\\\n\\Rightarrow \\quad & \\sin \\left(\\frac{\\pi}{4}+x\\right)=\\frac{1}{\\sqrt{2}} \\\\\\\\\n\\Rightarrow & \\frac{\\pi}{4}+x=n \\pi+(-1)^n \\frac{\\pi}{4}\n\\end{aligned}\n$$\n<br/><br/>$$\n\\begin{aligned}\n& \\Rightarrow x=n \\pi+(-1)^n \\frac{\\pi}{4}-\\frac{\\pi}{4} \\\\\\\\\n& \\text { So, } x \\in\\left\\{0, \\frac{\\pi}{2}\\right\\} \\\\\\\\\n& \\therefore x \\text { has } 2 \\text { elements } \\rightarrow P\n\\end{aligned}\n$$\n<br/><br/>$$\n\\begin{aligned}\n& \\text { (ii) }\\left\\{x \\in\\left(\\frac{-5 \\pi}{18}, \\frac{5 \\pi}{18}\\right), \\sqrt{3} \\tan 3 x=1\\right\\} \\\\\\\\\n& \\Rightarrow \\tan 3 x=\\frac{1}{\\sqrt{3}} \\\\\\\\\n& \\Rightarrow x=n \\pi+\\frac{\\pi}{6} \\\\\\\\\n& \\Rightarrow x=\\frac{n \\pi}{3}+\\frac{\\pi}{18} \\\\\\\\\n& \\text { So } x \\in\\left\\{\\frac{\\pi}{18}, \\frac{-5 \\pi}{18}\\right\\} \\\\\\\\\n& \\therefore x \\text { has 2 elements } \\rightarrow P\n\\end{aligned}\n$$\n<br/><br/>$$\n\\begin{aligned}\n& \\text { (iii) }\\left\\{x \\in\\left[\\frac{-6 \\pi}{5}, \\frac{6 \\pi}{5}\\right], 2 \\cos 2 x=\\sqrt{3}\\right\\} \\\\\\\\\n& \\Rightarrow 2 \\cos 2 x=\\sqrt{3} \\\\\\\\\n& \\Rightarrow \\cos 2 x=\\frac{\\sqrt{3}}{2} \\\\\\\\\n& \\Rightarrow 2 x=2 n \\pi \\pm \\frac{\\pi}{6} \\\\\\\\\n& \\Rightarrow x=n \\pi \\pm \\frac{\\pi}{12} \\\\\\\\\n& \\text { So } x \\in\\left\\{ \\pm \\frac{\\pi}{12}, \\pi \\pm \\frac{\\pi}{12},-\\pi \\pm \\frac{\\pi}{12}\\right\\} \\\\\\\\\n& \\therefore x \\text { has } 6 \\text { elements } \\rightarrow \\mathrm{T}\n\\end{aligned}\n$$\n<br/><br/>$$\n\\begin{aligned}\n& \\text { (iv) }\\left\\{x \\in\\left[\\frac{-7 \\pi}{4}, \\frac{7 \\pi}{4}\\right], \\sin x-\\cos x=1\\right\\} \\\\\\\\\n& \\Rightarrow \\sin x-\\cos x=1 \\\\\\\\\n& \\Rightarrow \\sin \\left(x-\\frac{\\pi}{4}\\right)=\\frac{1}{\\sqrt{2}} \\\\\\\\\n& \\Rightarrow x-\\frac{\\pi}{4}=n \\pi+(-1)^n \\frac{\\pi}{4} \\\\\\\\\n& \\Rightarrow x=n \\pi+(-1)^n \\frac{\\pi}{4}+\\frac{\\pi}{4} \\\\\\\\\n& \\text { So, } \\\\\\\\\n& x \\in\\left\\{\\frac{\\pi}{2}, \\frac{-3 \\pi}{2}, \\pi,-\\pi\\right\\} \\\\\\\\\n& \\therefore x \\text { has } 4 \\text { elements } \\rightarrow \\mathrm{R}\n\\end{aligned}\n$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "If the triangle PQR varies, then the minimum value of cos(P + Q) + cos(Q + R) + cos(R + P) is",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$ - {3 \\over 2}$$"
+        },
+        {
+          "key": "B",
+          "value": "$${3 \\over 2}$$"
+        },
+        {
+          "key": "C",
+          "value": "$${5 \\over 3}$$"
+        },
+        {
+          "key": "D",
+          "value": "$$ - {5 \\over 3}$$"
+        }
+      ],
+      "answer": "A",
+      "explanation": "cos(P + Q) + cos(Q + R) + cos(R + P)<br><br>= $$-$$ (cosR + cosP + cosQ)<br><br>Max. of cosP + cosQ + cosR = $${3 \\over 2}$$<br><br>Min. of cos(P + Q) + cos(Q + R) + cos(R + P) is = $$ - {3 \\over 2}$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The value of <br><br>$$\\sum\\limits_{k = 1}^{13} {{1 \\over {\\sin \\left( {{\\pi  \\over 4} + {{\\left( {k - 1} \\right)\\pi } \\over 6}} \\right)\\sin \\left( {{\\pi  \\over 4} + {{k\\pi } \\over 6}} \\right)}}} $$ is equal to ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$3 - \\sqrt 3 $$ "
+        },
+        {
+          "key": "B",
+          "value": "$$2\\left( {3 - \\sqrt 3 } \\right)$$ "
+        },
+        {
+          "key": "C",
+          "value": "$$2\\left( {\\sqrt 3  - 1} \\right)\\,\\,\\,$$ "
+        },
+        {
+          "key": "D",
+          "value": "$$2\\left( {2 - \\sqrt 3 } \\right)$$ "
+        }
+      ],
+      "answer": "C",
+      "explanation": "<p>It is given that,</p>\n<p>$$\\sum\\limits_{k = 1}^{13} {{1 \\over {\\sin \\left( {{\\pi  \\over 4} + {{(k - 1)\\pi } \\over 6}} \\right)\\sin \\left( {{\\pi  \\over 4} + {{k\\pi } \\over 6}} \\right)}}} $$</p>\n<p>Let $$\\alpha  = {\\pi  \\over 4}$$ and $$\\beta  = {\\pi  \\over 6}$$. Therefore,</p>\n<p>$$\\sum\\limits_{k = 1}^{13} {{1 \\over {\\sin (\\alpha  + k\\beta )sin(\\alpha  + (k - 1)\\beta )}}} $$</p>\n<p>$$ = {1 \\over {\\sin \\beta }}\\sum\\limits_{k = 1}^{13} {{{\\sin ((\\alpha  + k\\beta ) - (\\alpha  + (k - 1)\\beta ))} \\over {\\sin (\\alpha  + k\\beta )\\sin (\\alpha  + (k - 1)\\beta )}}} $$</p>\n<p>$$ = {1 \\over {\\sin \\beta }}\\sum\\limits_{k = 1}^{13} {(\\cot (\\alpha  + (k - 1)\\beta ) - \\cot (\\alpha  + k\\beta ))} $$</p>\n<p>$$ = {1 \\over {\\sin \\beta }}\\{ [\\cot (\\alpha ) - \\cot (\\alpha  + \\beta )] + [\\cot (\\alpha  + \\beta ) - \\cot (\\alpha  + 2\\beta )] + ...... + [\\cot (\\alpha  + 12\\beta ) - \\cot (\\alpha  + 13\\beta )]\\} $$</p>\n<p>$$ = {1 \\over {\\sin \\beta }}(\\cot \\alpha  - \\cot (\\alpha  + 13\\beta ))$$</p>\n<p>$$ = {1 \\over {\\sin (\\pi /6)}}\\left( {\\cot {\\pi  \\over 4} - \\cot \\left( {{\\pi  \\over 4} + {{13\\pi } \\over 6}} \\right)} \\right)$$</p>\n<p>$$ = 2(1 - 2 + \\sqrt 3 ) = 2(\\sqrt 3  - 1)$$</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Let $$S = \\left\\{ {x \\in \\left( { - \\pi ,\\pi } \\right):x \\ne 0, \\pm {\\pi  \\over 2}} \\right\\}.$$ The sum of all distinct solutions of the equation $$\\sqrt 3 \\,\\sec x + \\cos ec\\,x + 2\\left( {\\tan x - \\cot x} \\right) = 0$$ in the set S is equal to",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$ - {{7\\pi } \\over 9}$$ "
+        },
+        {
+          "key": "B",
+          "value": "$$ - {{2\\pi } \\over 9}$$"
+        },
+        {
+          "key": "C",
+          "value": "0 "
+        },
+        {
+          "key": "D",
+          "value": "$${{5\\pi } \\over 9}$$ "
+        }
+      ],
+      "answer": "C",
+      "explanation": "Let us consider<br/><br/>\n$$\nS=\\left\\{x \\in(-\\pi, \\pi), x \\neq 0, \\pm \\frac{\\pi}{2}\\right\\}\n$$<br/><br/>\nThe given equation is<br/><br/>\n$$\n\\begin{aligned}\n& \\sqrt{3} \\sec x+\\operatorname{cosec} x+2(\\tan x-\\cot x)=0 \\\\\\\\\n& \\Rightarrow \\frac{\\sqrt{3}}{\\cos x}+\\frac{1}{\\sin x}+2\\left(\\frac{\\sin x}{\\cos x}-\\frac{\\cos x}{\\sin x}\\right)=0 \\\\\\\\\n& \\Rightarrow \\sqrt{3} \\sin x+\\cos x+2\\left(\\sin ^2 x-\\cos ^2 x\\right)=0 \\\\\\\\\n& \\Rightarrow \\sqrt{3} \\sin x+\\cos x=2 \\cos 2 x \\\\\\\\\n& \\Rightarrow \\frac{\\sqrt{3}}{2} \\sin x+\\frac{1}{2} \\cos x=\\cos 2 x \\\\\\\\\n& \\Rightarrow \\cos x \\cos \\frac{\\pi}{3}+\\sin x \\sin \\frac{\\pi}{3}=\\cos 2 x \\\\\\\\\n& \\Rightarrow \\cos 2 x=\\cos \\left(x-\\frac{\\pi}{3}\\right) \\\\\\\\\n& \\Rightarrow 2 x=2 n \\pi \\pm\\left(x-\\frac{\\pi}{3}\\right)  \\quad\\quad(x \\in I)\n\\end{aligned}\n$$<br/><br/>\n<b>Case 1</b>: When<br/><br/>\n$$\n2 x=2 n \\pi+x-\\frac{\\pi}{3},\n$$<br/><br/>\nwe have $x=2 n \\pi-\\frac{\\pi}{3}$.<br/><br/>\nIf $n=0$, we get $x=-\\frac{\\pi}{3}$.<br/><br/>\nIf $n=1$, we get $x=2 \\pi-\\frac{\\pi}{3}$.<br/><br/>\nIf $n=-1, x=-2 \\pi-\\frac{\\pi}{3}$.<br/><br/>\n<b>Case 2</b>: When<br/><br/>\n$2 x=2 n \\pi-x+\\frac{\\pi}{3}$, we get $x=\\frac{2 n \\pi}{3}+\\frac{\\pi}{9}$.<br/><br/>\nIf $n=0$, we get $x=\\frac{\\pi}{9}$.<br/><br/>\nIf $n=1$, we get $x=\\frac{2 \\pi}{3}+\\frac{\\pi}{9}$.<br/><br/>\nIf $n=2$, we get $n=2 x=\\frac{4 \\pi}{3}+\\frac{\\pi}{9}$.<br/><br/>\nIf $n=-1$, we get $x=\\frac{-2 \\pi}{3}+\\frac{\\pi}{9}$.<br/><br/>\nTherefore, the sum of all distinct solutions of the given equation is<br/><br/>\n$$\n\\frac{-\\pi}{3}+\\frac{\\pi}{9}+\\frac{2 \\pi}{3}+\\frac{\\pi}{9}-\\frac{2 \\pi}{3}+\\frac{\\pi}{9}=0\n$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Let $$P = \\{ \\theta :\\sin \\theta  - \\cos \\theta  = \\sqrt 2 \\cos \\theta \\} $$ and $$Q = \\{ \\theta :\\sin \\theta  + \\cos \\theta  = \\sqrt 2 \\sin \\theta \\} $$ be two sets. Then</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$P \\subset Q$$ and $$Q - P \\ne \\emptyset $$"
+        },
+        {
+          "key": "B",
+          "value": "$$Q \\not\\subset P$$"
+        },
+        {
+          "key": "C",
+          "value": "$$P \\not\\subset Q$$"
+        },
+        {
+          "key": "D",
+          "value": "$$P = Q$$"
+        }
+      ],
+      "answer": "D",
+      "explanation": "<p>$$P = \\{ \\theta :\\sin \\theta  - \\cos \\theta  = \\sqrt 2 \\cos \\theta \\} $$</p>\n<p>$$ \\Rightarrow \\cos \\theta \\left( {\\sqrt 2  + 1} \\right) = \\sin \\theta $$</p>\n<p>$$ \\Rightarrow \\tan \\theta  = \\sqrt 2  + 1$$ ..... (i)</p>\n<p>$$Q = \\{ \\theta :\\sin \\theta  + \\cos \\theta  = \\sqrt 2 \\sin \\theta \\} $$</p>\n<p>$$ \\Rightarrow \\sin \\theta \\left( {\\sqrt 2  - 1} \\right) = \\cos \\theta $$</p>\n<p>$$ \\Rightarrow \\tan \\theta  = {1 \\over {\\sqrt 2  - 1}} \\times {{\\sqrt 2  + 1} \\over {\\sqrt 2  + 1}}$$</p>\n<p>$$ = \\left( {\\sqrt 2  + 1} \\right)$$ ...... (ii)</p>\n<p>$$\\therefore$$ $$P = Q$$</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Match the statements/expressions in Column I with the values given in Column II:</p>\n<p><style type=\"text/css\">\n.tg  {border-collapse:collapse;border-spacing:0;}\n.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}\n.tg .tg-7btt{border-color:inherit;font-weight:bold;text-align:center;vertical-align:top}\n.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}\n.tg .tg-fymr{border-color:inherit;font-weight:bold;text-align:left;vertical-align:top}\n</style>\n<table class=\"tg\" style=\"undefined;table-layout: fixed; width: 683px\">\n<colgroup>\n<col style=\"width: 50px\">\n<col style=\"width: 339px\">\n<col style=\"width: 51px\">\n<col style=\"width: 243px\">\n</colgroup>\n<thead>\n  <tr>\n    <th class=\"tg-c3ow\"></th>\n    <th class=\"tg-7btt\">Column I</th>\n    <th class=\"tg-c3ow\"></th>\n    <th class=\"tg-7btt\">Column II</th>\n  </tr>\n</thead>\n<tbody>\n  <tr>\n    <td class=\"tg-7btt\">(A)</td>\n    <td class=\"tg-0pky\">Root(s) of the expression $$2{\\sin ^2}\\theta  + {\\sin ^2}2\\theta  = 2$$</td>\n    <td class=\"tg-7btt\">(P)</td>\n    <td class=\"tg-0pky\">$${\\pi  \\over 6}$$</td>\n  </tr>\n  <tr>\n    <td class=\"tg-7btt\">(B)</td>\n    <td class=\"tg-0pky\">Points of discontinuity of the function $$f(x) = \\left[ {{{6x} \\over \\pi }} \\right]\\cos \\left[ {{{3x} \\over \\pi }} \\right]$$, where $$[y]$$ denotes the largest integer less than or equal to y</td>\n    <td class=\"tg-7btt\">(Q)</td>\n    <td class=\"tg-0pky\">$${\\pi  \\over 4}$$</td>\n  </tr>\n  <tr>\n    <td class=\"tg-7btt\">(C)</td>\n    <td class=\"tg-0pky\">Volume of the parallelopiped with its edges represented by the vectors $$\\widehat i + \\widehat j + \\widehat i + 2\\widehat j$$ and $$\\widehat i + \\widehat j + \\pi \\widehat k$$</td>\n    <td class=\"tg-7btt\">(R)</td>\n    <td class=\"tg-0pky\">$${\\pi  \\over 3}$$</td>\n  </tr>\n  <tr>\n    <td class=\"tg-7btt\">(D)</td>\n    <td class=\"tg-0pky\">Angle between vectors $$\\overrightarrow a $$ and $$\\overrightarrow b $$ where $$\\overrightarrow a $$, $$\\overrightarrow b $$ and $$\\overrightarrow c $$ are unit vectors satisfying $$\\overrightarrow a  + \\overrightarrow b  + \\sqrt 3 \\overrightarrow c  = \\overrightarrow 0 $$</td>\n    <td class=\"tg-7btt\">(S)</td>\n    <td class=\"tg-0pky\">$${\\pi  \\over 2}$$</td>\n  </tr>\n  <tr>\n    <td class=\"tg-fymr\"></td>\n    <td class=\"tg-0pky\"></td>\n    <td class=\"tg-7btt\">(T)</td>\n    <td class=\"tg-0pky\">$$\\pi $$</td>\n  </tr>\n</tbody>\n</table></p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "(A)$$\\to$$(Q), (S); (B)$$\\to$$(P), (R), (S), (T); (C)$$\\to$$(Q); (D)$$\\to$$(T)"
+        },
+        {
+          "key": "B",
+          "value": "(A)$$\\to$$(R), (S); (B)$$\\to$$(P), (R), (S), (T); (C)$$\\to$$(T); (D)$$\\to$$(P)"
+        },
+        {
+          "key": "C",
+          "value": "(A)$$\\to$$(Q), (S); (B)$$\\to$$(P), (R), (S), (T); (C)$$\\to$$(T); (D)$$\\to$$(R)"
+        },
+        {
+          "key": "D",
+          "value": "(A)$$\\to$$(P), (S); (B)$$\\to$$(Q), (R), (S), (T); (C)$$\\to$$(T); (D)$$\\to$$(R)"
+        }
+      ],
+      "answer": "",
+      "explanation": "<p>(a) We have</p>\n<p>$$2{\\sin ^2}\\theta  + 4{\\sin ^2}\\theta {\\cos ^2}\\theta  = 2$$</p>\n<p>$${\\sin ^2}\\theta  + 2{\\sin ^2}\\theta (1 - {\\sin ^2}\\theta ) = 1$$</p>\n<p>$$3{\\sin ^2}\\theta  - 2{\\sin ^4}\\theta  - 1 = 0$$</p>\n<p>$$ \\Rightarrow \\sin \\theta  =  \\pm {1 \\over {\\sqrt 2 }}, \\pm 1$$</p>\n<p>$$ \\Rightarrow \\theta  = {\\pi  \\over 4},{\\pi  \\over 2}$$</p>\n<p>(B) Let $$y = {{3x} \\over \\pi } \\Rightarrow {1 \\over 2} \\le y \\le 3\\forall x \\in \\left[ {{\\pi  \\over 4},\\pi } \\right]$$</p>\n<p>Now, $$f(y) = [2y]\\cos [y]$$.</p>\n<p>The critical points are</p>\n<p>$$y = {1 \\over 2},y = 1,y = {3 \\over 2}$$ and $$y = 3$$</p>\n<p>$$\\Rightarrow$$ points of discontinuity $$\\left\\{ {{\\pi  \\over 6},{\\pi  \\over 3},{\\pi  \\over 2},\\pi } \\right\\}$$.</p>\n<p>(C) $$\\left| {\\matrix{\n   1 & 1 & 0  \\cr \n   1 & 2 & 0  \\cr \n   1 & 1 & \\pi   \\cr \n\n } } \\right| = \\pi  \\Rightarrow $$ volume of parallelepiped = $$\\pi$$.</p>\n<p>(D) We have</p>\n<p>$$\\left| {\\overrightarrow a  + \\overrightarrow b } \\right| = \\sqrt 3 $$</p>\n<p>$$ \\Rightarrow \\sqrt {2 + 2\\cos \\alpha }  = \\sqrt 3 $$</p>\n<p>$$ \\Rightarrow 2 + 2\\cos \\alpha  = 3$$</p>\n<p>$$ \\Rightarrow \\alpha  = {\\pi  \\over 3}$$</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Match the Statements/Expressions in Column I with the Statements/Expressions in Column II.</p>\n<p><style type=\"text/css\">\n.tg  {border-collapse:collapse;border-spacing:0;}\n.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}\n.tg .tg-7btt{border-color:inherit;font-weight:bold;text-align:center;vertical-align:top}\n.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}\n</style>\n<table class=\"tg\" style=\"undefined;table-layout: fixed; width: 477px\">\n<colgroup>\n<col style=\"width: 48px\">\n<col style=\"width: 197px\">\n<col style=\"width: 53px\">\n<col style=\"width: 179px\">\n</colgroup>\n<thead>\n  <tr>\n    <th class=\"tg-7btt\"></th>\n    <th class=\"tg-7btt\">Column I</th>\n    <th class=\"tg-7btt\"></th>\n    <th class=\"tg-7btt\">Column II</th>\n  </tr>\n</thead>\n<tbody>\n  <tr>\n    <td class=\"tg-c3ow\">(A)</td>\n    <td class=\"tg-0pky\">The minimum value of $${{{x^2} + 2x + 4} \\over {x + 2}}$$ is</td>\n    <td class=\"tg-c3ow\">(P)</td>\n    <td class=\"tg-0pky\">0</td>\n  </tr>\n  <tr>\n    <td class=\"tg-c3ow\">(B)</td>\n    <td class=\"tg-0pky\">Let A and B be 3 $$\\times$$ 3 matrices of real numbers, where A is symmetric, B is skew-symmetric and (A + B) (A $$-$$ B) = (A $$-$$ B) (A + B). If (AB)$$^t$$ = ($$-1$$)$$^k$$ AB, where (AB)$$^t$$ is the transpose of the matrix AB, then the possible values of k are</td>\n    <td class=\"tg-c3ow\">(Q)</td>\n    <td class=\"tg-0pky\">1</td>\n  </tr>\n  <tr>\n    <td class=\"tg-c3ow\">(C)</td>\n    <td class=\"tg-0pky\">Let $$a=\\log_3\\log_3 2$$. An integer k satisfying $$1 &lt; {2^{( - k + 3 - a)}} &lt; 2$$, must be less than</td>\n    <td class=\"tg-c3ow\">(R)</td>\n    <td class=\"tg-0pky\">2</td>\n  </tr>\n  <tr>\n    <td class=\"tg-c3ow\">(D)</td>\n    <td class=\"tg-0pky\">If $$\\sin \\theta  = \\cos \\varphi $$, then the possible values of $${1 \\over \\pi }\\left( {\\theta  + \\varphi  - {\\pi  \\over 2}} \\right)$$ are</td>\n    <td class=\"tg-c3ow\">(S)</td>\n    <td class=\"tg-0pky\">3</td>\n  </tr>\n</tbody>\n</table></p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "A - iii; B - ii, iv; C - iii, iv; D - i, iii"
+        },
+        {
+          "key": "B",
+          "value": "A - iii; B - ii; C - iii, iv; D - i, iii"
+        },
+        {
+          "key": "C",
+          "value": "A - ii; B - ii, iv; C - iii, iv; D - i"
+        },
+        {
+          "key": "D",
+          "value": "A - ii; B - ii, iv; C - iii, iv; D - i, iii"
+        }
+      ],
+      "answer": "A",
+      "explanation": "<p>(A) Let $$y = {{{x^2} + 2x + 4} \\over {x + 2}}$$</p>\n<p>$${{dy} \\over {dx}} = {{{x^2} + 4x} \\over {{{(x + 2)}^2}}} = 0$$</p>\n<p>$$x = 0, - 4$$</p>\n<p>$${{{d^2}y} \\over {d{x^2}}} = {8 \\over {{{(x + 2)}^3}}}$$</p>\n<p>At $$x = 0,{{{d^2}y} \\over {d{x^2}}}$$ is true</p>\n<p>$$\\therefore$$ y is min. when $$x = 0$$</p>\n<p>$$\\therefore$$ $${y_{\\min }} = 2$$</p>\n<p>(A) - (iii)</p>\n<p>(B) As A is symmetric and B is skew symmetric matrix</p>\n<p>We should have</p>\n<p>A$$^+$$ = A and B$$^+$$ = $$-$$B ...... (i)</p>\n<p>Also given that</p>\n<p>(A + B) (A $$-$$ B) = (A $$-$$ B) (A + B)</p>\n<p>A$$^2$$ $$-$$ AB + BA $$-$$ B$$^2$$ = A$$^2$$ + AB $$-$$ AB $$-$$ B$$^2$$</p>\n<p>2BA = 2AB or AB = BA ...... (ii)</p>\n<p>Now, given that</p>\n<p>(AB)$$^t$$ = ($$-$$1)$$^k$$AB</p>\n<p>(BA)$$^t$$ = ($$-$$1)$$^k$$AB (Using equation (i))</p>\n<p>$$\\Rightarrow$$ K should be an odd no.</p>\n<p>$$\\therefore$$ B - (ii, iv)</p>\n<p>(C) Given that,</p>\n<p>$$a = {\\log _3}{\\log _3}2$$</p>\n<p>$$ \\Rightarrow {\\log _3}2 = {3^a} \\Rightarrow {{{1_x}} \\over {{{\\log }_2}^3}} = {3^a}$$</p>\n<p>Or $${\\log _2}^3 = {3^{ - a}}$$</p>\n<p>$$3 = {2^{(3 - a)}}$$</p>\n<p>Now, $$ < {2^{( - k + 3 - a)}} < 2 \\Rightarrow 1 < {2^{ - 2}}.\\,{2^{3 - a}} < 2$$</p>\n<p>$$ \\Rightarrow 1 < {2^{ - k}}\\,.\\,3 < 2$$ (using eq. (i))</p>\n<p>$$ = {1 \\over 3}\\,.\\, < {2^{ - k}} < {2 \\over 3} \\Rightarrow {3 \\over 2} < {2^k} < 3$$</p>\n<p>$$ \\Rightarrow k = 1$$</p>\n<p>$$\\therefore$$ k is less than 2 and 3.</p>\n<p>$$\\therefore$$ (C) - (iii, iv)</p>\n<p>(D) Given that,</p>\n<p>$$\\sin \\theta  = \\cos \\phi $$</p>\n<p>$$\\cos \\left( {{\\pi  \\over 2} - \\theta } \\right) = \\cos \\phi $$</p>\n<p>$$ = {\\pi  \\over 2} - \\theta  = 2n\\pi  \\pm \\phi ,n \\in Z$$</p>\n<p>$$ \\Rightarrow \\theta  \\pm \\phi  - {\\pi  \\over 2} =  - 2n\\pi $$</p>\n<p>$$ = {1 \\over \\pi }\\left( {\\theta  \\pm \\phi  - {\\pi  \\over 2}} \\right) =  - 2n$$</p>\n<p>$$\\therefore$$ Here, possible value of $${1 \\over \\pi }\\left( {\\theta  \\pm \\phi  - {\\pi  \\over 2}} \\right)$$ are 0 and 2 for $$n = 0, - 1$$</p>\n<p>$$\\therefore$$ (D) - p, r</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The number of solutions of the pair of equations\n$$$\\,2{\\sin ^2}\\theta  - \\cos 2\\theta  = 0$$$\n$$$2co{s^2}\\theta  - 3\\sin \\theta  = 0$$$\n<p>in the interval $$\\left[ {0,2\\pi } \\right]$$</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "zero "
+        },
+        {
+          "key": "B",
+          "value": "one "
+        },
+        {
+          "key": "C",
+          "value": "two "
+        },
+        {
+          "key": "D",
+          "value": "four "
+        }
+      ],
+      "answer": "C",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The values of $$\\theta  \\in \\left( {0,2\\pi } \\right)$$ for which $$2\\,{\\sin ^2}\\theta  - 5\\,\\sin \\theta  + 2 &gt; 0,$$ are",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$\\left( {0,{\\pi  \\over 6}} \\right)\\, \\cup \\,\\left( {{{5\\pi } \\over 6},2\\pi } \\right)$$ "
+        },
+        {
+          "key": "B",
+          "value": "$$\\,\\left( {{\\pi  \\over 8},{{5\\pi } \\over 6}} \\right)$$ "
+        },
+        {
+          "key": "C",
+          "value": "$$\\left( {0,{\\pi  \\over 8}} \\right)\\, \\cup \\,\\left( {{\\pi  \\over 6},{{5\\pi } \\over 6}} \\right)$$ v"
+        },
+        {
+          "key": "D",
+          "value": "$$\\,\\left( {{{41\\pi } \\over {48}},\\,\\pi } \\right)$$ "
+        }
+      ],
+      "answer": "A",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Let $$\\theta  \\in \\left( {0,{\\pi  \\over 4}} \\right)$$ and $${t_1} = {\\left( {\\tan \\theta } \\right)^{\\tan \\theta }},\\,\\,\\,\\,{t_2} = \\,\\,{\\left( {\\tan \\theta } \\right)^{\\cot \\theta }}$$, $${t_3}\\, = \\,\\,{\\left( {\\cot \\theta } \\right)^{\\tan \\theta }}$$ and $${t_4}\\, = \\,\\,{\\left( {\\cot \\theta } \\right)^{\\cot \\theta }},$$then",
+      "options": [
+        {
+          "key": "A",
+          "value": "$${t_1} &gt; {t_2} &gt; {t_3} &gt; {t_4}$$ "
+        },
+        {
+          "key": "B",
+          "value": "$${t_4} &gt; {t_3} &gt; {t_1} &gt; {t_2}$$ "
+        },
+        {
+          "key": "C",
+          "value": "$${t_3} &gt; {t_1} &gt; {t_2} &gt; {t_4}$$ "
+        },
+        {
+          "key": "D",
+          "value": "$${t_2} &gt; {t_3} &gt; {t_1} &gt; {t_4}$$ "
+        }
+      ],
+      "answer": "B",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "$$\\cos \\left( {\\alpha  - \\beta } \\right) = 1$$ and $$\\,\\cos \\left( {\\alpha  + \\beta } \\right) = 1/e$$ where $$\\alpha ,\\,\\beta  \\in \\left[ { - \\pi ,\\pi } \\right].$$ \n<br>Paris of $$\\alpha ,\\,\\beta $$ which satisfy both the equations is/are<br>",
+      "options": [
+        {
+          "key": "A",
+          "value": "0 "
+        },
+        {
+          "key": "B",
+          "value": "1 "
+        },
+        {
+          "key": "C",
+          "value": "2 "
+        },
+        {
+          "key": "D",
+          "value": "4 "
+        }
+      ],
+      "answer": "D",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Given both $$\\theta $$ and $$\\phi $$ are acute angles and $$\\sin \\,\\theta  = {1 \\over 2},\\,$$ $$\\cos \\,\\phi  = {1 \\over 3},$$ then the value of $$\\theta  + \\phi $$ belongs to ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$\\left( {{\\pi  \\over 3},\\left. {{\\pi  \\over 2}} \\right]} \\right.$$ "
+        },
+        {
+          "key": "B",
+          "value": "$$\\left( {{\\pi  \\over 2},{{2\\pi } \\over 3}} \\right)$$ "
+        },
+        {
+          "key": "C",
+          "value": "$$\\left( {{{2\\pi } \\over 3},\\left. {{{5\\pi } \\over 6}} \\right]} \\right.$$ "
+        },
+        {
+          "key": "D",
+          "value": "$$\\left( {{{5\\pi } \\over 6},\\pi } \\right]$$ "
+        }
+      ],
+      "answer": "B",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The number of integral values of $$k$$ for which the equation $$7\\cos x + 5\\sin x = 2k + 1$$ has a solution  is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "4"
+        },
+        {
+          "key": "B",
+          "value": "8"
+        },
+        {
+          "key": "C",
+          "value": "10 "
+        },
+        {
+          "key": "D",
+          "value": "12 "
+        }
+      ],
+      "answer": "B",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The number of distinct real roots of $$\\left| {\\matrix{\n   {\\sin x} &amp; {\\cos x} &amp; {\\cos x}  \\cr \n   {\\cos x} &amp; {\\sin x} &amp; {\\cos x}  \\cr \n   {\\cos x} &amp; {\\cos x} &amp; {\\sin x}  \\cr \n\n } } \\right|\\,$$ \n<br>$$\\, = 0$$  in the interval $$ - {\\pi  \\over 4} \\le x \\le {\\pi  \\over 4}$$ is \n",
+      "options": [
+        {
+          "key": "A",
+          "value": "0 "
+        },
+        {
+          "key": "B",
+          "value": "2 "
+        },
+        {
+          "key": "C",
+          "value": "1 "
+        },
+        {
+          "key": "D",
+          "value": "3 "
+        }
+      ],
+      "answer": "C",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The maximum value of $$\\left( {\\cos {\\alpha _1}} \\right).\\left( {\\cos {\\alpha _2}} \\right).....\\left( {\\cos {\\alpha _n}} \\right),$$  under the restrictions <br>$$0 \\le {\\alpha _1},{\\alpha _2},....,{\\alpha _n} \\le {\\pi  \\over 2}$$ vand $$\\left( {\\cot {\\alpha _1}} \\right).\\left( {\\cot {\\alpha _2}} \\right)....\\left( {\\cot {\\alpha _n}} \\right) = 1$$  is\n",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$1/{2^{n/2}}$$ "
+        },
+        {
+          "key": "B",
+          "value": "$$1/{2^n}$$ "
+        },
+        {
+          "key": "C",
+          "value": "$$1/2n\\,$$ "
+        },
+        {
+          "key": "D",
+          "value": "1 "
+        }
+      ],
+      "answer": "A",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "If $$\\alpha  + \\beta  = \\pi /2$$ and $$\\beta  + \\gamma  = \\alpha ,$$ then $$\\tan \\,\\alpha \\,$$ equals",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$2\\left( {\\tan \\beta  + \\tan \\gamma } \\right)$$ "
+        },
+        {
+          "key": "B",
+          "value": "$$\\,\\tan \\beta  + \\tan \\gamma $$ "
+        },
+        {
+          "key": "C",
+          "value": "$$\\tan \\beta  + 2\\tan \\gamma $$ "
+        },
+        {
+          "key": "D",
+          "value": "$$2\\tan \\beta  + \\tan \\gamma $$ "
+        }
+      ],
+      "answer": "C",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Let $$f\\left( \\theta  \\right) = \\sin \\theta \\left( {\\sin \\theta  + \\sin 3\\theta } \\right)$$. Then $$f\\left( \\theta  \\right)$$ is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$ \\ge 0\\,\\,$$ only when $$\\theta  \\ge 0$$ "
+        },
+        {
+          "key": "B",
+          "value": "$$ \\le 0$$ for all real $$\\theta $$ "
+        },
+        {
+          "key": "C",
+          "value": "$$ \\ge 0$$ for all real $$\\theta $$ "
+        },
+        {
+          "key": "D",
+          "value": "$$ \\le 0$$ only when $$\\theta  \\le 0$$ "
+        }
+      ],
+      "answer": "C",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "In a triangle $$PQR,\\angle R = \\pi /2$$. If $$\\,\\,\\tan \\left( {P/2} \\right)$$  and $$\\tan \\left( {Q/2} \\right)$$ are the roots of the equation $$a{x^2} + bx + c = 0\\left( {a \\ne 0} \\right)$$ then.",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$a + b = c$$ "
+        },
+        {
+          "key": "B",
+          "value": "$$a + c = b$$ "
+        },
+        {
+          "key": "C",
+          "value": "$$b + c = a$$ "
+        },
+        {
+          "key": "D",
+          "value": "$$b = c$$ "
+        }
+      ],
+      "answer": "A",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The number of values of $$x\\,\\,$$ in the interval $$\\left[ {0,\\,5\\pi } \\right]$$ satisfying the equation $$3\\,{\\sin ^2}x - 7\\,\\sin \\,x + 2 = 0$$ is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "0 "
+        },
+        {
+          "key": "B",
+          "value": "5 "
+        },
+        {
+          "key": "C",
+          "value": "6 "
+        },
+        {
+          "key": "D",
+          "value": "10"
+        }
+      ],
+      "answer": "C",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Which of the following number(s) is /are rational?",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$\\sin {\\mkern 1mu} {15^ \\circ }$$"
+        },
+        {
+          "key": "B",
+          "value": "$$\\cos {\\mkern 1mu} {15^ \\circ }$$ "
+        },
+        {
+          "key": "C",
+          "value": "$$\\sin {\\mkern 1mu} {15^ \\circ }{\\mkern 1mu} \\cos {\\mkern 1mu} {15^ \\circ }$$ "
+        },
+        {
+          "key": "D",
+          "value": "$$\\sin {\\mkern 1mu} {15^ \\circ }{\\mkern 1mu} \\cos {\\mkern 1mu} {75^ \\circ }$$ "
+        }
+      ],
+      "answer": "C",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "$${\\sec ^2}\\theta  = {{4xy} \\over {{{\\left( {x + y} \\right)}^2}}}\\,$$ is true if and only if ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$x + y \\ne 0\\,$$ "
+        },
+        {
+          "key": "B",
+          "value": "$$x = y,\\,x \\ne 0$$ "
+        },
+        {
+          "key": "C",
+          "value": "$$x = y\\,$$ "
+        },
+        {
+          "key": "D",
+          "value": "$$x \\ne 0,\\,y \\ne 0$$ "
+        }
+      ],
+      "answer": "B",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The minimum value of the expression $$\\sin \\,\\alpha  + \\sin \\,\\beta \\, + \\sin \\,\\gamma ,\\,$$  where $$\\alpha ,\\,\\beta ,\\,\\gamma $$ are real numbers satisfying $$\\alpha  + \\beta  + \\gamma  = \\pi $$ is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "positive "
+        },
+        {
+          "key": "B",
+          "value": "zero "
+        },
+        {
+          "key": "C",
+          "value": "negative "
+        },
+        {
+          "key": "D",
+          "value": "-3 "
+        }
+      ],
+      "answer": "C",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The general values of $$\\theta $$ satisfying the equation $$2{\\sin ^2}\\theta  - 3\\sin \\theta  - 2 = 0$$ is",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$n\\pi  + {\\left( { - 1} \\right)^n}\\pi /6$$ "
+        },
+        {
+          "key": "B",
+          "value": "$$n\\pi  + {\\left( { - 1} \\right)^n}\\pi /2 $$ "
+        },
+        {
+          "key": "C",
+          "value": "$$n\\pi  + {\\left( { - 1} \\right)^n}5\\pi /6$$ "
+        },
+        {
+          "key": "D",
+          "value": "$$n\\pi  + {\\left( { - 1} \\right)^n}7\\pi /6$$ "
+        }
+      ],
+      "answer": "D",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "$$\\,3{\\left( {\\sin x - \\cos x} \\right)^4} + 6{\\left( {\\sin x + \\cos x} \\right)^2} + 4\\left( {{{\\sin }^6}x + {{\\cos }^6}x} \\right) = $$ ",
+      "options": [
+        {
+          "key": "A",
+          "value": "11 "
+        },
+        {
+          "key": "B",
+          "value": "12 "
+        },
+        {
+          "key": "C",
+          "value": "13 "
+        },
+        {
+          "key": "D",
+          "value": "14"
+        }
+      ],
+      "answer": "C",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Let $$2{\\sin ^2}x + 3\\sin x - 2 &gt; 0$$ and $${x^2} - x - 2 &lt; 0$$ ($$x$$ is measured in radians). Then $$x$$ lies in the interval",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$\\left( {{\\pi  \\over 6},\\,{{5\\pi } \\over 6}} \\right)\\,\\,$$ "
+        },
+        {
+          "key": "B",
+          "value": "$$\\left( { - 1,\\,{{5\\pi } \\over 6}} \\right)$$ "
+        },
+        {
+          "key": "C",
+          "value": "$$\\left( { - 1,\\,2} \\right)\\,\\,\\,$$ "
+        },
+        {
+          "key": "D",
+          "value": "$$\\left( {{\\pi  \\over 6},\\,2} \\right)$$ "
+        }
+      ],
+      "answer": "D",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "If $$\\omega \\,$$ is an imaginary cube root of unity then the value of $$\\sin \\left\\{ {\\left( {{\\omega ^{10}} + {\\omega ^{23}}} \\right)\\pi  - {\\pi  \\over 4}} \\right\\}$$ is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$ - {{\\sqrt 3 } \\over 2}\\,$$ "
+        },
+        {
+          "key": "B",
+          "value": "$$ - {1 \\over {\\sqrt 2 }}$$ "
+        },
+        {
+          "key": "C",
+          "value": "$${1 \\over {\\sqrt 2 }}$$ "
+        },
+        {
+          "key": "D",
+          "value": "$${{\\sqrt 3 } \\over 2}$$ "
+        }
+      ],
+      "answer": "C",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Let $$n$$  be a positive integer such that $$\\sin {\\pi  \\over {2n}} + \\cos {\\pi  \\over {2n}} = {{\\sqrt n } \\over 2}.$$ Then ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$6 \\le n \\le 8$$ "
+        },
+        {
+          "key": "B",
+          "value": "$$4 &lt; n \\le 8$$ "
+        },
+        {
+          "key": "C",
+          "value": "$$4 \\le n \\le 8$$"
+        },
+        {
+          "key": "D",
+          "value": "$$4 &lt; n &lt; 8$$ "
+        }
+      ],
+      "answer": "D",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Let $$0 &lt; x &lt; {\\pi  \\over 4}$$ then $$\\left( {\\sec 2x - \\tan 2x} \\right)$$ equals",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$\\tan \\left[ {x - {\\pi  \\over 4}} \\right]$$ "
+        },
+        {
+          "key": "B",
+          "value": "$$\\tan \\left[ {{\\pi  \\over 4} - x} \\right]$$ "
+        },
+        {
+          "key": "C",
+          "value": "$$\\tan \\left[ {x +  {\\pi  \\over 4}} \\right]$$"
+        },
+        {
+          "key": "D",
+          "value": "$${\\tan ^2}\\left[ {x + {\\pi  \\over 4}} \\right]$$ "
+        }
+      ],
+      "answer": "B",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Number of solutions of the equation $$\\tan x + \\sec x = 2\\cos x\\,$$ lying in the interval $$\\left[ {0,2\\pi } \\right]$$ is:",
+      "options": [
+        {
+          "key": "A",
+          "value": "0 "
+        },
+        {
+          "key": "B",
+          "value": "1 "
+        },
+        {
+          "key": "C",
+          "value": "2 "
+        },
+        {
+          "key": "D",
+          "value": "3"
+        }
+      ],
+      "answer": "C",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "In this questions there are entries in columns 1 and 2. Each entry in column 1 is related to exactly one entry in column 2. Write the correct letter from column 2 against the entry number in column 1 in your answer book.\n<p>$${{\\sin \\,3\\alpha } \\over {\\cos 2\\alpha }}$$ is</p> \n<p><b>Column $${\\rm I}$$</b>\n</p><p>(A) positive</p>\n<p>(B) negative</p> \n\n<p><b>Column $${\\rm I}$$$${\\rm I}$$</b>\n</p><p>(p) $$\\left( {{{13\\pi } \\over {48}},{{14\\pi } \\over {48}}} \\right)$$ </p>\n<p>(q) $$\\left( {{{14\\pi } \\over {48}},\\,{{18\\pi } \\over {48}}} \\right)$$ </p>\n<p>(r) $$\\left( {{{18\\pi } \\over {48}},\\,{{23\\pi } \\over {48}}} \\right)$$ </p>\n<p>(s) $$\\left( {0,\\,{\\pi  \\over 2}} \\right)$$</p> \n<p><b>Options:-</b></p>\n",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$\\left( A \\right) - r,\\,\\left( B \\right) - q$$ "
+        },
+        {
+          "key": "B",
+          "value": "$$\\left( A \\right) - r,\\,\\left( B \\right) - p$$ "
+        },
+        {
+          "key": "C",
+          "value": "$$\\left( A \\right) - s,\\,\\left( B \\right) - r$$ "
+        },
+        {
+          "key": "D",
+          "value": "$$\\left( A \\right) - p,\\,\\left( B \\right) - q$$ "
+        }
+      ],
+      "answer": "B",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The equation $$\\left( {\\cos p - 1} \\right){x^2} + \\left( {\\cos p} \\right)x + \\sin p = 0\\,$$ \nIn the variable x, has real roots. Then p can take any value in the interval",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$\\left( {0,2\\pi } \\right)\\,$$ "
+        },
+        {
+          "key": "B",
+          "value": "$$\\left( { - \\pi ,0} \\right)\\,\\,\\,$$ "
+        },
+        {
+          "key": "C",
+          "value": "$$\\left[ { - {\\pi  \\over 2},{\\pi  \\over 2}} \\right]\\,$$ "
+        },
+        {
+          "key": "D",
+          "value": "$$\\left( {0,\\pi } \\right)$$ "
+        }
+      ],
+      "answer": "D",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The general solutions of $$\\,\\sin x - 3\\sin 2x + \\sin 3x = \\cos x - 3\\cos 2x + \\cos 3x$$ is\n",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$n\\pi  + {\\pi  \\over 8}$$ "
+        },
+        {
+          "key": "B",
+          "value": "$${{n\\pi } \\over 2} + {\\pi  \\over 8}$$ "
+        },
+        {
+          "key": "C",
+          "value": "$${\\left( { - 1} \\right)^n}{{n\\pi } \\over 2} + {\\pi  \\over 8}\\,\\,$$ "
+        },
+        {
+          "key": "D",
+          "value": "$$2n\\pi  + {\\cos ^{ - 1}}{3 \\over 2}$$ "
+        }
+      ],
+      "answer": "B",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The value of the expression $$\\sqrt 3 \\,\\cos \\,ec\\,{20^0} - \\sec \\,{20^0}$$ is equal to ",
+      "options": [
+        {
+          "key": "A",
+          "value": "2 "
+        },
+        {
+          "key": "B",
+          "value": "$$2\\sin {20^0}/\\sin {40^0}$$ "
+        },
+        {
+          "key": "C",
+          "value": "4 "
+        },
+        {
+          "key": "D",
+          "value": "$$4\\sin {20^0}/\\sin {40^0}$$ "
+        }
+      ],
+      "answer": "C",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The number of all possible triplets $$\\left( {{a_1},\\,{a_2},\\,{a_3}} \\right)$$ such that $${a_1} + {a_2}\\,\\,\\cos \\left( {2x} \\right) + {a_3}{\\sin ^2}\\left( x \\right) = 0\\,$$ for all $$x$$ is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "zero "
+        },
+        {
+          "key": "B",
+          "value": "one "
+        },
+        {
+          "key": "C",
+          "value": "three "
+        },
+        {
+          "key": "D",
+          "value": "infinite "
+        }
+      ],
+      "answer": "D",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The expression $$2\\left[ {{{\\sin }^6}\\left( {{\\pi  \\over 2} + \\alpha } \\right) + {{\\sin }^6}\\left( {5\\pi  - \\alpha } \\right)} \\right]$$ is equal to ",
+      "options": [
+        {
+          "key": "A",
+          "value": "0 "
+        },
+        {
+          "key": "B",
+          "value": "1 "
+        },
+        {
+          "key": "C",
+          "value": "3 "
+        },
+        {
+          "key": "D",
+          "value": "$$\\sin \\,4\\,\\alpha  + \\cos \\,6\\,\\alpha \\,\\,\\,\\,$$ "
+        }
+      ],
+      "answer": "B",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "$$\\left( {1 + \\cos {\\pi  \\over 8}} \\right)\\left( {1 + \\cos {{3\\pi } \\over 8}} \\right)\\left( {1 + \\cos {{5\\pi } \\over 8}} \\right)\\left( {1 + \\cos {{7\\pi } \\over 8}} \\right)$$ is equal to",
+      "options": [
+        {
+          "key": "A",
+          "value": "$${1 \\over 2}$$ "
+        },
+        {
+          "key": "B",
+          "value": "$$\\cos {\\pi  \\over 8}$$ "
+        },
+        {
+          "key": "C",
+          "value": "$${1 \\over 8}$$ "
+        },
+        {
+          "key": "D",
+          "value": "$${{1 + \\sqrt 2 } \\over {2\\sqrt 2 }}$$ "
+        }
+      ],
+      "answer": "C",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The general solution of the trigonometric equation sin x+cos x=1 is given by: ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$2n\\pi ;\\,n = 0,\\, \\pm 1,\\, \\pm 2....$$ "
+        },
+        {
+          "key": "B",
+          "value": "$$x = 2n\\pi  + \\pi /2;\\,n = 0,\\, \\pm 1,\\, \\pm 2....$$ "
+        },
+        {
+          "key": "C",
+          "value": "$$x = n\\pi  + {\\left( { - 1} \\right)^n}\\,\\,\\,\\,\\,\\,\\,{\\pi  \\over 4} - {\\pi  \\over 4}$$ ; $$n = 0,\\, \\pm 1,\\, \\pm 2..$$ "
+        },
+        {
+          "key": "D",
+          "value": "none of these "
+        }
+      ],
+      "answer": "C",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The equation $$\\,2{\\cos ^2}{x \\over 2}{\\sin ^2}x = {x^2} + {x^{ - 2}};\\,0 &lt; x \\le {\\pi  \\over 2}$$ has ",
+      "options": [
+        {
+          "key": "A",
+          "value": "no real solution "
+        },
+        {
+          "key": "B",
+          "value": "one real solution "
+        },
+        {
+          "key": "C",
+          "value": "more than one solution "
+        },
+        {
+          "key": "D",
+          "value": "none of these "
+        }
+      ],
+      "answer": "A",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Given $$A = {\\sin ^2}\\theta  + {\\cos ^4}\\theta $$ then for all real values of $$\\theta $$ ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$1 \\le A \\le 2$$ "
+        },
+        {
+          "key": "B",
+          "value": "$${3 \\over 4} \\le A \\le 1$$ "
+        },
+        {
+          "key": "C",
+          "value": "$${13\\over 16} \\le A \\le 1$$"
+        },
+        {
+          "key": "D",
+          "value": "$${3 \\over 4} \\le A \\le {{13} \\over {16}}$$ "
+        }
+      ],
+      "answer": "B",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "If   $$\\alpha  + \\beta  + \\gamma  = 2\\pi ,$$ then ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$tan{\\alpha  \\over 2} + \\tan {\\beta  \\over 2} + \\tan {\\gamma  \\over 2} = \\tan {\\alpha  \\over 2}\\tan {\\beta  \\over 2}\\tan {\\gamma  \\over 2}$$ "
+        },
+        {
+          "key": "B",
+          "value": "$$\\tan {\\alpha  \\over 2}\\tan {\\beta  \\over 2} + \\tan {\\beta  \\over 2}\\tan {\\gamma  \\over 2} + \\tan {\\gamma  \\over 2}\\tan {\\alpha  \\over 2} = 1$$ "
+        },
+        {
+          "key": "C",
+          "value": "$$tan{\\alpha  \\over 2} + \\tan {\\beta  \\over 2} + \\tan {\\gamma  \\over 2} =  - \\tan {\\alpha  \\over 2}\\tan {\\beta  \\over 2}\\tan {\\gamma  \\over 2}$$ "
+        },
+        {
+          "key": "D",
+          "value": "None of these."
+        }
+      ],
+      "answer": "A",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "If $$\\tan \\theta  =  - {4 \\over 3},then\\sin \\theta \\,is\\,$$ ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$ - {4 \\over 5}\\,but\\,not\\,{4 \\over 5}$$ "
+        },
+        {
+          "key": "B",
+          "value": "$$ - {4 \\over 5}\\,or\\,{4 \\over 5}$$ "
+        },
+        {
+          "key": "C",
+          "value": "$${4 \\over 5}\\,\\,but\\,not\\, - {4 \\over 5}$$ "
+        },
+        {
+          "key": "D",
+          "value": "None of these."
+        }
+      ],
+      "answer": "B",
+      "explanation": ""
+    },
+    {
+      "_type": "numerical",
+      "body": "$$\n\\text { Then the inradius of the triangle } A B C \\text { is }\n$$ :",
+      "answer": "0.25",
+      "explanation": "In radius $ r=\\frac{\\Delta}{S}=\\left[\\frac{a}{2 R(\\sin A+\\sin B+\\sin C)}\\right)$\n<br/><br/>$$\n\\begin{aligned}\nr & =\\frac{a}{\\sin \\left(\\frac{\\pi}{2}-2 C\\right) \\sin \\left(\\frac{\\pi}{2}+C\\right)+\\sin C} \\\\\\\\\n& =\\frac{a}{\\cos 2 C+\\cos C+\\sin C} \\\\\\\\\n& =\\frac{a}{\\cos 2 C+\\sqrt{1+\\sin 2 C}} \\\\\\\\\n& =\\frac{\\frac{3 \\sqrt{7}}{16}}{\\sqrt{\\frac{7}{4}}+\\sqrt{\\frac{7}{2}}}=\\frac{1}{4} \\\\\\\\\n\\Rightarrow r & =\\frac{1}{4}=0.25 \\\\\\\\\n\\Rightarrow r & =0.25\n\\end{aligned}\n$$"
+    },
+    {
+      "_type": "numerical",
+      "body": "Let $\\alpha$ and $\\beta$ be real numbers such that $-\\frac{\\pi}{4}<\\beta<0<\\alpha<\\frac{\\pi}{4}$. <br/><br/>If $\\sin (\\alpha+\\beta)=\\frac{1}{3}$ and $\\cos (\\alpha-\\beta)=\\frac{2}{3}$, then the greatest integer less than or equal to\n\n<br/><br/>$$\n\\left(\\frac{\\sin \\alpha}{\\cos \\beta}+\\frac{\\cos \\beta}{\\sin \\alpha}+\\frac{\\cos \\alpha}{\\sin \\beta}+\\frac{\\sin \\beta}{\\cos \\alpha}\\right)^{2}\n$$\n\nis",
+      "answer": "1",
+      "explanation": "<p>Given, $$\\sin (\\alpha  + \\beta ) = {1 \\over 3}$$</p>\n<p>and $$\\cos (\\alpha  - \\beta ) = {2 \\over 3}$$</p>\n<p>Let, $$E = {{\\sin \\alpha } \\over {\\cos \\beta }} + {{\\cos \\beta } \\over {\\sin \\alpha }} + {{\\cos \\alpha } \\over {\\sin \\beta }} + {{\\sin \\beta } \\over {\\cos \\alpha }}$$</p>\n<p>$$ = {{\\sin \\alpha } \\over {\\cos \\beta }} + {{\\cos \\alpha } \\over {\\sin \\beta }} + {{\\cos \\beta } \\over {\\sin \\alpha }} + {{\\sin \\beta } \\over {\\cos \\alpha }}$$</p>\n<p>$$ = {{\\sin \\alpha \\sin \\beta  + \\cos \\alpha \\cos \\beta } \\over {\\sin \\beta \\cos \\beta }} + {{\\cos \\alpha \\cos \\beta  + \\sin \\alpha \\sin \\beta } \\over {\\sin \\alpha \\cos \\alpha }}$$</p>\n<p>$$ = {{\\cos (\\alpha  - \\beta )} \\over {\\sin \\beta \\cos \\beta }} + {{\\cos (\\alpha  - \\beta )} \\over {\\sin \\alpha \\cos \\alpha }}$$</p>\n<p>$$ = \\cos (\\alpha  - \\beta )\\left[ {{2 \\over {2\\sin \\beta \\cos \\beta }} + {2 \\over {2\\sin \\alpha \\cos \\alpha }}} \\right]$$</p>\n<p>$$ = {2 \\over 3}\\left[ {{2 \\over {\\sin 2\\beta }} + {2 \\over {\\sin 2\\alpha }}} \\right]$$</p>\n<p>$$ = {4 \\over 3}\\left[ {{1 \\over {\\sin 2\\beta }} + {1 \\over {\\sin 2\\alpha }}} \\right]$$</p>\n<p>$$ = {4 \\over 3}\\left[ {{{\\sin 2\\alpha  + \\sin 2\\beta } \\over {\\sin 2\\alpha \\sin 2\\beta }}} \\right]$$</p>\n<p>$$ = {{4 \\times 2} \\over 3}\\left[ {{{2\\sin \\left( {{{2\\alpha  + 2\\beta } \\over 2}} \\right)\\cos \\left( {{{2\\alpha  - 2\\beta } \\over 2}} \\right)} \\over {2\\sin 2\\alpha \\sin 2\\beta }}} \\right]$$</p>\n<p>$$ = {{16} \\over 3}\\left[ {{{\\sin (\\alpha  + \\beta )\\cos (\\alpha  - \\beta )} \\over {\\cos (2\\alpha  - 2\\beta ) - cos(2\\alpha  + 2\\beta )}}} \\right]$$</p>\n<p>$$ = {{16} \\over 3}\\left[ {{{{1 \\over 3} \\times {2 \\over 3}} \\over {(2{{\\cos }^2}(\\alpha  - \\beta ) - 1) - (1 - 2{{\\sin }^2}(\\alpha  + \\beta ))}}} \\right]$$</p>\n<p>$$ = {{32} \\over {27}}\\left[ {{1 \\over {2 \\times {4 \\over 9} - 2 + 2 \\times {1 \\over 9}}}} \\right]$$</p>\n<p>$$ = {{32} \\over {27}}\\left[ {{9 \\over {8 - 18 + 2}}} \\right]$$</p>\n<p>$$ = {{32} \\over {27}}\\left[ {{9 \\over { - 8}}} \\right]$$</p>\n<p>$$ =  - {4 \\over 3}$$</p>\n<p>$$\\therefore$$ $${E^2} = {{16} \\over 9} = 1.77$$</p>\n<p>$$ \\Rightarrow [{E^2}] = 1$$</p>"
+    },
+    {
+      "_type": "numerical",
+      "body": "Let f : R $$ \\to $$ R be a differentiable function with f(0) = 1 and satisfying the equation f(x + y) = f(x) f'(y) + f'(x) f(y) for all x, y$$ \\in $$ R.<br><br>Then, the value of log<sub>e</sub>(f(4)) is ...........",
+      "answer": "2",
+      "explanation": "Given, <br><br>$$f(x + y) = f(x)f'(y) + f'(x)f(y),\\,\\forall x,y \\in R$$ and f(0) = 1<br><br>Put x = y = 0, we get<br><br>f(0) = f(0) f'(0) + f'(0) f(0)<br><br>$$ \\Rightarrow 1 = 2f'(0) \\Rightarrow f'(0) = {1 \\over 2}$$<br><br>Put x = x and y = 0, we get<br><br>f(x) = f(x) f'(0) + f'(x) f(0)<br><br>$$ \\Rightarrow f(x) = {1 \\over 2}f(x) + f'(x)$$<br><br>$$ \\Rightarrow f'(x) = {1 \\over 2}f(x) \\Rightarrow {{f'(x)} \\over {f(x)}} = {1 \\over 2}$$<br><br>On integrating, we get<br><br>$$\\log f(x) = {1 \\over 2}x + C$$<br><br>$$ \\Rightarrow f(x) = A{e^{{1 \\over 2}x}}$$, where e<sup>C</sup> = A<br><br>If f(0) = 1, then A = 1<br><br>Hence, $$f(x) = {e^{{1 \\over 2}x}}$$<br><br>$$ \\Rightarrow {\\log _e}f(x) = {1 \\over 2}x$$<br><br>$$ \\Rightarrow {\\log _e}f(4) = {1 \\over 2} \\times 4 = 2$$"
+    },
+    {
+      "_type": "numerical",
+      "body": "The number of distinct solutions of the equation <br/><br/>\n$${5 \\over 4}{\\cos ^2}\\,2x + {\\cos ^4}\\,x + {\\sin ^4}\\,x + {\\cos ^6}\\,x + {\\sin ^6}\\,x\\, = \\,2$$<br/><br/> in the interval $$\\left[ {0,\\,2\\pi } \\right]$$ is",
+      "answer": "8",
+      "explanation": "Given: $\\frac{5}{4} \\cos ^2 2 x+\\cos ^4 x+\\sin ^4 x+\\cos ^6 x+$ $\\sin ^6 x=2$<br/><br/>\n$$\n\\begin{aligned}\n\\Rightarrow & \\frac{5}{4} \\cos ^2 2 x+\\left(\\cos ^2 x\\right)^2+\\left(\\sin ^2 x\\right)^2+\\left(\\cos ^2 x\\right)^3 \\\\\\\\\n& +\\left(\\sin ^2 x\\right)^3=2\\quad\\quad...(i)\n\\end{aligned}\n$$<br/><br/>\nAs we know, $a^2+b^2+2 a b=(a+b)^2$<br/><br/>\n$$\n\\Rightarrow a^2+b^2=(a+b)^2-2 a b\n$$<br/><br/>\nAnd $a^3+b^3+3 a b(a+b)=(a+b)^3$<br/><br/>\n$$\n\\Rightarrow a^3+b^3=(a+b)^3-3 a b(a+b)\n$$<br/><br/>\nSo, equation (i) can be written as<br/><br/>\n$$\n\\begin{aligned}\n& \\frac{5}{4} \\cos ^2 2 x+\\left(\\cos ^2 x+\\sin ^2 x\\right)^2-2\\left(\\cos ^2 x\\right) \\\\\\\\\n&\\left(\\sin ^2 x\\right)+\\left(\\cos ^2 x+\\sin ^2 x\\right)^3-3 \\cos ^2 x \\sin ^2 x \\\\\\\\\n&\\left(\\cos ^2 x+\\sin ^2 x\\right)=2 \\\\\\\\\n& \\Rightarrow \\frac{5}{4} \\cos ^2 2 x+(1)^2-2 \\cos ^2 x \\sin ^2 x+(1)^3 \\\\\\\\\n&-3 \\cos ^2 x \\sin ^2 x(1)=2~~~~\\left\\{\\because \\cos ^2 x+\\sin ^2 x=1\\right\\}\n\\end{aligned}\n$$<br/><br/>\n$$\n\\begin{aligned}\n& \\Rightarrow \\frac{5}{4} \\cos ^2 2 x+2-5 \\cos ^2 x \\sin ^2 x=2 \\\\\\\\\n& \\Rightarrow \\frac{5}{4} \\cos ^2 2 x-5 \\cos ^2 x \\sin ^2 x=0\n\\end{aligned}\n$$<br/><br/>\nAs we know, $\\sin 2 \\theta=2 \\sin \\theta \\cos \\theta$<br/><br/>\n$$\n\\begin{aligned}\n& \\Rightarrow \\frac{5}{4} \\cos ^2 2 x-\\frac{5}{4} \\sin ^2 2 x=0 \\\\\\\\\n& \\because \\cos 2 \\theta=\\cos ^2 \\theta-\\sin ^2 \\theta \\\\\\\\\n& \\Rightarrow \\frac{5}{4} \\cos 4 x=0 \\\\\\\\\n& \\Rightarrow \\cos 4 x=0 \\\\\\\\\n& \\Rightarrow 4 x=2(n+1) \\frac{\\pi}{2}, n \\in \\mathrm{I} \\\\\\\\\n& \\because x \\in[0,2 \\pi]\n\\end{aligned}\n$$<br/><br/>\nSo, possible distinct values of $x$ are $\\frac{\\pi}{8}, \\frac{3 \\pi}{8}, \\frac{5 \\pi}{8}, \\frac{7 \\pi}{8}, \\frac{9 \\pi}{8}, \\frac{11 \\pi}{8}, \\frac{13 \\pi}{8}$ and $\\frac{15 \\pi}{8}$.\n<br/><br/>\nSo, the number of distinct solutions of the given equation are 8 ."
+    },
+    {
+      "_type": "numerical",
+      "body": "The positive integer value of $$n\\, &gt; \\,3$$ satisfying the equation $${1 \\over {\\sin \\left( {{\\pi  \\over n}} \\right)}} = {1 \\over {\\sin \\left( {{{2\\pi } \\over n}} \\right)}} + {1 \\over {\\sin \\left( {{{3\\pi } \\over n}} \\right)}}$$ is ",
+      "answer": "7",
+      "explanation": "<p>We have,</p>\n<p>$${1 \\over {\\sin (\\pi /n)}} - {1 \\over {\\sin (3\\pi /n)}} = {1 \\over {\\sin (2\\pi /n)}}$$</p>\n<p>$$ \\Rightarrow {{\\sin (3\\pi /n) - \\sin (\\pi /n)} \\over {\\sin (\\pi /n)\\sin (3\\pi /n)}} = {1 \\over {\\sin (2\\pi /n)}}{{(2\\sin (\\pi /n)\\cos (2\\pi /n))\\sin (2\\pi /n)} \\over {\\sin (\\pi /n)\\sin (3\\pi /n)}} = 1$$</p>\n<p>$$ \\Rightarrow \\sin {{4\\pi } \\over n} = \\sin {{3\\pi } \\over n} \\Rightarrow {{4\\pi } \\over n} + {{3\\pi } \\over n} = \\pi  \\Rightarrow n = 7$$</p>"
+    },
+    {
+      "_type": "numerical",
+      "body": "The number of values of $$\\theta $$  in the interval, $$\\left( { - {\\pi  \\over 2},\\,{\\pi  \\over 2}} \\right)$$ such \nthat$$\\,\\theta  \\ne {{n\\pi } \\over 5}$$ for $$n = 0,\\, \\pm 1,\\, \\pm 2$$ and $$\\tan \\,\\theta  = \\cot \\,5\\theta \\,$$ as well as $$\\sin \\,2\\theta  = \\cos \\,4 \\theta $$ is",
+      "answer": "3 ",
+      "explanation": "<p>Given, $$\\tan \\theta  = \\cot 5\\theta $$</p>\n<p>$$ \\Rightarrow \\tan \\theta  = \\tan \\left( {{\\pi  \\over 2} - 5\\theta } \\right)$$</p>\n<p>$$ \\Rightarrow {\\pi  \\over 2} - 5\\theta  = n\\pi  + \\theta $$</p>\n<p>$$ \\Rightarrow 6\\theta  = {\\pi  \\over 2} - {{n\\pi } \\over 6}$$</p>\n<p>$$ \\Rightarrow \\theta  = {\\pi  \\over {12}} - {{n\\pi } \\over 6}$$</p>\n<p>Also $$\\cos 4\\theta  = \\sin 2\\theta  = \\cos \\left( {{\\pi  \\over 2} - 2\\theta } \\right)$$</p>\n<p>$$ \\Rightarrow 4\\theta  = 2n\\pi \\, \\pm \\,\\left( {{\\pi  \\over 2} - 2\\theta } \\right)$$</p>\n<p>Taking positive</p>\n<p>$$6\\theta  = 2n\\pi  + {\\pi  \\over 2} \\Rightarrow \\theta  = {{n\\pi } \\over 3} + {\\pi  \\over {12}}$$</p>\n<p>Taking negative</p>\n<p>$$2\\theta  = 2n\\pi  - {\\pi  \\over 2} \\Rightarrow \\theta  = n\\pi  - {\\pi  \\over 4}$$</p>\n<p>Above values of $$\\theta$$ suggests that there are only 3 common solutions.</p>"
+    },
+    {
+      "_type": "numerical",
+      "body": "The maximum value of the expression $${1 \\over {{{\\sin }^2}\\theta  + 3\\sin \\theta \\cos \\theta  + 5{{\\cos }^2}\\theta }}$$ is",
+      "answer": "2",
+      "explanation": "<p>Let</p>\n<p>$$f(\\theta ) = {1 \\over {{{\\sin }^2}\\theta  + 3\\sin \\theta \\cos \\theta  + 5{{\\cos }^2}\\theta }}$$</p>\n<p>Again let</p>\n<p>$$g(\\theta ) = {\\sin ^2}\\theta  + 3\\sin \\theta \\cos \\theta  + 5{\\cos ^2}\\theta $$</p>\n<p>$$ = {{1 - \\cos 2\\theta } \\over 2} + 5\\left( {{{1 + \\cos 2\\theta } \\over 2}} \\right) + {3 \\over 2}\\sin 2\\theta $$</p>\n<p>$$ = 3 + 2\\cos 2\\theta  + {3 \\over 2}\\sin 2\\theta $$</p>\n<p>$$\\therefore$$ $$g{(\\theta )_{\\min }} = 3 - \\sqrt {4 + {9 \\over 4}}  = 3 - {5 \\over 2} = {1 \\over 2}$$</p>\n<p>$$\\therefore$$ $$f(\\theta ) = {1 \\over {g{{(\\theta )}_{\\min }}}} = 2$$</p>"
+    },
+    {
+      "_type": "numerical",
+      "body": "The number of all possible values of $$\\theta $$ where $$0 &lt; \\theta  &lt; \\pi ,$$ for which the system of equations\n$$$\\left( {y + z} \\right)\\cos {\\mkern 1mu} 3\\theta  = \\left( {xyz} \\right){\\mkern 1mu} \\sin 3\\theta $$$\n$$$x\\sin 3\\theta  = {{2\\cos 3\\theta } \\over y} + {{2\\sin 3\\theta } \\over z}$$$\n$$$\\left( {xyz} \\right){\\mkern 1mu} \\sin 3\\theta  = \\left( {y + 2z} \\right){\\mkern 1mu} \\cos 3\\theta  + y{\\mkern 1mu} sin3\\theta $$$\n<p>have a solution $$\\left( {{x_0},{y_0},{z_0}} \\right)$$ with $${y_0}{z_0}{\\mkern 1mu}  \\ne {\\mkern 1mu} 0,$$ is</p>",
+      "answer": "3",
+      "explanation": "<p>View the equation in xyz, y and t.</p>\n<p>We have,</p>\n<p>$$(xyz)\\sin 3\\theta  - y\\cos 3\\theta  - z\\cos 3\\theta  = 0$$</p>\n<p>$$(xyz)\\sin 3\\theta  - 2y\\sin 3\\theta  - 2z\\cos 3\\theta  = 0$$</p>\n<p>$$(xyz)\\sin 3\\theta  - y(\\cos 3\\theta  + \\sin 3\\theta ) - 2z\\cos 3\\theta  = 0$$</p>\n<p>$$xyz \\ne 0$$</p>\n<p>Hence, the equation has non-trivial solution which gives</p>\n<p>$$\\left| {\\matrix{\n   {\\sin 3\\theta } & { - \\cos 3\\theta } & { - \\cos 3\\theta }  \\cr \n   {\\sin 3\\theta } & { - 2\\sin 3\\theta } & { - 2\\cos 3\\theta }  \\cr \n   {\\sin 3\\theta } & { - (\\cos 3\\theta  + \\sin 3\\theta )} & { - 2\\cos 3\\theta }  \\cr \n\n } } \\right| = 0$$</p>\n<p>$$ \\Rightarrow \\sin 3\\theta \\cos 3\\theta (\\sin 3\\theta  - \\cos 3\\theta ) = 0$$</p>\n<p>$$ \\Rightarrow \\sin 3\\theta  = 0$$ then $$xyz = 0$$ (not possible)</p>\n<p>$$\\cos 3\\theta  = 0$$ not possible</p>\n<p>$$\\sin 3\\theta  = \\cos 3\\theta  \\Rightarrow \\tan 3\\theta  = 1$$</p>\n<p>$$3\\theta  = n\\pi  + {\\pi  \\over 4},n \\in z$$</p>\n<p>$$\\theta  = {{n\\pi } \\over 3} + {\\pi  \\over {12}}$$ ; $$\\theta  = {\\pi  \\over {12}},{{5\\pi } \\over {12}},{{9\\pi } \\over {12}}$$</p>\n<p>Thus there are 3 solutions.</p>"
+    }
+  ]
+}

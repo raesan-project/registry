@@ -1,4 +1,4 @@
-use crate::{registry::reg_models, tables};
+use crate::registry::reg_models;
 
 #[derive(Debug, Clone, serde::Serialize, serde::Deserialize)]
 pub struct CreateTestMetadata {
@@ -7,9 +7,9 @@ pub struct CreateTestMetadata {
 
 #[derive(Debug, Clone, serde::Serialize, serde::Deserialize)]
 pub struct TestInput {
-    pub exams: Vec<tables::Exam>,
-    pub subjects: Vec<tables::Subject>,
-    pub chapters: Vec<tables::Chapter>,
+    pub exam: String,
+    pub subjects: Vec<String>,
+    pub chapters: Vec<String>,
     pub format: TestFormatInput,
 }
 
@@ -21,13 +21,7 @@ pub struct TestFormatInput {
 #[derive(Debug, Clone, serde::Serialize, serde::Deserialize)]
 pub struct Test {
     pub id: String,
-    pub name: String,
-    pub date: i64,
-    pub questions: Vec<TestQuestion>,
-}
-
-#[derive(Debug, Clone, serde::Serialize, serde::Deserialize)]
-pub struct TestQuestion {
-    pub id: String,
-    pub body: String,
+    pub exam_name: String,
+    pub time: i64,
+    pub questions: Vec<reg_models::Question>,
 }

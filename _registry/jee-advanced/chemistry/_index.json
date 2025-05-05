@@ -1,0 +1,38 @@
+{
+  "_index": {
+    "name": "Chemistry"
+  },
+  "_children": [
+    "./some-basic-concepts-of-chemistry.json",
+    "./structure-of-atom.json",
+    "./redox-reactions.json",
+    "./gaseous-state.json",
+    "./chemical-equilibrium.json",
+    "./ionic-equilibrium.json",
+    "./solutions.json",
+    "./thermodynamics.json",
+    "./chemical-kinetics-and-nuclear-chemistry.json",
+    "./electrochemistry.json",
+    "./solid-state.json",
+    "./surface-chemistry.json",
+    "./periodic-table-and-periodicity.json",
+    "./chemical-bonding-and-molecular-structure.json",
+    "./isolation-of-elements.json",
+    "./hydrogen.json",
+    "./s-block-elements.json",
+    "./p-block-elements.json",
+    "./d-and-f-block-elements.json",
+    "./coordination-compounds.json",
+    "./salt-analysis.json",
+    "./basics-of-organic-chemistry.json",
+    "./hydrocarbons.json",
+    "./haloalkanes-and-haloarenes.json",
+    "./alcohols-phenols-and-ethers.json",
+    "./aldehydes-ketones-and-carboxylic-acids.json",
+    "./compounds-containing-nitrogen.json",
+    "./polymers.json",
+    "./biomolecules.json",
+    "./chemistry-in-everyday-life.json",
+    "./practical-organic-chemistry.json"
+  ]
+}

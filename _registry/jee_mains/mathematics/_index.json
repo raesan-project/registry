@@ -1,9 +1,0 @@
-{
-  "_index": {
-    "name": "Mathematics"
-  },
-  "_children": [
-    "./complex_numbers.json",
-    "./circle.json"
-  ]
-}

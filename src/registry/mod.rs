@@ -212,7 +212,7 @@ fn map_chapter(
     let chapter_entry_path = path::Path::new(&chapter_entry_path_string);
     if !chapter_entry_path.is_file() {
         return Err(error::Error::InvalidInput(format!(
-            "the provided subject entry path is not a valid file, path: {}",
+            "the provided chapter entry path is not a valid file, path: {}",
             chapter_entry_path_string
         )))?;
     }
@@ -256,7 +256,7 @@ fn map_chapter(
 
         // the chapter_id is only accessible right here so we have to add it to the struct right here
         match &mut curr_question {
-            reg_models::Question::QuestionAnswer(curr_question) => {
+            reg_models::Question::Numerical(curr_question) => {
                 curr_question.chapter_id = curr_chapter.id.clone();
             }
             reg_models::Question::SingleMCQ(curr_question) => {
@@ -291,19 +291,13 @@ fn map_question(question_entry: &serde_json::Value) -> eyre::Result<reg_models::
             .get("_type")
             .ok_or_else(|| {
                 error::Error::NotFound(format!(
-                    "failed to get _children field from the given JSON value, {:#?}",
+                    "failed to get _type field from the given JSON value, {:#?}",
                     question_entry
                 ))
             })?
             .clone(),
     )?;
     match question_entry_type.as_str() {
-        "question_answer" => {
-            let mut curr_question: reg_models::QuestionAnswer =
-                serde_json::from_value(question_entry.clone())?;
-            curr_question.id = question_id.clone();
-            return Ok(reg_models::Question::QuestionAnswer(curr_question));
-        }
         "single_mcq" => {
             let mut curr_question: reg_models::SingleMCQ =
                 serde_json::from_value(question_entry.clone())?;
@@ -314,6 +308,12 @@ fn map_question(question_entry: &serde_json::Value) -> eyre::Result<reg_models::
                 mcq_option.single_mcq_id = curr_question.id.clone();
             }
             return Ok(reg_models::Question::SingleMCQ(curr_question));
+        }
+        "numerical" => {
+            let mut curr_question: reg_models::Numerical =
+                serde_json::from_value(question_entry.clone())?;
+            curr_question.id = question_id.clone();
+            return Ok(reg_models::Question::Numerical(curr_question));
         }
         other => {
             return Err(error::Error::InvalidInput(format!(
@@ -392,10 +392,10 @@ fn insert_question(
     question: reg_models::Question,
 ) -> eyre::Result<(), error::Error> {
     match question {
-        reg_models::Question::QuestionAnswer(qa) => {
-            let db_qa: tables::QuestionAnswer = qa.into();
-            diesel::insert_into(schema::question_answers::table)
-                .values(&db_qa)
+        reg_models::Question::Numerical(numerical) => {
+            let db_numerical: tables::Numerical = numerical.into();
+            diesel::insert_into(schema::numericals::table)
+                .values(&db_numerical)
                 .execute(conn)
                 .map_err(|e| {
                     error::Error::DatabaseError(format!(

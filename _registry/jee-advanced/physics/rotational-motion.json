@@ -1,0 +1,55 @@
+{
+  "_index": {
+    "name": "Rotational Motion"
+  },
+  "_children": [
+    {
+      "_type": "single_mcq",
+      "body": "<p><b>STATEMENT - 1 :</b></p>\n<p>Two cylinders, one hollow (metal) and the other solid (wood) with the same mass and identical dimensions are simultaneously allowed to roll without slipping down an inclined plane from the same height. The hollow cylinder will reach the bottom of the inclined plane first.</p>\n<p>and</p>\n<p><b>STATEMENT - 2 :</b></p>\n<p>By the principle of conservation of energy, the total kinetic energies of both the cylinders are identical when they reach the bottom of the incline.</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "Statement - 1 is True, Statement - 2 is True; Statement - 2 is a correct explanation for Statement - 1"
+        },
+        {
+          "key": "B",
+          "value": "Statement - 1 is True, Statement - 2 is True; Statement - 2 is NOT a correct explanation for Statement - 1"
+        },
+        {
+          "key": "C",
+          "value": "Statement - 1 is True, Statement - 2 is False"
+        },
+        {
+          "key": "D",
+          "value": "Statement - 1 is False, Statement - 2 is True"
+        }
+      ],
+      "answer": "D",
+      "explanation": "<p>The acceleration of a body rolling down an inclined plane in given by</p>\n<p>$$a = {{g\\sin \\theta } \\over {1 + {I \\over {M{R^2}}}}}$$</p>\n<p>For hollow cylinder,</p>\n<p>$${I \\over {M{R^2}}} = {{M{R^2}} \\over {M{R^2}}} = 1$$</p>\n<p>For solid cylinder,</p>\n<p>$${1 \\over {M{R^2}}} = {{{1 \\over 2}M{R^2}} \\over {M{R^2}}} = {1 \\over 2}$$</p>\n<p>$$\\therefore$$ Acceleration of the solid cylinder is more than that of hollow cylinder and therefore solid cylinder will reach the bottom of the inclined plane first.</p>\n<p>$$\\therefore$$ Statement - 1 is False.</p>\n<p>Statement - 2 : In case of rolling, there will be no heat losses. Therefore, total mechanical energy remains conserved. The potential energy, therefore gets converted into kinetic energy. In both the cases, since the initial potential energy is same, the final kinetic energy will also be same. Therefore, statement - 2 is correct.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>STATEMENT 1</p>\n<p>If there is no external torque on a body about its center of mass, then the velocity of the center of mass remains constant.</p>\n<p>Because</p>\n<p>STATEMENT 2</p>\n<p>The linear momentum of an isolated system remains constant.</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "Statement-1 is True, Statement-2 is True; Statement-2 is a correct explanation for Statement-1."
+        },
+        {
+          "key": "B",
+          "value": "Statement-1 is True, Statement-2 is True; Statement-2 is NOT a correct explanation for Statement-1."
+        },
+        {
+          "key": "C",
+          "value": "Statement-1 is True, Statement-2 is False."
+        },
+        {
+          "key": "D",
+          "value": " Statement-1 is False, Statement-2 is True."
+        }
+      ],
+      "answer": "D",
+      "explanation": "<p>Statement 1 : For velocity of centre of mass remains constant, net force acting on body must be zero. Therefore the statement 1 is false.</p>\n<p>Statement 2 : The linear momentum of an isolated system remains constant. The statement is true.</p>"
+    }
+  ]
+}

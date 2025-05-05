@@ -1,0 +1,223 @@
+{
+  "_index": {
+    "name": "Alcohol, Phenols and Ethers"
+  },
+  "_children": [
+    {
+      "_type": "single_mcq",
+      "body": "<p>The products $$\\mathrm{A}$$ and $$\\mathrm{B}$$ obtained in the following reactions, respectively, are</p>\n<p>$$\\begin{aligned}\n& 3 \\mathrm{ROH}+\\mathrm{PCl}_3 \\rightarrow 3 \\mathrm{RCl}+\\mathrm{A} \\\\\n& \\mathrm{ROH}+\\mathrm{PCl}_5 \\rightarrow \\mathrm{RCl}+\\mathrm{HCl}+\\mathrm{B}\n\\end{aligned}$$</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$\\mathrm{POCl}_3$$ and $$\\mathrm{H}_3 \\mathrm{PO}_3$$\n"
+        },
+        {
+          "key": "B",
+          "value": "$$\\mathrm{POCl}_3$$ and $$\\mathrm{H}_3 \\mathrm{PO}_4$$\n"
+        },
+        {
+          "key": "C",
+          "value": "$$\\mathrm{H}_3 \\mathrm{PO}_4$$ and $$\\mathrm{POCl}_3$$\n"
+        },
+        {
+          "key": "D",
+          "value": "$$\\mathrm{H}_3 \\mathrm{PO}_3$$ and $$\\mathrm{POCl}_3$$"
+        }
+      ],
+      "answer": "D",
+      "explanation": "<p>Let's analyze the given reactions and determine the products $$\\mathrm{A}$$ and $$\\mathrm{B}$$.</p>\n\n<p><strong>Reaction with PCl<sub>3</sub>:</strong></p>\n\n<p>When an alcohol ($$\\mathrm{ROH}$$) reacts with phosphorus trichloride ($$\\mathrm{PCl}_3$$), the hydroxyl group ($$\\mathrm{OH}$$) of the alcohol is replaced by a chloro group ($$\\mathrm{Cl}$$), resulting in the formation of an alkyl chloride ($$\\mathrm{RCl}$$). Additionally, the reaction produces phosphorous acid as a byproduct. This can be represented as:</p>\n\n<blockquote>\n\n<p>$$3 \\mathrm{ROH} + \\mathrm{PCl}_3 \\rightarrow 3 \\mathrm{RCl} + \\mathrm{H}_3\\mathrm{PO}_3$$</p>\n\n</blockquote>\n\n<p>Here, $$\\mathrm{A}$$ is $$\\mathrm{H}_3\\mathrm{PO}_3$$ (phosphorous acid).</p>\n\n<p><strong>Reaction with PCl<sub>5</sub>:</strong></p>\n\n<p>When an alcohol reacts with phosphorus pentachloride ($$\\mathrm{PCl}_5$$), it also replaces the hydroxyl group with a chloro group. The reaction differs slightly in the byproducts; phosphorus oxychloride ($$\\mathrm{POCl}_3$$) and hydrogen chloride ($$\\mathrm{HCl}$$) are produced:</p>\n\n<blockquote>\n\n<p>$$\\mathrm{ROH} + \\mathrm{PCl}_5 \\rightarrow \\mathrm{RCl} + \\mathrm{HCl} + \\mathrm{POCl}_3$$</p>\n\n</blockquote>\n\n<p>Here, $$\\mathrm{B}$$ is $$\\mathrm{POCl}_3$$ (phosphorus oxychloride).</p>\n\n<p>Thus, in the reactions provided:</p>\n\n<ul>\n\n<li>$$\\mathrm{A} = \\mathrm{H}_3\\mathrm{PO}_3$$</li>\n\n<li>$$\\mathrm{B} = \\mathrm{POCl}_3$$</li>\n\n</ul>\n\n<p>Matching these findings against the provided options, we see that Option D correctly identifies $$\\mathrm{A}$$ as $$\\mathrm{H}_3\\mathrm{PO}_3$$ and $$\\mathrm{B}$$ as $$\\mathrm{POCl}_3$$:</p>\n\n<p>Option D: $$\\mathrm{H}_3 \\mathrm{PO}_3$$ and $$\\mathrm{POCl}_3$$</p>\n\n<p>This is the correct answer.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Given below are two statements:</p>\n<p>Statement I : In Lucas test, primary, secondary and tertiary alcohols are distinguished on the basis of their reactivity with conc. HCl + ZnCl<sub>2</sub>, known as Lucas Reagent.</p>\n<p>Statement II : Primary alcohols are most reactive and immediately produce turbidity at room temperature on reaction with Lucas Reagent.</p>\n<p>\n<p>In the light of the above statements, choose the most appropriate answer from the options given below:</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "Both Statement I and Statement II are correct"
+        },
+        {
+          "key": "B",
+          "value": "Both Statement I and Statement II are incorrect"
+        },
+        {
+          "key": "C",
+          "value": "Statement I is correct but Statement II is incorrect"
+        },
+        {
+          "key": "D",
+          "value": "Statement I is incorrect but Statement II is correct"
+        }
+      ],
+      "answer": "C",
+      "explanation": "<p>Primary, secondary and tertiary alcohols can be differentiated by their reaction with (HCl + anhy ZnCl<sub>2</sub>) Lucas reagent</p>\n<p>$$\\bullet$$ 3$$^\\circ$$ alcohol $$\\buildrel {ZnC{l_2} + HCl} \\over\n \\longrightarrow $$ Immediate turbidity at room temperature</p>\n<p>$$\\bullet$$ 2$$^\\circ$$ alcohol $$\\buildrel {ZnC{l_2} + HCl} \\over\n \\longrightarrow $$ Turbidity after 5 minutes at room temperature</p>\n<p>$$\\bullet$$ 1$$^\\circ$$ alcohol $$\\buildrel {ZnC{l_2} + HCl} \\over\n \\longrightarrow $$ Do not gives turbidity at room temperature</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Which of the following compounds can be used as antifreeze in automobile radiators? ",
+      "options": [
+        {
+          "key": "A",
+          "value": "Methyl alcohol"
+        },
+        {
+          "key": "B",
+          "value": "Glycol"
+        },
+        {
+          "key": "C",
+          "value": "Nitrophenol"
+        },
+        {
+          "key": "D",
+          "value": "Ethyl alcohol"
+        }
+      ],
+      "answer": "B",
+      "explanation": "Glycol is used as an antifreeze in automobiles."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Given are cyclohexanol (I), acetic acid (II), 2, 4, 6-trinitrophenol (III) and phenol (IV). In these the order of decreasing acidic character will be ",
+      "options": [
+        {
+          "key": "A",
+          "value": "III &gt; II &gt; IV &gt; I"
+        },
+        {
+          "key": "B",
+          "value": "II &gt; III &gt; I &gt; IV"
+        },
+        {
+          "key": "C",
+          "value": "II &gt; III &gt; IV &gt; I"
+        },
+        {
+          "key": "D",
+          "value": "III &gt; IV &gt; II &gt; I"
+        }
+      ],
+      "answer": "A",
+      "explanation": "As we know that phenols and carboxylic\nacids are more acidic than aliphatic alcohols thus\ncyclohexanol is least acidic.\n<br><br>On the other hand III is more acidic than IV because\nof the presence of three highly electron with\ndrawing NO<sub>2</sub> groups on the benzene ring which\nmakes the OH bond extremely polarized. This\nfacilitates the release of H<sup>+</sup>.\n<br><br>In acetic acid the electron withdrawing $$ - \\mathop C\\limits_|  = O$$\n<br><br>group polarizes the O-H bond and increases the\nacid strength.\n<br><br>Thus, acetic acid is more acidic than phenol or\ncyclohexanol.\n<br><br>Thus, the order of acidic strength will be\n<br><br> III &gt; II &gt; IV &gt; I"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Among the following four compounds \n<br>(i)&nbsp;&nbsp;Phenol\n<br>(ii)&nbsp;&nbsp;Methyl phenol\n<br>(iii)&nbsp;&nbsp;<i>Meta</i>-nitrophenol\n<br>(iv)&nbsp;&nbsp;<i>Para</i>-nitrophenol\n<br><br>The acidity order is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "(iv)  &gt;  (iii)  &gt;  (i)  &gt; (ii)"
+        },
+        {
+          "key": "B",
+          "value": "(iii) &gt; (iv) &gt; (i) &gt; (ii)"
+        },
+        {
+          "key": "C",
+          "value": "(i) &gt; (iv) &gt; (iii) &gt; (ii)"
+        },
+        {
+          "key": "D",
+          "value": "(ii) &gt; (i) &gt; (iii) &gt; (iv)"
+        }
+      ],
+      "answer": "A",
+      "explanation": "In phenols, the presence of electron\nreleasing groups decrease the acidity, whereas\npresence of electron withdrawing groups increase\nthe acidity, compared to phenol. <br><br>Among the meta\nand para-nitrophenols, the latter is more acidic as\nthe presence of –NO<sub>2</sub>\n group at para position\nstabilises the phenoxide ion to a greater extent than\nwhen it is present at meta position. Thus, correct\norder of acidity is :\n<br><br>(iv)  &gt;  (iii)  &gt;  (i)  &gt; (ii)"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The general molecular formula, which represents the homologous series of alkanols is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "C<sub>n</sub>H<sub>2n</sub>O"
+        },
+        {
+          "key": "B",
+          "value": "C<sub>n</sub>H<sub>2n</sub>O<sub>2</sub>"
+        },
+        {
+          "key": "C",
+          "value": "C<sub>n</sub>H<sub>2n + 2</sub>O"
+        },
+        {
+          "key": "D",
+          "value": "C<sub>n</sub>H<sub>2n + 1</sub>O"
+        }
+      ],
+      "answer": "C",
+      "explanation": "All alcohols follow the general formula as\nC<sub>n</sub>H<sub>2n+2</sub>O."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The general molecular formula, which represents the homologous series of alkanols is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "C<sub>n</sub>H<sub>2n+2</sub>O"
+        },
+        {
+          "key": "B",
+          "value": "C<sub>n</sub>H<sub>2n</sub>O<sub>2</sub>"
+        },
+        {
+          "key": "C",
+          "value": "C<sub>n</sub>H<sub>2n</sub>O"
+        },
+        {
+          "key": "D",
+          "value": "C<sub>n</sub>H<sub>2n</sub><sub>+1</sub>O"
+        }
+      ],
+      "answer": "A",
+      "explanation": "General molecular formula of alkanols is\n<br><br>C<sub>n</sub>H<sub>2n+2</sub>O or C<sub>n</sub>H<sub>2n+1</sub>OH"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Which one of the following will not form a yellow precipitate on heating with an alkaline solution of iodine? ",
+      "options": [
+        {
+          "key": "A",
+          "value": "CH<sub>3</sub>CH(OH)CH<sub>3</sub>"
+        },
+        {
+          "key": "B",
+          "value": "CH<sub>3</sub>CH<sub>2</sub>CH(OH)CH<sub>3</sub>"
+        },
+        {
+          "key": "C",
+          "value": "CH<sub>3</sub>OH"
+        },
+        {
+          "key": "D",
+          "value": "CH<sub>3</sub>CH<sub>2</sub>OH"
+        }
+      ],
+      "answer": "C",
+      "explanation": "Formation of a yellow precipitate on heating\na compound with an alkaline solution of iodine is\nknown as iodoform reaction. Methyl alcohol does\nnot respond to this test. Iodoform test is exhibited\nby ethyl alcohol, acetaldehyde, acetone, methyl\nketones and those alcohols which possess\nCH<sub>3</sub>CH(OH) – group."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Which of the following is correct? ",
+      "options": [
+        {
+          "key": "A",
+          "value": "On reduction, any aldehyde gives secondary alcohol. "
+        },
+        {
+          "key": "B",
+          "value": "Reaction of vegetable oil with H<sub>2</sub>SO<sub>4</sub> gives glycerine"
+        },
+        {
+          "key": "C",
+          "value": "Alcoholic iodine with NaOH gives iodoform."
+        },
+        {
+          "key": "D",
+          "value": "Sucrose on reaction with NaCl gives invert sugar."
+        }
+      ],
+      "answer": "C",
+      "explanation": "C<sub>2</sub>H<sub>5</sub>OH + 4I<sub>2</sub> + NaOH $$ \\to $$ <br><br>CHI<sub>3</sub> + NaI\n+ HCOONa + H<sub>2</sub>O\n<br><br>Iodoform is a pale yellow solid which crystallises in\nhexagonal plates."
+    }
+  ]
+}

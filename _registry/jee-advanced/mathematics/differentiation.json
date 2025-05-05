@@ -1,0 +1,349 @@
+{
+  "_index": {
+    "name": "Differentiation"
+  },
+  "_children": [
+    {
+      "_type": "single_mcq",
+      "body": "Let $$f:\\left[ {0,2} \\right] \\to R$$ be a function which is continuous on $$\\left[ {0,2} \\right]$$ and is differentiable on $$(0,2)$$ with $$f(0)=1$$. Let \n<br>$$F\\left( x \\right) = \\int\\limits_0^{{x^2}} {f\\left( {\\sqrt t } \\right)dt} $$ for  $$x \\in \\left[ {0,2} \\right]$$. If $$F'\\left( x \\right) = f'\\left( x \\right)$$ for all  $$x \\in \\left[ {0,2} \\right]$$, then $$F(2)$$ equals ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$${e^2} - 1$$ "
+        },
+        {
+          "key": "B",
+          "value": "$${e^4} - 1$$"
+        },
+        {
+          "key": "C",
+          "value": "$$e - 1$$ "
+        },
+        {
+          "key": "D",
+          "value": "$${e^4}$$ "
+        }
+      ],
+      "answer": "B",
+      "explanation": "<p>Given, $$\\mathrm{F}^{\\prime}(x)=f^{\\prime}(x)\\quad \\text{.... (i)}$$</p>\n<p>And $$\\quad \\mathrm{F}(x)=\\int_0^{x^2} f(\\sqrt{t}) d t$$</p>\n<p>Differentiate the equation (ii) w.r.t. $$x$$</p>\n<p>$$\\begin{aligned}\n& \\Rightarrow \\quad \\mathrm{F}^{\\prime}(x)=\\frac{d\\left(x^2\\right)}{d x} \\cdot f\\left(\\sqrt{x^2}\\right)-\\frac{d(0)}{d x} \\cdot f(\\sqrt{0}) \\\\\n& \\Rightarrow \\quad f^{\\prime}(x)=2 x \\cdot f(x)-0 \\\\\n& \\Rightarrow \\quad \\frac{d f(x)}{f(x)}=2 x d x \\\\\n& \\Rightarrow \\int \\frac{d f(x)}{f(x)}=\\int 2 x d x \\\\\n& \\Rightarrow \\ln f(x)=2 \\cdot \\frac{x^2}{2}+\\mathrm{C} \\\\\n& \\Rightarrow \\ln f(x)=x^2+\\mathrm{C} \\quad \\text{... (iii)}\n\\end{aligned}$$</p>\n<p>Given, $$f(0)=1$$</p>\n<p>$$\\begin{array}{llrl} \n& \\therefore & \\ln (1) & =0^2+C \\\\\n& \\Rightarrow & 0 & =0+C \\\\\n\\Rightarrow & & C=0\n\\end{array}$$</p>\n<p>Put $$c=0$$ in the equation (iii)</p>\n<p>$$\\begin{array}{ll}\n\\Rightarrow & \\ln f(x)=x^2 \\\\\n\\Rightarrow \\quad f(x) & =e^{x^2} \\\\\n\\Rightarrow \\quad f(\\sqrt{t}) & =e^t\n\\end{array}$$</p>\n<p>Put $$f(\\sqrt{t})=e^t$$ in the equation (ii)</p>\n<p>$$\\begin{array}{ll}\n\\Rightarrow & \\mathrm{F}(x)=\\int_0^{x^2} e^t \\cdot d t \\\\\n\\Rightarrow & \\mathrm{F}(x)=\\left[e^t\\right]_0^{x^2} \\\\\n\\Rightarrow & \\mathrm{F}(x)=e^{x^2}-1\n\\end{array}$$</p>\n<p>Put $$\\quad x=2$$</p>\n<p>$$\\Rightarrow \\mathrm{F}(2)=e^4-1$$</p>\n<p>Hint:</p>\n<p>(i) If $$y=\\int_{\\phi(x)}^{\\psi(x)} f(t) d t$$, then $$\\frac{d y}{d x}=\\frac{d \\psi(x)}{d x} \\cdot f(\\psi(x))-\\frac{d \\phi(x)}{d x} \\cdot f(\\phi(x))$$</p>\n<p>(ii) $$\\int \\frac{f^{\\prime}(x) d x}{f(x)}=\\ln (f(x))+c$$</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Let $$g(x) = \\log f(x)$$, where $$f(x)$$ is a twice differentiable positive function on (0, $$\\infty$$) such that $$f(x + 1) = xf(x)$$. Then for N = 1, 2, 3, ..., $$g''\\left( {N + {1 \\over 2}} \\right) - g''\\left( {{1 \\over 2}} \\right) = $$</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$ - 4\\left\\{ {1 + {1 \\over 9} + {1 \\over {25}} + ....... + {1 \\over {{{\\left( {2N - 1} \\right)}^2}}}} \\right\\}$$ "
+        },
+        {
+          "key": "B",
+          "value": "$$4\\left\\{ {1 + {1 \\over 9} + {1 \\over {25}} + ....... + {1 \\over {{{\\left( {2N - 1} \\right)}^2}}}} \\right\\}$$ "
+        },
+        {
+          "key": "C",
+          "value": "$$ - 4\\left\\{ {1 + {1 \\over 9} + {1 \\over {25}} + ....... + {1 \\over {{{\\left( {2N + 1} \\right)}^2}}}} \\right\\}$$ "
+        },
+        {
+          "key": "D",
+          "value": "$$4\\left\\{ {1 + {1 \\over 9} + {1 \\over {25}} + ....... + {1 \\over {{{\\left( {2N + 1} \\right)}^2}}}} \\right\\}$$ "
+        }
+      ],
+      "answer": "A",
+      "explanation": "<p>Given that,</p>\n<p>$$g(x) = \\log f(x)$$</p>\n<p>$$ \\Rightarrow g(x + 1) = \\log f(x + 1)$$</p>\n<p>$$ \\Rightarrow g(x + 1) = \\log xf(x)$$</p>\n<p>[$$\\because$$ $$f(x + 1) = xf(x)$$]</p>\n<p>$$g(x + 1) = \\log x + \\log f(n)$$</p>\n<p>$$ \\Rightarrow g(x + 1) - g(x) = \\log (x)$$</p>\n<p>$$g'(x + 1) - g'(x) = {1 \\over x}$$</p>\n<p>$$ \\Rightarrow g''(x + 1) - g''(x) = {{ - 1} \\over {{x^2}}}$$</p>\n<p>Putting, $$x = x - {1 \\over 2}$$, we get</p>\n<p>$$g''\\left( {x + {1 \\over 2}} \\right) - g''\\left( {x - {1 \\over 2}} \\right) =  - {1 \\over {{{\\left( {x - {1 \\over 2}} \\right)}^2}}} = {{ - {{(2)}^2}} \\over {{{(2x - 1)}^2}}}$$</p>\n<p>Putting $$x = 1,2,3$$ .........., N we get</p>\n<p>$$g''\\left( {x + {1 \\over 2}} \\right) - g''\\left( {x - {1 \\over 2}} \\right) -  = {1 \\over {{{\\left( {x - {1 \\over 2}} \\right)}^2}}} = {{ - {{(2)}^2}} \\over {{{(2x - 1)}^2}}}$$</p>\n<p>Putting $$x = 1,2,3$$, .........., N we get</p>\n<p>$$g''\\left( {{3 \\over 2}} \\right) - g''\\left( {{1 \\over 2}} \\right) = {{ - {2^2}} \\over {{1^2}}}$$ .... (i)</p>\n<p>$$g''\\left( {{5 \\over 2}} \\right) - g''\\left( {{3 \\over 2}} \\right) = {{ - {2^2}} \\over {{1^2}}}$$ ..... (ii)</p>\n<p>$$g''\\left( {{7 \\over 2}} \\right) - g''\\left( {{5 \\over 2}} \\right) = {{ - {2^2}} \\over {{5^2}}}$$ ..... (iii)</p>\n<p>$$g''\\left( {N + {1 \\over 2}} \\right) - g''\\left( {N - {1 \\over 2}} \\right) = {{ - {2^2}} \\over {{{(2N - 1)}^2}}}$$ ..... (iv)</p>\n<p>Adding all the above equations, we get</p>\n<p>$$g''\\left( {N + {1 \\over 2}} \\right) - g''\\left( {{1 \\over 2}} \\right) = 4$$</p>\n<p>$$\\left[ {1 + {1 \\over {{3^2}}} + {1 \\over {{5^2}}}\\, + \\,...\\, + \\,{1 \\over {{{(2N - 1)}^2}}}} \\right]$$</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Which of the following is true?</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "$${\\left( {2 + a} \\right)^2}f''\\left( 1 \\right) + {\\left( {2 - a} \\right)^2}f''\\left( { - 1} \\right) = 0$$ "
+        },
+        {
+          "key": "B",
+          "value": "$${\\left( {2 - a} \\right)^2}f''\\left( 1 \\right) - {\\left( {2 + a} \\right)^2}f''\\left( { - 1} \\right) = 0$$"
+        },
+        {
+          "key": "C",
+          "value": "$$f'\\left( 1 \\right)f'\\left( { - 1} \\right) = {\\left( {2 - a} \\right)^2}$$ "
+        },
+        {
+          "key": "D",
+          "value": "$$f'\\left( 1 \\right)f'\\left( { - 1} \\right) = -{\\left( {2 + a} \\right)^2}$$"
+        }
+      ],
+      "answer": "A",
+      "explanation": "<p>$$f(x) = {{{x^2} - ax + 1} \\over {{x^2} + ax + 1}}$$</p>\n<p>for differentiation, we can write f(x) as</p>\n<p>$$f(x) = 1 - {{2ax} \\over {{x^2} + ax + 1}}$$</p>\n<p>Now, on differentiation</p>\n<p>$$f'(x) = {{2a({x^2} - 1)} \\over {{{({x^2} + ax + 1)}^2}}}$$ ..... (i)</p>\n<p>$$f'(1) = 0 = f'( - 1)$$</p>\n<p>Then again differentiation (1)</p>\n<p>$${({x^2} + ax + 1)^2}\\,.\\,2x - ({x^2} - 1)$$</p>\n<p>$$f''(x) = 2a.\\,{{2({x^2} + ax + 1)(2x + a)} \\over {{{({x^2} + ax + 1)}^4}}}$$</p>\n<p>$$f''( - 1) = {{ - 4a} \\over {{{(2 - a)}^2}}}$$</p>\n<p>$$f''(1) = {{ - 4a} \\over {{{(2 - a)}^2}}}$$</p>\n<p>Combining both</p>\n<p>$$f''(1){(2 + a)^2} + f''( - 1){(2 - a)^2} = 0$$</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>If $$f\\left( { - 10\\sqrt 2 } \\right) = 2\\sqrt 2 ,$$ then $$f''\\left( { - 10\\sqrt 2 } \\right) = $$</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "$${{4\\sqrt 2 } \\over {{7^3}{3^2}}}$$ "
+        },
+        {
+          "key": "B",
+          "value": "$$-{{4\\sqrt 2 } \\over {{7^3}{3^2}}}$$"
+        },
+        {
+          "key": "C",
+          "value": "$${{4\\sqrt 2 } \\over {{7^3}3}}$$ "
+        },
+        {
+          "key": "D",
+          "value": "$$-{{4\\sqrt 2 } \\over {{7^3}3}}$$"
+        }
+      ],
+      "answer": "B",
+      "explanation": "<p>We have</p>\n<p>$${y^3} - 3y + x = 0$$</p>\n<p>Differentiate both sides we get</p>\n<p>$$3{y^2}.y' - 3y' + 1 = 0$$ ..... (i)</p>\n<p>Put $$y = 2\\sqrt 2 ,x =  - 10\\sqrt 2 $$ then</p>\n<p>$$y'( - 10\\sqrt 2 ) = {{ - 1} \\over {21}}$$</p>\n<p>Differentiate eq. (i), we get</p>\n<p>$$3{y^2}y'' + 6y{(y')^2} - 3y'' = 0$$</p>\n<p>Put $$y = 2\\sqrt 2 ,x =  - 10\\sqrt 2 ,y' = {{ - 1} \\over {21}}$$ then</p>\n<p>$$y''( - 10\\sqrt 2 ) = {{ - 4\\sqrt 2 } \\over {{7^3}\\,.\\,{3^2}}}$$</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Let $$f$$ and $$g$$ be real valued functions defined on interval $$(-1, 1)$$ such that $$g''(x)$$ is continuous, $$g\\left( 0 \\right) \\ne 0.$$ $$g'\\left( 0 \\right) = 0$$, $$g''\\left( 0 \\right) \\ne 0$$, and $$f\\left( x \\right) = g\\left( x \\right)\\sin x$$ \n<p><b>STATEMENT - 1:</b> $$\\mathop {\\lim }\\limits_{x \\to 0} \\,\\,\\left[ {g\\left( x \\right)\\cot x - g\\left( 0 \\right)\\cos ec\\,x} \\right] = f''\\left( 0 \\right)$$ and \n<br><br/><b>STATEMENT - 2:</b> $$f'\\left( 0 \\right) = g\\left( 0 \\right)$$</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "Statement - 1 is True, Statement - 2 is True; Statement - 2 is a correct explanation for Statement - 1"
+        },
+        {
+          "key": "B",
+          "value": "Statement - 1 is True, Statement - 2 is True; Statement - 2 is <b>NOT</b> a correct explanation for Statement - 1"
+        },
+        {
+          "key": "C",
+          "value": "Statement - 1 is True, Statement -2 is False"
+        },
+        {
+          "key": "D",
+          "value": "Statement - 1 is False, Statement -2 is True"
+        }
+      ],
+      "answer": "A",
+      "explanation": "<p>$$\\mathop {\\lim }\\limits_{x \\to 0} {{g(x)\\cos x - g(0)} \\over {\\sin x}}$$</p>\n<p>$$ = \\mathop {\\lim }\\limits_{x \\to 0} {{g'(x)\\cos x - g(x)\\sin x} \\over {\\cos x}}$$ (Applying L-Hospital rule)</p>\n<p>$$g'(0) - 0 = 0 = f''(0)$$</p>\n<p>Statement - 1 is True.</p>\n<p>$$f'(x) = g(x)\\cos x + g'(x)\\sin x$$</p>\n<p>$$f'(0) = g(0)$$</p>\n<p>Statement - 2 is True.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "$${{{d^2}x} \\over {d{y^2}}}$$  equals ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$${\\left( {{{{d^2}y} \\over {d{x^2}}}} \\right)^{ - 1}}$$ "
+        },
+        {
+          "key": "B",
+          "value": "$$ - {\\left( {{{{d^2}y} \\over {d{x^2}}}} \\right)^{ - 1}}{\\left( {{{dy} \\over {dx}}} \\right)^{ - 3}}$$ "
+        },
+        {
+          "key": "C",
+          "value": "$$\\left( {{{{d^2}y} \\over {d{x^2}}}} \\right){\\left( {{{dy} \\over {dx}}} \\right)^{ - 2}}$$ "
+        },
+        {
+          "key": "D",
+          "value": "$$ - \\left( {{{{d^2}y} \\over {d{x^2}}}} \\right){\\left( {{{dy} \\over {dx}}} \\right)^{ - 3}}$$ "
+        }
+      ],
+      "answer": "D",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Let $$\\,\\,\\,$$$$f\\left( x \\right) = 2 + \\cos x$$ for all real $$X$$. \n<p><b>STATEMENT - 1:</b>  for eachreal $$t$$, there exists a point $$c$$ in $$\\left[ {t,t + \\pi } \\right]$$ such that $$f'\\left( c \\right) = 0$$ because\n<br><b>STATEMENT - 2:</b> $$f\\left( t \\right) = f\\left( {t + 2\\pi } \\right)$$ for each real $$t$$.</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "Statement-1 is True, Statement-2 is True; Statement-2 is a correct explanation for Statement-1"
+        },
+        {
+          "key": "B",
+          "value": "Statement-1 is True, Statement-2 is True; Statement-2 is NOT a correct explanation for Statement-1"
+        },
+        {
+          "key": "C",
+          "value": "Statement-1 is True, Statement-2 is False "
+        },
+        {
+          "key": "D",
+          "value": "Statement-1 is False, Statement-2 is True."
+        }
+      ],
+      "answer": "B",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "If $$f(x)$$ is a twice differentiable function and given that $$f\\left( 1 \\right) = 1;f\\left( 2 \\right) = 4,f\\left( 3 \\right) = 9$$, then ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$f''\\left( x \\right) = 2$$ for $$\\forall x \\in \\left( {1,3} \\right)$$ "
+        },
+        {
+          "key": "B",
+          "value": "$$f''\\left( x \\right) = f'\\left( x \\right) = 5$$ for some $$x \\in \\left( {2,3} \\right)$$ "
+        },
+        {
+          "key": "C",
+          "value": "$$f''\\left( x \\right) = 3$$ for  $$\\forall x \\in \\left( {2,3} \\right)$$ "
+        },
+        {
+          "key": "D",
+          "value": "$$f''\\left( x \\right) = 2$$ for some $$x \\in \\left( {1,3} \\right)$$"
+        }
+      ],
+      "answer": "D",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "If $$y$$ is a function of $$x$$ and log $$(x+y)-2xy=0$$, then the value of $$y'(0)$$ is equal to ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$1$$ "
+        },
+        {
+          "key": "B",
+          "value": "$$-1$$ "
+        },
+        {
+          "key": "C",
+          "value": "$$2$$ "
+        },
+        {
+          "key": "D",
+          "value": "$$0$$ "
+        }
+      ],
+      "answer": "A",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Let $$f:\\left( {0,\\infty } \\right) \\to R$$ and $$F\\left( x \\right) = \\int\\limits_0^x {f\\left( t \\right)dt.} $$  If $$F\\left( {{x^2}} \\right) = {x^2}\\left( {1 + x} \\right)$$, then $$f(4)$$ equals",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$5/4$$ "
+        },
+        {
+          "key": "B",
+          "value": "$$7$$ "
+        },
+        {
+          "key": "C",
+          "value": "$$4$$ "
+        },
+        {
+          "key": "D",
+          "value": "$$2$$ "
+        }
+      ],
+      "answer": "C",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "If $${x^2} + {y^2} = 1$$ then ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$yy'' - 2{\\left( {y'} \\right)^2} + 1 = 0$$ "
+        },
+        {
+          "key": "B",
+          "value": "$$yy'' + {\\left( {y'} \\right)^2} + 1 = 0$$ "
+        },
+        {
+          "key": "C",
+          "value": "$$yy'' + {\\left( {y'} \\right)^2} - 1 = 0$$ "
+        },
+        {
+          "key": "D",
+          "value": "$$yy'' + 2{\\left( {y'} \\right)^2} + 1 = 0$$ "
+        }
+      ],
+      "answer": "B",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "If $$y = {\\left( {\\sin x} \\right)^{\\tan x}},$$ then $${{dy} \\over {dx}}$$ is equal to ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$${\\left( {\\sin x} \\right)^{\\tan x}}\\left( {1 + {{\\sec }^2}x\\,\\log \\,\\sin \\,x} \\right)$$ "
+        },
+        {
+          "key": "B",
+          "value": "$$\\tan x{\\left( {\\sin x} \\right)^{\\tan x - 1}}.\\cos x$$ "
+        },
+        {
+          "key": "C",
+          "value": "$${\\left( {\\sin x} \\right)^{\\tan x}}{\\sec ^2}x\\,\\log \\,\\sin \\,x$$ "
+        },
+        {
+          "key": "D",
+          "value": "$$\\tan x{\\left( {\\sin x} \\right)^{\\tan x - 1}}$$ "
+        }
+      ],
+      "answer": "A",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Let $$f(x)$$ be a quadratic expression which is positive for all the real values of $$x$$. If $$g(x)=f(x)+f''(x)$$, then for any real $$x$$,",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$g(x)&lt;0$$  "
+        },
+        {
+          "key": "B",
+          "value": "$$g(x)&gt;0$$  "
+        },
+        {
+          "key": "C",
+          "value": "$$g(x)=0$$ "
+        },
+        {
+          "key": "D",
+          "value": "$$g\\left( x \\right) \\ge 0$$ "
+        }
+      ],
+      "answer": "B",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "If $${y^2} = P\\left( x \\right)$$, a polynomial of degree $$3$$, then $$2{d \\over {dx}}\\left( {{y^3}{{{d^2}y} \\over {d{x^2}}}} \\right)$$ equals ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$P''\\left( x \\right) + P\\left( x \\right)$$ "
+        },
+        {
+          "key": "B",
+          "value": "$$P'\\left( x \\right)P''\\left( x \\right)$$ "
+        },
+        {
+          "key": "C",
+          "value": "$$P\\left( x \\right)P''\\left( x \\right)$$ "
+        },
+        {
+          "key": "D",
+          "value": "a constant "
+        }
+      ],
+      "answer": "C",
+      "explanation": ""
+    },
+    {
+      "_type": "numerical",
+      "body": "Let $$f\\left( \\theta  \\right) = \\sin \\left( {{{\\tan }^{ - 1}}\\left( {{{\\sin \\theta } \\over {\\sqrt {\\cos 2\\theta } }}} \\right)} \\right),$$ where $$ - {\\pi  \\over 4} &lt; \\theta  &lt; {\\pi  \\over 4}.$$ \n<p>Then the value of $${d \\over {d\\left( {\\tan \\theta } \\right)}}\\left( {f\\left( \\theta  \\right)} \\right)$$ is </p>",
+      "answer": "1",
+      "explanation": "<p>$$\\sin \\left( {{{\\tan }^{ - 1}}\\left( {{{\\sin \\theta } \\over {\\sqrt {\\cos 2\\theta } }}} \\right)} \\right)$$, where $$\\theta  \\in \\left( { - {\\pi  \\over 4},{\\pi  \\over 4}} \\right)$$</p>\n<p>$$\\sin \\left( {{{\\tan }^{ - 1}}\\left( {{{\\sin \\theta } \\over {\\sqrt {2{{\\cos }^2}\\theta  - 1} }}} \\right)} \\right) = \\sin ({\\sin ^{ - 1}}(\\tan \\theta )) = \\tan \\theta $$</p>\n<p>$${{d(\\tan \\theta )} \\over {d(\\tan \\theta )}} = 1$$</p>"
+    }
+  ]
+}

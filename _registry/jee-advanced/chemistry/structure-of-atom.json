@@ -1,0 +1,1111 @@
+{
+  "_index": {
+    "name": "Structure of Atom"
+  },
+  "_children": [
+    {
+      "_type": "single_mcq",
+      "body": "According to Bohr's model, the highest kinetic energy is associated with the electron in the",
+      "options": [
+        {
+          "key": "A",
+          "value": "first orbit of $\\mathrm{H}$ atom"
+        },
+        {
+          "key": "B",
+          "value": "first orbit of $\\mathrm{He}^{+}$"
+        },
+        {
+          "key": "C",
+          "value": "second orbit of $\\mathrm{He}^{+}$"
+        },
+        {
+          "key": "D",
+          "value": "second orbit of $\\mathrm{Li}^{2+}$"
+        }
+      ],
+      "answer": "B",
+      "explanation": "<p>According to Bohr's model of the hydrogen atom, the kinetic energy of an electron in a particular orbit is given by the expression:</p>\n\n<p>\n\n<p>$$ K.E. = \\frac{1}{2}mv^2 $$</p>\n\n</p>\n\n<p>Where $m$ is the mass of the electron and $v$ is its velocity. However, a more useful expression involving only constants is:</p>\n\n<p>\n\n<p>$$ K.E. = \\frac{13.6 \\, \\text{eV} \\, Z^2}{n^2} $$</p>\n\n</p>\n\n<p>Where $Z$ is the atomic number and $n$ is the principal quantum number of the orbit. This formula shows that the kinetic energy of the electron is directly proportional to the square of the atomic number $Z$ and inversely proportional to the square of the orbit number $n$.</p>\n\n<p>Let's analyze each option keeping the above formula in mind:</p>\n\n<p>\n\n<strong>Option A:</strong> First orbit of hydrogen ($\\mathrm{H}$, $Z = 1$, $n = 1$)\n\n</p>\n\n<p>\n\n<p>$$ K.E. = \\frac{13.6 \\, \\text{eV} \\, (1)^2}{(1)^2} = 13.6 \\, \\text{eV} $$</p>\n\n</p>\n\n<p>\n\n<strong>Option B:</strong> First orbit of $ \\mathrm{He}^{+} $ ($Z = 2$, $n = 1$)\n\n</p>\n\n<p>\n\n<p>$$ K.E. = \\frac{13.6 \\, \\text{eV} \\, (2)^2}{(1)^2} = 54.4 \\, \\text{eV} $$</p>\n\n</p>\n\n<p>\n\n<strong>Option C:</strong> Second orbit of $ \\mathrm{He}^{+} $ ($Z = 2$, $n = 2$)\n\n</p>\n\n<p>\n\n<p>$$ K.E. = \\frac{13.6 \\, \\text{eV} \\, (2)^2}{(2)^2} = 13.6 \\, \\text{eV} $$</p>\n\n</p>\n\n<p>\n\n<strong>Option D:</strong> Second orbit of $ \\mathrm{Li}^{2+} $ ($Z = 3$, $n = 2$)\n\n</p>\n\n<p>\n\n<p>$$ K.E. = \\frac{13.6 \\, \\text{eV} \\, (3)^2}{(2)^2} = 30.6 \\, \\text{eV} $$</p>\n\n</p>\n\n<p>From the above calculations, it is evident that the highest kinetic energy is associated with the electron in the first orbit of $ \\mathrm{He}^{+} $ (Option B), which is $54.4 \\, \\text{eV}$.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The kinetic energy of an electron in the second Bohr orbit of a hydrogen atom is [$$\\alpha_0$$  is Bohr radius]",
+      "options": [
+        {
+          "key": "A",
+          "value": "$${h^2 \\over {4{\\pi ^2}m\\alpha _0^2}}$$ "
+        },
+        {
+          "key": "B",
+          "value": "$${h^2 \\over {16{\\pi ^2}m\\alpha _0^2}}$$ "
+        },
+        {
+          "key": "C",
+          "value": "$${h^2 \\over {32{\\pi ^2}m\\alpha _0^2}}$$ "
+        },
+        {
+          "key": "D",
+          "value": "$${h^2 \\over {64{\\pi ^2}m\\alpha _0^2}}$$ "
+        }
+      ],
+      "answer": "C",
+      "explanation": "<p>For Bohr orbit, angular momentum is</p>\n<p>$$mvr_n = \\frac{nh}{2\\pi}$$</p>\n<p>Velocity, $$v = \\frac{nh}{2\\pi mr_n} \\quad \\text{... (i)}$$</p>\n<p>Kinetic energy, $$K.E. = \\frac{1}{2}mv^2 \\quad \\text{... (ii)}$$</p>\n<p>By putting the value of $v$ from (i) into (ii),</p>\n<p>$$K.E. = \\frac{1}{2}m \\times \\frac{n^2h^2}{4\\pi^2m^2r_n^2} = \\frac{n^2h^2}{8\\pi^2mr_n^2}$$</p>\n<p>For second Bohr orbit, $n = 2$</p>\n<p>$$r_n = a_0 \\times n^2 \\quad (a_0 = \\text{Bohr radius})$$</p>\n<p>$$r_n = 4a_0$$</p>\n<p>$$K.E. = \\frac{(2)^2h^2}{8\\pi^2m(4a_0)^2}$$</p>\n<p>Thus, $$K.E. = \\frac{h^2}{32\\pi^2ma_0^2}$$</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The hydrogen like species Li<sup>2+</sup> is in a spherically symmetric state S<sub>1</sub> with one radial node. Upon absorbing light the ion undergoes transition to a state S<sub>2</sub>. The state S<sub>2</sub> has one radial node and its energy is equal to the ground state energy of the hydrogen atom.<br>\n<br>\nThe state S<sub>1</sub> is :",
+      "options": [
+        {
+          "key": "A",
+          "value": "1s"
+        },
+        {
+          "key": "B",
+          "value": "2s"
+        },
+        {
+          "key": "C",
+          "value": "2p"
+        },
+        {
+          "key": "D",
+          "value": "3s"
+        }
+      ],
+      "answer": "B",
+      "explanation": "<p>For hydrogen-like species, the energy levels depend on the principal quantum number $n$ and are inversely proportional to the square of $n$, and they can be characterized by their nuclear charge $Z$. The energy for a hydrogen-like ion can be expressed as:</p>\n\n<p>$E_n = -\\dfrac{Z^2R_H}{n^2}$</p>\n\n<p>where $R_H$ is the Rydberg constant for hydrogen, $Z$ is the atomic number (for Li<sup>2+</sup>, $Z=3$), and $n$ is the principal quantum number associated with the energy level.</p>\n\n<p>Given that S<sub>2</sub> has energy equal to the ground state energy of the hydrogen atom ($E_n$ for hydrogen when $n=1$ and $Z=1$ is $E_1 = -R_H$), and given that S<sub>2</sub> has one radial node. The radial node information tells us about the principal quantum number $n$, as the number of radial nodes is given by $n-l-1$, where $l$ is the azimuthal quantum number.</p>\n\n<p>The ground state of hydrogen corresponds to $n=1$. For the given species Li<sup>2+</sup> to have the same energy as the ground state of the hydrogen atom but for state S<sub>2</sub>, we can use the energy relation. Since the energy is specified to be the same as hydrogen's ground state, let's set up the equality according to the equation given and solve for $n$ specific to the condition (Li<sup>2+</sup> is considered here, but the condition is about energy equivalence).</p>\n\n<p>Given that S<sub>2</sub> has one radial node, it cannot be the ground state energy level for Li<sup>2+</sup> (which would directly correspond to $n=1$), it implies a different $n$. For one radial node, the condition $n-l-1 = 1$ must be met.</p>\n\n<p>The options presented are:</p>\n\n<ul>\n\n<li>1s ($n=1$, $l=0$) - No radial nodes</li>\n\n<li>2s ($n=2$, $l=0$) - One radial node</li>\n\n<li>2p ($n=2$, $l=1$) - No radial nodes, due to the different $l$</li>\n\n<li>3s ($n=3$, $l=0$) - Two radial nodes</li>\n\n</ul>\n\n<p>S<sub>1</sub> is described as having one radial node. Based on the rule for the number of radial nodes ($n-l-1$), the only states that fits this condition directly from the options provided are $2s$ (since for a $2s$ orbital, $n=2$, $l=0$, yielding $2-0-1=1$ radial node).</p>\n\n<p>Hence, the correct option for S<sub>1</sub> is:</p>\n\n<p>Option B: 2s</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The hydrogen like species Li<sup>2+</sup> is in a spherically symmetric state S<sub>1</sub> with one radial node. Upon absorbing light the ion undergoes transition to a state S<sub>2</sub>. The state S<sub>2</sub> has one radial node and its energy is equal to the ground state energy of the hydrogen atom.<br>\n<br>\nEnergy of the state S<sub>1</sub> in units of the hydrogen atom ground state energy is:",
+      "options": [
+        {
+          "key": "A",
+          "value": "0.75"
+        },
+        {
+          "key": "B",
+          "value": "1.50"
+        },
+        {
+          "key": "C",
+          "value": "2.25"
+        },
+        {
+          "key": "D",
+          "value": "4.50"
+        }
+      ],
+      "answer": "C",
+      "explanation": "<p>For a hydrogen-like ion, the energy levels can be given by the formula:</p>\n\n<p>$$E_n = -\\frac{Z^2}{n^2} E_0$$</p>\n\n<p>where $E_n$ is the energy of the nth level, $Z$ is the atomic number (for Li$^{2+}$, $Z=3$), $n$ is the principal quantum number, and $E_0$ is the ground state energy of the hydrogen atom ($-13.6 \\, eV$).\n\n<p>Given that state $S_2$ has energy equal to the ground state energy of the hydrogen atom and one radial node, we identify that $S_2$ corresponds to $n=2$ for a hydrogen atom. This is because for hydrogen-like species, the number of radial nodes is given by $n-1$, where $n$ is the principal quantum number. The ground state ($n=1$) has 0 nodes, the first excited state ($n=2$) has 1 radial node, etc.</p>\n\n<p>Since the energy of $S_2$ is equal to the ground state energy of the hydrogen atom, we can directly compare the energies. For hydrogen ($Z=1$), the ground state energy ($n=1$) is:</p>\n\n<p>$$E = -E_0$$</p>\n\n<p>For the Li$^{2+}$ ion in state $S_2$ (which we established is equivalent to $n=2$ in terms of energy for hydrogen), we use the formula $E_n = -\\frac{Z^2}{n^2} E_0$. Since $Z=3$ for Li$^{2+}$, and given that $S_2$ has the energy equivalent to the ground state of hydrogen ($E_0$), we solve for the energy ratio rather than the specific energy of $S_2$.</p>\n\n<p>We then look at $S_1$, which we know must be the ground state for Li$^{2+}$ since it is the state before $S_2$ and has one radial node (indicating $n=2$ for $S_1$).</p>\n\n<p>Thus, for $S_1$, which actually corresponds to $n=2$ for Li$^{2+}$, the energy in units of the hydrogen atom ground state energy is:</p>\n\n<p>$$E_{S_1} = -\\frac{Z^2}{n^2} E_0 = -\\frac{3^2}{2^2}E_0 = -\\frac{9}{4}E_0$$</p>\n\n<p>Now, to express this in units of the hydrogen atom ground state energy ($-E_0$):</p>\n\n<p>$$\\frac{E_{S_1}}{E_0} = -\\frac{9}{4} = -2.25$$</p>\n\n<p>So, considering the provided options and the fact that energy levels are usually considered in positive values when comparing magnitudes, the correct answer is:</p>\n\n<p>Option C: 2.25.</p></p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The hydrogen like species Li<sup>2+</sup> is in a spherically symmetric state S<sub>1</sub> with one radial node. Upon absorbing light the ion undergoes transition to a state S<sub>2</sub>. The state S<sub>2</sub> has one radial node and its energy is equal to the ground state energy of the hydrogen atom.<br>\n<br>\nThe orbital angular momentum quantum number of the state S<sub>2</sub> is",
+      "options": [
+        {
+          "key": "A",
+          "value": "0"
+        },
+        {
+          "key": "B",
+          "value": "1"
+        },
+        {
+          "key": "C",
+          "value": "2"
+        },
+        {
+          "key": "D",
+          "value": "3"
+        }
+      ],
+      "answer": "B",
+      "explanation": "<p>To identify the orbital angular momentum quantum number, $l$, for the state $S_2$ of a hydrogen-like species such as $Li^{2+}$, we can refer to the given information and the known equations for the energy levels of hydrogen-like atoms. Hydrogen-like atoms or ions have only one electron and their energy in a particular state is given by the equation:</p>\n\n<p>$$E_n = -\\frac{Z^2}{n^2} E_0$$</p>\n\n<p>where:</p>\n\n<ul>\n\n<li>$E_n$ is the energy of the electron in the nth energy level,</li>\n\n<li>$Z$ is the atomic number of the species (for $Li$, $Z = 3$),</li>\n\n<li>$n$ is the principal quantum number,</li>\n\n<li>$E_0$ is the energy of the ground state of hydrogen ($-13.6$ eV).</li>\n\n</ul>\n\n<p>The problem states that $S_2$ has energy equal to the ground state energy of the hydrogen atom. The ground state of hydrogen corresponds to $n = 1$ and $E_0 = -13.6$ eV. However, for $Li^{2+}$, with $Z = 3$, the same energy level could be attained at a different value of $n$ since the $Z^2$ factor magnifies the energy levels with increasing atomic number. Let's calculate the principal quantum number, $n$, for the $Li^{2+}$ ion that would give it an energy equal to $E_0$:</p>\n\n<p>For $Li^{2+}$ ion to have the ground state energy of a hydrogen atom, we can set the energies equal and solve for $n$:</p>\n\n<p>$$-\\frac{Z^2}{n^2}E_0 = E_0$$</p>\n\n<p>Substituting $Z = 3$ and simplifying:</p>\n\n<p>$$-\\frac{9}{n^2} = 1$$</p>\n\n<p>From which we find, $n^2 = 9$ and thus $n = 3$.</p>\n\n<p>Furthermore, the problem states that $S_1$ has one radial node and upon absorbing light, it transitions to $S_2$ which also has one radial node. Radial nodes are related to the principal quantum number $n$ and the angular quantum number $l$ by the formula:</p>\n\n<p>Number of radial nodes = $n - l - 1$</p>\n\n<p>Given that $S_2$ has one radial node, we can plug $n = 3$ into the radial node formula to solve for $l$:</p>\n\n<p>$$1 = 3 - l - 1$$</p>\n\n<p>This simplifies to:</p>\n\n<p>$$l = 3 - 2$$</p>\n\n<p>$$l = 1$$</p>\n\n<p>Therefore, the orbital angular momentum quantum number of the state $S_2$ is 1, which corresponds to option B.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Match the entries in Column I with the correctly related quantum number(s) in Column II. Indicate your answer by darkening the appropriate bubbles of the 4 $$\\times$$ 4 matrix given in the ORS.</p>\n<p><style type=\"text/css\">\n.tg  {border-collapse:collapse;border-spacing:0;}\n.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}\n.tg .tg-7btt{border-color:inherit;font-weight:bold;text-align:center;vertical-align:top}\n.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}\n</style>\n<table class=\"tg\" style=\"undefined;table-layout: fixed; width: 477px\">\n<colgroup>\n<col style=\"width: 48px\">\n<col style=\"width: 197px\">\n<col style=\"width: 53px\">\n<col style=\"width: 179px\">\n</colgroup>\n<thead>\n  <tr>\n    <th class=\"tg-7btt\"></th>\n    <th class=\"tg-7btt\">Column I</th>\n    <th class=\"tg-7btt\"></th>\n    <th class=\"tg-7btt\">Column II</th>\n  </tr>\n</thead>\n<tbody>\n  <tr>\n    <td class=\"tg-c3ow\">(A)</td>\n    <td class=\"tg-0pky\">Orbital angular momentum of the electron in a hydrogen-like atomic orbital.</td>\n    <td class=\"tg-c3ow\">(P)</td>\n    <td class=\"tg-0pky\">Principal quantum number</td>\n  </tr>\n  <tr>\n    <td class=\"tg-c3ow\">(B)</td>\n    <td class=\"tg-0pky\">A hydrogen-like one-electron wave function obeying Pauli's principle.</td>\n    <td class=\"tg-c3ow\">(Q)</td>\n    <td class=\"tg-0pky\">Azimuthal quantum number</td>\n  </tr>\n  <tr>\n    <td class=\"tg-c3ow\">(C)</td>\n    <td class=\"tg-0pky\">Shape, size and orientation of hydrogen like atomic orbitals.</td>\n    <td class=\"tg-c3ow\">(R)</td>\n    <td class=\"tg-0pky\">Magnetic quantum number</td>\n  </tr>\n  <tr>\n    <td class=\"tg-c3ow\">(D)</td>\n    <td class=\"tg-0pky\">Probability density of electron at the nucleus in hydrogen-like atom.</td>\n    <td class=\"tg-c3ow\">(S)</td>\n    <td class=\"tg-0pky\">Electron spin quantum number</td>\n  </tr>\n</tbody>\n</table></p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "(A) $$\\to$$ q,r; (B) $$\\to$$ p,q,r;  (C) $$\\to$$ p,q,r;  (D) $$\\to$$ q,r; "
+        },
+        {
+          "key": "B",
+          "value": "(A) $$\\to$$ q,r; (B) $$\\to$$ p,q,r,s;  (C) $$\\to$$ p,q;  (D) $$\\to$$ s,r; "
+        },
+        {
+          "key": "C",
+          "value": "(A) $$\\to$$ r,s; (B) $$\\to$$ p,q,r;  (C) $$\\to$$ p,q,r;  (D) $$\\to$$ p,q; "
+        },
+        {
+          "key": "D",
+          "value": "(A) $$\\to$$ q,r; (B) $$\\to$$ p,q,r,s;  (C) $$\\to$$ p,q,r;  (D) $$\\to$$ p,q; "
+        }
+      ],
+      "answer": "D",
+      "explanation": "<p>(A) Orbital angular momentum of the electron in a hydrogen-like atomic orbital is represented by azimuthal quantum number.</p>\n<p>(B) A hydrogen-like one-electron wave function obeying Pauli principle correspond to Electron spin quantum number.</p>\n<p>(C) Shape, size and orientation of hydrogen-like atomic orbitals are determined by Azimuthal, principal and Magnetic quantum number.</p>\n<p>(D) Probability density of electron at the nucleus in hydrogen-like atom is determined by Principal quantum number, Azimuthal quantum number and Magnetic quantum number.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "According to Bohr's theory<br>\nE<sub>n</sub> = Total energy, K<sub>n</sub> = Kinetic Energy, V<sub>n</sub> =  Potential Energy, r<sub>n</sub> =  Radius of n<sup>th</sup> orbit<br>\nMatch the following<br><br>\n<b>Column I</b><br><br>\n(A) V<sub>n</sub>/K<sub>n</sub> = ?<br>\n(B) If radius of n<sup>th</sup> orbit $$ \\propto E_n^x,x = ?$$<br>\n(C) Angular momentum in lowest orbital<br>\n(D) $${1 \\over {{r_n}}} \\propto {Z^y},y = ?$$<br><br>\n<b>Column II</b><br><br>\n(p) 0<br>\n(q) -1<br>\n(r) -2<br>\n(s) 1",
+      "options": [
+        {
+          "key": "A",
+          "value": "(A) $$\\to$$ r, (B) $$\\to$$ p,  (C) $$\\to$$ q,  (D) $$\\to$$ s"
+        },
+        {
+          "key": "B",
+          "value": "(A) $$\\to$$ r, (B) $$\\to$$ q,  (C) $$\\to$$ p,  (D) $$\\to$$ s"
+        },
+        {
+          "key": "C",
+          "value": "(A) $$\\to$$ s, (B) $$\\to$$ p,  (C) $$\\to$$ q,  (D) $$\\to$$ r"
+        },
+        {
+          "key": "D",
+          "value": "(A) $$\\to$$ p, (B) $$\\to$$ r,  (C) $$\\to$$ q,  (D) $$\\to$$ s"
+        }
+      ],
+      "answer": "B",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The number of radial nodes of 3s and 2p orbitals are respectively",
+      "options": [
+        {
+          "key": "A",
+          "value": "2, 0"
+        },
+        {
+          "key": "B",
+          "value": "0, 2"
+        },
+        {
+          "key": "C",
+          "value": "1, 2"
+        },
+        {
+          "key": "D",
+          "value": "2, 1"
+        }
+      ],
+      "answer": "A",
+      "explanation": "<p>To find the number of radial nodes in an orbital, we use the formula:</p>\n\n<p>$$\\text{Number of radial nodes} = n - l - 1$$</p>\n\n<p>where $n$ is the principal quantum number, and $l$ is the azimuthal quantum number (also known as the angular momentum quantum number).</p>\n\n<p><strong>For the 3s orbital:</strong></p>\n\n<p>$n = 3$ (since it is the 3rd energy level) and $l = 0$ (s orbital corresponds to $l = 0$).</p>\n\n<p>Plugging these values into the formula gives:</p>\n\n<p>$$\\text{Number of radial nodes for 3s} = 3 - 0 - 1 = 2$$</p>\n\n<p><strong>For the 2p orbital:</strong></p>\n\n<p>$n = 2$ (since it is the 2nd energy level) and $l = 1$ (p orbital corresponds to $l = 1$).</p>\n\n<p>Therefore, the number of radial nodes for the 2p orbital is:</p>\n\n<p>$$\\text{Number of radial nodes for 2p} = 2 - 1 - 1 = 0$$</p>\n\n<p>Thus, the number of radial nodes of 3s and 2p orbitals are respectively 2 and 0.</p>\n\n<p><strong>Option A is correct:</strong> 2, 0</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The radius of which of the following orbit is same as that of the first Bohr's orbit of hydrogen atom?",
+      "options": [
+        {
+          "key": "A",
+          "value": "He<sup>+</sup> (n = 2)"
+        },
+        {
+          "key": "B",
+          "value": "Li<sup>2+</sup> (n = 2)"
+        },
+        {
+          "key": "C",
+          "value": "Li<sup>2+</sup> (n = 3)"
+        },
+        {
+          "key": "D",
+          "value": "Be<sup>3+</sup> (n = 2)"
+        }
+      ],
+      "answer": "D",
+      "explanation": "<p>To compare the radius of these different orbits to the first Bohr's orbit of the hydrogen atom, we can use the formula for the radius of the nth orbit in the hydrogen-like atom, which is given by:</p>\n\n$$\nr_n = \\frac{n^2h^2}{4\\pi^2kme^2}Z^{-1}\n$$\n\n<p>Where:</p>\n\n<ul>\n\n<li>$r_n$ is the radius of the nth orbit,</li>\n\n<li>$n$ is the principal quantum number,</li>\n\n<li>$h$ is Planck's constant,</li>\n\n<li>$k$ is Coulomb's constant,</li>\n\n<li>$m$ is the mass of the electron,</li>\n\n<li>$e$ is the charge of the electron,</li>\n\n<li>$Z$ is the atomic number or the number of protons in the nucleus (which also equals the charge of the nucleus in a hydrogen-like atom).</li>\n\n</ul>\n\n<p>For the first Bohr orbit of the hydrogen atom ($n=1$ and $Z=1$), the radius is:</p>\n\n$$\nr_1 = \\frac{1^2h^2}{4\\pi^2kme^2}(1)^{-1}\n$$\n\n<p>We must compare this with the options provided. The formula simplifies to identifying where the $n^2/Z$ ratio for each option is equal to 1, as it is for hydrogen's first orbit.</p>\n\n<ul>\n\n<li>Option A: He<sup>+</sup> ($Z=2$, $n=2$)\n\n\n\n<p>$\\frac{n^2}{Z} = \\frac{2^2}{2} = 2$</p>\n\n\n\n<li>Option B: Li<sup>2+</sup> ($Z=3$, $n=2$)\n\n\n\n<p>$\\frac{n^2}{Z} = \\frac{2^2}{3} \\approx 1.33$</p>\n\n\n\n<li>Option C: Li<sup>2+</sup> ($Z=3$, $n=3$)\n\n\n\n<p>$\\frac{n^2}{Z} = \\frac{3^2}{3} = 3$</p>\n\n\n\n<li>Option D: Be<sup>3+</sup> ($Z=4$, $n=2$)\n\n\n\n<p>$\\frac{n^2}{Z} = \\frac{2^2}{4} = 1$</p>\n\n\n\n</ul>\n\n<p>Thus, the radius is the same as that of the first Bohr's orbit of hydrogen atom only for Option D: Be<sup>3+</sup> ($n=2$), because in this case, the ratio $n^2/Z = 1$, matching the ratio for hydrogen's first orbit.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Which of the following pairs are isoelectronic and isostructural?<br>\n$$NO_3^-$$, $$CO_3^{2-}$$,  $$ClO_3^-$$, SO<sub>3</sub> ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$NO_3^-$$, $$CO_3^{2-}$$"
+        },
+        {
+          "key": "B",
+          "value": "SO<sub>3</sub>, $$NO_3^-$$"
+        },
+        {
+          "key": "C",
+          "value": "$$ClO_3^-$$, $$CO_3^{2-}$$"
+        },
+        {
+          "key": "D",
+          "value": "$$CO_3^{2-}$$, SO<sub>3</sub>"
+        }
+      ],
+      "answer": "A",
+      "explanation": "<p>Isoelectronic species are those that have the same number of electrons. Isostructural species have the same geometric arrangement of atoms.</p>\n\n<p>First, let's determine if the given pairs are isoelectronic.</p>\n\n<ul>\n\n<li>$$NO_3^-$$: Nitrogen has 7 electrons, and each oxygen has 8 electrons. The negative charge adds one more electron. Therefore, $$NO_3^-$$ has $$7 + 3 \\cdot 8 + 1 = 32$$ electrons.</li>\n\n<li>$$CO_3^{2-}$$: Carbon has 6 electrons, each oxygen has 8 electrons, and the $${2-}$$ charge adds 2 more electrons. Therefore, $$CO_3^{2-}$$ has $$6 + 3 \\cdot 8 + 2 = 32$$ electrons.</li>\n\n<li>$$ClO_3^-$$: Chlorine has 17 electrons, each oxygen has 8 electrons, and the negative charge adds 1 more electron. Therefore, $$ClO_3^-$$ has $$17 + 3 \\cdot 8 + 1 = 42$$ electrons.</li>\n\n<li>$$SO_3$$: Sulfur has 16 electrons, and each oxygen has 8 electrons. Therefore, $$SO_3$$ has $$16 + 3 \\cdot 8 = 40$$ electrons.</li>\n\n</ul>\n\n<p>Based on the number of electrons, $$NO_3^-$$ and $$CO_3^{2-}$$ are isoelectronic.</p>\n\n<p>Now, let's determine if these species are isostructural. Both $$NO_3^-$$ and $$CO_3^{2-}$$ have a trigonal planar structure.</p>\n\n<p>Therefore, the correct option is:</p>\n\n<p><strong>Option A</strong>: $$NO_3^-$$, $$CO_3^{2-}$$</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Rutherford's experiment, which established the nuclear model of the atom, used a beam of",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$\\beta-particles$$, which impinged on a metal foil and got absorbed"
+        },
+        {
+          "key": "B",
+          "value": "$$\\gamma-particles$$, which impinged on a metal foil and ejected electrons"
+        },
+        {
+          "key": "C",
+          "value": "helium atoms, which impinged on a metal foil and got scattered"
+        },
+        {
+          "key": "D",
+          "value": "helium nuclei, which impinged on a metal foil and got scattered"
+        }
+      ],
+      "answer": "D",
+      "explanation": "<p>The correct option is <strong>Option D</strong>: helium nuclei, which impinged on a metal foil and got scattered.</p>\n\n<p>Rutherford's experiment is a landmark in the study of atomic structure. In this experiment, a beam of alpha particles, which are essentially helium nuclei (comprising two protons and two neutrons, and thus positively charged), was directed at a thin gold foil. Most of the alpha particles passed through the foil with little to no deflection, which suggested that atoms are mostly empty space. However, a small fraction of the alpha particles were deflected at large angles, and a very few even bounced back towards the source. This observation was unexpected based on the prevailing model of the atom at the time, which was J.J. Thomson's \"plum pudding\" model where the atom was thought to be a uniform sphere of positive charge with electrons embedded within it.</p>\n\n<p>The results of Rutherford's experiment led him to propose a new model of the atom, known as the nuclear model. In this model, an atom consists of a small, dense nucleus that contains most of the atom's mass and all of its positive charge, surrounded by electrons that occupy the remaining vast space of the atom. The nucleus is tiny compared to the overall size of the atom, explaining why most alpha particles passed through the foil unimpeded. The large deflections occurred when an alpha particle came close to the nucleus, being repelled by its positive charge. This discovery was fundamental in moving away from the idea of an atom as a homogenous sphere to an atom with a dense central nucleus around which electrons orbit.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "If the nitrogen atom has electronic configuration 1s<sup>7</sup>, it would have energy lower than that of the normal ground state configuration 1s<sup>2</sup>2s<sup>2</sup>2p<sup>3</sup>, because the electrons would be closer to the nucleus. Yet 1s<sup>7</sup> is not observed because it violates",
+      "options": [
+        {
+          "key": "A",
+          "value": "Heisenberg uncertainty principle"
+        },
+        {
+          "key": "B",
+          "value": "Hund's rule"
+        },
+        {
+          "key": "C",
+          "value": "Pauli exclusion principle"
+        },
+        {
+          "key": "D",
+          "value": "Bohr postulate of stationary orbits"
+        }
+      ],
+      "answer": "C",
+      "explanation": "<p>The correct answer is Option C: Pauli exclusion principle.</p>\n\n<p>The Pauli exclusion principle states that no two electrons can have the same set of four quantum numbers. In simpler terms, it means that each orbital can hold a maximum of two electrons, and these two electrons must have opposite spins. The quantum numbers that define an electron's state in an atom include the principal quantum number (n), the angular momentum quantum number (l), the magnetic quantum number (m<sub>l</sub>), and the spin quantum number (m<sub>s</sub>).</p>\n\n<p>The electronic configuration given as 1s<sup>7</sup> would imply trying to place seven electrons into the 1s orbital. However, an s orbital can accommodate a maximum of two electrons, provided they have opposite spins. This arrangement means that trying to place more than two electrons in the 1s orbital would indeed violate the Pauli exclusion principle because it would require at least some of these electrons to have the same set of quantum numbers, which is not possible.</p>\n\n<p>Let's briefly address why the other options do not fit:</p>\n\n<p>Option A: Heisenberg uncertainty principle concerns itself with the limit to which the position and momentum (or velocity) of an electron can be known simultaneously. This principle does not directly relate to the issue of how many electrons can occupy a given orbital or energy level.</p>\n\n<p>Option B: Hund's rule deals with the distribution of electrons across orbitals of the same energy (degeneracy). It states that electrons will fill each degenerate orbital singly before any orbital gets a second electron, and all singly occupied orbitals will have electrons with the same spin. This rule does not apply to the violation seen in the 1s<sup>7</sup> configuration.</p>\n\n<p>Option D: Bohr's postulate of stationary orbits pertains to the quantum condition that electrons orbit the nucleus in certain stable orbits without radiating energy. This principle is more historical and foundational to quantum theory and does not address the occupancy limits of orbitals or the exclusion principle directly.</p>\n\n<p>Therefore, the concept violated by having a 1s<sup>7</sup> configuration is the Pauli exclusion principle (Option C), as this configuration suggests more than two electrons attempting to occupy the same quantum state within the 1s orbital, which is not permissible.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The wavelength associated with a golf ball weighing 200 g and moving at speed of 5 m/h is of the order",
+      "options": [
+        {
+          "key": "A",
+          "value": "10<sup>-10</sup> m"
+        },
+        {
+          "key": "B",
+          "value": "10<sup>-20</sup> m"
+        },
+        {
+          "key": "C",
+          "value": "10<sup>-30</sup> m"
+        },
+        {
+          "key": "D",
+          "value": "10<sup>-40</sup> m"
+        }
+      ],
+      "answer": "C",
+      "explanation": "<p>To calculate the wavelength associated with a moving object, we use the de Broglie wavelength formula, which is given as:</p>\n\n<p>$$\\lambda = \\frac{h}{mv}$$</p>\n\n<p>where:</p>\n\n<ul>\n<li>$\\lambda$ is the wavelength,</li><br>\n<li>$h$ is the Planck constant ($6.626 \\times 10^{-34} \\, \\text{m}^2 \\text{kg} / \\text{s}$),</li><br>\n<li>$m$ is the mass of the object (in kg),</li><br>\n<li>$v$ is the velocity of the object (in m/s).</li>\n</ul>\n<p>Given that the golf ball weighs 200 g (which is 0.2 kg) and is moving at a speed of 5 m/h. First, let's convert the speed into m/s since the units need to be consistent:</p>\n\n<p>$ 5 \\, \\text{m/h} \\times \\left(\\frac{1 \\, \\text{h}}{3600 \\, \\text{s}}\\right) = \\frac{5}{3600} \\, \\text{m/s} = \\frac{1}{720} \\, \\text{m/s} $</p>\n\n<p>Now, we can substitute the values into the de Broglie equation:</p>\n\n<p>$ \\lambda = \\frac{6.626 \\times 10^{-34} \\, \\text{m}^2\\text{kg}/\\text{s}}{0.2 \\, \\text{kg} \\times \\frac{1}{720} \\, \\text{m/s}} $</p>\n\n<p>$ \\lambda = \\frac{6.626 \\times 10^{-34}}{0.2 \\times \\frac{1}{720}} = \\frac{6.626 \\times 10^{-34}}{\\frac{1}{3600}} $</p>\n\n<p>$ \\lambda = 6.626 \\times 10^{-34} \\times 3600 $</p>\n\n<p>$ \\lambda = 2.38536 \\times 10^{-30} \\, \\text{m} $</p>\n\n<p>The calculated wavelength is therefore of the order of $10^{-30}$ m.</p>\n\n<p>Correct Answer: <strong>Option C, $10^{-30}$ m</strong>.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The quantum numbers +1/2 and -1/2 for the electron spin represent ",
+      "options": [
+        {
+          "key": "A",
+          "value": "rotation of the electron in clockwise and anticlockwise direction respectively"
+        },
+        {
+          "key": "B",
+          "value": "rotation of the electron in anticlockwise and clockwise direction respectively"
+        },
+        {
+          "key": "C",
+          "value": "magnetic moment of the electron pointing up and down respectively"
+        },
+        {
+          "key": "D",
+          "value": "two quantum mechanical spin states which have no classical analogue"
+        }
+      ],
+      "answer": "D",
+      "explanation": "<p>The correct option is D: two quantum mechanical spin states which have no classical analogue. The concept of electron spin with quantum numbers +1/2 and -1/2 indeed represents two intrinsic angular momentum states of an electron, but it doesn't directly correspond to the physical picture of the electron spinning around its own axis like a planet, either clockwise or anticlockwise. This description of spin is a quantum mechanical property that has no classical analogue, meaning that it cannot be accurately described using classical physics concepts. These two states can be associated with the magnetic moment of the electron pointing in two opposite directions, often referred to simplistically as \"up\" and \"down\" in the context of its orientation in an external magnetic field, but it's important to understand this is a representation that helps visualize their quantum mechanical behavior regarding their interaction with magnetic fields, rather than a literal physical spinning.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The electronic configuration of an element is 1s<sup>2</sup>, 2s<sup>2</sup> 2p<sup>6</sup>, 3s<sup>2</sup> 3p<sup>6</sup> 3d<sup>5</sup>,  4s<sup>1</sup> This represents its",
+      "options": [
+        {
+          "key": "A",
+          "value": "excited state"
+        },
+        {
+          "key": "B",
+          "value": "ground state"
+        },
+        {
+          "key": "C",
+          "value": "cationic form"
+        },
+        {
+          "key": "D",
+          "value": "anionic form"
+        }
+      ],
+      "answer": "B",
+      "explanation": "<p>The electronic configuration provided is: 1s<sup>2</sup>, 2s<sup>2</sup> 2p<sup>6</sup>, 3s<sup>2</sup> 3p<sup>6</sup> 3d<sup>5</sup>, 4s<sup>1</sup>. This configuration gives us a total electron count of $2 + 2 + 6 + 2 + 6 + 5 + 1 = 24$ electrons, which is precisely the number of electrons that chromium (Cr), an element with atomic number 24, possesses in its neutral state.</p>\n\n<p>However, the standard ground state electron configuration for chromium is typically written as: $$1s^2 2s^2 2p^6 3s^2 3p^6 3d^5 4s^1$$ This is due to the increased stability offered by having a half-filled d-subshell, which is an exception to the expected order where the 4s orbital is filled before the 3d orbitals begin to fill. Despite this seeming irregularity, this electron configuration does not represent an excited state; rather, it's a common anomaly observed due to subshell energy levels and the stability provided by half-filled or fully filled subshells.</p>\n\n<p>Given the options:</p>\n\n<ul>\n\n<li><strong>Option A - Excited State:</strong> This is not correct because the configuration provided does match chromium’s recognized ground state configuration, due to the stability preferences of electron arrangements.</li>\n\n<li><strong>Option B - Ground State:</strong> This is correct because this configuration corresponds to the stable configuration for chromium, taking into account the exception for electron distribution for enhanced stability due to half-filled d-subshells.</li>\n\n<li><strong>Option C - Cationic Form:</strong> This is not correct because a cationic form would suggest the loss of electrons, which is not indicated in this configuration.</li>\n\n<li><strong>Option D - Anionic Form:</strong> This is not correct because an anionic form would imply the addition of electrons, which is also not indicated in this configuration.</li>\n\n</ul>\n\n<p>Therefore, the correct answer is <strong>Option B - Ground State</strong>.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The number of nodal planes in a p<sub>x</sub> orbital is",
+      "options": [
+        {
+          "key": "A",
+          "value": "one"
+        },
+        {
+          "key": "B",
+          "value": "two"
+        },
+        {
+          "key": "C",
+          "value": "three"
+        },
+        {
+          "key": "D",
+          "value": "zero"
+        }
+      ],
+      "answer": "A",
+      "explanation": "<p>The number of nodal planes in an atomic orbital refers to the planes through the nucleus where the probability of finding an electron is zero. For a p<sub>x</sub> orbital, which is one of the three p orbitals (px, py, pz), the characteristic feature is its dumbbell-shaped electron cloud which is symmetric about the nucleus and is oriented along the x-axis (assuming px for this case).</p>\n\n<p>A nodal plane is essentially a region that divides the electron cloud of an orbital into two or more parts where the probability of finding an electron is zero. In the case of p orbitals, there is a central nodal plane that passes through the nucleus and is perpendicular to the axis along which the orbital is oriented. For the p<sub>x</sub> orbital, this central nodal plane is oriented such that it divides the orbital into two lobes along the y and z axes. This means there is one nodal plane in the p<sub>x</sub> orbital, where the probability of finding an electron is zero.</p>\n\n<p>Therefore, the correct answer is:</p>\n\n<p><b>Option A: one</b></p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The electrons, identified by quantum numbers n and l, (i) n = 4, l = 1, (ii) n = 4, l = 0, (iii) n = 3, l = 2 and (iv) n = 3, l = 1 can be placed in order of increasing energy, from the lowest to highest, as",
+      "options": [
+        {
+          "key": "A",
+          "value": "(iv)&lt;(ii)&lt;(iii)&lt;(i)"
+        },
+        {
+          "key": "B",
+          "value": "(ii)&lt;(iv)&lt;(i)&lt;(iii)"
+        },
+        {
+          "key": "C",
+          "value": "(i)&lt;(iii)&lt;(ii)&lt;(iv)"
+        },
+        {
+          "key": "D",
+          "value": "(iii)&lt;(i)&lt;(iv)&lt;(ii)"
+        }
+      ],
+      "answer": "A",
+      "explanation": "<p>To place the electrons in order of increasing energy based on their quantum numbers, we consider the principles that dictate electron energy levels in atoms. The energy of an electron in an atom is primarily determined by its principal quantum number ($n$) and azimuthal (or angular momentum) quantum number ($l$). Generally, the energy of an electron increases with an increase in the $n$ value. However, for electrons within the same $n$ level, those with higher $l$ values have slightly higher energies due to electron penetration and shielding effects. In multi-electron atoms, due to electron-electron repulsion and orbital shapes, orbitals with the same $n$ but different $l$ values do not have the same energy.</p>\n\n<p>Given the quantum numbers:</p>\n\n<ul>\n\n<li>(i) $n = 4, l = 1$</li>\n\n<li>(ii) $n = 4, l = 0$</li>\n\n<li>(iii) $n = 3, l = 2$</li>\n\n<li>(iv) $n = 3, l = 1$</li>\n\n</ul>\n\n<p>We'll arrange them in order of increasing energy.</p>\n\n<p>The principal quantum number, $n$, primarily determines the energy level. Hence, states with $n = 3$ would generally have lower energy compared to states with $n = 4$. Within the same $n$ level, the energy increases with $l$. Thus, a higher $l$ value indicates a slightly higher energy within the same $n$ level.</p>\n\n<p>Based on these guidelines, we can place the given states in the following order:</p>\n\n<ol>\n\n<li>(iv) $n = 3, l = 1$</li>\n\n<li>(iii) $n = 3, l = 2$</li>\n\n<li>(ii) $n = 4, l = 0$</li>\n\n<li>(i) $n = 4, l = 1$</li>\n\n</ol>\n\n<p>So, the electrons in order of increasing energy, from the lowest to highest, are <b>Option A (iv)&lt;(iii)&lt;(ii)&lt;(i)</b>. This ranking reflects that within the same principal quantum number, $n$, the electron energy increases with the azimuthal quantum number, $l$, and electrons with a lower principal quantum number typically have lower energy than those with a higher $n$.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<b>ASSERTION:</b><br>\nNuclide $${}_{13}^{30}Al$$ is less stable than $${}_{20}^{40}Ca$$<br><br>\n<b>REASON:</b><br>\nNuclides having odd number of protons and neutrons are generally unstable.",
+      "options": [
+        {
+          "key": "A",
+          "value": "If both assertion and reason are correct, and reason is the correct explanation of the assertion."
+        },
+        {
+          "key": "B",
+          "value": "If both assertion and reason are correct, and reason is not the correct explanation of the assertion."
+        },
+        {
+          "key": "C",
+          "value": "If assertion is correct but reason is incorrect."
+        },
+        {
+          "key": "D",
+          "value": "If assertion is incorrect but reason is correct."
+        }
+      ],
+      "answer": "C",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "For a d-electron the orbital angular momentum is",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$\\sqrt 6 \\left( {h/2\\pi } \\right)$$ "
+        },
+        {
+          "key": "B",
+          "value": "$$\\sqrt 2 \\left( {h/2\\pi } \\right)$$"
+        },
+        {
+          "key": "C",
+          "value": "$$ \\left( {h/2\\pi } \\right)$$"
+        },
+        {
+          "key": "D",
+          "value": "$$2 \\left( {h/2\\pi } \\right)$$ "
+        }
+      ],
+      "answer": "A",
+      "explanation": "<p>The orbital angular momentum (L) of an electron in an atom is given by the formula:</p>\n\n<p>$$L = \\sqrt{l(l + 1)}\\left(\\frac{h}{2\\pi}\\right)$$</p>\n\n<p>where $l$ is the azimuthal quantum number or orbital quantum number, and $h$ is the Planck constant. The azimuthal quantum number $l$ determines the shape of the orbital and for a given electron shell $n$, $l$ can have values from 0 to $n-1$. </p>\n\n<p>For a d-electron, the value of $l$ is 2, since the orbitals are designated as follows: </p>\n\n<ul>\n\n<li>s-orbital: $l = 0$</li>\n\n<li>p-orbital: $l = 1$</li>\n\n<li>d-orbital: $l = 2$</li>\n\n<li>f-orbital: $l = 3$</li>\n\n</ul>\n\n<p>Substituting $l = 2$ into the formula for orbital angular momentum, we get:</p>\n\n<p>$$L = \\sqrt{2(2 + 1)}\\left(\\frac{h}{2\\pi}\\right) = \\sqrt{6}\\left(\\frac{h}{2\\pi}\\right)$$</p>\n\n<p>This shows that the correct option for the orbital angular momentum of a d-electron is Option A:</p>\n\n<p>$$\\sqrt{6}\\left(\\frac{h}{2\\pi}\\right)$$</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The orbital angular momentum of an electron in 2s orbital is",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$ + {1 \\over 2}.{h \\over {2\\pi }}$$ "
+        },
+        {
+          "key": "B",
+          "value": "Zero"
+        },
+        {
+          "key": "C",
+          "value": "$${h \\over {2\\pi }}$$"
+        },
+        {
+          "key": "D",
+          "value": "$$\\sqrt 2 .{h \\over {2\\pi }}$$"
+        }
+      ],
+      "answer": "B",
+      "explanation": "<p>The correct answer is Option B: Zero.</p>\n\n<p>Orbital angular momentum of an electron in any given orbital is determined by the azmuthal quantum number (l), which defines the shape of the orbital. The formula to calculate the magnitude of orbital angular momentum is given by: $$L = \\sqrt{l(l+1)} \\frac{h}{2\\pi}$$ where $L$ is the orbital angular momentum, $l$ is the azmuthal quantum number, and $h$ is Planck's constant.</p>\n\n<p>For an electron in a 2s orbital, the principal quantum number, $n$, is 2, and the azmuthal quantum number, $l$, for an s orbital is 0 (since the value of $l$ ranges from 0 to $n-1$).</p>\n\n<p>Putting $l=0$ in the formula gives:</p>\n\n<p>$$L = \\sqrt{0(0+1)} \\frac{h}{2\\pi} = 0$$</p>\n\n<p>Thus, the orbital angular momentum of an electron in a 2s orbital is Zero, as there is no angular momentum associated with s orbitals owing to their spherical symmetry.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A 3p orbital has",
+      "options": [
+        {
+          "key": "A",
+          "value": "two non spherical nodes"
+        },
+        {
+          "key": "B",
+          "value": "two spherical nodes"
+        },
+        {
+          "key": "C",
+          "value": "one spherical and one non spherical node"
+        },
+        {
+          "key": "D",
+          "value": "one spherical and two non spherical nodes"
+        }
+      ],
+      "answer": "C",
+      "explanation": "<p>To determine the number and types of nodes in a 3p orbital, we need to understand what nodes are and specifically look at the quantum numbers associated with the 3p orbital.</p>\n\n<p>Nodes are regions in an atomic orbital where the probability of finding an electron is zero. There are two types of nodes: radial (or spherical) nodes and angular (or nodal planes).</p>\n\n<p>The number of radial nodes in an orbital can be found using the formula:</p>\n\n\n\n<p>$\\text{Number of radial nodes} = n - l - 1$</p>\n\n\n\n<p>Where $n$ is the principal quantum number and $l$ is the azimuthal (angular momentum) quantum number.</p>\n\n<p>For a 3p orbital, $n = 3$ and $l = 1$ (since p orbitals correspond to $l = 1$). Substituting these values into the formula gives:</p>\n\n\n\n<p>$\\text{Number of radial nodes} = 3 - 1 - 1 = 1$</p>\n\n\n\n<p>This means there is one radial (spherical) node in a 3p orbital.</p>\n\n<p>The number of angular nodes is directly related to the azimuthal quantum number $l$. Specifically, the number of angular nodes is equal to $l$.</p>\n\n<p>Since $l = 1$ for p orbitals, there is one angular (non-spherical) node. This is a plane that passes through the nucleus, dividing the orbital into two lobes where the probability of finding an electron is zero.</p>\n\n<p>Thus, a 3p orbital has one spherical (radial) node and one non-spherical (angular) node. This corresponds to <strong>Option C</strong>: one spherical and one non spherical node.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Which of the following does not characterise X-rays?",
+      "options": [
+        {
+          "key": "A",
+          "value": "The radiation can ionise gases"
+        },
+        {
+          "key": "B",
+          "value": "It causes ZnS to fluorescence"
+        },
+        {
+          "key": "C",
+          "value": "Deflected by electric and magnetic fields"
+        },
+        {
+          "key": "D",
+          "value": "Have wavelengths shorter than ultraviolet rays"
+        }
+      ],
+      "answer": "C",
+      "explanation": "<p>The option that does not characterize X-rays is Option C: Deflected by electric and magnetic fields.</p>\n\n<p>X-rays are a form of electromagnetic radiation, like light or radio waves, but they have much shorter wavelengths and higher energy. Here's a brief explanation of each option:</p>\n\n<p><strong>Option A: The radiation can ionise gases</strong><br>\n\n<p>X-rays have enough energy to remove electrons from atoms or molecules, thereby ionizing the gases. This is one of the properties that makes X-rays extremely useful in medical imaging and industrial applications, as they can penetrate materials and reveal information based on the level of ionization that occurs.</p></p>\n\n<p><strong>Option B: It causes ZnS to fluorescence</strong><br>\n\n<p>When X-rays strike certain materials, they can cause these materials to emit light in a process known as fluorescence. Zinc sulfide (ZnS) is one such material that fluoresces upon exposure to X-rays. This property is utilized in X-ray screens and detectors.</p></p>\n\n<p><strong>Option C: Deflected by electric and magnetic fields</strong><br>\n\n<p>This statement is false in the context of X-rays and is what sets them apart from charged particles. X-rays, being electromagnetic radiation, are not deflected by electric or magnetic fields. This property is contrasted with charged particles such as electrons, which can be deflected by these fields. Electromagnetic waves, including X-rays, propagate in a straight line and are unaffected by electric and magnetic fields because they carry no charge.</p></p>\n\n<p><strong>Option D: Have wavelengths shorter than ultraviolet rays</strong><br>\n\n<p>X-rays do indeed have wavelengths shorter than ultraviolet rays. The electromagnetic spectrum is ordered by wavelength and frequency, with X-rays situated between ultraviolet rays and gamma rays. The shorter the wavelength, the higher the energy of the electromagnetic waves. X-rays typically have wavelengths in the range of 0.01 to 10 nanometers, indicating higher energy and allowing them to penetrate many materials.</p></p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Which of the following relates to photons both as wave motion and as a stream of particles?",
+      "options": [
+        {
+          "key": "A",
+          "value": "Inference"
+        },
+        {
+          "key": "B",
+          "value": "E = mc<sup>2</sup>"
+        },
+        {
+          "key": "C",
+          "value": "Diffraction"
+        },
+        {
+          "key": "D",
+          "value": "E = hv"
+        }
+      ],
+      "answer": "D",
+      "explanation": "<p>The relation that connects photons both as wave motion and as a stream of particles is Option D, $E = hv$. This equation is known as the Planck-Einstein relation. Here, $E$ stands for the energy of a single photon, $h$ is Planck's constant ($6.626 \\times 10^{-34}$ m<sup>2</sup>kg/s), and $v$ (or $f$ in some texts) represents the frequency of the electromagnetic wave associated with the photon.</p>\n\n<p>This equation encapsulates the dual nature of light and all electromagnetic radiation, embodying both wave and particle characteristics. The wave aspect is captured through the frequency ($v$), which is a fundamental property of waves. The particle aspect is represented by quantizing the energy in discrete packets called photons, with each photon having a quantum of energy $E$.</p>\n\n<p>In contrast, Option A (Interference) and Option C (Diffraction) are phenomena that demonstrate the wave nature of light, and Option B ($E = mc^2$), Einstein's mass-energy equivalence, describes how mass and energy are related but is not directly related to the dual characteristic of photons.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The correct set of quantum numbers for the unpaired electron of chlorine atom is",
+      "options": [
+        {
+          "key": "A",
+          "value": "n = 2, l = 1, m = 0"
+        },
+        {
+          "key": "B",
+          "value": "n = 2, l = 1, m = 1"
+        },
+        {
+          "key": "C",
+          "value": "n = 3, l = 1, m = 1"
+        },
+        {
+          "key": "D",
+          "value": "n = 3, l = 0, m = 0"
+        }
+      ],
+      "answer": "C",
+      "explanation": "<p>To identify the correct set of quantum numbers for the unpaired electron in a chlorine atom, we first need to understand the electronic configuration of chlorine. The electronic configuration of chlorine (atomic number 17) is $1s^2 2s^2 2p^6 3s^2 3p^5$. The outer shell configuration, where the unpaired electron resides, is $3p^5$. This means the unpaired electron is in the 3p orbital.</p>\n\n<p>The quantum numbers designate the following:</p>\n\n<ul>\n\n<li>$n$ is the principal quantum number, indicating the energy level.</li>\n\n<li>$l$ is the azimuthal (or angular momentum) quantum number, indicating the shape of the orbital.</li>\n\n<li>$m_l$ (or simply $m$ here) is the magnetic quantum number, indicating the orientation of the orbital.</li>\n\n</ul>\n\n<p>For the 3p orbital, which is where our unpaired electron is:</p>\n\n<ul>\n\n<li>$n = 3$ because the electron is in the third energy level.</li>\n\n<li>$l = 1$ because for p orbitals, $l = 1$.</li>\n\n<li>$m$ could be -1, 0, or 1 because for $l = 1$, $m_l$ can take values from $-l$ to $+l$.</li>\n\n</ul>\n\n<p>Given that chlorine's 3p orbital has 5 electrons, they would fill the three p orbitals ($m_l = -1, 0, 1$) as follows: one electron each in the $m_l = -1$ and $m_l = 1$ orbitals, and the three remaining electrons would begin to pair up. Since each p orbital (with a distinct $m_l$ value) can hold two electrons, by the time we are placing the fifth electron, we have already placed two electrons in the $m_l = -1$ and $0$ orbitals (assuming we fill them first and follow Hund’s rule, which states that electrons fill each orbital singly before any orbital gets a second electron). Thus, the unpaired electron would be the one in the $m_l = 1$ orbital because it is the last to receive an electron, making it unpaired.</p>\n\n<p>Therefore, the correct set of quantum numbers for the unpaired electron in a chlorine atom is: </p>\n\n<ul>\n\n<li>$n = 3$</li>\n\n<li>$l = 1$</li>\n\n<li>$m = 1$</li>\n\n</ul>\n\n<p>This matches with <strong>Option C</strong>: $n = 3$, $l = 1$, $m = 1$.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The correct ground state electronic configuration of chromium atom is",
+      "options": [
+        {
+          "key": "A",
+          "value": "[Ar] 3d<sup>5</sup> 4s<sup>1</sup>"
+        },
+        {
+          "key": "B",
+          "value": "[Ar] 3d<sup>4</sup> 4s<sup>2</sup>"
+        },
+        {
+          "key": "C",
+          "value": "[Ar] 3d<sup>6</sup> 4s<sup>0</sup>"
+        },
+        {
+          "key": "D",
+          "value": "[Ar] 4d<sup>5</sup> 4s<sup>1</sup>"
+        }
+      ],
+      "answer": "A",
+      "explanation": "<p>The correct ground state electronic configuration of a chromium (Cr) atom is Option A: [Ar] 3d<sup>5</sup> 4s<sup>1</sup>.</p>\n\n<p>To understand why, we need to recall that chromium is an exception to the general rule of electron configurations. Normally, we would follow the Aufbau principle to sequentially fill the 4s orbital before the 3d orbitals. This would suggest an expected configuration similar to Option B, [Ar] 3d<sup>4</sup> 4s<sup>2</sup>, for a chromium atom. However, chromium is an exception due to the extra stability provided by a half-filled d subshell.</p>\n\n<p>Electron configurations for elements are determined by the principles of lower energy and higher stability. Half-filled and fully-filled subshells (like 3d<sup>5</sup> and 3d<sup>10</sup>) are particularly stable configurations. For chromium, the configuration [Ar] 3d<sup>5</sup> 4s<sup>1</sup> offers a lower energy state compared to a completely filled 4s orbital and a less-than-half-filled 3d orbital. By having five electrons in the 3d subshell and only one in the 4s, both stability and a lower energy configuration are achieved.</p>\n\n<p>Therefore, the correct answer is:</p>\n<p>Option A: [Ar] 3d<sup>5</sup> 4s<sup>1</sup>.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The outermost electronic configuration of the most electronegative element is",
+      "options": [
+        {
+          "key": "A",
+          "value": "ns<sup>2</sup> np<sup>3</sup>"
+        },
+        {
+          "key": "B",
+          "value": "ns<sup>2</sup> np<sup>4</sup>"
+        },
+        {
+          "key": "C",
+          "value": "ns<sup>2</sup> np<sup>5</sup>"
+        },
+        {
+          "key": "D",
+          "value": "ns<sup>2</sup> np<sup>6</sup>"
+        }
+      ],
+      "answer": "C",
+      "explanation": "<p>The most electronegative element is fluorine, which is located in the halogen group (Group 17) of the periodic table. Electronegativity is a measure of the tendency of an atom to attract a bonding pair of electrons. Fluorine has the highest electronegativity value because of its small size and the high effective nuclear charge it can exert on the bonding electrons. The outermost electronic configuration of an element determines its chemical properties including its electronegativity.</p>\n\n<p>The general outer electronic configuration of Group 17 elements (halogens) is $$ns^2 np^5$$. This configuration indicates that in the outermost shell, there are two electrons in the s orbital ($$ns^2$$) and five electrons in the p orbitals ($$np^5$$). These elements require only one more electron to achieve the stable electronic configuration of a noble gas (which has a full valence shell). This high affinity for electrons is what makes the halogens, and fluorine in particular, very electronegative.</p>\n\n<p>Therefore, the correct answer is:</p>\n\n<p>Option C: $$ns^2 np^5$$</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The triad of nuclei that is isotonic is",
+      "options": [
+        {
+          "key": "A",
+          "value": "$${}_6^{14}C$$, $${}_7^{15}N$$, $${}_9^{17}C$$"
+        },
+        {
+          "key": "B",
+          "value": "$${}_6^{12}C$$, $${}_7^{14}N$$, $${}_9^{19}C$$"
+        },
+        {
+          "key": "C",
+          "value": "$${}_6^{14}C$$, $${}_7^{14}N$$, $${}_9^{17}C$$"
+        },
+        {
+          "key": "D",
+          "value": "$${}_6^{14}C$$, $${}_7^{14}N$$, $${}_9^{19}C$$"
+        }
+      ],
+      "answer": "A",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The wavelength of a spectral line for an electronic transition is inversely related to :",
+      "options": [
+        {
+          "key": "A",
+          "value": "The number of electrons undergoing the trasition"
+        },
+        {
+          "key": "B",
+          "value": "The nuclear charge of the atom"
+        },
+        {
+          "key": "C",
+          "value": "the difference in the energy of the energy levels involved in the transition"
+        },
+        {
+          "key": "D",
+          "value": "the velocity of the electron undergoing the transition"
+        }
+      ],
+      "answer": "C",
+      "explanation": "<p>The wavelength of a spectral line for an electronic transition in an atom or molecule is determined by the difference in energy ($E$) between the two energy levels involved in the transition. According to the Planck relation, the energy difference between the two levels is related to the frequency ($f$) of the emitted or absorbed radiation by $E = hf$, where $h$ is Planck's constant. The frequency ($f$) of the radiation is related to its wavelength ($\\lambda$) and the speed of light ($c$) by the equation $c = \\lambda f$. Combining these equations gives us the relation $\\lambda = \\frac{hc}{E}$.\n\n<p>Option A, \"The number of electrons undergoing the transition,\" does not directly affect the wavelength of the spectral line. The wavelength is determined by the energy difference between the initial and final states of the transition, not the number of electrons involved.</p>\n\n<p>Option B, \"The nuclear charge of the atom,\" indirectly affects the energy levels of electrons in the atom, particularly for hydrogen-like atoms where the energy levels are indeed dependent on the nuclear charge. However, the primary relationship between wavelength and an atomic property is not directly with nuclear charge but with the energy difference between levels, which can be influenced by nuclear charge among other factors.</p>\n\n<p>Option C, \"The difference in the energy of the energy levels involved in the transition,\" is the correct option. As explained, the wavelength ($\\lambda$) of the emitted or absorbed radiation is directly related to the energy difference ($E$) between the two levels involved in the transition by the equation $\\lambda = \\frac{hc}{E}$, making the relationship inverse as stated in the question.</p>\n\n<p>Option D, \"The velocity of the electron undergoing the transition,\" does not directly determine the wavelength of the spectral line. While the velocity of an electron can influence its kinetic energy, and thus indirectly affect transitions and spectral lines in specific contexts (such as Doppler broadening), the primary relationship is between the wavelength and the energy difference of the levels involved in the transition.</p>\n\n<p>Therefore, the correct answer is Option C: \"The difference in the energy of the energy levels involved in the transition.\" This highlights the inverse relationship between the wavelength of a spectral line and the energy difference of the transition involved.</p></p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Rutherford's alpha particle scattering experiment eventually led to the conclusion that:",
+      "options": [
+        {
+          "key": "A",
+          "value": "mass and energy are related"
+        },
+        {
+          "key": "B",
+          "value": "electrons occupy space around the nucleus"
+        },
+        {
+          "key": "C",
+          "value": "neutrons are buried deep in the nucleus"
+        },
+        {
+          "key": "D",
+          "value": "the point of impact with matter can be precisely determined"
+        }
+      ],
+      "answer": "B",
+      "explanation": "<p>Rutherford's alpha particle scattering experiment, conducted by Ernest Rutherford in the early 20th century, was a groundbreaking experiment that led to a fundamental change in how scientists understood the structure of atoms. In this experiment, Rutherford and his team fired alpha particles (helium nuclei) at a thin sheet of gold foil. They observed the scattering of these alpha particles, expecting most to pass straight through the foil with minimal deflection, as was predicted by the plum pudding model of the atom prevalent at the time. This model posited that atoms were composed of a diffuse cloud of positive charge within which electrons were embedded like plums in a pudding.</p>\n\n<p>However, Rutherford observed that a small fraction of alpha particles were deflected at very large angles, with some even bouncing back towards the source. This was a completely unexpected result and could not be explained by the plum pudding model. Rutherford proposed a new model of the atom to account for these observations. He suggested that instead of being distributed throughout the atom, as the plum pudding model proposed, the positive charge (and most of the atom's mass) was concentrated in a very small, dense region at the center of the atom. He called this the nucleus. The electrons then occupied the space around the nucleus, much like planets orbiting the sun. This model explained why most of the alpha particles passed through the gold foil (they passed through the empty space around the nucleus) and why some were deflected at large angles (they came close to or collided with the dense, positively charged nucleus).</p>\n\n<p>Based on this information, the correct conclusion that can be drawn from Rutherford's alpha particle scattering experiment is:</p>\n\n<p>Option B: electrons occupy space around the nucleus.</p>\n\n<p>This conclusion was revolutionary because it overthrew the then-accepted plum pudding model and led to the planetary model of the atom, where a dense nucleus is surrounded by electrons in orbit. It specifically emphasized the existence of a central nucleus within the atom, around which electrons move, rather than being about the relationship between mass and energy (A), the specific structure of the nucleus in terms of protons and neutrons (C), or the precision of impact points with matter (D).</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The sum of the number of neutrons and proton in the isotope of hydrogen is",
+      "options": [
+        {
+          "key": "A",
+          "value": "6"
+        },
+        {
+          "key": "B",
+          "value": "2"
+        },
+        {
+          "key": "C",
+          "value": "4"
+        },
+        {
+          "key": "D",
+          "value": "3"
+        }
+      ],
+      "answer": "D",
+      "explanation": "<p>The isotope of hydrogen referred to in the question is not explicitly mentioned, so we will consider all possible isotopes of hydrogen to address the query properly. Hydrogen has three isotopes: protium ($^1H$), deuterium ($^2H$), and tritium ($^3H$). The sum of the number of neutrons and protons (nucleons) in each isotope gives us:</p>\n\n<ul>\n\n<li>Protium ($^1H$): It has 1 proton and 0 neutrons, so the sum is $1 + 0 = 1$.</li>\n\n<li>Deuterium ($^2H$): It has 1 proton and 1 neutron, so the sum is $1 + 1 = 2$.</li>\n\n<li>Tritium ($^3H$): It has 1 proton and 2 neutrons, so the sum is $1 + 2 = 3$.</li>\n\n</ul>\n\n<p>Among the provided options, <strong>Option D: 3</strong> is correct for tritium, the third isotope of hydrogen. Therefore, the sum of the number of protons and neutrons in the tritium isotope of hydrogen is 3.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The ratio of the energy of a photon of 2000Å wavelength to that 4000Å radiation is",
+      "options": [
+        {
+          "key": "A",
+          "value": "1/4"
+        },
+        {
+          "key": "B",
+          "value": "4"
+        },
+        {
+          "key": "C",
+          "value": "1/2"
+        },
+        {
+          "key": "D",
+          "value": "2"
+        }
+      ],
+      "answer": "D",
+      "explanation": "<p>To solve this problem, we need to understand the relationship between the energy of a photon and its wavelength. The energy of a photon (E) can be calculated using the equation:</p>\n\n<p>$$E = \\frac{hc}{\\lambda}$$</p>\n\n<p>where:\n\n<ul>\n<li>$E$ is the energy of the photon,</li><br>\n<li>$h$ is Planck's constant ($6.626 \\times 10^{-34} \\, \\text{J s}$),</li><br>\n<li>$c$ is the speed of light in vacuum ($3.0 \\times 10^8 \\, \\text{m/s}$),</li><br>\n<li>$\\lambda$ is the wavelength of the photon.</p></li>\n</ul>\n<p>Let's denote the energy of a photon with a wavelength of 2000Å as $E_1$, and the energy of a photon with a wavelength of 4000Å as $E_2$. We need to find the ratio $\\frac{E_1}{E_2}$.</p>\n\n<p>First, convert wavelengths from Ångströms to meters, since the constants are in SI units:\n\n<p>1Å = $10^{-10}$ meters.</p>\n\n<ul>\n<li>So, 2000Å = $2000 \\times 10^{-10}$ meters = $2 \\times 10^{-7}$ meters.</li><br>\n<li>And 4000Å = $4000 \\times 10^{-10}$ meters = $4 \\times 10^{-7}$ meters.</p></li>\n</ul>\n<p>Next, we can substitute the values into the energy equation for both $E_1$ and $E_2$ and then find their ratio:</p>\n\n<p>$$E_1 = \\frac{hc}{\\lambda_1} = \\frac{6.626 \\times 10^{-34} \\times 3.0 \\times 10^8}{2 \\times 10^{-7}}$$</p>\n\n<p>$$E_2 = \\frac{hc}{\\lambda_2} = \\frac{6.626 \\times 10^{-34} \\times 3.0 \\times 10^8}{4 \\times 10^{-7}}$$</p>\n\n<p>Now, let's find the ratio $\\frac{E_1}{E_2}$:</p>\n\n<p>$$\\frac{E_1}{E_2} = \\frac{\\frac{6.626 \\times 10^{-34} \\times 3.0 \\times 10^8}{2 \\times 10^{-7}}}{\\frac{6.626 \\times 10^{-34} \\times 3.0 \\times 10^8}{4 \\times 10^{-7}}} = \\frac{4 \\times 10^{-7}}{2 \\times 10^{-7}} = 2$$</p>\n\n<p>Therefore, the ratio of the energy of a photon of 2000Å wavelength to that of a 4000Å radiation is 2. Hence, the correct answer is:</p>\n\n<p>Option D: 2</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Which one of the following sets of quantum numbers represents an impossible arrangement?",
+      "options": [
+        {
+          "key": "A",
+          "value": "n = 3, l = 2, m<sub>l</sub> = -2, m<sub>s</sub> = 1/2"
+        },
+        {
+          "key": "B",
+          "value": "n = 4, l = 0, m<sub>l</sub> = 0, m<sub>s</sub> = 1/2"
+        },
+        {
+          "key": "C",
+          "value": "n = 3, l = 2, m<sub>l</sub> = -3, m<sub>s</sub> = 1/2"
+        },
+        {
+          "key": "D",
+          "value": "n = 5, l = 3, m<sub>l</sub> = 0, m<sub>s</sub> = -1/2"
+        }
+      ],
+      "answer": "C",
+      "explanation": "<p>To determine which set of quantum numbers represents an impossible arrangement, we need to understand the rules governing the values of these quantum numbers:</p>\n\n<ol>\n\n<li><strong>Principal Quantum Number ($n$)</strong>: Represents the shell (energy level) of an electron in an atom and can take positive integer values such that $n = 1, 2, 3, \\ldots$</li>\n\n<li><strong>Azimuthal (or Angular Momentum) Quantum Number ($l$)</strong>: Defines the shape of the orbital, and for any given $n$, $l$ can take values from $0$ to $n - 1$. For example, if $n = 3$, then $l$ can be $0$, $1$, or $2$.</li>\n\n<li><strong>Magnetic Quantum Number ($m_{l}$)</strong>: Describes the orientation of the orbital in space relative to the other orbitals and can have integer values ranging from $-l$ to $+l$, including zero. Thus, for $l = 2$, $m_{l}$ can be $-2, -1, 0, 1, 2$.</li>\n\n<li><strong>Spin Quantum Number ($m_{s}$)</strong>: Specifies the spin of the electron and can take values of $-1/2$ or $+1/2$.</li>\n\n</ol>\n\n<p>Now, let's evaluate the given options:</p>\n\n<p>Option A: $n = 3, l = 2, m_{l} = -2, m_{s} = 1/2$</p>\n\n<p>This set of quantum numbers is possible because:\n\n<ul>\n<li>With $n = 3$, $l$ can be $0$, $1$, or $2$, so $l = 2$ is valid.</li><br>\n<li>For $l = 2$, $m_{l}$ can range from $-2$ to $2$, so $m_{l} = -2$ is valid.</li><br>\n<li>$m_{s}$ has a valid value of $1/2$.</p></li>\n</ul>\n<p>Option B: $n = 4, l = 0, m_{l} = 0, m_{s} = 1/2$</p>\n\n<p>This combination is also correct because:\n\n<ul>\n<li>With $n = 4$, $l$ can be $0, 1, 2, 3$, hence $l = 0$ is valid.</li><br>\n<li>For $l = 0$, the only valid value for $m_{l}$ is $0$, which matches.</li><br>\n<li>$m_{s} = 1/2$ is a valid value for the spin quantum number.</p></li>\n</ul>\n<p>Option C: $n = 3, l = 2, m_{l} = -3, m_{s} = 1/2$</p>\n\n<p>This set of quantum numbers is impossible because:\n\n<ul>\n<li>Although $n = 3$ and $l = 2$ are valid combinations, for $l = 2$, $m_{l}$ can only be $-2, -1, 0, 1,$ or $2$. The value of $m_{l} = -3$ is outside this permissible range, making this set of quantum numbers impossible.</p></li>\n</ul>\n<p>Option D: $n = 5, l = 3, m_{l} = 0, m_{s} = -1/2$</p>\n\n<p>This option is also possible because:\n\n<ul>\n<li>With $n = 5$, $l = 3$ is within the valid range ($0$ through $4$).</li><br>\n<li>For $l = 3$, $m_{l} = 0$ falls within the valid range ($-3, -2, -1, 0, 1, 2, 3$).</li><br>\n<li>$m_{s} = -1/2$ is a valid spin quantum number value.</p></li>\n</ul>\n<p>Therefore, the impossible arrangement among the given options is Option C: $n = 3, l = 2, m_{l} = -3, m_{s} = 1/2$.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The radius of an atomic nucleus is of the order of",
+      "options": [
+        {
+          "key": "A",
+          "value": "10<sup>-10</sup> cm"
+        },
+        {
+          "key": "B",
+          "value": "10<sup>-13</sup> cm"
+        },
+        {
+          "key": "C",
+          "value": "10<sup>-15</sup> cm"
+        },
+        {
+          "key": "D",
+          "value": "10<sup>-8</sup> cm"
+        }
+      ],
+      "answer": "B",
+      "explanation": "<p>The size of an atomic nucleus can be understood in terms of its radius, though it's important to note that nuclei are not always perfectly spherical. The radius, $ R $, of a nucleus is often given by the formula $ R = R_0 A^{1/3} $, where $ R_0 $ is a constant approximately equal to $ 1.2 \\times 10^{-15} $ meters (or $ 1.2 \\times 10^{-13} $ cm) and $ A $ is the mass number of the atom (which represents the total number of protons and neutrons in the nucleus).</p>\n\n<p>Based on this formula, we can see that the order of magnitude for the size of a nucleus is indeed very small. The given options are:</p>\n\n<ul>\n\n<li>Option A: $ 10^{-10} $ cm</li>\n\n<li>Option B: $ 10^{-13} $ cm</li>\n\n<li>Option C: $ 10^{-15} $ cm</li>\n\n<li>Option D: $ 10^{-8} $ cm</li>\n\n</ul>\n\n<p>The radius of an atomic nucleus is closest to Option B: $ 10^{-13} $ cm, considering the conversion from $ 1.2 \\times 10^{-15} $ meters to centimeters. While $ 10^{-15} $ meters (or femtometers/fm) is a commonly used unit to describe the scale of nuclear radii directly, when converted to centimeters, the scale of $ 10^{-13} $ cm fits the description of the size of an atomic nucleus closer than the other options provided.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Bohr Model can explain ",
+      "options": [
+        {
+          "key": "A",
+          "value": "the spectrum of hydrogen atom only"
+        },
+        {
+          "key": "B",
+          "value": "spectrum of an atom or ion containing one electron only"
+        },
+        {
+          "key": "C",
+          "value": "the spectrum of the hydrogen molecule"
+        },
+        {
+          "key": "D",
+          "value": "the solar spectrum"
+        }
+      ],
+      "answer": "B",
+      "explanation": "<p>The correct option is <b>Option B: spectrum of an atom or ion containing one electron only.</b></p>\n\n<p>The Bohr Model, proposed by Niels Bohr in 1913, attempts to explain the atomic structure and the quantization of energy levels. The model was specifically developed to describe the hydrogen atom, the simplest atom consisting of only one electron. However, the principles of the Bohr Model can be generalized to any atom or ion that contains only one electron moving around a nucleus. This includes not only the hydrogen atom (which has one proton and one electron) but also singly ionized helium (He+), doubly ionized lithium (Li2+), and so on, where each of these ions has only one electron. The reason the Bohr Model works for these systems is that the system's physics is dominated by the interaction between the single electron and the nucleus, which can be described using the same quantization rules Bohr proposed.</p>\n\n<p>The Bohr Model cannot accurately describe:</p>\n\n<p><b>Option A:</b> The spectrum of hydrogen atom only - This option is partially true but incomplete. The Bohr Model does explain the hydrogen spectrum, but it is not limited to only hydrogen.</p>\n\n<p><b>Option C:</b> The spectrum of the hydrogen molecule - The Bohr Model does not apply to molecules, including the hydrogen molecule (H2), because molecules involve more complex interactions between multiple electrons and nuclei that the model does not account for.</p>\n\n<p><b>Option D:</b> The solar spectrum - The solar spectrum is generated by the light emitted from the Sun, which includes a wide variety of atoms and molecules in different states. The Bohr Model cannot explain the solar spectrum because it is only applicable to atoms or ions with a single electron.</p>\n\n<p>In conclusion, the Bohr Model is applicable and can explain the spectra of atoms or ions that contain only a single electron (Option B), because its foundational assumptions are based on the quantized orbits of an electron around a nucleus in such systems.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Electromangnetic radiation with maximum wavelength is:",
+      "options": [
+        {
+          "key": "A",
+          "value": "ultraviolet"
+        },
+        {
+          "key": "B",
+          "value": "radiowave"
+        },
+        {
+          "key": "C",
+          "value": "X-ray"
+        },
+        {
+          "key": "D",
+          "value": "infrared"
+        }
+      ],
+      "answer": "B",
+      "explanation": "<p>The electromagnetic spectrum is organized in order of increasing frequency or decreasing wavelength. Among the options given, we can categorize these types of electromagnetic radiation from the shortest wavelength (highest frequency) to the longest wavelength (lowest frequency) as follows:</p>\n\n<ul>\n\n<li><strong>X-ray</strong>: These have very short wavelengths and are on the higher frequency end of the spectrum.</li>\n\n<li><strong>Ultraviolet (UV)</strong>: UV radiation has shorter wavelengths than visible light but longer than X-rays.</li>\n\n<li><strong>Infrared</strong>: Infrared radiation has longer wavelengths than visible light, sitting just beyond the red part of the visible spectrum.</li>\n\n<li><strong>Radiowave</strong>: Radiowaves have the longest wavelengths in the electromagnetic spectrum and, correspondingly, the lowest frequencies.</li>\n\n</ul>\n\n<p>Given this arrangement, <strong>radiowaves</strong> have the maximum wavelength among the options listed, making <strong>Option B</strong> the correct answer.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Which electronic level would allow the hydrogen atom to absorb a photon but not to emit a photon?",
+      "options": [
+        {
+          "key": "A",
+          "value": "3s"
+        },
+        {
+          "key": "B",
+          "value": "2p"
+        },
+        {
+          "key": "C",
+          "value": "2s"
+        },
+        {
+          "key": "D",
+          "value": "1s"
+        }
+      ],
+      "answer": "D",
+      "explanation": "<p>The concept here revolves around the structure of hydrogen atom energy levels and how electrons move between these levels by absorbing or emitting photons. Importantly, all the options given (1s, 2s, 2p, and 3s) are valid electronic levels for a hydrogen atom. However, the key lies in understanding the process of absorption and emission of photons in relation to these levels.</p>\n\n<p>In a hydrogen atom, when an electron moves from a lower energy level to a higher energy level, it absorbs a specific amount of energy, which is taken in as a photon. Conversely, when an electron drops from a higher energy level to a lower energy level, it emits a photon, releasing the previously absorbed energy.</p>\n\n<p>For an electronic level to allow the hydrogen atom to absorb a photon but not to emit a photon, the concept itself is somewhat misleading because any excited state (above the ground state) has the potential both to absorb (moving to an even higher level) and to emit photons (returning to a lower energy state). However, considering the question's framing, we can interpret it as looking for a level that fundamentally represents the ground state or a state from which no photon emission would occur without first absorbing energy to reach an excited state.</p>\n\n<p>Given the options:\n- <strong>1s (Option D)</strong>: This is the ground state of a hydrogen atom, the lowest energy level.\n- <strong>2s and 2p (Option B and C)</strong>: These are excited states above the ground state.\n- <strong>3s (Option A)</strong>: This is a further excited state above 2s and 2p.</p>\n\n<p>Therefore, <strong>Option D (1s)</strong> is the only level from which the atom cannot emit a photon without first absorbing energy because it is the ground state. In any other state (2s, 2p, 3s), the atom can both absorb a photon to move to a higher state and emit a photon when it transitions back to a lower energy level, including the 1s level.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The increasing  order (lowest first) for the values of e/m (charges/mass) for electron (e), proton (p), neutron (n) and alpha particle ($$\\alpha$$) is:",
+      "options": [
+        {
+          "key": "A",
+          "value": "e, p, n, $$\\alpha$$"
+        },
+        {
+          "key": "B",
+          "value": "n, p, e, $$\\alpha$$"
+        },
+        {
+          "key": "C",
+          "value": "n, p, $$\\alpha$$, e"
+        },
+        {
+          "key": "D",
+          "value": "n, $$\\alpha$$, p, e"
+        }
+      ],
+      "answer": "D",
+      "explanation": "<p>To determine the increasing order of $$\\frac{e}{m}$$ (charge-to-mass ratio) for electron (e), proton (p), neutron (n), and alpha particle ($$\\alpha$$), we need to understand the properties of these particles:</p>\n\n<ol>\n<li><strong>Electron (e):</strong> The electron has a charge of $$-1.6 \\times 10^{-19} \\text{C} $$ and a mass of approximately $$9.11 \\times 10^{-31} \\text{kg}.$$</li><br>\n<li><strong>Proton (p):</strong> The proton has a charge of $$+1.6 \\times 10^{-19} \\text{C} $$ and a mass of approximately $$1.67 \\times 10^{-27} \\text{kg}.$$</li><br>\n<li><strong>Neutron (n):</strong> The neutron has no charge ($$0 \\text{C}$$) and a mass of approximately $$1.67 \\times 10^{-27} \\text{kg}.$$ Since the charge is zero, the charge-to-mass ratio for a neutron is effectively $$0.$$</li><br>\n<li><strong>Alpha Particle ($$\\alpha$$):</strong> An alpha particle consists of 2 protons and 2 neutrons, with a total charge of $$2 \\times 1.6 \\times 10^{-19} \\text{C}$$ and a total mass of approximately $$4 \\times 1.67 \\times 10^{-27} \\text{kg} = 6.68 \\times 10^{-27} \\text{kg}.$$</li>\n</ol>\n<p>Now, let's calculate the $$\\frac{e}{m}$$ values for each of these particles (except for neutron where this value is 0 because it has no charge):</p>\n\n<ul>\n<li>For an electron, $$\\frac{e}{m} = \\frac{1.6 \\times 10^{-19}}{9.11 \\times 10^{-31}} \\approx 1.76 \\times 10^{11} \\frac{C}{kg}$$</li><br>\n<li>For a proton, $$\\frac{e}{m} = \\frac{1.6 \\times 10^{-19}}{1.67 \\times 10^{-27}} \\approx 9.58 \\times 10^{7} \\frac{C}{kg}$$</li><br>\n<li>For an alpha particle, $$\\frac{e}{m} = \\frac{2 \\times 1.6 \\times 10^{-19}}{6.68 \\times 10^{-27}} \\approx 4.79 \\times 10^{7} \\frac{C}{kg}$$</li>\n</ul>\n<p>Therefore, in increasing order of the charge-to-mass ratio ($$\\frac{e}{m}$$), we have:</p>\n\n<ul>\n<li>Neutron (n) with $$0 \\frac{C}{kg}$$</li><br>\n<li>Alpha particle ($$\\alpha$$) with $$4.79 \\times 10^{7} \\frac{C}{kg}$$</li><br>\n<li>Proton (p) with $$9.58 \\times 10^{7} \\frac{C}{kg}$$</li><br>\n<li>Electron (e) with $$1.76 \\times 10^{11} \\frac{C}{kg}$$</li>\n</ul>\n<p>The correct order is then n, $$\\alpha$$, p, e, which corresponds to:</p>\n\n<p>Option D: n, $$\\alpha$$, p, e</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Correct set of four quantum numbers for the valence (outermost) electron of rubidium (Z = 37) is",
+      "options": [
+        {
+          "key": "A",
+          "value": "5, 0, 0, $$ + {1 \\over 2}$$"
+        },
+        {
+          "key": "B",
+          "value": "5, 1, 0, $$ + {1 \\over 2}$$"
+        },
+        {
+          "key": "C",
+          "value": "5, 1, 1, $$ + {1 \\over 2}$$"
+        },
+        {
+          "key": "D",
+          "value": "6, 0, 0, $$ + {1 \\over 2}$$"
+        }
+      ],
+      "answer": "A",
+      "explanation": "<p>To find the correct set of four quantum numbers for the valence (outermost) electron of rubidium (Z = 37), we first need to understand what each quantum number represents and the electron configuration of rubidium.</p>\n\n<p>The four quantum numbers are:</p>\n\n<ul>\n\n<li>The principal quantum number $(n)$ - indicates the energy level of the electron.</li>\n\n<li>The azimuthal (or angular momentum) quantum number $(l)$ - defines the shape of the electron's orbit, where $l$ ranges from 0 to $n-1$.</li>\n\n<li>The magnetic quantum number $(m_l)$ - specifies the orientation of the orbital, with possible values ranging from $-l$ to $+l$.</li>\n\n<li>The spin quantum number $(m_s)$ - indicates the direction of the electron's spin, which can be either $+\\frac{1}{2}$ or $-\\frac{1}{2}$.</li>\n\n</ul>\n\n<p>Now, let's look at the electron configuration of rubidium. Rubidium (Z = 37) has an electronic configuration of $[Kr] 5s^1$. This means its valence electron is in the 5s orbital.</p>\n\n<p>So, for the valence electron of rubidium, the quantum numbers can be determined as follows:</p>\n\n<ul>\n\n<li>$n = 5$, since it's in the 5s orbital, relating to the principal quantum number.</li>\n\n<li>$l = 0$, for an s-orbital (which is spherical), the azimuthal quantum number is always 0.</li>\n\n<li>$m_l = 0$, since for $l = 0$, the only value $m_l$ can take is 0.</li>\n\n<li>$m_s = +\\frac{1}{2}$ or $-\\frac{1}{2}$, representing the spin of the electron. Without specific magnetic interactions defined, either spin state is possible, but given the choices we can assume $+\\frac{1}{2}$.</li>\n\n</ul>\n\n<p>Therefore, the correct set of four quantum numbers for the valence electron of rubidium is represented by Option D: <strong>6, 0, 0, $+\\frac{1}{2}$</strong>. However, since the valence electron of rubidium actually occupies the 5s orbital, not the 6th energy level, there seems to be an error in my explanation—Option D suggests a principal quantum number (n) of 6, which does not correspond to the 5s orbital of rubidium.</p>\n\n<p>The correct option should be related to the 5s orbital's characteristics, thereby correcting my mistake, the accurate answer is:</p>\n\n<p>Option A: <strong>5, 0, 0, $+\\frac{1}{2}$</strong>, which rightly corresponds to the 5s orbital where rubidium's valence electron resides.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Any p-orbital can accommodate upto",
+      "options": [
+        {
+          "key": "A",
+          "value": "four electrons"
+        },
+        {
+          "key": "B",
+          "value": "six electons"
+        },
+        {
+          "key": "C",
+          "value": "two electrons with parallel spins"
+        },
+        {
+          "key": "D",
+          "value": "two electrons with opposite spins"
+        }
+      ],
+      "answer": "D",
+      "explanation": "<p>According to the Pauli exclusion principle and quantum mechanics, an orbital can accommodate a maximum of two electrons, and these electrons must have opposite spins. The p-orbital is no exception to this rule. In an atom, the p-orbitals are degenerate, meaning they have the same energy level in a given shell. Each p-orbital (p<sub>x</sub>, p<sub>y</sub>, and p<sub>z</sub>) can accommodate 2 electrons, making a total of 6 electrons for all three p-orbitals in a subshell having opposite spins. However, focusing on any single p-orbital, it can only accommodate two electrons with opposite spins, as they have to obey the Pauli exclusion principle, which states that no two electrons in an atom can have the same set of four quantum numbers. Therefore, the correct answer is:</p>\n\n<p>Option D: two electrons with opposite spins.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The principal quantum number of an atom is related to the",
+      "options": [
+        {
+          "key": "A",
+          "value": "size of the orbital"
+        },
+        {
+          "key": "B",
+          "value": "spin angular momentum"
+        },
+        {
+          "key": "C",
+          "value": "orbital angular momentum"
+        },
+        {
+          "key": "D",
+          "value": "orientation of the orbital in space"
+        }
+      ],
+      "answer": "A",
+      "explanation": "<p>The principal quantum number, denoted as <b>n</b>, is one of the four quantum numbers which define the unique quantum state of an electron. The principal quantum number essentially determines the overall size and energy level of an atomic orbital. It is a positive integer ($n = 1, 2, 3, \\ldots$) that indicates the shell to which an electron belongs in an atom. As <b>n</b> increases, the orbital becomes larger, meaning the electron is further from the nucleus and has higher energy.</p>\n\n<p>Given the options:</p>\n\n<p><b>Option A: size of the orbital</b> - This option is correct. The principal quantum number directly affects the size of the orbital. A higher principal quantum number indicates a larger orbital.</p>\n\n<p><b>Option B: spin angular momentum</b> - This option is incorrect. The spin angular momentum is related to the spin quantum number ($s$), not the principal quantum number ($n$).</p>\n\n<p><b>Option C: orbital angular momentum</b> - This option is partially correct in the sense that the principal quantum number indirectly affects orbital angular momentum because it determines the possible values for the angular momentum quantum number (l), which directly affects orbital angular momentum. However, the principal quantum number itself does not directly specify orbital angular momentum.</p>\n\n<p><b>Option D: orientation of the orbital in space</b> - This option is incorrect. The orientation of the orbital in space is determined by the magnetic quantum number ($m_l$), not the principal quantum number ($n$).</p>\n\n<p>Therefore, the correct answer is <b>Option A: size of the orbital</b>, as it most directly and accurately describes the role of the principal quantum number.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Rutherford's scattering experiment is related to the size of the ",
+      "options": [
+        {
+          "key": "A",
+          "value": "nucleus"
+        },
+        {
+          "key": "B",
+          "value": "atom"
+        },
+        {
+          "key": "C",
+          "value": "electron"
+        },
+        {
+          "key": "D",
+          "value": "neutron"
+        }
+      ],
+      "answer": "A",
+      "explanation": "<p>Rutherford's scattering experiment, conducted by Ernest Rutherford in the early 20th century, is crucial for understanding the structure of the atom. In this experiment, Rutherford and his team directed a beam of alpha particles (which are positively charged particles) at a thin sheet of gold foil and observed the pattern of scattering of these alpha particles after they hit the foil. The observations were unexpected at the time. Most of the alpha particles passed straight through the foil with little or no deflection, but a small fraction of the particles was deflected at very large angles, and some were even scattered back in the direction they came from. </p>\n\n<p>This experimental evidence led to the conclusion that most of the atom is empty space, and all the positive charge and almost all the mass must be concentrated in a very small central region within the atom. This dense central region was named the nucleus. Hence, Rutherford's scattering experiment is directly related to discovering the size and presence of the <strong>nucleus</strong> in the center of atoms. Therefore, the correct answer is: </p>\n\n<p>Option A: nucleus</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The ion that is isoelectronic with CO is",
+      "options": [
+        {
+          "key": "A",
+          "value": "CN<sup>-</sup>"
+        },
+        {
+          "key": "B",
+          "value": "NO<sub>2</sub>"
+        },
+        {
+          "key": "C",
+          "value": "SO<sub>2</sub>"
+        },
+        {
+          "key": "D",
+          "value": "ClO<sub>2</sub>"
+        }
+      ],
+      "answer": "A",
+      "explanation": "<p>To determine which ion is isoelectronic with CO, we first need to understand what \"isoelectronic\" means. Two species are isoelectronic if they have the same number of electrons.</p>\n\n<p>Carbon monoxide (CO) has a total of 10 electrons:</p>\n\n<p>Carbon (C) has 6 electrons and Oxygen (O) has 8 electrons. Therefore:</p>\n\n<p>$$6 + 8 = 14\\, \\text{electrons}$$</p>\n\n<p>Now, let's examine each option:</p>\n\n<p><strong>Option A: CN<sup>-</sup></strong></p>\n\n<p>Cyanide ion (CN<sup>-</sup>) has:</p>\n\n<p>Carbon (C) with 6 electrons, Nitrogen (N) with 7 electrons, and one additional electron because of the negative charge:</p>\n\n<p>$$6 + 7 + 1 = 14\\, \\text{electrons}$$</p>\n\n<p><strong>Option B: NO<sub>2</sub></strong></p>\n\n<p>Nitrogen dioxide (NO<sub>2</sub>) has:</p>\n\n<p>Nitrogen (N) with 7 electrons and two Oxygen (O) each with 8 electrons:</p>\n\n<p>$$7 + 8 \\times 2 = 23\\, \\text{electrons}$$</p>\n\n<p><strong>Option C: SO<sub>2</sub></strong></p>\n\n<p>Sulfur dioxide (SO<sub>2</sub>) has:</p>\n\n<p>Sulfur (S) with 16 electrons and two Oxygen (O) each with 8 electrons:</p>\n\n<p>$$16 + 8 \\times 2 = 32\\, \\text{electrons}$$</p>\n\n<p><strong>Option D: ClO<sub>2</sub></strong></p>\n\n<p>Chlorine dioxide (ClO<sub>2</sub>) has:</p>\n\n<p>Chlorine (Cl) with 17 electrons and two Oxygen (O) each with 8 electrons:</p>\n\n<p>$$17 + 8 \\times 2 = 33\\, \\text{electrons}$$</p>\n\n<p>From the above calculations, we can conclude that the ion CN<sup>-</sup> (option A) has the same number of electrons as CO and is therefore isoelectronic with it. So, the correct answer is:</p>\n\n<p><strong>Option A: CN<sup>-</sup></strong></p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Rutherford's experiment on scattering of $$\\alpha-particles$$ showed for the first time that the atom has",
+      "options": [
+        {
+          "key": "A",
+          "value": "electrons"
+        },
+        {
+          "key": "B",
+          "value": "protons"
+        },
+        {
+          "key": "C",
+          "value": "nucleus"
+        },
+        {
+          "key": "D",
+          "value": "neutrons"
+        }
+      ],
+      "answer": "C",
+      "explanation": "<p>Rutherford's experiment on the scattering of $$\\alpha$$-particles, conducted between 1908 and 1913, was groundbreaking in the field of atomic physics. In this experiment, Rutherford and his colleagues, Hans Geiger and Ernest Marsden, aimed a beam of alpha particles (which are positively charged particles) at a thin gold foil and observed their scattering patterns using a fluorescence screen.</p>\n\n<p>The results were surprising and led to a dramatic shift in the understanding of the atomic structure. Most of the alpha particles passed straight through the gold foil, a few were deflected at large angles, and a very small number were deflected backward. This was in stark contrast to the expectations based on the plum pudding model of the atom that was prevalent at the time, which proposed that the atom was a diffuse cloud of positive charge with electrons embedded throughout.</p>\n\n<p>The only way Rutherford could explain the observed scattering patterns was by proposing that the atom consists of a tiny, dense nucleus that contains all of its positive charge and most of its mass. This nucleus is surrounded by a cloud of electrons, which occupies the rest of the atom's volume but contributes negligibly to its mass. The alpha particles were mostly passing through the empty space of the atom, but when they came close to the dense nucleus, they were deflected by its positive charge.</p>\n\n<p>Therefore, Rutherford's experiment showed for the first time that the atom has a nucleus, making the correct answer:\n\n<p>Option C: nucleus.</p></p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The number of neutrons in dipositive zinc ion with mass number 70 is",
+      "options": [
+        {
+          "key": "A",
+          "value": "34"
+        },
+        {
+          "key": "B",
+          "value": "36"
+        },
+        {
+          "key": "C",
+          "value": "38"
+        },
+        {
+          "key": "D",
+          "value": "40"
+        }
+      ],
+      "answer": "D",
+      "explanation": "<p>To find the number of neutrons in a dipositive zinc ion (Zn$^{2+}$) with a mass number of 70, we first need to understand what each term means and then perform the calculation:</p>\n\n<p>1. <strong>Mass number</strong>: This is the total number of protons and neutrons in an atom's nucleus. For this zinc ion, the mass number is given as 70.</p>\n\n<p>2. <strong>Zinc's atomic number</strong>: The atomic number of an element represents the number of protons in the nucleus of an atom of that element. For zinc, the atomic number is 30, which means every zinc atom has 30 protons.</p>\n\n<p>3. <strong>Dipositive zinc ion (Zn$^{2+}$)</strong>: This indicates a zinc ion that has lost two electrons, becoming positively charged. However, the loss of electrons does not affect the number of protons or neutrons in the nucleus, so the atomic and mass numbers are unaffected by the ion's charge state.</p>\n\n<p>To find the number of neutrons in the zinc ion, we subtract the number of protons (atomic number) from the mass number:</p>\n\n<p>$ \\text{Number of neutrons} = \\text{Mass number} - \\text{Atomic number} $</p>\n\n<p>For the zinc ion in question:</p>\n\n<p>$ \\text{Number of neutrons} = 70 - 30 = 40 $</p>\n\n<p>Therefore, the number of neutrons in the dipositive zinc ion with a mass number of 70 is 40, which corresponds to option D.</p>"
+    },
+    {
+      "_type": "numerical",
+      "body": "For $\\mathrm{He}^{+}$, a transition takes place from the orbit of radius $105.8 \\mathrm{pm}$ to the orbit of radius $26.45 \\mathrm{pm}$. The wavelength (in nm) of the emitted photon during the transition is _______.\n<br/><br/>[<b>Use :</b>\n<br/><br/>Bohr radius, $\\mathrm{a}=52.9 \\mathrm{pm}$\n<br/><br/>Rydberg constant, $R_{\\mathrm{H}}=2.2 \\times 10^{-18} \\mathrm{~J}$\n<br/><br/>Planck's constant, $\\mathrm{h}=6.6 \\times 10^{-34} \\mathrm{~J} \\mathrm{~s}$\n<br/><br/>Speed of light, $\\mathrm{c}=3 \\times 10^8 \\mathrm{~m} \\mathrm{~s}^{-1}$ ]",
+      "answer": "30",
+      "explanation": "1. The radius of the nth orbit in a single-electron system is given by the equation: \n\n<br/><br/>$$r = \\frac{52.9 \\times n^2}{Z}$$ \n\n<br/><br/>where $r$ is in pm, $n$ is the principal quantum number, and $Z$ is the atomic number. \n\n<br/><br/>2. For a $\\mathrm{He}^{+}$ ion, $Z=2$. \n\n<br/><br/>3. We are given the initial radius $r_2 = 105.8$ pm and the final radius $r_1 = 26.45$ pm.\n\n<br/><br/>4. We can substitute these radii into the equation for $r$ to find the corresponding quantum numbers. \n\n<br/><br/>For $r_2 = 105.8$ pm, we get :\n\n<br/><br/>$$105.8 = \\frac{52.9 \\times n_2^2}{2}$$\n\n<br/><br/>which gives $n_2 = 2$.\n\n<br/><br/>Similarly, for $r_1 = 26.45$ pm, we get :\n\n<br/><br/>$$26.45 = \\frac{52.9 \\times n_1^2}{2}$$\n\n<br/><br/>which gives $n_1 = 1$.\n\n<br/><br/>5. Therefore, the transition is from $n_2 = 2$ to $n_1 = 1$.\n\n<br/><br/>6. The energy difference during this transition is equal to the energy of the emitted photon, which is given by :\n\n<br/><br/>$$E = \\frac{hc}{\\lambda} = R_H Z^2 \\left( \\frac{1}{n_1^2} - \\frac{1}{n_2^2} \\right)$$\n\n<br/><br/>where $h$ is the Planck's constant, $c$ is the speed of light, $R_H$ is the Rydberg constant, and $\\lambda$ is the wavelength of the photon.\n\n<br/><br/>7. Substituting all known values into this equation gives :\n\n<br/><br/>$$\\frac{6.6 \\times 10^{-34} \\, \\mathrm{J} \\, \\mathrm{s} \\times 3 \\times 10^8 \\, \\mathrm{m/s}}{\\lambda} = 2.2 \\times 10^{-18} \\, \\mathrm{J} \\times 2^2 \\left( \\frac{1}{1^2} - \\frac{1}{2^2} \\right)$$\n\n<br/><br/>Solving this equation yields $\\lambda = 30 \\times 10^{-9}$ m, or 30 nm.\n\n<br/><br/>8. So, the wavelength of the emitted photon during the transition is 30 nm.\n"
+    },
+    {
+      "_type": "numerical",
+      "body": "Consider a helium (He) atom that absorbs a photon of wavelength 330 nm. The change in the velocity (in cm s<sup>$$-$$1</sup>) of He atom after the photon absorption is __________.<br><br>(Assume : Momentum is conserved when photon is absorbed.<br><br>Use : Planck constant = 6.6 $$\\times$$ 10<sup>$$-$$34</sup> J s, Avogadro number = 6 $$\\times$$ 10<sup>23</sup> mol<sup>$$-$$1</sup>, Molar mass of He = 4 g mol<sup>$$-$$1</sup>)",
+      "answer": "30",
+      "explanation": "Wavelength of photon absorbed, $$\\lambda$$ = 330 nm = 330 $$\\times$$ 10<sup>$$-$$9</sup> m<br/><br/>Planck's constant, h = 6.6 $$\\times$$ 10<sup>$$-$$34</sup> J s<br/><br/>Molar mass of He, M = 4 g mol<sup>$$-$$1</sup> = 4 $$\\times$$ 10<sup>$$-$$3</sup> kg mol<sup>$$-$$1</sup><br/><br/>Avogadro number, N<sub>A</sub> = 6 $$\\times$$ 10<sup>23</sup> mol<sup>$$-$$1</sup><br/><br/>Mass of one atom of He, $$m = {M \\over {{N_A}}}$$<br/><br/>$$ = {{4 \\times {{10}^{ - 3}}} \\over {6 \\times {{10}^{23}}}} = {2 \\over 3} \\times {10^{ - 26}}$$ kg<br/><br/>Velocity, = V cm/s.<br/><br/>Using de-Broglie equation,<br/><br/>$$\\lambda  = {h \\over {mv}}$$<br/><br/>$$ \\Rightarrow v = {h \\over {m\\lambda }} = {{6.6 \\times {{10}^{ - 34}}} \\over {2/3 \\times {{10}^{ - 26}} \\times 330 \\times {{10}^{ - 9}}}}$$<br/><br/>$$ = {{6.6 \\times 3 \\times {{10}^{ - 34}} \\times {{10}^{35}}} \\over {2 \\times 330}} = 0.03 \\times 10 = 0.3$$ m/s<br/><br/>= 30 cm/s"
+    },
+    {
+      "_type": "numerical",
+      "body": "In an atom, the total number of electrons having quantum numbers n = 4, |m<sub>l</sub>| = 1 and m<sub>s</sub> = –1/2 is",
+      "answer": "6",
+      "explanation": "<p>As n = 4, so l = 0, 1, 2, 3 which implies the orbitals are\n4s, 4p, 4d and 4f.</p>\n<p>Now, |m<sub>l</sub>\n| = 1 implies m<sub>l</sub>\n = +1 and −1. Therefore, l can be\n3, 2, 1, as for l = 0, m<sub>l</sub>\n = 0.</p> \n<p>For l = 1, m<sub>l</sub>\n = −1, 0, +1</p>\n<p>For l = 2, m<sub>l</sub>\n = −2, −1, 0, +1, +2</p>\n<p>For l = 3, m<sub>l</sub>\n = −3, −2, −1, 0, +1, +2, +3</p>\nTherefore, there are six possible orbitals with |m<sub>l</sub>\n| = 1 .\nAlso, given that m<sub>s</sub>\n = −1/2 so six electrons are possible\nwith m<sub>s</sub>\n = −1/2."
+    },
+    {
+      "_type": "numerical",
+      "body": "The atomic masses of He and Ne are 4 and 20 a.m.u., respectively. The value of the de Broglie wavelength\nof He gas at –73<sup>o</sup>C is “M” times that of the de Broglie wavelength of Ne at 727<sup>o</sup>C. M is",
+      "answer": "5",
+      "explanation": "<p>To solve this problem, we will use the de Broglie wavelength formula, which is given by\n\n<p>$$\\lambda = \\frac{h}{mv}$$</p>\n\n<p>where $\\lambda$ is the de Broglie wavelength, $h$ is Planck's constant, $m$ is the mass of the particle, and $v$ is the velocity of the particle.</p></p>\n\n<p>However, it's more relevant to use the form of the de Broglie equation that involves temperature, given that kinetic energy ($KE$) at a particular temperature is linked to the velocity of the gas particles. The kinetic energy for a gas particle can be calculated using the equation:\n\n<p>$$KE = \\frac{3}{2}k_{B}T$$</p>\n\n<p>where $k_B$ is the Boltzmann constant and $T$ is the temperature in Kelvin. The velocity $v$ of a gas particle can be related to its kinetic energy by the equation:</p>\n\n<p>$$KE = \\frac{1}{2}mv^2$$</p>\n\n<p>Solving for $v$ gives:</p>\n\n<p>$$v = \\sqrt{\\frac{2KE}{m}} = \\sqrt{\\frac{3k_BT}{m}}$$</p>\n\n<p>Substituting $v$ in the de Broglie wavelength formula gives:</p>\n\n<p>$$\\lambda = \\frac{h}{m\\sqrt{\\frac{3k_BT}{m}}} = \\frac{h}{\\sqrt{3mk_BT}}$$</p></p>\n\n<p>Given that we are comparing helium (He) and neon (Ne) gases, the relative de Broglie wavelengths can be related by the mass of the particles and their temperatures. For helium and neon, respectively, this becomes:\n\n<p>$$\\lambda_{He} = \\frac{h}{\\sqrt{3m_{He}k_BT_{He}}}$$</p>\n\n<p>$$\\lambda_{Ne} = \\frac{h}{\\sqrt{3m_{Ne}k_BT_{Ne}}}$$</p></p>\n\n<p>Given the temperatures are –73°C for He and 727°C for Ne, we first convert these temperatures to Kelvin:\n\n<p>$$T_{He} = 200K \\quad (\\text{-73°C + 273})$$</p>\n\n<p>$$T_{Ne} = 1000K \\quad (\\text{727°C + 273})$$</p></p>\n\n<p>The ratio of the de Broglie wavelength of He to Ne, $\\frac{\\lambda_{He}}{\\lambda_{Ne}}$, would thus be:\n\n<p>$$\\frac{\\lambda_{He}}{\\lambda_{Ne}} = \\frac{\\frac{h}{\\sqrt{3m_{He}k_BT_{He}}}}{\\frac{h}{\\sqrt{3m_{Ne}k_BT_{Ne}}}} = \\sqrt{\\frac{m_{Ne}T_{Ne}}{m_{He}T_{He}}}$$</p>\n\n<p>Substituting the masses ($m_{He}=4$ a.m.u. and $m_{Ne}=20$ a.m.u., with $1$ a.m.u. approximately equal to $1.660539 \\times 10^{-27}$ kg, though this conversion is not strictly necessary for a ratio where units cancel out) and the temperatures:</p>\n\n<p>$$\\frac{\\lambda_{He}}{\\lambda_{Ne}} = \\sqrt{\\frac{20 \\times 1000}{4 \\times 200}} = \\sqrt{\\frac{20000}{800}} = \\sqrt{25} = 5$$</p></p>\n\n<p>Therefore, the value of $M$, which is the multiplier for the de Broglie wavelength of He gas at –73°C compared to that of Ne at 727°C, is 5.</p>"
+    },
+    {
+      "_type": "numerical",
+      "body": "The maximum number of electrons that can have principal quantum number, n = 3, and spin quantum number, m<sub>s</sub> = − 1/2 , is",
+      "answer": "9",
+      "explanation": "<p>To answer this question, we need to consider the quantum numbers that describe electrons in atoms. Each electron in an atom is described by four quantum numbers:</p>\n\n<ol>\n\n<li>The principal quantum number ($n$) dictates the energy level and size of the electron orbital.</li>\n\n<li>The azimuthal (angular momentum) quantum number ($l$) defines the shape of the orbital. For a given $n$, $l$ can take any integer value from 0 to $n-1$.</li>\n\n<li>The magnetic quantum number ($m_l$) describes the orientation of the orbital in space. For a given $l$, $m_l$ can take values from $-l$ to $+l$, including zero.</li>\n\n<li>The spin quantum number ($m_s$) describes the direction of the electron's spin and can have a value of $+\\frac{1}{2}$ or $-\\frac{1}{2}$.</li>\n\n</ol>\n\n<p>Given the principal quantum number, $n = 3$, and the spin quantum number, $m_s = -\\frac{1}{2}$, we need to calculate the maximum number of electrons that can fit this criteria.</p>\n\n<p>For $n = 3$, the possible values of $l$ are 0, 1, and 2 (s, p, and d orbitals respectively). Here's how the orbitals break down:</p>\n\n<ul>\n\n<li>When $l = 0$ (the 3s orbital), $m_l = 0$, so there's 1 orbital.</li>\n\n<li>When $l = 1$ (the 3p orbitals), $m_l$ can be -1, 0, or +1, providing 3 orbitals.</li>\n\n<li>When $l = 2$ (the 3d orbitals), $m_l$ can be -2, -1, 0, +1, or +2, giving 5 orbitals.</li>\n\n</ul>\n\n<p>Each orbital can hold 2 electrons with opposite spins. Since we are specifically looking for electrons with $m_s = -\\frac{1}{2}$, we can only count one electron per orbital. Therefore, we sum the total number of orbitals across the s, p, and d sublevels for $n = 3$:</p>\n\n<p>3s: 1 orbital $ \\times $ 1 electron (with $m_s = -\\frac{1}{2}$) = 1 electron<br>\n\n<p>3p: 3 orbitals $ \\times $ 1 electron (with $m_s = -\\frac{1}{2}$) = 3 electrons<br></p>\n\n<p>3d: 5 orbitals $ \\times $ 1 electron (with $m_s = -\\frac{1}{2}$) = 5 electrons</p></p>\n\n<p>If we sum these, we get:</p>\n\n<p>1 + 3 + 5 = 9 electrons</p>\n\n<p>Thus, the maximum number of electrons that can have the principal quantum number $n = 3$ and the spin quantum number $m_s = -\\frac{1}{2}$ is 9.</p>"
+    },
+    {
+      "_type": "numerical",
+      "body": "The work function\n( φ )\nof some metals is listed below. The number of metals which will show\nphotoelectric effect when light of 300 nm wavelength falls on the metal is\n<div style=\"overflow-x:auto;width:100%\">\n<style type=\"text/css\">\n.tg  {border-collapse:collapse;border-spacing:0;width:100%}\n.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}\n.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}\n.tg .tg-s6z2{text-align:center}\n.tg .tg-baqh{text-align:center;vertical-align:top}\n.tg .tg-yw4l{vertical-align:top}\n</style>\n<table class=\"tg\">\n  <tbody><tr>\n    <th class=\"tg-s6z2\"><span style=\"font-weight:bold;color:rgb(50, 203, 0)\">Metal</span></th>\n    <th class=\"tg-baqh\"><span style=\"font-weight:bold;color:rgb(50, 203, 0)\">Li</span></th>\n    <th class=\"tg-baqh\"><span style=\"font-weight:bold;color:rgb(50, 203, 0)\">Na</span></th>\n    <th class=\"tg-baqh\"><span style=\"font-weight:bold;color:rgb(50, 203, 0)\">K</span></th>\n    <th class=\"tg-baqh\"><span style=\"font-weight:bold;color:rgb(50, 203, 0)\">Mg</span></th>\n    <th class=\"tg-baqh\"><span style=\"font-weight:bold;color:rgb(50, 203, 0)\">Cu</span></th>\n    <th class=\"tg-baqh\"><span style=\"font-weight:bold;color:rgb(50, 203, 0)\">Ag</span></th>\n    <th class=\"tg-baqh\"><span style=\"font-weight:bold;color:rgb(50, 203, 0)\">Fe</span></th>\n    <th class=\"tg-baqh\"><span style=\"font-weight:bold;color:rgb(50, 203, 0)\">Pt</span></th>\n    <th class=\"tg-baqh\"><span style=\"font-weight:bold;color:rgb(50, 203, 0)\">W</span></th>\n  </tr>\n  <tr>\n    <td class=\"tg-baqh\">Ф (eV)</td>\n    <td class=\"tg-yw4l\">2.4</td>\n    <td class=\"tg-yw4l\">2.3</td>\n    <td class=\"tg-yw4l\">2.2</td>\n    <td class=\"tg-yw4l\">3.7</td>\n    <td class=\"tg-yw4l\">4.8</td>\n    <td class=\"tg-yw4l\">4.3</td>\n    <td class=\"tg-yw4l\">4.7</td>\n    <td class=\"tg-yw4l\">6.3</td>\n    <td class=\"tg-yw4l\">4.75</td>\n  </tr>\n</tbody></table>\n</div>",
+      "answer": "4",
+      "explanation": "<p>To determine the number of metals that will show the photoelectric effect when light of 300 nm wavelength falls on them, we first need to calculate the energy (in eV) of the incident photons. The energy ($E$) of a photon can be calculated using the formula:</p>\n\n<p>$E = \\frac{hc}{\\lambda}$</p>\n\n<p>where</p>\n\n<ul>\n<li>$h$ is Planck's constant ($6.626 \\times 10^{-34}$ J·s),</li><br>\n<li>$c$ is the speed of light ($3.00 \\times 10^{8}$ m/s),</li><br>\n<li>$\\lambda$ is the wavelength of the light (in meters).</li>\n</ul>\n<p>First, convert the wavelength from nm to meters:</p>\n\n<p>$300\\, \\text{nm} = 300 \\times 10^{-9}\\, \\text{m}$</p>\n\n<p>Then, calculate the energy of the photons:</p>\n\n<p>$E = \\frac{(6.626 \\times 10^{-34}\\, \\text{J·s}) \\times (3.00 \\times 10^{8}\\, \\text{m/s})}{300 \\times 10^{-9}\\, \\text{m}}$</p>\n\n<p>$E = \\frac{(6.626 \\times 3.00) \\times 10^{-19}}{300}\\, \\text{J}$</p>\n\n<p>$E = \\frac{19.878 \\times 10^{-19}}{300}\\, \\text{J}$</p>\n\n<p>$E \\approx 6.626 \\times 10^{-19}\\, \\text{J}$</p>\n\n<p>To convert the energy from joules to electron volts (eV), we divide by the charge of an electron ($1.602 \\times 10^{-19}$ C):</p>\n\n<p>$E \\approx \\frac{6.626 \\times 10^{-19}\\, \\text{J}}{1.602 \\times 10^{-19}\\, \\text{C/e^-}} \\approx 4.14\\, \\text{eV}$</p>\n\n<p>Now, to determine whether the photoelectric effect will occur, we compare the energy of the incident photons to the work function ($\\phi$) of each metal. The photoelectric effect occurs if the photon energy is greater than or equal to the work function of the metal:</p>\n\n<ul>\n<li>For Li ($\\phi = 2.4\\, \\text{eV}$): Yes, $4.14\\, \\text{eV} > 2.4\\, \\text{eV}$</li><br>\n<li>For Na ($\\phi = 2.3\\, \\text{eV}$): Yes, $4.14\\, \\text{eV} > 2.3\\, \\text{eV}$</li><br>\n<li>For K ($\\phi = 2.2\\, \\text{eV}$): Yes, $4.14\\, \\text{eV} > 2.2\\, \\text{eV}$</li><br>\n<li>For Mg ($\\phi = 3.7\\, \\text{eV}$): Yes, $4.14\\, \\text{eV} > 3.7\\, \\text{eV}$</li><br>\n<li>For Cu ($\\phi = 4.8\\, \\text{eV}$): No, $4.14\\, \\text{eV} < 4.8\\, \\text{eV}$</li><br>\n<li>For Ag ($\\phi = 4.3\\, \\text{eV}$): No, $4.14\\, \\text{eV} < 4.3\\, \\text{eV}$</li><br>\n<li>For Fe ($\\phi = 4.7\\, \\text{eV}$): No, $4.14\\, \\text{eV} < 4.7\\, \\text{eV}$</li><br>\n<li>For Pt ($\\phi = 6.3\\, \\text{eV}$): No, $4.14\\, \\text{eV} < 6.3\\, \\text{eV}$</li><br>\n<li>For W ($\\phi = 4.75\\, \\text{eV}$): No, $4.14\\, \\text{eV} < 4.75\\, \\text{eV}$</li>\n</ul>\n<p>Thus, the number of metals which will show the photoelectric effect when light of 300 nm wavelength falls on the metal is 4 (Li, Na, K, Mg).</p>"
+    },
+    {
+      "_type": "numerical",
+      "body": "Find out the number of waves made by a Bohr electron in once complete revolution in its 3rd orbit?",
+      "answer": "3",
+      "explanation": "<p>According to Bohr's theory</p>\n<p>$$mvr = {{nh} \\over {2\\pi }}$$</p>\n<p>In the third orbit, n = 3</p>\n<p>$$\\therefore$$ $$mvr = 3\\left( {{h \\over {2\\pi }}} \\right)$$ ...... (i)</p>\n<p>According to de Broglie expression</p>\n<p>$$\\lambda  = {h \\over {mv}}$$ ...... (ii)</p>\n<p>Substituting this in equation (i), we get</p>\n<p>$$\\left( {{h \\over \\lambda }} \\right)r = 3\\left( {{h \\over {2\\pi }}} \\right)$$ or $$3\\lambda  = 2\\pi r$$</p>\n<p>Thus, the circumference of third orbit is equal to three times the wavelength of electron i.e., the number of waves made by Bohr electron in one complete revolution is three.</p>\n<p>In general, the number of waves made by a Bohr electron in an orbit is equal to its principal quantum number.</p>"
+    },
+    {
+      "_type": "numerical",
+      "body": "What is the maximum number of electrons that may be present in all atomic orbitals with principal quantum number 3 and azimuthal quantum number 2?",
+      "answer": "10",
+      "explanation": "<p>For n = 3 and l = 2 (i.e., 3d orbital), the values of m varies from –2 to +2, that is, −2, −1, 0, +1, +2 and for each m\nthere are 2 values of s, that is, +1/2 and −1/2. </p>\n<p>So the maximum number of electrons in five 3d orbitals is\n5 × 2 = 10.</p>"
+    }
+  ]
+}

@@ -1,0 +1,1153 @@
+{
+  "_index": {
+    "name": "Quadratic Equation and Inequalities"
+  },
+  "_children": [
+    {
+      "_type": "numerical",
+      "body": "<p>Let $a=3 \\sqrt{2}$ and $b=\\frac{1}{5^{1 / 6} \\sqrt{6}}$. If $x, y \\in \\mathbb{R}$ are such that</p>\n\n<p>$$ \\begin{aligned} & 3 x+2 y=\\log _a(18)^{\\frac{5}{4}} \\quad \\text { and } \\\\ & 2 x-y=\\log _b(\\sqrt{1080}), \\end{aligned} $$</p>\n\n<p>then $4 x+5 y$ is equal to __________.</p>",
+      "answer": "8",
+      "explanation": "<p>Given:</p>\n\n<p>$ a = 3\\sqrt{2} \\Rightarrow a^2 = 18 $</p>\n\n<h3><b>Simplification of $\\log_a(18)^{\\frac{5}{4}}$</b></h3>\n\n<p>Since $a^2 = 18$, we have:</p>\n\n<p>$ \\log_a(18) = \\log_a(a^2) = 2 $</p>\n\n<p>Therefore:</p>\n\n<p>$ \\log_a(18)^{\\frac{5}{4}} = \\frac{5}{4} \\log_a(18) = \\frac{5}{4} \\cdot 2 = \\frac{5}{2} $</p>\n\n<p>So the equation becomes:</p>\n\n<p>$ 3x + 2y = \\frac{5}{2} $</p>\n\n<h3><b>Simplification of $\\log_b(\\sqrt{1080})$</b></h3>\n\n<p>Given:</p>\n\n<p>$ 1080 = 2^3 \\cdot 3^3 \\cdot 5 = 6^3 \\cdot 5 $</p>\n\n<p>$ b = \\frac{1}{5^{1/6} \\sqrt{6}} $</p>\n\n<p>$ \\Rightarrow \\frac{1}{b} = 5^{1/6} \\sqrt{6} $</p>\n\n<p>$ \\Rightarrow 1080^{1/6} = 5^{1/6} \\cdot 6^{1/2} = \\frac{1}{b} $</p>\n\n<p>Taking the square root of both sides:</p>\n\n<p>$ \\sqrt{1080} = \\frac{1}{b^3} $</p>\n\n<p>Thus:</p>\n\n<p>$ \\log_b(\\sqrt{1080}) = \\log_b\\left(\\frac{1}{b^3}\\right) = \\log_b(b^{-3}) = -3 $</p>\n\n<p>So the second equation becomes:</p>\n\n<p>$ 2x - y = -3 $</p>\n\n<h3><b>Solving the System of Equations</b></h3>\n\n<p>Now we have:</p>\n\n<p>$ 3x + 2y = \\frac{5}{2} $</p>\n\n<p>$ 2x - y = -3 $</p>\n\n<p>Multiply the second equation by 2:</p>\n\n<p>$ 4x - 2y = -6 $</p>\n\n<p>Add this to the first equation:</p>\n\n<p>$ 3x + 2y + 4x - 2y = \\frac{5}{2} - 6 $</p>\n\n<p>$ 7x = \\frac{5}{2} - 6 $</p>\n\n<p>$ 7x = \\frac{5}{2} - \\frac{12}{2} $</p>\n\n<p>$ 7x = \\frac{5 - 12}{2} $</p>\n\n<p>$ 7x = -\\frac{7}{2} $</p>\n\n<p>$ x = -\\frac{1}{2} $</p>\n\n<p>Substitute $x$ back into $2x - y = -3$:</p>\n\n<p>$ 2\\left(-\\frac{1}{2}\\right) - y = -3 $</p>\n\n<p>$ -1 - y = -3 $</p>\n\n<p>$ -y = -2 $</p>\n\n<p>$ y = 2 $</p>\n\n<h3>Finding $4x + 5y$</h3>\n\n<p>$ 4x + 5y = 4 \\left(-\\frac{1}{2}\\right) + 5 \\cdot 2 $</p>\n\n<p>$ = -2 + 10 $</p>\n\n<p>$ = 8 $</p>\n\n<p>Thus, the value of $4x + 5y$ is $\\boxed{8}$.</p>"
+    },
+    {
+      "_type": "numerical",
+      "body": "The product of all positive real values of $x$ satisfying the equation\n\n<br/><br/>$$\nx^{\\left(16\\left(\\log _{5} x\\right)^{3}-68 \\log _{5} x\\right)}=5^{-16}\n$$\n\n<br/><br/>is __________.",
+      "answer": "1",
+      "explanation": "Taking log to the base 5 on both sides\n\n<br/><br/>$\\left(16\\left(\\log _{5} x\\right)^{3}-68\\left(\\log _{5} x\\right)\\right)\\left(\\log _{5} x\\right)=-16$\n\n<br/><br/>Let $\\left(\\log _{5} x\\right)=t$\n\n<br/><br/>$16 t^{4}-68 t^{2}+16=0$\n\n<br/><br/>$$ \\Rightarrow $$ $4 t^{4}-16 t^{2}-t^{2}+4=0$\n\n<br/><br/>$$ \\Rightarrow $$ $\\left(4 t^{2}-1\\right)\\left(t^{2}-4\\right)=0$\n\n<br/><br/>$$ \\Rightarrow $$ $t=\\pm \\frac{1}{2}, \\pm 2$\n\n<br/><br/>So $\\log _{5} x=\\pm \\frac{1}{2}$ or $\\pm 2$\n\n<br/><br/>$\\Rightarrow x=5^{\\frac{1}{2}}, 5^{\\frac{-1}{2}}, 5^{2}, 5^{-2}$"
+    },
+    {
+      "_type": "numerical",
+      "body": "Let a, b, c three non-zero real numbers such that the equation $$\\sqrt 3 a\\cos x + 2b\\sin x = c,x \\in \\left[ { - {\\pi  \\over 2},{\\pi  \\over 2}} \\right]$$, has two distinct real roots $$\\alpha $$ and $$\\beta $$ with $$\\alpha  + \\beta  = {\\pi  \\over 3}$$. Then, the value of $${b \\over a}$$ is ............",
+      "answer": "0.5",
+      "explanation": "We have, $$\\alpha $$, $$\\beta $$ are the roots of <br><br>$$\\sqrt 3 a\\cos x + 2b\\sin x = c$$<br><br>$$ \\therefore $$ $$\\sqrt 3 a\\cos \\alpha + 2b\\sin \\alpha  = c$$ ... (i)<br><br>and $$\\sqrt 3 a\\cos \\beta  + 2b\\sin \\beta  = c$$ ... (ii)<br><br>On subtracting Eq. (ii) from Eq. (i), we get<br><br>$$\\sqrt 3 a(\\cos \\alpha  - \\cos \\beta ) + 2b(\\sin \\alpha  - \\sin \\beta ) = 0$$<br><br>$$ \\Rightarrow \\sqrt 3 a\\left( { - 2\\sin \\left( {{{\\alpha  + \\beta } \\over 2}} \\right)} \\right)\\sin \\left( {{{\\alpha  - \\beta } \\over 2}} \\right) + 2b\\left( {2\\cos \\left( {{{\\alpha  + \\beta } \\over 2}} \\right)} \\right)\\sin \\left( {{{\\alpha  - \\beta } \\over 2}} \\right) = 0$$<br><br>$$ \\Rightarrow \\sqrt 3 a\\sin \\left( {{{\\alpha  + \\beta } \\over 2}} \\right) = 2b\\cos \\left( {{{\\alpha  + \\beta } \\over 2}} \\right)$$<br><br>$$ \\Rightarrow \\tan \\left( {{{\\alpha  + \\beta } \\over 2}} \\right) = {{2b} \\over {\\sqrt 3 a}}$$<br><br>$$ \\Rightarrow \\tan \\left( {{\\pi  \\over 6}} \\right) = {{2b} \\over {\\sqrt 3 a}}$$ [$$ \\because $$ $$\\alpha $$ + $$\\beta $$ = $${\\pi  \\over 3}$$, given]<br><br>$$ \\Rightarrow {1 \\over {\\sqrt 3 }} = {{2b} \\over {\\sqrt 3 a}} \\Rightarrow {b \\over a} = {1 \\over 2}$$<br><br>$$ \\Rightarrow {b \\over a} = 0.5$$"
+    },
+    {
+      "_type": "numerical",
+      "body": "<p>The value of $$6 + {\\log _{3/2}}\\left( {{1 \\over {3\\sqrt 2 }}\\sqrt {4 - {1 \\over {3\\sqrt 2 }}\\sqrt {4 - {1 \\over {3\\sqrt 2 }}\\sqrt {4 - {1 \\over {3\\sqrt 2 }}...} } } } \\right)$$ is __________.</p>",
+      "answer": "4",
+      "explanation": "<p>$$6 + {\\log _{{3 \\over 2}}}\\left( {{1 \\over {3\\sqrt 2 }}\\sqrt {4 - {1 \\over {3\\sqrt 2 }}\\sqrt {4 - {1 \\over {3\\sqrt 2 }}\\sqrt {4 - {1 \\over {3\\sqrt 2 }}...} } } } \\right)$$</p>\n<p>Let $$\\sqrt {4 - {1 \\over {3\\sqrt 2 }}\\sqrt {4 - {1 \\over {3\\sqrt 2 }}} \\sqrt {...} }  = y$$</p>\n<p>$$\\therefore$$ $$y = \\sqrt {4 - {1 \\over {3\\sqrt 2 }}y} $$</p>\n<p>$$ \\Rightarrow {y^2} + {1 \\over {3\\sqrt 2 }}y - 4 = 0$$</p>\n<p>$$ \\Rightarrow 3\\sqrt 2 {y^2} + y - 12\\sqrt 2  = 0$$<?p>\n<p>$$\\therefore$$ $$y = {{ - 1 \\pm 17} \\over {6\\sqrt 2 }}$$ or $$y = {8 \\over {3\\sqrt 2 }}$$</p>\n<p>Now,</p>\n<p>$$6 + {\\log _{{3 \\over 2}}}\\left( {{1 \\over {3\\sqrt 2 }}.y} \\right) = 6 + {\\log _{{3 \\over 2}}}\\left( {{1 \\over {3\\sqrt 2 }}.{8 \\over {3\\sqrt 2 }}} \\right)$$</p>\n<p>$$ = 6 + {\\log _{{3 \\over 2}}}\\left( {{4 \\over 9}} \\right) = 6 + {\\log _{{3 \\over 2}}}{\\left( {{3 \\over 2}} \\right)^{ - 2}}$$</p>\n<p>$$ = 6 - 2.{\\log _{{3 \\over 2}}}\\left( {{3 \\over 2}} \\right) = 4$$</p>"
+    },
+    {
+      "_type": "numerical",
+      "body": "The minimum value of the sum of real numbers $${a^{ - 5}},\\,{a^{ - 4}},\\,3{a^{ - 3}},\\,1,\\,{a^8}$$ and $${a^{10}}$$ where $$a &gt; 0$$ is ",
+      "answer": "8",
+      "explanation": "<p>We have $${{{a^{ - 5}} + {a^{ - 4}} + {a^{ - 3}} + {a^{ - 3}} + {a^{ - 3}} + {a^8} + {a^{10}} + 1} \\over 8} \\ge 1$$</p>\n<p>Therefore, the minimum value is 8.</p>"
+    },
+    {
+      "_type": "numerical",
+      "body": "The number of distinct real roots of $${x^4} - 4{x^3} + 12{x^2} + x - 1 = 0$$ ",
+      "answer": "2",
+      "explanation": "<p>Let $$f(x) = {x^4} - 4{x^3} + 12{x^2} + x - 1 = 0$$</p>\n<p>$$f'(x) = 4{x^3} - 12{x^2} + 24x + 1 = 4({x^3} - 3{x^2} + 6x) + 1$$</p>\n<p>$$f''(x) = 12{x^2} - 24x + 24 = 12({x^2} - 2x + 2)$$</p>\n<p>f''(x) has 0 real roots.</p>\n<p>f(x) has maximum two distinct real roots as f(0) = $$-$$1.</p>"
+    },
+    {
+      "_type": "numerical",
+      "body": "The smallest value of $$k$$, for which both the roots of the equation \n$$${x^2} - 8kx + 16\\left( {{k^2} - k + 1} \\right) = 0$$$\nare real, distinct and have values at least 4, is ",
+      "answer": "2",
+      "explanation": "<p>We have $${x^2} - 8kx + 16({k^2} - k + 1) = 0$$</p>\n<p>$$D > 0 \\Rightarrow k > 1$$ ..... (1)</p>\n<p>$${{ - b} \\over {2a}} > 4 \\Rightarrow {{8k} \\over 2} > 4$$</p>\n<p>$$ \\Rightarrow k > 1$$ ..... (2)</p>\n<p>Now, $$f(4) \\ge 0 \\Rightarrow 16 - 32k + 16({k^2} - k + 1) \\ge 0$$</p>\n<p>$${k^2} - 3k + 2 \\ge 0$$</p>\n<p>$$k \\le 1 \\cup k \\ge 2$$ ..... (3)</p>\n<p>Using Eqs. (1), (2) and (3), we get $${k_{\\min }} = 2$$.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Suppose a, b denote the distinct real roots of the quadratic polynomial x<sup>2</sup> + 20x $$-$$ 2020 and suppose c, d denote the distinct complex roots of the quadratic polynomial x<sup>2</sup> $$-$$ 20x + 2020. Then the value of <br><br>ac(a $$-$$ c) + ad(a $$-$$ d) + bc(b $$-$$ c) + bd(b $$-$$ d) is",
+      "options": [
+        {
+          "key": "A",
+          "value": "0"
+        },
+        {
+          "key": "B",
+          "value": "8000"
+        },
+        {
+          "key": "C",
+          "value": "8080"
+        },
+        {
+          "key": "D",
+          "value": "16000"
+        }
+      ],
+      "answer": "D",
+      "explanation": "Given quadratic polynomials, x<sup>2</sup> + 20x $$-$$ 2020 and x<sup>2</sup> $$-$$ 20x + 2020 having a, b distinct real and c, d  distinct complex roots respectively.<br><br>So, a + b = $$-$$20, ab = $$-$$2020<br><br>and c + d = 20, cd = 2020<br><br>Now, ac(a $$-$$c) + ad(a $$-$$ d) + bc(b $$-$$c) + bd(b $$-$$ d)<br><br>= a<sup>2</sup>(c + d) $$-$$ a(c<sup>2</sup> + d<sup>2</sup>) + b<sup>2</sup>(c + d) $$-$$ b(c<sup>2</sup> + d<sup>2</sup>)<br><br>= (c + d) (a<sup>2</sup> + b<sup>2</sup>) $$-$$ (c<sup>2</sup> + d<sup>2</sup>) (a + b)<br><br>= (c + d)[(a + b)<sup>2</sup> $$-$$ 2ab] $$-$$ (a + b)[(c + d)<sup>2</sup> $$-$$ 2cd]<br><br>= 20[(20)<sup>2</sup> + 4040] + 20[(20)<sup>2</sup> $$-$$ 4040]<br><br>= 2 $$ \\times $$ 20 $$ \\times $$ (20)<sup>2</sup> = 40 $$ \\times $$ 400 = 16000"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "a<sub>12</sub> = ?",
+      "options": [
+        {
+          "key": "A",
+          "value": "a<sub>11</sub> + 2a<sub>10</sub>"
+        },
+        {
+          "key": "B",
+          "value": "2a<sub>11</sub> + a<sub>10</sub>"
+        },
+        {
+          "key": "C",
+          "value": "a<sub>11</sub> $$-$$ a<sub>10</sub>"
+        },
+        {
+          "key": "D",
+          "value": "a<sub>11</sub> + a<sub>10</sub>"
+        }
+      ],
+      "answer": "D",
+      "explanation": "$$\\alpha $$<sup>2</sup> = $$\\alpha $$ + 1<br><br>$$\\beta $$<sup>2</sup> = $$\\beta $$ + 1<br><br>a<sub>n</sub> = p$$\\alpha $$<sup>n</sup> + q$$\\beta $$<sup>n</sup><br><br>= p($$\\alpha $$<sup>n$$-$$1</sup> + $$\\alpha $$<sup>n$$-$$2</sup>) + q($$\\beta $$<sup>n$$-$$1</sup> + $$\\beta $$<sup>n$$-$$2</sup>)<br><br>= a<sub>n$$-$$1</sub> + a<sub>n$$-$$2</sub><br><br>$$ \\therefore $$ a<sub>12</sub> = a<sub>11</sub> + a<sub>10</sub>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "If a<sub>4</sub> = 28, then p + 2q =",
+      "options": [
+        {
+          "key": "A",
+          "value": "14"
+        },
+        {
+          "key": "B",
+          "value": "7"
+        },
+        {
+          "key": "C",
+          "value": "21"
+        },
+        {
+          "key": "D",
+          "value": "12"
+        }
+      ],
+      "answer": "D",
+      "explanation": "$$\\alpha  = {{1 + \\sqrt 5 } \\over 2}$$,<br><br>$$\\beta  = {{1 - \\sqrt 5 } \\over 2}$$<br><br>$${a_4} = {a_3} + {a_2}$$<br><br>$$ = 2{a_2} + {a_1}$$<br><br>$$ = 3{a_1} + 2{a_0}$$<br><br><br>$$28 = p(3\\alpha  + 2) + q(3\\beta  + 2)$$<br><br>$$28 = (p + q)\\left( {{3 \\over 2} + 2} \\right) + (p - q)\\left( {{{3\\sqrt 5 } \\over 2}} \\right)$$<br><br>$$ \\therefore $$ p $$-$$ q = 0<br><br>and $$(p + q) \\times {7 \\over 2} = 28$$<br><br>$$ \\Rightarrow $$ p + q = 8<br><br>$$ \\Rightarrow $$ p = q = 4<br><br>$$ \\therefore $$ p + 2q = 12"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Let $$ - {\\pi  \\over 6} &lt; \\theta  &lt;  - {\\pi  \\over {12}}.$$  Suppose $${\\alpha _1}$$ and $${\\beta_1}$$ are the roots of the equation $${x^2} - 2x\\sec \\theta  + 1 = 0$$ and $${\\alpha _2}$$ and $${\\beta _2}$$ are the roots of the equation $${x^2} + 2x\\,\\tan \\theta  - 1 = 0.$$ $$If\\,{\\alpha _1} &gt; {\\beta _1}$$ and $${\\alpha _2} &gt; {\\beta _2},$$  then $${\\alpha _1} + {\\beta _2}$$ equals ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$2\\left( {\\sec \\theta  - \\tan \\theta } \\right)$$ "
+        },
+        {
+          "key": "B",
+          "value": "$$2\\,\\sec \\,\\theta $$ "
+        },
+        {
+          "key": "C",
+          "value": "$$ - 2\\tan \\theta $$ "
+        },
+        {
+          "key": "D",
+          "value": "$$0$$ "
+        }
+      ],
+      "answer": "C",
+      "explanation": "Given, first equation $x^2-2 x \\sec \\theta+1=0$<br/><br/>\nUsing quadratic equation formula we get,<br/><br/>\n$$\n\\begin{aligned}\nx & =\\frac{-(-2 \\sec \\theta) \\pm \\sqrt{(-2 \\sec \\theta)^2-4}}{2} \\\\\\\\\n\\Rightarrow & x=\\frac{2 \\sec \\theta \\pm \\sqrt{4 \\sec ^2 \\theta-4}}{2} \\\\\\\\\n\\Rightarrow & x=\\frac{2 \\sec \\theta \\pm 2 \\tan \\theta}{2} \\\\\\\\\n\\Rightarrow & x=\\sec \\theta \\pm \\tan \\theta \\text { as } \\theta \\in\\left(\\frac{-\\pi}{6}, \\frac{-\\pi}{2}\\right) \\\\\\\\\n\\Rightarrow & \\alpha_1=\\sec \\theta-\\tan \\theta \\text { and } \\beta_1=\\sec \\theta+\\tan \\theta\n\\end{aligned}\n$$<br/><br/>\nNow, for the equation $x^2+2 x \\tan \\theta-1=0$<br/><br/>\n$$\n\\begin{aligned}\n& x=\\frac{-2 \\tan \\theta \\pm \\sqrt{4 \\tan ^2 \\theta+4}}{2} \\\\\\\\\n\\Rightarrow & x=\\frac{-2 \\tan \\theta \\pm 2 \\sec \\theta}{2} \\\\\\\\\n\\Rightarrow & x=-\\tan \\theta \\pm \\sec \\theta \\\\\\\\\n\\Rightarrow & x=(\\sec \\theta-\\tan \\theta),-(\\sec \\theta+\\tan \\theta)\n\\end{aligned}\n$$<br/><br/>\nGiven, that $\\alpha_2$ and $\\beta_2$ are the roots of equation and $\\alpha_2>\\beta_2$<br/><br/>\n$$\n\\begin{aligned}\n&\\Rightarrow \\alpha_2  =\\sec \\theta-\\tan \\theta, \\beta_2=-(\\sec \\theta+\\tan \\theta) \\\\\\\\\n&\\Rightarrow \\alpha_1+\\beta_2  =(\\sec \\theta-\\tan \\theta)-(\\sec \\theta+\\tan \\theta) \\\\\\\\\n& =\\sec \\theta-\\tan \\theta-\\sec \\theta-\\tan \\theta \\\\\\\\\n&\\Rightarrow \\alpha_1+\\beta_2  =-2 \\tan \\theta\n\\end{aligned}\n$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The quadratic equation $$p(x)$$ $$ = 0$$  with real coefficients has purely imaginary roots. Then the equation $$p(p(x))=0$$ has ",
+      "options": [
+        {
+          "key": "A",
+          "value": "one purely imaginary root "
+        },
+        {
+          "key": "B",
+          "value": "all real roots "
+        },
+        {
+          "key": "C",
+          "value": "two real and two purely imaginary  roots "
+        },
+        {
+          "key": "D",
+          "value": "neither real nor purely imaginary roots "
+        }
+      ],
+      "answer": "D",
+      "explanation": "<p>Given, a quadratic equation $$p(x)=0$$ with real coefficients has purely imaginary roots.</p>\n<p>Let $$i \\lambda$$ and $$-i \\lambda$$ are the roots of $$p(x)=0$$ where $$i=\\sqrt{-1}$$ and $$\\lambda$$ is a real number except zero.</p>\n<p>$$\\begin{aligned}\n& \\therefore p(x)=a(x-i \\lambda)(x+i \\lambda) \\\\\n& \\Rightarrow p(x)=a\\left(x^2+\\lambda^2\\right)\n\\end{aligned}$$</p>\n<p>Now, $$\\quad p(p(x))=0$$</p>\n<p>$$\\Rightarrow \\quad a\\left((p(x))^2+\\lambda^2\\right)=0$$</p>\n<p>$$\\Rightarrow a\\left[a^2\\left(x^2+\\lambda^2\\right)^2+\\lambda^2\\right]=0$$</p>\n<p>$$\\Rightarrow a^2\\left(x^2+\\lambda^2\\right)^2+\\lambda^2=0$$</p>\n<p>$$\\Rightarrow \\quad\\left(x^2+\\lambda^2\\right)^2=-\\frac{\\lambda^2}{a^2}$$</p>\n<p>$$\\Rightarrow \\quad x^2+\\lambda^2= \\pm i \\frac{\\lambda}{a}$$</p>\n<p>$$\\Rightarrow \\quad x^2= \\pm i \\frac{\\lambda}{a}-\\lambda^2$$</p>\n<p>$$\\Rightarrow \\quad x= \\pm \\sqrt{ \\pm i \\frac{\\lambda}{a}-\\lambda^2}$$</p>\n<p>Hence, $$p(p(x))=0$$ has four roots but all the roots are neither purely real nor purely imaginary.</p>\n<p>Hint:</p>\n<p>(i) In a quadratic equation imaginary roots are always in conjugate pair i.e, if one root is $$p+i q$$, then other root must be $$p-i q$$</p>\n<p>(ii) A quadratic equation with real coefficients has purely imaginary roots, then consider $$\\pm i \\lambda$$ are the roots of the given quadratic, where $$\\lambda \\in \\mathrm{R}-\\{0\\}$$.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Let $$\\alpha$$(a) and $$\\beta$$(a) be the roots of the equation $$(\\root 3 \\of {1 + a}  - 1){x^2} + (\\sqrt {1 + a}  - 1)x + (\\root 6 \\of {1 + a}  - 1) = 0$$ where $$a >  - 1$$. Then $$\\mathop {\\lim }\\limits_{a \\to {0^ + }} \\alpha (a)$$ and $$\\mathop {\\lim }\\limits_{a \\to {0^ + }} \\beta (a)$$ are</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$ - {5 \\over 2}$$"
+        },
+        {
+          "key": "B",
+          "value": "$$ - {1 \\over 2}$$"
+        },
+        {
+          "key": "C",
+          "value": "$$ - {7 \\over 2}$$"
+        },
+        {
+          "key": "D",
+          "value": "$$ - {9 \\over 2}$$"
+        }
+      ],
+      "answer": "B",
+      "explanation": "<p>Let a + 1 = t<sup>6</sup>. Thus, when a $$\\to$$ 0, t $$\\to$$ 1.</p>\n<p>$$\\therefore$$ $$({t^2} - 1){x^2} + ({t^3} - 1)x + (t - 1) = 0$$</p>\n<p>$$ \\Rightarrow (t - 1)\\{ (t + 1){x^2} + ({t^2} + t + 1)x + 1\\}  = 0$$,</p>\n<p>as t $$\\to$$ 1</p>\n<p>$$2{x^2} + 3x + 1 = 0$$</p>\n<p>$$ \\Rightarrow 2{x^2} + 2x + x + 1 = 0$$</p>\n<p>$$ \\Rightarrow (2x + 1)(x + 1) = 0$$</p>\n<p>Thus, x = $$-$$1, $$-$$1/2</p>\n<p>or, $$\\mathop {\\lim }\\limits_{a \\to {0^ + }} \\alpha (a) =  - {1 \\over 2}$$</p>\n<p>and $$\\mathop {\\lim }\\limits_{a \\to {0^ + }} \\beta (a) =  - 1$$</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Let $$\\alpha $$ and $$\\beta $$  be the roots of $${x^2} - 6x - 2 = 0,$$ with $$\\alpha  &gt; \\beta .$$  If $${a_n} = {\\alpha ^n} - {\\beta ^n}$$  for $$\\,n \\ge 1$$ then the value of $${{{a_{10}} - 2{a_8}} \\over {2{a_9}}}$$  is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "1 "
+        },
+        {
+          "key": "B",
+          "value": "2 "
+        },
+        {
+          "key": "C",
+          "value": "3 "
+        },
+        {
+          "key": "D",
+          "value": "4 "
+        }
+      ],
+      "answer": "C",
+      "explanation": "<p>We have, $${a_n} = {\\alpha ^n} - {\\beta ^n}$$</p>\n<p>$${\\alpha ^2} - 6\\alpha  - 2 = 0$$</p>\n<p>Multiplying with $$\\alpha$$<sup>8</sup> on both sides, we get</p>\n<p>$${\\alpha ^{10}} - 6{\\alpha ^9} - 2{\\alpha ^8} = 0$$ ..... (1)</p>\n<p>Similarly, $${\\beta ^{10}} - 6{\\beta ^9} - 2{\\beta ^8} = 0$$ ..... (2)</p>\n<p>From Eqs. (1) and (2), we get</p>\n<p>$${\\alpha ^{10}} - {\\beta ^{10}} - 6({\\alpha ^9} - {\\beta ^9}) = 2({\\alpha ^8} - {\\beta ^8})$$</p>\n<p>$$ \\Rightarrow {a_{10}} - 6{a_9} = 2{a_8} \\Rightarrow {{{a_{10}} - 2{a_8}} \\over {2{a_9}}} = 3$$.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Let $$\\left( {{x_0},{y_0}} \\right)$$ be the solution  of the following equations \n<br>$$\\matrix{\n   {{{\\left( {2x} \\right)}^{\\ell n2}}\\, = {{\\left( {3y} \\right)}^{\\ell n3}}}  \\cr \n   {{3^{\\ell nx}}\\, = {2^{\\ell ny}}}  \\cr \n\n } $$\n<br>Then $${x_0}$$ is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$${1 \\over 6}$$ "
+        },
+        {
+          "key": "B",
+          "value": "$${1 \\over 3}$$ "
+        },
+        {
+          "key": "C",
+          "value": "$${1 \\over 2}$$ "
+        },
+        {
+          "key": "D",
+          "value": "$$6$$"
+        }
+      ],
+      "answer": "C",
+      "explanation": "<p>We have,</p>\n<p>$${(2x)^{\\ln 2}} = {(3y)^{\\ln 3}}$$ ...... (1)</p>\n<p>$${3^{\\ln x}} = {2^{\\ln y}}$$ ....... (2)</p>\n<p>$$ \\Rightarrow (\\log x)(\\log 3) = (\\log y)\\log 2$$</p>\n<p>$$ \\Rightarrow \\log y = {{(\\log x)(\\log 3)} \\over {\\log 2}}$$ ........ (3)</p>\n<p>Taking log both sides of Eq. (1), we get</p>\n<p>$$(\\log 2)\\{ \\log 2 + \\log x\\}  = \\log 3\\{ \\log 3 + \\log y\\} $$</p>\n<p>$${(\\log 2)^2} + (\\log 2)(\\log x) = {(\\log 3)^2} + {{{{(\\log 3)}^2}(\\log x)} \\over {\\log 2}}$$ from Eq. (3)</p>\n<p>$$ \\Rightarrow {(\\log 2)^2} - {(\\log 3)^2} = {{{{(\\log 3)}^2} - {{(\\log 2)}^2}} \\over {\\log 2}}(\\log x)$$</p>\n<p>$$ \\Rightarrow  - \\log 2 = \\log x$$</p>\n<p>$$ \\Rightarrow x = {1 \\over 2} \\Rightarrow {x_0} = {1 \\over 2}$$.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A value of $$b$$ for which the equations \n$$$\\matrix{\n   {{x^2} + bx - 1 = 0}  \\cr \n   {{x^2} + x + b = 0}  \\cr \n\n } $$$\n<p>have one root in common is</p> ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$ - \\sqrt 2 $$ "
+        },
+        {
+          "key": "B",
+          "value": "$$ - i\\sqrt 3$$ "
+        },
+        {
+          "key": "C",
+          "value": "$$i\\sqrt 5 $$ "
+        },
+        {
+          "key": "D",
+          "value": "$$\\sqrt 2 $$ "
+        }
+      ],
+      "answer": "B",
+      "explanation": "<p>The given equations are</p>\n<p>$${x^2} + bx - 1 = 0$$</p>\n<p>$${x^2} + x + b = 0$$ ....... (1)</p>\n<p>Common root is $$(b - 1)x - 1 - b = 0$$.</p>\n<p>$$ \\Rightarrow x = {{b + 1} \\over {b - 1}}$$</p>\n<p>This value of x satisfies Eq. (1), we get</p>\n<p>$${{{{(b + 1)}^2}} \\over {{{(b - 1)}^2}}} + {{b + 1} \\over {b - 1}} + b = 0$$</p>\n<p>$$ \\Rightarrow b = i\\sqrt 3 ,\\, - i\\sqrt 3 ,\\,0$$</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Let $$p$$ and $$q$$  be real numbers such that $$p \\ne 0,\\,{p^3} \\ne q$$ and $${p^3} \\ne  - q.$$ If $${p^3} \\ne  - q.$$ and $$\\,\\beta $$ are nonzero complex numbers satisfying $$\\alpha \\, + \\beta  =  - p\\,$$ and $${\\alpha ^3} + {\\beta ^3} = q,$$  then a quadratic equation having $${\\alpha  \\over \\beta }$$ and $${\\beta  \\over \\alpha }$$  as its roots is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$\\left( {{p^3} + q} \\right){x^2} - \\left( {{p^3} + 2q} \\right)x + \\left( {{p^3} + q} \\right) = 0$$ "
+        },
+        {
+          "key": "B",
+          "value": "$$\\left( {{p^3} + q} \\right){x^2} - \\left( {{p^3} - 2q} \\right)x + \\left( {{p^3} + q} \\right) = 0$$ "
+        },
+        {
+          "key": "C",
+          "value": "$$\\left( {{p^3} - q} \\right){x^2} - \\left( {5{p^3} - 2q} \\right)x + \\left( {{p^3} - q} \\right) = 0$$ "
+        },
+        {
+          "key": "D",
+          "value": "$$\\left( {{p^3} - q} \\right){x^2} - \\left( {5{p^3} + 2q} \\right)x + \\left( {{p^3} - q} \\right) = 0$$ "
+        }
+      ],
+      "answer": "B",
+      "explanation": "<p>Sum of roots = $${{{\\alpha ^2} + {\\beta ^2}} \\over {\\alpha \\beta }}$$ and product = 1</p>\n<p>Given, $$\\alpha$$ + $$\\beta$$ = $$-$$ p and $$\\alpha$$<sup>3</sup> + $$\\beta$$<sup>3</sup> = q</p>\n<p>$$ \\Rightarrow (\\alpha  + \\beta )({\\alpha ^2} - \\alpha \\beta  + {\\beta ^2}) = q$$</p>\n<p>$$\\therefore$$ $${\\alpha ^2} + {\\beta ^2} - \\alpha \\beta  = {{ - q} \\over p}$$ ..... (i)</p>\n<p>and $${(\\alpha  + \\beta )^2} = {p^2}$$</p>\n<p>$$ \\Rightarrow {\\alpha ^2} + {\\beta ^2} + 2\\alpha \\beta  = {p^2}$$ ..... (ii)</p>\n<p>From Eq. (i) and (ii), we get</p>\n<p>$${\\alpha ^2} + {\\beta ^2} = {{{p^3} - 2q} \\over {3p}}$$</p>\n<p>and $$\\alpha \\beta  = {{{p^3} + q} \\over {3p}}$$</p>\n<p>$$\\therefore$$ Required equation is</p>\n<p>$${x^2} - {{({p^2} - 2q)x} \\over {({p^3} + q)}} + 1 = 0$$</p>\n<p>$$ \\Rightarrow ({p^3} + q){x^2} - ({p^3} - 2q)x + ({p^3} + q) = 0$$</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Let $$a,\\,b,c$$, $$p,q$$ be real numbers. Suppose $$\\alpha ,\\,\\beta $$ are the roots of the equation $${x^2} + 2px + q = 0$$ and $$\\alpha ,{1 \\over \\beta }$$ are the roots of the equation $$a{x^2} + 2bx + c = 0,$$ where $${\\beta ^2} \\in \\left\\{ { - 1,\\,0,\\,1} \\right\\}$$ \n<p><b>STATEMENT - 1 :</b> $$\\left( {{p^2} - q} \\right)\\left( {{b^2} - ac} \\right) \\ge 0$$ \n<br><br/>and\n<b>STATEMENT - 2 :</b> $$b \\ne pa$$ or $$c \\ne qa$$</p>\n",
+      "options": [
+        {
+          "key": "A",
+          "value": "STATEMENT - 1 is True, STATEMENT - 2 is True;\n<br>STATEMENT - 2 is a correct explanation for \n<br>STATEMENT - 1"
+        },
+        {
+          "key": "B",
+          "value": "STATEMENT - 1 is True, STATEMENT - 2 is True;\n<br>STATEMENT - 2 is <b>NOT</b> a correct explanation for\n<br>STATEMENT - 1"
+        },
+        {
+          "key": "C",
+          "value": "STATEMENT - 1 is True, STATEMENT - 2 is False "
+        },
+        {
+          "key": "D",
+          "value": "STATEMENT - 1 is False, STATEMENT - 2 is True "
+        }
+      ],
+      "answer": "B",
+      "explanation": "<p>As a, b, c, p, q $$\\in$$ R and the two given equations have exactly one common root.</p>\n<p>$$\\Rightarrow$$ Either both equations have real roots.</p>\n<p>Or both equations have imaginary roots.</p>\n<p>$$\\Rightarrow$$ Either $$\\Delta_1\\ge0$$ and $$\\Delta_2 > 0$$ or</p>\n<p>$$\\Delta_1 < 0$$ and $$\\Delta_2 < 0$$</p>\n<p>$$\\Rightarrow~p^2-q\\ge0$$ and $$b^2-ac\\ge0$$</p>\n<p>or $$p^2-q\\le0$$ and $$b^2-ac\\le0$$</p>\n<p>$$\\Rightarrow~(p^2-q)(b^2-ac)\\ge0$$</p>\n<p>$$\\therefore$$ Statement 1 is true.</p>\n<p>Also, we have $$\\alpha\\beta=q$$ and $${\\alpha  \\over \\beta } = {c \\over a}$$</p>\n<p>$$\\therefore$$ $${{\\alpha \\beta } \\over {{\\alpha  \\over \\beta }}} = {q \\over c} \\times a \\Rightarrow {\\beta ^2} = {{qa} \\over c}$$</p>\n<p>As $$\\beta  \\ne 1$$ or $$-1$$</p>\n<p>$$ \\Rightarrow {\\beta ^2} \\ne 1$$</p>\n<p>$$ \\Rightarrow {{qa} \\over c} \\ne 1$$ or $$c \\ne qa$$</p>\n<p>Again as exactly one root $$\\alpha$$ is common and $$\\beta\\ne1$$</p>\n<p>$$\\therefore$$ $$\\alpha  + \\beta  \\ne \\alpha  + {1 \\over \\beta } \\Rightarrow {{ - 2b} \\over a} \\ne  - 2P$$</p>\n<p>$$ \\Rightarrow b \\ne ap$$</p>\n<p>$$\\therefore$$ Statement 2 is correct.</p>\n<p>But Statement 2 is not correct explanation of Statement 1.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Let $$\\alpha ,\\,\\beta $$ be the roots of the equation $${x^2} - px + r = 0$$ and $${\\alpha  \\over 2},\\,2\\beta $$ be the roots of the equation $${x^2} - qx + r = 0$$. Then the value of $$r$$ ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$${2 \\over 9}\\left( {p - q} \\right)\\left( {2q - p} \\right)$$ "
+        },
+        {
+          "key": "B",
+          "value": "$${2 \\over 9}\\left( {q - p} \\right)\\left( {2p - q} \\right)$$ "
+        },
+        {
+          "key": "C",
+          "value": "$${2 \\over 9}\\left( {q - 2p} \\right)\\left( {2q - p} \\right)$$ "
+        },
+        {
+          "key": "D",
+          "value": "$${2 \\over 9}\\left( {2p - q} \\right)\\left( {2q - p} \\right)$$ "
+        }
+      ],
+      "answer": "D",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Let $$a,\\,b,\\,c$$ be the sides of triangle where $$a \\ne b \\ne c$$ and $$\\lambda  \\in R$$. \n<br>If the roots of the equation $${x^2} + 2\\left( {a + b + c} \\right)x + 3\\lambda \\left( {ab + bc + ca} \\right) = 0$$ are real, then \n",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$\\lambda  &lt; {4 \\over 3}$$ "
+        },
+        {
+          "key": "B",
+          "value": "$$\\lambda  &gt; {5 \\over 3}$$ "
+        },
+        {
+          "key": "C",
+          "value": "$$\\lambda  \\in \\left( {{1 \\over 3},\\,{5 \\over 3}} \\right)$$ "
+        },
+        {
+          "key": "D",
+          "value": "$$\\lambda  \\in \\left( {{4 \\over 3},\\,{5 \\over 3}} \\right)$$ "
+        }
+      ],
+      "answer": "A",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "For all $$'x',{x^2} + 2ax + 10 - 3a &gt; 0,$$  then the interval in which '$$a$$' lies is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$a &lt;  - 5$$  "
+        },
+        {
+          "key": "B",
+          "value": "$$ - 5 &lt; a &lt; 2$$ "
+        },
+        {
+          "key": "C",
+          "value": "$$a &gt; 5$$ "
+        },
+        {
+          "key": "D",
+          "value": "$$2 &lt; a &lt; 5$$ "
+        }
+      ],
+      "answer": "B",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "If one root is square of the other root of the equation $${x^2} + px + q = 0$$, then the realation between $$p$$ and $$q$$ is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$${p^3} - q\\left( {3p - 1} \\right) + {q^2} = 0$$ "
+        },
+        {
+          "key": "B",
+          "value": "$${p^3} - q\\left( {3p + 1} \\right) + {q^2} = 0$$ "
+        },
+        {
+          "key": "C",
+          "value": "$${p^3} + q\\left( {3p - 1} \\right) + {q^2} = 0$$ "
+        },
+        {
+          "key": "D",
+          "value": "$${p^3} + q\\left( {3p + 1} \\right) + {q^2} = 0$$ "
+        }
+      ],
+      "answer": "A",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "If $$\\,\\alpha  \\in \\left( {0,{\\pi  \\over 2}} \\right)\\,\\,then\\,\\,\\sqrt {{x^2} + x}  + {{{{\\tan }^2}\\alpha } \\over {\\sqrt {{x^2} + x} }}$$ is always greater than or equal to  ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$2\\,\\tan \\alpha \\,$$ "
+        },
+        {
+          "key": "B",
+          "value": "1 "
+        },
+        {
+          "key": "C",
+          "value": "2 "
+        },
+        {
+          "key": "D",
+          "value": "$${\\sec ^2}\\,\\alpha $$ "
+        }
+      ],
+      "answer": "A",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The set of all real numbers x for which $${x^2} - \\left| {x + 2} \\right| + x &gt; 0$$, is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$( - \\infty ,\\, - 2) \\cup (2,\\infty )$$ "
+        },
+        {
+          "key": "B",
+          "value": "$$( - \\infty ,\\, - \\sqrt 2 ) \\cup (\\sqrt 2 ,\\infty )$$ "
+        },
+        {
+          "key": "C",
+          "value": "$$( - \\infty ,\\, - 1) \\cup (1,\\infty )$$ "
+        },
+        {
+          "key": "D",
+          "value": "$$(\\sqrt 2 ,\\infty )$$ "
+        }
+      ],
+      "answer": "B",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "If $${a_1},{a_2}.......,{a_n}$$ are positive real numbers whose product is a fixed number c, then the minimum value of $${a_1} + {a_2} + ..... + {a_{n - 1}} + 2{a_n}$$ is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$n{(2c)^{1/n}}$$ "
+        },
+        {
+          "key": "B",
+          "value": "$$(n + 1){c^{1/n}}$$ "
+        },
+        {
+          "key": "C",
+          "value": "$$2n{c^{1/n}}$$ "
+        },
+        {
+          "key": "D",
+          "value": "$$(n + 1)\\,{(2c)^{1/n}}$$ "
+        }
+      ],
+      "answer": "A",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "If a, b, c, d are positive real numbers such that a + b + c + d = 2, then M = (a + b) (c + d) satisfies the relation ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$0 \\le M \\le 1$$ "
+        },
+        {
+          "key": "B",
+          "value": "$$1 \\le M \\le 2$$ "
+        },
+        {
+          "key": "C",
+          "value": "$$2 \\le M \\le 3$$ "
+        },
+        {
+          "key": "D",
+          "value": "$$3 \\le M \\le 4$$ "
+        }
+      ],
+      "answer": "A",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "For the equation $$3{x^2} + px + 3 = 0$$. p &gt; 0, if one of the root is square of the other, then p is equal to ",
+      "options": [
+        {
+          "key": "A",
+          "value": "1/3"
+        },
+        {
+          "key": "B",
+          "value": "1"
+        },
+        {
+          "key": "C",
+          "value": "3"
+        },
+        {
+          "key": "D",
+          "value": "2/3"
+        }
+      ],
+      "answer": "C",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "If $$\\alpha \\,\\text{and}\\,\\beta $$ $$(\\alpha \\, &lt; \\,\\beta )$$ are the roots of the equation $${x^2} + bx + c = 0\\,$$, where $$c &lt; 0 &lt; b$$, then ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$0 &lt; \\alpha \\, &lt; \\,\\beta \\,$$ "
+        },
+        {
+          "key": "B",
+          "value": "$$\\alpha \\, &lt; \\,0 &lt; \\beta \\,&lt;\\left| \\alpha  \\right|$$ "
+        },
+        {
+          "key": "C",
+          "value": "$$\\alpha \\, &lt; \\beta \\, &lt; 0\\,$$ "
+        },
+        {
+          "key": "D",
+          "value": "$$\\alpha \\, &lt; \\,0 &lt; \\left| \\alpha  \\right| &lt; \\beta $$ "
+        }
+      ],
+      "answer": "B",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "If b &gt; a, then the equation (x - a) (x - b) - 1 = 0 has ",
+      "options": [
+        {
+          "key": "A",
+          "value": "both roots in (a, b)"
+        },
+        {
+          "key": "B",
+          "value": "both roots in (- $$\\infty $$, a)"
+        },
+        {
+          "key": "C",
+          "value": "both roots in (b, + $$\\infty $$)"
+        },
+        {
+          "key": "D",
+          "value": "one root in (-  $$\\infty $$, a) and the other in (b, +  $$\\infty $$)"
+        }
+      ],
+      "answer": "D",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "If the roots of the equation $${x^2} - 2ax + {a^2} + a - 3 = 0$$ are real and less than 3, then ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$a &lt; 2$$ "
+        },
+        {
+          "key": "B",
+          "value": "$$2 \\le a \\le 3$$ "
+        },
+        {
+          "key": "C",
+          "value": "$$3 &lt; a \\le 4$$ "
+        },
+        {
+          "key": "D",
+          "value": "$$a &gt; 4$$ "
+        }
+      ],
+      "answer": "A",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Number of divisor of the form 4$$n$$$$ + 2\\left( {n \\ge 0} \\right)$$ of the integer 240 is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "4 "
+        },
+        {
+          "key": "B",
+          "value": "8 "
+        },
+        {
+          "key": "C",
+          "value": "10 "
+        },
+        {
+          "key": "D",
+          "value": "3 "
+        }
+      ],
+      "answer": "A",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The number of points of intersection of two curves y = 2 sin x and y $$ = 5{x^2} + 2x + 3$$ is",
+      "options": [
+        {
+          "key": "A",
+          "value": "0 "
+        },
+        {
+          "key": "B",
+          "value": "1 "
+        },
+        {
+          "key": "C",
+          "value": "2 "
+        },
+        {
+          "key": "D",
+          "value": "$$\\infty $$ "
+        }
+      ],
+      "answer": "A",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "If p, q, r are + ve and are on A.P., the roots of quadratic equation $$p{x^2} + qx + r = 0$$ are all real for",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$\\left| {{r \\over p} - 7} \\right| \\ge 4\\sqrt 3 $$ "
+        },
+        {
+          "key": "B",
+          "value": "$$\\left| {{p \\over r} - 7} \\right| \\ge 4\\sqrt 3 $$ "
+        },
+        {
+          "key": "C",
+          "value": "all p and r"
+        },
+        {
+          "key": "D",
+          "value": "no p and r"
+        }
+      ],
+      "answer": "B",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Let $$p,q \\in \\left\\{ {1,2,3,4} \\right\\}\\,$$. The number of equations of the form $$p{x^2} + qx + 1 = 0$$ having real roots is",
+      "options": [
+        {
+          "key": "A",
+          "value": "15"
+        },
+        {
+          "key": "B",
+          "value": "9"
+        },
+        {
+          "key": "C",
+          "value": "7"
+        },
+        {
+          "key": "D",
+          "value": "8"
+        }
+      ],
+      "answer": "C",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Let $$\\alpha \\,,\\,\\beta $$ be the roots of the equation (x - a) (x - b) = c, $$c \\ne 0$$. Then the roots of the equation $$(x - \\alpha \\,)\\,(x - \\beta ) + c = 0$$ are ",
+      "options": [
+        {
+          "key": "A",
+          "value": "a, c"
+        },
+        {
+          "key": "B",
+          "value": "b, c"
+        },
+        {
+          "key": "C",
+          "value": "a, b"
+        },
+        {
+          "key": "D",
+          "value": "a + c, b + c"
+        }
+      ],
+      "answer": "C",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The product of $$n$$ positive numbers is unity.  Then their sum is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "a positive integer "
+        },
+        {
+          "key": "B",
+          "value": "divisible by  $$n$$ "
+        },
+        {
+          "key": "C",
+          "value": "equal to $$n + {1 \\over n}$$ "
+        },
+        {
+          "key": "D",
+          "value": "never less than $$n$$  "
+        }
+      ],
+      "answer": "D",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The number of solutions of the equation sin$${(e)^x} = {5^x} + {5^{ - x}}$$ is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "0"
+        },
+        {
+          "key": "B",
+          "value": "1"
+        },
+        {
+          "key": "C",
+          "value": "2"
+        },
+        {
+          "key": "D",
+          "value": "Infinitely many"
+        }
+      ],
+      "answer": "A",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "If $$a,\\,b,\\,c,\\,d$$ and p are distinct real numbers such that \n$$$\\left( {{a^2} + {b^2} + {c^2}} \\right){p^2} - 2\\left( {ab + bc + cd} \\right)p + \\left( {{b^2} + {c^2} + {d^2}} \\right) \\le 0$$$\n<br>then  $$a,\\,b,\\,c,\\,d$$ ",
+      "options": [
+        {
+          "key": "A",
+          "value": "are in A. P."
+        },
+        {
+          "key": "B",
+          "value": "are in G P. "
+        },
+        {
+          "key": "C",
+          "value": "are in H. P. "
+        },
+        {
+          "key": "D",
+          "value": "satisfy $$ab = cd$$ "
+        }
+      ],
+      "answer": "B",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "If $$a,\\,b$$ and $$c$$ are distinct positive numbers, then the expression \n<br>$$\\left( {b + c - a} \\right)\\left( {c + a - b} \\right)\\left( {a + b - c} \\right) - abc$$ is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "positive "
+        },
+        {
+          "key": "B",
+          "value": "negative "
+        },
+        {
+          "key": "C",
+          "value": "non-positive "
+        },
+        {
+          "key": "D",
+          "value": "non-negative "
+        }
+      ],
+      "answer": "B",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "If $${\\log _{0.3}}\\,(x\\, - \\,1) &lt; {\\log _{0.09}}(x - 1)$$, then x lies in the interval-",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$(2,\\infty )$$ "
+        },
+        {
+          "key": "B",
+          "value": "(1, 2)"
+        },
+        {
+          "key": "C",
+          "value": "(- 2, - 1)"
+        },
+        {
+          "key": "D",
+          "value": "none of these"
+        }
+      ],
+      "answer": "A",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "If $$\\,{a^2} + {b^2} + {c^2} = 1$$, then ab + bc + ca lies in the interval",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$[{1 \\over 2},2]\\,\\,$$ "
+        },
+        {
+          "key": "B",
+          "value": "$$[ - 1,2]$$ "
+        },
+        {
+          "key": "C",
+          "value": "$$\\,[ - {1 \\over 2},1]\\,$$ "
+        },
+        {
+          "key": "D",
+          "value": "$$\\,[ - 1,{1 \\over 2}]\\,\\,$$ "
+        }
+      ],
+      "answer": "C",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The equation $$x - {2 \\over {x - 1}} = 1 - {2 \\over {x - 1}}$$ has",
+      "options": [
+        {
+          "key": "A",
+          "value": "no root"
+        },
+        {
+          "key": "B",
+          "value": "one root"
+        },
+        {
+          "key": "C",
+          "value": "two equal root"
+        },
+        {
+          "key": "D",
+          "value": "infinitely many roots"
+        }
+      ],
+      "answer": "A",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The number of real solutions of the equation $${\\left| x \\right|^2} - 3\\left| x \\right| + 2 = 0$$ is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "4"
+        },
+        {
+          "key": "B",
+          "value": "1"
+        },
+        {
+          "key": "C",
+          "value": "3"
+        },
+        {
+          "key": "D",
+          "value": "2"
+        }
+      ],
+      "answer": "A",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Two towns A and B are 60 km apart. A school is to be built to serve 150 students in town A and 50 students in town B. If the total distance to be travelled by all 200 students is to be as small as possible, then the school should be built at ",
+      "options": [
+        {
+          "key": "A",
+          "value": "town B"
+        },
+        {
+          "key": "B",
+          "value": "45 km from town A"
+        },
+        {
+          "key": "C",
+          "value": "town A"
+        },
+        {
+          "key": "D",
+          "value": "45 km from town B"
+        }
+      ],
+      "answer": "C",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "If p, q, r are any real numbers, then ",
+      "options": [
+        {
+          "key": "A",
+          "value": "max (p, q) &lt; max (p, q, r )"
+        },
+        {
+          "key": "B",
+          "value": "min (p, q) = $${1 \\over 2}\\left( {p + q - \\left| {p - q} \\right|} \\right)$$"
+        },
+        {
+          "key": "C",
+          "value": "max (p, q) &lt; min (p, q, r)  "
+        },
+        {
+          "key": "D",
+          "value": "none of these"
+        }
+      ],
+      "answer": "B",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The largest interval for which $${x^{12}} - {x^9} + {x^4} - x + 1 &gt; 0$$ is",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$ - 4 &lt; x \\le 0$$ "
+        },
+        {
+          "key": "B",
+          "value": "$$\\,0 &lt; x &lt; 1$$ "
+        },
+        {
+          "key": "C",
+          "value": "$$ - 100 &lt; x &lt; 100$$ "
+        },
+        {
+          "key": "D",
+          "value": "$$ - \\infty  &lt; x &lt; \\infty $$ "
+        }
+      ],
+      "answer": "D",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The least value of the expression $$2\\,\\,{\\log _{10}}\\,x\\, - \\,{\\log _x}(0.01)$$ for x &gt; 1, is",
+      "options": [
+        {
+          "key": "A",
+          "value": "10"
+        },
+        {
+          "key": "B",
+          "value": "2 "
+        },
+        {
+          "key": "C",
+          "value": "- 0.01"
+        },
+        {
+          "key": "D",
+          "value": "none of these."
+        }
+      ],
+      "answer": "B",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "If $$\\,({x^2} + px + 1)\\,$$ is a factor of $$(a{x^3} + bx + c)$$, then  ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$${a^2} + {c^2} =  - ab\\,$$ "
+        },
+        {
+          "key": "B",
+          "value": "$${a^2} - {c^2} =  - ab$$ "
+        },
+        {
+          "key": "C",
+          "value": "$${a^2} - {c^2} = ab$$ "
+        },
+        {
+          "key": "D",
+          "value": "none of these"
+        }
+      ],
+      "answer": "C",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Both the roots of the equation (x - b) (x - c) + (x - a) (x - c) + (x - a) (x - b) = 0 are always ",
+      "options": [
+        {
+          "key": "A",
+          "value": "positive"
+        },
+        {
+          "key": "B",
+          "value": "real"
+        },
+        {
+          "key": "C",
+          "value": "negative"
+        },
+        {
+          "key": "D",
+          "value": "none of these."
+        }
+      ],
+      "answer": "B",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "If $$\\ell $$, m, n are real, $$\\ell  \\ne m$$, then the roots by the equation :\n<br> $$(\\ell  - m)\\,{x^2} - 5\\,(\\ell  + m)\\,x - 2\\,(\\ell  - m) = 0$$ are",
+      "options": [
+        {
+          "key": "A",
+          "value": "Real and equal"
+        },
+        {
+          "key": "B",
+          "value": "Complex"
+        },
+        {
+          "key": "C",
+          "value": "Real and unequal"
+        },
+        {
+          "key": "D",
+          "value": "None of these."
+        }
+      ],
+      "answer": "C",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "If x, y and z are real and different and $$\\,u = {x^2} + 4{y^2} + 9{z^2} - 6yz - 3zx - 2xy$$, then u is always. ",
+      "options": [
+        {
+          "key": "A",
+          "value": "non negative"
+        },
+        {
+          "key": "B",
+          "value": "zero"
+        },
+        {
+          "key": "C",
+          "value": "non positive "
+        },
+        {
+          "key": "D",
+          "value": "none of these"
+        }
+      ],
+      "answer": "A",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Let a &gt; 0, b &gt; 0 and c &gt; 0. Then the roots of the equation $$a{x^2} + bx + c = 0$$ ",
+      "options": [
+        {
+          "key": "A",
+          "value": "are real and negative"
+        },
+        {
+          "key": "B",
+          "value": "have negative real parts "
+        },
+        {
+          "key": "C",
+          "value": "both (a) and (b)"
+        },
+        {
+          "key": "D",
+          "value": "none of these"
+        }
+      ],
+      "answer": "C",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The equation x + 2y + 2z = 1 and 2x + 4y + 4z = 9 have ",
+      "options": [
+        {
+          "key": "A",
+          "value": "only one solution "
+        },
+        {
+          "key": "B",
+          "value": "only two solution "
+        },
+        {
+          "key": "C",
+          "value": "Infinite number of solutions"
+        },
+        {
+          "key": "D",
+          "value": "None of these."
+        }
+      ],
+      "answer": "D",
+      "explanation": ""
+    }
+  ]
+}

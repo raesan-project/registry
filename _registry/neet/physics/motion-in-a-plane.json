@@ -1,0 +1,775 @@
+{
+  "_index": {
+    "name": "Motion in a Plane"
+  },
+  "_children": [
+    {
+      "_type": "single_mcq",
+      "body": "<p>A bob is whirled in a horizontal circle by means of a string at an initial speed of $$10 \\mathrm{~rpm}$$. If the tension in the string is quadrupled while keeping the radius constant, the new speed is:</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "20 rpm"
+        },
+        {
+          "key": "B",
+          "value": "40 rpm"
+        },
+        {
+          "key": "C",
+          "value": "5 rpm"
+        },
+        {
+          "key": "D",
+          "value": "10 rpm"
+        }
+      ],
+      "answer": "A",
+      "explanation": "<p>To solve this problem, we need to understand the relationship between the tension in the string and the speed of the bob whirling in a horizontal circle. The centripetal force acting on the bob is provided by the tension in the string, and it can be given by the formula:</p>\n\n<p>$$ F = \\frac{m v^2}{r} $$</p>\n\n<p>where:</p>\n\n<ul>\n\n<li><b>F</b> is the centripetal force (or tension in the string)</li>\n\n<li><b>m</b> is the mass of the bob</li>\n\n<li><b>v</b> is the tangential speed of the bob</li>\n\n<li><b>r</b> is the radius of the circle</li>\n\n</ul>\n\n<p>According to the problem, the initial speed of the bob is $$10 \\mathrm{~rpm}$$, and the radius is kept constant. Let’s denote the initial tension in the string as $$T_1$$ and the new tension as $$T_2$$. Given that the tension in the string is quadrupled, we have:</p>\n\n<p>$$ T_2 = 4 T_1 $$</p>\n\n<p>Also, the centripetal force can be written in terms of tension:</p>\n\n<p>$$ T_1 = \\frac{m v_1^2}{r} $$</p>\n\n<p>$$ T_2 = \\frac{m v_2^2}{r} $$</p>\n\n<p>By substituting $$T_2 = 4 T_1$$ into the second equation, we get:</p>\n\n<p>$$ 4 T_1 = \\frac{m v_2^2}{r} $$</p>\n\n<p>We know from the first equation that:</p>\n\n<p>$$ T_1 = \\frac{m v_1^2}{r} $$</p>\n\n<p>Substituting this into our equation for $$T_2$$:</p>\n\n<p>$$ 4 \\left(\\frac{m v_1^2}{r}\\right) = \\frac{m v_2^2}{r} $$</p>\n\n<p>The masses and radii cancel out, leaving us with:</p>\n\n<p>$$ 4 v_1^2 = v_2^2 $$</p>\n\n<p>Taking the square root of both sides:</p>\n\n<p>$$ v_2 = 2 v_1 $$</p>\n\n<p>The initial speed $$v_1$$ is given as $$10 \\mathrm{~rpm}$$. Therefore, the new speed $$v_2$$ is:</p>\n\n<p>$$ v_2 = 2 \\times 10 \\mathrm{~rpm} = 20 \\mathrm{~rpm} $$</p>\n\n<p>Hence, the new speed of the bob is <strong>20 rpm</strong>. The correct answer is Option A.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Let $$\\omega_1, \\omega_2$$ and $$\\omega_3$$ be the angular speed of the second hand, minute hand and hour hand of a smoothly running analog clock, respectively. If $$x_1, x_2$$ and $$x_3$$ are their respective angular distances in 1 minute then the factor which remains constant $$(k)$$ is</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$\\frac{\\omega_1}{x_1}=\\frac{\\omega_2}{x_2}=\\frac{\\omega_3}{x_3}=k$$\n"
+        },
+        {
+          "key": "B",
+          "value": "$$\\omega_1 x_1=\\omega_2 x_2=\\omega_3 x_3=k$$\n"
+        },
+        {
+          "key": "C",
+          "value": "$$\\omega_1 x_1^2=\\omega_2 x_2^2=\\omega_3 x_3^2=k$$\n"
+        },
+        {
+          "key": "D",
+          "value": "$$\\omega_1^2 x_1=\\omega_2^2 x_2=\\omega_3^2 x_3=k$$"
+        }
+      ],
+      "answer": "A",
+      "explanation": "<p>$$\\begin{aligned}\n& \\omega_1=\\frac{2 \\pi}{60} ; \\quad x_1=\\frac{2 \\pi}{60} \\times 60=2 \\pi \\\\\\\\\n& \\omega_2=\\frac{2 \\pi}{3600} ; \\quad x_2=\\frac{2 \\pi}{3600} \\times 60=\\frac{2 \\pi}{60} \\\\\\\\\n& \\omega_3=\\frac{2 \\pi}{3600 \\times 12} ; \\quad x_3=\\frac{2 \\pi}{3600 \\times 12} \\times 60=\\frac{2 \\pi}{720} \\\\\\\\\n& \\frac{\\omega_1}{x_1}=\\frac{\\omega_2}{x_2}=\\frac{\\omega_3}{x_3}=\\frac{1}{60}=k\n\\end{aligned}$$</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>A particle is executing uniform circular motion with velocity $$\\vec{v}$$ and acceleration $$\\vec{a}$$. Which of the following is true?</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$\\vec{v}$$ is a constant; $$\\vec{a}$$ is not a constant"
+        },
+        {
+          "key": "B",
+          "value": "$$\\vec{v}$$ is not a constant; $$\\vec{a}$$ is not a constant\n"
+        },
+        {
+          "key": "C",
+          "value": "$$\\vec{v}$$ is a constant; $$\\vec{a}$$ is a constant\n"
+        },
+        {
+          "key": "D",
+          "value": "$$\\vec{v}$$ is not a constant; $$\\vec{a}$$ is a constant\n"
+        }
+      ],
+      "answer": "B",
+      "explanation": "<p>Direction of velocity and centripetal acceleration changes continuously so $$\\vec{v}$$ is not constant and $$\\vec{a}$$ is not a constant.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>A bullet is fired from a gun at the speed of $$280 \\mathrm{~ms}^{-1}$$ in the direction $$30^{\\circ}$$ above the horizontal. The maximum height attained by the bullet is</p>\n<p>$$\\left(g=9.8 \\mathrm{~ms}^{-2}, \\sin 30^{\\circ}=0.5\\right)$$:-</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "2000 m"
+        },
+        {
+          "key": "B",
+          "value": "1000 m"
+        },
+        {
+          "key": "C",
+          "value": "3000 m"
+        },
+        {
+          "key": "D",
+          "value": "2800 m"
+        }
+      ],
+      "answer": "B",
+      "explanation": "<p>$$\\mathrm{H}_{\\max }=\\frac{\\mathrm{u}^{2} \\sin ^{2} \\theta}{2 g}$$</p>\n<p>$$\n=\\frac{(280)^{2}\\left(\\sin 30^{\\circ}\\right)^{2}}{2(9.8)}\n$$</p>\n<p>$$=1000 \\mathrm{~m}$$</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A particle moving in a circle of radius R with a uniform speed takes a time T to complete one revolution.<br><br> If this particle were projected with the same speed at an angle '$$\\theta$$' to the horizontal, the maximum height attained by it equals 4R. The angle of projection, $$\\theta$$, is then given by :",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$\\theta  = {\\sin ^{ - 1}}{\\left( {{{2g{T^2}} \\over {{\\pi ^2}R}}} \\right)^{1/2}}$$"
+        },
+        {
+          "key": "B",
+          "value": "$$\\theta  = {\\cos ^{ - 1}}{\\left( {{{g{T^2}} \\over {{\\pi ^2}R}}} \\right)^{1/2}}$$"
+        },
+        {
+          "key": "C",
+          "value": "$$\\theta  = {\\cos ^{ - 1}}{\\left( {{{{\\pi ^2}R} \\over {g{T^2}}}} \\right)^{1/2}}$$"
+        },
+        {
+          "key": "D",
+          "value": "$$\\theta  = {\\sin ^{ - 1}}{\\left( {{{{\\pi ^2}R} \\over {g{T^2}}}} \\right)^{1/2}}$$"
+        }
+      ],
+      "answer": "A",
+      "explanation": "$$T = {{2\\pi R} \\over V}$$<br><br>$$V = {{2\\pi R} \\over T}$$<br><br>$$H = {{{u^2}{{\\sin }^2}\\theta } \\over {2g}}$$<br><br>$$4R = {{4{\\pi ^2}{R^2}{{\\sin }^2}\\theta } \\over {{T^2}2g}}$$<br><br>$${\\sin ^2}\\theta  = {{8R{T^2}g} \\over {4{\\pi ^2}{R^2}}}$$<br><br>$${\\sin ^2}\\theta  = \\sqrt {{{2{T^2}g} \\over {{\\pi ^2}R}}} $$<br><br>$$\\theta  = {\\sin ^{ - 1}}{\\left( {{{2{T^2}g} \\over {{\\pi ^2}R}}} \\right)^{1/2}}$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A car starts from rest and accelerates at 5m/s<sup>2</sup>. At t = 4 s, a ball is dropped out of a window by a person sitting in the car. What is the velocity and acceleration of the ball at t = 6 s? (Take g = 10 m/s<sup>2</sup>)",
+      "options": [
+        {
+          "key": "A",
+          "value": "20$$\\sqrt 2 $$ m/s, 10 m/s<sup>2</sup>"
+        },
+        {
+          "key": "B",
+          "value": "20 m/s, 5 m/s<sup>2</sup>"
+        },
+        {
+          "key": "C",
+          "value": "20 m/s, 0"
+        },
+        {
+          "key": "D",
+          "value": "20$$\\sqrt 2 $$ m/s, 0"
+        }
+      ],
+      "answer": "A",
+      "explanation": "u = 0<br><br>a = 5<br><br>t = 4\n<br><br>velocity of car at t = 4 sec is\n<br><br>V = u + at<br><br>V = 0 + 5 $$\\times$$ 4<br><br>V = 20 m/s<br><br><b>For ball :</b>\n<br><br>At t = 4 s, A ball is dropped out of a window so\nvelocity of ball at this instant is 20 ms–1 along\nhorizontal.\n<br><br>After 2 seconds of motion :\n\n<br><br>Horizontal velocity of ball , V<sub>x</sub> = 20 m/sec<br><br>V<sub>y</sub> = u + ut<br><br>= 10 $$\\times$$ 2<br><br>Vertical velocity of ball, V<sub>y</sub> = 20 m/sec\n<br><br>So magnitude of velocity of ball\n<br><br>V = $$\\sqrt {V_x^2 + V_y^2} $$ =  20$$\\sqrt 2 $$<br><br>and Acceleration of ball at t = 6 s is g = 10 m/sec<sup>2</sup>\nAs ball is under free fall."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The x and y coordinates of the particle at any time are x = 5t $$-$$ 2t<sup>2</sup> and y = 10t respectively,  where x and y are in metres and t in seconds. The acceleration of the particle at t = 2 s is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "5 m s<sup>$$-$$2</sup>"
+        },
+        {
+          "key": "B",
+          "value": "$$-$$4 m s<sup>$$-$$2</sup>"
+        },
+        {
+          "key": "C",
+          "value": "$$-$$8 m s<sup>$$-$$2</sup>"
+        },
+        {
+          "key": "D",
+          "value": "0"
+        }
+      ],
+      "answer": "B",
+      "explanation": "x = 5t $$-$$ 2t<sup>2</sup> and y = 10t\n<br><br>$${{dx} \\over {dt}}$$ = 5 - 4t, $${{dy} \\over {dt}}$$ = 10\n<br><br>$$ \\therefore $$ v<sub>x</sub> = 5 - 4t, v<sub>y</sub> = 10\n<br><br>$${{d{v_x}} \\over {dt}}$$ = - 4, $${{d{v_y}} \\over {dt}}$$ = 0\n<br><br>$$ \\therefore $$ $${a_x}$$ = - 4, $${a_y}$$ = 0\n<br><br>$$\\overrightarrow a  = {a_x}\\widehat i + {a_y}\\widehat j$$ = $$ - 4\\widehat j$$ m/s<sup>2</sup>\n<br><br>$$ \\therefore $$ Acceleration of the particle at t = 2 s is - 4 m/s<sup>2</sup>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "If the magnitude of sum of two vectors is equal to the magnitude of difference of the two vectors, the angle between these vectors is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "45<sup>o</sup>"
+        },
+        {
+          "key": "B",
+          "value": "180<sup>o</sup>"
+        },
+        {
+          "key": "C",
+          "value": "0<sup>o</sup>"
+        },
+        {
+          "key": "D",
+          "value": "90<sup>o</sup>"
+        }
+      ],
+      "answer": "D",
+      "explanation": "Let the two vectors are $$\\overrightarrow A $$ and $$\\overrightarrow B. $$\n<br><br>Given that, $$\\left| {\\overrightarrow A  + \\overrightarrow B } \\right| = \\left| {\\overrightarrow A  - \\overrightarrow B } \\right|$$\n<br><br>$$ \\therefore $$ $$\\sqrt {{A^2} + {B^2} + 2AB\\cos \\theta } $$ = $$\\sqrt {{A^2} + {B^2} - 2AB\\cos \\theta } $$\n<br><br>$$ \\Rightarrow $$ $${4AB\\cos \\theta }$$ = 0\n<br><br>$$ \\because $$ $${4AB}$$ $$ \\ne $$ 0\n<br><br>$$ \\therefore $$ $${\\cos \\theta }$$ = 0 \n<br><br>$$ \\Rightarrow $$ $$\\theta $$ = 90<sup>o</sup>\n"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A particle moves so that its position vector is given by $$\\overrightarrow r  = \\cos \\omega t\\,\\widehat x + \\sin \\,\\omega t\\,\\widehat y,$$ where $$\\omega $$ is a constant. \n<br><br>Which of the following is true? ",
+      "options": [
+        {
+          "key": "A",
+          "value": "Velocity is perpendicular to $$\\overrightarrow r $$ and acceleration is directed towards the origin. "
+        },
+        {
+          "key": "B",
+          "value": "Velocity  is perpendicular to $$\\overrightarrow r $$ and acceleration is directed away  from the origin."
+        },
+        {
+          "key": "C",
+          "value": "Velocity and acceleration both are perpendicular to $$\\overrightarrow r $$"
+        },
+        {
+          "key": "D",
+          "value": "Velocity  and acceleration  both are parallel to $$\\overrightarrow r $$"
+        }
+      ],
+      "answer": "A",
+      "explanation": "$$\\overrightarrow r  = \\cos \\omega t\\,\\widehat x + \\sin \\,\\omega t\\,\\widehat y,$$\n<br><br>$$ \\therefore $$ $$\\overrightarrow v  =  - \\omega \\sin \\omega t\\widehat x + \\omega \\cos \\omega t\\widehat y$$\n<br><br>and $$\\overrightarrow a  =  - {\\omega ^2}\\cos \\omega t\\widehat x - {\\omega ^2}\\sin \\omega t\\widehat y$$ = $$ - {\\omega ^2}\\overrightarrow r $$\n<br><br>$$\\overrightarrow r .\\overrightarrow v $$ = 0\n<br><br>$$ \\Rightarrow $$ $$\\overrightarrow r  \\bot \\overrightarrow v $$\n<br><br>As position vector $$\\left( {\\overrightarrow r } \\right)$$ is directly away from the origin, so, acceleration ($$ - {\\omega ^2}\\overrightarrow r $$) is directed towards the origin."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The positions vector of a particle $$\\overrightarrow R $$ as a function of time is given by $$\\overrightarrow R $$ = 4sin(2$$\\pi $$t)$$\\widehat i$$ + 4cos(2$$\\pi $$t)$$\\widehat j$$. Where R is in meters, t is in seconds and $$\\widehat i$$ and $$\\widehat j$$ denote unit vectors along x-and y-directions, respectively. Which one of the following statements is wrong for the motion of particle? ",
+      "options": [
+        {
+          "key": "A",
+          "value": "Magnitude of the velocity  of particle is 8 meter/second. "
+        },
+        {
+          "key": "B",
+          "value": "Path of the particle is a circle of radius 4 meter."
+        },
+        {
+          "key": "C",
+          "value": "Acceleration vector is along $$-$$$$\\overrightarrow R $$."
+        },
+        {
+          "key": "D",
+          "value": "Magnitude of acceleration vector is $${{{v^2}} \\over R}$$ <br>where v is the velocity of particle. "
+        }
+      ],
+      "answer": "A",
+      "explanation": "Here, $$\\overrightarrow R  = 4\\sin \\left( {2\\pi t} \\right)\\widehat i + 4\\cos \\left( {2\\pi t} \\right)\\widehat j$$<br><br>\nThe velocity of the particle is<br>\n$$\\overrightarrow v  = {{d\\overrightarrow R } \\over {dt}} = {d \\over {dt}}\\left[ {4\\sin \\left( {2\\pi t} \\right)\\widehat i + 4\\cos \\left( {2\\pi t} \\right)\\widehat j} \\right]$$<br>\n$$ = 8\\pi cos\\left( {2\\pi t} \\right)\\widehat i - 8\\pi sin\\left( {2\\pi t} \\right)\\widehat j$$<br><br>\nIts magnitude is\n<br><br>\n$$\\left| {\\overrightarrow v } \\right| = \\sqrt {{{\\left( {8\\pi \\cos \\left( {2\\pi t} \\right)} \\right)}^2} + {{\\left( { - 8\\pi \\sin \\left( {2\\pi t} \\right)} \\right)}^2}} $$<br><br>\n$$ = \\sqrt {64{\\pi ^2}{{\\cos }^2}\\left( {2\\pi t} \\right) + 64{\\pi ^2}{{\\sin }^2}\\left( {2\\pi t} \\right)} $$<br><br>\n$$ = \\sqrt {64{\\pi ^2}\\left[ {{{\\cos }^2}\\left( {2\\pi t} \\right) + {{\\sin }^2}\\left( {2\\pi t} \\right)} \\right]} $$<br><br>\n$$ = \\sqrt {64{\\pi ^2}} $$ &nbsp;&nbsp;&nbsp; (as sin<sup>2</sup>$$\\theta $$ + cos<sup>2</sup>$$\\theta $$ = 1)<br><br>\n= 8$$\\pi $$ m/s"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "If vectors $$\\overrightarrow A  = \\cos \\omega t\\widehat i + \\sin \\omega t\\widehat j$$ and $$\\overrightarrow B  = \\cos {{\\omega t} \\over 2}\\widehat i + \\sin {{\\omega t} \\over 2}\\widehat j$$ are functions of time, then the value of t at which  they are orthogonal to each other is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$t = {\\pi  \\over \\omega }$$"
+        },
+        {
+          "key": "B",
+          "value": "t $$=$$ 0"
+        },
+        {
+          "key": "C",
+          "value": "$$t = {\\pi  \\over {4\\omega }}$$"
+        },
+        {
+          "key": "D",
+          "value": "$$t = {\\pi  \\over {2\\omega }}$$"
+        }
+      ],
+      "answer": "A",
+      "explanation": "Two vectors $$\\overline A $$ and $$\\overline B $$ are orthogonal to\neach other, if their scalar product is zero\ni.e. $$\\overline A $$.$$\\overline B $$ = 0.<br><br>\nHere, $$\\overline A  = \\cos \\omega t\\widehat i + \\sin \\omega t\\widehat j$$<br><br>\nand $$\\overline B  = \\cos {{\\omega t} \\over 2}\\widehat i + \\sin {{\\omega t} \\over 2}\\widehat j$$<br><br>\n$$ \\therefore \\overline A .\\overline B  = \\left( {\\cos \\omega t\\widehat i + \\sin \\omega t\\widehat j} \\right)\\left( {\\cos {{\\omega t} \\over 2}\\widehat i + \\sin {{\\omega t} \\over 2}\\widehat j} \\right)$$<br><br>\n= $$\\cos \\omega t\\cos {{\\omega t} \\over 2} + \\sin \\omega t\\sin {{\\omega t} \\over 2}$$<br>\n&nbsp;&nbsp;&nbsp;&nbsp;$$  \\left( \\because {\\widehat i.\\widehat i = \\widehat j.\\widehat j = 1\\,and\\,\\widehat i.\\widehat j = \\widehat j.\\widehat i = 0} \\right)$$<br><br>\n= $$\\cos \\left( {\\omega t - {{\\omega t} \\over 2}} \\right)$$<br>\n&nbsp;&nbsp;&nbsp; ($$ \\because \\cos (A - B) = cosAcosB + sinAsinB$$)<br><br>\nBut $$\\overline A .\\overline B  = 0$$ (as $$\\overline A $$ and $$\\overline B $$ are orthogonal to each\nother)<br><br>\n$$ \\therefore \\cos \\left( {\\omega t - {{\\omega t} \\over 2}} \\right) = 0$$<br><br>\n$$\\cos \\left( {\\omega t - {{\\omega t} \\over 2}} \\right) = \\cos {\\pi  \\over 2}\\,\\,or\\,\\omega t - {{\\omega t} \\over 2} = {\\pi  \\over 2}$$<br><br>\n$${{\\omega t} \\over 2} = {\\pi  \\over 2}\\,or\\,t = {\\pi  \\over \\omega }$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A particle is moving such that is position coordinates (x, y) are (2 m, 3 m) at time t = 0, (6 m, 7 m) \n<br>at time t = 2 s and (13 m, 14 m) at time t = 5 s. \n<br><br>Average velocity vector $$\\left( {{{\\overrightarrow v }_{av}}} \\right)$$ from t = 0 to t = 5 s is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$${1 \\over 5}\\left( {13\\widehat i + 14\\widehat j} \\right)$$"
+        },
+        {
+          "key": "B",
+          "value": "$${7 \\over 3}\\left( {\\widehat i + \\widehat j} \\right)$$"
+        },
+        {
+          "key": "C",
+          "value": "$$2\\left( {\\widehat i + \\widehat j} \\right)$$"
+        },
+        {
+          "key": "D",
+          "value": "$${11 \\over 5}\\left( {\\widehat i + \\widehat j} \\right)$$"
+        }
+      ],
+      "answer": "D",
+      "explanation": "$$\\overrightarrow {{v_{av}}}  = {{\\Delta \\overrightarrow r \\,(displacement)} \\over {\\Delta t\\,(time\\,taken)}}$$<br><br>\n$$ = {{\\left( {13 - 2} \\right)\\widehat i + \\left( {14 - 3} \\right)\\widehat j} \\over {5 - 0}} = {{11} \\over 5}\\left( {i + j} \\right)$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A projectile is fired from the surface of the earth with a velocity  of 5 m s<sup>$$-$$1</sup> and angle $$\\theta $$ \n with the horizontal. Another projectile fired from another planet with a velocity of 3 m s<sup>$$-$$1</sup> at the same angle follows a trajectory which is identical with the trajectory of the projectile fired from the earth. The value of the acceleration due to gravity on the planet is (in m s<sup>$$-$$2</sup>) is \n<br>(Given g = 9.8 m s<sup>$$-$$2</sup>)",
+      "options": [
+        {
+          "key": "A",
+          "value": "3.5"
+        },
+        {
+          "key": "B",
+          "value": "5.9"
+        },
+        {
+          "key": "C",
+          "value": "16.3"
+        },
+        {
+          "key": "D",
+          "value": "110.8"
+        }
+      ],
+      "answer": "A",
+      "explanation": "The equation of trajectory is<br><br>\n$$y = x\\tan \\theta  - {{g{x^2}} \\over {2{u^2}{{\\cos }^2}\\theta }}$$<br><br>\nwhere $$\\theta $$ is the angle of projection and u is the\nvelocity with which projectile is projected.\nFor equal trajectories and for same angles of\nprojection,<br><br>\n$${g \\over {{u^2}}}$$ = constant<br><br>\nAccording to the question, $${{9.8} \\over {{5^2}}} = {{g'} \\over {{3^2}}}$$<br><br>\nwhere g' is acceleration due to gravity on the planet.<br><br>\n$$g' = {{9.8 \\times 9} \\over {25}} = 3.5\\,m{s^{ - 2}}$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Vectors $$\\overrightarrow A ,\\overrightarrow B $$ and $$\\overrightarrow C $$ are such that $$\\overrightarrow A .\\overrightarrow B  = 0$$ and $$\\overrightarrow A .\\overrightarrow C  = 0$$. Then the vector parallel to $$\\overrightarrow A $$ is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$\\overrightarrow A  \\times \\overrightarrow B $$"
+        },
+        {
+          "key": "B",
+          "value": "$$\\overrightarrow B  + \\overrightarrow C $$"
+        },
+        {
+          "key": "C",
+          "value": "$$\\overrightarrow B  \\times \\overrightarrow C $$"
+        },
+        {
+          "key": "D",
+          "value": "$$\\overrightarrow B $$ and $$\\overrightarrow C $$"
+        }
+      ],
+      "answer": "C",
+      "explanation": "Vector triple product of three vectors $$\\overrightarrow A $$, $$\\overrightarrow B $$ and $$\\overrightarrow C $$ is<br><br>\n$$\\overrightarrow A  \\times \\left( {\\overrightarrow B  \\times \\overrightarrow C } \\right) = \\left( {\\overrightarrow A .\\overrightarrow C } \\right)\\overrightarrow B  - \\left( {\\overrightarrow A .\\overrightarrow B } \\right)\\overrightarrow C $$<br><br>\nGiven: $$\\overrightarrow A .\\overrightarrow B  = 0,\\overrightarrow A .\\overrightarrow C  = 0$$<br>\n$$ \\therefore $$$$\\overrightarrow A  \\times \\left( {\\overrightarrow B  \\times \\overrightarrow C } \\right) = 0$$<br><br>\nThus the vector $$\\overrightarrow A $$\nis parallel to vector $${\\overrightarrow B  \\times \\overrightarrow C }$$\n.\n"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A particle has initial velocity $$\\left( {2\\overrightarrow i  + 3\\overrightarrow j } \\right)$$ and acceleration $$\\left( {0.3\\overrightarrow i  + 0.2\\overrightarrow j } \\right)$$. The magnitude of velocity after  10 seconds will be",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$9\\sqrt 2 $$"
+        },
+        {
+          "key": "B",
+          "value": "$$5\\sqrt 2 $$"
+        },
+        {
+          "key": "C",
+          "value": "5 units"
+        },
+        {
+          "key": "D",
+          "value": "9 units"
+        }
+      ],
+      "answer": "B",
+      "explanation": "$$\\overrightarrow P $$ = vector sum = $$\\overrightarrow A  + \\overrightarrow B $$<br><br>\n$$\\overrightarrow Q $$ = Vector differences = $$\\overrightarrow A  - \\overrightarrow B $$<br><br>\nSince $$\\overrightarrow P $$ and $$\\overrightarrow Q $$ are perpendicular<br><br>\n$$ \\therefore $$ $$\\overrightarrow P .\\overrightarrow Q  = 0 \\Rightarrow \\left( {\\overrightarrow A  + \\overrightarrow B } \\right).\\left( {\\overrightarrow A  - \\overrightarrow B } \\right) = 0$$<br><br>\n$$ \\Rightarrow {A^2} = {B^2} = \\left| {\\overrightarrow A } \\right| = \\left| {\\overrightarrow B } \\right|$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The horizontal range and the maximum height of a projectile are equal. The angle of projection of the projectile is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$\\theta $$ = tan<sup>$$-$$1</sup>$$\\left( {{1 \\over 4}} \\right)$$"
+        },
+        {
+          "key": "B",
+          "value": "$$\\theta $$ = tan<sup>$$-$$1</sup>(4)"
+        },
+        {
+          "key": "C",
+          "value": "$$\\theta $$ = tan<sup>$$-$$1</sup>(2)"
+        },
+        {
+          "key": "D",
+          "value": "$$\\theta $$ = 45<sup>o</sup>"
+        }
+      ],
+      "answer": "B",
+      "explanation": "Horizontal range<br><br>\n$$R = {{{u^2}\\sin 2\\theta } \\over g}$$&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;......(1)<br><br>\nMaximum height<br><br>\n$$H = {{{u^2}{{\\sin }^2}\\theta } \\over {2g}}$$&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; .....(2)<br><br>\nAccording to the problem\nR = H<br><br>\n$${{{u^2}\\sin 2\\theta } \\over g}$$ = $${{{u^2}{{\\sin }^2}\\theta } \\over {2g}}$$<br><br>\n$$ \\Rightarrow 2\\sin \\theta \\cos \\theta  = {{{{\\sin }^2}\\theta } \\over 2}$$<br><br>\n$$2\\cos \\theta  = {{\\sin \\theta } \\over 2}$$<br><br>\n$$ \\Rightarrow \\cot \\theta  = {1 \\over 4}$$<br><br>\n$$ \\Rightarrow \\tan \\theta  = 4$$<br><br>\n$$ \\Rightarrow \\theta  = {\\tan ^{ - 1}}(4)$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A missile is fired for maximum  range with an initial velocity of 20 m/s. If g = 10 m/s<sup>2</sup>, the range of the missile is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "40 m"
+        },
+        {
+          "key": "B",
+          "value": "50 m"
+        },
+        {
+          "key": "C",
+          "value": "60 m"
+        },
+        {
+          "key": "D",
+          "value": "20 m"
+        }
+      ],
+      "answer": "A",
+      "explanation": "For maximum range, the angle of projection,\n$$\\theta $$ = 45°.<br><br>\n$$ \\therefore R = {{{u^2}\\sin 2\\theta } \\over g}$$<br><br>\n$$ = {{{{\\left( {20} \\right)}^2}\\sin \\left( {2 \\times {{45}^\\circ }} \\right)} \\over {10}}$$<br><br>\n$$ = {{400 \\times 1} \\over {10}} = 40\\,m$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A particle moves in a circle of radius 5 cm with constant speed and time period 0.2$$\\pi $$ s. The acceleration of the particle is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "15 m/s<sup>2</sup>"
+        },
+        {
+          "key": "B",
+          "value": "25 m/s<sup>2</sup>"
+        },
+        {
+          "key": "C",
+          "value": "36 m/s<sup>2</sup>"
+        },
+        {
+          "key": "D",
+          "value": "5 m/s<sup>2</sup>"
+        }
+      ],
+      "answer": "D",
+      "explanation": "Centripetal acceleration $${a_c} = {\\omega ^2}r$$<br><br>\n$$ = {\\left( {{{2\\pi } \\over T}} \\right)^2}r$$<br><br>\n$$ = {\\left( {{{2\\pi } \\over {0.2\\pi }}} \\right)^2} \\times 5 \\times {10^{ - 2}} = 5$$ m/s<sup>2</sup>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A particle moves in x-y plane according to rule x = asin$$\\omega $$t  and  y = acos$$\\omega $$t. The particle follows ",
+      "options": [
+        {
+          "key": "A",
+          "value": "an elliptical path"
+        },
+        {
+          "key": "B",
+          "value": "a circular path"
+        },
+        {
+          "key": "C",
+          "value": "a parabolic path"
+        },
+        {
+          "key": "D",
+          "value": "a straight line path inclined equally to x and y-axes"
+        }
+      ],
+      "answer": "B",
+      "explanation": "$$x = a\\sin \\omega t$$ or $${x \\over a} = \\sin \\omega t$$&nbsp;&nbsp;&nbsp;&nbsp;....(1)<br>\n$$y = a\\cos \\omega t$$ or $${y \\over a} = \\cos \\omega t$$&nbsp;&nbsp;&nbsp;&nbsp;....(2)<br><br>\nSquaring and adding, we get<br>\n$${{{x^2}} \\over {{a^2}}} + {{{y^2}} \\over {{a^2}}} = 1$$&nbsp;&nbsp;&nbsp; ($$ \\therefore $$ $${\\cos ^2}\\omega t + {\\sin ^2}\\omega t = 1$$)<br>\nor $${x^2} + {y^2} = {a^2}$$<br><br>\nThis is the equation of a circle. Hence particle\nfollows a circular path.\n"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A particle has initial velocity $$\\left( {3\\widehat i + 4\\widehat j} \\right)$$ and has acceleration $$\\left( {0.4\\widehat j + 0.3\\widehat j} \\right).$$ Its speed after 10 s is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "7 units"
+        },
+        {
+          "key": "B",
+          "value": "$$7\\sqrt 2 $$ units"
+        },
+        {
+          "key": "C",
+          "value": "8.5 units"
+        },
+        {
+          "key": "D",
+          "value": "10 units"
+        }
+      ],
+      "answer": "B",
+      "explanation": "$$\\overrightarrow u  = 3\\widehat i + 4\\widehat j$$,&nbsp;&nbsp;$$\\overrightarrow a  = 0.4\\widehat i + 0.3\\widehat j$$<br><br>\n$$ \\Rightarrow {u_x} = 3\\,units,\\,{u_y} = 4\\,units$$<br><br>\n$${a_x} = 0.4\\,units,\\,{a_y} = 0.3\\,units$$<br><br>\n$$ \\therefore $$ v<sub>x </sub>= u<sub>x</sub> + a<sub>x</sub>  $$ \\times $$ 10 = 3 + 4 = 7 units<br><br>\nand v<sub>y</sub> = 4 + 0.3 $$ \\times $$ 10 = 4 + 3 = 7 units<br><br>\n$$ \\therefore v = \\sqrt {v_x^2 + v_y^2}  = 7\\sqrt 2$$ units"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "$$\\overrightarrow A $$ and $$\\overrightarrow B $$ are two vectors and $$\\theta $$ is the angle between them,  if $$\\left| {\\overrightarrow A  \\times \\overrightarrow B } \\right| = \\sqrt 3 \\left( {\\overrightarrow A .\\overrightarrow B } \\right),$$ the value of $$\\theta $$ is",
+      "options": [
+        {
+          "key": "A",
+          "value": "45<sup>o</sup> "
+        },
+        {
+          "key": "B",
+          "value": "30<sup>o</sup>"
+        },
+        {
+          "key": "C",
+          "value": "90<sup>o</sup>"
+        },
+        {
+          "key": "D",
+          "value": "60<sup>o</sup>"
+        }
+      ],
+      "answer": "D",
+      "explanation": "$$\\left| {\\overrightarrow A  \\times \\overrightarrow B } \\right| = \\sqrt 3 \\left( {\\overrightarrow A .\\overrightarrow B } \\right)$$<br><br>\n$$ \\therefore $$ $$AB\\sin \\theta  = \\sqrt 3 AB\\cos \\theta $$<br><br>\nor $$\\tan \\theta  = \\sqrt 3 $$ or $$\\theta  = {\\tan ^{ - 1}}\\sqrt 3  = 60^\\circ $$;"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The vectors $$\\overrightarrow A $$ and $$\\overrightarrow B $$ are such  that $$\\left| {\\overrightarrow A  + \\overrightarrow B } \\right| = \\left| {\\overrightarrow A  - \\overrightarrow B } \\right|.$$ The angle between the  two vectors is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "45<sup>o</sup>"
+        },
+        {
+          "key": "B",
+          "value": "90<sup>o</sup>"
+        },
+        {
+          "key": "C",
+          "value": "60<sup>o</sup>"
+        },
+        {
+          "key": "D",
+          "value": "75<sup>o</sup>"
+        }
+      ],
+      "answer": "B",
+      "explanation": "$${\\left| {\\overrightarrow A  + \\overrightarrow B } \\right|^2} = {\\left| {\\overrightarrow A  - \\overrightarrow B } \\right|^2}$$<br><br>\n$$ = {\\left| {\\overrightarrow A } \\right|^2} + {\\left| {\\overrightarrow B } \\right|^2} + 2\\overrightarrow A \\overrightarrow B  = {A^2} + {B^2} + 2AB\\cos \\theta $$<br><br>\n$$ = {\\left| {\\overrightarrow A  - \\overrightarrow B } \\right|^2} = {\\left| {\\overrightarrow A } \\right|^2} + {\\left| {\\overrightarrow B } \\right|^2} - 2\\overrightarrow A .\\overrightarrow B $$<br><br>\n$$ = {A^2} + {B^2} - 2AB\\cos \\theta $$<br><br>\nSo, A<sup>2</sup> + B<sup>2</sup> + 2AB cos $$\\theta $$<br><br>\n= A<sup>2</sup> + B<sup>2</sup> – 2AB cos $$\\theta $$<br><br>\n4AB cos$$\\theta $$ = 0 $$ \\Rightarrow $$ cos$$\\theta $$ = 0<br><br>\n$$\\theta $$ = 90º<br><br>\nSo, angle between A &amp; B is 90º."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "For angles of projection of a projectile at angle (45<sup>o</sup> $$-$$ $$\\theta $$) and (45<sup>o</sup> + $$\\theta $$), the horizontal range described by the projectile are in the ratio of ",
+      "options": [
+        {
+          "key": "A",
+          "value": "2 : 1"
+        },
+        {
+          "key": "B",
+          "value": "1 : 1"
+        },
+        {
+          "key": "C",
+          "value": "2 : 3"
+        },
+        {
+          "key": "D",
+          "value": "1 : 2."
+        }
+      ],
+      "answer": "B",
+      "explanation": "(45º – $$\\theta $$) &amp; (45º + $$\\theta $$) are complementary\nangles as 45º – $$\\theta $$ + 45º + $$\\theta $$ = 90º. We know that if\nangle of projection of two projectiles make\ncomplementary angles, their ranges are equal.\nIn this case also, the range will be same. So the\nratio is 1 : 1."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "If a vector $$2\\widehat i + 3\\widehat j + 8\\widehat k$$ is perpendicular to the vector $$4\\widehat j - 4\\widehat i + \\alpha \\widehat k,$$ then the value of $$\\alpha $$ is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "1/2"
+        },
+        {
+          "key": "B",
+          "value": "$$-$$ 1/2"
+        },
+        {
+          "key": "C",
+          "value": "1"
+        },
+        {
+          "key": "D",
+          "value": "$$-$$ 1."
+        }
+      ],
+      "answer": "B",
+      "explanation": "For two vectors to be perpendicular to each\nother<br>\n$${\\overrightarrow A .\\overrightarrow B  = 0}$$<br><br>\n$$\\left( {2\\widehat i + 3\\widehat j + 8\\widehat k} \\right).\\left( {4\\widehat j - 4\\widehat i + \\alpha \\widehat k} \\right) = 0$$<br><br>\n–8 + 12 + 8$$\\alpha $$ = 0<br><br>\n$$\\alpha  =  - {4 \\over 8} =  - {1 \\over 2}$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "If $$\\left| {\\overrightarrow A  \\times \\overrightarrow B } \\right| = \\sqrt 3 \\overrightarrow A .\\overrightarrow B $$ then the value of $$\\left| {\\overrightarrow A  + \\overrightarrow B } \\right|$$ is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "(A<sup>2</sup>  + b<sup>2</sup> + AB)<sup>1/2</sup>"
+        },
+        {
+          "key": "B",
+          "value": "$${\\left( {{A^2} + {B^2} + {{AB} \\over {\\sqrt 3 }}} \\right)^{1/2}}$$"
+        },
+        {
+          "key": "C",
+          "value": "A + B"
+        },
+        {
+          "key": "D",
+          "value": "(A<sup>2</sup> + B<sup>2</sup> + $${\\sqrt 3 }$$AB)<sup>1/2</sup>."
+        }
+      ],
+      "answer": "A",
+      "explanation": "$$\\left| {\\overrightarrow A  \\times \\overrightarrow B } \\right| = AB\\sin \\theta $$<br><br>\n$$\\overrightarrow A \\overrightarrow B  = AB\\cos \\theta $$<br><br>\n$$\\left| {\\overrightarrow A  \\times \\overrightarrow B } \\right| = \\sqrt 3 \\overrightarrow A \\overrightarrow B $$<br><br>\n$$ \\Rightarrow AB\\sin \\theta  = \\sqrt 3 AB\\cos \\theta $$<br><br>\n$$ \\Rightarrow \\tan \\theta  = \\sqrt 3 $$ &nbsp;&nbsp;&nbsp;$$ \\therefore \\theta $$ = 60<sup>o</sup><br><br>\n$$ \\therefore $$ $$\\left| {\\overrightarrow A  \\times \\overrightarrow B } \\right| = \\sqrt {{A^2} + {B^2} + 2AB\\cos 60^\\circ } $$<br><br>\n$$ = \\sqrt {{A^2} + {B^2} + AB} $$ = (A<sup>2</sup>  + b<sup>2</sup> + AB)<sup>1/2</sup>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The vector sum of two forces is perpendicular to their vector differences. In that case, the forces",
+      "options": [
+        {
+          "key": "A",
+          "value": "are equal to each other"
+        },
+        {
+          "key": "B",
+          "value": "are equal to each other in magnitude "
+        },
+        {
+          "key": "C",
+          "value": "are not equal to each other in magnitude "
+        },
+        {
+          "key": "D",
+          "value": "cannot be predicted."
+        }
+      ],
+      "answer": "B",
+      "explanation": "Given : $$\\left( {\\overrightarrow {{F_1}}  + \\overrightarrow {{F_2}} } \\right) \\bot \\left( {\\overrightarrow {{F_1}}  - \\overrightarrow {{F_2}} } \\right)$$<br><br>\n$$\\left( {\\overrightarrow {{F_1}}  + \\overrightarrow {{F_2}} } \\right).\\left( {\\overrightarrow {{F_1}}  - \\overrightarrow {{F_2}} } \\right) = 0$$<br><br>\n$$F_1^2 - F_2^2 - \\overrightarrow {{F_1}} .\\overrightarrow {{F_2}}  + \\overrightarrow {{F_2}} .\\overrightarrow {{F_1}}  = 0$$<br><br>\n$$ \\Rightarrow F_1^2 = F_2^2$$&nbsp;&nbsp;&nbsp;(i.e. F<sub>1</sub>, F<sub>2</sub> are equal to each other in magnitude.)"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A particle A is dropped from a height and another particle B is projected in horizontal direction with speed of 5/sec from the same height then correct statement is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "particle A will reach at ground first with respect to particle B"
+        },
+        {
+          "key": "B",
+          "value": "particle B will reach at ground first with respect to particle A "
+        },
+        {
+          "key": "C",
+          "value": "both particles will reach at ground simultaneously"
+        },
+        {
+          "key": "D",
+          "value": "both particles will reach at ground with same speed."
+        }
+      ],
+      "answer": "C",
+      "explanation": "Time required to reach the ground is\ndependent on the vertical motion of the particle.\nVertical motion of both the particles A and B are\nexactly same. Although particle B has an initial\nvelocity, but that is in horizontal direction and it\nhas no component in vertical (component of a vector\nat a direction of 90<sup>o</sup> = 0) direction. Hence they will\nreach the ground simultaneously.\n"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Two particles having mass M and  m are moving in a circular path having radius R and r. If their time period are same then the ratio of angular velocity will be",
+      "options": [
+        {
+          "key": "A",
+          "value": "$${r \\over R}$$"
+        },
+        {
+          "key": "B",
+          "value": "$${R \\over r}$$"
+        },
+        {
+          "key": "C",
+          "value": "1"
+        },
+        {
+          "key": "D",
+          "value": "$$\\sqrt {{R \\over r}} $$"
+        }
+      ],
+      "answer": "C",
+      "explanation": "$$\\omega  = {{2\\pi } \\over t}$$. As t is same <br><br>\n$$ \\therefore $$ $${{{\\omega _1}} \\over {{\\omega _2}}} = 1$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "If $$\\left| {\\overrightarrow A  + \\overrightarrow B } \\right| = \\left| {\\overrightarrow A } \\right| + \\left| {\\overrightarrow B } \\right|$$ then angle between A and B will be",
+      "options": [
+        {
+          "key": "A",
+          "value": "90<sup>o</sup>"
+        },
+        {
+          "key": "B",
+          "value": "120<sup>o</sup>"
+        },
+        {
+          "key": "C",
+          "value": "0<sup>o</sup>"
+        },
+        {
+          "key": "D",
+          "value": "60<sup>o</sup>."
+        }
+      ],
+      "answer": "C",
+      "explanation": "$$\\left| {\\overrightarrow A  + \\overrightarrow B } \\right| = \\left| {\\overrightarrow A } \\right| + \\left| {\\overrightarrow B } \\right|$$ \nif $$\\overrightarrow A \\parallel \\overrightarrow B $$.\n$$ \\therefore $$ $$\\theta $$ = 0<sup>o</sup>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A man is slipping on a frictionless inclined plane and a bag falls down from the same height. Then the velocity of both is related as ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$${v_B} &gt; {v_m}$$"
+        },
+        {
+          "key": "B",
+          "value": "$${v_B} &lt; {v_m}$$"
+        },
+        {
+          "key": "C",
+          "value": "$${v_B} = {v_m}$$"
+        },
+        {
+          "key": "D",
+          "value": "$${v_B}$$ and $${v_m}$$ can't be related."
+        }
+      ],
+      "answer": "C",
+      "explanation": "Vertical acceleration in both the cases is\ng, whereas horizontal velocity is constant.\n"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The width of river is 1 km. The velocity of boat is 5 km/hr. The boat covered the width of river in shortest time 15 min. Then the velocity of river stream is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "3 km/hr"
+        },
+        {
+          "key": "B",
+          "value": "4 km/hr"
+        },
+        {
+          "key": "C",
+          "value": "$$\\sqrt {29} $$ km/hr"
+        },
+        {
+          "key": "D",
+          "value": "$$\\sqrt {41} $$ km/hr."
+        }
+      ],
+      "answer": "A",
+      "explanation": "$${v_{{\\mathop{\\rm Resultant}\\nolimits} }} = {{1\\,km} \\over {1/4\\,hr}} = 4\\,km/hr$$<br><br>\n$$ \\therefore $$ $${v_{River}} = \\sqrt {{5^2} - {4^2}}  = 3\\,km/hr$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Two projectiles of same mass and with same velocity are thrown at an angle 60<sup>o</sup> and 30<sup>o</sup> with the horizontal, then which will remain same ",
+      "options": [
+        {
+          "key": "A",
+          "value": "time of flight"
+        },
+        {
+          "key": "B",
+          "value": "range of projectile"
+        },
+        {
+          "key": "C",
+          "value": "maximum height acquired "
+        },
+        {
+          "key": "D",
+          "value": "all of them."
+        }
+      ],
+      "answer": "B",
+      "explanation": "Given, u<sub>1</sub> = u<sub>2</sub> = u, $$\\theta _1$$ = 60º, $$\\theta _2$$ = 30º<br><br>\nIn 1<sup>st</sup> case, we know that range<br>\n$${R_1} = {{{u^2}\\sin 2\\left( {60^\\circ } \\right)} \\over g} = {{{u^2}\\sin 120^\\circ } \\over g}$$<br>\n$$ = {{{u^2}\\sin \\left( {90^\\circ  + 30^\\circ } \\right)} \\over g}$$<br>\n$$ = {{{u^2}\\left( {\\cos 30^\\circ } \\right)} \\over g} = {{ {u^2}\\sqrt 3} \\over {2g}}$$<br><br>\nIn 2<sup>nd</sup> case, when $$\\theta _2$$ = 30° , then<br>\n$${R_2} = {{{u^2}\\sin 60^\\circ } \\over g} = {{{u^2}\\sqrt 3 } \\over {2g}}$$<br><br>\n$$ \\Rightarrow {R_1} = {R_2}$$"
+    }
+  ]
+}

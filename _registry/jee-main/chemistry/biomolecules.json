@@ -1,0 +1,2173 @@
+{
+  "_index": {
+    "name": "Biomolecules"
+  },
+  "_children": [
+    {
+      "_type": "single_mcq",
+      "body": "<p>Given below are two statements :</p><p><b>Statement (I) :</b> On hydrolysis, oligo peptides give rise to fewer number of α-amino acids while proteins give rise to a large number of β-amino acids.</p><p><b>Statement (II) :</b> Natural proteins are denatured by acids which convert the water soluble form of fibrous proteins to their water insoluble form.</p><p>In the light of the above statements, choose the <b>most appropriate answer</b> from the options given below :</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "<p><b>Statement I</b> is incorrect but <b>Statement II</b> is correct</p>"
+        },
+        {
+          "key": "B",
+          "value": "<p>Both <b>Statement I</b> and <b>Statement II</b> are incorrect</p>"
+        },
+        {
+          "key": "C",
+          "value": "<p>Both <b>Statement I</b> and <b>Statement II</b> are correct</p>"
+        },
+        {
+          "key": "D",
+          "value": "<p><b>Statement I</b> is correct but <b>Statement II</b> is incorrect</p>"
+        }
+      ],
+      "answer": "B",
+      "explanation": "<p>When oligopeptides undergo hydrolysis, they yield a small number of α-amino acids. In contrast, proteins do not produce β-amino acids upon hydrolysis. Thus, Statement I is incorrect.</p>\n<p>Furthermore, natural proteins, when subjected to denaturation by acids, do not convert fibrous proteins from a water-soluble to a water-insoluble form, as fibrous proteins are inherently not water-soluble. Therefore, Statement II is also incorrect.</p>\n<p>In conclusion, both Statement I and Statement II are incorrect.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Given below are two statements:</p>\n<p>Statement I: D-(+)-glucose + D-(+) fructose $\\xrightarrow{-\\mathrm{H}_2 \\mathrm{O}}$ Sucrose</p>\n<p>$$\\text { sucrose } \\xrightarrow{\\text { hydrolysis }} \\mathrm{D}-(+) \\text { glucose }+\\mathrm{D}-(+) \\text { fructose }$$</p>\n<p>Statement II: Invert sugar is formed during sucrose hydrolysis</p>\n<p>In the light of the above statements, choose the correct answer from the options given below</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "Both Statement I and Statement II are False\n"
+        },
+        {
+          "key": "B",
+          "value": "Statement I is false but Statement II are true\n"
+        },
+        {
+          "key": "C",
+          "value": "Both Statement I and Statement II are true\n"
+        },
+        {
+          "key": "D",
+          "value": "Statement I is true but Statement II is false"
+        }
+      ],
+      "answer": "B",
+      "explanation": "<p>In Statement I, the reaction shown is incorrect. During the hydrolysis of sucrose, D-(+)-glucose and D-(-)-fructose are produced. However, the statement incorrectly specifies D-(+)-fructose, making Statement I inaccurate.</p>\n<p>Statement II is accurate. When sucrose undergoes hydrolysis, it results in the formation of invert sugar, a mixture of glucose and fructose. This change involves the inversion of optical rotation, which is where the term \"invert sugar\" comes from.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Fat soluble vitamins are:</p>\n<p>A. Vitamin $\\mathrm{B}_1$</p>\n<p>B. Vitamin C</p>\n<p>C. Vitamin E</p>\n<p>D. Vitamin B 12</p>\n<p>E. Vitamin K</p>\n<p>Choose the correct answer from the options given below:</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "B & C Only\n"
+        },
+        {
+          "key": "B",
+          "value": "C & D Only\n"
+        },
+        {
+          "key": "C",
+          "value": "C & E Only\n"
+        },
+        {
+          "key": "D",
+          "value": "A & B Only"
+        }
+      ],
+      "answer": "C",
+      "explanation": "<p>Vit D, E, K. A are fat soluble vitamins.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A tetrapeptide, \" $x$ \" on complete hydrolysis produced glycine (Gly), alanine (Ala), valine (Val), leucine (Leu) in equimolar proportion each. The number of tetrapeptides (sequences) possible involving each of these amino acids is :\n",
+      "options": [
+        {
+          "key": "A",
+          "value": "32\n"
+        },
+        {
+          "key": "B",
+          "value": "24\n"
+        },
+        {
+          "key": "C",
+          "value": " 8\n"
+        },
+        {
+          "key": "D",
+          "value": "16"
+        }
+      ],
+      "answer": "B",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Identify the correct statement among the following :</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "All naturally occurring amino acids except glycine contain one chiral centre.\n"
+        },
+        {
+          "key": "B",
+          "value": "Amino acid, cysteine can easily undergo dimerisation due to the presence of free SH group.\n"
+        },
+        {
+          "key": "C",
+          "value": "Glutamic acid is the only amino acid that contains a $-$COOH group at the side chain.\n"
+        },
+        {
+          "key": "D",
+          "value": "All naturally occurring amino acids are optically active."
+        }
+      ],
+      "answer": "B",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Identify the essential amino acids from below:</p><p>(A) Valine</p><p>(B) Proline</p><p>(C) Lysine</p><p>(D) Threonine</p><p>(E) Tyrosine</p><p>Choose the correct answer from the options given below:</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "<p>(A), (C) and (D) only</p>"
+        },
+        {
+          "key": "B",
+          "value": "<p>(C), (D) and (E) only</p>"
+        },
+        {
+          "key": "C",
+          "value": "<p>(A), (C) and (E) only</p>"
+        },
+        {
+          "key": "D",
+          "value": "<p>(B), (C) and (E) only</p>"
+        }
+      ],
+      "answer": "A",
+      "explanation": "<p>The nine essential amino acids that must be obtained from the diet are:</p>\n\n<p><p>Histidine</p></p>\n<p><p>Isoleucine</p></p>\n<p><p>Leucine</p></p>\n<p><p>Lysine</p></p>\n<p><p>Methionine</p></p>\n<p><p>Phenylalanine</p></p>\n<p><p>Threonine</p></p>\n<p><p>Tryptophan</p></p>\n<p><p>Valine</p></p>\n\n<p>From the provided list:</p>\n\n<p><p>Valine (A) is essential.</p></p>\n<p><p>Proline (B) is non-essential.</p></p>\n<p><p>Lysine (C) is essential.</p></p>\n<p><p>Threonine (D) is essential.</p></p>\n<p><p>Tyrosine (E) is non-essential (it is considered conditionally essential, but under normal conditions it is non-essential).</p></p>\n\n<p>Thus, the essential amino acids among those listed are Valine, Lysine, and Threonine.</p>\n<p>So the correct answer is:</p>\n<p>$$\\textbf{Option A: (A), (C) and (D) only}$$</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Match List-I with List-II.</p><table border=\"1\">\n  <tr>\n    <th>List - I (Saccharides)</th>\n    <th>List - II (Glycosidic-linkages found)</th>\n  </tr>\n  <tr>\n    <td>(A) Sucrose</td>\n    <td>(I) α 1 $-$ 4</td>\n  </tr>\n  <tr>\n    <td>(B) Maltose</td>\n    <td>(II) α 1 $-$ 4 and α 1 $-$ 6</td>\n  </tr>\n  <tr>\n    <td>(C) Lactose</td>\n    <td>(III) α 1 $-$ β 2</td>\n  </tr>\n  <tr>\n    <td>(D) Amylopectin</td>\n    <td>(IV) β 1 $-$ 4</td>\n  </tr>\n</table>\n<p>Choose the <b>correct</b> answer from the options given below :</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "<p>(A)-(III), (B)-(I), (C)-(IV), (D)-(II)</p>"
+        },
+        {
+          "key": "B",
+          "value": "<p>(A)-(I), (B)-(II), (C)-(III), (D)-(IV)</p>"
+        },
+        {
+          "key": "C",
+          "value": "<p>(A)-(II), (B)-(IV), (C)-(III), (D)-(I)</p>"
+        },
+        {
+          "key": "D",
+          "value": "<p>(A)-(IV), (B)-(II), (C)-(I), (D)-(III)</p>"
+        }
+      ],
+      "answer": "A",
+      "explanation": "<p>(A) Sucrose $\\rightarrow \\alpha_1-\\beta_2$ Glycosidic linkage</p>\n<p>(B) Maltose $\\rightarrow \\alpha$ 1-4 Glycosidic linkage</p>\n<p>(C) Lactose $\\rightarrow \\beta$ 1-4 Glycosidic linkage</p>\n<p>(D) Amylopectin $\\rightarrow \\alpha$ 1-4 and $\\alpha$ 1-6 Glycosidic linkage</p>\n<p>$$\\mathrm{A}-\\mathrm{III}, \\mathrm{~B}-\\mathrm{I}, \\mathrm{C}-\\mathrm{IV}, \\mathrm{D}-\\mathrm{II}$$</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Identify correct conversion during acidic hydrolysis from the following :</p>\n<p>(A) starch gives galactose.</p>\n<p>(B) cane sugar gives equal amount of glucose and fructose.</p>\n<p>(C) milk sugar gives glucose and galactose.</p>\n<p>(D) amylopectin gives glucose and fructose.</p>\n<p>(E) amylose gives only glucose.</p>\n<p>Choose the <b>correct </b>answer from the options given below :</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "<p>(A), (B) and (C) only</p>"
+        },
+        {
+          "key": "B",
+          "value": "<p>(B), (C) and (D) only</p>"
+        },
+        {
+          "key": "C",
+          "value": "<p>(B), (C) and (E) only</p>"
+        },
+        {
+          "key": "D",
+          "value": "<p>(C), (D) and (E) only</p>"
+        }
+      ],
+      "answer": "C",
+      "explanation": "<p>(A) Starch $\\xrightarrow{\\mathrm{H}^{+} / \\mathrm{H}_2 \\mathrm{O}}$ Glucose</p>\n<p>(B) $$\\mathrm{\\mathop {Cane\\,sugar}\\limits_{(Sucrose)} \\buildrel {{H^ + }/{H_2}O} \\over\n \\longrightarrow \\mathop {glu\\cos e}\\limits_{50\\% } \\, + \\mathop {fructose}\\limits_{50\\% }}$$</p>\n<p>(C) $$\\mathrm{\\mathop {Milk\\,sugar}\\limits_{(Lactose)} \\buildrel {{H^ + }/{H_2}O} \\over\n \\longrightarrow glu\\cos e\\, + \\,galactose}$$</p>\n<p>(D) Amylopectin $\\xrightarrow{\\mathrm{H}^{+} / \\mathrm{H}_2 \\mathrm{O}}$ Glucose</p>\n<p>(E) Amylose $\\xrightarrow{\\mathrm{H}^{+} / \\mathrm{H}_2 \\mathrm{O}}$ Glucose</p>\n<p>So, correct options are B, C and E only</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Given below are two statements:</p>\n<p>Statement I : D-glucose pentaacetate reacts with 2,4 -dinitrophenylhydrazine</p>\n<p>Statement II : Starch, on heating with concentrated sulfuric acid at $100^{\\circ} \\mathrm{C}$ and $2-3 \\mathrm{atmosphere}$ pressure produces glucose.</p>\n<p>In the light of the above statements, choose the correct answer from the options given below</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "Statement I is true but Statement II is false\n"
+        },
+        {
+          "key": "B",
+          "value": "Both Statement I and Statement II are true\n"
+        },
+        {
+          "key": "C",
+          "value": "Statement I is false but Statement II is true\n"
+        },
+        {
+          "key": "D",
+          "value": "Both Statement I and Statement II are false"
+        }
+      ],
+      "answer": "C",
+      "explanation": "<p>Statement I: D-glucose pentaacetate does not react with 2,4-dinitrophenylhydrazine (DNPH). This is because D-glucose pentaacetate is a derivative where all the hydroxyl groups of D-glucose have been acetylated, eliminating the presence of a free aldehyde group. Since DNPH reacts specifically with free aldehyde or ketone groups to form hydrazones, D-glucose pentaacetate does not participate in this reaction.</p>\n<p>Statement II: Starch, when heated with concentrated sulfuric acid at 100°C and under a pressure of 2-3 atmospheres, undergoes hydrolysis. This process breaks the glycosidic linkages in starch, resulting in the production of glucose. This statement is accurate as starch is a polysaccharide composed of glucose units and can be broken down into glucose under these conditions.</p>\n<p>The correct information based on the statements is:</p>\n\n<p><p>Statement I is false, as D-glucose pentaacetate does not react with 2,4-dinitrophenylhydrazine due to the absence of a free aldehyde group.</p></p>\n<p><p>Statement II is true, as the described method effectively converts starch into glucose.</p></p>\n"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>The $\\alpha$-Helix and $\\beta$ - Pleated sheet structures of protein are associated with its :</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "tertiary structure\n"
+        },
+        {
+          "key": "B",
+          "value": "quaternary structure\n"
+        },
+        {
+          "key": "C",
+          "value": "primary structure\n"
+        },
+        {
+          "key": "D",
+          "value": "secondary structure"
+        }
+      ],
+      "answer": "D",
+      "explanation": "<p>$\\alpha$-helix and $\\beta$-pleated sheet belongs to secondary structure of protein, which have hydrogen bonds.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Which of the following acids is a vitamin ?</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "Saccharic acid\n"
+        },
+        {
+          "key": "B",
+          "value": "Ascorbic acid\n"
+        },
+        {
+          "key": "C",
+          "value": "Aspartic acid\n"
+        },
+        {
+          "key": "D",
+          "value": "Adipic acid"
+        }
+      ],
+      "answer": "B",
+      "explanation": "<p><strong>Correct Answer: Ascorbic Acid</strong></p>\n<p>Ascorbic acid is commonly known as Vitamin C. It is a water-soluble vitamin essential for various bodily functions, including:</p>\n\n<p><p>$$\\textbf{Antioxidant Function:}$$ It helps protect cells from damage caused by free radicals.</p></p>\n<p><p>$$\\textbf{Collagen Synthesis:}$$ It is crucial for the formation of collagen, a protein necessary for skin, cartilage, tendons, ligaments, and blood vessels.</p></p>\n<p><p>$$\\textbf{Immune Support:}$$ It supports the immune system by enhancing the body's natural defenses.</p></p>\n<p><p>$$\\textbf{Iron Absorption:}$$ It improves the absorption of non-heme iron from plant-based foods.</p></p>\n\n<p>Among the given options, only ascorbic acid qualifies as a vitamin.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>The incorrect statement about Glucose is :</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "Glucose remains in multiple isomeric form in its aqueous solution\n"
+        },
+        {
+          "key": "B",
+          "value": "Glucose is soluble in water because of having aldehyde functional group\n"
+        },
+        {
+          "key": "C",
+          "value": "Glucose is an aldohexose\n"
+        },
+        {
+          "key": "D",
+          "value": "Glucose is one of the monomer unit in sucrose"
+        }
+      ],
+      "answer": "B",
+      "explanation": "<p>Let's analyze each statement to identify the incorrect one about glucose.</p>\n\n<p><strong>Option A:</strong> Glucose remains in multiple isomeric forms in its aqueous solution. This statement is <strong>correct</strong>. Glucose exists in equilibrium with various isomeric forms in solution, including its linear form and two cyclic forms (alpha and beta anomers) that result from the formation of a hemiacetal bond within the molecule itself. The interconversion between these forms is known as mutarotation.</p>\n\n<p><strong>Option B:</strong> Glucose is soluble in water because of having an aldehyde functional group. This statement is <strong>incorrect</strong> though it might seem partially true at first glance. While the aldehyde group can participate in hydrogen bonding, the primary reason glucose is highly soluble in water is due to its multiple hydroxyl (-OH) groups that can form hydrogen bonds with water molecules. The ability to form numerous hydrogen bonds makes glucose highly water-soluble, not just the presence of an aldehyde group.</p>\n\n<p><strong>Option C:</strong> Glucose is an aldohexose. This statement is <strong>correct</strong>. Glucose is classified as an aldohexose because it contains an aldehyde group (-CHO) on its first carbon and has a total of six carbon atoms, making it a hexose sugar.</p>\n\n<p><strong>Option D:</strong> Glucose is one of the monomer units in sucrose. This statement is <strong>correct</strong>. Sucrose is a disaccharide composed of two monomers: glucose and fructose. Thus, glucose is indeed one of the monomer units in sucrose.</p>\n\n<p>In summary, the <strong>incorrect</strong> statement about glucose is <strong>Option B</strong>: Glucose is soluble in water because of having an aldehyde functional group. The primary reason for its solubility in water is the hydroxyl groups' ability to form extensive hydrogen bonding, not solely the presence of an aldehyde functional group.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>The $$\\mathrm{F}^{-}$$ ions make the enamel on teeth much harder by converting hydroxyapatite (the enamel on the surface of teeth) into much harder fluoroapatite having the formula.</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$\\left[3\\left(\\mathrm{Ca}_3\\left(\\mathrm{PO}_4\\right)_2\\right) \\cdot \\mathrm{CaF}_2\\right]$$\n"
+        },
+        {
+          "key": "B",
+          "value": "$$\\left[3\\left(\\mathrm{Ca}_3\\left(\\mathrm{PO}_4\\right)_2\\right) \\cdot \\mathrm{Ca}(\\mathrm{OH})_2\\right]$$\n"
+        },
+        {
+          "key": "C",
+          "value": "$$\\left[3\\left(\\mathrm{Ca}_3\\left(\\mathrm{PO}_4\\right)_3\\right) \\cdot \\mathrm{CaF}_2\\right]$$\n"
+        },
+        {
+          "key": "D",
+          "value": "$$\\left[3\\left(\\mathrm{Ca}_2\\left(\\mathrm{PO}_4\\right)_2\\right) \\cdot \\mathrm{Ca}(\\mathrm{OH})_2\\right]$$"
+        }
+      ],
+      "answer": "A",
+      "explanation": "<p>Hydroxyapatite : $$\\left[3\\left(\\mathrm{Ca}_3\\left(\\mathrm{PO}_4\\right)_2\\right) \\cdot \\mathrm{Ca}(\\mathrm{OH})_2\\right]$$</p>\n<p>Fluoroapatite : $$\\left[3\\left(\\mathrm{Ca}_3\\left(\\mathrm{PO}_4\\right)_2\\right) \\cdot \\mathrm{CaF}_2\\right]$$</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>The incorrect statements regarding enzymes are :</p>\n<p>(A) Enzymes are biocatalysts.</p>\n<p>(B) Enzymes are non-specific and can catalyse different kinds of reactions.</p>\n<p>(C) Most Enzymes are globular proteins.</p>\n<p>(D) Enzyme - oxidase catalyses the hydrolysis of maltose into glucose.</p>\n<p>Choose the correct answer from the option given below :</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "(B) and (D)\n"
+        },
+        {
+          "key": "B",
+          "value": "(A), (B) and (C)\n"
+        },
+        {
+          "key": "C",
+          "value": "(B) and (C)\n"
+        },
+        {
+          "key": "D",
+          "value": "(B), (C) and (D)"
+        }
+      ],
+      "answer": "A",
+      "explanation": "<p>The correct answer is Option A: (B) and (D).</p>\n<p>Let’s analyze each statement:</p>\n<p>(A) Enzymes are biocatalysts. - This statement is correct. Enzymes are indeed biocatalysts, meaning they are natural catalytic substances produced by living organisms to speed up chemical reactions in cells without being consumed in the process. They are crucial for a myriad of biological processes.</p>\n<p>(B) Enzymes are non-specific and can catalyse different kinds of reactions. - This statement is incorrect. Enzymes are highly specific in nature; they typically catalyze only one kind of reaction or a very limited range of reactions. This specificity is a result of the unique 3D structure of the enzyme molecule, particularly the active site where substrate molecules bind.</p>\n<p>(C) Most enzymes are globular proteins. - This statement is correct. The vast majority of enzymes are indeed globular proteins. This means they are folded into a compact shape which is crucial for their function. Their globular structure allows for the creation of specific active sites where the chemical reactions take place.</p>\n<p>(D) Enzyme - oxidase catalyses the hydrolysis of maltose into glucose. - This statement is incorrect. The enzyme that catalyses the hydrolysis of maltose into glucose is maltase, not oxidase. Oxidases are a class of enzymes that catalyze the transfer of electrons to oxygen, and are involved in oxidation reactions, not in the hydrolysis of sugars.</p>\n<p>Therefore, the incorrect statements regarding enzymes are (B) Enzymes are non-specific and can catalyse different kinds of reactions, and (D) Enzyme - oxidase catalyses the hydrolysis of maltose into glucose, making Option A the correct choice.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Coagulation of egg, on heating is because of :</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "Denaturation of protein occurs\n"
+        },
+        {
+          "key": "B",
+          "value": "Biological property of protein remains unchanged\n"
+        },
+        {
+          "key": "C",
+          "value": "Breaking of the peptide linkage in the primary structure of protein occurs\n"
+        },
+        {
+          "key": "D",
+          "value": "The secondary structure of protein remains unchanged"
+        }
+      ],
+      "answer": "A",
+      "explanation": "<p>The coagulation of an egg on heating is because of <strong>Option A: Denaturation of protein occurs</strong>. When an egg is heated, the proteins in the egg (primarily albumins) undergo denaturation. This process involves the structural alteration of the protein molecules without breaking the peptide bonds that hold the amino acid sequences together. Denaturation causes the proteins to unfold and then aggregate into a new, solid structure, which is what you observe as the egg white and yolk changing from liquid to solid. This change is principally caused by the disruption of non-covalent bonds in the protein, such as hydrogen bonds, ionic bonds, and hydrophobic interactions.</p>\n\n<p>Option B is incorrect because the biological property of the protein does indeed change during the process. The protein in its denatured (coagulated) form does not function in the same way as it did in its native form.</p>\n\n<p>Option C is also incorrect because the primary structure of the protein, defined by its amino acid sequence linked by peptide bonds, remains unaltered during denaturation. The process does not involve the breaking of these peptide linkages.</p>\n\n<p>Lastly, Option D is incorrect because the secondary structure of the protein, which includes α-helices and β-pleated sheets formed by hydrogen bonding, typically undergoes significant alteration during denaturation, contributing to the observable change in the egg's texture.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Which of the following gives a positive test with ninhydrin ?</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "Polyvinyl chloride\n"
+        },
+        {
+          "key": "B",
+          "value": "Cellulose\n"
+        },
+        {
+          "key": "C",
+          "value": "Egg albumin\n"
+        },
+        {
+          "key": "D",
+          "value": "Starch"
+        }
+      ],
+      "answer": "C",
+      "explanation": "<p>The ninhydrin test is a chemical test which is used to detect the presence of amino acids or proteins. When amino acids or proteins react with ninhydrin, a deep blue or purple color is produced, which is indicative of a positive test. This reaction primarily occurs due to the reaction of ninhydrin with the free amino groups (-NH<sub>2</sub>) present in amino acids or proteins.</p>\n\n<p>Let's examine each option:</p>\n\n<p><strong>Option A: Polyvinyl chloride</strong> - Polyvinyl chloride, commonly known as PVC, is a synthetic polymer. It does not contain amino acids or free amino groups. Therefore, it does not give a positive test with ninhydrin.</p>\n\n<p><strong>Option B: Cellulose</strong> - Cellulose is a carbohydrate polymer consisting of glucose units. It is the main constituent of the cell wall in plants. Like PVC, cellulose does not contain amino acids or free amino groups, so it also does not give a positive test with ninhydrin.</p>\n\n<p><strong>Option C: Egg albumin</strong> - Egg albumin is a protein found in egg whites. Proteins are made up of amino acids linked by peptide bonds, and free amino groups are present in the structure of proteins. Therefore, egg albumin reacts with ninhydrin and gives a positive test by producing a deep blue or purple color.</p>\n\n<p><strong>Option D: Starch</strong> - Starch is a polysaccharide composed of glucose units and is a carbohydrate like cellulose. It does not possess amino acids or free amino groups. Consequently, starch does not give a positive test with ninhydrin.</p>\n\n<p>Based on the explanation, the correct answer is <strong>Option C: Egg albumin</strong>, as it is the only option among the ones listed that contains proteins, which have free amino groups capable of reacting with ninhydrin to give a positive test.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Match List I with List II</p>\n<p><style type=\"text/css\">\n.tg  {border-collapse:collapse;border-spacing:0;}\n.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}\n.tg .tg-7btt{border-color:inherit;font-weight:bold;text-align:center;vertical-align:top}\n.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}\n</style>\n<table class=\"tg\" style=\"undefined;table-layout: fixed; width: 664px\">\n<colgroup>\n<col style=\"width: 75px\">\n<col style=\"width: 252px\">\n<col style=\"width: 75px\">\n<col style=\"width: 262px\">\n</colgroup>\n<thead>\n  <tr>\n    <th class=\"tg-7btt\"></th>\n    <th class=\"tg-7btt\">LIST I</th>\n    <th class=\"tg-7btt\"></th>\n    <th class=\"tg-7btt\">LIST II</th>\n  </tr>\n</thead>\n<tbody>\n  <tr>\n    <td class=\"tg-c3ow\">A.</td>\n    <td class=\"tg-0pky\">$$\\alpha$$ - Glucose and $$\\alpha$$ - Galactose</td>\n    <td class=\"tg-c3ow\">I.</td>\n    <td class=\"tg-0pky\">Functional isomers</td>\n  </tr>\n  <tr>\n    <td class=\"tg-c3ow\">B.\t</td>\n    <td class=\"tg-0pky\">$$<br>\\alpha \\text { - Glucose and } \\beta \\text { - Glucose }<br>$$</td>\n    <td class=\"tg-c3ow\">II.</td>\n    <td class=\"tg-0pky\">Homologous  </td>\n  </tr>\n  <tr>\n    <td class=\"tg-c3ow\">C.</td>\n    <td class=\"tg-0pky\">$$<br>\\alpha \\text { - Glucose and } \\alpha \\text { - Fructose }<br>$$</td>\n    <td class=\"tg-c3ow\">III.</td>\n    <td class=\"tg-0pky\">Anomers</td>\n  </tr>\n  <tr>\n    <td class=\"tg-c3ow\">D.</td>\n    <td class=\"tg-0pky\">$$<br>\\alpha \\text { - Glucose and } \\alpha \\text { - Ribose }<br>$$</td>\n    <td class=\"tg-c3ow\">IV.</td>\n    <td class=\"tg-0pky\">Epimers</td>\n  </tr>\n</tbody>\n</table></p>\n<p>Choose the correct answer from the options given below:</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "A-III, B-IV, C-II, D-I\n"
+        },
+        {
+          "key": "B",
+          "value": "A-IV, B-III, C-I, D-II\n"
+        },
+        {
+          "key": "C",
+          "value": "A-III, B-IV, C-I, D-II\n"
+        },
+        {
+          "key": "D",
+          "value": "A-IV, B-III, C-II, D-I"
+        }
+      ],
+      "answer": "B",
+      "explanation": "<p>$$\\alpha$$-Glucose and $$\\alpha$$-Galactose differ in configuration of one asymmetric carbon. Thus they are epimers.</p>\n<p>$$\\alpha$$ and $$\\beta$$-glucose differ at anomeric carbon. Thus they are anomers.</p>\n<p>$$\\alpha$$-Glucose and $$\\alpha$$-Fructose have different functional groups. Thus they are functional isomers.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "If one strand of a DNA has the sequence ATGCTTCA, sequence of the bases in complementary strand is :",
+      "options": [
+        {
+          "key": "A",
+          "value": "CATTAGCT"
+        },
+        {
+          "key": "B",
+          "value": "TACGAAGT"
+        },
+        {
+          "key": "C",
+          "value": "ATGCGACT"
+        },
+        {
+          "key": "D",
+          "value": "GTACTTAC"
+        }
+      ],
+      "answer": "B",
+      "explanation": "DNA is made up of two strands that are complementary to each other. The base pairing rules state that adenine (A) pairs with thymine (T), and cytosine (C) pairs with guanine (G). Using these rules, we can determine the sequence of the complementary strand of the given DNA sequence ATGCTTCA.\n\nHere's the pairing for the given sequence:\n\n<p>A (adenine) pairs with T (thymine)</p>\n<p>T (thymine) pairs with A (adenine)</p>\n<p>G (guanine) pairs with C (cytosine)</p>\n<p>C (cytosine) pairs with G (guanine)</p>\n<p>T (thymine) pairs with A (adenine)</p>\n<p>T (thymine) pairs with A (adenine)</p>\n<p>C (cytosine) pairs with G (guanine)</p>\n<p>A (adenine) pairs with T (thymine)</p>\n\nSo, the complementary base sequence to the given DNA strand ATGCTTCA would be:\n\n<p>1. A pairs with T</p>\n<p>2. T pairs with A</p>\n<p>3. G pairs with C</p>\n<p>4. C pairs with G</p>\n<p>5. T pairs with A</p>\n<p>6. T pairs with A</p>\n<p>7. C pairs with G</p>\n<p>8. A pairs with T</p>\n\nPutting it all together, the complementary sequence is: TACGAAGT. Therefore, the correct answer is:\n\nOption B - TACGAAGT"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Match List I with List II</p>\n<p><style type=\"text/css\">\n.tg  {border-collapse:collapse;border-spacing:0;}\n.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}\n.tg .tg-7btt{border-color:inherit;font-weight:bold;text-align:center;vertical-align:top}\n.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}\n</style>\n<table class=\"tg\" style=\"undefined;table-layout: fixed; width: 523px\">\n<colgroup>\n<col style=\"width: 70px\">\n<col style=\"width: 184px\">\n<col style=\"width: 94px\">\n<col style=\"width: 175px\">\n</colgroup>\n<thead>\n  <tr>\n    <th class=\"tg-7btt\"></th>\n    <th class=\"tg-7btt\">List - I</th>\n    <th class=\"tg-7btt\"></th>\n    <th class=\"tg-7btt\">List - II</th>\n  </tr>\n</thead>\n<tbody>\n  <tr>\n    <td class=\"tg-c3ow\">(A)</td>\n    <td class=\"tg-c3ow\">Glucose/$$\\mathrm{NaHCO_3/\\Delta}$$</td>\n    <td class=\"tg-c3ow\">(I)</td>\n    <td class=\"tg-0pky\">Gluconic acid</td>\n  </tr>\n  <tr>\n    <td class=\"tg-c3ow\">(B)</td>\n    <td class=\"tg-c3ow\">$$\\text { Glucose } / \\mathrm{HNO}_3$$</td>\n    <td class=\"tg-c3ow\">(II)</td>\n    <td class=\"tg-0pky\">No reaction</td>\n  </tr>\n  <tr>\n    <td class=\"tg-c3ow\">(C)</td>\n    <td class=\"tg-c3ow\">$$\\text { Glucose } / \\mathrm{HI} / \\Delta$$</td>\n    <td class=\"tg-c3ow\">(III)</td>\n    <td class=\"tg-0pky\">n-hexane</td>\n  </tr>\n  <tr>\n    <td class=\"tg-c3ow\">(D)</td>\n    <td class=\"tg-c3ow\">Glucose/Bromine water</td>\n    <td class=\"tg-c3ow\">(IV)</td>\n    <td class=\"tg-0pky\">Saccharic acid</td>\n  </tr>\n</tbody>\n</table></p>\n<p>Choose the correct answer from the options given below:</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "A-II, B-IV, C-III, D-I"
+        },
+        {
+          "key": "B",
+          "value": "A-III, B-II, C-I, D-IV\n"
+        },
+        {
+          "key": "C",
+          "value": "A-IV, B-I, C-III, D-II\n"
+        },
+        {
+          "key": "D",
+          "value": "A-I, B-IV, C-III, D-II"
+        }
+      ],
+      "answer": "A",
+      "explanation": "<p>Glucose $$\\xrightarrow[\\Delta]{\\mathrm{NaHCO}_3}$$ no reaction</p>\n<p>Glucose $$\\xrightarrow[\\Delta]{\\mathrm{HNO}_3}$$ saccharic acid</p>\n<p>Glucose $$\\xrightarrow[\\Delta]{\\mathrm{HI}}$$ n-hexane</p>\n<p>Glucose $$\\xrightarrow[\\Delta]{\\mathrm{Br}_2}$$ Gluconic acid</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Sugar which does not give reddish brown precipitate with Fehling's reagent, is :</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "Glucose\n"
+        },
+        {
+          "key": "B",
+          "value": "Sucrose\n"
+        },
+        {
+          "key": "C",
+          "value": "Lactose\n"
+        },
+        {
+          "key": "D",
+          "value": "Maltose"
+        }
+      ],
+      "answer": "B",
+      "explanation": "<p>Sucrose do not contain hemiacetal group.</p>\n<p>Hence it does not give test with Fehling solution.</p>\n<p>While all other give positive test with Fehling solution</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Match List I with List II</p>\n<p><style type=\"text/css\">\n.tg  {border-collapse:collapse;border-spacing:0;}\n.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}\n.tg .tg-7btt{border-color:inherit;font-weight:bold;text-align:center;vertical-align:top}\n.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}\n</style>\n<table class=\"tg\" style=\"undefined;table-layout: fixed; width: 523px\">\n<colgroup>\n<col style=\"width: 70px\">\n<col style=\"width: 184px\">\n<col style=\"width: 94px\">\n<col style=\"width: 175px\">\n</colgroup>\n<thead>\n  <tr>\n    <th class=\"tg-7btt\"></th>\n    <th class=\"tg-7btt\">List - I<br>(Bio Polymer)</th>\n    <th class=\"tg-7btt\"></th>\n    <th class=\"tg-7btt\">List - II<br>(Monomer)</th>\n  </tr>\n</thead>\n<tbody>\n  <tr>\n    <td class=\"tg-c3ow\">(A)</td>\n    <td class=\"tg-0pky\">Starch</td>\n    <td class=\"tg-c3ow\">(I)</td>\n    <td class=\"tg-0pky\">nucleotide</td>\n  </tr>\n  <tr>\n    <td class=\"tg-c3ow\">(B)</td>\n    <td class=\"tg-0pky\">Cellulose</td>\n    <td class=\"tg-c3ow\">(II)</td>\n    <td class=\"tg-0pky\">$$\\alpha$$-glucose</td>\n  </tr>\n  <tr>\n    <td class=\"tg-c3ow\">(C)</td>\n    <td class=\"tg-0pky\">Nucleic acid</td>\n    <td class=\"tg-c3ow\">(III)</td>\n    <td class=\"tg-0pky\">$$\\beta$$-glucose</td>\n  </tr>\n  <tr>\n    <td class=\"tg-c3ow\">(D)</td>\n    <td class=\"tg-0pky\">Protein</td>\n    <td class=\"tg-c3ow\">(IV)</td>\n    <td class=\"tg-0pky\">$$\\alpha$$-amino acid</td>\n  </tr>\n</tbody>\n</table></p>\n<p>Choose the correct answer from the options given below:</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "A-IV, B-II, C-I, D-III\n"
+        },
+        {
+          "key": "B",
+          "value": "A-I, B-III, C-IV, D-II\n"
+        },
+        {
+          "key": "C",
+          "value": "A-II, B-I, C-III, D-IV\n"
+        },
+        {
+          "key": "D",
+          "value": "A-II, B-III, C-I, D-IV"
+        }
+      ],
+      "answer": "D",
+      "explanation": "<p>A-II, B-III, C-I, D-IV</p>\n<p>Fact based.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Type of amino acids obtained by hydrolysis of proteins is :</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$\\gamma$$\n"
+        },
+        {
+          "key": "B",
+          "value": "$$\\beta$$\n"
+        },
+        {
+          "key": "C",
+          "value": "$$\\alpha$$\n"
+        },
+        {
+          "key": "D",
+          "value": "$$\\delta$$"
+        }
+      ],
+      "answer": "C",
+      "explanation": "<p>Proteins are natural polymers composed of $$\\alpha$$-amino acids which are connected by peptide linkages.</p>\n<p>Hence proteins upon acidic hydrolysis produce $$\\alpha$$-amino acids.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Which structure of protein remains intact after coagulation of egg white on boiling?</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "Quaternary\n"
+        },
+        {
+          "key": "B",
+          "value": "Primary"
+        },
+        {
+          "key": "C",
+          "value": "Secondary\n"
+        },
+        {
+          "key": "D",
+          "value": "Tertiary"
+        }
+      ],
+      "answer": "B",
+      "explanation": "<p>The structure of protein that remains intact after the coagulation of egg white on boiling is the <strong>Primary</strong> structure. The correct answer is Option B.</p>\n\n<p>The primary structure of a protein is the sequence of amino acids that are linked by peptide bonds. This sequence dictates the protein's higher levels of structure including secondary, tertiary, and quaternary structures. Regardless of the change in the protein's conformation due to denaturation (such as what happens during boiling of egg white), the sequence of amino acids remains the same since the peptide bonds do not get broken under such conditions.</p>\n\n<p>When egg white is boiled, the proteins denature, which means the structure of the protein becomes altered due to the breakdown of non-covalent interactions that hold the protein's higher-order structures together. This includes:</p>\n\n<ul>\n<li><strong>Secondary structure</strong>: This involves hydrogen bonding within the peptide backbone, producing structures such as alpha-helices and beta-sheets.</li>\n<br/><li><strong>Tertiary structure</strong>: This involves the overall three-dimensional folding of the protein, driven by interactions such as hydrogen bonds, ionic bonds, hydrophobic interactions, and disulfide bridges.</li>\n<br/><li><strong>Quaternary structure</strong>: This involves the arrangement and interactions of multiple protein subunits in a multi-subunit complex.</li>\n</ul>\n\n<p>During coagulation caused by heat, the weak hydrogen and ionic bonds of secondary and tertiary structures are broken and the proteins can aggregate or form gel-like structures, changing the consistency of the egg white. However, the covalent peptide bonds of the primary structure stay intact throughout this process.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>The naturally occurring amino acid that contains only one basic functional group in its chemical structure is</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "asparagine"
+        },
+        {
+          "key": "B",
+          "value": "arginine"
+        },
+        {
+          "key": "C",
+          "value": "histidine"
+        },
+        {
+          "key": "D",
+          "value": "lysine"
+        }
+      ],
+      "answer": "A",
+      "explanation": "Among the given options, arginine, histidine, and lysine are all basic amino acids because they contain amino (-NH<sub>2</sub>) and imino (-NH=) functional groups that can accept a proton (H<sup>+</sup>) to become positively charged. \n<br/><br/>\nAsparagine, on the other hand, contains an amide (-CONH<sub>2</sub>) functional group instead of an imino group. This functional group is not basic because it does not have a proton that can be easily removed. Therefore, the answer is:  asparagine."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>The one that does not stabilize 2$$^\\circ$$ and 3$$^\\circ$$ structures of proteins is</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$-$$O $$-$$O $$-$$linkage"
+        },
+        {
+          "key": "B",
+          "value": "$$-$$S $$-$$S $$-$$linkage"
+        },
+        {
+          "key": "C",
+          "value": "van der Waals forces"
+        },
+        {
+          "key": "D",
+          "value": "H-bonding"
+        }
+      ],
+      "answer": "A",
+      "explanation": "<p>The stabilization of secondary (2°) and tertiary (3°) structures of proteins mainly involves interactions such as disulfide bridges (S-S linkages), van der Waals forces, hydrogen bonding, and hydrophobic interactions.</p>\n<p><b>Option A</b>: O-O linkage is not usually involved in the stabilization of protein structures. Oxygen-oxygen single bonds are generally unstable and rarely observed in nature. </p>\n<p><b>Option B</b>: S-S linkage (disulfide bridges) between cysteine residues in a protein can help stabilize the protein&#39;s structure, particularly its tertiary structure.</p>\n<p><b>Option C</b>: Van der Waals forces can contribute to the stabilization of protein structures, particularly in the interior of the protein where they can promote hydrophobic interactions.</p>\n<p><b>Option D</b>: Hydrogen bonding can play a critical role in the formation and stabilization of secondary structures such as alpha-helices and beta-sheets.</p>\n<p>Therefore, the correct answer is Option A (-O-O- linkage).</p>\n"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Match List I with List II</p>\n<p><style type=\"text/css\">\n.tg  {border-collapse:collapse;border-spacing:0;}\n.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg .tg-baqh{text-align:center;vertical-align:top}\n.tg .tg-amwm{font-weight:bold;text-align:center;vertical-align:top}\n.tg .tg-0lax{text-align:left;vertical-align:top}\n</style>\n<table class=\"tg\" style=\"undefined;table-layout: fixed; width: 658px\">\n<colgroup>\n<col style=\"width: 46px\">\n<col style=\"width: 300px\">\n<col style=\"width: 48px\">\n<col style=\"width: 264px\">\n</colgroup>\n<thead>\n  <tr>\n    <th class=\"tg-amwm\"></th>\n    <th class=\"tg-amwm\">LIST I<br>Natural amino acid</th>\n    <th class=\"tg-amwm\"></th>\n    <th class=\"tg-amwm\">LIST II<br>One letter code</th>\n  </tr>\n</thead>\n<tbody>\n  <tr>\n    <td class=\"tg-baqh\">A.</td>\n    <td class=\"tg-0lax\">Glutamic acid</td>\n    <td class=\"tg-baqh\">I.</td>\n    <td class=\"tg-0lax\">Q</td>\n  </tr>\n  <tr>\n    <td class=\"tg-baqh\">B.</td>\n    <td class=\"tg-0lax\">Glutamine</td>\n    <td class=\"tg-baqh\">II.</td>\n    <td class=\"tg-0lax\">W</td>\n  </tr>\n  <tr>\n    <td class=\"tg-baqh\">C.</td>\n    <td class=\"tg-0lax\">Tyrosine</td>\n    <td class=\"tg-baqh\">III.</td>\n    <td class=\"tg-0lax\">E</td>\n  </tr>\n  <tr>\n    <td class=\"tg-baqh\">D.</td>\n    <td class=\"tg-0lax\">Tryptophan</td>\n    <td class=\"tg-baqh\">IV.</td>\n    <td class=\"tg-0lax\">Y</td>\n  </tr>\n</tbody>\n</table></p>\n<p>Choose the correct answer from the options given below:</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "A-III, B-IV, C-I, D-II"
+        },
+        {
+          "key": "B",
+          "value": "A-IV, B-III, C-I, D-II"
+        },
+        {
+          "key": "C",
+          "value": "A-II, B-I, C-IV, D-III"
+        },
+        {
+          "key": "D",
+          "value": "A-III, B-I, C-IV, D-II"
+        }
+      ],
+      "answer": "D",
+      "explanation": "<p>The one-letter code for each amino acid is as follows:</p>\n<p>Glutamic Acid (A) is represented by the letter E (III).<br/><br/>\nGlutamine (B) is represented by the letter Q (I).<br/><br/>\nTyrosine (C) is represented by the letter Y (IV).<br/><br/>\nTryptophan (D) is represented by the letter W (II).</p>\n<p>These one-letter codes are part of the standard notation used in biology and biochemistry to represent the 20 standard amino acids, plus a few others. The codes are designed to be short and easy to remember, while still being distinct from each other.</p>\n"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Match List I with List II</p>\n<p><style type=\"text/css\">\n.tg  {border-collapse:collapse;border-spacing:0;}\n.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}\n.tg .tg-7btt{border-color:inherit;font-weight:bold;text-align:center;vertical-align:top}\n.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}\n</style>\n<table class=\"tg\" style=\"undefined;table-layout: fixed; width: 616px\">\n<colgroup>\n<col style=\"width: 46px\">\n<col style=\"width: 258px\">\n<col style=\"width: 48px\">\n<col style=\"width: 264px\">\n</colgroup>\n<thead>\n  <tr>\n    <th class=\"tg-7btt\"></th>\n    <th class=\"tg-7btt\">LIST I <br>Natural Amino Acid</th>\n    <th class=\"tg-7btt\"></th>\n    <th class=\"tg-7btt\">LIST II <br>One Letter Code</th>\n  </tr>\n</thead>\n<tbody>\n  <tr>\n    <td class=\"tg-c3ow\">A.</td>\n    <td class=\"tg-0pky\">Arginine</td>\n    <td class=\"tg-c3ow\">I.</td>\n    <td class=\"tg-0pky\">D</td>\n  </tr>\n  <tr>\n    <td class=\"tg-c3ow\">B.</td>\n    <td class=\"tg-0pky\">Aspartic acid</td>\n    <td class=\"tg-c3ow\">II.</td>\n    <td class=\"tg-0pky\">N</td>\n  </tr>\n  <tr>\n    <td class=\"tg-c3ow\">C.</td>\n    <td class=\"tg-0pky\">Asparagine</td>\n    <td class=\"tg-c3ow\">III.</td>\n    <td class=\"tg-0pky\">A</td>\n  </tr>\n  <tr>\n    <td class=\"tg-c3ow\">D.</td>\n    <td class=\"tg-0pky\">Alanine</td>\n    <td class=\"tg-c3ow\">IV.</td>\n    <td class=\"tg-0pky\">R</td>\n  </tr>\n</tbody>\n</table></p>\n<p>Choose the correct answer from the options given below:</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "(A) - IV, (B) - I, (C) - III, (D) - II"
+        },
+        {
+          "key": "B",
+          "value": "(A) - III, (B) - I, (C) - II, (D) - IV"
+        },
+        {
+          "key": "C",
+          "value": "(A) - IV, (B) - I, (C) - II, (D) - III"
+        },
+        {
+          "key": "D",
+          "value": "(A) - I, (B) - III, (C) - IV, (D) - II"
+        }
+      ],
+      "answer": "C",
+      "explanation": "<p>In protein chemistry, each amino acid is assigned a one-letter code to simplify notation. The matching for the given amino acids to their one-letter codes is as follows:</p>\n<ul>\n<li>Arginine (A) - R (IV)</li>\n<li>Aspartic Acid (B) - D (I)</li>\n<li>Asparagine (C) - N (II)</li>\n<li>Alanine (D) - A (III)</li>\n</ul>\n<p>So, the correct answer is Option C: (A) - IV, (B) - I, (C) - II, (D) - III.</p>\n"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Match List I with List II</p>\n<p><style type=\"text/css\">\n.tg  {border-collapse:collapse;border-spacing:0;}\n.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}\n.tg .tg-7btt{border-color:inherit;font-weight:bold;text-align:center;vertical-align:top}\n.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}\n</style>\n<table class=\"tg\" style=\"undefined;table-layout: fixed; width: 616px\">\n<colgroup>\n<col style=\"width: 46px\">\n<col style=\"width: 258px\">\n<col style=\"width: 48px\">\n<col style=\"width: 264px\">\n</colgroup>\n<thead>\n  <tr>\n    <th class=\"tg-7btt\"></th>\n    <th class=\"tg-7btt\">LIST I <br>Enzymatic reaction</th>\n    <th class=\"tg-7btt\"></th>\n    <th class=\"tg-7btt\">LIST II <br>Enzyme</th>\n  </tr>\n</thead>\n<tbody>\n  <tr>\n    <td class=\"tg-c3ow\">A.</td>\n    <td class=\"tg-0pky\">Sucrose $$\\to$$ Glocuse and Fructose</td>\n    <td class=\"tg-c3ow\">I.</td>\n    <td class=\"tg-0pky\">Zymase</td>\n  </tr>\n  <tr>\n    <td class=\"tg-c3ow\">B.</td>\n    <td class=\"tg-0pky\">Glucose $$\\to$$ ethyl alcohol and CO$$_2$$</td>\n    <td class=\"tg-c3ow\">II.</td>\n    <td class=\"tg-0pky\">Pepsin</td>\n  </tr>\n  <tr>\n    <td class=\"tg-c3ow\">C.</td>\n    <td class=\"tg-0pky\">Starch $$\\to$$ Maltose</td>\n    <td class=\"tg-c3ow\">III.</td>\n    <td class=\"tg-0pky\">Invertase</td>\n  </tr>\n  <tr>\n    <td class=\"tg-c3ow\">D.</td>\n    <td class=\"tg-0pky\">Proteins $$\\to$$ Amino acids</td>\n    <td class=\"tg-c3ow\">IV.</td>\n    <td class=\"tg-0pky\">Diastase</td>\n  </tr>\n</tbody>\n</table></p>\n<p>Choose the correct answer from the options given below:</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "A-III, B-I, C-II, D-IV"
+        },
+        {
+          "key": "B",
+          "value": "A-III, B-I, C-IV, D-II"
+        },
+        {
+          "key": "C",
+          "value": "A-I, B-IV, C-III, D-II"
+        },
+        {
+          "key": "D",
+          "value": "A-I, B-II, C-IV, D-III"
+        }
+      ],
+      "answer": "B",
+      "explanation": "<p>Let&#39;s match the enzymes with the corresponding reactions:</p>\n<ul>\n<li>The enzyme that catalyzes the hydrolysis of sucrose to glucose and fructose is invertase. So, A matches with III.</li><br/>\n<li>The enzyme that catalyzes the conversion of glucose to ethyl alcohol and CO(_2) (a step in fermentation) is zymase. So, B matches with I.</li><br/>\n<li>The enzyme that catalyzes the conversion of starch to maltose is diastase. So, C matches with IV.</li><br/>\n<li>The enzyme that breaks down proteins into amino acids is pepsin. So, D matches with II.</li>\n</ul>\n<p>So, the correct option is:</p>\n<p>Option B\nA-III, B-I, C-IV, D-II</p>\n"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Match List I with List II</p>\n<p><style type=\"text/css\">\n.tg  {border-collapse:collapse;border-spacing:0;}\n.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg .tg-7btt{border-color:inherit;font-weight:bold;text-align:center;vertical-align:top}\n.tg .tg-amwm{font-weight:bold;text-align:center;vertical-align:top}\n.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}\n</style>\n<table class=\"tg\" style=\"undefined;table-layout: fixed; width: 596px\">\n<colgroup>\n<col style=\"width: 51px\">\n<col style=\"width: 226px\">\n<col style=\"width: 46px\">\n<col style=\"width: 273px\">\n</colgroup>\n<thead>\n  <tr>\n    <th class=\"tg-7btt\"></th>\n    <th class=\"tg-7btt\">List I</th>\n    <th class=\"tg-7btt\"></th>\n    <th class=\"tg-7btt\">List II</th>\n  </tr>\n</thead>\n<tbody>\n  <tr>\n    <td class=\"tg-amwm\"></td>\n    <td class=\"tg-amwm\">Test</td>\n    <td class=\"tg-amwm\"></td>\n    <td class=\"tg-amwm\">Functional group / Class of Compound</td>\n  </tr>\n  <tr>\n    <td class=\"tg-0pky\">A.</td>\n    <td class=\"tg-0pky\">Molisch's Test</td>\n    <td class=\"tg-0pky\">I.</td>\n    <td class=\"tg-0pky\">Peptide</td>\n  </tr>\n  <tr>\n    <td class=\"tg-0pky\">B.</td>\n    <td class=\"tg-0pky\">Biuret Test</td>\n    <td class=\"tg-0pky\">II.</td>\n    <td class=\"tg-0pky\">Carbohydrate</td>\n  </tr>\n  <tr>\n    <td class=\"tg-0pky\">C.</td>\n    <td class=\"tg-0pky\">Carbylamine Test</td>\n    <td class=\"tg-0pky\">III.</td>\n    <td class=\"tg-0pky\">Primary amine</td>\n  </tr>\n  <tr>\n    <td class=\"tg-0pky\">D.</td>\n    <td class=\"tg-0pky\">Schiff's Test</td>\n    <td class=\"tg-0pky\">IV.</td>\n    <td class=\"tg-0pky\">Aldehyde</td>\n  </tr>\n</tbody>\n</table></p>\n<p>Choose the correct answer from the options given below :</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "(A) - III, (B) - IV, (C) - II, (D) - I"
+        },
+        {
+          "key": "B",
+          "value": "(A) - II, (B) - I, (C) - III, (D) - IV"
+        },
+        {
+          "key": "C",
+          "value": "(A) - III, (B) - IV, (C) - I, (D) - II"
+        },
+        {
+          "key": "D",
+          "value": "(A) - I, (B) - II, (C) - III, (D) - IV"
+        }
+      ],
+      "answer": "B",
+      "explanation": "(A) Molisch test is for carbohydrates\n<br/><br/>(B) Biuret test is for proteins/peptide\n<br/><br/>(C) Carbylamine test is for primary amine\n<br/><br/>(D) Schiff’s test is for aldehyde"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Given below are two statements : one is labelled as Assertion (A) and the other is labelled as Reason (R).</p>\n<p>Assertion (A) : Ketoses give Seliwanoff's test faster than Aldoses.</p>\n<p>Reason (R) : Ketoses undergo $$\\beta$$-elimination followed by formation of furfural.</p>\n<p>In the light of the above statements, choose the correct answer from the options given below :</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "(A) is false but (R) is true"
+        },
+        {
+          "key": "B",
+          "value": "Both (A) and (R) are true but (R) is not the correct explanation of (A)"
+        },
+        {
+          "key": "C",
+          "value": "(A) is true but (R) is false"
+        },
+        {
+          "key": "D",
+          "value": "Both (A) and (R) are true and (R) is the correct explanation of (A)"
+        }
+      ],
+      "answer": "C",
+      "explanation": "Seliwanoff 's test is a differentiating test for Ketose\nand aldose. This test relies on the principle that the\nketo hexose are more rapidly dehydrated to form\n5-hydroxy methyl furfural when heated in acidic\nmedium which on condensation with resorcinol,\nCherry red or brown red coloured complex is\nformed rapidly indicating a positive test."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Number of cyclic tripeptides formed with 2 amino acids A and B is :</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "2"
+        },
+        {
+          "key": "B",
+          "value": "3"
+        },
+        {
+          "key": "C",
+          "value": "5"
+        },
+        {
+          "key": "D",
+          "value": "4"
+        }
+      ],
+      "answer": "D",
+      "explanation": "The cyclic tripeptides possible with amino acids $A$ and $B$ will be\n<br/><br/>\nAAA, BBB, ABA, BAB\n<br/><br/>\nThere are are 4 possible cyclic\nstructures."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Given below are two statements. One is labelled as Assertion A and the other is labelled as Reason R.</p>\n<p>Assertion A: Amylose is insoluble in water.</p>\n<p>Reason R: Amylose is a long linear molecule with more than 200 glucose units.</p>\n<p>In the light of the above statements, choose the correct answer from the options given below.</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "Both $$\\mathbf{A}$$ and $$\\mathbf{R}$$ are correct and $$\\mathbf{R}$$ is the correct explanation of $$\\mathbf{A}$$."
+        },
+        {
+          "key": "B",
+          "value": "Both $$\\mathbf{A}$$ and $$\\mathbf{R}$$ are correct but $$\\mathbf{R}$$ is NOT the correct explanation of $$\\mathbf{A}$$."
+        },
+        {
+          "key": "C",
+          "value": "$$\\mathbf{A}$$ is correct but $$\\mathbf{R}$$ is not correct"
+        },
+        {
+          "key": "D",
+          "value": "$$\\mathbf{A}$$ is not correct but $$\\mathbf{R}$$ is correct."
+        }
+      ],
+      "answer": "D",
+      "explanation": "<p>Let&#39;s analyze the given statements:</p>\n<p>Assertion A: &quot;Amylose is insoluble in water.&quot; This statement is incorrect. Amylose is actually soluble in water, although its solubility is lower compared to other carbohydrates like amylopectin.</p>\n<p>Reason R: &quot;Amylose is a long linear molecule with more than 200 glucose units.&quot; This statement is correct, as amylose is indeed a linear polysaccharide made up of glucose units.</p>\n<p>Given this information, the correct option is:</p>\n<p>Option D: $\\mathbf{A}$ is not correct but $\\mathbf{R}$ is correct.</p>\n"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Animal starch is the other name of</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "amylose."
+        },
+        {
+          "key": "B",
+          "value": "maltose."
+        },
+        {
+          "key": "C",
+          "value": "glycogen."
+        },
+        {
+          "key": "D",
+          "value": "amylopectin."
+        }
+      ],
+      "answer": "C",
+      "explanation": "Animal starch is the other name of glycogen\nbecause its structure is similar to amylopectin."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>During the denaturation of proteins, which of these structures will remain intact?</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "Primary"
+        },
+        {
+          "key": "B",
+          "value": "Secondary"
+        },
+        {
+          "key": "C",
+          "value": "Tertiary"
+        },
+        {
+          "key": "D",
+          "value": "Quaternary"
+        }
+      ],
+      "answer": "A",
+      "explanation": "During the denaturation of proteins hydrogen bonds\nare disturbed. As a result, the secondary and\ntertiary structures are destroyed but the primary\nstructures remain intact. "
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>The sugar produced after complete hydrolysis of DNA is</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "a pentose sugar."
+        },
+        {
+          "key": "B",
+          "value": "a hexose sugar."
+        },
+        {
+          "key": "C",
+          "value": "a polysaccharide."
+        },
+        {
+          "key": "D",
+          "value": "a disaccharide."
+        }
+      ],
+      "answer": "A",
+      "explanation": "DNA mainly consist of a nitrogeneous base, phosphate group and a pentose sugar.\n<br/><br/>\nSo, hydrolysis of DNA produces a pentose sugar."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>The structure of protein that is unaffected by heating is</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "secondary structure"
+        },
+        {
+          "key": "B",
+          "value": "tertiary structure"
+        },
+        {
+          "key": "C",
+          "value": "primary structure"
+        },
+        {
+          "key": "D",
+          "value": "quaternary structure"
+        }
+      ],
+      "answer": "C",
+      "explanation": "<p>The primary structure of protein is unaffected by physical 'or' chemical changes.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Sugar moiety in DNA and RNA molecules respectively are</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$\\beta$$-D-2-deoxyribose, $$\\beta$$-D-deoxyribose."
+        },
+        {
+          "key": "B",
+          "value": "$$\\beta$$-D-2-deoxyribose, $$\\beta$$-D-ribose"
+        },
+        {
+          "key": "C",
+          "value": "$$\\beta$$-D-ribose, $$\\beta$$-D-2-deoxyribose."
+        },
+        {
+          "key": "D",
+          "value": "$$\\beta$$-D-deoxyribose, $$\\beta$$-D-2-deoxyribose."
+        }
+      ],
+      "answer": "B",
+      "explanation": "DNA contains $$ \\Rightarrow $$ $$\\beta $$– D – 2 – deoxyribose\n <br/><br/>RNA contains $$ \\Rightarrow $$ $$\\beta $$– D – ribose"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Stability of $$\\alpha$$-Helix structure of proteins depends upon</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "dipolar interaction"
+        },
+        {
+          "key": "B",
+          "value": "H-bonding interaction"
+        },
+        {
+          "key": "C",
+          "value": "van der Waals forces"
+        },
+        {
+          "key": "D",
+          "value": "$$\\pi$$-stacking interaction"
+        }
+      ],
+      "answer": "B",
+      "explanation": "Mostly $\\mathrm{H}$-bonding is responsible for the stability of $\\alpha$-helix form."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Match List-I with List-II</p>\n<p><style type=\"text/css\">\n.tg  {border-collapse:collapse;border-spacing:0;}\n.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg .tg-1wig{font-weight:bold;text-align:left;vertical-align:top}\n.tg .tg-0lax{text-align:left;vertical-align:top}\n</style>\n<table class=\"tg\" style=\"undefined;table-layout: fixed; width: 545px\">\n<colgroup>\n<col style=\"width: 44px\">\n<col style=\"width: 202px\">\n<col style=\"width: 42px\">\n<col style=\"width: 257px\">\n</colgroup>\n<thead>\n  <tr>\n    <th class=\"tg-1wig\"></th>\n    <th class=\"tg-1wig\">List - I <br>Enzyne</th>\n    <th class=\"tg-1wig\"></th>\n    <th class=\"tg-1wig\">List - II<br>Conversion of</th>\n  </tr>\n</thead>\n<tbody>\n  <tr>\n    <td class=\"tg-0lax\">A.</td>\n    <td class=\"tg-0lax\">Invertase</td>\n    <td class=\"tg-0lax\">I.</td>\n    <td class=\"tg-0lax\">Starch into maltose</td>\n  </tr>\n  <tr>\n    <td class=\"tg-0lax\">B.</td>\n    <td class=\"tg-0lax\">Zymase</td>\n    <td class=\"tg-0lax\">II.</td>\n    <td class=\"tg-0lax\">Maltose into glucose</td>\n  </tr>\n  <tr>\n    <td class=\"tg-0lax\">C.</td>\n    <td class=\"tg-0lax\">Diastase</td>\n    <td class=\"tg-0lax\">III.</td>\n    <td class=\"tg-0lax\">Glucose into ethanol</td>\n  </tr>\n  <tr>\n    <td class=\"tg-0lax\">D.</td>\n    <td class=\"tg-0lax\">Maltase</td>\n    <td class=\"tg-0lax\">IV.</td>\n    <td class=\"tg-0lax\">Cane sugar into glucose</td>\n  </tr>\n</tbody>\n</table></p>\n<p>Choose the most appropriate answer from the options given below :</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "A-III, B-IV, C-II, D-I"
+        },
+        {
+          "key": "B",
+          "value": "A-III, B-II, C-I, D-IV"
+        },
+        {
+          "key": "C",
+          "value": "A-IV, B-III, C-I, D-II"
+        },
+        {
+          "key": "D",
+          "value": "A-IV, B-II, C-III, D-I"
+        }
+      ],
+      "answer": "C",
+      "explanation": "(A) Invertase → Cane sugar into glucose<br/><br/>\n(B) Zymase → Glucose into ethanol<br/><br/>\n(C) Diastase → Starch into maltose<br/><br/>\n(D) Maltase → Maltose into glucose"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Which one of the following is a water soluble vitamin, that is not excreted easily?</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "Vitamin B<sub>2</sub>"
+        },
+        {
+          "key": "B",
+          "value": "Vitamin B<sub>1</sub>"
+        },
+        {
+          "key": "C",
+          "value": "Vitamin B<sub>6</sub>"
+        },
+        {
+          "key": "D",
+          "value": "Vitamin B<sub>12</sub>"
+        }
+      ],
+      "answer": "D",
+      "explanation": "Vitamin B<sub>12</sub> is water soluble and not excreted easily."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Which of the following is not an example of fibrous protein?",
+      "options": [
+        {
+          "key": "A",
+          "value": "Keratin"
+        },
+        {
+          "key": "B",
+          "value": "Albumin"
+        },
+        {
+          "key": "C",
+          "value": "Collagen"
+        },
+        {
+          "key": "D",
+          "value": "Myosin"
+        }
+      ],
+      "answer": "B",
+      "explanation": "<p>Fibrous proteins are characterized by their elongated, insoluble structure and often serve structural or mechanical roles. Among the options provided, keratin, collagen, and myosin are examples of fibrous proteins.</p>\n<p>Albumin, on the other hand, is a globular protein that is soluble in water. It has a more spherical shape compared to the elongated shape of fibrous proteins. Albumin is found in blood plasma and has various functions including maintaining osmotic pressure.</p>\n<p>So, the correct answer is:</p>\n<p>Option B: Albumin.</p>\n"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Which one of the following compounds contains $$\\beta$$-C<sub>1</sub>-C<sub>4</sub> glycosidic linkage?",
+      "options": [
+        {
+          "key": "A",
+          "value": "Lactose"
+        },
+        {
+          "key": "B",
+          "value": "Sucrose"
+        },
+        {
+          "key": "C",
+          "value": "Maltose"
+        },
+        {
+          "key": "D",
+          "value": "Amylose"
+        }
+      ],
+      "answer": "A",
+      "explanation": "In Lactose it is $$\\beta$$ C<sub>1</sub> - C<sub>4</sub> glycosidic linkage. <br><br>In Maltose, Amylose $$\\alpha$$ C<sub>1</sub> - C<sub>4</sub> glycosidic linkage is present."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Hydrolysis of sucrose gives :",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$\\alpha$$-D-($$-$$)-Glucose and $$\\beta$$-D-($$-$$)-Fructose"
+        },
+        {
+          "key": "B",
+          "value": "$$\\alpha$$-D-(+)-Glucose and $$\\alpha$$-D-($$-$$)-Fructose"
+        },
+        {
+          "key": "C",
+          "value": "$$\\alpha$$-D-($$-$$)-Glucose and $$\\alpha$$-D-(+)-Fructose"
+        },
+        {
+          "key": "D",
+          "value": "$$\\alpha$$-D-(+)-Glucose and $$\\beta$$-D-($$-$$)-Fructose"
+        }
+      ],
+      "answer": "D",
+      "explanation": "Sucrose is formed by $$\\alpha$$-D(+). Glucose + $$\\beta$$-D($$-$$) Fructose.<br><br>We obtain these monomers on hydrolysis."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Given below are two statements : one is labelled as Assertion (A) and other is labelled as Reason (R). <br><br>Assertion (A) : Sucrose is a disaccharide and a non-reducing sugar.<br><br>Reason (R) : Sucrose involves glycosidic linkage between C<sub>1</sub> of $$\\beta$$-glucose and C<sub>2</sub> of $$\\alpha$$-fructose.<br><br>Choose the most appropriate answer from the options given below :",
+      "options": [
+        {
+          "key": "A",
+          "value": "Both (A) and (R) are true but (R) is not the true explanation of (A)."
+        },
+        {
+          "key": "B",
+          "value": "(A) is false but (R) is true."
+        },
+        {
+          "key": "C",
+          "value": "(A) is true but (R) is false."
+        },
+        {
+          "key": "D",
+          "value": "Both (A) and (R) are true and (R) is the true explanation of (A)"
+        }
+      ],
+      "answer": "C",
+      "explanation": "Sucrose is example of disaccharide &amp; non reducing sugar<br><br>Assertion : Correct<br><br>Sucrose involves glycosidic linkage between C<sub>1</sub> of $$\\alpha$$-D-glucose C<sub>2</sub> of $$\\beta$$-D-fructose<br><br>Reason : Incorrect"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Compound A gives D-Galactose and D-Glucose on hydrolysis. The compound A is :",
+      "options": [
+        {
+          "key": "A",
+          "value": "Amylose"
+        },
+        {
+          "key": "B",
+          "value": "Sucrose"
+        },
+        {
+          "key": "C",
+          "value": "Maltose"
+        },
+        {
+          "key": "D",
+          "value": "Lactose"
+        }
+      ],
+      "answer": "D",
+      "explanation": "Lactose : It is a disaccharide of $$\\beta$$-D-Galactose and $$\\beta$$-D-Glucose with C<sub>1</sub> of galactose and C<sub>4</sub> of glucose link.<br><br>Lactose : $$\\beta$$-D-Galactose + $$\\beta$$-D-Glucose"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Which one among the following chemical tests is used to distinguish monosaccharide from disaccharide?",
+      "options": [
+        {
+          "key": "A",
+          "value": "Seliwanoff's test"
+        },
+        {
+          "key": "B",
+          "value": "Iodine test"
+        },
+        {
+          "key": "C",
+          "value": "Barfoed test"
+        },
+        {
+          "key": "D",
+          "value": "Tollen's test"
+        }
+      ],
+      "answer": "C",
+      "explanation": "Barford test is used for distinguish monosaccharide from disaccharide."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The water soluble protein is :",
+      "options": [
+        {
+          "key": "A",
+          "value": "Fibrin"
+        },
+        {
+          "key": "B",
+          "value": "Albumin"
+        },
+        {
+          "key": "C",
+          "value": "Myosin"
+        },
+        {
+          "key": "D",
+          "value": "Collagen"
+        }
+      ],
+      "answer": "B",
+      "explanation": "Albumin is water soluble."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Thiamine and pyridoxine are also known respectively as :",
+      "options": [
+        {
+          "key": "A",
+          "value": "Vitamin B<sub>2</sub> and Vitamin E"
+        },
+        {
+          "key": "B",
+          "value": "Vitamin E and Vitamin B<sub>2</sub>"
+        },
+        {
+          "key": "C",
+          "value": "Vitamin B<sub>6</sub> and Vitamin B<sub>2</sub>"
+        },
+        {
+          "key": "D",
+          "value": "Vitamin B<sub>1</sub> and Vitamin B<sub>6</sub>"
+        }
+      ],
+      "answer": "D",
+      "explanation": "Vitamine-B<sub>1</sub> is also known as Thiamine while Vitamin B-6 is known as Pyridoxine."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Which one of the following statements is not true about enzymes?",
+      "options": [
+        {
+          "key": "A",
+          "value": "Enzymes are non-specific for a reaction and substrate."
+        },
+        {
+          "key": "B",
+          "value": "Almost all enzymes are proteins."
+        },
+        {
+          "key": "C",
+          "value": "Enzymes work as catalysts by lowering the activation energy of a biochemical reaction."
+        },
+        {
+          "key": "D",
+          "value": "The action of enzymes is temperature and pH specific."
+        }
+      ],
+      "answer": "A",
+      "explanation": "Enzymes are mostly proteins. They function as catalysts in biochemical reactions by lowering the energy of activation. They are highly specific w.r.t. temperature and pH in their action."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Identify the incorrect statement from the following",
+      "options": [
+        {
+          "key": "A",
+          "value": "Amylose is a branched chain polymer of glucose"
+        },
+        {
+          "key": "B",
+          "value": "Starch is a polymer of $$\\alpha$$-D glucose"
+        },
+        {
+          "key": "C",
+          "value": "$$\\beta$$-Glycosidic linkage makes cellulose polymer"
+        },
+        {
+          "key": "D",
+          "value": "Glycogen is called as animal starch"
+        }
+      ],
+      "answer": "A",
+      "explanation": "Amylose is a linear chain polymer of $$\\alpha $$-D-glucose\nwhile amylopectine is branched chain polymer of\n$$\\alpha $$-D-glucose."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Deficiency of vitamin K causes :",
+      "options": [
+        {
+          "key": "A",
+          "value": "Cheilosis"
+        },
+        {
+          "key": "B",
+          "value": "Decrease in blood clotting time"
+        },
+        {
+          "key": "C",
+          "value": "Increase in blood clotting time"
+        },
+        {
+          "key": "D",
+          "value": "Increase in fragility of RBC's"
+        }
+      ],
+      "answer": "C",
+      "explanation": "Deficiency of vitamin K causes increase in blood clotting time."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A non-reducing sugar \"A\" hydrolyses to give two reducing mono saccharides. Sugar A is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "Fructose"
+        },
+        {
+          "key": "B",
+          "value": "Galactose"
+        },
+        {
+          "key": "C",
+          "value": "Glucose"
+        },
+        {
+          "key": "D",
+          "value": "Sucrose"
+        }
+      ],
+      "answer": "D",
+      "explanation": "Sucrose $$\\buildrel {Hydrolyses} \\over\n \\longrightarrow $$ glucose + fructose<br><br>\nGlucose and fructose both are monosaccharides.\nSucrose is non-reducing sugar."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The secondary structure of protein is stabilised by:",
+      "options": [
+        {
+          "key": "A",
+          "value": "Hydrogen bonding"
+        },
+        {
+          "key": "B",
+          "value": "glycosidic bond"
+        },
+        {
+          "key": "C",
+          "value": "Peptide bond"
+        },
+        {
+          "key": "D",
+          "value": "van der Waals forces"
+        }
+      ],
+      "answer": "A",
+      "explanation": "The secondary structure of a protein is stabilised by\nhydrogen bonding."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Which among the following pairs of Vitamins is stored in our body relatively for longer duration?",
+      "options": [
+        {
+          "key": "A",
+          "value": "Thiamine and Vitamin A"
+        },
+        {
+          "key": "B",
+          "value": "Ascorbic acid and Vitamin D"
+        },
+        {
+          "key": "C",
+          "value": "Thiamine and Ascorbic acid"
+        },
+        {
+          "key": "D",
+          "value": "Vitamin A and Vitamin D"
+        }
+      ],
+      "answer": "D",
+      "explanation": "Vitamins which are soluble in fat and oils but\ninsoluble in water are fat-soluble vitamins, which\nare stored in our body relatively for a longer time.<br><br>\ne.g. Vitamin A and Vitamin D<br><br>\nThiamine (Vit B<sub>1</sub>) and Ascorbic acid (Vit C) are\nwater-soluble."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Match List - I with List - II.<br><br><table style=\"width:100%\">\n<thead>\n  <tr>\n    <th></th>\n    <th>List - I </th>\n    <th></th>\n    <th>List - II</th>\n  </tr>\n</thead>\n<tbody>\n  <tr>\n    <td>(a)</td>\n    <td>Sucrose</td>\n    <td>(i)</td>\n    <td>$$\\beta $$-D-Galactose and $$\\beta $$-D-Glucose</td>\n  </tr>\n  <tr>\n    <td>(b)</td>\n    <td>Lactose</td>\n    <td>(ii)</td>\n    <td>$$\\alpha $$-D-Glucose and $$\\beta $$-D-Fructose</td>\n  </tr>\n  <tr>\n    <td>(c)</td>\n    <td>Maltose</td>\n    <td>(iii)</td>\n    <td>$$\\alpha $$-D-Glucose and $$\\alpha $$-D-Glucose</td>\n  </tr>\n</tbody>\n</table><br>Choose the correct answer from the options given below :",
+      "options": [
+        {
+          "key": "A",
+          "value": "(a) $$ \\to $$ (iii), (b) $$ \\to $$ (ii), (c) $$ \\to $$ (i)"
+        },
+        {
+          "key": "B",
+          "value": "(a) $$ \\to $$ (i), (b) $$ \\to $$ (iii), (c) $$ \\to $$ (ii)"
+        },
+        {
+          "key": "C",
+          "value": "(a) $$ \\to $$ (ii), (b) $$ \\to $$ (i), (c) $$ \\to $$ (iii)"
+        },
+        {
+          "key": "D",
+          "value": "(a) $$ \\to $$ (iii), (b) $$ \\to $$ (i), (c) $$ \\to $$ (ii)"
+        }
+      ],
+      "answer": "C",
+      "explanation": "Sucrose $$ \\to \\alpha $$-D- Glucose and $$\\beta $$-D- Fructose<br><br>\nLactose $$ \\to \\beta $$-D- Galactose and $$\\beta $$-D- Glucose<br><br>\nMaltose  $$ \\to \\alpha $$-D- Glucose and $$\\alpha $$-D- Glucose"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Which of the following vitamin is helpful in delaying the blood clotting?",
+      "options": [
+        {
+          "key": "A",
+          "value": "Vitamin K"
+        },
+        {
+          "key": "B",
+          "value": "Vitamin C"
+        },
+        {
+          "key": "C",
+          "value": "Vitamin E"
+        },
+        {
+          "key": "D",
+          "value": "Vitamin B"
+        }
+      ],
+      "answer": "A",
+      "explanation": "Vitamin K is helpful in delaying the blood\nclotting."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Match List - I and List - II.<br><br><table>\n<thead>\n  <tr>\n    <th></th>\n    <th>List I</th>\n    <th></th>\n    <th>List II</th>\n  </tr>\n</thead>\n<tbody>\n  <tr>\n    <td>(a)</td>\n    <td>Valium</td>\n    <td>(i)</td>\n    <td>Antifertility drug</td>\n  </tr>\n  <tr>\n    <td>(b)</td>\n    <td>Morphine</td>\n    <td>(ii)</td>\n    <td>Pernicious anaemia</td>\n  </tr>\n  <tr>\n    <td>(c)</td>\n    <td>Norethindrone</td>\n    <td>(iii)</td>\n    <td>Analgesic</td>\n  </tr>\n  <tr>\n    <td>(d)</td>\n    <td>Vitamin $${B_{12}}$$</td>\n    <td>(iv)</td>\n    <td>Tranquilizer</td>\n  </tr>\n</tbody>\n</table>",
+      "options": [
+        {
+          "key": "A",
+          "value": "(a)-(i), (b)-(iii), (c)-(iv), (d)-(ii)"
+        },
+        {
+          "key": "B",
+          "value": "(a)-(iv), (b)-(iii), (c)-(ii), (d)-(i)"
+        },
+        {
+          "key": "C",
+          "value": "(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)"
+        },
+        {
+          "key": "D",
+          "value": "(a)-(iv), (b)-(iii), (c)-(i), (d)-(ii)"
+        }
+      ],
+      "answer": "D",
+      "explanation": "<p><b>(A) Valium – (4) Tranquilizer</b> <br/><br/>A tranquilizer drug became a standard drug for the treatment of anxiety and one of most commonly prescribed drugs of all time.</p>\n\n<p><b>(B) Morphine – (3) Analgesic</b> <br/><br/>Morphine is effective for both acute and chronic pain and often used before and after surgery.</p>\n\n<p><b>(C) Norethindrone – (1) Antifertility drug</b> <br/><br/>It is a form of progesterone, a female hormone important for regulating ovulation and menstruation.</p>\n\n<p><b>(D) Vitamin B<sub>12</sub> – (2) Pernicious anaemia</b> <br/><br/>It is a nutrient that helps to keep our body blood cells and nerve cells healthy and help in making DNA.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Which of the following is not an essential\namino acid :",
+      "options": [
+        {
+          "key": "A",
+          "value": "Valine"
+        },
+        {
+          "key": "B",
+          "value": "Leucine"
+        },
+        {
+          "key": "C",
+          "value": "Lysine"
+        },
+        {
+          "key": "D",
+          "value": "Tyrosine"
+        }
+      ],
+      "answer": "D",
+      "explanation": "Tyrosine is not an essential amino acid."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Two monomers in maltose are :",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$\\alpha $$-D-glucose and $$\\alpha $$-D-galactose"
+        },
+        {
+          "key": "B",
+          "value": "$$\\alpha $$-D-glucose and $$\\alpha $$-D-Fructose"
+        },
+        {
+          "key": "C",
+          "value": "$$\\alpha $$-D-glucose and $$\\alpha $$-D-glucose"
+        },
+        {
+          "key": "D",
+          "value": "$$\\alpha $$-D-glucose and $$\\beta $$-D-glucose"
+        }
+      ],
+      "answer": "C",
+      "explanation": "Two monomers in maltose are $$\\alpha $$-D-glucose &amp;\n$$\\alpha $$-D-glucose."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Which of the following statement is not true for glucose?",
+      "options": [
+        {
+          "key": "A",
+          "value": "Glucose gives Schiff's test for aldehyde"
+        },
+        {
+          "key": "B",
+          "value": "Glucosse reacts with hydroxylamine to form oxime"
+        },
+        {
+          "key": "C",
+          "value": "The pentaacetate of glucose does not react with hydroxylamine to give oxime"
+        },
+        {
+          "key": "D",
+          "value": "Glucose exists in two crystalline forms $$\\alpha $$ and $$\\beta $$"
+        }
+      ],
+      "answer": "A",
+      "explanation": "Glucose gives negative test with Schiff reagent."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Match the following :<br>\n(i) Riboflavin &nbsp;&nbsp;&nbsp;(a) Beriberi<br>\n(ii) Thiamine&nbsp;&nbsp;&nbsp; (b) Scurvy<br>\n(iii) Pyridoxine &nbsp;&nbsp;(c) Cheliosis<br>\n(iv) Ascorbic acid &nbsp;&nbsp;&nbsp;(d) Convulsions<br>",
+      "options": [
+        {
+          "key": "A",
+          "value": "(i)-(c), (ii)-(d), (iii)-(a), (iv)-(b)"
+        },
+        {
+          "key": "B",
+          "value": "(i)-(d), (ii)-(b), (iii)-(a), (iv)-(c)"
+        },
+        {
+          "key": "C",
+          "value": "(i)-c, (ii)-(a), (iii)-(d), (iv)-(b)"
+        },
+        {
+          "key": "D",
+          "value": "(i)-(a), (ii)-(d), (iii)-(c), (iv)-(b)\n"
+        }
+      ],
+      "answer": "C",
+      "explanation": "Thiamine (vitamin B<sub>1</sub>) : Beriberi\n<br><br>Riboflavin (vitamin B<sub>2</sub>) : Cheilosis\n<br><br>Pyridoxine (vitamin B<sub>6</sub>) : Convulsions\n<br><br>Ascorbic acid (vitamin C) : Scurvy"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Which of the given statements is <b>INCORRECT</b> about glycogen? ",
+      "options": [
+        {
+          "key": "A",
+          "value": "It is a straight chain polymer similar to amylose"
+        },
+        {
+          "key": "B",
+          "value": "It is present in animal cells"
+        },
+        {
+          "key": "C",
+          "value": "It is present in some yeast and fungi"
+        },
+        {
+          "key": "D",
+          "value": "Only $$\\alpha $$-linkages are present in the molecule"
+        }
+      ],
+      "answer": "A",
+      "explanation": "Glycogen is   branch chain polymer."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Which of the following statements is not true about RNA?",
+      "options": [
+        {
+          "key": "A",
+          "value": "It controls the synthesis of protein"
+        },
+        {
+          "key": "B",
+          "value": "It is present in the nucleus of the cell"
+        },
+        {
+          "key": "C",
+          "value": "It usually does not replicate"
+        },
+        {
+          "key": "D",
+          "value": "It has always double stranded $$\\alpha $$-helix structure"
+        }
+      ],
+      "answer": "D",
+      "explanation": "RNA has a single standard helix structure.\n<br><br>DNA has a double standard helix structure"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Glucose and Galactose are having identical configuration in all the positions except position",
+      "options": [
+        {
+          "key": "A",
+          "value": "C–5"
+        },
+        {
+          "key": "B",
+          "value": "C–3"
+        },
+        {
+          "key": "C",
+          "value": "C–2"
+        },
+        {
+          "key": "D",
+          "value": "C–4"
+        }
+      ],
+      "answer": "D",
+      "explanation": "Glucose and galactose differs in configuration on C<sub>4</sub>."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Amylopectin is compound of :",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$\\alpha $$-D-glucose, C<sub>1</sub> – C<sub>4</sub> and C<sub>1</sub> – C<sub>6</sub> linkages"
+        },
+        {
+          "key": "B",
+          "value": "$$\\beta $$-D-glucose, C<sub>1</sub> – C<sub>4</sub> and C<sub>2</sub> – C<sub>6</sub> linkages"
+        },
+        {
+          "key": "C",
+          "value": "$$\\beta $$-D-glucose, C<sub>1</sub> – C<sub>4</sub> and C<sub>1</sub> – C<sub>6</sub> linkages"
+        },
+        {
+          "key": "D",
+          "value": "$$\\alpha $$-D-glucose, C<sub>1</sub> – C<sub>4</sub> and C<sub>2</sub> – C<sub>6</sub> linkages"
+        }
+      ],
+      "answer": "A",
+      "explanation": "Amylopectin is a component of starch and starch is a polymer of $$\\alpha $$-D-glucose.\n<br><br>Amylopectin has $$\\alpha $$-1, 6-glycosidic linkage in\naddition to $$\\alpha $$-1,4-glycosidic linkage and is a\ncross-linked polymer."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Which of the following statements is not true\nabout sucrose?",
+      "options": [
+        {
+          "key": "A",
+          "value": "The glycosidic linkage is present between\nC<sub>1 </sub>of $$\\alpha $$-glucose and C<sub>1</sub> of $$\\beta $$-fructose"
+        },
+        {
+          "key": "B",
+          "value": "It is also named as invert sugar"
+        },
+        {
+          "key": "C",
+          "value": "It is a non reducing sugar"
+        },
+        {
+          "key": "D",
+          "value": "On hydrolysis, it produces glucose and\nfructose"
+        }
+      ],
+      "answer": "A",
+      "explanation": "The glycosidic linkage is present between\nC<sub>1 </sub>of $$\\alpha $$-D-glucose and C<sub>2</sub> of $$\\beta $$-D-fructose."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Fructose and glucose can be distinguished by :",
+      "options": [
+        {
+          "key": "A",
+          "value": "Barfoed's test"
+        },
+        {
+          "key": "B",
+          "value": "Fehling's test"
+        },
+        {
+          "key": "C",
+          "value": "Seliwanoff's test"
+        },
+        {
+          "key": "D",
+          "value": "Benedict's test"
+        }
+      ],
+      "answer": "C",
+      "explanation": "Seliwanoff's test is used to distinguish aldose\nand ketose.\n<br><br>When Seliwanoff's reagent added to a solution containing ketoses, red colour is formed rapidly indicating a positive test. \n<br>While in case of aldose, a slower forming light pink colour observed."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The correct statement (s) among I to III with respect to potassium ions that are abundant within the cell fluid\nis /are \n<br>I. They activate many enzymes \n<br>II. They participate in the oxidation of glucose to produce ATP \n<br>III. Along with sodium ions they are responsible for the transmission of nerve signals",
+      "options": [
+        {
+          "key": "A",
+          "value": "III only "
+        },
+        {
+          "key": "B",
+          "value": "I and II only "
+        },
+        {
+          "key": "C",
+          "value": "I and III only "
+        },
+        {
+          "key": "D",
+          "value": "I, II and III only "
+        }
+      ],
+      "answer": "D",
+      "explanation": "<p>All the statements are correct. K+ being metallic unipositive ions work as enzyme activators. These also participate in many reactions of glycolysis and Kreb’s cycle to produce ATP from glucose.</p>\n<p>Being unipositive these are also equally responsible for nerve signal transmission along with Na<sup>+</sup>.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Among the following compounds most basic amino acid is - ",
+      "options": [
+        {
+          "key": "A",
+          "value": "Lysine"
+        },
+        {
+          "key": "B",
+          "value": "Asparagine "
+        },
+        {
+          "key": "C",
+          "value": "Histidine "
+        },
+        {
+          "key": "D",
+          "value": "Serine"
+        }
+      ],
+      "answer": "A",
+      "explanation": "<b>Compound</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Pl value</b>\n<br>Histidine &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;7.6\n<br>Serine &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5.7\n<br>Lysine &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;9.8\n<br>Asparagine &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5.4"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Which of the following tests cannot be used for identifying amino acids? ",
+      "options": [
+        {
+          "key": "A",
+          "value": "Ninhydrin test "
+        },
+        {
+          "key": "B",
+          "value": "Barfoed test \n"
+        },
+        {
+          "key": "C",
+          "value": "Xanthoproteic test"
+        },
+        {
+          "key": "D",
+          "value": "Biuret test \n"
+        }
+      ],
+      "answer": "B",
+      "explanation": "Barfoed test is used to detect the presence of monosaccharide (reducing sugars) in solutions not amino acids."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Among the following, the <b>incorrect</b> statement is : ",
+      "options": [
+        {
+          "key": "A",
+          "value": "Maltose and  lactose has 1, 4 - glycosidic linkage. "
+        },
+        {
+          "key": "B",
+          "value": "Sucrose and amylose has 1,  2 - glycosidic linkage"
+        },
+        {
+          "key": "C",
+          "value": "Cellulose and amylose has 1, 4 - glycosidic linkage. "
+        },
+        {
+          "key": "D",
+          "value": "Lactose contains $$\\beta $$-D-galactose and $$\\beta $$-D-glucose. "
+        }
+      ],
+      "answer": "B",
+      "explanation": "(a) Both maltose and lactose have 1,4-glycosidic linkage. \n<br><br>(b) In sucrose, C<sub>1</sub>-$$\\alpha $$ of glucose is connected to C<sub>2</sub>-$$\\beta $$ of fructose. In amylose, C<sub>1</sub> of one glucose unit is attached to C<sub>4</sub> of other glucose through $$\\alpha $$-glycosidic linkage.\n<br><br>(c) Cellulose has 1,4-$$\\beta $$-D-glycosidic linkage, but amylose has 1,4-$$\\alpha $$-D-glycosidic linkage. \n<br><br>(d) In lactose, C<sub>1</sub>-$$\\beta $$ of galactose is linked to C<sub>4</sub>-$$\\beta $$ of glucose."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The <b>incorrect</b> statement among the following is :",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$\\alpha $$-D-glucose and $$\\beta $$-D-glucose are anomers."
+        },
+        {
+          "key": "B",
+          "value": "$$\\alpha $$-D-glucose and $$\\beta $$-D-glucose are enantiomers.\n"
+        },
+        {
+          "key": "C",
+          "value": "Cellulose is a straight chain polysaccharide made up of only $$\\beta $$-D-glucose units."
+        },
+        {
+          "key": "D",
+          "value": "The penta acetate of glucose does not react with hydroxyl amine"
+        }
+      ],
+      "answer": "B",
+      "explanation": "$$\\alpha $$-D-glucose and $$\\beta $$-D-glucose are anomers not enantiomers."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Among the following, the essential amino acid is :",
+      "options": [
+        {
+          "key": "A",
+          "value": "Alanine"
+        },
+        {
+          "key": "B",
+          "value": "Valine"
+        },
+        {
+          "key": "C",
+          "value": "Aspartic acid "
+        },
+        {
+          "key": "D",
+          "value": "Serine"
+        }
+      ],
+      "answer": "B",
+      "explanation": "<p>Valine is considered as an essential amino acid since the human body is not capable of synthesising it. Alanine, aspartic acid and serine can be synthesised by all living organisms, plants and animals. Therefore, they are known as non-essential amino acids.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Which of the vitamins given below is water soluble?",
+      "options": [
+        {
+          "key": "A",
+          "value": "Vitamin D"
+        },
+        {
+          "key": "B",
+          "value": "Vitamin E"
+        },
+        {
+          "key": "C",
+          "value": "Vitamin K"
+        },
+        {
+          "key": "D",
+          "value": "Vitamin C"
+        }
+      ],
+      "answer": "D",
+      "explanation": "Water-soluble vitamins dissolve in water and are not stored by the body. The water soluble vitamins include the vitamin $$B$$-complex group and vitamin $$C.$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Which one of the following bases is <b>not</b> present in DNA?",
+      "options": [
+        {
+          "key": "A",
+          "value": "Cytosine"
+        },
+        {
+          "key": "B",
+          "value": "Thymine"
+        },
+        {
+          "key": "C",
+          "value": "Quinoline"
+        },
+        {
+          "key": "D",
+          "value": "Adenine"
+        }
+      ],
+      "answer": "C",
+      "explanation": "$$DNA$$ contains adenine (A), thymine (T), guanine (G) and cytosine (C) bases.\n<br><br>So quinoline is not present in $$DNA.$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Synthesis of each molecule of glucose in photosynthesis involves: ",
+      "options": [
+        {
+          "key": "A",
+          "value": "10 molecules of ATP"
+        },
+        {
+          "key": "B",
+          "value": "8 molecules of ATP "
+        },
+        {
+          "key": "C",
+          "value": "6 molecules of ATP "
+        },
+        {
+          "key": "D",
+          "value": "18 molecules of ATP"
+        }
+      ],
+      "answer": "D",
+      "explanation": "$$6C{O_2} + 12NADPH + 18ATP$$ + 6RuBP\n<br><br>$$\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\, \\to {C_6}{H_{12}}{O_6} + 12NADP + 18ADP$$ + 6RuBP + 18P\n<br><br>One molecule of glucose is formed from 6CO<sub>2</sub> by utilising 18ATP and 12NADPH."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Which of the following compounds can be detected by Molisch’s test ?",
+      "options": [
+        {
+          "key": "A",
+          "value": "Nitro compounds"
+        },
+        {
+          "key": "B",
+          "value": "Sugars"
+        },
+        {
+          "key": "C",
+          "value": "Amines "
+        },
+        {
+          "key": "D",
+          "value": "Primary alcohols"
+        }
+      ],
+      "answer": "B",
+      "explanation": "<b>Molisch's Test :</b> This is a general test for carbohydrates. One or two drops of alcoholic solution of $$\\alpha $$-naphthol is added to $$2$$ ml glucose solution. $$1$$ ml of conc. $${H_2}S{O_4}$$ solution is added carefully along the sides of the test-tube. The formation of a violet ring at the junction of two liquids confirms the presence of a carbohydrare or sugar."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The two functional groups present in a typical carbohydrate are ",
+      "options": [
+        {
+          "key": "A",
+          "value": "-OH and -COOH "
+        },
+        {
+          "key": "B",
+          "value": "-CHO and -COOH "
+        },
+        {
+          "key": "C",
+          "value": "&gt; C = O and - OH "
+        },
+        {
+          "key": "D",
+          "value": "- OH and -CHO"
+        }
+      ],
+      "answer": "D",
+      "explanation": "<b>NOTE :</b> Glucose is considered as a typical carbohydrate which contains $$-CHO$$ and $$-OH$$ group. "
+    },
+    {
+      "_type": "single_mcq",
+      "body": "$$\\alpha$$-D-(+)-glucose and $$\\beta$$-D-(+)-glucose are ",
+      "options": [
+        {
+          "key": "A",
+          "value": "conformers "
+        },
+        {
+          "key": "B",
+          "value": "epimers"
+        },
+        {
+          "key": "C",
+          "value": "anomers"
+        },
+        {
+          "key": "D",
+          "value": "enantiomers "
+        }
+      ],
+      "answer": "C",
+      "explanation": "Since $$\\alpha  - D - \\left(  +  \\right) - \\,\\,$$ glucose and $$\\beta  - D - \\left(  +  \\right)\\,\\,$$ glucose differ in configuration at $$C-1$$ atom so they are anomers. \n<br><br><b>NOTE :</b> Anomers are those diastereomers that differ in configuration at  $$C-1$$ atom.  i.e., $$(c)$$ in the correct answer. "
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The secondary structure of a protein refers to ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$\\alpha$$-helical backbone"
+        },
+        {
+          "key": "B",
+          "value": "hydrophobic interactions"
+        },
+        {
+          "key": "C",
+          "value": "sequence of $$\\alpha$$-amino acids"
+        },
+        {
+          "key": "D",
+          "value": "fixed configuration of the polypeptide backbone"
+        }
+      ],
+      "answer": "A",
+      "explanation": "The secondary structure of a protein refers to the shape in which a long peptide chain can exist. There are two different conformations of the peptide linkage present in protein, these are $$\\alpha $$-helix and $$\\beta $$-conformation. The $$\\alpha $$-helix always has a right handed arrangement. In $$\\beta $$-conformation all peptide chains are streched out to nearly maximum extension and then laid side by side and held together by intermolecular hydrogen bonds. The structure resembles the pleated folds of drapery and therefore is known as $$\\beta $$-pleated sheet."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The pyrimidine bases present in DNA are ",
+      "options": [
+        {
+          "key": "A",
+          "value": "cytosine and adenine"
+        },
+        {
+          "key": "B",
+          "value": "cytosine and guanine"
+        },
+        {
+          "key": "C",
+          "value": "cytosine and thymine "
+        },
+        {
+          "key": "D",
+          "value": "cytosine and uracil "
+        }
+      ],
+      "answer": "C",
+      "explanation": "DNA contains cytosine and thymine as pyrimidine bases and guanine and adenine as purine bases."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Identify the correct statements regarding enzymes",
+      "options": [
+        {
+          "key": "A",
+          "value": "Enzymes are specific biological catalysts that can normally function at very high\ntemperature (T ~ 1000 K) "
+        },
+        {
+          "key": "B",
+          "value": "Enzymes are specific biological catalysts that the posses well – defined active sites "
+        },
+        {
+          "key": "C",
+          "value": "Enzymes are specific biological catalysts that can not be poisoned "
+        },
+        {
+          "key": "D",
+          "value": "Enzymes are normally heterogeneous catalysts that are very specific in their action "
+        }
+      ],
+      "answer": "B",
+      "explanation": "Enzymes are shape selective specific biological  catalysts which normally functions effectively at body temperature."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Insulin production and its action in human body are responsible for the level of diabetes. This\ncompound belongs to which of the following categories? ",
+      "options": [
+        {
+          "key": "A",
+          "value": "A co- enzyme"
+        },
+        {
+          "key": "B",
+          "value": "An antibiotic "
+        },
+        {
+          "key": "C",
+          "value": "An enzyme"
+        },
+        {
+          "key": "D",
+          "value": "A hormone "
+        }
+      ],
+      "answer": "D",
+      "explanation": "Insulin is a proteinaceous hormone secreted by $$\\beta $$-cells by islet of Langerhans of pancreas in our body."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Which base is present in RNA but not in DNA? ",
+      "options": [
+        {
+          "key": "A",
+          "value": "Uracil "
+        },
+        {
+          "key": "B",
+          "value": "Thymine"
+        },
+        {
+          "key": "C",
+          "value": "Guanine"
+        },
+        {
+          "key": "D",
+          "value": "Cytosine"
+        }
+      ],
+      "answer": "A",
+      "explanation": "$$RNA$$ contains cytosine and uracil as pyrimidine bases while $$DNA$$ has cytosine and thymine.\n<br><br>Both have the same purine bases i.e., Guanine and adenine."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The reason for double helical structure of $$DNA$$ is operation of ",
+      "options": [
+        {
+          "key": "A",
+          "value": "dipole-dipole interaction"
+        },
+        {
+          "key": "B",
+          "value": "hydrogen bonding"
+        },
+        {
+          "key": "C",
+          "value": "electrostatic attractions "
+        },
+        {
+          "key": "D",
+          "value": "van der Waals' forces"
+        }
+      ],
+      "answer": "B",
+      "explanation": "$$DNA$$ consists of two polynucleotide chains, each chain forms a right handed spiral with ten bases in one turn of the spiral. The two chains coil to double helix and run in opposite direction held together by hydrogen bonding. "
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Complete hydrolysis of cellulose gives",
+      "options": [
+        {
+          "key": "A",
+          "value": "D-ribose"
+        },
+        {
+          "key": "B",
+          "value": "D-glucose"
+        },
+        {
+          "key": "C",
+          "value": "L-glucose"
+        },
+        {
+          "key": "D",
+          "value": "D-fructose"
+        }
+      ],
+      "answer": "B",
+      "explanation": "Cellulose is a linear polymer of $$\\beta $$ $$ - D - $$ glucose in which $${C_1}$$ of one glucose unit is connected to $${C_4}$$ of the other through $$\\beta  - D$$ glucosidic linkage. It does not undergo hydrolysis easily. However on heating with dilute $${H_2}S{O_4}$$ under pressure. It does undergo hydrolysis to give only $$D-$$ glucose. \n<br><br>$$$\\left( {{C_6}{H_{10}}{O_5}} \\right)n + n{H_2}O\\buildrel {\\,H + } \\over\n \\longrightarrow \\mathop {n{C_6}{H_{12}}{O_6}}\\limits_{D - Glu\\cos e} $$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "RNA is different from DNA because RNA contains",
+      "options": [
+        {
+          "key": "A",
+          "value": "ribose sugar and thymine"
+        },
+        {
+          "key": "B",
+          "value": "ribose sugar and uracil"
+        },
+        {
+          "key": "C",
+          "value": "deoxyribose sugar and thymine"
+        },
+        {
+          "key": "D",
+          "value": "deoxyribose sugar and uracil"
+        }
+      ],
+      "answer": "B",
+      "explanation": "<p>The correct answer is Option B: RNA contains ribose sugar and uracil.</p>\n<p>Here's a brief explanation:</p>\n\n<p><p>DNA contains deoxyribose sugar, while RNA contains ribose sugar.</p></p>\n<p><p>DNA uses thymine as one of its bases, but RNA uses uracil instead.</p></p>\n\n<p>This difference is one of the key distinguishing features between RNA and DNA.</p>"
+    },
+    {
+      "_type": "numerical",
+      "body": "<p>The total number of hydrogen bonds of a DNA-double Helix strand whose one strand has the following sequence of bases is ________.</p>\n<p>$$5^{\\prime}-\\mathrm{G}-\\mathrm{G}-\\mathrm{C}-\\mathrm{A}-\\mathrm{A}-\\mathrm{A}-\\mathrm{T}-\\mathrm{C}-\\mathrm{G}-\\mathrm{G}-\\mathrm{C}-\\mathrm{T}-\\mathrm{A}-3^{\\prime}$$</p>",
+      "answer": "33",
+      "explanation": "<p>Two nucleic acid chains are wound about each other and held together by H bonds between pair of bases.</p>\n<p>Adenine from two hydrogen bonds with thymine and Guanine form three hydrogen bond with cytosine.</p>\n<p>$$5^{\\prime} \\mathrm{G}-\\mathrm{G}-\\mathrm{C}-\\mathrm{A}-\\mathrm{A}-\\mathrm{A}-\\mathrm{T}-\\mathrm{C}-\\mathrm{G}-\\mathrm{G}-\\mathrm{C}-\\mathrm{T}-\\mathrm{A}-3^{\\prime}$$</p>\n<p>In given DNA strand total seven guanine and cytosine bases which form total 21 H -bonds and six adenine and thymine base which will form total 12 H -bonds with other DNA strand.</p>\n<p>Total no. of H bonds $=7 \\times 3+6 \\times 2=33$</p>\n<p>Ans. 33</p>"
+    },
+    {
+      "_type": "numerical",
+      "body": "<p>Total number of essential amino acid among the given list of amino acids is ________.</p>\n<p>Arginine, Phenylalanine, Aspartic acid, Cysteine, Histidine, Valine, Proline</p>",
+      "answer": "4",
+      "explanation": "<p>Arginine, Phenylalanine, Histidine, Valine are essential amino acids.</p>"
+    },
+    {
+      "_type": "numerical",
+      "body": "The number of tripeptides formed by three different amino acids using each amino acid once is ______.",
+      "answer": "6",
+      "explanation": "<p>To understand the number of tripeptides formed by three different amino acids using each amino acid once, consider the amino acids as distinct objects we need to arrange. In this case, we have 3 amino acids (let’s name them A, B, and C for simplicity). The question asks how many unique sequences (tripeptides) we can form if we use each amino acid exactly once.</p>\n\n<p>Arranging 3 distinct items in a sequence is a fundamental combinatorial problem. The number of ways to arrange n distinct objects is given by the factorial of n, denoted as n!. The factorial function (n!) means multiplying all whole numbers from n down to 1. Therefore, for 3 amino acids, the number of unique tripeptides we can form is calculated by 3! (3 factorial).</p>\n\n<p>3! = 3 × 2 × 1 = 6</p>\n\n<p>This means there are 6 possible unique tripeptides that can be formed using these three different amino acids exactly once, which are: ABC, ACB, BAC, BCA, CAB, CBA.</p>"
+    },
+    {
+      "_type": "numerical",
+      "body": "<p>From the vitamins $$\\mathrm{A}, \\mathrm{B}_1, \\mathrm{~B}_6, \\mathrm{~B}_{12}, \\mathrm{C}, \\mathrm{D}, \\mathrm{E}$$ and $$\\mathrm{K}$$, the number of vitamins that can be stored in our body is _________.</p>",
+      "answer": "5",
+      "explanation": "<p>Vitamins A, D, E, K and B$$_{12}$$ are stored in liver and adipose tissue.</p>"
+    },
+    {
+      "_type": "numerical",
+      "body": "<p>The total number of correct statements, regarding the nucleic acids is _________.</p>\n<p>A. RNA is regarded as the reserve of genetic information</p>\n<p>B. DNA molecule self-duplicates during cell division</p>\n<p>C. DNA synthesizes proteins in the cell</p>\n<p>D. The message for the synthesis of particular proteins is present in DNA</p>\n<p>E. Identical DNA strands are transferred to daughter cells.</p>",
+      "answer": "3",
+      "explanation": "<p>A. RNA is regarded as the reserve of genetic information. (False)</p>\n<p>B. DNA molecule self-duplicates during cell division. (True)</p>\n<p>C. DNA synthesizes proteins in the cell. (False)</p>\n<p>D. The message for the synthesis of particular proteins is present in DNA. (True)</p>\n<p>E. Identical DNA strands are transferred to daughter cells. (True)</p>"
+    },
+    {
+      "_type": "numerical",
+      "body": "<p>Number of compounds from the following which will not produce orange red precipitate with Benedict solution is ___________.</p>\n<p>Glucose, maltose, sucrose, ribose, 2-deoxyribose, amylose, lactose</p>",
+      "answer": "2",
+      "explanation": "Benedict's solution is a reagent that tests for reducing sugars. A reducing sugar is one that has a free aldehyde or ketone group, which can reduce the copper(II) ions in Benedict's reagent to copper(I) oxide, which forms a brick-red or orange-red precipitate.\n<br/><br/>Given the compounds :\n\n<br/><br/>1. Glucose - is a reducing sugar, as it has a free aldehyde group.\n<br/><br/>2. Maltose - is a reducing sugar. It has a free anomeric carbon that can form an aldehyde group.\n<br/><br/>3. Sucrose - is not a reducing sugar. Its glycosidic bond locks the anomeric carbons, preventing them from forming an aldehyde or ketone.\n<br/><br/>4. Ribose - is a reducing sugar, as it has an aldehyde group.\n<br/><br/>5. 2-deoxyribose - is a reducing sugar. It has a free anomeric carbon that can form an aldehyde group.\n<br/><br/>6. Amylose - is a polysaccharide and does not typically behave as a reducing sugar in Benedict's test. Even though one end of the amylose chain can technically open to reveal an aldehyde group (the so-called reducing end), the reaction would likely be much less dramatic than with true reducing sugars, and might not occur at all under typical test conditions.\n<br/><br/>7. Lactose - is a reducing sugar, as it has a free anomeric carbon that can form an aldehyde group.\n\n<br/><br/>Hence, out of the seven compounds listed, sucrose and amylose will not likely produce an orange-red precipitate with Benedict's solution. Thus, the number of compounds that will not produce an orange-red precipitate with Benedict's solution is 2."
+    },
+    {
+      "_type": "numerical",
+      "body": "A short peptide on complete hydrolysis produces 3 moles of glycine (G), two moles of leucine (L) and two moles of valine (V) per mole of peptide. The number of peptide linkages in it are ________.",
+      "answer": "6",
+      "explanation": "<p>The peptide has seven amino acid units therefore it has six peptide bonds.</p>"
+    },
+    {
+      "_type": "numerical",
+      "body": "<p>Total number of tripeptides possible by mixing of valine and proline is ___________</p>",
+      "answer": "8",
+      "explanation": "<p>To calculate the total number of tripeptides possible by mixing valine and proline, we need to use the fundamental principle of counting.</p>\n\n<p>Since a tripeptide is made up of three amino acids, and we have two choices for each position (either valine or proline), we can use the multiplication principle to find the total number of possible tripeptides.</p>\n\n<p>That is, the total number of tripeptides possible by mixing valine and proline is:</p>\n\n<p>2 x 2 x 2 = 8</p>\n\n<p>Therefore, there are a total of 8 possible tripeptides that can be formed by mixing valine and proline.</p>"
+    },
+    {
+      "_type": "numerical",
+      "body": "<p>In a linear tetrapeptide (Constituted with different amino acids), (number of amino acids) $$-$$ (number of peptide bonds) is ________.</p>",
+      "answer": "1",
+      "explanation": "In tetrapeptide<br/><br/>\n No. of amino acids = 4<br/><br/>\n No. of peptide bonds = 3<br/><br/>\n Hence, (1)"
+    },
+    {
+      "_type": "numerical",
+      "body": "<p>C<sub>6</sub>H<sub>12</sub>O<sub>6</sub> $$\\buildrel \\text{Zymase} \\over\n \\longrightarrow $$ A $$\\mathrel{\\mathop{\\kern0pt\\longrightarrow}\n\\limits_\\Delta ^\\text{NaOI}} $$ B + CHI<sub>3</sub></p>\n<p>The number of carbon atoms present in the product B is _______________.</p>",
+      "answer": "1",
+      "explanation": "$$\\mathrm{C}_6 \\mathrm{H}_{12} \\mathrm{O}_6 \\stackrel{\\text { Zymase }}{\\longrightarrow} \\mathrm{C}_2 \\mathrm{H}_5 \\mathrm{OH} \\stackrel{\\mathrm{NaOl}}{\\longrightarrow} \\underset{\\text { (B) }}{\\mathrm{HCOONa}}+\\mathrm{CHI}_3\n$$"
+    },
+    {
+      "_type": "numerical",
+      "body": "<p>How many of the given compounds will give a positive Biuret test ____________ ?</p>\n<p>Glycine, Glycylalanine, Tripeptide, Biuret</p>",
+      "answer": "2",
+      "explanation": "Since dipeptides and free amino acids do not give\nbiuret test. Hence glycine and glycylalanine do not\ngive this test."
+    },
+    {
+      "_type": "numerical",
+      "body": "<p>In alanylglycyl leucyl alanyl valine, the number of peptide linkages is ___________.</p>",
+      "answer": "4",
+      "explanation": "The given pentapeptide is\n<br/><br/>\n$$\\text { ALA - GLY - LEU - ALA - VAL }$$\n<br/><br/>\nIt has 4 peptide linkages."
+    },
+    {
+      "_type": "numerical",
+      "body": "A peptide synthesized by the reactions of one molecule each of Glycine, Leucine, Aspartic acid and Histidine will have _________ peptide linkages.",
+      "answer": "3",
+      "explanation": "Combination of n amino acids gives a polypeptide\nwith (n – 1) peptide linkages.\n<br><br>Similarly combination of four amino acids gives a\ntetrapeptide with three peptide linkages."
+    }
+  ]
+}

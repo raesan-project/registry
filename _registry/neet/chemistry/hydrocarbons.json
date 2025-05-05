@@ -1,0 +1,223 @@
+{
+  "_index": {
+    "name": "Hydrocarbons"
+  },
+  "_children": [
+    {
+      "_type": "single_mcq",
+      "body": "<p>The decreasing order of boiling points of the following alkanes is :</p>\n<p>(a) heptane</p>\n<p>(b) butane</p>\n<p>(c) 2-methylbutane</p>\n<p>(d) 2-methylpropane</p>\n<p>(e) hexane</p>\n<p>Choose the correct answer from the options given below :</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "(a) > (e) > (c) > (b) > (d)"
+        },
+        {
+          "key": "B",
+          "value": "(a) > (c) > (e) > (d) > (b)"
+        },
+        {
+          "key": "C",
+          "value": "(c) > (d) > (a) > (e) > (b)"
+        },
+        {
+          "key": "D",
+          "value": "(a) > (e) > (b) > (c) > (d)"
+        }
+      ],
+      "answer": "A",
+      "explanation": "<p>$$\\bullet$$ With increase in number of carbons in alkane, boiling point increases</p>\n<p>$$\\bullet$$ In case of isomeric alkanes, greater is the number of branches, lesser is the boiling point.</p>\n<p>Boiling point order : $$\\mathop {\\mathrm{Heptan e}}\\limits_{(a)}  > \\mathop {\\mathrm{Hexane}}\\limits_{(e)}  > \\mathop {\\mathrm{2 - methylbutane}}\\limits_{(c)}  > \\mathop {\\mathrm{butane}}\\limits_{(b)}  > \\mathop {2 - \\mathrm{methylpropane}}\\limits_{(d)} $$</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Which one is the correct order of acidity? ",
+      "options": [
+        {
+          "key": "A",
+          "value": "CH$$ \\equiv $$CH &gt; CH<sub>3</sub> $$-$$C$$ \\equiv $$CH\n<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&gt; CH<sub>2</sub> $$=$$ CH<sub>2</sub> &gt; CH<sub>3</sub>$$-$$CH<sub>3</sub>"
+        },
+        {
+          "key": "B",
+          "value": "CH $$ \\equiv $$ CH &gt; CH<sub>2</sub> $$=$$ CH<sub>2</sub>\n<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&gt; CH<sub>3</sub>$$-$$C $$ \\equiv $$ CH &gt; CH<sub>3</sub> $$-$$CH<sub>3</sub>"
+        },
+        {
+          "key": "C",
+          "value": "CH<sub>3</sub>$$-$$CH<sub>3</sub> &gt; CH<sub>2</sub> $$=$$ CH<sub>2</sub>\n<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&gt; CH<sub>3</sub> $$-$$C $$ \\equiv $$ CH &gt; CH$$ \\equiv $$CH"
+        },
+        {
+          "key": "D",
+          "value": "CH<sub>2</sub>$$=$$CH<sub>2</sub> &gt; CH<sub>3</sub> $$-$$ CH $$=$$ CH<sub>2</sub>\n<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&gt; CH<sub>3</sub> $$-$$ C$$ \\equiv $$ CH &gt; CH $$ \\equiv $$ CH"
+        }
+      ],
+      "answer": "A",
+      "explanation": "Greater the character of C-atom in hydrocarbons,\ngreater the electronegativity of that carbon and\nthus greater the acidic nature of the H attached to\nelectronegative carbon.\n<br><br>Thus CH$$ \\equiv $$CH &gt; CH<sub>3</sub> $$-$$C$$ \\equiv $$CH\n<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&gt; CH<sub>2</sub> $$=$$ CH<sub>2</sub> &gt; CH<sub>3</sub>$$-$$CH<sub>3</sub>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "With respect to the conformers of ethane, which of the following statements is true? ",
+      "options": [
+        {
+          "key": "A",
+          "value": "Bond angle changes but bond length remains same. "
+        },
+        {
+          "key": "B",
+          "value": "Both bond angle and bond length change."
+        },
+        {
+          "key": "C",
+          "value": "Both bond angle and bond length remain same. "
+        },
+        {
+          "key": "D",
+          "value": "Bond angle remains same but bond length changes. "
+        }
+      ],
+      "answer": "C",
+      "explanation": "Conformers are the isomers which are formed\nby rotation about single bonds without any cleavage\nof any bond. These conformers have same bond\nangle between them and have same bond length\nwhile their dihedral angle changes."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The compound that will react most readily with gaseous bromine has the formula",
+      "options": [
+        {
+          "key": "A",
+          "value": "C<sub>3</sub>H<sub>6</sub>"
+        },
+        {
+          "key": "B",
+          "value": "C<sub>2</sub>H<sub>2</sub>"
+        },
+        {
+          "key": "C",
+          "value": "C<sub>4</sub>H<sub>10</sub>"
+        },
+        {
+          "key": "D",
+          "value": "C<sub>2</sub>H<sub>4</sub>"
+        }
+      ],
+      "answer": "A",
+      "explanation": "Propene is most reactive towards Br<sub>2</sub> (gaseous) than CH<sub>2</sub> = CH<sub>2</sub>, HC $$ \\equiv $$ CH and butane due to most electron\ndensity."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Consider the nitration of benzene using mixed conc.H<sub>2</sub>SO<sub>4</sub> and HNO<sub>3</sub>. If a large amount of KHSO<sub>4</sub> is added to the mixture, the rate of nitration will be",
+      "options": [
+        {
+          "key": "A",
+          "value": "unchanged"
+        },
+        {
+          "key": "B",
+          "value": "doubled"
+        },
+        {
+          "key": "C",
+          "value": "faster"
+        },
+        {
+          "key": "D",
+          "value": "slower"
+        }
+      ],
+      "answer": "D",
+      "explanation": "H<sub>2</sub>SO<sub>4</sub> + HNO<sub>3</sub> $$ \\to $$ $$NO_2^ + $$ + $$HSO_4^ - $$ + $${H_3}{O^ + }$$\n<br><br>KHSO<sub>4</sub> $$ \\to $$ K<sup>+</sup> + $$HSO_4^ - $$\n<br><br>Due to common ion effect backward reaction will take place so the formation $$NO_2^ + $$\n decrease so nitration\nprocess will become slower."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Which of the following organic compounds has same hybridization as its combustion product (CO<sub>2</sub>)? ",
+      "options": [
+        {
+          "key": "A",
+          "value": "Ethane"
+        },
+        {
+          "key": "B",
+          "value": "Ethyne"
+        },
+        {
+          "key": "C",
+          "value": "Ethene"
+        },
+        {
+          "key": "D",
+          "value": "Ethanol"
+        }
+      ],
+      "answer": "B",
+      "explanation": "The combustion reaction of ethylene is\n<br><br>C<sub>2</sub>O<sub>2</sub> + $${5 \\over 2}$$O<sub>2</sub> $$ \\to $$ 2CO<sub>2</sub> + H<sub>2</sub>O\n<br><br>Both ethyne and CO<sub>2</sub> have sp-hybridisation.\n"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Which of the following compounds will not undergo Friedal-Craft's reaction easily? ",
+      "options": [
+        {
+          "key": "A",
+          "value": "Nitrobenzene "
+        },
+        {
+          "key": "B",
+          "value": "Toluene"
+        },
+        {
+          "key": "C",
+          "value": "Cumene"
+        },
+        {
+          "key": "D",
+          "value": "Xylene"
+        }
+      ],
+      "answer": "A",
+      "explanation": "Nitrobenzene is strongly deactivated, hence will not undergo Friedel-Crafts reaction."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Liquid hydrocarbons can be converted to a mixture of gaseous hydrocarbons by",
+      "options": [
+        {
+          "key": "A",
+          "value": "oxidation"
+        },
+        {
+          "key": "B",
+          "value": "cracking"
+        },
+        {
+          "key": "C",
+          "value": "distillation under reduced pressure"
+        },
+        {
+          "key": "D",
+          "value": "hydrolysis"
+        }
+      ],
+      "answer": "B",
+      "explanation": "On cracking or pyrolysis, the hydrocarbon with higher molecular mass gives a mixture of hydrocarbons having lower molecular masses. Hence, liquid hydrocarbons can be converted into a mixture of gaseous hydrocarbons. (Lower hydrocarbons exist in gaseous state while higher ones are in liquid state or solid state.) "
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Which reagent converts propene to 1-propanol ? ",
+      "options": [
+        {
+          "key": "A",
+          "value": "H<sub>2</sub>O, H<sub>2</sub>SO<sub>4</sub>"
+        },
+        {
+          "key": "B",
+          "value": "B<sub>2</sub>H<sub>6</sub>, H<sub>2</sub>O<sub>2</sub>, OH<sup>$$-$$</sup>"
+        },
+        {
+          "key": "C",
+          "value": "Hg(OAc)<sub>2</sub>, NaBH<sub>4</sub>/H<sub>2</sub>O"
+        },
+        {
+          "key": "D",
+          "value": "Aq. KOH"
+        }
+      ],
+      "answer": "B",
+      "explanation": "Propene adds to diborane (B<sub>2</sub>H<sub>6</sub>) giving an addition product. The addition compound on oxidation gives 1-propanol. Here addition of water takes place according to anti-Markownikoff’s rule."
+    }
+  ]
+}

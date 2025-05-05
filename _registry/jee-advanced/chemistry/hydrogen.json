@@ -1,0 +1,127 @@
+{
+  "_index": {
+    "name": "Hydrogen"
+  },
+  "_children": [
+    {
+      "_type": "single_mcq",
+      "body": "<p> LIST-I contains compounds and LIST-II contains reactions</p>\n<p><style type=\"text/css\">\n.tg  {border-collapse:collapse;border-spacing:0;}\n.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg .tg-7btt{border-color:inherit;font-weight:bold;text-align:center;vertical-align:top}\n.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}\n</style>\n<table class=\"tg\">\n<thead>\n  <tr>\n    <th class=\"tg-7btt\">List-I</th>\n    <th class=\"tg-7btt\"><span style=\"font-weight:bold;font-style:normal\">List-II</span></th>\n  </tr>\n</thead>\n<tbody>\n  <tr>\n    <td class=\"tg-0pky\">(I) $\\mathrm{H}_{2} \\mathrm{O}_{2}$<br></td>\n    <td class=\"tg-0pky\">(P) $\\mathrm{Mg}\\left(\\mathrm{HCO}_{3}\\right)_{2}+\\mathrm{Ca}(\\mathrm{OH})_{2} \\rightarrow$</td>\n  </tr>\n  <tr>\n    <td class=\"tg-0pky\">(II) $\\mathrm{Mg}(\\mathrm{OH})_{2}$<br></td>\n    <td class=\"tg-0pky\">(Q) $\\mathrm{BaO}_{2}+\\mathrm{H}_{2} \\mathrm{SO}_{4} \\rightarrow$</td>\n  </tr>\n  <tr>\n    <td class=\"tg-0pky\">(III) $\\mathrm{BaCl}_{2}$<br></td>\n    <td class=\"tg-0pky\">(R) $\\mathrm{Ca}(\\mathrm{OH})_{2}+\\mathrm{MgCl}_{2} \\rightarrow$</td>\n  </tr>\n  <tr>\n    <td class=\"tg-0pky\">(IV) $\\mathrm{CaCO}_{3}$<br></td>\n    <td class=\"tg-0pky\">(S) $\\mathrm{BaO}_{2}+\\mathrm{HCl} \\rightarrow$</td>\n  </tr>\n  <tr>\n    <td class=\"tg-0pky\"></td>\n    <td class=\"tg-0pky\">(T) $\\mathrm{Ca}\\left(\\mathrm{HCO}_{3}\\right)_{2}+\\mathrm{Ca}(\\mathrm{OH})_{2} \\rightarrow$</td>\n  </tr>\n</tbody>\n</table></p>\n<p>Match each compound in LIST-I with its formation reaction(s) in LIST-II, and choose the correct option</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "I $\\rightarrow$ Q; II $\\rightarrow$ P; III $\\rightarrow$ S; IV $\\rightarrow$ R"
+        },
+        {
+          "key": "B",
+          "value": "I $\\rightarrow$ T; II $\\rightarrow$ P; III $\\rightarrow$ Q; IV $\\rightarrow$ R"
+        },
+        {
+          "key": "C",
+          "value": "I $\\rightarrow$ T; II $\\rightarrow$ R; III $\\rightarrow$ Q; IV $\\rightarrow$ P"
+        },
+        {
+          "key": "D",
+          "value": "I $\\rightarrow$ Q; II $\\rightarrow$ R; III $\\rightarrow$ S; IV $\\rightarrow$ P"
+        }
+      ],
+      "answer": "D",
+      "explanation": "(P) $\\mathrm{Mg}\\left(\\mathrm{HCO}_3\\right)_2+\\mathrm{Ca}(\\mathrm{OH})_2 \\rightarrow \\mathrm{Mg}(\\mathrm{OH})_2+\\mathrm{CaCO}_3+\\mathrm{H}_2 \\mathrm{O}$\n<br/><br/>(Q) $\\mathrm{BaO}_2+\\mathrm{H}_2 \\mathrm{SO}_4 \\rightarrow \\mathrm{BaSO}_4+\\mathrm{H}_2 \\mathrm{O}_2$\n<br/><br/>(R) $\\mathrm{Ca}(\\mathrm{OH})_2+\\mathrm{MgCl}_2 \\rightarrow \\mathrm{Mg}(\\mathrm{OH})_2+\\mathrm{CaCl}_2$\n<br/><br/>(S) $\\mathrm{BaO}_2+\\mathrm{HCl} \\rightarrow \\mathrm{BaCl}_2+\\mathrm{H}_2 \\mathrm{O}_2$\n<br/><br/>(T) $\\mathrm{Ca}\\left(\\mathrm{HCO}_3\\right)_2+\\mathrm{Ca}(\\mathrm{OH})_2 \\rightarrow 2 \\mathrm{CaCO}_3+2 \\mathrm{H}_2 \\mathrm{O}$\n<br/><br/>Ans. $\\quad \\mathrm{I} \\rightarrow \\mathrm{Q}, \\mathrm{S} ; \\mathrm{II} \\rightarrow \\mathrm{P}, \\mathrm{R} ; \\mathrm{III} \\rightarrow \\mathrm{S} ; \\mathrm{IV} \\rightarrow \\mathrm{P}, \\mathrm{T}$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Which of the following liberates O<sub>2</sub> upon hydrolysis?",
+      "options": [
+        {
+          "key": "A",
+          "value": "Pb<sub>3</sub>O<sub>4</sub>"
+        },
+        {
+          "key": "B",
+          "value": "KO<sub>2</sub>"
+        },
+        {
+          "key": "C",
+          "value": "Na<sub>2</sub>O<sub>2</sub>"
+        },
+        {
+          "key": "D",
+          "value": "Li<sub>2</sub>O<sub>2</sub>"
+        }
+      ],
+      "answer": "B",
+      "explanation": "(a) $$P{b_3}{O_4} + {H_2}O\\buildrel {} \\over\n \\longrightarrow $$ No reaction Pb<sub>3</sub>O<sub>4</sub> is insoluble in water or do not react with water.<br><br>(b) $$K{O_2} + 2{H_2}O\\buildrel {} \\over\n \\longrightarrow KOH + {H_2}{O_2} + 1/2{O_2}$$<br><br>Potassium superoxide is a strong oxidant, able to convert oxides into peroxides or molecular oxygen. Hydrolysis gives oxygen gas, hydrogen peroxide and potassium hydroxide.<br><br>(c) $$N{a_2}{O_2} + 2{H_2}O\\buildrel {} \\over\n \\longrightarrow 2NaOH + {H_2}{O_2}$$<br><br>When sodium peroxide dissolves in water, it is hydrolysed and forms sodium hydroxide and hydrogen peroxide. The reaction is highly exothermic.<br><br>(d) $$L{i_2}{O_2} + 2{H_2}O\\buildrel {} \\over\n \\longrightarrow 2LiOH + {H_2}{O_2}$$<br><br>The reactivity of Li<sub>2</sub>O<sub>2</sub> toward water differs from LiO<sub>2</sub>, in Li<sub>2</sub>O<sub>2</sub> results in H<sub>2</sub>O<sub>2</sub> as a product.<br><br>Hence, the correct option is (b)."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Hydrogen peroxide in its reaction with KIO<sub>4</sub> and NH<sub>2</sub>OH respectively, is acting as a",
+      "options": [
+        {
+          "key": "A",
+          "value": "reducing agent, oxidising agent"
+        },
+        {
+          "key": "B",
+          "value": "reducing agent, reducing agent"
+        },
+        {
+          "key": "C",
+          "value": "oxidising agent, oxidising agent"
+        },
+        {
+          "key": "D",
+          "value": "oxidising agent, reducing agent"
+        }
+      ],
+      "answer": "A",
+      "explanation": "<p>In the reaction with potassium periodate (KIO<sub>4</sub>) and hydroxylamine (NH<sub>2</sub>OH), hydrogen peroxide (H<sub>2</sub>O<sub>2</sub>) exhibits different roles :</p>\n\n<p>(i) When hydrogen peroxide reacts with potassium periodate (KIO<sub>4</sub>), it forms potassium iodate (KIO<sub>3</sub>).</p>\n\n<p><b>The balanced chemical reaction is :</b></p>\n\n<p>$$ \\mathrm{H}_2 \\mathrm{O}_2 + \\underset{\\substack{\\text{Potassium}\\\\ \\text{periodate}}}{\\mathrm{KIO}_4} \\longrightarrow \\underset{\\begin{array}{c}\\text{Potassium}\\\\ \\text{iodate}\\end{array}}{\\mathrm{KIO}_3} + \\mathrm{H}_2 \\mathrm{O} + \\mathrm{O}_2 $$</p>\n\n<p>Oxidation state of oxygen in hydrogen peroxide :</p>\n\n<p>(a) In H<sub>2</sub>O<sub>2</sub> :</p>\n\n<p>$$ \\begin{aligned} & 2x + 2 = 0 \\\\\\\\ & x = -1 \\end{aligned} $$</p>\n\n<p>(b) In O<sub>2</sub> :</p>\n\n<p>$$ x = 0 $$</p>\n\n<p>The oxidation state of oxygen increases from -1 to 0, indicating that H<sub>2</sub>O<sub>2</sub> is oxidized and acts as a reducing agent for KIO<sub>4</sub>.</p>\n\n<p>(iii) When hydrogen peroxide reacts with hydroxylamine (NH<sub>2</sub>OH), it produces nitric acid (HNO<sub>3</sub>) and water (H<sub>2</sub>O).</p>\n\n<p>$$ 3 \\mathrm{H}_2 \\mathrm{O}_2 + \\mathrm{NH}_2 \\mathrm{OH} \\longrightarrow \\mathrm{HNO}_3 + 4 \\mathrm{H}_2 \\mathrm{O} $$</p>\n\n<p><b>Oxidation state of oxygen :</b></p>\n\n<p>(a) In H<sub>2</sub>O<sub>2</sub>  :</p>\n\n<p>$$ \\begin{aligned} & 2x + 2 = 0 \\\\\\\\ & x = -1 \\end{aligned} $$</p>\n\n<p>(b) In H<sub>2</sub>O :</p>\n\n<p>$$ 2 + x = 0 $$</p>\n\n<p>$$ x = -2 $$</p>\n\n<p>The oxidation state of oxygen decreases from -1 to -2, meaning H<sub>2</sub>O<sub>2</sub> is reduced and acts as an oxidizing agent for NH<sub>2</sub>OH.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Hydrogen gas will not reduce",
+      "options": [
+        {
+          "key": "A",
+          "value": "heated cupric oxide"
+        },
+        {
+          "key": "B",
+          "value": "heated ferric oxide"
+        },
+        {
+          "key": "C",
+          "value": "heated stannic oxide"
+        },
+        {
+          "key": "D",
+          "value": "heated aluminium oxide"
+        }
+      ],
+      "answer": "D",
+      "explanation": "<p>Reduction is a chemical process by which a substance gains electrons. Hydrogen gas is commonly used as a reducing agent because it can easily donate electrons to other substances. However, the ability of hydrogen to reduce an oxide depends on the reactivity of the metal in the oxide. </p>\n\n<p>Let's consider each option:</p>\n\n<p><strong>Option A: Heated Cupric Oxide (CuO)</strong></p>\n\n<p>Copper(II) oxide can be reduced by hydrogen gas to form metallic copper and water. The reaction is as follows:</p>\n\n<p>$$\\text{CuO} + \\text{H}_2 \\rightarrow \\text{Cu} + \\text{H}_2\\text{O}$$</p>\n\n<p><strong>Option B: Heated Ferric Oxide (Fe_2O_3)</strong></p>\n\n<p>Ferric oxide can also be reduced by hydrogen gas to form metallic iron and water. The reaction is as follows:</p>\n\n<p>$$\\text{Fe}_2\\text{O}_3 + 3\\text{H}_2 \\rightarrow 2\\text{Fe} + 3\\text{H}_2\\text{O}$$</p>\n\n<p><strong>Option C: Heated Stannic Oxide (SnO_2)</strong></p>\n\n<p>Stannic oxide can be reduced by hydrogen gas to form metallic tin and water. The reaction is as follows:</p>\n\n<p>$$\\text{SnO}_2 + 2\\text{H}_2 \\rightarrow \\text{Sn} + 2\\text{H}_2\\text{O}$$</p>\n\n<p><strong>Option D: Heated Aluminium Oxide (Al_2O_3)</strong></p>\n\n<p>Aluminium oxide cannot be reduced by hydrogen gas. Aluminium has a very high affinity for oxygen, making the reduction of aluminium oxide (Al_2O_3) with hydrogen gas not feasible under normal conditions. This is because aluminium is much more reactive and forms a very stable oxide.</p>\n\n<p>Therefore, the correct answer is <strong>Option D: heated aluminium oxide</strong>.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Heavy water is",
+      "options": [
+        {
+          "key": "A",
+          "value": "H<sub>2</sub><sup>18</sup>O"
+        },
+        {
+          "key": "B",
+          "value": "water obtained by repeated distillation"
+        },
+        {
+          "key": "C",
+          "value": "D<sub>2</sub>O"
+        },
+        {
+          "key": "D",
+          "value": "water at 4<sup>o</sup>C"
+        }
+      ],
+      "answer": "C",
+      "explanation": ""
+    }
+  ]
+}

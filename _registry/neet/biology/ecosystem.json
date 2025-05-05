@@ -1,0 +1,1759 @@
+{
+  "_index": {
+    "name": "Ecosystem"
+  },
+  "_children": [
+    {
+      "_type": "single_mcq",
+      "body": "<p>Which one of the following is not a limitation of ecological pyramids?</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "Saprophytes are not given any place in ecological pyramids\n"
+        },
+        {
+          "key": "B",
+          "value": "It assumes a simple food chain, that almost never exists in nature\n"
+        },
+        {
+          "key": "C",
+          "value": "It accommodates a food web\n"
+        },
+        {
+          "key": "D",
+          "value": "It does not take into account the same species belonging to two or more trophic levels"
+        }
+      ],
+      "answer": "C",
+      "explanation": "<p>The correct answer is <strong>Option C: It accommodates a food web</strong>. Here's why:</p>\n\n<p>Ecological pyramids are a visual representation of the trophic levels in an ecosystem, depicting the flow of energy and biomass. However, they have limitations in accurately representing the complexities of real-world ecosystems.</p>\n\n<p>Let's analyze each option:</p>\n\n<p><strong>Option A: Saprophytes are not given any place in ecological pyramids</strong></p>\n\n<p>This is a <strong>valid limitation</strong>. Saprophytes, organisms that decompose dead organic matter, play a crucial role in nutrient cycling but are often not included in traditional ecological pyramids.</p>\n\n<p><strong>Option B: It assumes a simple food chain, that almost never exists in nature</strong></p>\n\n<p>This is another <strong>valid limitation</strong>. Most ecosystems have intricate food webs, with organisms feeding on multiple trophic levels.  Ecological pyramids struggle to capture these complex interrelationships.</p>\n\n<p><strong>Option C: It accommodates a food web</strong></p>\n\n<p>This is <strong>incorrect</strong>. Ecological pyramids are fundamentally based on simple food chains,  not food webs.  The complex interactions of a food web, where organisms occupy multiple trophic levels simultaneously, are difficult to represent using a pyramid.</p>\n\n<p><strong>Option D: It does not take into account the same species belonging to two or more trophic levels</strong></p>\n\n<p>This is another <strong>valid limitation</strong>. For example, a species like an omnivore might consume both producers and herbivores, making it difficult to categorize them in a single trophic level. </p>\n\n<p><strong>In summary</strong>, ecological pyramids are useful tools for visualizing energy flow and biomass distribution within an ecosystem. However, they are simplified models that cannot fully capture the complexity of real-world food webs and ecological relationships.</p>\n\n<p></p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>In an ecosystem if the Net Primary Productivity (NPP) of first trophic level is $$100 x\\left(\\mathrm{kcal} \\mathrm{~m}^{-2}\\right) \\mathrm{yr}^{-1}$$, what would be the GPP (Gross Primary Productivity) of the third trophic level of the same ecosystem?</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$\\frac{x}{10}\\left(\\mathrm{kcal} \\mathrm{~m}^{-2}\\right) \\mathrm{yr}^{-1}$$\n"
+        },
+        {
+          "key": "B",
+          "value": "$$x\\left(\\mathrm{kcal} \\mathrm{~m}^{-2}\\right) \\mathrm{yr}^{-1}$$\n"
+        },
+        {
+          "key": "C",
+          "value": "$$10 x\\left(\\mathrm{kcal} \\mathrm{~m}^{-2}\\right) \\mathrm{yr}^{-1}$$\n"
+        },
+        {
+          "key": "D",
+          "value": "$$\\frac{100 x}{3 x}\\left(\\mathrm{kcal} \\mathrm{~m}^{-2}\\right) \\mathrm{yr}^{-1}$$"
+        }
+      ],
+      "answer": "C",
+      "explanation": "<p>NPP at first trophic level would be the GPP for second trophic level. NPP at second trophic level would be GPP for third trophic level. Therefore, $$100 x\\left(\\mathrm{kcal} / \\mathrm{~m}^2 / \\mathrm{yr}\\right)$$ would be GPP at second trophic level and $$100 x \\times 10 \\%\\left(\\mathrm{kcal} / \\mathrm{~m}^2 / \\mathrm{yr}\\right)$$ i.e., $$10 x\\left(\\mathrm{kcal} / \\mathrm{m}^2 / \\mathrm{yr}\\right)$$ energy would be GPP at third trophic level.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Match List - I with List - II</p>\n<p><style type=\"text/css\">\n.tg  {border-collapse:collapse;border-spacing:0;}\n.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}\n.tg .tg-7btt{border-color:inherit;font-weight:bold;text-align:center;vertical-align:top}\n.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}\n</style>\n<table class=\"tg\" style=\"undefined;table-layout: fixed; width: 457px\">\n<colgroup>\n<col style=\"width: 48px\">\n<col style=\"width: 170px\">\n<col style=\"width: 55px\">\n<col style=\"width: 184px\">\n</colgroup>\n<thead>\n  <tr>\n    <th class=\"tg-7btt\"></th>\n    <th class=\"tg-7btt\">List - I</th>\n    <th class=\"tg-7btt\"></th>\n    <th class=\"tg-7btt\">List - II</th>\n  </tr>\n</thead>\n<tbody>\n  <tr>\n    <td class=\"tg-c3ow\">(A)</td>\n    <td class=\"tg-0pky\">Hydrarch succession</td>\n    <td class=\"tg-c3ow\">(I)</td>\n    <td class=\"tg-0pky\">Gradual change in the species composition</td>\n  </tr>\n  <tr>\n    <td class=\"tg-c3ow\">(B)</td>\n    <td class=\"tg-0pky\">Xerarch succession</td>\n    <td class=\"tg-c3ow\">(II)</td>\n    <td class=\"tg-0pky\">Faster and climax reached quickly</td>\n  </tr>\n  <tr>\n    <td class=\"tg-c3ow\">(C)</td>\n    <td class=\"tg-0pky\">Ecological succession</td>\n    <td class=\"tg-c3ow\">(III)</td>\n    <td class=\"tg-0pky\">Lichens to mesic conditions</td>\n  </tr>\n  <tr>\n    <td class=\"tg-c3ow\">(D)</td>\n    <td class=\"tg-0pky\">Secondary succession</td>\n    <td class=\"tg-c3ow\">(IV)</td>\n    <td class=\"tg-0pky\">Phytoplankton to mesic conditions</td>\n  </tr>\n</tbody>\n</table></p>\n<p>Choose the correct answer from the options given below :</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "(A)-(IV), (B)-(II), (C)-(III), (D)-(I)"
+        },
+        {
+          "key": "B",
+          "value": "(A)-(III), (B)-(I), (C)-(IV), (D)-(II)"
+        },
+        {
+          "key": "C",
+          "value": "(A)-(I), (B)-(IV), (C)-(II), (D)-(III)"
+        },
+        {
+          "key": "D",
+          "value": "(A)-(IV), (B)-(III), (C)-(I), (D)-(II)"
+        }
+      ],
+      "answer": "D",
+      "explanation": "<p>The correct answer is :</p>\n<p>Option D : (A)-(IV), (B)-(III), (C)-(I), (D)-(II)</p>\n<p>Explanation :\n<br/><br/>(A) Hydrarch succession - (IV) Phytoplankton to mesic conditions. Hydrarch succession occurs in wet or aquatic areas, starting from an aquatic stage like phytoplankton and gradually moving towards mesic conditions, where the environment is neither too wet nor too dry.</p>\n<p>(B) Xerarch succession - (III) Lichens to mesic conditions. Xerarch succession occurs in dry areas, such as deserts or rocks, and typically begins with organisms like lichens, gradually moving towards mesic conditions.</p>\n<p>(C) Ecological succession - (I) Gradual change in the species composition. Ecological succession is the process by which the structure of a biological community evolves over time, involving a gradual change in species composition.</p>\n<p>(D) Secondary succession - (II) Faster and climax reached quickly. Secondary succession refers to the series of community changes that occur on a preexisting, disrupted habitat and is typically faster than primary succession with the climax being reached more quickly because it begins on soil and not bare rock.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>The amount of nutrients such as carbon, nitrogen, potassium and calcium present in the soil at any given time is referred to as :</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "Standing state"
+        },
+        {
+          "key": "B",
+          "value": "Standing crop"
+        },
+        {
+          "key": "C",
+          "value": "Humus"
+        },
+        {
+          "key": "D",
+          "value": "Detritus"
+        }
+      ],
+      "answer": "A",
+      "explanation": "<p>Option A : Standing state</p>\n<p>Explanation : &quot;Standing state&quot; is a term used in ecology to denote the amount of nutrients such as carbon, nitrogen, potassium, calcium, etc., present in the soil at any given time. It provides an estimate of the availability of these nutrients in the ecosystem. </p>\n<p>On the other hand, &quot;Standing crop&quot; is a term used to describe the total biomass (the mass of living biological organisms) of an organism in a particular area or volume at a specific time. </p>\n<p>&quot;Humus&quot; refers to the organic component of soil, formed by the decomposition of leaves and other plant material by soil microorganisms.</p>\n<p>&quot;Detritus&quot; is dead particulate organic material. It typically includes the bodies or fragments of dead organisms, as well as fecal material. Detritus is typically colonized by communities of microorganisms which act to decompose it.</p>\n"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>The species of plants that plays a vital role in controlling the relative abundance of other species in a community is called _________.</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "alien species"
+        },
+        {
+          "key": "B",
+          "value": "endemic species"
+        },
+        {
+          "key": "C",
+          "value": "exotic species"
+        },
+        {
+          "key": "D",
+          "value": "keystone species"
+        }
+      ],
+      "answer": "D",
+      "explanation": "<p>The correct answer is :</p>\n<p>Option D : Keystone species</p>\n<p>A keystone species plays a crucial role in maintaining the structure of an ecological community, affecting many other organisms in an ecosystem and helping to determine the types and numbers of various other species in the community. The absence of a keystone species can lead to a significant shift in the ecosystem and a loss of biodiversity.</p>\n<p>Exotic\nspecies or Alien species are organisms that have been introduced into an area outside their normal\ndistribution.</p>\n\n<p>Endemic species are species that are native to, and only found in, a specific geographical area. This could be an island, a country, or even a particular habitat type. Endemic species often have unique adaptations to their specific environment and may be particularly vulnerable to changes in that environment, including the introduction of exotic species. </p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Identify the correct statements :</p>\n<p>A. Detrivores perform fragmentation.</p>\n<p>B. The humus is further degraded by some microbes during mineralization.</p>\n<p>C. Water soluble inorganic nutrients go down into the soil and get precipitated by a process called \nleaching.</p>\n<p>D. The detritus food chain begins with living organisms.</p>\n<p>E. Earthworms break down detritus into smaller particles by a process called catabolism.</p>\n<p>Choose the correct answer from the options given below :</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "B, C, D only"
+        },
+        {
+          "key": "B",
+          "value": "C, D, E only"
+        },
+        {
+          "key": "C",
+          "value": "D, E, A only"
+        },
+        {
+          "key": "D",
+          "value": "A, B, C only"
+        }
+      ],
+      "answer": "D",
+      "explanation": "<p>Let&#39;s evaluate each statement:</p>\n<p>A. Detrivores perform fragmentation.</p>\n<ul>\n<li>This statement is true. Detrivores, such as earthworms and beetles, break down detritus (dead organic material) into smaller pieces in a process called fragmentation.</li>\n</ul>\n<p>B. The humus is further degraded by some microbes during mineralization.</p>\n<ul>\n<li>This statement is true. Microbes, including bacteria and fungi, break down humus into inorganic nutrients in a process called mineralization.</li>\n</ul>\n<p>C. Water-soluble inorganic nutrients go down into the soil and get precipitated by a process called leaching.</p>\n<ul>\n<li>This statement is true. Leaching refers to the process where nutrients are washed away from the soil into lower layers or into bodies of water.</li>\n</ul>\n<p>D. The detritus food chain begins with living organisms.</p>\n<ul>\n<li>This statement is false. The detritus food chain begins with dead organic material or detritus, not living organisms.</li>\n</ul>\n<p>E. Earthworms break down detritus into smaller particles by a process called catabolism.</p>\n<ul>\n<li>This statement is false. The process by which earthworms break down detritus into smaller particles is called fragmentation, not catabolism. Catabolism refers to the breakdown of complex molecules in living organisms to form simpler ones, along with the release of energy.</li>\n</ul>\n<p>Therefore, the correct answer is :</p>\n<p>Option D : A, B, C only.</p>\n"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>In the equation GPP $$-$$ R = NPP</p>\n<p>GPP is Gross Primary Productivity</p>\n<p>NPP is Net Primary Productivity</p>\n<p>R here is __________.</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "Respiratory quotient"
+        },
+        {
+          "key": "B",
+          "value": "Respiratory loss"
+        },
+        {
+          "key": "C",
+          "value": "Reproductive allocation"
+        },
+        {
+          "key": "D",
+          "value": "Photosynthetically active radiation"
+        }
+      ],
+      "answer": "B",
+      "explanation": "<p>In the equation GPP - R = NPP,</p>\n<p>GPP stands for Gross Primary Productivity, NPP stands for Net Primary Productivity, and R represents the energy used by plants for their own metabolic processes, which is also known as Respiratory loss.</p>\n"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Which one of the following statements is NOT correct?</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "Algal blooms caused by excess of organic matter in water improve water quality and promote fisheries"
+        },
+        {
+          "key": "B",
+          "value": "Water hyacinth grows abundantly in eutrophic water bodies and leads to an imbalance in the ecosystem \ndynamics of the water body"
+        },
+        {
+          "key": "C",
+          "value": "The amount of some toxic substances of industrial waste water increases in the organisms at \nsuccessive trophic levels"
+        },
+        {
+          "key": "D",
+          "value": "The micro-organisms involved in biodegradation of organic matter in a sewage polluted water body \nconsume a lot of oxygen causing the death of aquatic organisms"
+        }
+      ],
+      "answer": "A",
+      "explanation": "<p>Algal bloom imparts a distinct colour to the water bodies. It causes deterioration of the water quantity \nand fish mortality.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Match List I with List II:</p>\n<p><style type=\"text/css\">\n.tg  {border-collapse:collapse;border-spacing:0;}\n.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}\n.tg .tg-7btt{border-color:inherit;font-weight:bold;text-align:center;vertical-align:top}\n.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}\n</style>\n<table class=\"tg\" style=\"undefined;table-layout: fixed; width: 447px\">\n<colgroup>\n<col style=\"width: 49px\">\n<col style=\"width: 154px\">\n<col style=\"width: 54px\">\n<col style=\"width: 190px\">\n</colgroup>\n<thead>\n  <tr>\n    <th class=\"tg-7btt\"></th>\n    <th class=\"tg-7btt\">List I<br>(Interaction)</th>\n    <th class=\"tg-7btt\"></th>\n    <th class=\"tg-7btt\">List II<br>(Species A and B)</th>\n  </tr>\n</thead>\n<tbody>\n  <tr>\n    <td class=\"tg-c3ow\">(A)</td>\n    <td class=\"tg-0pky\">Mutualism</td>\n    <td class=\"tg-c3ow\">(I)</td>\n    <td class=\"tg-0pky\">+(A), 0(B)</td>\n  </tr>\n  <tr>\n    <td class=\"tg-c3ow\">(B)</td>\n    <td class=\"tg-0pky\">Commensalism</td>\n    <td class=\"tg-c3ow\">(II)</td>\n    <td class=\"tg-0pky\">$$-$$(A), 0(B)</td>\n  </tr>\n  <tr>\n    <td class=\"tg-c3ow\">(C)</td>\n    <td class=\"tg-0pky\">Amensalism</td>\n    <td class=\"tg-c3ow\">(III)</td>\n    <td class=\"tg-0pky\">+(A), $$-$$(B)</td>\n  </tr>\n  <tr>\n    <td class=\"tg-c3ow\">(D)</td>\n    <td class=\"tg-0pky\">Parasitism</td>\n    <td class=\"tg-c3ow\">(IV)</td>\n    <td class=\"tg-0pky\">+(A), +(B)</td>\n  </tr>\n</tbody>\n</table></p>\n<p>Choose the correct answer from the options given below:</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "A-IV, B-I, C-II, D-III"
+        },
+        {
+          "key": "B",
+          "value": "A-IV, B-III, C-I, D-II"
+        },
+        {
+          "key": "C",
+          "value": "A-III, B-I, C-IV, D-II"
+        },
+        {
+          "key": "D",
+          "value": "A-IV, B-II, C-I, D-III"
+        }
+      ],
+      "answer": "A",
+      "explanation": "<p>(+, +) Mutualism : In this interaction, both the interacting species are benefitted.</p>\n<p>(+, 0) Commensalism : Only one species is benefitted and the other species remains unharmed.</p>\n<p>($$-$$, 0) Amensalism : Neither species is benefitted. One remains unharmed and the other is harmed.</p>\n<p>(+, $$-$$) Parasitism : One species is benefitted and other is negatively effected.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>All successions irrespective of the habitat proceed to which type of climax community?</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "Edaphic"
+        },
+        {
+          "key": "B",
+          "value": "Xeric"
+        },
+        {
+          "key": "C",
+          "value": "Mesic"
+        },
+        {
+          "key": "D",
+          "value": "Hydrophytic"
+        }
+      ],
+      "answer": "C",
+      "explanation": "<p>Both hydrarch and xerarch succession lead to medium water condition called mesic condition. This condition is neither too dry nor too wet.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>The pioneer species in a hydrarch succession are</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "Filamentous algae"
+        },
+        {
+          "key": "B",
+          "value": "Free-floating angiosperms"
+        },
+        {
+          "key": "C",
+          "value": "Submerged rooted plants"
+        },
+        {
+          "key": "D",
+          "value": "Phytoplanktons"
+        }
+      ],
+      "answer": "D",
+      "explanation": "<p>In primary succession in water, the pioneers are the small phytoplanktons, which are replaced with time by rooted-submerged plants, rooted floating angiosperms followed by free-floating plants, then reed-swamp, marsh-meadow, scrub and finally trees.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>The species that come to appear in bare area are called</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "Species of seral community"
+        },
+        {
+          "key": "B",
+          "value": "Pioneer species"
+        },
+        {
+          "key": "C",
+          "value": "Invasive species"
+        },
+        {
+          "key": "D",
+          "value": "Competitive species"
+        }
+      ],
+      "answer": "B",
+      "explanation": "<p>The species that invade a bare area are called pioneer species.</p>\n<p>The individual transitional communities in an ecological succession are termed as seral stages or seral \ncommunities.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>The amount of biomass or organic matter produced per unit area over a time period by plants during photosynthesis is called</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "Net primary production"
+        },
+        {
+          "key": "B",
+          "value": "Secondary production"
+        },
+        {
+          "key": "C",
+          "value": "Primary production"
+        },
+        {
+          "key": "D",
+          "value": "Gross primary production"
+        }
+      ],
+      "answer": "C",
+      "explanation": "Productivity is the total amount of\nbiomass or organic matter produced per unit area.\nOver a period of time by plants. This is also called\nPrimary production.\n<br/><br/>Productivity of consumer is called Secondary\nproduction."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Two butterfly species are competing for the same nectar of a flower in a garden. To survive and coexist together, they may avoid competition in the same garden by :</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "Predating on each other"
+        },
+        {
+          "key": "B",
+          "value": "Feeding at the same time"
+        },
+        {
+          "key": "C",
+          "value": "Choosing different foraging patterns"
+        },
+        {
+          "key": "D",
+          "value": "Increasing time spent on attacking each other"
+        }
+      ],
+      "answer": "C",
+      "explanation": "<p>Two individuals that are competing for same resource can avoid competition by choosing different times for feeding or different foraging patterns.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Given below are two statements:</p>\n<p>Statement I : Decomposition is a process in which the detritus is degraded into simpler substances by microbes.</p>\n<p>Statement II : Decomposition is faster if the detritus is rich in lignin and chitin.</p>\n<p>In the light of the above statements, choose the correct answer from the options given below :</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "Both Statement I and Statement II are correct"
+        },
+        {
+          "key": "B",
+          "value": "Both Statement I and Statement II are incorrect"
+        },
+        {
+          "key": "C",
+          "value": "Statement I is correct but Statement II is incorrect"
+        },
+        {
+          "key": "D",
+          "value": "Statement I is incorrect but Statement II is correct"
+        }
+      ],
+      "answer": "C",
+      "explanation": "<p>Decomposition is the process by which decomposers breakdown complex organic matter into inorganic substances.</p>\n<p>The rate of decomposition is controlled by chemical composition of detritus and climatic factors. Decomposition is slower if detritus is rich in lignin and chitin and quicker, if detritus is rich in nitrogen and water soluble substances like sugars.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Which one of the following will accelerate phosphorus cycle?</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "Burning of fossil fuels"
+        },
+        {
+          "key": "B",
+          "value": "Volcanic activity"
+        },
+        {
+          "key": "C",
+          "value": "Weathering of rocks"
+        },
+        {
+          "key": "D",
+          "value": "Rain fall and storms"
+        }
+      ],
+      "answer": "C",
+      "explanation": "<p>Phosphorus cycle is a sedimentary cycle. Reservoir pool of phosphorus in ecosystem is the earth's crust or lithosphere. Weathering of rocks accelerate phosphorus cycle.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Detritivores breakdown detritus into smaller particles. This  process is called :</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "Catabolism"
+        },
+        {
+          "key": "B",
+          "value": "Fragmentation"
+        },
+        {
+          "key": "C",
+          "value": "Humification"
+        },
+        {
+          "key": "D",
+          "value": "Decomposition"
+        }
+      ],
+      "answer": "B",
+      "explanation": "<p>(Detritivores break down detritus into smaller particles) e.g. earthworm. This process is called fragmentation.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The amount of nutrients, such as carbon, nitrogen, phosphorus and calcium present in the soil at any given time, is referred as :",
+      "options": [
+        {
+          "key": "A",
+          "value": "Standing crop"
+        },
+        {
+          "key": "B",
+          "value": "Climax"
+        },
+        {
+          "key": "C",
+          "value": "Climax community"
+        },
+        {
+          "key": "D",
+          "value": "Standing state"
+        }
+      ],
+      "answer": "D",
+      "explanation": "$$\\bullet$$ Amount of all the inorganic substances or nutrients, such as carbon, nitrogen, phosphorus and calcium present in soil at any given time, is referred as standing state.<br><br>$$\\bullet$$ Amount of living material present in different trophic levels at a given time, is referred s standing crop.<br><br>$$\\bullet$$ Climax community is the last community in biotic succession which is relatively stable and is in near equilibrium with the environment of that area."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Which of the following statements is not correct?",
+      "options": [
+        {
+          "key": "A",
+          "value": "Pyramid of numbers in a grassland ecosystem is upright"
+        },
+        {
+          "key": "B",
+          "value": "Pyramid of biomass in sea is generally inverted."
+        },
+        {
+          "key": "C",
+          "value": "Pyramid of biomass in sea is generally upright."
+        },
+        {
+          "key": "D",
+          "value": "Pyramid of energy is always upright."
+        }
+      ],
+      "answer": "C",
+      "explanation": "Pyramid of biomass in a sea is generally inverted because the primary producers (phytoplanktons) have a lower biomass than that of succeeding zooplanktons, which further have a lower biomass than that of succeeding small fishes and so on.\n\n<br/><br/>Pyramid of energy is the only pyramid that can never be inverted and is always upright. This is because some amount of energy in the form of heat is always lost to the environment at every trophic level of the food chain.\n\n<br/><br/>In a grassland ecosystem, the number of producers is always maximum, followed by reducing number of organisms at second trophic level, third trophic level and other higher level (if present). Thus, the pyramid of number in grassland is upright."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "In the equation GPP - R = NPP<br><br>R represents :",
+      "options": [
+        {
+          "key": "A",
+          "value": "Respiration losses"
+        },
+        {
+          "key": "B",
+          "value": "Radiant energy"
+        },
+        {
+          "key": "C",
+          "value": "Retardation factor"
+        },
+        {
+          "key": "D",
+          "value": "Environmental factor"
+        }
+      ],
+      "answer": "A",
+      "explanation": "In the equation,<br><br>GPP - R = NPP<br><br>R refers to respiratory loss<br><br>GPP is gross primary productivity <br><br>NPP is net primary productivity"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "In relation to Gross primary productivity and\nNet primary productivity of an ecosystem,\nwhich one of the following statements is\ncorrect?",
+      "options": [
+        {
+          "key": "A",
+          "value": "There is no relationship between Gross\nprimary productivity and Net primary\nproductivity"
+        },
+        {
+          "key": "B",
+          "value": "Gross primary productivity is always\nmore than net primary productivity"
+        },
+        {
+          "key": "C",
+          "value": "Gross primary productivity is always less\nthan net primary productivity"
+        },
+        {
+          "key": "D",
+          "value": "Gross primary productivity and Net\nprimary productivity are one and same"
+        }
+      ],
+      "answer": "B",
+      "explanation": "Gross primary productivity of an\necosystem is the rate of production of organic\nmatter during photosynthesis. Net primary\nproductivity is GPP-respiration. Hence, gross\nprimary productivity is always more than NPP."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Match the trophic levels with their correct species\nexamples in grassland ecosystem.<br><br>\n(A) Fourth trophic level&nbsp;&nbsp;&nbsp;(i) Crow<br>\n(B) Second trophic level&nbsp; (ii) Vulture<br>\n(C) First trophic level&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (iii) Rabbit<br>\n(D) Third trophic level&nbsp;&nbsp;&nbsp; (iv) Grass<br><br>\nSelect the correct option",
+      "options": [
+        {
+          "key": "A",
+          "value": "(A) $$ \\to $$ (iv), (B) $$ \\to $$ (iii), (C) $$ \\to $$ (ii), (D) $$ \\to $$ (i)"
+        },
+        {
+          "key": "B",
+          "value": "(A) $$ \\to $$ (ii), (B) $$ \\to $$ (iii), (C) $$ \\to $$ (iv), (D) $$ \\to $$ (i)"
+        },
+        {
+          "key": "C",
+          "value": "(A) $$ \\to $$ (i), (B) $$ \\to $$ (ii), (C) $$ \\to $$ (iii), (D) $$ \\to $$ (iv)"
+        },
+        {
+          "key": "D",
+          "value": "(A) $$ \\to $$ (iii), (B) $$ \\to $$ (ii), (C) $$ \\to $$ (i), (D) $$ \\to $$ (iv)"
+        }
+      ],
+      "answer": "B",
+      "explanation": "Grassland ecosystem is a terrestrial\necosystem. It includes various trophic levels.\nFirst trophic level (T<sub>1</sub>) – Grass Second trophic\nlevel (T<sub>2</sub>) – Rabbit Third trophic level (T<sub>3</sub>) –\nCrow Fourth trophic level (T<sub>4</sub>) – Vulture. "
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Which of the following ecological pyramids is generally inverted?",
+      "options": [
+        {
+          "key": "A",
+          "value": "Pyramid of biomass in a forest"
+        },
+        {
+          "key": "B",
+          "value": "Pyramid of biomass in a sea"
+        },
+        {
+          "key": "C",
+          "value": "Pyramid of numbers in grassland"
+        },
+        {
+          "key": "D",
+          "value": "Pyramid of energy"
+        }
+      ],
+      "answer": "B",
+      "explanation": "Pyramid of biomass in a sea. It is always inverted."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Which of the following is the most important cause for animals and plants being driven to extinction?",
+      "options": [
+        {
+          "key": "A",
+          "value": "Economic exploitation"
+        },
+        {
+          "key": "B",
+          "value": "Alien species invasion"
+        },
+        {
+          "key": "C",
+          "value": "Habitat loss and fragmentation"
+        },
+        {
+          "key": "D",
+          "value": "Drought and floods"
+        }
+      ],
+      "answer": "C",
+      "explanation": "Habitat loss and fragmentation is the major cause\nof biodiversity loss and extinction of plants and\nanimals. Habitat of various organisms are altered\nor destroyed by uncontrolled and unsustainable\nhuman activities such as deforestation, slash,\nand burn agricultural, mining and urbanisation.\nThis results in the breaking up of the habitat\ninto small pieces, which effects the movement\nof migratory animals and also, decreases the\ngenetic exchange between populations leading\nto a declination of species."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "What type of ecological pyramid would be\nobtained with the following data?\n<br>Secondary consumer : 120 g\n<br>Primary consumer : 60 g\n<br>Primary producer : 10 g",
+      "options": [
+        {
+          "key": "A",
+          "value": "Inverted pyramid of biomass"
+        },
+        {
+          "key": "B",
+          "value": "Pyramid of energy"
+        },
+        {
+          "key": "C",
+          "value": "Upright pyramid of numbers"
+        },
+        {
+          "key": "D",
+          "value": "Upright pyramid of biomass"
+        }
+      ],
+      "answer": "A",
+      "explanation": "The given data depicts the inverted\npyramid of biomass, usually present in\naquatic ecosystem. Upright pyramid of\nbiomass and numbers are not possible, as\nthe data depicts primary producer is less\nthan primary consumer and this is less than\nsecondary consumers. Pyramid of energy\nis always upright."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Which ecosystem has the maximum biomass ?",
+      "options": [
+        {
+          "key": "A",
+          "value": "Pond ecosystem"
+        },
+        {
+          "key": "B",
+          "value": "Lake ecosystem"
+        },
+        {
+          "key": "C",
+          "value": "Grassland ecosystem"
+        },
+        {
+          "key": "D",
+          "value": "Forest ecosystem"
+        }
+      ],
+      "answer": "D",
+      "explanation": "Forest ecosystem has the maximum\nbiomass.<br>\n Some very high productive ecosystem\nare<br>\n – Tropical rain forest<br>\n – Coral reef<br>\n – Estuaries<br>\n – Sugarcane fields"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The primary producers of the deep-sea hydrothermal vent ecosystem are",
+      "options": [
+        {
+          "key": "A",
+          "value": "chemosynthetic bacteria"
+        },
+        {
+          "key": "B",
+          "value": "coral reefs"
+        },
+        {
+          "key": "C",
+          "value": "green algae "
+        },
+        {
+          "key": "D",
+          "value": "blue-green algae"
+        }
+      ],
+      "answer": "A",
+      "explanation": "Hydrothermal vents are cracks in the\nocean floor that emit jets of hot water loaded with\nminerals and chemosynthetic bacteria. These\nbacteria are autotrophs that oxidise hydrogen\nsulphide in vent water to obtain energy which is\nused to produce organic material. These\nchemosynthetic bacteria are the primary producers\nand form the base of vent food webs. All vent\nanimals ultimately depend on bacteria for food."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The term ecosystem was coined by :",
+      "options": [
+        {
+          "key": "A",
+          "value": "E.P. Odum"
+        },
+        {
+          "key": "B",
+          "value": "E. Haeckel"
+        },
+        {
+          "key": "C",
+          "value": "E. Warming"
+        },
+        {
+          "key": "D",
+          "value": "A.G. Tansley "
+        }
+      ],
+      "answer": "D",
+      "explanation": "Sir Arthur George Tansley was an\nEnglish botanist and a pioneer in the science\nof ecology who coined the term ecosystem."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Which of the following would appear as the pioneer organisms on bare rocks? ",
+      "options": [
+        {
+          "key": "A",
+          "value": "Lichens"
+        },
+        {
+          "key": "B",
+          "value": "Green algae"
+        },
+        {
+          "key": "C",
+          "value": "Liverworts"
+        },
+        {
+          "key": "D",
+          "value": "Mosses"
+        }
+      ],
+      "answer": "A",
+      "explanation": "Lichens produce small amounts of\ncarbonic acids from their “roots” and\nthese slowly dissolve the rock, releasing\nnutrients. Other nutrients are obtained from\nwater-borne or air-borne particles of both\norganic and inorganic materials. The body\nof a lichen contains an alga; this is able to\nphotosynthesise sugars, some of which are\npassed on to the fungal component of the\nlichen. In return the alga gets a tiny but\nsignificant amount of shelter within the\ntissues of the lichen."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Which one of the following is a characteristic feature of cropland ecosystem ? ",
+      "options": [
+        {
+          "key": "A",
+          "value": "Absence of weeds"
+        },
+        {
+          "key": "B",
+          "value": "Absence of soil organisms "
+        },
+        {
+          "key": "C",
+          "value": "Ecological succession"
+        },
+        {
+          "key": "D",
+          "value": "Least genetic diversity"
+        }
+      ],
+      "answer": "D",
+      "explanation": "Cropland ecosystem is an artificial or manmade terrestrial ecosystem which is created and\nmaintained by human beings for their maximum\nbenefits. Therefore, they will have least genetic\ndiversity.\n"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "In which of the following both pairs have\ncorrect combination? ",
+      "options": [
+        {
+          "key": "A",
+          "value": "<table class=\"tg\">\n  <tbody><tr>\n    <th class=\"tg-cly1\">Gaseous nutrient<br>cycle</th>\n    <th class=\"tg-cly1\">Carbon and Sulphur</th>\n  </tr>\n  <tr>\n    <td class=\"tg-cly1\">Sedimentary nutrient<br>cycle</td>\n    <td class=\"tg-cly1\">Nitrogen and<br>Phosphorus</td>\n  </tr>\n</tbody></table>"
+        },
+        {
+          "key": "B",
+          "value": "<table class=\"tg\">\n  <tbody><tr>\n    <th class=\"tg-cly1\">Gaseous nutrient<br>cycle</th>\n    <th class=\"tg-cly1\">Sulphur and<br>Phosphorus</th>\n  </tr>\n  <tr>\n    <td class=\"tg-cly1\">Sedimentary nutrient<br>cycle</td>\n    <td class=\"tg-cly1\">Carbon and Nitrogen</td>\n  </tr>\n</tbody></table>"
+        },
+        {
+          "key": "C",
+          "value": "<table class=\"tg\">\n  <tbody><tr>\n    <th class=\"tg-cly1\">Gaseous nutrient<br>cycle</th>\n    <th class=\"tg-cly1\">Nitrogen and Sulphur</th>\n  </tr>\n  <tr>\n    <td class=\"tg-cly1\">Sedimentary nutrient<br>cycle</td>\n    <td class=\"tg-cly1\">Carbon and<br>Phosphorus</td>\n  </tr>\n</tbody></table>"
+        },
+        {
+          "key": "D",
+          "value": "<table class=\"tg\">\n  <tbody><tr>\n    <th class=\"tg-cly1\">Gaseous nutrient<br>cycle</th>\n    <th class=\"tg-cly1\">Carbon and Nitrogen</th>\n  </tr>\n  <tr>\n    <td class=\"tg-cly1\">Sedimentary nutrient<br>cycle</td>\n    <td class=\"tg-cly1\">Sulphur and<br>Phosphorus</td>\n  </tr>\n</tbody></table>"
+        }
+      ],
+      "answer": "D",
+      "explanation": "Carbon and Nitrogen are gaseous nutrient cycle. Sulphur and phosphorus are sedimentary nutrient cycle."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "During ecological succession : ",
+      "options": [
+        {
+          "key": "A",
+          "value": "the establishment of a new biotic\ncommunity is very fast in its primary\nphase. "
+        },
+        {
+          "key": "B",
+          "value": "the numbers and types of animals\nremain constant. "
+        },
+        {
+          "key": "C",
+          "value": "the changes lead to a ommunity that is\nin near equilibrium with the\nenvironment and is called pioneer\ncommunity "
+        },
+        {
+          "key": "D",
+          "value": "the gradual and predictable change in\nspecies composition occurs in a given\narea "
+        }
+      ],
+      "answer": "D",
+      "explanation": "The gradual and predictable change, in\nthe composition of species takes place in a\ngiven area during ecological succession."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Most animals that live in deep oceanic\nwaters are - ",
+      "options": [
+        {
+          "key": "A",
+          "value": "primary consumers "
+        },
+        {
+          "key": "B",
+          "value": "detritivores"
+        },
+        {
+          "key": "C",
+          "value": "tertiary consumers "
+        },
+        {
+          "key": "D",
+          "value": "secondary consumers"
+        }
+      ],
+      "answer": "B",
+      "explanation": "Detritivores are the organisms which feed\non dead plants and animal residues."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "In an ecosystem the rate of production of organic matter during photosynthesis is termed as :",
+      "options": [
+        {
+          "key": "A",
+          "value": "Secondary productivity"
+        },
+        {
+          "key": "B",
+          "value": "Net Productivity"
+        },
+        {
+          "key": "C",
+          "value": "Net primary productivity"
+        },
+        {
+          "key": "D",
+          "value": "Gross primary productivity"
+        }
+      ],
+      "answer": "D",
+      "explanation": "The amount of energy accumulation in\ngreen plants as biomass or organic matter per unit\narea over a time period is known as primary\nproductivity. The rate of total capture of energy, or\nthe rate of total production of organic material\n(biomass), is known as gross primary productivity."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Most animals are tree dwellers in a:",
+      "options": [
+        {
+          "key": "A",
+          "value": "temperate deciduous forest"
+        },
+        {
+          "key": "B",
+          "value": "tropical rain forest"
+        },
+        {
+          "key": "C",
+          "value": "coniferous forest"
+        },
+        {
+          "key": "D",
+          "value": "thorn woodland"
+        }
+      ],
+      "answer": "B",
+      "explanation": "In tropical rain forest zone, most of the\nanimals prefer to live on trees. The reason\nis that the floor of forest is full of humidity,\ndecomposing leaves and other organic matters\nand is the habitat of insects etc."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The mass of living material at a trophic level at a particular time is called :",
+      "options": [
+        {
+          "key": "A",
+          "value": "Net primary productivity"
+        },
+        {
+          "key": "B",
+          "value": "Standing state"
+        },
+        {
+          "key": "C",
+          "value": "Standing crop"
+        },
+        {
+          "key": "D",
+          "value": "Gross primary productivity"
+        }
+      ],
+      "answer": "C",
+      "explanation": "Standing crop is the amount of living\nbiomass in an ecosystem. It indicates the\nproductivity &amp; luxuriance of growth. It is\nexpressed in the form of number or biomass\nof organisms per unit area."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Vertical distribution of different species occupying different levels in a biotic community is known as :",
+      "options": [
+        {
+          "key": "A",
+          "value": "Stratification"
+        },
+        {
+          "key": "B",
+          "value": "Pyramid"
+        },
+        {
+          "key": "C",
+          "value": "Divergence\n"
+        },
+        {
+          "key": "D",
+          "value": "Zonation"
+        }
+      ],
+      "answer": "A",
+      "explanation": "Stratification is the occurrence of\nvertical zonation in the ecosystem &amp; indicates\nthe presence of favorable environmental\nconditions, for e.g., trees occupy top vertical\nstrata or layer of a forest, shrubs the second.\nHerbs &amp; grasses occupy the bottom layers.\nIt is absent or poor where environmental\nconditions are unfavorable, e.g. desert\necosystems have very few trees &amp; shrubs."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Secondary Succession takes place on/in :",
+      "options": [
+        {
+          "key": "A",
+          "value": "Newly created pond"
+        },
+        {
+          "key": "B",
+          "value": "Newly cooled lava"
+        },
+        {
+          "key": "C",
+          "value": "Bare rock"
+        },
+        {
+          "key": "D",
+          "value": "Degraded forest"
+        }
+      ],
+      "answer": "D",
+      "explanation": "Secondary succession (subsere) is the\nbiotic succession that occurs in an area which\nbecome secondarily bare due to the destruction of\ncommunity previously present there. Secondary\nsuccession starts from previously built up substrata\nwith already existing living matter. The action of\nany external force, such as a sudden change in\nclimatic factors, biotic intervention, fire, etc., had\nresulted in the destruction of previous community.\nThus, area became devoid of living matter but its\nsubstratum, is built up. It has organic matter, so is\nbiologically fertile and thus the successions are\ncomparatively more rapid.\n"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "If 20 J of energy is trapped at producer level, then how much energy will be available to\npeacock as food in the following chain?<br>\n Plant → mice → snake → peacock ",
+      "options": [
+        {
+          "key": "A",
+          "value": "0.0002 J "
+        },
+        {
+          "key": "B",
+          "value": "0.002 J"
+        },
+        {
+          "key": "C",
+          "value": "0.2 J "
+        },
+        {
+          "key": "D",
+          "value": "0.02 J "
+        }
+      ],
+      "answer": "D",
+      "explanation": "Herbivores are eaten by primary\ncarnivores. Only 10% of the herbivores\nproductivity is utilized for raising productivity of\nprimary carnivores. The rest is consumed in\ningestion, respiration, maintenance of body heat\nand other activities. Higher carnivores similarly are\nable to retain only 10% of energy present in primary\ncarnivores. It is called 10% law which was proposed\nby Lindemann. Accordingly, if plant trapped 20 J of\nenergy, mice will have 2 J, snake will have 0.2 J and\nhence, peacock will have 0.02 J of energy."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Match the following and select the correct option: \n<style type=\"text/css\">\n.tg  {border-collapse:collapse;border-spacing:0;width: 100%}\n.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}\n.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}\n.tg .tg-cly1{text-align:left;vertical-align:middle}\n.tg .tg-0lax{text-align:left;vertical-align:top}\n</style>\n<table class=\"tg\">\n  <tbody><tr>\n    <th class=\"tg-cly1\">(a) Earthworm</th>\n    <th class=\"tg-cly1\">(i) Pioneer species</th>\n  </tr>\n  <tr>\n    <td class=\"tg-cly1\">(b) Succession</td>\n    <td class=\"tg-cly1\">(ii) Detritivore</td>\n  </tr>\n  <tr>\n    <td class=\"tg-0lax\">(c) Ecosystem service</td>\n    <td class=\"tg-0lax\">(iii) Natality</td>\n  </tr>\n  <tr>\n    <td class=\"tg-0lax\">(d) Population growth</td>\n    <td class=\"tg-0lax\">(iv) Pollination</td>\n  </tr>\n</tbody></table>",
+      "options": [
+        {
+          "key": "A",
+          "value": "(a) $$ \\to $$ (i), (b) $$ \\to $$ (ii), (c) $$ \\to $$ (iii), (d) $$ \\to $$ (iv) "
+        },
+        {
+          "key": "B",
+          "value": "(a) $$ \\to $$ (iii), (b) $$ \\to $$ (ii), (c) $$ \\to $$ (iv), (d) $$ \\to $$ (i) "
+        },
+        {
+          "key": "C",
+          "value": "(a) $$ \\to $$ (iv), (b) $$ \\to $$ (i), (c) $$ \\to $$ (iii), (d) $$ \\to $$ (ii) "
+        },
+        {
+          "key": "D",
+          "value": "(a) $$ \\to $$ (ii), (b) $$ \\to $$ (i), (c) $$ \\to $$ (iv), (d) $$ \\to $$ (iii) "
+        }
+      ],
+      "answer": "D",
+      "explanation": "Detrivores, (e.g. earthworm) break down\ndetritus into smaller particles. The species\nthat invade a bare area in succession is called\npioneer species. The products of ecosystem\nprocesses are termed as ecosystem services,\ne.g., healthy forest ecosystems purify air and\nwater, mitigate droughts and floods etc.\nNatality refers to number of births during a\ngiven period in the population."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "When man eats fish which feeds on zooplankton\nwhich have eaten small plants, the producer in the\nchain is :",
+      "options": [
+        {
+          "key": "A",
+          "value": "Zooplankton"
+        },
+        {
+          "key": "B",
+          "value": "Fish"
+        },
+        {
+          "key": "C",
+          "value": "Small plants"
+        },
+        {
+          "key": "D",
+          "value": "Man"
+        }
+      ],
+      "answer": "C",
+      "explanation": "Plants are producers which can prepare\ntheir food by the process of photosynthesis. Zooplanktons, fish and man are primary,\nsecondary and tertiary carnivores respectively."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Which two distinct microbial processes are\nresponsible for the release of fixed nitrogen as\ndinitrogen gas (N<sub>2</sub>) to the atmosphere ?",
+      "options": [
+        {
+          "key": "A",
+          "value": "Anaerobic ammonium oxidation, and\ndenitrificatrion"
+        },
+        {
+          "key": "B",
+          "value": "Aerobic nitrate oxidation, and nitrite reduction"
+        },
+        {
+          "key": "C",
+          "value": "Enteric fermentation in cattle, and nitrogen\nfixation by Rhizobium in root nodules of legumes"
+        },
+        {
+          "key": "D",
+          "value": "Decomposition of organic nitrogen, and\nconversion of dinitrogen to ammonium\ncompounds"
+        }
+      ],
+      "answer": "A",
+      "explanation": "In the global nitrogen cycle, bacterial\ndenitrification is recognised as important \nprocess that converts fixed nitrogen to\natmospheric nitrogen gas, N<sub>2</sub>. In marine\nnitrogen cycle, anaerobic oxidation of\nammonium coupled to nitrate reduction,\ncontributes substantially to N<sub>2</sub>–production\nin marine sediments.\n"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Which one of the following is a primary consumer\nin maize field ecosystem ?",
+      "options": [
+        {
+          "key": "A",
+          "value": "Phytoplankton"
+        },
+        {
+          "key": "B",
+          "value": "Lion"
+        },
+        {
+          "key": "C",
+          "value": "Grasshopper"
+        },
+        {
+          "key": "D",
+          "value": "Wolf"
+        }
+      ],
+      "answer": "C",
+      "explanation": "Primary consumers are herbivorous\norganisms that feed on producers. Carnivores are\ntermed secondary, tertiary etc., consumers depending\nupon their position in food chain. In food chain on\nland, grasshopper is a herbivore (primary consumer)\nwhile wolf and lion are carnivores. Phytoplanktons\nare producers in aquatic food chains.\n"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Secondary productivity is rate of formation of new organic matter by : ",
+      "options": [
+        {
+          "key": "A",
+          "value": "Parasite "
+        },
+        {
+          "key": "B",
+          "value": "Decomposer"
+        },
+        {
+          "key": "C",
+          "value": "Producer "
+        },
+        {
+          "key": "D",
+          "value": "Consumers"
+        }
+      ],
+      "answer": "D",
+      "explanation": "The rate of resynthesis of organic matter\nby the consumers is known as secondary\nproductivity . It depends upon the loss\nwhile transferring energy containing organic\nmatter from the previous trophic level plus\nthe consumption due to respiration and \npredation. Respiration loss is about 20%\nfor autotrophs, 30% for herbivores and upto\n60% in case of carnivores. Therefore net\nproductivity decreases with each trophic level."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Which one of the following processes during decomposition is correctly described ? ",
+      "options": [
+        {
+          "key": "A",
+          "value": "Catabolism – Last step in the decomposition under fully anaerobic condition "
+        },
+        {
+          "key": "B",
+          "value": "Leaching – Water soluble inorganic nutrients rise to the top layers of soil"
+        },
+        {
+          "key": "C",
+          "value": "Fragmentation –Carried out by organisms such as earthworm"
+        },
+        {
+          "key": "D",
+          "value": "Humification – Leads to the accumulation of a dark coloured substance humus which undergoes\nmicrobial action at a very fast rate "
+        }
+      ],
+      "answer": "C",
+      "explanation": "Humification, catabolism, leaching and\nfragmentation are the steps of decomposition\nwhich operate simultaneously on the\ndetritus. Fragmentation is breaking down\ndetritus into smaller particles by detritivores\nlike earthworm. By the process of leaching,\nwater soluble inorganic nutrients go down\ninto soil horizon and get precipitated as\nunavailable salts. Humification occurs at a\nvery slow rate. "
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Natural reservoir of phosphorus is :",
+      "options": [
+        {
+          "key": "A",
+          "value": "Fossils "
+        },
+        {
+          "key": "B",
+          "value": "Rock"
+        },
+        {
+          "key": "C",
+          "value": "Sea water"
+        },
+        {
+          "key": "D",
+          "value": "Animal bones "
+        }
+      ],
+      "answer": "B",
+      "explanation": "The natural reservoir of phosphate is\nrock which contains phosphorus in the form\nof phosphates when rocks are weathered,\nminute amounts of these phosphate dissolve\nin soil solution and are absorbed by the roots\nof the plants . Herbivores and other animals\nobtain this element from plants."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The second stage of hydrosere is occupied by plants like ",
+      "options": [
+        {
+          "key": "A",
+          "value": "Vallisneria "
+        },
+        {
+          "key": "B",
+          "value": "Typha "
+        },
+        {
+          "key": "C",
+          "value": "Azolla"
+        },
+        {
+          "key": "D",
+          "value": "Salix "
+        }
+      ],
+      "answer": "A",
+      "explanation": "A hydrosere is a plant succession which\noccurs in a freshwater lake. Second stage\nof hydrosere is submerged stage that is\nrepresented by Vallisneria, Hydrilla, Elodea,\nUtricularia etc."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The rate of formation of new organic matter by rabbit in a grassland, is called :",
+      "options": [
+        {
+          "key": "A",
+          "value": "Net productivity "
+        },
+        {
+          "key": "B",
+          "value": "Gross primary productivity "
+        },
+        {
+          "key": "C",
+          "value": "Secondary productivity"
+        },
+        {
+          "key": "D",
+          "value": "Net primary productivity "
+        }
+      ],
+      "answer": "C",
+      "explanation": "The rate of resynthesis of organic matter\nby consumers or the rate at which food energy is\nassimilated at the trophic level of consumers is called\nsecondary productivity. In a grassland ecosystem,\nthe rate of formation of new organic matter by rabbit\nis referred as secondary productivity.\n"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Which one of the following is not a functional unit of an ecosystem?",
+      "options": [
+        {
+          "key": "A",
+          "value": "Energy flow "
+        },
+        {
+          "key": "B",
+          "value": "Decomposition "
+        },
+        {
+          "key": "C",
+          "value": "Productivity "
+        },
+        {
+          "key": "D",
+          "value": "Stratification "
+        }
+      ],
+      "answer": "D",
+      "explanation": "Four important functional aspects of the\necosystem are productivity, decomposition, energy\nflow and nutrient cycling.\n"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Which one of the following is not a gaseous biogeochemical cycle in ecosystem ?",
+      "options": [
+        {
+          "key": "A",
+          "value": "Sulphur Cycle"
+        },
+        {
+          "key": "B",
+          "value": "Nitrogen Cycle "
+        },
+        {
+          "key": "C",
+          "value": "Phosphorus Cycle "
+        },
+        {
+          "key": "D",
+          "value": "Carbon Cycle"
+        }
+      ],
+      "answer": "C",
+      "explanation": "Phosphorus is mostly used as phosphate.\nIts reservoir pool is phosphate rocks while\ncycling pool is soil for terrestrial ecosystems\nand water for aquatic ecosystems."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Identify the possible link \"A\" in the following food chain :<br>\nPlant → insect → frog →\"A\"→ Eagle",
+      "options": [
+        {
+          "key": "A",
+          "value": "Wolf"
+        },
+        {
+          "key": "B",
+          "value": "Rabbit"
+        },
+        {
+          "key": "C",
+          "value": "Cobra"
+        },
+        {
+          "key": "D",
+          "value": "Parrot"
+        }
+      ],
+      "answer": "C",
+      "explanation": "<p>The given food chain shows a sequence of organisms where each is a source of food for the next. To identify the missing link \"A\" in the food chain, we need to consider the dietary habits and ecological roles of the possible options. The food chain reads as follows:</p>\n<ul>\n<li>Plant → insect → frog → \"A\" → Eagle</li>\n</ul>\n<p>Let's analyze the options:</p>\n<ul>\n<li><strong>Option A: Wolf -</strong> Wolves are generally not part of a food chain that includes eagles because they are both top predators, and it is unlikely for a wolf to be preyed upon by an eagle.</li>\n<li><strong>Option B: Rabbit -</strong> Rabbits primarily eat plants and would not be found in this part of the food chain after the frog. They are not typically a prey item for eagles after a frog in a direct food chain sequence.</li>\n<li><strong>Option C: Cobra -</strong> Cobras can eat frogs, making them a suitable link in the food chain. In some ecosystems, large eagles, especially those adapted to hunting snakes like the Serpent Eagle, may prey on cobras.</li>\n<li><strong>Option D: Parrot -</strong> Parrots are primarily herbivores or omnivores with a diet consisting mainly of seeds, nuts, and fruit. They are not typically part of a food chain where frogs are a preceding link and do not generally fall prey to eagles in the context of this type of food chain.</li>\n</ul>\n<p>Considering the ecology of these animals, the most likely organism to fill the role of \"A\" between the frog and the eagle is the cobra, as it can be a natural predator to the frog and in turn can be prey for certain types of eagles.</p>\n<p>Therefore, the correct answer is <strong>Option C: Cobra</strong>.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The upright pyramid of number is absent in",
+      "options": [
+        {
+          "key": "A",
+          "value": "Pond "
+        },
+        {
+          "key": "B",
+          "value": "Grassland "
+        },
+        {
+          "key": "C",
+          "value": "Lake"
+        },
+        {
+          "key": "D",
+          "value": "Forest"
+        }
+      ],
+      "answer": "D",
+      "explanation": "In forest, a single tree can support a\nlarge of number of birds thus base showing\nproducers in a pyramid of number will be\nnarrower than the next slab showing primary\nconsumers."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Which one of the following animals may occupy\nmore than one trophic levels in the same\necosystem at the same time ? ",
+      "options": [
+        {
+          "key": "A",
+          "value": "Lion "
+        },
+        {
+          "key": "B",
+          "value": "Frog"
+        },
+        {
+          "key": "C",
+          "value": "Goat"
+        },
+        {
+          "key": "D",
+          "value": "Sparrow "
+        }
+      ],
+      "answer": "D",
+      "explanation": "Sparrow can be herbivorous (eating seeds\nand fruits) or carnivorous (eating insects).\n"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Both, hydrarch and xerarch successions lead to : ",
+      "options": [
+        {
+          "key": "A",
+          "value": "Xeric conditions "
+        },
+        {
+          "key": "B",
+          "value": "Excessive wet conditions "
+        },
+        {
+          "key": "C",
+          "value": "Highly dry conditions \n"
+        },
+        {
+          "key": "D",
+          "value": "Medium water conditions "
+        }
+      ],
+      "answer": "D",
+      "explanation": "Hydrarch succession takes place in wetter\nareas and the successional series progress from\nhydric to the mesic condition . Xerarch succession\ntakes place in dry areas and the series progress\nfrom xeric to mesic condition. Hence, both hydrarch \nand xerarch succession leads to medium water\nconditions (mesic)."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The breakdown of detritus into smaller particles\nby earthworm is a process called",
+      "options": [
+        {
+          "key": "A",
+          "value": "Fragmentation "
+        },
+        {
+          "key": "B",
+          "value": "Catabolism "
+        },
+        {
+          "key": "C",
+          "value": "Mineralisation "
+        },
+        {
+          "key": "D",
+          "value": "Humification"
+        }
+      ],
+      "answer": "A",
+      "explanation": "The break down of detritus into\nsmaller particles by earthworm is known as\nfragmentation."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Which one of the following statements for\npyramid of energy is incorrect, whereas the\nremaining three are correct? ",
+      "options": [
+        {
+          "key": "A",
+          "value": "It shows energy content of different trophic\nlevel organisms"
+        },
+        {
+          "key": "B",
+          "value": "It is upright in shape "
+        },
+        {
+          "key": "C",
+          "value": "It is inverted in shape"
+        },
+        {
+          "key": "D",
+          "value": "Its base is broad"
+        }
+      ],
+      "answer": "C",
+      "explanation": "Pyramid of energy is always upright, can\nnever be inverted, because when energy flows from\na particular trophic level to the next trophic level,\nsome energy is always lost as heat at each step.\n"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Which one of the following statements is\ncorrect for secondary succession? ",
+      "options": [
+        {
+          "key": "A",
+          "value": "It follows primary succession "
+        },
+        {
+          "key": "B",
+          "value": "It occurs on deforested site "
+        },
+        {
+          "key": "C",
+          "value": "It is similar to primary succession except\nthat it has a relatively fast pace. "
+        },
+        {
+          "key": "D",
+          "value": "It begins on a bare rock. "
+        }
+      ],
+      "answer": "B",
+      "explanation": "Secondary succession refers to the\nregrowth of a habitat in the area where\ndisruptive event has occurred and eliminated\nthe existing, above ground plant life of the\nnatural habitat. So, it occurs on a deforested\nsite."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Of the total incident solar radiation the\nproportion of PAR is",
+      "options": [
+        {
+          "key": "A",
+          "value": "About 60%"
+        },
+        {
+          "key": "B",
+          "value": "More than 80% "
+        },
+        {
+          "key": "C",
+          "value": "Less than 50% "
+        },
+        {
+          "key": "D",
+          "value": "About 70%"
+        }
+      ],
+      "answer": "C",
+      "explanation": "Out of total incident solar radiation,\nabout 50% of it forms Photosynthetically\nActive Radiation (PAR)."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Mass of living matter at a trophic level in an\narea at any time is called :",
+      "options": [
+        {
+          "key": "A",
+          "value": "Humus "
+        },
+        {
+          "key": "B",
+          "value": "Detritus"
+        },
+        {
+          "key": "C",
+          "value": "Standing state "
+        },
+        {
+          "key": "D",
+          "value": "Standing crop "
+        }
+      ],
+      "answer": "D",
+      "explanation": "A standing crop is the quantity or total\nweight or energy content of the organism,\nwhich are in a particular location at a\nparticular time."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The biomass available for consumption by the\nherbivores and the decomposers is called – ",
+      "options": [
+        {
+          "key": "A",
+          "value": "Standing crop"
+        },
+        {
+          "key": "B",
+          "value": "Net primary productivity "
+        },
+        {
+          "key": "C",
+          "value": "Gross primary productivity "
+        },
+        {
+          "key": "D",
+          "value": "Secondary productivity "
+        }
+      ],
+      "answer": "B",
+      "explanation": "The biomass available for consumption\nby the herbivores and the decomposers is\ncalled net primary productivity. It is equal\nto the rate of organic matter created by\nphotosynthesis minus the rate of respiration\nand other losses."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Which one of the following types organisms\noccupy more than one trophic level in a pond\necosystem ? ",
+      "options": [
+        {
+          "key": "A",
+          "value": "Phytoplankton "
+        },
+        {
+          "key": "B",
+          "value": "Zooplankton"
+        },
+        {
+          "key": "C",
+          "value": "Frog"
+        },
+        {
+          "key": "D",
+          "value": "Fish "
+        }
+      ],
+      "answer": "D",
+      "explanation": "A pond ecosystem is a delicate balance\nof fish, plants and other animals. Fish occupy\nmore than one tropic level in pond ecosystem.\nSmall fishes act as secondary consumer. They\nfeed on primary consumer. Large fishes act as\ntertiary consumer. They feed on smaller fish. "
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The correct sequence of plants in hydrosere is : ",
+      "options": [
+        {
+          "key": "A",
+          "value": "Volvox → Hydrilla → Pistia → Scirpus →\nLantana → Oak"
+        },
+        {
+          "key": "B",
+          "value": "Pistia → Volvox → Scirpus → Hydrilla →\nOak → Lantana "
+        },
+        {
+          "key": "C",
+          "value": "Oak → Lantana → Volvox → Hydrilla →\nPistia → Scirpus"
+        },
+        {
+          "key": "D",
+          "value": "Oak → Lantana → Scirpus → Pistia →\nHydrilla → Volvox"
+        }
+      ],
+      "answer": "A",
+      "explanation": "Hydrosere,originating in water (pond,\npools, lakes etc.) and starts with the colonization\nof some phytoplanktons which form the pioneer\nplant community, and finally terminates into a forest,\nwhich is a climax community together with their\nchief components of vegetation.<br><br>\nThe various stages together with their components\nof plant species of a hydrosere are phytoplankton\nstage,rooted submerged stage,rooted floating\nstage, reed swamp stage, marsh or sedge meadow\nstage, woodland stage and climax forest stage.\nVolvox is phytoplankton, Hydrilla is rooted\nsubmerged plant,Pistia is rooted floating\nplant,Scirpus is reed swamp plant, Lantana is\nsedge meadow plant and oak is woody tree.\n"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The slow rate of decomposition of fallen logs in\nnature is due to their:",
+      "options": [
+        {
+          "key": "A",
+          "value": "low moisture content"
+        },
+        {
+          "key": "B",
+          "value": "poor nitrogen content"
+        },
+        {
+          "key": "C",
+          "value": "anaerobic environment around them "
+        },
+        {
+          "key": "D",
+          "value": "low cellulose content "
+        }
+      ],
+      "answer": "A",
+      "explanation": "Low moisture content will lead to\ndecrease in number of decomposers because\ndecomposers need an optimum moisture for\ntheir growth and functioning. "
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Consider the following statements concerning\nfood chains:<br>\n (i) Removal of 80% tigers from an area resulted\nin greatly increased growth of vegetation<br>\n (ii) Removal of most of the carnivores resulted\nin an increased population of deers<br>\n (iii) The length of food chains is generally\nlimited to 3-4 trophic levels due to energy\nloss<br>\n (iv) The length of food chains may vary from 2\nto 8 trophic levels<br>\nWhich of two of the above statements are correct ?",
+      "options": [
+        {
+          "key": "A",
+          "value": "(iii), (iv) "
+        },
+        {
+          "key": "B",
+          "value": "(ii), (iii) "
+        },
+        {
+          "key": "C",
+          "value": "(i), (iv)"
+        },
+        {
+          "key": "D",
+          "value": "(i), (ii) "
+        }
+      ],
+      "answer": "B",
+      "explanation": "Removal of 80% tigers (i.e., tertiary\nconsumer) from an area resulted in decreased growth\nof vegetation because there will be increased\nnumbers of primary consumers which feeds on green\nplant. Removal of most of the carnivores resulted in\nan increased population of deers on which\ncarnivores depends. The length of food chain is \ngenerally limited to 3-4 trophic level due to energy\nloss because all the food available at one level is\nneither eaten nor used by animals at the next level\nand a lot of the energy is lost in respiration to drive\nthe organisms metabolism so less energy is left to\nsupport higher trophic level."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "About 70% of total global carbon is found in: ",
+      "options": [
+        {
+          "key": "A",
+          "value": "Grasslands "
+        },
+        {
+          "key": "B",
+          "value": "Agroecosystems "
+        },
+        {
+          "key": "C",
+          "value": "Oceans "
+        },
+        {
+          "key": "D",
+          "value": "Forests "
+        }
+      ],
+      "answer": "C",
+      "explanation": "About 70% of total global carbon is\nfound in oceans. This oceanic reservoir\nregulates the amount of carbon dioxide in\nthe atmosphere. Atmosphere contains only\nabout one percent of total global carbon. "
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Which one of the following ecosystem types has\nthe highest annual net primary productivity ? ",
+      "options": [
+        {
+          "key": "A",
+          "value": "Temperate evergreen forest "
+        },
+        {
+          "key": "B",
+          "value": "Temperate deciduous forest "
+        },
+        {
+          "key": "C",
+          "value": "Tropical rain forest "
+        },
+        {
+          "key": "D",
+          "value": "Tropical deciduous forest "
+        }
+      ],
+      "answer": "C",
+      "explanation": "Net primary productivity is the total organic\nmatter stored by producers per unit area per unit\ntime. Gross primary productivity is the total organic\nmatter synthesised by producers in the process of\nphotosynthesis per unit area per unit time. So,<br>\nNet primary productivity = Gross productivity –\n Respiration and other losses<br>\nTropical rainforests occur over equatorial/\nsubequatorial regions with abundant warmth and\nrainfall. Diversity and productivity are maximum as\ncompared to other regions.\n"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Which one of the following is not used for\nconstruction of ecological pyramids ? ",
+      "options": [
+        {
+          "key": "A",
+          "value": "Rate of energy flow "
+        },
+        {
+          "key": "B",
+          "value": "Dry weight "
+        },
+        {
+          "key": "C",
+          "value": "Fresh weight "
+        },
+        {
+          "key": "D",
+          "value": "Number of individuals \n"
+        }
+      ],
+      "answer": "C",
+      "explanation": "Fresh weight is not used for the construction of ecological pyramids because the total\nfresh weight does not change into energy.\nHence we can say that fresh weight is not\ncontinuous in the tropic levels."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Which of the following is expected to have the highest value (gm/m<sup>2</sup>/yr) in a grassland\necosystem ?",
+      "options": [
+        {
+          "key": "A",
+          "value": "Net production (NP) "
+        },
+        {
+          "key": "B",
+          "value": "Secondary production"
+        },
+        {
+          "key": "C",
+          "value": "Tertiary production"
+        },
+        {
+          "key": "D",
+          "value": "Gross production (GP) "
+        }
+      ],
+      "answer": "D",
+      "explanation": "Grasslands will have highest value of\ngross production. Net production is obtained\nafter subtracting the respiratory utilization\nfrom gross production. Secondary and\ntertiary production is related with secondary\nand tertiary consumers respectively."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "An ecosystem which can be easily damaged but\ncan recover after some time if damaging effect\nstops will be having - ",
+      "options": [
+        {
+          "key": "A",
+          "value": "High stability and high resilience "
+        },
+        {
+          "key": "B",
+          "value": "Low stability and high resilience "
+        },
+        {
+          "key": "C",
+          "value": "High stability and low resilience "
+        },
+        {
+          "key": "D",
+          "value": "Low stability and low resilience "
+        }
+      ],
+      "answer": "B",
+      "explanation": "An ecosystem having low stability can be\neasily damaged. An ecosystem having high\nresilience will take less time to recover. \n"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Which of the following plants are used as green\nmanure in crop fields and in sandy soils ?",
+      "options": [
+        {
+          "key": "A",
+          "value": "Calotropis procera and Phyllanthus niruri"
+        },
+        {
+          "key": "B",
+          "value": "Dichanthium annulatum and Azolla nilotica"
+        },
+        {
+          "key": "C",
+          "value": "Saccharum munja and Lantana camara "
+        },
+        {
+          "key": "D",
+          "value": "Crotalaria juncea and Alhagi camelorum"
+        }
+      ],
+      "answer": "D",
+      "explanation": "Green manures are fast growing herbaceous\ncrops which are ploughed down and mixed with the\nsoil while still green for enrichment of soil. These\nprovide both organic matter and nitrogen to the soil,\nin which Indian soils are generally poor. The green\nmanure checks soil erosion by forming protective soil\ncover and also prevents leaching. Increase in yield\nby 30-50% has been observed by use of green\nmanures. Some important green manure crops, which\nare mostly members of Family Leguminosae are\nAlhagi and Crotolaria juncea.\n"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Bamboo plant is growing in a far forest then\nwhat will be the trophic level of it ?",
+      "options": [
+        {
+          "key": "A",
+          "value": "Second trophic level (T<sub>2</sub>) "
+        },
+        {
+          "key": "B",
+          "value": "First trophic level (T<sub>1</sub>) "
+        },
+        {
+          "key": "C",
+          "value": "Fourth trophic level (T<sub>4</sub>)"
+        },
+        {
+          "key": "D",
+          "value": "Third trophic level (T<sub>3</sub>) \n"
+        }
+      ],
+      "answer": "B",
+      "explanation": "Trophic structure of ecosystem is a type\nof producer-consumer arrangement, in which each\nfood level is called trophic level and the graphical\nrepresentation of trophic structure of ecosystem\nconstitutes ecological pyramids. The green plants\nare producers and represent the first trophic level\n(T<sub>1</sub>). So bamboo plant is the first trophic level (T<sub>1</sub>)."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Plant Decomposers are : - ",
+      "options": [
+        {
+          "key": "A",
+          "value": "Protista and Animalia "
+        },
+        {
+          "key": "B",
+          "value": "Anibalia and Mogna "
+        },
+        {
+          "key": "C",
+          "value": "Monera and fungi "
+        },
+        {
+          "key": "D",
+          "value": "Fungi and plants "
+        }
+      ],
+      "answer": "C",
+      "explanation": "Plant decomposers are bacteria (Kingdom\nMonera) and fungi."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Which is the reason for highest biomass in\naquatic ecosystem ?",
+      "options": [
+        {
+          "key": "A",
+          "value": "Benthonic and brown algae"
+        },
+        {
+          "key": "B",
+          "value": "Nano plankton, blue green algae, green algae "
+        },
+        {
+          "key": "C",
+          "value": "Diatoms"
+        },
+        {
+          "key": "D",
+          "value": "Sea grass, and slime molds"
+        }
+      ],
+      "answer": "A",
+      "explanation": "The benthic region includes all the sea\nfloor from the wave-washed shore-line to the greatest\ndepths. Depending upon the penetration of light it\nis subdivided into two main zones : the lighted or\nlittoral zone and the deep sea system. Due to\nabundance of light, water, oxygen, carbon dioxide\nand less salinity of water, the tidal zone is\ncharacterized by exhorbitant growth of plants. The\ndense growth of vegetation, on the other hand,\nprovides shelter and food for animals. A wide variety\nof algae, few grasses and animals of every phylum\nof animal kingdom are represented in this region."
+    }
+  ]
+}

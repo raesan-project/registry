@@ -1,0 +1,61 @@
+{
+  "_index": {
+    "name": "Wave Optics"
+  },
+  "_children": [
+    {
+      "_type": "numerical",
+      "body": "A point source $\\mathrm{S}$ emits unpolarized light uniformly in all directions. At two points $\\mathrm{A}$ and $\\mathrm{B}$, the ratio $r=I_A / I_B$ of the intensities of light is 2 . If a set of two polaroids having $45^{\\circ}$ angle between their pass-axes is placed just before point $\\mathrm{B}$, then the new value of $r$ will be __________.",
+      "answer": "8",
+      "explanation": "<p>To solve this problem, we start by understanding the information given and how the polarization of light affects light intensity.</p>\n\n<p>Initially, we have the ratio of the intensities at points A and B given as:</p>\n\n<p>\n\n<p>$$ r = \\frac{I_A}{I_B} = 2 $$</p>\n\n</p>\n\n<p>This means:</p>\n\n<p>\n\n<p>$$ I_A = 2I_B $$</p>\n\n</p>\n\n<p>Now, we place two polaroids with their pass-axes at an angle of $45^\\circ$ between them before point B. When unpolarized light passes through the first polaroid, it gets polarized, and its intensity is reduced to half of its original value:</p>\n\n<p>\n\n<p>$$ I_{B1} = \\frac{1}{2} I_B $$</p>\n\n</p>\n\n<p>Here, $I_{B1}$ is the intensity of light after passing through the first polaroid.</p>\n\n<p>Next, this polarized light passes through the second polaroid, which is at an angle of $45^\\circ$ to the first one. According to Malus's law, the intensity of light after passing through the second polaroid is given by:</p>\n\n<p>\n\n<p>$$ I_{B2} = I_{B1} \\cos^2(45^\\circ) $$</p>\n\n</p>\n\n<p>We know that:</p>\n\n<p>\n\n<p>$$ \\cos(45^\\circ) = \\frac{1}{\\sqrt{2}} $$</p>\n\n</p>\n\n<p>Thus,</p>\n\n<p>\n\n<p>$$ I_{B2} = \\frac{1}{2} I_B \\left(\\frac{1}{\\sqrt{2}}\\right)^2 = \\frac{1}{2} I_B \\cdot \\frac{1}{2} = \\frac{1}{4} I_B $$</p>\n\n</p>\n\n<p>Now, the new intensity at point B is $I_{B2}$. We need to calculate the new ratio $r'$ of the intensities at points A and B:</p>\n\n<p>\n\n<p>$$ r' = \\frac{I_A}{I_{B2}} $$</p>\n\n</p>\n\n<p>Substituting the values $I_A = 2I_B$ and $I_{B2} = \\frac{1}{4} I_B$, we get:</p>\n\n<p>\n\n<p>$$ r' = \\frac{2 I_B}{\\frac{1}{4} I_B} = 2 \\times 4 = 8 $$</p>\n\n</p>\n\n<p>Therefore, the new value of $r$ will be:</p>\n\n<p>\n\n<p>$$ r' = 8 $$</p>\n\n</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>In the Young's double-slit experiment using a monochromatic light of wavelength $$\\lambda$$, the path difference (in terms of an integer n) corresponding to any point having half the peak intensity is</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$(2n + 1){\\lambda  \\over 2}$$"
+        },
+        {
+          "key": "B",
+          "value": "$$(2n + 1){\\lambda  \\over 4}$$"
+        },
+        {
+          "key": "C",
+          "value": "$$(2n + 1){\\lambda  \\over 8}$$"
+        },
+        {
+          "key": "D",
+          "value": "$$(2n + 1){\\lambda  \\over {16}}$$"
+        }
+      ],
+      "answer": "B",
+      "explanation": "<p>Wavelength of light is $$\\lambda$$.</p>\n<p>Now, using the relation for intensity, we have</p>\n<p>$$I = {I_{\\max }}{\\cos ^2}\\left( {{\\phi  \\over 2}} \\right)$$</p>\n<p>$${1 \\over 2} = {\\cos ^2}\\left( {{\\phi  \\over 2}} \\right) \\Rightarrow \\cos {\\phi  \\over 2} = {1 \\over {\\sqrt 2 }}$$</p>\n<p>$$ \\Rightarrow {\\phi  \\over 2} = {\\pi  \\over 4} \\Rightarrow \\phi  = {\\pi  \\over 2}$$</p>\n<p>$$ \\Rightarrow \\phi  = {\\pi  \\over 2},{{3\\pi } \\over 2},{{5\\pi } \\over 2},{{7\\pi } \\over 2}$$</p>\n<p>$$\\phi  = {{2\\pi } \\over \\lambda }\\Delta x \\Rightarrow {\\pi  \\over 2} = {{2\\pi } \\over 2}\\Delta x \\Rightarrow \\Delta x = {\\lambda  \\over 4},{{3\\lambda } \\over 4},{{5\\lambda } \\over 4}$$</p>\n<p>$$ \\Rightarrow \\Delta x = (2n + 1){\\lambda  \\over 4}$$</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Young's double slit experiment is carried out by using green, red and blue light, one colour at a time. The fringe widths recorded are $$\\beta$$<sub>G</sub>, $$\\beta$$<sub>R</sub> and $$\\beta$$<sub>B</sub>, respectively. Then,</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$\\beta$$<sub>G</sub> > $$\\beta$$<sub>B</sub> > $$\\beta$$<sub>R</sub>"
+        },
+        {
+          "key": "B",
+          "value": "$$\\beta$$<sub>B</sub> > $$\\beta$$<sub>G</sub> > $$\\beta$$<sub>R</sub>"
+        },
+        {
+          "key": "C",
+          "value": "$$\\beta$$<sub>R</sub> > $$\\beta$$<sub>B</sub> > $$\\beta$$<sub>G</sub>"
+        },
+        {
+          "key": "D",
+          "value": "$$\\beta$$<sub>R</sub> > $$\\beta$$<sub>G</sub> > $$\\beta$$<sub>B</sub>"
+        }
+      ],
+      "answer": "D",
+      "explanation": "<p>Fringe width, $$\\beta  = {{\\lambda D} \\over d}$$</p>\n<p>$$\\therefore$$ $$\\beta  \\propto \\lambda $$</p>\n<p>As, $${\\lambda _R} > {\\lambda _G} > {\\lambda _B}$$ $$\\therefore$$ $${\\beta _R} > {\\beta _G} > {\\beta _B}$$</p>"
+    }
+  ]
+}

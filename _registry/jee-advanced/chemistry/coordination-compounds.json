@@ -1,0 +1,247 @@
+{
+  "_index": {
+    "name": "Coordination Compounds"
+  },
+  "_children": [
+    {
+      "_type": "numerical",
+      "body": "<p>Among $\\mathrm{V}(\\mathrm{CO})_6, \\mathrm{Cr}(\\mathrm{CO})_5, \\mathrm{Cu}(\\mathrm{CO})_3, \\mathrm{Mn}(\\mathrm{CO})_5, \\mathrm{Fe}(\\mathrm{CO})_5,\\left[\\mathrm{Co}(\\mathrm{CO})_3\\right]^{3-},\\left[\\mathrm{Cr}(\\mathrm{CO})_4\\right]^{4-}$, and $\\operatorname{Ir}(\\mathrm{CO})_3$, the total number of species isoelectronic with $\\mathrm{Ni}(\\mathrm{CO})_4$ is _________.</p>\n\n<p>[Given, atomic number: $\\mathrm{V}=23, \\mathrm{Cr}=24, \\mathrm{Mn}=25, \\mathrm{Fe}=26, \\mathrm{Co}=27, \\mathrm{Ni}=28, \\mathrm{Cu}=29, \\mathrm{Ir}=77$ ]</p>",
+      "answer": "1",
+      "explanation": "$$\n\\begin{aligned}\n&\\text { Total number of electron in } \\mathrm{Ni}(\\mathrm{CO})_4=84\\\\\\\\\n&\\begin{array}{lll}\n\\text { Species } & & \\text { Total electron } \\\\\\\\\n\\mathrm{V}(\\mathrm{CO})_6 & - & 107 \\\\\\\\\n\\mathrm{Cr}(\\mathrm{CO})_5 & - & 94 \\\\\\\\\n\\mathrm{Cu}(\\mathrm{CO})_3 & - & 71 \\\\\\\\\n\\mathrm{Mn}(\\mathrm{CO})_5 & - & 95 \\\\\\\\\n\\mathrm{Fe}(\\mathrm{CO})_5 & - & 96 \\\\\\\\\n{\\left[\\mathrm{Co}(\\mathrm{CO})_3\\right]^{3-}} & - & 72 \\\\\\\\\n{\\left[\\mathrm{Cr}(\\mathrm{CO})_4\\right]^{4-}} & - & 84 \\\\\\\\\n\\operatorname{Ir}(\\mathrm{CO})_3 & - & 119\n\\end{array}\n\\end{aligned}\n$$"
+    },
+    {
+      "_type": "numerical",
+      "body": "<p>Among the following complexes, the total number of diamagnetic species is ___________.\n<br/><br/>$\\left[\\mathrm{Mn}\\left(\\mathrm{NH}_3\\right)_6\\right]^{3+},\\left[\\mathrm{MnCl}_6\\right]^{3-},\\left[\\mathrm{FeF}_6\\right]^{3-},\\left[\\mathrm{CoF}_6\\right]^{3-},\\left[\\mathrm{Fe}\\left(\\mathrm{NH}_3\\right)_6\\right]^{3+}$, and $\\left[\\mathrm{Co}(\\mathrm{en})_3\\right]^{3+}$</p>\n\n<p>[Given, atomic number: $\\mathrm{Mn}=25, \\mathrm{Fe}=26, \\mathrm{Co}=27$;</p>\n\n<p>$$ \\text { en } \\left.=\\mathrm{H}_2 \\mathrm{NCH}_2 \\mathrm{CH}_2 \\mathrm{NH}_2\\right] $$</p>",
+      "answer": "1",
+      "explanation": "<p>$$ \\mathrm{Mn}^{3+} \\Rightarrow[\\mathrm{Ar}] 3 \\mathrm{~d}^4 $$</p>\n\n<p>$\\mathrm{d}^4$ configuration in $\\mathrm{t}_{2 \\mathrm{~g}}$ and $\\mathrm{e}_{\\mathrm{g}}$ orbitals will always have unpaired electrons irrespective of SFL and WFL.</p>\n\n<p>$$ \\mathrm{Fe}^{3+} \\Rightarrow[\\mathrm{Ar}] 3 \\mathrm{~d}^5 $$</p>\n\n<p>$\\mathrm{d}^5$ configuration will also have unpaired electron irrespective of SFL and WFL.</p>\n\n<p>$$ \\mathrm{Co}^{3+} \\Rightarrow[\\mathrm{Ar}] 3 \\mathrm{~d}^6 $$</p>\n\n<p>$\\mathrm{d}^6 \\Rightarrow$ it can be both paramagnetic or diamagnetic based on field of ligands.</p>\n\n<p>In case of $\\mathrm{F}^{-} \\Rightarrow$ weak field ligand, configuration will be $\\mathrm{t}_{2 \\mathrm{~g}}^4 \\mathrm{e}_{\\mathrm{g}}^2$ hence it is paramagnetic but in case of $\\mathrm{en} \\Rightarrow$ strong filed ligand, configuration will be $\\mathrm{t}_{2 \\mathrm{~g}}^6 \\mathrm{e}_{\\mathrm{g}}^0$ hence it will be diamagnetic.</p>"
+    },
+    {
+      "_type": "numerical",
+      "body": "<p>Among the complex ions, [Co(NH<sub>2</sub>-CH<sub>2</sub>-CH<sub>2</sub>-NH<sub>2</sub>)<sub>2</sub>Cl<sub>2</sub>]<sup>+</sup>, [CrCl<sub>2</sub>(C<sub>2</sub>O<sub>4</sub>)<sub>2</sub>]<sup>3$$-$$</sup>, [Fe(H<sub>2</sub>O)<sub>4</sub>)OH)<sub>2</sub>]<sup>+</sup>, [Fe(NH<sub>3</sub>)<sub>2</sub>(CN)<sub>4</sub>]<sup>$$-$$</sup>, [Co(NH<sub>2</sub>-CH<sub>2</sub>-CH<sub>2</sub>-NH<sub>2</sub>)<sub>2</sub>(NH<sub>3</sub>)Cl]<sup>2+</sup> and [Co(NH<sub>3</sub>)<sub>4</sub>(H<sub>2</sub>O)Cl]<sup>2+</sup>, the number of complex ions that shows cis-trans isomerism is ______________.</p>",
+      "answer": "6",
+      "explanation": "<p>The complex is with MA<sub>2</sub>B<sub>4</sub> or MA<sub>4</sub>B<sub>2</sub> or M(AA)<sub>2</sub>B<sub>2</sub> or M(AA)<sub>2</sub>BC structure can exhibit cis-trans isomerism. Therefore, number of given complex ions showing cis-trans isomerism is 6.</p>"
+    },
+    {
+      "_type": "numerical",
+      "body": "<p>The number of water molecule(s) directly bonded to the centre in CuSO$$_4$$ . 5H$$_2$$O is __________.</p>",
+      "answer": "4",
+      "explanation": "<p>The structure is CuSO$$_4$$ . 5H$$_2$$O $$\\to$$ [Cu(H$$_2$$O)$$_4$$]SO$$_4$$ . H$$_2$$O</p>\n<p>so, H$$_2$$O molecules directly attached to Cu are 4.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>LIST-I contains metal species and LIST-II contains their properties.</p>\n<p><style type=\"text/css\">\n.tg  {border-collapse:collapse;border-spacing:0;}\n.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg .tg-7btt{border-color:inherit;font-weight:bold;text-align:center;vertical-align:top}\n.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}\n</style>\n<table class=\"tg\">\n<thead>\n  <tr>\n    <th class=\"tg-7btt\">List-I</th>\n    <th class=\"tg-7btt\"><span style=\"font-weight:bold;font-style:normal\">List-II</span></th>\n  </tr>\n</thead>\n<tbody>\n  <tr>\n    <td class=\"tg-0pky\">(I) $\\left[\\mathrm{Cr}(\\mathrm{CN})_{6}\\right]^{4-}$<br></td>\n    <td class=\"tg-0pky\"><span style=\"font-weight:400;font-style:normal\">(P) $t_{2 \\mathrm{g}}$ orbitals contain 4 electrons</span></td>\n  </tr>\n  <tr>\n    <td class=\"tg-0pky\">(II) $\\left[\\mathrm{RuCl}_{6}\\right]^{2-}$</td>\n    <td class=\"tg-0pky\">(Q) $\\mu$ (spin-only $)=4.9 \\mathrm{BM}$</td>\n  </tr>\n  <tr>\n    <td class=\"tg-0pky\">(III) $\\left[\\mathrm{Cr}\\left(\\mathrm{H}_{2} \\mathrm{O}\\right)_{6}\\right]^{2+}$<br></td>\n    <td class=\"tg-0pky\">(R) low spin complex ion</td>\n  </tr>\n  <tr>\n    <td class=\"tg-0pky\">(IV) $\\left[\\mathrm{Fe}\\left(\\mathrm{H}_{2} \\mathrm{O}\\right)_{6}\\right]^{2+}$<br></td>\n    <td class=\"tg-0pky\">(S) metal ion in $4+$ oxidation state</td>\n  </tr>\n  <tr>\n    <td class=\"tg-0pky\"></td>\n    <td class=\"tg-0pky\">(T) $d^{4}$ species</td>\n  </tr>\n</tbody>\n</table></p>\n<p>[Given: Atomic number of $\\mathrm{Cr}=24, \\mathrm{Ru}=44, \\mathrm{Fe}=26$ ]</p>\n<p>Match each metal species in LIST-I with their properties in LIST-II, and choose the correct option</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "I $\\rightarrow$ R, T; II $\\rightarrow$ P, S; III $\\rightarrow$ Q, T; IV $\\rightarrow$ P, Q"
+        },
+        {
+          "key": "B",
+          "value": "I $\\rightarrow$ R, S; II $\\rightarrow$ P, T; III $\\rightarrow$ P, Q; IV $\\rightarrow$ Q, T"
+        },
+        {
+          "key": "C",
+          "value": "I $\\rightarrow$ P, R; II $\\rightarrow$ R, S; III $\\rightarrow$ R, T; IV $\\rightarrow$ P, T"
+        },
+        {
+          "key": "D",
+          "value": "I $\\rightarrow$ Q, T; II $\\rightarrow$ S, T; III $\\rightarrow$ P, T; IV $\\rightarrow$ Q, R\n"
+        }
+      ],
+      "answer": "A",
+      "explanation": "<p>(I) $${[Cr{(CN)_6}]^{4 - }}$$</p>\n<p>$$C{r^{ + 2}} = [Ar]\\,3{d^4}\\,4{s^0}$$</p>\n<p>It is d<sup>2</sup>sp<sup>3</sup> hybridised as CN<sup>$$-$$</sup> is a strong field ligand.</p>\n<p>(II) $${[RuC{l_6}]^{2 - }}$$</p>\n<p>$$R{u^{ + 4}} = [Kr]\\,4{d^4}\\,5{s^0}$$</p>\n<p>t<sub>2g</sub> set contains 4 electron.</p>\n<p>(III) $${[Cr{({H_2}O)_6}]^{2 + }}$$</p>\n<p>$$C{r^{ + 2}} = [Ar]\\,3{d^4}\\,4{s^0}$$</p>\n<p>It has 4 unpaired e<sup>$$-$$</sup> as H<sub>2</sub>O is weak field ligand.</p>\n<p>So, its $$\\mu$$ = 4.9 B.M.</p>\n<p>(IV) $${[Fe{({H_2}O)_6}]^{2 + }}$$</p>\n<p>$$F{e^{ + 2}} = [Ar]\\,3{d^6}\\,4{s^0}$$</p>\n<p>$$ = t_{2g}^4\\,e_g^2$$</p>\n<p>It has 4 unpaired e<sup>$$-$$</sup>, its $$\\mu$$ = 4.9 B.M.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The geometries of the ammonia complexes of Ni<sup>2+</sup>, Pt<sup>2+</sup> and Zn<sup>2+</sup>, respectively, are",
+      "options": [
+        {
+          "key": "A",
+          "value": "octahedral, square planar and tetrahedral"
+        },
+        {
+          "key": "B",
+          "value": "square planar, octahedral and tetrahedral"
+        },
+        {
+          "key": "C",
+          "value": "tetrahedral, square planar and octahedral"
+        },
+        {
+          "key": "D",
+          "value": "octahedral, tetrahedral and square planar"
+        }
+      ],
+      "answer": "A",
+      "explanation": "The hybridisation of central atoms and the geometries of ammonia complex are tabulated as follows:<br/><br/>\n$$\n\\begin{array}{|l|c|c|c|l|}\n\\hline \\text { Metal Ion } & \\text { Hybridisation } & \\text { Coordination Number } & \\text { Complex with } \\mathbf{N H}_3 & \\text { Geometry } \\\\\n\\hline \\mathrm{Ni}^{2+}:[\\mathrm{Ar}] 3 d^8 4 s^2 & d^2 s p^3 & 6 & {\\left[\\mathrm{Ni}\\left(\\mathrm{NH}_3\\right)_6\\right]^{2+}} & \\text { Octahedral } \\\\\n\\hline \\mathrm{Pt}^{2+}:[\\mathrm{Xe}] 4 f^4 5 d^9 6 s^1 & d s p^2 & 4 & {\\left[\\mathrm{Pt}\\left(\\mathrm{NH}_3\\right)_4\\right]^{2+}} & \\text { Square planar } \\\\\n\\hline \\mathrm{Zn}^{2+}:[\\mathrm{Ar}] 3 d^{10} 4 s^2 & s p^3 & 4 & {\\left[\\mathrm{Zn}\\left(\\mathrm{NH}_3\\right)_4\\right]^{2+}} & \\text { Tetrahedral } \\\\\n\\hline\n\\end{array}\n$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>As per IUPAC nomenclature, the name of the complex $$[Co{({H_2}O)_4}{(N{H_3})_2}]C{l_3}$$ is</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "Tetraaquadiaminecobalt (III) chloride."
+        },
+        {
+          "key": "B",
+          "value": "Tetraaquadiamminecobalt (III) chloride."
+        },
+        {
+          "key": "C",
+          "value": "Diaminetetraaquacobalt (III) chloride."
+        },
+        {
+          "key": "D",
+          "value": "Diamminetetraaquacobalt (III) chloride."
+        }
+      ],
+      "answer": "D",
+      "explanation": "<p>There are two ligands in the coordination entity, that is, ammine and aqua, but according to the IUPAC rule, alphabetical order is followed, that is, ammine is named first. Now calculating the oxidation state of Co, the net charge on the coordination entity is +3 as Cl has $$-$$1 and there are three Cl<sup>$$-$$</sup> outside the square brackets. So the oxidation state of Co will be III as both ammine and aqua are neutral ligands. So, its correct name will be diamminetetraaquacobalt (III) chloride.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>The ionisation isomer of $$\\mathrm{[Cr(H_2O)_4Cl(NO_2)]Cl}$$ is</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$[Cr{({H_2}O)_4}({O_2}N)]C{l_2}$$"
+        },
+        {
+          "key": "B",
+          "value": "$$[Cr{({H_2}O)_4}C{l_2}](N{O_2})$$"
+        },
+        {
+          "key": "C",
+          "value": "$$[Cr{({H_2}O)_4}Cl(ONO)]Cl$$"
+        },
+        {
+          "key": "D",
+          "value": "$$[Cr{({H_2}O)_4}C{l_2}(N{O_2})]{H_2}O$$"
+        }
+      ],
+      "answer": "B",
+      "explanation": "<p>The ionisation isomers give different ions in solution. In the complex given in option (B), Cl$$^-$$ is replaced by NO$$_2^ - $$ in ionisation sphere.</p>\n<p>$$\\mathrm{[Cr(H_2O)_4Cl(NO_2)]Cl}$$ and $$[Cr{({H_2}O)_4}C{l_2}](N{O_2})$$ have different\nions inside and outside the coordinate sphere and they are\nisomers.\nTherefore, they are ionisation isomers.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>The spin only magnetic moment value (in Bohr magneton units) of Cr(CO)$$_6$$ is</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "0"
+        },
+        {
+          "key": "B",
+          "value": "2.84"
+        },
+        {
+          "key": "C",
+          "value": "4.90"
+        },
+        {
+          "key": "D",
+          "value": "5.92"
+        }
+      ],
+      "answer": "A",
+      "explanation": "<p>In [Cr(CO)$$_6$$]: Cr(24) = [Ar] 3$$d^5$$ 4$$s^1$$</p>\n<p>Since CO is a strong field ligand, so pairing of electrons will take place and the configuration will become $$3d^6$$. There will be no unpaired electrons, so, the spin only magnetic moment is zero.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Among the following, the coloured compound is :</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "CuCl"
+        },
+        {
+          "key": "B",
+          "value": "K$$_3$$[Cu(CN)$$_4$$]"
+        },
+        {
+          "key": "C",
+          "value": "CuF$$_2$$"
+        },
+        {
+          "key": "D",
+          "value": "[Cu(CH$$_3$$CH)$$_4$$]BF$$_4$$"
+        }
+      ],
+      "answer": "C",
+      "explanation": "<p>The electronic configuration of Cu$$^{2+}$$ is [Ar]3d$$^9$$. It contains one unpaired electron. Hence, CuF$$_2$$ is coloured compound.</p>\n<p>In all other compounds, Cu$$^+$$ ion is present. It has electronic configuration of Cu$$^{2+}$$ is [Ar]3d$$^{10}$$. All electrons are paired.</p>\n<p>Hence, they are colourless.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>The IUPAC name of [Ni(NH$$_3$$)$$_4$$] [NiCl$$_4$$] is :</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "Tetrachloronickel (II) - tetraamminenickel (II)"
+        },
+        {
+          "key": "B",
+          "value": "Tetraamminenickel (II) - tetrachloronickel (II)"
+        },
+        {
+          "key": "C",
+          "value": "Tetraammnenickel (II) - tetrachloronickelate (II)"
+        },
+        {
+          "key": "D",
+          "value": "Tetrachloronickel (II) - tetraamminenickelate (0)"
+        }
+      ],
+      "answer": "C",
+      "explanation": "<p>The IUPAC name for [Ni(NH$$_3$$)$$_4$$] [NiCl$$_4$$] is : Tetraamminenickel (II) - tetrachloronickelate (II)</p>\n<p>The name of the complex cation is written first followed by the name of the complex anion. Complex cation contains four ammine ligands and complex anion contains four chloride ligands.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The pair of compounds having metals in their highest oxidation state is",
+      "options": [
+        {
+          "key": "A",
+          "value": "MnO<sub>2</sub>, FeCl<sub>3</sub>"
+        },
+        {
+          "key": "B",
+          "value": "[MnO<sub>4</sub>]<sup>-</sup>, CrO<sub>2</sub>Cl "
+        },
+        {
+          "key": "C",
+          "value": "[Fe(CN)<sub>6</sub>]<sup>3-</sup>, [Co(CN)<sub>3</sub>] "
+        },
+        {
+          "key": "D",
+          "value": "[NiCl<sub>4</sub>]<sup>2-</sup> , [CoCl<sub>4</sub>]<sup>-</sup> "
+        }
+      ],
+      "answer": "B",
+      "explanation": "<p>To determine the correct option, we should evaluate the oxidation states of the metals in the given compounds to see in which cases the metals are in their highest oxidation states.</p>\n\n<h3>Option A: MnO<sub>2</sub>, FeCl<sub>3</sub></h3>\n\n<p>For MnO<sub>2</sub>, manganese (Mn) has an oxidation state of +4. While this is a high oxidation state for Mn, it is not its highest, as it can go up to +7 (as in KMnO<sub>4</sub>).</p>\n\n<p>For FeCl<sub>3</sub>, iron (Fe) has an oxidation state of +3, which is its highest stable oxidation state.</p>\n\n<p>So, this option is not entirely correct.</p>\n\n<h3>Option B: [MnO<sub>4</sub>]<sup>-</sup>, CrO<sub>2</sub>Cl<sub>2</sub></h3>\n\n<p>For [MnO<sub>4</sub>]<sup>-</sup>, Mn is in the +7 oxidation state, which is indeed its highest oxidation state.</p>\n\n<p>In CrO<sub>2</sub>Cl<sub>2</sub>, chromium (Cr) is in the +6 oxidation state, which is its highest oxidation state.</p>\n\n<p>Both Mn and Cr are in their highest oxidation states, making this option correct.</p>\n\n<h3>Option C: [Fe(CN)<sub>6</sub>]<sup>3-</sup>, [Co(CN)<sub>6</sub>]<sup>3-</sup></h3>\n\n<p>For [Fe(CN)<sub>6</sub>]<sup>3-</sup>, Fe is in the +3 oxidation state, its highest stable oxidation state.</p>\n\n<p>However, [Co(CN)<sub>6</sub>]<sup>3-</sup> seems to be incorrectly provided as it suggests an oxidation number that does not fit standard cobalt complexes or could be a typographical error because typically, cobalt in a cyanide complex like [Co(CN)<sub>6</sub>]<sup>3-</sup> would suggest an oxidation state of +3 for cobalt. Cobalt can exist in +2 and +3 oxidation states commonly, with +3 being very stable in this coordination compound. But it isn't necessarily the highest oxidation state Co can achieve (it could theoretically go up to +4, but such compounds are very rare and not stable).</p>\n\n<p>Therefore, there seems to be a misunderstanding in the elements present or typo in this option for Co. Considering the usual cobalt complex and common oxidation states, though Co is in a high oxidation state (+3), the context seems mixed up, and noting the rarity and instability of Co(IV) compounds, the focus should rather be on the correctness of available options against the question's criteria.</p>\n\n<h3>Option D: [NiCl<sub>4</sub>]<sup>2-</sup>, [CoCl<sub>4</sub>]<sup>-</sup></h3>\n\n<p>For [NiCl<sub>4</sub>]<sup>2-</sup>, Ni is in the +2 oxidation state, which is not its highest (it can go up to +3).</p>\n\n<p>The [CoCl<sub>4</sub>]<sup>-</sup> mistakenly listed suggests cobalt in an oxidation state lower than its maximum, specifically +2, considering the anion's charge and typical coordination chemistry. Like Ni, Co in +2 is common but not its highest.</p>\n\n<p>This option does not have metals in their highest oxidation states either.</p>\n\n<h3>Conclusion</h3>\n\n<p>Option B, with [MnO<sub>4</sub>]<sup>-</sup> and CrO<sub>2</sub>Cl<sub>2</sub>, correctly presents the metals (Mn and Cr) in their highest oxidation states, making it the correct choice.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The brown ring complex compound is formulated as [Fe(H<sub>2</sub>O)<sub>5</sub>(NO)<sup>+</sup>]SO<sub>4</sub>. The oxidation state of iron is",
+      "options": [
+        {
+          "key": "A",
+          "value": "1"
+        },
+        {
+          "key": "B",
+          "value": "2"
+        },
+        {
+          "key": "C",
+          "value": "3"
+        },
+        {
+          "key": "D",
+          "value": "0"
+        }
+      ],
+      "answer": "A",
+      "explanation": "<p>The brown ring complex compound is given as [Fe(H<sub>2</sub>O)<sub>5</sub>(NO)<sup>+</sup>]SO<sub>4</sub>. To determine the oxidation state of iron (Fe) in this complex, we need to analyze the components and their charges:</p>\n\n<p>1. Let the oxidation state of Fe be $$x$$.</p>\n\n<p>2. The water molecules (H<sub>2</sub>O) are neutral ligands; hence, they do not contribute to the overall charge.</p>\n\n<p>3. The nitrosyl ligand (NO) in this complex is positively charged, $$NO^+$$, contributing a +1 charge.</p>\n\n<p>4. The sulfate ion (SO<sub>4</sub>) is doubly charged, with a -2 charge.</p>\n\n<p>The overall charge of the complex compound, [Fe(H<sub>2</sub>O)<sub>5</sub>(NO)<sup>+</sup>], must balance the charge of the sulfate ion (SO<sub>4</sub>):</p>\n\n<p>Since the sulfate ion $$SO_4^{2-}$$ has a charge of -2, the complex ion must have a charge of +2 to balance it out:</p>\n\n<p>Therefore:</p>\n\n<p>$$ x + 5(0) + 1 = +2 $$</p>\n\n<p>$$ x + 1 = +2 $$</p>\n\n<p>$$ x = +1 $$</p>\n\n<p>Thus, the oxidation state of iron (Fe) in the brown ring complex compound is +1.</p>\n\n<p>The correct answer is:</p>\n\n<p>Option A</p>\n\n<p>1</p>"
+    }
+  ]
+}

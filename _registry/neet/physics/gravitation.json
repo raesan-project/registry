@@ -1,0 +1,1255 @@
+{
+  "_index": {
+    "name": "Gravitation"
+  },
+  "_children": [
+    {
+      "_type": "single_mcq",
+      "body": "<p>The escape velocity for earth is $$v$$. A planet having 9 times mass that of earth and radius, 16 times that of earth, has the escape velocity of:</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$\\frac{v}{3}$$\n"
+        },
+        {
+          "key": "B",
+          "value": "$$\\frac{2 v}{3}$$\n"
+        },
+        {
+          "key": "C",
+          "value": "$$\\frac{3 v}{4}$$\n"
+        },
+        {
+          "key": "D",
+          "value": "$$\\frac{9 v}{4}$$\n"
+        }
+      ],
+      "answer": "C",
+      "explanation": "<p>Escape velocity of object from planet is given by</p>\n<p>$$\\begin{aligned}\n& \\left(v_e\\right)_p=\\sqrt{\\frac{2 G M_p}{R_p}} \\\\\n& \\therefore \\quad\\left(v_e\\right)_p \\propto \\sqrt{\\frac{M_p}{R_p}}\n\\end{aligned}$$</p>\n<p>Now, $$M_p=9 M_e$$ and $$R_\\rho=16 R_e$$ (given)</p>\n<p>$$\\begin{aligned}\n& \\frac{\\left(v_e\\right)_p}{\\left(v_e\\right)_e}=\\sqrt{\\frac{M_p}{R_p} \\times \\frac{R_e}{M_e}}=\\sqrt{\\frac{9 M_e}{16 R_e} \\times \\frac{R_e}{M_e}}=\\sqrt{\\frac{9}{16}}=\\frac{3}{4} \\\\\n& \\Rightarrow \\quad\\left(v_e\\right)_p=\\frac{3}{4} v\n\\end{aligned}$$</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>The mass of a planet is $$\\frac{1}{10}$$th that of the earth and its diameter is half that of the earth. The acceleration due to gravity on that planet is:</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$19.6 \\mathrm{~m} \\mathrm{~s}^{-2}$$\n"
+        },
+        {
+          "key": "B",
+          "value": "$$9.8 \\mathrm{~m} \\mathrm{~s}^{-2}$$\n"
+        },
+        {
+          "key": "C",
+          "value": "$$4.9 \\mathrm{~m} \\mathrm{~s}^{-2}$$\n"
+        },
+        {
+          "key": "D",
+          "value": "$$3.92 \\mathrm{~m} \\mathrm{~s}^{-2}$$"
+        }
+      ],
+      "answer": "D",
+      "explanation": "<p>The acceleration due to gravity (g) on a planet is given by the formula:</p>\n\n<p>$$ g = G \\frac{M}{R^2} $$</p>\n\n<p>where:</p>\n\n<ul>\n\n<li>$G$ is the universal gravitational constant,</li>\n\n<li>$M$ is the mass of the planet, and</li>\n\n<li>$R$ is the radius of the planet.</li>\n\n</ul>\n\n<p>In this question, we know that:</p>\n\n<ul>\n\n<li>The mass of the planet $ M_p $ is $\\frac{1}{10}$ of the mass of the earth $ M_e $, so $ M_p = \\frac{M_e}{10} $.</li>\n\n<li>The diameter of the planet is half that of earth. Since the diameter is twice the radius, a diameter half that of earth implies the radius $ R_p $ is also half the radius of the earth $ R_e $. Therefore, $ R_p = \\frac{R_e}{2} $.</li>\n\n</ul>\n\n<p>Using the formula for acceleration due to gravity and substituting the above information:</p>\n\n<p>$$ g_p = G \\frac{M_p}{R_p^2} = G \\frac{\\frac{M_e}{10}}{\\left(\\frac{R_e}{2}\\right)^2} $$</p>\n\n<p>Simplify the expression:</p>\n\n<p>$$ g_p = G \\frac{M_e}{10} \\cdot \\frac{4}{R_e^2} = \\frac{4}{10} G \\frac{M_e}{R_e^2} $$</p>\n\n<p>Knowing that $ G \\frac{M_e}{R_e^2} $ is the acceleration due to gravity on Earth $ g_e \\approx 9.8 \\, \\mathrm{m/s}^2 $, we substitute this value into the equation:</p>\n\n<p>$$ g_p = \\frac{4}{10} \\cdot 9.8 \\, \\mathrm{m/s}^2 = 3.92 \\, \\mathrm{m/s}^2 $$</p>\n\n<p>Thus, the acceleration due to gravity on the planet is $3.92 \\, \\mathrm{m/s}^2$, which corresponds to:</p>\n\n<p>Option D: $$3.92 \\mathrm{~m/s}^2$$</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>The minimum energy required to launch a satellite of mass $$m$$ from the surface of earth of mass $$M$$ and radius $$R$$ in a circular orbit at an altitude of $$2 R$$ from the surface of the earth is:</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$\\frac{5 G m M}{6 R}$$\n"
+        },
+        {
+          "key": "B",
+          "value": "$$\\frac{2 G m M}{3 R}$$\n"
+        },
+        {
+          "key": "C",
+          "value": "$$\\frac{G m M}{2 R}$$\n"
+        },
+        {
+          "key": "D",
+          "value": "$$\\frac{G m M}{3 R}$$"
+        }
+      ],
+      "answer": "A",
+      "explanation": "<p>Apply energy conservation,</p>\n<p>$$\\begin{aligned}\n& U_i+K_i=U_f+K_f \\\\\n& \\Rightarrow \\quad-\\frac{G M m}{R}+K_i=-\\frac{G M m}{3 R}+\\frac{1}{2} m v^2 \\\\\n& \\Rightarrow \\quad-\\frac{G M m}{R}+K_i=-\\frac{G M m}{3 R}+\\frac{1}{2} \\times m \\times \\frac{G M}{3 R} \\\\\n& \\Rightarrow \\quad K_i=-\\frac{1}{6} \\frac{G M m}{R}+\\frac{G M m}{R} \\\\\n& K_i=\\frac{5}{6} \\frac{G M m}{R}\n\\end{aligned}$$</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>The escape velocity of a body on the earth surface is $$11.2 \\mathrm{~km} / \\mathrm{s}$$. If the same body is projected upward with velocity $$22.4 \\mathrm{~km} / \\mathrm{s}$$, the velocity of this body at infinite distance from the centre of the earth will be:</p>\n\n\n\n\n",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$11.2 \\sqrt{2} \\mathrm{~km} / \\mathrm{s}$$"
+        },
+        {
+          "key": "B",
+          "value": "Zero"
+        },
+        {
+          "key": "C",
+          "value": "$$11.2 \\mathrm{~km} / \\mathrm{s}$$"
+        },
+        {
+          "key": "D",
+          "value": "$$11.2 \\sqrt{3} \\mathrm{~km} / \\mathrm{s}$$"
+        }
+      ],
+      "answer": "D",
+      "explanation": "<p>$$V_{\\infty}=\\sqrt{V^2-V_e^2}$$</p>\n<p>Given than</p>\n<p>$$\\mathrm{V}=2 \\mathrm{~V}_e$$</p>\n<p>So,</p>\n<p>$$\\begin{aligned}\n& \\mathrm{V}_{\\infty}=\\sqrt{\\left(2 \\mathrm{~V}_e\\right)^2-\\mathrm{V}_e^2} \\\\\n& \\mathrm{~V}_{\\infty}=\\sqrt{3} \\mathrm{~V}_e=11.2 \\sqrt{3} \\mathrm{~km} / \\mathrm{s}\\end{aligned}$$</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>If $$\\mathrm{R}$$ is the radius of the earth and $$\\mathrm{g}$$ is the acceleration due to gravity on the earth surface. Then the mean density of the earth will be :</p>\n",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$\\frac{\\pi \\mathrm{RG}}{12 \\mathrm{~g}}$$\n"
+        },
+        {
+          "key": "B",
+          "value": "$$\\frac{3 \\pi R}{4 g G}$$\n"
+        },
+        {
+          "key": "C",
+          "value": "$$\\frac{3 g}{4 \\pi R G}$$\n"
+        },
+        {
+          "key": "D",
+          "value": "$$\\frac{4 \\pi \\mathrm{G}}{3 g R}$$\n"
+        }
+      ],
+      "answer": "C",
+      "explanation": "<p>$$\n\\begin{aligned}\n& g=\\frac{4}{3} \\pi \\mathrm{GR} \\rho \\\\\n& \\rho=\\frac{3 g}{4 \\pi \\mathrm{GR}}\n\\end{aligned}\n$$</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>A satellite is orbiting just above the surface of the earth with period $$T$$. If $$d$$ is the density of the earth and $$G$$ is the universal constant of gravitation, the quantity $$\\frac{3 \\pi}{G d}$$ represents :</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$T^{2}$$"
+        },
+        {
+          "key": "B",
+          "value": "$$T^{3}$$"
+        },
+        {
+          "key": "C",
+          "value": "$$\\sqrt{T}$$"
+        },
+        {
+          "key": "D",
+          "value": "$$T$$"
+        }
+      ],
+      "answer": "A",
+      "explanation": "<p>For a satellite orbiting just above the surface of the Earth, we can use the formula for the period T of the satellite in terms of the Earth&#39;s density d and the gravitational constant G:</p>\n<p>$$T = 2\\pi\\sqrt{\\frac{a^3}{GM}}$$</p>\n<p>where a is the semi-major axis of the orbit (which is approximately equal to the Earth&#39;s radius R for a satellite orbiting just above the surface) and M is the mass of the Earth. </p>\n<p>We can express the mass of the Earth M in terms of its density d and volume:</p>\n<p>$$M = dV = d\\times\\frac{4}{3}\\pi R^3$$</p>\n<p>Now, substitute this expression for M into the equation for T:</p>\n<p>$$T = 2\\pi\\sqrt{\\frac{a^3}{Gd\\times\\frac{4}{3}\\pi R^3}}$$</p>\n<p>Since the satellite is orbiting just above the Earth&#39;s surface, we can approximate a ≈ R:</p>\n<p>$$T = 2\\pi\\sqrt{\\frac{R^3}{Gd\\times\\frac{4}{3}\\pi R^3}}$$</p>\n<p>Simplify the equation:</p>\n<p>$$T = 2\\pi\\sqrt{\\frac{1}{Gd\\times\\frac{4}{3}\\pi}}$$</p>\n<p>Now, square both sides of the equation:</p>\n<p>$$T^2 = 4\\pi^2\\frac{1}{Gd\\times\\frac{4}{3}\\pi}$$</p>\n<p>Simplify further:</p>\n<p>$$T^2 = \\frac{3\\pi}{Gd}$$</p>\n<p>Thus, the quantity $$\\frac{3\\pi}{Gd}$$ represents $$T^2$$.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>In a gravitational field, the gravitational potential is given by, $$V =  - {K \\over x}$$ (J/Kg). The gravitational field intensity at point (2, 0, 3) m is</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$ + {K \\over 4}$$"
+        },
+        {
+          "key": "B",
+          "value": "$$ + {K \\over 2}$$"
+        },
+        {
+          "key": "C",
+          "value": "$$ - {K \\over 2}$$"
+        },
+        {
+          "key": "D",
+          "value": "$$ - {K \\over 4}$$"
+        }
+      ],
+      "answer": "D",
+      "explanation": "<p>Gravitational field intensity $$ = {{ - \\partial V} \\over {\\partial x}}\\widehat i + {{ - \\partial V} \\over {\\partial y}}\\widehat j + {{ - \\partial V} \\over {\\partial x}}\\widehat k$$</p>\n<p>where V is gravitational potential</p>\n<p>$$\\Rightarrow$$ Gravitational field intensity $$ = {{ - \\partial } \\over {\\partial x}}\\left[ {{{ - K} \\over x}} \\right] = {{ - K} \\over {{x^2}}}\\widehat i$$</p>\n<p>at (2, 0, 3)</p>\n<p>$$\\overrightarrow {{E_G}}  = {{ - K} \\over {{2^2}}} = {{ - K} \\over 4}\\widehat i$$</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>A body of mass 60 g experiences a gravitational force of 3.0 N, when placed at a particular point. The magnitude of the gravitational field intensity at that point is</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "0.05 N/kg"
+        },
+        {
+          "key": "B",
+          "value": "50 N/kg"
+        },
+        {
+          "key": "C",
+          "value": "20 N/kg"
+        },
+        {
+          "key": "D",
+          "value": "180 N/kg"
+        }
+      ],
+      "answer": "B",
+      "explanation": "<p>$$F = m{E_G}$$</p>\n<p>$$3 = {{60} \\over {1000}}{E_G}$$</p>\n<p>$${E_G} = 50$$ N/kg</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Match List - I with List - II</p>\n<p><style type=\"text/css\">\n.tg  {border-collapse:collapse;border-spacing:0;}\n.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg .tg-7btt{border-color:inherit;font-weight:bold;text-align:center;vertical-align:top}\n.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}\n</style>\n<table class=\"tg\" style=\"undefined;table-layout: fixed; width: 462px\">\n<colgroup>\n<col style=\"width: 42px\">\n<col style=\"width: 196px\">\n<col style=\"width: 41px\">\n<col style=\"width: 183px\">\n</colgroup>\n<thead>\n  <tr>\n    <th class=\"tg-7btt\"></th>\n    <th class=\"tg-7btt\">List - I</th>\n    <th class=\"tg-7btt\"></th>\n    <th class=\"tg-7btt\">List - II</th>\n  </tr>\n</thead>\n<tbody>\n  <tr>\n    <td class=\"tg-0pky\">(a)</td>\n    <td class=\"tg-0pky\">Gravitational constant (G)</td>\n    <td class=\"tg-0pky\">(i)</td>\n    <td class=\"tg-0pky\">$$[{L^2}{T^{ - 2}}]$$</td>\n  </tr>\n  <tr>\n    <td class=\"tg-0pky\">(b)</td>\n    <td class=\"tg-0pky\">Gravitational potential energy</td>\n    <td class=\"tg-0pky\">(ii)</td>\n    <td class=\"tg-0pky\">$$[{M^{ - 1}}{L^3}{T^{ - 2}}]$$</td>\n  </tr>\n  <tr>\n    <td class=\"tg-0pky\">(c)</td>\n    <td class=\"tg-0pky\">Gravitational potential</td>\n    <td class=\"tg-0pky\">(iii)</td>\n    <td class=\"tg-0pky\">$$[L{T^{ - 2}}]$$</td>\n  </tr>\n  <tr>\n    <td class=\"tg-0pky\">(d)</td>\n    <td class=\"tg-0pky\">Gravitational intensity</td>\n    <td class=\"tg-0pky\">(iv)</td>\n    <td class=\"tg-0pky\">$$[M{L^2}{T^{ - 2}}]$$</td>\n  </tr>\n</tbody>\n</table></p>\n<p>Choose the correct answer from the options given below</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)"
+        },
+        {
+          "key": "B",
+          "value": "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)"
+        },
+        {
+          "key": "C",
+          "value": "(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)"
+        },
+        {
+          "key": "D",
+          "value": "(a)-(iv), (b)-(ii), (c)-(i), (d)-(iii)"
+        }
+      ],
+      "answer": "B",
+      "explanation": "<p>(a) $$[G] = {{F{r^2}} \\over {{m_1}{m_2}}}$$</p>\n<p>$$[G] = {{F{r^2}} \\over {{m_1}{m_2}}} = {{[ML{T^{ - 2}}]{L^2}} \\over {[MM]}} = [{M^{ - 1}}{L^3}{T^{ - 2}}]$$</p>\n<p>(b) Gravitational potential energy $$ = [M{L^2}{T^{ - 2}}]$$</p>\n<p>(c) Gravitational potential $$ = {{PE} \\over m} = [{L^2}{T^{ - 2}}]$$</p>\n<p>(d) Gravitational field intensity $$ = {F \\over m} = [L{T^{ - 2}}]$$</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The escape velocity from the Earth's surface is v. The escape velocity from the surface of another planet having a radius, four times that of Earth and same mass density is :",
+      "options": [
+        {
+          "key": "A",
+          "value": "4$$\\upsilon $$"
+        },
+        {
+          "key": "B",
+          "value": "$$\\upsilon $$"
+        },
+        {
+          "key": "C",
+          "value": "2$$\\upsilon $$"
+        },
+        {
+          "key": "D",
+          "value": "3$$\\upsilon $$"
+        }
+      ],
+      "answer": "A",
+      "explanation": "$${v_e} = \\sqrt {{{2GM} \\over R}}  = \\sqrt {{{2G} \\over R} \\times {4 \\over 3}\\pi {R^3}\\rho } $$<br><br>$$ = \\sqrt {{{8\\pi G\\rho } \\over 3}{R^2}} $$<br><br>$$ \\Rightarrow {v_e} \\propto R$$<br><br>$$ \\Rightarrow {{{v_e}} \\over \\upsilon } = {{4R} \\over R} \\Rightarrow {v_e} = 4v$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A particle of mass 'm' is projected with a velocity $$\\upsilon $$ = kV<sub>e</sub> = (k &lt; 1) from the surface of the earth. (V<sub>e</sub> = escape velocity)<br><br>The maximum height above the surface reached by the particle is :",
+      "options": [
+        {
+          "key": "A",
+          "value": "$${{R{k^2}} \\over {1 - {k^2}}}$$"
+        },
+        {
+          "key": "B",
+          "value": "$$R{\\left( {{k \\over {1 - {k^2}}}} \\right)^2}$$"
+        },
+        {
+          "key": "C",
+          "value": "$$R{\\left( {{k \\over {1 + {k^2}}}} \\right)^2}$$"
+        },
+        {
+          "key": "D",
+          "value": "$${{{R^2}k} \\over {1 + k}}$$"
+        }
+      ],
+      "answer": "A",
+      "explanation": "$$ - {{GMm} \\over R} + {1 \\over 2}m{k^2}{v_e}^2 =  - {{GMm} \\over r}$$<br><br>$$ - {{GMm} \\over R} + {1 \\over 2}m{k^2}{{2GM} \\over R} =  - {{GMm} \\over r}$$<br><br>$$ - {1 \\over R} + {{{k^2}} \\over R} =  - {1 \\over r}$$<br><br>$${1 \\over r} = {1 \\over R} - {{{k^2}} \\over R}$$<br><br>$${1 \\over r} = {{1 - {k^2}} \\over R}$$<br><br>$$r = {R \\over {1 - {k^2}}}$$<br><br>$$R + h = {R \\over {1 - {k^2}}}$$<br><br>$$h = {R \\over {1 - {k^2}}} - R = {{{k^2}} \\over {1 - {k^2}}}R$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A body weighs 72 N on the surface of the earth. What is the gravitational force on it, at a height equal to half the radius of the earth?",
+      "options": [
+        {
+          "key": "A",
+          "value": "32 N"
+        },
+        {
+          "key": "B",
+          "value": "30 N"
+        },
+        {
+          "key": "C",
+          "value": "24 N"
+        },
+        {
+          "key": "D",
+          "value": "48 N"
+        }
+      ],
+      "answer": "A",
+      "explanation": "We know W = mg<br><br>At a height h, above the surface of earth, weight is given as,<br><br>$$mgh = {{mg} \\over {\\left[ {{{\\left( {1 + {h \\over R}} \\right)}^2}} \\right]}}$$<br><br>$$ = {{72} \\over {{{\\left( {1 + {{R/2} \\over R}} \\right)}^2}}}$$\n<br><br>$$ = {{72} \\over {{{\\left( {{3 \\over 2}} \\right)}^2}}}$$\n<br><br>$$ = {4 \\over 9} \\times 72 = 32N$$\n\n"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The work done to raise a mass m from the surface of the earth to a height h, which is equal to the radius of the earth, is :",
+      "options": [
+        {
+          "key": "A",
+          "value": "mgR"
+        },
+        {
+          "key": "B",
+          "value": "2mgR"
+        },
+        {
+          "key": "C",
+          "value": "$${1 \\over 2}$$mgR"
+        },
+        {
+          "key": "D",
+          "value": "$${3 \\over 2}$$mgR"
+        }
+      ],
+      "answer": "C",
+      "explanation": "Initial potential energy at Earths\nsurface is\n<br><br>U<sub>i</sub> = $$ - {{GMm} \\over R}$$\n<br><br>Final potential energy at height h = R :\n<br><br>U<sub>f</sub> = $$ - {{GMm} \\over 2R}$$\n<br><br>work done = change in PE\n<br><br>w = U<sub>f</sub> - U<sub>i</sub>\n<br><br>= $${{GMm} \\over 2R}$$\n<br><br>= $${{g{R^2}m} \\over {2R}}$$\n<br><br>= $${1 \\over 2}$$mgR"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A body weight 200 N on the surface of earth. How much will it weight half way down to the centre of the earth?",
+      "options": [
+        {
+          "key": "A",
+          "value": "200 N"
+        },
+        {
+          "key": "B",
+          "value": "250 N"
+        },
+        {
+          "key": "C",
+          "value": "100 N"
+        },
+        {
+          "key": "D",
+          "value": "150 N"
+        }
+      ],
+      "answer": "C",
+      "explanation": "Accelerattion due to gravity at a depth d from\nsurface of Earth\n<br><br>$$g$$'  = $$g\\left( {1 - {d \\over R}} \\right)$$ ....(1)\n<br><br>Multiplying by mass 'm' on both sides of equation (1)\n<br><br>m$$g$$'  = m$$g\\left( {1 - {d \\over R}} \\right)$$\n<br><br>= $$200\\left( {1 - {R \\over {2R}}} \\right)$$  &nbsp;&nbsp; ($$ \\because $$ $${d = {R \\over 2}}$$)\n<br><br>= $${{200} \\over 2} = 100$$ N"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "If the mass of the Sun were ten times smaller\nand the universal gravitational constant were\nten times larger in magnitude, which of the\nfollowing is not correct?",
+      "options": [
+        {
+          "key": "A",
+          "value": "Raindrops will fall faster."
+        },
+        {
+          "key": "B",
+          "value": "Walking on the ground would become more\ndifficult."
+        },
+        {
+          "key": "C",
+          "value": "Time period of a simple pendulum on the\nEarth would decrease."
+        },
+        {
+          "key": "D",
+          "value": "g on the Earth will not change."
+        }
+      ],
+      "answer": "D",
+      "explanation": "If universal gravitational constant becomes\nten times, then G' = 10 G\n<br><br>Acceleration due to gravity, g = $${{GM} \\over {{R^2}}}$$\n<br><br>So,\nacceleration due to gravity increases, hence ‘g’ on\nthe Earth will not change is not correct."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Two astronauts are floating in gravitational free space after having lost contact with their spaceship. The two will",
+      "options": [
+        {
+          "key": "A",
+          "value": "move towards each other."
+        },
+        {
+          "key": "B",
+          "value": "move away from each other."
+        },
+        {
+          "key": "C",
+          "value": "will become stationary."
+        },
+        {
+          "key": "D",
+          "value": "keep floating at the same distance between them."
+        }
+      ],
+      "answer": "A",
+      "explanation": "Since two astronauts are floating in gravitational free space. The only force acting on the two astronauts is the gravitational pull of their masses, $$F = {{G{m_1}{m_2}} \\over {{r^2}}}$$<br><br>\nwhich is attractive in nature.<br> Hence they move towards each other. "
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The acceleration due to gravity at a height at a height 1 km above the rearth is the same as at a depth d below the surface of earth. Then",
+      "options": [
+        {
+          "key": "A",
+          "value": "d = 1 km"
+        },
+        {
+          "key": "B",
+          "value": "d = $${3 \\over 2}$$ km"
+        },
+        {
+          "key": "C",
+          "value": "d = 2 km"
+        },
+        {
+          "key": "D",
+          "value": "d = $${1 \\over 2}$$ km"
+        }
+      ],
+      "answer": "C",
+      "explanation": "Above earth surface <br><br>\n$${g_h} = g\\left( {1 - {{2h} \\over {{R_e}}}} \\right)$$<br><br>\nBelow earth surface <br><br>\n$${g_d} = g\\left( {1 - {d \\over {{R_e}}}} \\right)$$<br><br>\nAccording to question, g<sub>h</sub> = g<sub>d</sub><br><br>\n$$g\\left( {1 - {{2h} \\over {{R_e}}}} \\right)$$ = $$g\\left( {1 - {d \\over {{R_e}}}} \\right)$$<br><br>\nClearly, d = 2h  = 2 km"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A satellite of mass m is orbiting the earth (of radius R) at a height h from its surface. The total energy of the satellite in terms of g<sub>0</sub>, the value of acceleration due to gravity at the earth's surface, is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$${{m{g_0}{R^2}} \\over {2\\left( {R + h} \\right)}}$$"
+        },
+        {
+          "key": "B",
+          "value": "$$ - {{m{g_0}{R^2}} \\over {2\\left( {R + h} \\right)}}$$"
+        },
+        {
+          "key": "C",
+          "value": "$${{2m{g_0}{R^2}} \\over {R + h}}$$"
+        },
+        {
+          "key": "D",
+          "value": "$$ - {{2m{g_0}{R^2}} \\over {R + h}}$$"
+        }
+      ],
+      "answer": "B",
+      "explanation": "Total mechanical energy of satellite is given by<br><br>  E = – GMm/2r <br><br>\nHere,   r = R + h<br><br> And, GM = g<sub>o</sub>R<sup>2</sup><br><br>\nSo,   E = – mg<sub>o</sub>R<sup>2</sup>/2(R+h) "
+    },
+    {
+      "_type": "single_mcq",
+      "body": "At what height from the surface of earth the gravitation potential and the value of g are $$-$$5.4 $$ \\times $$ 10<sup>7</sup> J kg<sup>$$-$$1</sup> and 6.0 m s<sup>$$-$$2</sup> respectively?  Take the radius of earth as 6400 km.",
+      "options": [
+        {
+          "key": "A",
+          "value": "1400 km"
+        },
+        {
+          "key": "B",
+          "value": "2000 km"
+        },
+        {
+          "key": "C",
+          "value": "2600 km"
+        },
+        {
+          "key": "D",
+          "value": "1600 km"
+        }
+      ],
+      "answer": "C",
+      "explanation": "As we know, gravitational potential (v) and acceleration due to gravity (g) with height <br><br>\n$$V = {{ - GM} \\over {R + h}} =  - 5.4 \\times {10^7}$$&nbsp;&nbsp;&nbsp;...(i)<br><br>\nand $$g = {{GM} \\over {{{\\left( {R + h} \\right)}^2}}} = 6$$&nbsp;&nbsp;&nbsp;...(ii)<br><br>\nDividing (i) by (ii)<br><br>\n$${{{{ - GM} \\over {R + h}}} \\over {{{GM} \\over {{{\\left( {R + h} \\right)}^2}}}}} = {{ - 5.4 \\times {{10}^7}} \\over 6}$$<br><br>\n$$ \\Rightarrow {{ - 5.4 \\times {{10}^7}} \\over {\\left( {R + h} \\right)}} = 6$$<br><br>\n$$ \\Rightarrow $$ R + h = 9000 km so, h = 2600 km "
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The ratio of escape velocity at earth (v<sub>e</sub>) to the escape velocity at a planet (v<sub>p</sub>) whose radius and mean density  are twice as that of earth is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "1 : 4"
+        },
+        {
+          "key": "B",
+          "value": "1 : $$\\sqrt 2 $$"
+        },
+        {
+          "key": "C",
+          "value": "1 : 2"
+        },
+        {
+          "key": "D",
+          "value": "1 : 2$$\\sqrt 2 $$"
+        }
+      ],
+      "answer": "D",
+      "explanation": "As we know, escape velocity, <br><br>\n$${V_e} = \\sqrt {{{2GM} \\over R}}  = \\sqrt {{{2G} \\over R}.\\left( {{4 \\over 3}\\pi {R^3}\\rho } \\right)}  \\propto R\\sqrt \\rho  $$<br><br>\n$$ \\therefore $$ $${{{V_e}} \\over {{V_p}}} = {{{R_e}} \\over {{R_p}}}\\sqrt {{{{\\rho _e}} \\over {{\\rho _p}}}} $$<br><br>\n$$ \\Rightarrow {{{V_e}} \\over {{V_p}}} = {{{R_e}} \\over {2{R_e}}}\\sqrt {{{{\\rho _e}} \\over {2{\\rho _e}}}} $$<br><br>\n$$ \\therefore $$ Ration $${{{V_e}} \\over {{V_p}}} = 1:2\\sqrt 2 $$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A satellite S is moving in an elliptical orbit around the earth. The mass of the satellite is very small compared to the mass of the earth. Then,",
+      "options": [
+        {
+          "key": "A",
+          "value": "the linear momentum of S remains constant in magnitude."
+        },
+        {
+          "key": "B",
+          "value": "the acceleration of S is always directed towards the centre of the earth."
+        },
+        {
+          "key": "C",
+          "value": "the angular momentum of S about the centre of the earth changes in direction, but its magnitude remains constant."
+        },
+        {
+          "key": "D",
+          "value": "the total mechanical energy of S varies periodically with time."
+        }
+      ],
+      "answer": "B",
+      "explanation": "The gravitational force on the satellite will be aiming towards the centre of the earth so acceleration of the satellite will also be aiming towards the centre of the earth. "
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A remote-sensing satellite of earth revolves in a circular orbit at a height of 0.25 $$ \\times $$ 10<sup>6</sup> m above the surface of earth. If earth's radius is 6.38 $$ \\times $$ 10<sup>6</sup> m and g = 9.8 ms<sup>$$-$$2</sup>, then the orbital speed of the satellite is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "9.13 km s<sup>$$-$$1</sup>"
+        },
+        {
+          "key": "B",
+          "value": "6.67 km s<sup>$$-$$1</sup>"
+        },
+        {
+          "key": "C",
+          "value": "7.76 km s<sup>$$-$$1</sup> "
+        },
+        {
+          "key": "D",
+          "value": "8.56 km s<sup>$$-$$1</sup>"
+        }
+      ],
+      "answer": "C",
+      "explanation": "The orbital speed of the satellite is<br><br>\n$${v_o} = R\\sqrt {{g \\over {\\left( {R + h} \\right)}}} $$<br><br>\nwhere R is the earth’s radius,  g is the acceleration due to gravity on earth’s surface and h is the height above the surface of earth.<br><br>\nHere, R = 6.38 × 10<sup>6</sup>m, g = 9.8 m s<sup>–2</sup> and h = 0.25 × 10<sup>6</sup> m<br><br>\n$${v_o} = \\left( {6.38 \\times {{10}^6}m} \\right)\\sqrt {{{9.8\\,m{s^{ - 2}}} \\over {\\left( {6.38 \\times {{10}^6}m + 0.25 \\times {{10}^6}m} \\right)}}} $$<br><br>\n = 7.76 × 10<sup>3</sup> m s<sup>–1</sup> = 7.76 km s<sup>–1</sup>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Kepler's third law states that square of period of revoluation (T) of a planet around the sun, is proportional to third power of average distance r between sun and planet i.e. T<sup>2</sup> = Kr<sup>3</sup> here K is constant. If the masses of sun and planet are M and m respectively then as per Newton's law of gravitation force of attraction between them is F = $${{GMm} \\over {{r^2}}}$$, here G is gravitational constant. The relation between G and K is described as",
+      "options": [
+        {
+          "key": "A",
+          "value": "K = G"
+        },
+        {
+          "key": "B",
+          "value": "K = $${1 \\over G}$$"
+        },
+        {
+          "key": "C",
+          "value": "GK = 4$$\\pi $$<sup>2</sup>"
+        },
+        {
+          "key": "D",
+          "value": "GMK = 4$$\\pi $$<sup>2</sup>"
+        }
+      ],
+      "answer": "D",
+      "explanation": "Gravitational force of attraction between planet and sun gives centripetal force,<br><br>\nGMm/r<sup>2</sup> = mv<sup>2</sup>/r <br><br>\nNow velocity v = $$\\sqrt {GM/r} $$<br><br>\nTime period of planet T = 2$$\\pi $$r/v <br>\n$$ \\Rightarrow $$ T<sup>2</sup> = 4$$\\pi ^2$$r<sup>3</sup>/GM <br><br>\nFrom Kepler’s third law, T<sup>2</sup> = Kr<sup>3</sup><br><br>\nUsing equations, we see 4$$\\pi$$<sup>2</sup>r<sup>3</sup>/GM = Kr<sup>3</sup>, <br><br>so relation between G and K is GMK = 4$$\\pi ^2$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A black hole is an object whose gravitational field is so strong that even light cannot escape from it. To what approximate radius would earth (mass = 5.98 $$ \\times $$ 10<sup>24</sup> kg) have to be compressed to be a black hole? ",
+      "options": [
+        {
+          "key": "A",
+          "value": "10<sup>$$-$$9</sup> m"
+        },
+        {
+          "key": "B",
+          "value": "10<sup>$$-$$6</sup> m"
+        },
+        {
+          "key": "C",
+          "value": "10<sup>$$-$$2</sup> m"
+        },
+        {
+          "key": "D",
+          "value": "100 m"
+        }
+      ],
+      "answer": "C",
+      "explanation": "From question, Escape velocity\n<br><br>\n$$ = \\sqrt {{{2GM} \\over R}}  = c$$ = speed of light<br><br>\n$$ \\Rightarrow R = {{2GM} \\over {{c^2}}}$$<br><br>\n$$ = {{2 \\times 6.6 \\times {{10}^{ - 11}} \\times 5.98 \\times {{10}^{24}}} \\over {{{\\left( {3 \\times {{10}^8}} \\right)}^2}}}m$$<br><br>\n= 10<sup>-2</sup> m"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A particle of mass 'm' is kept at rest at a height 3R from the surface of earth, where 'R' is radius of earth and 'M' is mass of earth. The minimum speed with which it should be projected , so that it does not return back, is \n<br>(g is acceleration due to gravity on the surface of earth)",
+      "options": [
+        {
+          "key": "A",
+          "value": "$${\\left( {{{GM} \\over {2R}}} \\right)^{1/2}}$$"
+        },
+        {
+          "key": "B",
+          "value": "$${\\left( {{{gR} \\over 4}} \\right)^{1/2}}$$"
+        },
+        {
+          "key": "C",
+          "value": "$${\\left( {{{2g} \\over R}} \\right)^{1/2}}$$"
+        },
+        {
+          "key": "D",
+          "value": "$${\\left( {{{GM} \\over R}} \\right)^{1/2}}$$"
+        }
+      ],
+      "answer": "A",
+      "explanation": "The minimum speed with which the particle should be projected from the surface of the earth so that it does not return back is known as escape speed and it is given by<br><br>\n$${v_e} = \\sqrt {{{2GM} \\over {\\left( {R + h} \\right)}}} $$<br><br>\nHere, h = 3R<br><br>\n$$ \\therefore $$ $${v_e} = \\sqrt {{{2GM} \\over {\\left( {R + 3R} \\right)}}}  = \\sqrt {{{2GM} \\over {4R}}}  = \\sqrt {{{GM} \\over {2R}}} $$<br><br>\n$$ = \\sqrt {{{gR} \\over 2}} $$&nbsp;&nbsp;&nbsp;$$\\left( \\because {g = {{GM} \\over {{R^2}}}} \\right)$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The radius of a planet is twice the radius of earth. Both have almost equal average mass densities. V<sub>P</sub> and V<sub>E</sub> are escape velocities of the planet and the earth, respectively, then ",
+      "options": [
+        {
+          "key": "A",
+          "value": "V<sub>P</sub> = 1.5 V<sub>E</sub>"
+        },
+        {
+          "key": "B",
+          "value": "V<sub>P</sub> = 2 V<sub>E</sub>"
+        },
+        {
+          "key": "C",
+          "value": "V<sub>E</sub> = 3 V<sub>P</sub>"
+        },
+        {
+          "key": "D",
+          "value": "V<sub>E</sub> = 1.5 V<sub>P</sub>"
+        }
+      ],
+      "answer": "B",
+      "explanation": "Here, R<sub>P</sub> = 2R<sub>E</sub> , $${\\rho _E} = {\\rho _P}$$<br><br>\nEscape velocity of the earth,<br><br>\n$${V_E} = \\sqrt {{{2G{M_E}} \\over {{R_E}}}}  = \\sqrt {{{2G} \\over {{R_E}}}\\left( {{4 \\over 3}\\pi R_E^3{\\rho _E}} \\right)} $$<br>\n$$ = {R_E}\\sqrt {{8 \\over 3}\\pi G{\\rho _E}} $$&nbsp;&nbsp;&nbsp;...(i)<br><br>\nEscape velocity of the planet<br><br>\n$${V_P} = \\sqrt {{{2G{M_P}} \\over {{R_P}}}}  = \\sqrt {{{2G} \\over {{R_P}}}\\left( {{4 \\over 3}\\pi R_P^3{\\rho _P}} \\right)} $$<br>\n$$ = {R_P}\\sqrt {{8 \\over 3}\\pi G{\\rho _P}} $$&nbsp;&nbsp;&nbsp;...(ii)<br><br>\nDivide (i) by (ii), we get\n<br><br>\n$${{{V_E}} \\over {{V_P}}} = {{{R_E}} \\over {{R_P}}}\\sqrt {{{{\\rho _E}} \\over {{\\rho _P}}}}  = {{{R_E}} \\over {2{R_E}}}\\sqrt {{{{\\rho _E}} \\over {{\\rho _E}}}}  = {1 \\over 2}$$<br><br>\n$$ \\Rightarrow {V_P} = 2{V_E}$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Infinite number of bodies, each of mass 2 kg are situated on x-axis at distance 1 m, 2 m, 4 m, 8 m, . . . , respectively, from the origin. The resulting gravitational potential due to this system at the origin will be",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$ - {4 \\over 3}$$ G"
+        },
+        {
+          "key": "B",
+          "value": "$$-$$ 4G"
+        },
+        {
+          "key": "C",
+          "value": "$$-$$ G"
+        },
+        {
+          "key": "D",
+          "value": "$$ - {8 \\over 3}$$ G"
+        }
+      ],
+      "answer": "B",
+      "explanation": "Gravitational potential  V = $${{ - Gm} \\over r}$$<br><br>\n$${V_0} =  - {{G \\times 2} \\over 1} - {{G \\times 2} \\over 2} - {{G \\times 2} \\over 4} - {{G \\times 2} \\over 8}$$<br><br>\n= $$ - 2G\\left[ {1 + {1 \\over 2} + {1 \\over 4} + {1 \\over 8} + ...\\infty } \\right]$$<br><br>\n$$ =  - 2G \\times {1 \\over {1 - {1 \\over 2}}}$$<br><br>\n$$ =  - 2G \\times {1 \\over {{1 \\over 2}}} =  - 4G$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A body of mass 'm' is taken from the earth's surface to the height equal to twice the radius (R) of the earth. The change in potential energy of body will be ",
+      "options": [
+        {
+          "key": "A",
+          "value": "3mgR"
+        },
+        {
+          "key": "B",
+          "value": "$${1 \\over 3}$$mgR"
+        },
+        {
+          "key": "C",
+          "value": "mg2R"
+        },
+        {
+          "key": "D",
+          "value": "$${2 \\over 3}$$ mgR"
+        }
+      ],
+      "answer": "D",
+      "explanation": "Gravitational potential energy at any point at a distance r from the centre of the earth is <br><br>\n$$U =  - {{GMm} \\over r}$$<br><br>\nwhere M and m be masses of the earth and the body respectively. <br><br>\nAt the surface of the earth, r = R <br><br>\n$${U_i} =  - {{GMm} \\over R}$$<br><br>\nAt a height h from the surface, <br><br>\nr = R + h = R + 2R = 3R &nbsp;&nbsp;&nbsp;( h = 2R (Given)) <br><br>\n$$ \\therefore $$ $${U_f} =  - {{GMm} \\over {3R}}$$<br><br>\nChange in potential energy, <br><br>\n$$\\Delta U = {U_f} - {U_i}$$<br><br>\n$$ =  - {{GMm} \\over {3R}} - \\left( { - {{GMm} \\over R}} \\right) = {{GMm} \\over R}\\left( {1 - {1 \\over 3}} \\right)$$<br><br>\n$$ = {2 \\over 3}{{GMm} \\over R} = {2 \\over 3}mgR$$&nbsp;&nbsp;$$\\left( \\because{g = {{GM} \\over {{R^2}}}} \\right)$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "If $${v_e}$$ is escape velocity and $${v_o}$$ is orbital velocity of a satellite for orbit close to the earth's surface, then these are related by",
+      "options": [
+        {
+          "key": "A",
+          "value": "$${v_o} = \\sqrt {2{v_e}} $$"
+        },
+        {
+          "key": "B",
+          "value": "v<sub>o</sub> $$=$$ v<sub>e</sub>"
+        },
+        {
+          "key": "C",
+          "value": "$${v_e} = \\sqrt {2{v_o}} $$"
+        },
+        {
+          "key": "D",
+          "value": "$${v_e} = \\sqrt 2 {v_o}$$"
+        }
+      ],
+      "answer": "D",
+      "explanation": "Escapevelocity, $${v_e} = \\sqrt {{{2GM} \\over R}} $$&nbsp;&nbsp;&nbsp; ...(i)<br><br> where M and R\nwhere M and R be the mass and radius of the earth respectively. The orbital velocity of a satellite close to the earth’s surface is<br><br>\n$${v_0} = \\sqrt {{{GM} \\over R}} $$&nbsp;&nbsp;&nbsp;...(ii)<br><br>\nFrom (i) and (ii), we get <br><br>\n$${v_e} = \\sqrt 2 {v_0}$$\n"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A geostationary satellite is orbiting the earth at a height of 5R above the surface of the earth, R being the radius of the earth. The time period of another satellite in  hours at a height of 2R from the surface of the earth is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "5"
+        },
+        {
+          "key": "B",
+          "value": "10"
+        },
+        {
+          "key": "C",
+          "value": "6$$\\sqrt 2 $$"
+        },
+        {
+          "key": "D",
+          "value": "$${6 \\over {\\sqrt 2 }}$$"
+        }
+      ],
+      "answer": "C",
+      "explanation": "According to Kelpner’s law of period T<sup>2</sup> $$ \\propto $$ R<sup>3</sup><br><br>\n$${{T_1^2} \\over {T_2^2}} = {{R_1^3} \\over {R_2^3}} = {{{{\\left( {6R} \\right)}^3}} \\over {{{\\left( {3R} \\right)}^3}}} = 8$$<br><br>\n$${{24 \\times 24} \\over {T_2^2}} = 8$$<br><br>\n$$T_2^2 = {{24 \\times 24} \\over 8} = 72 = 36 \\times 2$$<br><br>\n$$ \\therefore $$ $${T_2} = 6\\sqrt 2 $$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A spherical planet has a mass M<sub>P</sub> and diameter D<sub>P</sub>. A particle of mass m falling freely near the surface of this planet will experience an acceleration due to gravity, equal to ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$${{4G{M_P}} \\over {D_P^2}}$$"
+        },
+        {
+          "key": "B",
+          "value": "$${{G{M_P}m} \\over {D_P^2}}$$"
+        },
+        {
+          "key": "C",
+          "value": "$${{G{M_P}} \\over {D_P^2}}$$"
+        },
+        {
+          "key": "D",
+          "value": "$${{4G{M_P}m} \\over {D_P^2}}$$"
+        }
+      ],
+      "answer": "A",
+      "explanation": "Gravitational attraction force on particle B, <br><br>\n$${F_g} = {{G{M_P}m} \\over {{{\\left( {{D_P}/2} \\right)}^2}}}$$<br><br>\nAcceleration of particle due to gravity <br><br>\n$$a = {{{F_g}} \\over m} = {{4G{M_P}} \\over {D_P^2}}$$\n"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The height at which the weight of a body becomes  $${\\left( {{1 \\over {16}}} \\right)^{th}}$$, its weight on the surface of earth (radius R), is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "5R"
+        },
+        {
+          "key": "B",
+          "value": "15R"
+        },
+        {
+          "key": "C",
+          "value": "3R"
+        },
+        {
+          "key": "D",
+          "value": "4R"
+        }
+      ],
+      "answer": "C",
+      "explanation": "Let at h height, the weight of a body becomes 1/16th of its weight on the surface.<br><br>\n$${W_h} = 16{W_s}$$&nbsp;&nbsp;&nbsp;...(i)<br><br>\n$$ \\Rightarrow $$ $$16{W_s} = {W_s}$$&nbsp;&nbsp;&nbsp;...(ii)<br><br>\n$${W_h} = mg = {{GMm} \\over {{{\\left( {{R_e} + h} \\right)}^2}}}$$<br><br>\n$$g' = {{GM} \\over {{{\\left( {{R_e} + h} \\right)}^2}}}$$<br><br>\nSimilarly, $$g = {{GM} \\over {R_e^2}}$$<br><br>\n$${{g'} \\over g} = {{R_e^2} \\over {{{\\left( {{R_e} + h} \\right)}^2}}} \\Rightarrow g' = g{\\left( {1 + {h \\over R}} \\right)^{ - 2}}$$<br><br>\n$$ \\Rightarrow {W_h} = 16{W_s}$$<br><br>\n$$ \\Rightarrow g' = {g \\over {16}}$$<br><br>\n$${1 \\over {16}} = {\\left( {1 + {h \\over R}} \\right)^{ - 2}} \\Rightarrow 4 = 1 + {h \\over R}$$<br><br>\nh = 3R"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A particle of mass M is situated at the centre of a spherical shell of same mass and radius a. The magnitude of the gravitational potential at a point sutuated at a/2 distance from the centre, will be :",
+      "options": [
+        {
+          "key": "A",
+          "value": "$${{GM} \\over a}$$"
+        },
+        {
+          "key": "B",
+          "value": "$${{2GM} \\over a}$$"
+        },
+        {
+          "key": "C",
+          "value": "$${{3GM} \\over a}$$"
+        },
+        {
+          "key": "D",
+          "value": "$${{4GM} \\over a}$$"
+        }
+      ],
+      "answer": "C",
+      "explanation": "Here, Mass of a particle = M<br> Mass of a spherical shell = M<br> Radius of a spherical shell = a<br> Let O be centre of a spherical shell.<br> Gravitational potential at point P due to particle at O is\n<br><br>\n$${V_1} =  - {{GM} \\over {a/2}}$$<br><br>\nGravitational potential at point P due to spherical shell is\n<br><br>\n$${V_2} =  - {{GM} \\over a}$$<br><br>\nHence, total gravitational potential at point P is  V = V<sub>1</sub> + V<sub>2</sub><br><br>\n$$ =  - {{GM} \\over {a/2}} + \\left( { - {{GM} \\over a}} \\right) =  - {{2GM} \\over a} - {{GM} \\over a} =  - {{3GM} \\over a}$$<br><br>\n$$\\left| V \\right| = {{3GM} \\over a}$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A particle of mass m is thrown upwards from the surface of the earth, with a velocity u. The mass and the radius of the earth are, respectively, M and R. G is gravitational constant and g is acceleration due to gravity on the surface of the earth. The minimum value of u so that the particle does not return back to earth, is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$\\sqrt {{{2GM} \\over {{R^2}}}} $$"
+        },
+        {
+          "key": "B",
+          "value": "$$\\sqrt {{{2GM} \\over R}} $$"
+        },
+        {
+          "key": "C",
+          "value": "$$\\sqrt {{{2gM} \\over {{R^2}}}} $$"
+        },
+        {
+          "key": "D",
+          "value": "$$\\sqrt {2g{R^2}} $$"
+        }
+      ],
+      "answer": "B",
+      "explanation": "According to law of conservation of mechanical energy <br><br>\n$${1 \\over 2}m{u^2} - {{GMm} \\over R} = 0$$<br><br>\n$$ \\Rightarrow $$ $${u^2} = {{2GM} \\over R}$$<br><br>\n$$ \\therefore $$ $$u = \\sqrt {{{2GM} \\over R}}  = \\sqrt {2gR} $$&nbsp;&nbsp;&nbsp;$$\\left(\\because {g = {{GM} \\over {{R^2}}}} \\right)$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A planet moving along an elliptical orbit is closest to the sun at a distance r<sub>1</sub> and farthest away at a distance of r<sub>2</sub>. If $$v$$<sub>1</sub> and $$v$$<sub>2</sub> are the linear velocities at these points respectively, then the ratio $${{{v_1}} \\over {{v_2}}}$$ is",
+      "options": [
+        {
+          "key": "A",
+          "value": "(r<sub>1</sub> /r<sub>2</sub>)<sup>2</sup>"
+        },
+        {
+          "key": "B",
+          "value": "r<sub>2</sub>/r<sub>1</sub>"
+        },
+        {
+          "key": "C",
+          "value": "(r<sub>2</sub>/r<sub>1</sub>)<sup>2</sup>"
+        },
+        {
+          "key": "D",
+          "value": "r<sub>1</sub>/r<sub>2</sub>"
+        }
+      ],
+      "answer": "B",
+      "explanation": "Angular momentum is conserved <br><br>\n$$ \\therefore $$  L<sub>1</sub> = L<sub>2 </sub><br><br>\n$$ \\Rightarrow $$ mr<sub>1</sub>v<sub>1</sub> = mr<sub>2</sub>v<sub>2</sub><br><br>\n$$ \\Rightarrow $$  r<sub>1</sub>v<sub>1</sub> = r<sub>2</sub>v<sub>2</sub> <br><br>\n$$ \\Rightarrow {{{v_1}} \\over {{v_2}}} = {{{r_2}} \\over {{r_1}}}$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "(1)&nbsp;&nbsp;&nbsp;Centre of gravity (C.G) of a body is the point at which the weight of the body acts \n<br>(2)&nbsp;&nbsp;&nbsp;Centre of mass coincides with the centre of gravity if the earth is assumed to have infinitely large radius. \n<br>(3)&nbsp;&nbsp;&nbsp;To evaluate the gravitational field intensity due to any body at an external point, the entire mass of the body can be considered to be concentrated at its C.G.\n<br>(4)&nbsp;&nbsp;&nbsp;The radius of gyration of any body rotating about an axis is the length of the perpendicular dropped from the C.G. of the body to the axis. \n<br><br>Which one of the following pairs of statements is correct ? ",
+      "options": [
+        {
+          "key": "A",
+          "value": "(4) and (1)"
+        },
+        {
+          "key": "B",
+          "value": "(1) and (2)"
+        },
+        {
+          "key": "C",
+          "value": "(2) and (3)"
+        },
+        {
+          "key": "D",
+          "value": "(3) and (4)"
+        }
+      ],
+      "answer": "A",
+      "explanation": "Centre of gravity of a body is the point at which the weight of the body acts and the radius of gyration of any body rotating about an axis is the length of the perpendicular dropped from the CG of the body to the axis."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The additional kinetic energy to be provided to a satellite of mass m revolving around a planet of mass M, to transfer it from a circular orbit of radius R<sub>1</sub> to another of radius R<sub>2</sub>(R<sub>2</sub> &gt; R<sub>1</sub>) is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "GmM $$\\left( {{1 \\over {R_1^2}} - {1 \\over {R_2^2}}} \\right)$$"
+        },
+        {
+          "key": "B",
+          "value": "GmM $$\\left( {{1 \\over {{R_1}}} - {1 \\over {{R_2}}}} \\right)$$"
+        },
+        {
+          "key": "C",
+          "value": "2GmM $$\\left( {{1 \\over {{R_1}}} - {1 \\over {{R_2}}}} \\right)$$"
+        },
+        {
+          "key": "D",
+          "value": "$${1 \\over 2}$$GmM $$\\left( {{1 \\over {{R_1}}} - {1 \\over {{R_2}}}} \\right)$$"
+        }
+      ],
+      "answer": "D",
+      "explanation": "Total energy of the orbiting satellite of mass m having orbital radius r is<br><br>\n$$E =  - {{GMm} \\over {2r}}$$<br><br>\nwhere M is the mass of the planet.<br><br>\nAdditional kinetic energy required to transfer the satellite from a circular orbit of radius R<sub>1</sub> to another radius R<sub>2</sub> is E<sub>2</sub>−E<sub>1</sub><br><br>\n$$ =  - {{GMm} \\over {2{R_E}}} - \\left( { - {{GMm} \\over {2{R_1}}}} \\right) =  - {{GMm} \\over {2{R_2}}} + {{GMm} \\over {2{R_1}}}$$<br><br>\n$$ = {{GMm} \\over 2}\\left( {{1 \\over {{R_1}}} - {1 \\over {{R_2}}}} \\right)$$\n"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A man of 50 kg mass is standing in a gravity free space at a height of 10 m above the floor. He throws a stone of 0.5 kg mass downwards with a speed 2 m/s. When the stone reaches the floor, the distance of the man above the floor will be ",
+      "options": [
+        {
+          "key": "A",
+          "value": "9.9 m"
+        },
+        {
+          "key": "B",
+          "value": "10.1 m"
+        },
+        {
+          "key": "C",
+          "value": "10 m"
+        },
+        {
+          "key": "D",
+          "value": "20 m"
+        }
+      ],
+      "answer": "B",
+      "explanation": "Since the man is in gravity free space, force on man + stone system is zero.<br><br> Therefore centre of mass of the system remains at rest. Let the man goes x m above when the stone reaches the floor, then <br><br>M<sub>man</sub> × x = M<sub>stone</sub> × 10<br><br>\n $$x = {{0.5} \\over {50}} \\times 10$$<br><br>\nx = 0.1 m<br><br>\nTherefore final height of man above floor = 10 + x = 10 + 0.1 = 10.1 m "
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The radii of circular orbits of two satellites A and B of the earth, are 4R and R, respectively. If the speed of satellite A is 3V, then the speed of satellite B will be",
+      "options": [
+        {
+          "key": "A",
+          "value": "$${{3V} \\over 4}$$"
+        },
+        {
+          "key": "B",
+          "value": "6$$V$$"
+        },
+        {
+          "key": "C",
+          "value": "12$$V$$"
+        },
+        {
+          "key": "D",
+          "value": "$${{3V} \\over 2}$$"
+        }
+      ],
+      "answer": "B",
+      "explanation": "Orbital velocity of a satellite in a circular orbit of radius a is given by <br><br>\n$$v = \\sqrt {{{GM} \\over a}} $$<br><br>\n$$ \\Rightarrow v \\propto \\sqrt {{1 \\over a}} $$<br><br>\n$$ \\Rightarrow {{{v_2}} \\over {{v_1}}} = \\sqrt {{{{a_1}} \\over {{a_2}}}} $$<br><br>\n$$ \\therefore $$ $${v_2} = {v_1}\\sqrt {{{4R} \\over R}} $$ = 2v<sub>1</sub> = 6V"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A particle of mass M is situated at the centre of a spherical shell of same mass and radius a. The magnitude of the gravitational potential at a point sutuated at a/2 distance from the centre, will be :",
+      "options": [
+        {
+          "key": "A",
+          "value": "$${{GM} \\over a}$$"
+        },
+        {
+          "key": "B",
+          "value": "$${{2GM} \\over a}$$"
+        },
+        {
+          "key": "C",
+          "value": "$${{3GM} \\over a}$$"
+        },
+        {
+          "key": "D",
+          "value": "$${{4GM} \\over a}$$"
+        }
+      ],
+      "answer": "C",
+      "explanation": "Here, Mass of a particle = M<br> Mass of a spherical shell = M<br> Radius of a spherical shell = a<br> Let O be centre of a spherical shell.<br> Gravitational potential at point P due to particle at O is\n<br><br>\n$${V_1} =  - {{GM} \\over {a/2}}$$<br><br>\nGravitational potential at point P due to spherical shell is\n<br><br>\n$${V_2} =  - {{GM} \\over a}$$<br><br>\nHence, total gravitational potential at point P is  V = V<sub>1</sub> + V<sub>2</sub><br><br>\n$$ =  - {{GM} \\over {a/2}} + \\left( { - {{GM} \\over a}} \\right) =  - {{2GM} \\over a} - {{GM} \\over a} =  - {{3GM} \\over a}$$<br><br>\n$$\\left| V \\right| = {{3GM} \\over a}$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Two satellites of earth, S<sub>1</sub> and S<sub>2</sub> are moving in the same orbit. The mass of S<sub>1</sub> is four times the mass of S<sub>2</sub>. Which one of the following statements is true ? ",
+      "options": [
+        {
+          "key": "A",
+          "value": "The potential energies of earth and satellite in the two cases are equal. "
+        },
+        {
+          "key": "B",
+          "value": "S<sub>1</sub> and S<sub>2</sub> are moving with the same speed."
+        },
+        {
+          "key": "C",
+          "value": "The kinetic energies of the two satellites are equal."
+        },
+        {
+          "key": "D",
+          "value": "The time period of S<sub>1</sub> is four times that of S<sub>2</sub>."
+        }
+      ],
+      "answer": "B",
+      "explanation": "Since orbital velocity of satellite is $$v = \\sqrt {{{GM} \\over r}} $$<br><br>\n it does not depend upon the mass of the satellite. <br><br>\nTherefore, both satellites will move with same speed."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The earth is assumed to be a sphere of radius R. A platform is arranged at a height R from the surface of the earth. The escape velocity of a body from this platform is fv,  where v is its escape velocity from the surface of the Earth. The value of f is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "1/2"
+        },
+        {
+          "key": "B",
+          "value": "$$\\sqrt 2 $$"
+        },
+        {
+          "key": "C",
+          "value": "1/$$\\sqrt 2 $$"
+        },
+        {
+          "key": "D",
+          "value": "1/3"
+        }
+      ],
+      "answer": "C",
+      "explanation": "Escape velocity of the body from the surface of earth is v = $$\\sqrt {2gR} $$<br><br>\nFor escape velocity of the body from the platform potential energy + kinetic energy = 0<br><br>\n$$ - {{GMm} \\over {2R}} + {1 \\over 2}m{v^2} = 0$$<br><br>\n$$ \\Rightarrow f{v_{escape}} = \\sqrt {{{GM} \\over {{R^2}}}.R}  = \\sqrt {gR}  = fv$$<br><br>\nFrom the surface of the earth,  $${v_{escape}} = \\sqrt {2gR} $$<br><br>\n$$ \\therefore f{v_{escape}} = {{{v_{escape}}} \\over {\\sqrt 2 }}$$, $$ \\therefore $$ $$f = {1 \\over {\\sqrt 2 }}$$\n"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Imagine a new planet having the same density as that of earth but it is 3 times bigger than the earth in size. If the acceleration due to gravity on the surface of earth is g and that on the surface of the new planet is g', then ",
+      "options": [
+        {
+          "key": "A",
+          "value": "g' = g/9"
+        },
+        {
+          "key": "B",
+          "value": "g' = 27g"
+        },
+        {
+          "key": "C",
+          "value": "g' = 9g"
+        },
+        {
+          "key": "D",
+          "value": "g' = 3g"
+        }
+      ],
+      "answer": "D",
+      "explanation": "We know that\n<br><br>\n$$g = {{GM} \\over {{R^2}}} = {{G\\left( {{4 \\over 3}\\pi {R^3}} \\right)} \\over {{R^2}}} = {4 \\over 3}\\pi GR\\rho $$<br><br>\n$${{g'} \\over g} = {{R'} \\over R} = {{3R} \\over R} = 3$$<br><br>\n$$ \\therefore $$ g' = 3g\n"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "For a satellite moving in an orbit around the earth, the ratio of kinetic energy to potential energy is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "1/2"
+        },
+        {
+          "key": "B",
+          "value": "1/$$\\sqrt 2 $$"
+        },
+        {
+          "key": "C",
+          "value": "2"
+        },
+        {
+          "key": "D",
+          "value": "$$\\sqrt 2 $$"
+        }
+      ],
+      "answer": "A",
+      "explanation": "K.E. of satellite moving in an orbit around the earth  is<br><br>\n$$K = {1 \\over 2}m{v^2} = {1 \\over 2}m{\\left( {\\sqrt {{{GM} \\over r}} } \\right)^2} = {{GMm} \\over {2r}}$$<br><br>\n P.E. of satellite and earth system is<br><br>\n$$U = {{GMm} \\over r}$$<br><br>\n$$ \\Rightarrow {K \\over U} = {{{{GMm} \\over {2r}}} \\over {{{GMm} \\over r}}} = {1 \\over 2}$$\n\n"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The density of a newly discovered planet is twice that of earth. The acceleration due to gravity at the surface of the planet is equal to that at the surface of the earth. If the radius of the earth is R, the radius of the planet would be",
+      "options": [
+        {
+          "key": "A",
+          "value": "2R"
+        },
+        {
+          "key": "B",
+          "value": "4R"
+        },
+        {
+          "key": "C",
+          "value": "$${1 \\over 4}$$R"
+        },
+        {
+          "key": "D",
+          "value": "$${1 \\over 2}$$R"
+        }
+      ],
+      "answer": "D",
+      "explanation": "From equation of acceleration due to gravity. <br><br>\n$${g_e} = {{G{M_e}} \\over {R_e^2}} = {{G\\left( {4/3} \\right)\\pi R_e^3} \\over {R_e^2}}{\\rho _e}$$<br><br>\n$${g_e} \\propto {R_e}{\\rho _e}$$<br><br>\nAcceleration due to gravity of planet <br><br>\n$${g_p} \\propto {R_p}{\\rho _p}$$<br><br>\n$$ \\therefore $$ $${R_e}{\\rho _e} = {R_p}{\\rho _p} \\Rightarrow {R_e}{\\rho _e} = {R_p}2{\\rho _e}$$<br><br>\n$$ \\Rightarrow {R_e} = {1 \\over 2}R$$ &nbsp;&nbsp;($$ \\because $$ R<sub>e</sub> = R) "
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A body of mass m is placed on earth's surface which is taken from earth surface to a height of h = 3R, then change in gravitational potential energy is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$${{mgR} \\over 4}$$"
+        },
+        {
+          "key": "B",
+          "value": "$${2 \\over 3}mgR$$"
+        },
+        {
+          "key": "C",
+          "value": "$${3 \\over 4}mgR$$"
+        },
+        {
+          "key": "D",
+          "value": "$${{mgR} \\over 2}$$"
+        }
+      ],
+      "answer": "C",
+      "explanation": "Gravitational potential energy on earth’s surface = $$ - {{GMm} \\over R}$$, where M and R are the mass and radius of the earth respectively, m is the mass of the body and G is the universal gravitational constant.<br><br>\nGravitational potential energy at a height h = 3R <br><br>\n$$ =  - {{GMm} \\over {R + h}} =  - {{GMm} \\over {R + 3R}} =  - {{GMm} \\over {4R}}$$<br><br>\n$$ \\therefore $$  Change in potential energy <br><br>\n$$ =  - {{GMm} \\over {4R}} - \\left( { - {{GMm} \\over R}} \\right)$$<br><br>\n$$ =  - {{GMm} \\over {4R}} + {{GMm} \\over R}$$<br><br>\n$$ = {3 \\over 4}{{GMm} \\over R}$$ $$ = {3 \\over 4}mgR$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The acceleration due to gravity on the planet A is 9 times the acceleration due to gravity on planet B. A man jumps to a height of 2 m on the surface of A. What is the height of jump by the same person on the planet B? ",
+      "options": [
+        {
+          "key": "A",
+          "value": "(2/9) m"
+        },
+        {
+          "key": "B",
+          "value": "18 m"
+        },
+        {
+          "key": "C",
+          "value": "6 m"
+        },
+        {
+          "key": "D",
+          "value": "(2/3) m"
+        }
+      ],
+      "answer": "B",
+      "explanation": "The velocity of the mass while reaching the surface of both the planets will be same. <br><br>\ni.e., $$\\sqrt {2g'h'}  = \\sqrt {2gh} $$<br><br>\n$$\\sqrt {2 \\times g \\times h'}  = \\sqrt {2 \\times 9g \\times 2} $$<br><br>\n$$ \\Rightarrow 2h' = 36$$<br><br>\n$$ \\Rightarrow h' = 18\\,m$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Two spheres of masses m and M are situated in air and the gravitational force between them is F. The space around the masses is now filled with a liquid of specific gravity 3. The gravitational force will now be",
+      "options": [
+        {
+          "key": "A",
+          "value": "3 F"
+        },
+        {
+          "key": "B",
+          "value": "F"
+        },
+        {
+          "key": "C",
+          "value": "F/3"
+        },
+        {
+          "key": "D",
+          "value": "F/9"
+        }
+      ],
+      "answer": "B",
+      "explanation": "Gravitational force is independent of medium, Hence, this will remain same.\n"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "With what velocity should a particle be projected so that its height becomes equal to radius of earth? ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$${\\left( {{{GM} \\over R}} \\right)^{1/2}}$$"
+        },
+        {
+          "key": "B",
+          "value": "$${\\left( {{{8GM} \\over R}} \\right)^{1/2}}$$"
+        },
+        {
+          "key": "C",
+          "value": "$${\\left( {{{2GM} \\over R}} \\right)^{1/2}}$$"
+        },
+        {
+          "key": "D",
+          "value": "$${\\left( {{{4GM} \\over R}} \\right)^{1/2}}$$"
+        }
+      ],
+      "answer": "A",
+      "explanation": "Using $${v^2} = {{2gh} \\over {1 + {h \\over R}}}$$ and given h = R<br><br>\n$$ \\therefore $$ $$v = \\sqrt {gR}  = \\sqrt {{{GM} \\over R}} $$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A body of weight 72 N moves from the surface of earth at a height half of the radius of earth, then gravitational force exerted on it will be ",
+      "options": [
+        {
+          "key": "A",
+          "value": "36 N"
+        },
+        {
+          "key": "B",
+          "value": "32 N"
+        },
+        {
+          "key": "C",
+          "value": "144 N"
+        },
+        {
+          "key": "D",
+          "value": "50 N"
+        }
+      ],
+      "answer": "B",
+      "explanation": "$${F_{surface}} = G{{Mm} \\over {R_e^2}}$$<br><br>\n$${F_{{R_e}/2}} = G{{Mm} \\over {{{\\left( {{R_e} + {R_e}/2} \\right)}^2}}} = {4 \\over 9} \\times {F_{surface}}$$<br><br>\n$$ = {4 \\over 9} \\times 72 = 32\\,N$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Gravitational force is required for ",
+      "options": [
+        {
+          "key": "A",
+          "value": "stirring of liquid"
+        },
+        {
+          "key": "B",
+          "value": "convection"
+        },
+        {
+          "key": "C",
+          "value": "conduction"
+        },
+        {
+          "key": "D",
+          "value": "radiation."
+        }
+      ],
+      "answer": "B",
+      "explanation": "Gravitational force is required for convection "
+    },
+    {
+      "_type": "single_mcq",
+      "body": "For a planet having mass equal to mass of the earth but radius is one fourth of radius of the earth. Then escape velocity for this planet will be ",
+      "options": [
+        {
+          "key": "A",
+          "value": "11.2 km/sec"
+        },
+        {
+          "key": "B",
+          "value": "22.4 km/sec"
+        },
+        {
+          "key": "C",
+          "value": "5.6 km/sec"
+        },
+        {
+          "key": "D",
+          "value": "44.8 km/sec."
+        }
+      ],
+      "answer": "B",
+      "explanation": "$${v_{earth}} = \\sqrt {{{2G{M_e}} \\over {{R_e}}}} $$<br><br>\n$${v_{planet}} = \\sqrt {{{2G{M_p}} \\over {{R_p}}}}  = \\sqrt {{{2G{M_e}} \\over {{R_e}/4}}}  = \\sqrt {{{8G{M_e}} \\over {{R_e}}}} $$<br><br>\n$${{{v_{planet}}} \\over {{v_{earth}}}} = \\sqrt {{{8G{M_e}} \\over {{R_e}}}}  \\times \\sqrt {{{{R_e}} \\over {2G{M_e}}}}  = 2$$<br><br>\n$$ \\therefore $$ $${v_{planet}} = 2 \\times {v_{earth}}$$<br><br>\n= 2 $$ \\times $$ 11.2 = 22.4 km/s"
+    }
+  ]
+}

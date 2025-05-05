@@ -1,0 +1,2383 @@
+{
+  "_index": {
+    "name": "Magnetic Effect of Current"
+  },
+  "_children": [
+    {
+      "_type": "single_mcq",
+      "body": "<p>Given below are two statements: one is labelled as $\\mathbf{A s s e r t i o n} \\mathbf{A}$ and the other is labelled as <b>Reason $\\mathbf{R}$</b></p>\n<p><b>Assertion A :</b> If Oxygen ion $\\left(\\mathrm{O}^{-2}\\right)$ and Hydrogen ion $\\left(\\mathrm{H}^{+}\\right)$enter normal to the magnetic field with equal momentum, then the path of $\\mathrm{O}^{-2}$ ion has a smaller curvature than that of $\\mathrm{H}^{+}$.</p>\n<p><b>Reason R :</b> A proton with same linear momentum as an electron will form a path of smaller radius of curvature on entering a uniform magnetic field perpendicularly.</p>\n<p>In the light of the above statements, choose the correct answer from the options given below </p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "Both $\\mathbf{A}$ and $\\mathbf{R}$ are true but $\\mathbf{R}$ is NOT the correct explanation of $\\mathbf{A}$\n"
+        },
+        {
+          "key": "B",
+          "value": "$\\mathbf{A}$ is false but $\\mathbf{R}$ is true\n"
+        },
+        {
+          "key": "C",
+          "value": "$\\mathbf{A}$ is true but $\\mathbf{R}$ is false\n"
+        },
+        {
+          "key": "D",
+          "value": "Both $\\mathbf{A}$ and $\\mathbf{R}$ are true and $\\mathbf{R}$ is the correct explanation of $\\mathbf{A}$"
+        }
+      ],
+      "answer": "C",
+      "explanation": "<p>$$\\begin{aligned}\n&\\begin{aligned}\n& r=\\frac{m v}{q B}=\\frac{p}{q B} \\\\\n& r \\propto \\frac{1}{q}\n\\end{aligned}\\\\\n&\\text { Assertion is true reason is false }\n\\end{aligned}$$</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>In a moving coil galvanometer, two moving coils $\\mathrm{M}_1$ and $\\mathrm{M}_2$ have the following particulars :</p>\n<p>$$ \\begin{aligned} & \\mathrm{R}_1=5 \\Omega, \\mathrm{~N}_1=15, \\mathrm{~A}_1=3.6 \\times 10^{-3} \\mathrm{~m}^2, \\mathrm{~B}_1=0.25 \\mathrm{~T} \\\\ & \\mathrm{R}_2=7 \\Omega, \\mathrm{~N}_2=21, \\mathrm{~A}_2=1.8 \\times 10^{-3} \\mathrm{~m}^2, \\mathrm{~B}_2=0.50 \\mathrm{~T} \\end{aligned} $$</p>\n<p>Assuming that torsional constant of the springs are same for both coils, what will be the ratio of voltage sensitivity of $M_1$ and $M_2$ ?</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "$1: 1$\n"
+        },
+        {
+          "key": "B",
+          "value": " $1: 3$\n"
+        },
+        {
+          "key": "C",
+          "value": " $1: 2$\n"
+        },
+        {
+          "key": "D",
+          "value": "$1: 4$"
+        }
+      ],
+      "answer": "A",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A solenoid having area A and length ' $l$ ' is filled with a material having relative permeability\n2. The magnetic energy stored in the solenoid is :\n",
+      "options": [
+        {
+          "key": "A",
+          "value": " $\\frac{\\mathrm{B}^2 \\mathrm{~A} l}{4 \\mu_0}$\n"
+        },
+        {
+          "key": "B",
+          "value": "$\\frac{\\mathrm{B}^2 \\mathrm{~A} l}{2 \\mu_0}$\n"
+        },
+        {
+          "key": "C",
+          "value": " $\\frac{\\mathrm{B}^2 \\mathrm{~A} l}{\\mu_0}$\n"
+        },
+        {
+          "key": "D",
+          "value": " $\\mathrm{B}^2 \\mathrm{Al}$"
+        }
+      ],
+      "answer": "A",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Let $B_1$ be the magnitude of magnetic field at center of a circular coil of radius $R$ carrying current I. Let $\\mathrm{B}_2$ be the magnitude of magnetic field at an axial distance ' $x$ ' from the center. For $x: \\mathrm{R}=3: 4, \\frac{\\mathrm{~B}_2}{\\mathrm{~B}_1}$ is :</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": " $64: 125$\n"
+        },
+        {
+          "key": "B",
+          "value": " $25: 16$\n"
+        },
+        {
+          "key": "C",
+          "value": " $4: 5$\n"
+        },
+        {
+          "key": "D",
+          "value": " $16: 25$"
+        }
+      ],
+      "answer": "A",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Consider a long straight wire of a circular cross-section (radius <i>a</i>) carrying a steady current <i>I</i>. The current is uniformly distributed across this cross-section. The distances from the centre of the wire’s cross-section at which the magnetic field [inside the wire, outside the wire] is half of the maximum possible magnetic field, any where due to the wire, will be :</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "<p>[<i>a</i>/2, 3<i>a</i>]</p>"
+        },
+        {
+          "key": "B",
+          "value": "<p>[<i>a</i>/4, 3<i>a</i>/2]</p>"
+        },
+        {
+          "key": "C",
+          "value": "<p>[<i>a</i>/2, <i>2a</i>]</p>"
+        },
+        {
+          "key": "D",
+          "value": "<p>[<i>a</i>/4, 2<i>a</i>]</p>"
+        }
+      ],
+      "answer": "C",
+      "explanation": "<p>Maximum possible magnetic field is at the surface</p>\n<p>$$\\begin{aligned}\n& \\mathrm{B}_{\\max }=\\frac{\\mu_0 \\mathrm{I}}{2 \\pi \\mathrm{a}} \\\\\n& \\frac{\\mathrm{~B}_{\\max }}{2}=\\frac{\\mu_0 \\mathrm{I}}{4 \\pi \\mathrm{a}}\n\\end{aligned}$$</p>\n<p>It can be obtained inside as well as outside the wire</p>\n<p>For inside,</p>\n<p>$$\\begin{aligned}\n& \\frac{\\mu_0 \\mathrm{I}}{4 \\pi \\mathrm{a}}=\\frac{\\mu_0 \\mathrm{Ir}}{2 \\pi \\mathrm{a}^2} \\\\\n& \\Rightarrow \\mathrm{r}=\\frac{\\mathrm{a}}{2}\n\\end{aligned}$$</p>\n<p>For outside</p>\n<p>$$\\begin{aligned}\n& \\frac{\\mu_0 \\mathrm{I}}{4 \\pi \\mathrm{a}}=\\frac{\\mu_0 \\mathrm{I}}{2 \\pi \\mathrm{r}} \\\\\n& \\Rightarrow \\mathrm{r}=2 \\mathrm{a}\n\\end{aligned}$$</p>\n<p>Correct answer $\\left[\\frac{\\mathrm{a}}{2}, 2 \\mathrm{a}\\right]$</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Given below are two statements. One is labelled as Assertion (A) and the other is labelled as Reason (R).</p>\n<p>Assertion (A) : A electron in a certain region of uniform magnetic field is moving with constant velocity in a straight line path.</p>\n<p>Reason (R) : The magnetic field in that region is along the direction of velocity of the electron. In the light of the above statements, choose the correct answer from the options given below :</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "(A) is true but (R) is false\n"
+        },
+        {
+          "key": "B",
+          "value": "Both (A) and (R) are true and (R) is the correct explanation of (A)\n"
+        },
+        {
+          "key": "C",
+          "value": "Both $(\\mathbf{A})$ and $(\\mathbf{R})$ are true but $(\\mathbf{R})$ is NOT the correct explanation of (A)\n"
+        },
+        {
+          "key": "D",
+          "value": "(A) is false but (R) is true"
+        }
+      ],
+      "answer": "B",
+      "explanation": "<p>According to the Lorentz force law, the force experienced by a charged particle, such as an electron, moving in a magnetic field is given by the equation:</p>\n<p>$ \\overline{\\mathrm{F}} = \\mathrm{q}(\\overline{\\mathrm{v}} \\times \\overline{\\mathrm{B}}) $</p>\n<p>Here, $ \\overline{\\mathrm{F}} $ is the force exerted on the particle, $ \\mathrm{q} $ is the charge of the particle, $ \\overline{\\mathrm{v}} $ is the velocity vector of the particle, and $ \\overline{\\mathrm{B}} $ is the magnetic field vector. The symbol $ \\times $ indicates the cross product, meaning the force is perpendicular to both the velocity and magnetic field vectors.</p>\n<p>Given this, for the force $ \\overline{\\mathrm{F}} $ to be zero:</p>\n\n<p>The velocity $ \\overline{\\mathrm{v}} $ and the magnetic field $ \\overline{\\mathrm{B}} $ must be parallel (or anti-parallel). This condition will result in the angle $ \\theta = 0^\\circ $ or $ 180^\\circ $.</p>\n\n<p>Under these circumstances, the electron will not experience any magnetic force and will continue to move in a straight line with constant velocity, as the cross product becomes zero. Therefore, the reason (R) is indeed a valid explanation: the magnetic field being along the direction of the electron's velocity means no perpendicular force is applied to change its path.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>An electron projected perpendicular to a uniform magnetic field B moves in a circle. If Bohr's quantization is applicable, then the radius of the electronic orbit in the first excited state is :</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "$\\sqrt{\\frac{h}{\\pi e B}}$\n"
+        },
+        {
+          "key": "B",
+          "value": "$\\sqrt{\\frac{4 h}{\\pi e B}}$\n"
+        },
+        {
+          "key": "C",
+          "value": "$\\sqrt{\\frac{\\mathrm{h}}{2 \\pi e \\mathrm{eB}}}$\n"
+        },
+        {
+          "key": "D",
+          "value": "$\\sqrt{\\frac{2 h}{\\pi e B}}$"
+        }
+      ],
+      "answer": "A",
+      "explanation": "<p>When an electron is projected perpendicular to a uniform magnetic field $ B $, it travels in a circular path. According to Bohr's quantization rule, the radius of the electron's orbit in the first excited state can be determined using the following approach:</p>\n\n<p><p>The radius $ r $ in a magnetic field is expressed as:</p>\n<p>$    r = \\frac{mv}{eB}    $</p>\n<p>where $ m $ is the mass of the electron, $ v $ is its velocity, $ e $ is its charge, and $ B $ is the magnetic field strength.</p></p>\n<p><p>According to Bohr's quantization condition:</p>\n<p>$    mvr = \\frac{nh}{2\\pi}    $</p>\n<p>Substituting the expression for $ r $:</p>\n<p>$    (eBr)r = \\frac{nh}{2\\pi}    $</p>\n<p>This simplifies to the expression for the radius:</p>\n<p>$    r = \\sqrt{\\frac{nh}{2\\pi eB}}    $</p></p>\n<p><p>In the first excited state, the principal quantum number $ n $ is 2. So, the radius becomes:</p>\n<p>$    r = \\sqrt{\\frac{2h}{2\\pi eB}} = \\sqrt{\\frac{h}{\\pi eB}}    $ </p></p>\n\n<p>Thus, for the first excited state, the radius of the electron's orbit is $ \\sqrt{\\frac{h}{\\pi eB}} $.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>A proton and a deutron $$(q=+\\mathrm{e}, m=2.0 \\mathrm{u})$$ having same kinetic energies enter a region of uniform magnetic field $$\\vec{B}$$, moving perpendicular to $$\\vec{B}$$. The ratio of the radius $$r_d$$ of deutron path to the radius $$r_p$$ of the proton path is:</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$1: 2$$\n"
+        },
+        {
+          "key": "B",
+          "value": "$$1: 1$$\n"
+        },
+        {
+          "key": "C",
+          "value": "$$\\sqrt{2}: 1$$\n"
+        },
+        {
+          "key": "D",
+          "value": "$$1: \\sqrt{2}$$"
+        }
+      ],
+      "answer": "C",
+      "explanation": "<p>To solve for the ratio of the radii of deutron and proton paths in a magnetic field, we use the formula for the radius $$r$$ of the circular path of a charged particle moving perpendicular to a uniform magnetic field:</p>\n\n<p>$$r = \\frac{mv}{qB}$$</p>\n\n<p>where:</p>\n\n<ul>\n\n<li>$$m$$ is the mass of the particle,</li>\n\n<li>$$v$$ is the velocity of the particle,</li>\n\n<li>$$q$$ is the charge of the particle, and</li>\n\n<li>$$B$$ is the magnetic field strength.</li>\n\n</ul>\n\n<p>The proton and the deutron are given to have the same kinetic energy. The kinetic energy $$K$$ of a particle is given by:</p>\n\n<p>$$K = \\frac{1}{2}mv^2$$</p>\n\n<p>From the kinetic energy, we can express the velocity as:</p>\n\n<p>$$v = \\sqrt{\\frac{2K}{m}}$$</p>\n\n<p>Since both particles have the same kinetic energy and the charge of the deutron is the same as the charge of the proton $$q = e$$, but the mass of the deutron is twice that of the proton ($$m_d = 2m_p$$), substituting the expression for $$v$$ in the radius formula, we get:</p>\n\n<p>For the deutron:</p>\n\n<p>$$r_d = \\frac{m_d\\sqrt{2K/m_d}}{eB} = \\sqrt{\\frac{2K}{eB^2}} \\cdot \\sqrt{m_d}$$</p>\n\n<p>For the proton ($$m_p = m$$):</p>\n\n<p>$$r_p = \\sqrt{\\frac{2K}{eB^2}} \\cdot \\sqrt{m_p}$$</p>\n\n<p>The ratio of the radius of the deutron path $$r_d$$ to the radius of the proton path $$r_p$$ is therefore:</p>\n\n<p>$$\\frac{r_d}{r_p} = \\frac{\\sqrt{m_d}}{\\sqrt{m_p}} = \\sqrt{\\frac{2m_p}{m_p}} = \\sqrt{2}$$</p>\n\n<p>So, the correct answer is:</p>\n\n<p>Option C: $$\\sqrt{2}: 1$$.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Given below are two statements :</p>\n<p>Statement (I) : When currents vary with time, Newton's third law is valid only if momentum carried by the electromagnetic field is taken into account</p>\n<p>Statement (II) : Ampere's circuital law does not depend on Biot-Savart's law.</p>\n<p>In the light of the above statements, choose the correct answer from the options given below :</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "Both Statement I and Statement II are false\n"
+        },
+        {
+          "key": "B",
+          "value": "Statement I is false but Statement II is true\n"
+        },
+        {
+          "key": "C",
+          "value": "Both Statement I and Statement II are true\n"
+        },
+        {
+          "key": "D",
+          "value": "Statement I is true but Statement II is false"
+        }
+      ],
+      "answer": "D",
+      "explanation": "<p>Let's analyze each statement in detail to determine the correct answer:</p>\n\n<p><strong>Statement (I) :</strong> \"When currents vary with time, Newton's third law is valid only if momentum carried by the electromagnetic field is taken into account.\" This statement is true. According to physics, particularly when dealing with electromagnetism and Maxwell's equations, the momentum of the electromagnetic field plays a critical role in conserving momentum in systems where electromagnetic forces are at play. In situations where electric and magnetic fields vary with time, they can carry momentum. Thus, for the conservation laws to hold, including Newton's third law which states that for every action, there is an equal and opposite reaction, the momentum carried by the electromagnetic fields must be included. This is essential in scenarios such as radiation pressure where light (which can be considered an electromagnetic wave) exerts pressure on surfaces, thereby imparting momentum.</p>\n\n<p><strong>Statement (II) :</strong> \"Ampere's circuital law does not depend on Biot-Savart's law.\" This statement is false. Historically and mathematically, Ampère's Circuital Law and Biot-Savart Law are closely related in the context of classical electromagnetism. Ampère's Law, particularly in its integral form, relates the integrated magnetic field around a closed loop to the electric current passing through the loop. Biot-Savart Law, on the other hand, is used to calculate the magnetic field generated by a current-carrying element at a point in space. Although Ampère's Law can be derived without directly invoking the Biot-Savart Law, the fundamental understanding and derivations of magnetic fields due to currents, as presented in many textbooks and formulations, show that both laws are manifestations of how moving charges produce magnetic fields. Moreover, the formulation of Ampère's Law was later extended by Maxwell (Maxwell's addition) to include the concept of displacement current, linking it more fundamentally to the changing electric fields and closing a conceptual loop that ties it to the broader electromagnetic theory that includes the effects described by the Biot-Savart Law.</p>\n\n<p>Given the above explanations:</p>\n<p>Option D (Statement I is true but Statement II is false) is the correct answer.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>A long straight wire of radius a carries a steady current I. The current is uniformly distributed across its cross section. The ratio of the magnetic field at $$\\frac{a}{2}$$ and $$2 a$$ from axis of the wire is :</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$4: 1$$\n"
+        },
+        {
+          "key": "B",
+          "value": "$$3: 4$$\n"
+        },
+        {
+          "key": "C",
+          "value": "$$1: 1$$\n"
+        },
+        {
+          "key": "D",
+          "value": "$$1: 4$$"
+        }
+      ],
+      "answer": "C",
+      "explanation": "<p>To find the ratio of the magnetic field at $$\\frac{a}{2}$$ and $$2a$$ distances from the axis of a long straight wire, we use Ampère's Law, which relates the magnetic field around a current-carrying conductor to the current enclosed by it.</p>\n\n<p>Ampère’s Law is given by:</p>\n\n<p>$$\\oint \\vec{B} \\cdot d\\vec{l} = \\mu_0 I_{\\text{enc}}$$</p>\n\n<p>where:</p>\n\n<p>$$\\vec{B}$$ is the magnetic field,</p>\n\n<p>$$\\mu_0$$ is the permeability of free space,</p>\n\n<p>$$I_{\\text{enc}}$$ is the enclosed current.</p>\n\n<p>For a point inside the wire (at radius $$r=a/2$$):</p>\n\n<p>The current enclosed by a radius $$r$$ is proportional to the area of the cross-section at radius $$r$$.</p>\n\n<p>The area of the cross-section at radius $$r$$ is given by:</p>\n\n<p>$$\\pi \\left( \\frac{a}{2} \\right)^2 = \\frac{\\pi a^2}{4}$$</p>\n\n<p>The total current $$I$$ is uniformly distributed, thus the current enclosed $$I_{\\text{enc}}$$ at radius $$r = \\frac{a}{2}$$ is:</p>\n\n<p>$$I_{\\text{enc}} = I \\times \\frac{\\text{Area enclosed}}{\\text{Total area}} = I \\times \\frac{\\frac{\\pi a^2}{4}}{\\pi a^2} = \\frac{I}{4}$$</p>\n\n<p>Applying Ampère’s Law inside the conductor, we get:</p>\n\n<p>$$B \\cdot 2 \\pi \\left( \\frac{a}{2} \\right) = \\mu_0 \\left( \\frac{I}{4} \\right)$$</p>\n\n<p>So,</p>\n\n<p>$$B \\cdot \\pi a = \\frac{\\mu_0 I}{4}$$</p>\n\n<p>Therefore, the magnetic field inside the wire at $$r = \\frac{a}{2}$$ is:</p>\n\n<p>$$B_{\\frac{a}{2}} = \\frac{\\mu_0 I}{4 \\pi a}$$</p>\n\n<p>For a point outside the wire (at radius $$r = 2a$$):</p>\n\n<p>The total current enclosed by a radius $$r = 2a$$ is the entire current $$I$$.</p>\n\n<p>Applying Ampère’s Law outside the conductor, we get:</p>\n\n<p>$$B \\cdot 2 \\pi (2a) = \\mu_0 I$$</p>\n\n<p>So,</p>\n\n<p>$$B \\cdot 4 \\pi a = \\mu_0 I$$</p>\n\n<p>Therefore, the magnetic field outside the wire at $$r = 2a$$ is:</p>\n\n<p>$$B_{2a} = \\frac{\\mu_0 I}{4 \\pi a}$$</p>\n\n<p>Hence, the ratio of the magnetic field at $$\\frac{a}{2}$$ and $$2a$$ is:</p>\n\n<p>$$\\frac{B_{\\frac{a}{2}}}{B_{2a}} = \\frac{\\frac{\\mu_0 I}{4 \\pi a}}{\\frac{\\mu_0 I}{4 \\pi a}} = 1:1$$</p>\n\n<p>So, the correct option is:</p>\n\n<p>Option C: $$1:1$$</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>The electrostatic force $$\\left(\\vec{F_1}\\right)$$ and magnetic force $$\\left(\\vec{F}_2\\right)$$ acting on a charge $$q$$ moving with velocity $$v$$ can be written :</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$\\vec{F}_1=q \\vec{B}, \\vec{F}_2=q(\\vec{B} \\times \\vec{v})$$"
+        },
+        {
+          "key": "B",
+          "value": "$$\\vec{F}_1=q \\vec{V} \\cdot \\vec{E}, \\vec{F}_2=q(\\vec{B} \\cdot \\vec{V})$$\n"
+        },
+        {
+          "key": "C",
+          "value": "$$\\vec{F}_1=q \\vec{E}, \\vec{F}_2=q(\\vec{V} \\times \\vec{B})$$\n"
+        },
+        {
+          "key": "D",
+          "value": "$$\\vec{F}_1=q \\vec{E}, \\vec{F}_2=q(\\vec{B} \\times \\vec{V})$$"
+        }
+      ],
+      "answer": "C",
+      "explanation": "<p>The correct expressions for the electrostatic force, $\\vec{F}_1$, and the magnetic force, $\\vec{F}_2$, acting on a charge $q$ moving with velocity $\\vec{v}$, are given by the Lorentz force law. This law states that the total force acting on a charged particle in both an electric field and a magnetic field is the sum of an electrostatic force due to the electric field and a magnetic force due to the magnetic field.</p>\n\n<p>The electrostatic force is given by:</p>\n\n<p>$\\vec{F}_1 = q \\vec{E}$</p>\n\n<p>where $\\vec{E}$ is the electric field.</p>\n\n<p>The magnetic force is given by:</p>\n\n<p>$\\vec{F}_2 = q(\\vec{v} \\times \\vec{B})$</p>\n\n<p>where $\\vec{B}$ is the magnetic field, and $\\times$ denotes the cross product, indicating that the magnetic force is perpendicular both to the direction of the velocity of the charge and the direction of the magnetic field.</p>\n\n<p>Therefore, the correct option is:</p>\n\n<p>Option C: $\\vec{F}_1=q \\vec{E}, \\vec{F}_2=q(\\vec{V} \\times \\vec{B})$</p>\n\n<p>Options A, B, and D are incorrect because they do not accurately reflect the definitions of electrostatic and magnetic forces as described by the Lorentz force law.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "In a co-axial straight cable, the central conductor and the outer conductor carry equal currents in opposite directions. The magnetic field is zero :\n",
+      "options": [
+        {
+          "key": "A",
+          "value": "inside the outer conductor\n"
+        },
+        {
+          "key": "B",
+          "value": "outside the cable\n"
+        },
+        {
+          "key": "C",
+          "value": "in between the two conductors\n"
+        },
+        {
+          "key": "D",
+          "value": "inside the inner conductor"
+        }
+      ],
+      "answer": "B",
+      "explanation": "<p>Let's dig into how the magnetic field behaves in a coaxial cable in relation to the given options. The principle to consider here is Ampère's law, which states that the magnetic field in a loop surrounding a current is proportional to the amount of current enclosed. When we apply this to a coaxial cable, we must look at different regions within the cable.</p>\n\n<p>Option A: Inside the outer conductor</p>\n\n<p>The magnetic field within the outer conductor is not zero because the current in the outer conductor itself contributes to the magnetic field in that region. However, considering the symmetric distribution of current and the geometry of the coaxial cable, there may be a varying magnetic field within the conductor depending on the distance from the center axis.</p>\n\n<p>Option B: Outside the cable</p>\n\n<p>Outside the coaxial cable, the net current enclosed by a path enclosing both conductors is zero because the current in the inner conductor flows in the opposite direction to the equally magnitude current in the outer conductor. These currents being equal and opposite in direction cancel each other out, leading to a net enclosed current of zero. According to Ampère's law, if the net enclosed current is zero, the magnetic field in that space is also zero. Therefore, the magnetic field is zero outside the cable.</p>\n\n<p>Option C: In between the two conductors</p>\n\n<p>In the space between the two conductors, the magnetic field is not zero. This region only encloses the current from the inner conductor. The magnetic field in this region is due to the current in the inner conductor and follows the right-hand rule, which would result in concentric circles of magnetic field around the inner conductor. Since only the inner conductor's current contributes to the magnetic field in this space, Ampère's law suggests that there is a non-zero magnetic field in this region.</p>\n\n<p>Option D: Inside the inner conductor</p>\n\n<p>Within the inner conductor, the magnetic field is not necessarily zero. Like within the outer conductor, the magnetic field inside the inner conductor will depend on the distribution of the current within that conductor. Utilizing the formula derived from Ampère's law for a cylindrical conductor with a uniform current distribution, the magnetic field inside the conductor increases linearly with the distance from the center axis up to the conductor's surface.</p>\n\n<p>In conclusion, the correct option, based on Ampère's law and the principle that the net current enclosed determines the magnetic field outside the current's path, is:</p>\n\n<p>Option B: Outside the cable</p>\n\n<p>This is because the equal and opposite currents in the inner and outer conductors cancel each other, leading to a net magnetic field of zero outside the coaxial cable.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>An electron is projected with uniform velocity along the axis inside a current carrying long solenoid. Then :</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "the electron will experience a force at $$45^{\\circ}$$ to the axis and execute a helical path.\n"
+        },
+        {
+          "key": "B",
+          "value": "the electron will be accelerated along the axis.\n"
+        },
+        {
+          "key": "C",
+          "value": "the electron path will be circular about the axis.\n"
+        },
+        {
+          "key": "D",
+          "value": "the electron will continue to move with uniform velocity along the axis of the solenoid."
+        }
+      ],
+      "answer": "D",
+      "explanation": "<p>For this scenario, it's important to recall how magnetic fields influence the motion of charged particles, and the configuration of the magnetic field within a solenoid. Inside a long solenoid, the magnetic field lines run parallel to the axis of the solenoid. The strength of this field is uniform and depends on the current running through the solenoid's coils and the number of turns per unit length but is independent of the position inside the solenoid as long as one is sufficiently far from the ends. </p>\n\n<p>The force experienced by a charged particle moving in a magnetic field is given by the Lorentz force equation: $$\\vec{F} = q(\\vec{v} \\times \\vec{B})$$ where\n\n<ul>\n<li>$$q$$ is the charge of the particle,</li><br>\n<li>$$\\vec{v}$$ is the velocity of the particle, and</li><br>\n<li>$$\\vec{B}$$ is the magnetic field.</p></li>\n</ul>\n<p>For an electron moving along the axis inside a solenoid:\n\n<ul>\n<li>The magnetic field ($$\\vec{B}$$) inside the solenoid is parallel to the axis of the solenoid.</li><br>\n<li>The velocity of the electron ($$\\vec{v}$$) is also parallel to the axis of the solenoid and hence parallel to $$\\vec{B}$$. </p></li>\n</ul>\n<p>Since the cross product of two parallel vectors (in this case, $$\\vec{v}$$ and $$\\vec{B}$$) is zero, the Lorentz force ($$\\vec{F} = q(\\vec{v} \\times \\vec{B})$$) acting on the electron will be zero. Therefore, the electron will not experience any force due to the magnetic field of the solenoid, as there is no component of its velocity that is perpendicular to the magnetic field within the solenoid.</p>\n\n<p>Given the above explanation, the correct option is:</p>\n\n<p>Option D: the electron will continue to move with uniform velocity along the axis of the solenoid.</p>\n\n<p>This is because, in the absence of any force acting on it, the electron will maintain its state of motion according to Newton's first law of motion, which states that an object will remain at rest or in uniform motion in a straight line unless acted upon by an external force.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Two particles $$X$$ and $$Y$$ having equal charges are being accelerated through the same potential difference. Thereafter they enter normally in a region of uniform magnetic field and describes circular paths of radii $$R_1$$ and $$R_2$$ respectively. The mass ratio of $$X$$ and $$Y$$ is :</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$\\left(\\frac{R_1}{R_2}\\right)$$\n"
+        },
+        {
+          "key": "B",
+          "value": "$$\\left(\\frac{R_2}{R_1}\\right)$$\n"
+        },
+        {
+          "key": "C",
+          "value": "$$\\left(\\frac{R_2}{R_1}\\right)^2$$\n"
+        },
+        {
+          "key": "D",
+          "value": "$$\\left(\\frac{R_1}{R_2}\\right)^2$$"
+        }
+      ],
+      "answer": "D",
+      "explanation": "<p>$$\\begin{aligned}\n& \\mathrm{R}=\\frac{\\mathrm{mv}}{\\mathrm{qB}}=\\frac{\\mathrm{p}}{\\mathrm{qB}}=\\frac{\\sqrt{2 \\mathrm{~m}(\\mathrm{KE})}}{\\mathrm{qB}}=\\frac{\\sqrt{2 \\mathrm{mqV}}}{\\mathrm{qB}} \\\\\n& \\mathrm{R} \\propto \\sqrt{\\mathrm{m}} \\\\\n& \\mathrm{m} \\propto \\mathrm{R}^2 \\\\\n& \\frac{\\mathrm{m}_1}{\\mathrm{~m}_2}=\\left(\\frac{\\mathrm{R}_1}{\\mathrm{R}_2}\\right)^2\n\\end{aligned}$$</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>A proton moving with a constant velocity passes through a region of space without any change in its velocity. If $$\\overrightarrow{\\mathrm{E}}$$ and $$\\overrightarrow{\\mathrm{B}}$$ represent the electric and magnetic fields respectively, then the region of space may have :</p>\n<p>(A) $$\\mathrm{E}=0, \\mathrm{~B}=0$$<?p>\n<p>(B) $$\\mathrm{E}=0, \\mathrm{~B} \\neq 0$$</p>\n<p>(C) $$\\mathrm{E} \\neq 0, \\mathrm{~B}=0$$</p>\n<p>(D) $$\\mathrm{E} \\neq 0, \\mathrm{~B} \\neq 0$$</p>\n<p>Choose the most appropriate answer from the options given below :</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "(A), (B) and (C) only"
+        },
+        {
+          "key": "B",
+          "value": "(A), (C) and (D) only"
+        },
+        {
+          "key": "C",
+          "value": "(A), (B) and (D) only"
+        },
+        {
+          "key": "D",
+          "value": "(B), (C) and (D) only"
+        }
+      ],
+      "answer": "C",
+      "explanation": "<p>Net force on particle must be zero i.e.\n$$\\mathrm{q} \\overrightarrow{\\mathrm{E}}+\\mathrm{q} \\overrightarrow{\\mathrm{V}} \\times \\overrightarrow{\\mathrm{B}}=0$$</p>\n<p>Possible cases are</p>\n<p>(i) $$\\overrightarrow{\\mathrm{E}} \\& \\overrightarrow{\\mathrm{B}}=0$$</p>\n<p>(ii) $$\\overrightarrow{\\mathrm{V}} \\times \\overrightarrow{\\mathrm{B}}=0, \\overrightarrow{\\mathrm{E}}=0$$</p>\n<p>(iii) $$q \\overrightarrow{\\mathrm{E}}=-\\mathrm{q} \\overrightarrow{\\mathrm{V}} \\times \\overrightarrow{\\mathrm{B}}$$</p>\n<p>$$\\overrightarrow{\\mathrm{E}} \\neq 0 \\& \\overrightarrow{\\mathrm{B}} \\neq 0$$</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>An electron is moving along the positive $$\\mathrm{x}$$-axis. If the uniform magnetic field is applied parallel to the negative z-axis, then</p>\n<p>A. The electron will experience magnetic force along positive y-axis</p>\n<p>B. The electron will experience magnetic force along negative y-axis</p>\n<p>C. The electron will not experience any force in magnetic field</p>\n<p>D. The electron will continue to move along the positive $$\\mathrm{x}$$-axis</p>\n<p>E. The electron will move along circular path in magnetic field</p>\n<p>Choose the correct answer from the options given below:</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "A and E only"
+        },
+        {
+          "key": "B",
+          "value": "B and D only"
+        },
+        {
+          "key": "C",
+          "value": "B and E only"
+        },
+        {
+          "key": "D",
+          "value": "C and D only"
+        }
+      ],
+      "answer": "C",
+      "explanation": "The Lorentz force equation is given as:\n<br/><br/>\n$$\\vec{F} = -q(\\vec{v} \\times \\vec{B})$$\n<br/><br/>\nThe electron is moving along the positive x-axis, so its velocity vector is $$\\vec{v} = v_x \\hat{i}$$. The magnetic field is applied parallel to the negative z-axis, so its magnetic field vector is $$\\vec{B} = -B_z \\hat{k}$$. \n<br/><br/>\nNow, we can calculate the cross product of the velocity and magnetic field vectors:\n<br/><br/>\n$$\\vec{v} \\times \\vec{B} = (v_x \\hat{i}) \\times (-B_z \\hat{k})$$\n<br/><br/>\nUsing the cross product properties, we get:\n<br/><br/>\n$$\\vec{v} \\times \\vec{B} = -v_x B_z (\\hat{i} \\times \\hat{k})$$\n<br/><br/>\nThe cross product of $$\\hat{i}$$ and $$\\hat{k}$$ is $$-\\hat{j}$$, so:\n<br/><br/>\n$$\\vec{v} \\times \\vec{B} = -v_x B_z (-\\hat{j}) = v_x B_z \\hat{j}$$\n<br/><br/>\nSince the electron has a negative charge, the magnetic force will be in the opposite direction:\n<br/><br/>\n$$\\vec{F} = -(-e)(v_x B_z \\hat{j}) = e(v_x B_z \\hat{j})$$\n<br/><br/>\nAs a result, the electron will experience a magnetic force along the negative y-axis. \n<br/><br/>\nAdditionally, as mentioned earlier, when a charged particle moves through a magnetic field perpendicular to its velocity, it follows a circular path. In this case, the velocity of the electron is along the positive x-axis, and the magnetic field is along the negative z-axis, which are indeed perpendicular to each other. As a result, the electron will move along a circular path in the magnetic field.\n<br/><br/>\nHence, the correct answer is:\n<br/><br/>\n(C) B and E only"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>The source of time varying magnetic field may be</p>\n<p>(A) a permanent magnet</p>\n<p>(B) an electric field changing linearly with time</p>\n<p>(C) direct current</p>\n<p>(D) a decelerating charge particle</p>\n<p>(E) an antenna fed with a digital signal</p>\n<p>Choose the correct answer from the options given below:</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "(D) only"
+        },
+        {
+          "key": "B",
+          "value": "(A) only"
+        },
+        {
+          "key": "C",
+          "value": "(B) and (D) only"
+        },
+        {
+          "key": "D",
+          "value": "(C) and (E) only"
+        }
+      ],
+      "answer": "A",
+      "explanation": "Source of time varying magnetic field may be<br/><br/>\n$\\rightarrow$ accelerated or retarded charge which produces varying electric and magnetic fields.<br/><br/>\n$\\rightarrow$ An electric field varying linearly with time will not produce variable magnetic field as current will be constant"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>An electron is allowed to move with constant velocity along the axis of current carrying straight solenoid.</p>\n<p>A. The electron will experience magnetic force along the axis of the solenoid.</p>\n<p>B. The electron will not experience magnetic force.</p>\n<p>C. The electron will continue to move along the axis of the solenoid.</p>\n<p>D. The electron will be accelerated along the axis of the solenoid.</p>\n<p>E. The electron will follow parabolic path-inside the solenoid.</p>\n<p>Choose the correct answer from the options given below:</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "B, C and D only"
+        },
+        {
+          "key": "B",
+          "value": "B and C only"
+        },
+        {
+          "key": "C",
+          "value": "A and D only"
+        },
+        {
+          "key": "D",
+          "value": "B and E only"
+        }
+      ],
+      "answer": "B",
+      "explanation": "<p>The magnetic field inside a solenoid is uniform and parallel to the axis of the solenoid. When an electron moves with constant velocity along the axis of the solenoid, the angle between its velocity vector and the magnetic field is 0°.</p>\n<p>The magnetic force experienced by a moving charge is given by the Lorentz force formula:</p>\n<p>$$\\vec{F} = q(\\vec{v} \\times \\vec{B})$$</p>\n<p>Since the angle between the velocity vector and the magnetic field is 0°, the cross product term becomes zero:</p>\n<p>$$\\vec{v} \\times \\vec{B} = 0$$</p>\n<p>Therefore, the magnetic force experienced by the electron is also zero:</p>\n<p>$$\\vec{F} = 0$$</p>\n<p>As a result, the electron will not experience any magnetic force (Option B) and will continue to move along the axis of the solenoid with constant velocity (Option C).</p>\n<p>Thus, the correct answer is:</p>\n<p>B and C only</p>\n"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>A charge particle moving in magnetic field B, has the components of velocity along B as well as perpendicular to B. The path of the charge particle will be</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "helical path with the axis along magnetic field $$\\mathrm{B}$$"
+        },
+        {
+          "key": "B",
+          "value": "straight along the direction of magnetic field $$\\mathrm{B}$$"
+        },
+        {
+          "key": "C",
+          "value": "circular path"
+        },
+        {
+          "key": "D",
+          "value": "helical path with the axis perpendicular to the direction of magnetic field B"
+        }
+      ],
+      "answer": "A",
+      "explanation": "<p>When a charged particle moves in a magnetic field, its motion is affected by the components of its velocity that are parallel and perpendicular to the magnetic field.</p>\n<ol>\n<li><p>The component of velocity that is parallel to the magnetic field doesn&#39;t get affected by the magnetic field. It causes the particle to move along the magnetic field lines in a straight line.</p>\n</li>\n<li><p>The component of velocity that is perpendicular to the magnetic field causes the charged particle to move in a circular path around the magnetic field lines due to the magnetic Lorentz force.</p>\n</li>\n</ol>\n<p>Combining these two effects, the charged particle follows a helical path, where the axis of the helix is aligned with the magnetic field.</p>\n"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>A long straight wire of circular cross-section (radius a) is carrying steady current I. The current I is uniformly distributed across this cross-section. The magnetic field is</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "uniform in the region $$r < a$$ and inversely proportional to distance $$r$$ from the axis, in the region $$r > a$$"
+        },
+        {
+          "key": "B",
+          "value": "zero in the region $$r < a$$ and inversely proportional to $$r$$ in the region $$r > a$$"
+        },
+        {
+          "key": "C",
+          "value": "directly proportional to $$r$$ in the region $$r < a$$ and inversely proportional to $$r$$ in the region $$r > a$$"
+        },
+        {
+          "key": "D",
+          "value": "inversely proportional to $$r$$ in the region $$r < a$$ and uniform throughout in the region $$r > a$$"
+        }
+      ],
+      "answer": "C",
+      "explanation": "<p>The magnetic field due to a current carrying wire can be calculated using Ampere&#39;s law. When the current is uniformly distributed across the cross-section of the wire, the situation will be different inside and outside the wire.</p>\n<p>Inside the wire (r &lt; a), the magnetic field is directly proportional to r (the distance from the center of the wire). This is because as you move away from the center of the wire, you enclose more current, so the magnetic field increases linearly with r.</p>\n<p>Outside the wire (r &gt; a), all the current in the wire is enclosed, so the magnetic field decreases with increasing r. This is a result of the magnetic field lines spreading out as they move away from the wire.</p>\n"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A long conducting wire having a current I flowing through it, is bent into a circular coil of $\\mathrm{N}$ turns. Then it is bent into a circular coil of $\\mathrm{n}$ turns. The magnetic field is calculated at the centre of coils in both the cases. The ratio of the magnetic field in first case to that of second case is :",
+      "options": [
+        {
+          "key": "A",
+          "value": "$ N^{2}: n^{2}$"
+        },
+        {
+          "key": "B",
+          "value": "$\\mathrm{N}: \\mathrm{n}$"
+        },
+        {
+          "key": "C",
+          "value": "$\\mathrm{n}: \\mathrm{N}$"
+        },
+        {
+          "key": "D",
+          "value": "$n^{2}: N^{2}$"
+        }
+      ],
+      "answer": "A",
+      "explanation": "$I=(2 \\pi r) n$\n\n<br/><br/>$$\n\\begin{aligned}\n& r \\propto\\left(\\frac{I}{n}\\right) \\\\\\\\\n& B=n\\left(\\frac{\\mu_{0} i}{2 r}\\right) \\propto\\left(\\frac{\\mu_{0} i}{2 L}\\right) n^{2} \\\\\\\\\n& \\frac{B_{1}}{B_{2}}=\\left(\\frac{N^{2}}{n^{2}}\\right)\n\\end{aligned}\n$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>A rod with circular cross-section area $$2 \\mathrm{~cm}^{2}$$ and length $$40 \\mathrm{~cm}$$ is wound uniformly with 400 turns of an insulated wire. If a current of $$0.4 \\mathrm{~A}$$ flows in the wire windings, the total magnetic flux produced inside windings is $$4 \\pi \\times 10^{-6} \\mathrm{~Wb}$$. The relative permeability of the rod is</p>\n<p>(Given : Permeability of vacuum $$\\mu_{0}=4 \\pi \\times 10^{-7} \\mathrm{NA}^{-2}$$)</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$\\frac{5}{16}$$"
+        },
+        {
+          "key": "B",
+          "value": "125"
+        },
+        {
+          "key": "C",
+          "value": "$$\\frac{32}{5}$$"
+        },
+        {
+          "key": "D",
+          "value": "12.5"
+        }
+      ],
+      "answer": "A",
+      "explanation": "Magnetic field in the Solenoid,\n<br/><br/>$$\n\\begin{aligned}\n& \\mathrm{B}=\\mu_0 \\mu_r \\mathrm{nI} \\\\\\\\\n& \\text { Magnetic flux, } \\phi=\\mathrm{N}(\\mathrm{BA}) \\\\\\\\\n& \\phi=N\\left(\\mu_0 \\mu_r n I A\\right) \\\\\\\\\n& \\Rightarrow 4 \\pi \\times 10^{-6}=400\\left(4 \\pi \\times 10^{-7} \\mu_r \\times \\frac{400}{0.4} \\times 0.4 \\times 2 \\times 10^{-4}\\right) \\\\\\\\\n& \\Rightarrow \\frac{1}{40}=\\mu_r \\times 8 \\times 10^{-2} \\\\\\\\\n& \\Rightarrow \\mu_r=\\frac{100}{320}=\\frac{5}{16}\n\\end{aligned}\n$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>The magnetic moments associated with two closely wound circular coils $$\\mathrm{A}$$ and $$\\mathrm{B}$$ of radius $$\\mathrm{r}_{\\mathrm{A}}=10$$ $$\\mathrm{cm}$$ and $$\\mathrm{r}_{\\mathrm{B}}=20 \\mathrm{~cm}$$ respectively are equal if : (Where $$\\mathrm{N}_{\\mathrm{A}}, \\mathrm{I}_{\\mathrm{A}}$$ and $$\\mathrm{N}_{\\mathrm{B}}, \\mathrm{I}_{\\mathrm{B}}$$ are number of turn and current of $$\\mathrm{A}$$ and $$\\mathrm{B}$$ respectively)</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$4 \\mathrm{~N}_{\\mathrm{A}} \\mathrm{I}_{\\mathrm{A}}=\\mathrm{N}_{\\mathrm{B}} \\mathrm{I}_{\\mathrm{B}}$$"
+        },
+        {
+          "key": "B",
+          "value": "$$2 \\mathrm{~N}_{\\mathrm{A}} \\mathrm{I}_{\\mathrm{A}}=\\mathrm{N}_{\\mathrm{B}} \\mathrm{I}_{\\mathrm{B}}$$"
+        },
+        {
+          "key": "C",
+          "value": "$$\\mathrm{N}_{\\mathrm{A}}=2 \\mathrm{~N}_{\\mathrm{B}}$$"
+        },
+        {
+          "key": "D",
+          "value": "$$\\mathrm{N}_{\\mathrm{A}} \\mathrm{I}_{\\mathrm{A}}=4 \\mathrm{~N}_{\\mathrm{B}} \\mathrm{I}_{\\mathrm{B}}$$"
+        }
+      ],
+      "answer": "D",
+      "explanation": "<p>$$M_A=M_B$$</p>\n<p>$${I_A}{N_A}\\left( {\\pi r_A^2} \\right) = {I_B}{N_B}\\left( {\\pi r_B^2} \\right)$$</p>\n<p>$${I_A}{N_A} = 4{I_B}{N_B}$$</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>The electric current in a circular coil of four turns produces a magnetic induction 32 T at its centre. The coil is unwound and is rewound into a circular coil of single turn, the magnetic induction at the centre of the coil by the same current will be :</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "2 T"
+        },
+        {
+          "key": "B",
+          "value": "4 T"
+        },
+        {
+          "key": "C",
+          "value": "8 T"
+        },
+        {
+          "key": "D",
+          "value": "16 T"
+        }
+      ],
+      "answer": "A",
+      "explanation": "<p>By given information</p>\n<p>$$32 = 4 \\times {{{\\mu _0}i} \\over {2r}}$$ ..... (i)</p>\n<p>Also, $$r' = 4r$$ ...... (ii)</p>\n<p>and $$B' = 1 \\times {{{\\mu _0}i} \\over {2r'}}$$ .... (iii)</p>\n<p>$$ \\Rightarrow B' = {{{\\mu _0}i} \\over {2(4r)}} = {{{\\mu _0}i} \\over {8r}} = {1 \\over 8} \\times 16 = 2\\,T$$</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>For a moving coil galvanometer, the deflection in the coil is 0.05 rad when a current of 10 mA is passes through it. If the torsional constant of suspension wire is $$4.0\\times10^{-5}\\mathrm{N~m~rad^{-1}}$$, the magnetic field is 0.01T and the number of turns in the coil is 200, the area of each turn (in cm$$^2$$) is :</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "1.5"
+        },
+        {
+          "key": "B",
+          "value": "2.0"
+        },
+        {
+          "key": "C",
+          "value": "0.5"
+        },
+        {
+          "key": "D",
+          "value": "1.0"
+        }
+      ],
+      "answer": "D",
+      "explanation": "$\\because \\theta=\\left(\\frac{N B A}{K}\\right) I$\n<br/><br/>\n$$\n\\begin{aligned}\nA & =\\frac{\\theta K}{N B I} \\\\\\\\\n& =\\frac{0.05 \\times 4 \\times 10^{-5}}{(200) \\times(0.01) \\times\\left(10 \\times 10^{-3}\\right)} \\\\\\\\\n& =1 \\mathrm{~cm}^{2}\n\\end{aligned}\n$$\n"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>A long solenoid is formed by winding 70 turns cm$$^{-1}$$. If 2.0 A current flows, then the magnetic field produced inside the solenoid is ____________ ($$\\mu_0=4\\pi\\times10^{-7}$$ TmA$$^{-1}$$)</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$88\\times10^{-4}$$ T"
+        },
+        {
+          "key": "B",
+          "value": "$$1232\\times10^{-4}$$ T"
+        },
+        {
+          "key": "C",
+          "value": "$$176\\times10^{-4}$$ T"
+        },
+        {
+          "key": "D",
+          "value": "$$352\\times10^{-4}$$ T"
+        }
+      ],
+      "answer": "C",
+      "explanation": "Number of turns per meter $=7000$ turns per $\\mathrm{m}$\n<br/><br/>\n$$\n\\begin{aligned}\n&i=2 \\mathrm{~A} & \\\\\\\\\n& B=\\mu_{0} n i =4 \\pi \\times 10^{-7} \\times 7000 \\times 2 \\\\\\\\\n& =56 \\pi \\times 10^{-4} \\mathrm{~T} \\\\\\\\\n& =56 \\times \\frac{22}{7} \\times 10^{-4} \\mathrm{~T} \\\\\\\\\n& =176 \\times 10^{-4} \\mathrm{~T}\n\\end{aligned}\n$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Two long straight wires P and Q carrying equal current 10A each were kept parallel to each other at 5 cm distance. Magnitude of magnetic force experienced by 10 cm length of wire P is F$$_1$$. If distance between wires is halved and currents on them are doubled, force F$$_2$$ on 10 cm length of wire P will be:</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$\\frac{F_1}{8}$$"
+        },
+        {
+          "key": "B",
+          "value": "10 F$$_1$$"
+        },
+        {
+          "key": "C",
+          "value": "$$\\frac{F_1}{10}$$"
+        },
+        {
+          "key": "D",
+          "value": "8 F$$_1$$"
+        }
+      ],
+      "answer": "D",
+      "explanation": "$$\n\\begin{aligned}\n& \\text { Force per unit length between two parallel straight wires }=\\frac{\\mu_0 \\mathrm{i}_1 \\mathrm{i}_2}{2 \\pi \\mathrm{d}} \\\\\\\\\n& \\frac{\\mathrm{F}_1}{\\mathrm{~F}_2}=\\frac{\\frac{\\mu_0(10)^2}{2 \\pi(5 \\mathrm{~cm})}}{\\frac{\\mu_0(20)^2}{2 \\pi\\left(\\frac{5 \\mathrm{~cm}}{2}\\right)}}=\\frac{1}{8} \\\\\\\\\n& \\Rightarrow \\mathrm{F}_2=8 \\mathrm{~F}_1\n\\end{aligned}\n$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>The magnetic field at the center of current carrying circular loop is $$B_{1}$$. The magnetic field at a distance of $$\\sqrt{3}$$ times radius of the given circular loop from the  center on its axis is $$B_{2}$$. The value of $$B_{1} / B_{2}$$ will be</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "9 : 4"
+        },
+        {
+          "key": "B",
+          "value": "12 : $$\\sqrt5$$"
+        },
+        {
+          "key": "C",
+          "value": "8 : 1"
+        },
+        {
+          "key": "D",
+          "value": "5 : $$\\sqrt3$$"
+        }
+      ],
+      "answer": "C",
+      "explanation": "<p>$${B_1} = {{{\\mu _0}i} \\over {2R}}$$</p>\n<p>$${B_2} = {{{\\mu _0}i{R^2}} \\over {2{{({R^2} + {x^2})}^{{3 \\over 2}}}}}$$</p>\n<p>$$ \\Rightarrow {{{B_1}} \\over {{B_2}}} = {1 \\over {{R^3}}}{({R^2} + {x^2})^{{3 \\over 2}}}$$</p>\n<p>$$ = {1 \\over {{R^3}}}(8{R^3})$$</p>\n<p>$$ = 8$$</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>The current sensitivity of a galvanometer can be increased by :</p>\n<p>(A) decreasing the number of turns</p>\n<p>(B) increasing the magnetic field</p>\n<p>(C) decreasing the area of the coil</p>\n<p>(D) decreasing the torsional constant of the spring</p>\n<p>Choose the most appropriate answer from the options given below :</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "(B) and (C) only"
+        },
+        {
+          "key": "B",
+          "value": "(C) and (D) only"
+        },
+        {
+          "key": "C",
+          "value": "(A) and (C) only"
+        },
+        {
+          "key": "D",
+          "value": "(B) and (D) only"
+        }
+      ],
+      "answer": "D",
+      "explanation": "<p>$$NiAB = k\\theta $$</p>\n<p>$$ \\Rightarrow {\\theta  \\over i} = {{NAB} \\over k}$$</p>\n<p>$$\\Rightarrow$$ Sensitivity increases if $$B \\uparrow $$ and $$k \\downarrow $$</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>A cyclotron is used to accelerate protons. If the operating magnetic field is $$1.0 \\mathrm{~T}$$ and the radius of the cyclotron 'dees' is $$60 \\mathrm{~cm}$$, the kinetic energy of the accelerated protons in MeV will be :</p>\n<p>$$[\\mathrm{use} \\,\\,\\mathrm{m}_{\\mathrm{p}}=1.6 \\times 10^{-27} \\mathrm{~kg}, \\mathrm{e}=1.6 \\times 10^{-19} \\,\\mathrm{C}$$ ]</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "12"
+        },
+        {
+          "key": "B",
+          "value": "18"
+        },
+        {
+          "key": "C",
+          "value": "16"
+        },
+        {
+          "key": "D",
+          "value": "32"
+        }
+      ],
+      "answer": "B",
+      "explanation": "<p>$$R = {{mv} \\over {Bq}} = {{\\sqrt {2mK} } \\over {Bq}}$$</p>\n<p>$$ \\Rightarrow K = {{{B^2}{q^2}{R^2}} \\over {2m}}$$</p>\n<p>$$ = {{{{(1.6 \\times {{10}^{ - 19}})}^2} \\times {{0.6}^2}} \\over {2 \\times 1.6 \\times {{10}^{ - 27}}}}$$ J</p>\n<p>$$= 18$$ MeV</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>A charge particle is moving in a uniform magnetic field $$(2 \\hat{i}+3 \\hat{j}) \\,\\mathrm{T}$$. If it has an acceleration of $$(\\alpha \\hat{i}-4 \\hat{j})\\, \\mathrm{m} / \\mathrm{s}^{2}$$, then the value of $$\\alpha$$ will be :</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "3"
+        },
+        {
+          "key": "B",
+          "value": "6"
+        },
+        {
+          "key": "C",
+          "value": "12"
+        },
+        {
+          "key": "D",
+          "value": "2"
+        }
+      ],
+      "answer": "B",
+      "explanation": "<p>As magnetic force is perpendicular to magnetic field</p>\n<p>So, $$\\overrightarrow F $$ . $$\\overrightarrow B $$ must be 0</p>\n<p>So, 2$$\\alpha$$ $$-$$ 12 = 0</p>\n<p>$$\\alpha$$ = 6</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>$$\\mathrm{B}_{X}$$ and $$\\mathrm{B}_{\\mathrm{Y}}$$ are the magnetic fields at the centre of two coils $$\\mathrm{X}$$ and $$\\mathrm{Y}$$ respectively each carrying equal current. If coil $$X$$ has 200 turns and $$20 \\mathrm{~cm}$$ radius and coil $$Y$$ has 400 turns and $$20 \\mathrm{~cm}$$ radius, the ratio of $$B_{X}$$ and $$B_{Y}$$ is :</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "1 : 1"
+        },
+        {
+          "key": "B",
+          "value": "1 : 2"
+        },
+        {
+          "key": "C",
+          "value": "2 : 1"
+        },
+        {
+          "key": "D",
+          "value": "4 : 1"
+        }
+      ],
+      "answer": "B",
+      "explanation": "<p>$$B = {{{\\mu _0}NI} \\over {2R}}$$</p>\n<p>$${{{B_X}} \\over {{B_Y}}} = {{{N_x}{R_y}} \\over {{N_y}{R_x}}}$$</p>\n<p>$$ = {{200 \\times 20} \\over {400 \\times 20}} = {1 \\over 2}$$</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Two charged particles, having same kinetic energy, are allowed to pass through a uniform magnetic field perpendicular to the direction of motion. If the ratio of radii of their circular paths is $$6: 5$$ and their respective masses ratio is $$9: 4$$. Then, the ratio of their charges will be :</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "8 : 5"
+        },
+        {
+          "key": "B",
+          "value": "5 : 4"
+        },
+        {
+          "key": "C",
+          "value": "5 : 3"
+        },
+        {
+          "key": "D",
+          "value": "8 : 7"
+        }
+      ],
+      "answer": "B",
+      "explanation": "<p>We know that $$R = {{mv} \\over {Bq}} = \\sqrt {{{2mK} \\over {Bq}}} $$</p>\n<p>$$\\Rightarrow$$ Ratio of radii $$ = {{{R_1}} \\over {{R_2}}} = \\sqrt {{{{m_1}} \\over {{m_2}}}} {{{q_2}} \\over {{q_1}}}$$</p>\n<p>$$ \\Rightarrow {6 \\over 5} = \\sqrt {{9 \\over 4}} {{{q_2}} \\over {{q_1}}}$$</p>\n<p>$$ \\Rightarrow {{{q_1}} \\over {{q_2}}} = {3 \\over 2} \\times {5 \\over 6} = {5 \\over 4}$$</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>A cyclotron is working at a frequency of 10 MHz. If the radius of its dees is 60 cm. The maximum kinetic energy of accelerated proton will be :</p>\n<p>(Take : e = 1.6 $$\\times$$ 10<sup>$$-$$19</sup> C, m<sub>p</sub> = 1.67 $$\\times$$ 10<sup>$$-$$27</sup> kg)</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "7.4 MeV"
+        },
+        {
+          "key": "B",
+          "value": "14.86 MeV"
+        },
+        {
+          "key": "C",
+          "value": "7.4 GeV"
+        },
+        {
+          "key": "D",
+          "value": "704 GeV"
+        }
+      ],
+      "answer": "A",
+      "explanation": "<p>Given,</p>\n<p>$$f = 10 \\times {10^6}$$ Hz</p>\n<p>$$r = 0.6$$ m</p>\n<p>Charge on proton (q) = e</p>\n<p>We know,</p>\n<p>Radius $$(r) = {{mv} \\over {qB}}$$</p>\n<p>$$ = {{\\sqrt {2mk} } \\over {eB}}$$ ..... (1)</p>\n<p>Also, we know,</p>\n<p>Cyclotron oscillation frequency should be equal to the pendulum evolution frequency.</p>\n<p>$$\\therefore$$ $$f = {{eB} \\over {2\\pi m}}$$</p>\n<p>$$ \\Rightarrow eB = 2\\pi mf$$</p>\n<p>Putting this value of eB in equation (1) we get</p>\n<p>$$r = {{\\sqrt {2mk} } \\over {2\\pi mf}}$$</p>\n<p>$$ \\Rightarrow {r^2} = {{2mk} \\over {4{\\pi ^2}{m^2}{f^2}}}$$</p>\n<p>$$ \\Rightarrow k = 2{\\pi ^2}m{f^2}{r^2}$$</p>\n<p>$$ = 2 \\times {\\left( {{{22} \\over 7}} \\right)^2} \\times 1.67 \\times {10^{ - 27}} \\times {\\left( {10 \\times {{10}^6}} \\right)^2} \\times {\\left( {0.6} \\right)^2}$$ J</p>\n<p>$$ = 1.2 \\times {10^{ - 12}}$$ J</p>\n<p>$$ = {{1.2 \\times {{10}^{ - 12}}} \\over {1.6 \\times {{10}^{ - 19}}}}$$ eV</p>\n<p>$$ = {{12} \\over {16}} \\times {10^7}$$ eV</p>\n<p>$$ = 0.75 \\times {10^7}$$ eV</p>\n<p>$$ = 7.5 \\times {10^6}$$ eV</p>\n<p>= 7.5 MeV</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Two long current carrying conductors are placed to each other at a distance of 8 cm between them. The magnitude of magnetic field produced at mid-point between the two conductors due to current flowing in them is 300 $$\\mu$$T. The equal current flowing in the two conductors is :</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "30A in the same direction."
+        },
+        {
+          "key": "B",
+          "value": "30A in the opposite direction."
+        },
+        {
+          "key": "C",
+          "value": "60A in the opposite direction."
+        },
+        {
+          "key": "D",
+          "value": "300A in the opposite direction."
+        }
+      ],
+      "answer": "B",
+      "explanation": "<p>As B<sub>net</sub> $$\\ne$$ 0 that is the wires are carrying current in opposite direction.</p>\n<p>$${{{\\mu _0}I \\times 2} \\over {2\\pi (4 \\times {{10}^{ - 2}})}} = 30 \\times {10^{ - 6}}$$ T</p>\n<p>$$ \\Rightarrow I = {{30 \\times {{10}^{ - 6}}} \\over {{{10}^{ - 6}}}}$$ A = 30 A in opposite direction.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Given below are two statements :</p>\n<p><b>Statement I</b> : The electric force changes the speed of the charged particle and hence changes its kinetic energy; whereas the magnetic force does not change the kinetic energy of the charged particle.</p>\n<p><b>Statement II </b>: The electric force accelerates the positively charged particle perpendicular to the direction of electric field. The magnetic force accelerates the moving charged particle along the direction of magnetic field.</p>\n<p>In the light of the above statements, choose the most appropriate answer from the options given below :</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "Both Statement I and Statement II are correct."
+        },
+        {
+          "key": "B",
+          "value": "Both Statement I and Statement II are incorrect."
+        },
+        {
+          "key": "C",
+          "value": "Statement I is correct but Statement II is incorrect."
+        },
+        {
+          "key": "D",
+          "value": "Statement I is incorrect but Statement II is correct."
+        }
+      ],
+      "answer": "C",
+      "explanation": "<p>Electric field accelerates the particle in the direction of field $$\\left( {\\overrightarrow F  = q\\overrightarrow E  = m\\overrightarrow a } \\right)$$ and magnetic field accelerates the particle perpendicular to the field $$\\left( {\\overrightarrow F  = q\\overrightarrow v  \\times \\overrightarrow B  = m\\overrightarrow a } \\right)$$.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>A charge particle moves along circular path in a uniform magnetic field in a cyclotron. The kinetic energy of the charge particle increases to 4 times its initial value. What will be the ratio of new radius to the original radius of circular path of the charge particle :</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "1 : 1"
+        },
+        {
+          "key": "B",
+          "value": "1 : 2"
+        },
+        {
+          "key": "C",
+          "value": "2 : 1"
+        },
+        {
+          "key": "D",
+          "value": "1 : 4"
+        }
+      ],
+      "answer": "C",
+      "explanation": "<p>$$R = {{mv} \\over {Bq}} = {{\\sqrt {2mK} } \\over {Bq}}$$</p>\n<p>$$ \\Rightarrow R \\propto \\sqrt K $$</p>\n<p>$$\\Rightarrow$$ ratio = 2 : 1</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Two parallel, long wires are kept 0.20 m apart in vacuum, each carrying current of x A in the same direction. If the force of attraction per meter of each wire is 2 $$\\times$$ 10<sup>$$-$$6</sup> N, then the value of x is approximately :</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "1"
+        },
+        {
+          "key": "B",
+          "value": "2.4"
+        },
+        {
+          "key": "C",
+          "value": "1.4"
+        },
+        {
+          "key": "D",
+          "value": "2"
+        }
+      ],
+      "answer": "C",
+      "explanation": "<p>$${{dF} \\over {dl}} = 2 \\times {10^{ - 6}}$$ N/m $$ = {{{\\mu _0}{i_1}{i_2}} \\over {2\\pi d}}$$</p>\n<p>$$2 \\times {10^{ - 6}} = {{2 \\times {{10}^{ - 7}} \\times {x^2}} \\over {0.2}}$$</p>\n<p>$$x = \\sqrt 2  \\simeq 1.4$$</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>A proton and an alpha particle of the same velocity enter in a uniform magnetic field which is acting perpendicular to their direction of motion. The ratio of the radii of the circular paths described by the alpha particle and proton is :</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "1 : 4"
+        },
+        {
+          "key": "B",
+          "value": "4 : 1"
+        },
+        {
+          "key": "C",
+          "value": "2 : 1"
+        },
+        {
+          "key": "D",
+          "value": "1 : 2"
+        }
+      ],
+      "answer": "C",
+      "explanation": "$R=\\frac{m v}{q B}$\n<br/><br/>$\\frac{\\mathrm{R}_\\alpha}{\\mathrm{R}_{\\mathrm{P}}}=\\frac{\\mathrm{M}_\\alpha}{\\mathrm{M}_{\\mathrm{P}}} \\times \\frac{\\mathrm{q}_{\\mathrm{P}}}{\\mathrm{q}_\\alpha}$\n<br/><br/>$\\frac{\\mathrm{R}_\\alpha}{\\mathrm{R}_{\\mathrm{P}}}=\\frac{4}{1} \\times \\frac{1}{2}=2$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>A long solenoid carrying a current produces a magnetic field B along its axis. If the current is doubled and the number of turns per cm is halved, the new value of magnetic field will be equal to</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "B"
+        },
+        {
+          "key": "B",
+          "value": "2B"
+        },
+        {
+          "key": "C",
+          "value": "4B"
+        },
+        {
+          "key": "D",
+          "value": "$${B \\over 2}$$"
+        }
+      ],
+      "answer": "A",
+      "explanation": "<p>$$B = {\\mu _0}ni$$</p>\n<p>Now $$i \\to 2i$$</p>\n<p>And $$n \\to {n \\over 2}$$</p>\n<p>$$B' = {\\mu _0}{n \\over 2} \\times 2i = {\\mu _0}ni = B$$</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>A long straight wire with a circular cross-section having radius R, is carrying a steady current I. The current I is uniformly distributed across this cross-section. Then the variation of magnetic field due to current I with distance r (r < R) from its centre will be :</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "B $$\\propto$$ r<sup>2</sup>"
+        },
+        {
+          "key": "B",
+          "value": "B $$\\propto$$ r"
+        },
+        {
+          "key": "C",
+          "value": "B $$\\propto$$ $${1 \\over {{r^2}}}$$"
+        },
+        {
+          "key": "D",
+          "value": "B $$\\propto$$ $${1 \\over {{r}}}$$"
+        }
+      ],
+      "answer": "B",
+      "explanation": "<p>$$\\int {\\overline B \\,.\\,\\overline {dl}  = {\\mu _0}{I_{in}}} $$</p>\n<p>$$ \\Rightarrow B \\times 2\\pi r = {{{\\mu _0}I} \\over {\\pi {R^2}}} \\times \\pi {r^2}$$</p>\n<p>$$ \\Rightarrow B \\propto r$$</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>A proton, a deutron and an $$\\alpha$$-particle with same kinetic energy enter into a uniform magnetic field at right angle to magnetic field. The ratio of the radii of their respective circular paths is :</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "1 : $$\\sqrt 2 $$ : $$\\sqrt 2 $$"
+        },
+        {
+          "key": "B",
+          "value": "1 : 1 : $$\\sqrt 2 $$"
+        },
+        {
+          "key": "C",
+          "value": "$$\\sqrt 2 $$ : 1 : 1"
+        },
+        {
+          "key": "D",
+          "value": "1 : $$\\sqrt 2 $$ : 1"
+        }
+      ],
+      "answer": "D",
+      "explanation": "<p>$$\\therefore$$ $$r = {{mv} \\over {qB}} = {{\\sqrt {2m(KE)} } \\over {qB}}$$</p>\n<p>$$ \\Rightarrow {r_1}:{r_2}:{r_3} = {{\\sqrt {{m_1}} } \\over {{q_1}}}:{{\\sqrt {{m_2}} } \\over {{q_2}}}:{{\\sqrt {{m_3}} } \\over {{q_3}}}$$</p>\n<p>$$ = {{\\sqrt 1 } \\over 1}:{{\\sqrt 2 } \\over 1}:{{\\sqrt 4 } \\over 2}$$</p>\n<p>$$ = 1:\\sqrt 2 :1$$</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Given below are two statements : One is labelled as Assertion (A) and the other is labelled as Reason (R).</p>\n<p>Assertion (A) : In an uniform magnetic field, speed and energy remains the same for a moving charged particle.</p>\n<p>Reason (R) : Moving charged particle experiences magnetic force perpendicular to its direction of motion.</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "Both (A) and (R) are true and (R) is the correct explanation of (A)."
+        },
+        {
+          "key": "B",
+          "value": "Both (A) and (R) are true but (R) is NOT the correct explanation of (A)."
+        },
+        {
+          "key": "C",
+          "value": "(A) is true but (R) is false."
+        },
+        {
+          "key": "D",
+          "value": "(A) is false but (R) is true."
+        }
+      ],
+      "answer": "A",
+      "explanation": "<p>Magnetic force $$\\overrightarrow F  \\bot \\overrightarrow v $$</p>\n<p>$$ \\Rightarrow {W_b} = 0$$</p>\n<p>$$ \\Rightarrow \\Delta KE = 0$$ and speed remains constant.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>The magnetic field at the centre of a circular coil of radius r, due to current I flowing through it, is B. The magnetic field at a point along the axis at a distance $${r \\over 2}$$ from the centre is :</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "B/2"
+        },
+        {
+          "key": "B",
+          "value": "2B"
+        },
+        {
+          "key": "C",
+          "value": "$${\\left( {{2 \\over {\\sqrt 5 }}} \\right)^3}B$$"
+        },
+        {
+          "key": "D",
+          "value": "$${\\left( {{2 \\over {\\sqrt 3}}} \\right)^3}B$$"
+        }
+      ],
+      "answer": "C",
+      "explanation": "<p>$$B = {{{\\mu _0}I} \\over {2r}}$$</p>\n<p>$${B_a} = {{{\\mu _0}I{r^2}} \\over {2\\left( {{r^2} + {{{r^2}} \\over 4}} \\right)}}$$</p>\n<p>$$ \\Rightarrow {{{B_a}} \\over B} = {\\left( {{2 \\over {\\sqrt 5 }}} \\right)^3}$$</p>\n<p>$$ \\Rightarrow {B_a} = {\\left( {{2 \\over {\\sqrt 5 }}} \\right)^3}B$$</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The fractional change in the magnetic field intensity at a distance 'r' from centre on the axis of current carrying coil of radius 'a' to the magnetic field intensity at the centre of the same coil is : (Take r &lt; a)",
+      "options": [
+        {
+          "key": "A",
+          "value": "$${3 \\over 2}{{{a^2}} \\over {{r^2}}}$$"
+        },
+        {
+          "key": "B",
+          "value": "$${2 \\over 3}{{{a^2}} \\over {{r^2}}}$$"
+        },
+        {
+          "key": "C",
+          "value": "$${2 \\over 3}{{{r^2}} \\over {{a^2}}}$$"
+        },
+        {
+          "key": "D",
+          "value": "$${3 \\over 2}{{{r^2}} \\over {{a^2}}}$$"
+        }
+      ],
+      "answer": "D",
+      "explanation": "$${B_{axis}} = {{{\\mu _0}i{R^2}} \\over {2{{({R^2} + {x^2})}^{3/2}}}}$$<br><br>$${B_{centre}} = {{{\\mu _0}i} \\over {2R}}$$<br><br>$$\\therefore$$ $${B_{centre}} = {{{\\mu _0}i} \\over {2a}}$$<br><br>$$\\therefore$$ $${B_{axis}} = {{{\\mu _0}i{a^2}} \\over {2{{({a^2} + {r^2})}^{3/2}}}}$$<br><br>$$\\therefore$$ fractional change in magnetic field =<br><br>$${{{{{\\mu _0}i} \\over {2a}} - {{{\\mu _0}i{a^2}} \\over {2{{({a^2} + {r^2})}^{3/2}}}}} \\over {{{{\\mu _0}i} \\over {2a}}}} = 1 - {1 \\over {{{\\left[ {1 + \\left( {{{{r^2}} \\over {{a^2}}}} \\right)} \\right]}^{3/2}}}}$$<br><br>$$ \\approx 1 - \\left[ {1 - {3 \\over 2}{{{r^2}} \\over {{a^2}}}} \\right] = {3 \\over 2}{{{r^2}} \\over {{a^2}}}$$<br><br>Note : $${\\left( {1 + {{{r^2}} \\over {{a^2}}}} \\right)^{ - 3/2}} \\approx \\left( {1 - {3 \\over 2}{{{r^2}} \\over {{a^2}}}} \\right)$$<br><br>[True only if r &lt;&lt; a]<br><br>Hence, option (d) is the most suitable option."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Two ions having same mass have charges in the ratio 1 : 2. They are projected normally in a uniform magnetic field with their speeds in the ratio 2 : 3. The ratio of the radii of their circular trajectories is :",
+      "options": [
+        {
+          "key": "A",
+          "value": "1 : 4"
+        },
+        {
+          "key": "B",
+          "value": "4 : 3"
+        },
+        {
+          "key": "C",
+          "value": "3 : 1"
+        },
+        {
+          "key": "D",
+          "value": "2 : 3"
+        }
+      ],
+      "answer": "B",
+      "explanation": "$$R = {{mv} \\over {qB}} \\Rightarrow {{{R_1}} \\over {{R_2}}} = {{{{m{v_1}} \\over {{q_1}B}}} \\over {{{m{v_2}} \\over {{q_2}B}}}} = {{{v_1}} \\over {{q_1}}} \\times {{{q_2}} \\over {{v_2}}} = {{{q_2}} \\over {{q_1}}} \\times {{{v_1}} \\over {{v_2}}}$$<br><br>$$ = {2 \\over 1} \\times \\left( {{2 \\over 3}} \\right) = {4 \\over 3}$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A deuteron and an alpha particle having equal kinetic energy enter perpendicularly into a magnetic field. Let r<sub>d</sub> and r<sub>$$\\alpha$$</sub> be their respective radii of circular path. The value of $${{{r_d}} \\over {{r_\\alpha }}}$$ is equal to :",
+      "options": [
+        {
+          "key": "A",
+          "value": "1"
+        },
+        {
+          "key": "B",
+          "value": "2"
+        },
+        {
+          "key": "C",
+          "value": "$$\\sqrt 2 $$"
+        },
+        {
+          "key": "D",
+          "value": "$${1 \\over {\\sqrt 2 }}$$"
+        }
+      ],
+      "answer": "C",
+      "explanation": "Given, kinetic energy of $$\\alpha$$-particle (K<sub>$$\\alpha$$</sub>) = kinetic energy of deuteron (K<sub>d</sub>)<br/><br/>Since, kinetic energy, K = $${1 \\over 2}$$ mv<sup>2</sup><br/><br/>$$\\Rightarrow$$ mv<sup>2</sup> = 2K $$\\Rightarrow$$ v<sup>2</sup> = $${{2K} \\over m}$$<br/><br/>$$\\Rightarrow$$ v = $$\\sqrt {{{2K} \\over m}} $$ .... (i)<br/><br/>We know that,<br/><br/>r = $${{mv} \\over {Bq}}$$ .... (ii)<br/><br/>where, r = radius of curvature of path of a charged particle, m = mass of the charged particle, q = charge of the particle, v = velocity of charged particle and B = magnetic field.<br/><br/>From Eqs. (i) and (ii), we get<br/><br/>$$r = {{m\\sqrt {{{2K} \\over m}} } \\over {Bq}}$$<br/><br/>$$ \\Rightarrow r = {{\\sqrt {2Km} } \\over {Bq}}$$ .... (iii)<br/><br/>Since, m, K and B are same for both deuteron and $$\\alpha$$-particle.<br/><br/>From Eq. (iii), we get<br/><br/>$$\\gamma  \\propto {{\\sqrt m } \\over q}$$<br/><br/>$$\\therefore$$ $${{{r_d}} \\over {{r_\\alpha }}} = \\sqrt {{{{m_d}} \\over {{m_\\alpha }}}} .{{{q_\\alpha }} \\over {{q_d}}} = \\sqrt {{2 \\over 4}} \\left( {{2 \\over 1}} \\right)$$ <br/><br/>[$$\\because$$ m<sub>d</sub> = 2m<sub>p</sub> and m<sub>$$\\alpha$$</sub> = 4m<sub>p</sub><br/><br/>q<sub>$$\\alpha$$</sub> = 2e and q<sub>d</sub> = e.]<br/><br/>$${{{r_d}} \\over {{r_\\alpha }}} = \\sqrt 2 $$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A proton and an $$\\alpha$$-particle, having kinetic energies K<sub>p</sub> and K<sub>$$\\alpha$$</sub> respectively, enter into a magnetic field at right angles.<br><br>The ratio of the radii of trajectory of proton to that of $$\\alpha$$-particle is 2 : 1. The ratio of K<sub>p</sub> : K<sub>$$\\alpha$$</sub> is :",
+      "options": [
+        {
+          "key": "A",
+          "value": "8 : 1"
+        },
+        {
+          "key": "B",
+          "value": "4 : 1"
+        },
+        {
+          "key": "C",
+          "value": "1 : 8"
+        },
+        {
+          "key": "D",
+          "value": "1 : 4"
+        }
+      ],
+      "answer": "B",
+      "explanation": "Radius, $$r = {{mv} \\over {qB}} = {{\\sqrt {2mK} } \\over {qB}}$$<br><br>$$ \\Rightarrow K = {{{r^2}{q^2}{B^2}} \\over {2m}}$$<br><br>$$ \\therefore $$ $${{{K_p}} \\over {{K_\\alpha }}} = {\\left( {{{{r_p}} \\over {{r_\\alpha }}}} \\right)^2} \\times {\\left( {{{{q_p}} \\over {{q_\\alpha }}}} \\right)^2} \\times {{{m_\\alpha }} \\over {{m_p}}}$$<br><br>$$ = {\\left( {{2 \\over 1}} \\right)^2} \\times {\\left( {{1 \\over 2}} \\right)^2} \\times 4$$<br><br>$$ = 4$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A loop of flexible wire of irregular shape carrying current is placed in an external magnetic field. Identify the effect of the field on the wire.",
+      "options": [
+        {
+          "key": "A",
+          "value": "Loop assumes circular shape with its plane normal to the field."
+        },
+        {
+          "key": "B",
+          "value": "Loop assumes circular shape with its plane parallel to the field."
+        },
+        {
+          "key": "C",
+          "value": "Wire gets stretched to become straight."
+        },
+        {
+          "key": "D",
+          "value": "Shape of the loop remains unchanged."
+        }
+      ],
+      "answer": "A",
+      "explanation": "Force on each wire be along radially outward and equal so, it will take the shape of circle and\nparallel to the field."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A solenoid of 1000 turns per metre has a core with relative permeability 500. Insulated windings of the solenoid carry an electric current of 5A. The magnetic flux density produced by the solenoid is : (permeability of free space = 4$$\\pi$$ $$\\times$$ 10<sup>$$-$$7</sup> H/m)",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$\\pi$$T"
+        },
+        {
+          "key": "B",
+          "value": "2 $$\\times$$ 10<sup>$$-$$3</sup>$$\\pi$$ T"
+        },
+        {
+          "key": "C",
+          "value": "10<sup>$$-$$4</sup>$$\\pi$$ T"
+        },
+        {
+          "key": "D",
+          "value": "$${\\pi  \\over 5}$$ T"
+        }
+      ],
+      "answer": "A",
+      "explanation": "B = $$\\mu$$ n i<br><br>B = $$\\mu$$<sub>r</sub> $$\\mu$$<sub>0</sub> n i<br><br>B = 500 $$\\times$$ 4$$\\pi$$ $$\\times$$ 10<sup>$$-$$7</sup> $$\\times$$ 10<sup>3</sup> $$\\times$$ 5<br><br>B = $$\\pi$$ $$\\times$$ 10<sup>$$-$$3</sup> $$\\times$$ 10<sup>3</sup><br><br>B = $$\\pi$$ T"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A charge Q is moving $$\\overrightarrow {dl} $$ distance in the magnetic field $$\\overrightarrow {B} $$. Find the value of work done by $$\\overrightarrow {B} $$.",
+      "options": [
+        {
+          "key": "A",
+          "value": "Zero"
+        },
+        {
+          "key": "B",
+          "value": "$$-$$1"
+        },
+        {
+          "key": "C",
+          "value": "Infinite"
+        },
+        {
+          "key": "D",
+          "value": "1"
+        }
+      ],
+      "answer": "A",
+      "explanation": "We know,<br><br>$$\\overrightarrow F  = q\\left( {\\overrightarrow v  \\times \\overrightarrow B } \\right)$$<br><br>$$ \\therefore $$ $$\\overrightarrow F  \\bot \\overrightarrow v $$ and $$\\overrightarrow F  \\bot \\overrightarrow B $$<br><br>Power (p) $$ = {{dw} \\over {dt}}$$<br><br>$$ = {{\\overrightarrow F .\\,\\overrightarrow {dl} } \\over {dt}}$$<br><br>$$ = \\overrightarrow F \\,.\\,{{\\overrightarrow {dl} } \\over {dt}}$$<br><br>$$ = \\overrightarrow F \\,.\\,\\overrightarrow v $$<br><br>$$ = Fv\\cos \\theta $$<br><br>$$ = Fv\\cos 90^\\circ $$<br><br>$$ = 0$$<br><br>As power supply by the field is zero so, total work done also zero."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A proton, a deuteron and an $$\\alpha$$ particle are moving with same momentum in a uniform magnetic field. The ratio of magnetic forces acting on them is _________ and their speed is _______, in the ratio.",
+      "options": [
+        {
+          "key": "A",
+          "value": "2 : 1 : 1 and 4 : 2 : 1"
+        },
+        {
+          "key": "B",
+          "value": "4 : 2 : 1 and 2 : 1 : 1"
+        },
+        {
+          "key": "C",
+          "value": "1 : 2 : 4 and 2 : 1 : 1"
+        },
+        {
+          "key": "D",
+          "value": "1 : 2 : 4 and 1 : 1 : 2"
+        }
+      ],
+      "answer": "A",
+      "explanation": "F = qvB = q$${p \\over m}$$B<br><br>F $$ \\propto $$ $${q \\over m}$$ [as p, B are const.]<br><br>$$ \\therefore $$ F<sub>1</sub> : F<sub>2</sub> : F<sub>3</sub><br><br>= $${e \\over m}:{e \\over {2m}}:{{2e} \\over {4m}}$$<br><br>= 2 : 1 : 1<br><br>And v<sub>1</sub> : v<sub>2</sub> : v<sub>3</sub><br><br>= $${p \\over m}:{p \\over {2m}}:{p \\over {4m}}$$<br><br>= 4 : 2 : 1"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A particle of charge q and mass m is moving with a velocity $$ - v\\widehat i$$ (v $$ \\ne $$ 0) towards a large screen\nplaced in the Y - Z plane at a distance d. If there is a magnetic field $$\\overrightarrow B  = {B_0}\\widehat k$$\n, the maximum value of v\nfor which the particle will not hit the screen is :",
+      "options": [
+        {
+          "key": "A",
+          "value": "$${{2qd{B_0}} \\over m}$$"
+        },
+        {
+          "key": "B",
+          "value": "$${{qd{B_0}} \\over {3m}}$$"
+        },
+        {
+          "key": "C",
+          "value": "$${{qd{B_0}} \\over {2m}}$$"
+        },
+        {
+          "key": "D",
+          "value": "$${{qd{B_0}} \\over {m}}$$"
+        }
+      ],
+      "answer": "D",
+      "explanation": "In uniform magnetic field particle moves in a circular path, if the radius of the circular path is 'd', particle will\nnot hit the screen.\n<br><br>r = $${{mv} \\over {q{B_0}}}$$\n<br><br>To not collide, r &lt; d\n<br><br>$$ \\Rightarrow $$ $${{mv} \\over {q{B_0}}}$$ &lt; d\n<br><br>$$ \\Rightarrow $$ v &lt; $${{q{B_0}d} \\over m}$$\n<br><br>$$ \\therefore $$ v<sub>max</sub> = $${{q{B_0}d} \\over m}$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "An iron rod of volume 10<sup>–3</sup> m<sup>3</sup> and relative\npermeability 1000 is placed as core in a\nsolenoid with 10 turns/cm. If a current of 0.5 A\nis passed through the solenoid, then the\nmagnetic moment of the rod will be :",
+      "options": [
+        {
+          "key": "A",
+          "value": "5 $$ \\times $$ 10<sup>2</sup> Am<sup>2</sup>"
+        },
+        {
+          "key": "B",
+          "value": "0.5 $$ \\times $$ 10<sup>2</sup> Am<sup>2</sup>"
+        },
+        {
+          "key": "C",
+          "value": "500 $$ \\times $$ 10<sup>2</sup> Am<sup>2</sup>"
+        },
+        {
+          "key": "D",
+          "value": "50 $$ \\times $$ 10<sup>2</sup> Am<sup>2</sup>"
+        }
+      ],
+      "answer": "A",
+      "explanation": "Given, V = 10<sup>–3</sup> m<sup>3</sup>\n = Al\n<br><br>I = 0.5A\n<br><br>$$\\mu $$<sub>r</sub> = 1000\n<br><br>n = 10 turns/cm = $${{10} \\over {{{10}^{ - 2}}}}$$ turn/m = 1000 turn/m\n<br><br>Magnetic moment, M = NIA($$\\mu $$<sub>r</sub> - 1)\n<br><br>= (nl)IA($$\\mu $$<sub>r</sub> - 1)\n<br><br>= nI(Al)($$\\mu $$<sub>r</sub> - 1)\n<br><br>= 1000 × 0.5 × 10<sup>–3</sup> (1000 – 1)\n<br><br>= 0.5 × (999) = 499.5\n<br><br>$$ \\simeq $$ 500 = 5 $$ \\times $$ 10<sup>2</sup> Am<sup>2</sup>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A circular coil has moment of inertia 0.8 kg m<sup>2</sup>\n around any diameter and is carrying current to\nproduce a magnetic moment of 20 Am<sup>2</sup>\n. The coil is kept initially in a vertical position and it can\nrotate freely around a horizontal diameter. When a uniform magnetic field of 4 T is applied along the\nvertical,it starts rotating around its horizontal diameter. The angular speed the coil acquires after\nrotating by 60<sup>o</sup> will be:",
+      "options": [
+        {
+          "key": "A",
+          "value": "10 $$\\pi $$ rad s<sup>–1</sup>"
+        },
+        {
+          "key": "B",
+          "value": "20 $$\\pi $$ rad s<sup>–1</sup>"
+        },
+        {
+          "key": "C",
+          "value": "$$10{\\left( 3 \\right)^{1/4}}$$ rad s<sup>–1</sup>"
+        },
+        {
+          "key": "D",
+          "value": "20 rad s<sup>–1</sup>"
+        }
+      ],
+      "answer": "C",
+      "explanation": "By energy conservation <br><br>U<sub>i</sub> + K<sub>i</sub> = U<sub>f</sub> + K<sub>f</sub><br><br>$$ \\Rightarrow $$ $$ - MB\\,\\cos 90^\\circ  + 0 =  - MB\\,\\cos 30^\\circ  + {1 \\over 2}I{\\omega ^2}$$<br><br>$$ \\Rightarrow $$ $$MB{{\\sqrt 3 } \\over 2}$$ $$ = {1 \\over 2}I{\\omega ^2}$$<br><br>$$ \\Rightarrow $$ $$\\omega  =$$$$\\sqrt {{{MB\\sqrt 3 } \\over I}}   $$\n<br><br>= $$\\sqrt {{{20 \\times 4 \\times \\sqrt 3 } \\over {0.8}}} $$ = $$10\\sqrt {\\sqrt 3 }  = 10{\\left( 3 \\right)^{1/4}}$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A charged particle carrying charge 1 $$\\mu $$C is moving<br> with velocity $$\\left( {2\\widehat i + 3\\widehat j + 4\\widehat k} \\right)$$ ms<sup>–1</sup>. If an external\n<br>magnetic field of $$\\left( {5\\widehat i + 3\\widehat j - 6\\widehat k} \\right)$$× 10<sup>–3</sup> T exists in the region where the particle is moving then the\n<br>force on the particle is $$\\overrightarrow F $$\n × 10<sup>–9</sup> N. The vector $$\\overrightarrow F $$\nis :",
+      "options": [
+        {
+          "key": "A",
+          "value": "$${ - 0.30\\widehat i + 0.32\\widehat j - 0.09\\widehat k}$$"
+        },
+        {
+          "key": "B",
+          "value": "$${ - 300\\widehat i + 320\\widehat j - 90\\widehat k}$$"
+        },
+        {
+          "key": "C",
+          "value": "$${ - 30\\widehat i + 32\\widehat j - 9\\widehat k}$$"
+        },
+        {
+          "key": "D",
+          "value": "$${ - 3.0\\widehat i + 3.2\\widehat j - 0.9\\widehat k}$$"
+        }
+      ],
+      "answer": "C",
+      "explanation": "Given,\n<br><br>$${\\overrightarrow V }$$ = $$\\left( {2\\widehat i + 3\\widehat j + 4\\widehat k} \\right)$$ ms<sup>–1</sup>\n<br><br>$${\\overrightarrow B }$$ = $$\\left( {5\\widehat i + 3\\widehat j - 6\\widehat k} \\right)$$× 10<sup>–3</sup> T\n<br><br>q = 1 $$\\mu $$C\n<br><br>$$\\overrightarrow F  = q\\left( {\\overrightarrow V  \\times \\overrightarrow B } \\right)$$\n<br><br>= $${10^{ - 6}} \\times {10^{ - 3}} \\times \\left| {\\matrix{\n   {\\widehat i} &amp; {\\widehat j} &amp; {\\widehat k}  \\cr \n   2 &amp; 3 &amp; 4  \\cr \n   5 &amp; 3 &amp; { - 6}  \\cr \n\n } } \\right|$$\n<br><br>= ($${ - 30\\widehat i + 32\\widehat j - 9\\widehat k}$$) $$ \\times $$ 10<sup>-9</sup>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A beam of protons with speed 4 × 10<sup>5</sup> ms<sup>–1</sup>\nenters a uniform magnetic field of 0.3 T at an\nangle of 60° to the magnetic field. The pitch of\nthe resulting helical path of protons is close to :\n<br>(Mass of the proton = 1.67 $$ \\times $$ 10<sup>–27</sup> kg, charge\n<br>of the proton = 1.69 $$ \\times $$ 10<sup>–19</sup> C)",
+      "options": [
+        {
+          "key": "A",
+          "value": "2 cm"
+        },
+        {
+          "key": "B",
+          "value": "12 cm"
+        },
+        {
+          "key": "C",
+          "value": "5 cm"
+        },
+        {
+          "key": "D",
+          "value": "4 cm"
+        }
+      ],
+      "answer": "D",
+      "explanation": "Pitch = $$\\frac{2\\pi m}{qB} $$ vcos$$\\theta $$\n<br><br>= $${{2\\left( {3.14} \\right)\\left( {1.67 \\times {{10}^{ - 27}}} \\right) \\times 4 \\times {{10}^5} \\times \\cos 60} \\over {\\left( {1.69 \\times {{10}^{ - 19}}} \\right)\\left( {0.3} \\right)}}$$\n<br><br>= 0.04 m = 4 cm"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A small circular loop of conducting wire has\nradius a and carries current I. It is placed in a\nuniform magnetic field B perpendicular to its\nplane such that when rotated slightly about its\ndiameter and released, it starts performing\nsimple harmonic motion of time period T. If the\nmass of the loop is m then :",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$T = \\sqrt {{{2m} \\over {IB}}} $$"
+        },
+        {
+          "key": "B",
+          "value": "$$T = \\sqrt {{{\\pi m} \\over {IB}}} $$"
+        },
+        {
+          "key": "C",
+          "value": "$$T = \\sqrt {{{\\pi m} \\over {2IB}}} $$"
+        },
+        {
+          "key": "D",
+          "value": "$$T = \\sqrt {{{2\\pi m} \\over {IB}}} $$"
+        }
+      ],
+      "answer": "D",
+      "explanation": "$$\\tau $$ = - MBsin $$\\theta $$\n<br><br>I$$\\alpha $$ = - MBsin $$\\theta $$\n<br><br>for small $$\\theta $$,\n<br><br>$$\\alpha $$ = $$ - {{MB} \\over I}\\theta $$\n<br><br>$$ \\therefore $$ $${\\omega ^2}$$ = $${{MB} \\over I}$$\n<br><br>$$ \\Rightarrow $$ $$\\omega $$ = $$\\sqrt {{{I\\left( {\\pi {R^2}} \\right)B} \\over {{{m{R^2}} \\over 2}}}} $$ = $$\\sqrt {{{2I\\pi B} \\over m}} $$\n<br><br>$$ \\therefore $$ T = $${{2\\pi } \\over \\omega }$$ = $$\\sqrt {{{2\\pi m} \\over {IB}}} $$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A particle of mass m and charge q has an initial velocity $$\\overrightarrow v  = {v_0}\\widehat j$$\n. If an electric field $$\\overrightarrow E  = {E_0}\\widehat i$$\n and\nmagnetic field $$\\overrightarrow B  = {B_0}\\widehat i$$\n act on the particle, its speed will double after a time:",
+      "options": [
+        {
+          "key": "A",
+          "value": "$${{3m{v_0}} \\over {q{E_0}}}$$"
+        },
+        {
+          "key": "B",
+          "value": "$${{\\sqrt 2 m{v_0}} \\over {q{E_0}}}$$"
+        },
+        {
+          "key": "C",
+          "value": "$${{\\sqrt 3 m{v_0}} \\over {q{E_0}}}$$"
+        },
+        {
+          "key": "D",
+          "value": "$${{2m{v_0}} \\over {q{E_0}}}$$"
+        }
+      ],
+      "answer": "C",
+      "explanation": "Electric field will increase the speed of particle in x direction.\n<br><br>F<sub>x</sub> = qE\n<br><br>$$ \\therefore $$ a = $${{qE} \\over m}$$\n<br><br>Also v<sub>x</sub> = at = $${{qE} \\over m}$$t\n<br><br>$$v_x^2 + v_y^2 = {v^2}$$\n<br><br>$$ \\Rightarrow $$ $$v_x^2 + v_0^2 = {\\left( {2{v_0}} \\right)^2}$$\n<br><br>$$ \\Rightarrow $$ v<sub>x</sub> = $$\\sqrt 3 $$v<sub>0</sub>\n<br><br>$$ \\therefore $$ $${{qE} \\over m}$$t = $$\\sqrt 3 $$v<sub>0</sub>\n<br><br>$$ \\Rightarrow $$ t = $${{\\sqrt 3 m{v_0}} \\over {q{E_0}}}$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A thin ring of 10 cm radius carries a uniformly distributed charge. The ring rotates at a constant angular\nspeed of 40 $$\\pi $$ rad s<sup>–1</sup>\n about its axis, perpendicular to its plane. If the magnetic field at its centre is 3.8 × 10<sup>–9</sup>\nT, then the charge carried by the ring is close to ($$\\mu $$<sub>0</sub> = 4$$\\pi $$ × 10<sup>–7</sup>\n N/A<sup>2</sup>\n).",
+      "options": [
+        {
+          "key": "A",
+          "value": "7 × 10<sup>–6</sup> C"
+        },
+        {
+          "key": "B",
+          "value": "4 × 10<sup>–5</sup> C"
+        },
+        {
+          "key": "C",
+          "value": "2 × 10<sup>–6</sup> C"
+        },
+        {
+          "key": "D",
+          "value": "3 × 10<sup>–5</sup> C"
+        }
+      ],
+      "answer": "D",
+      "explanation": "$$B = {{{\\mu _0}i} \\over {2a}}{{\\omega q} \\over {2\\pi }} = i$$<br><br>\n$$B = {{{\\mu _0}} \\over {2a}}.{{\\omega q} \\over {2\\pi }}$$<br><br>\n$$B = {{{{10}^{ - 7}} \\times 40} \\over {0.1}} \\times q \\times \\pi $$<br><br>\n$$ \\Rightarrow q = 3 \\times {10^{ - 5}}C$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A proton, an electron, and a Helium nucleus,\nhave the same energy. They are in circular\norbits in a plane due to magnetic field\nperpendicualr to the plane. Let r<sub>p</sub>, r<sub>e</sub> and r<sub>He</sub> be\ntheir respective radii, then",
+      "options": [
+        {
+          "key": "A",
+          "value": "r<sub>e</sub> &lt; r<sub>p</sub> &lt; r<sub>He</sub>"
+        },
+        {
+          "key": "B",
+          "value": "r<sub>e </sub>&lt; r<sub>p </sub>= r<sub>He</sub>"
+        },
+        {
+          "key": "C",
+          "value": "r<sub>e</sub> &gt; r<sub>p</sub> &gt; r<sub>He</sub>"
+        },
+        {
+          "key": "D",
+          "value": "r<sub>e</sub> &gt; r<sub>p</sub> = r<sub>He</sub>"
+        }
+      ],
+      "answer": "B",
+      "explanation": "$$r = {{mv} \\over {qB}} = {{\\sqrt {2mK} } \\over {qB}}$$<br><br>\n$${r_{He}} = {r_p} &gt; {r_e}$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A moving coil galvanometer has a coil with\n175 turns and area 1 cm<sup>2</sup>. It uses a torsion band\nof torsion constant 10<sup>–6</sup> N-m/rad. The coil is\nplaced in a maganetic field B parallel to its\nplane. The coil deflects by 1° for a current of\n1 mA. The value of B (in Tesla) is\napproximately :-",
+      "options": [
+        {
+          "key": "A",
+          "value": "10<sup>–4</sup>"
+        },
+        {
+          "key": "B",
+          "value": "10<sup>–2</sup>"
+        },
+        {
+          "key": "C",
+          "value": "10<sup>–1</sup>"
+        },
+        {
+          "key": "D",
+          "value": "10<sup>–3</sup>"
+        }
+      ],
+      "answer": "D",
+      "explanation": "NIAB = KQ<br><br>\n175 × 1 × 10<sup>–3</sup> × 1 × 10<sup>–4</sup> × B = $${{{{10}^{ - 6}} \\times \\pi } \\over {180}}$$<br><br>\n$$ \\Rightarrow B = {\\pi  \\over {180}} \\times {{10} \\over {175}} \\approx 9.97 \\times {10^{ - 4}}\\,T$$<br><br>\n$$ \\Rightarrow $$ B = 10<sup>–3</sup> T"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A rectangular coil (Dimension 5 cm × 2.5 cm)\nwith 100 turns, carrying a current of 3 A in the\nclock-wise direction is kept centered at the\norigin and in the X-Z plane. A magnetic field\nof 1 T is applied along X-axis. If the coil is tilted\nthrough 45° about Z-axis, then the torque on\nthe coil is :",
+      "options": [
+        {
+          "key": "A",
+          "value": "0.42 Nm"
+        },
+        {
+          "key": "B",
+          "value": "0.55 Nm"
+        },
+        {
+          "key": "C",
+          "value": "0.38 Nm"
+        },
+        {
+          "key": "D",
+          "value": "0.27\nNm"
+        }
+      ],
+      "answer": "D",
+      "explanation": "$$\\left| {\\overrightarrow \\tau  } \\right| = \\left| {\\overline M  \\times \\overline B } \\right|$$<br><br>\n$$\\tau  = NI \\times A \\times B \\times \\sin {45^o}$$<br><br>\n$$\\tau  = 0.27 \\,Nm$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A proton and an $$\\alpha $$-particle (with their masses in the ratio of 1 : 4 and charges in the ratio of 1 : 2) are accelerated from rest through a potential difference V. If a uniform magnetic field (B) is set up perpendicular to their velocities, the ratio of the radii r<sub>p</sub> : r<sub>$$\\alpha $$</sub> of the circular paths described by them will be ; ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$1:\\sqrt 3 $$"
+        },
+        {
+          "key": "B",
+          "value": "1 : 3"
+        },
+        {
+          "key": "C",
+          "value": "$$1:\\sqrt 2 $$"
+        },
+        {
+          "key": "D",
+          "value": "1 : 2"
+        }
+      ],
+      "answer": "C",
+      "explanation": "KE = q$$\\Delta $$V\n<br><br>r = $${{\\sqrt {2mq\\Delta V} } \\over {qB}}$$\n<br><br>r $$ \\propto $$ $$\\sqrt {{m \\over q}} $$\n<br><br>$${{{r_p}} \\over {{r_ \\propto }}}$$ = $${1 \\over {\\sqrt 2 }}$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A particle of mass m and charge q is in an electric and magnetic field given by\n<br>$$\\overrightarrow E  = 2\\widehat i + 3\\widehat j;\\,\\,\\,\\overrightarrow B  = 4\\widehat j + 6\\widehat k.$$\n<br><br>The charged particle is shifted from he origin to the point P(x = 1; y = 1) along a straight path. The magnitude of the total work done is :",
+      "options": [
+        {
+          "key": "A",
+          "value": "(2.5) q"
+        },
+        {
+          "key": "B",
+          "value": "(0.35) q"
+        },
+        {
+          "key": "C",
+          "value": "(0.15) q"
+        },
+        {
+          "key": "D",
+          "value": "5 q"
+        }
+      ],
+      "answer": "D",
+      "explanation": "$${\\overrightarrow F _{net}} = q\\overrightarrow E  + q\\left( {\\overrightarrow v  \\times \\overrightarrow B } \\right)$$\n<br><br>$$ = \\left( {2q\\widehat i + 3q\\widehat j} \\right) + q\\left( {\\overrightarrow v  \\times \\overrightarrow B } \\right)$$\n<br><br>$$W = {\\overrightarrow F _{net}}.\\overrightarrow S $$\n<br><br>$$=$$ 2q  +  3q\n<br><br>$$=$$ 5q"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "In an experiment, electrons are accelerated, from rest, by applying a voltage of 500 V. Calculate the radius of the path if a magnetic field 100 mT is then applied. [Charge of the electron = 1.6 $$ \\times $$ 10<sup>–19</sup> C Mass of the electron = 9.1 $$ \\times $$ 10<sup>–31</sup> kg] ",
+      "options": [
+        {
+          "key": "A",
+          "value": "7.5 $$ \\times $$ 10<sup>$$-$$4</sup> m"
+        },
+        {
+          "key": "B",
+          "value": "7.5 $$ \\times $$ 10<sup>$$-$$3</sup> m"
+        },
+        {
+          "key": "C",
+          "value": "7.5 m"
+        },
+        {
+          "key": "D",
+          "value": "7.5 $$ \\times $$ 10<sup>$$-$$2</sup> m"
+        }
+      ],
+      "answer": "A",
+      "explanation": "$$r = {{\\sqrt {2mk} } \\over {eB}} = {{\\sqrt {2me\\Delta v} } \\over {eB}}$$\n<br><br>$$r = {{\\sqrt {{{2m} \\over e}.\\Delta v} } \\over B} = {{\\sqrt {{{2 \\times 9.1 \\times {{10}^{ - 31}}} \\over {1.6 \\times {{10}^{ - 19}}}}\\left( {500} \\right)} } \\over {100 \\times {{10}^{ - 3}}}}$$\n<br><br>$$r = {{\\sqrt {{{9.1} \\over {0.16}} \\times {{10}^{ - 10}}} } \\over {{{10}^{ - 1}}}} = {3 \\over 4} \\times {10^{ - 4}}$$\n<br><br>&nbsp;&nbsp;&nbsp;$$ = 7.5 \\times {10^{ - 4}}$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A hoop and a solid cylinder of same mass and radius are made of a permanent magnetic material with their magnetic moment parallel to their respective axes. But the magnetic moment of hoop is twice of solid cylinder. They are placed in a uniform magnetic field in such a manner that their magnetic moments make a small angle with the field. If the oscillation periods of hoop and cylinder are T<sub>h</sub> and T<sub>c</sub> respectively, then - ",
+      "options": [
+        {
+          "key": "A",
+          "value": "T<sub>h</sub> = 1.5 T<sub>c</sub>"
+        },
+        {
+          "key": "B",
+          "value": "T<sub>h</sub> = T<sub>c</sub> "
+        },
+        {
+          "key": "C",
+          "value": "T<sub>h</sub> = 2T<sub>c</sub> "
+        },
+        {
+          "key": "D",
+          "value": "T<sub>h</sub> = 0.5 T<sub>c</sub>"
+        }
+      ],
+      "answer": "B",
+      "explanation": "T = $$2\\pi \\sqrt {{1 \\over {\\mu B}}} $$\n<br><br>T<sub>h</sub> = $$2\\pi \\sqrt {{{m{R^2}} \\over {\\left( {2\\mu } \\right)B}}} $$\n<br><br>T<sub>C</sub> = $$2\\pi \\sqrt {{{1/2m{R^2}} \\over {\\mu B}}} $$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "An insulating thin rod of length $$l$$ has a linear charge density $$\\rho \\left( x \\right)$$ = $${\\rho _0}{x \\over l}$$ on it. The rod is rotated about an axis passing through the origin (x = 0) and perpendicular to the rod. If the rod makes n rotations per second, then the time averaged magnetic moment of the rod is -",
+      "options": [
+        {
+          "key": "A",
+          "value": "$${\\pi  \\over 3}n\\rho {l^3}$$"
+        },
+        {
+          "key": "B",
+          "value": "$${\\pi  \\over 4}n\\rho {l^3}$$"
+        },
+        {
+          "key": "C",
+          "value": "$$n\\rho {l^3}$$ "
+        },
+        {
+          "key": "D",
+          "value": "$$\\pi n\\rho {l^3}$$"
+        }
+      ],
+      "answer": "B",
+      "explanation": "$$ \\because $$ &nbsp;&nbsp;M = NIA\n<br><br>dq = $$\\lambda $$dx&nbsp;&nbsp;&amp;&nbsp;&nbsp; A = $$\\pi $$x<sup>2</sup>\n<br><br>$$\\int {dm}  = \\int {\\left( x \\right){{{\\rho _0}x} \\over \\ell }} \\,dx.\\pi {x^2}$$\n<br><br>M = $${{n{\\rho _0}\\pi } \\over \\ell }.\\int\\limits_0^\\ell  {{x^3}.dx}  = {{n{\\rho _0}\\pi } \\over \\ell }.\\left[ {{{{L^4}} \\over 4}} \\right]$$\n<br><br>M = $${{n{\\rho _0}\\pi {\\ell ^3}} \\over 4}$$  or  $${\\pi  \\over 4}n\\rho {\\ell ^3}$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A particle having the same charge as of electron moves in a ciurcular path of radius 0.5 cm under the influence of a magnetic field 0f 0.5 T. If an electric field of 100 V/m makes it to move in a straight path, then the mass of the particle is (Given charge of electron = 1.6 $$ \\times $$ 10$$-$$<sup>19</sup>C)",
+      "options": [
+        {
+          "key": "A",
+          "value": "9.1 $$ \\times $$ 10<sup>$$-$$31</sup> kg"
+        },
+        {
+          "key": "B",
+          "value": "1.6 $$ \\times $$ 10<sup>$$-$$27</sup> kg"
+        },
+        {
+          "key": "C",
+          "value": "1.6 $$ \\times $$ 10<sup>$$-$$19</sup> kg"
+        },
+        {
+          "key": "D",
+          "value": "2.0 $$ \\times $$ 10<sup>$$-$$24</sup> kg"
+        }
+      ],
+      "answer": "D",
+      "explanation": "Given, \n<br>radius of circular path(r) = 0.5 cm\n<br>Magnetic field (B) = 0.5 T\n<br>Electric field (E) = 100 V/m\n<br><br>Charge of particle (q) = 1.6$$ \\times $$10<sup>$$-$$19</sup> C\n<br><br>As particle is moving in a circular path so,\n<br><br>$${{m{v^2}} \\over r} = qvB$$\n<br><br>$$ \\Rightarrow $$&nbsp;&nbsp;r = $${{mv} \\over {qB}}$$ . . . . . . . (1)\n<br><br>When electric field of 100 v/m is applied on the particle then particle is moving in the straight line. So, the net force on the particle is zero.\n<br><br>$$ \\therefore $$ &nbsp;&nbsp;&nbsp;F<sub>net</sub> = 0\n<br><br>$$ \\Rightarrow $$&nbsp;&nbsp;&nbsp;F<sub>e</sub> = F<sub>m</sub>\n<br><br>$$ \\Rightarrow $$&nbsp;&nbsp;qE = qvB\n<br><br>$$ \\Rightarrow $$&nbsp;&nbsp;&nbsp;E = vB&nbsp;&nbsp;. . . . .(2)\n<br><br>From equation (1) and (2) we get,\n<br><br>r = $${m \\over {qB}}\\left( {{E \\over B}} \\right)$$\n<br><br>= $${{mE} \\over {q{B^2}}}$$\n<br><br>$$ \\Rightarrow $$&nbsp;&nbsp;&nbsp;m = $${{q{B^2}r} \\over E}$$\n<br><br>=  $${{1.6 \\times {{10}^{ - 19}} \\times {{\\left( {0.5} \\right)}^2} \\times 0.5 \\times {{10}^{ - 2}}} \\over {100}}$$\n<br><br>= 2 $$ \\times $$ 10<sup>$$-$$24</sup> kg"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A charge q is spread uniformly over an insulated loop of radius r.  If it is rotated with an angular velocity $$\\omega $$ with resect to normal axis then the magnetic moment of the loop is : ",
+      "options": [
+        {
+          "key": "A",
+          "value": "q $$\\omega $$r<sup>2</sup>"
+        },
+        {
+          "key": "B",
+          "value": "$${4 \\over 3}$$ q $$\\omega $$r<sup>2</sup>"
+        },
+        {
+          "key": "C",
+          "value": "$${3 \\over 2}$$ q $$\\omega $$r<sup>2</sup>"
+        },
+        {
+          "key": "D",
+          "value": "$${1 \\over 2}$$ q $$\\omega $$r<sup>2</sup>"
+        }
+      ],
+      "answer": "D",
+      "explanation": "Magnetic moment, \n<br><br>$$\\mu $$ = I A\n<br><br>= $${q \\over T}\\left( {\\pi {r^2}} \\right)$$\n<br><br>= $${q \\over {2\\pi /\\omega }}\\left( {\\pi {r^2}} \\right)$$\n<br><br>= $${{qw} \\over {2\\pi }}$$ $$\\left( {\\pi {r^2}} \\right)$$\n<br><br>= $${1 \\over 2}$$ q$$\\omega $$r<sup>2</sup>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The dipole moment of a circular loop carrying a current I, is m and the magnetic field at the centre of the\nloop is B<sub>1</sub>. When the dipole moment is doubled by keeping the current constant, the magnetic field at the\ncentre of the loop is $${{B_2}}$$. The ratio $${{{B_1}} \\over {{B_2}}}$$ is: ",
+      "options": [
+        {
+          "key": "A",
+          "value": "2"
+        },
+        {
+          "key": "B",
+          "value": "$$\\sqrt 3 $$"
+        },
+        {
+          "key": "C",
+          "value": "$$\\sqrt 2 $$"
+        },
+        {
+          "key": "D",
+          "value": "$$1 \\over \\sqrt 2 $$"
+        }
+      ],
+      "answer": "C",
+      "explanation": "Dipole moment, M = IA\n<br><br>Let radius of circular loop = R\n<br><br>$$\\therefore\\,\\,\\,$$ M&nbsp; =&nbsp; I $$ \\times $$ $$\\pi $$R<sup>2</sup>\n<br><br>Later,  we keep current constant , \n<br><br>But dipole moment becomes double, let new radius = R<sub>1</sub>\n<br><br>$$\\therefore\\,\\,\\,$$ 2M &nbsp;=&nbsp; I $$ \\times $$ $$\\pi $$R$$_1^2$$\n<br><br>$$ \\Rightarrow $$$$\\,\\,\\,$$ 2I$$\\pi $$R<sup>2</sup> &nbsp;=&nbsp; I$$\\pi $$R$$_1^2$$\n<br><br>$$ \\Rightarrow $$$$\\,\\,\\,$$ R<sub>1</sub> &nbsp;= &nbsp;$$\\sqrt 2 $$ R\n<br><br>At the center of circular ring, the magnetic field, \n<br><br>B &nbsp;= &nbsp;$${{{\\mu _0}I} \\over {2R}}$$\n<br><br>$$\\therefore\\,\\,\\,$$ B<sub>1</sub> &nbsp;=&nbsp; $${{{\\mu _0}I} \\over {2R}}$$&nbsp;&nbsp; and &nbsp;&nbsp; B<sub>2</sub> = $${{{\\mu _0}I} \\over {2 \\times \\left( {\\sqrt 2 R} \\right)}}$$\n<br><br>$$\\therefore\\,\\,\\,$$ $${{{B_1}} \\over {{B_2}}}$$ &nbsp;= &nbsp; $${{{{{\\mu _0}I} \\over {2R}}} \\over {{{{\\mu _0}I} \\over {2\\sqrt 2 \\,R}}}}$$\n<br><br>= $${{2\\sqrt 2 } \\over 2}$$\n<br><br>= $$  \\sqrt 2 $$ "
+    },
+    {
+      "_type": "single_mcq",
+      "body": "An electron, a proton and an alpha particle having the same kinetic energy are moving in circular orbits of\nradii r<sub>e</sub>, r<sub>p</sub>, r$$_\\alpha$$ respectively in a uniform magnetic field B. The relation between r<sub>e</sub>, r<sub>p</sub>, r$$_\\alpha$$ is:  ",
+      "options": [
+        {
+          "key": "A",
+          "value": "r<sub>e</sub> &lt; r$$_\\alpha$$ &lt; r<sub>p</sub>"
+        },
+        {
+          "key": "B",
+          "value": "r<sub>e</sub> &gt; r<sub>p</sub> = r$$_\\alpha$$"
+        },
+        {
+          "key": "C",
+          "value": "r<sub>e</sub> &lt; r<sub>p</sub> = r$$_\\alpha$$"
+        },
+        {
+          "key": "D",
+          "value": "r<sub>e</sub> &lt; r<sub>p</sub> &lt; r$$_\\alpha$$"
+        }
+      ],
+      "answer": "C",
+      "explanation": "When a  charged particle moves in a magnetic field then the charged particle moves in a circular path.  So, \n<br><br>$${{m{v^2}} \\over r}$$ = Bqv\n<br><br>$$ \\Rightarrow $$$$\\,\\,\\,$$ r = $${{mv} \\over {Bq}}$$\n<br><br>We know kinetic energy,  K = $${1 \\over 2}$$ mv<sup>2</sup>\n<br><br>$$\\therefore\\,\\,\\,$$ mv = $$\\sqrt {2Km} $$\n<br><br>$$\\therefore\\,\\,\\,$$ r = $${{\\sqrt {2Km} } \\over {Bq}}$$\n<br><br>According to the question, \n<br><br>K<sub>e</sub> (electron) = K<sub>p</sub> (proton) = K<sub>$$\\alpha $$</sub>(Alpha particle) = K = constant, and all of them are in uniform magnetic field.\n<br><br>$$ \\therefore $$ B = constant. \n<br><br>$$\\therefore\\,\\,\\,$$ r $$ \\propto $$ $${{\\sqrt m } \\over q}$$\n<br><br>For proton (<sub>1</sub>H<sup>1</sup>), mass = m, and charge = e \n<br><br>$$\\therefore\\,\\,\\,$$ r<sub>p</sub> $$ \\propto $$ $${{\\sqrt m } \\over e}$$\n<br><br>For alpha particle (<sub>2</sub>H<sup>4</sup>),\n<br><br>mass = 4m\n<br><br>and charge = 2e\n<br><br>$$\\therefore\\,\\,\\,$$ r<sub>$$ \\alpha $$</sub> $$ \\propto $$ $${{\\sqrt {4m} } \\over {2e}}$$ $$ \\propto $$ $${{\\sqrt m } \\over e}$$\n<br><br>$$ \\therefore $$$$\\,\\,\\,$$ r<sub>p</sub> = r<sub>$$ \\alpha$$</sub>\n<br><br>For electron, \n<br><br>charge = e \n<br><br>and mass  (m<sub>e</sub>) = 9.1 $$ \\times $$ 10<sup>$$-$$31</sup> kg\n<br><br>and mass of proton = 1.67 $$ \\times $$ 10<sup>$$-$$27</sup> kg\n<br><br>$$\\therefore\\,\\,\\,$$ mass of electron &lt; mass of proton.\n<br><br>r<sub>e</sub> $$ \\propto $$ $${{\\sqrt {{m_e}} } \\over e}$$ &lt; r<sub>p</sub>\n<br><br>$$\\therefore\\,\\,\\,$$ r<sub>e</sub> &lt; r<sub>p</sub> = r<sub>$$ \\propto $$</sub>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A magnetic dipole in a constant magnetic field has :\n ",
+      "options": [
+        {
+          "key": "A",
+          "value": "maximum potential energy when the torque is maximum.\n"
+        },
+        {
+          "key": "B",
+          "value": "zero potential energy when the torque is minimum."
+        },
+        {
+          "key": "C",
+          "value": "zero potential energy when the torque is maximum.\n"
+        },
+        {
+          "key": "D",
+          "value": "minimum potential energy when the torque is maximum."
+        }
+      ],
+      "answer": "C",
+      "explanation": "In uniform magnetic field, the torque experienced by the magnetic dipole is  $$\\tau $$ = MB sin $$\\theta $$ \n<br><br>Torque will be maximum when $$\\theta $$ = 90<sup>o</sup> \n<br><br>$$\\tau $$<sub>max</sub> = MB sin90<sup>o</sup> = MB \n<br><br>Potential energy of magnetic dipole, \n<br><br>$$\\mu $$ = $$-$$ MB cos $$\\theta $$\n<br><br>at maximum torque, \n<br><br>$$\\mu $$ = $$-$$ MB cos 90<sup>o</sup> = 0"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "In a certain region static electric and magnetic fields exist. The magnetic field is given by $$\\overrightarrow B  = {B_0}\\left( {\\widehat i + 2\\widehat j - 4\\widehat k} \\right)$$ . If a test charge moving with a velocity $$\\overrightarrow \\upsilon   = {\\upsilon _0}\\left( {3\\widehat i - \\widehat j + 2\\widehat k} \\right)$$ experiences no force in that region, then the electric field in the region, in SI units, is :\n",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$\\overrightarrow E  =  - {\\upsilon _0}\\,{B_0}\\left( {3\\widehat i - 2\\widehat j - 4\\widehat k} \\right)$$ "
+        },
+        {
+          "key": "B",
+          "value": "$$\\overrightarrow E  =  - {\\upsilon _0}\\,{B_0}\\left( {\\widehat i + \\widehat j + 7\\widehat k} \\right)$$"
+        },
+        {
+          "key": "C",
+          "value": "$$\\overrightarrow E  = {\\upsilon _0}\\,{B_0}\\left( {14\\widehat j + 7\\widehat k} \\right)$$"
+        },
+        {
+          "key": "D",
+          "value": "$$\\overrightarrow E  =  - {\\upsilon _0}\\,{B_0}\\left( {14\\widehat j + 7\\widehat k} \\right)$$ "
+        }
+      ],
+      "answer": "D",
+      "explanation": "Here test charge experience no net force,  So, sum of electric and magnetic field is zero.\n<br><br>$$\\therefore\\,\\,\\,$$ F<sub>e</sub> + F<sub>m</sub> = 0\n<br><br>$$\\therefore\\,\\,\\,$$ F<sub>e</sub> = $$-$$ q ($$\\overrightarrow v $$ $$ \\times $$ $$\\overrightarrow B)$$\n<br><br>= $$-$$ qB<sub>0</sub> $$\\upsilon $$<sub>0</sub> [(3$$\\widehat i$$ $$-$$ $$\\widehat j$$ +  2$$\\widehat k$$) $$ \\times $$ ($$\\widehat i$$ + 2$$\\widehat j$$ $$-$$ 4$$\\widehat k$$)]\n<br><br>= $$-$$ q$$\\upsilon $$<sub>0</sub> B<sub>0</sub> (14$$\\widehat j$$ + 7$$\\widehat k$$) \n<br><br>Electric field produced by the charge q, \n<br><br>$$\\overrightarrow E $$ = $${{\\overrightarrow {{F_e}} } \\over q}$$\n<br><br>= $${{ - q{\\upsilon _0}{B_0}\\left( {14\\widehat j + 7\\widehat k} \\right)} \\over q}$$\n<br><br>= $$-$$ $$\\upsilon $$<sub>0</sub>  B<sub>0</sub> (14 $${\\widehat j}$$ + 7 $${\\widehat k}$$)"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A magnetic dipole is acted upon by two magnetic fields which are inclined to each other at an angle of 75<sup>o</sup>. One of the fields has a magnitude of 15 mT. The dipole attains stable equilibrium at an angle of 30<sup>o</sup> with this field. The magnitude of the other field (in mT ) is close to ",
+      "options": [
+        {
+          "key": "A",
+          "value": "11"
+        },
+        {
+          "key": "B",
+          "value": "36"
+        },
+        {
+          "key": "C",
+          "value": "1"
+        },
+        {
+          "key": "D",
+          "value": "1060"
+        }
+      ],
+      "answer": "A",
+      "explanation": "For equilibrium, \n<br><br>net torque acting on dipole is = 0\n<br><br>$$ \\therefore $$&nbsp;&nbsp;&nbsp;$$\\tau $$<sub>1</sub> = $$\\tau $$<sub>2</sub>\n<br><br>$$ \\Rightarrow $$&nbsp;&nbsp;&nbsp;mB<sub>1</sub> sin$$\\theta $$<sub>1</sub> = mB<sub>2</sub> sin$$\\theta $$<sub>2</sub>\n<br><br>$$ \\Rightarrow $$&nbsp;&nbsp;&nbsp;B<sub>2</sub> = B<sub>1</sub>  $$ \\times $$ $${{\\sin {{30}^o}} \\over {\\sin {{45}^o}}}$$\n<br><br>= &nbsp;&nbsp;15 $$ \\times $$ $$\\sqrt 2 $$ $$ \\times $$ $${1 \\over 2}$$ = \n<br><br>=&nbsp;&nbsp;10.6 mT $$ \\simeq $$ 11 mT"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Proton, deuteron and alpha particle of same kinetic energy are moving in circular trajectories in a constant magnetic field. The radii of proton, denuteron and alpha particle are  respectively $${r_p},{r_d}$$ and $${r_\\alpha }$$.  Which one of the following relation is correct? ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$${r_\\alpha } = {r_p} = {r_d}$$ "
+        },
+        {
+          "key": "B",
+          "value": "$${r_\\alpha } = {r_p} &lt; {r_d}$$ "
+        },
+        {
+          "key": "C",
+          "value": "$${r_\\alpha } &gt; {r_d} &gt; {r_p}$$ "
+        },
+        {
+          "key": "D",
+          "value": "$${r_\\alpha } = {r_d} &gt; {r_p}$$ "
+        }
+      ],
+      "answer": "B",
+      "explanation": "$$r = {{\\sqrt {2mv} } \\over {qB}} \\Rightarrow r \\times v{{\\sqrt m } \\over q}$$\n<br><br>Thus we have, $${r_\\alpha } = {r_p} &lt; {r_d}$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A charged particle with charge $$q$$ enters a region of constant, uniform and mutually orthogonal fields $$\\overrightarrow E $$ and $$\\overrightarrow B $$ with a velocity $$\\overrightarrow v $$ perpendicular to both $$\\overrightarrow E $$ and $$\\overrightarrow B, $$ and comes out without any change in magnitude or direction of $$\\overrightarrow v $$. Then ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$\\overrightarrow v  = \\overrightarrow B  \\times \\overrightarrow E /{E^2}$$ "
+        },
+        {
+          "key": "B",
+          "value": "$$\\overrightarrow v  = \\overrightarrow E  \\times \\overrightarrow B /{B^2}$$ "
+        },
+        {
+          "key": "C",
+          "value": "$$\\overrightarrow v  = \\overrightarrow B  \\times \\overrightarrow E /{B^2}$$ "
+        },
+        {
+          "key": "D",
+          "value": "$$\\overrightarrow v  = \\overrightarrow E  \\times \\overrightarrow B /{E^2}$$ "
+        }
+      ],
+      "answer": "B",
+      "explanation": "Here, $$\\overrightarrow E $$ and $$\\overrightarrow B $$ are perpendicular to each other and the velocity $$\\overrightarrow v $$ does not change; therefore\n<br><br>$$qE = qvB \\Rightarrow v = {E \\over B}$$\n<br><br>Also, $$\\left| {{{\\overrightarrow E  \\times \\overrightarrow B } \\over {{B^2}}}} \\right| = {{E\\,\\,B\\sin \\theta } \\over {{B^2}}}$$\n<br><br>$$ = {{E\\,\\,B\\sin {{90}^ \\circ }} \\over {{B^2}}} = {E \\over B} = \\left| {\\overrightarrow v } \\right| = v$$ "
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A current $$I$$ flows along the length of an infinitely long, straight, thin walled pipe. Then ",
+      "options": [
+        {
+          "key": "A",
+          "value": "the magnetic field at all points inside the pipe is the same, but not zero "
+        },
+        {
+          "key": "B",
+          "value": "the magnetic field is zero only on the axis of the pipe "
+        },
+        {
+          "key": "C",
+          "value": "the magnetic field is different at different points inside the pipe "
+        },
+        {
+          "key": "D",
+          "value": "the magnetic field at any point inside the pipe is zero "
+        }
+      ],
+      "answer": "D",
+      "explanation": "There is no current inside the pipe. Therefore \n<br><br>$$\\oint {\\overline B .\\overline {d\\ell } }  = {\\mu _0}I$$\n<br><br>$$I=0$$\n<br><br>$$\\therefore$$ $$B=0$$ "
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A charged particle moves through a magnetic field perpendicular to its direction. Then ",
+      "options": [
+        {
+          "key": "A",
+          "value": "Kinetic energy changes but the momentum is constant "
+        },
+        {
+          "key": "B",
+          "value": "the momentum changes but the kinetic energy is constant "
+        },
+        {
+          "key": "C",
+          "value": "both momentum and kinetic energy of the particle are not constant "
+        },
+        {
+          "key": "D",
+          "value": "both momentum and kinetic energy of the particle are constant "
+        }
+      ],
+      "answer": "B",
+      "explanation": "<b>NOTE :</b> When a charged particle enters a magnetic field at a direction perpendicular to the direction of motion, the path of the motion is circular. In circular motion the direction of velocity changes at every point (the magnitude remains constant).\n<br><br>Therefore,  the tangential momentum will change at every point. But kinetic energy will remain constant as it is given by $${1 \\over 2}\\,m{v^2}$$ and $${v^2}$$ is the square of the magnitude of velocity which does not change. "
+    },
+    {
+      "_type": "single_mcq",
+      "body": "In a region, steady and uniform electric and magnetic fields are present. These two fields are parallel to each other. A charged particle is released from rest in this region. The path of the particle will be a",
+      "options": [
+        {
+          "key": "A",
+          "value": "helix "
+        },
+        {
+          "key": "B",
+          "value": "straight line "
+        },
+        {
+          "key": "C",
+          "value": "ellipse "
+        },
+        {
+          "key": "D",
+          "value": "circle "
+        }
+      ],
+      "answer": "B",
+      "explanation": "The charged particle will move along the lines of electric field (and magnetic field). Magnetic field will exert no force. The force by electric field will be along the lines of uniform electric field. Hence the particle will move in a straight line. "
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A long solenoid has $$200$$ turns per $$cm$$ and carries a current $$i.$$ The magnetic field at its center is $$6.28 \\times {10^{ - 2}}\\,\\,\\,Weber/{m^2}.$$ Another long solenoid has $$100$$ turns per $$cm$$ and it carries a current $${i \\over 3}$$. The value of the magnetic field at its center is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$1.05 \\times {10^{ - 2}}\\,\\,Weber/{m^2}$$ "
+        },
+        {
+          "key": "B",
+          "value": "$$1.05 \\times {10^{ - 5}}\\,\\,Weber/{m^2}$$ "
+        },
+        {
+          "key": "C",
+          "value": "$$1.05 \\times {10^{ - 3}}\\,\\,Weber/{m^2}$$ "
+        },
+        {
+          "key": "D",
+          "value": "$$1.05 \\times {10^{ - 4}}\\,\\,Weber/{m^2}$$ "
+        }
+      ],
+      "answer": "A",
+      "explanation": "$${{{B_2}} \\over {{B_1}}} = {{{\\mu _0}{n_2}{i_2}} \\over {{\\mu _0}{n_1}{i_1}}}$$\n<br><br>$$ \\Rightarrow {{{B_2}} \\over {6.28 \\times {{10}^{ - 2}}}} = {{100 \\times {i \\over 3}} \\over {200 \\times i}}$$\n<br><br>$$ \\Rightarrow {B_2} = {{6.28 \\times {{10}^{ - 2}}} \\over 6}$$\n<br><br>$$ = 1.05 \\times {10^{ - 2}}\\,\\,Wb/{m^2}$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A charged particle of mass $$m$$ and charge $$q$$ travels on a circular path of radius $$r$$ that is perpendicular to a magnetic field $$B.$$ The time taken by the particle to complete one revolution is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$${{2\\pi {q^2}B} \\over m}$$ "
+        },
+        {
+          "key": "B",
+          "value": "$${{2\\pi mq} \\over B}$$ "
+        },
+        {
+          "key": "C",
+          "value": "$${{2\\pi m} \\over {qB}}$$ "
+        },
+        {
+          "key": "D",
+          "value": "$${{2\\pi qB} \\over m}$$ "
+        }
+      ],
+      "answer": "C",
+      "explanation": "Equating magnetic force to centripetal force. \n<br><br>$${{m{V^2}} \\over r} = qvB\\,\\sin \\,{90^ \\circ }$$\n<br><br>Time to complete one revolution.\n<br><br>$$T = {{2\\pi r} \\over v} = {{2\\pi m} \\over {qB}}$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A uniform electric field and a uniform magnetic field are acting along the same direction in a certain region. If an electron is projected along the direction of the fields with a certain velocity then ",
+      "options": [
+        {
+          "key": "A",
+          "value": "its velocity will increase "
+        },
+        {
+          "key": "B",
+          "value": "Its velocity will decrease "
+        },
+        {
+          "key": "C",
+          "value": "it will turn towards left of a direction of motion "
+        },
+        {
+          "key": "D",
+          "value": "it will turn  towards right of direction of motion "
+        }
+      ],
+      "answer": "B",
+      "explanation": "Due to electric field, it experiences force and decelerates i.e. its velocity decreases."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A current $$i$$ ampere flows along an infinitely long straight thin walled tube, then the magnetic induction at any point inside the tube is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$${{{\\mu _0}} \\over {4\\pi }},{{2i} \\over r}$$ tesla"
+        },
+        {
+          "key": "B",
+          "value": "zero "
+        },
+        {
+          "key": "C",
+          "value": "infinite "
+        },
+        {
+          "key": "D",
+          "value": "$${{2i} \\over r}$$ tesla "
+        }
+      ],
+      "answer": "B",
+      "explanation": "Using Ampere's law at a distance $$r$$ from axis, $$B$$ is same from symmetry.\n<br><br>$$\\int {B.dl = {\\mu _0}i} $$\n<br><br>i.e., $$B \\times 2\\pi r = {\\mu _0}i$$\n<br><br>Here $$i$$ is zero, for $$r &lt; R,$$ whereas $$R$$ is the radius\n<br><br>$$\\therefore$$ $$B=0$$ "
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A long wire carries a steady current. It is bent into a circle of one turn and the magnetic field at the centre of the coil is $$B.$$ It is then bent into a circular loop of $$n$$ turns. The magnetic field at the center of the coil will be ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$2n$$ $$B$$"
+        },
+        {
+          "key": "B",
+          "value": "$${n^2}\\,B$$ "
+        },
+        {
+          "key": "C",
+          "value": "$$nB$$ "
+        },
+        {
+          "key": "D",
+          "value": "$$2{n^2}\\,B$$ "
+        }
+      ],
+      "answer": "B",
+      "explanation": "<b>KEY CONCEPT : </b> Magnetic field at the center of a circular coil of radius $$R$$ carrying \n<br><br>current is  $$B = {{{\\mu _0}i} \\over {2R}}$$\n<br><br>Given: $$n \\times \\left( {2\\pi r'} \\right) = 2\\pi R$$\n<br><br>$$ \\Rightarrow nr' = R\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,...\\left( 1 \\right)$$\n<br><br>$$B' = {{n.{\\mu _0}i} \\over {2r'}}\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,...\\left( 2 \\right)$$\n<br><br>from $$\\left( 1 \\right)$$ and $$\\left( 2 \\right),$$ $$B' = {{n{\\mu _0}i.n} \\over {2\\pi R}} = {n^2}B$$\n"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The magnetic field due to a current carrying circular loop of radius $$3$$ $$cm$$ at a point on the axis at a distance of $$4$$ $$cm$$  from the centre is $$54\\,\\mu T.$$ What will be its value at the center of loop? ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$125\\,\\mu T$$ "
+        },
+        {
+          "key": "B",
+          "value": "$$150\\,\\mu T$$ "
+        },
+        {
+          "key": "C",
+          "value": "$$250\\,\\mu T$$ "
+        },
+        {
+          "key": "D",
+          "value": "$$75\\,\\mu T$$ "
+        }
+      ],
+      "answer": "C",
+      "explanation": "The magnetic field at a point on the axis of a circular loop at a distance $$x$$ from center is, \n<br><br>$$B = {{{\\mu _0}i\\,{a^2}} \\over {2\\left( {{x^2} + {a^2}} \\right)3/2}}$$ $$\\,\\,\\,\\,\\,B' = {{{\\mu _0}i} \\over {2a}}$$\n<br><br>$$\\therefore$$ $$B' = {{B.{{\\left( {{x^2} + {a^2}} \\right)}^{3/2}}} \\over {{a^3}}}$$\n<br><br>Put $$x = 4$$ &amp; $$a = 3 \\Rightarrow B' = {{54\\left( {{5^3}} \\right)} \\over {3 \\times 3 \\times 3}} = 250\\mu T$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Two long conductors, separated by a distance $$d$$ carry current $${I_1}$$ and $${I_2}$$ in the same direction. They exert a force $$F$$ on each other. Now the current in one of them is increased to two times and its direction is reversed. The distance is also increased to $$3d$$. The new value of the force between them is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$ - {{2F} \\over 3}$$ "
+        },
+        {
+          "key": "B",
+          "value": "$${F \\over 3}$$ "
+        },
+        {
+          "key": "C",
+          "value": "$$-2F$$ "
+        },
+        {
+          "key": "D",
+          "value": "$$ - {F \\over 3}$$ "
+        }
+      ],
+      "answer": "A",
+      "explanation": "Force between two long conductor carrying current, \n<br><br>$$F = {{{\\mu _0}} \\over {4\\pi }}{{2{I_1}{I_2}} \\over d} \\times \\ell $$\n<br><br>$$F' =  - {{{\\mu _0}} \\over {4\\pi }}{{2\\left( {2{I_1}} \\right){I_2}} \\over {3d}}\\ell $$\n<br><br>$$\\therefore$$ $${{F'} \\over F} = {{ - 2} \\over 3}$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A particle of mass $$M$$ and charge $$Q$$ moving with velocity $$\\overrightarrow v $$ describe a circular path of radius $$R$$ when subjected to a uniform transverse magnetic field of induction $$B.$$ The network done by the field when the particle completes one full circle is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$\\left( {{{M{v^2}} \\over R}} \\right)2\\pi R$$ "
+        },
+        {
+          "key": "B",
+          "value": "zero "
+        },
+        {
+          "key": "C",
+          "value": "$$B\\,\\,Q\\,2\\pi R$$ "
+        },
+        {
+          "key": "D",
+          "value": "$$B\\,Qv\\,2\\pi R$$ "
+        }
+      ],
+      "answer": "B",
+      "explanation": "The work done, $$dW = Fds\\,\\cos \\,\\theta $$\n<br><br>The angle between force and displacement is $${90^ \\circ }.$$\n<br><br>Therefore work done is zero."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "If in a circular coil $$A$$ of radius $$R,$$ current $$I$$ is flowing and in another coil $$B$$ of  radius $$2R$$ a current $$2I$$ is flowing, then the ratio of the magnetic fields $${B_A}$$ and $${B_B}$$, produced by them will be",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$1$$ "
+        },
+        {
+          "key": "B",
+          "value": "$$2$$ "
+        },
+        {
+          "key": "C",
+          "value": "$$1/2$$ "
+        },
+        {
+          "key": "D",
+          "value": "$$4$$ "
+        }
+      ],
+      "answer": "A",
+      "explanation": "<b>KEY CONCEPT : </b>We know that the magnetic field produced by a current carrying circular coil of radius $$r$$ \n<br><br>at its center is $$B = {{{\\mu _0}} \\over {4\\pi }}{I \\over r} \\times 2\\pi $$\n<br><br>Here $${B_A} = {{{\\mu _0}} \\over {4\\pi }}{I \\over R} \\times 2\\pi $$ and \n<br><br>$${B_B} = {{{\\mu _0}} \\over {4\\pi }}{{2I} \\over {2R}} \\times 2\\pi $$\n<br><br>$$ \\Rightarrow {{{B_A}} \\over {B{}_B}} = 1$$ "
+    },
+    {
+      "_type": "single_mcq",
+      "body": "If an electron and a proton having same momentum enter perpendicular to a magnetic field, then ",
+      "options": [
+        {
+          "key": "A",
+          "value": "curved path of electron and proton will be same (ignoring the sense of revolution) "
+        },
+        {
+          "key": "B",
+          "value": "they will move undeflected "
+        },
+        {
+          "key": "C",
+          "value": "curved path of electron is more curved than that of the proton "
+        },
+        {
+          "key": "D",
+          "value": "path of proton is more curved."
+        }
+      ],
+      "answer": "A",
+      "explanation": "<b>KEY CONCEPT : </b> When a charged particle enters perpendicular to a magnetic field, \n<br><br>then it moves in a circular path of radius.\n<br><br>$$r = {p \\over {qB}}$$\n<br><br>where $$q=$$ Charge of the particle\n<br><br>$$p=$$ Momentum of the particle\n<br><br>$$B=$$ Magnetic field\n<br><br>Here $$p,q$$ and $$B$$ are constant for electron and proton, therefore the radius will be \n<br><br>same. "
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The time period of a charged particle undergoing a circular motion in a uniform magnetic field is independent of its ",
+      "options": [
+        {
+          "key": "A",
+          "value": "speed "
+        },
+        {
+          "key": "B",
+          "value": "mass "
+        },
+        {
+          "key": "C",
+          "value": "charge "
+        },
+        {
+          "key": "D",
+          "value": "magnetic induction "
+        }
+      ],
+      "answer": "A",
+      "explanation": "<b>KEY CONCEPT :</b> The time period of a charged particle \n<br><br>$$\\left( {m,q} \\right)$$ moving in a magnetic field $$(B)$$ is $$T = {{2\\pi m} \\over {qB}}$$\n<br><br>The time period does not depend on the speed of the particle."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "If a current is passed through a spring then the spring will ",
+      "options": [
+        {
+          "key": "A",
+          "value": "expand "
+        },
+        {
+          "key": "B",
+          "value": "compress "
+        },
+        {
+          "key": "C",
+          "value": "remains same "
+        },
+        {
+          "key": "D",
+          "value": "none of these "
+        }
+      ],
+      "answer": "B",
+      "explanation": "When current is passed through a spring, every current\ncarrying loop of a spring behaves like a tiny magnet and\nloop of a spring faces another loop are form magnet of\ndifferent poles which attract one another. Therefore,\nspring is compressed."
+    },
+    {
+      "_type": "numerical",
+      "body": "<p>If an optical medium possesses a relative permeability of $\\frac{10}{\\pi}$ and relative permittivity of $\\frac{1}{0.0885}$, then the velocity of light is greater in vacuum than that in this medium by _________ times.</p>\n<p>$$\\left(\\mu_0=4 \\pi \\times 10^{-7} \\mathrm{H} / \\mathrm{m}, \\epsilon_0=8.85 \\times 10^{-12} \\mathrm{~F} / \\mathrm{m}, \\mathrm{c}=3 \\times 10^8 \\mathrm{~m} / \\mathrm{s}\\right)$$</p>",
+      "answer": "6",
+      "explanation": "<p>$$\\begin{aligned}\n&\\text { Since velocity of light in terms of } \\mu \\& E \\text { is }\\\\\n&\\begin{aligned}\n& V=\\frac{1}{\\sqrt{\\mu \\epsilon}}=\\frac{1}{\\sqrt{\\mu_0 \\mu_{\\mathrm{r}}}} \\times \\frac{1}{\\sqrt{\\epsilon_0 \\epsilon_{\\mathrm{r}}}} \\\\\n& =\\frac{1}{\\sqrt{\\mu_{\\mathrm{r}} \\epsilon_{\\mathrm{r}}}} \\times \\frac{1}{\\sqrt{\\mu_0 \\epsilon_0}} \\\\\n& =\\frac{C}{\\sqrt{\\mu_{\\mathrm{r}} \\epsilon_{\\mathrm{r}}}}=\\frac{C}{\\sqrt{\\frac{10}{\\pi} \\times \\frac{1}{0.0885}}} \\\\\n& =\\frac{C}{\\sqrt{36}}=\\frac{C}{6}\n\\end{aligned}\n\\end{aligned}$$</p>\n<p>$$\\begin{aligned}\nV & =\\frac{C}{6} \\\\\nC & =6 V\n\\end{aligned}$$</p>\n<p>Velocity of light in vacuum is greater by 6 times the velocity of light in medium\nAnswer is 6</p>"
+    },
+    {
+      "_type": "numerical",
+      "body": "A 4.0 cm long straight wire carrying a current of 8 A is placed perpendicular to a uniform magnetic field of strength 0.15 T . The magnetic force on the wire is ________mN .",
+      "answer": "48",
+      "explanation": "<p>$$\\begin{aligned}\n& \\mathrm{F}=\\mathrm{I} \\ell \\mathrm{~B} \\\\\n& =8 \\times \\frac{4}{100} \\times 0.15 \\\\\n& =48 \\times 10^{-3} \\mathrm{~N}=48 \\mathrm{mN}\n\\end{aligned}$$</p>"
+    },
+    {
+      "_type": "numerical",
+      "body": "The magnetic field inside a 200 turns solenoid of radius 10 cm is $2.9 \\times 10^{-4} ~\\mathrm{Tesla}$. If the solenoid carries a current of 0.29 A , then the length of the solenoid is _______ $\\pi \\mathrm{cm}$.",
+      "answer": "8",
+      "explanation": "<p>We know, magnetic field due to solenoid, $$B = {\\mu _0}nI$$</p>\n<p>where, I = current, $$n = {N \\over L}$$ = no. of turns per unit length</p>\n<p>$$ \\Rightarrow B = {{{\\mu _0}NI} \\over L}$$</p>\n<p>$$ \\Rightarrow L = {{{\\mu _0}NI} \\over B} = {{4\\pi  \\times {{10}^{ - 7}} \\times 200 \\times 0.29} \\over {2.9 \\times {{10}^{ - 4}}}}$$</p>\n<p>$$ \\Rightarrow L = 8\\pi  \\times {10^{ - 2}}\\,m$$</p>\n<p>$$ \\Rightarrow L = 8\\pi \\,cm$$</p>\n<p>Hence, answer = 8.</p>"
+    },
+    {
+      "_type": "numerical",
+      "body": "<p>A tightly wound long solenoid carries a current of 1.5 A . An electron is executing uniform circular motion inside the solenoid with a time period of 75 ns . The number of turns per metre in the solenoid is _________.</p>\n<p>[Take mass of electron $\\mathrm{m}_{\\mathrm{e}}=9 \\times 10^{-31} \\mathrm{~kg}$, charge of electron $\\left|\\mathrm{q}_{\\mathrm{e}}\\right|=1.6 \\times 10^{-19} \\mathrm{C}$,\n\n$$\n\\left.\\mu_0=4 \\pi \\times 10^{-7} \\frac{\\mathrm{~N}}{\\mathrm{~A}^2}, 1 \\mathrm{~ns}=10^{-9} \\mathrm{~s}\\right]\n$$\n</p>",
+      "answer": "250",
+      "explanation": "<p>The problem involves an electron executing uniform circular motion inside a solenoid. The objective is to find the number of turns per meter in the solenoid.</p>\n<p><strong>Given:</strong></p>\n\n<p><p>Current in the solenoid, $ I = 1.5 \\, \\text{A} $</p></p>\n<p><p>Time period of the electron's circular motion, $ T = 75 \\, \\text{ns} = 75 \\times 10^{-9} \\, \\text{s} $</p></p>\n<p><p>Mass of electron, $ m_e = 9 \\times 10^{-31} \\, \\text{kg} $</p></p>\n<p><p>Charge of electron, $ |q_e| = 1.6 \\times 10^{-19} \\, \\text{C} $</p></p>\n<p><p>Permeability of free space, $ \\mu_0 = 4\\pi \\times 10^{-7} \\, \\text{N/A}^2 $</p></p>\n\n<p><strong>Explanation:</strong></p>\n<p>The time period $ T $ for a revolving charge in a magnetic field is given by:</p>\n<p>$ T = \\frac{2\\pi m}{qB} $</p>\n<p>The magnetic field $ B $ inside a solenoid is:</p>\n<p>$ B = \\mu_0 n I $</p>\n<p>where $ n $ is the number of turns per meter. Thus, substituting $ B $ in the expression for $ T $, we get:</p>\n<p>$ T = \\frac{2\\pi m}{q(\\mu_0 n I)} $</p>\n<p>Plugging in the known values:</p>\n<p>$ 75 \\times 10^{-9} = \\frac{(2\\pi)(9 \\times 10^{-31})}{1.6 \\times 10^{-19} \\times 4\\pi \\times 10^{-7} \\times n \\times 1.5} $</p>\n<p>Solving for $ n $, we find:</p>\n<p>$ n = 250 $</p>\n<p>Thus, the number of turns per meter in the solenoid is 250.</p>"
+    },
+    {
+      "_type": "numerical",
+      "body": "<p>A current of 5 A exists in a square loop of side $\\frac{1}{\\sqrt{2}} \\mathrm{~m}$. Then the magnitude of the magnetic field $B$ at the centre of the square loop will be $p \\times 10^{-6} \\mathrm{~T}$. where, value of p is ________ $\\left[\\right.$ Take $\\mu_0=4 \\pi \\times 10^{-7} \\mathrm{~T} \\mathrm{~mA}^{-1}$ ].</p>",
+      "answer": "8",
+      "explanation": "<p>$$ B = \\frac{2 \\sqrt{2}\\,\\mu_0 I}{\\pi L} $$</p>\n<p>For a square loop of side length </p>\n<p>$$ L = \\frac{1}{\\sqrt{2}} \\text{ m}, $$ </p>\n<p>the perpendicular distance from the center to any side is </p>\n<p>$$ d = \\frac{L}{2} = \\frac{1}{2\\sqrt{2}} \\text{ m}. $$</p>\n<p>For a finite straight wire, the magnetic field at a point at distance $ d $ from the wire is given by the Biot–Savart expression</p>\n<p>$$ B_{\\text{side}} = \\frac{\\mu_0 I}{4\\pi d} \\left(\\sin\\theta_1 + \\sin\\theta_2\\right) $$</p>\n<p>where $ \\theta_1 $ and $ \\theta_2 $ are the angles between the extended wire and the line joining the ends of the wire with the observation point. For one side of the square, by symmetry, the midpoint of the side and the center of the square give</p>\n<p>$$ \\tan\\theta = \\frac{L/2}{L/2} = 1 \\quad\\Rightarrow\\quad \\theta = 45^\\circ. $$</p>\n<p>Thus,</p>\n<p>$$ \\sin\\theta_1 = \\sin\\theta_2 = \\sin 45^\\circ = \\frac{1}{\\sqrt{2}}. $$</p>\n<p>Then the field due to one side is</p>\n<p>$$ B_{\\text{side}} = \\frac{\\mu_0 I}{4\\pi \\left(\\frac{L}{2}\\right)} \\left(\\frac{1}{\\sqrt{2}} + \\frac{1}{\\sqrt{2}}\\right) = \\frac{\\mu_0 I}{4\\pi \\left(\\frac{L}{2}\\right)} \\left(\\frac{2}{\\sqrt{2}}\\right) = \\frac{\\mu_0 I \\sqrt{2}}{2\\pi L}. $$</p>\n<p>Since there are 4 sides with contributions that add vectorially in the same direction at the center, the total magnetic field is</p>\n<p>$$ B = 4 \\cdot B_{\\text{side}} = \\frac{4 \\mu_0 I \\sqrt{2}}{2\\pi L} = \\frac{2 \\sqrt{2}\\,\\mu_0 I}{\\pi L}. $$</p>\n<p>Substitute </p>\n<p>$$ L = \\frac{1}{\\sqrt{2}}, $$</p>\n<p>to obtain</p>\n<p>$$ B = \\frac{2 \\sqrt{2}\\,\\mu_0 I}{\\pi \\left(\\frac{1}{\\sqrt{2}}\\right)} = \\frac{2 \\sqrt{2}\\,\\mu_0 I \\sqrt{2}}{\\pi} = \\frac{4\\,\\mu_0 I}{\\pi}. $$</p>\n<p>Using the provided values </p>\n<p>$$ I = 5 \\text{ A} \\quad \\text{and} \\quad \\mu_0 = 4\\pi \\times 10^{-7} \\text{ T\\,m/A}, $$</p>\n<p>the magnetic field becomes</p>\n<p>$$ B = \\frac{4 \\times \\left(4\\pi \\times 10^{-7}\\right) \\times 5}{\\pi} = \\frac{80\\pi \\times 10^{-7}}{\\pi} = 80 \\times 10^{-7} \\text{ T} = 8 \\times 10^{-6} \\text{ T}. $$</p>\n<p>Thus, the value of $ p $ is</p>\n<p>$$ p = 8. $$</p>"
+    },
+    {
+      "_type": "numerical",
+      "body": "<p>A proton is moving undeflected in a region of crossed electric and magnetic fields at a constant speed of $2 \\times 10^5 \\mathrm{~ms}^{-1}$. When the electric field is switched off, the proton moves along a circular path of radius 2 cm . The magnitude of electric field is $x \\times 10^4 \\mathrm{~N} / \\mathrm{C}$. The value of $x$ is _________. Take the mass of the proton $=1.6 \\times 10^{-27} \\mathrm{~kg}$.</p>",
+      "answer": "2",
+      "explanation": "<p>Let's break down the problem step by step:</p>\n\n<p><p>When the proton moves undeflected in crossed electric and magnetic fields, the electric and magnetic forces balance each other. That is,</p>\n<p>$$qE = qvB,$$</p>\n<p>which simplifies to</p>\n<p>$$E = vB.$$</p></p>\n<p><p>After the electric field is switched off, the proton moves in a circular path under the action of the magnetic force. The magnetic force provides the required centripetal force:</p>\n<p>$$qvB = \\frac{mv^2}{r}.$$</p>\n<p>Solving for the magnetic field $$B$$, we get:</p>\n<p>$$B = \\frac{mv}{qr}.$$</p></p>\n<p><p>Now substitute this expression for $$B$$ back into the equilibrium condition:</p>\n<p>$$E = vB = v\\left(\\frac{mv}{qr}\\right) = \\frac{mv^2}{qr}.$$</p></p>\n<p><p>Plug in the given values:</p></p>\n\n\n<p><p>Proton mass, $$m = 1.6 \\times 10^{-27} \\, \\text{kg}$$</p></p>\n<p><p>Speed, $$v = 2 \\times 10^5 \\, \\text{m/s}$$</p></p>\n<p><p>Radius, $$r = 2 \\, \\text{cm} = 0.02 \\, \\text{m}$$</p></p>\n<p><p>Proton charge, $$q = 1.6 \\times 10^{-19} \\, \\text{C}$$</p>\n<p>Thus,</p>\n<p>$$E = \\frac{(1.6 \\times 10^{-27} \\, \\text{kg})(2 \\times 10^5 \\, \\text{m/s})^2}{(1.6 \\times 10^{-19} \\, \\text{C})(0.02 \\, \\text{m})}.$$</p></p>\n\n\n<p>Calculate the numerator:</p>\n\n\n<p><p>$$(2 \\times 10^5)^2 = 4 \\times 10^{10},$$</p></p>\n<p><p>So, $$(1.6 \\times 10^{-27}) \\times (4 \\times 10^{10}) = 6.4 \\times 10^{-17}.$$</p></p>\n\n\n<p><p>Calculate the denominator:</p>\n<p>$$(1.6 \\times 10^{-19}) \\times (0.02) = 3.2 \\times 10^{-21}.$$</p></p>\n<p><p>Now compute the electric field:</p>\n<p>$$E = \\frac{6.4 \\times 10^{-17}}{3.2 \\times 10^{-21}} = 2 \\times 10^4 \\, \\text{N/C}.$$</p></p>\n\n<p>The problem states that the magnitude of the electric field is $$x \\times 10^4 \\, \\text{N/C}.$$ Since we found</p>\n<p>$$E = 2 \\times 10^4 \\, \\text{N/C},$$</p>\n<p>it follows that</p>\n<p>$$x = 2.$$</p>"
+    },
+    {
+      "_type": "numerical",
+      "body": "<p>A straight magnetic strip has a magnetic moment of $$44 \\mathrm{~Am}^2$$. If the strip is bent in a semicircular shape, its magnetic moment will be ________  $$\\mathrm{Am}^2$$.</p>\n<p>(given $$\\pi=\\frac{22}{7}$$)</p>",
+      "answer": "28",
+      "explanation": "<p>Magnetic moment is defined as the product of the magnet's pole strength and the distance between the poles (also known as the magnetic length). When a magnetic strip is bent, its magnetic moment changes based on the new configuration.</p>\n\n<p>Consider a straight magnetic strip with a magnetic moment of $$44 \\, \\text{Am}^2$$. If this strip is bent into a semicircular shape, we need to find the new effective magnetic moment.</p>\n\n<p>The magnetic moment in a straight strip is given by:</p>\n\n<p>$$ M_{\\text{straight}} = m \\cdot l $$</p>\n\n<p>where:</p>\n\n<ul>\n\n<li>$$m$$ is the pole strength</li>\n\n<li>$$l$$ is the magnetic length</li>\n\n</ul>\n\n<p>Given $$M_{\\text{straight}} = 44 \\, \\text{Am}^2$$, let's now consider the strip bent into a semicircular shape.</p>\n\n<p>When the strip is bent into a semicircle, the effective distance between the magnetic poles is the diameter of the semicircle. Let's denote the original length of the strip as $$L$$. In a straight line, this length $$L$$ is also the magnetic length. When bent into a semicircle, the length of the arc of the semicircle is still $$L$$.</p>\n\n<p>The circumference of a full circle is given by:</p>\n\n<p>$$ C = 2\\pi R $$</p>\n\n<p>Therefore, the length of the arc of a semicircle is:</p>\n\n<p>$$ L = \\pi R $$</p>\n\n<p>Solving for $$R$$, we get:</p>\n\n<p>$$ R = \\frac{L}{\\pi} $$</p>\n\n<p>The diameter of the semicircle (which is the new effective magnetic length, $$l_{\\text{new}}$$) is twice the radius:</p>\n\n<p>$$ l_{\\text{new}} = 2R = 2 \\cdot \\frac{L}{\\pi} = \\frac{2L}{\\pi} $$</p>\n\n<p>Now, the new magnetic moment $$M_{\\text{new}}$$ is:</p>\n\n<p>$$ M_{\\text{new}} = m \\cdot l_{\\text{new}} = m \\cdot \\frac{2L}{\\pi} $$</p>\n\n<p>We know from the original magnetic strip:</p>\n\n<p>$$ M_{\\text{straight}} = m \\cdot L = 44 \\, \\text{Am}^2 $$</p>\n\n<p>Rewriting $$m$$ in terms of the known magnetic moment of the straight strip:</p>\n\n<p>$$ m = \\frac{44}{L} $$</p>\n\n<p>Substituting $$m$$ into the new magnetic moment equation:</p>\n\n<p>$$ M_{\\text{new}} = \\frac{44}{L} \\cdot \\frac{2L}{\\pi} $$</p>\n\n<p>Canceling out $$L$$ from the numerator and the denominator:</p>\n\n<p>$$ M_{\\text{new}} = \\frac{44 \\cdot 2}{\\pi} = \\frac{88}{\\pi} $$</p>\n\n<p>Given $$\\pi = \\frac{22}{7}$$, we substitute this value into the equation:</p>\n\n<p>$$ M_{\\text{new}} = \\frac{88 \\cdot 7}{22} = 28 \\, \\text{Am}^2 $$</p>\n\n<p>Therefore, the magnetic moment of the strip when bent into a semicircular shape is $$28 \\, \\text{Am}^2$$.</p>"
+    },
+    {
+      "_type": "numerical",
+      "body": "<p>An electron with kinetic energy $$5 \\mathrm{~eV}$$ enters a region of uniform magnetic field of 3 $$\\mu \\mathrm{T}$$ perpendicular to its direction. An electric field $$\\mathrm{E}$$ is applied perpendicular to the direction of velocity and magnetic field. The value of E, so that electron moves along the same path, is __________ $$\\mathrm{NC}^{-1}$$.</p>\n<p>(Given, mass of electron $$=9 \\times 10^{-31} \\mathrm{~kg}$$, electric charge $$=1.6 \\times 10^{-19} \\mathrm{C}$$)</p>",
+      "answer": "4",
+      "explanation": "<p>To solve this problem, we first need to understand that we want the electron to move along the same path in the presence of both electric and magnetic fields. This implies that the forces due to the electric field and magnetic field must balance each other.</p>\n\n<p>The force on an electron due to the electric field is given by:</p>\n\n<p>$$F_E = eE$$</p>\n\n<p>where $$e$$ is the charge of the electron and $$E$$ is the electric field.</p>\n\n<p>The force on an electron due to the magnetic field (Lorentz force) is given by:</p>\n\n<p>$$F_B = evB$$</p>\n\n<p>where $$v$$ is the velocity of the electron and $$B$$ is the magnetic field.</p>\n\n<p>For the electron to move in a straight path, the forces due to the electric field and magnetic field must be equal in magnitude:</p>\n\n<p>$$eE = evB$$</p>\n\n<p>From this, we can solve for the electric field $$E$$:</p>\n\n<p>$$E = vB$$</p>\n\n<p>Next, we need to find the velocity $$v$$ of the electron. The kinetic energy (KE) of the electron is related to its velocity by the equation:</p>\n\n<p>$$KE = \\frac{1}{2} mv^2$$</p>\n\n<p>Given the kinetic energy (KE) is $$5 \\, \\text{eV}$$, we first convert this energy into joules since the given constants are in SI units:</p>\n\n<p>$$5 \\, \\text{eV} = 5 \\times 1.6 \\times 10^{-19} \\, \\text{J} = 8 \\times 10^{-19} \\, \\text{J}$$</p>\n\n<p>Now, solving for $$v$$:</p>\n\n<p>$$8 \\times 10^{-19} = \\frac{1}{2} \\times 9 \\times 10^{-31} \\times v^2$$</p>\n\n<p>Rearrange to solve for $$v^2$$:</p>\n\n<p>$$v^2 = \\frac{2 \\times 8 \\times 10^{-19}}{9 \\times 10^{-31}}$$</p>\n\n<p>$$v^2 = \\frac{16 \\times 10^{-19}}{9 \\times 10^{-31}}$$</p>\n\n<p>$$v^2 = \\frac{16}{9} \\times 10^{12}$$</p>\n\n<p>$$v = \\sqrt{\\frac{16}{9} \\times 10^{12}}$$</p>\n\n<p>$$v = \\frac{4}{3} \\times 10^6 \\, \\text{m/s}$$</p>\n\n<p>Now we can find the electric field $$E$$. Using the value of the magnetic field $$B$$ given as $$3 \\, \\mu \\text{T} = 3 \\times 10^{-6} \\, \\text{T}$$:</p>\n\n<p>$$E = vB = \\left(\\frac{4}{3} \\times 10^6 \\, \\text{m/s}\\right) \\times \\left(3 \\times 10^{-6} \\, \\text{T}\\right)$$</p>\n\n<p>$$E = \\frac{4}{3} \\times 3 \\times 10^0 \\, \\text{N/C}$$</p>\n\n<p>$$E = 4 \\, \\text{N/C}$$</p>\n\n<p>Therefore, the value of the electric field $$E$$ required for the electron to move along the same path is:</p>\n\n<p>$$\\boxed{4 \\, \\text{N/C}}$$</p>"
+    },
+    {
+      "_type": "numerical",
+      "body": "<p>A coil having 100 turns, area of $$5 \\times 10^{-3} \\mathrm{~m}^2$$, carrying current of $$1 \\mathrm{~mA}$$ is placed in uniform magnetic field of $$0.20 \\mathrm{~T}$$ such a way that plane of coil is perpendicular to the magnetic field. The work done in turning the coil through $$90^{\\circ}$$ is _________ $$\\mu \\mathrm{J}$$.</p>",
+      "answer": "100",
+      "explanation": "<p>To find the work done in turning the coil through $$90^{\\circ}$$, we first need to understand the concept of torque on a current-carrying loop in a magnetic field and how work done relates to the change in potential energy of the system. The potential energy (U) of a magnetic dipole in a magnetic field is given by:</p>\n\n<p>$$U = - \\vec{M} \\cdot \\vec{B}$$</p>\n\n<p>where:</p>\n\n<ul>\n\n<li>$\\vec{M}$ is the magnetic moment of the coil, and</li>\n\n<li>$\\vec{B}$ is the magnetic field.</li>\n\n</ul>\n\n<p>For a coil with $N$ turns, carrying current $I$, and with an area $A$, the magnetic moment $\\vec{M}$ is defined as:</p>\n\n<p>$$M = NI \\cdot A$$</p>\n\n<p>Given that the coil has $$100$$ turns, carries a current of $$1 \\, \\mathrm{mA} = 1 \\times 10^{-3} \\, \\mathrm{A}$$, and the area of the coil is $$5 \\times 10^{-3} \\, \\mathrm{m}^2$$, we can calculate its magnetic moment as follows:</p>\n\n<p>$$M = 100 \\cdot 1 \\times 10^{-3} \\cdot 5 \\times 10^{-3} = 0.5 \\times 10^{-3} \\, \\mathrm{Am}^2$$</p>\n\n<p>Since the coil is initially placed such that its plane is perpendicular to the magnetic field (i.e., the angle $ \\theta = 0^{\\circ} $), and then it is turned through $90^{\\circ}$, the initial and final angles ($\\theta_i$ and $\\theta_f$) of the coil with respect to the magnetic field are $0^{\\circ}$ and $90^{\\circ}$ respectively. This means the initial potential energy ($U_i$) and final potential energy ($U_f$) of the system are:</p>\n\n<p>$$U_i = - M B \\cos(\\theta_i)$$</p>\n\n<p>$$U_f = - M B \\cos(\\theta_f)$$</p>\n\n<p>Given that $B = 0.20 \\, \\mathrm{T}$, $\\theta_i = 0^{\\circ} \\, (\\cos(0) = 1)$, and $\\theta_f = 90^{\\circ} \\, (\\cos(90^{\\circ}) = 0)$, the potential energies are:</p>\n\n<p>$$U_i = - 0.5 \\times 10^{-3} \\cdot 0.20 \\cdot 1 = - 1 \\times 10^{-4} \\, \\mathrm{J}$$</p>\n\n<p>$$U_f = - 0.5 \\times 10^{-3} \\cdot 0.20 \\cdot 0 = 0 \\, \\mathrm{J}$$</p>\n\n<p>The work done ($W$) is equal to the change in potential energy:</p>\n\n<p>$$W = U_f - U_i$$</p>\n\n<p>$$W = 0 - (- 1 \\times 10^{-4}) = 1 \\times 10^{-4} \\, \\mathrm{J}$$</p>\n\n<p>Therefore, the work done in turning the coil through $90^{\\circ}$ is $$100 \\mu \\mathrm{J}$$.</p>"
+    },
+    {
+      "_type": "numerical",
+      "body": "<p>A circular coil having 200 turns, $$2.5 \\times 10^{-4} \\mathrm{~m}^2$$ area and carrying $$100 \\mu \\mathrm{A}$$ current is placed in a uniform magnetic field of $$1 \\mathrm{~T}$$. Initially the magnetic dipole moment $$(\\vec{M})$$ was directed along $$\\vec{B}$$. Amount of work, required to rotate the coil through $$90^{\\circ}$$ from its initial orientation such that $$\\vec{M}$$ becomes perpendicular to $$\\vec{B}$$, is ________ $$\\mu$$J.</p>",
+      "answer": "5",
+      "explanation": "<p>$$\\begin{aligned}\n& W=U_f-U_i=(-M B \\cos 90)-(-M B \\cos 0) \\\\\n& \\Rightarrow W=M B=N i A B=5 \\mu \\mathrm{J}\n\\end{aligned}$$</p>"
+    },
+    {
+      "_type": "numerical",
+      "body": "<p>A solenoid of length $$0.5 \\mathrm{~m}$$ has a radius of $$1 \\mathrm{~cm}$$ and is made up of '$$\\mathrm{m}$$' number of turns. It carries a current of $$5 \\mathrm{~A}$$. If the magnitude of the magnetic field inside the solenoid is $$6.28 \\times 10^{-3} \\mathrm{~T}$$ then the value of $$\\mathrm{m}$$ is __________.</p>",
+      "answer": "500",
+      "explanation": "<p>The magnetic field inside a solenoid can be calculated using the formula:</p>\n\n<p>$$B = \\mu_0 n I$$</p>\n\n<p>where:</p>\n\n<ul>\n\n<li>$B$ is the magnetic field in teslas (T),</li>\n\n<li>$\\mu_0$ is the permeability of free space ($4\\pi \\times 10^{-7} \\mathrm{~Tm/A}$),</li>\n\n<li>$n$ is the number of turns per unit length of the solenoid (turns/m),</li>\n\n<li>$I$ is the current in amperes (A).</li>\n\n</ul>\n\n<p>Given:</p>\n\n<ul>\n\n<li>The magnetic field $B = 6.28 \\times 10^{-3} \\mathrm{~T}$,</li>\n\n<li>The current $I = 5 \\mathrm{~A}$,</li>\n\n<li>The length of the solenoid $L = 0.5 \\mathrm{~m}$,</li>\n\n</ul>\n\n<p>First, let's calculate the number of turns per unit length $n$, which is $n = \\frac{m}{L}$ where $m$ is the total number of turns and $L$ is the length of the solenoid.</p>\n\n<p>Rearrange the formula for $B$ to solve for $m$:</p>\n\n<p>$$B = \\mu_0 \\frac{m}{L} I$$</p>\n\n<p>Therefore,</p>\n\n<p>$$m = \\frac{B L}{\\mu_0 I}$$</p>\n\n<p>Substituting the values we have:</p>\n\n<p>$$m = \\frac{(6.28 \\times 10^{-3} \\mathrm{T}) (0.5 \\mathrm{m})}{(4\\pi \\times 10^{-7} \\mathrm{Tm/A}) (5 \\mathrm{A})}$$</p>\n\n<p>$$m = \\frac{6.28 \\times 10^{-3} \\times 0.5}{4\\pi \\times 10^{-7} \\times 5}$$</p>\n\n<p>$$m = \\frac{6.28 \\times 0.5 \\times 10^{-3}}{20\\pi \\times 10^{-7}}$$</p>\n\n<p>$$m = \\frac{3.14 \\times 10^{-3}}{20 \\pi \\times 10^{-7}}$$</p>\n\n<p>$$m = \\frac{3.14 \\times 10^{-3}}{20 \\times 3.14 \\times 10^{-7}}$$</p>\n\n<p>$$m = \\frac{1}{20 \\times 10^{-4}}$$</p>\n\n<p>$$m = \\frac{1 \\times 10^4}{20}$$</p>\n\n<p>$$m = 500$$</p>\n\n<p>Therefore, the value of $m$ is 500 turns.</p>"
+    },
+    {
+      "_type": "numerical",
+      "body": "<p>A 2A current carrying straight metal wire of resistance $$1 \\Omega$$, resistivity $$2 \\times 10^{-6} \\Omega \\mathrm{m}$$, area of cross-section $$10 \\mathrm{~mm}^2$$ and mass $$500 \\mathrm{~g}$$ is suspended horizontally in mid air by applying a uniform magnetic field $$\\vec{B}$$. The magnitude of B is ________ $$\\times 10^{-1} \\mathrm{~T}$$ (given, $$\\mathrm{g}=10 \\mathrm{~m} / \\mathrm{s}^2$$).</p>",
+      "answer": "5",
+      "explanation": "<p>$$\\begin{aligned}\n& i L B=m g \\text { and } L=\\frac{A R}{\\rho} \\\\\n& \\begin{aligned}\n\\therefore B & =\\frac{m g \\rho}{i A R} \\\\\n& =\\frac{0.5 \\times 10 \\times 2 \\times 10^{-6}}{2 \\times 10 \\times 10^{-6} \\times 1} \\\\\n& =0.5 \\mathrm{~T}\n\\end{aligned}\n\\end{aligned}$$</p>"
+    },
+    {
+      "_type": "numerical",
+      "body": "<p>A rod of length $$60 \\mathrm{~cm}$$ rotates with a uniform angular velocity $$20 \\mathrm{~rad} \\mathrm{s}^{-1}$$ about its perpendicular bisector, in a uniform magnetic filed $$0.5 T$$. The direction of magnetic field is parallel to the axis of rotation. The potential difference between the two ends of the rod is _________ V.</p>",
+      "answer": "0",
+      "explanation": "<p>Both end having same potential, so potential \ndifference between end will be zero.</p>"
+    },
+    {
+      "_type": "numerical",
+      "body": "A moving coil galvanometer has 100 turns and each turn has an area of $2.0 \\mathrm{~cm}^2$. The magnetic field produced by the magnet is $0.01 \\mathrm{~T}$ and the deflection in the coil is 0.05 radian when a current of $10 \\mathrm{~mA}$ is passed through it. The torsional constant of the suspension wire is $x \\times 10^{-5} \\mathrm{~N}-\\mathrm{m} / \\mathrm{rad}$. The value of $x$ is _______ .",
+      "answer": "4",
+      "explanation": "$\\begin{aligned} & \\tau=\\text { BINAsin } \\phi \\\\\\\\ & \\mathrm{C} \\theta=\\text { BINAsin } 90^{\\circ} \\\\\\\\ & \\mathrm{C}=\\frac{\\mathrm{BINA}}{\\theta}=\\frac{0.01 \\times 10 \\times 10^{-3} \\times 100 \\times 2 \\times 10^{-4}}{0.05} \\\\\\\\ & =4 \\times 10^{-5} \\mathrm{~N}-\\mathrm{m} / \\mathrm{rad} . \\\\\\\\ & \\mathrm{x}=4\\end{aligned}$"
+    },
+    {
+      "_type": "numerical",
+      "body": "<p>An electron moves through a uniform magnetic field $$\\vec{B}=B_0 \\hat{i}+2 B_0 \\hat{j} T$$. At a particular instant of time, the velocity of electron is $$\\vec{u}=3 \\hat{i}+5 \\hat{j} \\mathrm{~m} / \\mathrm{s}$$. If the magnetic force acting on electron is $$\\vec{F}=5 e \\hat{k} N$$, where $$e$$ is the charge of electron, then the value of $$B_0$$ is _________ $$T$$.</p>",
+      "answer": "5",
+      "explanation": "<p>$$\\begin{aligned}\n& \\overrightarrow{\\mathrm{F}}=\\mathrm{q}(\\overrightarrow{\\mathrm{v}} \\times \\overrightarrow{\\mathrm{B}}) \\\\\n& 5 \\mathrm{e} \\hat{\\mathrm{k}}=\\mathrm{e}(3 \\hat{\\mathrm{i}}+5 \\hat{\\mathrm{j}}) \\times\\left(\\mathrm{B}_0 \\hat{\\mathrm{i}}+2 \\mathrm{~B}_0 \\hat{\\mathrm{j}}\\right) \\\\\n& 5 \\mathrm{e} \\hat{\\mathrm{k}}=\\mathrm{e}\\left(6 \\mathrm{~B}_0 \\hat{\\mathrm{k}}-5 \\mathrm{~B}_0 \\hat{\\mathrm{k}}\\right) \\\\\n& \\Rightarrow \\mathrm{B}_0=5 \\mathrm{~T}\n\\end{aligned}$$</p>"
+    },
+    {
+      "_type": "numerical",
+      "body": "<p>The current of $$5 \\mathrm{~A}$$ flows in a square loop of sides $$1 \\mathrm{~m}$$ is placed in air. The magnetic field at the centre of the loop is $$X \\sqrt{2} \\times 10^{-7} T$$. The value of $$X$$ is _________.</p>",
+      "answer": "40",
+      "explanation": "<p>$$\\begin{aligned}\n& \\mathrm{B}=4 \\times \\frac{\\mu_0 \\mathrm{i}}{4 \\pi(1 / 2)}\\left(\\frac{1}{\\sqrt{2}}+\\frac{1}{\\sqrt{2}}\\right) \\\\\n& =4 \\times 10^{-7} \\times 5 \\times 2 \\times \\sqrt{2} \\\\\n& -40 \\sqrt{2} \\times 10^{-7} \\mathrm{~T}\n\\end{aligned}$$</p>"
+    },
+    {
+      "_type": "numerical",
+      "body": "<p>A charge of $$4.0 \\mu \\mathrm{C}$$ is moving with a velocity of $$4.0 \\times 10^6 \\mathrm{~ms}^{-1}$$ along the positive $$y$$ axis under a magnetic field $$\\vec{B}$$ of strength $$(2 \\hat{k}) \\mathrm{T}$$. The force acting on the charge is $$x \\hat{i} N$$. The value of $$x$$ is __________.</p>",
+      "answer": "32",
+      "explanation": "<p>$$\\begin{aligned}\n\\mathrm{q} & =4 \\mu \\mathrm{C}, \\overrightarrow{\\mathrm{v}}=4 \\times 10^6 \\hat{\\mathrm{j}} \\mathrm{m} / \\mathrm{s} \\\\\n\\overrightarrow{\\mathrm{B}} & =2 \\hat{\\mathrm{k} T} \\\\\n\\overrightarrow{\\mathrm{F}} & =\\mathrm{q}(\\overrightarrow{\\mathrm{v}} \\times \\overrightarrow{\\mathrm{B}}) \\\\\n& =4 \\times 10^{-6}\\left(4 \\times 10^6 \\hat{\\mathrm{j}} \\times 2 \\hat{\\mathrm{k}}\\right) \\\\\n& =4 \\times 10^{-6} \\times 8 \\times 10^6 \\hat{\\mathrm{i}} \\\\\n\\overrightarrow{\\mathrm{F}} & =32 \\hat{\\mathrm{i}} \\mathrm{N} \\\\\n\\mathrm{x} & =32\n\\end{aligned}$$</p>"
+    },
+    {
+      "_type": "numerical",
+      "body": "An electron in a hydrogen atom revolves around its nucleus with a speed of $6.76 \\times 10^6 \\mathrm{~ms}^{-1}$ in an orbit of radius $0.52 \\mathrm{~A}^{\\circ}$. The magnetic field produced at the nucleus of the hydrogen atom is _________ T.",
+      "answer": "40",
+      "explanation": "The formula for the magnetic field due to a moving charge is given by:\n<br/><br/>\n$\\mathbf{B}=\\frac{\\mu_0}{4 \\pi} \\frac{q v \\sin \\theta}{r^2}$\n<br/><br/>\nwhere $\\mu_0$ is the permeability of free space, $q$ is the charge of the moving particle, $v$ is the speed of the particle, $\\theta$ is the angle between the velocity vector and the position vector from the particle to the point where we want to calculate the magnetic field, and $r$ is the distance between the particle and the point where we want to calculate the magnetic field.\n<br/><br/>\nIn this case, we're interested in the magnetic field produced by the electron moving in a circular orbit around the nucleus of a hydrogen atom. Since the orbit is circular, the angle between the velocity vector and the position vector is 90 degrees, so $\\sin \\theta = 1$. We can substitute the known values into the formula to find the magnetic field:\n<br/><br/>\n$\\mathbf{B}=\\frac{\\mu_0}{4 \\pi} \\frac{q v \\sin \\theta}{r^2} = \\frac{\\mu_0}{4 \\pi} \\frac{e v}{r^2}$\n<br/><br/>\nwhere $e$ is the charge of an electron. We know that the radius of the orbit is $0.52 \\mathrm{~A}^{\\circ}$, which is equivalent to $0.52 \\times 10^{-10} \\mathrm{m}$.\n<br/><br/>\nSubstituting the values, we get:\n<br/><br/>\n$\\mathbf{B}=\\frac{\\mu_0}{4 \\pi} \\frac{e v}{r^2} =\\frac{10^{-7} \\times 1.6 \\times 10^{-19} \\times 6.76 \\times 10^6}{0.52 \\times 0.52 \\times 10^{-20}} =  40 ~\\mathrm{T}$\n<br/><br/>\nThis means that the magnetic field produced by the electron moving in a circular orbit around the nucleus of a hydrogen atom is 40 tesla, which is an incredibly strong magnetic field."
+    },
+    {
+      "_type": "numerical",
+      "body": "<p>The ratio of magnetic field at the centre of a current carrying coil of radius $$r$$ to the magnetic field at distance $$r$$ from the centre of coil on its axis is $$\\sqrt{x}: 1$$. The value of $$x$$ is __________</p>",
+      "answer": "8",
+      "explanation": "<p>The magnetic field at the center of a loop (B<sub>1</sub>) is given by</p>\n<p>$ B_1 = \\frac{\\mu_0 I}{2r} $</p>\n<p>The magnetic field on the axis of the loop at a distance ( r ) from the center (B<sub>2</sub>) is given by</p>\n<p>$ B_2 = \\frac{\\mu_0 Ir^2}{2(r^2 + d^2)^{3/2}} $</p>\n<p>where ( d ) is the distance from the center of the coil along the axis. Since ( d = r ), we get</p>\n<p>$ B_2 = \\frac{\\mu_0 I}{4\\sqrt{2}r} $</p>\n<p>The ratio of $ B_1 $ to $ B_2 $ is</p>\n<p>$ \\frac{B_1}{B_2} = \\frac{\\mu_0 I}{2r} \\times \\frac{4\\sqrt{2}r}{\\mu_0 I} = \\sqrt{8} : 1 $</p>\n<p>So, the value of ( x ) is 8.</p>\n"
+    },
+    {
+      "_type": "numerical",
+      "body": "<p>A proton with a kinetic energy of $$2.0 ~\\mathrm{eV}$$ moves into a region of uniform magnetic field of magnitude $$\\frac{\\pi}{2} \\times 10^{-3} \\mathrm{~T}$$. The angle between the direction of magnetic field and velocity of proton is $$60^{\\circ}$$. The pitch of the helical path taken by the proton is __________ $$\\mathrm{cm}$$. (Take, mass of proton $$=1.6 \\times 10^{-27} \\mathrm{~kg}$$ and Charge on proton $$=1.6 \\times 10^{-19} \\mathrm{C}$$ ).</p>",
+      "answer": "40",
+      "explanation": "<p>Given a proton with a kinetic energy of 2 eV, moving into a region of uniform magnetic field of magnitude $$\\frac{\\pi}{2} \\times 10^{-3} T$$, and with an angle of $$60^{\\circ}$$ between the direction of the magnetic field and the velocity of the proton, we want to determine the pitch of the helical path taken by the proton.</p>\n<ol>\n<li>First, calculate the proton&#39;s speed (v) using the kinetic energy (K.E) formula:</li>\n</ol>\n<p>$$v = \\sqrt{\\frac{2 \\times KE}{m}}$$</p>\n<ol>\n<li>Next, find the component of the velocity in the direction of the magnetic field (parallel component):</li>\n</ol>\n<p>$$v_{\\parallel} = v \\cos \\theta$$</p>\n<p>In this case, θ is given as $$60^{\\circ}$$, so $$\\cos \\theta = \\frac{1}{2}$$.</p>\n<ol>\n<li>The pitch of a charged particle moving in a magnetic field with an angle θ to the direction of the magnetic field is given by the formula:</li>\n</ol>\n<p>$$p = \\frac{2 \\pi m v_{\\parallel}}{qB}$$</p>\n<ol>\n<li>Substitute the values for the mass of the proton (m), the kinetic energy (KE), the charge of the proton (q), and the magnetic field (B) into the formula:</li>\n</ol>\n<p>$$p = \\frac{2 \\pi \\times \\sqrt{2mKE} \\times \\frac{1}{2} \\times 2}{qB}$$</p>\n<ol>\n<li>After substituting the given values, the pitch of the helical path is found to be:</li>\n</ol>\n<p>$$p = 0.4 \\, m = 40 \\, cm$$</p>\n<p>In conclusion, the pitch of the helical path taken by the proton in the magnetic field is 40 cm.</p>\n"
+    },
+    {
+      "_type": "numerical",
+      "body": "<p>A closely wounded circular coil of radius 5 cm produces a magnetic field of $$37.68 \\times 10^{-4} \\mathrm{~T}$$ at its center. The current through the coil is _________A.</p>\n<p>[Given, number of turns in the coil is 100 and $$\\pi=3.14$$]</p>",
+      "answer": "3",
+      "explanation": "<p>$$B = {{{\\mu _0}nI} \\over {2R}}$$</p>\n<p>$$37.68 \\times {10^{ - 4}} = {{4\\pi  \\times {{10}^{ - 7}}100\\,I} \\over {2 \\times 5 \\times {{10}^{ - 2}}}}$$</p>\n<p>$$I = {{300\\,A} \\over {100}}$$</p>\n<p>$$ = 3\\,A$$</p>"
+    },
+    {
+      "_type": "numerical",
+      "body": "<p>A wire of length $$314 \\mathrm{~cm}$$ carrying current of $$14 \\mathrm{~A}$$ is bent to form a circle. The magnetic moment of the coil is ________ A $$-\\mathrm{m}^{2}$$. [Given $$\\pi=3.14$$]</p>",
+      "answer": "11",
+      "explanation": "<p>$$R = {l \\over {2\\pi }} = {{314} \\over {2 \\times 3.14}} = 50$$ cm</p>\n<p>$$\\mu  = \\pi {R^2}i$$</p>\n<p>$$ = 14 \\times 3.14 \\times {(0.5)^2}$$</p>\n<p>$$ = 11$$ A-m<sup>2</sup></p>"
+    },
+    {
+      "_type": "numerical",
+      "body": "<p>A singly ionized magnesium atom (A = 24) ion is accelerated to kinetic energy 5 keV, and is projected perpendicularly into a magnetic field B of the magnitude 0.5 T. The radius of path formed will be _____________ cm.</p>",
+      "answer": "10",
+      "explanation": "<p>To calculate the radius of the path formed by a singly ionized magnesium atom in a magnetic field, the following formula is used:</p>\n<p>$ R = \\frac{mv}{qB} $</p>\n<p>This can be rewritten using kinetic energy (KE):</p>\n<p>$ R = \\frac{\\sqrt{2m \\cdot KE}}{qB} $</p>\n<p>Here's how we calculate it for a magnesium ion:</p>\n\n<p><p><strong>Atomic Mass (A)</strong>: 24</p></p>\n<p><p><strong>Mass of a Nucleon</strong>: $1.67 \\times 10^{-27} $ kg (approximate mass of a proton or neutron)</p></p>\n<p><p><strong>Charge (q)</strong>: $1.6 \\times 10^{-19} $ C (since the magnesium ion is singly ionized)</p></p>\n<p><p><strong>Magnetic Field (B)</strong>: 0.5 T</p></p>\n<p><p><strong>Kinetic Energy (KE)</strong>: 5 keV = $5 \\times 1.6 \\times 10^{-16} $ J</p></p>\n\n<p>Plug in these values to find the radius:</p>\n<p>$ R = \\frac{\\sqrt{2 \\times 24 \\times 1.67 \\times 10^{-27} \\times 5 \\times 1.6 \\times 10^{-16}}}{1.6 \\times 10^{-19} \\times 0.5} $</p>\n<p>This simplifies to:</p>\n<p>$ R = 10.009 \\, \\text{cm} \\approx 10 \\, \\text{cm} $</p>\n<p>Thus, the radius of the path is approximately 10 cm.</p>"
+    },
+    {
+      "_type": "numerical",
+      "body": "<p>A deuteron and a proton moving with equal kinetic energy enter into a uniform magnetic field at right angle to the field. If r<sub>d</sub> and r<sub>p</sub> are the radii of their circular paths respectively, then the ratio $${{{r_d}} \\over {{r_p}}}$$ will be $$\\sqrt{x}$$ : 1 where x is __________.</p>",
+      "answer": "2",
+      "explanation": "<p>$$R = {{\\sqrt {2mK} } \\over {qB}}$$</p>\n<p>So, $${{{r_d}} \\over {{r_p}}} = {{\\sqrt {{m_d}} /{q_d}} \\over {\\sqrt {{m_p}} /{q_p}}}$$</p>\n<p>$$ = \\sqrt 2 $$</p>\n<p>So $$x = 2$$</p>"
+    },
+    {
+      "_type": "numerical",
+      "body": "<p>Two 10 cm long, straight wires, each carrying a current of 5A are kept parallel to each other. If each wire experienced a force of 10<sup>$$-$$5</sup> N, then separation between the wires is ____________ cm.</p>",
+      "answer": "5",
+      "explanation": "<p>$${{dF} \\over {dl}} = {{{\\mu _0}{i_1}{i_2}} \\over {2\\pi d}}$$</p>\n<p>So $${{2 \\times {{10}^{ - 7}} \\times 5 \\times 5} \\over d} = {{{{10}^{ - 5}}} \\over {10 \\times {{10}^{ - 2}}}}$$</p>\n<p>$$d = {{2 \\times {{10}^{ - 7}} \\times 5 \\times 5} \\over {{{10}^{ - 4}}}}$$</p>\n<p>= 50 mm</p>\n<p>= 5 cm</p>"
+    },
+    {
+      "_type": "numerical",
+      "body": "A long solenoid with 1000 turns/m has a core material with relative permeability 500 and volume 10<sup>3</sup> cm<sup>3</sup>. If the core material is replaced by another material having relative permeability of 750 with same volume maintaining same current of 0.75 A in the solenoid, the fractional change in the magnetic moment of the core would be approximately $$\\left( {{x \\over {499}}} \\right)$$. Find the value of x.",
+      "answer": "250",
+      "explanation": "$${{\\Delta M} \\over M} = {{\\Delta \\mu } \\over \\mu } = {{250} \\over {500}} = {1 \\over 2}$$<br><br>$$ \\Rightarrow $$ $${1 \\over 2} = {x \\over {499}} \\Rightarrow x \\simeq 250$$"
+    },
+    {
+      "_type": "numerical",
+      "body": "A uniform conducting wire of length is 24a, and resistance R is wound up as a current carrying coil in the shape of an equilateral triangle of side 'a' and then in the form of a square of side 'a'. The coil is connected to a voltage source V<sub>0</sub>. The ratio of magnetic moment of the coils in case of equilateral triangle to that for square is 1 : $$\\sqrt y $$ where y is ................. .",
+      "answer": "3",
+      "explanation": "In triangle shape $${N_t} = {{24a} \\over {3a}} = 8$$<br><br>In square $${N_s} = {{24a} \\over {4a}} = 6$$<br><br>$${{{M_t}} \\over {{M_3}}} = {{{N_t}I{A_t}} \\over {{N_s}I{A_s}}}$$ [I will be same in both]<br><br>$$ = {{8 \\times {{\\sqrt 3 } \\over 4} \\times {a^2}} \\over {6 \\times {a^2}}}$$<br><br>$${{{M_t}} \\over {{M_s}}} = {1 \\over {\\sqrt 3 }}$$<br><br>y = 3"
+    },
+    {
+      "_type": "numerical",
+      "body": "A galvanometer coil has 500 turns and each turn has an average area of 3 $$ \\times $$ 10<sup>–4</sup> m<sup>2</sup>\n. If a torque of\n1.5 Nm is required to keep this coil parallel to a magnetic field when a current of 0.5 A is flowing\nthrough it, the strength of the field (in T) is ______.",
+      "answer": "20",
+      "explanation": "Given N = 500\n<br><br>A = 3 $$ \\times $$ 10<sup>–4</sup> m<sup>2</sup>\n<br><br>$$\\tau $$ = 1.5 Nm\n<br><br>i = 0.5 A\n<br><br>We know, $$\\tau  = BINA\\,sin\\theta $$<br><br>$$1.5 = B \\times 0.5 \\times 500 \\times 3 \\times {10^{ - 4}}$$<br><br>$$B = {{10000} \\over {500}} = 20$$ Tesla"
+    }
+  ]
+}

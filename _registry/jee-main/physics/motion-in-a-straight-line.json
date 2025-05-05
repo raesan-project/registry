@@ -1,0 +1,1363 @@
+{
+  "_index": {
+    "name": "Motion in a Straight Line"
+  },
+  "_children": [
+    {
+      "_type": "single_mcq",
+      "body": "<p>A particle moves along the $x$-axis and has its displacement $x$ varying with time t according to the equation:</p>\n<p>$$ x=\\mathrm{c}_0\\left(\\mathrm{t}^2-2\\right)+\\mathrm{c}(\\mathrm{t}-2)^2 $$</p>\n<p>where $\\mathrm{c}_0$ and c are constants of appropriate dimensions.</p>\n<p>Then, which of the following statements is correct?</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "the acceleration of the particle is $2\\left(c+c_0\\right)$\n"
+        },
+        {
+          "key": "B",
+          "value": "the acceleration of the particle is $2 c_0$\n"
+        },
+        {
+          "key": "C",
+          "value": "the acceleration of the particle is 2 c\n"
+        },
+        {
+          "key": "D",
+          "value": "the initial velocity of the particle is $4 c$"
+        }
+      ],
+      "answer": "A",
+      "explanation": "<p>$$\\begin{aligned}\n& \\mathrm{v}=\\frac{\\mathrm{dx}}{\\mathrm{dt}}=2 \\mathrm{tC}_0+2 \\mathrm{C}(\\mathrm{t}-2) \\\\\n& \\mathrm{a}=\\frac{\\mathrm{dv}}{\\mathrm{dt}}=2 \\mathrm{C}_0+2 \\mathrm{C}\n\\end{aligned}$$</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Two cars are travelling towards each other at speed of $$20 \\mathrm{~m} \\mathrm{~s}^{-1}$$ each. When the cars are $$300 \\mathrm{~m}$$ apart, both the drivers apply brakes and the cars retard at the rate of $$2 \\mathrm{~m} \\mathrm{~s}^{-2}$$. The distance between them when they come to rest is :</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "25 m"
+        },
+        {
+          "key": "B",
+          "value": "100 m"
+        },
+        {
+          "key": "C",
+          "value": "50 m"
+        },
+        {
+          "key": "D",
+          "value": "200 m"
+        }
+      ],
+      "answer": "B",
+      "explanation": "<p>Let's analyze the given information before determining the distance between the two cars when they come to rest. Each car is traveling towards the other at a speed of $$20 \\, \\text{m s}^{-1}$$ and they both start braking when they are $$300 \\, \\text{m}$$ apart. The deceleration (negative acceleration) of each car is given as $$2 \\, \\text{m s}^{-2}.$$</p>\n\n<p>To find the distance each car travels before coming to rest, we can use the kinematic equation that relates initial velocity ($$v_i$$), final velocity ($$v_f$$), acceleration ($$a$$), and distance ($$d$$), which is:</p>\n\n<p>$$v_f^2 = v_i^2 + 2ad$$</p>\n\n<p>Since the final velocity $$v_f = 0$$ (they come to rest), we can rearrange the equation to solve for $$d$$ (the distance each car travels before stopping):</p>\n\n<p>$$0 = v_i^2 + 2ad \\Rightarrow d = -\\frac{v_i^2}{2a}$$</p>\n\n<p>Plugging in the values for each car (noting that acceleration $$a$$ is negative because it is deceleration, so $$a = -2 \\, \\text{m s}^{-2}$$):</p>\n\n<p>$$d = -\\frac{(20)^2}{2(-2)} = -\\frac{400}{-4} = 100 \\, \\text{m}$$</p>\n\n<p>Each car travels $$100 \\, \\text{m}$$ before coming to rest. Since they both start $$300 \\, \\text{m}$$ apart and each travels $$100 \\, \\text{m}$$ towards the other, the total distance covered by both cars before stopping is $$2 \\times 100 \\, \\text{m} = 200 \\, \\text{m}$$.</p>\n\n<p>To find the distance between them when they come to rest, we subtract the total distance covered by both cars from the original distance between them:</p>\n\n<p>$$300 \\, \\text{m} - 200 \\, \\text{m} = 100 \\, \\text{m}$$</p>\n\n<p>So, the distance between the cars when they come to rest is $$100 \\, \\text{m}$$. Therefore, the correct option is:</p>\n\n<p>Option B\n100 m</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>A particle moving in a straight line covers half the distance with speed $$6 \\mathrm{~m} / \\mathrm{s}$$. The other half is covered in two equal time intervals with speeds $$9 \\mathrm{~m} / \\mathrm{s}$$ and $$15 \\mathrm{~m} / \\mathrm{s}$$ respectively. The average speed of the particle during the motion is :</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "9.2 m/s"
+        },
+        {
+          "key": "B",
+          "value": "8.8 m/s"
+        },
+        {
+          "key": "C",
+          "value": "10 m/s"
+        },
+        {
+          "key": "D",
+          "value": "8 m/s"
+        }
+      ],
+      "answer": "D",
+      "explanation": "<p>Let's denote the total distance covered by the particle as $$2d$$, where $$d$$ is the distance for each half. To calculate the average speed, we need to find the total distance traveled and divide it by the total time taken.</p>\n\n<p>For the first half of the journey, the particle covers the distance $$d$$ at a speed of $$6 \\, \\text{m/s}$$. The time taken for this part of the journey can be calculated using the formula $$\\text{time} = \\frac{\\text{distance}}{\\text{speed}}$$. So,</p>\n\n$$\n\\text{time}_1 = \\frac{d}{6}\n$$\n\n<p>For the second half of the journey, the distance $$d$$ is further divided into two parts, each covered in equal time intervals. Given the speeds are $$9 \\, \\text{m/s}$$ and $$15 \\, \\text{m/s}$$ respectively, let's call the equal time intervals $$t$$. The distances covered in these intervals can be found by $$\\text{distance} = \\text{speed} \\times \\text{time}$$.</p>\n\n<p>For the part covered at $$9 \\, \\text{m/s}$$:</p>\n\n$$\nd_1 = 9t\n$$\n\n<p>For the part covered at $$15 \\, \\text{m/s}$$:</p>\n\n$$\nd_2 = 15t\n$$\n\n<p>Since these two parts together make up the second half of the journey,</p>\n\n$$\nd_1 + d_2 = d\n$$\n<br/><br/>$$\n9t + 15t = d\n$$\n\n<p>This gives us $$24t = d$$, and from this, we can find $$t = \\frac{d}{24}$$.</p>\n\n<p>The total time for the second half of the journey is the sum of the times for the two parts, which are equal ($$t$$ each), so the total time for the second half is $$2t$$. Since $$t = \\frac{d}{24}$$,</p>\n\n$$\n\\text{time}_2 = 2 \\times \\frac{d}{24} = \\frac{d}{12}\n$$\n\n<p>The total time taken for the entire journey is the sum of the times for the first and second halves:</p>\n\n$$\n\\text{total time} = \\text{time}_1 + \\text{time}_2 = \\frac{d}{6} + \\frac{d}{12}\n$$\n<br/><br/>$$\n\\text{total time} = \\frac{2d}{12} + \\frac{d}{12} = \\frac{3d}{12} = \\frac{d}{4}\n$$\n\n<p>The total distance is $$2d$$, and the total time is $$\\frac{d}{4}$$. Therefore, the average speed is calculated as:</p>\n\n$$\n\\text{average speed} = \\frac{\\text{total distance}}{\\text{total time}} = \\frac{2d}{\\frac{d}{4}} = \\frac{2d}{1} \\times \\frac{4}{d} = 8 \\, \\text{m/s}\n$$\n\n<p>Thus, the correct answer is <strong>Option D: 8 m/s</strong>.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>A body projected vertically upwards with a certain speed from the top of a tower reaches the ground in $$t_1$$. If it is projected vertically downwards from the same point with the same speed, it reaches the ground in $$t_2$$. Time required to reach the ground, if it is dropped from the top of the tower, is :</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$\\sqrt{\\mathrm{t}_1+\\mathrm{t}_2}$$\n"
+        },
+        {
+          "key": "B",
+          "value": "$$\\sqrt{\\mathrm{t}_1 \\mathrm{t}_2}$$\n"
+        },
+        {
+          "key": "C",
+          "value": "$$\\sqrt{\\frac{\\mathrm{t}_1}{\\mathrm{t}_2}}$$\n"
+        },
+        {
+          "key": "D",
+          "value": "$$\\sqrt{\\mathrm{t}_1-\\mathrm{t}_2}$$"
+        }
+      ],
+      "answer": "B",
+      "explanation": "<p>To solve this problem, we'll use the equations of motion under constant acceleration due to gravity. Let's define:</p>\n\n<p><p>$ h $: Height of the tower</p></p>\n<p><p>$ u $: Initial speed of projection (same magnitude in both cases)</p></p>\n<p><p>$ g $: Acceleration due to gravity (positive downward)</p></p>\n<p><p>$ t_1 $: Time taken to reach the ground when projected upwards</p></p>\n<p><p>$ t_2 $: Time taken to reach the ground when projected downwards</p></p>\n<p><p>$ t $: Time taken to reach the ground when simply dropped</p></p>\n\n<p><strong>Case 1: Projectile Thrown Upwards</strong></p>\n<p>When the body is projected upwards from the top of the tower, its initial velocity is $ -u $ (since upward direction is negative), and it reaches the ground in time $ t_1 $. The equation of motion is:</p>\n<p>$ h = -u t_1 + \\frac{1}{2} g t_1^2 $</p>\n<p><strong>Case 2: Projectile Thrown Downwards</strong></p>\n<p>When the body is projected downwards from the top of the tower, its initial velocity is $ u $, and it reaches the ground in time $ t_2 $. The equation is:</p>\n<p>$ h = u t_2 + \\frac{1}{2} g t_2^2 $</p>\n<p><strong>Case 3: Body Dropped</strong></p>\n<p>When the body is simply dropped, its initial velocity is $ 0 $, and it reaches the ground in time $ t $:</p>\n<p>$ h = \\frac{1}{2} g t^2 $</p>\n<p><strong>Step 1: Equate the Heights</strong></p>\n<p>From cases 1 and 2, equate the expressions for $ h $:</p>\n<p>$ -u t_1 + \\frac{1}{2} g t_1^2 = u t_2 + \\frac{1}{2} g t_2^2 $</p>\n<p><strong>Step 2: Solve for $ u $</strong></p>\n<p>Simplify the equation:</p>\n<p>$ -u t_1 - u t_2 = \\frac{1}{2} g t_2^2 - \\frac{1}{2} g t_1^2 $</p>\n<p>$ -u (t_1 + t_2) = \\frac{1}{2} g (t_2^2 - t_1^2) $</p>\n<p>$ -u (t_1 + t_2) = \\frac{1}{2} g (t_2 - t_1)(t_2 + t_1) $</p>\n<p>Divide both sides by $ t_1 + t_2 $:</p>\n<p>$ -u = \\frac{1}{2} g (t_2 - t_1) $</p>\n<p>$ u = \\frac{1}{2} g (t_1 - t_2) $</p>\n<p><strong>Step 3: Express $ h $ in Terms of $ t_1 $ and $ t_2 $</strong></p>\n<p>Substitute $ u $ back into one of the equations for $ h $:</p>\n<p>$ h = -\\left( \\frac{1}{2} g (t_1 - t_2) \\right) t_1 + \\frac{1}{2} g t_1^2 $</p>\n<p>Simplify:</p>\n<p>$ h = \\frac{1}{2} g t_1 t_2 $</p>\n<p><strong>Step 4: Equate the Height for the Dropped Case</strong></p>\n<p>From the dropped case:</p>\n<p>$ h = \\frac{1}{2} g t^2 $</p>\n<p>Set the two expressions for $ h $ equal to each other:</p>\n<p>$ \\frac{1}{2} g t^2 = \\frac{1}{2} g t_1 t_2 $</p>\n<p>$ t^2 = t_1 t_2 $</p>\n<p><strong>Step 5: Solve for $ t $</strong></p>\n<p>$ t = \\sqrt{t_1 t_2} $</p>\n<p><strong>Conclusion:</strong></p>\n<p>The time required for the body to reach the ground when dropped is the geometric mean of $ t_1 $ and $ t_2 $:</p>\n<p><strong>Answer:</strong> Option B</p>\n<p>$ t = \\sqrt{t_1 \\, t_2} $</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>A train starting from rest first accelerates uniformly up to a speed of $$80 \\mathrm{~km} / \\mathrm{h}$$ for time $$t$$, then it moves with a constant speed for time $$3 t$$. The average speed of the train for this duration of journey will be (in $$\\mathrm{km} / \\mathrm{h}$$) :</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "70"
+        },
+        {
+          "key": "B",
+          "value": "40"
+        },
+        {
+          "key": "C",
+          "value": "30"
+        },
+        {
+          "key": "D",
+          "value": "80"
+        }
+      ],
+      "answer": "A",
+      "explanation": "<p>To find the average speed of the train for the duration of the journey, we need to know the total distance covered by the train and the total time taken.</p>\n\n<p>The train accelerates uniformly to a speed of $$80 \\, \\mathrm{km/h}$$ over time $$t$$, and then moves at this constant speed for $$3t$$. The average speed can be calculated using the formula:</p>\n\n<p>$$\\text{Average speed} = \\frac{\\text{Total distance travelled}}{\\text{Total time taken}}$$</p>\n\n<p><strong>Step 1: Calculate the distance covered during acceleration</strong></p>\n\n<p>The distance covered while the train is accelerating can be found using the formula for the distance travelled under uniform acceleration:</p>\n\n<p>$$d_1 = \\frac{1}{2} at^2$$</p>\n\n<p>Where:</p>\n\n<ul>\n\n<li>$d_1$ is the distance covered during acceleration.</li>\n\n<li>$a$ is the acceleration (we don't have a direct value for this, but we can work with the given information).</li>\n\n<li>$t$ is the time.</li>\n\n</ul>\n\n<p>However, to proceed with the calculation without the acceleration ($a$), we recognize that the formula directly correlates to distance but requires knowledge of acceleration. Instead, let's think in terms of the final speed and time, given that the train reaches $$80 \\, \\mathrm{km/h}$$ (or $$\\frac{80}{3.6} = 22.22 \\, \\mathrm{m/s}$$) in time $$t$$.</p>\n\n<p><strong>Using the relationship between velocity, time, and distance,</strong> since the acceleration is uniform, we can use:</p>\n\n<p>$$d_1 = v \\times t_1 - \\frac{1}{2} a t^2$$</p>\n\n<p>Given that the initial speed $u = 0$ and final speed $v = 80 \\, \\mathrm{km/h}$, converting the speed to meters per second (since our time is likely in seconds) gives us $22.22 \\, \\mathrm{m/s}$. But without directly calculating acceleration, we simplify using average speed for the acceleration phase because it starts from rest and reaches $v$.</p>\n\n<p>The average speed during acceleration, \\(v_{avg} = \\frac{u + v}{2} = \\frac{0 + 80}{2} = 40 \\, \\mathrm{km/h}$$.</p>\n\n<p></p>\n\n<p>Thus, the distance $d_1 = v_{avg} \\times t = 40 \\, \\mathrm{km/h} \\times t$.</p>\n\n<p><strong>Step 2: Calculate the distance covered at constant speed</strong></p>\n\n<p>The distance covered at a constant speed is easier to calculate:</p>\n\n<p>$$d_2 = v \\times t_2 = 80 \\, \\mathrm{km/h} \\times 3t$$</p>\n\n<p><strong>Step 3: Calculate the total distance and the total time</strong></p>\n\n<p>The total distance ($D$) covered is the sum of $d_1$ and $d_2$:</p>\n\n<p>$$D = d_1 + d_2 = 40t + 240t = 280t \\, \\mathrm{km}$$</p>\n\n<p>The total time ($T$) taken is $t + 3t = 4t$.</p>\n\n<p><strong>Step 4: Calculate the average speed</strong></p>\n\n<p>Substitute the values of $D$ and $T$ in the formula of average speed:</p>\n\n<p>$$\\text{Average speed} = \\frac{280t}{4t}$$</p>\n\n<p>This simplifies to $70 \\, \\mathrm{km/h}$.</p>\n\n<p><strong>So, the average speed of the train for this duration of the journey is $70 \\, \\mathrm{km/h}$, which matches with Option A.</strong></p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>A body travels $$102.5 \\mathrm{~m}$$ in $$\\mathrm{n}^{\\text {th }}$$ second and $$115.0 \\mathrm{~m}$$ in $$(\\mathrm{n}+2)^{\\text {th }}$$ second. The acceleration is :</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$6.25 \\mathrm{~m} / \\mathrm{s}^2$$\n"
+        },
+        {
+          "key": "B",
+          "value": "$$5 \\mathrm{~m} / \\mathrm{s}^2$$\n"
+        },
+        {
+          "key": "C",
+          "value": "$$12.5 \\mathrm{~m} / \\mathrm{s}^2$$\n"
+        },
+        {
+          "key": "D",
+          "value": "$$9 \\mathrm{~m} / \\mathrm{s}^2$$"
+        }
+      ],
+      "answer": "A",
+      "explanation": "<p>The distance covered by a body in the $$n^{\\text{th}}$$ second can be found using the equation:</p>\n\n<p>$$S_{n} = u + \\dfrac{1}{2}a(2n-1)$$</p>\n\n<p>where,</p>\n\n<ul>\n\n<li>$$S_{n}$$ is the distance covered in the $$n^{\\text{th}}$$ second,</li>\n\n<li>$$u$$ is the initial velocity,</li>\n\n<li>$$a$$ is the acceleration, and</li>\n\n<li>$$n$$ is the nth second.</li>\n\n</ul>\n\n<p>The distance covered in the $$n^{\\text{th}}$$ second is given as $$102.5 \\, \\text{m}$$, so we have:</p>\n\n<p>$$102.5 = u + \\dfrac{1}{2}a(2n-1)$$ ---- (1)</p>\n\n<p>For the $$(n + 2)^{\\text{th}}$$ second, the distance covered is:</p>\n\n<p>$$S_{n+2} = u + \\dfrac{1}{2}a(2(n+2)-1)$$</p>\n\n<p>Substituting $$n + 2$$ in place of $$n$$, we get:</p>\n\n<p>$$115.0 = u + \\dfrac{1}{2}a(2n+3)$$ ---- (2)</p>\n\n<p>Subtracting equation (1) from equation (2), we get:</p>\n\n<p>$$115.0 - 102.5 = \\dfrac{1}{2}a(2n + 3 - 2n + 1)$$</p>\n\n<p>$$12.5 = \\dfrac{1}{2}a(4)$$</p>\n\n<p>So, solving for $$a$$ gives:</p>\n\n<p>$$a = \\dfrac{12.5 \\times 2}{4} = \\dfrac{25}{4} = 6.25 \\, \\text{m/s}^2$$</p>\n\n<p>Therefore, the acceleration of the body is:</p>\n\n<p>$$6.25 \\, \\text{m/s}^2$$</p>\n\n<p>Which corresponds to Option A: $$6.25 \\, \\text{m/s}^2$$.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Train A is moving along two parallel rail tracks towards north with speed $$72 \\mathrm{~km} / \\mathrm{h}$$ and train B is moving towards south with speed $$108 \\mathrm{~km} / \\mathrm{h}$$. Velocity of train B with respect to A and velocity of ground with respect to B are (in $$\\mathrm{ms}^{-1}$$):</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "-50 and -30"
+        },
+        {
+          "key": "B",
+          "value": "-50 and 30"
+        },
+        {
+          "key": "C",
+          "value": "-30 and 50"
+        },
+        {
+          "key": "D",
+          "value": "50 and -30"
+        }
+      ],
+      "answer": "B",
+      "explanation": "<p>To find the velocity of Train B with respect to Train A, we have to subtract the velocity of Train A from the velocity of Train B, keeping in mind that they are moving in opposite directions. Since they are moving in opposite directions, the relative velocity is calculated by adding their magnitudes when converting into the same unit, which in this case is meters per second.</p>\n\n<p>First, let's convert the speeds from km/h to m/s by multiplying by the conversion factor $$ \\frac{1000 \\text{ m/km}}{3600 \\text{ s/h}} = \\frac{5}{18} \\text{ m/s} $$.</p>\n\n<p>For Train A:</p>\n$$\nv_A = 72 \\frac{\\text{km}}{\\text{h}} \\times \\frac{5}{18} \\frac{\\text{m/s}}{(\\text{km/h})} = 20 \\frac{\\text{m}}{\\text{s}}\n$$\n\n<p>For Train B:</p>\n$$\nv_B = 108 \\frac{\\text{km}}{\\text{h}} \\times \\frac{5}{18} \\frac{\\text{m/s}}{(\\text{km/h})} = 30 \\frac{\\text{m}}{\\text{s}}\n$$\n\n<p>To find the velocity of B relative to A ($ v_{B/A} $), we consider the direction: Train B is moving towards the south and Train A is moving towards the north. Therefore, relative to Train A, Train B is moving even faster towards the south, we calculate:</p>\n\n$$\nv_{B/A} = v_B + v_A = 30 \\frac{\\text{m}}{\\text{s}} + 20 \\frac{\\text{m}}{\\text{s}} = 50 \\frac{\\text{m}}{\\text{s}}\n$$\n\n<p>Since Train B is moving towards the south and Train A towards the north, we take the southward direction as negative in our coordinate system for this calculation. That means the velocity of B with respect to A is:</p>\n\n$$\nv_{B/A} = -50 \\frac{\\text{m}}{\\text{s}}\n$$\n\n<p>Next, we calculate the velocity of the ground with respect to Train B ($ v_{ground/B} $). The ground is stationary, thus it has a velocity of 0 m/s in any direction. The velocity of an object with respect to another object moving is just the opposite of the second object's velocity. Thus:</p>\n\n$$\nv_{ground/B} = -v_B = -30 \\frac{\\text{m}}{\\text{s}}\n$$\n\n<p>However, because we are considering the southward direction as negative, the negative of a southward velocity is a northward velocity. Hence we get:</p>\n\n$$\nv_{ground/B} = 30 \\frac{\\text{m}}{\\text{s}}\n$$\n\n<p>So the velocity of Train B with respect to Train A is -50 m/s, and the velocity of the ground with respect to Train B is 30 m/s. Therefore, the correct answer is:</p>\n\n<p>Option A: -50 m/s and -30 m/s. (Incorrect, because the velocity of ground with respect to B is positive in our chosen coordinate system)</p>\n<p>Option B: -50 m/s and 30 m/s. (Correct)</p>\n<p>Option C: -30 m/s and 50 m/s. (Incorrect)</p>\n<p>Option D: 50 m/s and -30 m/s. (Incorrect)</p>\n\n<p>Thus, the correct answer is Option B: -50 m/s and 30 m/s.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>The relation between time '$$t$$' and distance '$$x$$' is $$t=\\alpha x^2+\\beta x$$, where $$\\alpha$$ and $$\\beta$$ are constants. The relation between acceleration $$(a)$$ and velocity $$(v)$$ is :</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$a=-5 \\alpha v^5$$\n"
+        },
+        {
+          "key": "B",
+          "value": "$$a=-3 \\alpha v^2$$\n"
+        },
+        {
+          "key": "C",
+          "value": "$$a=-2 \\alpha v^3$$\n"
+        },
+        {
+          "key": "D",
+          "value": "$$a=-4 \\alpha v^4$$"
+        }
+      ],
+      "answer": "C",
+      "explanation": "<p>The relationship between time ($$t$$) and distance ($$x$$) is given by $$t = \\alpha x^2 + \\beta x$$, where $$\\alpha$$ and $$\\beta$$ are constants. To find the relation between acceleration ($$a$$) and velocity ($$v$$), we can follow these steps:</p>\n\n<p>First, we differentiate the given equation with respect to time:</p>\n\n<p>$$\\begin{aligned} & t = \\alpha x^2 + \\beta x \\quad \\text{(differentiating with respect to time)} \\\\ & \\frac{dt}{dx} = 2\\alpha x + \\beta \\\\ & \\frac{1}{v} = 2\\alpha x + \\beta \\\\ \\end{aligned}$$</p>\n\n<p>Next, we differentiate again with respect to time to find the acceleration:</p>\n\n<p>$$\\begin{aligned} & -\\frac{1}{v^2} \\frac{dv}{dt} = 2\\alpha \\frac{dx}{dt} \\\\ & \\text{Since} \\quad \\frac{dx}{dt} = v, \\quad \\text{we have:} \\\\ & -\\frac{1}{v^2} \\frac{dv}{dt} = 2\\alpha v \\\\ & \\frac{dv}{dt} = -2\\alpha v^3 \\\\ & \\text{Therefore,} \\quad a = -2\\alpha v^3 \\end{aligned}$$</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>A particle is moving in a straight line. The variation of position '$$x$$' as a function of time '$$t$$' is given as $$x=\\left(t^3-6 t^2+20 t+15\\right) m$$. The velocity of the body when its acceleration becomes zero is :</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "6 m/s"
+        },
+        {
+          "key": "B",
+          "value": "10 m/s"
+        },
+        {
+          "key": "C",
+          "value": "8 m/s"
+        },
+        {
+          "key": "D",
+          "value": "4 m/s"
+        }
+      ],
+      "answer": "C",
+      "explanation": "\n\n<p>The position equation is given by:</p>\n\n<p>$$x = t^3 - 6t^2 + 20t + 15$$</p>\n\n<p>First, compute the velocity $$v$$ by differentiating the position function with respect to time:</p>\n\n<p>$$ \\frac{d x}{d t} = v = 3t^2 - 12t + 20 $$</p>\n\n<p>Next, compute the acceleration $$a$$ by differentiating the velocity function with respect to time:</p>\n\n<p>$$ \\frac{d v}{d t} = a = 6t - 12 $$</p>\n\n<p>We need to find the time $$t$$ when the acceleration is zero:</p>\n\n<p>$$ 6t - 12 = 0 $$<br>\n\n<p>$$ t = 2 \\, \\mathrm{sec} $$</p></p>\n\n<p>Now, find the velocity at $$t = 2 \\, \\mathrm{sec}$$:</p>\n\n<p>$$ v = 3(2)^2 - 12(2) + 20 $$</p>\n\n<p>$$ v = 8 \\, \\mathrm{m/s} $$</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>A body starts moving from rest with constant acceleration covers displacement $$S_1$$ in first $$(p-1)$$ seconds and $$\\mathrm{S}_2$$ in first $$p$$ seconds. The displacement $$\\mathrm{S}_1+\\mathrm{S}_2$$ will be made in time :</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$(2 p+1) s$$\n"
+        },
+        {
+          "key": "B",
+          "value": "$$(2 p-1) s$$\n"
+        },
+        {
+          "key": "C",
+          "value": "$$\\left(2 p^2-2 p+1\\right) s$$\n"
+        },
+        {
+          "key": "D",
+          "value": "$$\\sqrt{\\left(2 p^2-2 p+1\\right)} s$$"
+        }
+      ],
+      "answer": "D",
+      "explanation": "<p>Let's denote the constant acceleration with which the body moves as $$a$$. We know that the displacement $$S$$ covered by a body starting from rest under a constant acceleration $$a$$ in time $$t$$ is given by the equation of motion: $$S = \\frac{1}{2} a t^2$$.</p>\n\n<p>Considering the displacement $$\\mathrm{S}_1$$ in first $$(p-1)$$ seconds, we apply the equation of motion:</p>\n$$ \\mathrm{S}_1 = \\frac{1}{2} a (p-1)^2 $$\n\n<p>Similarly, for the displacement $$\\mathrm{S}_2$$ in first $$p$$ seconds:</p>\n$$ \\mathrm{S}_2 = \\frac{1}{2} a p^2 $$\n\n<p>To find out the total time it will take to cover the displacement $$\\mathrm{S}_1+\\mathrm{S}_2$$, we first find the sum of these two displacements:</p>\n$$ \\mathrm{S}_1+\\mathrm{S}_2 = \\frac{1}{2} a (p-1)^2 + \\frac{1}{2} a p^2 $$\n\n<p>Let's simplify this:</p>\n$$ \\mathrm{S}_1+\\mathrm{S}_2 = \\frac{1}{2} a \\left((p-1)^2 + p^2\\right) $$\n$$ \\mathrm{S}_1+\\mathrm{S}_2 = \\frac{1}{2} a \\left(p^2 - 2p + 1 + p^2\\right) $$\n$$ \\mathrm{S}_1+\\mathrm{S}_2 = \\frac{1}{2} a \\left(2p^2 - 2p + 1\\right) $$\n$$ \\mathrm{S}_1+\\mathrm{S}_2 = a \\left(\\frac{2p^2 - 2p + 1}{2}\\right) $$\n\n<p>If we consider the total displacement $$\\mathrm{S}_1+\\mathrm{S}_2$$ is to be covered in a time $$t$$ seconds from rest, we should set this equal to the equation of motion:</p>\n$$ \\mathrm{S}_1+\\mathrm{S}_2 = \\frac{1}{2} a t^2 $$\n\n<p>Equating the two equations:</p>\n$$ a \\left(\\frac{2p^2 - 2p + 1}{2}\\right) = \\frac{1}{2} a t^2 $$\n\n<p>Since $$a \\neq 0$$, we can simplify by dividing both sides by $$ \\frac{1}{2} a$$:</p>\n$$ \\frac{2p^2 - 2p + 1}{2} = \\frac{t^2}{2} $$\n$$ 2p^2 - 2p + 1 = t^2 $$\n\n<p>To find $$t$$, we take the square root of both sides:</p>\n$$ t = \\sqrt{2p^2 - 2p + 1} $$\n\n<p>Therefore, the time taken to cover the displacement $$\\mathrm{S}_1+\\mathrm{S}_2$$ will be:</p>\n$$ t = \\sqrt{(2p^2 - 2p + 1)}\\ s $$\n\n<p>Hence, the correct option would be:</p>\nOption D: $$ \\sqrt{(2p^2 - 2p + 1)}\\ s $$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The position of a particle related to time is given by $x=\\left(5 t^{2}-4 t+5\\right) \\mathrm{m}$. The magnitude of velocity of the particle at $t=2 s$ will be :",
+      "options": [
+        {
+          "key": "A",
+          "value": "$14 \\mathrm{~ms}^{-1}$"
+        },
+        {
+          "key": "B",
+          "value": "$16 \\mathrm{~ms}^{-1}$"
+        },
+        {
+          "key": "C",
+          "value": "$10 \\mathrm{~ms}^{-1}$"
+        },
+        {
+          "key": "D",
+          "value": "$06 \\mathrm{~ms}^{-1}$\n"
+        }
+      ],
+      "answer": "B",
+      "explanation": "The position of a particle as a function of time is given by $x=\\left(5 t^{2}-4 t+5\\right) \\mathrm{m}$. <br/><br/>To find the magnitude of the velocity of the particle at $t=2\\,\\mathrm{s}$, we first need to find the velocity of the particle as a function of time. \n<br/><br/>\nThe velocity $v$ is the time derivative of the position $x$:\n<br/><br/>\n$$\nv = \\frac{dx}{dt}\n$$\n<br/><br/>\nTaking the derivative of $x$ with respect to $t$, we get:\n<br/><br/>\n$$\nv = \\frac{dx}{dt} = 10t - 4\\,\\mathrm{m/s}\n$$\n<br/><br/>\nNow we can find the velocity of the particle at $t=2\\,\\mathrm{s}$ by plugging in $t=2$:\n<br/><br/>\n$$\nv(2\\,\\mathrm{s}) = 10(2) - 4\\,\\mathrm{m/s} = 16\\,\\mathrm{m/s}\n$$\n<br/><br/>\nTherefore, the magnitude of the velocity of the particle at $t=2\\,\\mathrm{s}$ is:\n<br/><br/>\n$$\n\\boxed{|v(2\\,\\mathrm{s})| = 16\\,\\mathrm{m/s}}\n$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>The distance travelled by an object in time $$t$$ is given by $$s=(2.5) t^{2}$$. The instantaneous speed of the object at $$\\mathrm{t}=5 \\mathrm{~s}$$ will be:</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$5 \\mathrm{~ms}^{-1}$$"
+        },
+        {
+          "key": "B",
+          "value": "$$12.5 \\mathrm{~ms}^{-1}$$"
+        },
+        {
+          "key": "C",
+          "value": "$$62.5 \\mathrm{~ms}^{-1}$$"
+        },
+        {
+          "key": "D",
+          "value": "$$25 \\mathrm{~ms}^{-1}$$"
+        }
+      ],
+      "answer": "D",
+      "explanation": "The distance traveled by an object in time $$t$$ is given by the equation $$s = (2.5)t^2$$. To find the instantaneous speed at a specific time, we need to find the first derivative of the distance function with respect to time, which gives us the velocity function:\n<br/><br/>\n$$v(t) = \\frac{ds}{dt}$$\n<br/><br/>\nDifferentiating the given equation with respect to $$t$$:\n<br/><br/>\n$$v(t) = \\frac{d}{dt} (2.5)t^2 = 2(2.5)t = 5t$$\n<br/><br/>\nNow, we can find the instantaneous speed at $$t = 5 \\mathrm{~s}$$ by plugging the value into the velocity function:\n<br/><br/>\n$$v(5) = 5(5) = 25 \\mathrm{~m/s}$$\n<br/><br/>\nThe instantaneous speed of the object at $$t = 5 \\mathrm{~s}$$ is $$25 \\mathrm{~m/s}$$."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>A passenger sitting in a train A moving at $$90 \\mathrm{~km} / \\mathrm{h}$$ observes another train $$\\mathrm{B}$$ moving in the opposite direction for $$8 \\mathrm{~s}$$. If the velocity of the train B is $$54 \\mathrm{~km} / \\mathrm{h}$$, then length of train B is:</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "80 m"
+        },
+        {
+          "key": "B",
+          "value": "200 m"
+        },
+        {
+          "key": "C",
+          "value": "120 m"
+        },
+        {
+          "key": "D",
+          "value": "320 m"
+        }
+      ],
+      "answer": "D",
+      "explanation": "To find the length of train B, we first need to determine the relative velocity between train A and train B. Since they are moving in opposite directions, their velocities add up:\n<br/><br/>\n$$v_{AB} = v_A + v_B = 90 \\mathrm{~km/h} + 54 \\mathrm{~km/h} = 144 \\mathrm{~km/h}$$\n<br/><br/>\nNow, we need to convert this relative velocity to meters per second:\n<br/><br/>\n$$v_{AB} = \\frac{144 \\mathrm{~km/h} × 1000 \\mathrm{~m/km}}{3600 \\mathrm{~s/h}} = 40 \\mathrm{~m/s}$$\n<br/><br/>\nThe passenger in train A observes train B for 8 seconds. To find the length of train B, we can use the formula:\n<br/><br/>\n$$\\text{length} = \\text{relative velocity} × \\text{time}$$\n<br/><br/>\n$$\\text{length} = 40 \\mathrm{~m/s} ~×~ 8 \\mathrm{~s} = 320 \\mathrm{~m}$$\n<br/><br/>\nSo, the length of train B is 320 meters."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Two trains 'A' and 'B' of length '$$l$$' and '$$4 l$$' are travelling into a tunnel of length '$$\\mathrm{L}$$' in parallel tracks from opposite directions with velocities $$108 \\mathrm{~km} / \\mathrm{h}$$ and $$72 \\mathrm{~km} / \\mathrm{h}$$, respectively. If train 'A' takes $$35 \\mathrm{~s}$$ less time than train 'B' to cross the tunnel then. length '$$L$$' of tunnel is :</p>\n<p>(Given $$\\mathrm{L}=60 l$$ )</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "900 m"
+        },
+        {
+          "key": "B",
+          "value": "1200 m"
+        },
+        {
+          "key": "C",
+          "value": "1800 m"
+        },
+        {
+          "key": "D",
+          "value": "2700 m"
+        }
+      ],
+      "answer": "C",
+      "explanation": "Let's start by converting the velocities of both trains to m/s:<br/><br/>\nTrain A: $$108 \\frac{km}{h} \\times \\frac{1000 m}{km} \\times \\frac{1 h}{3600 s} = 30 \\frac{m}{s}$$<br/><br/>\nTrain B: $$72 \\frac{km}{h} \\times \\frac{1000 m}{km} \\times \\frac{1 h}{3600 s} = 20 \\frac{m}{s}$$\n<br/><br/>\nTo cross the tunnel, Train A has to cover a distance equal to the length of the tunnel plus its own length: $$L + l$$<br/><br/>\nSimilarly, Train B has to cover a distance equal to the length of the tunnel plus its own length: $$L + 4l$$\n<br/><br/>\nWe are given that Train A takes 35 seconds less time than Train B to cross the tunnel. Let's denote the time taken by Train A as $$t_A$$ and the time taken by Train B as $$t_B$$. Then, we have:\n<br/><br/>\n$$t_B = t_A + 35$$\n<br/><br/>\nUsing the formula distance = velocity × time, we can write the equations for both trains:\n<br/><br/>\nTrain A: $$(L + l) = 30t_A$$<br/><br/>\nTrain B: $$(L + 4l) = 20t_B$$\n<br/><br/>\nNow, we can substitute $$t_B = t_A + 35$$ in the equation for Train B:\n<br/><br/>\n$$(L + 4l) = 20(t_A + 35)$$\n<br/><br/>\nWe have two equations and two unknowns ($$L$$ and $$t_A$$). We can solve this system of equations by eliminating one of the unknowns. Let's eliminate $$t_A$$ by expressing it from the equation for Train A:\n<br/><br/>\n$$t_A = \\frac{L + l}{30}$$\n<br/><br/>\nNow, substitute this expression for $$t_A$$ in the equation for Train B:\n<br/><br/>\n$$(L + 4l) = 20\\left(\\frac{L + l}{30} + 35\\right)$$\n<br/><br/>\nMultiplying both sides by 30 to get rid of the fraction:\n<br/><br/>\n$$30(L + 4l) = 20(L + l) + 20 \\times 35 \\times 30$$\n<br/><br/>\nExpanding the equation:\n<br/><br/>\n$$30L + 120l = 20L + 20l + 21,000$$\n<br/><br/>\nSimplify:\n<br/><br/>\n$$10L + 100l = 21,000$$\n<br/><br/>\nSince we are given that $$L = 60l$$, substitute this into the equation:\n<br/><br/>\n$$10(60l) + 100l = 21,000$$\n<br/><br/>\nSolve for $$l$$:\n<br/><br/>\n$$700l = 21,000$$\n<br/><br/>\n$$l = 30$$\n<br/><br/>\nNow, substitute the value of $$l$$ back into the equation for $$L$$:\n<br/><br/>\n$$L = 60l = 60 \\times 30 = 1800$$\n<br/><br/>\nSo, the length of the tunnel is:\n<br/><br/>\n1800 m"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>A ball is thrown vertically upward with an initial velocity of $$150 \\mathrm{~m} / \\mathrm{s}$$. The ratio of velocity after $$3 \\mathrm{~s}$$ and $$5 \\mathrm{~s}$$ is $$\\frac{x+1}{x}$$. The value of $$x$$ is ___________.</p>\n<p>$$\\left\\{\\right.$$ take, $$\\left.g=10 \\mathrm{~m} / \\mathrm{s}^{2}\\right\\}$$</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$-5$$"
+        },
+        {
+          "key": "B",
+          "value": "10"
+        },
+        {
+          "key": "C",
+          "value": "5"
+        },
+        {
+          "key": "D",
+          "value": "6"
+        }
+      ],
+      "answer": "C",
+      "explanation": "To solve this problem, we can use the following equation of motion for the vertical velocity at any given time $$t$$:\n<br/><br/>\n$$v = u - gt$$\n<br/><br/>\nWhere:<br/><br/>\n- $$v$$ is the final velocity at time $$t$$<br/><br/>\n- $$u$$ is the initial velocity (150 m/s)<br/><br/>\n- $$g$$ is the acceleration due to gravity (10 m/s²)<br/><br/>\n- $$t$$ is the time in seconds\n<br/><br/>\nFirst, we need to find the velocities at $$t = 3 \\mathrm{~s}$$ and $$t = 5 \\mathrm{~s}$$.\n<br/><br/>\nFor $$t = 3 \\mathrm{~s}$$:\n<br/><br/>\n$$v_3 = 150 - (10)(3) = 150 - 30 = 120 \\mathrm{~m} / \\mathrm{s}$$\n<br/><br/>\nFor $$t = 5 \\mathrm{~s}$$:\n<br/><br/>\n$$v_5 = 150 - (10)(5) = 150 - 50 = 100 \\mathrm{~m} / \\mathrm{s}$$\n<br/><br/>\nNow we need to find the ratio of these velocities:\n<br/><br/>\n$$\\frac{v_3}{v_5} = \\frac{120}{100} = \\frac{6}{5} = \\frac{x + 1}{x}$$\n<br/><br/>\nNext, we can set up an equation to find the value of $$x$$:\n<br/><br/>\n$$\\frac{6}{5} = \\frac{x + 1}{x}$$\n<br/><br/>\nNow, we can solve for $$x$$:\n<br/><br/>\n$$6x = 5(x + 1)$$<br/><br/>\n$$6x = 5x + 5$$<br/><br/>\n$$x = 5$$\n<br/><br/>\nThe value of $$x$$ is 5."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>A person travels $$x$$ distance with velocity $$v_{1}$$ and then $$x$$ distance with velocity $$v_{2}$$ in the same direction. The average velocity of the person is $$\\mathrm{v}$$, then the relation between $$v, v_{1}$$ and $$v_{2}$$ will be.</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$\\mathbf{V}=\\mathbf{V}_{1}+\\mathbf{V}_{2}$$"
+        },
+        {
+          "key": "B",
+          "value": "$$V=\\frac{v_{1}+V_{2}}{2}$$"
+        },
+        {
+          "key": "C",
+          "value": "$$\\frac{1}{\\mathrm{v}}=\\frac{1}{\\mathrm{v}_{1}}+\\frac{1}{\\mathrm{v}_{2}}$$"
+        },
+        {
+          "key": "D",
+          "value": "$$\\frac{2}{\\mathrm{~V}}=\\frac{1}{\\mathrm{v}_{1}}+\\frac{1}{\\mathrm{v}_{2}}$$"
+        }
+      ],
+      "answer": "D",
+      "explanation": "<p>The average velocity is defined as the total displacement divided by the total time. Here, the person travels the same distance $x$ twice, once with velocity $v_1$ and once with velocity $v_2$. </p>\n<p>The time to travel distance $x$ with velocity $v_1$ is $t_1 = \\frac{x}{v_1}$, and the time to travel distance $x$ with velocity $v_2$ is $t_2 = \\frac{x}{v_2}$. <br/><br/>The total time is then<br/><br/> $t = t_1 + t_2 = \\frac{x}{v_1} + \\frac{x}{v_2}$.</p>\n<p>The total displacement is $2x$. So, the average velocity $v$ is given by</p>\n<p>$ v = \\frac{\\text{total displacement}}{\\text{total time}} = \\frac{2x}{\\frac{x}{v_1} + \\frac{x}{v_2}} = \\frac{2}{\\frac{1}{v_1} + \\frac{1}{v_2}} $</p>\n<p>Multiplying both sides by $2$, we get</p>\n<p>$ \\frac{2}{v} = \\frac{1}{v_1} + \\frac{1}{v_2} $</p>\n"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Given below are two statements</p>\n<p>Statement I : Area under velocity- time graph gives the distance travelled by the body in a given time.</p>\n<p>Statement II : Area under acceleration- time graph is equal to the change in velocity- in the given time.</p>\n<p>In the light of given statements, choose the correct answer from the options given below.</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "Both Statement I and Statement II are False."
+        },
+        {
+          "key": "B",
+          "value": "Both Statement I and Statement II are true."
+        },
+        {
+          "key": "C",
+          "value": "Statement I is incorrect but Statement II is true."
+        },
+        {
+          "key": "D",
+          "value": "Statement I is correct but Statement II is false."
+        }
+      ],
+      "answer": "C",
+      "explanation": "Area under velocity time graph gives displacement of body in given time.\n<br/><br/>\nArea under acceleration time graph gives change in velocity in the given time.<br/><br/>\nSo Statement I false but Statement II True"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>A particle starts with an initial velocity of $$10.0 \\mathrm{~ms}^{-1}$$ along $$x$$-direction and accelerates uniformly at the rate of $$2.0 \\mathrm{~ms}^{-2}$$. The time taken by the particle to reach the velocity of $$60.0 \\mathrm{~ms}^{-1}$$ is __________.</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "30s"
+        },
+        {
+          "key": "B",
+          "value": "6s"
+        },
+        {
+          "key": "C",
+          "value": "3s"
+        },
+        {
+          "key": "D",
+          "value": "25s"
+        }
+      ],
+      "answer": "D",
+      "explanation": "<p>To find the time taken by the particle to reach the velocity of $$60.0 \\mathrm{~ms}^{-1}$$, we can use the formula:</p>\n<p>$$\nv = u + at\n$$</p>\n<p>Where:\n$$v$$ is the final velocity,\n$$u$$ is the initial velocity,\n$$a$$ is the acceleration, and\n$$t$$ is the time taken.</p>\n<p>Plugging in the given values:</p>\n<p>$$\n60.0 \\mathrm{~ms}^{-1} = 10.0 \\mathrm{~ms}^{-1} + 2.0 \\mathrm{~ms}^{-2} \\cdot t\n$$</p>\n<p>Solve for $$t$$:</p>\n<p>$$\n50.0 \\mathrm{~ms}^{-1} = 2.0 \\mathrm{~ms}^{-2} \\cdot t\n$$</p>\n<p>$$\nt = \\frac{50.0 \\mathrm{~ms}^{-1}}{2.0 \\mathrm{~ms}^{-2}} = 25 \\mathrm{s}\n$$</p>\n<p>So, the time taken by the particle to reach the velocity of $$60.0 \\mathrm{~ms}^{-1}$$ is 25 seconds.</p>\n"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A vehicle travels $4 \\mathrm{~km}$ with speed of $3 \\mathrm{~km} / \\mathrm{h}$ and another $4 \\mathrm{~km}$ with speed of $5 \\mathrm{~km} / \\mathrm{h}$, then its average speed is",
+      "options": [
+        {
+          "key": "A",
+          "value": "$3.75 \\mathrm{~km} / \\mathrm{h}$"
+        },
+        {
+          "key": "B",
+          "value": "$4.25 \\mathrm{~km} / \\mathrm{h}$"
+        },
+        {
+          "key": "C",
+          "value": "$3.50 \\mathrm{~km} / \\mathrm{h}$"
+        },
+        {
+          "key": "D",
+          "value": "$4.00 \\mathrm{~km} / \\mathrm{h}$"
+        }
+      ],
+      "answer": "A",
+      "explanation": "<p>Average speed</p>\n<p>$$ = {{\\mathrm{Total\\,dis\\tan ce}} \\over {\\mathrm{Total\\,time}}}$$</p>\n<p>$$ = {8 \\over {{4 \\over 3} + {4 \\over 5}}}$$</p>\n<p>$$ = 3.75$$ km/h</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>The distance travelled by a particle is related to time t as $$x=4\\mathrm{t}^2$$. The velocity of the particle at t=5s is :-</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$\\mathrm{25~ms^{-1}}$$"
+        },
+        {
+          "key": "B",
+          "value": "$$\\mathrm{20~ms^{-1}}$$"
+        },
+        {
+          "key": "C",
+          "value": "$$\\mathrm{8~ms^{-1}}$$"
+        },
+        {
+          "key": "D",
+          "value": "$$\\mathrm{40~ms^{-1}}$$"
+        }
+      ],
+      "answer": "D",
+      "explanation": "$$\n\\begin{aligned}\n& x=4 t^2 \\\\\\\\\n& v=\\frac{d x}{d t}=8 t\n\\end{aligned}\n$$<br/><br/>\nAt $\\mathrm{t}=5 ~\\mathrm{sec}$<br/><br/>\n$$\n\\mathrm{v}=8 \\times 5=40 \\mathrm{~m} / \\mathrm{s}\n$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>A car travels a distance of '$$x$$' with speed $$v_1$$ and then same distance '$$x$$' with speed $$v_2$$ in the same direction. The average speed of the car is :</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "$${{{v_1}{v_2}} \\over {2({v_1} + {v_2})}}$$"
+        },
+        {
+          "key": "B",
+          "value": "$${{2{v_1}{v_2}} \\over {{v_1} + {v_2}}}$$"
+        },
+        {
+          "key": "C",
+          "value": "$${{2x} \\over {{v_1} + {v_2}}}$$"
+        },
+        {
+          "key": "D",
+          "value": "$${{{v_1} + {v_2}} \\over 2}$$"
+        }
+      ],
+      "answer": "B",
+      "explanation": "$$\n\\begin{aligned}\n& \\text { Average velocity }=\\frac{\\text { Total displacement }}{\\text { Total time }} \\\\\\\\\n& =\\frac{\\mathrm{x}+\\mathrm{x}}{\\frac{\\mathrm{x}}{\\mathrm{v}_1}+\\frac{\\mathrm{x}}{\\mathrm{v}_2}}=\\frac{2 \\mathrm{v}_1 \\mathrm{v}_2}{\\mathrm{v}_1+\\mathrm{v}_2}\n\\end{aligned}\n$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>A ball is thrown up vertically with a certain velocity so that, it reaches a maximum height h. Find the ratio of the times in which it is at height $$\\frac{h}{3}$$ while going up and coming down respectively.</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$\\frac{\\sqrt{2}-1}{\\sqrt{2}+1}$$"
+        },
+        {
+          "key": "B",
+          "value": "$$\\frac{\\sqrt{3}-\\sqrt{2}}{\\sqrt{3}+\\sqrt{2}}$$"
+        },
+        {
+          "key": "C",
+          "value": "$$\\frac{\\sqrt{3}-1}{\\sqrt{3}+1}$$"
+        },
+        {
+          "key": "D",
+          "value": "$$\\frac{1}{3}$$"
+        }
+      ],
+      "answer": "B",
+      "explanation": "<p>A ball is thrown vertically upward with a certain velocity, reaching a maximum height $ h $. We need to find the ratio of the times it is at height $ \\frac{h}{3} $ while ascending and descending, respectively.</p>\n\n<p>The initial velocity of the ball $ v $ can be given by:</p>\n\n<p>$ v = \\sqrt{2gh} $</p>\n\n<p>When the ball is at height $ \\frac{h}{3} $, the equation of motion is:</p>\n\n<p>$ \\frac{h}{3} = \\sqrt{2gh} \\cdot t - \\frac{1}{2}gt^2 $</p>\n\n<p>Rearranging the equation, we get a quadratic equation in terms of $ t $:</p>\n\n<p>$ \\frac{g}{2} t^2 - \\sqrt{2gh} \\cdot t + \\frac{h}{3} = 0 $</p>\n\n<p>The ratio of the times taken to ascend and descend to the height $ \\frac{h}{3} $ can be found using the quadratic formula solution for $ t $, considering the corresponding velocities:</p>\n\n<p>$ \\frac{t_1}{t_2} = \\frac{\\sqrt{2gh} + \\sqrt{2gh - \\frac{2gh}{3}} }{\\sqrt{2gh} - \\sqrt{2gh - \\frac{2gh}{3}}} $</p>\n\n<p>Simplifying the terms inside the fraction:</p>\n\n<p>$ = \\frac{\\sqrt{2} + \\frac{2}{\\sqrt{3}}}{\\sqrt{2} - \\frac{2}{\\sqrt{3}} } = \\frac{\\sqrt{3} + \\sqrt{2}}{\\sqrt{3} - \\sqrt{2}} $</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>If $$\\mathrm{t}=\\sqrt{x}+4$$, then $$\\left(\\frac{\\mathrm{d} x}{\\mathrm{~d} t}\\right)_{\\mathrm{t}=4}$$ is :</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "4"
+        },
+        {
+          "key": "B",
+          "value": "zero"
+        },
+        {
+          "key": "C",
+          "value": "8"
+        },
+        {
+          "key": "D",
+          "value": "16"
+        }
+      ],
+      "answer": "B",
+      "explanation": "Given,\n<br/><br/>$t=\\sqrt{x}+4$, Squaring on both\n<br/><br/>$$\n\\begin{aligned}\n& x=(t-4)^2=t^2-8 t+16 \\\\\\\\\n& \\frac{d x}{d t}=2 t-8\\\\\\\\\n& \\text { at } t=4 \\\\\\\\\n& \\frac{d x}{d t}=8-8=0\n\\end{aligned}\n$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>A NCC parade is going at a uniform speed of $$9 \\mathrm{~km} / \\mathrm{h}$$ under a mango tree on which a monkey is sitting at a height of $$19.6 \\mathrm{~m}$$. At any particular instant, the monkey drops a mango. A cadet will receive the mango whose distance from the tree at time of drop is: (Given $$g=9.8 \\mathrm{~m} / \\mathrm{s}^{2}$$ )</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "5 m"
+        },
+        {
+          "key": "B",
+          "value": "10 m"
+        },
+        {
+          "key": "C",
+          "value": "19.8 m"
+        },
+        {
+          "key": "D",
+          "value": "24.5 m"
+        }
+      ],
+      "answer": "A",
+      "explanation": "<p>A NCC parade is moving at a steady speed of 9 km/h under a mango tree where a monkey is perched at a height of 19.6 meters. Suddenly, the monkey drops a mango. To determine which cadet will catch the mango, we need to calculate the distance of the cadet from the tree at the moment the mango is dropped, considering the acceleration due to gravity $ g = 9.8 \\, \\text{m/s}^2 $.</p>\n\n<p>First, we use the formula to find the time $ t $ it takes for the mango to fall:</p>\n\n<p>$ H = \\frac{1}{2}\\,g\\,t^2 $</p>\n\n<p>Substituting the given values:</p>\n\n<p>$ 19.6 = 4.9\\,t^2 $</p>\n\n<p>Solving for $ t $:</p>\n\n<p>$ t^2 = \\frac{19.6}{4.9} $</p>\n\n<p>$ t^2 = 4 $</p>\n\n<p>$ t = 2 \\, \\text{sec} $</p>\n\n<p>Next, we need to find the distance $ D $ the cadet travels in these 2 seconds:</p>\n\n<p>$ D = \\text{speed} \\times \\text{time} $</p>\n\n<p>Since the speed is given in km/h, we first convert it to m/s:</p>\n\n<p>$ 9 \\, \\text{km/h} = 9 \\times \\frac{1000}{3600} \\, \\text{m/s} = 2.5 \\, \\text{m/s} $</p>\n\n<p>So, the distance covered by the cadet is:</p>\n\n<p>$ D = 2.5 \\, \\text{m/s} \\times 2 \\, \\text{sec} = 5 \\, \\text{m} $</p>\n\n<p>Thus, the cadet who is 5 meters away from the tree at the moment the mango is dropped will catch the mango.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>The velocity of the bullet becomes one third after it penetrates 4 cm in a wooden block. Assuming that bullet is facing a constant resistance during its motion in the block. The bullet stops completely after travelling at (4 + x) cm inside the block. The value of x is :</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "2.0"
+        },
+        {
+          "key": "B",
+          "value": "1.0"
+        },
+        {
+          "key": "C",
+          "value": "0.5"
+        },
+        {
+          "key": "D",
+          "value": "1.5"
+        }
+      ],
+      "answer": "C",
+      "explanation": "<p>S = 4 cm</p>\n<p>$$v{'_4} = {v \\over 3}$$, a = constant</p>\n<p>$${v_{4 + x}} = 0$$</p>\n<p>$$\\left( {{v^2} - {{{v^2}} \\over a}} \\right) = 2a(4)$$</p>\n<p>$$({v^2} - 0) = 2a(4 + x)$$</p>\n<p>$${4 \\over {4 + x}} = {8 \\over 9}$$</p>\n<p>$$ \\Rightarrow x = 0.5$$ m</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>A small toy starts moving from the position of rest under a constant acceleration. If it travels a distance of 10m in t s, the distance travelled by the toy in the next t s will be :</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "10 m"
+        },
+        {
+          "key": "B",
+          "value": "20 m"
+        },
+        {
+          "key": "C",
+          "value": "30 m"
+        },
+        {
+          "key": "D",
+          "value": "40 m"
+        }
+      ],
+      "answer": "C",
+      "explanation": "<p>A small toy begins to move from a standstill with a constant acceleration. It covers a distance of 10 meters in t seconds. We need to determine the distance the toy will travel in the subsequent t seconds.</p>\n\n<p>First, we know that the initial distance traveled is given by the formula for constant acceleration starting from rest:</p>\n\n<p>$$\\frac{1}{2} a t^2 = 10 \\text{ m}$$</p>\n\n<p>Next, we calculate the total distance traveled after 2t seconds:</p>\n\n<p>$$\\frac{1}{2} a (2t)^2 = \\frac{1}{2} a \\cdot 4t^2 = 2 a t^2$$</p>\n\n<p>Since we know from the initial condition that $ \\frac{1}{2} a t^2 = 10 \\text{ m} $, multiplying it by 4 gives</p>\n\n<p>$$2 a t^2 = 40 \\text{ m}$$</p>\n\n<p>Thus, the additional distance traveled in the next t seconds is:</p>\n\n<p>$$\\text{Total distance after 2t seconds} - \\text{Distance already traveled in t seconds}$$</p>\n\n<p>$$= 40 \\text{ m} - 10 \\text{ m}$$</p>\n\n<p>$$= 30 \\text{ m}$$</p>\n\n<p></p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Two balls A and B are placed at the top of 180 m tall tower. Ball A is released from the top at t = 0 s. Ball B is thrown vertically down with an initial velocity 'u' at t = 2 s. After a certain time, both balls meet 100 m above the ground. Find the value of 'u' in ms<sup>$$-$$1</sup>. [use g = 10 ms<sup>$$-$$2</sup>] :</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "10"
+        },
+        {
+          "key": "B",
+          "value": "15"
+        },
+        {
+          "key": "C",
+          "value": "20"
+        },
+        {
+          "key": "D",
+          "value": "30"
+        }
+      ],
+      "answer": "D",
+      "explanation": "As the meeting point lies $100 \\mathrm{~m}$ above ground, displacement of ball will be $80 \\mathrm{~m}$.\n<br/><br/>For ball $A$\n<br/><br/>$$\n\\begin{aligned}\n&u=0, \\mathrm{~S}=80 \\mathrm{~m}, a =+\\mathrm{g}=+10 \\mathrm{~m} / \\mathrm{s}^2 \\text {, time }=t_1 \\\\\\\\\n&\\Rightarrow S =u t+\\frac{1}{2} a t^2 \\\\\\\\\n&\\Rightarrow 80 =0+\\frac{1}{2} \\times 10 \\times t_1{ }^2 \\\\\\\\\n&\\Rightarrow \\frac{160}{10} =t_1{ }^2 \\\\\\\\\n&\\Rightarrow \\quad t_1 =4 \\mathrm{~s}\n\\end{aligned}\n$$\n<br/><br/>As ball $B$ is thrown after 2 seconds after release of $A$. Thus, time available for ball $B$ is 2 seconds to cover a distance of $80 \\mathrm{~m}$.\n\n<br/><br/>Let speed be ' $u$ ' $\\mathrm{m} / \\mathrm{s}, t_2=4-2=2 \\mathrm{~s}, \\mathrm{~S}=80 \\mathrm{~m}$, $a=+g=+10 \\mathrm{~m} / \\mathrm{s}^2$\n<br/><br/>$$\n\\therefore  80  =u \\times 2+\\frac{1}{2} \\times 10 \\times(2)^2 $$\n<br/><br/>$$\\Rightarrow 80  =u+20 $$\n<br/><br/>$$\\Rightarrow  2 u  =60 $$\n<br/><br/>$$\\Rightarrow u  =30 \\mathrm{~m} / \\mathrm{s}$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Two buses P and Q start from a point at the same time and move in a straight line and their positions are represented by $${X_P}(t) = \\alpha t + \\beta {t^2}$$ and $${X_Q}(t) = ft - {t^2}$$. At what time, both the buses have same velocity?</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "$${{\\alpha  - f} \\over {1 + \\beta }}$$"
+        },
+        {
+          "key": "B",
+          "value": "$${{\\alpha  + f} \\over {2(\\beta  - 1)}}$$"
+        },
+        {
+          "key": "C",
+          "value": "$${{\\alpha  + f} \\over {2(1 + \\beta )}}$$"
+        },
+        {
+          "key": "D",
+          "value": "$${{f - \\alpha } \\over {2(1 + \\beta )}}$$"
+        }
+      ],
+      "answer": "D",
+      "explanation": "<p>$${X_P} = \\alpha t + \\beta {t^2}$$</p>\n<p>$${X_Q} = ft - {t^2}$$</p>\n<p>$$\\therefore$$ $${V_P} = \\alpha  + 2\\beta t$$</p>\n<p>$${V_Q} = f - 2t$$</p>\n<p>$$\\because$$ $${V_P} = {V_Q}$$</p>\n<p>$$ \\Rightarrow \\alpha  + 2\\beta t = f - 2t$$</p>\n<p>$$ \\Rightarrow t = {{f - \\alpha } \\over {2(1 + \\beta )}}$$</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A ball is thrown up with a certain velocity so that it reaches a height 'h'. Find the ratio of the two different times of the ball reaching $${h \\over 3}$$ in both the directions.",
+      "options": [
+        {
+          "key": "A",
+          "value": "$${{\\sqrt 2  - 1} \\over {\\sqrt 2  + 1}}$$"
+        },
+        {
+          "key": "B",
+          "value": "$${1 \\over 3}$$"
+        },
+        {
+          "key": "C",
+          "value": "$${{\\sqrt 3  - \\sqrt 2 } \\over {\\sqrt 3  + \\sqrt 2 }}$$"
+        },
+        {
+          "key": "D",
+          "value": "$${{\\sqrt 3  - 1} \\over {\\sqrt 3  + 1}}$$"
+        }
+      ],
+      "answer": "C",
+      "explanation": "$$u = \\sqrt {2gh} $$<br><br>Now, <br><br>$$S = {h \\over 3}$$<br><br>a = $$-$$g<br><br>$$S = ut + {1 \\over 2}a{t^2}$$<br><br>$${h \\over 3} = \\sqrt {2gh} t + {1 \\over 2}( - g){t^2}$$<br><br>$${t^2}\\left( {{g \\over 2}} \\right) - \\sqrt {2gh} t + {h \\over 3} = 0$$<br><br>From quadratic equation<br><br>$${t_1},{t_2} = {{\\sqrt {2gh}  \\pm \\sqrt {2gh - {{4g} \\over 2}{h \\over 3}} } \\over g}$$<br><br>$${{{t_1}} \\over {{t_2}}} = {{\\sqrt {2gh}  - \\sqrt {{{4gh} \\over 3}} } \\over {\\sqrt {2gh}  + \\sqrt {{{4gh} \\over 3}} }} = {{\\sqrt 3  - \\sqrt 2 } \\over {\\sqrt 3  + \\sqrt 2 }}$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The relation between time t and distance x for a moving body is given as t = mx<sup>2</sup> + nx, where m and n are constants. The retardation of the motion is : (When v stands for velocity)",
+      "options": [
+        {
+          "key": "A",
+          "value": "2 mv<sup>3</sup>"
+        },
+        {
+          "key": "B",
+          "value": "2 mnv<sup>3</sup>"
+        },
+        {
+          "key": "C",
+          "value": "2nv<sup>3</sup>"
+        },
+        {
+          "key": "D",
+          "value": "2n<sup>2</sup>v<sup>3</sup>"
+        }
+      ],
+      "answer": "A",
+      "explanation": "<p>The relationship between time $ t $ and distance $ x $ for a moving body is given by $ t = mx^2 + nx $, where $ m $ and $ n $ are constants. To determine the retardation (negative acceleration) of the motion, let's follow the steps to derive it:</p>\n\n<p>Given:</p>\n\n<p>$ t = mx^2 + nx $</p>\n\n<p>First, differentiate $ t $ with respect to $ x $:</p>\n\n<p>$ \\frac{dt}{dx} = 2mx + n $</p>\n\n<p>Since velocity $ v $ is defined as $ \\frac{dx}{dt} $, we can write:</p>\n\n<p>$ \\frac{1}{v} = \\frac{dt}{dx} = 2mx + n $</p>\n\n<p>Thus,</p>\n\n<p>$ v = \\frac{1}{2mx + n} $</p>\n\n<p>Next, to find the acceleration $ a $ (which is the derivative of velocity with respect to time), we start with the chain rule:</p>\n\n<p>$ \\frac{dv}{dt} = \\frac{dv}{dx} \\cdot \\frac{dx}{dt} $</p>\n\n<p>Since $ v = \\frac{dx}{dt} $, substituting $ x $ gives:</p>\n\n<p>$ \\frac{dx}{dt} = v $</p>\n\n<p>Rewrite it:</p>\n\n<p>$ \\frac{dv}{dt} = \\frac{dv}{dx} \\cdot v $</p>\n\n<p>Differentiate $ v $ with respect to $ x $:</p>\n\n<p>$ v = (2mx + n)^{-1} $</p>\n\n<p>$ \\frac{dv}{dx} = -\\frac{2m}{(2mx + n)^2} $</p>\n\n<p>Then,</p>\n\n<p>$ \\frac{dv}{dt} = -\\frac{2m}{(2mx + n)^2} \\cdot v $</p>\n\n<p>Substitute $ v = \\frac{1}{2mx + n} $ into the expression:</p>\n\n<p>$ \\frac{dv}{dt} = -\\frac{2m}{(2mx + n)^2} \\cdot \\frac{1}{2mx + n} $</p>\n\n<p>Simplify the expression:</p>\n\n<p>$ \\frac{dv}{dt} = -2m \\left( \\frac{1}{2mx + n} \\right)^3 $</p>\n\n<p>$ a = -2m v^3 $</p>\n\n<p>So, the retardation (negative acceleration) is:</p>\n\n<p>$ a = -2m v^3 $</p>\n\n<style>\n\n<p>table {</p>\n\n<p>width: 100%;</p>\n\n<p>border-collapse: collapse;</p>\n\n<p>margin: 20px 0;</p>\n\n<p>}</p>\n\n<p>th {</p>\n\n<p>background-color: blue;</p>\n\n<p>color: white;</p>\n\n<p>border: 1px solid lightgrey;</p>\n\n<p>padding: 10px;</p>\n\n<p>}</p>\n\n<p>td {</p>\n\n<p>border: 1px solid lightgrey;</p>\n\n<p>padding: 10px;</p>\n\n<p>text-align: left;</p>\n\n<p>}</p>\n\n</style>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The instantaneous velocity of a particle moving in a straight line is given as $$V = \\alpha t + \\beta {t^2}$$, where $$\\alpha$$ and $$\\beta$$ are constants. The distance travelled by the particle between 1s and 2s is :",
+      "options": [
+        {
+          "key": "A",
+          "value": "3$$\\alpha$$ + 7$$\\beta$$"
+        },
+        {
+          "key": "B",
+          "value": "$${3 \\over 2}\\alpha  + {7 \\over 3}\\beta $$"
+        },
+        {
+          "key": "C",
+          "value": "$${\\alpha  \\over 2} + {\\beta  \\over 3}$$"
+        },
+        {
+          "key": "D",
+          "value": "$${3 \\over 2}\\alpha  + {7 \\over 2}\\beta $$"
+        }
+      ],
+      "answer": "B",
+      "explanation": "$$V = \\alpha t + \\beta {t^2}$$<br><br>$${{ds} \\over {dt}} = \\alpha t + \\beta {t^2}$$<br><br>$$\\int\\limits_{{S_1}}^{{S_2}} {ds = \\int\\limits_1^2 {(\\alpha t + \\beta {t^2})dt} } $$<br><br>$${S_2} - {S_1} = \\left[ {{{\\alpha {t^2}} \\over 2} + {{\\beta {t^3}} \\over 3}} \\right]_1^2$$<br><br>As particle is not changing direction <br><br>So distance = displacement<br><br>Distance = $$\\left[ {{{\\alpha [4 - 1]} \\over 2} + {{\\beta [8 - 1]} \\over 3}} \\right]$$<br><br>$$ = {{3\\alpha } \\over 2} + {{7\\beta } \\over 3}$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Water droplets are coming from an open tap at a particular rate. The spacing between a droplet observed at 4<sup>th</sup> second after its fall to the next droplet is 34.3 m. At what rate the droplets are coming from the tap ? (Take g = 9.8 m/s<sup>2</sup>)",
+      "options": [
+        {
+          "key": "A",
+          "value": "3 drops / 2 sconds"
+        },
+        {
+          "key": "B",
+          "value": "2 drops / second"
+        },
+        {
+          "key": "C",
+          "value": "1 drop / second"
+        },
+        {
+          "key": "D",
+          "value": "1 drop / 7 seconds"
+        }
+      ],
+      "answer": "C",
+      "explanation": "In 4 sec. 1<sup>st</sup> drop will travel<br><br>$$ \\Rightarrow {1 \\over 2}$$ $$\\times$$ (9.8) $$\\times$$ (4)<sup>2</sup> = 78.4 m<br><br>$$\\therefore$$ 2<sup>nd</sup> drop would have travelled<br><br>$$\\Rightarrow$$ 78.4 $$-$$ 34.3 = 44.1 m.<br><br>Time for 2<sup>nd</sup> drop<br><br>$$ \\Rightarrow {1 \\over 2}$$(9.8)t<sup>2</sup> = 44.1<br><br>t = 3 sec<br><br>$$\\therefore$$ each drop have time gap of 1 sec<br><br>$$\\therefore$$ 1 drop per sec"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A boy reaches the airport and finds that the escalator is not working. He walks up the stationary escalator in time t<sub>1</sub>. If he remains stationary on a moving escalator then the escalator takes him up in time t<sub>2</sub>. The time taken by him to walk up on the moving escalator will be :",
+      "options": [
+        {
+          "key": "A",
+          "value": "$${{{t_1}{t_2}} \\over {{t_2} - {t_1}}}$$"
+        },
+        {
+          "key": "B",
+          "value": "$${{{t_1} + {t_2}} \\over 2}$$"
+        },
+        {
+          "key": "C",
+          "value": "$${{{t_1}{t_2}} \\over {{t_2} + {t_1}}}$$"
+        },
+        {
+          "key": "D",
+          "value": "$${t_2} - {t_1}$$"
+        }
+      ],
+      "answer": "C",
+      "explanation": "L = Length of escalator<br><br>$${V_{b/esc}} = {L \\over {{t_1}}}$$<br><br>When only escalator is moving.<br><br>$${V_{esc}} = {L \\over {{t_2}}}$$<br><br>when both are moving<br><br>$${V_{b/g}} = {V_{b/esc}} + {V_{esc}}$$<br><br>$${V_{b/g}} = {L \\over {{t_1}}} + {L \\over {{t_2}}} \\Rightarrow \\left[ {t = {L \\over {{V_{b/g}}}} = {{{t_1}{t_2}} \\over {{t_1} + {t_2}}}} \\right]$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The velocity of a particle is v = v<sub>0</sub> + gt + Ft<sup>2</sup>. Its position is x = 0 at t = 0; then its displacement after time (t = 1) is :",
+      "options": [
+        {
+          "key": "A",
+          "value": "v<sub>0</sub> + g + f"
+        },
+        {
+          "key": "B",
+          "value": "v<sub>0</sub> + $${g \\over 2}$$ + $${F \\over 3}$$"
+        },
+        {
+          "key": "C",
+          "value": "v<sub>0</sub> + 2g + 3F"
+        },
+        {
+          "key": "D",
+          "value": "v<sub>0</sub> + $${g \\over 2}$$ + F"
+        }
+      ],
+      "answer": "B",
+      "explanation": "<p>The velocity of a particle is given by $ v = v_0 + gt + Ft^2 $. Its position is $ x = 0 $ at $ t = 0 $. To find its displacement after time $ t = 1 $, follow these steps:</p>\n\n<p>Given:</p>\n\n<p>$ v = v_0 + gt + Ft^2 $</p>\n\n<p>We know that:</p>\n\n<p>$ \\frac{dx}{dt} = v_0 + gt + Ft^2 $</p>\n\n<p>To find the displacement, integrate both sides with respect to $ t $:</p>\n\n<p>$ \\int_{x = 0}^{x} dx = \\int_{t = 0}^{t = 1} (v_0 + gt + Ft^2) \\, dt $</p>\n\n<p>This simplifies to:</p>\n\n<p>$ x = \\left[ v_0 t + \\frac{gt^2}{2} + \\frac{Ft^3}{3} \\right]_{t = 0}^{t = 1} $</p>\n\n<p>Evaluating the integral from $ t = 0 $ to $ t = 1 $:</p>\n\n<p>$ x = v_0 + \\frac{g}{2} + \\frac{F}{3} $</p>\n\n<p>Therefore, the displacement after time $ t = 1 $ is:</p>\n\n<p>$ x = v_0 + \\frac{g}{2} + \\frac{F}{3} $</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Train A and train B are running on parallel\ntracks in the opposite directions with speeds of\n36 km/hour and 72 km/hour, respectively. A\nperson is walking in train A in the direction\nopposite to its motion with a speed of 1.8 km/\nhour. Speed (in ms<sup>–1</sup>) of this person as\nobserved from train B will be close to : <br>(take the\ndistance between the tracks as negligible)",
+      "options": [
+        {
+          "key": "A",
+          "value": "30.5 ms<sup>–1</sup>"
+        },
+        {
+          "key": "B",
+          "value": "29.5 ms<sup>–1</sup>"
+        },
+        {
+          "key": "C",
+          "value": "31.5 ms<sup>–1</sup>"
+        },
+        {
+          "key": "D",
+          "value": "28.5 ms<sup>–1</sup>"
+        }
+      ],
+      "answer": "B",
+      "explanation": "Velocity of man with respect to ground\n<br><br>$${\\overrightarrow V _{m/g}}$$ = $${\\overrightarrow V _{m/A}}$$ + $${\\overrightarrow V _{A}}$$\n<br><br>= -1.8 + 36\n<br><br>Velocity of man w.r.t. B\n<br><br>$${\\overrightarrow V _{m/B}}$$ = $${\\overrightarrow V _{m}}$$ - $${\\overrightarrow V _{B}}$$\n<br><br>= –1.8 + 36 – (–72)\n<br><br>= 106.2 km/hr\n<br><br>= 29.5 m/s "
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A particle is moving with speed v = b$$\\sqrt x $$ along positive x-axis. Calculate the speed of the particle at\ntime t = $$\\tau $$(assume that the particle is at origin t = 0) \n",
+      "options": [
+        {
+          "key": "A",
+          "value": "$${{{b^2}\\tau } \\over {\\sqrt 2 }}$$"
+        },
+        {
+          "key": "B",
+          "value": "$${{b^2}\\tau }$$"
+        },
+        {
+          "key": "C",
+          "value": "$${{{b^2}\\tau } \\over 2}$$"
+        },
+        {
+          "key": "D",
+          "value": "$${{{b^2}\\tau } \\over 4}$$"
+        }
+      ],
+      "answer": "C",
+      "explanation": "v = b$$\\sqrt x $$\n<br>$$ \\Rightarrow $$ $${{dx} \\over {dt}}$$ = b$$\\sqrt x $$\n<br>$$ \\Rightarrow $$$$\\int\\limits_0^x {{{dx} \\over {\\sqrt x }}}  = \\int\\limits_0^t  {bdt} $$\n<br>$$ \\Rightarrow $$$$\\left[ {{{{x^{ - {1 \\over 2} + 1}}} \\over { - {1 \\over 2} + 1}}} \\right]_0^x$$ = $$b\\left[ t \\right]_0^t$$\n<br>$$ \\Rightarrow $$ $${x^{{1 \\over 2}}} = {{bt} \\over 2}$$\n<br>$$ \\Rightarrow $$ $$x = {{{b^2}{t^2}} \\over 4}$$\n<br><br>$$ \\therefore $$ v =  $${{dx} \\over {dt}}$$ = $${{{b^2}} \\over 4}$$ $$ \\times $$ 2t = $${{{b^2}t} \\over 2}$$\n<br>When t = $$\\tau $$ then speed v  $$ = {{{b^2}\\tau } \\over 2}$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The position of a particle as a function of time\nt, is given by<br>x(t) = at + bt<sup>2</sup> – ct<sup>3</sup><br>\nwhere a, b and c are constants. When the\nparticle attains zero acceleration, then its\nvelocity will be :",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$a + {{{b^2}} \\over {c}}$$"
+        },
+        {
+          "key": "B",
+          "value": "$$a + {{{b^2}} \\over {4c}}$$"
+        },
+        {
+          "key": "C",
+          "value": "$$a + {{{b^2}} \\over {3c}}$$"
+        },
+        {
+          "key": "D",
+          "value": "$$a + {{{b^2}} \\over {2c}}$$"
+        }
+      ],
+      "answer": "C",
+      "explanation": "x = at + bt<sup>2</sup> – ct<sup>3</sup><br><br>\n$$V = {{dx} \\over {dt}} = a + 2bt - 3c{t^2}$$<br><br>\n$$a = {{dv} \\over {dt}} = 2b - 6ct$$<br><br>\nPut acceleration = 0<br><br>\n$$ \\Rightarrow t = {b \\over {3c}}$$<br><br>\nNow V at t = $${b \\over {3c}}$$<br><br>\n$$V = a + {{{b^2}} \\over {3c}}$$\n"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The position vector of a particle changes with\ntime according to the relation\n$$\\overrightarrow r (t) = 15{t^2}\\widehat i + (4 - 20{t^2})\\widehat j$$<br> What is the\nmagnitude of the acceleration at t = 1 ?",
+      "options": [
+        {
+          "key": "A",
+          "value": "50"
+        },
+        {
+          "key": "B",
+          "value": "25"
+        },
+        {
+          "key": "C",
+          "value": "40"
+        },
+        {
+          "key": "D",
+          "value": "100"
+        }
+      ],
+      "answer": "A",
+      "explanation": "$$\\overrightarrow r  = \\left( {15{t^2}} \\right)\\widehat i + \\left( {4 - 20{t^2}} \\right)\\widehat j$$<br><br>\n$$\\overrightarrow v  = {{d\\overrightarrow r } \\over {dt}} = \\left( {30t} \\right)\\widehat i - \\left( {40t} \\right)\\widehat j$$<br><br>\n$$\\overrightarrow a  = {{d\\overrightarrow v } \\over {dt}} = \\left( {30} \\right)\\widehat i - \\left( {40} \\right)\\widehat j$$<br><br>\n$$\\left| {\\overrightarrow a } \\right| = 50$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A passenger train of length 60 m travels at a speed of 80 km/hr. Another freight train of length 120 m travels at a speed of 30 km/hr. The ratio of times taken by the passenger train to completely cross the freight train when : (i) they are moving in the same direction , and (ii) in the opposite direction is : ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$${{25} \\over {11}}$$"
+        },
+        {
+          "key": "B",
+          "value": "$${3 \\over 2}$$"
+        },
+        {
+          "key": "C",
+          "value": "$${{11} \\over 5}$$"
+        },
+        {
+          "key": "D",
+          "value": "$${5 \\over 2}$$"
+        }
+      ],
+      "answer": "C",
+      "explanation": "The total distance to be travelled by the train is\n60 + 120 = 180 m.\n<br><br>When the trains are moving in the same direction, relative\nvelocity is<br> v<sub>1</sub>\n – v<sub>2</sub>\n = 80 – 30 = 50 km hr<sup>–1</sup>\n<br><br>So time taken to cross each other,\n<br><br>t<sub>1</sub> = $${{180} \\over {50 \\times {{{{10}^3}} \\over {3600}}}}$$\n<br><br>When the trains are moving in opposite direction, relative\nvelocity is<br> |v<sub>1</sub>\n – (–v<sub>2</sub>\n)| = 80 + 30 = 110 km hr<sup>–1</sup>\n<br><br>$$ \\therefore $$ Time taken to cross each other\n<br><br>t<sub>2</sub> = $${{180} \\over {110 \\times {{{{10}^3}} \\over {3600}}}}$$\n<br><br>$$ \\therefore $$ $${{{t_1}} \\over {{t_2}}} = {{{{180} \\over {50 \\times {{{{10}^3}} \\over {3600}}}}} \\over {{{180} \\over {110 \\times {{{{10}^3}} \\over {3600}}}}}}$$ = $${{11} \\over 5}$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A particle moves from the point $$\\left( {2.0\\widehat i + 4.0\\widehat j} \\right)$$ m, at t = 0, with an initial velocity $$\\left( {5.0\\widehat i + 4.0\\widehat j} \\right)$$ ms<sup>$$-$$1</sup>. It is acted upon by a constant force which produces a constant acceleration $$\\left( {4.0\\widehat i + 4.0\\widehat j} \\right)$$ ms<sup>$$-$$2</sup>.  What is the distance of the particle from the origin at time 2 s?",
+      "options": [
+        {
+          "key": "A",
+          "value": "15 m"
+        },
+        {
+          "key": "B",
+          "value": "$$20\\sqrt 2 $$ m"
+        },
+        {
+          "key": "C",
+          "value": "$$10\\sqrt 2 $$ m"
+        },
+        {
+          "key": "D",
+          "value": "5 m"
+        }
+      ],
+      "answer": "B",
+      "explanation": "$$\\overrightarrow S  = \\left( {5\\widehat i + 4} \\right)2 + {1 \\over 2}\\left( {4\\widehat i + 4\\widehat j} \\right)4$$\n<br><br>$$ = 10\\widehat i + 8\\widehat j + 8\\widehat i + 8\\widehat j$$\n<br><br>$$\\overrightarrow {{r_f}}  - \\overrightarrow {{r_i}}  = 18\\widehat i + 16\\widehat j$$\n<br><br>$$\\overrightarrow {{r_f}}  = 20\\widehat i + 20\\widehat j$$\n<br><br>$$\\left| {\\overrightarrow {{r_f}} } \\right| = 20\\sqrt 2 $$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "In a car race on straight road, car A takes a time t less than car B at the finish and passes finishing point with a speed '$$\\upsilon $$' more than that of car B. Both the cars start from rest and travel with constant acceleration a<sub>1</sub> and a<sub>2</sub> respectively. Then '$$\\upsilon $$' is equal  to : ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$${{2{a_1}{a_2}} \\over {{a_1} + {a_2}}}t$$"
+        },
+        {
+          "key": "B",
+          "value": "$$\\sqrt {2{a_1}{a_2}} t$$"
+        },
+        {
+          "key": "C",
+          "value": "$$\\sqrt {{a_1}{a_2}} t$$"
+        },
+        {
+          "key": "D",
+          "value": "$${{{a_1} + {a_2}} \\over 2}t$$"
+        }
+      ],
+      "answer": "C",
+      "explanation": "For both car initial speed ($$\\mu $$) = 0\n<br><br>Let the acceleration of car A and car B is $$a$$<sub>1</sub>  and  $$a$$<sub>2</sub> respectively.\n<br><br>Also let the time taken to reach the finishing point for car A is t<sub>1</sub> and for car B is t<sub>2</sub>.\n<br><br>Let at finishing point speed of car A is $$v$$<sub>1</sub> and speed of car B is $$v$$<sub>2</sub>\n<br><br>According to the question, \n<br><br>t<sub>2</sub> $$-$$ t<sub>1</sub> = t\n<br><br>and &nbsp;&nbsp;$$v$$<sub>1</sub> $$-$$ $$v$$<sub>2</sub> = $$v$$\n<br><br>$$ \\Rightarrow $$&nbsp;&nbsp;$$a$$<sub>1</sub>t<sub>1</sub> $$-$$ $$a$$<sub>2</sub>t<sub>2</sub> = $$v$$\n<br><br>$$ \\Rightarrow $$&nbsp;&nbsp;$$a$$<sub>1</sub>t<sub>1</sub> $$-$$ $$a$$<sub>2</sub>(t + t<sub>1</sub>) = $$v$$ . . . . . . .(1)\n<br><br>As, Total distance covered by both car is equal.\n<br><br>So, &nbsp;&nbsp;x<sub>A</sub> = x<sub>B</sub>\n<br><br>$$ \\Rightarrow $$&nbsp;&nbsp;$${1 \\over 2}{a_1}t_1^2 = {1 \\over 2}{a_2}t_2^2$$\n<br><br>$$ \\Rightarrow $$&nbsp;&nbsp;$$a$$<sub>1</sub>t$$_1^2$$ = $$a$$<sub>2</sub> (t + t<sub>1</sub>)<sup>2</sup>\n<br><br>$$ \\Rightarrow $$&nbsp;&nbsp;$$\\sqrt {{a_1}} .{t_1}$$ = $$\\sqrt {{a_2}} $$ . (t + t<sub>1</sub>)\n<br><br>$$ \\Rightarrow $$&nbsp;&nbsp;$$\\sqrt {{a_1}} .{t_1} - \\sqrt {{a_2}} .{t_1} = \\sqrt {{a_2}} .t$$\n<br><br>$$ \\Rightarrow $$&nbsp;&nbsp;t<sub>1</sub>  = $${{\\sqrt {{a_2}} .t} \\over {\\sqrt {{a_1}}  - \\sqrt {{a_2}} }}\\,\\,\\,\\,\\,\\,\\,.....(2)$$\n<br><br>Now put the value of t<sub>1</sub> in equation (2), \n<br><br>($$a$$<sub>1</sub> $$-$$ $$a$$<sub>2</sub>) t<sub>1</sub> $$-$$ $$a$$<sub>2</sub>t = $$v$$\n<br><br>$$ \\Rightarrow $$&nbsp;&nbsp;(a<sub>1</sub> $$-$$ a<sub>2</sub>) . $${{\\sqrt {{a_2}} .t} \\over {\\sqrt {{a_1}}  - \\sqrt {{a_2}} }} - {a_2}t = v$$\n<br><br>$$ \\Rightarrow $$&nbsp;&nbsp;$$\\left( {\\sqrt {{a_1}}  + \\sqrt {{a_2}} } \\right)\\sqrt {{a_2}} .t - {a_2}t = v$$\n<br><br>$$ \\Rightarrow $$&nbsp;&nbsp;$$\\sqrt {{a_1}{a_2}} .t + {a_2}.t - {a_2}t = v$$\n<br><br>$$ \\Rightarrow $$&nbsp;&nbsp;$$v$$ = $$\\sqrt {{a_1}{a_2}} .t$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "An automobile, travelling at $$40\\,$$ km/h, can be stopped at a distance of $$40\\,$$ m by applying brakes. If the same automobile is travelling at $$80\\,$$ km/h, the minimum stopping distance, in metres, is (assume no skidding) :",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$45\\,$$ m"
+        },
+        {
+          "key": "B",
+          "value": "$$100\\,$$ m"
+        },
+        {
+          "key": "C",
+          "value": "$$150\\,$$ m"
+        },
+        {
+          "key": "D",
+          "value": "$$160\\,$$ m"
+        }
+      ],
+      "answer": "D",
+      "explanation": "<p>An automobile traveling at 40 km/h can be stopped within a distance of 40 meters by using brakes. If the same automobile is traveling at 80 km/h, we need to determine the minimum stopping distance in meters, assuming no skidding occurs.</p>\n\n<h3>First Case</h3>\n\n<ul>\n<li>Initial speed, $ u_1 = 40 \\, \\text{km/h} $</li><br>\n<li>Final speed, $ v_1 = 0 \\, \\text{m/s} $</li><br>\n<li>Stopping distance, $ s_1 = 40 \\, \\text{m} $</li>\n</ul>\n<p>Using the equation:</p>\n\n<p>$ v^2 - u^2 = 2as $</p>\n\n<p>For the first case:</p>\n\n<p>$ 0^2 - 40^2 = 2a \\times 40 $</p>\n\n<p>$ -1600 = 80a $</p>\n\n<p>$ a = -20 \\, \\text{m/s}^2 $</p>\n\n<h3>Second Case</h3>\n\n<ul>\n<li>Initial speed, $ u_2 = 80 \\, \\text{km/h} $</li><br>\n<li>Final speed, $ v_2 = 0 \\, \\text{m/s} $</li>\n</ul>\n<p>Similarly, using the same equation:</p>\n\n<p>$ 0^2 - 80^2 = 2a s_2 $</p>\n\n<p>$ -6400 = 2a s_2 $</p>\n\n<p>Since $ a = -20 \\, \\text{m/s}^2 $, divide both sides of the equation for the second case by the first case:</p>\n\n<p>$ \\frac{s_2}{40} = \\frac{80^2}{40^2} $</p>\n\n<p>$ s_2 = \\frac{80 \\times 80}{40} $</p>\n\n<p>$ s_2 = 160 \\, \\text{m} $</p>\n\n<p>Thus, the minimum stopping distance when the automobile is traveling at 80 km/h is 160 meters.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A car is standing 200 m behind a bus, which is also at rest. The two start moving at the same instant but with different forward accelerations. The bus has acceleration 2 m/s<sup>2</sup>  and the car has acceleration 4 m/s<sup>2</sup> . The car will catch up with the bus after a time of :\n",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$\\sqrt {110} \\,s$$ "
+        },
+        {
+          "key": "B",
+          "value": "$$\\sqrt {120} \\,s$$"
+        },
+        {
+          "key": "C",
+          "value": "$$10\\,\\,\\sqrt 2 \\,s$$ "
+        },
+        {
+          "key": "D",
+          "value": "15 s"
+        }
+      ],
+      "answer": "C",
+      "explanation": "Acceleration of Car,  a<sub>C</sub> = 4 m/s<sup>2</sup>\n<br><br>Acceleration of bus, a<sub>B</sub> = 2 m/s<sup>2</sup>\n<br><br>Initial distance between them, S = 200 m\n<br><br>Acceleration of Car with respect to bus, \n<br><br>a<sub>CB</sub> = a<sub>C</sub> $$-$$ a<sub>B</sub> = 4 $$-$$ 2 = 2 m/s<sup>2</sup>\n<br><br>As initially both  are at rest so, u<sub>CB</sub> = 0\n<br><br>$$\\therefore\\,\\,\\,$$ S = U<sub>CB</sub> $$ \\times $$ t + $${1 \\over 2}$$ a<sub>CB</sub> $$ \\times $$ t<sup>2</sup>\n<br><br>$$ \\Rightarrow $$$$\\,\\,\\,$$ 200 = 0 + $${1 \\over 2}$$ $$ \\times $$ 2 $$ \\times $$ t<sup>2</sup>\n<br><br>$$ \\Rightarrow $$$$\\,\\,\\,$$ t<sup>2</sup><sup></sup> = 200\n<br><br>$$ \\Rightarrow $$$$\\,\\,\\,$$ t = 10$$\\sqrt 2 $$ sec."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "An object, moving with a speed of 6.25 m/s, is decelerated at a rate given by :\n<br>$${{dv} \\over {dt}} =  - 2.5\\sqrt v $$ where v is the instantaneous speed. The time taken by the object, to come to rest, would be :",
+      "options": [
+        {
+          "key": "A",
+          "value": "2 s"
+        },
+        {
+          "key": "B",
+          "value": "4 s"
+        },
+        {
+          "key": "C",
+          "value": "8 s"
+        },
+        {
+          "key": "D",
+          "value": "1 s"
+        }
+      ],
+      "answer": "A",
+      "explanation": "Given $${{dv} \\over {dt}} =  - 2.5\\sqrt v  $$\n<br><br>$$\\Rightarrow {{dv} \\over {\\sqrt v }} =  - 2.5dt$$ \n<br><br>On integrating, $$\\int_{6.25}^0 {{v^{ - {\\raise0.5ex\\hbox{$\\scriptstyle 1$}\n\\kern-0.1em/\\kern-0.15em\n\\lower0.25ex\\hbox{$\\scriptstyle 2$}}}}} \\,dv =  - 2.5\\int_0^t {dt} $$ \n<br><br>$$ \\Rightarrow \\left[ {{{{v^{ + {\\raise0.5ex\\hbox{$\\scriptstyle 1$}\n\\kern-0.1em/\\kern-0.15em\n\\lower0.25ex\\hbox{$\\scriptstyle 2$}}}}} \\over {\\left( {{\\raise0.5ex\\hbox{$\\scriptstyle 1$}\n\\kern-0.1em/\\kern-0.15em\n\\lower0.25ex\\hbox{$\\scriptstyle 2$}}} \\right)}}} \\right]_{6.25}^0 =  - 2.5\\left[ t \\right]_0^t$$\n<br><br>$$ \\Rightarrow  - 2{\\left( {6.25} \\right)^{{\\raise0.5ex\\hbox{$\\scriptstyle 1$}\n\\kern-0.1em/\\kern-0.15em\n\\lower0.25ex\\hbox{$\\scriptstyle 2$}}}} =  - 2.5t$$ \n<br><br>$$ \\Rightarrow t = 2\\,sec$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The velocity of a particle is v = v<sub>0</sub> + gt + ft<sup>2</sup>. If its position is x = 0 at t = 0, then its displacement after unit time (t = 1) is",
+      "options": [
+        {
+          "key": "A",
+          "value": "v<sub>0</sub> + g/2 + f"
+        },
+        {
+          "key": "B",
+          "value": "v<sub>0</sub> + 2g + 3f"
+        },
+        {
+          "key": "C",
+          "value": "v<sub>0</sub> + g/2 + f/3"
+        },
+        {
+          "key": "D",
+          "value": "v<sub>0</sub> + g + f"
+        }
+      ],
+      "answer": "C",
+      "explanation": "Given that, v = v<sub>0</sub> + gt + ft<sup>2</sup>\n<br><br>We know that, $$v = {{dx} \\over {dt}} $$\n<br><br>$$\\Rightarrow dx = v\\,dt$$\n<br><br>Integrating, $$\\int\\limits_0^x {dx}  = \\int\\limits_0^t {v\\,dt} $$\n<br><br>or $$\\,\\,\\,\\,\\,x = \\int\\limits_0^t {\\left( {{v_0} + gt + f{t^2}} \\right)} dt$$\n<br><br>$$\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\, = \\left[ {{v_0}t + {{g{t^2}} \\over 2} + {{f{t^3}} \\over 3}} \\right]_0^t$$\n<br><br>or $$\\,\\,\\,\\,\\,x = {v_0}t + {{g{t^2}} \\over 2} + {{f{t^3}} \\over 3}$$\n<br><br>At $$t = 1,\\,\\,\\,\\,\\,x = {v_0} + {g \\over 2} + {f \\over 3}.$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A particle located at x = 0 at time t = 0, starts moving along the positive x-direction with a velocity\n'v' that varies as $$v = \\alpha \\sqrt x $$. The displacement of the particle varies with time as ",
+      "options": [
+        {
+          "key": "A",
+          "value": "t<sup>2</sup>"
+        },
+        {
+          "key": "B",
+          "value": "t"
+        },
+        {
+          "key": "C",
+          "value": "t<sup>1/2</sup>"
+        },
+        {
+          "key": "D",
+          "value": "t<sup>3</sup>"
+        }
+      ],
+      "answer": "A",
+      "explanation": "<p>Given the velocity function: $$v = \\alpha \\sqrt{x}$$</p>\n\n<p>We know that velocity $v$ is the rate of change of displacement with respect to time:</p>\n\n<p>$$\\therefore \\frac{dx}{dt} = \\alpha \\sqrt{x}$$</p>\n\n<p>Rearranging and separating variables, we get:</p>\n\n<p>$$\\Rightarrow \\frac{dx}{\\sqrt{x}} = \\alpha \\, dt$$</p>\n\n<p>To solve this, we integrate both sides:</p>\n\n<p>$$\\int\\limits_{0}^{x} \\frac{dx}{\\sqrt{x}} = \\alpha \\int\\limits_{0}^{t} dt$$</p>\n\n<p>This gives us:</p>\n\n<p>$$\\Rightarrow \\left[ \\frac{2\\sqrt{x}}{1} \\right]_{0}^{x} = \\alpha \\left[t\\right]_{0}^{t}$$</p>\n\n<p>Simplifying, we obtain:</p>\n\n<p>$$\\Rightarrow 2\\sqrt{x} = \\alpha t $$</p>\n\n<p>Squaring both sides:</p>\n\n<p>$$\\Rightarrow x = \\frac{\\alpha^2}{4} t^2$$</p>\n\n<p>Thus, the displacement $x$ varies with time $t$ as:</p>\n\n<p>$$x \\propto t^2$$</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The relation between time t and distance x is t = ax<sup>2</sup> + bx where a and b are constants.\nThe acceleration is",
+      "options": [
+        {
+          "key": "A",
+          "value": "2bv<sup>3</sup>"
+        },
+        {
+          "key": "B",
+          "value": "-2abv<sup>2</sup>"
+        },
+        {
+          "key": "C",
+          "value": "2av<sup>2</sup>"
+        },
+        {
+          "key": "D",
+          "value": "-2av<sup>3</sup>"
+        }
+      ],
+      "answer": "D",
+      "explanation": "<p>The relationship between time $ t $ and distance $ x $ is defined as $ t = ax^2 + bx $, where $ a $ and $ b $ are constants.</p>\n\n<p>To find the acceleration, follow these steps:</p>\n\n<p>First, differentiate the equation with respect to time $ t $:</p>\n\n<p>$ \\frac{d}{dt}(t) = a \\frac{d}{dt}(x^2) + b \\frac{dx}{dt} $</p>\n\n<p>This simplifies to:</p>\n\n<p>$ 1 = a \\cdot 2x \\frac{dx}{dt} + b \\frac{dx}{dt} $</p>\n\n<p>Given $ \\frac{dx}{dt} = v $ (where $ v $ is the velocity), we can write:</p>\n\n<p>$ 1 = 2axv + bv = v(2ax + b) $</p>\n\n<p>This simplifies to:</p>\n\n<p>$ 2ax + b = \\frac{1}{v} $</p>\n\n<p>Next, differentiate the expression $ 2ax + b = \\frac{1}{v} $ again with respect to $ t $:</p>\n\n<p>$ 2a \\frac{dx}{dt} + 0 = -\\frac{1}{v^2} \\frac{dv}{dt} $</p>\n\n<p>Using $ \\frac{dx}{dt} = v $, we get:</p>\n\n<p>$ 2av = -\\frac{1}{v^2} \\frac{dv}{dt} $</p>\n\n<p>Solving for $ \\frac{dv}{dt} $:</p>\n\n<p>$ \\frac{dv}{dt} = -2a v^3 $</p>\n\n<p>Since acceleration $ f = \\frac{dv}{dt} $, we have:</p>\n\n<p>$ f = -2av^3 $</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "An automobile travelling with speed of 60 km/h, can brake to stop within a distance of 20 m.\nIf the car is going twice as fast, i.e 120 km/h, the stopping distance will be",
+      "options": [
+        {
+          "key": "A",
+          "value": "60 m"
+        },
+        {
+          "key": "B",
+          "value": "40 m"
+        },
+        {
+          "key": "C",
+          "value": "20 m"
+        },
+        {
+          "key": "D",
+          "value": "80 m"
+        }
+      ],
+      "answer": "D",
+      "explanation": "Assume $$a$$ be the retardation for both the vehicle then\n<br><br>In case of automobile,\n<br><br>$$u_1^2 - 2a{s_1} = 0$$\n<br><br>$$ \\Rightarrow u_1^2 = 2a{s_1}$$\n<br><br>And in case for car,\n<br><br>$$u_2^2 = 2a{s_2}$$\n<br><br>$$\\therefore$$ $${\\left( {{{{u_2}} \\over {{u_1}}}} \\right)^2} = {{{s_2}} \\over {{s_1}}}$$\n<br><br>$$ \\Rightarrow {\\left( {{{120} \\over {60}}} \\right)^2} = {{{s_2}} \\over {20}}$$\n<br><br>$$ \\Rightarrow$$ s<sub>2</sub> = 80 m"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A ball is released from the top of a tower of height h meters. It takes T seconds to reach the\nground. What is the position of the ball in $${T \\over 3}$$ seconds?",
+      "options": [
+        {
+          "key": "A",
+          "value": "$${{8h} \\over 9}$$ meters from the ground "
+        },
+        {
+          "key": "B",
+          "value": "$${{7h} \\over 9}$$ meters from the ground"
+        },
+        {
+          "key": "C",
+          "value": "$${h \\over 9}$$ meters from the ground"
+        },
+        {
+          "key": "D",
+          "value": "$${{7h} \\over {18}}$$ meters from the ground"
+        }
+      ],
+      "answer": "A",
+      "explanation": "We know that equation of motion, $$s = ut + {1 \\over 2}g{t^2},\\,\\,$$ \n<br><br>Initial speed of ball is zero and it take T second to reach the ground.\n<br><br>$$\\therefore$$ $$h = {1 \\over 2}g{T^2}$$ \n<br><br>After $$T/3$$ second, vertical distance moved by the ball\n<br><br>$$h' = {1 \\over 2}g{\\left( {{T \\over 3}} \\right)^2} $$\n<br><br>$$\\Rightarrow h' = {1 \\over 2} \\times {{8{T^2}} \\over 9}$$\n<br><br>$$ = {h \\over 9}$$\n<br><br>$$\\therefore$$ Height from ground \n<br><br>$$ = h - {h \\over 9} = {{8h} \\over 9}$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A car, moving with a speed of 50 km/hr, can be stopped by brakes after at least 6 m. If the\nsame car is moving at a speed of 100 km/hr, the minimum stopping distance is",
+      "options": [
+        {
+          "key": "A",
+          "value": "12 m"
+        },
+        {
+          "key": "B",
+          "value": "18 m"
+        },
+        {
+          "key": "C",
+          "value": "24 m"
+        },
+        {
+          "key": "D",
+          "value": "6 m"
+        }
+      ],
+      "answer": "C",
+      "explanation": "<b>For case 1 :</b>\n<br> u = 50 km/hr = $${{50 \\times 1000} \\over {3600}}$$ m/s = $${{125} \\over 9}$$ m/s, v = 0, s = 6 m, $$a$$ = ?\n<br><br>$$\\therefore$$ 0<sup>2</sup> = u<sup>2</sup> + 2$$a$$s\n<br><br>$$ \\Rightarrow $$ $$a =  - {{{u^2}} \\over {2s}}$$ <br><br>$$ \\Rightarrow $$  $$a =  - {{{{\\left( {{{125} \\over 9}} \\right)}^2}} \\over {2 \\times 6}}$$ = $$-$$16 m/s<sup>2</sup>\n<br><br><b>For case 2 :</b>\n<br>u = 100 km/hr = $${{100 \\times 1000} \\over {3600}}$$ m/s = $${{250} \\over 9}$$ m/s, v = 0, $$a$$ = $$-$$16, s = ?\n<br><br>$$\\therefore$$ 0<sup>2</sup> = u<sup>2</sup> + 2$$a$$s\n<br><br>$$ \\Rightarrow $$ $$s =  - {{{u^2}} \\over {2a}}$$ <br><br>$$ \\Rightarrow $$ $$s =  - {{{{\\left( {{{250} \\over 9}} \\right)}^2}} \\over {2 \\times -16}}$$ = 24 m"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The co-ordinates of a moving particle at any time 't' are given by x = $$\\alpha $$t<sup>3</sup> and y = βt<sup>3</sup>. The speed to the particle at time 't' is given by",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$3t\\sqrt {{\\alpha ^2} + {\\beta ^2}} $$"
+        },
+        {
+          "key": "B",
+          "value": "$$3{t^2}\\sqrt {{\\alpha ^2} + {\\beta ^2}} $$"
+        },
+        {
+          "key": "C",
+          "value": "$${t^2}\\sqrt {{\\alpha ^2} + {\\beta ^2}} $$"
+        },
+        {
+          "key": "D",
+          "value": "$$\\sqrt {{\\alpha ^2} + {\\beta ^2}} $$"
+        }
+      ],
+      "answer": "B",
+      "explanation": "Given that $$x = \\alpha {t^3}\\,\\,\\,\\,$$ and $$\\,\\,\\,\\,y = \\beta {t^3}$$\n<br><br>$$\\therefore$$ $${v_x} = {{dx} \\over {dt}} = 3\\alpha {t^2}\\,\\,\\,\\,$$ \n<br><br>and$$\\,\\,\\,\\,\\,{v_y} = {{dy} \\over {dt}} = 3\\beta {t^2}$$\n<br><br>$$\\therefore$$ $$v = \\sqrt {v_x^2 + v_y^2} $$\n<br><br>$$ = \\sqrt {9{\\alpha ^2}{t^4} + 9{\\beta ^2}{t^4}} $$\n<br><br>$$ = 3{t^2}\\sqrt {{\\alpha ^2} + {\\beta ^2}} $$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Speeds of two identical cars are $$u $$ and $$4$$$$u $$ at the specific instant. The ratio of the respective distances in which the two cars are stopped from that instant is :",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$1:1$$ "
+        },
+        {
+          "key": "B",
+          "value": "$$1:4$$"
+        },
+        {
+          "key": "C",
+          "value": "$$1:8$$  "
+        },
+        {
+          "key": "D",
+          "value": "$$1:16$$ "
+        }
+      ],
+      "answer": "D",
+      "explanation": "<p>Given the initial speeds of two identical cars as $u$ and $4u$, and considering that both cars eventually stop (final speed $v = 0$), we note that both cars decelerate with the same acceleration $-a$.</p>\n\n<p>Using the kinematic equation:</p>\n\n<p>$ v^2 = u^2 - 2as $</p>\n\n<p>Since $v = 0$,</p>\n\n<p>$ 0 = u^2 - 2as $</p>\n\n<p>Hence,</p>\n\n<p>$ u^2 = 2as $</p>\n\n<p>For the first car with speed $u$,</p>\n\n<p>$ u^2 = 2a s_1 \\quad \\text{...(i)} $</p>\n\n<p>For the second car with speed $4u$,</p>\n\n<p>$ (4u)^2 = 2a s_2 \\quad \\text{...(ii)} $</p>\n\n<p>Dividing equation (i) by equation (ii),</p>\n\n<p>$ \\frac{u^2}{(4u)^2} = \\frac{2a s_1}{2a s_2} $</p>\n\n<p>$ \\frac{u^2}{16u^2} = \\frac{s_1}{s_2} $</p>\n\n<p>$ \\frac{1}{16} = \\frac{s_1}{s_2} $</p>\n\n<p>Thus, the ratio of the stopping distances of the two cars is $\\frac{1}{16}$.</p>"
+    },
+    {
+      "_type": "numerical",
+      "body": "<p>A person travelling on a straight line moves with a uniform velocity $v_1$ for a distance $x$ and with a uniform velocity $v_2$ for the next $\\frac{3}{2} x$ distance. The average velocity in this motion is $\\frac{50}{7} \\mathrm{~m} / \\mathrm{s}$. If $v_1$ is $5 \\mathrm{~m} / \\mathrm{s}$ then $v_2=$ __________ $\\mathrm{m} / \\mathrm{s}$.</p>",
+      "answer": "10",
+      "explanation": ""
+    },
+    {
+      "_type": "numerical",
+      "body": "<p>Two cars P and Q are moving on a road in the same direction. Acceleration of car P increases linearly with time whereas car Q moves with a constant acceleration. Both cars cross each other at time t = 0, for the first time. The maximum possible number of crossing(s) (including the crossing at t = 0) is ________.</p>",
+      "answer": "3",
+      "explanation": "<p>Here, we will use the concept of relative motion.</p>\n<p>Let initial (at $$t = 0$$) position of both cars is x = 0 (As they cross each other at t = 0 for Ist time)</p>\n<p>given : For P</p>\n<p>$${a_P} \\propto t$$</p>\n<p>For Q,</p>\n<p>$${a_Q} = a'$$ (Let) (constant)</p>\n<p>$$ \\Rightarrow {a_{{p^{(t)}}}} = kt$$ where, k = constant</p>\n<p>$$ \\Rightarrow {{d{v_p}(t)} \\over {dt}} = kt$$ (as $$a = {{dv} \\over {dt}}$$)</p>\n<p>$$ \\Rightarrow \\int_0^{{v_p}(t)} {d{v_p}(t) = \\int_0^t {ktdt} } $$ [let p and Q both starts from rest]</p>\n<p>$$ \\Rightarrow {v_p}(t) = {{k{t^2}} \\over 2}$$</p>\n<p>$$ \\Rightarrow {{d{x_p}(t)} \\over {dt}} = {{k{t^2}} \\over 2}$$ [As $$v = {{dx} \\over {dt}}$$]</p>\n<p>$$ \\Rightarrow \\int_0^{{x_p}(t)} {d{x_{p(t)}} = \\int_0^t {{{k{t^2}} \\over 2}dt} } $$</p>\n<p>$$ \\Rightarrow {x_p}(t) = {{k{t^3}} \\over 6}$$ .... (1)</p>\n<p>Now, for Q,</p>\n<p>$${x_Q}(t) = {1 \\over 2}{a^1}{t^2}$$ .... (2) [using Newton's 2nd equation of motion]</p>\n<p>So, relative position of P w.r.t. Q,</p>\n<p>$${x_{P{Q^{(t)}}}} = {x_p}(t) - {x_Q}(t)$$</p>\n<p>$$ \\Rightarrow {x_{P{Q^{(t)}}}} = {{k{t^3}} \\over 6} - {1 \\over 2}{a^1}{t^2}$$ (From (1) and (2))</p>\n<p>When both cars cross each other, $X_{PQ}=O$</p>\n<p>As $X_{PQ}(t)$ is a cubic polynomial, so it has maximum 3 roots.</p>\n<p>Hence, the maximum number of crossing = 3</p>"
+    },
+    {
+      "_type": "numerical",
+      "body": "<p>A particle moves in a straight line so that its displacement $$x$$ at any time $$t$$ is given by $$x^2=1+t^2$$. Its acceleration at any time $$\\mathrm{t}$$ is $$x^{-\\mathrm{n}}$$ where $$\\mathrm{n}=$$ _________.</p>",
+      "answer": "3",
+      "explanation": "<p>Given the displacement of the particle $$x^2 = 1 + t^2$$, we want to find the acceleration, which is the second derivative of displacement with respect to time, $$a = \\frac{d^2x}{dt^2}$$, and we are given that the acceleration at any time $$t$$ is $$x^{-n}$$, for us to find the value of $$n$$.</p>\n\n<p>First, let's find the first derivative of displacement with respect to time, which gives us the velocity. Differentiating $$x^2 = 1 + t^2$$ with respect to t, we get:</p>\n\n<p>$$2x\\frac{dx}{dt} = 2t$$</p>\n\n<p>This simplifies to:</p>\n\n<p>$$\\frac{dx}{dt} = \\frac{t}{x}$$</p>\n\n<p>Now, let's differentiate this velocity to find the acceleration:</p>\n\n<p>$$a = \\frac{d^2x}{dt^2} = \\frac{d}{dt}\\left(\\frac{t}{x}\\right)$$</p>\n\n<p>To differentiate $$\\frac{t}{x}$$ with respect to $$t$$, we'll use the quotient rule:</p>\n\n<p>$$\\frac{d}{dt}\\left(\\frac{t}{x}\\right) = \\frac{x\\cdot 1 - t\\cdot \\frac{dx}{dt}}{x^2}$$</p>\n\n<p>Substitute $$\\frac{dx}{dt} = \\frac{t}{x}$$ into the equation:</p>\n\n<p>$$a = \\frac{x(1) - t(\\frac{t}{x})}{x^2} = \\frac{x - \\frac{t^2}{x}}{x^2} = \\frac{x^2 - t^2}{x^3}$$</p>\n\n<p>Recalling that the displacement equation given was $$x^2 = 1 + t^2$$, substitute this into our expression for acceleration:</p>\n\n<p>$$a = \\frac{1 + t^2 - t^2}{x^3} = \\frac{1}{x^3}$$</p>\n\n<p>Thus, the acceleration of the particle at any time $$t$$ is $$x^{-3}$$, which means our value for $$n$$ is $$3$$.</p>"
+    },
+    {
+      "_type": "numerical",
+      "body": "<p>A body moves on a frictionless plane starting from rest. If $$\\mathrm{S_n}$$ is distance moved between $$\\mathrm{t=n-1}$$ and $$\\mathrm{t}=\\mathrm{n}$$ and $$\\mathrm{S}_{\\mathrm{n}-1}$$ is distance moved between $$\\mathrm{t}=\\mathrm{n}-2$$ and $$\\mathrm{t}=\\mathrm{n}-1$$, then the ratio $$\\frac{\\mathrm{S}_{\\mathrm{n}-1}}{\\mathrm{~S}_{\\mathrm{n}}}$$ is $$\\left(1-\\frac{2}{x}\\right)$$ for $$\\mathrm{n}=10$$. The value of $$x$$ is __________.</p>",
+      "answer": "19",
+      "explanation": "<p>Given that a body is moving on a frictionless plane and starts from rest, the motion can be assumed to be uniformly accelerated motion. The formula for the distance covered in uniformly accelerated motion from rest is given by $$s = ut + \\frac{1}{2}at^2$$, where:\n\n<ul>\n<li>$$s$$ is the distance covered,</li><br>\n<li>$$u$$ is the initial velocity (which is 0 since the body starts from rest),</li><br>\n<li>$$a$$ is the acceleration, and</li><br>\n<li>$$t$$ is the time.</li>\n</ul>\n<p>Since the body starts from rest ($$u=0$$), the formula simplifies to $$s = \\frac{1}{2}at^2$$.</p>\n\n<p>The distance moved between $$t = n - 1$$ and $$t = n$$, denoted as $$S_n$$, can be found by calculating the distance covered by the end of time $$n$$ and subtracting the distance covered by the end of time $$n-1$$. Let's denote the total distance covered by time $$n$$ as $$S(n)$$, which according to the formula is $$S(n) = \\frac{1}{2}a n^2$$. Thus, $$S_n = S(n) - S(n-1)$$.</p>\n\n<p>Therefore, we have:</p>\n\n<p>$$S_n = \\frac{1}{2}an^2 - \\frac{1}{2}a(n-1)^2$$</p>\n\n<p>Simplifying this, we get:</p>\n\n<p>$$S_n = \\frac{1}{2}a(n^2 - (n^2 - 2n + 1))$$</p>\n\n<p>This simplifies to:</p>\n\n<p>$$S_n = \\frac{1}{2}a(2n - 1)$$</p>\n\n<p>Similarly,</p>\n\n<p>$$S_{n-1} = \\frac{1}{2}a((n-1)^2 - (n-2)^2)$$</p>\n\n<p>Simplifying:</p>\n\n<p>$$S_{n-1} = \\frac{1}{2}a((n-1)^2 - (n^2 - 4n + 4))$$</p>\n\n<p>Which further simplifies to:</p>\n\n<p>$$S_{n-1} = \\frac{1}{2}a(2n - 3)$$</p>\n\n<p>Hence, the ratio $$\\frac{S_{n-1}}{S_n}$$ can be calculated:</p>\n\n<p>$$\\frac{S_{n-1}}{S_n} = \\frac{\\frac{1}{2}a(2n - 3)}{\\frac{1}{2}a(2n - 1)} = \\frac{2n - 3}{2n - 1}$$</p>\n\n<p>For $$n = 10$$,</p>\n\n<p>$$\\frac{S_{n-1}}{S_n} = \\frac{2(10) - 3}{2(10) - 1} = \\frac{20 - 3}{20 - 1} = \\frac{17}{19}$$</p>\n\n<p>Given that the ratio is represented as $$\\left(1 - \\frac{2}{x}\\right)$$, we have:</p>\n\n<p>$$\\frac{17}{19} = 1 - \\frac{2}{x}$$</p>\n\n<p>Solving this equation for $$x$$ gives:</p>\n\n<p>$$1 - \\frac{17}{19} = \\frac{2}{x}$$</p>\n\n<p>$$\\frac{2}{19} = \\frac{2}{x}$$</p>\n\n<p>Thus:</p>\n\n<p>$$x = 19$$</p></p>"
+    },
+    {
+      "_type": "numerical",
+      "body": "<p>A bus moving along a straight highway with speed of $$72 \\mathrm{~km} / \\mathrm{h}$$ is brought to halt within $$4 s$$ after applying the brakes. The distance travelled by the bus during this time (Assume the retardation is uniform) is ________ $$m$$.</p>",
+      "answer": "40",
+      "explanation": "<p>A bus traveling along a straight highway at a speed of 72 km/h comes to a stop within 4 seconds after the brakes are applied. To find the distance the bus travels during this time (assuming uniform deceleration), follow these steps:</p>\n\n<p>First, convert the initial speed from km/h to m/s:</p>\n\n<p>\n\n<p>$$\\begin{aligned} u &= 72 \\times \\frac{5}{18} = 20 \\, \\text{m/s}  \\end{aligned}$$</p>\n\n</p>\n\n<p>Given: <br>\n\n<p>Initial speed ($ u $) = 20 m/s <br></p>\n\n<p>Final speed ($ v $) = 0 m/s <br></p>\n\n<p>Time ($ t $) = 4 s </p></p>\n\n<p>Using the first equation of motion:</p>\n\n<p>\n\n<p>$$\\begin{aligned} v &= u + at \\\\ 0 &= 20 + 4a \\\\ a &= -5 \\, \\text{m/s}^2  \\end{aligned}$$</p>\n\n</p>\n\n<p>Now, use the second equation of motion to find the distance traveled ($ S $):</p>\n\n<p>\n\n<p>$$\\begin{aligned} S &= ut + \\frac{1}{2}at^2 \\\\ S &= 20 \\times 4 + \\frac{1}{2} \\times (-5) \\times 4^2 \\\\ S &= 80 - 40 \\\\ S &= 40 \\, \\text{m} \\end{aligned}$$</p>\n\n</p>\n\n<p>Therefore, the distance traveled by the bus during the time the brakes are applied is 40 meters.</p>"
+    },
+    {
+      "_type": "numerical",
+      "body": "A particle initially at rest starts moving from reference point $x=0$ along $x$-axis, with velocity $v$ that varies as $v=4 \\sqrt{x} \\mathrm{~m} / \\mathrm{s}$. The acceleration of the particle is __________ $\\mathrm{ms}^{-2}$.",
+      "answer": "8",
+      "explanation": "<p>To find the acceleration of the particle, we first need to differentiate the velocity function with respect to time. The velocity function given is</p>\n<p>$$ v = 4\\sqrt{x} $$</p>\n<p>However, this function gives the velocity as a function of position $x$, not as a function of time $t$. Since acceleration is the rate of change of velocity with respect to time, we&#39;ll need to use the chain rule to differentiate $v$ with respect to $t$.</p>\n<p>The chain rule in this context can be stated as follows: </p>\n<p>$$ a = \\frac{dv}{dt} = \\frac{dv}{dx} \\cdot \\frac{dx}{dt} $$</p>\n<p>Now, because $\\frac{dx}{dt}$ is the velocity $v$ itself and $\\frac{dv}{dx}$ is the derivative of the velocity with respect to $x$, we first find $\\frac{dv}{dx}$:</p>\n<p>$$ v = 4\\sqrt{x} = 4x^{\\frac{1}{2}} $$</p>\n<p>Differentiating with respect to $x$, we get:</p>\n<p>$$ \\frac{dv}{dx} = 4 \\cdot \\frac{1}{2} x^{-\\frac{1}{2}} = 2x^{-\\frac{1}{2}} = \\frac{2}{\\sqrt{x}} $$</p>\n<p>Now, because $v = 4\\sqrt{x}$, we can rewrite $\\sqrt{x}$ as $\\frac{v}{4}$. Using this to replace $\\sqrt{x}$ in our expression for $\\frac{dv}{dx}$, we get:</p>\n<p>$$ \\frac{dv}{dx} = \\frac{2}{\\sqrt{x}} = \\frac{2}{\\frac{v}{4}} = \\frac{8}{v} $$</p>\n<p>Now, using the chain rule:</p>\n<p>$$ a = \\frac{dv}{dt} = \\frac{dv}{dx} \\cdot \\frac{dx}{dt} = \\frac{8}{v} \\cdot v $$</p>\n<p>Simplifying this, the velocity terms cancel out, leaving us with:</p>\n<p>$$ a = 8 \\text{ ms}^{-2} $$</p>\n<p>Thus, the acceleration of the particle is $8 \\text{ ms}^{-2}$.</p>\n"
+    },
+    {
+      "_type": "numerical",
+      "body": "A particle is moving in one dimension (along $x$ axis) under the action of a variable force. It's initial position was $16 \\mathrm{~m}$ right of origin. The variation of its position $(x)$ with time $(t)$ is given as $x=-3 t^3+18 t^2+16 t$, where $x$ is in $\\mathrm{m}$ and $\\mathrm{t}$ is in $\\mathrm{s}$. <br/><br/>The velocity of the particle when its acceleration becomes zero is _________ $\\mathrm{m} / \\mathrm{s}$.",
+      "answer": "52",
+      "explanation": "<ul>\n<li><strong>Position (x):</strong> The particle's location on the x-axis at a given time.</li><br>\n<li><strong>Velocity (v):</strong> The rate of change of position with respect to time</li>\n</ul>\n<p>( $v = \\frac{dx}{dt}$ ).</p>\n\n<ul>\n<li><strong>Acceleration (a):</strong> The rate of change of velocity with respect to time</li>\n</ul>\n<p>( $a = \\frac{dv}{dt}$ ).</p>\n\n<p>The particle's position is given by:</p>\n\n<p>$$x(t) = -3t^3 + 18t^2 + 16t$$</p>\n\n<p>We need to find the velocity when the acceleration is zero.</p>\n\n\n<ol>\n<li><strong>Find the Velocity (v) and Acceleration (a) Functions:</strong></li>\n</ol>\n<ul>\n<br/><li>Velocity:</li>\n</ul>\n<p>$$v(t) = \\frac{dx}{dt} = -9t^2 + 36t + 16$$</p>\n\n<ul>\n<li>Acceleration:</li>\n</ul>\n<p>$$a(t) = \\frac{dv}{dt} = -18t + 36$$</p>\n\n<ol>\n<li><strong>Find the Time (t) When Acceleration is Zero:</strong></li>\n</ol>\n<p>$$a(t) = 0$$</p>\n\n<p>$$-18t + 36 = 0$$</p>\n\n<p>$$t = 2 \\text{ seconds}$$</p>\n\n<ol>\n<li><strong>Calculate the Velocity at t = 2 seconds:</strong></li>\n</ol>\n<p>$$v(2) = -9(2)^2 + 36(2) + 16$$</p>\n\n<p>$$v(2) = 52 \\text{ m/s}$$</p>\n\n<strong>Answer:</strong>\n\n<p>The velocity of the particle when its acceleration becomes zero is 52 m/s.</p>\n\n<p></p>"
+    },
+    {
+      "_type": "numerical",
+      "body": "<p>The displacement and the increase in the velocity of a moving particle in the time interval of $$t$$ to $$(t+1) \\mathrm{s}$$ are $$125 \\mathrm{~m}$$ and $$50 \\mathrm{~m} / \\mathrm{s}$$, respectively. The distance travelled by the particle in $$(\\mathrm{t}+2)^{\\mathrm{th}} \\mathrm{s}$$ is _________ m.</p>",
+      "answer": "175",
+      "explanation": "<p>The displacement and the increase in the velocity of a moving particle from time $$t$$ to $$(t + 1) \\mathrm{s}$$ are $$125 \\mathrm{~m}$$ and $$50 \\mathrm{~m} / \\mathrm{s}$$, respectively. The distance traveled by the particle in $$(\\mathrm{t} + 2)^{\\mathrm{th}} \\mathrm{s}$$ is calculated as follows:\n\n<p>Given that the acceleration is constant, we start with: </p>\n\n<p>$$ v = u + at $$</p>\n\n<p>When the velocity has increased by $$50 \\mathrm{~m}/\\mathrm{s}$$, the equation becomes:</p>\n\n<p>$$ u + 50 = u + a \\quad \\Rightarrow \\quad a = 50 \\mathrm{~m}/\\mathrm{s}^2 $$</p>\n\n<p>Next, we consider the displacement: </p>\n\n<p>$$ 125 = u t + \\frac{1}{2} a t^2 $$</p>\n\n<p>Since this is given over a unit time interval (from $$t$$ to $$(t + 1)$$), we use: </p>\n\n<p>$$ 125 = u + \\frac{a}{2} $$</p>\n\n<p>Substituting $$a = 50 \\mathrm{~m}/\\mathrm{s}^2$$: </p>\n\n<p>$$ 125 = u + \\frac{50}{2} \\quad \\Rightarrow \\quad  125 = u + 25 \\quad \\Rightarrow \\quad u = 100 \\mathrm{~m}/\\mathrm{s} $$</p>\n\n<p>To find the distance traveled by the particle in $$(t + 2)^\\text{th}$$ second, we use: </p>\n\n<p>$$ S_n = u + \\frac{a}{2} [2n - 1] $$</p>\n\n<p>For $$n = t + 2$$ (i.e., the (t+2)th second): </p>\n\n<p>$$ S_{(t+2)} = u + \\frac{a}{2} [2(t+2) - 1] $$</p>\n\n<p>With $$u = 100$$ and $$a = 50$$:\n\n<p>\n\n<p>$$ S_{(t+2)} = 100 + \\frac{50}{2} [2(t+2) - 1] = 100 + 25 \\times [2(t+2) - 1] = 100 + 25 \\times (2t + 4 - 1) = 100 + 25 \\times (2t + 3) = 100 + 25 \\times 5 = 100 + 125 = 225 \\mathrm{~m} $$</p>"
+    },
+    {
+      "_type": "numerical",
+      "body": "<p>For a train engine moving with speed of $$20 \\mathrm{~ms}^{-1}$$, the driver must apply brakes at a distance of 500 $$\\mathrm{m}$$ before the station for the train to come to rest at the station. If the brakes were applied at half of this distance, the train engine would cross the station with speed $$\\sqrt{x} \\mathrm{~ms}^{-1}$$. The value of $$x$$ is ____________.</p>\n<p>(Assuming same retardation is produced by brakes)</p>",
+      "answer": "200",
+      "explanation": "By using $3^{\\text {rd }}$ equation of motion\n<br/><br/>$$\n\\begin{aligned}\n& v^2=u^2+2 a s \\\\\\\\\n& (0)^2=u^2+2 a s \\\\\\\\\n& u^2=-2 a s \\\\\\\\\n& S=\\frac{u^2}{2 a}-\\frac{(20)^2}{2 \\times a}=500 \\\\\\\\\n& \\text { acceleration of the train, } a=-\\frac{400}{1000}=-0.4 \\mathrm{~m} / \\mathrm{sec}\n\\end{aligned}\n$$\n<br/><br/>Now, if the brakes are applied at $S=250 \\mathrm{~m}$ i.e. half of the distance\n<br/><br/>$$\n\\begin{aligned}\n& v^2=u^2+2 a s \\\\\\\\\n& v^2=(20)^2+2(-0.4) \\times 250 \\\\\\\\\n& v^2=400-2 \\times \\frac{4}{10} \\times 250 \\\\\\\\\n& v^2=200 \\\\\\\\\n& v=\\sqrt{200} \\\\\\\\\n& \\text { Given } \\Rightarrow v=\\sqrt{x} \\\\\\\\\n& \\therefore x=200\n\\end{aligned}\n$$"
+    },
+    {
+      "_type": "numerical",
+      "body": "<p>A horse rider covers half the distance with $$5 \\mathrm{~m} / \\mathrm{s}$$ speed. The remaining part of the distance was travelled with speed $$10 \\mathrm{~m} / \\mathrm{s}$$ for half the time and with speed $$15 \\mathrm{~m} / \\mathrm{s}$$ for other half of the time. The mean speed of the rider averaged over the whole time of motion is $$\\frac{x}{7} \\mathrm{~m} / \\mathrm{s}$$. The value of $$x$$ is ___________.</p>",
+      "answer": "50",
+      "explanation": "<p>$$ \\Rightarrow {t_1} = {{{S \\over 2}} \\over 5}$$ ........ (1)</p>\n<p>Also, $${S \\over 2} = {{10{t_2}} \\over 2} + {{15{t_2}} \\over 2}$$</p>\n<p>$$ \\Rightarrow {t_2} = {S \\over {25}}$$ ....... (2)</p>\n<p>$$\\Rightarrow$$ Mean speed $$ = {S \\over {{t_1} + {t_2}}}$$</p>\n<p>$$ = {S \\over {{S \\over {10}} + {S \\over {25}}}} = {{250} \\over {35}}$$ m/s $$ = {{50} \\over 7}$$ m/s</p>"
+    },
+    {
+      "_type": "numerical",
+      "body": "<p>A tennis ball is dropped on to the floor from a height of 9.8 m. It rebounds to a height 5.0 m. Ball comes in contact with the floor for 0.2s. The average acceleration during contact is ___________ ms$$^{-2}$$.</p>\n<p>(Given g = 10 ms$$^{-2}$$)</p>",
+      "answer": "120",
+      "explanation": "The speed of ball just before collision with ground is<br/><br/> $u=\\sqrt{2 \\times g H}=\\sqrt{2 \\times 10 \\times 9.8}=\\underset{\\text { (Downwards) }}{14 \\mathrm{~m} / \\mathrm{sec}}$\n<br/><br/>\nThe speed of ball just after collision is\n<br/><br/>\n$v=\\sqrt{2 g h}=\\sqrt{2 \\times 10 \\times 5}=\\underset{\\text { (Upwards) }}{10 \\mathrm{~m} / \\mathrm{sec}}$\n<br/><br/>\nSo, $\\vec{a}=\\frac{\\Delta \\vec{v}}{\\Delta t}$\n<br/><br/>\n$=\\frac{10+14}{0.2}=120 \\mathrm{~m} / \\mathrm{s}^{2}$"
+    },
+    {
+      "_type": "numerical",
+      "body": "<p>A ball is thrown vertically upwards with a velocity of $$19.6 \\mathrm{~ms}^{-1}$$ from the top of a tower. The ball strikes the ground after $$6 \\mathrm{~s}$$. The height from the ground up to which the ball can rise will be $$\\left(\\frac{k}{5}\\right) \\mathrm{m}$$. The value of $$\\mathrm{k}$$ is __________. (use $$\\mathrm{g}=9.8 \\mathrm{~m} / \\mathrm{s}^{2}$$)</p>",
+      "answer": "392",
+      "explanation": "<p>v = 19.6 m/s</p>\n<p>t = 6s</p>\n<p>Time taken in upward motion above tower = 2s</p>\n<p>$$\\Rightarrow$$ Time taken from top most point to ground = 4s</p>\n<p>$$ \\Rightarrow \\sqrt {{{2h} \\over g}}  = 4$$</p>\n<p>$$h = {{16 \\times 9.8} \\over 2} = 8 \\times 9.8$$</p>\n<p>$$ \\Rightarrow k = 8 \\times 9.8 \\times 5 = 392$$</p>"
+    },
+    {
+      "_type": "numerical",
+      "body": "<p>A particle is moving in a straight line such that its velocity is increasing at 5 ms<sup>$$-$$1</sup> per meter. The acceleration of the particle is _____________ ms<sup>$$-$$2</sup> at a point where its velocity is 20 ms<sup>$$-$$1</sup>.</p>",
+      "answer": "100",
+      "explanation": "<p>$${{dv} \\over {dx}} = 5$$ ms<sup>$$-$$1</sup>/m</p>\n<p>Acceleration of particle</p>\n<p>when $$v = 20$$ m/s</p>\n<p>$$a = v{{dv} \\over {dx}} = 20(5)$$ m/s<sup>2</sup> = 100 m/s<sup>2</sup></p>"
+    },
+    {
+      "_type": "numerical",
+      "body": "<p>A car is moving with speed of $$150 \\mathrm{~km} / \\mathrm{h}$$ and after applying the break it will move $$27 \\mathrm{~m}$$ before it stops. If the same car is moving with a speed of one third the reported speed then it will stop after travelling ___________ m distance.</p>",
+      "answer": "3",
+      "explanation": "<p>$${F_R}\\,d = {1 \\over 2}m{v^2}$$</p>\n<p>$${{{d_2}} \\over {{d_1}}} = {\\left( {{{{v_2}} \\over {{v_1}}}} \\right)^2} = {\\left( {{1 \\over 3}} \\right)^2}$$</p>\n<p>$${d_2} = {d_1} \\times {1 \\over 9} = 3m$$</p>"
+    },
+    {
+      "_type": "numerical",
+      "body": "<p>A ball is projected vertically upward with an initial velocity of 50 ms<sup>$$-$$1</sup> at t = 0s. At t = 2s, another ball is projected vertically upward with same velocity. At t = __________ s, second ball will meet the first ball (g = 10 ms<sup>$$-$$2</sup>).</p>",
+      "answer": "6",
+      "explanation": "<p>At t = 2 s, v<sub>1</sub> = 50 $$-$$ 2 $$\\times$$ 10 = 30 m/s</p>\n<p>v<sub>2</sub> = v<sub>2</sub></p>\n<p>$$\\therefore$$ a<sub>rel</sub> = g $$-$$ g = 0</p>\n<p>$$S = {{{u^2} - {v^2}} \\over {2g}} = {{{{50}^2} - {{30}^2}} \\over {2 \\times 10}} = {{1600} \\over {20}} = 80$$ m</p>\n<p>$$\\therefore$$ v<sub>rel</sub> = 50 $$-$$ 30 = 20 m/s</p>\n<p>$$\\therefore$$ $$\\Delta t = {{80} \\over {20}} = 4\\,s$$</p>\n<p>$$\\therefore$$ required time t = 2 + 4 = 6 s</p>"
+    },
+    {
+      "_type": "numerical",
+      "body": "<p>From the top of a tower, a ball is thrown vertically upward which reaches the ground in 6 s. A second ball thrown vertically downward from the same position with the same speed reaches the ground in 1.5 s. A third ball released, from the rest from the same location, will reach the ground in ____________ s.</p>",
+      "answer": "3",
+      "explanation": "<p>Based on the situation</p>\n<p>$$h =  - u{t_1} + {1 \\over 2}gt_1^2$$ $$\\to$$ throwing up ....... (i)</p>\n<p>$$h = u{t_2} + {1 \\over 2}gt_2^2$$ $$\\to$$ throwing up ....... (ii)</p>\n<p>$$h = {1 \\over 2}g{t^2}$$ $$\\to$$ dropping .......... (iii)</p>\n<p>and $$0 = u({t_1} - {t_2}) - {1 \\over 2}g{({t_1} - {t_2})^2}$$ ....... (iv)</p>\n<p>solving above equations</p>\n<p>$$t = \\sqrt {{t_1}{t_2}} $$</p>\n<p>$$ \\Rightarrow t = \\sqrt {6 \\times 1.5}  = 3\\,s$$</p>"
+    },
+    {
+      "_type": "numerical",
+      "body": "If the velocity of a body related to displacement x is given by $$\\upsilon  = \\sqrt {5000 + 24x} $$ m/s, then the acceleration of the body is .................... m/s<sup>2</sup>.",
+      "answer": "12",
+      "explanation": "$$V = \\sqrt {5000 + 24x} $$<br><br>$${{dV} \\over {dx}} = {1 \\over {2\\sqrt {5000 + 24x} }} \\times 24 = {{12} \\over {\\sqrt {5000 + 24x} }}$$<br><br>Now, $$a = V{{dV} \\over {dx}}$$<br><br>$$ = \\sqrt {5000 + 24x}  \\times {{12} \\over {\\sqrt {5000 + 24x} }}$$<br><br>a = 12 m/s<sup>2</sup>"
+    },
+    {
+      "_type": "numerical",
+      "body": "The distance x covered by a particle in one\ndimensional motion varies with time t as\n<br>x<sup>2</sup> = at<sup>2</sup> + 2bt + c. If the acceleration of the\nparticle depends on x as x<sup>–n</sup>, where n is an\ninteger, the value of n is __________",
+      "answer": "3",
+      "explanation": "x<sup>2</sup> = at<sup>2</sup> + 2bt + c .....(1)\n<br><br>$$ \\Rightarrow $$ 2xv = 2at + 2b .....(2)\n<br><br>$$ \\Rightarrow $$ v = $${{at + b} \\over x}$$\n<br><br>differentiating (2) w.r.t. time\n<br><br>$$ \\Rightarrow $$ xa' + v<sup>2</sup> = a\n<br><br>Here a' is acceleration.\n<br><br>$$ \\Rightarrow $$ a'x = a - v<sup>2</sup> = a - $${\\left[ {{{at + b} \\over x}} \\right]^2}$$\n<br><br>$$ \\Rightarrow $$ a'x = $${{a{x^2} - {{\\left( {at + b} \\right)}^2}} \\over {{x^2}}}$$\n<br><br>$$ \\Rightarrow $$ a' = $${{a\\left( {a{t^2} + 2bt + c} \\right) - {{\\left( {at + b} \\right)}^2}} \\over {{x^2}}}$$\n<br><br>$$ \\Rightarrow $$ a' = $${{ac - {b^2}} \\over {{x^3}}}$$\n<br><br>$$ \\therefore $$ a' $$ \\propto $$ $${1 \\over {{x^3}}}$$ $$ \\propto $$ x<sup>-3</sup>\n<br><br>$$ \\therefore $$ n = 3"
+    }
+  ]
+}

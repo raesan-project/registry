@@ -1,0 +1,2401 @@
+{
+  "_index": {
+    "name": "Alternating Current"
+  },
+  "_children": [
+    {
+      "_type": "numerical",
+      "body": "An inductor of reactance $100 \\Omega$, a capacitor of reactance $50 \\Omega$, and a resistor of resistance $50 \\Omega$ are connected in series with an AC source of $10 \\mathrm{~V}, 50 \\mathrm{~Hz}$. Average power dissipated by the circuit is ___________ W.",
+      "answer": "1",
+      "explanation": "<p>To calculate the average power dissipated in the circuit, we follow these steps:</p>\n\n<p><p><strong>Formula for Power</strong>:</p>\n<p>$    P = V_{\\text{rms}} \\times I_{\\text{rms}} \\times \\cos \\phi    $</p></p>\n<p><p><strong>Expressing Power in Terms of Voltage and Impedance</strong>:</p>\n<p>$    P = V_{\\text{rms}} \\times \\frac{V_{\\text{rms}}}{Z} \\times \\frac{R}{Z}    $</p></p>\n<p><p><strong>Simplifying the Expression</strong>:</p>\n<p>$    P = \\frac{V_{\\text{rms}}^2 \\times R}{Z^2}    $</p></p>\n<p><p><strong>Calculate Impedance (Z)</strong>:</p>\n<p>The impedance of the circuit (Z) is calculated as:</p>\n<p>$    Z = \\sqrt{R^2 + (X_L - X_C)^2}    $</p>\n<p>Given:</p>\n<p>- $ X_L = 100 \\, \\Omega $</p>\n<p>- $ X_C = 50 \\, \\Omega $</p>\n<p>- $ R = 50 \\, \\Omega $</p>\n<p>$    X_L - X_C = 100 \\, \\Omega - 50 \\, \\Omega = 50 \\, \\Omega    $</p>\n<p>Thus:</p>\n<p>$    Z = \\sqrt{50^2 + 50^2} = 50\\sqrt{2} \\, \\Omega    $</p></p>\n<p><p><strong>Substitute Values to Find Power (P)</strong>:</p>\n<p>Given $ V_{\\text{rms}} = 10 \\, \\text{V} $, we calculate $ P $ as follows:</p>\n<p>$    P = \\frac{10^2 \\times 50}{(50\\sqrt{2})^2}    $</p>\n<p>Simplifying further:</p>\n<p>$    P = \\frac{100 \\times 50}{2500 \\times 2} = 1 \\, \\text{W}    $</p></p>\n\n<p>Therefore, the average power dissipated by the circuit is $ 1 \\, \\text{W} $.</p>"
+    },
+    {
+      "_type": "numerical",
+      "body": "<p>An inductor of self inductance 1 H is connected in series with a resistor of $100 \\pi$ ohm and an ac supply of $100 \\pi$ volt, 50 Hz . Maximum current flowing in the circuit is _________ A.</p>",
+      "answer": "1",
+      "explanation": "<p>Impedance of circuit</p>\n<p>$$\\begin{aligned}\n& \\mathrm{Z}=\\sqrt{\\mathrm{R}^2+\\left(\\mathrm{X}_{\\mathrm{L}}\\right)^2}=\\sqrt{\\mathrm{R}^2+\\left(\\omega_{\\mathrm{L}}\\right)^2} \\\\\n& =\\sqrt{(100 \\pi)^2+(2 \\pi \\times 50 \\times 1)^2} \\\\\n& =\\sqrt{(100 \\pi)^2+(100 \\pi)^2} \\\\\n& =\\sqrt{2} \\times 100 \\pi \\\\\n& \\mathrm{I}_{\\mathrm{rms}}=\\frac{\\mathrm{V}}{2}=\\frac{100 \\pi}{\\sqrt{2} \\times 100 \\pi}=\\frac{1}{\\sqrt{2}} \\\\\n& \\mathrm{I}_{\\max }=\\sqrt{2} \\mathrm{I}_{\\mathrm{rms}}=\\sqrt{2} \\times \\frac{1}{\\sqrt{2}}=1 \\text { Ampere }\n\\end{aligned}$$</p>\n<p>Correct Answer : 1</p>"
+    },
+    {
+      "_type": "numerical",
+      "body": "<p>In a series LCR circuit, a resistor of $300 \\Omega$, a capacitor of 25 nF and an inductor of 100 mH are used. For maximum current in the circuit, the angular frequency of the ac source is _________ $\\times 10^4$ radians $\\mathrm{s}^{-1}$</p>",
+      "answer": "2",
+      "explanation": "<p>$$ \\omega = \\frac{1}{\\sqrt{LC}} $$</p>\n<p>For a series LCR circuit, the maximum current occurs at resonance, where the inductive reactance equals the capacitive reactance. Given the values:</p>\n\n<p><p>Inductance: $$ L = 100 \\, \\text{mH} = 0.1 \\, \\text{H} $$</p></p>\n<p><p>Capacitance: $$ C = 25 \\, \\text{nF} = 25 \\times 10^{-9} \\, \\text{F} $$</p></p>\n\n<p>we first calculate the product $$ LC $$:</p>\n<p>$$ LC = 0.1 \\times 25 \\times 10^{-9} = 2.5 \\times 10^{-9} $$</p>\n<p>Next, compute the square root of the product:</p>\n<p>$$ \\sqrt{LC} = \\sqrt{2.5 \\times 10^{-9}} $$</p>\n<p>Recognize that:</p>\n<p>$$ \\sqrt{2.5 \\times 10^{-9}} = \\sqrt{2.5} \\times \\sqrt{10^{-9}} \\approx 1.581 \\times 10^{-4.5} $$</p>\n<p>Since $$ 10^{-4.5} = 3.162 \\times 10^{-5} $$, we have:</p>\n<p>$$ \\sqrt{LC} \\approx 1.581 \\times 3.162 \\times 10^{-5} \\approx 5.0 \\times 10^{-5} $$</p>\n<p>Now, the angular frequency at resonance becomes:</p>\n<p>$$ \\omega = \\frac{1}{5.0 \\times 10^{-5}} = 2.0 \\times 10^{4} \\, \\text{radians/s} $$</p>\n<p>Thus, the angular frequency of the AC source for maximum current in the circuit is:</p>\n<p>$$ \\omega = 2 \\times 10^4 \\, \\text{radians/s} $$</p>"
+    },
+    {
+      "_type": "numerical",
+      "body": "<p>A capacitor of reactance $$4 \\sqrt{3} \\Omega$$ and a resistor of resistance $$4 \\Omega$$ are connected in series with an ac source of peak value $$8 \\sqrt{2} \\mathrm{~V}$$. The power dissipation in the circuit is __________ W.</p>",
+      "answer": "4",
+      "explanation": "<p>To calculate the power dissipation in the circuit, we follow a systematic approach. We're provided with the reactance of the capacitor ($$X_C = 4 \\sqrt{3} \\Omega$$), the resistance ($$R = 4 \\Omega$$), and the peak value of the AC voltage source ($$V_{peak} = 8 \\sqrt{2} V$$). The power dissipated in an AC circuit is primarily through the resistive component, as inductors and capacitors store and release energy but do not dissipate it as heat.</p>\n\n<p>First, we need to determine the effective impedance of the series circuit, which combines the resistance (R) and the capacitive reactance (X_C) in a series configuration. We calculate the impedance (Z) using the formula:</p>\n\n<p>$$Z = \\sqrt{R^2 + X_C^2}$$</p>\n\n<p>Plugging in the given values:</p>\n\n<p>$$Z = \\sqrt{(4)^2 + (4 \\sqrt{3})^2}$$</p>\n\n<p>$$Z = \\sqrt{16 + 48} = \\sqrt{64} = 8 \\Omega$$</p>\n\n<p>Next, we convert the peak voltage to RMS (root mean square) voltage because power calculations in AC circuits are performed using RMS values. The formula to convert peak voltage ($$V_{peak}$$) to RMS voltage ($$V_{RMS}$$) is:</p>\n\n<p>$$V_{RMS} = \\frac{V_{peak}}{\\sqrt{2}}$$</p>\n\n<p>Plugging in the given peak voltage value:</p>\n\n<p>$$V_{RMS} = \\frac{8 \\sqrt{2}}{\\sqrt{2}} = 8 \\, \\mathrm{V}$$</p>\n\n<p>Now, to find the RMS current ($$I_{RMS}$$) in the circuit, we use Ohm's law as applied to AC circuits, which is $$I_{RMS} = \\frac{V_{RMS}}{Z}$$:</p>\n\n<p>$$I_{RMS} = \\frac{8}{8} = 1 \\, \\mathrm{A}$$</p>\n\n<p>Finally, the power dissipated in the circuit is calculated using the formula for power in resistive components of an AC circuit, which is $$P = I_{RMS}^2 \\times R$$:</p>\n\n<p>$$P = (1)^2 \\times 4 = 4 \\, \\mathrm{W}$$</p>\n\n<p>Therefore, the power dissipation in the circuit is <strong>4 W</strong>.</p>"
+    },
+    {
+      "_type": "numerical",
+      "body": "<p>When a coil is connected across a $$20 \\mathrm{~V}$$ dc supply, it draws a current of $$5 \\mathrm{~A}$$. When it is connected across $$20 \\mathrm{~V}, 50 \\mathrm{~Hz}$$ ac supply, it draws a current of $$4 \\mathrm{~A}$$. The self inductance of the coil is __________  $$\\mathrm{mH}$$. (Take $$\\pi=3$$)</p>",
+      "answer": "10",
+      "explanation": "<p>Let's first determine the resistance of the coil when connected to a DC supply. The current drawn by the coil in a DC circuit can be used to calculate its resistance using Ohm's law:</p>\n\n<p>$$R = \\frac{V}{I}$$</p>\n\n<p>Given the DC supply voltage $$V_{DC} = 20 \\, \\mathrm{V}$$ and the current $$I_{DC} = 5 \\, \\mathrm{A}$$, the resistance $$R$$ is:</p>\n\n<p>$$R = \\frac{20 \\, \\mathrm{V}}{5 \\, \\mathrm{A}} = 4 \\, \\Omega$$</p>\n\n<p>Next, let's use the information given for the AC supply. When connected to an AC supply, the coil's impedance $$Z$$ can be determined using the given current. The total voltage and current in an AC circuit are related to the impedance by the formula:</p>\n\n<p>$$Z = \\frac{V}{I}$$</p>\n\n<p>Given the AC supply voltage $$V_{AC} = 20 \\, \\mathrm{V}$$ and the current $$I_{AC} = 4 \\, \\mathrm{A}$$, the impedance $$Z$$ is:</p>\n\n<p>$$Z = \\frac{20 \\, \\mathrm{V}}{4 \\, \\mathrm{A}} = 5 \\, \\Omega$$</p>\n\n<p>The impedance $$Z$$ of the coil in an AC circuit is composed of both the resistance $$R$$ and the inductive reactance $$X_L$$, related by:</p>\n\n<p>$$Z = \\sqrt{R^2 + X_L^2}$$</p>\n\n<p>We already know that $$R = 4 \\, \\Omega$$. We can now solve for the inductive reactance $$X_L$$:</p>\n\n<p>$$5 = \\sqrt{4^2 + X_L^2}$$</p>\n\n<p>Squaring both sides of the equation:</p>\n\n<p>$$25 = 16 + X_L^2$$</p>\n\n<p>Solving for $$X_L$$:</p>\n\n<p>$$X_L^2 = 25 - 16$$</p>\n\n<p>$$X_L^2 = 9$$</p>\n\n<p>$$X_L = \\sqrt{9}$$</p>\n\n<p>$$X_L = 3 \\, \\Omega$$</p>\n\n<p>The inductive reactance $$X_L$$ is also related to the inductance $$L$$ and the angular frequency $$\\omega$$ by the formula:</p>\n\n<p>$$X_L = \\omega L$$</p>\n\n<p>where $$\\omega = 2 \\pi f$$. Given the frequency $$f = 50 \\, \\mathrm{Hz}$$ and using $$\\pi = 3$$, we find:</p>\n\n<p>$$\\omega = 2 \\times 3 \\times 50$$</p>\n\n<p>$$\\omega = 300 \\, \\mathrm{rad/s}$$</p>\n\n<p>Now we can solve for the inductance $$L$$:</p>\n\n<p>$$X_L = 300 L$$</p>\n\n<p>$$3 = 300 L$$</p>\n\n<p>$$L = \\frac{3}{300}$$</p>\n\n<p>$$L = 0.01 \\, \\mathrm{H}$$</p>\n\n<p>Since $$1 \\, \\mathrm{H} = 1000 \\, \\mathrm{mH}$$, the self inductance of the coil is:</p>\n\n<p>$$L = 0.01 \\, \\mathrm{H} \\times 1000 \\, \\mathrm{mH/H} = 10 \\, \\mathrm{mH}$$</p>\n\n<p>Therefore, the self inductance of the coil is $$10 \\, \\mathrm{mH}$$.</p>"
+    },
+    {
+      "_type": "numerical",
+      "body": "<p>An alternating emf $$\\mathrm{E}=110 \\sqrt{2} \\sin 100 \\mathrm{t}$$ volt is applied to a capacitor of $$2 \\mu \\mathrm{F}$$, the rms value of current in the circuit is ________ $$\\mathrm{mA}$$.</p>",
+      "answer": "22",
+      "explanation": "<p>To determine the RMS (Root Mean Square) value of the current in the circuit, we start by analyzing the given emf and the capacitive reactance.</p>\n\n<p>The given alternating emf is:</p>\n\n<p>\n$$\\mathrm{E} = 110 \\sqrt{2} \\sin 100 \\mathrm{t} \\, \\text{volts}$$\n</p>\n\n<p>Here, the peak voltage (or maximum voltage) $$\\mathrm{E_{max}}$$ is:</p>\n\n<p>\n$$\\mathrm{E_{max}} = 110 \\sqrt{2} \\, \\text{volts}$$\n</p>\n\n<p>Next, the RMS value of the voltage, $$\\mathrm{E_{rms}}$$, is obtained by dividing the peak voltage by $$\\sqrt{2}$$:</p>\n\n<p>\n$$\\mathrm{E_{rms}} = \\frac{\\mathrm{E_{max}}}{\\sqrt{2}} = \\frac{110 \\sqrt{2}}{\\sqrt{2}} = 110 \\, \\text{volts}$$\n</p>\n\n<p>We are given a capacitor with a capacitance $$C = 2 \\mu \\mathrm{F} = 2 \\times 10^{-6} \\, \\text{F}$$ and we need to determine the RMS current. The capacitive reactance $$\\mathrm{X_C}$$ is given by:</p>\n\n<p>\n$$\\mathrm{X_C} = \\frac{1}{\\omega C}$$\n</p>\n\n<p>where $$\\omega$$ is the angular frequency. From the given formula for emf, we see that:</p>\n\n<p>\n$$\\omega = 100 \\, \\text{rad/s}$$\n</p>\n\n<p>Therefore, the capacitive reactance is:</p>\n\n<p>\n$$\\mathrm{X_C} = \\frac{1}{100 \\times (2 \\times 10^{-6})} = \\frac{1}{200 \\times 10^{-6}} = 5000 \\, \\Omega$$\n</p>\n\n<p>Now, we can calculate the RMS value of the current $$\\mathrm{I_{rms}}$$ using Ohm's law for AC circuits, which states:</p>\n\n<p>\n$$\\mathrm{I_{rms}} = \\frac{\\mathrm{E_{rms}}}{\\mathrm{X_C}}$$\n</p>\n\n<p>Substituting the known values:</p>\n\n<p>\n$$\\mathrm{I_{rms}} = \\frac{110}{5000} = 0.022 \\, \\text{A} = 22 \\, \\text{mA}$$\n</p>\n\n<p>Hence, the RMS value of the current in the circuit is $$22 \\, \\text{mA}$$.</p>"
+    },
+    {
+      "_type": "numerical",
+      "body": "<p>For a given series LCR circuit it is found that maximum current is drawn when value of variable capacitance is $$2.5 \\mathrm{~nF}$$. If resistance of $$200 \\Omega$$ and $$100 \\mathrm{~mH}$$ inductor is being used in the given circuit. The frequency of ac source is _________ $$\\times 10^3 \\mathrm{~Hz}$$ (given $$\\mathrm{a}^2=10$$)</p>",
+      "answer": "10",
+      "explanation": "<p>To solve this problem, we need to use the concept of resonance in an LCR (inductor-capacitor-resistor) circuit. At resonance, the inductive reactance and capacitive reactance cancel each other out. The condition for resonance in an LCR circuit is given by:</p>\n\n<p>$$\\omega L = \\frac{1}{\\omega C}$$</p>\n\n<p>Where:\n\n<ul>\n\n<li>$$\\omega$$ is the angular frequency</li>\n\n<li>$$L$$ is the inductance</li>\n\n<li>$$C$$ is the capacitance</li>\n\n</ul>\n\n</p>\n\n<p>Rewriting for angular frequency:</p>\n\n<p>$$\\omega^2 = \\frac{1}{LC}$$</p>\n\n<p>The angular frequency $$\\omega$$ is related to the frequency $ f $ by:</p>\n\n<p>$$\\omega = 2 \\pi f$$</p>\n\n<p>Substituting this into the equation for angular frequency gives:</p>\n\n<p>$$ (2 \\pi f)^2 = \\frac{1}{LC} $$</p>\n\n<p>Therefore, the frequency $ f $ can be found by:</p>\n\n<p>$$ f = \\frac{1}{2 \\pi \\sqrt{LC}} $$</p>\n\n<p>Given values:\n\n<ul>\n\n<li>Inductance, $$L = 100 \\mathrm{~mH} = 100 \\times 10^{-3} \\mathrm{~H}$$</li>\n\n<li>Capacitance, $$C = 2.5 \\mathrm{~nF} = 2.5 \\times 10^{-9} \\mathrm{~F}$$</li>\n\n</ul>\n\n</p>\n\n<p>Plug these values into the frequency equation:</p>\n\n<p>$$ f = \\frac{1}{2 \\pi \\sqrt{(100 \\times 10^{-3}) (2.5 \\times 10^{-9})}} $$</p>\n\n<p>First, calculate the product of $ L $ and $ C $:</p>\n\n<p>$$ L \\cdot C = 100 \\times 10^{-3} \\cdot 2.5 \\times 10^{-9} = 2.5 \\times 10^{-10} $$</p>\n\n<p>Now, take the square root of the product:</p>\n\n<p>$$ \\sqrt{2.5 \\times 10^{-10}} = \\sqrt{2.5} \\times 10^{-5} $$</p>\n\n<p>Given that $$ \\mathrm{a}^2 = 10 $$, we have:</p>\n\n<p>$$ \\mathrm{a} = \\sqrt{10} $$</p>\n\n<p>Since $ \\sqrt{2.5} = \\frac{\\sqrt{10}}{2} $:</p>\n\n<p>$$ \\sqrt{2.5} \\times 10^{-5} = \\frac{\\sqrt{10}}{2} \\times 10^{-5} $$</p>\n\n<p>Now substitute back into the frequency formula:</p>\n\n<p>$$ f = \\frac{1}{2 \\pi \\left( \\frac{\\sqrt{10}}{2} \\times 10^{-5} \\right) } = \\frac{1}{\\pi \\sqrt{10} \\times 10^{-5}} $$</p>\n\n<p>Simplify the equation:</p>\n\n<p>$$ f = \\frac{10^5}{\\pi \\sqrt{10}} $$</p>\n\n<p>Given that $$ \\pi \\approx 3.14 $$, we get:</p>\n\n<p>$$ f \\approx \\frac{10^5}{3.14 \\times 3.162} $$</p>\n\n<p>Simplify further:</p>\n\n<p>$$ f \\approx \\frac{10^5}{9.93} \\approx 10 \\times 10^3 \\mathrm{~Hz} $$</p>\n\n<p>Thus, the frequency of the AC source is approximately:</p>\n\n<p>$$ 10 \\times 10^3 \\mathrm{~Hz} $$</p>"
+    },
+    {
+      "_type": "numerical",
+      "body": "<p>When a $$d c$$ voltage of $$100 \\mathrm{~V}$$ is applied to an inductor, a $$d c$$ current of $$5 \\mathrm{~A}$$ flows through it. When an ac voltage of $$200 \\mathrm{~V}$$ peak value is connected to inductor, its inductive reactance is found to be $$20 \\sqrt{3} \\Omega$$. The power dissipated in the circuit is _________ W.</p>",
+      "answer": "250",
+      "explanation": "<p>To determine the power dissipated in the circuit, follow these steps:</p>\n\n<ol>\n<li>Calculate the resistance (R) using the DC current:</li>\n</ol>\n<p>$    R = \\frac{100 \\, \\text{V}}{5 \\, \\text{A}} = 20 \\, \\Omega    $</p>\n\n<ol>\n<li>Determine the impedance (Z) by considering both resistance (R) and inductive reactance ($X_L$):</li>\n</ol>\n<p>$    Z = \\sqrt{R^2 + X_L^2} = \\sqrt{20^2 + (20\\sqrt{3})^2} = 40 \\, \\Omega    $</p>\n\n<ol>\n<li>Compute the peak current ($I_0$) using the AC peak voltage ($V_0$):</li>\n</ol>\n<p>$    I_0 = \\frac{V_0}{Z} = \\frac{200 \\, \\text{V}}{40 \\, \\Omega} = 5 \\, \\text{A}    $</p>\n\n<ol>\n<li>Calculate the power (P) using the RMS values of voltage and current, and consider the phase angle ($\\cos \\phi$):</li>\n</ol>\n<p>$    P = V_{\\text{rms}} \\cdot I_{\\text{rms}} \\cdot \\cos \\phi = \\frac{V_0 \\cdot I_0}{2} \\times \\frac{R}{Z} = \\frac{200 \\cdot 5}{2} \\times \\frac{20}{40} = 250 \\, \\text{W}    $</p>"
+    },
+    {
+      "_type": "numerical",
+      "body": "<p>A alternating current at any instant is given by $$i=[6+\\sqrt{56} \\sin (100 \\pi t+\\pi / 3)]$$ A. The $$r m s$$ value of the current is ______ A.</p>",
+      "answer": "8",
+      "explanation": "<p>The given alternating current (AC) can be represented as $$i=6+\\sqrt{56} \\sin (100 \\pi t+\\pi / 3)$$ A, where $$6$$ is the DC component and $$\\sqrt{56} \\sin (100 \\pi t+\\pi / 3)$$ is the AC component of the current. The RMS (Root Mean Square) value of an alternating current is a measure of the equivalent direct current (DC) that will produce the same power in a resistor. The RMS value is mostly relevant for the AC component of the current, as the DC component's effective value is just its magnitude itself.</p>\n\n<p>The RMS value of the total current is not straightforward because the presence of the DC component affects how we calculate the RMS value. However, when calculating RMS values for a signal consisting of a superposition of AC and DC components, one notable property is that the RMS value of the combined signal is the square root of the sum of the squares of the RMS values of the separate AC and DC components.</p>\n\n<p>First, let's acknowledge the components separately:\n\n<ul>\n<li>The DC component is: $$6$$ A</li><br>\n<li>The AC component is: $$\\sqrt{56} \\sin (100 \\pi t+\\pi / 3)$$ A</p></li>\n</ul>\n<p>For the DC component, the RMS value is simply its magnitude:\n\n<p>$$I_{RMS, DC} = 6$$ A</p></p>\n\n<p>For the AC component, the RMS value is calculated using the formula for the RMS value of a sinusoidal function, which is $$I_{RMS} = \\frac{I_{max}}{\\sqrt{2}}$$, where $$I_{max}$$ is the peak value of the current. In this case, $$I_{max} = \\sqrt{56}$$.</p>\n\n<p>Therefore, the RMS value of the AC component is:\n\n<p>$$I_{RMS, AC} = \\frac{\\sqrt{56}}{\\sqrt{2}} = \\frac{\\sqrt{56}}{\\sqrt{2}} = \\sqrt{\\frac{56}{2}} = \\sqrt{28}$$ A.</p></p>\n\n<p>Finally, to find the total RMS value of the current, combine the DC and AC components as follows:\n\n<p>$$I_{RMS} = \\sqrt{{(I_{RMS, DC})}^2 + {(I_{RMS, AC})}^2}$$</p></p>\n\n<p>Substituting the values:\n\n<p>$$I_{RMS} = \\sqrt{{(6)}^2 + {(\\sqrt{28})}^2}$$</p></p>\n\n<p>$$= \\sqrt{36 + 28}$$</p>\n\n<p>$$= \\sqrt{64}$$</p>\n\n<p>$$= 8$$ A.</p>\n\n<p>Therefore, the RMS value of the current is $$8$$ A.</p>"
+    },
+    {
+      "_type": "numerical",
+      "body": "<p>A power transmission line feeds input power at $$2.3 \\mathrm{~kV}$$ to a step down transformer with its primary winding having 3000 turns. The output power is delivered at $$230 \\mathrm{~V}$$ by the transformer. The current in the primary of the transformer is $$5 \\mathrm{~A}$$ and its efficiency is $$90 \\%$$. The winding of transformer is made of copper. The output current of transformer is _________ $$A$$.</p>",
+      "answer": "45",
+      "explanation": "<p>$$\\begin{aligned}\n& P_i=2300 \\times 5 \\text { watt } \\\\\n& P_0=2300 \\times 5 \\times 0.9=230 \\times I_2 \\\\\n& I_2=45 A\n\\end{aligned}$$</p>"
+    },
+    {
+      "_type": "numerical",
+      "body": "<p>A series LCR circuit with $$\\mathrm{L}=\\frac{100}{\\pi} \\mathrm{mH}, \\mathrm{C}=\\frac{10^{-3}}{\\pi} \\mathrm{F}$$ and $$\\mathrm{R}=10 \\Omega$$, is connected across an ac source of $$220 \\mathrm{~V}, 50 \\mathrm{~Hz}$$ supply. The power factor of the circuit would be ________.</p>",
+      "answer": "1",
+      "explanation": "<p>$$\\begin{aligned}\n& \\mathrm{X}_{\\mathrm{c}}=\\frac{1}{\\omega \\mathrm{C}}=\\frac{\\pi}{2 \\pi \\times 50 \\times 10^{-3}}=10 \\Omega \\\\\n& \\mathrm{X}_{\\mathrm{L}}=\\omega \\mathrm{L}=2 \\pi \\times 50 \\times \\frac{100}{\\pi} \\times 10^{-3} \\\\\n& =10 \\Omega \\\\\n& \\because \\mathrm{X}_{\\mathrm{C}}=\\mathrm{X}_{\\mathrm{L}}, \\text { Hence, circuit is in resonance } \\\\\n& \\therefore \\text { power factor }=\\frac{\\mathrm{R}}{\\mathrm{Z}}=\\frac{\\mathrm{R}}{\\mathrm{R}}=1\n\\end{aligned}$$</p>"
+    },
+    {
+      "_type": "numerical",
+      "body": "<p>A coil has an inductance of $$2 \\mathrm{H}$$ and resistance of $$4 ~\\Omega$$. A $$10 \\mathrm{~V}$$ is applied across the coil. The energy stored in the magnetic field after the current has built up to its equilibrium value will be ___________ $$\\times 10^{-2} \\mathrm{~J}$$.</p>",
+      "answer": "625",
+      "explanation": "<p>To find the energy stored in the magnetic field after the current has built up to its equilibrium value, we first need to find the steady-state current in the coil. </p>\n<p>When the current reaches its equilibrium value, the coil behaves like a resistor because the back-emf induced by the changing magnetic field is zero. Ohm&#39;s law can be applied:</p>\n<p>$$I = \\frac{V}{R}$$</p>\n<p>where</p>\n<ul>\n<li>$$I$$ is the current</li>\n<li>$$V$$ is the voltage across the coil (10 V)</li>\n<li>$$R$$ is the resistance of the coil (4 Ω)</li>\n</ul>\n<p>Plugging in the values:</p>\n<p>$$I = \\frac{10}{4}$$\n$$I = 2.5 \\mathrm{~A}$$</p>\n<p>Now that we have the steady-state current, we can find the energy stored in the magnetic field using the formula:</p>\n<p>$$W = \\frac{1}{2}LI^2$$</p>\n<p>where</p>\n<ul>\n<li>$$W$$ is the energy stored in the magnetic field</li>\n<li>$$L$$ is the inductance of the coil (2 H)</li>\n<li>$$I$$ is the steady-state current (2.5 A)</li>\n</ul>\n<p>Plugging in the values:</p>\n<p>$$W = \\frac{1}{2}(2)(2.5)^2$$<br/><br/>\n$$W = 1(6.25)$$<br/><br/>\n$$W = 6.25 \\mathrm{~J}$$</p>\n<p>To express this in terms of $$10^{-2} \\mathrm{~J}$$, divide by $$10^{-2}$$:</p>\n<p>$$6.25 \\div 10^{-2} = 625$$</p>\n<p>Therefore, the energy stored in the magnetic field after the current has built up to its equilibrium value is 625$$\\times 10^{-2} \\mathrm{~J}$$.</p>\n"
+    },
+    {
+      "_type": "numerical",
+      "body": "<p>A series combination of resistor of resistance $$100 ~\\Omega$$, inductor of inductance $$1 ~\\mathrm{H}$$ and capacitor of capacitance $$6.25 ~\\mu \\mathrm{F}$$ is connected to an ac source. The quality factor of the circuit will be __________</p>",
+      "answer": "4",
+      "explanation": "<p>The Q factor (quality factor) in a series RLC circuit can be given by the formula: </p>\n<p>$ Q = \\frac{X_L}{R} = \\frac{\\omega L}{R} $</p>\n<p>where ($X_L$) is the inductive reactance, (R) is the resistance, (L) is the inductance, and ($\\omega$) is the angular frequency. </p>\n<p>In a series RLC circuit at resonance, the resonant frequency (f) is given by</p>\n<p>$ f = \\frac{1}{2\\pi\\sqrt{LC}} $</p>\n<p>or equivalently, the angular frequency ($\\omega$) at resonance is </p>\n<p>$ \\omega = \\frac{1}{\\sqrt{LC}} $</p>\n<p>Substituting (L = 1H) and ($C = 6.25 \\mu F = 6.25 \\times 10^{-6} F$) into the equation for (\\omega) gives</p>\n<p>$\\omega = \\frac{1}{\\sqrt{1H \\times 6.25 \\times 10^{-6}F}}$ = 400 rad/s</p>\n<p>Substituting ($\\omega = 400 rad/s$), (L = 1H), and ($R = 100\\Omega$) into the equation for the Q factor gives</p>\n<p>$ Q = \\frac{\\omega L}{R} = \\frac{400 rad/s \\times 1H}{100\\Omega} = 4 $</p>\n<p>So, the Q factor of the circuit is 4.</p>\n"
+    },
+    {
+      "_type": "numerical",
+      "body": "<p>An oscillating LC circuit consists of a $$75 ~\\mathrm{mH}$$ inductor and a $$1.2 ~\\mu \\mathrm{F}$$ capacitor. If the maximum charge to the capacitor is $$2.7 ~\\mu \\mathrm{C}$$. The maximum current in the circuit will be ___________ $$\\mathrm{mA}$$</p>",
+      "answer": "9",
+      "explanation": "<p>The maximum current in an LC circuit can be found using the following formula related to simple harmonic motion:</p>\n<p>$I_{\\text{max}} = \\omega Q_{\\text{max}}$,</p>\n<p>where:</p>\n<ul>\n<li>$I_{\\text{max}}$ is the maximum current,</li>\n<li>$\\omega$ is the angular frequency, and</li>\n<li>$Q_{\\text{max}}$ is the maximum charge on the capacitor.</li>\n</ul>\n<p>The angular frequency $\\omega$ for an LC circuit is given by:</p>\n<p>$\\omega = \\frac{1}{\\sqrt{LC}}$,</p>\n<p>where:</p>\n<ul>\n<li>$L$ is the inductance, and</li>\n<li>$C$ is the capacitance.</li>\n</ul>\n<p>Given that $L = 75 \\, \\text{mH} = 75 \\times 10^{-3} \\, \\text{H}$, $C = 1.2 \\, \\mu \\text{F} = 1.2 \\times 10^{-6} \\, \\text{F}$, <br/><br/>and $Q_{\\text{max}} = 2.7 \\, \\mu \\text{C} = 2.7 \\times 10^{-6} \\, \\text{C}$, <br/><br/>we can substitute these values into the formulas to find $I_{\\text{max}}$:</p>\n<p>$\\omega = \\frac{1}{\\sqrt{(75 \\times 10^{-3})(1.2 \\times 10^{-6})}} = 3333.33 \\, \\text{rad/s}$,</p>\n<p>$I_{\\text{max}} = \\omega Q_{\\text{max}} = 3333.33 \\times 2.7 \\times 10^{-6} = 0.009 \\, \\text{A}$.</p>\n<p>Therefore, the maximum current in the circuit is $0.009 \\, \\text{A}$, or equivalently, $9 \\, \\text{mA}$.</p>\n"
+    },
+    {
+      "_type": "numerical",
+      "body": "<p>An ideal transformer with purely resistive load operates at $$12 ~\\mathrm{kV}$$ on the primary side. It supplies electrical energy to a number of nearby houses at $$120 \\mathrm{~V}$$. The average rate of energy consumption in the houses served by the transformer is 60 $$\\mathrm{kW}$$. The value of resistive load $$(\\mathrm{Rs})$$ required in the secondary circuit will be ___________ $$\\mathrm{m} \\Omega$$.</p>",
+      "answer": "240",
+      "explanation": "<p>The power delivered to the houses is given as 60 kW. This power is supplied at a voltage of 120 V. The power consumed in a resistive load can be found using the formula $P = V^2/R$, where P is the power, V is the voltage, and R is the resistance. </p>\n<p>We can rearrange this formula to solve for the resistance:</p>\n<p>$$R = V^2/P$$</p>\n<p>Substituting the given values gives:</p>\n<p>$$R = (120 \\, \\text{V})^2 / 60,000 \\, \\text{W} = 0.24 \\, \\Omega$$</p>\n<p>Since we want the resistance in milliohms (mΩ), we can convert this to milliohms by multiplying by 1000:</p>\n<p>$$R = 0.24 \\, \\Omega \\times 1000 = 240 \\, m\\Omega$$</p>\n<p>So, the value of resistive load required in the secondary circuit is 240 mΩ.</p>\n"
+    },
+    {
+      "_type": "numerical",
+      "body": "<p>A square shaped coil of area $$70 \\mathrm{~cm}^{2}$$ having 600 turns rotates in a magnetic field of $$0.4 ~\\mathrm{wbm}^{-2}$$, about an axis which is parallel to one of the side of the coil and perpendicular to the direction of field. If the coil completes 500 revolution in a minute, the instantaneous emf when the plane of the coil is inclined at $$60^{\\circ}$$ with the field, will be ____________ V. (Take $$\\pi=\\frac{22}{7}$$)</p>",
+      "answer": "44",
+      "explanation": "Area $(\\mathrm{A})=70 \\mathrm{~cm}^2=70 \\times 10^{-4} \\mathrm{~m}^2$\n<br/><br/>$$\n\\mathrm{B}=0.4 \\mathrm{~T}\n$$\n<br/><br/>$f=\\frac{500 \\text { revolution }}{60 \\text { minute }}=\\frac{500}{60} \\frac{\\text { rev. }}{\\mathrm{sec} .}$\n<br/><br/>Induced emf in rotating coil is given by\n<br/><br/>$$\n\\begin{aligned}\n& e=N \\omega B A \\sin \\theta \\\\\\\\\n& =600 \\times 2 \\times \\frac{22}{7} \\times \\frac{500}{60} \\times 0.4 \\times 70 \\times 10^{-4} \\sin 30^{\\circ} \\\\\\\\\n& =600 \\times 2 \\times \\frac{22}{7} \\times \\frac{500}{6} \\times 0.4 \\times 70 \\times 10^{-4} \\times \\frac{1}{2} \\\\\\\\\n& =44 \\text { Volt }\n\\end{aligned}\n$$"
+    },
+    {
+      "_type": "numerical",
+      "body": "<p>A series LCR circuit is connected to an ac source of $$220 \\mathrm{~V}, 50 \\mathrm{~Hz}$$. The circuit contain a resistance $$\\mathrm{R}=100 ~\\Omega$$ and an inductor of inductive reactance $$\\mathrm{X}_{\\mathrm{L}}=79.6 ~\\Omega$$. The capacitance of the capacitor needed to maximize the average rate at which energy is supplied will be _________ $$\\mu \\mathrm{F}$$.</p>",
+      "answer": "40",
+      "explanation": "To maximize the average rate at which energy \nsupplied i.e. power will be maximum. \n<br/><br/>So in LCR circuit power will be maximum at the\ncondition of resonance and in resonance condition\n<br/><br/>$$\n\\begin{aligned}\n& \\therefore X_{L}=X_{C} \\\\\\\\\n& 79.6=\\frac{1}{2 \\pi(50) \\times C} \\\\\\\\\n& C=\\frac{1}{79.6 \\times 2 \\pi(50)} \\\\\\\\\n& \\approx 40 \\mu \\mathrm{F}\n\\end{aligned}\n$$"
+    },
+    {
+      "_type": "numerical",
+      "body": "A series $\\mathrm{LCR}$ circuit consists of $\\mathrm{R}=80 \\Omega, \\mathrm{X}_{\\mathrm{L}}=100 \\Omega$, and $\\mathrm{X}_{\\mathrm{C}}=40 \\Omega$. The input <br/><br/>voltage is 2500 $\\cos (100 \\pi \\mathrm{t}) \\mathrm{V}$. The amplitude of current, in the circuit, is _________ A.",
+      "answer": "25",
+      "explanation": "$\\omega=100 \\pi$\n\n<br/><br/>$$\n\\begin{aligned}\n& \\text { So } Z=\\sqrt{R^{2}+\\left(X_{L}-X_{C}\\right)^{2}} \\\\\\\\\n& =\\sqrt{80^{2}+(100-40)^{2}} \\\\\\\\\n& =100 \\Omega \\\\\\\\\n& i_{0}=\\frac{V_{0}}{Z}=\\frac{2500}{100} \\mathrm{~A}=25 \\mathrm{~A}\n\\end{aligned}\n$$"
+    },
+    {
+      "_type": "numerical",
+      "body": "<p>An inductor of $$0.5 ~\\mathrm{mH}$$, a capacitor of $$20 ~\\mu \\mathrm{F}$$ and resistance of $$20 ~\\Omega$$ are connected in series with a $$220 \\mathrm{~V}$$ ac source. If the current is in phase with the emf, the amplitude of current of the circuit is $$\\sqrt{x}$$ A. The value of $$x$$ is ___________</p>",
+      "answer": "242",
+      "explanation": "$$\nX_L=X_C\n$$\n<br/><br/>So, $\\mathrm{Z}=\\mathrm{R}=20 \\Omega$\n<br/><br/>$$\n\\begin{aligned}\n& \\mathrm{i}_{\\mathrm{rms}}=\\frac{220}{20}=11 \\\\\\\\\n& \\mathrm{i}_{\\max }=11 \\sqrt{2}=\\sqrt{242}\n\\end{aligned}\n$$"
+    },
+    {
+      "_type": "numerical",
+      "body": "In an ac generator, a rectangular coil of 100 turns each having area $14 \\times 10^{-2} \\mathrm{~m}^{2}$ is rotated at $360 ~\\mathrm{rev} / \\mathrm{min}$ about an axis perpendicular to a uniform magnetic field of magnitude $3.0 \\mathrm{~T}$. The maximum value of the emf produced will be ________ $V$.\n<br/><br/>\n$\\left(\\right.$ Take $\\left.\\pi=\\frac{22}{7}\\right)$",
+      "answer": "1584",
+      "explanation": "<p>$$\\phi=B.A$$</p>\n<p>$$\\phi=\\mathrm{BNA}\\cos\\omega t$$</p>\n<p>So, $$Emf = {{ - d\\phi } \\over {dt}} = NBA\\omega \\sin \\omega t$$</p>\n<p>So maximum value of emf is</p>\n<p>$${E_{\\max }} = NBA\\omega $$</p>\n<p>$$ = 100 \\times 3 \\times 14 \\times {10^{ - 2}} \\times {{360 \\times 2\\pi } \\over {60}} = 1584$$</p>"
+    },
+    {
+      "_type": "numerical",
+      "body": "<p>An inductor of inductance 2 $$\\mathrm{\\mu H}$$ is connected in series with a resistance, a variable capacitor and an AC source of frequency 7 kHz. The value of capacitance for which maximum current is drawn into the circuit $$\\frac{1}{x}\\mathrm{F}$$, where the value of $$x$$ is ___________.</p>\n<p>(Take $$\\pi=\\frac{22}{7}$$)</p>",
+      "answer": "3872",
+      "explanation": "<p>Current drawn is maximum when circuit is in resonance.</p>\n<p>$$\\omega  = {1 \\over {\\sqrt {LC} }}$$</p>\n<p>$$2\\pi (7000) = {1 \\over {\\sqrt {2 \\times {{10}^{ - 6}}C} }}$$</p>\n<p>$$ \\Rightarrow C = {1 \\over {3872}}F$$</p>"
+    },
+    {
+      "_type": "numerical",
+      "body": "<p>A series LCR circuit is connected to an AC source of 220 V, 50 Hz. The circuit contains a resistance R = 80$$\\Omega$$, an inductor of inductive reactance $$\\mathrm{X_L=70\\Omega}$$, and a capacitor of capacitive reactance $$\\mathrm{X_C=130\\Omega}$$. The power factor of circuit is $$\\frac{x}{10}$$. The value of $$x$$ is :</p>",
+      "answer": "8",
+      "explanation": "$$\n\\begin{aligned}\n& \\cos \\phi=\\frac{\\mathrm{R}}{\\mathrm{Z}}=\\frac{\\mathrm{R}}{\\sqrt{\\mathrm{R}^2+\\left(\\mathrm{X}_{\\mathrm{C}}-\\mathrm{X}_{\\mathrm{L}}\\right)^2}} \\\\\\\\\n& \\cos \\phi=\\frac{80}{\\sqrt{(80)^2+(60)^2}} \\\\\\\\\n& \\cos \\phi=\\frac{80}{100} \\Rightarrow \\frac{8}{10}\n\\end{aligned}\n$$<br/><br/>\nSo, $x=8$"
+    },
+    {
+      "_type": "numerical",
+      "body": "<p>An LCR series circuit of capacitance 62.5 nF and resistance of 50 $$\\Omega$$, is connected to an A.C. source of frequency 2.0 kHz. For maximum value of amplitude of current in circuit, the value of inductance is __________ mH.</p>\n<p>(Take $$\\pi^2=10$$)</p>",
+      "answer": "100",
+      "explanation": " $\\because$ For maximum amplitude of current, circuit should be at resonance.\n<br/><br/>\n$$\n\\begin{aligned}\n& \\therefore X_{L}=X_{C} \\\\\\\\\n& \\omega L=\\frac{1}{\\omega C} \\\\\\\\\n& L=\\frac{1}{\\omega^{2} C} \\\\\\\\\n& =\\frac{1}{\\left(2 \\pi \\times 2 \\times 10^{3}\\right)^{2} \\times 62.5 \\times 10^{-9}} \\\\\\\\\n& =100 ~\\mathrm{mH}\n\\end{aligned}\n$$"
+    },
+    {
+      "_type": "numerical",
+      "body": "<p>The frequencies at which the current amplitude in an LCR series circuit becomes $$\\frac{1}{\\sqrt{2}}$$ times its maximum value, are $$212\\,\\mathrm{rad} \\,\\mathrm{s}^{-1}$$ and $$232 \\,\\mathrm{rad} \\,\\mathrm{s}^{-1}$$. The value of resistance in the circuit is $$R=5 \\,\\Omega$$. The self inductance in the circuit is __________ $$\\mathrm{mH}$$.</p>",
+      "answer": "250",
+      "explanation": "<p>$${i \\over {{i_{\\max }}}} = {1 \\over {\\sqrt 2 }}$$</p>\n<p>$$ = {{{{{V_0}} \\over Z}} \\over {{{{V_0}} \\over R}}}$$</p>\n<p>$$ \\Rightarrow {R \\over Z} = {1 \\over {\\sqrt 2 }}$$</p>\n<p>and $${1 \\over {212C}} - 212L = 232L - {1 \\over {232C}}$$</p>\n<p>so $$212L = {1 \\over {232C}}$$</p>\n<p>so $${R \\over {\\sqrt {{R^2} + {{\\left( {232L + {1 \\over {232C}}} \\right)}^2}} }} = {1 \\over {\\sqrt 2 }}$$</p>\n<p>$${{{R^2}} \\over {{R^2} + {{(20L)}^2}}} = {1 \\over 2}$$</p>\n<p>$$400{L^2} = {R^2}$$</p>\n<p>$$L = {5 \\over {20}}$$</p>\n<p>$$H = {5 \\over {20}} \\times 1000$$ mH</p>\n<p>$$= 250$$ mH</p>"
+    },
+    {
+      "_type": "numerical",
+      "body": "<p>To light, a $$50 \\mathrm{~W}, 100 \\mathrm{~V}$$ lamp is connected, in series with a capacitor of capacitance $$\\frac{50}{\\pi \\sqrt{x}} \\mu F$$, with $$200 \\mathrm{~V}, 50 \\mathrm{~Hz} \\,\\mathrm{AC}$$ source. The value of $$x$$ will be ___________.</p>",
+      "answer": "3",
+      "explanation": "<p>$${X_C} = {1 \\over {wc}} = {{\\pi \\sqrt x } \\over {2\\pi  \\times 50 \\times 50}} \\times {10^6}$$</p>\n<p>$$v_R^2 + v_C^2 = {(200)^2}$$</p>\n<p>$$v_C^2 = {200^2} - {100^2}$$</p>\n<p>$${v_C} = 100\\sqrt 3 \\,V$$</p>\n<p>$${v_R} = 100\\,V$$</p>\n<p>$$P = {{{V^2}} \\over R}$$</p>\n<p>$$R = {{100 \\times 100} \\over {50}} = 200\\,\\Omega $$</p>\n<p>$${i_{rm}} = {1 \\over 2}\\,A$$</p>\n<p>$${1 \\over 2} \\times {x_C} = 100\\sqrt 3  \\Rightarrow {10^{ - 6}} \\times {{\\sqrt x } \\over {5000}} \\times {1 \\over 2} = 100\\sqrt 3 $$</p>\n<p>$${{{{10}^{ - 6}}\\sqrt x } \\over {10000 \\times 100}} = \\sqrt 3 $$</p>\n<p>$$\\sqrt x  = \\sqrt 3 $$</p>\n<p>$$x = 3$$</p>"
+    },
+    {
+      "_type": "numerical",
+      "body": "<p>A series LCR circuit with $$R = {{250} \\over {11}}\\,\\Omega $$ and $${X_L} = {{70} \\over {11}}\\,\\Omega $$ is connected across a 220 V, 50 Hz supply. The value of capacitance needed to maximize the average power of the circuit will be _________ $$\\mu$$F. (Take : $$\\pi  = {{22} \\over 7}$$)</p>",
+      "answer": "500",
+      "explanation": "For maximum power\n\n<br/><br/>$$\n\\begin{aligned}\n&\\text { power factor }=\\cos \\theta=1\\\\\\\\\n& \\therefore \\frac{R}{Z}=1 \\\\\\\\\n&R^{2}=Z^{2} \\\\\\\\\n&R^{2}=\\left(\\mathrm{X}_{\\mathrm{L}}-\\mathrm{X}_{\\mathrm{C}}\\right)^{2}+\\mathrm{R}^{2} \\\\\\\\\n&\\mathrm{X}_{\\mathrm{L}}=\\mathrm{X}_{\\mathrm{C}} \\\\\\\\\n&\\frac{70}{11}=\\frac{1}{100 \\pi \\times C} \\\\\\\\\n&\\Rightarrow C=\\frac{11}{7000 \\pi}=500 \\times 10^{-6} F=500 \\mu F\n\\end{aligned}\n$$"
+    },
+    {
+      "_type": "numerical",
+      "body": "<p>An inductor of 0.5 mH, a capacitor of 200 $$\\mu$$F and a resistor of 2 $$\\Omega$$ are connected in series with a 220 V ac source. If the current is in phase with the emf, the frequency of ac source will be ____________ $$\\times$$ 10<sup>2</sup> Hz.</p>",
+      "answer": "5",
+      "explanation": "<p>Current will be in phase with emf when</p>\n<p>$$\\omega L = {1 \\over {\\omega C}}$$</p>\n<p>$$ \\Rightarrow \\omega  = {1 \\over {\\sqrt {LC} }} = {1 \\over {\\sqrt {5 \\times {{10}^{ - 4}} \\times 2 \\times {{10}^{ - 4}}} }}$$</p>\n<p>$$ \\Rightarrow \\omega  = {{{{10}^4}} \\over {\\sqrt {10} }}$$ rad/s</p>\n<p>$$ \\Rightarrow f = {1 \\over {2\\pi }} \\times {{{{10}^4}} \\over {\\sqrt {10} }}$$ Hz</p>\n<p>$$\\Rightarrow$$ f $$\\simeq$$ 500 Hz</p>"
+    },
+    {
+      "_type": "numerical",
+      "body": "<p>A telegraph line of length 100 km has a capacity of 0.01 $$\\mu$$F/km and it carries an alternating current at 0.5 kilo cycle per second. If minimum impedance is required, then the value of the inductance that needs to be introduced in series is _____________ mH. (if $$\\pi$$ = $$\\sqrt{10}$$)</p>",
+      "answer": "100",
+      "explanation": "<p>Total capacitance = 0.01 $$\\times$$ 100 = 1 $$\\mu$$F</p>\n<p>$$\\omega$$ = 500 $$\\times$$ 2$$\\pi$$ = 1000$$\\pi$$ rad/s</p>\n<p>$$\\omega L = {1 \\over {\\omega C}}$$</p>\n<p>$$ \\Rightarrow L = {1 \\over {{\\omega ^2}C}} = {1 \\over {{{10}^6}{\\pi ^2} \\times {{10}^{ - 6}}}} = {1 \\over {10}}H$$ = 100 mH</p>"
+    },
+    {
+      "_type": "numerical",
+      "body": "The alternating current is given by $$i = \\left\\{ {\\sqrt {42} \\sin \\left( {{{2\\pi } \\over T}t} \\right) + 10} \\right\\}A$$<br><br>The r.m.s. value of of this current is ................. A.",
+      "answer": "11",
+      "explanation": "$$f_{rms}^2 = f_{1\\,rms}^2 + f_{2\\,rms}^2$$<br><br>$$ = {\\left( {{{\\sqrt {42} } \\over {\\sqrt 2 }}} \\right)^2} + {10^2}$$<br><br>$$ = 121 \\Rightarrow {f_{rms}}$$ = 11 A"
+    },
+    {
+      "_type": "numerical",
+      "body": "An inductor of 10 mH is connected to a 20V battery through a resistor of 10 k$$\\Omega$$ and a switch. After a long time, when maximum current is set up in the circuit, the current is switched off. The current in the circuit after 1 $$\\mu$$s is $${x \\over {100}}$$ mA. Then x is equal to ___________. (Take e<sup>$$-$$1</sup> = 0.37)",
+      "answer": "74",
+      "explanation": "$${I_{\\max }} = {V \\over R} = {{20V} \\over {10K\\Omega }} = 2$$ mA<br><br>For LR - decay circuit<br><br>$$I = {I_{\\max }}{e^{ - Rt/L}}$$<br><br>$$I = 2mA{e^{{{ - 10 \\times {{10}^3} \\times 1 \\times {{10}^{ - 6}}} \\over {10 \\times {{10}^{ - 3}}}}}}$$<br><br>I = 2mA e<sup>$$-$$1</sup><br><br>I = 2 $$\\times$$ 0.37 mA<br><br>$$I = {{74} \\over {100}}$$ mA<br><br>x = 74"
+    },
+    {
+      "_type": "numerical",
+      "body": "A series LCR circuit of R = 5$$\\Omega$$, L = 20 mH and C = 0.5 $$\\mu$$F is connected across an AC supply of 250 V, having variable frequency. The power dissipated at resonance condition is ______________ $$\\times$$ 10<sup>2</sup> W.",
+      "answer": "125",
+      "explanation": "X<sub>L</sub> = X<sub>C</sub> (due to resonance)<br><br>Z = R so $${i_{rms}} = {V \\over Z} = {V \\over R}$$<br><br>$${{{V^2}} \\over R} = {{250 \\times 250} \\over 5} = 125 \\times {10^2}W$$"
+    },
+    {
+      "_type": "numerical",
+      "body": "In an LCR series circuit, an inductor 30 mH and a resistor 1 $$\\Omega$$ are connected to an AC source of angular frequency 300 rad/s. The value of capacitance for which, the current leads the voltage by 45$$^\\circ$$ is $${1 \\over x} \\times {10^{ - 3}}$$ F. Then the value of x  is ____________.",
+      "answer": "3",
+      "explanation": "Given,<br/><br/>Inductance, L = 30 mH<br/><br/>Resistance, R = 1 $$\\Omega$$<br/><br/>Angular frequency, $$\\omega$$ = 300 rad/s<br/><br/>We know that in L-C-R circuit, $$\\tan \\phi  = {{{X_C} - {X_L}} \\over R}$$<br/><br/>where, $$\\phi$$ = phase angle = 45$$^\\circ$$<br/><br/>X<sub>C</sub> = capacitive reactance = $${1 \\over {\\omega C}}$$<br/><br/>X<sub>L</sub> = inductive reactance = $$\\omega$$L<br/><br/>$$\\Rightarrow$$ $$\\tan 45^\\circ  = {{{X_C} - {X_L}} \\over R}$$<br/><br/>$$ \\Rightarrow {X_C} - {X_L} = R$$ [$$\\because$$ tan 45$$^\\circ$$ = 1]<br/><br/>$$ \\Rightarrow {1 \\over {\\omega C}} - \\omega L = R \\Rightarrow {1 \\over {\\omega C}} - 300 \\times 30 \\times {10^{ - 3}} = 1$$<br/><br/>$$ \\Rightarrow {1 \\over {\\omega C}} = 10 \\Rightarrow \\omega C = {1 \\over {10}}$$<br/><br/>$$ \\Rightarrow C = {1 \\over {10\\omega }} \\Rightarrow C = {1 \\over {10 \\times 300}}$$<br/><br/>$$ \\Rightarrow C = {1 \\over 3} \\times {10^{ - 3}}F$$ .... (i)<br/><br/>According to question, the value of capacitance is $${1 \\over x} \\times {10^{ - 3}}F$$. So, on comparing it with Eq. (i), we can say x = 3."
+    },
+    {
+      "_type": "numerical",
+      "body": "A sinusoidal voltage of peak value 250 V is applied to a series LCR circuit, in which R = 8$$\\Omega$$, L = 24 mH and C = 60 $$\\mu$$F. The value of power dissipated at resonant condition is 'x' kW. The value of x to the nearest integer is ____________.",
+      "answer": "4",
+      "explanation": "At resonance power (P)<br><br>$$P = {{{{({V_{rms}})}^2}} \\over R}$$<br><br>$$ \\therefore $$ $$P = {{{{(250/\\sqrt 2 )}^2}} \\over 8}$$<br><br>$$ \\Rightarrow $$ P = 3906.25 w<br><br>$$ \\Rightarrow $$ P $$ \\cong $$ 4 Kw"
+    },
+    {
+      "_type": "numerical",
+      "body": "In a series LCR resonant circuit, the quality factor is measured as 100. If the inductance is increased by two fold and resistance is decreased by two fold, then the quality factor after this change will be __________.",
+      "answer": "283",
+      "explanation": "Quality factor = $${{{X_L}} \\over R} = {{\\omega L} \\over R}$$<br><br>$$Q = {1 \\over {\\sqrt {LC} }}{L \\over R}$$<br><br>$$Q = \\left( {{1 \\over {\\sqrt C }}} \\right){{\\sqrt L } \\over R}$$<br><br>$$Q = {{XL} \\over R} = {{\\omega L} \\over R} = {1 \\over {\\sqrt {LC} }}{L \\over R} = {1 \\over R}{{\\sqrt L } \\over {\\sqrt C }}$$<br><br>$$Q' = {{\\sqrt {2L} } \\over {\\left( {{R \\over 2}} \\right)\\sqrt C }} = 2\\sqrt 2 Q$$<br><br>Q' = 282.84"
+    },
+    {
+      "_type": "numerical",
+      "body": "A transmitting station releases waves of wavelength 960 m. A capacitor of 2.56 $$\\mu$$F is used in the resonant circuit. The self inductance of coil necessary for resonance is __________ $$\\times$$ 10<sup>$$-$$8</sup> H.",
+      "answer": "10",
+      "explanation": "$$\\lambda$$ = 960 m<br><br>C = 2.56 $$\\mu$$F = 2.56 $$\\times$$ 10<sup>$$-$$6</sup><sup></sup> F<br><br>c = 3 $$\\times$$ 10<sup>8</sup> m/s<br><br>L = ?<br><br>Now at resonance, $${\\omega _0} = {1 \\over {\\sqrt {LC} }}$$<br><br>[Resonant frequency]<br><br>$$2\\pi {f_0} = {1 \\over {\\sqrt {LC} }}$$<br><br>On substituting $${f_0} = {c \\over \\lambda }$$, we have $$2\\pi {c \\over \\lambda } = {1 \\over {\\sqrt {LC} }}$$<br><br>Squaring both sides : $$4{\\pi ^2}{{{c^2}} \\over {{\\lambda ^2}}} = {1 \\over {LC}}$$<br><br>$$ = {{4 \\times 10 \\times {{(3 \\times {{10}^8})}^2}} \\over {{{(960)}^2}}} = {1 \\over {L \\times 2.56 \\times {{10}^{ - 6}}}}$$<br><br>$$ \\Rightarrow {1 \\over L} = {{4 \\times 10 \\times 9 \\times {{10}^{16}} \\times 2.56 \\times {{10}^{ - 6}}} \\over {960 \\times 960}}$$<br><br>$$ \\Rightarrow L = 10 \\times {10^{ - 8}}$$ H"
+    },
+    {
+      "_type": "numerical",
+      "body": "A series L-C-R circuit is designed to resonate at an angular frequency $$\\omega$$<sub>0</sub> = 10<sup>5</sup> rad/s. The circuit draws 16W power from 120V source at resonance. The value of resistance 'R' in the circuit is _________ $$\\Omega$$.",
+      "answer": "900",
+      "explanation": "Given, angular frequency at resonance, $$\\omega$$<sub>0</sub> = 10<sup>5</sup> rads<sup>$$-$$1</sup><br/><br/>Power drawn from circuit, P = 16 W<br/><br/>and supply voltage, V = 120 V<br/><br/>Let resistance of circuit = R.<br/><br/>As, $$P = {V^2}/R$$<br/><br/>$$ \\Rightarrow R = {V^2}/P = {{120 \\times 100} \\over {16}}$$<br/><br/>$$ = 30 \\times 30 = 900\\,\\Omega $$"
+    },
+    {
+      "_type": "numerical",
+      "body": "A common transistor radio set requires 12 V (D.C.) for its operation. The D.C. source is constructed by using a transformer and a rectifier circuit, which are operated at 220 V (A.C.) on standard domestic A.C. supply. The number of turns of secondary coil are 24, then the number of turns of primary are ___________.",
+      "answer": "440",
+      "explanation": "In a transformer,<br/><br/>$${{{N_p}} \\over {{N_s}}} = {{{V_p}} \\over {{V_s}}}$$<br/><br/>where, N<sub>p</sub> = number of turns in primary circuit, N<sub>s</sub> = number of turns in secondary circuit = 24, V<sub>p</sub> = potential of primary circuit = 220 V and V<sub>s</sub> = potential of secondary circuit = 12 V<br/><br/>$$ \\Rightarrow {{{N_p}} \\over {24}} = {{220} \\over {12}}$$<br/><br/>$$ \\Rightarrow {N_p} = 440$$"
+    },
+    {
+      "_type": "numerical",
+      "body": "A resonance circuit having inductance and resistance 2 $$\\times$$ 10<sup>$$-$$4</sup> H and 6.28$$\\Omega$$ respectively oscillates at 10 MHz frequency. The value of quality factor of this resonator is ___________. [$$\\pi$$ = 3.14]",
+      "answer": "2000",
+      "explanation": "Given, L = 2 $$\\times$$ 10<sup>$$-$$4</sup> H, R = 6.28 $$\\Omega$$, f<sub>0</sub> = 10 MHz = 10 $$\\times$$ 10<sup>6</sup> Hz<br/><br/>$$\\therefore$$ Quality factor $$ = {\\omega _0}{L \\over R} = 2\\pi {f_0}{L \\over R}$$<br/><br/>$$ = 2\\pi  \\times 10 \\times {10^6} \\times {{2 \\times {{10}^{ - 4}}} \\over {6.28}}$$<br/><br/>$$ = 2 \\times {10^3} = 2000$$"
+    },
+    {
+      "_type": "numerical",
+      "body": "In a series LR circuit, power of 400W is dissipated from a source of 250 V, 50 Hz. The power factor\nof the circuit is 0.8. In order to bring the power factor to unity, a capacitor of value C is added in\nseries to the L and R. Taking the value of C as $$\\left( {{n \\over {3\\pi }}} \\right)$$ $$\\mu $$F,  then value of n is __________.",
+      "answer": "400",
+      "explanation": "Given, power factor of LR circuit,\n<br><br>cos $$\\phi $$ = 0.8 = $${R \\over {\\sqrt {{R^2} + X_L^2} }}$$ = $${R \\over Z}$$\n<br><br>We know, \n<br>Power, P = $${{V_{rms}^2} \\over {{Z^2}}} \\times R$$\n<br><br>$$ \\Rightarrow $$ 400 = $${{{{\\left( {250} \\right)}^2} \\times 0.8Z} \\over {{Z^2}}}$$\n<br><br>$$ \\Rightarrow $$ Z = 125\n<br><br>$$ \\therefore $$ R = 0.8 $$ \\times $$ 125 = 100 $$\\Omega $$\n<br><br>As Z<sup>2</sup> = $$X_L^2 + {R^2}$$\n<br><br>$$ \\Rightarrow $$ $${\\left( {125} \\right)^2} = X_L^2 + {\\left( {100} \\right)^2}$$\n<br><br>$$ \\Rightarrow $$ X<sub>L</sub> = 75\n<br><br>In 2<sup>nd</sup> case given.\n<br><br>Power factor = 1\n<br><br>that means\nX<sub>L</sub>\n = X<sub>C</sub>\n (Resonance condition)\n<br><br>X<sub>L</sub> = $${1 \\over {{\\omega _c}}}$$\n<br><br>$$ \\Rightarrow $$ 75 = $${1 \\over {\\left( {2\\pi F} \\right)C}}$$\n<br><br>$$ \\Rightarrow $$ C = $${1 \\over {\\left( {2\\pi  \\times 50} \\right)75}}$$\n<br><br>Also given, C = $$\\left( {{n \\over {3\\pi }}} \\right)$$ $$\\mu $$F\n<br><br>$$ \\therefore $$ $${1 \\over {\\left( {2\\pi  \\times 50} \\right)75}} = {{n \\times {{10}^{ - 6}}} \\over {3\\pi }}$$\n<br><br>$$ \\Rightarrow $$ n = 400"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>An ac current is represented as</p>\n<p>$$i=5 \\sqrt{2}+10 \\cos \\left(650 \\pi t+\\frac{\\pi}{6}\\right) A m p$$</p>\n<p>The r.m.s value of the current is</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": " 10 Amp\n"
+        },
+        {
+          "key": "B",
+          "value": " $5 \\sqrt{2} \\mathrm{~Amp}$\n"
+        },
+        {
+          "key": "C",
+          "value": " 100 Amp\n"
+        },
+        {
+          "key": "D",
+          "value": " 50 Amp"
+        }
+      ],
+      "answer": "A",
+      "explanation": "<p>To find the root mean square (RMS) value of the given alternating current, follow these steps:</p>\n<p>The current is represented as:</p>\n<p>$ i = 5\\sqrt{2} + 10 \\cos \\left(650\\pi t + \\frac{\\pi}{6}\\right) \\, \\text{Amp} $</p>\n<p>Here, the time-independent DC component is $5\\sqrt{2}$ and the AC component is $10 \\cos \\left(650\\pi t + \\frac{\\pi}{6}\\right)$.</p>\n\n<p><p><strong>Calculate the square of the current, $i^2$:</strong></p>\n<p>$    i^2 = \\left(5\\sqrt{2}\\right)^2 + \\left(10 \\cos \\left(650\\pi t + \\frac{\\pi}{6}\\right)\\right)^2 + 2 \\times 5\\sqrt{2} \\times 10 \\cos \\left(650\\pi t + \\frac{\\pi}{6}\\right)    $</p>\n<p>Simplifying, we have:</p>\n<p>$    i^2 = 50 + 100 \\cos^2 \\left(650\\pi t + \\frac{\\pi}{6}\\right) + 100\\sqrt{2} \\cos \\left(650\\pi t + \\frac{\\pi}{6}\\right)    $</p></p>\n<p><p><strong>Find the average value $\\langle i^2 \\rangle$:</strong></p>\n<p>The average value of $\\cos$ terms over a period is zero, simplifying our equation to:</p>\n<p>$    \\langle i^2 \\rangle = 50 + \\frac{100}{2} + 0    $</p>\n<p>This simplifies to:</p>\n<p>$    \\langle i^2 \\rangle = 50 + 50 = 100    $</p></p>\n<p><p><strong>Calculate the RMS current:</strong></p>\n<p>The RMS value is the square root of the mean of the squares of the current:</p>\n<p>$    \\langle i \\rangle = \\sqrt{100} = 10 \\, \\text{Amp}    $</p></p>\n\n<p>Thus, the RMS value of the current is 10 Amps.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>An alternating current is represented by the equation,\n$i=100 \\sqrt{2} \\sin (100 \\pi t)$ ampere. The RMS value of current and the frequency of the given alternating current are</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": " $\\frac{100}{\\sqrt{2}} \\mathrm{~A}, 100 \\mathrm{~Hz}$\n"
+        },
+        {
+          "key": "B",
+          "value": " $50 \\sqrt{2} \\mathrm{~A}, 50 \\mathrm{~Hz}$\n"
+        },
+        {
+          "key": "C",
+          "value": " $100 \\sqrt{2} \\mathrm{~A}, 100 \\mathrm{~Hz}$\n"
+        },
+        {
+          "key": "D",
+          "value": " $100 \\mathrm{~A}, 50 \\mathrm{~Hz}$"
+        }
+      ],
+      "answer": "D",
+      "explanation": "<p>To solve the problem, we need to determine both the RMS value of the current and the frequency from the given equation:</p>\n<p>$$i(t)=100\\sqrt{2}\\sin(100\\pi t).$$</p>\n<p>Here's how we do it step by step:</p>\n\n<p><strong>RMS Current Calculation:</strong></p>\n\n\n<p><p>For a sinusoidal current of the form $$i(t)=I_0 \\sin(\\omega t),$$ the RMS (root-mean-square) current is given by:</p>\n<p>$$I_{\\text{RMS}} = \\frac{I_0}{\\sqrt{2}}.$$</p></p>\n\n<p><p>In our case, the amplitude $$I_0 = 100\\sqrt{2}\\, \\text{A}.$$ Plugging into the formula:</p>\n<p>$$I_{\\text{RMS}} = \\frac{100\\sqrt{2}}{\\sqrt{2}} = 100\\, \\text{A}.$$</p></p>\n\n\n<p><strong>Frequency Calculation:</strong></p>\n\n\n<p><p>The argument of the sine function is $$100\\pi t.$$ In the general form $$\\sin(\\omega t),$$ $$\\omega$$ is the angular frequency which relates to the frequency $$f$$ by the equation:</p>\n<p>$$\\omega = 2\\pi f.$$</p></p>\n\n<p><p>Given $$\\omega = 100\\pi,$$ we can solve for $$f$$:</p>\n<p>$$f = \\frac{\\omega}{2\\pi} = \\frac{100\\pi}{2\\pi} = 50\\, \\text{Hz}.$$</p></p>\n\n<p>With these calculations, we find that the RMS current is $$100\\, \\text{A}$$ and the frequency is $$50\\, \\text{Hz}.$$ </p>\n<p>Thus, the correct option is:</p>\n<p>Option D: $$100\\,\\text{A}, \\, 50\\,\\text{Hz}.$$</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "An electric bulb rated as $100 \\mathrm{~W}-220 \\mathrm{~V}$ is connected to an ac source of rms voltage 220 V. The peak value of current through the bulb is :\n",
+      "options": [
+        {
+          "key": "A",
+          "value": "0.32 A\n"
+        },
+        {
+          "key": "B",
+          "value": "0.64 A\n"
+        },
+        {
+          "key": "C",
+          "value": "0.45 A\n"
+        },
+        {
+          "key": "D",
+          "value": "2.2 A"
+        }
+      ],
+      "answer": "B",
+      "explanation": "<p>$$\\begin{aligned}\n& \\mathrm{P}=\\mathrm{V}_{\\mathrm{rms}} \\mathrm{i}_{\\text {rms }} \\\\\n& \\mathrm{i}_{\\mathrm{rms}}=\\frac{100}{220} \\\\\n& \\mathrm{i}_0=\\sqrt{2} \\mathrm{i}_{\\mathrm{rms}}=0.64 \\mathrm{~A}\n\\end{aligned}$$</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>An alternating current is given by $\\mathrm{I}=\\mathrm{I}_{\\mathrm{A}} \\sin \\omega \\mathrm{t}+\\mathrm{I}_{\\mathrm{B}} \\cos \\omega \\mathrm{t}$. The r.m.s current will be</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "$\\frac{\\sqrt{\\mathrm{I}_{\\mathrm{A}}^2+\\mathrm{I}_{\\mathrm{B}}^2}}{2}$\n"
+        },
+        {
+          "key": "B",
+          "value": "$\\sqrt{\\frac{\\mathrm{I}_{\\mathrm{A}}^2+\\mathrm{I}_{\\mathrm{B}}^2}{2}}$\n"
+        },
+        {
+          "key": "C",
+          "value": "$\\frac{\\left|\\mathrm{I}_{\\mathrm{A}}+\\mathrm{I}_{\\mathrm{B}}\\right|}{\\sqrt{2}}$\n"
+        },
+        {
+          "key": "D",
+          "value": "$\\sqrt{\\mathrm{I}_{\\mathrm{A}}^2+\\mathrm{I}_{\\mathrm{B}}^2}$"
+        }
+      ],
+      "answer": "B",
+      "explanation": "<p>$$ I_{\\text{rms}} = \\sqrt{\\frac{I_A^2 + I_B^2}{2}} $$</p>\n<p>To determine the root mean square (r.m.s) value of the alternating current given by</p>\n<p>$$ I(t) = I_A \\sin (\\omega t) + I_B \\cos (\\omega t), $$</p>\n<p>we start by squaring the current:</p>\n<p>$$ I(t)^2 = I_A^2 \\sin^2 (\\omega t) + I_B^2 \\cos^2 (\\omega t) + 2 I_A I_B \\sin (\\omega t) \\cos (\\omega t). $$</p>\n<p>The r.m.s value is defined as the square root of the average of this squared current over one complete period. When averaging over a full cycle, we utilize the known averages:</p>\n<p>$$ \\langle \\sin^2 (\\omega t) \\rangle = \\frac{1}{2}, \\quad \\langle \\cos^2 (\\omega t) \\rangle = \\frac{1}{2}, \\quad \\langle \\sin (\\omega t) \\cos (\\omega t) \\rangle = 0. $$</p>\n<p>Thus, the time-averaged square of the current becomes:</p>\n<p>$$ \\langle I(t)^2 \\rangle = I_A^2 \\frac{1}{2} + I_B^2 \\frac{1}{2} = \\frac{I_A^2 + I_B^2}{2}. $$</p>\n<p>Taking the square root gives the r.m.s current:</p>\n<p>$$ I_{\\text{rms}} = \\sqrt{\\frac{I_A^2 + I_B^2}{2}}. $$</p>\n<p>This corresponds to Option B.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>A series LCR circuit is connected to an alternating source of emf E. The current amplitude at resonant frequency is $I_0$. If the value of resistance R becomes twice of its initial value then amplitude of current at resonance will be</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "$\\frac{\\mathrm{I}_0}{2}$\n"
+        },
+        {
+          "key": "B",
+          "value": "$\\frac{\\mathrm{I}_0}{\\sqrt{2}}$\n"
+        },
+        {
+          "key": "C",
+          "value": "$2 \\mathrm{I}_0$\n"
+        },
+        {
+          "key": "D",
+          "value": "$\\mathrm{I_0}$"
+        }
+      ],
+      "answer": "A",
+      "explanation": "<p>At resonance in a series LCR circuit, the reactive components (inductive and capacitive) cancel each other out, leaving only the resistance. Therefore, the amplitude of the current is given by:</p>\n<p>$$ I_0 = \\frac{E}{R} $$</p>\n<p>Now, if the resistance is doubled, the new resistance becomes $2R$. The current amplitude at resonance then becomes:</p>\n<p>$$ I = \\frac{E}{2R} = \\frac{1}{2}\\left(\\frac{E}{R}\\right) = \\frac{I_0}{2} $$</p>\n<p>Thus, the amplitude of current at resonance when the resistance is doubled is $ \\frac{I_0}{2} $.</p>\n<p>The correct option is A.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>A bulb and a capacitor are connected in series across an ac supply. A dielectric is then placed between the plates of the capacitor. The glow of the bulb :</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "becomes zero\n"
+        },
+        {
+          "key": "B",
+          "value": "remains same\n"
+        },
+        {
+          "key": "C",
+          "value": "increases\n"
+        },
+        {
+          "key": "D",
+          "value": "decreases"
+        }
+      ],
+      "answer": "C",
+      "explanation": "<p>To understand the impact of placing a dielectric between the plates of the capacitor on the glow of the bulb, we need to consider the properties and behavior of capacitors in an AC circuit.</p>\n\n<p>When a capacitor is connected in series with a bulb in an AC circuit, the impedance of the capacitor plays a significant role in determining the current through the circuit. The impedance $ Z_C $ of a capacitor in an AC circuit is given by:</p>\n\n<p>$$ Z_C = \\frac{1}{\\omega C} $$</p>\n\n<p>where:</p>\n\n<ul>\n\n<li>$ Z_C $ is the capacitive reactance (impedance of the capacitor).</li>\n\n<li>$ \\omega $ is the angular frequency of the AC supply ( $ \\omega = 2 \\pi f $ , where $ f $ is the frequency).</li>\n\n<li>$ C $ is the capacitance of the capacitor.</li>\n\n</ul>\n\n<p>When we place a dielectric between the plates of the capacitor, the capacitance $ C $ increases. The capacitance with a dielectric can be described as:</p>\n\n<p>$$ C' = \\kappa C $$</p>\n\n<p>where:</p>\n\n<ul>\n\n<li>$ C' $ is the new capacitance with the dielectric present.</li>\n\n<li>$ \\kappa $ is the dielectric constant ( $ \\kappa > 1 $ ).</li>\n\n</ul>\n\n<p>Since $ C' > C $, the new capacitive reactance $ Z_C' $ can be given as:</p>\n\n<p>$$ Z_C' = \\frac{1}{\\omega C'} $$</p>\n\n<p>Because $ C' = \\kappa C $, we have:</p>\n\n<p>$$ Z_C' = \\frac{1}{\\omega \\kappa C} = \\frac{1}{\\kappa} \\left( \\frac{1}{\\omega C} \\right) = \\frac{Z_C}{\\kappa} $$</p>\n\n<p>Since $\\kappa > 1$, $ Z_C' < Z_C $. This means the impedance of the capacitor decreases when a dielectric is placed between its plates. In a series circuit, the overall impedance decreases when the impedance of one component decreases, leading to an increase in the current through the circuit.</p>\n\n<p>Thus, with an increase in current, the bulb will glow brighter. Therefore, the correct option is:</p>\n\n<p><strong>Option C: increases</strong></p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>A coil of negligible resistance is connected in series with $$90 \\Omega$$ resistor across $$120 \\mathrm{~V}, 60 \\mathrm{~Hz}$$ supply. A voltmeter reads $$36 \\mathrm{~V}$$ across resistance. Inductance of the coil is :</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "0.91 H"
+        },
+        {
+          "key": "B",
+          "value": "0.76 H"
+        },
+        {
+          "key": "C",
+          "value": "2.86 H"
+        },
+        {
+          "key": "D",
+          "value": "0.286 H"
+        }
+      ],
+      "answer": "B",
+      "explanation": "<p>To find the inductance of the coil, we need to analyze the given circuit and use the information provided. The circuit consists of a resistor and an inductor in series, connected to an AC supply. Here are the given values:</p>\n\n<p>1. Resistance, $$R = 90 \\Omega$$</p>\n\n<p>2. Supply voltage, $$V_{\\text{total}} = 120 \\mathrm{~V}$$</p>\n\n<p>3. Frequency, $$f = 60 \\mathrm{~Hz}$$</p>\n\n<p>4. Voltage across the resistor, $$V_R = 36 \\mathrm{~V}$$</p>\n\n<p>First, we calculate the current through the resistor (which is the same as the current through the inductor, since they are in series) using Ohm's law:</p>\n\n<p>$$I = \\frac{V_R}{R} = \\frac{36}{90} = 0.4 \\mathrm{~A}$$</p>\n\n<p>Next, we find the total impedance $$Z$$ of the series combination from the total supply voltage:</p>\n\n<p>$$V_{\\text{total}} = I \\cdot Z$$</p>\n\n<p>$$Z = \\frac{V_{\\text{total}}}{I} = \\frac{120}{0.4} = 300 \\Omega$$</p>\n\n<p>We know that the total impedance in a series circuit consisting of a resistor and an inductor is given by:</p>\n\n<p>$$Z = \\sqrt{R^2 + (X_L)^2}$$</p>\n\n<p>where $$X_L$$ is the inductive reactance. Rearrange this to solve for $$X_L$$:</p>\n\n<p>$$X_L = \\sqrt{Z^2 - R^2} = \\sqrt{(300)^2 - (90)^2} = \\sqrt{90000 - 8100} = \\sqrt{81900} \\approx 286 \\Omega$$</p>\n\n<p>Now, we use the inductive reactance formula to find the inductance $$L$$:</p>\n\n<p>$$X_L = 2\\pi f L$$</p>\n\n<p>$$L = \\frac{X_L}{2\\pi f} = \\frac{286}{2 \\pi \\cdot 60} \\approx \\frac{286}{376.99} \\approx 0.76 \\mathrm{~H}$$</p>\n\n<p>Thus, the inductance of the coil is:</p>\n\n<p><strong>Option B: 0.76 H</strong></p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>A LCR circuit is at resonance for a capacitor C, inductance L and resistance R. Now the value of resistance is halved keeping all other parameters same. The current amplitude at resonance will be now:</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "halved\n"
+        },
+        {
+          "key": "B",
+          "value": "same\n"
+        },
+        {
+          "key": "C",
+          "value": "Zero\n"
+        },
+        {
+          "key": "D",
+          "value": "double"
+        }
+      ],
+      "answer": "D",
+      "explanation": "<p>To solve this problem, we need to understand the relationship between the current amplitude in a series LCR circuit at resonance and the resistance $ R $. At resonance, the impedance $ Z $ of the series LCR circuit is equal to the resistance $ R $, and thus:</p>\n\n<p>$$ Z = R $$</p>\n\n<p>The amplitude of the current $ I_0 $ at resonance is given by Ohm's law:</p>\n\n<p>$$ I_0 = \\frac{V_0}{R} $$</p>\n\n<p>where $ V_0 $ is the amplitude of the voltage supplied.</p>\n\n<p>Now, if the resistance $ R $ is halved while keeping the voltage amplitude $ V_0 $, capacitance $ C $, and inductance $ L $ the same, the new resistance becomes:</p>\n\n<p>$$ R_{new} = \\frac{R}{2} $$</p>\n\n<p>The new current amplitude $ I_0' $ at resonance is given by the modified Ohm's law:</p>\n\n<p>$$ I_0' = \\frac{V_0}{R_{new}} = \\frac{V_0}{\\frac{R}{2}} = \\frac{2V_0}{R} = 2 \\times I_0 $$</p>\n\n<p>Therefore, the current amplitude at resonance will be doubled. Hence, the correct answer is:</p>\n\n<p><strong>Option D: double</strong></p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Given below are two statements :</p>\n<p>Statement I : In an LCR series circuit, current is maximum at resonance.</p>\n<p>Statement II : Current in a purely resistive circuit can never be less than that in a series LCR circuit when connected to same voltage source.</p>\n<p>In the light of the above statements, choose the correct from the options given below :</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "Statement I is true but Statement II is false\n"
+        },
+        {
+          "key": "B",
+          "value": "Statement I is false but Statement II is true\n"
+        },
+        {
+          "key": "C",
+          "value": "Both Statement I and Statement II are true\n"
+        },
+        {
+          "key": "D",
+          "value": "Both Statement I and Statement II are false"
+        }
+      ],
+      "answer": "C",
+      "explanation": "<p>Statement I : True</p>\n<p>Statement II : True</p>\n<p>Current in purely resistive circuit is equal to current in LCR circuit with same resistance at resonance, otherwise more.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>A series LCR circuit is subjected to an ac signal of $$200 \\mathrm{~V}, 50 \\mathrm{~Hz}$$. If the voltage across the inductor $$(\\mathrm{L}=10 \\mathrm{~mH})$$ is $$31.4 \\mathrm{~V}$$, then the current in this circuit is _______.</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "10 A"
+        },
+        {
+          "key": "B",
+          "value": "10 mA"
+        },
+        {
+          "key": "C",
+          "value": "68 A"
+        },
+        {
+          "key": "D",
+          "value": "63 A"
+        }
+      ],
+      "answer": "A",
+      "explanation": "<p>$$\\begin{aligned}\n&V_L=I(\\omega L)=31.4\\\\\n&\\begin{aligned}\n\\Rightarrow \\quad I & =\\frac{31.4}{2 \\times 3.14 \\times 50 \\times 10 \\times 10^{-3}} \\\\\n& =10 \\mathrm{~A}\n\\end{aligned}\n\\end{aligned}$$</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>An alternating voltage of amplitude $$40 \\mathrm{~V}$$ and frequency $$4 \\mathrm{~kHz}$$ is applied directly across the capacitor of $$12 \\mu \\mathrm{F}$$. The maximum displacement current between the plates of the capacitor is nearly :</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "10 A"
+        },
+        {
+          "key": "B",
+          "value": "8 A"
+        },
+        {
+          "key": "C",
+          "value": "13 A"
+        },
+        {
+          "key": "D",
+          "value": "12 A"
+        }
+      ],
+      "answer": "D",
+      "explanation": "<p>Let's calculate the maximum displacement current between the plates of the capacitor when an alternating voltage is applied directly across it.</p>\n\n<p>The formula for the capacitive reactance $$X_C$$ of a capacitor is given by:</p>\n\n\n\n<p>$X_C = \\frac{1}{2\\pi fC}$</p>\n\n\n\n<p>where</p>\n\n<ul>\n\n<li>$$f$$ is the frequency of the alternating voltage, and</li>\n\n<li>$$C$$ is the capacitance of the capacitor.</li>\n\n</ul>\n\n<p>Given:</p>\n\n<ul>\n\n<li>The amplitude of the voltage ($$V_{max}$$) = $$40$$ V</li>\n\n<li>Frequency ($$f$$) = $$4000$$ Hz (or $$4 \\mathrm{~kHz}$$)</li>\n\n<li>Capacitance ($$C$$) = $$12 \\mu \\mathrm{F} = 12 \\times 10^{-6} \\mathrm{~F}$$</li>\n\n</ul>\n\n<p>First, we calculate $$X_C$$:</p>\n\n\n\n<p>$X_C = \\frac{1}{2\\pi(4000)(12 \\times 10^{-6})} \\approx \\frac{1}{2\\pi \\cdot 4 \\cdot 12 \\cdot 10^{-3}} \\approx \\frac{1}{96\\pi \\cdot 10^{-3}}$</p>\n\n\n\n\n\n<p>$X_C \\approx \\frac{1}{3.14 \\cdot 96 \\cdot 10^{-3}} \\approx \\frac{1}{0.30144} \\approx 3.316 \\Omega$</p>\n\n\n\n<p>Now, the maximum current ($$I_{max}$$) in the circuit can be calculated using Ohm's law, considering the maximum voltage across the capacitor and its capacitive reactance:</p>\n\n\n\n<p>$I_{max} = \\frac{V_{max}}{X_C}$</p>\n\n\n\n\n\n<p>$I_{max} = \\frac{40}{3.316} \\approx 12.06 \\mathrm{~A}$</p>\n\n\n\n<p>Hence, the maximum displacement current between the plates of the capacitor is nearly:</p>\n\n<p>Option D: 12 A</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>In an ac circuit, the instantaneous current is zero, when the instantaneous voltage is maximum. In this case, the source may be connected to :</p>\n<p>A. pure inductor.</p>\n<p>B. pure capacitor.</p>\n<p>C. pure resistor.</p>\n<p>D. combination of an inductor and capacitor.</p>\n<p>Choose the correct answer from the options given below :</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "A, B and C only\n"
+        },
+        {
+          "key": "B",
+          "value": "A and B only\n"
+        },
+        {
+          "key": "C",
+          "value": "A, B and D only\n"
+        },
+        {
+          "key": "D",
+          "value": "B, C and D only"
+        }
+      ],
+      "answer": "C",
+      "explanation": "<p>To understand which answer is correct, we must consider the relationship between voltage and current in various types of circuits, namely circuits with pure inductors, pure capacitors, pure resistors, and a combination of inductors and capacitors (LC circuits).</p>\n\n<p>In a <strong>purely resistive</strong> circuit, the voltage and current are in phase, meaning when the voltage is maximum, the current is also maximum. Therefore, option C (pure resistor) cannot result in the instantaneous current being zero when the instantaneous voltage is maximum.</p>\n\n<p>In a <strong>purely inductive</strong> circuit, the current lags the voltage by $90^\\circ$, or in other words, when the voltage is at its maximum, the current is zero. This is because the inductor opposes changes in current, leading to this phase difference.</p>\n\n<p>In a <strong>purely capacitive</strong> circuit, the current leads the voltage by $90^\\circ$. This means when the voltage is at its maximum value, the current through the capacitor is zero because the current reaches its maximum or minimum before the voltage does.</p>\n\n<p>In an <strong>LC circuit</strong> (inductor-capacitor), under certain conditions like at its resonant frequency, the circuit behaves as if it is purely resistive in nature where voltage and current are in phase. However, it's more nuanced because the question likely implies a condition not at resonance but rather at a general characteristic of LC circuits. In LC circuits, aside from the resonance condition, the presence of both inductive and capacitive components can lead to scenarios where the inductive and capacitive reactances cancel each other, particularly in the case where oscillations are involved, and indeed, there can be moments when the voltage is maximum and the current is minimum (zero in the ideal case) due to the energy being alternately stored in the magnetic field of the inductor and the electric field of the capacitor.</p>\n\n<p>Thus, reflecting on the scenarios:</p>\n\n<ul>\n\n<li>Pure inductor - Fits the description: instantaneous current is zero when the instantaneous voltage is maximum.</li>\n\n<li>Pure capacitor - Also fits the description for the reason described, taking into account ideal conditions.</li>\n\n<li>Pure resistor - Does not fit as voltage and current are in phase.</li>\n\n<li>Combination of an inductor and capacitor (LC circuit) - Can fit the description under certain non-resonance conditions where the behavior of energy exchange between L and C at a specific instant can result in the instant current being zero when the voltage is maximum, but this is more complex and dependent on specific conditions unlike the straightforward lag or lead in purely inductive or capacitive circuits.</li>\n\n</ul>\n\n<p>Therefore, the correct answer is <strong>Option C: A, B, and D only</strong>.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A parallel plate capacitor has a capacitance $\\mathrm{C}=200~ \\mathrm{pF}$. It is connected to $230 \\mathrm{~V}$ ac supply with an angular frequency $300~ \\mathrm{rad} / \\mathrm{s}$. The rms value of conduction current in the circuit and displacement current in the capacitor respectively are :",
+      "options": [
+        {
+          "key": "A",
+          "value": "$14.3 ~\\mu \\mathrm{A}$ and $143 ~\\mu \\mathrm{A}$"
+        },
+        {
+          "key": "B",
+          "value": "$13.8 ~\\mu \\mathrm{A}$ and $13.8 ~\\mu \\mathrm{A}$"
+        },
+        {
+          "key": "C",
+          "value": "$13.8 ~\\mu \\mathrm{A}$ and $138 ~\\mu \\mathrm{A}$"
+        },
+        {
+          "key": "D",
+          "value": "$1.38 ~\\mu \\mathrm{A}$ and $1.38 ~\\mu \\mathrm{A}$"
+        }
+      ],
+      "answer": "B",
+      "explanation": "<p>To solve this problem, we need to understand how to calculate the rms current in an AC circuit containing a capacitor, as well as the concept of displacement current.</p>\n\n<p>First, the rms (root mean square) value of the current ($I_{\\text{rms}}$) in a capacitor when connected to an AC supply is given by:</p>\n\n\n\n<p>$I_{\\text{rms}} = V_{\\text{rms}} \\cdot \\omega C$</p>\n\n\n\n<p>where $V_{\\text{rms}}$ is the rms voltage, $\\omega$ is the angular frequency, and $C$ is the capacitance.</p>\n\n<p>For an AC supply, the rms voltage is related to the peak voltage ($V_0$) by:</p>\n\n\n\n<p>$V_{\\text{rms}} = \\frac{V_0}{\\sqrt{2}}$</p>\n\n\n\n<p>However, we've been given the rms voltage directly, which is $230\\, \\text{V}$. Therefore, we can use this value directly in our calculations.</p>\n\n<p>Given:</p>\n\n<p>$C = 200\\, \\text{pF} = 200 \\times 10^{-12}\\, \\text{F}$</p>\n\n<p>$\\omega = 300\\, \\text{rad/s}$</p>\n\n<p>$V_{\\text{rms}} = 230\\, \\text{V}$</p>\n\n<p>Substitute these values into the equation for rms current:</p>\n\n\n\n<p>$I_{\\text{rms}} = V_{\\text{rms}} \\cdot \\omega C = 230 \\times 300 \\times 200 \\times 10^{-12} = 13.8 \\times 10^{-6}\\, \\text{A}$</p>\n\n\n\n<p>Therefore, the rms value of the conduction current is $13.8\\, \\mu \\text{A}$.</p>\n\n<p>Now, for the displacement current (which is essentially the current that would \"flow\" through the dielectric of the capacitor as a result of the changing electric field). In an AC circuit, the displacement current and the conduction current are the same. That's because the displacement current is necessary to sustain the changing electric field between the plates of the capacitor, and this changing field is what causes the conduction current in the leads and the rest of the circuit.</p>\n\n<p>Hence, the rms value of the displacement current is the same as the conduction current, which is $13.8\\, \\mu \\text{A}$.</p>\n\n<p>So, the correct option is:</p>\n\n<p>Option B</p>\n\n<p>$13.8\\, \\mu \\text{A}$ and $13.8\\, \\mu \\text{A}$</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "In series LCR circuit, the capacitance is changed from $C$ to $4 C$. To keep the resonance frequency unchanged, the new inductance should be:",
+      "options": [
+        {
+          "key": "A",
+          "value": "increased by $2 \\mathrm{~L}$"
+        },
+        {
+          "key": "B",
+          "value": "reduced by $\\frac{1}{4} \\mathrm{~L}$"
+        },
+        {
+          "key": "C",
+          "value": "reduced by $\\frac{3}{4} \\mathrm{~L}$"
+        },
+        {
+          "key": "D",
+          "value": "increased to $4 \\mathrm{~L}$"
+        }
+      ],
+      "answer": "C",
+      "explanation": "<p>The resonance frequency $$ f_0 $$ of an LCR circuit is given by:</p>\n\n$$ f_0 = \\frac{1}{2\\pi\\sqrt{LC}} $$\n\n<p>where:</p>\n<ul>\n<li>$$ L $$ is the inductance.</li>\n<li>$$ C $$ is the capacitance.</li>\n</ul>\n\n<p>To keep the resonance frequency unchanged when the capacitance is changed from $$ C $$ to $$ 4C $$, we must adjust the inductance $$ L $$ to a new value $$ L' $$ such that:</p>\n\n$$ \\frac{1}{2\\pi\\sqrt{LC}} = \\frac{1}{2\\pi\\sqrt{L' \\cdot 4C}} $$\n\n<p>Now solving for $$ L' $$:</p>\n\n$$ \\sqrt{LC} = \\sqrt{4CL'} $$\n\n<p>Squaring both sides, we have:</p>\n\n$$ LC = 4CL' $$\n\n<p>Dividing both sides by $$ 4C $$, we get:</p>\n\n$$ \\frac{L}{4} = L' $$\n\n<p>Thus, the new inductance $$ L' $$ is one fourth of the original inductance $$ L $$. Therefore, to achieve the same resonance frequency with the capacitance increased to $$ 4C $$, the inductance should be reduced to a quarter of its initial value:</p>\n\n$$ L' = \\frac{L}{4} $$\n\n<p>This means we have reduced the inductance by $$ \\frac{3}{4}L $$, so the correct answer is:</p>\n\n<p>Option C: reduced by $$ \\frac{3}{4}L $$</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>An AC voltage $$V=20 \\sin 200 \\pi t$$ is applied to a series LCR circuit which drives a current $$I=10 \\sin \\left(200 \\pi t+\\frac{\\pi}{3}\\right)$$. The average power dissipated is:</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "21.6 W"
+        },
+        {
+          "key": "B",
+          "value": "200 W"
+        },
+        {
+          "key": "C",
+          "value": "173.2 W"
+        },
+        {
+          "key": "D",
+          "value": "50 W"
+        }
+      ],
+      "answer": "D",
+      "explanation": "<p>$$\\begin{aligned}\n& <\\mathrm{P}>=\\mathrm{IV} \\cos \\phi \\\\\n& =\\frac{20}{\\sqrt{2}} \\times \\frac{10}{\\sqrt{2}} \\times \\cos 60^{\\circ} \\\\\n& =50 \\mathrm{~W}\n\\end{aligned}$$</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>An alternating voltage $$V(t)=220 \\sin 100 \\pi t$$ volt is applied to a purely resistive load of $$50 \\Omega$$. The time taken for the current to rise from half of the peak value to the peak value is:</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "7.2 ms"
+        },
+        {
+          "key": "B",
+          "value": "3.3 ms"
+        },
+        {
+          "key": "C",
+          "value": "5 ms"
+        },
+        {
+          "key": "D",
+          "value": "2.2 ms"
+        }
+      ],
+      "answer": "B",
+      "explanation": "<p>Rising half to peak</p>\n<p>$$\\begin{aligned}\n& \\mathrm{t}=\\mathrm{T} / 6 \\\\\n& \\mathrm{t}=\\frac{2 \\pi}{6 \\omega}=\\frac{\\pi}{3 \\omega}=\\frac{\\pi}{300 \\pi}=\\frac{1}{300}=3.33 \\mathrm{~ms}\n\\end{aligned}$$</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>In an a.c. circuit, voltage and current are given by:</p>\n<p>$$V=100 \\sin (100 t) V$$ and\n$$I=100 \\sin \\left(100 t+\\frac{\\pi}{3}\\right) \\mathrm{mA}$$ respectively.</p>\n<p>The average power dissipated in one cycle is:</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "5 W"
+        },
+        {
+          "key": "B",
+          "value": "25 W"
+        },
+        {
+          "key": "C",
+          "value": "2.5 W"
+        },
+        {
+          "key": "D",
+          "value": "10 W"
+        }
+      ],
+      "answer": "C",
+      "explanation": "<p>$$\\begin{aligned}\n& P_{\\text {avg }}=V_{\\text {rms }} I_{r m s} \\cos (\\Delta \\phi) \\\\\n& =\\frac{100}{\\sqrt{2}} \\times \\frac{100 \\times 10^{-3}}{\\sqrt{2}} \\times \\cos \\left(\\frac{\\pi}{3}\\right) \\\\\n& =\\frac{10^4}{2} \\times \\frac{1}{2} \\times 10^{-3} \\\\\n& =\\frac{10}{4}=2.5 \\mathrm{~W}\n\\end{aligned}$$</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>A capacitor of capacitance $$100 \\mu \\mathrm{F}$$ is charged to a potential of $$12 \\mathrm{~V}$$ and connected to a $$6.4 \\mathrm{~mH}$$ inductor to produce oscillations. The maximum current in the circuit would be :</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "2.0 A"
+        },
+        {
+          "key": "B",
+          "value": "3.2 A"
+        },
+        {
+          "key": "C",
+          "value": "1.5 A"
+        },
+        {
+          "key": "D",
+          "value": "1.2 A"
+        }
+      ],
+      "answer": "C",
+      "explanation": "<p>By energy conservation</p>\n<p>$$\\begin{aligned}\n& \\frac{1}{2} \\mathrm{CV}^2=\\frac{1}{2} \\mathrm{LI}_{\\text {max }}^2 \\\\\n& \\mathrm{I}_{\\max }=\\sqrt{\\frac{\\mathrm{C}}{\\mathrm{L}}} \\mathrm{V} \\\\\n& =\\sqrt{\\frac{100 \\times 10^{-6}}{6.4 \\times 10^{-3}}} \\times 12 \\\\\n& =\\frac{12}{8}=\\frac{3}{2}=1.5 \\mathrm{~A}\n\\end{aligned}$$</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Primary side of a transformer is connected to $$230 \\mathrm{~V}, 50 \\mathrm{~Hz}$$ supply. Turns ratio of primary to secondary winding is $$10: 1$$. Load resistance connected to secondary side is $$46 \\Omega$$. The power consumed in it is :</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "11.5 W"
+        },
+        {
+          "key": "B",
+          "value": "12.5 W"
+        },
+        {
+          "key": "C",
+          "value": "10.0 W"
+        },
+        {
+          "key": "D",
+          "value": "12.0 W"
+        }
+      ],
+      "answer": "A",
+      "explanation": "<p>$$\\begin{aligned}\n& \\frac{V_1}{V_2}=\\frac{N_1}{N_2} \\\\\n& \\frac{230}{V_2}=\\frac{10}{1} \\\\\n& V_2=23 \\mathrm{~V}\n\\end{aligned}$$</p>\n<p>Power consumed $$=\\frac{\\mathrm{V}_2^2}{\\mathrm{R}}$$</p>\n<p>$$=\\frac{23 \\times 23}{46}=11.5 \\mathrm{~W}$$</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Given below are two statements:</p>\n<p>Statement I : An AC circuit undergoes electrical resonance if it contains either a capacitor or an inductor.</p>\n<p>Statement II : An AC circuit containing a pure capacitor or a pure inductor consumes high power due to its non-zero power factor.</p>\n<p>In the light of above statements, choose the correct answer form the options given below:</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "Both Statement I and Statement II are false"
+        },
+        {
+          "key": "B",
+          "value": "Statement I is true but statement II is false"
+        },
+        {
+          "key": "C",
+          "value": "Statement I is false but statement II is true"
+        },
+        {
+          "key": "D",
+          "value": "Both Statement I and Statement II are true"
+        }
+      ],
+      "answer": "A",
+      "explanation": "<p>Statement I: An AC circuit undergoes electrical resonance if it contains either a capacitor or an inductor.</p>\n<p>This statement is incorrect. Electrical resonance occurs in an AC circuit when the capacitive reactance and inductive reactance are equal, causing the impedance of the circuit to be minimum. This typically happens in a series RLC circuit or a parallel RLC circuit. If the circuit contains only a capacitor or an inductor, it cannot undergo electrical resonance as there is no counterpart reactance to balance the impedance.</p>\n\n<p>Statement II: An AC circuit containing a pure capacitor or a pure inductor consumes high power due to its non-zero power factor.</p>\n<p>This statement is also incorrect. An AC circuit containing a pure capacitor or a pure inductor will have a power factor of 0, not a non-zero power factor. The power factor of a capacitor is -1, and the power factor of an inductor is +1, but when only considering the reactive components, the power factor is 0. In such a circuit, no real power is consumed, and the circuit only has reactive power. The energy is alternately stored and released by the capacitor and inductor, but no energy is dissipated as heat or used to perform work.</p>\n\n<p>As both statements are incorrect, the correct answer would be an option that states both statements are false.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Given below are two statements:</p>\n<p>Statement I : When the frequency of an a.c source in a series LCR circuit increases, the current in the circuit first increases, attains a maximum value and then decreases.</p>\n<p>Statement II : In a series LCR circuit, the value of power factor at resonance is one.</p>\n<p>In the light of given statements, choose the most appropriate answer from the options given below.</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "Both Statement I and Statement II are False."
+        },
+        {
+          "key": "B",
+          "value": "Statement I is incorrect but Statement II is true."
+        },
+        {
+          "key": "C",
+          "value": "Both Statement I and Statement II are true."
+        },
+        {
+          "key": "D",
+          "value": "Statement I is correct but Statement II is false."
+        }
+      ],
+      "answer": "C",
+      "explanation": "<p><b>Statement I</b> is true because in a series LCR circuit, the current first increases as the frequency increases, reaching a maximum value when the circuit is at resonance. At resonance, the inductive reactance (XL) and capacitive reactance (XC) cancel each other out, resulting in the lowest impedance (Z) and the highest current. As the frequency continues to increase beyond resonance, the current in the circuit decreases.</p>\n<p><b>Statement II</b> is also true because, at resonance in a series LCR circuit, the inductive reactance (XL) and capacitive reactance (XC) are equal and cancel each other out. This results in the impedance (Z) being purely resistive. The power factor at resonance is given by the cosine of the phase angle (θ), and since the phase angle is 0° at resonance, the power factor is 1.</p>\n<p>Thus, both statements are true, and the correct answer is Both Statement I and Statement II are true.</p>\n"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Given below are two statements:</p>\n<p>Statement I : Maximum power is dissipated in a circuit containing an inductor, a capacitor and a resistor connected in series with an AC source, when resonance occurs</p>\n<p>Statement II : Maximum power is dissipated in a circuit containing pure resistor due to zero phase difference between current and voltage.</p>\n<p>In the light of the above statements, choose the correct answer from the options given below:</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "Statement I is false but Statement II is true"
+        },
+        {
+          "key": "B",
+          "value": "Both Statement I and Statement II are false"
+        },
+        {
+          "key": "C",
+          "value": "Statement I is true but Statement II is false"
+        },
+        {
+          "key": "D",
+          "value": "Both Statement I and Statement II are true"
+        }
+      ],
+      "answer": "D",
+      "explanation": "<p>In a series LCR circuit connected to an AC source, resonance occurs at a particular frequency at which the inductive reactance is equal to the capacitive reactance, resulting in the minimum impedance of the circuit. At this frequency, the circuit draws maximum current from the source, and thus, the maximum power is dissipated in the circuit. Therefore, Statement I is true.</p>\n<p>In a circuit containing only a resistor, the power dissipated is given by P = VI = I$^2$R, where V is the voltage across the resistor, I is the current flowing through the resistor, and R is the resistance of the resistor. The voltage and current are in phase in a purely resistive circuit, which means that the power is maximized. Therefore, Statement II is also true.</p>\n"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>A capacitor of capacitance $$150.0 ~\\mu \\mathrm{F}$$ is connected to an alternating source of emf given by $$\\mathrm{E}=36 \\sin (120 \\pi \\mathrm{t}) \\mathrm{V}$$. The maximum value of current in the circuit is approximately equal to :</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$\\frac{1}{\\sqrt{2}} A$$"
+        },
+        {
+          "key": "B",
+          "value": "$$2 \\sqrt{2} A$$"
+        },
+        {
+          "key": "C",
+          "value": "$$\\sqrt{2} A$$"
+        },
+        {
+          "key": "D",
+          "value": "$$2 A$$"
+        }
+      ],
+      "answer": "D",
+      "explanation": "<p>For a capacitor connected to an AC source, the maximum current $$I_\\text{max}$$ can be calculated using the formula:</p>\n<p>$$I_\\text{max} = E_\\text{max} \\cdot \\omega C$$</p>\n<p>where $$E_\\text{max}$$ is the maximum voltage, $$\\omega$$ is the angular frequency, and $$C$$ is the capacitance.</p>\n<p>Given the emf equation: $$E = 36 \\sin(120\\pi t) \\, \\text{V}$$, we can determine that $$E_\\text{max} = 36\\, \\text{V}$$ and $$\\omega = 120\\pi \\, \\text{rad/s}$$.</p>\n<p>The capacitance is given as $$150.0\\, \\mu\\text{F} = 150.0 \\times 10^{-6}\\, \\text{F}$$.</p>\n<p>Now, we can calculate the maximum current:</p>\n<p>$$I_\\text{max} = 36 \\cdot (120\\pi) \\cdot (150.0 \\times 10^{-6})$$</p>\n<p>$$I_\\text{max} \\approx 2\\, \\text{A}$$</p>\n<p>Thus, the correct answer is $$2\\, \\text{A}$$.</p>\n"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Match List - I with List - II :</p>\n<p><style type=\"text/css\">\n.tg  {border-collapse:collapse;border-spacing:0;}\n.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg .tg-amwm{font-weight:bold;text-align:center;vertical-align:top}\n.tg .tg-0lax{text-align:left;vertical-align:top}\n</style>\n<table class=\"tg\" style=\"undefined;table-layout: fixed; width: 532px\">\n<colgroup>\n<col style=\"width: 50px\">\n<col style=\"width: 223px\">\n<col style=\"width: 45px\">\n<col style=\"width: 214px\">\n</colgroup>\n<thead>\n  <tr>\n    <th class=\"tg-amwm\"></th>\n    <th class=\"tg-amwm\">List I</th>\n    <th class=\"tg-amwm\"></th>\n    <th class=\"tg-amwm\">List II</th>\n  </tr>\n</thead>\n<tbody>\n  <tr>\n    <td class=\"tg-0lax\">A.</td>\n    <td class=\"tg-0lax\">AC generator</td>\n    <td class=\"tg-0lax\">I.</td>\n    <td class=\"tg-0lax\">Presence of both L and C</td>\n  </tr>\n  <tr>\n    <td class=\"tg-0lax\">B.</td>\n    <td class=\"tg-0lax\">Transformer</td>\n    <td class=\"tg-0lax\">II.</td>\n    <td class=\"tg-0lax\">Electromagnetic Induction</td>\n  </tr>\n  <tr>\n    <td class=\"tg-0lax\">C.</td>\n    <td class=\"tg-0lax\">Resonance phenomenon to occur</td>\n    <td class=\"tg-0lax\">III.</td>\n    <td class=\"tg-0lax\">Quality factor</td>\n  </tr>\n  <tr>\n    <td class=\"tg-0lax\">D.</td>\n    <td class=\"tg-0lax\">Sharpness of resonance</td>\n    <td class=\"tg-0lax\">IV.</td>\n    <td class=\"tg-0lax\">Mutual Induction</td>\n  </tr>\n</tbody>\n</table></p>\n<p>Choose the correct answer from the options given below :</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "A-II, B-I, C-III, D-IV"
+        },
+        {
+          "key": "B",
+          "value": "A-IV, B-III, C-I, D-II"
+        },
+        {
+          "key": "C",
+          "value": "A-II, B-IV, C-I, D-III"
+        },
+        {
+          "key": "D",
+          "value": "A-IV, B-II, C-I, D-III"
+        }
+      ],
+      "answer": "C",
+      "explanation": "AC generator works on EMZ principle (A-II) \n<br/><br/>Transformer uses Mutual induction (B-IV)\n\n<br/><br/>Resonance occurs when both $L$ and $C$ are present (C-Z) and \n<br/><br/>quality factor determines sharpness of resonance (D-III)"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "An alternating voltage source $\\mathrm{V}=260 \\sin (628 \\mathrm{t}$ ) is connected across a pure inductor of $5 \\mathrm{mH}$ Inductive reactance in the circuit is :",
+      "options": [
+        {
+          "key": "A",
+          "value": "$6.28 \\Omega$"
+        },
+        {
+          "key": "B",
+          "value": "$0.318 \\Omega$"
+        },
+        {
+          "key": "C",
+          "value": "$0.5 \\Omega$"
+        },
+        {
+          "key": "D",
+          "value": "$3.14 \\Omega$"
+        }
+      ],
+      "answer": "D",
+      "explanation": "$\\omega$ = 628 rad/s\n<br/><br/>$X_{L}=L \\omega$\n\n<br/><br/>$$\n\\begin{aligned}\n& =5 \\mathrm{mH} \\times 628 \\\\\\\\\n& =3.14 \\Omega\n\\end{aligned}\n$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>If $$\\mathrm{R}, \\mathrm{X}_{\\mathrm{L}}$$, and $$\\mathrm{X}_{\\mathrm{C}}$$ represent resistance, inductive reactance and capacitive reactance. Then which of the following is dimensionless :</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$\\frac{R}{X_{L} X_{C}}$$"
+        },
+        {
+          "key": "B",
+          "value": "$$R X_{L}  X_{C}$$"
+        },
+        {
+          "key": "C",
+          "value": "$$\\frac{R}{\\sqrt{X_{L} X_{C}}}$$"
+        },
+        {
+          "key": "D",
+          "value": "$$R \\frac{X_{L}}{X_{C}}$$"
+        }
+      ],
+      "answer": "C",
+      "explanation": "$R=$ Resistance\n\n<br/><br/>$$\n\\begin{aligned}\n& {\\left[X_{L}\\right]=[R]} \\\\\\\\\n& {\\left[X_{C}\\right]=[R]}\n\\end{aligned}\n$$\n\n<br/><br/>So, $\\frac{R}{\\sqrt{X_{L} X_{C}}}$ is dimensionless."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>In a series LR circuit with $$\\mathrm{X_L=R}$$, power factor P<sub>1</sub>. If a capacitor of capacitance C with $$\\mathrm{X_C=X_L}$$ is added to the circuit the power factor becomes P<sub>2</sub>. The ratio of P<sub>1</sub> to P<sub>2</sub> will be :</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "1 : $$\\sqrt2$$"
+        },
+        {
+          "key": "B",
+          "value": "1 : 3"
+        },
+        {
+          "key": "C",
+          "value": "1 : 2"
+        },
+        {
+          "key": "D",
+          "value": "1 : 1"
+        }
+      ],
+      "answer": "A",
+      "explanation": "<p>$${X_L} = R$$</p>\n<p>$$ \\Rightarrow {P_1} = {R \\over {\\sqrt {X_L^2 + {R^2}} }} = {1 \\over {\\sqrt 2 }}$$</p>\n<p>Now, $${X_L} = {X_C} = R$$</p>\n<p>$$ \\Rightarrow {P_2} = {R \\over {\\sqrt {{R^2} + {{({X_L} - {X_C})}^2}} }} = 1$$</p>\n<p>$$ \\Rightarrow {{{P_1}} \\over {{P_2}}} = {1 \\over {\\sqrt 2 }}$$</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>In an LC oscillator, if values of inductance and capacitance become twice and eight times, respectively, then the resonant frequency of oscillator becomes $$x$$ times its initial resonant frequency $$\\omega_0$$. The value of $$x$$ is :</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "1/4"
+        },
+        {
+          "key": "B",
+          "value": "1/16"
+        },
+        {
+          "key": "C",
+          "value": "4"
+        },
+        {
+          "key": "D",
+          "value": "16"
+        }
+      ],
+      "answer": "A",
+      "explanation": "The resonance frequency of LC oscillations circuit is<br/><br/>\n$$\n\\begin{aligned}\n& \\omega_0=\\frac{1}{\\sqrt{\\mathrm{LC}}} \\\\\\\\\n& \\mathrm{L} \\rightarrow 2 \\mathrm{~L} \\\\\\\\\n& \\mathrm{C} \\rightarrow 8 \\mathrm{C} \\\\\\\\\n& \\omega=\\frac{1}{\\sqrt{2 \\mathrm{~L} \\times 8 \\mathrm{C}}}=\\frac{1}{4 \\sqrt{\\mathrm{LC}}} \\\\\\\\\n& \\omega=\\frac{\\omega_0}{4}\n\\end{aligned}\n$$<br/><br/>\nSo $\\mathrm{x}=\\frac{1}{4}$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>A circuit element $$\\mathrm{X}$$ when connected to an a.c. supply of peak voltage $$100 \\mathrm{~V}$$ gives a peak current of $$5 \\mathrm{~A}$$ which is in phase with the voltage. A second element $$\\mathrm{Y}$$ when connected to the same a.c. supply also gives the same value of peak current which lags behind the voltage by $$\\frac{\\pi}{2}$$. If $$\\mathrm{X}$$ and $$\\mathrm{Y}$$ are connected in series to the same supply, what will be the rms value of the current in ampere?</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$\\frac{10}{\\sqrt{2}}$$"
+        },
+        {
+          "key": "B",
+          "value": "$$\\frac{5}{\\sqrt{2}}$$"
+        },
+        {
+          "key": "C",
+          "value": "$$5 \\sqrt{2}$$"
+        },
+        {
+          "key": "D",
+          "value": "$$\\frac{5}{2}$$"
+        }
+      ],
+      "answer": "D",
+      "explanation": "Element X should be resistive with, $R=\\frac{100}{5}=20 \\Omega$\n\n<br/><br/>Element Y should be inductive with, $$\nX_{L}=\\frac{100}{5}=20 \\Omega\n$$\n\n<br/><br/>When X and Y are connector in series,\n\n<br/><br/>$$\n\\begin{aligned}\n&Z=\\sqrt{20^{2}+20^{2}}=20 \\sqrt{2} \\Omega \\\\\\\\\n&I=\\frac{100}{Z}=\\frac{100}{20 \\sqrt{2}}=\\frac{5}{\\sqrt{2}} \\\\\\\\\n&i_{\\mathrm{rms}}=\\frac{1}{\\sqrt{2}} I \\\\\\\\\n&=\\frac{5}{2}\n\\end{aligned}\n$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>An alternating emf $$\\mathrm{E}=440 \\sin 100 \\pi \\mathrm{t}$$ is applied to a circuit containing an inductance of $$\\frac{\\sqrt{2}}{\\pi} \\mathrm{H}$$. If an a.c. ammeter is connected in the circuit, its reading will be :</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "4.4 A"
+        },
+        {
+          "key": "B",
+          "value": "1.55 A"
+        },
+        {
+          "key": "C",
+          "value": "2.2 A"
+        },
+        {
+          "key": "D",
+          "value": "3.11 A"
+        }
+      ],
+      "answer": "C",
+      "explanation": "<p>$$I = {V \\over {\\omega L}}$$</p>\n<p>$$ = {{440} \\over {100\\pi  \\times {{\\sqrt 2 } \\over \\pi }}} = {{44} \\over {10\\sqrt 2 }}$$</p>\n<p>$$ \\Rightarrow {I_{rms}} = {I \\over {\\sqrt 2 }} = {{44} \\over {20}} = 2.2\\,A$$</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>A coil of inductance 1 H and resistance $$100 \\,\\Omega$$ is connected to a battery of 6 V. Determine approximately :</p>\n<p>(a) The time elapsed before the current acquires half of its steady - state value.</p>\n<p>(b) The energy stored in the magnetic field associated with the coil at an instant 15 ms after the circuit is switched on. (Given $$\\ln 2=0.693, \\mathrm{e}^{-3 / 2}=0.25$$)</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "t = 10 ms; U = 2 mJ"
+        },
+        {
+          "key": "B",
+          "value": "t = 10 ms; U = 1 mJ"
+        },
+        {
+          "key": "C",
+          "value": "t = 7 ms; U = 1 mJ"
+        },
+        {
+          "key": "D",
+          "value": "t = 7 ms; U = 2 mJ"
+        }
+      ],
+      "answer": "C",
+      "explanation": "<p>$$i(t) = {V \\over R}(1 - {e^{ - Rt/L}})$$ ...... (1)</p>\n<p>$${L \\over R} = {1 \\over {100}}s \\Rightarrow {L \\over R} = 10\\,ms$$ ...... (2)</p>\n<p>$${V \\over {2R}} = {V \\over R}(1 - {e^{ - Rt/L}})$$</p>\n<p>$$ \\Rightarrow {e^{ - Rt/L}} = {1 \\over 2} \\Rightarrow t = {L \\over R}\\ln 2 = 6.93\\,ms$$</p>\n<p>$$U = {1 \\over 2}L{i^2} = {1 \\over 2}{[1 - {e^{ - 15/10}}]^2}{\\left[ {{6 \\over {100}}} \\right]^2}$$</p>\n<p>$$ = {1 \\over 2}{[1 - 0.25]^2} \\times 36 \\times {10^{ - 4}}$$</p>\n<p>$$ = 1\\,mJ$$</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>A transformer operating at primary voltage $$8 \\,\\mathrm{kV}$$ and secondary voltage $$160 \\mathrm{~V}$$ serves a load of $$80 \\mathrm{~kW}$$. Assuming the transformer to be ideal with purely resistive load and working on unity power factor, the loads in the primary and secondary circuit would be</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$800 \\,\\Omega$$ and $$1.06 \\,\\Omega$$"
+        },
+        {
+          "key": "B",
+          "value": "$$10 \\,\\Omega$$ and $$500 \\,\\Omega$$"
+        },
+        {
+          "key": "C",
+          "value": "$$800 \\,\\Omega$$ and $$0.32 \\,\\Omega$$"
+        },
+        {
+          "key": "D",
+          "value": "$$1.06 \\,\\Omega$$ and $$500 \\,\\Omega$$"
+        }
+      ],
+      "answer": "C",
+      "explanation": "<p>$${V_1}{i_1} = {V_2}{i_2} = 80$$ kW</p>\n<p>$$ \\Rightarrow {i_1} = 10\\,A$$ and $${i_2} = {{80 \\times 1000} \\over {160}} = 500\\,A$$</p>\n<p>$$ \\Rightarrow {R_1} = {{{V_1}} \\over {{i_1}}} = 800\\,\\Omega $$ and $${R_2} = {{160} \\over {500}} = 0.32\\,\\Omega $$</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>A series LCR circuit has $$\\mathrm{L}=0.01\\, \\mathrm{H}, \\mathrm{R}=10\\, \\Omega$$ and $$\\mathrm{C}=1 \\mu \\mathrm{F}$$ and it is connected to ac voltage of amplitude $$\\left(\\mathrm{V}_{\\mathrm{m}}\\right) 50 \\mathrm{~V}$$. At frequency $$60 \\%$$ lower than resonant frequency, the amplitude of current will be approximately :</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "466 mA"
+        },
+        {
+          "key": "B",
+          "value": "312 mA"
+        },
+        {
+          "key": "C",
+          "value": "238 mA"
+        },
+        {
+          "key": "D",
+          "value": "196 mA"
+        }
+      ],
+      "answer": "C",
+      "explanation": "<p>$$\\omega  = 0.4{\\omega _0}$$ ...... (i)</p>\n<p>$$ \\Rightarrow I = {V \\over Z} = {{50} \\over {\\sqrt {{R^2} + {{\\left( {\\omega L - {1 \\over {\\omega C}}} \\right)}^2}} }}$$ ..... (ii)</p>\n<p>$$ \\Rightarrow I = 238$$ mA</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>A direct current of $$4 \\mathrm{~A}$$ and an alternating current of peak value $$4 \\mathrm{~A}$$ flow through resistance of $$3\\, \\Omega$$ and $$2\\,\\Omega$$ respectively. The ratio of heat produced in the two resistances in same interval of time will be :</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "3 : 2"
+        },
+        {
+          "key": "B",
+          "value": "3 : 1"
+        },
+        {
+          "key": "C",
+          "value": "3 : 4"
+        },
+        {
+          "key": "D",
+          "value": "4 : 3"
+        }
+      ],
+      "answer": "B",
+      "explanation": "<p>Ratio = $${{i_1^2{R_1}} \\over {{{\\left( {{{{i_2}} \\over {\\sqrt 2 }}} \\right)}^2}{R_2}}} = {{{4^2} \\times 3} \\over {{{\\left( {{4 \\over {\\sqrt 2 }}} \\right)}^2} \\times 2}}$$</p>\n<p>$$\\Rightarrow$$ Ratio = 3 : 1</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>In a series $$L R$$ circuit $$X_{L}=R$$ and power factor of the circuit is $$P_{1}$$. When capacitor with capacitance $$C$$ such that $$X_{L}=X_{C}$$ is put in series, the power factor becomes $$P_{2}$$. The ratio $$\\frac{P_{1}}{P_{2}}$$ is:</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$\\frac{1}{2}$$"
+        },
+        {
+          "key": "B",
+          "value": "$$\\frac{1}{\\sqrt{2}}$$"
+        },
+        {
+          "key": "C",
+          "value": "$$\\frac{\\sqrt{3}}{\\sqrt{2}}$$"
+        },
+        {
+          "key": "D",
+          "value": "2 : 1"
+        }
+      ],
+      "answer": "B",
+      "explanation": "<p>$${P_1} = \\cos \\phi  = {1 \\over {\\sqrt 2 }}({X_L} = R)$$</p>\n<p>$${P_2} = \\cos \\phi ' = 1$$ (will become resonance circuit)</p>\n<p>So, $${{{P_1}} \\over {{P_2}}} = {1 \\over {\\sqrt 2 }}$$</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>When you walk through a metal detector carrying a metal object in your pocket, it raises an alarm. This phenomenon works on :</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "Electromagnetic induction"
+        },
+        {
+          "key": "B",
+          "value": "Resonance in ac circuits"
+        },
+        {
+          "key": "C",
+          "value": "Mutual induction in ac circuits"
+        },
+        {
+          "key": "D",
+          "value": "Interference of electromagnetic waves"
+        }
+      ],
+      "answer": "B",
+      "explanation": "<p>Metal detector works on the principle of resonance in ac circuits.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>To increase the resonant frequency in series LCR circuit,</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "source frequency should be increased."
+        },
+        {
+          "key": "B",
+          "value": "another resistance should be added in series with the first resistance."
+        },
+        {
+          "key": "C",
+          "value": " another capacitor should be added in series with the first capacitor."
+        },
+        {
+          "key": "D",
+          "value": " the source frequency should be decreased."
+        }
+      ],
+      "answer": "C",
+      "explanation": "<p>Resonant frequency $$ = {1 \\over {\\sqrt {LC} }} = {\\omega _0}$$</p>\n<p>$$\\Rightarrow$$ If we decrease C, $$\\omega$$<sub>0</sub> would increase</p>\n<p>$$\\Rightarrow$$ Another capacitor should be added in series.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>In series RLC resonator, if the self inductance and capacitance become double, the new resonant frequency (f<sub>2</sub>) and new quality factor (Q<sub>2</sub>) will be :</p>\n<p>(f<sub>1</sub> = original resonant frequency, Q<sub>1</sub> = original quality factor)</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "$${f_2} = {{{f_1}} \\over 2}$$ and $${Q_2} = {Q_1}$$"
+        },
+        {
+          "key": "B",
+          "value": "$${f_2} = {f_1}$$ and $${Q_2} = {{{Q_1}} \\over {{Q_2}}}$$"
+        },
+        {
+          "key": "C",
+          "value": "$${f_2} = 2{f_1}$$ and $${Q_2} = {Q_1}$$"
+        },
+        {
+          "key": "D",
+          "value": "$${f_2} = {f_1}$$ and $${Q_2} = 2{Q_1}$$"
+        }
+      ],
+      "answer": "A",
+      "explanation": "<p>We know,</p>\n<p>Quality factor (Q factor)</p>\n<p>$${Q_1} = {{{w_1}} \\over {\\Delta w}}$$</p>\n<p>$$ = {1 \\over {\\sqrt {LC} }} \\times {L \\over R}$$</p>\n<p>$$ = {1 \\over R}\\sqrt {{L \\over C}} $$</p>\n<p>Now, when $$L' = 2L$$ and $$C' = 2C$$ then $${Q_2} = {1 \\over R}\\sqrt {{{2L} \\over {2C}}}  = {1 \\over R}\\sqrt {{L \\over C}}  = {Q_1}$$</p>\n<p>$$\\therefore$$ Q<sub>2</sub> remains same as Q<sub>1</sub>.</p>\n<p>Also, as $${w_1} = {1 \\over {\\sqrt {LC} }}$$</p>\n<p>$$ \\Rightarrow 2\\pi {f_1} = {1 \\over {\\sqrt {LC} }}$$</p>\n<p>$$ \\Rightarrow {f_1} = {1 \\over {2\\pi \\sqrt {LC} }}$$</p>\n<p>$$\\therefore$$ When $$L' = 2L$$ and $$C' = 2C$$ then new resonating frequency</p>\n<p>$${f_2} = {1 \\over {2\\pi \\sqrt {2L \\times 2C} }} = {1 \\over {2\\pi  \\times 2\\sqrt {LC} }} = {1 \\over 2} \\times {f_1}$$</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>If L, C and R are the self inductance, capacitance and resistance respectively, which of the following does not have the dimension of time?</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "RC"
+        },
+        {
+          "key": "B",
+          "value": "$${L \\over R}$$"
+        },
+        {
+          "key": "C",
+          "value": "$$\\sqrt{LC}$$"
+        },
+        {
+          "key": "D",
+          "value": "$${L \\over C}$$"
+        }
+      ],
+      "answer": "D",
+      "explanation": "<p>$$U = {1 \\over 2}L{i^2} = {1 \\over 2}C{V^2}$$</p>\n<p>So, $$\\left[ {{L \\over C}} \\right] = {{{V^2}} \\over {{i^2}}} = {R^2}$$ is not the dimension of time.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>The current flowing through an ac circuit is given by</p>\n<p>I = 5 sin(120$$\\pi$$t)A</p>\n<p>How long will the current take to reach the peak value starting from zero?</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "$${1 \\over {60}}$$ s"
+        },
+        {
+          "key": "B",
+          "value": "60 s"
+        },
+        {
+          "key": "C",
+          "value": "$${1 \\over {120}}$$ s"
+        },
+        {
+          "key": "D",
+          "value": "$${1 \\over {240}}$$ s"
+        }
+      ],
+      "answer": "D",
+      "explanation": "<p>$$\\omega  = 120\\pi $$</p>\n<p>$$ \\Rightarrow T = {1 \\over {60}}\\sec $$</p>\n<p>The current will take its peak value in $${T \\over 4}$$ time</p>\n<p>So $$t = {T \\over 4}$$</p>\n<p>$$ = {1 \\over {240}}s$$</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>A sinusoidal voltage V(t) = 210 sin 3000 t volt is applied to a series LCR circuit in which L = 10 mH, C = 25 $$\\mu$$F and R = 100 $$\\Omega$$. The phase difference ($$\\Phi $$) between the applied voltage and resultant current will be :</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "tan<sup>$$-$$1</sup>(0.17)"
+        },
+        {
+          "key": "B",
+          "value": "tan<sup>$$-$$1</sup>(9.46)"
+        },
+        {
+          "key": "C",
+          "value": "tan<sup>$$-$$1</sup>(0.30)"
+        },
+        {
+          "key": "D",
+          "value": "tan<sup>$$-$$1</sup>(13.33)"
+        }
+      ],
+      "answer": "A",
+      "explanation": "<p>$${X_L} = 3000 \\times 10 \\times {10^{ - 3}} = 30\\,\\Omega $$</p>\n<p>$${X_C} = {1 \\over {3000 \\times 25}} \\times {10^6} = {{40} \\over 3}\\,\\Omega $$</p>\n<p>So $${X_L} - {X_C} = 30 - {{40} \\over 3} = {{50} \\over 3}\\,\\Omega $$</p>\n<p>$$\\tan \\theta  = {{{X_L} - {X_C}} \\over R} = {{50/3} \\over {100}} = {1 \\over 6}$$</p>\n<p>So $$\\theta  = {\\tan ^{ - 1}}(0.17)$$</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Match List-I with List-II.</p>\n<p><style type=\"text/css\">\n.tg  {border-collapse:collapse;border-spacing:0;}\n.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}\n</style>\n<table class=\"tg\" style=\"undefined;table-layout: fixed; width: 789px\">\n<colgroup>\n<col style=\"width: 62px\">\n<col style=\"width: 195px\">\n<col style=\"width: 80px\">\n<col style=\"width: 452px\">\n</colgroup>\n<thead>\n  <tr>\n    <th class=\"tg-0pky\"></th>\n    <th class=\"tg-0pky\">List - I</th>\n    <th class=\"tg-0pky\"></th>\n    <th class=\"tg-0pky\">List -II</th>\n  </tr>\n</thead>\n<tbody>\n  <tr>\n    <td class=\"tg-0pky\">(A)</td>\n    <td class=\"tg-0pky\">AC generator</td>\n    <td class=\"tg-0pky\">(I)</td>\n    <td class=\"tg-0pky\">Detects the presence of current in the circuit</td>\n  </tr>\n  <tr>\n    <td class=\"tg-0pky\">(B)</td>\n    <td class=\"tg-0pky\">Galvanometer</td>\n    <td class=\"tg-0pky\">(II)</td>\n    <td class=\"tg-0pky\">Converts mechanical energy into electrical energy</td>\n  </tr>\n  <tr>\n    <td class=\"tg-0pky\">(C)</td>\n    <td class=\"tg-0pky\">Transformer</td>\n    <td class=\"tg-0pky\">(III)</td>\n    <td class=\"tg-0pky\">Works on the principle of resonance in AC circuit</td>\n  </tr>\n  <tr>\n    <td class=\"tg-0pky\">(D)</td>\n    <td class=\"tg-0pky\">Metal detector</td>\n    <td class=\"tg-0pky\">(IV)</td>\n    <td class=\"tg-0pky\">Changes an alternating voltage for smaller or greater value</td>\n  </tr>\n</tbody>\n</table></p>\n<p>Choose the correct answer from the options given below :</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "(A) - (II), (B) - (I), (C) - (IV), (D) - (III)"
+        },
+        {
+          "key": "B",
+          "value": "(A) - (II), (B) - (I), (C) - (III), (D) - (IV)"
+        },
+        {
+          "key": "C",
+          "value": "(A) - (III), (B) - (IV), (C) - (II), (D) - (I)"
+        },
+        {
+          "key": "D",
+          "value": "(A) - (III), (B) - (I), (C) - (II), (D) - (IV)"
+        }
+      ],
+      "answer": "A",
+      "explanation": "<p><style type=\"text/css\">\n.tg  {border-collapse:collapse;border-spacing:0;}\n.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}\n.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}\n</style>\n<table class=\"tg\" style=\"undefined;table-layout: fixed; width: 439px\">\n<colgroup>\n<col style=\"width: 193px\">\n<col style=\"width: 45px\">\n<col style=\"width: 201px\">\n</colgroup>\n<thead>\n  <tr>\n    <th class=\"tg-0pky\">AC generator</th>\n    <th class=\"tg-c3ow\">$$ \\to $$<br></th>\n    <th class=\"tg-0pky\">Converts mechanical energy into electrical energy</th>\n  </tr>\n</thead>\n<tbody>\n  <tr>\n    <td class=\"tg-0pky\">Galvanometer</td>\n    <td class=\"tg-c3ow\">$$ \\to $$<br></td>\n    <td class=\"tg-0pky\">Detects the presence of current in the circuit</td>\n  </tr>\n  <tr>\n    <td class=\"tg-0pky\">Transformer</td>\n    <td class=\"tg-c3ow\">$$ \\to $$</td>\n    <td class=\"tg-0pky\">Change AC voltage for smaller or greater value</td>\n  </tr>\n  <tr>\n    <td class=\"tg-0pky\">Metal detector</td>\n    <td class=\"tg-c3ow\">$$ \\to $$</td>\n    <td class=\"tg-0pky\">Works on the principle of resonance in AC circuit</td>\n  </tr>\n</tbody>\n</table></p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>If wattless current flows in the AC circuit, then the circuit is :</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "Purely Resistive circuit"
+        },
+        {
+          "key": "B",
+          "value": "Purely Inductive circuit"
+        },
+        {
+          "key": "C",
+          "value": "LCR series circuit"
+        },
+        {
+          "key": "D",
+          "value": "RC series circuit only"
+        }
+      ],
+      "answer": "B",
+      "explanation": "<p>For wattless current to flow in AC circuit the circuit will be Purely Inductive circuit.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Given below are two statements :</p>\n<p>Statement I : The reactance of an ac circuit is zero. It is possible that the circuit contains a capacitor and an inductor.</p>\n<p>Statement II : In ac circuit, the average power delivered by the source never becomes zero.</p>\n<p>In the light of the above statements, choose the correct answer from the options given below.</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "Both Statement I and Statement II are true."
+        },
+        {
+          "key": "B",
+          "value": "Both Statement I and Statement II are false."
+        },
+        {
+          "key": "C",
+          "value": "Statement I is true but Statement II is false."
+        },
+        {
+          "key": "D",
+          "value": "Statement I is false but Statement II is true."
+        }
+      ],
+      "answer": "C",
+      "explanation": "<p>$$X = |{X_C} - {X_L}|$$</p>\n<p>So, it can be zero if $${X_C} = {X_L}$$</p>\n<p>And, average power in ac circuit can be zero.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>A resistance of 40 $$\\Omega$$ is connected to a source of alternating current rated 220 V, 50 Hz. Find the time taken by the current to change from its maximum value to the rms value :</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "2.5 ms"
+        },
+        {
+          "key": "B",
+          "value": "1.25 ms"
+        },
+        {
+          "key": "C",
+          "value": "2.5 s"
+        },
+        {
+          "key": "D",
+          "value": "0.25 s"
+        }
+      ],
+      "answer": "A",
+      "explanation": "<p>$$I = {I_0}\\cos (\\omega t)$$ say</p>\n<p>$$\\Rightarrow$$ At maximum $$\\omega {t_1} = 0$$ or $${t_1} = 0$$</p>\n<p>Then at rms value $$I = {I_0}/\\sqrt 2 $$</p>\n<p>$$ \\Rightarrow \\omega {t_2} = \\pi /4$$</p>\n<p>$$ \\Rightarrow \\omega ({t_2} - {t_1}) = \\pi /4$$</p>\n<p>$$\\Delta t = {\\pi  \\over {4\\omega }} = {{\\pi T} \\over {4 \\times 2\\pi }}$$</p>\n<p>$$ = {1 \\over {400}}s$$ or 2.5 ms</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "In an ac circuit, an inductor, a capacitor and a resistor are connected in series with X<sub>L</sub> = R = X<sub>C</sub>. Impedance of this circuit is :",
+      "options": [
+        {
+          "key": "A",
+          "value": "2R<sup>2</sup>"
+        },
+        {
+          "key": "B",
+          "value": "Zero"
+        },
+        {
+          "key": "C",
+          "value": "R"
+        },
+        {
+          "key": "D",
+          "value": "R$$\\sqrt 2 $$"
+        }
+      ],
+      "answer": "C",
+      "explanation": "$$Z = \\sqrt {{{({X_L} - {X_C})}^2} + {R^2}}  = R$$ $$\\because$$ X<sub>L</sub> = X<sub>C</sub><br><br>Option (c)"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A series LCR circuit driven by 300 V at a frequency of 50 Hz contains a resistance R = 3 k$$\\Omega$$, an inductor of inductive reactance X<sub>L</sub> = 250 $$\\pi$$$$\\Omega$$ and an unknown capacitor. The value of capacitance to maximize the average power should be : (Take $$\\pi$$<sup>2</sup> = 10)",
+      "options": [
+        {
+          "key": "A",
+          "value": "4 $$\\mu$$F"
+        },
+        {
+          "key": "B",
+          "value": "25 $$\\mu$$F"
+        },
+        {
+          "key": "C",
+          "value": "400 $$\\mu$$F"
+        },
+        {
+          "key": "D",
+          "value": "40 $$\\mu$$F"
+        }
+      ],
+      "answer": "A",
+      "explanation": "From maximum average power<br><br>X<sub>L</sub> = X<sub>C</sub><br><br>250$$\\pi$$ = $${1 \\over {2\\pi (50)C}}$$<br><br>$$ \\Rightarrow $$ C = 4 $$\\times$$ 10<sup>$$-$$6</sup>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A 100$$\\Omega$$ resistance, a 0.1 $$\\mu$$F capacitor and an inductor are connected in series across a 250 V supply at variable frequency. Calculate the value of inductance of inductor at which resonance will occur. Given that the resonant frequency is 60 Hz.",
+      "options": [
+        {
+          "key": "A",
+          "value": "0.70 H"
+        },
+        {
+          "key": "B",
+          "value": "70.3 mH"
+        },
+        {
+          "key": "C",
+          "value": "7.03 $$\\times$$ 10<sup>$$-$$5</sup> H"
+        },
+        {
+          "key": "D",
+          "value": "70.3 H"
+        }
+      ],
+      "answer": "D",
+      "explanation": "C = 0.1 $$\\mu$$F = 10<sup>$$-$$7</sup> F<br><br>Resonant frequency = 60 Hz.<br><br>$${\\omega _0} = {1 \\over {\\sqrt {LC} }}$$<br><br>$$2\\pi {f_0} = {1 \\over {\\sqrt {LC} }} \\Rightarrow L = {1 \\over {4{\\pi ^2}f_0^2C}}$$<br><br>by putting values $$L \\simeq 70.3$$ Hz."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A 0.07 H inductor and a 12$$\\Omega$$ resistor are connected in series to a 220V, 50 Hz ac source. The approximate current in the circuit and the phase angle between current and source voltage are respectively. [Take $$\\pi$$ as $${{22} \\over 7}$$]",
+      "options": [
+        {
+          "key": "A",
+          "value": "8.8 A and $${\\tan ^{ - 1}}\\left( {{{11} \\over 6}} \\right)$$"
+        },
+        {
+          "key": "B",
+          "value": "88 A and $${\\tan ^{ - 1}}\\left( {{{11} \\over 6}} \\right)$$"
+        },
+        {
+          "key": "C",
+          "value": "0.88 A and $${\\tan ^{ - 1}}\\left( {{{11} \\over 6}} \\right)$$"
+        },
+        {
+          "key": "D",
+          "value": "8.8 A and $${\\tan ^{ - 1}}\\left( {{{6} \\over 11}} \\right)$$"
+        }
+      ],
+      "answer": "A",
+      "explanation": "$$\\phi  = {\\tan ^{ - 1}}\\left( {{{{X_L}} \\over R}} \\right)$$<br><br>$${X_L} = \\omega L$$<br><br>$${X_L} = 2 \\times {{22} \\over 7} \\times 50 \\times 0.07 = 22\\Omega $$<br><br>$$\\phi  = {\\tan ^{ - 1}}\\left( {{{22} \\over {12}}} \\right)$$<br><br>$$R = 12\\Omega $$<br><br>$$\\phi  = {\\tan ^{ - 1}}\\left( {{{11} \\over 6}} \\right)$$<br><br>$$Z = \\sqrt {X_L^2 + {R^2}}  = 25.059$$<br><br>$$I = {V \\over Z} = {{220} \\over {25.059}} = 8.77A$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Match List - I with List - II<br><br><table>\n<thead>\n  <tr>\n    <th></th>\n    <th>List - I</th>\n    <th></th>\n    <th>List - II</th>\n  </tr>\n</thead>\n<tbody>\n  <tr>\n    <td>(a)</td>\n    <td>$$\\omega L &gt; {1 \\over {\\omega C}}$$</td>\n    <td>(i)</td>\n    <td>Current is in phase with emf</td>\n  </tr>\n  <tr>\n    <td>(b)</td>\n    <td>$$\\omega L = {1 \\over {\\omega C}}$$</td>\n    <td>(ii)</td>\n    <td>Current lags behind the applied emf</td>\n  </tr>\n  <tr>\n    <td>(c)</td>\n    <td>$$\\omega L &lt; {1 \\over {\\omega C}}$$</td>\n    <td>(iii)</td>\n    <td>Maximum current occurs</td>\n  </tr>\n  <tr>\n    <td>(d)</td>\n    <td>Resonant frequency</td>\n    <td>(iv)</td>\n    <td>Current leads the emf</td>\n  </tr>\n</tbody>\n</table><br><br>Choose the correct answer from the options given below ",
+      "options": [
+        {
+          "key": "A",
+          "value": "a(ii), b(i), c(iv), d(iii)"
+        },
+        {
+          "key": "B",
+          "value": "a(ii), b(i), c(iii), d(iv)"
+        },
+        {
+          "key": "C",
+          "value": "a(iii), b(i), c(iv), d(ii)"
+        },
+        {
+          "key": "D",
+          "value": "a(iv), b(iii), c(ii), d(i)"
+        }
+      ],
+      "answer": "A",
+      "explanation": "$$\\omega L = {1 \\over {\\omega C}},{X_L} = {X_C}$$<br><br>So current in phase with EMF<br><br>At resonance, current have maximum value."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "For a series LCR circuit with R = 100 $$\\Omega$$, L = 0.5 mH and C = 0.1 pF connected across 220V$$-$$50 Hz AC supply, the phase angle between current and supplied voltage and the nature of the circuit is :",
+      "options": [
+        {
+          "key": "A",
+          "value": "0$$^\\circ$$, resistive circuit"
+        },
+        {
+          "key": "B",
+          "value": "$$ \\approx $$ 90$$^\\circ$$, predominantly inductive circuit"
+        },
+        {
+          "key": "C",
+          "value": "0$$^\\circ$$, resonance circuit"
+        },
+        {
+          "key": "D",
+          "value": "$$ \\approx $$ 90$$^\\circ$$, predominantly capacitive circuit"
+        }
+      ],
+      "answer": "D",
+      "explanation": "R = 100$$\\Omega$$<br><br>$${X_L} = \\omega L = 50\\pi  \\times {10^{ - 3}}$$<br><br>$${X_C} = {1 \\over {\\omega C}} = {{{{10}^{11}}} \\over {100\\pi }}$$<br><br>$${X_C} &gt;  &gt; {X_L}$$<br><br>&amp; $$\\left| {{X_C} - {X_L}} \\right| &gt;  &gt; R$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "AC voltage V(t) = 20 sin$$\\omega$$t of frequency 50 Hz is applied to a parallel plate capacitor. The separation between the plates is 2 mm and the area is 1 m<sup>2</sup>. The amplitude of the oscillating displacement current for the applied AC voltage is _________. [Take $$\\varepsilon $$<sub>0</sub> = 8.85 $$\\times$$ 10<sup>$$-$$12</sup> F/m]",
+      "options": [
+        {
+          "key": "A",
+          "value": "55.58 $$\\mu$$A"
+        },
+        {
+          "key": "B",
+          "value": "21.14 $$\\mu$$A"
+        },
+        {
+          "key": "C",
+          "value": "27.79 $$\\mu$$A"
+        },
+        {
+          "key": "D",
+          "value": "83.37 $$\\mu$$A"
+        }
+      ],
+      "answer": "C",
+      "explanation": "Given,<br/><br/>AC voltage, V(t) = 20 sin $$\\omega$$t volt.<br/><br/>Frequency, f = 50Hz<br/><br/>Separation between the plates, d = 2 mm = 2 $$\\times$$ 10<sup>$$-$$3</sup> m<br/><br/>Area, A = 1 m<sup>2</sup><br/><br/>As, $$C = {{{\\varepsilon _0}A} \\over d}$$<br/><br/>where, $${{\\varepsilon _0}}$$ = absolute electrical permittivity of free space = 8.854 $$\\times$$ 10<sup>$$-$$12</sup> N<sup>$$-$$1</sup> kg<sup>2</sup>m<sup>$$-$$2</sup><br/><br/>$$C = {{{\\varepsilon _0} \\times 1} \\over {2 \\times {{10}^{ - 3}}}}$$ .... (i)<br/><br/>Capacitive reactance $$({X_C}) = {1 \\over {\\omega C}}$$ .... (ii)<br/><br/>From Eqs. (i) and (ii), we get<br/><br/>$${X_C} = {{2 \\times {{10}^{ - 3}}} \\over {2 \\times 50\\pi  \\times {\\varepsilon _0}}}$$ ($$\\because$$ $$\\omega$$ = 2$$\\pi$$f)<br/><br/>$$ = {{2 \\times {{10}^{ - 3}}} \\over {25 \\times 4\\pi {\\varepsilon _0}}}$$<br/><br/>$$ \\Rightarrow {X_C} = {{2 \\times {{10}^{ - 3}}} \\over {25}} \\times 9 \\times {10^9}$$<br/><br/>$$ \\Rightarrow {X_C} = {{18} \\over {25}} \\times {10^6}\\,\\Omega $$<br/><br/>By using Ohm's law,<br/><br/>As, $${I_0} = {{{V_0}} \\over {{X_C}}} = {{20 \\times 25} \\over {18}} \\times {10^{ - 6}} = 27.78 \\times {10^{ - 6}}$$<br/><br/>$$\\Rightarrow$$ I<sub>0</sub> = 27.78$$\\mu$$A<br/><br/>$$\\therefore$$ The amplitude of the oscillating displacement current for applied AC voltage will be approximately 27.79 $$\\mu$$A."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "In a series LCR circuit, the inductive reactance (X<sub>L</sub>) is 10$$\\Omega$$ and the capacitive reactance (X<sub>C</sub>) is 4$$\\Omega$$. The resistance (R) in the circuit is 6$$\\Omega$$. The power factor of the circuit is :",
+      "options": [
+        {
+          "key": "A",
+          "value": "$${1 \\over 2}$$"
+        },
+        {
+          "key": "B",
+          "value": "$${{\\sqrt 3 } \\over 2}$$"
+        },
+        {
+          "key": "C",
+          "value": "$${1 \\over {\\sqrt 2 }}$$"
+        },
+        {
+          "key": "D",
+          "value": "$${1 \\over {2\\sqrt 2 }}$$"
+        }
+      ],
+      "answer": "C",
+      "explanation": "Given :<br><br>X<sub>L</sub> = 10$$\\Omega$$<br><br>X<sub>C</sub> = 4$$\\Omega$$<br><br>R = 6$$\\Omega$$<br><br>$$ \\therefore $$ Power factor = cos$$\\theta$$ = $${R \\over Z}$$<br><br>$$ = {R \\over {\\sqrt {{R^2} + {{({X_L} - {X_C})}^2}} }}$$<br><br>$$ = {6 \\over {\\sqrt {{6^2} + {{(10 - 4)}^2}} }}$$<br><br>$$ = {6 \\over {6\\sqrt 2 }} = {1 \\over {\\sqrt 2 }}$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "In a series LCR resonance circuit, if we change the resistance only, from a lower to higher value :",
+      "options": [
+        {
+          "key": "A",
+          "value": "The bandwidth of resonance circuit will increase."
+        },
+        {
+          "key": "B",
+          "value": "The resonance frequency will increase."
+        },
+        {
+          "key": "C",
+          "value": "The quality factor will increase."
+        },
+        {
+          "key": "D",
+          "value": "The quality factor and the resonance frequency will remain constant."
+        }
+      ],
+      "answer": "A",
+      "explanation": "$${\\omega } = {1 \\over {\\sqrt {LC} }}$$\n<br><br>$$ \\Rightarrow $$ 2$$\\pi $$f = $${1 \\over {\\sqrt {LC} }}$$\n<br><br>$$ \\Rightarrow $$ f = $${1 \\over {2\\pi \\sqrt {LC} }}$$\n<br><br>f does not depends on resistance(R).\n<br><br>Quality factor, $$Q = {{\\omega L} \\over R}$$\n<br><br>$$ \\Rightarrow $$ $$Q \\propto {1 \\over R}$$\n<br><br>So if R increase then Q will decrease.\n<br><br>Also, $$Q = {{\\omega L} \\over R} = {\\omega  \\over {\\Delta \\beta}}$$\n<br><br>where $$\\Delta \\beta$$ = bandwidth\n<br><br>$$\\Delta \\beta  = {R \\over L}$$\n<br><br>So if R increase then $$\\Delta \\beta$$ will increase too."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "An AC source rated 220 V, 50 Hz is connected to a resistor. The time taken by the current to change from its maximum to the rms value is :",
+      "options": [
+        {
+          "key": "A",
+          "value": "2.5 ms"
+        },
+        {
+          "key": "B",
+          "value": "25 ms"
+        },
+        {
+          "key": "C",
+          "value": "2.5 s"
+        },
+        {
+          "key": "D",
+          "value": "0.25 ms"
+        }
+      ],
+      "answer": "A",
+      "explanation": "$$I = {I_0}\\sin \\omega t $$\n<br><br>$$ \\Rightarrow $$ $${{{I_M}} \\over {\\sqrt 2 }} = {I_M}\\sin \\omega t$$\n<br><br>$$ \\Rightarrow $$ $$\\omega t = {\\pi  \\over 4}$$\n<br><br>$$ \\Rightarrow $$ $$t = {\\pi  \\over {4\\omega }}$$ $$ = {\\pi  \\over {4\\left( {2\\pi f} \\right)}}$$\n<br><br>$$ \\Rightarrow $$ t = $${1 \\over {8 \\times 30}} = {1 \\over {400}}$$ = 2.5 ms"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "What happens to the inductive reactance and the current in a purely inductive circuit if the frequency is halved?",
+      "options": [
+        {
+          "key": "A",
+          "value": "Both, inducting reactance and current will be doubled."
+        },
+        {
+          "key": "B",
+          "value": "Inductive reactance will be doubled and current will be halved."
+        },
+        {
+          "key": "C",
+          "value": "Both, inductive reactance and current will be halved."
+        },
+        {
+          "key": "D",
+          "value": "Inductive reactance will be halved and current will be doubled."
+        }
+      ],
+      "answer": "D",
+      "explanation": "$${X_L} = \\omega L$$<br><br>$$X{'_L} = \\left( {{{{X_L}} \\over 2}} \\right)$$<br><br>$$ \\because $$ $$I = {V \\over {{X_L}}}$$<br><br>&amp; $$I' = {{2V} \\over {{X_L}}} = 2I$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "An AC current is given by I = I<sub>1</sub> sin$$\\omega$$t + I<sub>2</sub> cos$$\\omega$$t. A hot wire ammeter will give a reading :",
+      "options": [
+        {
+          "key": "A",
+          "value": "$${{{I_1} + {I_2}} \\over {\\sqrt 2 }}$$"
+        },
+        {
+          "key": "B",
+          "value": "$$\\sqrt {{{I_1^2 - I_2^2} \\over 2}} $$"
+        },
+        {
+          "key": "C",
+          "value": "$$\\sqrt {{{I_1^2 + I_2^2} \\over 2}} $$"
+        },
+        {
+          "key": "D",
+          "value": "$${{{I_1} + {I_2}} \\over {2\\sqrt 2 }}$$"
+        }
+      ],
+      "answer": "C",
+      "explanation": "$${I_{RMS}} = \\sqrt {{{\\int {{I^2}dt} } \\over {\\int {dt} }}} $$<br><br>$$I_{RMS}^2 = \\int\\limits_0^T {{{{{({I_1}\\sin \\omega t + {I_2}\\cos \\omega t)}^2}dt} \\over T}} $$<br><br>$$ = {1 \\over T}\\int\\limits_0^T {(I_1^2{{\\sin }^2}\\omega t + I_2^2{{\\cos }^2}\\omega t + 2{I_1}{I_2}\\sin \\omega t\\cos \\omega t)dt} $$<br><br>$$ = {{I_1^2} \\over 2} + {{I_2^2} \\over 2} + 0$$<br><br>$${I_{RMS}} = \\sqrt {{{I_1^2 + I_2^2} \\over 2}} $$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "An alternating current is given by the equation i = i<sub>1</sub> sin $$\\omega$$t + i<sub>2</sub> cos $$\\omega$$t. The rms current will be :",
+      "options": [
+        {
+          "key": "A",
+          "value": "$${1 \\over {\\sqrt 2 }}{\\left( {i_1^2 + i_2^2} \\right)^{{1 \\over 2}}}$$"
+        },
+        {
+          "key": "B",
+          "value": "$${1 \\over {\\sqrt 2 }}({i_1} + {i_2})$$"
+        },
+        {
+          "key": "C",
+          "value": "$${1 \\over {\\sqrt 2 }}{({i_1} + {i_2})^2}$$"
+        },
+        {
+          "key": "D",
+          "value": "$${1 \\over 2}{\\left( {i_1^2 + i_2^2} \\right)^{{1 \\over 2}}}$$"
+        }
+      ],
+      "answer": "A",
+      "explanation": "$${I_0} = \\sqrt {I_1^2 + I_2^2 + 2{I_1}{I_2}\\cos \\theta } $$<br><br>$${I_0} = \\sqrt {I_1^2 + I_2^2 + 2{I_1}{I_2}\\cos 90^\\circ } $$<br><br>$${I_0} = \\sqrt {I_1^2 + I_2^2 + 2{I_1}{I_2}(0)}  = \\sqrt {I_1^2 + I_2^2} $$<br><br>We know that,<br><br>$${I_{rms}} = {{{I_0}} \\over {\\sqrt 2 }}$$<br><br>So, $${I_{rms}} = {{\\sqrt {I_1^2 + I_2^2} } \\over {\\sqrt 2 }}$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "An LCR circuit contains resistance of 110$$\\Omega$$ and a supply of 220 V at 300 rad/s angular frequency. If only capacitance is removed from the circuit, current lags behind the voltage by 45$$^\\circ$$. If on the other hand, only inductor is removed the current leads by 45$$^\\circ$$ with the applied voltage. The rms current flowing in the circuit will be :",
+      "options": [
+        {
+          "key": "A",
+          "value": "1 A"
+        },
+        {
+          "key": "B",
+          "value": "2.5 A"
+        },
+        {
+          "key": "C",
+          "value": "2 A"
+        },
+        {
+          "key": "D",
+          "value": "1.5 A"
+        }
+      ],
+      "answer": "C",
+      "explanation": "Since $$\\phi $$ remain same, circuit is in resonance<br><br>$$ \\therefore $$ $${I_{rms}} = {{{v_{rms}}} \\over z}$$ = $${{{v_{rms}}} \\over R}$$<br><br>$$ = {{220} \\over {110}}$$<br><br>$$ \\Rightarrow $$ $${I_{rms}} = 2A$$\n<br><br>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Match List I with List II.<br><br><table>\n<thead>\n  <tr>\n    <th></th>\n    <th>List I</th>\n    <th></th>\n    <th>List II</th>\n  </tr>\n</thead>\n<tbody>\n  <tr>\n    <td>(a)</td>\n    <td>Rectifier</td>\n    <td>(i)</td>\n    <td>Used either for stepping up or stepping down the a.c. voltage</td>\n  </tr>\n  <tr>\n    <td>(b)</td>\n    <td>Stabilizer</td>\n    <td>(ii)</td>\n    <td>Used to convert a.c. voltage into d.c. voltage</td>\n  </tr>\n  <tr>\n    <td>(c)</td>\n    <td>Transformer</td>\n    <td>(iii)</td>\n    <td>Used to remove any ripple in the rectified output voltage</td>\n  </tr>\n  <tr>\n    <td>(d)</td>\n    <td>Filter</td>\n    <td>(iv)</td>\n    <td>Used for constant output voltage even when the input voltage or load current change</td>\n  </tr>\n</tbody>\n</table><br><br>Choose the correct answer from the options given below :",
+      "options": [
+        {
+          "key": "A",
+          "value": "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)"
+        },
+        {
+          "key": "B",
+          "value": "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)"
+        },
+        {
+          "key": "C",
+          "value": "(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)"
+        },
+        {
+          "key": "D",
+          "value": "(a)-(ii), (b)-(i), (c)-(iii), (d)-(iv)"
+        }
+      ],
+      "answer": "A",
+      "explanation": "(a) Rectifier : used to convert a a.c. voltage into d.c. voltage.<br><br>(b) Stabilizer : used for constant output voltage even when the input voltage or load current change<br><br>(c) Transformer : used either for stepping up or stepping down the a.c. voltage.<br><br>(d) Filter : used to remove any ripple in the rectified output voltage."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "An AC circuit has R= 100 $$\\Omega $$, C = 2 $$\\mu $$F and L = 80 mH, connected in series. The quality factor of the\ncircuit is :",
+      "options": [
+        {
+          "key": "A",
+          "value": "20"
+        },
+        {
+          "key": "B",
+          "value": "2"
+        },
+        {
+          "key": "C",
+          "value": "0.5"
+        },
+        {
+          "key": "D",
+          "value": "400"
+        }
+      ],
+      "answer": "B",
+      "explanation": "$$Q = {1 \\over R}\\sqrt {{L \\over C}} $$\n<br><br>= $${1 \\over {100}}\\sqrt {{{80 \\times {{10}^{ - 3}}} \\over {2 \\times {{10}^{ - 6}}}}} $$\n<br><br>= $${1 \\over {100}}\\sqrt {40 \\times {{10}^3}} $$\n<br><br>= $${{200} \\over {100}}$$ = 2"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A series L-R circuit is connected to a battery of emf V. If the circuit is switched on at t = 0, then\nthe time at which the energy stored in the inductor reaches $$\\left( {{1 \\over n}} \\right)$$  times of its maximum value, is :",
+      "options": [
+        {
+          "key": "A",
+          "value": "$${L \\over R}\\ln \\left( {{{\\sqrt n } \\over {\\sqrt n  + 1}}} \\right)$$"
+        },
+        {
+          "key": "B",
+          "value": "$${L \\over R}\\ln \\left( {{{\\sqrt n } \\over {\\sqrt n  - 1}}} \\right)$$"
+        },
+        {
+          "key": "C",
+          "value": "$${L \\over R}\\ln \\left( {{{\\sqrt n  + 1} \\over {\\sqrt n  - 1}}} \\right)$$"
+        },
+        {
+          "key": "D",
+          "value": "$${L \\over R}\\ln \\left( {{{\\sqrt n  - 1} \\over {\\sqrt n }}} \\right)$$"
+        }
+      ],
+      "answer": "B",
+      "explanation": "P.E. in inductor, $$U = {1 \\over 2}L{I^2}$$<br><br>$$U \\propto {I^2}$$<br><br>$${U \\over {{U_0}}} = {\\left( {{I \\over {{I_0}}}} \\right)^2}$$<br><br>$${1 \\over n} = {\\left( {{I \\over {{I_0}}}} \\right)^2}$$<br><br>$$I = {{{I_0}} \\over {\\sqrt n }}$$<br><br>We know, $$I = {I_0}\\left( {1 - {e^{ - {R \\over L}t}}} \\right)$$<br><br>$${{{I_0}} \\over {\\sqrt n }} = {I_0}\\left( {1 - {e^{ - {R \\over L}t}}} \\right)$$\n<br><br>$$ \\Rightarrow $$ $${e^{ - {{Rt} \\over L}}}$$ = 1 - $${1 \\over {\\sqrt n }}$$\n\n<br><br>taking ln &amp; solving we get,<br><br>$$t = {L \\over R}\\ln \\left( {{{\\sqrt n } \\over {\\sqrt n  - 1}}} \\right)$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A 750 Hz, 20 V (rms) source is connected to a\nresistance of 100 $$\\Omega $$, an inductance of 0.1803 H\nand a capacitance of 10 $$\\mu $$F all in series. The\ntime in which the resistance (heat capacity\n2 J/<sup>o</sup>C) will get heated by 10<sup>o</sup>C. (assume no loss\nof heat to the surroudnings) is close to :",
+      "options": [
+        {
+          "key": "A",
+          "value": "348 s"
+        },
+        {
+          "key": "B",
+          "value": "418 s"
+        },
+        {
+          "key": "C",
+          "value": "245 s"
+        },
+        {
+          "key": "D",
+          "value": "365 s"
+        }
+      ],
+      "answer": "A",
+      "explanation": "f = 750 Hz, V<sub>rms</sub> = 20 V,\n<br><br>R = 100 $$\\Omega $$, L = 0.1803 H,\n<br><br>C = 10$$\\mu $$ F, S = 2 J/°C\n<br><br>|Z| = $$\\sqrt {{R^2} + {{\\left( {{X_L} - {X_C}} \\right)}^2}} $$\n<br><br>= $$\\sqrt {{R^2} + {{\\left( {\\omega L - {1 \\over {\\omega C}}} \\right)}^2}} $$\n<br><br>= $$\\sqrt {{R^2} + {{\\left( {2\\pi fL - {1 \\over {2\\pi fC}}} \\right)}^2}} $$\n<br><br>= $$\\sqrt {{{(100)}^2} + {{\\left( {2 \\times 3.14 \\times 750 \\times 0.1803 - {1 \\over {2 \\times 3.14 \\times 750 \\times {{10}^{ - 5}}}}} \\right)}^2}} $$\n<br><br> = 834 $$\\Omega $$\n<br><br>In AC, power (P) = i<sub>rms</sub>V<sub>rms</sub> cos $$\\phi $$\n<br><br> and i<sub>rms</sub> = $${{{V_{rms}}} \\over {\\left| Z \\right|}}$$\n<br><br>Power factor (cos $$\\phi $$) = $${R \\over {\\left| Z \\right|}}$$\n<br><br>$$ \\therefore $$ P = $${{{V_{rms}}} \\over {\\left| Z \\right|}}.{V_{rms}}.{R \\over {\\left| Z \\right|}}$$\n<br><br>= $${\\left( {{{{V_{rms}}} \\over {\\left| Z \\right|}}} \\right)^2}R$$\n<br><br>= $${\\left( {{{20} \\over {834}}} \\right)^2} \\times 100$$\n<br><br>= 0.0575 J/S\n<br><br>Also, H = Pt = S$$\\Delta $$$$\\theta $$\n<br><br>$$ \\Rightarrow $$ t = $${{2\\left( {10} \\right)} \\over {0.0575}}$$ = 348 sec"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "An inductance coil has a reactance of 100 $$\\Omega $$.\nWhen an AC signal of frequency 1000 Hz is\napplied to the coil, the applied voltage leads\nthe current by 45<sup>o</sup>. The self-inductance of the\ncoil is",
+      "options": [
+        {
+          "key": "A",
+          "value": "6.7 $$ \\times $$ 10<sup>–7</sup> H"
+        },
+        {
+          "key": "B",
+          "value": "1.1 $$ \\times $$ 10<sup>–1</sup> H"
+        },
+        {
+          "key": "C",
+          "value": "5.5 $$ \\times $$ 10<sup>–5</sup> H"
+        },
+        {
+          "key": "D",
+          "value": "1.1 $$ \\times $$ 10<sup>–2</sup> H"
+        }
+      ],
+      "answer": "D",
+      "explanation": "L-R circuit :\n<br><br>tan 45<sup>o</sup> = $${{{X_L}} \\over R}$$\n<br><br>$$ \\Rightarrow $$ 1 = $${{{X_L}} \\over R}$$\n<br><br>$$ \\Rightarrow $$ X<sub>L</sub> = R\n<br><br>Now Z = $$\\sqrt {{R^2} + X_L^2} $$\n<br><br>or Z = $$\\sqrt {X_L^2 + X_L^2}  = \\sqrt {2X_L^2} $$ = $$\\sqrt 2 {X_L}$$\n<br><br>$$ \\Rightarrow $$ 100 = $$\\sqrt 2 {X_L}$$\n<br><br>X<sub>L</sub> = $${{100} \\over {\\sqrt 2 }}$$\n<br><br>$$ \\Rightarrow $$ $$\\omega L$$ = $${{100} \\over {\\sqrt 2 }}$$\n<br><br>$$ \\Rightarrow $$ L = $${{100} \\over {\\sqrt 2  \\times 2 \\times 3.14 \\times 1000}}$$\n<br><br>= 1.1 $$ \\times $$ 10<sup>–2</sup> H"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "An emf of 20 V is applied at time t = 0 to a circuit containing in series 10 mH inductor and 5 $$\\Omega $$\nresistor. The ratio of the currents at time t = $$\\infty $$ and at t = 40 s is close to : (Take e<sup>2</sup> = 7.389)",
+      "options": [
+        {
+          "key": "A",
+          "value": "1.06"
+        },
+        {
+          "key": "B",
+          "value": "0.84"
+        },
+        {
+          "key": "C",
+          "value": "1.15"
+        },
+        {
+          "key": "D",
+          "value": "1.46"
+        }
+      ],
+      "answer": "A",
+      "explanation": "i = i<sub>0</sub>(1 - $${e^{ - {{Rt} \\over L}}}$$)\n<br><br>i<sub>$$\\infty $$</sub> = i<sub>0</sub>(1 - $${e^{ - \\infty }}$$) = i<sub>0</sub>\n<br><br>$$ \\therefore $$ $${{{i_\\infty }} \\over {{i_{40s}}}}$$ = $${{{i_0}} \\over {{i_0}\\left( {1 - {e^{ - {{5 \\times 40} \\over {10 \\times {{10}^{ - 3}}}}}}} \\right)}}$$\n<br><br> = $${1 \\over {\\left( {1 - {e^{ - 2000}}} \\right)}}$$ $$ \\approx $$ 1\n<br><br>Then most appropriate option is 1.06"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A LCR circuit behaves like a damped harmonic oscillator. Comparing it with a physical spring-mass damped oscillator having damping constant 'b', the correct equivalence would be:",
+      "options": [
+        {
+          "key": "A",
+          "value": "L $$ \\leftrightarrow $$ k, C $$ \\leftrightarrow $$ b, R $$ \\leftrightarrow $$ m"
+        },
+        {
+          "key": "B",
+          "value": "L $$ \\leftrightarrow $$ m, C $$ \\leftrightarrow $$ k, R $$ \\leftrightarrow $$ b"
+        },
+        {
+          "key": "C",
+          "value": "L $$ \\leftrightarrow $$ m, C $$ \\leftrightarrow $$ $${1 \\over k}$$, R $$ \\leftrightarrow $$ b"
+        },
+        {
+          "key": "D",
+          "value": "L $$ \\leftrightarrow $$ $${1 \\over b}$$, C $$ \\leftrightarrow $$ $${1 \\over m}$$, R $$ \\leftrightarrow $$ $${1 \\over k}$$"
+        }
+      ],
+      "answer": "C",
+      "explanation": "For spring mass damped oscillator\n<br><br>ma = - kx - bv\n<br><br>$$ \\Rightarrow $$ ma + kx + bv = 0\n<br><br>$$ \\Rightarrow $$ $$m{{{d^2}x} \\over {d{t^2}}}$$ + b$${{dx} \\over {dt}}$$ + kx = 0 ....(1)\n<br><br>For LCR circuit\n<br><br>L$${{di} \\over {dt}}$$ + iR + $${q \\over C}$$ = 0\n<br><br>$$ \\Rightarrow $$ L$${{{d^2}q} \\over {d{t^2}}}$$ + R$${{dq} \\over {dt}}$$ + $${q \\over C}$$ = 0 .....(2)\n<br><br>Comparing (1) and (2), we get\n<br><br>L $$ \\leftrightarrow $$ m, C $$ \\leftrightarrow $$ $${1 \\over k}$$, R $$ \\leftrightarrow $$ b"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A coil of self inductance 10 mH and resistance 0.1 $$\\Omega $$ is connected through a switch to a battery of internal\nresistance 0.9 $$\\Omega $$. After the switch is closed, the time taken for the current to attain 80% of the saturation\nvalue is: [take ln 5 = 1.6] \n",
+      "options": [
+        {
+          "key": "A",
+          "value": "0.324 s"
+        },
+        {
+          "key": "B",
+          "value": "0.002 s"
+        },
+        {
+          "key": "C",
+          "value": "0.103 s"
+        },
+        {
+          "key": "D",
+          "value": "0.016 s"
+        }
+      ],
+      "answer": "D",
+      "explanation": "L = 10 × 10<sup>–3</sup> H, r<sub>1</sub> = 0.1 $$\\Omega $$<br><br>\n$$i = \\varepsilon \\left\\{ {1 - {e^{ - 1/2}}} \\right\\}$$<br><br>\n$${i_{saturation}}{\\rm{ }} = {\\rm{ }}\\varepsilon $$<br>\n$$80\\% {\\rm{ }}{i_{saturation}}{\\rm{ }} = {\\rm{ }}0.8{\\rm{ }}\\varepsilon $$<br><br>\n0.8 = 1 - e<sup>-t/2</sup> ; e<sup>-t/2</sup> = 0.2<br><br>\ne<sup>t/L</sup> = 5<br>\nt = L ln 5 = 10 × 10<sup>–3</sup> × 1.6 = 16 × 10<sup>–3</sup>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A transformer consisting of 300 turns in the\nprimary and 150 turns in the secondary gives\noutput power of 2.2 kW. If the current in the\nsecondary coil is 10A, then the input voltage\nand current in the primary coil are :",
+      "options": [
+        {
+          "key": "A",
+          "value": "220 V and 20 A"
+        },
+        {
+          "key": "B",
+          "value": "220 V and 10A"
+        },
+        {
+          "key": "C",
+          "value": "440 V and 5A"
+        },
+        {
+          "key": "D",
+          "value": "440 V and 20 A"
+        }
+      ],
+      "answer": "C",
+      "explanation": "Given N<sub>P</sub> = 300, N<sub>s</sub> = 150, P<sub>0</sub> = 2200W<br><br>\nI<sub>s</sub> = 10 A<br>\nP<sub>0</sub> = V<sub>0</sub>I<sub>0</sub> $$ \\Rightarrow $$ 2200 = V<sub>0</sub> × 10 $$ \\Rightarrow $$ V<sub>0</sub> = 220 V<br><br>\n$$ \\because $$ $${{{V_i}} \\over {{V_0}}} = {{{N_P}} \\over {{N_S}}} \\Rightarrow {V_i} = 2 \\times 220 = 440\\,V$$<br><br>\nAlso, P<sub>0</sub> = V<sub>i</sub>I<sub>i</sub><br>\n$$ \\Rightarrow {I_i} = {{2200} \\over {440}} = 5A$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A circuit connected to an ac source of emf\ne = e<sub>0</sub>sin(100t) with t in seconds, gives a phase\ndifference of $$\\pi $$/4 between the emf e and\ncurrent i. Which of the following circuits will\nexhibit this ?",
+      "options": [
+        {
+          "key": "A",
+          "value": "RC circuit with R = 1 k$$\\Omega $$ and C = 1μF"
+        },
+        {
+          "key": "B",
+          "value": "RL circuit with R = 1k$$\\Omega $$ and L = 1mH"
+        },
+        {
+          "key": "C",
+          "value": "RC circuit with R = 1k$$\\Omega $$ and C = 10 μF"
+        },
+        {
+          "key": "D",
+          "value": "RL circuit with R = 1 k$$\\Omega $$ and L = 10 mH"
+        }
+      ],
+      "answer": "C",
+      "explanation": "Given phase difference = $${\\pi  \\over 4}$$ and $$\\omega $$ = 100 rad/s<br><br>\n$$ \\Rightarrow $$ Reactance (X) = Resistance (R)\nNow by checking option. <br><br>\nOption (A)<br>\nR = 1000 $$\\Omega $$ and X<sub>c</sub>  = $${1 \\over {{{10}^{ - 6}} \\times 100}} = {10^4}\\Omega $$<br><br>\nOption (B)<br>\nR = 10<sup>3</sup> $$\\Omega $$ and X<sub>L</sub>  = $${10^{ - 3}} \\times 100 = 10^{-1} \\Omega $$<br><br>\nOption (C)<br>\nR = 10<sup>3</sup> $$\\Omega $$ and X<sub>c</sub>  = $${1 \\over {{10 \\times {10}^{ - 6}} \\times 100}} = {10^3}\\Omega $$<br><br>\nOption (D)<br>\nR = 10<sup>3</sup> $$\\Omega $$ and X<sub>L</sub>  = $$10 \\times {10^{ - 3}} \\times 100 = 1\\Omega $$\n"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A power transmission line feeds input power at 2300 V to a srep down transformer with its primary windings having 4000 turns. The output power is delivered at 230 V by the transformer. If the current in the primary of the transformer is 5A and its efficiency is 90%, the output current would be : ",
+      "options": [
+        {
+          "key": "A",
+          "value": "50 A"
+        },
+        {
+          "key": "B",
+          "value": "45 A"
+        },
+        {
+          "key": "C",
+          "value": "35 A"
+        },
+        {
+          "key": "D",
+          "value": "25 A"
+        }
+      ],
+      "answer": "B",
+      "explanation": "Given,\n<br><br>Primary voltage (V<sub>P</sub>) = 2300 V\n<br><br>Primary current (I<sub>P</sub>) = 5A\n<br><br>Secondary voltage (V<sub>S</sub>) = 230 V\n<br><br>efficiency ($$\\eta $$) = 90%\n<br><br>We know,\n<br><br>Efficiency ($$\\eta $$) = $${{{\\mathop{\\rm Sec}\\nolimits} ondary\\,Power} \\over {\\Pr imary\\,\\,Power}}$$\n<br><br>$$ \\therefore $$&nbsp;&nbsp;&nbsp;$$\\eta $$ = $${{{P_S}} \\over {{P_P}}}$$ = $${{{V_S}\\,{I_S}} \\over {{V_P}\\,{I_P}}}$$\n<br><br>$$ \\Rightarrow $$&nbsp;&nbsp;&nbsp;0.9 = $${{230 \\times {{\\rm I}_S}} \\over {2300 \\times 5}}$$\n<br><br>$$ \\Rightarrow $$&nbsp;&nbsp;&nbsp;I = 45 A"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A power transmission line feeds input power at 2300 V to a step down transformer with its primary windings having 4000 turns, giving the output  power at 230 V.  If the current in the primary of the transformer is 5 A,  and its efficiency is 90%,  the output current would be ; ",
+      "options": [
+        {
+          "key": "A",
+          "value": "50 A"
+        },
+        {
+          "key": "B",
+          "value": "45 A"
+        },
+        {
+          "key": "C",
+          "value": "25 A"
+        },
+        {
+          "key": "D",
+          "value": "20 A"
+        }
+      ],
+      "answer": "B",
+      "explanation": "Efficiency n = 0.9 = $${{{P_s}} \\over {{P_p}}}$$\n<br><br>as $$\\,\\,\\,\\,\\,\\,$$ P = VI\n<br><br>$$\\therefore\\,\\,\\,$$ P<sub>s</sub> = 0.9 $$ \\times $$ P<sub>p</sub>\n<br><br>$$ \\Rightarrow $$ $$\\,\\,\\,\\,$$ V<sub>s</sub> I<sub>s</sub> = 0.9 $$ \\times $$ V<sub>p</sub> I<sub>p</sub> \n<br><br>$$ \\Rightarrow $$ $$\\,\\,\\,\\,$$ I<sub>s</sub> = $${{0.9 \\times 2300 \\times 5} \\over {230}}$$\n<br><br>= $$\\,\\,\\,\\,$$ 45 A"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "In an a.c. circuit, the instantaneous e.m.f. and current are given by <br>\ne = 100 sin 30 t<br>\ni = 20 sin $$\\left( {30t - {\\pi  \\over 4}} \\right)$$<br>\nIn one cycle of a.c., the average power consumed by the circuit and the wattless current are, respectively ",
+      "options": [
+        {
+          "key": "A",
+          "value": "50, 0 "
+        },
+        {
+          "key": "B",
+          "value": "50, 10 "
+        },
+        {
+          "key": "C",
+          "value": "$${{1000} \\over {\\sqrt 2 }},10$$ "
+        },
+        {
+          "key": "D",
+          "value": "$${{50} \\over {\\sqrt 2 }}$$ "
+        }
+      ],
+      "answer": "C",
+      "explanation": "Wattless current,\n<br><br>here &nbsp;$$\\phi $$ &nbsp;is the angle between i and e.\n<br><br>Average power,\n<br><br>P<sub>av</sub> = V<sub>rms</sub>&nbsp;I<sub>rms</sub>&nbsp;cos$$\\phi $$\n<br><br>= $${{100} \\over {\\sqrt 2 }} \\times {{20} \\over {\\sqrt 2 }}$$ cos$${\\pi  \\over 4}$$\n<br><br>= $${{1000} \\over {\\sqrt 2 }}$$ watt. "
+    },
+    {
+      "_type": "single_mcq",
+      "body": "For an RLC circuit driven with voltage of amplitude vm and frequency $${\\omega _0}$$ = $${1 \\over {\\sqrt {LC} }}$$ the current exhibits resonance. The quality factor, Q is given by : ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$${{CR} \\over {{\\omega _0}}}$$ "
+        },
+        {
+          "key": "B",
+          "value": "$${{{\\omega _0}L} \\over R}$$ "
+        },
+        {
+          "key": "C",
+          "value": "$${{{\\omega _0}R} \\over L}$$ "
+        },
+        {
+          "key": "D",
+          "value": "$${R \\over {\\left( {{\\omega _0}C} \\right)}}$$ "
+        }
+      ],
+      "answer": "B",
+      "explanation": "Quality factor (Q) = $${{Angular\\,\\,{\\mathop{\\rm Re}\\nolimits} sonance} \\over {Bandwith}}$$\n<br><br>= $${{{1 \\over {\\sqrt {LC} }}} \\over {{R \\over L}}}$$\n<br><br>= $${{{\\omega _0}} \\over {{R \\over L}}}$$\n<br><br>= $${{{\\omega _0}L} \\over R}$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "An ideal capacitor of capacitance $$0.2\\,\\mu F$$ is charged to a potential difference of $$10$$ $$V.$$ The charging battery is then disconnected. The capacitor is then connected to an ideal inductor of self inductance $$0.5$$ $$mH.$$ The current at a time when the potential difference across the capacitor is $$5$$ $$V,$$ is : ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$0.34\\,\\,A$$ "
+        },
+        {
+          "key": "B",
+          "value": "$$0.25\\,\\,A$$"
+        },
+        {
+          "key": "C",
+          "value": "$$0.17\\,\\,A$$"
+        },
+        {
+          "key": "D",
+          "value": "$$0.15\\,\\,A$$"
+        }
+      ],
+      "answer": "C",
+      "explanation": "Capacitance, C = 0.2 $$\\mu $$F = 0.2 $$ \\times $$ 10<sup>$$-$$6</sup> F\n<br><br>Inductance, L = 0.5 m H = 0.5  $$ \\times $$ 10<sup>$$-$$3</sup> H\n<br><br>Let, current = I.\n<br><br>Using energy conservation,  \n<br><br>U<sub>E</sub> + 0 = U<sub>E</sub><sup>'</sup> + U<sub>b</sub><sup>'</sup> \n<br><br>$$ \\Rightarrow $$$$\\,\\,\\,\\,$$ $${1 \\over 2}$$ cv<sup>2</sup> + 0 = $${1 \\over 2}$$ c$$v_1^2$$ + $${1 \\over 2}$$LI<sup>2</sup>\n<br><br>$$ \\Rightarrow $$$$\\,\\,\\,\\,$$ $${1 \\over 2}$$ $$ \\times $$ 0.2 $$ \\times $$  10<sup>$$-$$6</sup> $$ \\times $$ 10<sup>2</sup>\n<br><br>= $${1 \\over 2} \\times $$ 0.2 $$ \\times $$ 10<sup>$$-$$6</sup> $$ \\times $$ 5<sup>2</sup> + $${1 \\over 2}$$ $$ \\times $$ 0.5 $$ \\times $$ 10<sup>$$-$$3</sup> $$ \\times $$ I<sup>2</sup>\n<br><br>By solving this, \n<br><br>I = $$\\sqrt 3  \\times $$ 10<sup>$$-$$1</sup> A \n<br><br>= 0.17 A. "
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A sinusoidal voltage of peak value 283 V and angular frequency 320/s is applied to a series LCR circuit. Given that R=5 $$\\Omega $$, L=25 mH and C=1000 $$\\mu $$F. The total impedance, and phase difference between the voltage across the source and the current will respectively be :",
+      "options": [
+        {
+          "key": "A",
+          "value": "10 $$\\Omega $$ and tan<sup>$$-$$1</sup> $$\\left( {{5 \\over 3}} \\right)$$"
+        },
+        {
+          "key": "B",
+          "value": "$$7\\,\\Omega $$  and 45<sup>o</sup> "
+        },
+        {
+          "key": "C",
+          "value": "$$10\\,\\Omega $$ and tan<sup>$$-$$1</sup>$$\\left( {{8 \\over 3}} \\right)$$"
+        },
+        {
+          "key": "D",
+          "value": "$$7\\,\\Omega $$ and tan<sup>$$-$$1</sup>$$\\left( {{5 \\over 3}} \\right)$$"
+        }
+      ],
+      "answer": "B",
+      "explanation": "<p>It is given that e<sub>0</sub> = 283 V; $$\\omega$$ = 320.</p>\n<p>The inductor reactance is X<sub>L</sub> = 320 $$\\times$$ 25 $$\\times$$ 10<sup>$$-$$3</sup> = 8 $$\\Omega$$</p>\n<p>The capacitor reactance is</p>\n<p>$${X_C} = {1 \\over {\\omega C}} = {1 \\over {320 \\times 1000 \\times {{10}^{ - 6}}}} = {{1000} \\over {320}} = 3.1\\,\\Omega $$</p>\n<p>It is given that R = 5 $$\\Omega$$. Therefore, the total impedance is</p>\n<p>$$Z = \\sqrt {{R^2} + {{({X_L} - {X_C})}^2}}  = \\sqrt {50}  = 7\\,\\Omega $$</p>\n<p>and the phase difference between the voltage across the source and the current is</p>\n<p>$$\\tan \\phi  = {{{X_L} - {X_C}} \\over R} = {{8 - 3.1} \\over 5} \\approx 1 \\Rightarrow \\theta  = 45^\\circ $$</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A fully charged capacitor $$C$$ with initial charge $${q_0}$$ is connected to a coil of self inductance $$L$$ at $$t=0.$$ The time at which the energy is stored equally between the electric and the magnetic fields is : ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$${\\pi  \\over 4}\\sqrt {LC} $$ "
+        },
+        {
+          "key": "B",
+          "value": "$$2\\pi \\sqrt {LC} $$ "
+        },
+        {
+          "key": "C",
+          "value": "$$\\sqrt {LC} $$ "
+        },
+        {
+          "key": "D",
+          "value": "$$\\pi \\sqrt {LC} $$ "
+        }
+      ],
+      "answer": "A",
+      "explanation": "Energy stored in magnetic field $$ = {1 \\over 2}L{i^2}$$\n<br><br>Energy stored in electric field $$ = {1 \\over 2}{{{q^2}} \\over C}$$\n<br><br>$$\\therefore$$ $${1 \\over 2}L{i^2} = {1 \\over 2}{{{q^2}} \\over C}$$\n<br><br>Also $$q = {q_0}\\,\\cos \\,\\omega t$$ and $$\\omega  = {1 \\over {\\sqrt {LC} }}$$\n<br><br>On solving $$t = {\\pi  \\over 4}\\sqrt {LC} $$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A resistor $$'R'$$ and $$2\\mu F$$ capacitor in series is connected through a switch to $$200$$ $$V$$ direct supply. Across the capacitor is a neon bulb that lights up at $$120$$ $$V.$$ Calculate the value of $$R$$ to make the bulb light up $$5$$ $$s$$ after the switch has been closed. $$\\left( {{{\\log }_{10}}2.5 = 0.4} \\right)$$ ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$1.7 \\times {10^5}\\,\\Omega $$ "
+        },
+        {
+          "key": "B",
+          "value": "$$2.7 \\times {10^6}\\,\\Omega $$ "
+        },
+        {
+          "key": "C",
+          "value": "$$3.3 \\times {10^7}\\,\\Omega $$ "
+        },
+        {
+          "key": "D",
+          "value": "$$1.3 \\times {10^4}\\,\\Omega $$ "
+        }
+      ],
+      "answer": "B",
+      "explanation": "We have, $$V = {V_0}\\left( {1 - {e^{ - t/RC}}} \\right)$$\n<br><br>$$ \\Rightarrow 120 - 200\\left( {1 - {e^{ - t/RC}}} \\right)$$\n<br><br>$$ \\Rightarrow t = RC\\,in\\,\\left( {2.5} \\right)$$\n<br><br>$$ \\Rightarrow R = 2.71 \\times {10^6}\\Omega $$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "In a series $$LCR$$ circuit $$R = 200\\Omega $$ and the voltage and the frequency of the main supply is $$220V$$ and $$50$$ $$Hz$$ respectively. On taking out the capacitance from the circuit the current lags behind the voltage by $${30^ \\circ }.$$ On taking out the inductor from the circuit the current leads the voltage by $${30^ \\circ }.$$ The power dissipated in the $$LCR$$ circuit is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$305$$ $$W$$ "
+        },
+        {
+          "key": "B",
+          "value": "$$210$$ $$W$$ "
+        },
+        {
+          "key": "C",
+          "value": "$$zero$$ $$W$$ "
+        },
+        {
+          "key": "D",
+          "value": "$$242$$ $$W$$ "
+        }
+      ],
+      "answer": "D",
+      "explanation": "When capacitance is taken out, the circular is $$LR.$$ \n<br><br>$$\\therefore$$ $$\\tan \\phi  = {{\\omega L} \\over R}$$\n<br><br>$$ \\Rightarrow \\omega L = R\\,\\tan \\phi $$\n<br><br>$$ = 200 \\times {1 \\over {\\sqrt 3 }} = {{200} \\over {\\sqrt 3 }}$$\n<br><br>Again, when inductor is taken out, the circuit is $$CR.$$\n<br><br>$$\\therefore$$ $$\\tan \\phi  = {1 \\over {\\omega CR}}$$\n<br><br>$$ \\Rightarrow {1 \\over {\\omega c}} = R\\tan \\phi $$\n<br><br>$$ = 200 \\times {1 \\over {\\sqrt 3 }} = {{200} \\over {\\sqrt 3 }}$$\n<br><br>Now, $$Z = \\sqrt {{R^2} + {{\\left( {{1 \\over {\\omega C}} - \\omega L} \\right)}^2}} $$\n<br><br>$$ = \\sqrt {{{\\left( {200} \\right)}^2} + {{\\left( {{{200} \\over {\\sqrt 3 }} - {{200} \\over {\\sqrt 3 }}} \\right)}^2}}  = 200\\Omega $$\n<br><br>Power dissipated $$ = {V_{rms}}{I_{rms}}\\cos \\phi $$\n<br><br>$$ = {V_{rms}}.{{{V_{rms}}} \\over Z}.{R \\over Z}$$ \n<br><br>$$\\left( {\\,\\,\\,} \\right.$$ as $$\\left. {\\,\\,\\cos \\phi  = {R \\over Z}\\,\\,\\,} \\right)$$\n<br><br>$$ = {{{V^2}rmsR} \\over {{Z^2}}} = {{{{\\left( {220} \\right)}^2} \\times 200} \\over {{{\\left( {200} \\right)}^2}}}$$\n<br><br>$$ = {{220 \\times 220} \\over {200}} = 242\\,W$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "In an $$a.c.$$ circuit the voltage applied is $$E = {E_0}\\,\\sin \\,\\omega t.$$ The resulting current in the circuit is $$I = {I_0}\\sin \\left( {\\omega t - {\\pi  \\over 2}} \\right).$$ The power consumption in the circuit is given by ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$P = \\sqrt 2 {E_0}{I_0}$$ "
+        },
+        {
+          "key": "B",
+          "value": "$$P = {{{E_0}{I_0}} \\over {\\sqrt 2 }}$$ "
+        },
+        {
+          "key": "C",
+          "value": "$$P=zero$$ "
+        },
+        {
+          "key": "D",
+          "value": "$$P = {{{E_0}{I_0}} \\over 2}$$ "
+        }
+      ],
+      "answer": "C",
+      "explanation": "<b>KEY CONCEPT : </b> We know that power consumed in a.c. circuit is given by, \n<br><br>$$P = {E_{rms}}{I_{rms}}\\cos \\phi $$\n<br><br>Here, $$E = {E_0}\\sin \\omega t$$\n<br><br>$$I = {I_0}\\sin \\left( {\\omega t - {\\pi  \\over 2}} \\right)$$\n<br><br>which implies that the phase difference, $$\\phi  = {\\pi  \\over 2}$$\n<br><br>$$\\therefore$$ $$P = {E_{rms}}.{I_{rms}}.\\cos {\\pi  \\over 2} = 0$$\n<br><br>$$\\left( {\\,\\,} \\right.$$ as $$\\left. {\\,\\,\\cos {\\pi  \\over 2} = 0\\,\\,} \\right)$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "In a series resonant $$LCR$$ circuit, the voltage across $$R$$ is $$100$$ volts and $$R = 1\\,k\\Omega $$ with $$C = 2\\mu F.$$ The resonant frequency $$\\omega $$ is $$200$$ $$rad/s$$. At resonance the voltage across $$L$$ is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$2.5 \\times {10^{ - 2}}V$$ "
+        },
+        {
+          "key": "B",
+          "value": "$$40$$ $$V$$ "
+        },
+        {
+          "key": "C",
+          "value": "$$250$$ $$V$$ "
+        },
+        {
+          "key": "D",
+          "value": "$$4 \\times {10^{ - 3}}V$$ "
+        }
+      ],
+      "answer": "C",
+      "explanation": "Across resistor, $$I = {V \\over R} = {{100} \\over {1000}} = 0.1A$$\n<br><br>At resonance, \n<br><br>$${X_L} = {X_C} = {1 \\over {\\omega C}}$$\n<br><br>$$ = {1 \\over {200 \\times 2 \\times {{10}^{ - 6}}}} = 2500$$\n<br><br>Voltage across $$L$$ is \n<br><br>$$I{X_L} = 0.1 \\times 2500 = 250V$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "In an $$AC$$ generator, a coil with $$N$$ turns, all of the same area $$A$$ and total resistance $$R,$$ rotates with frequency $$\\omega $$ in a magnetic field $$B.$$ The maximum value of $$emf$$ generated in the coil is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$N.A.B.R.$$$$\\omega $$ "
+        },
+        {
+          "key": "B",
+          "value": "$$N.A.B$$"
+        },
+        {
+          "key": "C",
+          "value": "$$N.A.B.R.$$  "
+        },
+        {
+          "key": "D",
+          "value": "$$N.A.B.$$$$\\omega $$  "
+        }
+      ],
+      "answer": "D",
+      "explanation": "$$e =  - {{d\\phi } \\over {dt}} =  - {{d\\left( {N\\overrightarrow B .\\overrightarrow A } \\right)} \\over {dt}}$$\n<br><br>$$ =  - N{d \\over {dt}}\\left( {BA\\,\\cos \\,\\omega t} \\right) = NBA\\omega \\sin \\,\\omega t$$\n<br><br>$$ \\Rightarrow {e_{\\max }} = NBA\\omega $$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The self inductance of the motor of an electric fan is $$10$$ $$H$$. In order to impart maximum power at $$50$$ $$Hz$$, it should be connected to a capacitance of ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$8\\mu F$$ "
+        },
+        {
+          "key": "B",
+          "value": "$$4\\mu F$$"
+        },
+        {
+          "key": "C",
+          "value": "$$2\\mu F$$"
+        },
+        {
+          "key": "D",
+          "value": "$$1\\mu F$$"
+        }
+      ],
+      "answer": "D",
+      "explanation": "For maximum power, $${X_L} = X{}_C,$$ which yields \n<br><br>$$C = {1 \\over {{{\\left( {2\\pi n} \\right)}^2}L}} = {1 \\over {4{\\pi ^2} \\times 50 \\times 50 \\times 10}}$$\n<br><br>$$\\therefore$$ $$C = 0.1 \\times {10^{ - 5}}F = 1\\mu F$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The phase difference between the alternating current and $$emf$$ is $${\\pi  \\over 2}.$$ Which of the following cannot be the constituent of the circuit? ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$R,L$$ "
+        },
+        {
+          "key": "B",
+          "value": "$$C$$ alone "
+        },
+        {
+          "key": "C",
+          "value": "$$L$$ alone "
+        },
+        {
+          "key": "D",
+          "value": "$$L, C$$ "
+        }
+      ],
+      "answer": "A",
+      "explanation": "<p>The phase difference between the alternating current and emf in an AC circuit depends on the components in the circuit:</p>\n<ul>\n<li>In a purely resistive ($R$) circuit, the current and emf are in phase, meaning the phase difference is $0$.</li><br/>\n<li>In a purely inductive ($L$) circuit, the current lags behind the emf by $\\frac{\\pi}{2}$, meaning the phase difference is $\\frac{\\pi}{2}$.</li><br/>\n<li>In a purely capacitive ($C$) circuit, the current leads the emf by $\\frac{\\pi}{2}$, again meaning the phase difference is $\\frac{\\pi}{2}$.</li><br/>\n<li>In an $L$-$R$ or $L$-$C$ circuit, the phase difference depends on the relative values of $L$, $R$, and $C$ and can be anywhere between $0$ and $\\frac{\\pi}{2}$.</li>\n</ul>\n<p>Therefore, if the phase difference between the alternating current and emf is $\\frac{\\pi}{2}$, then the circuit cannot contain only a resistor ($R$) since that would give a phase difference of $0$. So, the answer is Option A: $R,L$. The phase difference would not be $\\frac{\\pi}{2}$ if the circuit contains both a resistor and an inductor.</p>\n"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A circuit has a resistance of $$12$$ $$ohm$$ and an impedance of $$15$$ $$ohm$$. The power factor of the circuit will be ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$0.4$$ "
+        },
+        {
+          "key": "B",
+          "value": "$$0.8$$ "
+        },
+        {
+          "key": "C",
+          "value": "$$0.125$$ "
+        },
+        {
+          "key": "D",
+          "value": "$$1.25$$ "
+        }
+      ],
+      "answer": "B",
+      "explanation": "Power factor $$ = \\cos \\phi  = {R \\over Z} = {{12} \\over {15}} = {4 \\over 5} = 0.8$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "In an $$LCR$$ series $$a.c.$$ circuit, the voltage across each of the components, $$L,C$$ and $$R$$ is $$50V$$. The voltage across the $$L.C$$ combination will be :",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$100V$$ "
+        },
+        {
+          "key": "B",
+          "value": "$$50\\sqrt 2 $$ "
+        },
+        {
+          "key": "C",
+          "value": "$$50$$ $$V$$ "
+        },
+        {
+          "key": "D",
+          "value": "$$0$$ $$V$$ (zero) "
+        }
+      ],
+      "answer": "D",
+      "explanation": "Since the phase difference between $$L$$ &amp; $$C$$ is $$\\pi ,$$\n<br><br>$$\\therefore$$ net voltage difference across $$LC=50-50=0$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Alternating current can not be measured by $$D.C.$$ ammeter because ",
+      "options": [
+        {
+          "key": "A",
+          "value": "Average value of current for complete cycle is zero "
+        },
+        {
+          "key": "B",
+          "value": "$$A.C.$$ Changes direction "
+        },
+        {
+          "key": "C",
+          "value": "$$A.C.$$  can not pass through $$D.C.$$ Ammeter "
+        },
+        {
+          "key": "D",
+          "value": "$$D.C.$$ Ammeter will get damaged. "
+        }
+      ],
+      "answer": "A",
+      "explanation": "$$D.C.$$ ammeter measure average current in $$AC$$ current, average current is zero for complete cycle. Hence reading will be zero."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "In a $$LCR$$ circuit capacitance is changed from $$C$$ to $$2$$ $$C$$. For the resonant frequency to remain unchaged, the inductance should be changed from $$L$$ to ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$L/2$$ "
+        },
+        {
+          "key": "B",
+          "value": "$$2L$$ "
+        },
+        {
+          "key": "C",
+          "value": "$$4L$$ "
+        },
+        {
+          "key": "D",
+          "value": "$$L/4$$"
+        }
+      ],
+      "answer": "A",
+      "explanation": "For resonant frequency to remain same $$LC$$ should be const. $$LC=$$ const\n<br><br>$$ \\Rightarrow LC = L' \\times 2C \\Rightarrow L' = {L \\over 2}$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The core of any transformer is laminated so as  to",
+      "options": [
+        {
+          "key": "A",
+          "value": "reduce the energy loss due to eddy currents"
+        },
+        {
+          "key": "B",
+          "value": "make it light weight"
+        },
+        {
+          "key": "C",
+          "value": "make it robust and strong"
+        },
+        {
+          "key": "D",
+          "value": "increase the secondary voltage "
+        }
+      ],
+      "answer": "A",
+      "explanation": "Laminated core provide less area of cross-section for the current to flow. Because of this, resistance  of the core increases and current decreases thereby decreasing the eddy current losses."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "In an oscillating $$LC$$ circuit the maximum charge on the capacitor is $$Q$$. The charge on the capacitor when the energy is stored equally between the electric and magnetic field is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$${Q \\over 2}$$ "
+        },
+        {
+          "key": "B",
+          "value": "$${Q \\over {\\sqrt 3 }}$$ "
+        },
+        {
+          "key": "C",
+          "value": "$${Q \\over {\\sqrt 2 }}$$ "
+        },
+        {
+          "key": "D",
+          "value": "$$Q$$"
+        }
+      ],
+      "answer": "C",
+      "explanation": "When the capacitor is completely charged, the total energy in the $$L.C$$ circuit is with the capacitor and that energy is $$E = {1 \\over 2}{{{Q^2}} \\over C}$$\n<br><br>When half energy is with the capacitor in the form of electric field between the plates of the capacitor we get \n$${E \\over 2} = {1 \\over 2}{{Q{'^2}} \\over C}$$ where $$Q'$$ is the charge on plate of the capacitor\n<br><br>$$\\therefore$$ $${1 \\over 2} \\times {1 \\over 2}{{{Q^2}} \\over C} = {1 \\over 2}{{Q{'^2}} \\over C}$$\n<br><br>$$ \\Rightarrow Q' = {Q \\over {\\sqrt 2 }}$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "In a transformer, number of turns in the primary coil are $$140$$ and that in the secondary coil are $$280.$$ If current in primary coil is $$4A,$$ then that in the secondary coil is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$4A$$ "
+        },
+        {
+          "key": "B",
+          "value": "$$2A$$ "
+        },
+        {
+          "key": "C",
+          "value": "$$6A$$ "
+        },
+        {
+          "key": "D",
+          "value": "$$10A$$ "
+        }
+      ],
+      "answer": "B",
+      "explanation": "$${N_p} = 140,\\,\\,{N_s} = 280,\\,\\,{I_p} = 4A,\\,\\,{I_s} = ?$$ \n<br><br>For a transformer $${{{I_s}} \\over {{I_p}}} = {{{N_p}} \\over {{N_s}}}$$\n<br><br>$$ \\Rightarrow {{{I_s}} \\over 4} = {{140} \\over {280}} \\Rightarrow {I_s} = 2A$$"
+    }
+  ]
+}

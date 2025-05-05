@@ -1,0 +1,1465 @@
+{
+  "_index": {
+    "name": "Parabola"
+  },
+  "_children": [
+    {
+      "_type": "numerical",
+      "body": "<p>Let $y^2=12 x$ be the parabola and $S$ be its focus. Let $P Q$ be a focal chord of the parabola such that $(S P)(S Q)=\\frac{147}{4}$. Let $C$ be the circle described taking $P Q$ as a diameter. If the equation of a circle $C$ is $64 x^2+64 y^2-\\alpha x-64 \\sqrt{3} y=\\beta$, then $\\beta-\\alpha$ is equal to $\\qquad$ .</p>",
+      "answer": "1328",
+      "explanation": "<p>$$\\mathrm{y}^2=12 \\mathrm{x} \\quad \\mathrm{a}=3 \\quad \\mathrm{SP} \\times \\mathrm{SQ}=\\frac{147}{4}$$</p>\n<p>Let $\\mathrm{P}\\left(3 \\mathrm{t}^2, 6 \\mathrm{t}\\right)$ and $\\mathrm{t}_1 \\mathrm{t}_2=-1$</p>\n<p>(ends of focal chord)</p>\n<p>So, $Q\\left(\\frac{3}{t^2}, \\frac{-6}{t}\\right)$</p>\n<p>$$S(3,0)$$</p>\n<p>$$\\mathrm{SP} \\times \\mathrm{SQ}=\\mathrm{PM}_1 \\times \\mathrm{QM}_2$$</p>\n<p>$$\\begin{aligned}\n& \\text { (dist. from directrix) } \\\\\n& =\\left(3+3 \\mathrm{t}^2\\right)\\left(3+\\frac{3}{\\mathrm{t}^2}\\right)=\\frac{147}{4} \\\\\n& \\Rightarrow \\frac{\\left(1+\\mathrm{t}^2\\right)^2}{\\mathrm{t}^2}=\\frac{49}{12} \\\\\n& \\mathrm{t}^2=\\frac{3}{4}, \\frac{4}{3} \\\\\n& \\mathrm{t}= \\pm \\frac{\\sqrt{3}}{2}, \\pm \\frac{2}{\\sqrt{3}} \\\\\n& \\text { considering } \\mathrm{t}=\\frac{-\\sqrt{3}}{2} \\\\\n& \\mathrm{P}\\left(\\frac{9}{4},-3 \\sqrt{3}\\right) \\text { and } \\mathrm{Q}(4,4 \\sqrt{3})\n\\end{aligned}$$</p>\n<p>$$\\begin{aligned}\n&\\text { Hence, diametric circle: }\\\\\n&\\begin{aligned}\n& (x-4)\\left(x-\\frac{9}{4}\\right)+(y+3 \\sqrt{3})(y-4 \\sqrt{3})=0 \\\\\n& \\Rightarrow x^2+y^2-\\frac{25}{4} x-\\sqrt{3} y-27=0 \\\\\n& \\Rightarrow \\alpha=400, \\beta=1728 \\\\\n& \\beta-\\alpha=1328\n\\end{aligned}\n\\end{aligned}$$</p>"
+    },
+    {
+      "_type": "numerical",
+      "body": "<p>The focus of the parabola $y^2=4 x+16$ is the centre of the circle $C$ of radius 5 . If the values of $\\lambda$, for which C passes through the point of intersection of the lines $3 x-y=0$ and $x+\\lambda y=4$, are $\\lambda_1$ and $\\lambda_2, \\lambda_1<\\lambda_2$, then $12 \\lambda_1+29 \\lambda_2$ is equal to ________ .</p>",
+      "answer": "15",
+      "explanation": "<p>$$y^2=4(x+4)$$</p>\n<p>Equation of circle</p>\n<p>$$(x+3)^2+y^2=25$$</p>\n<p>Passes through the point of intersection of two lines $3 x-y=0$ and $x+\\lambda y=4$ which is $\\left(\\frac{4}{3 \\lambda+1}, \\frac{12}{3 \\lambda+1}\\right)$, after solving with circle, we get</p>\n<p>$$\\begin{aligned}\n& \\lambda=-\\frac{7}{6}, 1 \\\\\n& 12 \\lambda_1+29 \\lambda_2 \\\\\n& -14+29=15\n\\end{aligned}$$</p>"
+    },
+    {
+      "_type": "numerical",
+      "body": "<p>Let a conic $$C$$ pass through the point $$(4,-2)$$ and $$P(x, y), x \\geq 3$$, be any point on $$C$$. Let the slope of the line touching the conic $$C$$ only at a single point $$P$$ be half the slope of the line joining the points $$P$$ and $$(3,-5)$$. If the focal distance of the point $$(7,1)$$ on $$C$$ is $$d$$, then $$12 d$$ equals ________.</p>",
+      "answer": "75",
+      "explanation": "<p>As per given condition</p>\n<p>$$\\begin{gathered}\n\\frac{d y}{d x}=\\frac{y+5}{2(x-3)} \\\\\n\\Rightarrow \\ln (y+5)=\\frac{1}{2} \\ln (x-3)+c \\\\\n\\text { Passes through }(4,-2) \\Rightarrow \\ln 3=\\frac{1}{2} \\ln 1+c \\\\\n\\Rightarrow c=\\ln 3\n\\end{gathered}$$</p>\n<p>$$\\Rightarrow$$ Curve is $$(y+5)^2=9(x-3)$$</p>\n<p>Focal distance of $$(7,1)=\\frac{9}{4}+4=\\frac{25}{4}=d$$</p>\n<p>$$12 d=75$$</p>"
+    },
+    {
+      "_type": "numerical",
+      "body": "<p>Let a line perpendicular to the line $$2 x-y=10$$ touch the parabola $$y^2=4(x-9)$$ at the point P. The distance of the point P from the centre of the circle $$x^2+y^2-14 x-8 y+56=0$$ is __________.</p>",
+      "answer": "10",
+      "explanation": "<p>Line perpendicular to $$2 x-y=10$$ have slope $$=\\frac{-1}{2}$$</p>\n<p>$$\\Rightarrow$$ Line tangent to parabola $$y^2=4(x-9)$$ with slope $$m$$ is</p>\n<p>$$\\begin{aligned}\n& y=m(x-9)+\\frac{1}{m}, m=\\frac{-1}{2} \\\\\n& \\Rightarrow y=\\frac{-(x-9)}{2}-2 \\Rightarrow 2 y=-x+9-4 \\\\\n& \\Rightarrow 2 y+x=5\n\\end{aligned}$$</p>\n<p>Solving the tangent and parabola we get point $$P$$</p>\n<p>$$\\begin{aligned}\n& \\left(\\frac{5-x}{2}\\right)^2=4(x-9) \\Rightarrow x^2-10 x+25=16 x-144 \\\\\n& \\Rightarrow x^2-26 x+169=0 \\Rightarrow(x-13)^2=0 \\\\\n& \\Rightarrow P \\equiv(13,-4)\n\\end{aligned}$$</p>\n<p>Distance of $$P$$ from the centre of circle $$(7,4)$$ is $$\\sqrt{(13-7)^2+(-4-4)^2}=\\sqrt{36+64}=10$$ units.</p>"
+    },
+    {
+      "_type": "numerical",
+      "body": "<p>Suppose $$\\mathrm{AB}$$ is a focal chord of the parabola $$y^2=12 x$$ of length $$l$$ and slope $$\\mathrm{m}<\\sqrt{3}$$. If the distance of the chord $$\\mathrm{AB}$$ from the origin is $$\\mathrm{d}$$, then $$l \\mathrm{~d}^2$$ is equal to _________.</p>",
+      "answer": "108",
+      "explanation": "<p>Equation of focal chord</p>\n<p>$$y-0=\\tan \\theta .(x-3)$$</p>\n<p>Distance from origin</p>\n<p>$$\\begin{aligned}\n& d=\\left|\\frac{-3 \\tan \\theta}{\\sqrt{1+\\tan ^2 \\theta}}\\right| \\\\\n& I=4 \\times 3 \\operatorname{cosec}^2 \\theta \\\\\n& I. d^2=\\frac{9 \\tan ^2 \\theta}{1+\\tan ^2 \\theta} \\times 12 \\operatorname{cosec}^2 \\theta \\\\\n& =\\frac{108 \\operatorname{cosec}^2 \\theta}{1+\\cot ^2 \\theta}=108\n\\end{aligned}$$</p>"
+    },
+    {
+      "_type": "numerical",
+      "body": "Let the line $\\mathrm{L}: \\sqrt{2} x+y=\\alpha$ pass through the point of the intersection $\\mathrm{P}$ (in the first quadrant) of the circle $x^2+y^2=3$ and the parabola $x^2=2 y$. Let the line $\\mathrm{L}$ touch two circles $\\mathrm{C}_1$ and $\\mathrm{C}_2$ of equal radius $2 \\sqrt{3}$. If the centres $Q_1$ and $Q_2$ of the circles $C_1$ and $C_2$ lie on the $y$-axis, then the square of the area of the triangle $\\mathrm{PQ}_1 \\mathrm{Q}_2$ is equal to ___________.",
+      "answer": "72",
+      "explanation": "<p>$x^2+y^2=3$ and $x^2=2 y$</p>\n\n$y^2+2 y-3=0 $\n\n<br/><br/>$\\Rightarrow(y+3)(y-1)=0$\n\n<br/><br/>$y=-3$ (Rejected) or $y=1$\n\n<br/><br/>For $\\mathrm{y}=1, \\mathrm{x}=\\sqrt{2} \\Rightarrow P(\\sqrt{2}, 1)$\n\n<br/><br/>$p$ lies on the line\n\n<br/><br/>$$\n\n\\begin{aligned}\n\n& \\sqrt{2} x+y=\\alpha \\\\\\\\\n\n& \\sqrt{2}(\\sqrt{2})+1=\\alpha \\\\\\\\\n\n& \\alpha=3\n\n\\end{aligned}\n\n$$\n\n<br/><br/>For circle $\\mathrm{C}_1$\n\n<br/><br/>$\\mathrm{Q}_1$ lies on $\\mathrm{y}$ axis\n\n<br/><br/>Let $\\mathrm{Q}_1(0, \\alpha)$ coordinates\n\n<br/><br/>$\\mathrm{R}_1=2 \\sqrt{3}$ (Given\n\n<br/><br/>Line $\\mathrm{L}$ act as tangent\n\n<br/><br/>Apply P $=r$ (condition of tangency)\n\n<br/><br/>$\\begin{aligned} & \\Rightarrow\\left|\\frac{\\alpha-3}{\\sqrt{3}}\\right|=2 \\sqrt{3} \\\\\\\\ & \\Rightarrow|\\alpha-3|=6\\end{aligned}$\n\n<br/><br/>$$ \\therefore $$ $\\alpha-3=6$\n\n<br/><br/>$\\Rightarrow \\alpha=9$\n<br/><br/>$\\begin{gathered}\\text { or } \\alpha-3=-6 \\\\\\\\ \\Rightarrow \\alpha=-3\\end{gathered}$\n<br/><br/>$\\begin{aligned} & \\triangle P Q_1 Q_2=\\frac{1}{2}\\left|\\begin{array}{ccc}\\sqrt{2} & 1 & 1 \\\\ 0 & 9 & 1 \\\\ 0 & -3 & 1\\end{array}\\right| \\\\\\\\ & =\\frac{1}{2}(\\sqrt{2}(12))=6 \\sqrt{2} \\\\\\\\ & \\left(\\triangle P Q_1 Q_2\\right)^2=72\\end{aligned}$"
+    },
+    {
+      "_type": "numerical",
+      "body": "<p>Let $$P(\\alpha, \\beta)$$ be a point on the parabola $$y^2=4 x$$. If $$P$$ also lies on the chord of the parabola $$x^2=8 y$$ whose mid point is $$\\left(1, \\frac{5}{4}\\right)$$, then $$(\\alpha-28)(\\beta-8)$$ is equal to _________.</p>",
+      "answer": "192",
+      "explanation": "<p>Parabola is $$x^2=8 y$$</p>\n<p>Chord with mid point $$\\left(\\mathrm{x}_1, \\mathrm{y}_1\\right)$$ is $$\\mathrm{T}=\\mathrm{S}_1$$</p>\n<p>$$\\begin{aligned}\n& \\therefore \\mathrm{xx}_1-4\\left(\\mathrm{y}+\\mathrm{y}_1\\right)=\\mathrm{x}_1^2-8 \\mathrm{y}_1 \\\\\n& \\therefore\\left(\\mathrm{x}_1, \\mathrm{y}_1\\right)=\\left(1, \\frac{5}{4}\\right) \\\\\n& \\Rightarrow \\mathrm{x}-4\\left(\\mathrm{y}+\\frac{5}{4}\\right)=1-8 \\times \\frac{5}{4}=-9\n\\end{aligned}$$</p>\n<p>$$\\therefore x-4 y+4=0$$ ...... (i)</p>\n<p>$$(\\alpha, \\beta)$$ lies on (i) & also on $$y^2=4 x$$</p>\n<p>$$\\begin{aligned}\n& \\therefore \\alpha-4 \\beta+4=0 \\text{ .... (ii)} \\\\\n& \\& ~\\beta^2=4 \\alpha \\text{ .... (iii)}\n\\end{aligned}$$</p>\n<p>Solving (ii) & (iii)</p>\n<p>$$\\begin{aligned}\n& \\beta^2=4(4 \\beta-4) \\Rightarrow \\beta^2-16 \\beta+16=0 \\\\\n& \\therefore \\beta=8 \\pm 4 \\sqrt{3} \\text { and } \\alpha=4 \\beta-4=28 \\pm 16 \\sqrt{3} \\\\\n& \\therefore(\\alpha, \\quad \\beta) \\quad=\\quad(28+16 \\sqrt{3}, 8+4 \\sqrt{3}) \\quad \\& \\\\\n& (28-16 \\sqrt{3}, 8-4 \\sqrt{3}) \\\\\n& \\therefore(\\alpha-28)(\\beta-8)=( \\pm 16 \\sqrt{3})( \\pm 4 \\sqrt{3}) \\\\\n& =192\n\\end{aligned}$$</p>"
+    },
+    {
+      "_type": "numerical",
+      "body": "<p>Let the tangent to the parabola $$\\mathrm{y}^{2}=12 \\mathrm{x}$$ at the point $$(3, \\alpha)$$ be perpendicular to the line $$2 x+2 y=3$$. Then the square of distance of the point $$(6,-4)$$ from the normal to the hyperbola $$\\alpha^{2} x^{2}-9 y^{2}=9 \\alpha^{2}$$ at its point $$(\\alpha-1, \\alpha+2)$$ is equal to _________.</p>",
+      "answer": "116",
+      "explanation": "$\\because \\mathrm{P}(3, \\alpha)$ lies on $\\mathrm{y}^2=12 \\mathrm{x}$ \n<br/><br/>$\\Rightarrow \\alpha= \\pm 6$\n<br/><br/>$$\n\\text { But, }\\left.\\frac{\\mathrm{dy}}{\\mathrm{dx}}\\right|_{(3, \\alpha)}=\\frac{6}{\\alpha}=1 \\Rightarrow \\alpha=6(\\alpha=-6 \\text { reject })\n$$\n<br/><br/>Now, hyperbola $\\frac{x^2}{9}-\\frac{y^2}{36}=1$, normal at\n<br/><br/>$$\n\\begin{aligned}\n& \\mathrm{Q}(\\alpha-1, \\alpha+2) \\text { is } \\frac{9 \\mathrm{x}}{5}+\\frac{36 y}{8}=45 \\\\\\\\\n& \\Rightarrow 2 x+5 y-50=0\n\\end{aligned}\n$$\n<br/><br/>Now, distance of $(6,-4)$ from $2 x+5 y-50=0$ is equal to\n<br/><br/>$$\n\\begin{aligned}\n& \\left|\\frac{2(6)-5(4)-50}{\\sqrt{2^2+5^2}}\\right|=\\frac{58}{\\sqrt{29}} \\\\\\\\\n& \\Rightarrow \\text { Squareof distance }=116\n\\end{aligned}\n$$"
+    },
+    {
+      "_type": "numerical",
+      "body": "<p>Let a common tangent to the curves $${y^2} = 4x$$ and $${(x - 4)^2} + {y^2} = 16$$ touch the curves at the points P and Q. Then $${(PQ)^2}$$ is equal to __________.</p>",
+      "answer": "32",
+      "explanation": "Tangent of slope $m$ to the parabola \n<br/><br/>$y^2=4 x$ is given by $y=m x+\\frac{1}{m}$ and <br/><br/>Tangent of slope $m$ to the circle $(x-4)^2+y^2=16$ is given by\n<br/><br/>$$\ny=m(x-4) \\pm 4 \\sqrt{1+m^2}\n$$\n<br/><br/>For common tangent\n<br/><br/>$$\n\\begin{aligned}\n& \\frac{1}{m}=-4 m \\pm 4 \\sqrt{1+m^2} \\\\\\\\\n& \\Rightarrow  \\left(\\frac{1}{m}+4 m\\right)^2=\\left( \\pm 4 \\sqrt{1+m^2}\\right)^2\n\\end{aligned}\n$$\n<br/><br/>On squaring both sides, we get\n<br/><br/>$$\n\\begin{aligned}\n& =\\frac{1}{m^2}+16 m^2+8=16+16 m^2 \\\\\\\\\n& \\Rightarrow \\frac{1}{m^2} =8 \\Rightarrow m= \\pm \\frac{1}{2 \\sqrt{2}}\n\\end{aligned}\n$$\n<br/><br/>Then, the point of contact on parabola is $(8,4 \\sqrt{2})$ \n<br/><br/>Length of tangent $P Q$ from $(8,4 \\sqrt{2})$ on the circle is\n<br/><br/>$$\n\\begin{array}{ll}\n&\\Rightarrow  P Q=\\sqrt{(8-4)^2+(4 \\sqrt{2})^2-16} \\\\\\\\\n&\\Rightarrow  P Q=\\sqrt{16+32-16} \\\\\\\\\n&\\Rightarrow  P Q=\\sqrt{32} \\Rightarrow(P Q)^2=32\n\\end{array}\n$$"
+    },
+    {
+      "_type": "numerical",
+      "body": "<p>The ordinates of the points P and $$\\mathrm{Q}$$ on the parabola with focus $$(3,0)$$ and directrix $$x=-3$$ are in the ratio $$3: 1$$. If $$\\mathrm{R}(\\alpha, \\beta)$$ is the point of intersection of the tangents to the parabola at $$\\mathrm{P}$$ and $$\\mathrm{Q}$$, then $$\\frac{\\beta^{2}}{\\alpha}$$ is equal to _______________.</p>",
+      "answer": "16",
+      "explanation": "$$\n\\begin{aligned}\n& \\text { Give parabola is : } y^2=12 x \\quad(\\because a=3) \\\\\\\\\n& \\text { So, } \\mathrm{P} \\equiv\\left(a t_1^2, 2 a t_1\\right) \\\\\\\\\n& \\mathrm{Q} \\equiv\\left(a t_2^2, 2 a t_2\\right) \\\\\\\\\n& \\text { So, point } \\mathrm{R}(\\alpha, \\beta) \\equiv\\left(a t_1 t_2, a\\left(t_1+t_2\\right)\\right) \\\\\\\\\n& \\equiv((3 t)(3 t), 3(t+3 t))=\\left(9 t^2, 12 t\\right) \\\\\\\\\n& \\therefore \\frac{\\beta^2}{\\alpha}=\\frac{144 t^2}{9 t^2}=16\n\\end{aligned}\n$$"
+    },
+    {
+      "_type": "numerical",
+      "body": "<p>Let the tangent to the curve $$x^{2}+2 x-4 y+9=0$$ at the point $$\\mathrm{P}(1,3)$$ on it meet the $$y$$-axis at $$\\mathrm{A}$$. Let the line passing through $$\\mathrm{P}$$ and parallel to the line $$x-3 y=6$$ meet the parabola $$y^{2}=4 x$$ at $$\\mathrm{B}$$. If $$\\mathrm{B}$$ lies on the line $$2 x-3 y=8$$, then $$(\\mathrm{AB})^{2}$$ is equal to ___________.</p>",
+      "answer": "292",
+      "explanation": "Given, equation of curve is\n<br/><br/>$$x^2+2 x-4 y+9=0$$ ..........(i)\n<br/><br/>Equation of tangent at $P(1,3)$ to the given curve (i)\n<br/><br/>$$\n\\begin{array}{rlrl} \n& x(1)+2\\left(\\frac{x+1}{2}\\right)-4\\left(\\frac{y+3}{2}\\right)+9  =0 \\\\\\\\\n& \\Rightarrow  2 x+2 x+2-4 y-12+18  =0 \\\\\\\\\n&\\Rightarrow  4 x-4 y+8  =0 \\\\\\\\\n&\\Rightarrow  x-y+2  =0\n\\end{array}\n$$\n<br/><br/>which is meet the $Y$-axis at $A$\n<br/><br/>$$\\therefore  A \\equiv(0,2)$$\n\n<br/><br/>Equation of line passing through $P$ and parallel to $x-3 y=6$ is $x-3 y+8=0$\n\n<br/><br/>Since, line (ii) meet the parabola $y^2=4 x$ at $B$\n<br/><br/>$$\n\\begin{array}{lc}\n&\\therefore  y^2=4(3 y-8) \\\\\\\\\n&\\Rightarrow  y^2-12 y+32=0 \\\\\\\\\n&\\Rightarrow  (y-4)(y-8)=0\n\\end{array}\n$$\n<br/><br/>$\\therefore$ Possible co-ordinates of $B$ are $(4,4)$ and $(16,8)$.\n<br/><br/>Since, $(4,4)$ does not satisfies line $2 x-3 y=8$\n<br/><br/>Thus, $B$ is $(16,8)$\n<br/><br/>$$\n\\therefore (A B)^2=(16-0)^2+(8-2)^2=256+36=292\n$$"
+    },
+    {
+      "_type": "numerical",
+      "body": "<p>If the $$x$$-intercept of a focal chord of the parabola $$y^{2}=8x+4y+4$$ is 3, then the length of this chord is equal to ____________.</p>",
+      "answer": "16",
+      "explanation": "$$\n\\begin{aligned}\n& y^2=8 x+4 y+4 \\\\\\\\\n& (y-2)^2=8(x+1) \\\\\\\\\n& Y^2=4 a X \\\\\\\\\n& a=2, X=x+1, Y=y-2 \\\\\\\\\n& \\text { focus }(1,2) \\\\\\\\\n& y-2=m(x-1)\n\\end{aligned}\n$$\n<br/><br/>Put $(3,0)$ in the above line $\\mathrm{m}=-1$\n<br/><br/>Length of focal chord $=16$"
+    },
+    {
+      "_type": "numerical",
+      "body": "<p>Two tangent lines $$l_{1}$$ and $$l_{2}$$ are drawn from the point $$(2,0)$$ to the parabola $$2 \\mathrm{y}^{2}=-x$$. If the lines $$l_{1}$$ and $$l_{2}$$ are also tangent to the circle $$(x-5)^{2}+y^{2}=r$$, then 17r is equal to ___________.</p>",
+      "answer": "9",
+      "explanation": "<p>Given : $${y^2} = {{ - x} \\over 2}$$</p>\n<p>$$\\eqalign{\n  & T \\equiv y = mx - {1 \\over {8m}}  \\cr \n  & \\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\, \\downarrow (2,0) \\cr} $$</p>\n<p>$$ \\Rightarrow {m^2} = {1 \\over {16}} \\Rightarrow m = \\, \\pm \\,{1 \\over 4}$$</p>\n<p>Tangents are $$y = {1 \\over 4}x - {1 \\over 2},\\,y = {{ - x} \\over 4} + {1 \\over 2}$$</p>\n<p>$$4y = x - 2$$ and $$4y + x = 2$$</p>\n<p>If these are also tangent to circle then $${d_c} = r$$</p>\n<p>$$ \\Rightarrow \\left| {{{5 - 2} \\over {\\sqrt {17} }}} \\right| = \\sqrt r  \\Rightarrow r = {\\left( {{3 \\over {\\sqrt {17} }}} \\right)^2}$$</p>\n<p>$$ \\Rightarrow 17r = 17\\,.\\,{9 \\over {17}} = 9$$</p>"
+    },
+    {
+      "_type": "numerical",
+      "body": "<p>Let the common tangents to the curves $$4({x^2} + {y^2}) = 9$$ and $${y^2} = 4x$$ intersect at the point Q. Let an ellipse, centered at the origin O, has lengths of semi-minor and semi-major axes equal to OQ and 6, respectively. If e and l respectively denote the eccentricity and the length of the latus rectum of this ellipse, then $${l \\over {{e^2}}}$$ is equal to ______________.</p>",
+      "answer": "4",
+      "explanation": "<p>Let y = mx + c is the common tangent</p>\n<p>So $$c = {1 \\over m} =  \\pm \\,{3 \\over 2}\\sqrt {1 + {m^2}}  \\Rightarrow {m^2} = {1 \\over 3}$$</p>\n<p>So equation of common tangents will be $$y =  \\pm \\,{1 \\over {\\sqrt 3 }}x \\pm \\,\\sqrt 3 $$, which intersects at Q($$-$$3, 0)</p>\n<p>Major axis and minor axis of ellipse are 12 and 6.</p>\n<p>So eccentricity</p>\n<p>$${e^2} = 1 - {1 \\over 4} = {3 \\over 4}$$ and length of latus rectum $$ = {{2{b^2}} \\over a} = 3$$</p>\n<p>Hence, $${l \\over {{e^2}}} = {3 \\over {3/4}} = 4$$</p>"
+    },
+    {
+      "_type": "numerical",
+      "body": "<p>Let P<sub>1</sub> be a parabola with vertex (3, 2) and focus (4, 4) and P<sub>2</sub> be its mirror image with respect to the line x + 2y = 6. Then the directrix of P<sub>2</sub> is x + 2y = ____________.</p>",
+      "answer": "10",
+      "explanation": "<p>Focus = (4, 4) and vertex = (3, 2)</p>\n<p>$$\\therefore$$ Point of intersection of directrix with axis of parabola = A = (2, 0)</p>\n<p>Image of A(2, 0) with respect to line x + 2y = 6 is B(x<sub>2</sub>, y<sub>2</sub>)</p>\n<p>$$\\therefore$$ $${{{x_2} - 2} \\over 1} = {{{y_2} - 0} \\over 2} = {{ - 2(2 + 0 - 6)} \\over 5}$$</p>\n<p>$$\\therefore$$ $$B({x_2},\\,{y_2}) = \\left( {{{18} \\over 5},{{16} \\over 5}} \\right)$$.</p>\n<p>Point B is point of intersection of direction with axes of parabola P<sub>2</sub>.</p>\n<p>$$\\therefore$$ $$x + 2y = \\lambda $$ must have point $$\\left( {{{18} \\over 5},{{16} \\over 5}} \\right)$$</p>\n<p>$$\\therefore$$ $$x + 2y = 10$$</p>"
+    },
+    {
+      "_type": "numerical",
+      "body": "A tangent line L is drawn at the point (2, $$-$$4) on the parabola y<sup>2</sup> = 8x. If the line L is also tangent to the circle x<sup>2</sup>  + y<sup>2</sup> = a, then 'a' is equal to ___________.",
+      "answer": "2",
+      "explanation": "tangent of y<sup>2</sup> = 8x is y = mx + $${2 \\over m}$$<br><br>P(2, $$-$$4) $$\\Rightarrow$$ $$-$$4 = 2m + $${2 \\over m}$$<br><br>$$\\Rightarrow$$ m + $${1 \\over m}$$ = $$-$$2 $$\\Rightarrow$$ m = $$-$$1<br><br>$$\\therefore$$ tangent is y = $$-$$x $$-$$2<br><br>$$\\Rightarrow$$ x + y + 2 = 0 ...... (1)<br><br>(1) is also tangent to x<sup>2</sup> + y<sup>2</sup> = a<br><br>So, $${2 \\over {\\sqrt 2 }} = \\sqrt a  \\Rightarrow \\sqrt a  = \\sqrt 2 $$<br><br>$$\\Rightarrow$$ a = 2"
+    },
+    {
+      "_type": "numerical",
+      "body": "If the point on the curve y<sup>2</sup> = 6x, nearest to the point $$\\left( {3,{3 \\over 2}} \\right)$$ is ($$\\alpha$$, $$\\beta$$), then 2($$\\alpha$$ + $$\\beta$$) is equal to _____________.",
+      "answer": "9",
+      "explanation": "Let, $$P \\equiv \\left( {{3 \\over 2}{t^2},3t} \\right)$$ is on the curve.<br><br>Normal at point P<br><br>$$tx + y = 3t + {3 \\over 2}{t^3}$$<br><br>Passes through $$\\left( {3,{3 \\over 2}} \\right)$$<br><br>$$ \\Rightarrow 3t + {3 \\over 2} = 3t + {3 \\over 2}{t^3}$$<br><br>$$ \\Rightarrow {t^3} = 1 \\Rightarrow t = 1$$<br><br>$$P \\equiv \\left( {{3 \\over 2},3} \\right) = (\\alpha ,\\beta )$$ <br><br>$$2(\\alpha  + \\beta ) = 2\\left( {{3 \\over 2} + 3} \\right) = 9$$"
+    },
+    {
+      "_type": "numerical",
+      "body": "Let y = mx + c, m &gt; 0 be the focal chord of y<sup>2</sup> = $$-$$ 64x, which is tangent to (x + 10)<sup>2</sup> + y<sup>2</sup> = 4. Then, the value of 4$$\\sqrt 2 $$ (m + c) is equal to _____________.",
+      "answer": "34",
+      "explanation": "y<sup>2</sup> = $$-$$64x<br><br>focus : ($$-$$16, 0)<br><br>y = mx + c is focal chord<br><br>$$\\Rightarrow$$ c = 16 m ...........(1)<br><br>y = mx + c is tangent to (x + 10)<sup>2</sup> + y<sup>2</sup> = 4<br><br>$$\\Rightarrow$$ y = m(x + 10) $$\\pm$$ 2$$\\sqrt {1 + {m^2}} $$<br><br>$$\\Rightarrow$$ c = 10m $$\\pm$$ 2$$\\sqrt {1 + {m^2}} $$<br><br>$$\\Rightarrow$$ 16m = 10m $$\\pm$$ 2$$\\sqrt {1 + {m^2}} $$<br><br>$$\\Rightarrow$$ 6m = 2$$\\sqrt {1 + {m^2}} $$ (m &gt; 0)<br><br>$$\\Rightarrow$$ 9m<sup>2</sup> = 1 + m<sup>2</sup><br><br>$$\\Rightarrow$$ m = $${1 \\over {2\\sqrt 2 }}$$ &amp; c = $${8 \\over {\\sqrt 2 }}$$<br><br>$$4\\sqrt 2 (m + c) = 4\\sqrt 2 \\left( {{{17} \\over {2\\sqrt 2 }}} \\right)$$ = 34"
+    },
+    {
+      "_type": "numerical",
+      "body": "If the tangent to the curve, y = e<sup>x</sup>\n at a point\n(c, e<sup>c</sup>) and the normal to the parabola, y<sup>2</sup> = 4x\nat the point (1, 2) intersect at the same point on\nthe x-axis, then the value of c is ________ .\n",
+      "answer": "4",
+      "explanation": "For $$y = {e^x}$$<br><br>$${{dy} \\over {dx}} = {e^x}$$<br><br>$${\\left. {{{dy} \\over {dx}}} \\right|_{x = c}} = {e^c}$$<br><br>Tangent is $$y - {e^c} = {e^c}(x - c)$$<br><br>Put y = 0, x = c$$ - $$1.........(i)<br><br>For y<sup>2</sup> = 4x<br><br>$$2y{{dy} \\over {dx}} = 4 \\Rightarrow {\\left. {{{ - dx} \\over {dy}}} \\right|_{y = 2}} =  - 1$$<br><br>Normal is $$y - 2 =  - 1(x - 1)$$<br><br>Put y = 0, x = 3 ...........(ii)<br><br>From (i) and (ii); $$c - 1$$ = 3<br><br>$$ \\Rightarrow $$ c = 4"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Let the point P of the focal chord PQ of the parabola $y^2=16 x$ be $(1,-4)$. If the focus of the parabola divides the chord $P Q$ in the ratio $m: n, \\operatorname{gcd}(m, n)=1$, then $m^2+n^2$ is equal to :\n",
+      "options": [
+        {
+          "key": "A",
+          "value": " 17\n"
+        },
+        {
+          "key": "B",
+          "value": " 37\n"
+        },
+        {
+          "key": "C",
+          "value": "10\n"
+        },
+        {
+          "key": "D",
+          "value": " 26"
+        }
+      ],
+      "answer": "A",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Let the focal chord PQ of the parabola $y^2=4 x$ make an angle of $60^{\\circ}$ with the positive $x$ axis, where P lies in the first quadrant. If the circle, whose one diameter is PS, S being the focus of the parabola, touches the $y$-axis at the point $(0, \\alpha)$, then $5 \\alpha^2$ is equal to:</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "15"
+        },
+        {
+          "key": "B",
+          "value": "25"
+        },
+        {
+          "key": "C",
+          "value": "20"
+        },
+        {
+          "key": "D",
+          "value": "30"
+        }
+      ],
+      "answer": "A",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>If the equation of the parabola with vertex $\\mathrm{V}\\left(\\frac{3}{2}, 3\\right)$ and the directrix $x+2 y=0$ is $\\alpha x^2+\\beta y^2-\\gamma x y-30 x-60 y+225=0$, then $\\alpha+\\beta+\\gamma$ is equal to :</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "6"
+        },
+        {
+          "key": "B",
+          "value": "8"
+        },
+        {
+          "key": "C",
+          "value": "7"
+        },
+        {
+          "key": "D",
+          "value": "9"
+        }
+      ],
+      "answer": "D",
+      "explanation": "<p>Equation of axis</p>\n<p>$$\\begin{aligned}\n& y-3=2\\left(x-\\frac{3}{2}\\right) \\\\\n& y-2 x=0\n\\end{aligned}$$</p>\n<p>foot of directrix</p>\n<p>$$\\begin{aligned}\n& \\quad y-2 x=0 \\\\\n& \\& \\quad \\Rightarrow(0,0)\\\\\n& 2 y+x=0\n\\end{aligned}$$</p>\n<p>$$\\begin{aligned}\n& \\text { Focus }=(3,6) \\\\\n& \\operatorname{PS}^2=P^2 \\\\\n& (x-3)^2+(y-6)^2=\\left(\\frac{x+2 y}{\\sqrt{5}}\\right)^2 \\\\\n& 4 x^2+y^2-4 x y-30 x-60 y+225=0 \\\\\n& \\Rightarrow \\alpha=4, \\beta=1, \\gamma=4 \\Rightarrow \\alpha+\\beta+\\gamma=9\n\\end{aligned}$$</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Let the parabola $y=x^2+\\mathrm{p} x-3$, meet the coordinate axes at the points $\\mathrm{P}, \\mathrm{Q}$ and R . If the circle C with centre at $(-1,-1)$ passes through the points $P, Q$ and $R$, then the area of $\\triangle P Q R$ is :</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "4"
+        },
+        {
+          "key": "B",
+          "value": "6"
+        },
+        {
+          "key": "C",
+          "value": "5"
+        },
+        {
+          "key": "D",
+          "value": "7"
+        }
+      ],
+      "answer": "B",
+      "explanation": "<p>The given parabola is $ y = x^2 + px - 3 $.</p>\n\n<p><p><strong>Intersection with the y-axis:</strong></p>\n<p>At $ x = 0 $, we find $ y = -3 $.</p>\n<p>Thus, the parabola intersects the y-axis at the point $ (0, -3) $.</p></p>\n<p><p><strong>Circle Equation:</strong></p>\n<p>We are given the circle has its center at $(-1, -1)$ and it passes through the points where the parabola intersects the axes. The radius can be found using the distance from the center to any given point the circle passes through. Using $ (0, -3) $:</p>\n<p>$    \\text{Radius} = \\sqrt{(0 + 1)^2 + (-3 + 1)^2} = \\sqrt{1^2 + (-2)^2} = \\sqrt{5}    $</p>\n<p>Therefore, the equation of the circle is:</p>\n<p>$    (x + 1)^2 + (y + 1)^2 = 5    $</p>\n<p>This simplifies to:</p>\n<p>$    x^2 + 2x + 1 + y^2 + 2y + 1 = 5    $</p>\n<p>$    x^2 + y^2 + 2x + 2y + 2 = 5    $</p>\n<p>$    x^2 + y^2 + 2x + 2y - 3 = 0    $</p></p>\n<p><p><strong>Intersection with the x-axis:</strong></p>\n<p>When $ y = 0 $, solving the quadratic $ x^2 + 2x - 3 = 0 $ gives:</p>\n<p>$    (x + 3)(x - 1) = 0    $</p>\n<p>So, $ x = -3 $ or $ x = 1 $.</p>\n<p>Thus, the intersection points on the x-axis are $(-3, 0)$ and $(1, 0)$.</p></p>\n<p><p><strong>Vertices of Triangle $\\triangle PQR$:</strong></p>\n<p>The vertices of the triangle formed are $ P = (0, -3) $, $ Q = (-3, 0) $, and $ R = (1, 0) $.</p></p>\n<p><p><strong>Area of $\\triangle PQR$:</strong></p>\n<p>Use the determinant formula to find the area of the triangle:</p>\n<p>$    \\text{Area} = \\frac{1}{2} \\left| \\begin{array}{ccc}     0 & -3 & 1 \\\\     -3 & 0 & 1 \\\\     1 & 0 & 1     \\end{array} \\right|    $</p>\n<p>Calculate the determinant:</p>\n<p>$    = \\frac{1}{2} \\left( (0)(0)(1) + (-3)(1)(1) + (1)(-3)(1) - (1)(0)(1) - (-3)(1)(0) - (0)(-3)(1) \\right)    $</p>\n<p>Simplify:</p>\n<p>$    = \\frac{1}{2} \\left( 0 - 3 + 3 + 0 \\right) = \\frac{1}{2} (12) = 6    $</p></p>\n\n<p>Thus, the area of $\\triangle PQR$ is 6.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Let $$P Q$$ be a chord of the parabola $$y^2=12 x$$ and the midpoint of $$P Q$$ be at $$(4,1)$$. Then, which of the following point lies on the line passing through the points $$\\mathrm{P}$$ and $$\\mathrm{Q}$$ ?</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$(3,-3)$$\n"
+        },
+        {
+          "key": "B",
+          "value": "$$\\left(\\frac{1}{2},-20\\right)$$\n"
+        },
+        {
+          "key": "C",
+          "value": "$$(2,-9)$$\n"
+        },
+        {
+          "key": "D",
+          "value": "$$\\left(\\frac{3}{2},-16\\right)$$"
+        }
+      ],
+      "answer": "B",
+      "explanation": "<p>$$y^2=12 x$$</p>\n<p>Chord $$P Q$$ having mid-point $$(x_1, y_1)=(4,1)$$ equation of chord $$P Q$$</p>\n<p>$$\\begin{aligned}\n& T=S_1 \\\\\n& y y_1-12 \\frac{\\left(x+x_1\\right)}{2}=y_1^2-12 x_1 \\\\\n& y-6(x+4)=1-12 \\times 4 \\\\\n& y-6 x-24=-47 \\\\\n& y-6 x+23=0\n\\end{aligned}$$</p>\n<p>From option (4) $$x=\\frac{1}{2}$$ & $$y=-20$$</p>\n<p>$$-20-6 \\times \\frac{1}{2}+23=0$$</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "If the shortest distance of the parabola $y^2=4 x$ from the centre of the circle $x^2+y^2-4 x-16 y+64=0$ is $\\mathrm{d}$, then $\\mathrm{d}^2$ is equal to :",
+      "options": [
+        {
+          "key": "A",
+          "value": "16"
+        },
+        {
+          "key": "B",
+          "value": "24"
+        },
+        {
+          "key": "C",
+          "value": "20"
+        },
+        {
+          "key": "D",
+          "value": "36"
+        }
+      ],
+      "answer": "C",
+      "explanation": "<p>Equation of normal to parabola</p>\n<p>$$\\mathrm{y=m x-2 m-m^3}$$</p>\n<p>this normal passing through center of circle $$(2,8)$$</p>\n<p>$$\\begin{aligned}\n& 8=2 \\mathrm{~m}-2 \\mathrm{~m}-\\mathrm{m}^3 \\\\\n& \\mathrm{~m}=-2\n\\end{aligned}$$</p>\n<p>So point $$\\mathrm{P}$$ on parabola $$\\Rightarrow\\left(\\mathrm{am}^2,-2 \\mathrm{am}\\right)=(4,4)$$</p>\n<p>And $$\\mathrm{C}=(2,8)$$</p>\n<p>$$\\begin{aligned}\n& \\mathrm{PC}=\\sqrt{4+16}=\\sqrt{20} \\\\\n& \\mathrm{~d}^2=20\n\\end{aligned}$$</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Let $$R$$ be the focus of the parabola $$y^{2}=20 x$$ and the line $$y=m x+c$$ intersect the parabola at two points $$P$$ and $$Q$$. \n<br/><br/>Let the point $$G(10,10)$$ be the centroid of the triangle $$P Q R$$. If $$c-m=6$$, then $$(P Q)^{2}$$ is :</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "317"
+        },
+        {
+          "key": "B",
+          "value": "325"
+        },
+        {
+          "key": "C",
+          "value": "346"
+        },
+        {
+          "key": "D",
+          "value": "296"
+        }
+      ],
+      "answer": "B",
+      "explanation": "$$\ny^2=20 x, y=m x+\\mathrm{c}\n$$\n<br/><br/>Put value of $x$\n<br/><br/>$$\n\\begin{aligned}\n& y^2=20\\left(\\frac{y-c}{m}\\right) \\\\\\\\\n& \\Rightarrow y^2-\\frac{20}{m} y+\\frac{20}{m} c=0 .......(i)\n\\end{aligned}\n$$\n<br/><br/>Since, centroid $=(10,10)$\n<br/><br/>$$\n\\begin{aligned}\n& \\text { So, } \\frac{y_1+y_2+0}{3}=10 \\\\\\\\\n& \\Rightarrow y_1+y_2=30\n\\end{aligned}\n$$\n<br/><br/>From (1),\n<br/><br/>$$\n\\text { Sum of roots }=\\frac{20}{m}=30 \\Rightarrow m=\\frac{2}{3}\n$$\n<br/><br/>Also, $c-m=6 \\Rightarrow c=6+\\frac{2}{3}=\\frac{20}{3}$\n<br/><br/>Now, the equation is :\n<br/><br/>$$\n\\begin{aligned}\n& y^2-\\frac{20}{2} \\times 3 y+\\frac{20}{2} \\times 3 \\times \\frac{20}{3}=0 \\\\\\\\\n& \\Rightarrow y^2-30 y+200=0 \\\\\\\\\n& \\Rightarrow y^2-20 y-10 y+200=0 \\\\\\\\\n& \\Rightarrow(y-20)(y-10)=0 \\\\\\\\\n& \\Rightarrow y=10,20 \\Rightarrow x=5, x=20 \\\\\\\\\n& \\therefore P \\equiv(5,10), Q \\equiv(20,20) \\\\\\\\\n& \\text { So, }(P Q)^2=(20-5)^2+(20-10)^2 \\\\\\\\\n& =225+100=325\n\\end{aligned}\n$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Let $$\\mathrm{y}=f(x)$$ represent a parabola with focus $$\\left(-\\frac{1}{2}, 0\\right)$$ and directrix $$y=-\\frac{1}{2}$$. Then \n<br/><br/>$$S=\\left\\{x \\in \\mathbb{R}: \\tan ^{-1}(\\sqrt{f(x)})+\\sin ^{-1}(\\sqrt{f(x)+1})=\\frac{\\pi}{2}\\right\\}$$ :</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "is an empty set"
+        },
+        {
+          "key": "B",
+          "value": "contains exactly one element"
+        },
+        {
+          "key": "C",
+          "value": "contains exactly two elements"
+        },
+        {
+          "key": "D",
+          "value": "is an infinite set"
+        }
+      ],
+      "answer": "C",
+      "explanation": "$\\left(x+\\frac{1}{2}\\right)^{2}=\\left(y+\\frac{1}{4}\\right)$\n\n<br/><br/>$y=\\left(x^{2}+x\\right)$\n\n<br/><br/>$\\tan ^{-1} \\sqrt{\\mathrm{x}(\\mathrm{x}+1)}+\\sin ^{-1} \\sqrt{\\mathrm{x}^{2}+\\mathrm{x}+1}=\\pi / 2$\n\n<br/><br/>$0 \\leq \\mathrm{x}^{2}+\\mathrm{x}+1 \\leq 1$\n\n<br/><br/>$x^{2}+x \\leq 0$\n\n<br/><br/>Also $x^{2}+x \\geq 0$\n\n<br/><br/>$\\therefore \\mathrm{x}^{2}+\\mathrm{x}=0 \\Rightarrow \\mathrm{x}=0,-1$\n\n<br/><br/>$\\mathrm{S}$ contains 2 element."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Let $A$ be a point on the $x$-axis. Common tangents are drawn from $A$ to the curves $x^2+y^2=8$ and $y^2=16 x$. If one of these tangents touches the two curves at $Q$ and $R$, then $(Q R)^2$ is equal to :",
+      "options": [
+        {
+          "key": "A",
+          "value": "76"
+        },
+        {
+          "key": "B",
+          "value": "81"
+        },
+        {
+          "key": "C",
+          "value": "64"
+        },
+        {
+          "key": "D",
+          "value": "72"
+        }
+      ],
+      "answer": "D",
+      "explanation": "<p>Let a tangent on $${y^2} = 16x$$ be $$y = mx + {4 \\over m}$$</p>\n<p>For common to $${x^2} + {y^2} = 8$$</p>\n<p>$${4 \\over m} = 2\\sqrt 2 (1 + {m^2})$$</p>\n<p>$$ \\Rightarrow {2 \\over {{m^2}}} = 1 + {m^2} \\Rightarrow m = \\, \\pm 1$$</p>\n<p>Taking one of the tangent $$y = x + 4$$</p>\n<p>Point of tangency with $${y^2} = 4x$$</p>\n<p>$${x^2} + 8 + 16 = 4x \\Rightarrow x = 4$$ & $$y = 8$$</p>\n<p>$$\\therefore$$ $$Q(4,8)$$</p>\n<p>and for $${x^2} + {y^2} = 8$$</p>\n<p>$$2{x^2} + 8x + 8 = 0$$</p>\n<p>$${x^2} + 4x + 4 = 8 \\Rightarrow x =  - 2,y = 2 \\Rightarrow R = ( - 2,2)$$</p>\n<p>$${(QR)^2} = {6^2} + {6^2} = 72$$</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The parabolas : $a x^2+2 b x+c y=0$ and $d x^2+2 e x+f y=0$ intersect on the line $y=1$. If $a, b, c, d, e, f$ are positive real numbers and $a, b, c$ are in G.P., then :",
+      "options": [
+        {
+          "key": "A",
+          "value": "$\\frac{d}{a}, \\frac{e}{b}, \\frac{f}{c}$ are in A.P."
+        },
+        {
+          "key": "B",
+          "value": "$\\frac{d}{a}, \\frac{e}{b}, \\frac{f}{c}$ are in G.P."
+        },
+        {
+          "key": "C",
+          "value": "$d, e, f$ are in A.P."
+        },
+        {
+          "key": "D",
+          "value": "$d, e, f$ are in G.P."
+        }
+      ],
+      "answer": "A",
+      "explanation": "<p>Let point of intersection be ($$\\alpha,1$$)</p>\n<p>$$\\alpha x^2+2b\\alpha+c=0$$ ..... (i)</p>\n<p>and $$d\\alpha^2+2e\\alpha+f=0$$ .... (ii)</p>\n<p>$$\\Rightarrow a\\alpha^2+2\\sqrt{ac}\\alpha+c=0$$ ($$\\because$$ $$b^2=ac$$)</p>\n<p>$${\\left( {\\sqrt a \\alpha  + \\sqrt c } \\right)^2} = 0$$</p>\n<p>$$\\alpha  =  - \\sqrt {{c \\over a}} $$</p>\n<p>Put the value of $$\\alpha$$ in (ii),</p>\n<p>$$d{c \\over a} - 2e\\sqrt {{c \\over a}}  + f = 0$$</p>\n<p>$${d \\over a} - {{2e} \\over {\\sqrt {ac} }} + {f \\over c} = 0$$</p>\n<p>$${d \\over a} + {f \\over c} = 2{e \\over b}$$</p>\n<p>$${d \\over a},{e \\over b},{f \\over c}$$ are in A.P.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>If $$\\mathrm{P}(\\mathrm{h}, \\mathrm{k})$$ be a point on the parabola $$x=4 y^{2}$$, which is nearest to the point $$\\mathrm{Q}(0,33)$$, then the distance of $$\\mathrm{P}$$ from the directrix of the parabola $$\\quad y^{2}=4(x+y)$$ is equal to :</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "8"
+        },
+        {
+          "key": "B",
+          "value": "2"
+        },
+        {
+          "key": "C",
+          "value": "6"
+        },
+        {
+          "key": "D",
+          "value": "4"
+        }
+      ],
+      "answer": "C",
+      "explanation": "<p>Equation of normal</p>\n<p>$$y =  - tx + 2.{1 \\over {16}}t + {1 \\over {16}}{t^3}$$</p>\n<p>$$33 = {t \\over 8} + {{{t^3}} \\over {16}}$$</p>\n<p>$$ \\Rightarrow {t^3} + 2t = 528$$</p>\n<p>$$t = 8$$</p>\n<p>$$(a{t^2},2at) = (4,1)$$</p>\n<p>Distance from $$x =  - 2$$</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>If the tangent at a point P on the parabola $$y^2=3x$$ is parallel to the line $$x+2y=1$$ and the tangents at the points Q and R on the ellipse $$\\frac{x^2}{4}+\\frac{y^2}{1}=1$$ are perpendicular to the line $$x-y=2$$, then the area of the triangle PQR is :</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$\\frac{9}{\\sqrt5}$$"
+        },
+        {
+          "key": "B",
+          "value": "$$3\\sqrt5$$"
+        },
+        {
+          "key": "C",
+          "value": "$$5\\sqrt3$$"
+        },
+        {
+          "key": "D",
+          "value": "$$\\frac{3}{2}\\sqrt5$$"
+        }
+      ],
+      "answer": "B",
+      "explanation": "<p>$$P \\equiv \\left( {{A \\over {{m^2}}},{{2A} \\over m}} \\right)$$ where $$\\left( {A = {3 \\over 4},m = {{ - 1} \\over 2}} \\right)$$</p>\n<p>& $$Q,R = \\left( { \\mp \\,{{{a^2}{m_1}} \\over {{a^2}m_1^2 + {b^2}}},{{ \\mp \\,.\\,{b^2}} \\over {\\sqrt {{a^2}m_1^2 + {b^2}} }}} \\right)$$</p>\n<p>Where $${a^2} = 4,{b^2} = 1$$ and $${m_1} = 1$$</p>\n<p>$$\\therefore$$ $$P \\equiv (3, - 3)$$</p>\n<p>$$Q \\equiv \\left( {{{ - 4} \\over {\\sqrt 5 }},{{ - 1} \\over {\\sqrt 5 }}} \\right)$$ & $$R\\left( {{4 \\over {\\sqrt 5 }},{1 \\over {\\sqrt 5 }}} \\right)$$</p>\n<p>Area $$ = {1 \\over 2}\\left| {\\matrix{\n   3 & { - 3} & 1  \\cr \n   {{{ - 4} \\over {\\sqrt 5 }}} & {{{ - 1} \\over {\\sqrt 5 }}} & 1  \\cr \n   {{4 \\over {\\sqrt 5 }}} & {{1 \\over {\\sqrt 5 }}} & 1  \\cr \n\n } } \\right| = {1 \\over {10}}\\left| {\\matrix{\n   3 & { - 3} & 1  \\cr \n   { - 4} & { - 1} & {\\sqrt 5 }  \\cr \n   0 & 0 & {2\\sqrt 5 }  \\cr \n\n } } \\right|$$</p>\n<p>$$ = {{2\\sqrt 5 } \\over {10}}( - 15) = 3\\sqrt 5 $$</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>The distance of the point $$(6,-2\\sqrt2)$$ from the common tangent $$\\mathrm{y=mx+c,m > 0}$$, of the curves $$x=2y^2$$ and $$x=1+y^2$$ is :</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$\\frac{1}{3}$$"
+        },
+        {
+          "key": "B",
+          "value": "5"
+        },
+        {
+          "key": "C",
+          "value": "$$\\frac{14}{3}$$"
+        },
+        {
+          "key": "D",
+          "value": "5$$\\sqrt3$$"
+        }
+      ],
+      "answer": "B",
+      "explanation": "$$\n\\begin{aligned}\n& y^2=\\frac{x}{2} \\Rightarrow \\text { tangent } y=m x+\\frac{1}{8 m} \\\\\\\\\n& y^2=x-1 \\Rightarrow \\text { tangent } y=m(x-1)+\\frac{1}{4 m} \\\\\\\\\n& \\text { For common tangent } \\frac{1}{8 m}=-m+\\frac{1}{4 m} \\\\\\\\\n& \\Rightarrow 1=-8 m^2+2 \\\\\\\\\n& \\because m>0 \\Rightarrow m=\\frac{1}{2 \\sqrt{2}} \\\\\\\\\n& \\Rightarrow \\text { Common tangent is } y=\\frac{x}{2 \\sqrt{2}}+\\frac{1}{2 \\sqrt{2}} \\\\\\\\\n& \\Rightarrow x-2 \\sqrt{2} y+1=0\n\\end{aligned}\n$$<br/><br/>\nDistance of point $(6,-2 \\sqrt{2})$ from common tangent $=5$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>If the length of the latus rectum of a parabola, whose focus is $$(a, a)$$ and the tangent at its vertex is $$x+y=a$$, is 16, then $$|a|$$ is equal to :</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$2 \\sqrt{2}$$"
+        },
+        {
+          "key": "B",
+          "value": "$$2 \\sqrt{3}$$"
+        },
+        {
+          "key": "C",
+          "value": "$$4 \\sqrt{2}$$"
+        },
+        {
+          "key": "D",
+          "value": "4"
+        }
+      ],
+      "answer": "C",
+      "explanation": "<p>Equation of tangent at vertex : $$L \\equiv x + y - a = 0$$</p>\n<p>Focus : $$F \\equiv (a,a)$$</p>\n<p>Perpendicular distance of L from F</p>\n<p>$$ = \\left| {{{a + a - a} \\over {\\sqrt 2 }}} \\right| = \\left| {{a \\over {\\sqrt 2 }}} \\right|$$</p>\n<p>Length of latus rectum $$ = 4\\left| {{a \\over {\\sqrt 2 }}} \\right|$$</p>\n<p>Given $$4\\,.\\,\\left| {{a \\over {\\sqrt 2 }}} \\right| = 16$$</p>\n<p>$$ \\Rightarrow |a| = 4\\sqrt 2 $$</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Let $$P(a, b)$$ be a point on the parabola $$y^{2}=8 x$$ such that the tangent at $$P$$ passes through the centre of the circle $$x^{2}+y^{2}-10 x-14 y+65=0$$. Let $$A$$ be the product of all possible values of $$a$$ and $$B$$ be the product of all possible values of $$b$$. Then the value of $$A+B$$ is equal to :</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "0"
+        },
+        {
+          "key": "B",
+          "value": "25"
+        },
+        {
+          "key": "C",
+          "value": "40"
+        },
+        {
+          "key": "D",
+          "value": "65"
+        }
+      ],
+      "answer": "D",
+      "explanation": "<p>Centre of circle $${x^2} + {y^2} - 10x - 14y + 65 = 0$$ is at (5, 7).</p>\n<p>Let the equation of tangent to $${y^2} = 8x$$ is</p>\n<p>$$yt = x + 2{t^2}$$</p>\n<p>which passes through (5, 7)</p>\n<p>$$7t = 5 + 2{t^2}$$</p>\n<p>$$ \\Rightarrow 2{t^2} - 7t + 5 = 0$$</p>\n<p>$$t = 1,{5 \\over 2}$$</p>\n<p>$$A = 2 \\times {1^2} \\times 2 \\times {\\left( {{5 \\over 2}} \\right)^2} = 25$$</p>\n<p>$$B = 2 \\times 2 \\times 1 \\times 2 \\times 2 \\times {5 \\over 2} = 40$$</p>\n<p>$$A + B = 65$$</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Let $$\\mathrm{P}$$ and $$\\mathrm{Q}$$ be any points on the curves $$(x-1)^{2}+(y+1)^{2}=1$$ and $$y=x^{2}$$, respectively. The distance between $$P$$ and $$Q$$ is minimum for some value of the  abscissa of $$P$$ in the interval :</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$\\left(0, \\frac{1}{4}\\right)$$"
+        },
+        {
+          "key": "B",
+          "value": "$$\\left(\\frac{1}{2}, \\frac{3}{4}\\right)$$"
+        },
+        {
+          "key": "C",
+          "value": "$$\\left(\\frac{1}{4}, \\frac{1}{2}\\right)$$"
+        },
+        {
+          "key": "D",
+          "value": "$$\\left(\\frac{3}{4}, 1\\right)$$"
+        }
+      ],
+      "answer": "C",
+      "explanation": "<p>$$y = mx + 2a + {1 \\over {{m^2}}}$$ (Equation of normal to $${x^2} = 4ay$$ in slope form) through $$(1, - 1)$$.</p>\n<p>$$4{m^3} + 6{m^2} + 1 = 0$$</p>\n<p>$$ \\Rightarrow m \\simeq  - 1.6$$</p>\n<p>Slope of normal $$ \\simeq {{ - 8} \\over 5} = \\tan \\theta $$</p>\n<p>$$ \\Rightarrow \\cos \\theta  \\simeq {{ - 5} \\over {\\sqrt {89} }},\\,\\sin \\theta  \\simeq {8 \\over {\\sqrt {89} }}$$</p>\n<p>$${x_p} = 1 + \\cos \\theta  \\simeq 1 - {5 \\over {\\sqrt {89} }} \\in \\left( {{1 \\over 4},{1 \\over 2}} \\right)$$</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>The equation of a common tangent to the parabolas $$y=x^{2}$$ and $$y=-(x-2)^{2}$$ is</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$y=4(x-2)$$"
+        },
+        {
+          "key": "B",
+          "value": "$$y=4(x-1)$$"
+        },
+        {
+          "key": "C",
+          "value": "$$y=4(x+1)$$"
+        },
+        {
+          "key": "D",
+          "value": "$$y=4(x+2)$$"
+        }
+      ],
+      "answer": "B",
+      "explanation": "<p>Equation of tangent of slope $$m$$ to $$y$$ $$= x^2$$</p>\n<p>$$y = mx - {1 \\over 4}{m^2}$$</p>\n<p>Equation of tangent of slope $$m$$ to $$y =  - {(x - 2)^2}$$</p>\n<p>$$y = m(x - 2) + {1 \\over 4}{m^2}$$</p>\n<p>If both equation represent the same line</p>\n<p>$${1 \\over 4}{m^2} - 2m =  - {1 \\over 4}{m^2}$$</p>\n<p>$$m = 0,\\,4$$</p>\n<p>So, equation of tangent</p>\n<p>$$y = 4x - 4$$</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>If vertex of a parabola is (2, $$-$$1) and the equation of its directrix is 4x $$-$$ 3y = 21, then the length of its latus rectum is :</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "2"
+        },
+        {
+          "key": "B",
+          "value": "8"
+        },
+        {
+          "key": "C",
+          "value": "12"
+        },
+        {
+          "key": "D",
+          "value": "16"
+        }
+      ],
+      "answer": "B",
+      "explanation": "<p>Vertex of Parabola : (2, $$-$$1)</p>\n<p>and directrix : 4x $$-$$ 3y = 21</p>\n<p>Distance of vertex from the directrix</p>\n<p>$$a = \\left| {{{8 + 3 - 21} \\over {\\sqrt {25} }}} \\right| = 2$$</p>\n<p>$$\\therefore$$ length of latus rectum = 4a = 8</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>If the equation of the parabola, whose vertex is at (5, 4) and the directrix is $$3x + y - 29 = 0$$, is $${x^2} + a{y^2} + bxy + cx + dy + k = 0$$, then $$a + b + c + d + k$$ is equal to :</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "575"
+        },
+        {
+          "key": "B",
+          "value": "$$-$$575"
+        },
+        {
+          "key": "C",
+          "value": "576"
+        },
+        {
+          "key": "D",
+          "value": "$$-$$576"
+        }
+      ],
+      "answer": "D",
+      "explanation": "<p>Given vertex is (5, 4) and directrix 3x + y $$-$$ 29 = 0</p>\n<p>Let foot of perpendicular of (5, 4) on directrix is (x<sub>1</sub>, y<sub>1</sub>)</p>\n<p>$${{{x_1} - 5} \\over 3} = {{{y_1} - 4} \\over 1} = {{ - ( - 10)} \\over {10}}$$</p>\n<p>$$\\therefore$$ $$({x_1},\\,{y_1}) \\equiv (8,\\,5)$$</p>\n<p>So, focus of parabola will be $$S = (2,3)$$</p>\n<p>Let P(x, y) be any point on parabola, then</p>\n<p>$${(x - 2)^2} + {(y - 3)^2} = {{{{(3x + y - 29)}^2}} \\over {10}}$$</p>\n<p>$$ \\Rightarrow 10({x^2} + {y^2} - 4x - 6y + 13) = 9{x^2} + {y^2} + 841 + 6xy - 58y - 174x$$</p>\n<p>$$ \\Rightarrow {x^2} + 9{y^2} - 6xy + 134x - 2y - 711 = 0$$</p>\n<p>and given parabola</p>\n<p>$${x^2} + a{y^2} + bxy + cx + dy + k = 0$$</p>\n<p>$$\\therefore$$ a = 9, b = $$-$$6, c = 134, d = $$-$$2, k = $$-$$711</p>\n<p>$$\\therefore$$ $$a + b + c + d + k =  - 576$$</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Let the normal at the point on the parabola y<sup>2</sup> = 6x pass through the point (5, $$-$$8). If the tangent at P to the parabola intersects its directrix at the point Q, then the ordinate of the point Q is :</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$-$$3"
+        },
+        {
+          "key": "B",
+          "value": "$$-$$$${{9} \\over 4}$$"
+        },
+        {
+          "key": "C",
+          "value": "$$-$$$${{5} \\over 2}$$"
+        },
+        {
+          "key": "D",
+          "value": "$$-$$2"
+        }
+      ],
+      "answer": "B",
+      "explanation": "<p>Let P(at<sup>2</sup>, 2at) where a = $${3 \\over 2}$$</p>\n<p>T : yt = x + at<sup>2</sup> So point Q is $$\\left( { - a,\\,at - {a \\over t}} \\right)$$</p>\n<p>N : y = $$-$$tx + 2at + at<sup>3</sup> passes through (5, $$-$$8)</p>\n<p>$$-$$8 = $$-$$5t + 3t + $${3 \\over 2}$$t<sup>3</sup></p>\n<p>$$\\Rightarrow$$ 3t<sup>3</sup> $$-$$ 4t + 16 = 0</p>\n<p>$$\\Rightarrow$$ (t + 2) (3t<sup>2</sup> $$-$$ 6t + 8) = 0</p>\n<p>$$\\Rightarrow$$ t = 2</p>\n<p>So ordinate of point Q is $$-$$$${9 \\over 4}$$.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>If the line $$y = 4 + kx,\\,k > 0$$, is the tangent to the parabola $$y = x - {x^2}$$ at the point P and V is the vertex of the parabola, then the slope of the line through P and V is :</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "$${3 \\over 2}$$"
+        },
+        {
+          "key": "B",
+          "value": "$${26 \\over 9}$$"
+        },
+        {
+          "key": "C",
+          "value": "$${5 \\over 2}$$"
+        },
+        {
+          "key": "D",
+          "value": "$${23 \\over 6}$$"
+        }
+      ],
+      "answer": "C",
+      "explanation": "<p>$$\\because$$ Line $$y = kx + 4$$ touches the parabola $$y = x - {x^2}$$.</p>\n<p>So, $$kx + 4 = x - {x^2} \\Rightarrow {x^2} + (k - 1)x + 4 = 0$$ has only one root</p>\n<p>$${(k - 1)^2} = 16 \\Rightarrow k = 5$$ or $$-$$3 but $$k > 0$$</p>\n<p>So, $$k = 5$$.</p>\n<p>And hence $${x^2} + 4x + 4 = 0 \\Rightarrow x =  - 2$$</p>\n<p>So, P($$-$$2, $$-$$6) and V is $$\\left( {{1 \\over 2},{2 \\over 4}} \\right)$$</p>\n<p>Slope of $$PV = {{{1 \\over 4} + 6} \\over {{1 \\over 2} + 2}} = {5 \\over 2}$$</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>If $$y = {m_1}x + {c_1}$$ and $$y = {m_2}x + {c_2}$$, $${m_1} \\ne {m_2}$$ are two common tangents of circle $${x^2} + {y^2} = 2$$ and parabola y<sup>2</sup> = x, then the value of $$8|{m_1}{m_2}|$$ is equal to :</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$3 + 4\\sqrt 2 $$"
+        },
+        {
+          "key": "B",
+          "value": "$$ - 5 + 6\\sqrt 2 $$"
+        },
+        {
+          "key": "C",
+          "value": "$$ - 4 + 3\\sqrt 2 $$"
+        },
+        {
+          "key": "D",
+          "value": "$$7 + 6\\sqrt 2 $$"
+        }
+      ],
+      "answer": "C",
+      "explanation": "<p>Let tangent to $${y^2} = x$$ be</p>\n<p>$$y = mx + {1 \\over {4m}}$$</p>\n<p>For it being tangent to circle.</p>\n<p>$$\\left| {{{{1 \\over 4}m} \\over {\\sqrt {1 + {m^2}} }}} \\right| = \\sqrt 2 $$</p>\n<p>$$ \\Rightarrow 32{m^4} + 32{m^2} - 1 = 0$$</p>\n<p>$$ \\Rightarrow {m^2} = {{ - 32 \\pm \\sqrt {{{(32)}^2} + 4(32)} } \\over {64}}$$</p>\n<p>$$ \\Rightarrow 8{m_1}{m_2} =  - 4 + 3\\sqrt 2 $$</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Let $$x = 2t$$, $$y = {{{t^2}} \\over 3}$$ be a conic. Let S be the focus and B be the point on the axis of the conic such that $$SA \\bot BA$$, where A is any point on the conic. If k is the ordinate of the centroid of the $$\\Delta$$SAB, then $$\\mathop {\\lim }\\limits_{t \\to 1} k$$ is equal to :</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "$${{17} \\over {18}}$$"
+        },
+        {
+          "key": "B",
+          "value": "$${{19} \\over {18}}$$"
+        },
+        {
+          "key": "C",
+          "value": "$${{11} \\over {18}}$$"
+        },
+        {
+          "key": "D",
+          "value": "$${{13} \\over {18}}$$"
+        }
+      ],
+      "answer": "D",
+      "explanation": "<p>$$x = 2t,\\,y = {2 \\over 3}$$</p>\n<p>$$t \\to 1\\,\\,\\,A \\equiv \\left( {2,{1 \\over 3}} \\right)$$</p>\n<p>Given conic is $${x^2} = 12y \\Rightarrow S \\equiv (0,3)$$</p>\n<p>Let $$B \\equiv (0,\\beta )$$</p>\n<p>Given $$SA\\, \\bot \\,BA$$</p>\n<p>$$\\left( {{{{1 \\over 3}} \\over {2 - 3}}} \\right)\\left( {{{\\beta  - {1 \\over 3}} \\over { - 2}}} \\right) =  - 1$$</p>\n<p>$$ \\Rightarrow \\left( {\\beta  - {1 \\over 3}} \\right){1 \\over 3} =  - 2$$</p>\n<p>$$ \\Rightarrow \\beta  = {1 \\over 3}\\left( {{{ - 17} \\over 3}} \\right)$$</p>\n<p>$$\\mathop {Ordinate\\,of\\,centroid}\\limits_{(as\\,t \\to 1)}  = k = {{\\beta  + {1 \\over 3} + 3} \\over 3}$$</p>\n<p>$$ = {{{{ - 17} \\over 9} + {{10} \\over 3}} \\over 3} = {{13} \\over {18}}$$</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>A particle is moving in the xy-plane along a curve C passing through the point (3, 3). The tangent to the curve C at the point P meets the x-axis at Q. If the y-axis bisects the segment PQ, then C is a parabola with :</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "length of latus rectum 3"
+        },
+        {
+          "key": "B",
+          "value": "length of latus rectum 6"
+        },
+        {
+          "key": "C",
+          "value": "focus $$\\left( {{4 \\over 3},0} \\right)$$"
+        },
+        {
+          "key": "D",
+          "value": "focus $$\\left( {0,{3 \\over 4}} \\right)$$"
+        }
+      ],
+      "answer": "A",
+      "explanation": "<p>According to the question (Let P(x, y))</p>\n<p>$$2x - y{{dx} \\over {dy}} = 0$$</p>\n<p>($$\\because$$ equation of tangent at $$P:y - y = {{dy} \\over {dx}}(y - x)$$)</p>\n<p>$$\\therefore$$ $$2{{dy} \\over {y}} = {{dx} \\over x}$$</p>\n<p>$$ \\Rightarrow 2\\ln y = \\ln x + \\ln c$$</p>\n<p>$$ \\Rightarrow {y^2} = cx$$</p>\n<p>$$\\because$$ this curve passes through (3, 3)</p>\n<p>$$\\therefore$$ c = 3</p>\n<p>$$\\therefore$$ required parabola $${y^2} = 3x$$ and L.R = 3</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Let x<sup>2</sup> + y<sup>2</sup> + Ax + By + C = 0 be a circle passing through (0, 6) and touching the parabola y = x<sup>2</sup> at (2, 4). Then A + C is equal to ___________.</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "16"
+        },
+        {
+          "key": "B",
+          "value": "88/5"
+        },
+        {
+          "key": "C",
+          "value": "72"
+        },
+        {
+          "key": "D",
+          "value": "$$-$$8"
+        }
+      ],
+      "answer": "A",
+      "explanation": "For tangent to parabola $y=x^{2}$ at $(2,4)$\n<br/><br/>\n$$\n\\left.\\frac{d y}{d x}\\right|_{(2,4)}=4\n$$\n<br/><br/>\nEquation of tangent is\n\n$$\ny-4=4(x-2)\n$$\n<br/><br/>\n$\\Rightarrow 4 x-y-4=0$\n<br/><br/>\nFamily of circle can be given by\n<br/><br/>\n$(x-2)^{2}+(y-4)^{2}+\\lambda(4 x-y-4)=0$\n<br/><br/>\nAs it passes through $(0,6)$\n<br/><br/>\n$2^{2}+2^{2}+\\lambda(-10)=0$\n<br/><br/>\n$\\Rightarrow \\lambda=\\frac{4}{5}$\n<br/><br/>\nEquation of circle is\n<br/><br/>\n$$\n\\begin{aligned}\n&(x-2)^{2}+(y-4)^{2}+\\frac{4}{5}(4 x-y-4)=0 \\\\\\\\\n&\\Rightarrow \\left(x^{2}+y^{2}-4 x-8 y+20\\right)+\\left(\\frac{16}{5} x-\\frac{4}{5} y-\\frac{16}{5}\\right)=0 \\\\\\\\\n&A=-4+\\frac{16}{5}, C=20-\\frac{16}{5}\n\\end{aligned}\n$$\n<br/><br/>\nSo, $A+C=16$ "
+    },
+    {
+      "_type": "single_mcq",
+      "body": "If two tangents drawn from a point P to the <br>parabola y<sup>2</sup> = 16(x $$-$$ 3) are at right angles, then the locus of point P is :",
+      "options": [
+        {
+          "key": "A",
+          "value": "x + 3 = 0"
+        },
+        {
+          "key": "B",
+          "value": "x + 1 = 0"
+        },
+        {
+          "key": "C",
+          "value": "x + 2 = 0"
+        },
+        {
+          "key": "D",
+          "value": "x + 4 = 0"
+        }
+      ],
+      "answer": "B",
+      "explanation": "Locus is directrix of parabola<br><br>x $$-$$ 3 + 4 = 0 $$\\Rightarrow$$ x + 1 = 0."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A tangent and a normal are drawn at the point P(2, $$-$$4) on the parabola y<sup>2</sup> = 8x, which meet the directrix of the parabola at the points A and B respectively. If Q(a, b) is a point such that AQBP is a square, then 2a + b is equal to :",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$-$$16"
+        },
+        {
+          "key": "B",
+          "value": "$$-$$18"
+        },
+        {
+          "key": "C",
+          "value": "$$-$$12"
+        },
+        {
+          "key": "D",
+          "value": "$$-$$20"
+        }
+      ],
+      "answer": "A",
+      "explanation": "<p>Given, parabola</p>\n<p>$${y^2} = 8x$$ ...... (i)</p>\n<p>Equation of tangent at $$P(2, - 4)$$ is</p>\n<p>$$ - 4y = 4(x + 2)$$</p>\n<p>or, $$x + y + 2 = 0$$ ..... (ii)</p>\n<p>and Equation of normal to the parabola is</p>\n<p>$$x - y + C = 0$$</p>\n<p>$$\\therefore$$ Normal passes through $$(2, - 4)$$</p>\n<p>$$\\therefore$$ $$C =  - 6$$</p>\n<p>Normal : $$x - y = 6$$ ..... (iii)</p>\n<p>Equation of directrix of parabola</p>\n<p>$$x =  - 2$$ ..... (iv)</p>\n<p>Point of intersection of tangent and normal with directrix are $$x =  - 2$$ at $$A( - 2,0)$$ and $$B( - 2, - 8)$$ respectively.</p>\n<p>$$Q(a,b)$$ and $$P(2, - 4)$$ are given and AQBP is a square.</p>\n<p>Mid-point of AB = Mid-point of PQ</p>\n<p>$$ \\Rightarrow ( - 2, - 4) = \\left( {{{a + 2} \\over 2},{{b - 4} \\over 2}} \\right) \\Rightarrow a =  - 6,b =  - 4$$</p>\n<p>$$ \\Rightarrow 2a + b =  - 16$$</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Let L be a tangent line to the parabola y<sup>2</sup> = 4x $$-$$ 20 at (6, 2). If L is also a tangent to the ellipse $${{{x^2}} \\over 2} + {{{y^2}} \\over b} = 1$$, then the value of b is equal to :",
+      "options": [
+        {
+          "key": "A",
+          "value": "20"
+        },
+        {
+          "key": "B",
+          "value": "14"
+        },
+        {
+          "key": "C",
+          "value": "16"
+        },
+        {
+          "key": "D",
+          "value": "11"
+        }
+      ],
+      "answer": "B",
+      "explanation": "Parabola y<sup>2</sup> = 4x $$-$$ 20<br><br>Tangent at P(6, 2) will be <br><br>$$2y = 4\\left( {{{x + 6} \\over 2}} \\right) - 20$$<br><br>2y = 2x + 12 $$-$$ 20<br><br>2y = 2x $$-$$ 8<br><br>y = x $$-$$ 4<br><br>x $$-$$ y $$-$$ 4 = 0 ....... (1)<br><br>This is also tangent to ellipse $${{{x^2}} \\over 2} + {{{y^2}} \\over b} = 1$$<br><br>Apply c<sup>2</sup> = a<sup>2</sup>m<sup>2</sup> + b<sup>2</sup><br><br>($$-$$4)<sup>2</sup> = (2)(1) + b<br><br>b = 14"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "If the three normals drawn to the parabola, y<sup>2</sup> = 2x pass through the point (a, 0) a $$\\ne$$ 0, then 'a' must be greater than :",
+      "options": [
+        {
+          "key": "A",
+          "value": "$${1 \\over 2}$$"
+        },
+        {
+          "key": "B",
+          "value": "1"
+        },
+        {
+          "key": "C",
+          "value": "$$-$$1"
+        },
+        {
+          "key": "D",
+          "value": "$$-$$$${1 \\over 2}$$"
+        }
+      ],
+      "answer": "B",
+      "explanation": "Let the equation of the normal is <br><br>y = mx $$-$$ 2am $$-$$ am<sup>3</sup><br><br>here 4a = 2 $$ \\Rightarrow $$ a = $${1 \\over 2}$$<br><br>y = mx $$-$$ m $$-$$ $${1 \\over 2}$$m<sup>3</sup><br><br>It passing through A(a, 0) then<br><br>0 = am $$-$$ m $$-$$ $${1 \\over 2}$$m<sup>3</sup><br><br>m = 0, a $$-$$ 1 $$-$$ $${1 \\over 2}$$m<sup>2</sup> = 0<br><br>m<sup>2</sup> = 2(a $$-$$ 1) &gt; 0<br><br>$$ \\Rightarrow $$ a &gt; 1"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A tangent is drawn to the parabola y<sup>2</sup> = 6x which is perpendicular to the line 2x + y = 1. Which of the following points does NOT lie on it?",
+      "options": [
+        {
+          "key": "A",
+          "value": "(0, 3)"
+        },
+        {
+          "key": "B",
+          "value": "($$-$$6, 0)"
+        },
+        {
+          "key": "C",
+          "value": "(4, 5)"
+        },
+        {
+          "key": "D",
+          "value": "(5, 4)"
+        }
+      ],
+      "answer": "D",
+      "explanation": "Equation of tangent : $$y = mx + {3 \\over {2m}}$$<br><br>$${m_T} = {1 \\over 2}$$ ($$\\because$$ perpendicular to line $$2x + y = 1$$)<br><br>$$\\therefore$$ tangent is : $$y = {x \\over 2} + 3$$<br><br>$$ \\Rightarrow x - 2y + 6 = 0$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The centre of the circle passing through the\npoint (0, 1) and touching the parabola <br>y = x<sup>2</sup> at the point (2, 4) is :",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$\\left( {{6 \\over 5},{{53} \\over {10}}} \\right)$$"
+        },
+        {
+          "key": "B",
+          "value": "$$\\left( {{3 \\over {10}},{{16} \\over 5}} \\right)$$"
+        },
+        {
+          "key": "C",
+          "value": "$$\\left( {{{ - 53} \\over {10}},{{16} \\over 5}} \\right)$$"
+        },
+        {
+          "key": "D",
+          "value": "$$\\left( {{{ - 16} \\over 5},{{53} \\over {10}}} \\right)$$"
+        }
+      ],
+      "answer": "D",
+      "explanation": "Circle passes through A(0, 1) and B(2, 4). \n<br><br>y = x<sup>2</sup>\n<br><br>$$ \\Rightarrow $$ $${\\left. {{{dy} \\over {dx}}} \\right|_B}$$ = 4\n<br><br>tangent at (2,4) is\n<br><br>(y – 4) = 4(x – 2)\n<br><br>4x – y – 4 = 0\n<br><br>Equation of circle\n<br><br>(x - 2)<sup>2</sup>\n + (y–4)<sup>2</sup>\n + $$\\lambda $$(4x–y - 4) = 0\n<br><br>Passing through (0,1)\n<br><br>$$ \\therefore $$ 4 + 9 +\n$$\\lambda $$(–5) = 0\n<br><br>$$ \\Rightarrow $$ $$\\lambda $$ = $${{13} \\over 5}$$\n<br><br>$$ \\therefore $$ Circle is\n<br><br>x<sup>2</sup>– 4x + 4 + y<sup>2</sup>\n – 8y + 16 +\n$${{13} \\over 5}$$[4x - y - 4] = 0\n<br><br>$$ \\Rightarrow $$ x<sup>2</sup> + y<sup>2</sup> + $$\\left( {{{52} \\over 5} - 4} \\right)$$x - $$\\left( {8 + {{13} \\over 5}} \\right)$$y + 20 - $${{{52} \\over 5}}$$ = 0\n<br><br>$$ \\Rightarrow $$ x<sup>2</sup> + y<sup>2</sup> + $${{{32} \\over 5}x - {{53} \\over 5}y}$$ + $${{48} \\over 5}$$ = 0\n<br><br>$$ \\therefore $$ Centre is $$\\left( {{{ - 16} \\over 5},{{53} \\over {10}}} \\right)$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Let L<sub>1</sub>\n be a tangent to the parabola y<sup>2</sup> = 4(x + 1) <br>and L<sub>2</sub>\n be a tangent to the parabola\ny<sup>2</sup> = 8(x + 2) <br>such that L<sub>1</sub>\n and L<sub>2</sub>\n intersect at right angles. Then L<sub>1</sub>\n and L<sub>2</sub>\n meet on the straight\nline :",
+      "options": [
+        {
+          "key": "A",
+          "value": "x + 3 = 0"
+        },
+        {
+          "key": "B",
+          "value": "x + 2y = 0"
+        },
+        {
+          "key": "C",
+          "value": "x + 2 = 0"
+        },
+        {
+          "key": "D",
+          "value": "2x + 1 = 0"
+        }
+      ],
+      "answer": "A",
+      "explanation": "L<sub>1</sub> : y<sup>2</sup> = 4(x + 1)\n<br><br>Equation of tangent y = m(x + 1) + $${1 \\over m}$$ ...(1)\n<br><br>L<sub>2</sub> : y<sup>2</sup> = 8(x + 2)\n<br><br>Equation of tangent y = m'(x + 2) + $${2 \\over {m'}}$$\n<br><br>$$ \\Rightarrow $$ y = m'x + 2$$\\left( {m' + {1 \\over {m'}}} \\right)$$ ....(2)\n<br><br>Since lines intersect at right angles \n<br><br>$$ \\therefore $$ mm' = -1\n<br><br>$$ \\Rightarrow $$ m' = $${ - {1 \\over {m}}}$$\n<br><br>Putting it in equation (2)\n<br><br>y = $$ - {1 \\over m}x + 2\\left( { - {1 \\over m} - m} \\right)$$\n<br><br>$$ \\Rightarrow $$ y = $$ - {1 \\over m}x - 2\\left( {m + {1 \\over m}} \\right)$$ ....(3)\n<br><br>From equation (1) and (3)\n<br><br>m(x + 1) + $${1 \\over m}$$ = $$ - {1 \\over m}x - 2\\left( {m + {1 \\over m}} \\right)$$\n<br><br>$$ \\Rightarrow $$ $$\\left( {m + {1 \\over m}} \\right)x + 3\\left( {m + {1 \\over m}} \\right)$$ = 0\n<br><br>$$ \\therefore $$ x + 3 = 0"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "If the common tangent to the parabolas, <br>y<sup>2</sup> = 4x and x<sup>2</sup> = 4y also touches the circle, x<sup>2</sup> + y<sup>2</sup> = c<sup>2</sup>,<br> then c is equal to :",
+      "options": [
+        {
+          "key": "A",
+          "value": "$${1 \\over {\\sqrt 2 }}$$"
+        },
+        {
+          "key": "B",
+          "value": "$${1 \\over {2\\sqrt 2 }}$$"
+        },
+        {
+          "key": "C",
+          "value": "$${1 \\over 2}$$"
+        },
+        {
+          "key": "D",
+          "value": "$${1 \\over 4}$$"
+        }
+      ],
+      "answer": "A",
+      "explanation": "$$y = mx + {1 \\over m}$$ (tangent at y<sup>2</sup>\n = 4x)\n<br><br>y = mx – m<sup>2</sup>\n (tangent at x<sup>2</sup>\n = 4y)\n<br><br>$${1 \\over m} =  - {m^2}$$ (for common tangent)\n<br><br>m<sup>3</sup>\n = – 1\n<br><br>$$ \\Rightarrow $$ m = - 1\n<br><br>$$ \\therefore $$ Equation of tangent\n<br><br>y = –x –1\n<br><br>x + y + 1 = 0\n<br><br>This line touches circle whose center at (0, 0),\n<br><br>$$ \\therefore $$ apply p( Distance from center of the circle of the line ) = r ( Radius of the circle )\n<br><br>c = $$\\left| {{{0 + 0 + 1} \\over {\\sqrt 2 }}} \\right| = {1 \\over {\\sqrt 2 }}$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "If one end of a focal chord AB of the parabola\ny<sup>2</sup> = 8x is at $$A\\left( {{1 \\over 2}, - 2} \\right)$$, then the equation of\nthe tangent to it at B is :",
+      "options": [
+        {
+          "key": "A",
+          "value": "2x – y – 24 = 0"
+        },
+        {
+          "key": "B",
+          "value": "x – 2y + 8 = 0"
+        },
+        {
+          "key": "C",
+          "value": "x + 2y + 8 = 0"
+        },
+        {
+          "key": "D",
+          "value": "2x + y – 24 = 0"
+        }
+      ],
+      "answer": "B",
+      "explanation": "Given parabola y<sup>2</sup>\n = 8x\n<br><br> $$ \\therefore $$ a = 2\n<br><br>Let one end of focal chord is A(at<sup>2</sup>\n, 2at) = $$\\left( {{1 \\over 2}, - 2} \\right)$$\n<br><br>$$ \\therefore $$ 2at = -2\n<br><br>$$ \\Rightarrow $$ t = $$ - {1 \\over 2}$$\n<br><br>Other end of focal chord will be B$$\\left( {{a \\over {{t^2}}}, - {{2a} \\over t}} \\right)$$ $$ \\equiv $$ (8, 8)\n<br><br>$$ \\therefore $$ Equation of tangent at B is\n<br><br>8y = 4(x + 8) \n<br><br>$$ \\Rightarrow $$ x – 2y + 8 = 0"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "If y = mx + 4 is a tangent to both the parabolas, y<sup>2</sup> = 4x and x<sup>2</sup> = 2by, then b is equal to :",
+      "options": [
+        {
+          "key": "A",
+          "value": "-128"
+        },
+        {
+          "key": "B",
+          "value": "128"
+        },
+        {
+          "key": "C",
+          "value": "-64"
+        },
+        {
+          "key": "D",
+          "value": "-32"
+        }
+      ],
+      "answer": "A",
+      "explanation": "Given y = mx + 4 is tangent to both the parabolas.\n<br><br>$$ \\therefore $$ Applying condition of tangent\n for y<sup>2</sup>\n = 4x, we get\n<br><br>$${1 \\over m}$$ = 4\n<br><br>$$ \\Rightarrow $$ m = $${1 \\over 4}$$\n<br><br>For x<sup>2</sup>\n = 2by line y = $${x \\over 4}$$ + 4 is tangent\n<br><br>$$ \\therefore $$ x<sup>2</sup> = 2b$$\\left( {{x \\over 4} + 4} \\right)$$\n<br><br>$$ \\Rightarrow $$ x<sup>2</sup> - $${{bx} \\over 2}$$ - 8b = 0\n<br><br>For tangent to the parabola Discriminant = 0\n<br><br>$$ \\Rightarrow $$ $${{{b^2}} \\over 4}$$ + 32b = 0\n<br><br>$$ \\Rightarrow $$ b = -128"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The equation of common tangent to the curves y<sup>2</sup>\n = 16x and xy = –4, is :\n",
+      "options": [
+        {
+          "key": "A",
+          "value": "x – y + 4 = 0"
+        },
+        {
+          "key": "B",
+          "value": "x + y + 4 = 0"
+        },
+        {
+          "key": "C",
+          "value": "x – 2y + 16 = 0"
+        },
+        {
+          "key": "D",
+          "value": "2x – y + 2 = 0"
+        }
+      ],
+      "answer": "A",
+      "explanation": "Let the equation of tangent to parabola<br><br>\n y<sup>2</sup> = 16x is y = mx + $${4 \\over m}$$    ...... (1)<br><br>\nIt is given that tangent to xy = -4 .........(2)<br><br>\nSolving (1) and (2) we get<br><br>\n$$x\\left( {mx + {4 \\over m}} \\right) + 4 = 0$$<br><br>\n$$ \\Rightarrow m{x^2} + {4 \\over m}x + 4 = 0$$<br><br>\nNow for tangent D = 0 $$ \\Rightarrow {{16} \\over {{m^2}}} - 16m = 0$$<br><br>\n$$ \\Rightarrow {m^3} = 1$$ $$ \\Rightarrow $$ m = 1<br><br>\nNow putting value of m in Equation (1) <br><br>\ny = x + 4 or <b>x – y + 4 = 0</b>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The tangents to the curve y = (x – 2)<sup>2</sup> – 1 at its points of intersection with the line x – y = 3, intersect at the point :\n",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$\\left( {{5 \\over 2}, - 1} \\right)$$"
+        },
+        {
+          "key": "B",
+          "value": "$$\\left( { - {5 \\over 2}, - 1} \\right)$$"
+        },
+        {
+          "key": "C",
+          "value": "$$\\left( {{5 \\over 2},1} \\right)$$"
+        },
+        {
+          "key": "D",
+          "value": "$$\\left( { - {5 \\over 2},1} \\right)$$"
+        }
+      ],
+      "answer": "A",
+      "explanation": "Let the coordinates of C be (h, k)<br><br>\nSo the chord of contact of C w.r.t y = (x-2)<sup>2</sup> - 1 <br><br>\n$$ \\Rightarrow $$ y = x<sup>2</sup> - 4x + 3 is T = 0<br><br>\n$$y+k \\over 2$$ = xh + 3 - 2(x+h)<br><br>\n$$ \\Rightarrow $$ 2(h-2)x - y = -(6-4h-k)<br><br>\nOn comparing it with x - y = 3<br><br>\n2 (h -2) = 1 $$ \\Rightarrow $$ h = $$5 \\over 2$$<br><br>\n6 - 4h - k = -3 $$ \\Rightarrow $$ k = -1<br><br>\n$$ \\therefore $$ C = ($$5 \\over 2$$, -1)"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "If the line ax + y = c, touches both the curves x<sup>2</sup>\n + y<sup>2</sup>\n = 1 and y<sup>2</sup>\n = 4$$\\sqrt 2 $$x , then |c| is equal to : ",
+      "options": [
+        {
+          "key": "A",
+          "value": "2"
+        },
+        {
+          "key": "B",
+          "value": "$$\\sqrt 2 $$"
+        },
+        {
+          "key": "C",
+          "value": "$${1 \\over {\\sqrt 2 }}$$"
+        },
+        {
+          "key": "D",
+          "value": "$${1 \\over 2}$$"
+        }
+      ],
+      "answer": "B",
+      "explanation": "Tangent to the curve y<sup>2</sup> = 4$$\\sqrt 2$$x is y = mx + $${{\\sqrt 2 } \\over m}$$<br><br>\nIt is tangent to the circle x<sup>2</sup> + <sup>y2</sup> = 1<br><br>\n$$ \\therefore $$ $$\\left| {{{\\sqrt 2 /m} \\over {\\sqrt {1 + {m^2}} }}} \\right| = 1 \\Rightarrow m =  \\pm 1$$<br><br>\n$$ \\therefore $$  tangent are y = x + $$\\sqrt 2$$ &amp; y = – x – $$\\sqrt 2$$<br><br>\nCompare with y = – ax + c<br><br>\n$$ \\Rightarrow a =  \\pm 1 $$ &amp; $$ c =  \\pm \\sqrt 2 $$\n"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The tangent to the parabola y<sup>2</sup>\n = 4x at the point\nwhere it intersects the circle x<sup>2</sup>\n + y<sup>2</sup>\n = 5 in the\nfirst quadrant, passes through the point :\n",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$\\left( { - {1 \\over 4},{1 \\over 2}} \\right)$$"
+        },
+        {
+          "key": "B",
+          "value": "$$\\left( { - {1 \\over 3},{4 \\over 3}} \\right)$$"
+        },
+        {
+          "key": "C",
+          "value": "$$\\left( { {3 \\over 4},{7 \\over 4}} \\right)$$"
+        },
+        {
+          "key": "D",
+          "value": "$$\\left( { {1 \\over 4},{3 \\over 4}} \\right)$$"
+        }
+      ],
+      "answer": "C",
+      "explanation": "Parabola y<sup>2</sup>\n = 4x and circle x<sup>2</sup>\n + y<sup>2</sup>\n = 5 intersect with each other.\n<br><br>So, x<sup>2</sup> + 4x = 5\n<br><br>$$ \\Rightarrow $$ x<sup>2</sup> + 5x – x – 5 = 0\n<br><br>$$ \\Rightarrow $$ x(x + 5) –1(x + 5) = 0\n<br><br> x = 1, –5\n<br><br>Intersection point in 1<sup>st</sup> quadrant is = (1, 2)\n<br><br>Equation of tangent to y<sup>2</sup> = 4x at (1, 2) is\n<br><br>y(2) = 2 (x + 1)\n<br><br>$$ \\Rightarrow $$ y = x + 1 .....(1)\n<br><br>By checking each options, you can see\n<br><br>point $$\\left( { {3 \\over 4},{7 \\over 4}} \\right)$$ lies on equation (1).\n"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The equation of a tangent to the parabola, x<sup>2</sup>\n = 8y, which makes an angle $$\\theta $$ with the positive directions of x-axis, is :",
+      "options": [
+        {
+          "key": "A",
+          "value": "x = y cot $$\\theta $$ – 2 tan $$\\theta $$"
+        },
+        {
+          "key": "B",
+          "value": "y = x tan $$\\theta $$ + 2 cot $$\\theta $$"
+        },
+        {
+          "key": "C",
+          "value": "x = y cot $$\\theta $$ + 2 tan $$\\theta $$"
+        },
+        {
+          "key": "D",
+          "value": "y = x tan $$\\theta $$ – 2 cot $$\\theta $$\n"
+        }
+      ],
+      "answer": "C",
+      "explanation": "x<sup>2</sup> = 8y\n<br><br>$$ \\Rightarrow $$&nbsp;&nbsp;$${{dy} \\over {dx}} = {x \\over 4} = \\tan \\theta $$\n<br><br>$$ \\therefore $$&nbsp;&nbsp;x<sub>1</sub> = 4tan$$\\theta $$\n<br><br>y<sub>1</sub> = 2 tan<sup>2</sup> $$\\theta $$\n<br><br>Equation of tangent :-\n<br><br>y $$-$$ 2tan<sup>2</sup>$$\\theta $$ = tan$$\\theta $$ (x $$-$$ 4tan $$\\theta $$)\n<br><br>$$ \\Rightarrow $$&nbsp;&nbsp;x = y cot $$\\theta $$ + 2 tan $$\\theta $$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "If the area of the triangle whose one vertex is at the vertex of the parabola, y<sup>2</sup> + 4(x – a<sup>2</sup>) = 0 and the othertwo vertices are the points of intersection of the parabola and y-axis, is 250 sq. units, then a value of 'a' is :",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$5\\sqrt 5 $$"
+        },
+        {
+          "key": "B",
+          "value": "$${\\left( {10} \\right)^{2/3}}$$"
+        },
+        {
+          "key": "C",
+          "value": "$$5\\left( {{2^{1/3}}} \\right)$$"
+        },
+        {
+          "key": "D",
+          "value": "5"
+        }
+      ],
+      "answer": "D",
+      "explanation": "Vertex is (a<sup>2</sup>, 0)\n<br><br>y<sup>2</sup> $$=$$ $$-$$(x $$-$$ a<sup>2</sup>)  and  x $$=$$ 0 $$ \\Rightarrow $$  (0, $$ \\pm $$ 2a)\n<br><br>Area of triangle is $$ = {1 \\over 2}.$$4a.(a<sup>2</sup>) = 250\n<br><br>$$ \\Rightarrow $$&nbsp;&nbsp;a<sup>3</sup> = 125   or  a = 5"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "If the parabolas y<sup>2</sup>  = 4b(x – c) and y<sup>2</sup>  = 8ax have a common normal, then which on of the following is a valid choice for the ordered triad (a, b, c)?",
+      "options": [
+        {
+          "key": "A",
+          "value": "(1, 1, 3)"
+        },
+        {
+          "key": "B",
+          "value": "(1, 1, 0)"
+        },
+        {
+          "key": "C",
+          "value": "$$\\left( {{1 \\over 2},2,0} \\right)$$"
+        },
+        {
+          "key": "D",
+          "value": "$$\\left( {{1 \\over 2},2,3} \\right)$$"
+        }
+      ],
+      "answer": "A",
+      "explanation": "Normal to the two given curves are\n<br><br>y = m(x – c) – 2bm – bm<sup>3</sup>,\n<br><br>y = mx – 4am – 2am<sup>3</sup>\n<br><br>If they have a common normal, then\n<br><br>(c + 2b)m + bm<sup>3</sup>\n = 4am + 2am<sup>3</sup>\n<br><br>$$ \\Rightarrow $$ (4a – c – 2b) m = (b – 2a)m<sup>3</sup>\n<br><br>$$ \\Rightarrow $$ (4a – c – 2b) = (b – 2a)m<sup>2</sup>\n<br><br>$$ \\Rightarrow $$ m<sup>2</sup> = $${c \\over {2a - b}} - 2$$ $$&gt;$$ 0\n<br><br>By checking all options we found (A) is right option.\n<br><br><b>Note :</b> We get that all the options are correct for m = 0\ni.e., when common normal is x-axis. But may be in question they want common\nnormal other than x – axis, hence answer is (A)."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Equation of a common tangent to the circle, x<sup>2</sup> + y<sup>2</sup> – 6x = 0 and the parabola, y<sup>2</sup> = 4x is :",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$2\\sqrt 3 $$y = 12x + 1"
+        },
+        {
+          "key": "B",
+          "value": "$$\\sqrt 3 $$y = x + 3"
+        },
+        {
+          "key": "C",
+          "value": "$$2\\sqrt 3 $$y = -x - 12"
+        },
+        {
+          "key": "D",
+          "value": "$$\\sqrt 3 $$y = 3x + 1"
+        }
+      ],
+      "answer": "B",
+      "explanation": "We know, \n<br><br>Equation of tangent to the parabola y<sup>2</sup> = 4ax is, \n<br><br>y = mx + $${a \\over m}$$\n<br><br>$$ \\therefore $$&nbsp;&nbsp;Equation of tangent to the parabola y<sup>2</sup> = 4x is, \n<br><br>y = mx + $${1 \\over m}$$\n<br><br>$$ \\Rightarrow $$&nbsp;&nbsp;m<sup>2</sup>x $$-$$ ym + 1 = 0\n<br><br>This tangent is also the tangent to the circle x<sup>2</sup> + y<sup>2</sup> $$-$$ 6x = 0\n<br><br>So, the perpendicular distance from the center of the circle to the tangent is equal to the radius of the circle.\n<br><br>Here center is at (3, 0) of the circle and radius = 3\n<br><br>$$ \\therefore $$&nbsp;&nbsp;$$\\left| {{{3{m^2} + 1} \\over {\\sqrt {{m^4} + {m^2}} }}} \\right| = 3$$\n<br><br>$$ \\Rightarrow $$&nbsp;&nbsp;(3m<sup>2</sup> + 1)<sup>2</sup>  = 9(m<sup>4</sup> + m<sup>2</sup>)\n<br><br>$$ \\Rightarrow $$&nbsp;&nbsp;9m<sup>4</sup> + 6m<sup>2</sup> + 1 = 9m<sup>4</sup> + 9m<sup>2</sup>\n<br><br>$$ \\Rightarrow $$&nbsp;&nbsp;3m<sup>2</sup> = 1\n<br><br>$$ \\Rightarrow $$&nbsp;&nbsp;m = $$ \\pm $$ $${1 \\over {\\sqrt 3 }}$$\n<br><br>So, possible tangents are\n<br><br>y = $${1 \\over {\\sqrt 3 }}$$x + $$\\sqrt 3 $$\n<br><br>$$ \\Rightarrow $$&nbsp;&nbsp;$$\\sqrt 3 $$y = x + 3\n<br><br>or&nbsp;&nbsp; y = $$-$$ $${x \\over {\\sqrt 3 }}$$ $$-$$ $$\\sqrt 3 $$\n<br><br>$$ \\Rightarrow $$&nbsp;&nbsp;$$\\sqrt 3 y$$ = $$-$$ x $$-$$ 3"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Let P be a point on the parabola, x<sup>2</sup> = 4y. If the distance of P from the center of the circle, x<sup>2</sup> + y<sup>2</sup> + 6x + 8 = 0 is minimum, then the  equation of the tangent to the parabola at P, is : ",
+      "options": [
+        {
+          "key": "A",
+          "value": "x + 4y $$-$$ 2 = 0"
+        },
+        {
+          "key": "B",
+          "value": "x $$-$$ y + 3 = 0"
+        },
+        {
+          "key": "C",
+          "value": "x + y +1 = 0"
+        },
+        {
+          "key": "D",
+          "value": "x + 2y = 0"
+        }
+      ],
+      "answer": "C",
+      "explanation": "Let P(2t, t<sup>2</sup>) be any point on the parabola.\n<br><br>Center of the given circle C = ($$-$$ g, $$-$$f) = ($$-$$3, 0)\n<br><br>For PC to be minimum, it must be the normal  to the parabola at P.\n<br><br>Slope of line PC = $${{{y_2} - {y_1}} \\over {{x_2} - {x_1}}}$$ = $${{{t^2} - 0} \\over {2t + 3}}$$\n<br><br>Also, slope of tangent to parabola at P = $${{dy} \\over {dx}}$$ = $${x \\over 2}$$ = t\n<br><br>$$ \\therefore $$ Slope of normal = $${{ - 1} \\over t}$$\n<br><br>$$ \\therefore $$ $${{{t^2} - 0} \\over {2t + 3}}$$ = $${{ - 1} \\over t}$$\n<br><br>$$ \\Rightarrow $$ t<sup>3</sup> + 2t + 3 = 0\n<br><br>$$ \\Rightarrow $$ (t+1) (t<sup>2</sup> $$-$$  t + 3) = 0\n<br><br>$$\\therefore\\,\\,\\,$$ Real roots of above equation is\n<br><br>t = $$-$$ 1\n<br><br>Coordinate of P = (2t, t<sup>2</sup>) = ($$-$$2, 1)\n<br><br>Slope of tangent to parabola at P = t = $$-$$ 1\n<br><br>Therefore, equation of tangent is : \n<br><br>(y $$-$$ 1) = ($$-$$ 1) (x + 2)\n<br><br>$$ \\Rightarrow $$  x + y + 1 = 0"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Tangents drawn from the point ($$-$$8, 0) to the parabola y<sup>2</sup> = 8x touch the parabola at $$P$$ and $$Q.$$ If F is the focus of the parabola, then the area of the triangle PFQ (in sq. units) is equal to :",
+      "options": [
+        {
+          "key": "A",
+          "value": "24"
+        },
+        {
+          "key": "B",
+          "value": "32"
+        },
+        {
+          "key": "C",
+          "value": "48"
+        },
+        {
+          "key": "D",
+          "value": "64"
+        }
+      ],
+      "answer": "C",
+      "explanation": "Equation of the chord of contact PQ is given by : T=0 \n<br><br>or T $$ \\equiv $$ yy<sub>1</sub> $$-$$ 4(x + x<sub>1</sub>),  where (x<sub>1</sub>,  y<sub>1</sub><sub></sub>) $$ \\equiv $$ ($$-$$8, 0)\n<br><br>$$\\therefore\\,\\,\\,$$Equation becomes : x = 8\n<br><br>&amp; chord  of contact  is x = 8\n<br><br>$$\\therefore\\,\\,\\,$$ Coordinates of point  P and Q are (8, 8) and (8, $$-$$ 8) \n<br><br>and focus of the parabola is F (2, 0)\n<br><br>$$\\therefore\\,\\,\\,$$ Area  of triangle  PQF = $${1 \\over 2}$$ $$ \\times $$  (8 $$-$$ 2) $$ \\times $$  (8 + 8)  = 48 sq. units "
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Two parabolas with a common vertex and with axes along x-axis and $$y$$-axis, respectively intersect each other in the first quadrant. If the length of the latus rectum of each parabola is $$3$$, then the equation of the common tangent to the two parabolas is :",
+      "options": [
+        {
+          "key": "A",
+          "value": "4(x + y) + 3 = 0"
+        },
+        {
+          "key": "B",
+          "value": "3(x + y) + 4 = 0"
+        },
+        {
+          "key": "C",
+          "value": "8(2x + y) + 3 = 0"
+        },
+        {
+          "key": "D",
+          "value": "x + 2y + 3 = 0"
+        }
+      ],
+      "answer": "A",
+      "explanation": "As origin is the only common  point to x-axis and y-axis, so origin is the common vertex \n<br><br>Let the equation of two of parabolas be y<sup>2</sup> = 4ax and x<sup>2</sup> = 4by\n<br><br>Now latus rectum of both  parabolas = 3\n<br><br>$$\\therefore\\,\\,\\,$$ 4a = 4b = 3\n<br><br>$$ \\Rightarrow $$$$\\,\\,\\,$$ a = b = $${3 \\over 4}$$\n<br><br>$$\\therefore\\,\\,\\,$$ Two parabolas are y<sup>2</sup> = 3x and x<sup>2</sup>  = 3y\n<br><br>Suppose y = mx + c is in the common  tangent.\n<br><br>$$\\therefore\\,\\,\\,$$ y<sup>2</sup> = 3x $$ \\Rightarrow $$ (mx + c)<sup>2</sup> = 3x $$ \\Rightarrow $$ m<sup>2</sup>x<sup>2</sup> + (2mc $$-$$ 3) x + c<sup>2</sup> = 0\n<br><br>As, the tangent touches at one point only\n<br><br>So, b<sup>2</sup> $$-$$ 4ac = 0\n<br><br>$$ \\Rightarrow $$ (2mc $$-$$ 3)<sup>2</sup> $$-$$ 4m<sup>2</sup>c<sup>2</sup>  = 0\n<br><br>$$ \\Rightarrow $$ 4m<sup>2</sup>c<sup>2</sup> + 9 $$-$$ 12mc $$-$$ 4m<sup>2</sup>c<sup>2</sup> = 0\n<br><br>$$ \\Rightarrow $$ c = $${9 \\over {12m}}$$ = $${3 \\over {4m}}$$&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; . . . .(i)\n<br><br>$$\\therefore\\,\\,\\,$$ x<sup>2</sup> = 3y $$ \\Rightarrow $$ x<sup>2</sup> = 3  (mx + c ) $$ \\Rightarrow $$ x<sup>2</sup> $$-$$ 3mx $$-$$ 3c = 0\n<br><br>Again, b<sup>2</sup> $$-$$ 4ac = 0\n<br><br>$$ \\Rightarrow $$ 9m<sup>2</sup> $$-$$ 4(1) ($$-$$3c) = 0\n<br><br>$$ \\Rightarrow $$ 9m<sup>2</sup> = $$-$$ 12c &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;. . . . .(ii)\n<br><br>From (i) and (ii)\n<br><br>m<sup>2</sup> = $${{ - 4c} \\over 3}$$ = $${{ - 4} \\over 3}$$ $$\\left( {{3 \\over {4m}}} \\right)$$\n<br><br>$$ \\Rightarrow $$$$\\,\\,\\,$$ m<sup>3</sup> = $$-$$ 1 $$ \\Rightarrow $$ m = $$-$$ 1 $$ \\Rightarrow $$ c = $${{ - 3} \\over 4}$$\n<br><br>Hence, y = mx + c = $$-$$ x $$-$$ $${3 \\over 4}$$\n<br><br>$$ \\Rightarrow $$ 4 (x + y) + 3 = 0"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "If y = mx + c is the normal at a point on the parabola y<sup>2</sup> = 8x whose focal distance is 8 units, then $$\\left| c \\right|$$  is equal to :",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$2\\sqrt 3 $$ "
+        },
+        {
+          "key": "B",
+          "value": "$$8\\sqrt 3 $$"
+        },
+        {
+          "key": "C",
+          "value": "$$10\\sqrt 3 $$"
+        },
+        {
+          "key": "D",
+          "value": "$$16\\sqrt 3 $$"
+        }
+      ],
+      "answer": "C",
+      "explanation": "c = $$-$$ 29m $$-$$ 9m<sup>3</sup>\n<br><br>a = 2\n<br><br>Given (at<sup>2</sup> $$-$$ a)<sup>2</sup> + 4a<sup>2</sup>t<sup>2</sup> = 64\n<br><br>$$ \\Rightarrow $$&nbsp;&nbsp;&nbsp;(a(t<sup>2</sup> + 1)) = 8\n<br><br>$$ \\Rightarrow $$&nbsp;&nbsp;&nbsp;t<sup>2</sup> + 1 = 4 $$ \\Rightarrow $$&nbsp;t<sup>2</sup> = 3\n<br><br>$$ \\Rightarrow $$&nbsp;&nbsp;&nbsp;t = $$\\sqrt 3 $$\n<br><br>$$ \\therefore $$&nbsp;&nbsp;&nbsp;c = 2at(2 + t<sup>2</sup>)\n<br><br>= $$2\\sqrt 3 \\left( 5 \\right)$$\n<br><br>$$\\left| c \\right|$$ = 10$$\\sqrt 3 $$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "P and Q are two distinct points on the parabola, y<sup>2</sup> = 4x, with parameters t and t<sub>1</sub> respectively. If the normal at P passes through Q, then the minimum value of $$t_1^2$$ is :",
+      "options": [
+        {
+          "key": "A",
+          "value": "2"
+        },
+        {
+          "key": "B",
+          "value": "4"
+        },
+        {
+          "key": "C",
+          "value": "6"
+        },
+        {
+          "key": "D",
+          "value": "8"
+        }
+      ],
+      "answer": "D",
+      "explanation": "t<sub>1</sub> = $$-$$ t $$-$$ $${2 \\over t}$$\n<br><br>$$t_1^2$$ = t<sup>2</sup> + $${4 \\over {{t^2}}}$$ + 4\n<br><br>t<sup>2</sup> + $${4 \\over {{t^2}}}$$ $$ \\ge $$ 2$$\\sqrt {{t^2}.{4 \\over {{t^2}}}}  = 4$$\n<br><br>Minimum value of $$t_1^2$$ = 8"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The slope of the line touching both the parabolas $${y^2} = 4x$$ and $${x^2} =  - 32y$$ is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$${{1 \\over 8}}$$"
+        },
+        {
+          "key": "B",
+          "value": "$${{2 \\over 3}}$$"
+        },
+        {
+          "key": "C",
+          "value": "$${{1 \\over 2}}$$"
+        },
+        {
+          "key": "D",
+          "value": "$${{3 \\over 2}}$$"
+        }
+      ],
+      "answer": "C",
+      "explanation": "Let tangent to $${y^2} = 4x$$ be $$y = mx + {1 \\over m}$$\n<br><br>Since this is also tangent to $${x^2} =  - 32y$$\n<br><br>$$\\therefore$$ $${x^2} =  - 32\\left( {mx + {1 \\over m}} \\right)$$\n<br><br>$$ \\Rightarrow {x^2} + 32mx + {{32} \\over m} = 0$$\n<br><br>Now, $$D=0$$ \n<br><br>$${\\left( {32} \\right)^2} - 4\\left( {{{32} \\over m}} \\right) = 0$$\n<br><br>$$ \\Rightarrow {m^3} = {4 \\over {32}} \\Rightarrow m = {1 \\over 2}$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<b>Given :</b> A circle, $$2{x^2} + 2{y^2} = 5$$ and a parabola, $${y^2} = 4\\sqrt 5 x$$. \n<br><b>Statement-1 :</b> An equation of a common tangent to these curves is $$y = x + \\sqrt 5 $$.\n<p><b>Statement-2 :</b> If the line, $$y = mx + {{\\sqrt 5 } \\over m}\\left( {m \\ne 0} \\right)$$ is their common tangent, then $$m$$ satiesfies $${m^4} - 3{m^2} + 2 = 0$$.</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "Statement-1 is true; Statement-2  is true; Statement-2 is a correct explanation for Statement-1."
+        },
+        {
+          "key": "B",
+          "value": "Statement-1 is true; Statement-2 is true; Statement-2 is not a correct explanation for Statement-1."
+        },
+        {
+          "key": "C",
+          "value": "Statement-1 is true; Statement-2 is false."
+        },
+        {
+          "key": "D",
+          "value": "Statement-1 is false Statement-2 is true."
+        }
+      ],
+      "answer": "B",
+      "explanation": "Let common tangent be \n<br><br>$$y = mx + {{\\sqrt 5 } \\over m}$$\n<br><br>Since, perpendicular distance from center of the circle to \n<br><br>the common tangent is equal to radius of the circle, \n<br><br>therefore $${{{{\\sqrt 5 } \\over m}} \\over {\\sqrt {1 + {m^2}} }} = \\sqrt {{5 \\over 2}} $$\n<br><br>On squaring both the side, we get\n<br><br>$${m^2}\\left( {1 + {m^2}} \\right) = 2$$ \n<br><br>$$ \\Rightarrow {m^4} + {m^2} - 2 = 0$$\n<br><br>$$ \\Rightarrow \\left( {{m^2} + 2} \\right)\\left( {{m^2} - 1} \\right) = 0$$\n<br><br>$$ \\Rightarrow m =  \\pm 1\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,$$  ( as $$m \\ne  \\pm \\sqrt 2 $$ )\n<br><br>$$y =  \\pm \\left( {x + \\sqrt 5 } \\right),$$ both statements are correct as $$m =  \\pm 1$$\n<br><br>satisfies the given equation of statement - $$2.$$ "
+    },
+    {
+      "_type": "single_mcq",
+      "body": "If two tangents drawn from a point $$P$$ to the parabola $${y^2} = 4x$$ are at right angles, then the locus of $$P$$ is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$2x+1=0$$"
+        },
+        {
+          "key": "B",
+          "value": "$$x=-1$$ "
+        },
+        {
+          "key": "C",
+          "value": "$$2x-1=0$$ "
+        },
+        {
+          "key": "D",
+          "value": "$$x=1$$ "
+        }
+      ],
+      "answer": "B",
+      "explanation": "The locus of perpendicular tangents is directrix \n<br><br>i.e., $$x=-1$$ "
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The locus of the vertices of the family of parabolas \n<br>$$y = {{{a^3}{x^2}} \\over 3} + {{{a^2}x} \\over 2} - 2a$$ is :",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$xy = {{105} \\over {64}}$$ "
+        },
+        {
+          "key": "B",
+          "value": "$$xy = {{3} \\over {4}}$$"
+        },
+        {
+          "key": "C",
+          "value": "$$xy = {{35} \\over {16}}$$"
+        },
+        {
+          "key": "D",
+          "value": "$$xy = {{64} \\over {105}}$$"
+        }
+      ],
+      "answer": "A",
+      "explanation": "Given parabola is $$y = {{{a^3}{x^2}} \\over 3} + {{{a^2}x} \\over 2} - 2a$$\n<br><br>$$ \\Rightarrow y = {{{a^3}} \\over 3}\\left( {{x^3} + {3 \\over {2a}} + x + {9 \\over {16{a^2}}}} \\right) - {{3a} \\over {16}} - 2a$$\n<br><br>$$ \\Rightarrow y + {{35a} \\over {16}} = {{{a^3}} \\over 3}{\\left( {x + {3 \\over {4a}}} \\right)^2}$$\n<br><br>$$\\therefore$$ Vertex of parabola is $$\\left( {{{ - 3} \\over {4a}},{{ - 35a} \\over {16}}} \\right)$$\n<br><br>To find locus of this vertex, \n<br><br>$$x = {{ - 3} \\over {4a}}\\,\\,$$ and $$\\,\\,y = {{ - 35a} \\over {16}}$$\n<br><br>$$ \\Rightarrow a = {{ - 3} \\over {4x}}\\,\\,$$ and $$a =  - {{16y} \\over {35}}$$\n<br><br>$$ \\Rightarrow {{ - 3} \\over {4x}} = {{ - 16y} \\over {35}} \\Rightarrow 64xy = 105$$\n<br><br>$$ \\Rightarrow xy = {{105} \\over {64}}$$ which is the required locus."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Let $$P$$ be the point $$(1, 0)$$ and $$Q$$ a point on the parabola $${y^2} = 8x$$. The locus of mid point of $$PQ$$ is :",
+      "options": [
+        {
+          "key": "A",
+          "value": "$${y^2} - 4x + 2 = 0$$ "
+        },
+        {
+          "key": "B",
+          "value": "$${y^2} + 4x + 2 = 0$$"
+        },
+        {
+          "key": "C",
+          "value": "$${x^2} + 4y + 2 = 0$$"
+        },
+        {
+          "key": "D",
+          "value": "$${x^2} - 4y + 2 = 0$$"
+        }
+      ],
+      "answer": "A",
+      "explanation": "$$P = \\left( {1,0} \\right)\\,\\,Q = \\left( {h,k} \\right)$$ Such that $${k^2} = 8h$$\n<br><br>Let $$\\left( {\\alpha ,\\beta } \\right)$$ be the midpoint of $$PQ$$ \n<br><br>$$\\alpha  = {{h + 1} \\over 2},\\,\\,\\,\\beta  = {{k + 0} \\over 2}$$ \n<br><br>$$ \\therefore $$ $$2\\alpha  - 1 = h\\,\\,\\,\\,\\,\\,2\\beta  = k.$$\n<br><br>$${\\left( {2\\beta } \\right)^2} = 8\\left( {2\\alpha  - 1} \\right) \\Rightarrow {\\beta ^2} = 4\\alpha  - 2$$\n<br><br>$$ \\Rightarrow {y^2} - 4x + 2 = 0.$$ "
+    },
+    {
+      "_type": "single_mcq",
+      "body": "If $$a \\ne 0$$ and the line $$2bx+3cy+4d=0$$ passes through the points of intersection of the parabolas $${y^2} = 4ax$$ and $${x^2} = 4ay$$, then :",
+      "options": [
+        {
+          "key": "A",
+          "value": "$${d^2} + {\\left( {3b - 2c} \\right)^2} = 0$$ "
+        },
+        {
+          "key": "B",
+          "value": "$${d^2} + {\\left( {3b + 2c} \\right)^2} = 0$$ "
+        },
+        {
+          "key": "C",
+          "value": "$${d^2} + {\\left( {2b - 3c} \\right)^2} = 0$$ "
+        },
+        {
+          "key": "D",
+          "value": "$${d^2} + {\\left( {2b + 3c} \\right)^2} = 0$$  "
+        }
+      ],
+      "answer": "D",
+      "explanation": "Solving equations of parabolas \n<br><br>$${y^2} = 4ax$$ and $${x^2} = 4ay$$\n<br><br>we get $$(0,0)$$ and $$(4a, 4a)$$ \n<br><br>Substituting in the given equation of line \n<br><br>$$2bx+3cy+4d=0,$$ \n<br><br>we get $$d=0$$ \n<br><br>and $$2b+3c=0$$ $$ \\Rightarrow {d^2} + {\\left( {2b + 3c} \\right)^2} = 0$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The normal at the point$$\\left( {bt_1^2,2b{t_1}} \\right)$$ on a parabola meets the parabola again in the point $$\\left( {bt_2^2,2b{t_2}} \\right)$$, then :",
+      "options": [
+        {
+          "key": "A",
+          "value": "$${t_2} = {t_1} + {2 \\over {{t_1}}}$$ "
+        },
+        {
+          "key": "B",
+          "value": "$${t_2} = -{t_1} - {2 \\over {{t_1}}}$$"
+        },
+        {
+          "key": "C",
+          "value": "$${t_2} = -{t_1} + {2 \\over {{t_1}}}$$"
+        },
+        {
+          "key": "D",
+          "value": "$${t_2} = {t_1} - {2 \\over {{t_1}}}$$"
+        }
+      ],
+      "answer": "B",
+      "explanation": "Equation of the normal to a parabola $${y^2} = 4bx$$ at  point \n<br><br>$$\\left( {bt_1^2,2b{t_1}} \\right)$$ is $$y =  - {t_1}x + 2b{t_1} + bt_1^3$$\n<br><br>As given, it also passes through $$\\left( {bt_2^2,2b{t_2}} \\right)$$ then \n<br><br>$$2b{t_2} = {t_1}bt_2^2 + 2b{t_1} + bt_1^3$$\n<br><br>$$2{t_2} - 2{t_1} =  - {t_1}\\left( {t_2^2 - t_1^2} \\right)$$\n<br><br>$$ =  - {t_1}\\left( {{t_2} + {t_1}} \\right)\\left( {{t_2} - {t_1}} \\right)$$\n<br><br>$$ \\Rightarrow 2 =  - {t_1}\\left( {{t_2} + {t_1}} \\right)$$\n<br><br>$$ \\Rightarrow {t_2} + {t_1} =  - {2 \\over {{t_1}}}$$\n<br><br>$$ \\Rightarrow {t_2} =  - {t_1} - {2 \\over {{t_1}}}$$ "
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Two common tangents to the circle $${x^2} + {y^2} = 2{a^2}$$ and parabola $${y^2} = 8ax$$ are :",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$x =  \\pm \\left( {y + 2a} \\right)$$ "
+        },
+        {
+          "key": "B",
+          "value": "$$y =  \\pm \\left( {x + 2a} \\right)$$ "
+        },
+        {
+          "key": "C",
+          "value": "$$x =  \\pm \\left( {y + a} \\right)$$ "
+        },
+        {
+          "key": "D",
+          "value": "$$y =  \\pm \\left( {x + a} \\right)$$ "
+        }
+      ],
+      "answer": "B",
+      "explanation": "Any tangent to the parabola $${y^2} = 8ax$$ is\n<br><br>$$y = mx + {{2a} \\over m}\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,...\\left( i \\right)$$\n<br><br>If $$(i)$$ is a tangent to the circle, $${x^2} + {y^2} = 2{a^2}$$ then,\n<br><br>$$\\sqrt {2a}  =  \\pm {{2a} \\over {m\\sqrt {{m^2} + 1} }}$$\n<br><br>$$ \\Rightarrow {m^2}\\left( {1 + {m^2}} \\right) = 2$$\n<br><br>$$ \\Rightarrow \\left( {{m^2} + 2} \\right)\\left( {{m^2} - 1} \\right) = 0$$\n<br><br>$$ \\Rightarrow m =  \\pm 1.$$\n<br><br>So from $$(i),$$ $$y =  \\pm \\left( {x + 2a} \\right).$$ "
+    }
+  ]
+}

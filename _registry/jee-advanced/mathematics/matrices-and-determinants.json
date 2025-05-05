@@ -1,0 +1,577 @@
+{
+  "_index": {
+    "name": "Matrices and Determinants"
+  },
+  "_children": [
+    {
+      "_type": "numerical",
+      "body": "Let $\\beta$ be a real number. Consider the matrix\n\n<br/><br/>$$\nA=\\left(\\begin{array}{ccc}\n\\beta & 0 & 1 \\\\\n2 & 1 & -2 \\\\\n3 & 1 & -2\n\\end{array}\\right)\n$$\n\n<br/><br/>If $A^{7}-(\\beta-1) A^{6}-\\beta A^{5}$ is a singular matrix, then the value of $9 \\beta$ is _________.",
+      "answer": "3",
+      "explanation": "<p>$${A^7} - (\\beta  - 1){A^6} - \\beta {A^5}$$ is a singular matrix. So determinant of this matrix equal to zero.</p>\n<p>$$\\therefore$$ $$|{A^7} - (\\beta  - 1){A^6} - \\beta {A^5}| = 0$$</p>\n<p>$$ \\Rightarrow |{A^5}({A^2} - (\\beta  - 1)A - \\beta I)| = 0$$</p>\n<p>$$ \\Rightarrow |{A^5}||({A^2} - \\beta A + A - \\beta I)| = 0$$</p>\n<p>$$ \\Rightarrow |A{|^5}|A(A + I) - \\beta (A + I)| = 0$$</p>\n<p>$$ \\Rightarrow |A{|^5}|(A - \\beta I)(A + I)| = 0$$</p>\n<p>$$ \\Rightarrow |A{|^5}|A - \\beta I||A + I| = 0$$</p>\n<p>Now given,</p>\n<p>$$A = \\left[ {\\matrix{\n   \\beta  & 0 & 1  \\cr \n   2 & 1 & { - 2}  \\cr \n   3 & 1 & { - 2}  \\cr \n\n } } \\right]$$</p>\n<p>$$\\therefore$$ $$|A| = 2 - 3 =  - 1$$</p>\n<p>$$|A + I| = \\left| {\\matrix{\n   {\\beta  + 1} & 0 & 1  \\cr \n   2 & 2 & { - 2}  \\cr \n   3 & 1 & { - 1}  \\cr \n\n } } \\right|$$</p>\n<p>$$ = (\\beta  + 1)( - 2 + 2) + 1(2 - 6)$$</p>\n<p>$$ =  - 4$$</p>\n<p>$$\\therefore$$ We get $$|A| \\ne 0$$ and $$|A + I| \\ne 0$$</p>\n<p>$$\\therefore$$ $$|A{|^5}|A - \\beta I||A + I| = 0$$ is possible only when $$|A - \\beta I| = 0$$</p>\n<p>$$\\therefore$$ $$|A - \\beta I| = \\left| {\\matrix{\n   0 & 0 & 1  \\cr \n   2 & {1 - \\beta } & { - 2}  \\cr \n   3 & 1 & { - 2 - \\beta }  \\cr \n\n } } \\right|$$</p>\n<p>$$ = 2 - 3 - 3\\beta $$</p>\n<p>$$\\therefore$$ $$2 - 3 + 3\\beta  = 0$$</p>\n<p>$$ \\Rightarrow 3\\beta  = 1$$</p>\n<p>$$ \\Rightarrow 9\\beta  = 3$$</p>"
+    },
+    {
+      "_type": "numerical",
+      "body": "Let $$\\alpha$$, $$\\beta$$ and $$\\gamma$$ be real numbers such that the system of linear equations<br><br>x + 2y + 3z = $$\\alpha$$<br><br>4x + 5y + 6z = $$\\beta$$<br><br>7x + 8y + 9z = $$\\gamma $$ $$-$$ 1<br><br>is consistent. Let | M | represent the determinant of the matrix<br><br>$$M = \\left[ {\\matrix{\n   \\alpha  &amp; 2  &amp; \\gamma   \\cr \n   \\beta  &amp; 1 &amp; 0  \\cr \n   { - 1} &amp; 0 &amp; 1  \\cr \n\n } } \\right]$$<br><br>Let P be the plane containing all those ($$\\alpha$$, $$\\beta$$, $$\\gamma$$) for which the above system of linear equations is consistent, and D be the square of the distance of the point (0, 1, 0) from the plane P.<br><br>The value of | M | is _________.",
+      "answer": "1",
+      "explanation": "$$7x + 8y + 9z - (\\gamma  - 1) = A(4x + 5y + 6z - \\beta ) + B(x + 2y + 3z - \\alpha )$$<br/><br/>On equating the coefficients,<br/><br/>4A + B = 7 .... (i)<br/><br/>5A + 2B = 8 .... (ii)<br/><br/>and $$-$$ ($$\\gamma$$ $$-$$ 1) = $$-$$ A$$\\beta$$ $$-$$ $$\\alpha$$B ..... (iii)<br/><br/>On solving Eqs. (i) and (ii), we get A = 2 and B = $$-$$1<br/><br/>From Eq. (iii), we get<br/><br/>$$-$$ $$\\gamma$$ + 1 = $$-$$ 2$$\\beta$$ $$-$$ $$\\alpha$$($$-$$1)<br/><br/>$$\\Rightarrow$$ $$\\alpha$$ $$-$$ 2$$\\beta$$ + $$\\gamma$$ = 1 ..... (iv)<br/><br/>Now, determinant of<br/><br/>$$M = \\left| M \\right| = \\left| {\\matrix{\n   \\alpha  & 2 & \\gamma   \\cr \n   \\beta  & 1 & 0  \\cr \n   { - 1} & 0 & 1  \\cr \n\n } } \\right| = \\alpha  - 2\\beta  + \\gamma  = 1$$ [from Eq. (iv)]"
+    },
+    {
+      "_type": "numerical",
+      "body": "Let $$\\alpha$$, $$\\beta$$ and $$\\gamma$$ be real numbers such that the system of linear equations<br><br>x + 2y + 3z = $$\\alpha$$<br><br>4x + 5y + 6z = $$\\beta$$<br><br>7x + 8y + 9z = $$\\gamma $$ $$-$$ 1<br><br>is consistent. Let | M | represent the determinant of the matrix<br><br>$$M = \\left[ {\\matrix{\n   \\alpha  &amp; 2  &amp; \\gamma   \\cr \n   \\beta  &amp; 1 &amp; 0  \\cr \n   { - 1} &amp; 0 &amp; 1  \\cr \n\n } } \\right]$$<br><br>Let P be the plane containing all those ($$\\alpha$$, $$\\beta$$, $$\\gamma$$) for which the above system of linear equations is consistent, and D be the square of the distance of the point (0, 1, 0) from the plane P.<br><br>The value of D is _________.",
+      "answer": "1.5",
+      "explanation": "$$7x + 8y + 9z - (\\gamma  - 1) = A(4x + 5y + 6z - \\beta ) + B(x + 2y + 3z - \\alpha )$$<br/><br/>On equating the coefficients,<br/><br/>4A + B = 7 .... (i)<br/><br/>5A + 2B = 8 .... (ii)<br/><br/>and $$-$$ ($$\\gamma$$ $$-$$ 1) = $$-$$ A$$\\beta$$ $$-$$ $$\\alpha$$B ..... (iii)<br/><br/>On solving Eqs. (i) and (ii), we get A = 2 and B = $$-$$1<br/><br/>From Eq. (iii), we get<br/><br/>$$-$$ $$\\gamma$$ + 1 = $$-$$ 2$$\\beta$$ $$-$$ $$\\alpha$$($$-$$1)<br/><br/>$$\\Rightarrow$$ $$\\alpha$$ $$-$$ 2$$\\beta$$ + $$\\gamma$$ = 1 ..... (iv)<br/><br/>Now, determinant of<br/><br/>$$M = \\left| M \\right| = \\left| {\\matrix{\n   \\alpha  & 2 & \\gamma   \\cr \n   \\beta  & 1 & 0  \\cr \n   { - 1} & 0 & 1  \\cr \n\n } } \\right| = \\alpha  - 2\\beta  + \\gamma  = 1$$ [from Eq. (iv)]<br/><br/>Equation of plane P is given by $$x - 2y + z = 1$$<br/><br/>Hence, perpendicular distance of the point (0, 1, 0) from the plane <br/><br/>$$P = {{\\left| {0 - 2 \\times 1 + 0 - 1} \\right|} \\over {\\sqrt {{1^2} + {{( - 2)}^2} + {1^2}} }} = {{\\left| 3 \\right|} \\over {\\sqrt 6 }}$$<br/><br/>$$ \\Rightarrow D = {\\left( {{{\\left| 3 \\right|} \\over {\\sqrt 6 }}} \\right)^2} = {9 \\over 6} = 1.5$$"
+    },
+    {
+      "_type": "numerical",
+      "body": "The trace of a square matrix is defined to be the sum of its diagonal entries. If A is a 2 $$ \\times $$ 2 matrix such that the trace of A is 3 and the trace of A<sup>3</sup> is $$-$$18, then the value of the determinant of A is .............",
+      "answer": "5",
+      "explanation": "Let a square matrix 'A' of order 2 $$ \\times $$ 2, such that t<sub>r</sub>(A) = 3, is<br><br>$$A = \\left[ {\\matrix{\n   x &amp; y  \\cr \n   z &amp; {3 - x}  \\cr \n\n } } \\right]$$<br><br>So, $${A^2} = \\left[ {\\matrix{\n   x &amp; y  \\cr \n   z &amp; {3 - x}  \\cr \n\n } } \\right]\\left[ {\\matrix{\n   x &amp; y  \\cr \n   z &amp; {3 - x}  \\cr \n\n } } \\right]$$<br><br>$$ = \\left[ {\\matrix{\n   {{x^2} + yz} &amp; {xy + 3y - xy}  \\cr \n   {xz + 3z - xz} &amp; {yz + {{(3 - x)}^2}}  \\cr \n\n } } \\right]$$<br><br>$$ \\therefore $$ $${A^3} = \\left[ {\\matrix{\n   {{x^2} + yz} &amp; {3y}  \\cr \n   { + 3z} &amp; {yz + 9 + {x^2} - 6x}  \\cr \n\n } } \\right]\\left[ {\\matrix{\n   x &amp; y  \\cr \n   z &amp; {3 - x}  \\cr \n\n } } \\right]$$<br><br>$$ \\because $$ $${t_r}({A^3}) = {x^3} + xyz + 3yz + 3yz + 3yz - xyz + 27 - 9x + 3{x^2} - {x^3} - 18x + 6{x^2}$$<br><br>$$ = 9yz + 27 - 27x + 9{x^2} =  - 18$$ (given)<br><br>$$ \\Rightarrow yz + 3 - 3x + {x^2} =  - 2$$<br><br>$$ \\Rightarrow 3x - {x^2} - yz = 5$$<br><br>$$ \\because $$ $$|A|\\, = \\,\\left[ {\\matrix{\n   x &amp; y  \\cr \n   z &amp; {3 - x}  \\cr \n\n } } \\right]$$<br><br>$$ = 3x - {x^2} - yz = 5$$"
+    },
+    {
+      "_type": "numerical",
+      "body": "Suppose \n<br/><br/>det$$\\left| {\\matrix{\n   {\\sum\\limits_{k = 0}^n k } &amp; {\\sum\\limits_{k = 0}^n {{}^n{C_k}{k^2}} }  \\cr \n   {\\sum\\limits_{k = 0}^n {{}^n{C_k}.k} } &amp; {\\sum\\limits_{k = 0}^n {{}^n{C_k}{3^k}} }  \\cr \n\n } } \\right| = 0$$\n<br/><br/> holds for some positive integer n. Then $$\\sum\\limits_{k = 0}^n {{{{}^n{C_k}} \\over {k + 1}}} $$ equals ..............",
+      "answer": "6.20",
+      "explanation": "It is given that,<br><br>$$\\left| {\\matrix{\n   {\\sum\\limits_{k = 0}^n k } &amp; {\\sum\\limits_{k = 0}^n {{}^n{C_k}{k^2}} }  \\cr \n   {\\sum\\limits_{k = 0}^n {{}^n{C_k}.k} } &amp; {\\sum\\limits_{k = 0}^n {{}^n{C_k}{3^k}} }  \\cr \n\n } } \\right| = 0$$<br><br>$$ \\Rightarrow \\left| {\\matrix{\n   {{{n(n + 1)} \\over 2}} &amp; {n(n + 1){2^{n - 2}}}  \\cr \n   {n{{.2}^{n - 1}}} &amp; {{4^n}}  \\cr \n\n } } \\right| = 0$$<br><br>$$ \\because $$ $$\\left[ \\matrix{\n  \\sum\\limits_{k = 0}^n k  = {{n(n + 1)} \\over 2},\\,\\sum\\limits_{k = 0}^n {{}^n{C_k}k = n{{.2}^{n - 1}}}  \\hfill \\cr \n  \\sum\\limits_{k = 0}^n {} {}^n{C_k}{k^2} = n(n + 1){2^{n - 2}}\\,\\,and\\,\\,\\sum\\limits_{k = 0}^n {} {}^n{C_k}{3^k} = {4^n} \\hfill \\cr}  \\right]$$<br><br>$$ \\Rightarrow {{n(n + 1)} \\over 2}{4^n} - {n^2}(n + 1)\\,{2^{2n - 3}} = 0$$<br><br>$$ \\Rightarrow {{{4^n}} \\over 2} - n{{{4^{n - 1}}} \\over 2} = 0$$<br><br>$$ \\Rightarrow n = 4$$<br><br>$$ \\therefore $$ $$\\sum\\limits_{k = 0}^n {} {{{}^n{C_k}} \\over {k + 1}} = \\sum\\limits_{k = 0}^4 {} {{{}^4{C_k}} \\over {k + 1}}$$<br><br>= $${1 \\over 5}\\sum\\limits_{k = 0}^4 {} {}^5{C_{k + 1}} = {1 \\over 5}({2^5} - 1)$$<br><br>$$ = {1 \\over 5}(32 - 1) = {{31} \\over 5} = 6.20$$"
+    },
+    {
+      "_type": "numerical",
+      "body": "Let P be a matrix of order 3 $$ \\times $$ 3 such that all the entries in P are from the set {$$-$$1, 0, 1}. Then, the maximum possible value of the determinant of P is ............ .",
+      "answer": "4",
+      "explanation": "Let $$Det(P) = \\left| {\\matrix{\n   {{a_2}} &amp; {{b_2}} &amp; {{c_3}}  \\cr \n   {{a_3}} &amp; {{b_3}} &amp; {{c_3}}  \\cr \n\n } } \\right|$$<br><br>$$ = {a_1}({b_2}{c_3} - {b_3}{c_2}) - {a_2}({b_1}{c_3} - {b_3}{c_1}) + {a_3}({b_1}{c_2} - {b_2}{c_1})$$<br><br>Now, maximum value of Det (P) = 6<br><br>If $${a_1} = 1$$, $${a_2} =  - 1$$, $${a_3} = 1$$, $${b_2}{c_3} = {b_1}{c_3} = {b_1}{c_2} = 1$$ and $${b_3}{c_2} = {b_3}{c_1} = {b_2}{c_1} =  - 1$$<br><br>But it is not possible as<br><br>$$({b_2}{c_3})({b_3}{c_1})({b_1}{c_2})$$ = $$-$$1<br><br>and $$({b_1}{c_3})({b_3}{c_2})({b_2}{c_1})$$ = 1<br><br>i.e., $${b_1}{c_2}{b_3}{c_1}{c_2}{c_3}$$ = 1 and $$-$$1<br><br>Similar contradiction occurs when<br><br>$${a_1} = 1$$, $${a_2} = 1$$, $${a_3} = 1$$, $${b_2}{c_1} = {b_3}{c_1} = {b_1}{c_2}$$ = 1 and $${b_3}{c_2} = {b_1}{c_3} = {b_1}{c_2} =  - 1$$<br><br>Now, for value to be 5 one of the terms must be zero but that will make 2 terms zero which means answer cannot be 5<br><br>Now, <br><br>$$\\left| {\\matrix{\n   1 &amp; 1 &amp; 1  \\cr \n   { - 1} &amp; 1 &amp; 1  \\cr \n   1 &amp; { - 1} &amp; 1  \\cr \n\n } } \\right| = 4$$<br><br>Hence, maximum value is 4"
+    },
+    {
+      "_type": "numerical",
+      "body": "For a real number $$\\alpha $$, if the system<br><br>$$\\left[ {\\matrix{\n   1 &amp; \\alpha  &amp; {{\\alpha ^2}}  \\cr \n   \\alpha  &amp; 1 &amp; \\alpha   \\cr \n   {{\\alpha ^2}} &amp; \\alpha  &amp; 1  \\cr \n\n } } \\right]\\left[ {\\matrix{\n   x  \\cr \n   y  \\cr \n   z  \\cr \n\n } } \\right] = \\left[ {\\matrix{\n   1  \\cr \n   { - 1}  \\cr \n   1  \\cr \n\n } } \\right]$$<br><br>of linear equations, has infinitely many solutions, then 1 + $$\\alpha $$ + $$\\alpha $$<sup>2</sup> = ",
+      "answer": "1",
+      "explanation": "<p>It is given that</p>\n<p>$$\\left[ {\\matrix{\n   1 & \\alpha  & {{\\alpha ^2}}  \\cr \n   \\alpha  & 1 & \\alpha   \\cr \n   {{\\alpha ^2}} & \\alpha  & 1  \\cr \n\n } } \\right]\\left[ {\\matrix{\n   x  \\cr \n   y  \\cr \n   z  \\cr \n\n } } \\right] = \\left[ {\\matrix{\n   1  \\cr \n   { - 1}  \\cr \n   1  \\cr \n\n } } \\right]$$</p>\n<p>$$\\left[ {\\matrix{\n   1 & \\alpha  & {{\\alpha ^2}}  \\cr \n   \\alpha  & 1 & \\alpha   \\cr \n   {{\\alpha ^2}} & \\alpha  & 1  \\cr \n\n } } \\right] = 0$$</p>\n<p>$$ \\Rightarrow 1(1 - {\\alpha ^2}) - \\alpha (\\alpha  - {\\alpha ^3}) + {\\alpha ^2}({\\alpha ^2} - {\\alpha ^2}) = 0$$</p>\n<p>$$ \\Rightarrow \\alpha (1 - {\\alpha ^2}) - {\\alpha ^2}(1 - {\\alpha ^2}) = 0$$</p>\n<p>$$ \\Rightarrow (1 - {\\alpha ^2})(1 - {\\alpha ^2}) = 0$$</p>\n<p>$$ \\Rightarrow {(1 - {\\alpha ^2})^2} = 0$$</p>\n<p>$$ \\Rightarrow {\\alpha ^2} = 1 \\Rightarrow \\alpha  =  \\pm 1$$</p>\n<p>For $$\\alpha$$ = 1, the given system of linear equations has no solution.</p>\n<p>$$\\left[ {\\matrix{\n   { + 1} & { + 1} & { + 1}  \\cr \n   { + 1} & { + 1} & { + 1}  \\cr \n   { + 1} & { + 1} & { + 1}  \\cr \n\n } } \\right]\\left[ {\\matrix{\n   x  \\cr \n   y  \\cr \n   z  \\cr \n\n } } \\right] = \\left[ {\\matrix{\n   1  \\cr \n   { - 1}  \\cr \n   1  \\cr \n\n } } \\right]$$</p>\n<p>$$x + y + z = 1$$</p>\n<p>$$x + y + z =  - 1$$</p>\n<p>$$x + y + z = 1$$</p>\n<p>Since two planes are parallel. So, $$\\alpha$$ = 1 is rejected for $$\\alpha$$ = $$-$$1 the given system of linear equations has coincident planes</p>\n<p>$$\\left[ {\\matrix{\n   1 & { - 1} & 1  \\cr \n   { - 1} & 1 & { - 1}  \\cr \n   1 & { - 1} & 1  \\cr \n\n } } \\right]\\left[ {\\matrix{\n   x  \\cr \n   y  \\cr \n   z  \\cr \n\n } } \\right] = \\left[ {\\matrix{\n   1  \\cr \n   { - 1}  \\cr \n   1  \\cr \n\n } } \\right]$$</p>\n<p>$$x - y + z = 1$$</p>\n<p>$$ \\Rightarrow  - x + y - z =  - 1 \\Rightarrow x - y + z = 1$$</p>\n<p>$$x - y + 1 = 1$$</p>\n<p>Therefore, $$\\alpha$$ = $$-$$1 is accepted. That is,</p>\n<p>$$1 + \\alpha  + {\\alpha ^2} = 1 + ( - 1) + {( - 1)^2} = 1 - 1 + 1 = 1$$</p>\n<p>$$ \\Rightarrow 1 + \\alpha  + {\\alpha ^2} = 1$$</p>"
+    },
+    {
+      "_type": "numerical",
+      "body": "<p>The total number of distinct x $$\\in$$ R for which</p>\n<p>$$\\left| {\\matrix{\n   x & {{x^2}} & {1 + {x^3}}  \\cr \n   {2x} & {4{x^2}} & {1 + 8{x^3}}  \\cr \n   {3x} & {9{x^2}} & {1 + 27{x^3}}  \\cr \n\n } } \\right| = 10$$ is ______________.</p>",
+      "answer": "2",
+      "explanation": "<p>Given, $$\\left| {\\matrix{\n   x & {{x^2}} & {1 + {x^3}}  \\cr \n   {2x} & {4{x^2}} & {1 + 8{x^3}}  \\cr \n   {3x} & {9{x^2}} & {1 + 27{x^3}}  \\cr \n\n } } \\right| = 10$$</p>\n<p>$$ \\Rightarrow x\\,.\\,{x^2}\\left| {\\matrix{\n   1 & 1 & {1 + {x^3}}  \\cr \n   2 & 4 & {1 + 8{x^3}}  \\cr \n   3 & 9 & {1 + 27{x^3}}  \\cr \n\n } } \\right| = 10$$</p>\n<p>Apply R<sub>2</sub> $$\\to$$ R<sub>2</sub> $$-$$ 2R<sub>1</sub> and R<sub>3</sub> $$\\to$$ R<sub>3</sub> $$-$$ 3R<sub>1</sub>, we get</p>\n<p>$${x^3}\\left| {\\matrix{\n   1 & 1 & {1 + {x^3}}  \\cr \n   0 & 2 & { - 1 + 6{x^3}}  \\cr \n   0 & 6 & { - 2 + 24{x^3}}  \\cr \n\n } } \\right| = 10$$</p>\n<p>$$ \\Rightarrow {x^3}\\,.\\,\\left| {\\matrix{\n   2 & {6{x^2} - 1}  \\cr \n   6 & {24{x^3} - 2}  \\cr \n\n } } \\right| = 10$$</p>\n<p>$$ \\Rightarrow {x^3}(48{x^3} - 4 - 36{x^3} + 6) = 10$$</p>\n<p>$$ \\Rightarrow 12{x^6} + 2{x^3} = 10$$</p>\n<p>$$ \\Rightarrow 6{x^6} + {x^3} - 5 = 0$$</p>\n<p>$$ \\Rightarrow 6{({x^3})^2} + {x^3} - 5 = 6$$</p>\n<p>$$ \\Rightarrow 6{({x^3})^2} + 6{x^3} - 5{x^3} - 5 = 0$$</p>\n<p>$$ \\Rightarrow 6{x^3}({x^3} + 1) - 5({x^3} + 1) = 0$$</p>\n<p>$$ \\Rightarrow (6{x^3} - 5)({x^2} - x + 1)(x + 1) = 0$$</p>\n<p>$$\\therefore$$ $$x = {\\left( {{5 \\over 6}} \\right)^{1/3}}, - 1$$</p>\n<p>Hence, the number of real solutions is 2.</p>"
+    },
+    {
+      "_type": "numerical",
+      "body": "<p>Let $$z = {{ - 1 + \\sqrt 3 i} \\over 2}$$, where $$i = \\sqrt { - 1} $$, and r, s $$\\in$$ {1, 2, 3}. Let $$P = \\left[ {\\matrix{\n   {{{( - z)}^r}} & {{z^{2s}}}  \\cr \n   {{z^{2s}}} & {{z^r}}  \\cr \n\n } } \\right]$$ and I be the identity matrix of order 2. Then the total number of ordered pairs (r, s) for which P<sup>2</sup> = $$-$$I is ____________.</p>",
+      "answer": "1",
+      "explanation": "<p>Here, $$z = {{ - 1 + i\\sqrt 3 } \\over 2} = \\omega $$</p>\n<p>$$\\because$$ $$P = \\left[ {\\matrix{\n   {{{( - \\omega )}^r}} & {{\\omega ^{2s}}}  \\cr \n   {{\\omega ^{2s}}} & {{\\omega ^r}}  \\cr \n\n } } \\right]$$</p>\n$${P^2} = \\left[ {\\matrix{\n   {{{( - \\omega )}^r}} & {{\\omega ^{2s}}}  \\cr \n   {{\\omega ^{2s}}} & {{\\omega ^r}}  \\cr \n\n } } \\right]\\left[ {\\matrix{\n   {{{( - \\omega )}^r}} & {{\\omega ^{2s}}}  \\cr \n   {{\\omega ^{2s}}} & {{\\omega ^r}}  \\cr \n\n } } \\right]$$</p>\n<p>$$ = \\left[ {\\matrix{\n   {{\\omega ^{2r}} + {\\omega ^{4s}}} & {{\\omega ^{r + 2s}}[{{( - 1)}^r} + 1]}  \\cr \n   {{\\omega ^{r + 2s}}[{{( - 1)}^r} + 1]} & {{\\omega ^{4s}} + {\\omega ^{2r}}}  \\cr \n\n } } \\right]$$</p>\n<p>Given, $${P^2} =  - I$$</p>\n<p>$$\\therefore$$ $${\\omega ^{2r}} + {\\omega ^{4s}} =  - 1$$</p>\n<p>and $${\\omega ^{r + 2s}}[{( - 1)^r} + 1] = 0$$</p>\n<p>Since, r $$\\in$$ {1, 2, 3} and ($$-$$1)<sup>r</sup> + 1 = 0</p>\n<p>$$\\Rightarrow$$ r = {1, 3}</p>\n<p>Also, $${\\omega ^{2r}} + {\\omega ^{4s}} =  - 1$$</p>\n<p>If r = 1, then $${\\omega ^2} + {\\omega ^{4s}} =  - 1$$</p>\n<p>which is only possible, when s = 1.</p>\n<p>As, $${\\omega ^2} + {\\omega ^4} =  - 1$$</p>\n<p>$$\\therefore$$ r = 1, s = 1</p>\n<p>Again, if r = 3, then</p>\n<p>$${\\omega ^6} + {\\omega ^{4s}} =  - 1$$</p>\n<p>$$ \\Rightarrow {\\omega ^{4s}} =  - 2$$ [never possible]</p>\n<p>$$\\therefore$$ r $$\\ne$$ 3</p>\n<p>$$\\Rightarrow$$ (r, s) = (1, 1) is the only solution.</p>\n<p>Hence, the total number of ordered pairs is 1.</p>"
+    },
+    {
+      "_type": "numerical",
+      "body": "<p>Let M be a 3 $$\\times$$ 3 matrix satisfying $$M\\left[ {\\matrix{\n   0  \\cr \n   1  \\cr \n   0  \\cr \n\n } } \\right] = \\left[ {\\matrix{\n   { - 1}  \\cr \n   2  \\cr \n   3  \\cr \n\n } } \\right]$$, $$M\\left[ {\\matrix{\n   1  \\cr \n   { - 1}  \\cr \n   0  \\cr \n\n } } \\right] = \\left[ {\\matrix{\n   1  \\cr \n   1  \\cr \n   { - 1}  \\cr \n\n } } \\right]$$ and $$M\\left[ {\\matrix{\n   1  \\cr \n   1  \\cr \n   1  \\cr \n\n } } \\right] = \\left[ {\\matrix{\n   0  \\cr \n   0  \\cr \n   {12}  \\cr \n\n } } \\right]$$. Then the sum of the diagonal entries of M is ___________.</p>",
+      "answer": "9",
+      "explanation": "<p>Let $$M = \\left[ {\\matrix{\n   a & b & c  \\cr \n   d & e & f  \\cr \n   g & h & i  \\cr \n\n } } \\right]$$</p>\n<p>$$M = \\left[ {\\matrix{\n   0  \\cr \n   1  \\cr \n   0  \\cr \n\n } } \\right] = \\left[ {\\matrix{\n   { - 1}  \\cr \n   2  \\cr \n   3  \\cr \n\n } } \\right] \\Rightarrow b =  - 1,\\,e = 2,\\,h = 3$$</p>\n<p>$$M = \\left[ {\\matrix{\n   1  \\cr \n   { - 1}  \\cr \n   0  \\cr \n\n } } \\right] = \\left[ {\\matrix{\n   1  \\cr \n   1  \\cr \n   { - 1}  \\cr \n\n } } \\right] \\Rightarrow a = 0,\\,d = 3,\\,g = 2$$</p>\n<p>$$M = \\left[ {\\matrix{\n   1  \\cr \n   1  \\cr \n   1  \\cr \n\n } } \\right] = \\left[ {\\matrix{\n   0  \\cr \n   0  \\cr \n   {12}  \\cr \n\n } } \\right] \\Rightarrow g + h + i = 12 \\Rightarrow i = 7$$</p>\n<p>Hence, the sum of diagonal elements is 9.</p>"
+    },
+    {
+      "_type": "numerical",
+      "body": "<p>Let $k$ be a positive real number and let</p>\n<p>$$ \\begin{aligned} A & =\\left[\\begin{array}{ccc} 2 k-1 & 2 \\sqrt{k} & 2 \\sqrt{k} \\\\ 2 \\sqrt{k} & 1 & -2 k \\\\ -2 \\sqrt{k} & 2 k & -1 \\end{array}\\right] \\text { and } \\\\\\\\ \\mathbf{B} & =\\left[\\begin{array}{ccc} 0 & 2 k-1 & \\sqrt{k} \\\\ 1-2 k & 0 & 2 \\sqrt{k} \\\\ -\\sqrt{k} & -2 \\sqrt{k} & 0 \\end{array}\\right] . \\end{aligned} $$</p>\n<p>If $\\operatorname{det}(\\operatorname{adj} A)+\\operatorname{det}(\\operatorname{adj} B)=10^6$, then $[k]$ \n<br/><br/>is equal to _________. \n<br/><br/>[ <b>Note :</b> adj M denotes the adjoint of a square matrix M and $[k]$ denotes the largest integer less than or equal to $k$ ].</p>",
+      "answer": "4",
+      "explanation": "<p>$$ |A|=(2 k+1)^3,|B|=0 $$</p>\n<p>( $\\therefore$ B is a skew - symmetric matrix of order 3 )</p>\n<p>$$ \\begin{aligned} \\text { Let }(\\operatorname{adj} \\mathrm{A}) & =|\\mathrm{A}|^{n-1} \\\\\\\\ \\left((2 k+1)^3\\right)^2 & =10^6 \\\\\\\\ (2 k+1)^6 & =10^6 \\Rightarrow 2 k+1=10 \\\\\\\\ 2 k=9 \\Rightarrow[k] & =4 \\end{aligned} $$</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Let $\\alpha$ and $\\beta$ be the distinct roots of the equation $x^2+x-1=0$. Consider the set $T=\\{1, \\alpha, \\beta\\}$. For a $3 \\times 3$ matrix $M=\\left(a_{i j}\\right)_{3 \\times 3}$, define $R_i=a_{i 1}+a_{i 2}+a_{i 3}$ and $C_j=a_{1 j}+a_{2 j}+a_{3 j}$ for $i=1,2,3$ and $j=1,2,3$.\n<br/><br/>\nMatch each entry in <b>List-I</b> to the correct entry in <b>List-II</b>.\n<br/><br/> <style>\n        table {\n            width: 100%;\n            border-collapse: collapse;\n        }\n        th {\n            background-color: #1E90FF;\n            color: white;\n        }\n        th, td {\n            border: 1px solid lightgrey;\n            padding: 8px;\n            text-align: left;\n        }\n        \n    </style>\n<table>\n    <thead>\n        <tr>\n            <th>List-I</th>\n            <th>List-II</th>\n        </tr>\n    </thead>\n    <tbody>\n        <tr>\n            <td>(P) The number of matrices $ M = (a_{ij})_{3x3} $ with all entries in $ T $ such that $ R_i = C_j = 0 $ for all $ i, j $, is</td>\n            <td>(1) 1</td>\n        </tr>\n        <tr>\n            <td>(Q) The number of symmetric matrices $ M = (a_{ij})_{3x3} $ with all entries in $ T $ such that $ C_j = 0 $ for all $ j $, is</td>\n            <td>(2) 12</td>\n        </tr>\n        <tr>\n            <td>(R) Let $ M = (a_{ij})_{3x3} $ be a skew symmetric matrix such that $ a_{ij} \\in T $ for $ i > j $. <br/><br/>Then the number of elements in the set <br/><br/>\n                $ \\left\\{ \n                    \\begin{pmatrix}\n                        x \\\\\n                        y \\\\\n                        z \n                    \\end{pmatrix} : x, y, z \\in \\mathbb{R}, M \n                    \\begin{pmatrix}\n                        x \\\\\n                        y \\\\\n                        z \n                    \\end{pmatrix} = \n                    \\begin{pmatrix}\na_{12} \\\\\n                        0 \\\\\n                        \n                        a_{13} \n                    \\end{pmatrix}\n                \\right\\} $ \n                is</td>\n            <td>(3) infinite</td>\n        </tr>\n        <tr>\n            <td>(S) Let $ M = (a_{ij})_{3x3} $ be a matrix with all entries in $ T $ such that $ R_i = 0 $ for all $ i $. Then the absolute value of the determinant of $ M $ is</td>\n            <td>(4) 6</td>\n        </tr>\n    </tbody>\n</table><br/>\nThe correct option is",
+      "options": [
+        {
+          "key": "A",
+          "value": " (P) $\\rightarrow$ (4) $\\quad$ (Q) $\\rightarrow(2) \\quad(\\mathrm{R}) \\rightarrow(5) \\quad$ (S) $\\rightarrow$ (1)"
+        },
+        {
+          "key": "B",
+          "value": "$(\\mathrm{P}) \\rightarrow(2) \\quad(\\mathrm{Q}) \\rightarrow(4) \\quad(\\mathrm{R}) \\rightarrow(1) \\quad(\\mathrm{S}) \\rightarrow(5)$"
+        },
+        {
+          "key": "C",
+          "value": " $(\\mathrm{P}) \\rightarrow(2) \\quad$ (Q) $\\rightarrow(4) \\quad(\\mathrm{R}) \\rightarrow(3) \\quad$ (S) $\\rightarrow$ (5)"
+        },
+        {
+          "key": "D",
+          "value": " (P) $\\rightarrow$ (1) $\\quad$ (Q) $\\rightarrow$ (5) $\\quad$ (R) $\\rightarrow$ (3) $\\quad$ (S) $\\rightarrow$ (4)"
+        }
+      ],
+      "answer": "C",
+      "explanation": "<p>$$\\alpha, \\beta$$ are roots of $$x^2+x-1=0$$</p>\n<p>$$\\begin{aligned}\n& \\therefore \\alpha+\\beta=-1 \\Rightarrow 1+\\alpha+\\beta=0 \\\\\n& M=\\left[\\begin{array}{lll}\n\\mathrm{a}_{11} & \\mathrm{a}_{12} & \\mathrm{a}_{13} \\\\\n\\mathrm{a}_{21} & \\mathrm{a}_{22} & \\mathrm{a}_{23} \\\\\n\\mathrm{a}_{31} & \\mathrm{a}_{32} & \\mathrm{a}_{33}\n\\end{array}\\right]\n\\end{aligned}$$</p>\n<p>(P) $$\\quad M=\\left[\\begin{array}{lll}1 & \\alpha & \\beta \\\\ \\alpha & \\beta & 1 \\\\ \\beta & 1 & \\alpha\\end{array}\\right] \\Rightarrow 3 ! \\times 2=12$$</p>\n<p>For one arrangement of row 1 we can arrange other two rows exactly in two ways and row 1 can be arranged in 3! ways</p>\n<p>$$\\therefore 3!\\times 2=12 \\text { ways }$$</p>\n<p>(Q) $$\\quad M=\\left[\\begin{array}{lll}x & a & b \\\\ a & y & c \\\\ b & c & z\\end{array}\\right] \\Rightarrow$$ Consider one such arrangement with $$a=\\alpha, b=\\beta, c=1$$</p>\n<p>a, b, c can be arranged in 3! ways and corresponding entries can be arranged in 1 way.</p>\n<p>(R)</p>\n<p>$$\\begin{aligned}\n& {\\left[\\begin{array}{ccc}\n0 & a & b \\\\\n-a & 0 & c \\\\\n-b & -c & 0\n\\end{array}\\right]\\left[\\begin{array}{l}\nx \\\\\ny \\\\\nz\n\\end{array}\\right]=\\left[\\begin{array}{c}\na \\\\\n0 \\\\\n-c\n\\end{array}\\right]} \\\\\n& a y+b z=a \\\\\n& -a x+c z=0 \\\\\n& -b x-c y=-c\n\\end{aligned}$$</p>\n<p>It is observed that $$\\mathrm{D}=\\mathrm{D}_{\\mathrm{x}}=\\mathrm{D}_{\\mathrm{y}}=\\mathrm{D}_{\\mathrm{z}}=0$$</p>\n<p>$$\\therefore$$ infinite solution</p>\n<p>(S)</p>\n<p>$$\\begin{aligned}\n& {\\left[\\begin{array}{lll}\n1 & \\alpha & \\beta \\\\\n\\beta & \\alpha & 1 \\\\\n\\alpha & 1 & \\beta\n\\end{array}\\right] } \\\\\n& \\Rightarrow \\alpha \\beta-1-\\alpha \\beta^2+\\alpha^2+\\beta^2-\\alpha^2 \\beta=0 \\quad(\\text { since } \\alpha \\beta=\\alpha+\\beta=-1)\n\\end{aligned}$$</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Let $\\alpha, \\beta$ and $\\gamma$ be real numbers. Consider the following system of linear equations<br/><br/>\n$$\n\\begin{aligned}\n& x+2 y+z=7 \\\\\\\\\n& x+\\alpha z=11 \\\\\\\\\n& 2 x-3 y+\\beta z=\\gamma\n\\end{aligned}\n$$<br/><br/>\nMatch each entry in <b>List-I</b> to the correct entries in <b>List-II</b>.<br/><br/>\n<style type=\"text/css\">\n.tg  {border-collapse:collapse;border-spacing:0;width:100%}\n.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg .tg-1wig{font-weight:bold;text-align:left;vertical-align:top}\n.tg .tg-0lax{text-align:left;vertical-align:top}\n</style>\n<table class=\"tg\">\n<thead>\n  <tr>\n    <th class=\"tg-1wig\">List - I</th>\n    <th class=\"tg-1wig\">List - II</th>\n  </tr>\n</thead>\n<tbody>\n  <tr>\n    <td class=\"tg-0lax\">(P) If $\\beta=\\frac{1}{2}(7 \\alpha-3)$ and $\\gamma=28$, then the system has</td>\n    <td class=\"tg-0lax\">(1) a unique solution</td>\n  </tr>\n  <tr>\n    <td class=\"tg-0lax\">(Q) If $\\beta=\\frac{1}{2}(7 \\alpha-3)$ and $\\gamma \\neq 28$, then the system has</td>\n    <td class=\"tg-0lax\">(2) no solution </td>\n  </tr>\n  <tr>\n    <td class=\"tg-0lax\">(R) If $\\beta \\neq \\frac{1}{2}(7 \\alpha-3)$ where $\\alpha=1$ and $\\gamma \\neq 28$, then the system has</td>\n    <td class=\"tg-0lax\">(3) infinitely many solutions </td>\n  </tr>\n  <tr>\n    <td class=\"tg-0lax\">(S) If $\\beta \\neq \\frac{1}{2}(7 \\alpha-3)$ where $\\alpha=1$ and $\\gamma=28$, then the system has</td>\n    <td class=\"tg-0lax\">(4) $x=11, y=-2$ and $z=0$ as a solution </td>\n  </tr>\n  <tr>\n    <td class=\"tg-0lax\"></td>\n    <td class=\"tg-0lax\">(5) $x=-15, y=4$ and $z=0$ as a solution</td>\n  </tr>\n</tbody>\n</table><br/>\nThe correct option is:",
+      "options": [
+        {
+          "key": "A",
+          "value": "$(P) \\rightarrow(3) ~~ (Q) \\rightarrow(2) ~~(R) \\rightarrow(1)~~ (S) \\rightarrow(4)$"
+        },
+        {
+          "key": "B",
+          "value": "$(P) \\rightarrow(3) ~~(Q) \\rightarrow(2) ~~(R) \\rightarrow(5)~~ (S) \\rightarrow(4)$"
+        },
+        {
+          "key": "C",
+          "value": "$(P) \\rightarrow(2)~~  (Q) \\rightarrow(1) ~~ (R) \\rightarrow(4) ~~ (S) \\rightarrow(5)$"
+        },
+        {
+          "key": "D",
+          "value": "$(P) \\rightarrow(2) ~~ (Q) \\rightarrow(1) ~~  (R) \\rightarrow(1) ~~ (S) \\rightarrow(3)$"
+        }
+      ],
+      "answer": "A",
+      "explanation": "Given \n<br/><br/>$\\begin{gathered}x+2 y+z=7 \\\\\\\\ x+\\alpha z=11 \\\\\\\\ 2 x-3 y+\\beta z=\\gamma\\end{gathered}$\n<br/><br/>Using Cramer's rule\n<br/><br/>$$\n\\begin{aligned}\n\\Delta & =\\left|\\begin{array}{ccc}\n1 & 2 & 1 \\\\\n1 & 0 & \\alpha \\\\\n2 & -3 & \\beta\n\\end{array}\\right| \\\\\\\\\n& =1(3 \\alpha)-2(\\beta-2 \\alpha)+1(-3) \\\\\\\\\n& =3 \\alpha-2 \\beta+4 \\alpha-3 \\\\\\\\\n& =7 \\alpha-2 \\beta-3\n\\end{aligned}\n$$\n<br/><br/>$\\begin{aligned} \\Delta_x & =\\left|\\begin{array}{ccc}7 & 2 & 1 \\\\ 11 & 0 & \\alpha \\\\ \\gamma & -3 & \\beta\\end{array}\\right| \\\\\\\\ & =7(3 \\alpha)-2(11 \\beta-\\gamma \\alpha)+1(-33) \\\\\\\\ & =21 \\alpha-22 \\beta+22 \\gamma-33\\end{aligned}$\n<br/><br/>$\\begin{aligned} \\Delta_y & =\\left|\\begin{array}{ccc}1 & 7 & 1 \\\\ 1 & 11 & \\alpha \\\\ 2 & \\gamma & \\beta\\end{array}\\right| \\\\\\\\ & =1(11 \\beta-\\alpha \\gamma)-7(\\beta-2 \\alpha)+1(\\gamma-22) \\\\\\\\ & =11 \\beta-\\alpha \\gamma-7 \\beta+14 \\alpha+\\gamma-22 \\\\\\\\ & =14 \\alpha+4 \\beta+\\gamma-\\alpha \\gamma-22\\end{aligned}$\n<br/><br/>$\\begin{aligned} \\Delta_z & =\\left|\\begin{array}{ccc}1 & 2 & 7 \\\\ 1 & 0 & 11 \\\\ 2 & -3 & \\gamma\\end{array}\\right| \\\\\\\\ & =1(33)-2(\\gamma-22)+7(-3) \\\\\\\\ & =33-2 \\gamma+44-21 \\\\\\\\ & =-2 \\gamma+56\\end{aligned}$\n<br/><br/>For unique solution $\\Delta \\neq 0$\n<br/><br/>For infinite solution\n<br/><br/>$$\n\\Delta=\\Delta x=\\Delta y=\\Delta z=0\n$$\n\n<br/><br/>For no solution $\\Delta=0$ and atleast one in $\\Delta x, \\Delta y, \\Delta z$ is non zero.\n<br/><br/>$$\n\\Delta=0\n$$\n<br/><br/>$$\n\\Rightarrow \\beta=\\frac{1}{2}(7 \\alpha-3)\n$$\n<br/><br/>(P) $ \\beta=\\frac{1}{2}(7 \\alpha-3)$ and $\\gamma=28$\n<br/><br/>then $ \\Delta=0, \\Delta x=\\Delta y=\\Delta z=0$\n<br/><br/>$\\therefore$ Infinite solution\n<br/><br/>(Q) $ \\beta=\\frac{1}{2}(7 \\alpha-3)$ and $\\gamma \\neq 28$\n<br/><br/>$\\therefore \\Delta=0$ and $\\Delta_2 \\neq 0$\n<br/><br/>$\\Rightarrow$ No solution.\n<br/><br/>$$\n\\begin{aligned}\n& \\text { (R) } \\beta \\neq \\frac{1}{2}(7 \\alpha-3), \\alpha=1, \\gamma \\neq 28 \\\\\\\\\n& \\Rightarrow \\Delta \\neq 0=\\text { unique solution } \\\\\\\\\n& \\begin{aligned}\n& \\text { (S) } \\beta \\neq \\frac{1}{2}(7 \\alpha-3), \\alpha=1, \\gamma=28 \\\\\\\\\n& \\therefore \\Delta \\neq 0, \\Delta=4-2 \\beta \\\\\\\\\n& \\Delta x=44-22 \\beta \\\\\\\\\n& \\Delta y=4 \\beta-8 \\\\\\\\\n& \\Delta z=0\n\\end{aligned}\n\\end{aligned}\n$$\n<br/><br/>$\\therefore x=11, y=-2, z=0$ is the solution."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "If $M=\\left(\\begin{array}{rr}\\frac{5}{2} & \\frac{3}{2} \\\\ -\\frac{3}{2} & -\\frac{1}{2}\\end{array}\\right)$, then which of the <br/><br/>following matrices is equal to $M^{2022} ?$",
+      "options": [
+        {
+          "key": "A",
+          "value": "$\\left(\\begin{array}{rr}3034 & 3033 \\\\ -3033 & -3032\\end{array}\\right)$"
+        },
+        {
+          "key": "B",
+          "value": "$\\left(\\begin{array}{ll}3034 & -3033 \\\\ 3033 & -3032\\end{array}\\right)$"
+        },
+        {
+          "key": "C",
+          "value": "$\\left(\\begin{array}{rr}3033 & 3032 \\\\ -3032 & -3031\\end{array}\\right)$"
+        },
+        {
+          "key": "D",
+          "value": "$\\left(\\begin{array}{rr}3032 & 3031 \\\\ -3031 & -3030\\end{array}\\right)$"
+        }
+      ],
+      "answer": "A",
+      "explanation": "<p>$$A=\\left(\\begin{array}{cc}\\frac{5}{2} & \\frac{3}{2} \\\\ -\\frac{3}{2} & -\\frac{1}{2}\\end{array}\\right)$$</p>\n<p>$$A^{2}=\\left(\\begin{array}{cc}4 & 3 \\\\ -3 & -2\\end{array}\\right)$$</p>\n<p>$$A^{3}=\\left(\\begin{array}{cc}\\frac{11}{2} & \\frac{9}{2} \\\\ -\\frac{9}{2} & -\\frac{7}{2}\\end{array}\\right)$$</p>\n<p>$$A^{4}=\\left(\\begin{array}{cc}7 & 6 \\\\ -6 & -5\\end{array}\\right)$$</p>\n<p>and so on</p>\n<p>$A^n=\\left(\\begin{array}{cc}\\frac{3 n}{2}+1 & \\frac{3 n}{2} \\\\ -\\frac{3 n}{2} & -\\frac{3 n}{2}+1\\end{array}\\right)$</p>\n<p>Now</p>\n<p>$$\n\\begin{aligned}\nA^{2022} & =\\left(\\begin{array}{ll}\n\\frac{3 \\times 2022}{2}+1 & \\frac{3 \\times 2022}{2} \\\\\n\\frac{-3 \\times 2022}{2} & \\frac{-3 \\times 2022}{2}+1\n\\end{array}\\right) \\\\\\\\\n& =\\left(\\begin{array}{cc}\n3034 & 3033 \\\\\n-3033 & -3032\n\\end{array}\\right)\n\\end{aligned}\n$$\n<br/><br/>$\\therefore$ Option $(\\mathrm{A})$ is correct</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p> Let $$p, q, r$$ be nonzero real numbers that are, respectively, the $$10^{\\text {th }}, 100^{\\text {th }}$$ and $$1000^{\\text {th }}$$ terms of a harmonic progression. Consider the system of linear equations</p>\n<p>$$$\n\\begin{gathered}\nx+y+z=1 \\\\\n10 x+100 y+1000 z=0 \\\\\nq r x+p r y+p q z=0\n\\end{gathered}\n$$$</p>\n<p><style type=\"text/css\">\n.tg  {border-collapse:collapse;border-spacing:0;}\n.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg .tg-7btt{border-color:inherit;font-weight:bold;text-align:center;vertical-align:top}\n.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}\n</style>\n<table class=\"tg\">\n<thead>\n  <tr>\n    <th class=\"tg-7btt\">List-I</th>\n    <th class=\"tg-7btt\"><span style=\"font-weight:bold;font-style:normal\">List-II</span></th>\n  </tr>\n</thead>\n<tbody>\n  <tr>\n    <td class=\"tg-0pky\">(I) If $$\\frac{q}{r}=10$$, then the system of linear equations has</td>\n    <td class=\"tg-0pky\">(P) $$x=0, \\quad y=\\frac{10}{9}, z=-\\frac{1}{9}$$ as a solution</td>\n  </tr>\n  <tr>\n    <td class=\"tg-0pky\">(II) If $$\\frac{p}{r} \\neq 100$$, then the system of linear equations has</td>\n    <td class=\"tg-0pky\">(Q) $$x=\\frac{10}{9}, y=-\\frac{1}{9}, z=0$$ as a solution</td>\n  </tr>\n  <tr>\n    <td class=\"tg-0pky\">(III) If $$\\frac{p}{q} \\neq 10$$, then the system of linear equations has</td>\n    <td class=\"tg-0pky\">(R) infinitely many solutions</td>\n  </tr>\n  <tr>\n    <td class=\"tg-0pky\">(IV) If $$\\frac{p}{q}=10$$, then the system of linear equations has</td>\n    <td class=\"tg-0pky\">(S) no solution</td>\n  </tr>\n  <tr>\n    <td class=\"tg-0pky\"></td>\n    <td class=\"tg-0pky\">(T) at least one solution</td>\n  </tr>\n</tbody>\n</table></p>\n<p>The correct option is:</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "(I) $$\\rightarrow$$ (T); (II) $$\\rightarrow$$ (R); (III) $$\\rightarrow$$ (S); (IV) $$\\rightarrow$$ (T)"
+        },
+        {
+          "key": "B",
+          "value": "(I) $$\\rightarrow$$ (Q); (II) $$\\rightarrow$$ (S); (III) $$\\rightarrow$$ (S); (IV) $$\\rightarrow$$ (R)"
+        },
+        {
+          "key": "C",
+          "value": "(I) $$\\rightarrow(\\mathrm{Q})$$; (II) $$\\rightarrow$$ (R); (III) $$\\rightarrow(\\mathrm{P})$$; (IV) $$\\rightarrow$$ (R)"
+        },
+        {
+          "key": "D",
+          "value": " (I) $$\\rightarrow$$ (T); (II) $$\\rightarrow$$ (S); (III) $$\\rightarrow$$ (P); (IV) $$\\rightarrow$$ (T)"
+        }
+      ],
+      "answer": "B",
+      "explanation": "Given:\n<br/><br/>$$\n\\begin{gathered}\nx+y+z=1 ..........(1)\\\\\\\\\n10 x+100 y+1000 z=0 .........(2)\\\\\\\\\nq r x+p r y+p q z=0 ............(3)\n\\end{gathered}\n$$\n<br/><br/>Now equation (3) can be re-written as\n<br/><br/>$$\n\\frac{x}{p}=\\frac{y}{q}=\\frac{z}{r}=0 \\quad \\because\\{p, q, r \\neq 0\\}\n$$\n<br/><br/>Now given $p, q$ and $r$ are $10^{\\text {th }}, 100^{\\text {th }}$ and $1000^{\\text {th }}$ term of an. H.P.,\n<br/><br/>So let $p=\\frac{y}{a+9 d}, q=\\frac{1}{a+99 d}, r=\\frac{1}{a+999 d}$\n<br/><br/>Now from equation (3)\n<br/><br/>$$\n(a+9 d) x+(a+99 d) y+(a+999 d) z=0\n$$\n<br/><br/>Now from and (1), (2) and (3) we get\n<br/><br/>$$\n\\begin{aligned}\n\\Delta & =\\left|\\begin{array}{ccc}\n1 & 1 & 1 \\\\\n10 & 100 & 1000 \\\\\na+9 d & a+99 d & a+999 d\n\\end{array}\\right|=0 \\\\\\\\\n\\Delta x & =\\left|\\begin{array}{ccc}\n1 & 1 & 1 \\\\\n0 & 100 & 1000 \\\\\n0 & a+99 d & a+999 d\n\\end{array}\\right|=900(d-a) \\\\\\\\\n\\Delta y & =\\left|\\begin{array}{ccc}\n10 & 0 & 1000 \\\\\n1+9 d & 0 & a+999 d\n\\end{array}\\right|=990(a-d) \\\\\\\\\n\\Delta z & =\\left|\\begin{array}{ccc}\n1 & 1 & 1 \\\\\n1 & 1 & 1 \\\\\n10 & 100 & 0 \\\\\na+9 d & a+99 d & 0\n\\end{array}\\right|=90(d-a)\n\\end{aligned}\n$$\n<br/><br/>(I) If $\\frac{q}{r}=10 \\Rightarrow a=d$\n<br/><br/>$$\n\\Delta=\\Delta_x=\\Delta_y=\\Delta_z=0\n$$\n<br/><br/>And equation (1) and equation (2) represents non-parallel plane equation (2) and equation (3) represents same plane <br/><br/>$\\Rightarrow$ Infinitely many solutions.\n<br/><br/>Now finding solution by taking $z=\\lambda$ then\n<br/><br/>$$\n \\begin{aligned}\n& x+y  =1-\\lambda \\\\\\\\\n& x+10 y  =-100 \\lambda \\\\\\\\\n& x  =\\frac{10}{9}+100 \\lambda \\\\\\\\\n& y  =\\frac{-1}{9}-11 \\lambda \\\\\\\\\n& \\Rightarrow (x, y, z)  \\in\\left(\\frac{10}{9}+10 \\lambda, \\frac{-1}{9}-11 \\lambda, \\lambda\\right)\n\\end{aligned}\n$$\n<br/><br/>So $\\mathrm{P}$ is not valid for any value of $\\lambda \\rightarrow \\mathrm{Q}$\n<br/><br/>(II) $\\frac{p}{r} \\neq 100 \\Rightarrow a \\neq d$\n<br/><br/>$$\n\\Delta=0 \\,\\text{and}\\, \\Delta_{x^{\\prime}} \\Delta_{y^{\\prime}} \\Delta_z \\neq 0\n$$\n<br/><br/>So no solution.\n<br/><br/>$$\n\\text { II } \\rightarrow \\mathrm{S}\n$$\n<br/><br/>(III) If\n$$\n\\frac{p}{q} \\neq 10 \\Rightarrow a \\neq d \\text { then } \\Delta_z \\neq 0\n$$\n<br/><br/>So no solution.\n<br/><br/>$$\n\\text { III } \\rightarrow \\mathrm{S}\n$$\n<br/><br/>(IV) If\n$$\n\\Rightarrow a=d \\text { then } \\Delta_z=0 \\Rightarrow \\Delta_x=\\Delta_y=0\n$$\n<br/><br/>So infinitely many solutions.\n<br/><br/>$$\n\\mathrm{IV} \\rightarrow \\mathrm{R}\n$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Let $$M = \\left[ {\\matrix{\n   {{{\\sin }^4}\\theta }  \\cr \n   {1 + {{\\cos }^2}\\theta }  \\cr \n\n } \\matrix{\n   { - 1 - {{\\sin }^2}\\theta }  \\cr \n   {{{\\cos }^4}\\theta }  \\cr \n\n } } \\right] = \\alpha I + \\beta {M^{ - 1}}$$,<br><br>where $$\\alpha $$ = $$\\alpha $$($$\\theta $$) and $$\\beta $$ = $$\\beta $$($$\\theta $$) are real numbers, and I is the 2 $$ \\times $$ 2 identity matrix. If $$\\alpha $$<sup>*</sup> is the minimum of the set {$$\\alpha $$($$\\theta $$) : $$\\theta $$ $$ \\in $$ [0, 2$$\\pi $$)} and {$$\\beta $$($$\\theta $$) : $$\\theta $$ $$ \\in $$ [0, 2$$\\pi $$)}, then the value of $$\\alpha $$<sup>*</sup> + $$\\beta $$<sup>*</sup> is",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$ - {{17} \\over {16}}$$"
+        },
+        {
+          "key": "B",
+          "value": "$$ - {{31} \\over {16}}$$"
+        },
+        {
+          "key": "C",
+          "value": "$$ - {{37} \\over {16}}$$"
+        },
+        {
+          "key": "D",
+          "value": "$$ - {{29} \\over {16}}$$"
+        }
+      ],
+      "answer": "D",
+      "explanation": "It is given that matrix <br><br>$$M = \\left[ {\\matrix{\n   {{{\\sin }^4}\\theta }  \\cr \n   {1 + {{\\cos }^2}\\theta }  \\cr \n\n } \\matrix{\n   { - 1 - {{\\sin }^2}\\theta }  \\cr \n   {{{\\cos }^4}\\theta }  \\cr \n\n } } \\right] = \\alpha I + \\beta {M^{ - 1}}$$, where<br><br><br>$$\\alpha $$ = $$\\alpha $$($$\\theta $$) and $$\\beta $$ = $$\\beta $$($$\\theta $$) are real numbers and I is the 2 $$ \\times $$ 2 identity matrix.<br><br>Now, <br><br>$$(M) = \\left| M \\right| = {\\sin ^4}\\theta {\\cos ^4}\\theta  + 1 + {\\sin ^2}\\theta  + {\\cos ^2}\\theta  + {\\sin ^2}\\theta {\\cos ^2}\\theta$$<br><br>= $${\\sin ^4}\\theta {\\cos ^4}\\theta  + {\\sin ^2}\\theta {\\cos ^2}\\theta  + 2$$<br><br>and$$\\left[ {\\matrix{\n   {{{\\sin }^4}\\theta }  \\cr \n   {1 + {{\\cos }^2}\\theta }  \\cr \n\n } \\matrix{\n   { - 1 - {{\\sin }^2}\\theta }  \\cr \n   {{{\\cos }^4}\\theta }  \\cr \n\n } } \\right] = \\left[ {\\matrix{\n   \\alpha   \\cr \n   0  \\cr \n\n } \\,\\matrix{\n   0  \\cr \n   \\alpha   \\cr \n\n } } \\right]$$$$ + {\\beta  \\over {\\left| M \\right|}}(adj\\,M)$$<br><br>$$ \\because $$ $$\\left[ {{M^{ - 1}} = {{adj\\,M} \\over {\\left| M \\right|}}} \\right]$$<br><br>$$ \\Rightarrow $$ $$\\left[ {\\matrix{\n   {{{\\sin }^4}\\theta }  \\cr \n   {1 + {{\\cos }^2}\\theta }  \\cr \n\n } \\matrix{\n   { - 1 - {{\\sin }^2}\\theta }  \\cr \n   {{{\\cos }^4}\\theta }  \\cr \n\n } } \\right] = \\left[ {\\matrix{\n   \\alpha   \\cr \n   0  \\cr \n\n } \\,\\matrix{\n   0  \\cr \n   \\alpha   \\cr \n\n } } \\right] + {\\beta  \\over {\\left| M \\right|}}\\left[ {\\matrix{\n   {{{\\cos }^4}\\theta }  \\cr \n   { - 1 - {{\\cos }^2}\\theta }  \\cr \n\n } \\matrix{\n   {1 + {{\\sin }^2}\\theta }  \\cr \n   {{{\\sin }^4}\\theta }  \\cr \n\n } } \\right]$$<br><br>$$ \\because $$ $$\\left\\{ {adj\\left[ {\\matrix{\n   a &amp; b  \\cr \n   c &amp; d  \\cr \n\n } } \\right] = \\left[ {\\matrix{\n   d &amp; { - b}  \\cr \n   { - c} &amp; a  \\cr \n\n } } \\right]} \\right\\}$$<br><br>$$ \\Rightarrow \\beta  =  - \\left| M \\right|$$ and $$\\alpha  = {\\sin ^4}\\theta  + {\\cos ^4}\\theta $$<br><br>$$ \\Rightarrow \\alpha  = \\alpha (\\theta ) = 1 - {1 \\over 2}{\\sin ^2}(2\\theta )$$, and $$\\beta  = \\beta (\\theta ) =  - \\left\\{ {{{\\left( {{{\\sin }^2}\\theta {{\\cos }^2}\\theta  + {1 \\over 2}} \\right)}^2} + {7 \\over 4}} \\right\\} =  - \\left\\{ {{{\\left( {{{{{\\sin }^2}(2\\theta )} \\over 4} + {1 \\over 2}} \\right)}^2} + {7 \\over 4}} \\right\\}$$<br><br>Now, $${\\alpha ^*} = {\\alpha _{\\min }} = {1 \\over 2}$$<br><br>and $${\\beta ^*} = {\\beta _{\\min }} =  - {{37} \\over {16}}$$<br><br>$$ \\because $$ $$\\alpha $$ is minimum at sin<sup>2</sup>(2$$\\theta $$) = 1 and $$\\beta $$ is minimum at sin<sup>2</sup>(2$$\\theta $$) = 1<br><br>So, $${\\alpha ^*} + {\\beta ^*} = {1 \\over 2} - {{37} \\over {16}} =  - {{29} \\over {16}}$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "How many 3 $$ \\times $$ 3 matrices M with entries from {0, 1, 2} are there, for which the sum of the diagonal entries of M<sup>T</sup>M is 5?",
+      "options": [
+        {
+          "key": "A",
+          "value": "198"
+        },
+        {
+          "key": "B",
+          "value": "162"
+        },
+        {
+          "key": "C",
+          "value": "126"
+        },
+        {
+          "key": "D",
+          "value": "135"
+        }
+      ],
+      "answer": "A",
+      "explanation": "Sum of diagonal entries of M<sup>T</sup>M is $$\\sum\\limits_{}^{} {a_i^2} $$<br><br>$$\\sum\\limits_{i = 1}^9 {a_i^2}  = 5$$<br><br>Possibilities<br><br>I. 2, 1, 0, 0, 0, 0, 0, 0, 0, which gives $${{9!} \\over {7!}}$$ matrices<br><br>II. 1, 1, 1, 1, 1, 0, 0, 0, 0, which gives $${{9!} \\over {4!\\, \\times 5!}}$$ matrices<br><br>Total matrices = 9 $$ \\times $$ 8 + 9 $$ \\times $$ 7 $$ \\times $$ 2 = 198"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Let $$P = \\left[ {\\matrix{\n   1 & 0 & 0  \\cr \n   4 & 1 & 0  \\cr \n   {16} & 4 & 1  \\cr \n\n } } \\right]$$ and I be the identity matrix of order 3. If $$Q = [{q_{ij}}]$$ is a matrix such that $${P^{50}} - Q = I$$ and $${{{q_{31}} + {q_{32}}} \\over {{q_{21}}}}$$ equals</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "52"
+        },
+        {
+          "key": "B",
+          "value": "103"
+        },
+        {
+          "key": "C",
+          "value": "201"
+        },
+        {
+          "key": "D",
+          "value": "205"
+        }
+      ],
+      "answer": "B",
+      "explanation": "<p>Here, $$P = \\left[ {\\matrix{\n   1 & 0 & 0  \\cr \n   4 & 1 & 0  \\cr \n   {16} & 4 & 1  \\cr \n\n } } \\right]$$</p>\n<p>$$\\therefore$$ $${P^2} = \\left[ {\\matrix{\n   1 & 0 & 0  \\cr \n   4 & 1 & 0  \\cr \n   {16} & 4 & 1  \\cr \n\n } } \\right]\\left[ {\\matrix{\n   1 & 0 & 0  \\cr \n   4 & 1 & 0  \\cr \n   {16} & 4 & 1  \\cr \n\n } } \\right]$$</p>\n<p>$$ = \\left[ {\\matrix{\n   1 & 0 & 0  \\cr \n   {4 + 4} & 1 & 0  \\cr \n   {16 + 32} & {4 + 4} & 1  \\cr \n\n } } \\right]$$</p>\n<p>$$ = \\left[ {\\matrix{\n   1 & 0 & 0  \\cr \n   {4 \\times 2} & 1 & 0  \\cr \n   {16(1 + 2)} & {4 \\times 2} & 1  \\cr \n\n } } \\right]$$ ...... (i)</p>\n<p>and $${P^3} = \\left[ {\\matrix{\n   1 & 0 & 0  \\cr \n   {4 \\times 2} & 1 & 0  \\cr \n   {16(1 + 2)} & {4 \\times 2} & 1  \\cr \n\n } } \\right]\\left[ {\\matrix{\n   1 & 0 & 0  \\cr \n   4 & 1 & 0  \\cr \n   {16} & 4 & 1  \\cr \n\n } } \\right]$$</p>\n<p>$$ = \\left[ {\\matrix{\n   1 & 0 & 0  \\cr \n   {4 \\times 3} & 1 & 0  \\cr \n   {16(1 + 2 + 3)} & {4 \\times 3} & 1  \\cr \n\n } } \\right]$$ ..... (ii)</p>\n<p>From symmetry,</p>\n<p>$${P^{50}} = \\left[ {\\matrix{\n   1 & 0 & 0  \\cr \n   {4 \\times 50} & 1 & 0  \\cr \n   {16(1 + 2 + 3 + .... + 50)} & {4 \\times 50} & 1  \\cr \n\n } } \\right]$$</p>\n<p>$$\\because$$ $${P^{50}} - Q = I$$ [given]</p>\n<p>$$\\therefore$$ $$\\left[ {\\matrix{\n   {1 - {q_{11}}} & { - {q_{12}}} & { - {q_{13}}}  \\cr \n   {200 - {q_{21}}} & {1 - {q_{22}}} & { - {q_{23}}}  \\cr \n   {16 \\times {{50} \\over 2}(51) - {q_{31}}} & {200 - {q_{32}}} & {1 - {q_{33}}}  \\cr \n\n } } \\right]$$</p>\n<p>$$ = \\left[ {\\matrix{\n   1 & 0 & 0  \\cr \n   0 & 1 & 0  \\cr \n   0 & 0 & 1  \\cr \n\n } } \\right]$$</p>\n<p>$$ \\Rightarrow 200 - {q_{21}} = 0$$, $${{16 \\times 50 \\times 51} \\over 2} - {q_{31}} = 0$$, $$200 - {q_{32}} = 0$$</p>\n<p>$$\\therefore$$ $${q_{21}} = 200$$, $${q_{32}} = 200$$, $${q_{31}} = 20400$$</p>\n<p>Thus, $${{{q_{31}} + {q_{32}}} \\over {{q_{21}}}} = {{20400 + 200} \\over {200}}$$</p>\n<p>$$ = {{20600} \\over {200}} = 103$$</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>If P is a 3 $$\\times$$ 3 matrix such that P<sup>T</sup> = 2P + I, where P<sup>T</sup> is the transpose of P and I is the 3 $$\\times$$ 3 identity matrix, then there exists a column matrix $$X = \\left[ {\\matrix{\n   x  \\cr \n   y  \\cr \n   z  \\cr \n\n } } \\right] \\ne \\left[ {\\matrix{\n   0  \\cr \n   0  \\cr \n   0  \\cr \n\n } } \\right]$$ such that</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$PX = \\left[ {\\matrix{\n   0  \\cr \n   0  \\cr \n   0  \\cr \n\n } } \\right]$$"
+        },
+        {
+          "key": "B",
+          "value": "PX = X"
+        },
+        {
+          "key": "C",
+          "value": "PX = 2X"
+        },
+        {
+          "key": "D",
+          "value": "PX = $$-$$X"
+        }
+      ],
+      "answer": "D",
+      "explanation": "<p>We have $${P^T} = 2P + I$$</p>\n<p>We get $${P^T} - 2P = I$$ ..... (i)</p>\n<p>Taking transpose, we have $${({P^T} - 2P)^T} = {I^T}$$</p>\n<p>$$ \\Rightarrow P - 2{P^T} = I$$ ..... (ii)</p>\n<p>From (i) and (ii) on eliminating P<sup>T</sup> we have</p>\n<p>$$ - 4P + P = 3I \\Rightarrow P =  - I$$ $$\\therefore$$ $$P + I = 0$$</p>\n<p>Thus, $$(P + 1)X = 0 \\Rightarrow PX =  - X$$</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Let $$P = [{a_{ij}}]$$ be a 3 $$\\times$$ 3 matrix and let $$Q = [{b_{ij}}]$$, where $${b_{ij}} = {2^{i + j}}{a_{ij}}$$ for $$1 \\le i,j \\le 3$$. If the determinant of P is 2, then the determinant of the matrix Q is</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "2<sup>10</sup>"
+        },
+        {
+          "key": "B",
+          "value": "2<sup>11</sup>"
+        },
+        {
+          "key": "C",
+          "value": "2<sup>12</sup>"
+        },
+        {
+          "key": "D",
+          "value": "2<sup>13</sup>"
+        }
+      ],
+      "answer": "D",
+      "explanation": "<p>Here, $$P = {[{a_{ij}}]_{3 \\times 3}} = \\left[ {\\matrix{\n   {{a_{11}}} & {{a_{12}}} & {{a_{13}}}  \\cr \n   {{a_{21}}} & {{a_{22}}} & {{a_{23}}}  \\cr \n   {{a_{31}}} & {{a_{32}}} & {{a_{33}}}  \\cr \n\n } } \\right]$$</p>\n<p>$$Q = {[{b_{ij}}]_{3 \\times 3}} = \\left[ {\\matrix{\n   {{b_{11}}} & {{b_{12}}} & {{b_{13}}}  \\cr \n   {{b_{21}}} & {{b_{22}}} & {{b_{23}}}  \\cr \n   {{b_{31}}} & {{b_{32}}} & {{b_{33}}}  \\cr \n\n } } \\right]$$</p>\n<p>where, $${b_{ij}} = {2^{i + j}}{a_{ij}}$$</p>\n<p>$$\\therefore$$ $$\\left| Q \\right| = \\left| {\\matrix{\n   {4{a_{11}}} & {8{a_{12}}} & {16{a_{13}}}  \\cr \n   {8{a_{21}}} & {16{a_{22}}} & {32{a_{23}}}  \\cr \n   {16{a_{31}}} & {32{a_{32}}} & {64{a_{33}}}  \\cr \n\n } } \\right|$$</p>\n<p>$$ = 4 \\times 8 \\times 16\\left| {\\matrix{\n   {{a_{11}}} & {{a_{12}}} & {{a_{13}}}  \\cr \n   {2{a_{21}}} & {2{a_{22}}} & {2{a_{23}}}  \\cr \n   {4{a_{31}}} & {4{a_{32}}} & {4{a_{33}}}  \\cr \n\n } } \\right|$$</p>\n<p>$$ = {2^9} \\times 2 \\times 4\\left| {\\matrix{\n   {{a_{11}}} & {{a_{12}}} & {{a_{13}}}  \\cr \n   {{a_{21}}} & {{a_{22}}} & {{a_{23}}}  \\cr \n   {{a_{31}}} & {{a_{32}}} & {{a_{33}}}  \\cr \n\n } } \\right|$$</p>\n<p>$$ = {2^{12}}.\\left| P \\right| = {2^{12}}.2 = {2^{13}}$$</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>If the point P(a, b, c), with reference to (E), lies on the plane 2x + y + z = 1, then the value of 7a + b + c is</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "0"
+        },
+        {
+          "key": "B",
+          "value": "12"
+        },
+        {
+          "key": "C",
+          "value": "7"
+        },
+        {
+          "key": "D",
+          "value": "6"
+        }
+      ],
+      "answer": "D",
+      "explanation": "<p>Given, $${[\\matrix{\n   a & b & c  \\cr \n\n } ]_{1 \\times 3}}{\\left[ {\\matrix{\n   1 & 9 & 7  \\cr \n   8 & 2 & 7  \\cr \n   7 & 3 & 7  \\cr \n\n } } \\right]_{3 \\times 3}} = [\\matrix{\n   0 & 0 & 0  \\cr \n\n } ]$$</p>\n<p>$$ \\Rightarrow \\left[ {\\matrix{\n   {a + 8b + 7c}  \\cr \n   {9a + 2b + 3c}  \\cr \n   {7a + 7b + 7c}  \\cr \n\n } } \\right] = \\left[ {\\matrix{\n   0  \\cr \n   0  \\cr \n   0  \\cr \n\n } } \\right]$$</p>\n<p>$$ \\Rightarrow a + 8b + 7c = 0$$ ..... (i)</p>\n<p>$$ \\Rightarrow 9a + 2b + 3c = 0$$ .... (ii)</p>\n<p>$$ \\Rightarrow a + b + c = 0$$ ....... (iii)</p>\n<p>On multiplying Eq. (iii) by 2, then subtract from Eq. (ii), we get</p>\n<p>$$7a + c = 0$$ ..... (iv)</p>\n<p>Again multiplying Eq. (iii) by 3, then subtract from Eq. (ii), we get</p>\n<p>$$6a - b = 0$$ ..... (v)</p>\n<p>$$\\therefore$$ $$b = 6a$$ and $$c =  - 7a$$</p>\n<p>As (a, b, c) lies on $$2x + y + z = 1$$</p>\n<p>$$ \\Rightarrow 2a + b + c = 1$$</p>\n<p>$$ \\Rightarrow 2a + 6a - 7a = 1$$</p>\n<p>$$\\Rightarrow$$ a = 1, b = 6 and c = $$-$$7</p>\n<p>$$\\therefore$$ $$7a + b + c = 7 + 6 - 7 = 6$$</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Let $$\\omega$$ be a solution of $${x^3} - 1 = 0$$ with $${\\mathop{\\rm Im}\\nolimits} (\\omega ) > 0$$. If a = 2 with b and c satisfying (E), then the value of $${3 \\over {{\\omega ^a}}} + {1 \\over {{\\omega ^b}}} + {3 \\over {{\\omega ^c}}}$$ is equal to</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$-$$2"
+        },
+        {
+          "key": "B",
+          "value": "2"
+        },
+        {
+          "key": "C",
+          "value": "3"
+        },
+        {
+          "key": "D",
+          "value": "$$-$$3"
+        }
+      ],
+      "answer": "A",
+      "explanation": "<p>Given, $${[\\matrix{\n   a & b & c  \\cr \n\n } ]_{1 \\times 3}}{\\left[ {\\matrix{\n   1 & 9 & 7  \\cr \n   8 & 2 & 7  \\cr \n   7 & 3 & 7  \\cr \n\n } } \\right]_{3 \\times 3}} = [\\matrix{\n   0 & 0 & 0  \\cr \n\n } ]$$</p>\n<p>$$ \\Rightarrow \\left[ {\\matrix{\n   {a + 8b + 7c}  \\cr \n   {9a + 2b + 3c}  \\cr \n   {7a + 7b + 7c}  \\cr \n\n } } \\right] = \\left[ {\\matrix{\n   0  \\cr \n   0  \\cr \n   0  \\cr \n\n } } \\right]$$</p>\n<p>$$ \\Rightarrow a + 8b + 7c = 0$$ ..... (i)</p>\n<p>$$ \\Rightarrow 9a + 2b + 3c = 0$$ .... (ii)</p>\n<p>$$ \\Rightarrow a + b + c = 0$$ .... (iii)</p>\n<p>On multiplying Eq. (iii) by 2, then subtract from Eq. (ii), we get</p>\n<p>$$7a + c = 0$$ ..... (iv)</p>\n<p>Again multiplying Eq. (iii) by 3, then subtract from Eq. (ii), we get</p>\n<p>$$6a - b = 0$$ ..... (v)</p>\n<p>$$\\therefore$$ b = 6a and c = $$-$$ 7a</p>\n<p>If a = 2, b = 12 and c = $$-$$14</p>\n<p>$$\\therefore$$ $${3 \\over {{\\omega ^a}}} + {1 \\over {{\\omega ^b}}} + {3 \\over {{\\omega ^c}}}$$</p>\n<p>$$ \\Rightarrow {3 \\over {{\\omega ^2}}} + {1 \\over {{\\omega ^{12}}}} + {3 \\over {{\\omega ^{ - 14}}}} = {3 \\over {{\\omega ^2}}} + 1 + 3{\\omega ^2}$$</p>\n<p>$$ = 3\\omega  + 1 + 3{\\omega ^2}$$</p>\n<p>$$ = 1 + 3(\\omega  + {\\omega ^2})$$</p>\n<p>$$ = 1 - 3 =  - 2$$</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Let b = 6, with a and c satisfying (E). If $$\\alpha$$ and $$\\beta$$ are the roots of the quadratic equation ax<sup>2</sup> + bx + c = 0, then $$\\sum\\limits_{n = 0}^\\infty  {{{\\left( {{1 \\over \\alpha } + {1 \\over \\beta }} \\right)}^n}} $$ is</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "6"
+        },
+        {
+          "key": "B",
+          "value": "7"
+        },
+        {
+          "key": "C",
+          "value": "$${6 \\over 7}$$"
+        },
+        {
+          "key": "D",
+          "value": "$$\\infty$$"
+        }
+      ],
+      "answer": "B",
+      "explanation": "<p><p>Given, $${[\\matrix{\n   a & b & c  \\cr \n\n } ]_{1 \\times 3}}{\\left[ {\\matrix{\n   1 & 9 & 7  \\cr \n   8 & 2 & 7  \\cr \n   7 & 3 & 7  \\cr \n\n } } \\right]_{3 \\times 3}} = [\\matrix{\n   0 & 0 & 0  \\cr \n\n } ]$$</p>\n<p>$$ \\Rightarrow \\left[ {\\matrix{\n   {a + 8b + 7c}  \\cr \n   {9a + 2b + 3c}  \\cr \n   {7a + 7b + 7c}  \\cr \n\n } } \\right] = \\left[ {\\matrix{\n   0  \\cr \n   0  \\cr \n   0  \\cr \n\n } } \\right]$$</p>\n<p>$$ \\Rightarrow a + 8b + 7c = 0$$ ..... (i)</p>\n<p>$$ \\Rightarrow 9a + 2b + 3c = 0$$ .... (ii)</p>\n<p>$$ \\Rightarrow a + b + c = 0$$ .... (iii)</p>\n<p>On multiplying Eq. (iii) by 2, then subtract from Eq. (ii), we get</p>\n<p>$$7a + c = 0$$ ..... (iv)</p>\n<p>Again multiplying Eq. (iii) by 3, then subtract from Eq. (ii), we get</p>\n<p>$$6a - b = 0$$ ..... (v)</p>\n<p>$$\\therefore$$ b = 6a and c = $$-$$ 7a</p>\n<p>If b = 6, a = 1 and c = $$-$$7</p>\n<p>$$\\therefore$$ $$a{x^2} + bx + c = 0$$</p>\n<p>$$ \\Rightarrow {x^2} + 6x - 7 = 0$$</p>\n<p>$$ \\Rightarrow (x + 7)(x - 1) = 0$$</p>\n<p>$$\\therefore$$ $$x = 1,7$$</p>\n<p>$$ \\Rightarrow \\sum\\limits_{n = 0}^\\infty  {{{\\left( {{1 \\over 1} - {1 \\over 7}} \\right)}^n} \\Rightarrow \\sum\\limits_{n = 0}^\\infty  {{{\\left( {{6 \\over 7}} \\right)}^n}} } $$</p>\n<p>$$ \\Rightarrow 1 + {6 \\over 7} + {\\left( {{6 \\over 7}} \\right)^n} + ....\\infty $$</p>\n<p>$$ = {1 \\over {1 - {6 \\over 7}}} = {1 \\over {1/7}} = 7$$</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Let $$\\omega$$ $$\\ne$$ 1 be a cube root of unity and S be the set of all non-singular matrices of the form $$\\left[ {\\matrix{\n   1 & a & b  \\cr \n   \\omega  & 1 & c  \\cr \n   {{\\omega ^2}} & \\omega  & 1  \\cr \n\n } } \\right]$$, where each of a, b, and c is either $$\\omega$$ or $$\\omega$$<sup>2</sup>. Then the number of distinct matrices in the set S is</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "2"
+        },
+        {
+          "key": "B",
+          "value": "6"
+        },
+        {
+          "key": "C",
+          "value": "4"
+        },
+        {
+          "key": "D",
+          "value": "8"
+        }
+      ],
+      "answer": "A",
+      "explanation": "<p>$$\\left| A \\right| \\ne 0$$, as non-singular.</p>\n<p>$$\\therefore$$ $$\\left| {\\matrix{\n   1 & a & b  \\cr \n   \\omega  & 1 & c  \\cr \n   {{\\omega ^2}} & \\omega  & 1  \\cr \n\n } } \\right| \\ne 0$$</p>\n<p>$$ \\Rightarrow 1(1 - c\\omega ) - a(\\omega  - c{\\omega ^2}) + b({\\omega ^2} - {\\omega ^2}) \\ne 0$$</p>\n<p>$$ \\Rightarrow 1 - c\\omega  - a\\omega  + ac{\\omega ^2} \\ne 0$$</p>\n<p>$$ \\Rightarrow (1 - c\\omega )(1 - a\\omega ) \\ne 0$$</p><p>$$ \\Rightarrow a \\ne {1 \\over \\omega },c \\ne {1 \\over \\omega } \\Rightarrow a = \\omega ,c = \\omega $$</p>\n<p>and $$b \\in \\{ \\omega ,{\\omega ^2}\\}  \\Rightarrow 2$$ solutions</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>The number of $3 \\times 3$ matrices A whose entries are either 0 or 1 and for which the system <br/><br/>$\\mathrm{A}\\left[\\begin{array}{l}x \\\\ y \\\\ z\\end{array}\\right]=\\left[\\begin{array}{l}1 \\\\ 0 \\\\ 0\\end{array}\\right]$ has exactly two distinct solutions, is</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "0"
+        },
+        {
+          "key": "B",
+          "value": " $2^9-1$"
+        },
+        {
+          "key": "C",
+          "value": "168"
+        },
+        {
+          "key": "D",
+          "value": "2"
+        }
+      ],
+      "answer": "A",
+      "explanation": "<p>Given,</p>\n<p>A $\\left[\\begin{array}{l}x \\\\ y \\\\ z\\end{array}\\right]=\\left[\\begin{array}{l}1 \\\\ 0 \\\\ 0\\end{array}\\right]$ has two distinct solution we know that three Planes cannot intersect at two distinct point.</p>\n<p>Hence, number of $3 \\times 3$ matrix $A$ is zero.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The number of $A$ in $T_p$ such that $A$ is either symmetric or skew-symmetric or both, and $\\operatorname{det}(\\mathrm{A}) \\operatorname{divisible}$ by $p$ is :",
+      "options": [
+        {
+          "key": "A",
+          "value": "$(p-1)^2$"
+        },
+        {
+          "key": "B",
+          "value": "$2(p-1)$"
+        },
+        {
+          "key": "C",
+          "value": "$(p-1)^2+1$"
+        },
+        {
+          "key": "D",
+          "value": "$2 p-1$"
+        }
+      ],
+      "answer": "D",
+      "explanation": "<p>We must have $a^2-b^2=1 < p$</p>\n<p>$$ (a+b)(a-b)=1 < p $$</p>\n<p>Either $a-b=0$ or $a+b$ is a multiple of $p$ when $a=b$ number of matrices is $p$ and when $a+b$ $=$ multiple of $p$.</p>\n<p>$$ \\Rightarrow a, b \\text { has } p-1 $$</p>\n<p>$$ \\begin{aligned} \\text { Total number of matrices } & =p+p-1 \\\\\\\\ & =2 p-1 \\end{aligned} $$</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>The number of A in $\\mathrm{T}_p$ such that the trace of A is not divisible by $p$ but $\\operatorname{det}(\\mathrm{A})$ is divisible by $p$ is</p>\n<p>[<b>Note :</b> The trace of a matrix is the sum of its diagonal entries.]</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "$(p-1)\\left(p^2-p+1\\right)$"
+        },
+        {
+          "key": "B",
+          "value": "$p^3-(p-1)^2$"
+        },
+        {
+          "key": "C",
+          "value": "$(p-1)^2$"
+        },
+        {
+          "key": "D",
+          "value": "$(p-1)\\left(p^2-2\\right)$"
+        }
+      ],
+      "answer": "C",
+      "explanation": "<p>We have an odd prime $p$.  Consider the set</p>\n<p>$ T_p \\;=\\;  \\Bigl\\{ A \\;=\\;\\begin{pmatrix} a & b \\\\[6pt] c & a \\end{pmatrix} \\;:\\; a,b,c \\in \\{0,1,2,\\dots,p-1\\} \\Bigr\\}. $</p>\n<p>We want to count the number of such matrices $A$ that satisfy:</p>\n\n<p><p>$\\text{trace}(A) \\not\\equiv 0 \\pmod{p}$.  </p>\n<p>Since $\\text{trace}(A) = a + a = 2a$, this means</p>\n<p>$    2a \\;\\not\\equiv\\; 0 \\pmod{p}.    $</p>\n<p>Because $p$ is an odd prime, $2$ is invertible $\\bmod\\,p$.  </p>\n<p>Hence $2a \\equiv 0 \\pmod{p}$ if and only if $a \\equiv 0 \\pmod{p}$.  </p>\n<p>Thus the condition </p>\n<p>$\\text{trace}(A) \\not\\equiv 0 \\pmod{p}$</p>\n<p>is equivalent to </p>\n<p>$    a \\;\\neq\\; 0 \\pmod{p}.    $</p>\n<p>In other words, $a$ must be a nonzero element modulo $p$; so</p>\n<p>$a\\in\\{1,2,\\dots,p-1\\}.$</p></p>\n<p><p>$\\det(A) \\equiv 0 \\pmod{p}$.  </p>\n<p>For the matrix </p>\n<p>$\\begin{pmatrix} a & b \\\\ c & a \\end{pmatrix},$ we have</p>\n<p>$    \\det(A) \\;=\\; a^2 - bc.    $</p>\n<p>The condition $\\det(A)\\equiv 0\\pmod{p}$ means</p>\n<p>$    a^2 \\;-\\; bc     \\;\\equiv\\; 0     \\pmod{p}    \\quad\\Longleftrightarrow\\quad    bc     \\;\\equiv\\; a^2     \\pmod{p}.    $</p></p>\n\n<p>Putting these two pieces together:</p>\n\n<p><p>$a$ is nonzero ($a \\in \\{1,\\dots,p-1\\}$).</p></p>\n<p><p>$bc \\equiv a^2 \\pmod{p}.$</p></p>\n\n<hr />\n<h2>Counting the solutions</h2>\n<p>We must count the number of triples $(a,b,c)$ with $a\\neq 0$ and $bc \\equiv a^2$.</p>\n\n<p><p><strong>Range for $a$</strong>  </p>\n<p>Since $a\\in \\{1,2,\\dots,p-1\\}$, there are $p-1$ possible values of $a$.</p></p>\n<p><p><strong>Condition $bc \\equiv a^2$ for given $a$</strong>  </p>\n<p>Since $a \\neq 0$, $a^2$ is also nonzero $\\bmod\\,p$.  </p></p>\n\n\n<p><p>If $b = 0$, then $bc \\equiv 0$, which would only be equal to $a^2$ if $a^2 \\equiv 0$.  But $a^2\\neq 0$ since $a\\neq 0$.  So $b=0$ gives no solutions.</p></p>\n<p><p>Similarly, if $c=0$, then $bc=0$, which again cannot equal the nonzero $a^2$.  So $c=0$ gives no solutions either.</p></p>\n<p><p>Therefore $b$ and $c$ must both be nonzero modulo $p$.  </p>\n<p>Once $b$ is chosen to be any nonzero element in $\\{1,\\dots,p-1\\}$, there is a unique $c \\equiv a^2 \\,b^{-1} \\pmod{p}$.  Hence:</p></p>\n<p><p>For each nonzero $b$ (that is, $b\\in\\{1,\\dots,p-1\\}$), there is exactly <strong>one</strong> $c\\in\\{1,\\dots,p-1\\}$ satisfying $bc \\equiv a^2$.</p></p>\n<p><p>Consequently, for each fixed nonzero $a$, the number of $(b,c)$-pairs is $p-1$.</p></p>\n\n\n<p><strong>Putting it all together</strong>  </p>\n\n\n<p><p>We have $p-1$ choices for $a\\neq 0$.</p></p>\n<p><p>For each such $a$, there are $p-1$ pairs $(b,c)$ satisfying $bc\\equiv a^2$.</p></p>\n<p><p>Therefore, in total, the number of matrices is</p>\n<p>$      (p-1)\\,\\times\\,(p-1)      \\;=\\;      (p-1)^2.      $</p></p>\n\n<p>Hence the correct answer matches option <strong>C</strong>, which is</p>\n<p>$ \\boxed{(p-1)^2.} $</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The number of A in $\\mathrm{T}_p$ such that $\\operatorname{det}(\\mathrm{A})$ is not divisible by $p$ is :",
+      "options": [
+        {
+          "key": "A",
+          "value": "$2 p^2$"
+        },
+        {
+          "key": "B",
+          "value": "$p^3-5 p$"
+        },
+        {
+          "key": "C",
+          "value": "$p^3-3 p$"
+        },
+        {
+          "key": "D",
+          "value": "$p^3-p^2$"
+        }
+      ],
+      "answer": "D",
+      "explanation": "<p>Let $p$ be an odd prime number, and consider the set</p>\n<p>$ T_{p} \\;=\\;  \\Bigl\\{ A \\;=\\;\\begin{pmatrix} a & b\\\\[6pt] c & a \\end{pmatrix} \\;:\\; a,b,c \\in \\{0,1,2,\\dots,p-1\\} \\Bigr\\}. $</p>\n<p>We want to count the number of matrices $A \\in T_p$ whose determinant is <strong>not</strong> divisible by $p$. </p>\n<p>Recall that for</p>\n<p>$ A \\;=\\; \\begin{pmatrix}  a & b \\\\  c & a  \\end{pmatrix}, $</p>\n<p>the determinant is</p>\n<p>$ \\det(A) \\;=\\; a^2 \\;-\\; b\\,c. $</p>\n<p>Hence $\\det(A)$ is <strong>not</strong> divisible by $p$ precisely when</p>\n<p>$ a^2 \\;-\\; b\\,c \\;\\not\\equiv\\; 0 \\pmod{p}, \\quad\\text{i.e.,}\\quad a^2 \\;\\neq\\; b\\,c \\pmod{p}. $</p>\n<hr />\n<h3>Total number of matrices</h3>\n<p>Since $a,b,c$ each range over $\\{0,1,\\dots,p-1\\}$, there are</p>\n<p>$ p^3 $</p>\n<p>total possible matrices in $T_p$.</p>\n<hr />\n<h3>Step 1: Count how many $(a,b,c)$ <strong>do</strong> satisfy $a^2 \\equiv b\\,c \\pmod{p}$</h3>\n<p>It will be easier to first count the number of triples $(a,b,c)$ for which</p>\n<p>$ a^2 \\;\\equiv\\; b\\,c \\pmod{p}, $</p>\n<p>and then subtract that from $p^3$.</p>\n<hr />\n<h4>Case A: $a = 0$</h4>\n<p>Then $a^2 = 0$.  We need </p>\n<p>$ b\\,c \\;\\equiv\\; 0 \\pmod{p}. $</p>\n<p>Over the field $\\mathbf{F}_p$, the product $b\\,c\\equiv 0$ if and only if at least one of $b$ or $c$ is $0$ (since $p$ is prime).</p>\n\n<p><p>If $b=0$, then $c$ can be anything in $\\{0,\\dots,p-1\\}$.  </p>\n<p>This gives $p$ possibilities.  </p></p>\n<p><p>If $c=0$, then $b$ can be anything in $\\{0,\\dots,p-1\\}$.  </p>\n<p>This also gives $p$ possibilities.  </p></p>\n<p><p>However, the pair $(b=0, c=0)$ is counted in both cases, so we must subtract it out once.</p></p>\n\n<p>Hence, for $a=0$, the number of $(b,c)$ such that $b\\,c \\equiv 0$ is</p>\n<p>$ p \\;+\\; p \\;-\\; 1  \\;=\\; 2p \\;-\\; 1. $</p>\n<hr />\n<h4>Case B: $a \\neq 0$</h4>\n<p>Then $a$ can be any nonzero element in $\\{1,2,\\dots,p-1\\}$; there are $p-1$ such choices.  In that scenario, $a^2 \\neq 0\\pmod{p}$.  We want</p>\n<p>$ b\\,c \\;\\equiv\\; a^2 \\pmod{p}. $</p>\n<p>Over $\\mathbf{F}_p$, a nonzero right-hand side $a^2$ can be written as $b\\,c$ in the following way:</p>\n\n<p><p>If $b=0$, then $b\\,c = 0$, which cannot equal $a^2\\neq 0$.  </p>\n<p>No solutions in that subcase.</p></p>\n<p><p>If $b \\neq 0$, then for each nonzero $b$ there is <strong>exactly one</strong> $c$ satisfying $b\\,c \\equiv a^2\\pmod{p}$, namely $c \\equiv a^2 b^{-1}\\pmod{p}$.  </p></p>\n\n<p>Since $b$ can be any of the $p-1$ nonzero elements, we get $p-1$ solutions $(b,c)$ for each nonzero $a$.  </p>\n<p>Thus, for each $a\\neq 0$, there are $p-1$ pairs $(b,c)$.  Hence, for $p-1$ values of $a$, the total number of solutions in this case is</p>\n<p>$ (p-1)\\,\\times\\,(p-1) \\;=\\; (p-1)^2. $</p>\n<hr />\n<h4>Total number of solutions to $a^2 = b\\,c$</h4>\n<p>Summing these two cases:</p>\n\n<p><p>Case A $(a=0)$: $2p - 1$ solutions.</p></p>\n<p><p>Case B $(a\\neq 0)$: $(p-1)^2$ solutions.</p></p>\n\n<p>Hence the total count of $(a,b,c)$ satisfying $a^2 \\equiv b\\,c$ is</p>\n<p>$ (2p -1) \\;+\\; (p-1)^2  \\;=\\; (2p -1) \\;+\\; \\bigl(p^2 \\;-\\;2p \\;+\\;1\\bigr) \\;=\\; p^2. $</p>\n<p>(A classic result: there are exactly $p^2$ solutions to $b\\,c = a^2$ over $\\mathbf{F}_p^3$.)</p>\n<hr />\n<h3>Step 2: Count how many $(a,b,c)$ satisfy $a^2 \\neq b\\,c$</h3>\n<p>Since there are $p^3$ total triples $(a,b,c)$, the number that satisfy</p>\n<p>$ a^2 \\;\\neq\\; b\\,c \\pmod{p} $</p>\n<p>is simply</p>\n<p>$ p^3 \\;-\\; p^2. $</p>\n<p>This directly corresponds to matrices $A$ whose determinant $a^2 - b\\,c$ is $\\not\\equiv 0\\pmod{p}$.  </p>\n<p>Hence, the number of matrices in $T_p$ with $\\det(A)$ <strong>not</strong> divisible by $p$ is</p>\n<p>$ \\boxed{p^3 - p^2}. $</p>\n<hr />\n<p>The expression $p^3 - p^2$ matches <strong>Option D</strong>.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>The number of matrices in A is</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "12"
+        },
+        {
+          "key": "B",
+          "value": "6"
+        },
+        {
+          "key": "C",
+          "value": "9"
+        },
+        {
+          "key": "D",
+          "value": "3"
+        }
+      ],
+      "answer": "A",
+      "explanation": "Here,\n<br/><br/>Matrix [A]<sub>3 × 3</sub> is symmetric\n<br/><br/>Here, 5 be the number of 1’s and 4 be the 0’s\nentry in matrix A\n<br/><br/>Let x be the number of 1’s on main diagonal.\n<br/><br/>Since A is symmetric so, y be the number of 1’s\nbelow the main diagonal\n<br/><br/>So , x + 2y = 5\n<br/><br/> x = 1 and y = 2\n<br/><br/>or x = 3 and y = 1\n<br/><br/><b>Case I :</b> x = 1 and y = 2\n<br/><br/>Here, Main diagonal entries in 0, 0 and 1. Hence,\nwe can choose main diagonal in 3 ways, and element above the diagonal is 1, 1, 0 . Hence, we\ncan choose it element above the main diagonal\nin 3 ways , element of below diagonal depends\non above the main diagonal.\n<br/><br/>Hence, total way = 3 × 3 = 9\n<br/><br/><b>Case II :</b> x = 3 and y = 1\n<br/><br/>Here, Main diagonal entries in 1, 1 and 1.\n<br/>Hence, we can choose main diagonal 1 ways\nand element above the diagonal is 1, 0, 0.\nHence, we can choose it element above the\nmain diagonal in 3 ways, element of below\ndiagonal depends on above the main diagonal.\n<br/><br/>Hence, total ways = 3 × 4 = 12\n<br/><br/>So, Total matrices = 9 + 3 = 12"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>The number of matrices A in A for which the system of linear equations $$A\\left[ {\\matrix{\n   x  \\cr \n   y  \\cr \n   z  \\cr \n\n } } \\right] = \\left[ {\\matrix{\n   1  \\cr \n   0  \\cr \n   0  \\cr \n\n } } \\right]$$ has a unique solution, is</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "less than 4"
+        },
+        {
+          "key": "B",
+          "value": "at least 4 but less than 7"
+        },
+        {
+          "key": "C",
+          "value": "at least 7 but less than 10"
+        },
+        {
+          "key": "D",
+          "value": "at least 10"
+        }
+      ],
+      "answer": "B",
+      "explanation": "<p>We have</p>\n<p>$$\\left[ {\\matrix{\n   0 & a & b  \\cr \n   a & 0 & c  \\cr \n   b & c & 1  \\cr \n\n } } \\right]$$</p>\n<p>We can see that either $$b = 0$$ or $$c = 0 \\Rightarrow |A| \\ne 0$$; therefore two matrices.</p>\n<p>$$\\left[ {\\matrix{\n   0 & a & b  \\cr \n   a & 1 & c  \\cr \n   b & c & 0  \\cr \n\n } } \\right]$$</p>\n<p>Now, either $$a = 0$$ or $$c = 0 \\Rightarrow |A| \\ne 0$$; therefore, two matrices</p>\n<p>$$\\left[ {\\matrix{\n   1 & a & b  \\cr \n   a & 0 & c  \\cr \n   b & c & 0  \\cr \n\n } } \\right]$$</p>\n<p>Now, either $$a = 0$$ or $$b = 0 \\Rightarrow |A| \\ne 0$$; therefore two matrices.</p>\n<p>$$\\left[ {\\matrix{\n   1 & a & b  \\cr \n   a & 1 & c  \\cr \n   b & c & 1  \\cr \n\n } } \\right]$$</p>\n<p>When $$a = b = 0 \\Rightarrow |A| = 0$$</p>\n<p>When $$a = c = 0 \\Rightarrow |A| = 0$$</p>\n<p>When $$b = c = 0 \\Rightarrow |A| = 0$$</p>\n<p>Therefore, there are only six matrices.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>The number of matrices A in A for which the system of linear equations $$A\\left[ {\\matrix{\n   x  \\cr \n   y  \\cr \n   z  \\cr \n\n } } \\right] = \\left[ {\\matrix{\n   1  \\cr \n   0  \\cr \n   0  \\cr \n\n } } \\right]$$ is inconsistent, is</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "0"
+        },
+        {
+          "key": "B",
+          "value": "more than 2"
+        },
+        {
+          "key": "C",
+          "value": "2"
+        },
+        {
+          "key": "D",
+          "value": "1"
+        }
+      ],
+      "answer": "B",
+      "explanation": "<p>The six matrices A for which $$|A| = 0$$ are as follows:</p>\n<p>$$\\left[ {\\matrix{\n   0 & 0 & 1  \\cr \n   0 & 0 & 1  \\cr \n   1 & 1 & 1  \\cr \n\n } } \\right] \\Rightarrow $$ inconsistent.</p>\n<p>$$\\left[ {\\matrix{\n   0 & 1 & 0  \\cr \n   1 & 1 & 1  \\cr \n   0 & 1 & 0  \\cr \n\n } } \\right] \\Rightarrow $$ inconsistent.</p>\n<p>$$\\left[ {\\matrix{\n   1 & 1 & 1  \\cr \n   1 & 0 & 0  \\cr \n   1 & 0 & 0  \\cr \n\n } } \\right] \\Rightarrow $$ infinite solutions.</p>\n<p>$$\\left[ {\\matrix{\n   1 & 1 & 0  \\cr \n   1 & 1 & 0  \\cr \n   0 & 0 & 1  \\cr \n\n } } \\right] \\Rightarrow $$ inconsistent.</p>\n<p>$$\\left[ {\\matrix{\n   1 & 0 & 1  \\cr \n   0 & 1 & 0  \\cr \n   1 & 0 & 1  \\cr \n\n } } \\right] \\Rightarrow $$ inconsistent.</p>\n<p>$$\\left[ {\\matrix{\n   1 & 0 & 0  \\cr \n   0 & 1 & 1  \\cr \n   0 & 1 & 1  \\cr \n\n } } \\right] \\Rightarrow $$ infinite solutions.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Consider the system of equations:</p>\n<p>$$x-2y+3z=-1$$</p>\n<p>$$-x+y-2z=k$$</p>\n<p>$$x-3y+4z=1$$</p>\n<p>Statement - 1 : The system of equations has no solution for $$k\\ne3$$.</p>\n<p>and</p>\n<p>Statement - 2 : The determinant $$\\left| {\\matrix{\n   1 & 3 & { - 1}  \\cr \n   { - 1} & { - 2} & k  \\cr \n   1 & 4 & 1  \\cr \n\n } } \\right| \\ne 0$$, for $$k \\ne 3$$.</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "Statement - 1 is True, Statement - 2 is True; Statement - 2 is a correct explanation for Statement - 1"
+        },
+        {
+          "key": "B",
+          "value": "Statement - 1 is True, Statement - 2 is True; Statement - 2 is NOT a correct explanation for Statement - 1"
+        },
+        {
+          "key": "C",
+          "value": "Statement - 1 is True, Statement - 2 is False"
+        },
+        {
+          "key": "D",
+          "value": "Statement - 1 is False, Statement - 2 is True"
+        }
+      ],
+      "answer": "A",
+      "explanation": "<p>The given equations are</p>\n<p>$$x - 2y + 3z =  - 1$$</p>\n<p>$$ - x + y - 2z = k$$</p>\n<p>$$x - 3y + 4z = 1$$</p>\n<p>$$D = \\left| {\\matrix{\n   1 & { - 2} & 3  \\cr \n   { - 1} & 1 & { - 2}  \\cr \n   1 & { - 3} & 4  \\cr \n\n } } \\right| = 0$$</p>\n<p>$$D = \\left| {\\matrix{\n   1 & { - 1} & 3  \\cr \n   { - 1} & k & { - 2}  \\cr \n   1 & 1 & 4  \\cr \n\n } } \\right| = k - 3 \\ne 0$$</p>\n<p>If $$k \\ne 3$$, the system has no solutions.</p>\n<p>Hence, Statement - 1 is True Statement - 2 is correct explanation for Statement - 1.</p>"
+    }
+  ]
+}

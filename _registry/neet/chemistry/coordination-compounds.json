@@ -1,0 +1,1255 @@
+{
+  "_index": {
+    "name": "Coordination Compounds"
+  },
+  "_children": [
+    {
+      "_type": "single_mcq",
+      "body": "<p>Match List I with List II.</p>\n<p><style type=\"text/css\">\n.tg  {border-collapse:collapse;border-spacing:0;}\n.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}\n.tg .tg-7btt{border-color:inherit;font-weight:bold;text-align:center;vertical-align:top}\n.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}\n</style>\n<table class=\"tg\" style=\"undefined;table-layout: fixed; width: 574px\">\n<colgroup>\n<col style=\"width: 79px\">\n<col style=\"width: 212px\">\n<col style=\"width: 75px\">\n<col style=\"width: 208px\">\n</colgroup>\n<thead>\n  <tr>\n    <th class=\"tg-7btt\"></th>\n    <th class=\"tg-7btt\">List I<br>(Complex)</th>\n    <th class=\"tg-7btt\"></th>\n    <th class=\"tg-7btt\">List II<br>(Type of isomerism)</th>\n  </tr>\n</thead>\n<tbody>\n  <tr>\n    <td class=\"tg-c3ow\">A.</td>\n    <td class=\"tg-0pky\">$$<br>\\left[\\mathrm{Co}\\left(\\mathrm{NH}_3\\right)_5\\left(\\mathrm{NO}_2\\right)\\right] \\mathrm{Cl}_2<br>$$</td>\n    <td class=\"tg-c3ow\">I.</td>\n    <td class=\"tg-0pky\">Solvate isomerism</td>\n  </tr>\n  <tr>\n    <td class=\"tg-c3ow\">B.</td>\n    <td class=\"tg-0pky\">$$<br>\\left[\\mathrm{Co}\\left(\\mathrm{NH}_3\\right)_5\\left(\\mathrm{SO}_4\\right)\\right] \\mathrm{Br}<br>$$</td>\n    <td class=\"tg-c3ow\">II.</td>\n    <td class=\"tg-0pky\">Linkage isomerism</td>\n  </tr>\n  <tr>\n    <td class=\"tg-c3ow\">C.</td>\n    <td class=\"tg-0pky\">$$<br>\\left[\\mathrm{Co}\\left(\\mathrm{NH}_3\\right)_6\\right]\\left[\\mathrm{Cr}(\\mathrm{CN})_6\\right]<br>$$</td>\n    <td class=\"tg-c3ow\">III.</td>\n    <td class=\"tg-0pky\">Ionization isomerism</td>\n  </tr>\n  <tr>\n    <td class=\"tg-c3ow\">D.</td>\n    <td class=\"tg-0pky\">$$<br>\\left[\\mathrm{Co}\\left(\\mathrm{H}_2 \\mathrm{O}\\right)_6\\right] \\mathrm{Cl}_3<br>$$</td>\n    <td class=\"tg-c3ow\">IV.</td>\n    <td class=\"tg-0pky\">Coordination isomerism</td>\n  </tr>\n</tbody>\n</table></p>\n<p>Choose the correct answer from the options given below:</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "A-II, B-III, C-IV, D-I\n"
+        },
+        {
+          "key": "B",
+          "value": "A-I, B-III, C-IV, D-II\n"
+        },
+        {
+          "key": "C",
+          "value": "A-I, B-IV, C-III, D-II\n"
+        },
+        {
+          "key": "D",
+          "value": "A-II, B-IV, C-III, D-I"
+        }
+      ],
+      "answer": "A",
+      "explanation": "<p><style type=\"text/css\">\n.tg  {border-collapse:collapse;border-spacing:0;}\n.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}\n.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}\n</style>\n<table class=\"tg\" style=\"undefined;table-layout: fixed; width: 574px\">\n<colgroup>\n<col style=\"width: 79px\">\n<col style=\"width: 212px\">\n<col style=\"width: 75px\">\n<col style=\"width: 208px\">\n</colgroup>\n<thead>\n  <tr>\n    <th class=\"tg-c3ow\">A.</th>\n    <th class=\"tg-0pky\">$$<br>\\left[\\mathrm{Co}\\left(\\mathrm{NH}_3\\right)_5\\left(\\mathrm{NO}_2\\right)\\right] \\mathrm{Cl}_2<br>$$</th>\n    <th class=\"tg-c3ow\">I.</th>\n    <th class=\"tg-0pky\">Linkage isomerism due to 'N' and 'O' linkage by NO$$_2$$</th>\n  </tr>\n</thead>\n<tbody>\n  <tr>\n    <td class=\"tg-c3ow\">B.</td>\n    <td class=\"tg-0pky\">$$<br>\\left[\\mathrm{Co}\\left(\\mathrm{NH}_3\\right)_5\\left(\\mathrm{SO}_4\\right)\\right] \\mathrm{Br}<br>$$</td>\n    <td class=\"tg-c3ow\">II.</td>\n    <td class=\"tg-0pky\">Ionization isomerism</td>\n  </tr>\n  <tr>\n    <td class=\"tg-c3ow\">C.</td>\n    <td class=\"tg-0pky\">$$<br>\\left[\\mathrm{Co}\\left(\\mathrm{NH}_3\\right)_6\\right]\\left[\\mathrm{Cr}(\\mathrm{CN})_6\\right]<br>$$</td>\n    <td class=\"tg-c3ow\">III.</td>\n    <td class=\"tg-0pky\">Coordination isomerism</td>\n  </tr>\n  <tr>\n    <td class=\"tg-c3ow\">D.</td>\n    <td class=\"tg-0pky\">$$<br>\\left[\\mathrm{Co}\\left(\\mathrm{H}_2 \\mathrm{O}\\right)_6\\right] \\mathrm{Cl}_3<br>$$</td>\n    <td class=\"tg-c3ow\">IV.</td>\n    <td class=\"tg-0pky\">Solvate isomerism</td>\n  </tr>\n</tbody>\n</table></p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Given below are two statements :</p>\n<p>Statement I : $$[\\mathrm{Co}(\\mathrm{NH}_3)_6]^{3+}$$ is a homoleptic complex whereas $$[\\mathrm{Co}(\\mathrm{NH}_3)_4 \\mathrm{Cl}_2]^{+}$$ is a heteroleptic complex.</p>\n<p>Statement II : Complex $$[\\mathrm{Co}(\\mathrm{NH}_3)_6]^{3+}$$ has only one kind of ligands but $$[\\mathrm{Co}(\\mathrm{NH}_3)_4 \\mathrm{Cl}_2]^{+}$$ has more than one kind of ligands.</p>\n<p>In the light of the above statements, choose the correct answer from the options given below.</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "Both Statement I and Statement II are true\n"
+        },
+        {
+          "key": "B",
+          "value": "Both Statement I and Statement II are false\n"
+        },
+        {
+          "key": "C",
+          "value": "Statement I is true but Statement II is false\n"
+        },
+        {
+          "key": "D",
+          "value": "Statement I is false but Statement II is true"
+        }
+      ],
+      "answer": "A",
+      "explanation": "<p>To determine the correctness of these statements and choose the correct option, we need to understand the concepts of homoleptic and heteroleptic complexes:</p>\n\n<p><strong>Homoleptic Complex</strong>: A complex in which a central atom is surrounded by only one kind of donor atom or identical ligands is known as a homoleptic complex. An example would be $$[\\mathrm{Co}(\\mathrm{NH}_3)_6]^{3+}$$, where all the ligands are ammonia ($$\\mathrm{NH}_3$$).</p>\n\n<p><strong>Heteroleptic Complex</strong>: A complex in which a central atom is surrounded by more than one kind of donor atom or different ligands is known as a heteroleptic complex, such as $$[\\mathrm{Co}(\\mathrm{NH}_3)_4\\mathrm{Cl}_2]^{+}$$ which contains two different types of ligands, ammonia ($$\\mathrm{NH}_3$$) and chloride ($$\\mathrm{Cl}^-$$).</p>\n\n<p><strong>Statement I: $$[\\mathrm{Co}(\\mathrm{NH}_3)_6]^{3+}$$ is a homoleptic complex whereas $$[\\mathrm{Co}(\\mathrm{NH}_3)_4\\mathrm{Cl}_2]^{+}$$ is a heteroleptic complex.</strong></p>\n\n<p>This statement is accurate because $$[\\mathrm{Co}(\\mathrm{NH}_3)_6]^{3+}$$ indeed is a homoleptic complex as it consists only of ammonia ligands. Conversely, $$[\\mathrm{Co}(\\mathrm{NH}_3)_4\\mathrm{Cl}_2]^{+}$$ is a heteroleptic complex, containing both ammonia and chloride ligands.</p>\n\n<p><strong>Statement II: Complex $$[\\mathrm{Co}(\\mathrm{NH}_3)_6]^{3+}$$ has only one kind of ligands but $$[\\mathrm{Co}(\\mathrm{NH}_3)_4\\mathrm{Cl}_2]^{+}$$ has more than one kind of ligands.</strong></p>\n\n<p>This statement is also true. As explained, in $$[\\mathrm{Co}(\\mathrm{NH}_3)_6]^{3+}$$, there is only one type of ligand (ammonia), and in $$[\\mathrm{Co}(\\mathrm{NH}_3)_4\\mathrm{Cl}_2]^{+}$$, there are two different types of ligands (ammonia and chloride), which is consistent with the definition provided.</p>\n\n<p><strong>Conclusion:</strong> Both Statement I and Statement II are true. Therefore, the correct choice is:</p>\n\n<p><strong>Option A: Both Statement I and Statement II are true</strong></p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Select the element (M) whose trihalides cannot be hydrolysed to produce an ion of the form [M(H$$_2$$O$$_6$$]$$^{3+}$$</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "Ga"
+        },
+        {
+          "key": "B",
+          "value": "In"
+        },
+        {
+          "key": "C",
+          "value": "Al"
+        },
+        {
+          "key": "D",
+          "value": "B"
+        }
+      ],
+      "answer": "D",
+      "explanation": "<p>Maximum covalency of boron is four.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Which of the following forms a set of complex and a double salt, respectively?</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$\\mathrm{CuSO}_4 \\cdot 5 \\mathrm{H}_2 \\mathrm{O}$$ and $$\\mathrm{CuCl}_2, 4 \\mathrm{NH}_3$$"
+        },
+        {
+          "key": "B",
+          "value": "$$\\mathrm{PtCl}_2 \\cdot 2 \\mathrm{NH}_3$$ and $$\\mathrm{PtCl}_4 \\cdot 2 \\mathrm{HCl}$$"
+        },
+        {
+          "key": "C",
+          "value": "$$\\mathrm{K}_2 \\mathrm{PtCl}_2 \\cdot 2 \\mathrm{NH}_3$$ and $$\\mathrm{KAl}\\left(\\mathrm{SO}_4\\right)_2 \\cdot 12 \\mathrm{H}_2 \\mathrm{O}$$"
+        },
+        {
+          "key": "D",
+          "value": "$$\\mathrm{NiCl}_2 \\cdot 6 \\mathrm{H}_2 \\mathrm{O}$$ and $$\\mathrm{NiCl}_2\\left(\\mathrm{H}_2 \\mathrm{O}\\right)_4$$"
+        }
+      ],
+      "answer": "C",
+      "explanation": "<p>Complex salt is $$\\mathrm{K}_2\\left[\\mathrm{Pt}\\left(\\mathrm{NH}_3\\right)_2 \\mathrm{Cl}_2\\right]$$</p>\n<p>Double salt is $$\\mathrm{KAl}\\left(\\mathrm{SO}_4\\right)_2 \\cdot 12 \\mathrm{H}_2 \\mathrm{O}$$ (potash alum)</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Type of isomerism exhibited by compounds\n$$\n\\left[\\mathrm{Cr}\\left(\\mathrm{H}_2 \\mathrm{O}\\right)_6 \\mathrm{Cl}_3,\\left[\\mathrm{Cr}\\left(\\mathrm{H}_2 \\mathrm{O}\\right)_5 \\mathrm{Cl}_2 \\mathrm{Cl}_2 \\cdot \\mathrm{H}_2 \\mathrm{O}\\right.\\right.,\\left[\\mathrm{Cr}\\left(\\mathrm{H}_2 \\mathrm{O}\\right)_4 \\mathrm{Cl}_2\\right] \\mathrm{Cl} .2 \\mathrm{H}_2 \\mathrm{O}$$ and the value of coordination number $$(\\mathrm{CN})$$ of central metal ion in all these compounds, respectively is :</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "Geometrical isomerism, CN = 2"
+        },
+        {
+          "key": "B",
+          "value": "Optical isomerism, CN = 4"
+        },
+        {
+          "key": "C",
+          "value": "Ionisation isomerism, CN = 4"
+        },
+        {
+          "key": "D",
+          "value": "Solvate isomerism, CN = 6"
+        }
+      ],
+      "answer": "D",
+      "explanation": "<p>Given complex compounds exhibit solvate isomerism having co-ordination number = 6.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Homoleptic complex from the following complexes is :</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "Diamminechloridonitrito-N-platinum (II)"
+        },
+        {
+          "key": "B",
+          "value": "Pentaamminecarbonatocobalt (III) chloride"
+        },
+        {
+          "key": "C",
+          "value": "Triamminetriaquachromium (III) chloride"
+        },
+        {
+          "key": "D",
+          "value": "Potassium trioxalatoaluminate (III)"
+        }
+      ],
+      "answer": "D",
+      "explanation": "<p>(1) $$\\left[\\mathrm{Pt}\\left(\\mathrm{NH}_{3}\\right)_{2} \\mathrm{Cl}\\left(\\mathrm{NO}_{2}\\right)\\right]$$</p>\n<p>(2) $$\\left[\\mathrm{Co}\\left(\\mathrm{NH}_{3}\\right)_{5}\\left(\\mathrm{CO}_{3}\\right)\\right] \\mathrm{Cl}$$</p>\n<p>(3) $$\\left[\\mathrm{Cr}\\left(\\mathrm{NH}_{3}\\right)_{3}\\left(\\mathrm{H}_{2} \\mathrm{O}\\right)_{3}\\right] \\mathrm{Cl}_{3}$$</p>\n<p>(4) $$\\mathrm{K}_{3}\\left[\\mathrm{Al}\\left(\\mathrm{C}_{2} \\mathrm{O}_{4}\\right)_{3}\\right]$$</p>\n<p>Option 4 contain all ligands are of same type i.e. why complex will be homoleptic.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Which complex compound is most stable?</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$\\left[\\mathrm{Co}\\left(\\mathrm{NH}_{3}\\right)_{3}\\left(\\mathrm{NO}_{3}\\right)_{3}\\right]$$"
+        },
+        {
+          "key": "B",
+          "value": "$$\\left[\\mathrm{CoCl}_{2}(\\mathrm{en})_{2}\\right] \\mathrm{NO}_{3}$$"
+        },
+        {
+          "key": "C",
+          "value": "$$\\left[\\mathrm{Co}\\left(\\mathrm{NH}_{3}\\right)_{6}\\right]_{2}\\left(\\mathrm{SO}_{4}\\right)_{3}$$"
+        },
+        {
+          "key": "D",
+          "value": "$$\\left[\\mathrm{Co}\\left(\\mathrm{NH}_{3}\\right)_{4}\\left(\\mathrm{H}_{2} \\mathrm{O}\\right) \\mathrm{Br}\\right]\\left(\\mathrm{NO}_{3}\\right)_{2}$$"
+        }
+      ],
+      "answer": "B",
+      "explanation": "<p>due to Chelation effect of (en).</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Match List-I with List-II :</p>\n<p><style type=\"text/css\">\n.tg  {border-collapse:collapse;border-spacing:0;}\n.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg .tg-7btt{border-color:inherit;font-weight:bold;text-align:center;vertical-align:top}\n.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}\n</style>\n<table class=\"tg\">\n<thead>\n  <tr>\n    <th class=\"tg-7btt\"></th>\n    <th class=\"tg-7btt\">List-I<br>(Complexes)</th>\n    <th class=\"tg-7btt\"></th>\n    <th class=\"tg-7btt\">List-II<br>(Types)</th>\n  </tr>\n</thead>\n<tbody>\n  <tr>\n    <td class=\"tg-0pky\">(a)</td>\n    <td class=\"tg-0pky\">$$[Co{(N{H_3})_5}N{O_2}]C{l_2}$$ and $$[Co{(N{H_3})_5}ONO]C{l_2}$$</td>\n    <td class=\"tg-0pky\">(i)</td>\n    <td class=\"tg-0pky\">ionisation isomerism</td>\n  </tr>\n  <tr>\n    <td class=\"tg-0pky\">(b)</td>\n    <td class=\"tg-0pky\">$$[Cr{(N{H_3})_6}][Co{(CN)_6}]$$ and $$[Cr{(CN)_6}][Co{(N{H_3})_6}]$$</td>\n    <td class=\"tg-0pky\">(ii)</td>\n    <td class=\"tg-0pky\">coordination isomerism</td>\n  </tr>\n  <tr>\n    <td class=\"tg-0pky\">(c)</td>\n    <td class=\"tg-0pky\">$$[Co{(N{H_3})_5}(S{O_4})]Br$$ and $$[Co{(N{H_3})_5}Br]S{O_4}$$</td>\n    <td class=\"tg-0pky\">(iii)</td>\n    <td class=\"tg-0pky\">linkage isomerism</td>\n  </tr>\n  <tr>\n    <td class=\"tg-0pky\">(d)</td>\n    <td class=\"tg-0pky\">$$[Cr{({H_2}O)_6}]C{l_3}$$ and $$[Cr{({H_2}O)_5}Cl]C{l_2}\\,.\\,{H_2}O$$</td>\n    <td class=\"tg-0pky\">(iv)</td>\n    <td class=\"tg-0pky\">solvate isomerism</td>\n  </tr>\n</tbody>\n</table></p>\n<p>Choose the correct answer from the options given below :</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "(a)-(iv), (b)-(iii), (c)-(ii), (d)-(i)"
+        },
+        {
+          "key": "B",
+          "value": "(a)-(iii), (b)-(i), (c)-(ii), (d)-(iv)"
+        },
+        {
+          "key": "C",
+          "value": "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)"
+        },
+        {
+          "key": "D",
+          "value": "(a)-(iii), (b)-(ii), (c)-(i), (d)-(iv)"
+        }
+      ],
+      "answer": "D",
+      "explanation": "<p>(a) $$[Co{(N{H_3})_5}N{O_2}]C{l_2}$$ and $$[Co{(N{H_3})_5}ONO]C{l_2}$$ $$\\to$$ linkage isomerism</p>\n<p>(b) $$[Cr{(N{H_3})_6}][Co{(CN)_6}]$$ and $$[Cr{(CN)_6}][Co{(N{H_3})_6}]$$ $$\\to$$ coordination isomerism</p>\n<p>(c) $$[Co{(N{H_3})_5}(S{O_4})]Br$$ and $$[Co{(N{H_3})_5}Br]S{O_4}$$ $$\\to$$ ionisation isomerism</p>\n<p>(d) $$[Cr{({H_2}O)_6}]C{l_3}$$ and $$[Cr{({H_2}O)_5}Cl]C{l_2}\\,.\\,{H_2}O$$ $$\\to$$ solvate isomerism</p>\n<p>(a)-(iii), (b)-(ii), (c)-(i), (d)-(iv)</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>The IUPAC name of the complex -</p>\n<p>[Ag(H<sub>2</sub>O)<sub>2</sub>][Ag(CN)<sub>2</sub>] is:</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "dicyanidosilver(II) diaquaargentate (II)"
+        },
+        {
+          "key": "B",
+          "value": "diaquasilver(II) dicyanidoargentate(II)"
+        },
+        {
+          "key": "C",
+          "value": "dicyanidosilver(I) diaquaargentate(I)"
+        },
+        {
+          "key": "D",
+          "value": "diaquasilver(I) dicyanidoargentate(I)"
+        }
+      ],
+      "answer": "D",
+      "explanation": "<p>[Ag(H<sub>2</sub>O)<sub>2</sub>][Ag(CN)<sub>2</sub>]</p>\n<p>IUPAC name : diaquasilver(I) dicyanidoargentate(I)</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>The order of energy absorbed which is responsible for the color of complexes</p>\n<p>(A) [Ni(H<sub>2</sub>O)<sub>2</sub>(en)<sub>2</sub>]<sup>2+</sup></p>\n<p>(B) [Ni(H<sub>2</sub>O)<sub>4</sub>(en)<sub></sub>]<sup>2+</sup> and</p>\n<p>(C) [Ni(en)<sub>3</sub>]<sup>2+</sup></p>\n<p>is</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "(A) > (B) > (C)"
+        },
+        {
+          "key": "B",
+          "value": "(C) > (B) > (A)"
+        },
+        {
+          "key": "C",
+          "value": "(C) > (A) > (B)"
+        },
+        {
+          "key": "D",
+          "value": "(B) > (A) > (C)"
+        }
+      ],
+      "answer": "C",
+      "explanation": "<p>Stronger the field strength of ligand, higher will be the energy absorbed by the complex.</p>\n<p>$$\\Rightarrow$$ 'en' has a stronger field strength than 'H<sub>2</sub>O' according to spectrochemical series</p>\n<p>$$\\therefore$$ Correct order of energy absorbed will be :</p>\n<p>[Ni(en)<sub>3</sub>]<sup>2+</sup> > [Ni(H<sub>2</sub>O)<sub>2</sub>(en)<sub>2</sub>]<sup>2+</sup> > [Ni(H<sub>2</sub>O)<sub>4</sub>(en)]<sup>2+</sup></p>\n<p>i.e. (C) > (A) > (B)</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The calculated spin only magnetic moment of Cr<sup>2+</sup> ion is?",
+      "options": [
+        {
+          "key": "A",
+          "value": "4.90 BM"
+        },
+        {
+          "key": "B",
+          "value": "5.92 BM"
+        },
+        {
+          "key": "C",
+          "value": "2.84 BM"
+        },
+        {
+          "key": "D",
+          "value": "3.87 BM"
+        }
+      ],
+      "answer": "A",
+      "explanation": "Electronic configuration of $$Cr:[Ar]3{d^5}4{s^1}$$\n<br><br>Electronic configuration of $$C{r^{2 + }}$$:[Ar]3d<sup>4</sup>\n<br><br>No. of unpaired electrons = 4<br><br>Spin only magnetic moment = $$\\sqrt {n(n + 2)} $$\n<br><br>n = number of unpaired e<sup>$$ - $$\n</sup> <br><br>Spin only magnetic moment = $$\\sqrt {4(4 + 2)} $$\n<br><br>= $$\\sqrt {24} $$\n BM<br><br>= 4.9 BM"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Which of the following is the correct order of increasing field strength of ligands to form coordination compounds?",
+      "options": [
+        {
+          "key": "A",
+          "value": "SCN<sup>$$ - $$</sup> &lt; F<sup>$$ - $$</sup> &lt; CN<sup>$$ - $$</sup> &lt; C<sub>2</sub>O<sub>4</sub><sup>2-</sup>\n\n\n"
+        },
+        {
+          "key": "B",
+          "value": "F<sup>$$ - $$</sup> &lt; SCN<sup>$$ - $$</sup> &lt; C<sub>2</sub>O<sub>4</sub><sup>2-</sup> &lt; CN<sup>$$ - $$</sup>\n\n\n"
+        },
+        {
+          "key": "C",
+          "value": "CN<sup>$$ - $$</sup> &lt; C<sub>2</sub>O<sub>4</sub><sup>2-</sup> SCN<sup>$$ - $$</sup> &lt; F<sup>$$ - $$</sup>\n\n\n"
+        },
+        {
+          "key": "D",
+          "value": "SCN<sup>$$ - $$</sup> &lt; F<sup>$$ - $$</sup> &lt; C<sub>2</sub>O<sub>4</sub><sup>2-</sup> &lt; CN<sup>$$ - $$</sup>\n\n\n"
+        }
+      ],
+      "answer": "D",
+      "explanation": "Spectrochemical series (as given in NCERT) :<br>$${L^ - } &lt; B{r^ - } &lt; SC{N^ - } &lt; C{l^ - } &lt; {S^{ - 2}} &lt; {F^ - } &lt; O{H^ - } &lt; {C_2}{O_4}^{2 - } &lt; {H_2}O &lt; NC{S^ - } &lt; EDT{A^{4 - }} &lt; N{H_3} &lt; en &lt; C{N^ - } &lt; CO$$\n"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Iron carbonyl, Fe(CO)<sub>5</sub>\n is",
+      "options": [
+        {
+          "key": "A",
+          "value": "tetranuclear"
+        },
+        {
+          "key": "B",
+          "value": "mononuclear"
+        },
+        {
+          "key": "C",
+          "value": "trinuclear"
+        },
+        {
+          "key": "D",
+          "value": "dinuclear"
+        }
+      ],
+      "answer": "B",
+      "explanation": "Based on the number of metal atoms present\nin a complex, they are classified into mononuclear,\ndinuclear, trinuclear and so on. e.g. :\n<br>Fe(CO)<sub>5</sub> : mononuclear\n<br>Co<sub>2</sub>(CO)<sub>8</sub> : dinuclear\n<br>Fe<sub>3</sub>(CO)<sub>12</sub> : trinuclear"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Correct increasing order for the wavelengths of absorption in the visible region for the complexes of Co<sup>3+</sup> is",
+      "options": [
+        {
+          "key": "A",
+          "value": "[Co(H<sub>2</sub>O)<sub>6</sub>]<sup>3+</sup>, [Co(en)<sub>3</sub>]<sup>3+</sup>, [Co(NH<sub>3</sub>)<sub>6</sub>]<sup>3+</sup>"
+        },
+        {
+          "key": "B",
+          "value": "[Co(H<sub>2</sub>O)<sub>6</sub>]<sup>3+</sup>, [Co(NH<sub>3</sub>)<sub>6</sub>]<sup>3+</sup>, [Co(en)<sub>3</sub>]<sup>3+</sup>"
+        },
+        {
+          "key": "C",
+          "value": "[Co(NH<sub>3</sub>)<sub>6</sub>]<sup>3+</sup>,  [Co(en)<sub>3</sub>]<sup>3+</sup>, [Co(H<sub>2</sub>O)<sub>6</sub>]<sup>3+</sup>"
+        },
+        {
+          "key": "D",
+          "value": "[Co(en)<sub>3</sub>]<sup>3+</sup>, [Co(NH<sub>3</sub>)<sub>6</sub>]<sup>3+</sup>,  [Co(H<sub>2</sub>O)<sub>6</sub>]<sup>3+</sup>"
+        }
+      ],
+      "answer": "D",
+      "explanation": "Increasing order of wavelength of absorption is\n<br><br>$$\\Delta $$<sub>0</sub> = en &gt; NH<sub>3</sub> &gt; H<sub>2</sub>\n<br><br>$$\\Delta $$<sub>0</sub> = E = $${{hc} \\over \\lambda }$$\n<br><br>Thus, increasing order of wavelength of absorption is:\n<br><br>[Co(en)<sub>3</sub>]<sup>3+</sup> $$&lt;$$ [Co(NH<sub>3</sub>)<sub>6</sub>]<sup>3+</sup> $$&lt;$$ [Co(H<sub>2</sub>O)<sub>6</sub>]<sup>3+</sup>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "An example of a sigma bonded organometallic compound is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "Grignard's reagent"
+        },
+        {
+          "key": "B",
+          "value": "ferrocene"
+        },
+        {
+          "key": "C",
+          "value": "cobaltocene"
+        },
+        {
+          "key": "D",
+          "value": "ruthenocene."
+        }
+      ],
+      "answer": "A",
+      "explanation": "Grignard's reagent is an organometallic compound in which carbon atom is bonded to metal ion with sigma bond while in ruthenocene, ferrocene and cobaltocene are the organo metallic compounds in which carbon atom is attached to metal ion thorough $$\\pi $$-bonding.\n"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The correct order  of the stoichiometries of AgCl formed when AgNO<sub>3</sub> in excess is treated with the complexes : CoCl<sub>3</sub>.6NH<sub>3</sub>, CoCl<sub>3</sub>.5NH<sub>3</sub>, CoCl<sub>3</sub>.4NH<sub>3</sub> respectively is",
+      "options": [
+        {
+          "key": "A",
+          "value": "3AgCl, 1AgCl. 2AgCl"
+        },
+        {
+          "key": "B",
+          "value": "3AgCl, 2AgCl, 1AgCl"
+        },
+        {
+          "key": "C",
+          "value": "2AgCl, 3AgCl, 2AgCl"
+        },
+        {
+          "key": "D",
+          "value": "1AgCl, 3AgCl, 2AgCl"
+        }
+      ],
+      "answer": "B",
+      "explanation": "[Co(NH<sub>3</sub>)<sub>6</sub>]Cl<sub>3</sub> + 3AgNO<sub>3</sub> $$ \\to $$ 3AgCl $$ \\downarrow $$ + [Co(NH<sub>3</sub>)<sub>6</sub>](NO<sub>3</sub>)<sub>3</sub>\n<br><br>[Co(NH<sub>3</sub>)<sub>5</sub>Cl]Cl<sub>2</sub> + 2AgNO<sub>3</sub> $$ \\to $$ 2AgCl $$ \\downarrow $$ + [Co(NH<sub>3</sub>)<sub>5</sub>Cl](NO<sub>3</sub>)<sub>2</sub>\n<br><br>[Co(NH<sub>3</sub>)<sub>4</sub>Cl<sub>2</sub>]Cl + AgNO<sub>3</sub> $$ \\to $$ AgCl $$ \\downarrow $$ + [Co(NH<sub>3</sub>)<sub>4</sub>Cl<sub>2</sub>]NO<sub>3</sub>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The correct increasing order of <i>trans</i>-effect of the following species is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "NH<sub>3</sub> &gt; CN<sup>$$-$$</sup> &gt; Br<sup>$$-$$</sup> &gt; C<sub>6</sub>H<sub>5</sub><sup>$$-$$</sup>"
+        },
+        {
+          "key": "B",
+          "value": "CN<sup>$$-$$</sup> &gt; C<sub>6</sub>H<sub>5</sub><sup>$$-$$</sup> &gt; Br<sup>$$-$$</sup> &gt; NH<sub>3</sub>"
+        },
+        {
+          "key": "C",
+          "value": "Br<sup>$$-$$</sup> &gt; CN<sup>$$-$$</sup> &gt; NH<sub>3</sub> &gt; C<sub>6</sub>H<sub>5</sub><sup>$$-$$</sup>"
+        },
+        {
+          "key": "D",
+          "value": "CN<sup>$$-$$</sup> &gt; Br<sup>$$-$$</sup> &gt; C<sub>6</sub>H<sub>5</sub><sup>$$-$$</sup> &gt; NH<sub>3</sub>"
+        }
+      ],
+      "answer": "B",
+      "explanation": "The intensity of the trans-effect as measured by the increase in rate of substitution of the trans ligand) follows the sequence : \n<br><br>CN<sup>$$-$$</sup> &gt; C<sub>6</sub>H<sub>5</sub><sup>$$-$$</sup> &gt; Br<sup>$$-$$</sup> &gt; NH<sub>3</sub>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Which of the following has longest C$$-$$O bond length? (Free C$$-$$O bond length in CO is 1.128  $$\\mathop A\\limits^o $$.)",
+      "options": [
+        {
+          "key": "A",
+          "value": "[Fe(CO)<sub>4</sub>]<sup>2$$-$$</sup>"
+        },
+        {
+          "key": "B",
+          "value": "[Mn(CO)<sub>6</sub>]<sup>+</sup>"
+        },
+        {
+          "key": "C",
+          "value": "Ni(CO)<sub>4</sub> "
+        },
+        {
+          "key": "D",
+          "value": "[Co(CO)<sub>4</sub>]<sup>$$-$$</sup>"
+        }
+      ],
+      "answer": "A",
+      "explanation": "[Fe(CO)<sub>4</sub>]<sup>2$$-$$</sup> has the lowest C—O bond order means the longest bond length. \n<br><br>Since metal atom is carrying maximum –ve charge therefore it would show maximum synergic bonding as a resultant C—O bond length would be maximum. "
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The sum of coordination number and oxidation number of the metal M in the complex [M(en)<sub>2</sub>(C<sub>2</sub>O<sub>4</sub>)]Cl (where <i>en</i> is ethylenediamine) is",
+      "options": [
+        {
+          "key": "A",
+          "value": "6"
+        },
+        {
+          "key": "B",
+          "value": "7"
+        },
+        {
+          "key": "C",
+          "value": "8"
+        },
+        {
+          "key": "D",
+          "value": "9"
+        }
+      ],
+      "answer": "D",
+      "explanation": "[M (en)<sub>2</sub>(C<sub>2</sub>O<sub>4</sub>)]Cl\n<br><br> x + 0 – 2 – 2 – 1 = 0\n<br><br> x = + 2 + 1\n<br><br>x = + 3\n<br><br>We know that coordination number is defined as the total number of binding sites attached to the metal. \n<br><br>$$ \\therefore $$ Coordination number = 6\n<br><br>Sum of oxidation number and coordination number = 3 + 6 = 9 "
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The name of complex ion, [Fe(CN)<sub>6</sub>]<sup>3$$-$$</sup> is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "hexacyanitoferrate (III) ion"
+        },
+        {
+          "key": "B",
+          "value": "tricyanoferrate (III) ion"
+        },
+        {
+          "key": "C",
+          "value": "hexacyanidoferrate (III) ion"
+        },
+        {
+          "key": "D",
+          "value": "hexacyanoiron (III) ion."
+        }
+      ],
+      "answer": "C",
+      "explanation": "[Fe(CN)<sub>6</sub>]\n<sup>3–</sup>\n<br><br> x – 6 = –3\n<br><br> x = +6 – 3\n <br><br>x = +3\n <br><br>Hexa cyanido ferrate (III) ion. "
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Cobalt (III) chloride forms several octahedral complexes with ammonia. Which of the following will not give test for chloride ions with silver nitrate at 25<sup>o</sup>C? ",
+      "options": [
+        {
+          "key": "A",
+          "value": "CoCl<sub>3</sub> $$ \\cdot $$ 5NH<sub>3</sub>"
+        },
+        {
+          "key": "B",
+          "value": "CoCl<sub>3</sub> $$ \\cdot $$ 6NH<sub>3</sub>"
+        },
+        {
+          "key": "C",
+          "value": "CoCl<sub>3</sub> $$ \\cdot $$ 3NH<sub>3</sub>"
+        },
+        {
+          "key": "D",
+          "value": "CoCl<sub>3</sub> $$ \\cdot $$ 4NH<sub>3</sub>"
+        }
+      ],
+      "answer": "C",
+      "explanation": "As For octahedral complexes, coordination number is 6. \n<br><br>CoCl<sub>3</sub> . 3NH<sub>3</sub> or [Co(NH<sub>3</sub>)<sub>3</sub>Cl<sub>3</sub>]  will not give test for chloride ions with silver nitrate due to absence of ionisable chloride atoms."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Which of the following complexes is used to  be as an anticancer agent? ",
+      "options": [
+        {
+          "key": "A",
+          "value": "<i>mer</i>-[Co(NH<sub>3</sub>)<sub>3</sub>Cl<sub>3</sub>]"
+        },
+        {
+          "key": "B",
+          "value": "<i>cis</i>-PtCl<sub>2</sub>(NH<sub>3</sub>)<sub>2</sub>]"
+        },
+        {
+          "key": "C",
+          "value": "<i>cis</i>-K<sub>2</sub>[PtCl<sub>2</sub>Br<sub>2</sub>"
+        },
+        {
+          "key": "D",
+          "value": "Na<sub>2</sub>CoCl<sub>4</sub>"
+        }
+      ],
+      "answer": "B",
+      "explanation": "<p>Among the options listed, Option B, <i>cis</i>-PtCl<sub>2</sub>(NH<sub>3</sub>)<sub>2</sub>], is the one used as an anticancer agent. This compound is commonly known as Cisplatin. It's a platinum-based drug used in chemotherapy and is effective in treating various types of cancers, including testicular, ovarian, and bladder cancer.</p>\n\n<p>The effectiveness of Cisplatin in cancer treatment lies in its ability to form platinum-DNA adducts, which interfere with DNA repair mechanisms, leading to cell apoptosis (programmed cell death) in rapidly dividing cells, such as cancer cells.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Nitrogen detection in an organic compound is carried out by Lassaigne's test. The blue colour formed corresponds to which of the following formulae? ",
+      "options": [
+        {
+          "key": "A",
+          "value": "Fe<sub>3</sub>[Fe(CN)<sub>6</sub>]<sub>2</sub>"
+        },
+        {
+          "key": "B",
+          "value": "Fe<sub>4</sub>[Fe(CN)<sub>6</sub>]<sub>3</sub>"
+        },
+        {
+          "key": "C",
+          "value": "Fe<sub>4</sub>[Fe(CN)<sub>6</sub>]<sub>2</sub>"
+        },
+        {
+          "key": "D",
+          "value": "Fe<sub>3</sub>[Fe(CN)<sub>6</sub>]<sub>3</sub>"
+        }
+      ],
+      "answer": "B",
+      "explanation": "The prussian blue colour is of Fe<sub>4</sub> [Fe(CN)<sub>6</sub>]<sub>3</sub> ferric ferrocyanide."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Which among the following is a paramagnetic complex? ",
+      "options": [
+        {
+          "key": "A",
+          "value": "[Co(NH<sub>3</sub>)<sub>6</sub>]<sup>3+</sup> "
+        },
+        {
+          "key": "B",
+          "value": "[Pt(en)Cl<sub>2</sub>]"
+        },
+        {
+          "key": "C",
+          "value": "[CoBr<sub>4</sub>]$$2-$$"
+        },
+        {
+          "key": "D",
+          "value": "Mo(CO)<sub>6</sub>"
+        }
+      ],
+      "answer": "C",
+      "explanation": "Co<sup>2+</sup> : [Ar]3d<sup>7</sup>4s<sup></sup><sup>0</sup>, here, Br<sup>–</sup> is a weak field ligand so will not cause pairing of d-electrons in Co<sup>2+</sup>. \n<br><br>$$ \\therefore $$ [CoBr<sub>4</sub>]<sup>2–</sup> will exhibit paramagnetic behaviour due to unpaired electrons. "
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Crystal field splitting energy for high spin  d<sup>4</sup> octahedral complex is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$-$$ 1.2 $$\\Delta $$<sub>o</sub>"
+        },
+        {
+          "key": "B",
+          "value": "$$-$$ 0.6 $$\\Delta $$<sub>0</sub>"
+        },
+        {
+          "key": "C",
+          "value": "$$-$$ 0.8 $$\\Delta $$<sub>o</sub>"
+        },
+        {
+          "key": "D",
+          "value": "$$-$$ 1.6 $$\\Delta $$<sub>o</sub>"
+        }
+      ],
+      "answer": "B",
+      "explanation": "High spin d<sup>4</sup> = t<sub>2g</sub><sup>3</sup> e<sub>g</sub><sup>1</sup>\n<br><br>CFSE for octahedral complex\n<br><br>=  [– 0.4 (t<sub>2g</sub> electrons) + 0.6 (e<sub>g</sub> electrons)] $$\\Delta $$<sub>0</sub>\n<br><br>= (– 0.4 $$ \\times $$ 3 + 0.6 $$ \\times $$ 1) $$\\Delta $$<sub>0</sub>\n<br><br>= (-1.2 + 0.6) $$\\Delta $$<sub>0</sub> = -0.6$$\\Delta $$<sub>0</sub>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The correct IUPAC name for [CrF<sub>2</sub>(en)<sub>2</sub>]Cl is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "chloro difluorido ethylene diaminechromium (III) chloride"
+        },
+        {
+          "key": "B",
+          "value": "difluoridobis (ethylene diamine) chromium (III) chloride"
+        },
+        {
+          "key": "C",
+          "value": "difluorobis-(ethylene diamine) chromium (III) chloride"
+        },
+        {
+          "key": "D",
+          "value": "chloro difluoridobis (ethylene diamine) chromium (III) "
+        }
+      ],
+      "answer": "B",
+      "explanation": "IUPAC name of [CrF<sub>2</sub>(en)<sub>2</sub>]Cl is \n<br>Difluoridobis(ethylenediamine) chromium (III) chloride."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The anion of acetylacetone (acac) forms Co (acac)<sub>3</sub> chelate with Co<sup>3+</sup>. The rings of the chelate are",
+      "options": [
+        {
+          "key": "A",
+          "value": "five membered "
+        },
+        {
+          "key": "B",
+          "value": "four membered"
+        },
+        {
+          "key": "C",
+          "value": "six membered"
+        },
+        {
+          "key": "D",
+          "value": "three membered. "
+        }
+      ],
+      "answer": "C",
+      "explanation": "Chelating ligands having conjugated double bonds form more stable six membered rings."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "An excess of AgNO<sub>3</sub>  is added to 100 mL of a 0.01  M solution of dichlorotetraaquachromium (III) chloride. The number of moles of AgCl precipitated would be",
+      "options": [
+        {
+          "key": "A",
+          "value": "0.003"
+        },
+        {
+          "key": "B",
+          "value": "0.01"
+        },
+        {
+          "key": "C",
+          "value": "0.001"
+        },
+        {
+          "key": "D",
+          "value": "0.002"
+        }
+      ],
+      "answer": "C",
+      "explanation": "AgNO<sub>3</sub> + [Cr(H<sub>2</sub>O)<sub>4</sub>Cl<sub>2</sub>]Cl $$ \\to $$ AgCl\n<br><br>Excess mole = MV\n<br><br>= 0.01 $$ \\times $$ $${{100} \\over {1000}}$$\n<br><br>= 0.001"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Low spin complex of d<sup>6</sup>-cation in an octahedral field will have the following energy",
+      "options": [
+        {
+          "key": "A",
+          "value": "$${{ - 12} \\over 5}{\\Delta _o} + P$$"
+        },
+        {
+          "key": "B",
+          "value": "$${{ - 12} \\over 5}{\\Delta _o} + 3P$$"
+        },
+        {
+          "key": "C",
+          "value": "$${{ - 2} \\over 5}{\\Delta _o} + 2P$$"
+        },
+        {
+          "key": "D",
+          "value": "$${{ - 2} \\over 5}{\\Delta _o} + P$$"
+        }
+      ],
+      "answer": "B",
+      "explanation": "For low spin d<sup>6</sup> complex electronic configuration\n<br><br>= $$t_{2g}^6e_g^0$$\n<br><br>$$ \\therefore $$  x = 6, y = 0, z = 3\n<br><br>C.F.S.E. = (– 0.4 × 6 + 0 × 0.6)$$\\Delta $$<sub>0</sub> + 3P\n<br><br>= $$ - {{12} \\over 5}{\\Delta _0} + 3P$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Which of the following carbonyls will have the\nstrongest C–O bond ?",
+      "options": [
+        {
+          "key": "A",
+          "value": "Cr (CO)<sub>6 </sub>"
+        },
+        {
+          "key": "B",
+          "value": "Fe (CO)<sub>5</sub> "
+        },
+        {
+          "key": "C",
+          "value": "Mn (CO)<sub>6</sub><sup>+</sup>\n "
+        },
+        {
+          "key": "D",
+          "value": "V(CO)<sub>6</sub><sup>-</sup>"
+        }
+      ],
+      "answer": "C",
+      "explanation": "Due to positive oxidation state of Mn back\ndonation in π* ABMO of CO is minimum\ntherefore C–O bond is strongest. \n"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Which of the following complex compounds will\nexhibit highest paramagnetic behaviour? <br>\n(At. No. Ti = 22, Cr = 24, Co = 27, Zn = 30) ",
+      "options": [
+        {
+          "key": "A",
+          "value": "[Cr (NH<sub>3</sub>)<sub>6</sub>]\n<sup>3+</sup> "
+        },
+        {
+          "key": "B",
+          "value": "[Co (NH<sub>3</sub>)<sub>6</sub>]<sup>3+</sup>"
+        },
+        {
+          "key": "C",
+          "value": "[Zn (NH<sub>3</sub>)<sub>6</sub>]<sup>2+</sup> "
+        },
+        {
+          "key": "D",
+          "value": "[Ti(NH<sub>3</sub>)<sub>6</sub>]\n<sup>3+ </sup>"
+        }
+      ],
+      "answer": "A",
+      "explanation": "[Cr(NH<sub>3</sub>)<sub>6</sub>]<sup>+3</sup> [Ar] 3d<sup>3</sup>\n 4s<sup>0</sup><br><br>\nthree unpaired electron are present in t<sub>2g</sub> orbited "
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Which of the following complex compounds will exhibit highest paramagnetic behaviour?",
+      "options": [
+        {
+          "key": "A",
+          "value": "[Ti(NH<sub>3</sub>)<sub>6</sub>]<sup>3+</sup>"
+        },
+        {
+          "key": "B",
+          "value": "[Cr(NH<sub>3</sub>)<sub>6</sub>]<sup>3+</sup>"
+        },
+        {
+          "key": "C",
+          "value": "[Co(NH<sub>3</sub>)<sub>6</sub>]<sup>3+</sup>"
+        },
+        {
+          "key": "D",
+          "value": "[Zn(NH<sub>3</sub>)<sub>6</sub>]<sup>2+</sup>"
+        }
+      ],
+      "answer": "B",
+      "explanation": "Ti<sup>3+</sup> $$ \\to $$ [Ar] 3d<sup>1</sup>4s<sup>0</sup> (1 unpaired electron)\n<br><br> Cr<sup>3+</sup> $$ \\to $$ [Ar] 3d<sup>3</sup> 4s<sup>0</sup> (3 unpaired electrons) \n<br><br>Co<sup>3+</sup> $$ \\to $$ [Ar] 3d<sup>6</sup> 4s<sup>0</sup> (0 unpaired electrons because of pairing) \n<br><br>Zn<sup>2+</sup> $$ \\to $$ [Ar] 3d<sup>10</sup> (no unpaired electrons)\n<br><br>[Cr(NH<sub>3</sub>)<sub>6</sub>]<sup>3+</sup> exhibits highest paramagnetic behaviour as it contains 3 unpaired electrons."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The complexes [Co(NH<sub>3</sub>)<sub>6</sub>] [Cr(CN)<sub>6</sub>] and [Cr(NH<sub>3</sub>)<sub>6</sub>] [Co(CN)<sub>6</sub>] are the examples of which type of isomerism? ",
+      "options": [
+        {
+          "key": "A",
+          "value": "Linkage isomerism"
+        },
+        {
+          "key": "B",
+          "value": "Ionization isomerism"
+        },
+        {
+          "key": "C",
+          "value": "Coordination isomerism"
+        },
+        {
+          "key": "D",
+          "value": "Geometrical isomerism"
+        }
+      ],
+      "answer": "C",
+      "explanation": "Coordination isomerism arises from the interchange of ligands between cationic and anionic entities of different metal ions present in the complex.\n<br><br>[Co (NH<sub>3</sub>)<sub>6</sub>] [Cr(CN)<sub>6</sub>]  is an isomer of [Co(CN)<sub>6</sub>] [Cr(NH<sub>3</sub>)<sub>6</sub>]\n"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Which of the following carbonyls will have the strongest C $$-$$ O bond? ",
+      "options": [
+        {
+          "key": "A",
+          "value": "Mn(CO)<sub>6</sub><sup>+</sup>"
+        },
+        {
+          "key": "B",
+          "value": "Cr(CO)<sub>6</sub>"
+        },
+        {
+          "key": "C",
+          "value": "V(CO)<sub>6</sub><sup>$$-$$</sup>"
+        },
+        {
+          "key": "D",
+          "value": "Fe(CO)<sub>5</sub>"
+        }
+      ],
+      "answer": "A",
+      "explanation": "As + ve charge on the central metal atom increases, the less readily the metal can donate electron density into the $$\\pi $$* orbitals of CO ligand to weaken the C – O bond. Hence, the C – O bond would be strongest in Mn(CO)<sub>6</sub><sup>+</sup>."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The <i>d</i>-electron configurations of Cr<sup>2+</sup>, Mn<sup>2+</sup>, Fe<sup>2+</sup> and Co<sup>2+</sup> are d<sup>4</sup>, d<sup>5</sup>, d<sup>6</sup> and d<sup>7</sup> respectively. Which one of the following will exhibit minimum paramagnetic behaviour? \n<br>(At. Nos.   Cr = 24, Mn = 25, Fe = 26, Co = 27)",
+      "options": [
+        {
+          "key": "A",
+          "value": "[Mn(H<sub>2</sub>O)<sub>6</sub>]<sup>2+</sup>"
+        },
+        {
+          "key": "B",
+          "value": "[Fe(H<sub>2</sub>O)<sub>6</sub>]<sup>2+</sup>"
+        },
+        {
+          "key": "C",
+          "value": "[Co(H<sub>2</sub>O)<sub>6</sub>]<sup>2+</sup>"
+        },
+        {
+          "key": "D",
+          "value": "[Cr(H<sub>2</sub>O)<sub>6</sub>]<sup>2+</sup>"
+        }
+      ],
+      "answer": "C",
+      "explanation": "[Mn(H<sub>2</sub>O)<sub>6</sub>]<sup>2+</sup> : Mn<sup>2+</sup> = 3d<sup>5</sup> \n<br><br>$$ \\therefore $$ Number of unpaired electron = 5\n<br><br> [Fe(H<sub>2</sub>O)<sub>6</sub>]<sup>2+</sup> : Fe<sup>2+</sup> = 3d<sup>6</sup>\n<br><br>$$ \\therefore $$ Number of unpaired electrons = 4 \n<br><br>[Co(H<sub>2</sub>O)<sub>6</sub>]<sup>2+</sup> : Co<sup>2+</sup> = 3d<sup>7</sup>\n<br><br>$$ \\therefore $$ Number of unpaired electrons = 3\n<br><br>[Cr(H<sub>2</sub>O)<sub>6</sub>]<sup>2+</sup> : Cr<sup>2+</sup> = 3d<sup>4</sup> \n<br><br>Number of unpaired electrons = 4 \n<br><br>Minimum paramagnetic behaviour is shown by [Co(H<sub>2</sub>O)<sub>6</sub>]<sup>2+</sup>."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Which one of the following complexes is not expected to exhibit isomerism? ",
+      "options": [
+        {
+          "key": "A",
+          "value": "[Ni(NH<sub>3</sub>)<sub>4</sub>(H<sub>2</sub>O)<sub>2</sub>]<sup>2+</sup>"
+        },
+        {
+          "key": "B",
+          "value": "[Pt(NH<sub>3</sub>)<sub>2</sub>Cl<sub>2</sub>]"
+        },
+        {
+          "key": "C",
+          "value": "[Ni(NH<sub>3</sub>)<sub>2</sub>Cl<sub>2</sub>]"
+        },
+        {
+          "key": "D",
+          "value": "[Ni(en)<sub>3</sub>]<sup>2+</sup>"
+        }
+      ],
+      "answer": "C",
+      "explanation": "In [Ni(NH<sub>3</sub>)<sub>2</sub>Cl<sub>2</sub>] is in sp<sup>3</sup> hybridisation, thus tetrahedral in shape. Hence the four ligands are not different to exhibit optical isomerism. "
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Out of TiF<sub>6</sub><sup>2$$-$$</sup>, CoF<sub>6</sub><sup>3$$-$$</sup>, Cu<sub>2</sub>Cl<sub>2</sub>  and NiCl<sub>4</sub><sup>2$$-$$</sup> (Z of Ti = 22, Co = 27, Cu = 29, Ni = 28) the colourless species are",
+      "options": [
+        {
+          "key": "A",
+          "value": "Cu<sub>2</sub>Cl<sub>2</sub>  and  NiCl<sub>4</sub><sup>2$$-$$</sup>"
+        },
+        {
+          "key": "B",
+          "value": "TiF<sub>6</sub><sup>2$$-$$</sup> and Cu<sub>2</sub>Cl<sub>2</sub>"
+        },
+        {
+          "key": "C",
+          "value": "CoF<sub>6</sub><sup>3$$-$$</sup>  and  NiCl<sub>4</sub><sup>2$$-$$</sup>"
+        },
+        {
+          "key": "D",
+          "value": "TiF<sub>6</sub><sup>2$$-$$</sup>  and  CoF<sub>6</sub><sup>3$$-$$</sup>"
+        }
+      ],
+      "answer": "B",
+      "explanation": "In TiF<sub>6</sub><sup>2–</sup>, Ti is present as Ti<sup>+4</sup>\n<br><br> Ti<sup>+4</sup> = [Ar] 3d<sup>0</sup> 4s<sup>0</sup>\n<br><br> Hence, TiF<sub>6</sub><sup>2–</sup> is colourless due to empty d orbital.  <br><br>In Cu<sub>2</sub>Cl<sub>2</sub>, Cu is present as Cu<sup>+</sup> \n<br><br>Cu<sup>+</sup> = [Ar] 3d<sup>10</sup> 4s<sup>0</sup>\n<br><br>Due to absence of unpaired electrons, Cu<sub>2</sub>Cl<sub>2</sub> is colourless. "
+    },
+    {
+      "_type": "single_mcq",
+      "body": "In which of the following coordination entities the magnitude of $$\\Delta $$<sub>o</sub> (CFSE in octahedral field) will be maximum? \n<br>(At. No. Co = 27)",
+      "options": [
+        {
+          "key": "A",
+          "value": "[Co(CN)<sub>6</sub>]<sup>3$$-$$</sup>"
+        },
+        {
+          "key": "B",
+          "value": "[Co(C<sub>2</sub>O<sub>4</sub>)<sub>3</sub>]3<sup>$$-$$</sup>"
+        },
+        {
+          "key": "C",
+          "value": "[Co(H<sub>2</sub>O)<sub>6</sub>]<sup>3+</sup>"
+        },
+        {
+          "key": "D",
+          "value": "[Co(NH<sub>3</sub>)<sub>6</sub>]<sup>3+</sup>"
+        }
+      ],
+      "answer": "A",
+      "explanation": "In all the given options the central metal atom is same and contain same number of d electrons. Thus, CFSE is decided by ligands. In case of strong field ligand, CFSE is maximum, CN<sup>–</sup> is a strong field ligand hence is [Co(CN)<sub>6</sub>]<sup>3–</sup> so CFSE is maximum."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Which of the following complexes exhibits the highest paramagnetic behaviour? \n<br>where <i>gly</i> = glycine, <i>en</i> =  ethylenediamine and <i>bpy</i> = bipyridyl moities. \n<br>(At. nos. Ti = 22,  V = 23, Fe = 26, Co = 27)",
+      "options": [
+        {
+          "key": "A",
+          "value": "[Co(<i>ox</i>)<sub>2</sub>(OH)<sub>2</sub>]<sup>$$-$$</sup>"
+        },
+        {
+          "key": "B",
+          "value": "[Ti(NH<sub>3</sub>)<sub>6</sub>]<sup>3+</sup>"
+        },
+        {
+          "key": "C",
+          "value": "[V(<i>gly</i>)<sub>2</sub>(OH)<sub>2</sub>(NH<sub>3</sub>)<sub>2</sub>]<sup>+</sup>"
+        },
+        {
+          "key": "D",
+          "value": "[Fe(<i>en</i>)(<i>bpy</i>)(NH<sub>3</sub>)<sub>2</sub>]<sup>2+</sup>"
+        }
+      ],
+      "answer": "A",
+      "explanation": "In [Co(<i>ox</i>)<sub>2</sub>(OH)<sub>2</sub>]<sup>$$-$$</sup>\n<br><br>Co<sup>+5</sup> = [Ar] 3d<sup>4</sup> (4 unpaired electrons) \n<br><br>OX and OH are weak field ligands.\n<br><br>In [Ti(NH<sub>3</sub>)<sub>6</sub>]<sup>3+</sup>\n<br><br>Ti<sup>+3</sup> = [Ar] 3d<sup>1</sup> (one unpaired electron)\n<br><br>In [V(gly)<sub>2</sub>(OH)<sub>2</sub>(NH<sub>3</sub>)<sub>2</sub>]<sup>+</sup>  \n<br><br>V<sup>+5</sup> = [Ar] 4r<sup>0</sup>3d<sup>0</sup> (no unpaired electron)\n<br><br>In [Fe(<i>en</i>)(<i>bpy</i>)(NH<sub>3</sub>)<sub>2</sub>]<sup>2+</sup>\n<br><br>Fe<sup>+2</sup> = [Ar] 3d<sup>6</sup> (4 unpaired electrons)\n<br><br>But due to presence of strong field ligand like NH<sub>3</sub>, bpy and en thus Fe<sup>+2</sup> contains no unpaired electron.\n<br><br>$$ \\therefore $$ Complex [Co(<i>ox</i>)<sub>2</sub>(OH)<sub>2</sub>]<sup>$$-$$</sup> has maximum number of unpaired electrons, thus show maximum paramagnetism. "
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The d electron configurations of Cr<sup>2+</sup>, Mn<sup>2+</sup>, Fe<sup>2+</sup> and Ni<sup>2+</sup> are 3d<sup>4</sup>, 3d<sup>5</sup>, 3d<sup>6</sup> and 3d<sup>8</sup> respectively. Which one of the following aqua complexes will exhibit the minimum paramagnetic behaviour? \n<br><br>(At. No. Cr = 24, Mn = 25, Fe = 26, Ni = 28)",
+      "options": [
+        {
+          "key": "A",
+          "value": "[Fe(H<sub>2</sub>O)<sub>6</sub>]<sup>2+</sup>"
+        },
+        {
+          "key": "B",
+          "value": "[Ni(H<sub>2</sub>O)<sub>6</sub>]<sup>2+</sup>"
+        },
+        {
+          "key": "C",
+          "value": "[Cr(H<sub>2</sub>O)<sub>6</sub>]<sup>2+</sup>"
+        },
+        {
+          "key": "D",
+          "value": "[Mn(H<sub>2</sub>O)<sub>6</sub>]<sup>2+</sup>"
+        }
+      ],
+      "answer": "B",
+      "explanation": "Cr<sup>2+</sup> = 3d<sup>4</sup> (4 unpaired electrons) \n<br><br>Mn<sup>2+</sup> = 3d<sup>5</sup> (5 unpaired electrons) \n<br><br>Fe<sup>2+</sup> = 3d<sup>6</sup> (4 unpaired electrons) \n<br><br>Ni<sup>2+</sup> = 3d<sup>8</sup> (2 unpaired electrons) \n<br><br>Thus, [Ni(H<sub>2</sub>O)<sub>6</sub>]<sup>2+</sup> exhibit minimum paramagnetic behaviour.\n<br><br>Greater the number of unpaired electrons, higher is the paramagnetism. Hence Ni<sup>2+</sup> will exhibit the minimum paramagnetic behaviour. "
+    },
+    {
+      "_type": "single_mcq",
+      "body": "[Cr(H<sub>2</sub>O)<sub>6</sub>]Cl<sub>3</sub> (At. no. of Cr = 24) has a magnetic momen of 3.83 B.M. The  correct distribution of 3d electrons in the chromium of the complex is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$3d_{x\\,y}^1,\\,3d_{y\\,z}^1,\\,3d_{z^2}^{1}$$"
+        },
+        {
+          "key": "B",
+          "value": "$$3d_{\\left( {x^2 - y^2} \\right)}^1,\\,3d_{z^2}^1,\\,3d_{xz}^1$$"
+        },
+        {
+          "key": "C",
+          "value": "$$3d_{x\\,y}^1,\\,\\,3d_{\\left( {x^2 - y^2} \\right)}^1,\\,3d_{y\\,z}^1$$"
+        },
+        {
+          "key": "D",
+          "value": "$$3d_{x\\,y}^1,\\,3d_{y\\,z}^1,\\,3d_{x\\,z}^1$$"
+        }
+      ],
+      "answer": "D",
+      "explanation": "3.83 = $$\\sqrt {n\\left( {n + 2} \\right)} $$\n<br><br>$$ \\Rightarrow $$ n = 3\n<br><br>Thus, number of unpaired electrons in d-orbitals subshells of chromium (Cr = 24) = 3\n<br><br>$$ \\therefore $$ Configuration of Cr = 1s<sup>2</sup> 2s<sup>2</sup> 2p<sup>6</sup> 3s<sup>2</sup> 3p<sup>6</sup> 3d<sup>3</sup>\n<br><br>In 3d<sup>3</sup> the distribution of electrons\n<br><br>$$3d_{x\\,y}^1,\\,3d_{y\\,z}^1,\\,3d_{x\\,z}^1$$, $$3d_{{x^2} - {y^2}}^0,3d_{{z^2}}^0$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "In an octahedral structure, the pair of $$d$$ orbitals involved in d<sup>2</sup>sp<sup>3</sup> hybridisation is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "d <sub>x<sup>2</sup>$$-$$y<sup>2</sup></sub>,  d <sub>z<sup>2</sup></sub>"
+        },
+        {
+          "key": "B",
+          "value": "d <sub>xz</sub>,  d <sub>x<sup>2</sup>$$-$$y<sup>2</sup></sub>"
+        },
+        {
+          "key": "C",
+          "value": "d <sub>z<sup>2</sup></sub>, d <sub>xz</sub>"
+        },
+        {
+          "key": "D",
+          "value": "d <sub>xy</sub>, d <sub>yz</sub>"
+        }
+      ],
+      "answer": "A",
+      "explanation": "In the formation of d<sup>2</sup>sp<sup>3</sup> hybrid orbitals, two (n – 1)d orbitals of e<sub>g</sub> set [i.e. (n – 1)d<sub>z<sup>2</sup></sub> and (n – 1)d<sub>x<sup>2</sup> – y<sup>2</sup></sub> orbitals)], one ns and three np (np<sub>x</sub>, np<sub>y</sub> and np<sub>z</sub>) orbitals combine together and form six d<sup>2</sup>sp<sup>3</sup> hybrid orbitals. "
+    },
+    {
+      "_type": "single_mcq",
+      "body": "CN<sup>$$-$$</sup> is a strong field ligand. This  is due to the fact that",
+      "options": [
+        {
+          "key": "A",
+          "value": "it carries negative charge"
+        },
+        {
+          "key": "B",
+          "value": "it is a pseudohalide"
+        },
+        {
+          "key": "C",
+          "value": "it can accept electrons from metal species "
+        },
+        {
+          "key": "D",
+          "value": "it forms high spin complexes with metal species. "
+        }
+      ],
+      "answer": "B",
+      "explanation": "CN<sup>–</sup> is a pseudohalide, i.e., it is a stronger coordinating ligand with the ability to form $$\\sigma $$ and $$\\pi $$-bonds. "
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Among the following which is not the $$\\pi $$-bonded  organometallic compound? ",
+      "options": [
+        {
+          "key": "A",
+          "value": "K [PtCl<sub>3</sub> ($$\\eta $$<sup>2</sup> $$-$$ C<sub>2</sub>H<sub>4</sub>)]"
+        },
+        {
+          "key": "B",
+          "value": "Fe ($$\\eta $$<sup>5</sup> $$-$$ C<sub>5</sub>H<sub>5</sub>)<sub>2</sub>"
+        },
+        {
+          "key": "C",
+          "value": "Cr ($$\\eta $$<sup>6</sup> $$-$$ C<sub>6</sub>H<sub>6</sub>)<sub>2</sub>"
+        },
+        {
+          "key": "D",
+          "value": "(CH<sub>3</sub>)<sub>4</sub>Sn"
+        }
+      ],
+      "answer": "D",
+      "explanation": "$$\\pi $$-bonded organometallic compound includes organometallic compounds of alkenes, alkynes and some other carbon containing compounds having electrons in their p orbitals. "
+    },
+    {
+      "_type": "single_mcq",
+      "body": "In the silver plating of copper, K[Ag(CN)<sub>2</sub>] is used instead of AgNO<sub>3</sub>. The reason is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "a thin layer of Ag is formed  on Cu"
+        },
+        {
+          "key": "B",
+          "value": "more voltage is required "
+        },
+        {
+          "key": "C",
+          "value": "Ag<sup>+</sup> ions are completely removed from solution"
+        },
+        {
+          "key": "D",
+          "value": "less availability of Ag<sup>+</sup> ions, as Cu can not displace Ag from [Ag(CN)<sub>2</sub>]<sup>$$-$$</sup> ion. "
+        }
+      ],
+      "answer": "D",
+      "explanation": "Copper being more electropositive readily precipitate silver from their salt (Ag<sup>+</sup>) solution.\n<br><br>Cu + 2AgNO<sub>3</sub> $$ \\to $$ Cu(NO<sub>3</sub>)<sub>2</sub> + Ag\n<br><br>In K[Ag(CN)<sub>2</sub>] solution a complex anion [Ag(CN)<sub>2</sub>]<sup>–</sup> is formed so Ag<sup>+</sup> ions are less available in the solution and Cu cannot displace Ag from this complex ion.\n"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "CuSO<sub>4</sub> when reacts with KCN forms CuCN, which is insoluble in water. It is soluble in  excess  of KCN, due to formation of the following complex",
+      "options": [
+        {
+          "key": "A",
+          "value": "K<sub>2</sub>[Cu(CN)<sub>4</sub>]"
+        },
+        {
+          "key": "B",
+          "value": "K<sub>3</sub>[Cu(CN)<sub>4</sub>]"
+        },
+        {
+          "key": "C",
+          "value": "CuCN<sub>2</sub>"
+        },
+        {
+          "key": "D",
+          "value": "Cu[KCu(CN)<sub>4</sub>]."
+        }
+      ],
+      "answer": "B",
+      "explanation": "Copper sulphate react with KCN to give white ppt of CuCN and cyanogen gas. The insoluble copper cyanide dissolve in excess of KCN and give soluble potassium cuprocyanide\n<br><br>2CuSO<sub>4</sub> + 4KCN $$ \\to $$ 2CuCN + (CN)<sub>2</sub> + 2K<sub>2</sub>SO<sub>4</sub>\n<br><br>CuCN + 3KCN $$ \\to $$ K<sub>3</sub>[Cu(CN)<sub>4</sub>] "
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The hypothetical complex chloro diaquatriammine cobalt(III) chloride can be represented as ",
+      "options": [
+        {
+          "key": "A",
+          "value": "[CoCl(NH<sub>3</sub>)<sub>3</sub>(H<sub>2</sub>O)<sub>2</sub>]Cl<sub>2</sub>"
+        },
+        {
+          "key": "B",
+          "value": "[Co(NH<sub>3</sub>)<sub>3</sub>(H<sub>2</sub>O)Cl<sub>3</sub>]"
+        },
+        {
+          "key": "C",
+          "value": "[Co(NH<sub>2</sub>)<sub>3</sub>(H<sub>2</sub>O)<sub>2</sub>Cl]"
+        },
+        {
+          "key": "D",
+          "value": "[Co(NH<sub>3</sub>)<sub>3</sub>(H<sub>2</sub>O)<sub>3</sub>]Cl<sub>3</sub>"
+        }
+      ],
+      "answer": "A",
+      "explanation": "<p>The hypothetical complex &quot;chloro diaquatriammine cobalt(III) chloride&quot; can be broken down as follows :</p>\n<ul>\n<li>&quot;chloro&quot; indicates the presence of a chloride ion (Cl⁻) as a ligand.</li>\n<br/><li>&quot;diaqua&quot; indicates the presence of two water molecules (H₂O) as ligands.</li>\n<br/><li>&quot;triammine&quot; indicates the presence of three ammonia molecules (NH₃) as ligands.</li>\n<br/><li>&quot;cobalt(III)&quot; indicates that cobalt is in the +3 oxidation state.</li>\n<br/><li>The additional &quot;chloride&quot; at the end suggests the presence of chloride ions outside the coordination sphere, likely as counterions.</li>\n</ul>\n<p>Given this, let&#39;s analyze the options :</p>\n<ul>\n<li><strong>Option A - [CoCl(NH₃)₃(H₂O)₂]Cl₂</strong> : This matches the description. It has one chloro ligand, three ammonia ligands, two water ligands, and two chloride ions as counterions, with cobalt in the +3 oxidation state.</li>\n<br/><li><strong>Option B - [Co(NH₃)₃(H₂O)Cl₃]</strong> : Incorrect, as it suggests three chloride ligands inside the coordination sphere, which is not specified in the name.</li>\n<br/><li><strong>Option C - [Co(NH₂)₃(H₂O)₂Cl]</strong> : Incorrect, as NH₂ is not the same as NH₃ (ammonia), and it also suggests a different ligand arrangement.</li>\n<br/><li><strong>Option D - [Co(NH₃)₃(H₂O)₃]Cl₃</strong> : Incorrect, as it has three water molecules instead of two and lacks the chloro ligand inside the coordination sphere.</li>\n</ul>\n<p>Therefore, the correct representation is <strong>Option A - [CoCl(NH₃)₃(H₂O)₂]Cl₂</strong>.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Coordination number of Ni in [Ni(C<sub>2</sub>O<sub>4</sub>)<sub>3</sub>]<sup>4$$-$$</sup> is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "3"
+        },
+        {
+          "key": "B",
+          "value": "6"
+        },
+        {
+          "key": "C",
+          "value": "4"
+        },
+        {
+          "key": "D",
+          "value": "2"
+        }
+      ],
+      "answer": "B",
+      "explanation": "Coordination number of nickel in [Ni(C<sub>2</sub>O<sub>4</sub>)<sub>3</sub>]<sup>4$$-$$</sup> is 6 because C<sub>2</sub>O<sub>4</sub><sup>2–</sup><sup></sup> is a bidentate ligand. "
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Which of the  following will give maximum number of isomers? ",
+      "options": [
+        {
+          "key": "A",
+          "value": "[Co(NH<sub>3</sub>)<sub>4</sub>Cl<sub>2</sub>]"
+        },
+        {
+          "key": "B",
+          "value": "[Ni(en)(NH<sub>3</sub>)<sub>4</sub>]<sup>2+</sup> "
+        },
+        {
+          "key": "C",
+          "value": "[Ni(C<sub>2</sub>O<sub>4</sub>)(en)<sub>2</sub>]<sup>2$$-$$</sup>"
+        },
+        {
+          "key": "D",
+          "value": "[Cr(SCN)<sub>2</sub>(NH<sub>3</sub>)<sub>4</sub>]<sup>+</sup>"
+        }
+      ],
+      "answer": "D",
+      "explanation": "In [Cr(SCN)<sub>2</sub>(NH<sub>3</sub>)<sub>4</sub>]<sup>+</sup> it shows linakge, geometrical and optical isomerism."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Which of the following organometallic compounds is $$\\sigma $$ and $$\\pi $$ bonded? ",
+      "options": [
+        {
+          "key": "A",
+          "value": "[Fe($$\\eta $$<sup>5</sup> $$-$$ C<sub>2</sub>H<sub>5</sub>)<sub>2</sub>]"
+        },
+        {
+          "key": "B",
+          "value": "K[PtCl<sub>3</sub>($$\\eta $$<sup>2</sup> $$-$$ C<sub>2</sub>H<sub>4</sub>)]"
+        },
+        {
+          "key": "C",
+          "value": "[Co(CO)<sub>5</sub>NH<sub>3</sub>]<sup>2+</sup>"
+        },
+        {
+          "key": "D",
+          "value": "Fe(CH<sub>3</sub>)<sub>3</sub>"
+        }
+      ],
+      "answer": "C",
+      "explanation": "[Co(CO)<sub>5</sub>NH<sub>3</sub>]<sup>2+</sup> : In this complex, Co-atom  is attached with NH<sub>3</sub> through $$\\sigma $$ bonding and with CO with dative $$\\pi $$-bond. "
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Which of the following will exhibit maximum ionic conductivity? ",
+      "options": [
+        {
+          "key": "A",
+          "value": "K<sub>4</sub>[Fe(CN)<sub>6</sub>]"
+        },
+        {
+          "key": "B",
+          "value": "[Co(NH<sub>3</sub>)<sub>6</sub>]Cl<sub>3</sub>"
+        },
+        {
+          "key": "C",
+          "value": "[Cu(NH<sub>3</sub>)<sub>4</sub>]Cl<sub>2</sub>"
+        },
+        {
+          "key": "D",
+          "value": "[Ni(CO)<sub>4</sub>"
+        }
+      ],
+      "answer": "A",
+      "explanation": "Ionic conductance increases with increasing the number of ions, produced after decomposition.\n<br><br>In K<sub>4</sub>[Fe(CN)<sub>6</sub>], it produces maximum 5 ions thus show more conductivity.\n<br><br>K<sub>4</sub>[Fe(CN)<sub>6</sub>] ⇌ 4K<sup>+</sup> + [Fe(CN)<sub>6</sub>]<sup>4–</sup> "
+    },
+    {
+      "_type": "single_mcq",
+      "body": "In quantitative analysis of second group in laboratory, H<sub>2</sub>S gas is passed in acidic medium for precipitation. When Cu<sup>2+</sup> react with KCN, then for product, true statement is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "K<sub>2</sub>[Cu(CN)<sub>4</sub>] more soluble "
+        },
+        {
+          "key": "B",
+          "value": "K<sub>2</sub>[Cd(CN)<sub>4</sub>] less stable "
+        },
+        {
+          "key": "C",
+          "value": "K<sub>2</sub>[Cu(CN)<sub>2</sub>]  less stable"
+        },
+        {
+          "key": "D",
+          "value": "K<sub>2</sub>[Cd(CN)<sub>3</sub>]  more stable"
+        }
+      ],
+      "answer": "C",
+      "explanation": "K<sub>3</sub>[Cu(CN)<sub>2</sub>] = 3(+1)+x+2(-1) = 0<br><br>\n$$ \\Rightarrow $$ x = -1<br><br>\n$$ \\therefore $$ the oxidation no. of 'Cu' is -1 (-ve), so this complex is unstable so it is not formed."
+    }
+  ]
+}

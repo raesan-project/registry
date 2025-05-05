@@ -1,0 +1,2527 @@
+{
+  "_index": {
+    "name": "Chemical Bonding & Molecular Structure"
+  },
+  "_children": [
+    {
+      "_type": "single_mcq",
+      "body": "<p>Which of the following molecule(s) show/s paramagnetic behavior?</p>\n<p>A. $\\mathrm{O}_2$</p>\n<p>B. $\\mathrm{N}_2$</p>\n<p>C. $\\mathrm{F}_2$</p>\n<p>D. $\\mathrm{S}_2$</p>\n<p>E. $\\mathrm{Cl}_2$</p>\n<p>Choose the correct answer from the options given below:</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": " A & C only\n"
+        },
+        {
+          "key": "B",
+          "value": "A & E Only\n"
+        },
+        {
+          "key": "C",
+          "value": " A & D Only\n"
+        },
+        {
+          "key": "D",
+          "value": " B Only"
+        }
+      ],
+      "answer": "C",
+      "explanation": "<p>No. of unpaired $\\mathrm{e}^{-}$</p>\n<p><style type=\"text/css\">\n.tg  {border-collapse:collapse;border-spacing:0;}\n.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg .tg-baqh{text-align:center;vertical-align:top}\n</style>\n<table class=\"tg\" style=\"undefined;table-layout: fixed; width: 245px\"><colgroup>\n<col style=\"width: 75px\">\n<col style=\"width: 80px\">\n<col style=\"width: 90px\">\n</colgroup>\n<thead>\n  <tr>\n    <th class=\"tg-baqh\">(A)</th>\n    <th class=\"tg-baqh\">$\\mathrm{O}_2$<br></th>\n    <th class=\"tg-baqh\">2</th>\n  </tr></thead>\n<tbody>\n  <tr>\n    <td class=\"tg-baqh\">(B)</td>\n    <td class=\"tg-baqh\">$\\mathrm{N}_2$</td>\n    <td class=\"tg-baqh\">0</td>\n  </tr>\n  <tr>\n    <td class=\"tg-baqh\">(C)</td>\n    <td class=\"tg-baqh\">$\\mathrm{F}_2$</td>\n    <td class=\"tg-baqh\">0</td>\n  </tr>\n  <tr>\n    <td class=\"tg-baqh\">(D)</td>\n    <td class=\"tg-baqh\">$\\mathrm{S}_2$</td>\n    <td class=\"tg-baqh\">2</td>\n  </tr>\n  <tr>\n    <td class=\"tg-baqh\">(E)</td>\n    <td class=\"tg-baqh\">$\\mathrm{Cl}_2$</td>\n    <td class=\"tg-baqh\">0</td>\n  </tr>\n</tbody>\n</table></p>\n<p>If species contain unpaired electron than it is paramagnetic.</p>\n<p>So A & D are paramagnetic.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Given below are two statements:</p>\n<p>Statement I : Wet cotton clothes made of cellulose based carbohydrate takes comparatively longer time to get dried than wet nylon polymer based clothes.</p>\n<p>Statement II : Intermolecular hydrogen bonding with water molecule is more in nylon-based clothes than in the case of cotton clothes.</p>\n<p>In the light of above statements, choose the correct answer from the options given below</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "Both Statement I and Statement II are false\n"
+        },
+        {
+          "key": "B",
+          "value": "Both Statement I and Statement II are true\n"
+        },
+        {
+          "key": "C",
+          "value": "Statement I is false but Statement II is true\n"
+        },
+        {
+          "key": "D",
+          "value": "Statement I is true but Statement II is false"
+        }
+      ],
+      "answer": "D",
+      "explanation": "<p>Cellulose derivcative has more number of hydroxy groups, so more H -bonding is present with water in cellulose derivatives cotton cloths.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Which among the following molecules is (a) involved in $\\mathrm{sp}^3 \\mathrm{~d}$ hybridization, (b) has different bond lengths and (c) has lone pair of electrons on the central atom?\n",
+      "options": [
+        {
+          "key": "A",
+          "value": "$\\mathrm{XeF}_4$\n"
+        },
+        {
+          "key": "B",
+          "value": " $\\mathrm{XeF}_2$\n"
+        },
+        {
+          "key": "C",
+          "value": " $\\mathrm{PF}_5$\n"
+        },
+        {
+          "key": "D",
+          "value": "$\\mathrm{SF}_4$"
+        }
+      ],
+      "answer": "D",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>A molecule with the formula $\\mathrm{AX}_4 \\mathrm{Y}$ has all it's elements from p-block. Element A is rarest, monoatomic, non-radioactive from its group and has the lowest ionization enthalpy value among $\\mathrm{A}, \\mathrm{X}$ and Y . Elements X and Y have first and second highest electronegativity values respectively among all the known elements. The shape of the molecule is:\n </p>",
+      "options": [
+        {
+          "key": "A",
+          "value": " Pentagonal planar\n"
+        },
+        {
+          "key": "B",
+          "value": " Square pyramidal\n"
+        },
+        {
+          "key": "C",
+          "value": " Trigonal bipyramidal\n"
+        },
+        {
+          "key": "D",
+          "value": "Octahedral"
+        }
+      ],
+      "answer": "B",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Among $\\mathrm{SO}_2, \\mathrm{NF}_3, \\mathrm{NH}_3, \\mathrm{XeF}_2, \\mathrm{ClF}_3$ and $\\mathrm{SF}_4$, the hybridization of the molecule with nonzero dipole moment and highest number of lone-pairs of electrons on the central atom is</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": " $\\mathrm{sp}^3$\n"
+        },
+        {
+          "key": "B",
+          "value": " $\\mathrm{dsp}^2$\n"
+        },
+        {
+          "key": "C",
+          "value": " $\\mathrm{sp}^3 \\mathrm{~d}^2$\n"
+        },
+        {
+          "key": "D",
+          "value": " $\\mathrm{sp}^3 \\mathrm{~d}$"
+        }
+      ],
+      "answer": "D",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Given below are two statements :</p>\n<p>Statement (I) : Experimentally determined oxygen-oxygen bond lengths in the $\\mathrm{O}_3$ are found to be same and the bond length is greater than that of a $\\mathrm{O}=\\mathrm{O}$ (double bond) but less than that of a single $(\\mathrm{O}-\\mathrm{O})$ bond.</p>\n<p>Statement (II) : The strong lone pair-lone pair repulsion between oxygen atoms is solely responsible for the fact that the bond length in ozone is smaller than that of a double bond $(\\mathrm{O}=\\mathrm{O})$ but more than that of a single bond $(\\mathrm{O}-\\mathrm{O})$.</p>\n<p>In the light of the above statements, choose the correct answer from the options given below :</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "Statement I is false but Statement II is true\n"
+        },
+        {
+          "key": "B",
+          "value": "Both Statement I and Statement II are true\n"
+        },
+        {
+          "key": "C",
+          "value": "Statement I is true but Statement II is false\n"
+        },
+        {
+          "key": "D",
+          "value": "Both Statement I and Statement II are false"
+        }
+      ],
+      "answer": "C",
+      "explanation": "<p>Due to resonance bond length is identical in ozone. Therefore statement I is true and statement II is false.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Match the List - I with List - II</p>\n<p><style type=\"text/css\">\n.tg  {border-collapse:collapse;border-spacing:0;}\n.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}\n.tg .tg-7btt{border-color:inherit;font-weight:bold;text-align:center;vertical-align:top}\n.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}\n</style>\n<table class=\"tg\" style=\"undefined;table-layout: fixed; width: 689px\"><colgroup>\n<col style=\"width: 79px\">\n<col style=\"width: 282px\">\n<col style=\"width: 78px\">\n<col style=\"width: 250px\">\n</colgroup>\n<thead>\n  <tr>\n    <th class=\"tg-7btt\"></th>\n    <th class=\"tg-7btt\">List - I<br>(Classification of molecules based on octet rule)</th>\n    <th class=\"tg-7btt\"></th>\n    <th class=\"tg-7btt\">List - II<br>(Example)</th>\n  </tr></thead>\n<tbody>\n  <tr>\n    <td class=\"tg-c3ow\">(A)</td>\n    <td class=\"tg-0pky\">Molecules obeying octet rule</td>\n    <td class=\"tg-c3ow\">(I)</td>\n    <td class=\"tg-0pky\">$\\mathrm{NO}, \\mathrm{NO}_2$</td>\n  </tr>\n  <tr>\n    <td class=\"tg-c3ow\">(B)</td>\n    <td class=\"tg-0pky\">Molecules with incomplete octet</td>\n    <td class=\"tg-c3ow\">(II)</td>\n    <td class=\"tg-0pky\">$\\mathrm{BCl}_3, \\mathrm{AlCl}_3$</td>\n  </tr>\n  <tr>\n    <td class=\"tg-c3ow\">(C)</td>\n    <td class=\"tg-0pky\">Molecules with incomplete octet with odd electron</td>\n    <td class=\"tg-c3ow\">(III)</td>\n    <td class=\"tg-0pky\">$\\mathrm{H}_2 \\mathrm{SO}_4, \\mathrm{PCl}_5$</td>\n  </tr>\n  <tr>\n    <td class=\"tg-c3ow\">(D)</td>\n    <td class=\"tg-0pky\">Molecules with expanded octet</td>\n    <td class=\"tg-c3ow\">(IV)</td>\n    <td class=\"tg-0pky\">$\\mathrm{CCl}_4, \\mathrm{CO}_2$</td>\n  </tr>\n</tbody></table></p>\n<p>Choose the correct answer from the options given below:</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "A-IV, B-I, C-III, D-II\n"
+        },
+        {
+          "key": "B",
+          "value": "A-II, B-IV, C-III, D-I\n"
+        },
+        {
+          "key": "C",
+          "value": "A-IV, B-II, C-I, D-III\n"
+        },
+        {
+          "key": "D",
+          "value": "A-III, B-II, C-I, D-IV"
+        }
+      ],
+      "answer": "C",
+      "explanation": "<p>(A) $\\mathrm{A} \\rightarrow$ IV</p>\n<p>(B) B $\\rightarrow$ II</p>\n<p>(C) $\\mathrm{C} \\rightarrow \\mathrm{I}$</p>\n<p>(D) $\\mathrm{D} \\rightarrow$ III</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Arrange the following compounds in increasing order of their dipole moment : \n<br/><br/>$\\mathrm{HBr}, \\mathrm{H}_2 \\mathrm{~S}, \\mathrm{NF}_3$ and $\\mathrm{CHCl}_3$</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "$\\mathrm{HBr}<\\mathrm{H}_2 \\mathrm{~S}<\\mathrm{NF}_3<\\mathrm{CHCl}_3$\n"
+        },
+        {
+          "key": "B",
+          "value": "$\\mathrm{H}_2 \\mathrm{~S}<\\mathrm{HBr}<\\mathrm{NF}_3<\\mathrm{CHCl}_3$\n"
+        },
+        {
+          "key": "C",
+          "value": "$\\mathrm{NF}_3<\\mathrm{HBr}<\\mathrm{H}_2 \\mathrm{~S}<\\mathrm{CHCl}_3$\n"
+        },
+        {
+          "key": "D",
+          "value": "$\\mathrm{CHCl}_3<\\mathrm{NF}_3<\\mathrm{HBr}<\\mathrm{H}_2 \\mathrm{S}$"
+        }
+      ],
+      "answer": "C",
+      "explanation": "<p>We need to compare the experimental (or well‐established) dipole moments of the given molecules: $\\mathrm{HBr}, \\mathrm{H_2S}, \\mathrm{NF_3},$ and $\\mathrm{CHCl_3}$. </p>\n<hr />\n<h3>1. <strong>$\\mathbf{NF_3}$</strong></h3>\n\n<p><p><strong>Structure</strong>: Trigonal pyramidal (like $\\mathrm{NH_3}$), but each bond is more polar toward fluorine.  </p></p>\n<p><p><strong>Net dipole moment</strong>: Quite small, about $0.23\\text{–}0.24\\,D$ (the bond dipoles partly oppose the lone‐pair contribution).</p></p>\n\n<h3>2. <strong>$\\mathbf{HBr}$</strong></h3>\n\n<p><p><strong>Structure</strong>: Simple diatomic.  </p></p>\n<p><p><strong>Dipole moment</strong>: About $0.78\\,D$.</p></p>\n\n<h3>3. <strong>$\\mathbf{H_2S}$</strong></h3>\n\n<p><p><strong>Structure</strong>: Bent (like $\\mathrm{H_2O}$) but S is less electronegative than O, and the S–H bond angle is wider than the O–H angle in water.  </p></p>\n<p><p><strong>Dipole moment</strong>: About $0.95\\,D$.</p></p>\n\n<h3>4. <strong>$\\mathbf{CHCl_3}$</strong> (chloroform)</h3>\n\n<p><p><strong>Structure</strong>: Tetrahedral around carbon with three Cl and one H.  </p></p>\n<p><p><strong>Dipole moment</strong>: About $1.01\\,D$.</p></p>\n\n<hr />\n<h3><strong>Ordering from smallest to largest dipole moment</strong></h3>\n<p>$ \\boxed{\\mathrm{NF_3} \\;<\\; \\mathrm{HBr} \\;<\\; \\mathrm{H_2S} \\;<\\; \\mathrm{CHCl_3}.} $</p>\n<p>Hence, the correct choice is:</p>\n<p>$ \\boxed{\\text{Option (C)}\\quad NF_3 < HBr < H_2S < CHCl_3.} $</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>When $$\\psi_{\\mathrm{A}}$$ and $$\\psi_{\\mathrm{B}}$$ are the wave functions of atomic orbitals, then $$\\sigma^*$$ is represented by :</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$\\psi_A+2 \\psi_B$$\n"
+        },
+        {
+          "key": "B",
+          "value": "$$\\psi_{\\mathrm{A}}-\\psi_{\\mathrm{B}}$$\n"
+        },
+        {
+          "key": "C",
+          "value": "$$\\psi_A-2 \\psi_B$$\n"
+        },
+        {
+          "key": "D",
+          "value": "$$\\psi_{\\mathrm{A}}+\\psi_{\\mathrm{B}}$$"
+        }
+      ],
+      "answer": "B",
+      "explanation": "<p>In Molecular Orbital Theory, molecular orbitals are formed by the linear combination of atomic orbitals (LCAO). The wave functions of atomic orbitals $\\psi_A$ and $\\psi_B$ can combine in two ways:</p>\n\n<ol>\n<li><strong>Constructive Interference</strong>: This leads to the formation of a bonding molecular orbital ($\\sigma$):</li>\n</ol>\n<p>$    \\sigma = \\psi_A + \\psi_B    $</p>\n\n<ol>\n<li><strong>Destructive Interference</strong>: This leads to the formation of an antibonding molecular orbital ($\\sigma^*$):</li>\n</ol>\n<p>$    \\sigma^* = \\psi_A - \\psi_B    $</p>\n\n<h3>Conclusion</h3>\n\n<p>The antibonding molecular orbital $\\sigma^*$ is represented by:</p>\n\n<p>$ \\sigma^* = \\psi_A - \\psi_B $</p>\n\n<p>Therefore, the correct answer is:</p>\n\n<p>Option B: $\\psi_{\\mathrm{A}} - \\psi_{\\mathrm{B}}$</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Match List I with List II</p>\n<p><style type=\"text/css\">\n.tg  {border-collapse:collapse;border-spacing:0;}\n.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}\n.tg .tg-7btt{border-color:inherit;font-weight:bold;text-align:center;vertical-align:top}\n.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}\n</style>\n<table class=\"tg\" style=\"undefined;table-layout: fixed; width: 664px\">\n<colgroup>\n<col style=\"width: 75px\">\n<col style=\"width: 252px\">\n<col style=\"width: 75px\">\n<col style=\"width: 262px\">\n</colgroup>\n<thead>\n  <tr>\n    <th class=\"tg-7btt\"></th>\n    <th class=\"tg-7btt\">LIST I<br>(Molecule)</th>\n    <th class=\"tg-7btt\"></th>\n    <th class=\"tg-7btt\">LIST II<br>(Shape)</th>\n  </tr>\n</thead>\n<tbody>\n  <tr>\n    <td class=\"tg-c3ow\">A.</td>\n    <td class=\"tg-0pky\">$$\\mathrm{NH_3}$$</td>\n    <td class=\"tg-c3ow\">I.</td>\n    <td class=\"tg-0pky\">Square pyramid</td>\n  </tr>\n  <tr>\n    <td class=\"tg-c3ow\">B.\t</td>\n    <td class=\"tg-0pky\">$$\\mathrm{BrF_5}$$</td>\n    <td class=\"tg-c3ow\">II.</td>\n    <td class=\"tg-0pky\">Tetrahedral</td>\n  </tr>\n  <tr>\n    <td class=\"tg-c3ow\">C.</td>\n    <td class=\"tg-0pky\">$$\\mathrm{PCl_5}$$</td>\n    <td class=\"tg-c3ow\">III.</td>\n    <td class=\"tg-0pky\">Trigonal pyramidal</td>\n  </tr>\n  <tr>\n    <td class=\"tg-c3ow\">D.</td>\n    <td class=\"tg-0pky\">$$\\mathrm{CH_4}$$</td>\n    <td class=\"tg-c3ow\">IV.</td>\n    <td class=\"tg-0pky\">Trigonal bipyramidal</td>\n  </tr>\n</tbody>\n</table></p>\n<p>Choose the correct answer from the options given below:</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "A-II, B-IV, C-I, D-III\n"
+        },
+        {
+          "key": "B",
+          "value": "A-III, B-I, C-IV, D-II\n"
+        },
+        {
+          "key": "C",
+          "value": "A-IV, B-III, C-I, D-II\n"
+        },
+        {
+          "key": "D",
+          "value": "A-III, B-IV, C-I, D-II"
+        }
+      ],
+      "answer": "B",
+      "explanation": "<p>To match the molecules in List I with their corresponding shapes in List II, we need to consider the electronic geometry and the VSEPR (Valence Shell Electron Pair Repulsion) theory. Here’s the detailed analysis:</p>\n\n<p><b>$$\\mathrm{NH_3}$$ (Ammonia)</b>: Ammonia has a central nitrogen atom bonded to three hydrogen atoms and has one lone pair of electrons. This leads to a trigonal pyramidal shape.</p>\n\n<p><b>$$\\mathrm{BrF_5}$$ (Bromine pentafluoride)</b>: Bromine pentafluoride has a central bromine atom bonded to five fluorine atoms and has one lone pair of electrons. This leads to a square pyramidal shape.</p>\n\n<p><b>$$\\mathrm{PCl_5}$$ (Phosphorus pentachloride)</b>: Phosphorus pentachloride has a central phosphorus atom bonded to five chlorine atoms and no lone pairs. This results in a trigonal bipyramidal shape.</p>\n\n<p><b>$$\\mathrm{CH_4}$$ (Methane)</b>: Methane has a central carbon atom bonded to four hydrogen atoms with no lone pairs, forming a tetrahedral structure.</p>\n\n<p>Using the above analyses, we can match the molecules and shapes as follows:</p>\n\n<ul>\n\n<li>A ($$\\mathrm{NH_3}$$) - III (Trigonal pyramidal)</li>\n\n<li>B ($$\\mathrm{BrF_5}$$) - I (Square pyramid)</li>\n\n<li>C ($$\\mathrm{PCl_5}$$) - IV (Trigonal bipyramidal)</li>\n\n<li>D ($$\\mathrm{CH_4}$$) - II (Tetrahedral)</li>\n\n</ul>\n\n<p>Therefore, the correct matching is option B:</p>\n\n<p><b>Option B: A-III, B-I, C-IV, D-II</b></p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Match List I with List II</p>\n<p><style type=\"text/css\">\n.tg  {border-collapse:collapse;border-spacing:0;}\n.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}\n.tg .tg-7btt{border-color:inherit;font-weight:bold;text-align:center;vertical-align:top}\n.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}\n</style>\n<table class=\"tg\" style=\"undefined;table-layout: fixed; width: 690px\">\n<colgroup>\n<col style=\"width: 75px\">\n<col style=\"width: 239px\">\n<col style=\"width: 75px\">\n<col style=\"width: 301px\">\n</colgroup>\n<thead>\n  <tr>\n    <th class=\"tg-7btt\"></th>\n    <th class=\"tg-7btt\">LIST I<br>(Compound/Species)</th>\n    <th class=\"tg-7btt\"></th>\n    <th class=\"tg-7btt\">LIST II<br>(Shape/Geometry)</th>\n  </tr>\n</thead>\n<tbody>\n  <tr>\n    <td class=\"tg-c3ow\">A.</td>\n    <td class=\"tg-0pky\">$$\\mathrm{SF_4}$$</td>\n    <td class=\"tg-c3ow\">I.</td>\n    <td class=\"tg-0pky\">Tetrahedral</td>\n  </tr>\n  <tr>\n    <td class=\"tg-c3ow\">B.\t</td>\n    <td class=\"tg-0pky\">$$\\mathrm{BrF_3}$$</td>\n    <td class=\"tg-c3ow\">II.</td>\n    <td class=\"tg-0pky\">Pyramidal</td>\n  </tr>\n  <tr>\n    <td class=\"tg-c3ow\">C.</td>\n    <td class=\"tg-0pky\">$$\\mathrm{BrO_3^-}$$</td>\n    <td class=\"tg-c3ow\">III.</td>\n    <td class=\"tg-0pky\">See saw</td>\n  </tr>\n  <tr>\n    <td class=\"tg-c3ow\">D.</td>\n    <td class=\"tg-0pky\">$$\\mathrm{NH_4^+}$$</td>\n    <td class=\"tg-c3ow\">IV.</td>\n    <td class=\"tg-0pky\">Bent T-Shape</td>\n  </tr>\n</tbody>\n</table></p>\n<p>Choose the correct answer from the options given below:</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "A-III, B-II, C-IV, D-I\n"
+        },
+        {
+          "key": "B",
+          "value": "A-III, B-IV, C-II, D-I\n"
+        },
+        {
+          "key": "C",
+          "value": "A-II, B-IV, C-III, D-I\n"
+        },
+        {
+          "key": "D",
+          "value": "A-II, B-III, C-I, D-IV"
+        }
+      ],
+      "answer": "B",
+      "explanation": "<p>$$\\begin{aligned}\n& \\text { A } \\rightarrow \\text { Sea-saw (III) } \\\\\n& \\text { B } \\rightarrow \\text { Bent T-shape (IV) } \\\\\n& \\text { C } \\rightarrow \\text { Pyramidal (II) } \\\\\n& \\text { D } \\rightarrow \\text { Tetrahedral (I) }\n\\end{aligned}$$</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Match List I with List II</p>\n<p><style type=\"text/css\">\n.tg  {border-collapse:collapse;border-spacing:0;}\n.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}\n.tg .tg-7btt{border-color:inherit;font-weight:bold;text-align:center;vertical-align:top}\n.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}\n</style>\n<table class=\"tg\" style=\"undefined;table-layout: fixed; width: 690px\">\n<colgroup>\n<col style=\"width: 75px\">\n<col style=\"width: 239px\">\n<col style=\"width: 75px\">\n<col style=\"width: 301px\">\n</colgroup>\n<thead>\n  <tr>\n    <th class=\"tg-7btt\"></th>\n    <th class=\"tg-7btt\">LIST I<br>(Molecule/Species)</th>\n    <th class=\"tg-7btt\"></th>\n    <th class=\"tg-7btt\">LIST II<br>(Property/Shape)</th>\n  </tr>\n</thead>\n<tbody>\n  <tr>\n    <td class=\"tg-c3ow\">A.</td>\n    <td class=\"tg-0pky\">$$\\mathrm{SO_2Cl_2}$$</td>\n    <td class=\"tg-c3ow\">I.</td>\n    <td class=\"tg-0pky\">Paramagnetic</td>\n  </tr>\n  <tr>\n    <td class=\"tg-c3ow\">B.\t</td>\n    <td class=\"tg-0pky\">$$\\mathrm{NO}$$</td>\n    <td class=\"tg-c3ow\">II.</td>\n    <td class=\"tg-0pky\">Diamagnetic</td>\n  </tr>\n  <tr>\n    <td class=\"tg-c3ow\">C.</td>\n    <td class=\"tg-0pky\">$$\\mathrm{NO_2^-}$$</td>\n    <td class=\"tg-c3ow\">III.</td>\n    <td class=\"tg-0pky\">Tetrahedral</td>\n  </tr>\n  <tr>\n    <td class=\"tg-c3ow\">D.</td>\n    <td class=\"tg-0pky\">$$\\mathrm{I_3^-}$$</td>\n    <td class=\"tg-c3ow\">IV.</td>\n    <td class=\"tg-0pky\">Linear</td>\n  </tr>\n</tbody>\n</table></p>\n<p>Choose the correct answer from the options given below:</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "A-II, B-III, C-I, D-IV\n"
+        },
+        {
+          "key": "B",
+          "value": "A-III, B-I, C-II, D-IV\n"
+        },
+        {
+          "key": "C",
+          "value": "A-IV, B-I, C-III, D-II\n"
+        },
+        {
+          "key": "D",
+          "value": "A-III, B-IV, C-II, D-I"
+        }
+      ],
+      "answer": "B",
+      "explanation": "<p>$$\\begin{aligned}\n& \\mathrm{A} \\rightarrow \\text { Tetrahedral (III) } \\\\\n& \\mathrm{B} \\rightarrow \\text { Paramagnetic (I) } \\\\\n& \\mathrm{C} \\rightarrow \\text { Diamagnetic (II) } \\\\\n& \\mathrm{D} \\rightarrow \\text { Linear (IV) }\n\\end{aligned}$$</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Match List I with List II.</p>\n<p><style type=\"text/css\">\n.tg  {border-collapse:collapse;border-spacing:0;}\n.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}\n.tg .tg-7btt{border-color:inherit;font-weight:bold;text-align:center;vertical-align:top}\n.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}\n</style>\n<table class=\"tg\" style=\"undefined;table-layout: fixed; width: 703px\">\n<colgroup>\n<col style=\"width: 75px\">\n<col style=\"width: 252px\">\n<col style=\"width: 75px\">\n<col style=\"width: 301px\">\n</colgroup>\n<thead>\n  <tr>\n    <th class=\"tg-7btt\"></th>\n    <th class=\"tg-7btt\">LIST I<br></th>\n    <th class=\"tg-7btt\"></th>\n    <th class=\"tg-7btt\">LIST II<br></th>\n  </tr>\n</thead>\n<tbody>\n  <tr>\n    <td class=\"tg-c3ow\">A.</td>\n    <td class=\"tg-0pky\">$$<br>\\mathrm{ICl}<br>$$</td>\n    <td class=\"tg-c3ow\">I.</td>\n    <td class=\"tg-0pky\">T - shape</td>\n  </tr>\n  <tr>\n    <td class=\"tg-c3ow\">B.</td>\n    <td class=\"tg-0pky\">$$<br>\\mathrm{ICl}_3<br>$$</td>\n    <td class=\"tg-c3ow\">II.</td>\n    <td class=\"tg-0pky\">Square pyramidal</td>\n  </tr>\n  <tr>\n    <td class=\"tg-c3ow\">C.</td>\n    <td class=\"tg-0pky\">$$<br>\\mathrm{ClF}_5<br>$$</td>\n    <td class=\"tg-c3ow\">III.</td>\n    <td class=\"tg-0pky\">Pentagonal bipyramidal</td>\n  </tr>\n  <tr>\n    <td class=\"tg-c3ow\">D.</td>\n    <td class=\"tg-0pky\">$$<br>\\mathrm{IF}_7<br>$$</td>\n    <td class=\"tg-c3ow\">IV.</td>\n    <td class=\"tg-0pky\">Linear</td>\n  </tr>\n</tbody>\n</table></p>\n<p>Choose the correct answer from the options given below :</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "(A)-(I), (B)-(IV), (C)-(III), (D)-(II)\n"
+        },
+        {
+          "key": "B",
+          "value": "(A)-(IV), (B)-(I), (C)-(II), (D)-(III)\n"
+        },
+        {
+          "key": "C",
+          "value": "(A)-(I), (B)-(III), (C)-(II), (D)-(IV)\n"
+        },
+        {
+          "key": "D",
+          "value": "(A)-(IV), (B)-(III), (C)-(II), (D)-(I)"
+        }
+      ],
+      "answer": "B",
+      "explanation": "<p>$$\\begin{aligned}\n& \\mathrm{ICl} \\rightarrow s p^3 \\rightarrow 1 \\mathrm{bp}+3 \\mathrm{lp} \\rightarrow \\text { Linear } \\\\\n& \\mathrm{ICl}_3 \\rightarrow s p^3 d \\rightarrow 3 \\mathrm{bp}+2 \\mathrm{lp} \\rightarrow \\mathrm{T} \\text {-shape } \\\\\n& \\mathrm{CIF}_5 \\rightarrow s p^3 d^2 \\rightarrow 5 \\mathrm{bp}+1 \\mathrm{lp} \\rightarrow \\text { Square Pyramidal } \\\\\n& \\mathrm{IF}_7 \\rightarrow s p^3 d^3 \\rightarrow 7 \\text { bp only } \\rightarrow \\text { Pentagonal bipyramidal } \\\\\n& \\text { (A)-(IV), (B)-(I), (C)-(II), D-(III) }\n\\end{aligned}$$</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Number of $$\\sigma$$ and $$\\pi$$ bonds present in ethylene molecule is respectively :</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "3 and 1\n"
+        },
+        {
+          "key": "B",
+          "value": "5 and 1\n"
+        },
+        {
+          "key": "C",
+          "value": "4 and 1\n"
+        },
+        {
+          "key": "D",
+          "value": "5 and 2"
+        }
+      ],
+      "answer": "B",
+      "explanation": "<p>Let's analyze the bond structure in an ethylene molecule (C<sub>2</sub>H<sub>4</sub>) to determine the count of $$\\sigma$$ and $$\\pi$$ bonds.\n\n</p>\n\n<p>Ethylene consists of two carbon atoms double-bonded to each other, with each carbon atom also bonded to two hydrogen atoms. Each single bond is a $$\\sigma$$ bond. The double bond between the carbon atoms is made up of one $$\\sigma$$ bond and one $$\\pi$$ bond. Here's how the bonds break down:</p>\n\n<ol>\n\n<li>Each carbon-hydrogen bond is a $$\\sigma$$ bond. Since there are four C-H bonds, we have 4 $$\\sigma$$ bonds from C-H bonding.</li>\n\n<li>The carbon-carbon double bond consists of one $$\\sigma$$ bond and one $$\\pi$$ bond. Thus, we have 1 additional $$\\sigma$$ bond from the C=C double bond.</li>\n\n<li>Total $$\\sigma$$ bonds = 4 (from C-H) + 1 (from C=C) = 5.</li>\n\n<li>There is 1 $$\\pi$$ bond present in the carbon-carbon double bond.</li>\n\n</ol>\n\n<p>Therefore, the correct option is:<br>\n\n<p>Option B: 5 and 1</p></p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>The correct statement/s about Hydrogen bonding is/are</p>\n<p>A. Hydrogen bonding exists when H is covalently bonded to the highly electro negative atom.</p>\n<p>B. Intermolecular H bonding is present in $$o$$-nitro phenol</p>\n<p>C. Intramolecular $$\\mathrm{H}$$ bonding is present in HF.</p>\n<p>D. The magnitude of $$\\mathrm{H}$$ bonding depends on the physical state of the compound.</p>\n<p>E. H-bonding has powerful effect on the structure and properties of compounds</p>\n<p>Choose the correct answer from the options given below:</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "A, B, C only\n"
+        },
+        {
+          "key": "B",
+          "value": "A only\n"
+        },
+        {
+          "key": "C",
+          "value": "A, D, E only\n"
+        },
+        {
+          "key": "D",
+          "value": "A, B, D only"
+        }
+      ],
+      "answer": "C",
+      "explanation": "<p>In o-nitrophenol intra molecular hydrogen bonding \nis present.</p>\n<p>In HF intermolecular hydrogen bonding is present. </p>\n<p>Other statements are correct except B and C. </p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Number of molecules/ions from the following in which the central atom is involved in $$\\mathrm{sp}^3$$ hybridization is ________.</p>\n<p>$$\\mathrm{NO}_3^{-}, \\mathrm{BCl}_3, \\mathrm{ClO}_2^{-}, \\mathrm{ClO}_3^{-}$$</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "2"
+        },
+        {
+          "key": "B",
+          "value": "4"
+        },
+        {
+          "key": "C",
+          "value": "1"
+        },
+        {
+          "key": "D",
+          "value": "3"
+        }
+      ],
+      "answer": "A",
+      "explanation": "<p>To determine the number of molecules/ions in which the central atom is involved in $$\\mathrm{sp}^3$$ hybridization, we must analyze the hybridization state for each central atom. Hybridization is typically determined by the number of sigma bonds and lone pairs on the central atom.</p>\n\n<p>Let's evaluate each molecule/ion:</p>\n\n<p><b>1. $$\\mathrm{NO}_3^{-}$$</b>:</p>\n\n<p>The central atom is nitrogen (N). In $$\\mathrm{NO}_3^{-}$$, nitrogen forms three sigma bonds with oxygen atoms and has no lone pairs. Using the formula for hybridization:</p>\n\n<p> Number of hybrid orbitals = number of sigma bonds + number of lone pairs</p>\n\n<p>For $$\\mathrm{NO}_3^{-}$$: $$3 + 0 = 3$$ hybrid orbitals. Therefore, nitrogen is $$\\mathrm{sp}^2$$ hybridized.</p>\n\n<p><b>2. $$\\mathrm{BCl}_3$$</b>:</p>\n\n<p>The central atom is boron (B). In $$\\mathrm{BCl}_3$$, boron forms three sigma bonds with chlorine atoms and has no lone pairs. Using the same formula:</p>\n\n<p> For $$\\mathrm{BCl}_3$$: $$3 + 0 = 3$$ hybrid orbitals. Therefore, boron is $$\\mathrm{sp}^2$$ hybridized.</p>\n\n<p><b>3. $$\\mathrm{ClO}_2^{-}$$</b>:</p>\n\n<p>The central atom is chlorine (Cl). In $$\\mathrm{ClO}_2^{-}$$, chlorine forms two sigma bonds with oxygen atoms and has two lone pairs. Therefore,:</p>\n\n<p> For $$\\mathrm{ClO}_2^{-}$$: $$2 + 2 = 4$$ hybrid orbitals. Thus, chlorine is $$\\mathrm{sp}^3$$ hybridized.</p>\n\n<p><b>4. $$\\mathrm{ClO}_3^{-}$$</b>:</p>\n\n<p>The central atom is chlorine (Cl). In $$\\mathrm{ClO}_3^{-}$$, chlorine forms three sigma bonds with oxygen atoms and has one lone pair. Therefore,:</p>\n\n<p> For $$\\mathrm{ClO}_3^{-}$$: $$3 + 1 = 4$$ hybrid orbitals. Thus, chlorine is $$\\mathrm{sp}^3$$ hybridized.</p>\n\n<p>Based on the analysis, the molecules/ions $$\\mathrm{ClO}_2^{-}$$ and $$\\mathrm{ClO}_3^{-}$$ have their central atoms involved in $$\\mathrm{sp}^3$$ hybridization.</p>\n\n<p>Therefore, the total number is <strong>2</strong>.</p>\n\n<p>Thus, the correct option is <strong>Option A</strong>.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Which one of the following molecules has maximum dipole moment?</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$\\mathrm{CH}_4$$\n"
+        },
+        {
+          "key": "B",
+          "value": "$$\\mathrm{NF}_3$$\n"
+        },
+        {
+          "key": "C",
+          "value": "$$\\mathrm{NH}_3$$\n"
+        },
+        {
+          "key": "D",
+          "value": "$$\\mathrm{PF}_5$$"
+        }
+      ],
+      "answer": "C",
+      "explanation": "<p>$$\\mathrm{NH}_3 \\text { have more dipole moment than } \\mathrm{NF}_3 \\text {. }$$</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Given below are two statements :<br/><br/>\n<b>Statement (I)</b> : A $\\pi$ bonding MO has lower electron density above and below the inter-nuclear axis.\n<br/><br/>\n<b>Statement (II)</b> : The $\\pi^*$ antibonding MO has a node between the nuclei.<br/><br/>\nIn the light of the above statements, choose the <b>most appropriate</b> answer from the options given below :",
+      "options": [
+        {
+          "key": "A",
+          "value": "Both Statement I and Statement II are true"
+        },
+        {
+          "key": "B",
+          "value": "Both Statement I and Statement II are false"
+        },
+        {
+          "key": "C",
+          "value": "Statement I is true but Statement II is false"
+        },
+        {
+          "key": "D",
+          "value": "Statement I is false but Statement II is true"
+        }
+      ],
+      "answer": "D",
+      "explanation": "<p>Let's analyze both statements:</p>\n\n<p><b>Statement (I)</b>: \"A $\\pi$ bonding MO has lower electron density above and below the inter-nuclear axis.\"</p>\n\n<p>This statement is false. In molecular orbital (MO) theory, a pi bond ($\\pi$ bond) is formed by the sideways overlap of p-orbitals from two adjacent atoms. The characteristic electron density of a $\\pi$ bonding molecular orbital is concentrated above and below the inter-nuclear axis, not lower. These regions of electron density are where the p-orbitals overlap and electrons are likely to be found. This concentration of electron density above and below the inter-nuclear axis is what allows the $\\pi$ bond to provide additional stability to the molecule, alongside any sigma ($\\sigma$) bonds that may be present.</p>\n\n<p><b>Statement (II)</b>: \"The $\\pi^*$ antibonding MO has a node between the nuclei.\"</p>\n\n<p>This statement is true. In a $\\pi^*$ (pi-star) antibonding molecular orbital, there is indeed a nodal plane between the nuclei where the probability of finding electrons is essentially zero. This node arises from the out-of-phase combination of the p-orbitals from adjacent atoms, which results in destructive interference and a region of zero electron density in the bonding region. The presence of this nodal plane is what makes the $\\pi^*$ orbital antibonding—the electrons in this orbital actually serve to destabilize the bond between the two atoms.</p>\n\n<p>Therefore, the correct answer is:</p>\n<p>Option D: Statement I is false but Statement II is true.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Given below are two statements: one is labelled as <b>Assertion (A</b>) and the other is labelled as <b>Reason (R)</b>.<br/><br/>\n<b>Assertion (A)</b>: $\\mathrm{PH}_3$ has lower boiling point than $\\mathrm{NH}_3$.<br/><br/>\n<b>Reason (R)</b> : In liquid state $\\mathrm{NH}_3$ molecules are associated through vander Waal's forces, but $\\mathrm{PH}_3$ molecules are associated through hydrogen bonding.\n<br/><br/>\nIn the light of the above statements, choose the <b>most appropriate</b> answer from the options given below :\n\n",
+      "options": [
+        {
+          "key": "A",
+          "value": "Both (A) and (R) are correct and (R) is the correct explanation of (A)"
+        },
+        {
+          "key": "B",
+          "value": "(A) is not correct but (R) is correct"
+        },
+        {
+          "key": "C",
+          "value": "(A) is correct but (R) is not correct"
+        },
+        {
+          "key": "D",
+          "value": "Both $(\\mathbf{A})$ and $(\\mathbf{R})$ are correct but $(\\mathbf{R})$ is not the correct explanation of $(\\mathbf{A})$"
+        }
+      ],
+      "answer": "C",
+      "explanation": "<p>The correct answer is Option C: (A) is correct but (R) is not correct.</p>\n\n<p><b>Assertion (A)</b>: $\\mathrm{PH}_3$ has lower boiling point than $\\mathrm{NH}_3$.</p>\n\n<p>This assertion is true. The boiling point of ammonia ($\\mathrm{NH}_3$) is higher than that of phosphine ($\\mathrm{PH}_3$). Ammonia has a boiling point of about -33.34°C, whereas phosphine has a boiling point of about -87.7°C. The reason for the higher boiling point of ammonia as compared to phosphine lies in the strength and type of intermolecular forces present in the substances.</p>\n\n<p><b>Reason (R)</b> : In liquid state $\\mathrm{NH}_3$ molecules are associated through Vander Waals' forces, but $\\mathrm{PH}_3$ molecules are associated through hydrogen bonding.</p>\n\n<p>This reason is incorrect. Ammonia ($\\mathrm{NH}_3$) can form hydrogen bonds due to the presence of a highly electronegative nitrogen atom bonded to hydrogen atoms. This allows $\\mathrm{NH}_3$ molecules to strongly associate with each other through hydrogen bonding, which is a much stronger intermolecular force than Van der Waals forces. This hydrogen bonding is responsible for the relatively high boiling point of ammonia.</p>\n\n<p>On the other hand, phosphine ($\\mathrm{PH}_3$) does not form hydrogen bonds because the electronegativity difference between phosphorus and hydrogen is not significant enough to enable the formation of hydrogen bonds. Instead, phosphine molecules are associated mainly through weaker Van der Waals forces, leading to a lower boiling point when compared to ammonia.</p>\n\n<p>In conclusion, the assertion that $\\mathrm{PH}_3$ has a lower boiling point than $\\mathrm{NH}_3$ is correct, due to the hydrogen bonding present in $\\mathrm{NH}_3$ and absent in $\\mathrm{PH}_3$. However, the reason provided is incorrect because it incorrectly states that $\\mathrm{PH}_3$ forms hydrogen bonds and that $\\mathrm{NH}_3$ is associated through Van der Waals forces. It is actually the other way around, so the correct answer is that (A) is true but (R) is false.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Arrange the bonds in order of increasing ionic character in the molecules. $\\mathrm{LiF}$, $\\mathrm{K}_2 \\mathrm{O}, \\mathrm{N}_2, \\mathrm{SO}_2$ and $\\mathrm{ClF}_3$ :",
+      "options": [
+        {
+          "key": "A",
+          "value": "$\\mathrm{N}_2<\\mathrm{SO}_2<\\mathrm{ClF}_3<\\mathrm{K}_2 \\mathrm{O}<\\mathrm{LiF}$"
+        },
+        {
+          "key": "B",
+          "value": "$\\mathrm{ClF}_3<\\mathrm{N}_2<\\mathrm{SO}_2<\\mathrm{K}_2 \\mathrm{O}<\\mathrm{LiF}$"
+        },
+        {
+          "key": "C",
+          "value": "$\\mathrm{LiF}<\\mathrm{K}_2 \\mathrm{O}<\\mathrm{ClF}_3<\\mathrm{SO}_2<\\mathrm{N}_2$"
+        },
+        {
+          "key": "D",
+          "value": "$\\mathrm{N}_2<\\mathrm{ClF}_3<\\mathrm{SO}_2<\\mathrm{K}_2 \\mathrm{O}<\\mathrm{LiF}$"
+        }
+      ],
+      "answer": "A",
+      "explanation": "To determine the order of increasing ionic character in the bonds of the given molecules, we should consider the concept of electronegativity, which is a measure of the tendency of an atom to attract a bonding pair of electrons. The larger the difference in electronegativity between two atoms, the more ionic the bond is. Covalent bonds, on the other hand, have smaller differences in electronegativity.\n\n<br/><p>We can qualitatively assess the ionic character of the bonds in each molecule as follows :</p>\n\n- $\\mathrm{N_2}$ : Both nitrogen atoms have the same electronegativity since it is a diatomic molecule of the same element, therefore the bond is purely covalent with no ionic character.\n  \n<br/><br/>- $\\mathrm{SO_2}$ : Sulfur and oxygen have different electronegativities, with oxygen being more electronegative than sulfur, but not as drastically different as in ionic compounds. Therefore, the bond has some ionic character but is primarily covalent.\n  \n<br/><br/>- $\\mathrm{ClF_3}$ : Chlorine and fluorine have different electronegativities, with fluorine being more electronegative. However, the difference is not as large as between metals and nonmetals, so while this bond has ionic character, it is not as ionic as a bond between a metal and a nonmetal.\n  \n<br/><br/>- $\\mathrm{K_2O}$ : Potassium is a metal with low electronegativity, and oxygen is a nonmetal with high electronegativity. Therefore, bonds between potassium and oxygen will have a high degree of ionic character.\n  \n<br/><br/>- $\\mathrm{LiF}$ : Lithium is a metal with low electronegativity, and fluorine is a nonmetal with very high electronegativity. The difference in electronegativity is very large, indicating a very high ionic character, even more so than in $\\mathrm{K_2O}$ because fluorine is more electronegative than oxygen.\n\n<p>Given these considerations, the correct order from least to most ionic character is as follows :</p>\n\n$$\\mathrm{N_2}<\\mathrm{SO_2}<\\mathrm{ClF_3}<\\mathrm{K_2O}<\\mathrm{LiF}$$\n\n<p>Therefore, the correct option is :</p>\n\n<p>Option A : $$\\mathrm{N_2}<\\mathrm{SO_2}<\\mathrm{ClF_3}<\\mathrm{K_2O}<\\mathrm{LiF}$$</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Which of the following is least ionic?</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "CoCl$$_2$$"
+        },
+        {
+          "key": "B",
+          "value": "KCl"
+        },
+        {
+          "key": "C",
+          "value": "BaCl$$_2$$"
+        },
+        {
+          "key": "D",
+          "value": "AgCl"
+        }
+      ],
+      "answer": "D",
+      "explanation": "<p>$$\\mathrm{AgCl}<\\mathrm{CoCl}_2<\\mathrm{BaCl}_2<\\mathrm{KCl}$$ (ionic character)</p>\n<p>Reason: $$\\mathrm{Ag}^{+}$$ has pseudo inert gas configuration.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>The linear combination of atomic orbitals to form molecular orbitals takes place only when the combining atomic orbitals</p>\n<p>A. have the same energy</p>\n<p>B. have the minimum overlap</p>\n<p>C. have same symmetry about the molecular axis</p>\n<p>D. have different symmetry about the molecular axis</p>\n<p>Choose the most appropriate from the options given below:</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "B, C, D only"
+        },
+        {
+          "key": "B",
+          "value": "A, B, C only"
+        },
+        {
+          "key": "C",
+          "value": "B and D only"
+        },
+        {
+          "key": "D",
+          "value": "A and C only"
+        }
+      ],
+      "answer": "D",
+      "explanation": "<p>* Molecular orbital should have maximum overlap</p>\n<p>* Symmetry about the molecular axis should be similar</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Aluminium chloride in acidified aqueous solution forms an ion having geometry</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "Square planar\n"
+        },
+        {
+          "key": "B",
+          "value": "Octahedral\n"
+        },
+        {
+          "key": "C",
+          "value": "Trigonal bipyramidal\n"
+        },
+        {
+          "key": "D",
+          "value": "Tetrahedral"
+        }
+      ],
+      "answer": "B",
+      "explanation": "<p>$$\\mathrm{AlCl}_3$$ in acidified aqueous solution forms octahedral geometry $$[\\mathrm{Al}(\\mathrm{H}_2 \\mathrm{O})_6]^{3+}$$</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Given below are two statements : one is labelled as Assertion (A) and the other is labelled as Reason (R).</p>\n<p>Assertion (A) : There is a considerable increase in covalent radius from $$\\mathrm{N}$$ to $$\\mathrm{P}$$. However from As to Bi only a small increase in covalent radius is observed.</p>\n<p>Reason (R) : Covalent and ionic radii in a particular oxidation state increases down the group. In the light of the above statements, choose the most appropriate answer from the options given below:</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "(A) is false but (R) is true"
+        },
+        {
+          "key": "B",
+          "value": "Both (A) and (R) are true and (R) is the correct explanation of (A)"
+        },
+        {
+          "key": "C",
+          "value": "Both (A) and (R) are true but (R) is not the correct explanation of (A)"
+        },
+        {
+          "key": "D",
+          "value": "(A) is true but (R) is false"
+        }
+      ],
+      "answer": "C",
+      "explanation": "<p>According to NCERT,</p>\n<p>Statement-I : Factual data,</p>\n<p>Statement-II is true.</p>\n<p>But correct explanation is presence of completely filled $$d$$ and $$f$$-orbitals of heavier members</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>The difference in energy between the actual structure and the lowest energy resonance structure for the given compound is</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "electromeric energy\n"
+        },
+        {
+          "key": "B",
+          "value": "resonance energy\n"
+        },
+        {
+          "key": "C",
+          "value": "ionization energy\n"
+        },
+        {
+          "key": "D",
+          "value": "hyperconjugation energy"
+        }
+      ],
+      "answer": "B",
+      "explanation": "<p>The difference in energy between the actual structure and the lowest energy resonance structure for the given compound is known as resonance energy.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Consider the following statements:\n<br/><br/>\n(A) NF<sub>3</sub> molecule has a trigonal planar structure.\n<br/><br/>\n(B) Bond length of $\\mathrm{N}_{2}$ is shorter than $\\mathrm{O}_{2}$.\n<br/><br/>\n(C) Isoelectronic molecules or ions have identical bond order.\n<br/><br/>\n(D) Dipole moment of $\\mathrm{H}_{2}\\mathrm{S}$ is higher than that of water molecule.\n<br/><br/>\nChoose the correct answer from the options given below:",
+      "options": [
+        {
+          "key": "A",
+          "value": "(C) and (D) are correct"
+        },
+        {
+          "key": "B",
+          "value": "(A) and (B) are correct"
+        },
+        {
+          "key": "C",
+          "value": "(B) and (C) are correct"
+        },
+        {
+          "key": "D",
+          "value": "(A) and (D) are correct\n"
+        }
+      ],
+      "answer": "C",
+      "explanation": "The correct answer is (B) and (C).\n<br/><br/>\n(A) NF<sub>3</sub> molecule has a trigonal pyramidal structure, not a trigonal planar structure. Therefore, statement (A) is false.\n<br/><br/>\n(B) The bond length of $\\mathrm{N}_{2}$ is shorter than that of $\\mathrm{O}_{2}$ due to the smaller atomic radius of nitrogen compared to oxygen. Therefore, statement (B) is true.\n<br/><br/>\n(C) Isoelectronic molecules or ions have the same number of electrons and hence the same bond order. Therefore, statement (C) is true.\n<br/><br/>\n(D) The dipole moment of water ($\\mathrm{H}_{2}\\mathrm{O}$) is higher than that of $\\mathrm{H}_{2}\\mathrm{S}$ due to the greater electronegativity of oxygen compared to sulfur. Therefore, statement (D) is false."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>In which of the following processes, the bond order increases and paramagnetic character changes to diamagnetic one ?</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$\\mathrm{O}_{2} \\rightarrow \\mathrm{O}_{2}^{2-}$$"
+        },
+        {
+          "key": "B",
+          "value": "$$\\mathrm{N}_{2} \\rightarrow \\mathrm{N}_{2}^{+}$$"
+        },
+        {
+          "key": "C",
+          "value": "$$\\mathrm{NO} \\rightarrow \\mathrm{NO}^{+}$$"
+        },
+        {
+          "key": "D",
+          "value": "$$\\mathrm{O}_{2} \\rightarrow \\mathrm{O}_{2}^{+}$$"
+        }
+      ],
+      "answer": "C",
+      "explanation": "Let's analyze each option:\n<br/><br/>\nOption A: $\\mathrm{O}_{2} \\rightarrow \\mathrm{O}_{2}^{2-}$<br/><br/>\nThe bond order of $\\mathrm{O}_{2}$ is 2 and it is paramagnetic. When two electrons are added to form $\\mathrm{O}_{2}^{2-}$, the bond order becomes 1 (decreases) and it becomes diamagnetic. This option does not meet the required conditions.\n<br/><br/>\nOption B: $\\mathrm{N}_{2} \\rightarrow \\mathrm{N}_{2}^{+}$<br/><br/>\nThe bond order of $\\mathrm{N}_{2}$ is 3 and it is diamagnetic. When one electron is removed to form $\\mathrm{N}_{2}^{+}$, the bond order becomes 2.5 (decreases) and it remains diamagnetic. This option does not meet the required conditions.\n<br/><br/>\nOption C: $\\mathrm{NO} \\rightarrow \\mathrm{NO}^{+}$<br/><br/>\nThe bond order of $\\mathrm{NO}$ is 2.5 and it is paramagnetic. When one electron is removed to form $\\mathrm{NO}^{+}$, the bond order becomes 3 (increases) and it becomes diamagnetic. This option meets the required conditions.\n<br/><br/>\nOption D: $\\mathrm{O}_{2} \\rightarrow \\mathrm{O}_{2}^{+}$<br/><br/>\nThe bond order of $\\mathrm{O}_{2}$ is 2 and it is paramagnetic. When one electron is removed to form $\\mathrm{O}_{2}^{+}$, the bond order becomes 2.5 (increases) and it remains paramagnetic. This option does not meet the required conditions.\n<br/><br/>\nTherefore, the correct answer is $\\mathrm{NO} \\rightarrow \\mathrm{NO}^{+}$."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>The bond order and magnetic property of acetylide ion are same as that of</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$\\mathrm{O}_{2}^{+}$$"
+        },
+        {
+          "key": "B",
+          "value": "$$\\mathrm{O}_{2}^{-}$$"
+        },
+        {
+          "key": "C",
+          "value": "$$\\mathrm{N}_{2}^{+}$$"
+        },
+        {
+          "key": "D",
+          "value": "$$\\mathrm{NO}^{+}$$"
+        }
+      ],
+      "answer": "D",
+      "explanation": "<p>We want to find which of the given diatomic species (among $\\mathrm{O}_2^+$, $\\mathrm{O}_2^-$, $\\mathrm{N}_2^+$, and $\\mathrm{NO}^+$) has <strong>the same bond order and the same magnetic property</strong> (dia- or paramagnetic) as the acetylide ion, $\\mathrm{C}_2^{2-}$.</p>\n\n<h2>1. Electron Count and MO Considerations</h2><br/>\n<h3>(a) Acetylide Ion, $\\mathbf{C_2^{2-}}$</h3>\n\n<p><p>A <strong>neutral</strong> $\\mathrm{C}_2$ molecule would have $2 \\times 6 = 12$ electrons.</p></p>\n<p><p>In $\\mathrm{C}_2^{2-}$, there are <strong>2 extra electrons</strong>, giving a total of $12 + 2 = 14$ electrons.</p></p>\n\n<h3>(b) Matching Total Electrons Among the Options</h3>\n<p>Let us see how many electrons are in each species:</p>\n\n<p>$\\mathrm{O}_2$ has $2 \\times 8 = 16$ electrons  </p>\n\n\n<p><p>$\\mathrm{O}_2^+$ has $16 - 1 = 15$ electrons  </p></p>\n<p><p>$\\mathrm{O}_2^-$ has $16 + 1 = 17$ electrons</p></p>\n\n\n<p>$\\mathrm{N}_2$ has $2 \\times 7 = 14$ electrons  </p>\n\n\n<p>$\\mathrm{N}_2^+$ has $14 - 1 = 13$ electrons</p>\n\n\n<p>$\\mathrm{NO}$ has $7 + 8 = 15$ electrons  </p>\n\n\n<p>$\\mathrm{NO}^+$ has $15 - 1 = 14$ electrons</p>\n\n<p>Hence the only diatomic species in the list <strong>that has 14 electrons</strong> (like $\\mathrm{C}_2^{2-}$) is $\\mathrm{NO}^+$.</p>\n\n<h2>2. Bond Order and Magnetic Property</h2>\n<h3>(a) $\\mathrm{C}_2^{2-}$ (14 Electrons)</h3>\n<p>From molecular orbital (MO) theory for 14-electron diatomics (similar to $\\mathrm{N}_2$ with 14e), we generally get:</p>\n\n<p><p><strong>Bond order</strong> = 3  </p></p>\n<p><p>All electrons paired in MOs → <strong>diamagnetic</strong>.</p></p>\n\n<h3>(b) $\\mathrm{NO}^+$ (also 14 Electrons)</h3>\n<p>Similarly, $\\mathrm{NO}^+$ also has 14 electrons and, by the same reasoning in MO theory, has:</p>\n\n<p><p><strong>Bond order</strong> = 3  </p></p>\n<p><p>Diamagnetic (no unpaired electrons).</p></p>\n\n<h2>3. Conclusion</h2>\n<p>Among the given choices:</p>\n\n<p><p>$\\mathrm{O}_2^+$ has 15 electrons (not 14)  </p></p>\n<p><p>$\\mathrm{O}_2^-$ has 17 electrons  </p></p>\n<p><p>$\\mathrm{N}_2^+$ has 13 electrons  </p></p>\n<p><p>$\\mathrm{NO}^+$ has 14 electrons</p></p>\n\n<p>Therefore, the species with the <strong>same</strong> bond order (3) <strong>and</strong> the <strong>same</strong> magnetic property (diamagnetic) as $\\mathrm{C}_2^{2-}$ is:</p>\n<p>$ \\boxed{\\mathrm{NO}^{+} \\text{ (Option D).}} $</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Match List - I with List - II:</p>\n<p><style type=\"text/css\">\n.tg  {border-collapse:collapse;border-spacing:0;}\n.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg .tg-baqh{text-align:center;vertical-align:top}\n.tg .tg-amwm{font-weight:bold;text-align:center;vertical-align:top}\n</style>\n<table class=\"tg\" style=\"undefined;table-layout: fixed; width: 554px\">\n<colgroup>\n<col style=\"width: 49px\">\n<col style=\"width: 201px\">\n<col style=\"width: 54px\">\n<col style=\"width: 250px\">\n</colgroup>\n<thead>\n  <tr>\n    <th class=\"tg-amwm\"></th>\n    <th class=\"tg-amwm\">List - I Species</th>\n    <th class=\"tg-amwm\"></th>\n    <th class=\"tg-amwm\">List - II Geometry/Shape</th>\n  </tr>\n</thead>\n<tbody>\n  <tr>\n    <td class=\"tg-baqh\">A.</td>\n    <td class=\"tg-baqh\">$$\\mathrm{H_3O^+}$$</td>\n    <td class=\"tg-baqh\">I.</td>\n    <td class=\"tg-baqh\">Tetrahedral</td>\n  </tr>\n  <tr>\n    <td class=\"tg-baqh\">B.</td>\n    <td class=\"tg-baqh\">Acetylide anion</td>\n    <td class=\"tg-baqh\">II.</td>\n    <td class=\"tg-baqh\">Linear</td>\n  </tr>\n  <tr>\n    <td class=\"tg-baqh\">C.</td>\n    <td class=\"tg-baqh\">$$\\mathrm{NH_4^+}$$</td>\n    <td class=\"tg-baqh\">III.</td>\n    <td class=\"tg-baqh\">Pyramidal</td>\n  </tr>\n  <tr>\n    <td class=\"tg-baqh\">D.</td>\n    <td class=\"tg-baqh\">$$\\mathrm{ClO_2^-}$$</td>\n    <td class=\"tg-baqh\">IV.</td>\n    <td class=\"tg-baqh\">Bent</td>\n  </tr>\n</tbody>\n</table></p>\n<p>Choose the correct answer from the options given below:</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "A-III, B-I, C-II, D-IV"
+        },
+        {
+          "key": "B",
+          "value": "A-III, B-II, C-I, D-IV"
+        },
+        {
+          "key": "C",
+          "value": "A-III, B-IV, C-I, D-II"
+        },
+        {
+          "key": "D",
+          "value": "A-III, B-IV, C-II, D-I"
+        }
+      ],
+      "answer": "B",
+      "explanation": "<p>Let&#39;s consider each species in List I and determine their geometries/shapes.</p>\n<p>A. $\\mathrm{H_3O^+}$: This ion is formed by the addition of a proton to a water molecule. The central atom (O) is surrounded by three Hydrogen atoms and one lone pair, making its shape pyramidal.</p>\n<p>B. Acetylide anion: The acetylide ion ($\\mathrm{C_2H^-}$ or $\\mathrm{C_2^{2-}}$) has a linear geometry as the three atoms are in a straight line.</p>\n<p>C. $\\mathrm{NH_4^+}$: The ammonium ion has a central nitrogen atom surrounded by four hydrogen atoms, giving it a tetrahedral geometry.</p>\n<p>D. $\\mathrm{ClO_2^-}$: The chlorite ion has a central chlorine atom surrounded by two oxygen atoms and one lone pair, which gives it a bent or V-shaped geometry.</p>\n<p>Matching these to List II, we get:</p>\n<p>A. $\\mathrm{H_3O^+}$ - III. Pyramidal<br/><br/>\nB. Acetylide anion - II. Linear<br/><br/>\nC. $\\mathrm{NH_4^+}$ - I. Tetrahedral<br/><br/>\nD. $\\mathrm{ClO_2^-}$ - IV. Bent</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>The compound which does not exist is</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "(NH$$_4$$)$$_2$$BeF$$_4$$"
+        },
+        {
+          "key": "B",
+          "value": "PbEt$$_4$$"
+        },
+        {
+          "key": "C",
+          "value": "BeH$$_2$$"
+        },
+        {
+          "key": "D",
+          "value": "NaO$$_2$$"
+        }
+      ],
+      "answer": "D",
+      "explanation": "Sodium superoxide (NaO$_2$) is not a stable compound. It is not found in normal conditions due to its high reactivity."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>$$\\mathrm{O}-\\mathrm{O}$$ bond length in $$\\mathrm{H}_{2} \\mathrm{O}_{2}$$ is $$\\underline{\\mathrm{X}}$$ than the $$\\mathrm{O}-\\mathrm{O}$$ bond length in $$\\mathrm{F}_{2} \\mathrm{O}_{2}$$. The $$\\mathrm{O}-\\mathrm{H}$$ bond length in $$\\mathrm{H}_{2} \\mathrm{O}_{2}$$ is $$\\underline{Y}$$ than that of the $$\\mathrm{O}-\\mathrm{F}$$ bond in $$\\mathrm{F}_{2} \\mathrm{O}_{2}$$.</p>\n<p>Choose the correct option for $$\\underline{X}$$ and $$\\underline{Y}$$ from those given below :</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$\\mathrm{X}$$ - shorter, $$\\mathrm{Y}$$ - longer"
+        },
+        {
+          "key": "B",
+          "value": "$$\\mathrm{X}$$ - longer, $$\\mathrm{Y}$$ - shorter"
+        },
+        {
+          "key": "C",
+          "value": "$$\\mathrm{X}$$ - shorter, $$\\mathrm{Y}$$ - shorter"
+        },
+        {
+          "key": "D",
+          "value": "$$\\mathrm{X}$$ - longer, $$\\mathrm{Y}$$ - longer"
+        }
+      ],
+      "answer": "B",
+      "explanation": "<style type=\"text/css\">\n.tg  {border-collapse:collapse;border-spacing:0;}\n.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg .tg-baqh{text-align:center;vertical-align:top}\n.tg .tg-amwm{font-weight:bold;text-align:center;vertical-align:top}\n</style>\n<table class=\"tg\">\n<thead>\n  <tr>\n    <th class=\"tg-amwm\">Bond</th>\n    <th class=\"tg-amwm\">Bond Length</th>\n  </tr>\n</thead>\n<tbody>\n  <tr>\n    <td class=\"tg-baqh\">O - O</td>\n    <td class=\"tg-baqh\">$1.48 \\,\\mathop A\\limits^o\\left(\\text { In }{\\mathrm{H}_2 \\mathrm{O}_2}\\right)$</td>\n  </tr>\n  <tr>\n    <td class=\"tg-baqh\">O - O</td>\n    <td class=\"tg-baqh\">$1.22 \\,\\mathop A\\limits^o\\left(\\text { In }{\\mathrm{O}_2 \\mathrm{F}_2}\\right)$</td>\n  </tr>\n</tbody>\n</table>\n<br/>Thus, $\\mathrm{O}-\\mathrm{O}$ bond length in $\\mathrm{H}_2 \\mathrm{O}_2$ is longer than $\\mathrm{O}-\\mathrm{O}$ bond length in $\\mathrm{O}_2 \\mathrm{~F}_2$.\n<br/><br/><style type=\"text/css\">\n.tg  {border-collapse:collapse;border-spacing:0;}\n.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg .tg-baqh{text-align:center;vertical-align:top}\n.tg .tg-amwm{font-weight:bold;text-align:center;vertical-align:top}\n</style>\n<table class=\"tg\">\n<thead>\n  <tr>\n    <th class=\"tg-amwm\">Bond</th>\n    <th class=\"tg-amwm\">Bond Length</th>\n  </tr>\n</thead>\n<tbody>\n  <tr>\n    <td class=\"tg-baqh\">O - F</td>\n    <td class=\"tg-baqh\">$158 \\,\\mathrm{pm}\\left(\\text { In }{\\mathrm{O}_2 \\mathrm{F}_2}\\right)$</td>\n  </tr>\n  <tr>\n    <td class=\"tg-baqh\">O - H</td>\n    <td class=\"tg-baqh\">$95 \\,\\mathrm{pm}\\left(\\text { In }{\\mathrm{H}_2 \\mathrm{O}_2}\\right)$</td>\n  </tr>\n</tbody>\n</table>\n<br/>Thus, the $\\mathrm{O}-\\mathrm{H}$ bond length in $\\mathrm{H}_2 \\mathrm{O}_2$ is shorter than $\\mathrm{O}-\\mathrm{F}$ bond length in $\\mathrm{O}_2 \\mathrm{~F}_2$."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>The magnetic behaviour of $$\\mathrm{Li_2O,Na_2O_2}$$ and $$\\mathrm{KO_2}$$, respectively, are :</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "paramagnetic, paramagnetic and diamagnetic"
+        },
+        {
+          "key": "B",
+          "value": "paramagnetic, diamagnetic and paramagnetic"
+        },
+        {
+          "key": "C",
+          "value": "diamagnetic, paramagnetic and diamagnetic"
+        },
+        {
+          "key": "D",
+          "value": "diamagnetic, diamagnetic and paramagnetic"
+        }
+      ],
+      "answer": "D",
+      "explanation": "$\\mathrm{Li}_{2} \\mathrm{O} \\rightarrow \\mathrm{O}^{2-} \\rightarrow$ diamagnetic\n<br/><br/>\n$\\mathrm{Na}_{2} \\mathrm{O}_{2} \\rightarrow \\mathrm{O}_{2}^{2-} \\rightarrow$ diamagnetic\n<br/><br/>\n$\\mathrm{KO}_{2} \\rightarrow \\mathrm{O}_{2}^{-} \\rightarrow$ paramagnetic"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>The bond dissociation energy is highest for</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "Cl$$_2$$"
+        },
+        {
+          "key": "B",
+          "value": "I$$_2$$"
+        },
+        {
+          "key": "C",
+          "value": "Br$$_2$$"
+        },
+        {
+          "key": "D",
+          "value": "F$$_2$$"
+        }
+      ],
+      "answer": "A",
+      "explanation": "Bond energy of $\\mathrm{F}_{2}$ less than $\\mathrm{Cl}_{2}$ due to lone pair lone pair repulsions.\n<br/><br/>\nBond energy order $\\mathrm{Cl}_{2}>\\mathrm{Br}_{2}>\\mathrm{F}_{2}>\\mathrm{I}_{2}$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>What is the number of unpaired electron(s) in the highest occupied molecular orbital of the following species : $$\\mathrm{{N_2};N_2^ + ;{O_2};O_2^ + }$$ ?</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "0, 1, 0, 1"
+        },
+        {
+          "key": "B",
+          "value": "2, 1, 0, 1"
+        },
+        {
+          "key": "C",
+          "value": "0, 1, 2, 1"
+        },
+        {
+          "key": "D",
+          "value": "2, 1, 2, 1"
+        }
+      ],
+      "answer": "C",
+      "explanation": "<style type=\"text/css\">\n.tg  {border-collapse:collapse;border-spacing:0;width:100%}\n.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}\n</style>\n<table class=\"tg\">\n<thead>\n  <tr>\n    <th class=\"tg-c3ow\">Molecule</th>\n    <th class=\"tg-c3ow\">$\\begin{gathered}\\text { No. of unpaired electron in } \\\\\\text { highest occupied } \\\\\\text { molecular orbital }\\end{gathered}$</th>\n  </tr>\n</thead>\n<tbody>\n  <tr>\n    <td class=\"tg-c3ow\">$\\mathrm{N}_{2}$</td>\n    <td class=\"tg-c3ow\">0</td>\n  </tr>\n  <tr>\n    <td class=\"tg-c3ow\">$\\mathrm{N}_{2}^{\\oplus}$</td>\n    <td class=\"tg-c3ow\">1</td>\n  </tr>\n  <tr>\n    <td class=\"tg-c3ow\">$\\mathrm{O}_{2}$</td>\n    <td class=\"tg-c3ow\">2</td>\n  </tr>\n  <tr>\n    <td class=\"tg-c3ow\">$\\mathrm{O}_{2}^{\\oplus}$</td>\n    <td class=\"tg-c3ow\">1</td>\n  </tr>\n</tbody>\n</table>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Decreasing order of the hydrogen bonding in following forms of water is correctly represented by</p>\n<p>A. Liquid water</p>\n<p>B. Ice</p>\n<p>C. Impure water</p>\n<p>Choose the correct answer from the options given below :</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "A = B > C"
+        },
+        {
+          "key": "B",
+          "value": "B > A > C"
+        },
+        {
+          "key": "C",
+          "value": "A > B > C"
+        },
+        {
+          "key": "D",
+          "value": "C > B > A"
+        }
+      ],
+      "answer": "B",
+      "explanation": "Extent of hydrogen bonding :\n<br/><br/>\nIce $>$ liquid water $>$ impure water\n<br/><br/>\n- In ice, 4 molecules of $\\mathrm{H}_{2} \\mathrm{O}$ are connected to $\\mathrm{H}_{2} \\mathrm{O}$ molecule.\n<br/><br/>\n- Impure water will have less hydrogen bonding."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Order of Covalent bond;</p>\n<p>$$\\mathrm{A.~KF > KI ; LiF > KF}$$</p>\n<p>$$\\mathrm{B.~KF < KI ; LiF > KF}$$</p>\n<p>$$\\mathrm{C.~SnCl_4 > SnCl_2 ; CuCl > NaCl}$$</p>\n<p>$$\\mathrm{D.~LiF > KF ; CuCl < NaCl}$$</p>\n<p>$$\\mathrm{E.~KF < KI ; CuCl > NaCl}$$</p>\n<p>Choose the correct answer from the options given below :</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "B, C only"
+        },
+        {
+          "key": "B",
+          "value": "A, B only"
+        },
+        {
+          "key": "C",
+          "value": "C, E only"
+        },
+        {
+          "key": "D",
+          "value": "B, C, E only"
+        }
+      ],
+      "answer": "D",
+      "explanation": "B is correct $\\mathrm{KF}<\\mathrm{KI}$; $\\mathrm{LiF}>\\mathrm{KF}$\n<br/><br/>\n$\\mathrm{C}$ is correct $\\underset{+4}{\\mathrm{SnCl}_{4}}>\\underset{+2}{\\mathrm{SnCl}_{2}} ; \\mathrm{CuCl}>\\mathrm{NaCl}$\n<br/><br/>\n$\\mathrm{E}$ is correct $\\mathrm{KF}<\\mathrm{KI}$; $\\mathrm{CuCl}>\\mathrm{NaCl}$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Which of the following pair of molecules contain odd electron molecule and an expanded octet molecule?</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$\\mathrm{BCl}_{3}$$ and $$\\mathrm{SF}_{6}$$"
+        },
+        {
+          "key": "B",
+          "value": "$$\\mathrm{NO}$$ and $$\\mathrm{H}_{2} \\mathrm{SO}_{4}$$"
+        },
+        {
+          "key": "C",
+          "value": "$$\\mathrm{SF}_{6}$$ and $$\\mathrm{H}_{2} \\mathrm{SO}_{4}$$"
+        },
+        {
+          "key": "D",
+          "value": "$$\\mathrm{BCl}_{3}$$ and $$\\mathrm{NO}$$"
+        }
+      ],
+      "answer": "B",
+      "explanation": "(A) $\\mathrm{BCl}_{3}$ - Even electron molecules\n<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; $\\mathrm{SF}_{6}$ - Expended octet molecules\n<br/><br/>\n(B) $\\mathrm{NO}$ - Odd electron molecules<br/>\n&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;$\\mathrm{H}_{2} \\mathrm{SO}_{4}$ - Expanded octet<br/><br/>\n(C) $\\mathrm{SF}_{6}-$ Even electron molecules<br/>&nbsp;&nbsp;&nbsp;\n&nbsp;&nbsp;$\\mathrm{H}_{2} \\mathrm{SO}_{4}$ - Expanded octet\n<br/><br/>\n(D) $\\mathrm{BCl}_{3}-$ Even electron molecules\n<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;$\\mathrm{NO}$ - odd electron molecules"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Match List - I with List - II.</p>\n<p><style type=\"text/css\">\n.tg  {border-collapse:collapse;border-spacing:0;}\n.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg .tg-1wig{font-weight:bold;text-align:left;vertical-align:top}\n.tg .tg-0lax{text-align:left;vertical-align:top}\n</style>\n<table class=\"tg\" style=\"undefined;table-layout: fixed; width: 494px\">\n<colgroup>\n<col style=\"width: 53px\">\n<col style=\"width: 205px\">\n<col style=\"width: 40px\">\n<col style=\"width: 196px\">\n</colgroup>\n<thead>\n  <tr>\n    <th class=\"tg-1wig\"></th>\n    <th class=\"tg-1wig\">List - I</th>\n    <th class=\"tg-1wig\"></th>\n    <th class=\"tg-1wig\">List - II</th>\n  </tr>\n</thead>\n<tbody>\n  <tr>\n    <td class=\"tg-0lax\">(A)</td>\n    <td class=\"tg-0lax\">$$\\psi_{\\mathrm{MO}}=\\psi_{\\mathrm{A}}-\\psi_{\\mathrm{B}}$$</td>\n    <td class=\"tg-0lax\">(I)</td>\n    <td class=\"tg-0lax\">Dipole moment</td>\n  </tr>\n  <tr>\n    <td class=\"tg-0lax\">(B)</td>\n    <td class=\"tg-0lax\">$$\\mu=Q \\times r$$</td>\n    <td class=\"tg-0lax\">(II)</td>\n    <td class=\"tg-0lax\">Bonding molecular orbital</td>\n  </tr>\n  <tr>\n    <td class=\"tg-0lax\">(C)</td>\n    <td class=\"tg-0lax\">$$\\frac{\\mathrm{N}_{\\mathrm{b}}-\\mathrm{N}_{\\mathrm{a}}}{2}$$</td>\n    <td class=\"tg-0lax\">(III)</td>\n    <td class=\"tg-0lax\">Anti-bonding molecular orbital</td>\n  </tr>\n  <tr>\n    <td class=\"tg-0lax\">(D)</td>\n    <td class=\"tg-0lax\">$$\\psi_{\\mathrm{MO}}=\\psi_{\\mathrm{A}}+\\psi_{\\mathrm{B}}$$</td>\n    <td class=\"tg-0lax\">(IV)</td>\n    <td class=\"tg-0lax\">Bond order</td>\n  </tr>\n</tbody>\n</table></p>\n<p>Choose the correct answer from the options given below :</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$(\\mathrm{A})-(\\mathrm{II}),(\\mathrm{B})-(\\mathrm{I}),(\\mathrm{C})-(\\mathrm{IV}),(\\mathrm{D})-(\\mathrm{III})$$"
+        },
+        {
+          "key": "B",
+          "value": "$$(\\mathrm{A})-(\\mathrm{III}),(\\mathrm{B})-(\\mathrm{IV}),(\\mathrm{C})-(\\mathrm{I}),(\\mathrm{D})-(\\mathrm{II})$$"
+        },
+        {
+          "key": "C",
+          "value": "$$(\\mathrm{A})-(\\mathrm{III}),(\\mathrm{B})-(\\mathrm{I}),(\\mathrm{C})-(\\mathrm{IV}),(\\mathrm{D})-(\\mathrm{II})$$"
+        },
+        {
+          "key": "D",
+          "value": "$$(\\mathrm{A})-(\\mathrm{III}),(\\mathrm{B})-(\\mathrm{IV}),(\\mathrm{C})-(\\mathrm{II}),(\\mathrm{D})-(\\mathrm{I})$$"
+        }
+      ],
+      "answer": "C",
+      "explanation": "$\\Psi_{A}-\\Psi_{B}=\\Psi_{M O}$ is anti-boding molecular orbital\n<br/><br/>\n$$\n\\begin{aligned}\n&\\mu=Q \\times r \\text { is dipole moment } \\\\\\\\\n&\\frac{N_{b}-N_{a}}{2}=\\text { bond order } \\\\\\\\\n&\\Psi_{\\mathrm{A}}+\\Psi_{\\mathrm{B}}=\\Psi_{\\mathrm{MO}} \\text { is boding molecular orbital. }\n\\end{aligned}\n$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Given below are two statements.</p>\n<p>Statement I: $$\\mathrm{O}_{2}, \\mathrm{Cu}^{2+}$$, and $$\\mathrm{Fe}^{3+}$$ are weakly attracted by magnetic field and are magnetized in the same direction as magnetic field.</p>\n<p>Statement II: $$\\mathrm{NaCl}$$ and $$\\mathrm{H}_{2} \\mathrm{O}$$ are weakly magnetized in opposite direction to magnetic field.</p>\n<p>In the light of the above statements, choose the most appropriate answer from the options given below.</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "Both Statement I and Statement II are correct."
+        },
+        {
+          "key": "B",
+          "value": "Both Statement I and Statement II are incorrect."
+        },
+        {
+          "key": "C",
+          "value": "Statement I is correct but Statement II is incorrect."
+        },
+        {
+          "key": "D",
+          "value": "Statement I is incorrect but Statement II is correct."
+        }
+      ],
+      "answer": "A",
+      "explanation": "$\\mathrm{O}_{2}, \\mathrm{Cu}^{2+}$ and $\\mathrm{Fe}^{3+}$ have 2,1 and 5 unpaired electrons respectively, so these are the paramagnetic species. Hence, they are attracted by magnetic field.\n<br/><br/>\n$\\mathrm{NaCl}$ and $\\mathrm{H}_{2} \\mathrm{O}$ are the diamagnetic species so they are repelled by the magnetic field."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Arrange the following in increasing order of their covalent character.</p>\n<p>A. $$\\mathrm{CaF}_{2}$$</p>\n<p>B. $$\\mathrm{CaCl}_{2}$$</p>\n<p>C. $$\\mathrm{CaBr}_{2}$$</p>\n<p>D. $$\\mathrm{CaI}_{2}$$</p>\n<p>Choose the correct answer from the options given below.</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "B < A < C < D"
+        },
+        {
+          "key": "B",
+          "value": "A < B < C < D"
+        },
+        {
+          "key": "C",
+          "value": "A < B < D < C"
+        },
+        {
+          "key": "D",
+          "value": "A < C < B < D"
+        }
+      ],
+      "answer": "B",
+      "explanation": "From Fajan's rule, for a given metal ion, as the size of anion increases, polarizability of anion increases and hence covalent character of the given ionic compound increases.\n<br/><br/>\nHence, the increasing order of covalent character is $\\mathrm{CaF}_{2}<\\mathrm{CaCl}_{2}<\\mathrm{CaBr}_{2}<\\mathrm{Cal}_{2}$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Match List-I with List-II :</p>\n<p><style type=\"text/css\">\n.tg  {border-collapse:collapse;border-spacing:0;}\n.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg .tg-7btt{border-color:inherit;font-weight:bold;text-align:center;vertical-align:top}\n.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}\n</style>\n<table class=\"tg\">\n<thead>\n  <tr>\n    <th class=\"tg-7btt\"></th>\n    <th class=\"tg-7btt\">List I<br>(Compound)</th>\n    <th class=\"tg-7btt\"></th>\n    <th class=\"tg-7btt\">List II<br>(Shape)</th>\n  </tr>\n</thead>\n<tbody>\n  <tr>\n    <td class=\"tg-0pky\">(A)</td>\n    <td class=\"tg-0pky\">BrF$$_5$$</td>\n    <td class=\"tg-0pky\">(I)</td>\n    <td class=\"tg-0pky\">bent</td>\n  </tr>\n  <tr>\n    <td class=\"tg-0pky\">(B)</td>\n    <td class=\"tg-0pky\">[CrF$$_6$$]$$^{3 - }$$</td>\n    <td class=\"tg-0pky\">(II)</td>\n    <td class=\"tg-0pky\">square pyramidal</td>\n  </tr>\n  <tr>\n    <td class=\"tg-0pky\">(C)</td>\n    <td class=\"tg-0pky\">O$$_3$$</td>\n    <td class=\"tg-0pky\">(III)</td>\n    <td class=\"tg-0pky\">trigonal bipyramidal</td>\n  </tr>\n  <tr>\n    <td class=\"tg-0pky\">(D)</td>\n    <td class=\"tg-0pky\">PCl$$_5$$</td>\n    <td class=\"tg-0pky\">(IV)</td>\n    <td class=\"tg-0pky\">octahedral</td>\n  </tr>\n</tbody>\n</table></p>\n<p>Choose the correct answer from the options given below :</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$(\\mathrm{A})-(\\mathrm{I}),(\\mathrm{B})-(\\mathrm{II}),(\\mathrm{C})-(\\mathrm{III}),(\\mathrm{D})-(\\mathrm{IV})$$"
+        },
+        {
+          "key": "B",
+          "value": "$$(\\mathrm{A})-(\\mathrm{IV}),(\\mathrm{B})-(\\mathrm{III}),(\\mathrm{C})-(\\mathrm{II}),(\\mathrm{D})-(\\mathrm{I})$$"
+        },
+        {
+          "key": "C",
+          "value": "$$(\\mathrm{A})-(\\mathrm{II}),(\\mathrm{B})-(\\mathrm{IV}),(\\mathrm{C})-(\\mathrm{I}),(\\mathrm{D})-(\\mathrm{III})$$"
+        },
+        {
+          "key": "D",
+          "value": "$$(\\mathrm{A})-(\\mathrm{III}),(\\mathrm{B})-(\\mathrm{IV}),(\\mathrm{C})-(\\mathrm{II}),(\\mathrm{D})-(\\mathrm{I})$$"
+        }
+      ],
+      "answer": "C",
+      "explanation": "(A) $$\\mathrm{BrF}_{5}-$$ square pyramidal<br/><br/>\n(B) $$\\left[\\mathrm{CrF}_{6}\\right]^{3-}-$$ octahedral<br/><br/>\n(C) $$\\mathrm{O}_{3}-$$ bent<br/><br/>\n(D) $$\\mathrm{PCl}_{5}$$ - trigonal bipyramidal"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Match List I with List II:</p>\n<p><style type=\"text/css\">\n.tg  {border-collapse:collapse;border-spacing:0;}\n.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg .tg-7btt{border-color:inherit;font-weight:bold;text-align:center;vertical-align:top}\n.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}\n</style>\n<table class=\"tg\">\n<thead>\n  <tr>\n    <th class=\"tg-7btt\"></th>\n    <th class=\"tg-7btt\">List I<br>(molecule)</th>\n    <th class=\"tg-7btt\"></th>\n    <th class=\"tg-7btt\">List II<br>(hybridization ; shape)</th>\n  </tr>\n</thead>\n<tbody>\n  <tr>\n    <td class=\"tg-0pky\">(A)</td>\n    <td class=\"tg-0pky\">XeO$$_3$$</td>\n    <td class=\"tg-0pky\">(I)</td>\n    <td class=\"tg-0pky\">sp$$^3$$d ; linear</td>\n  </tr>\n  <tr>\n    <td class=\"tg-0pky\">(B)</td>\n    <td class=\"tg-0pky\">XeF$$_2$$</td>\n    <td class=\"tg-0pky\">(II)</td>\n    <td class=\"tg-0pky\">sp$$^3$$ ; pyramidal</td>\n  </tr>\n  <tr>\n    <td class=\"tg-0pky\">(C)</td>\n    <td class=\"tg-0pky\">XeOF$$_4$$</td>\n    <td class=\"tg-0pky\">(III)</td>\n    <td class=\"tg-0pky\">sp$$^3$$d$$^3$$ ; distorted octahedral</td>\n  </tr>\n  <tr>\n    <td class=\"tg-0pky\">(D)</td>\n    <td class=\"tg-0pky\">XeF$$_6$$</td>\n    <td class=\"tg-0pky\">(IV)</td>\n    <td class=\"tg-0pky\">sp$$^3$$d$$^2$$ ; square pyramidal</td>\n  </tr>\n</tbody>\n</table></p>\n<p>Choose the correct answer from the options given below:</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "A-II, B-I, C-IV, D-III"
+        },
+        {
+          "key": "B",
+          "value": "A-II, B-IV, C-III, D-I"
+        },
+        {
+          "key": "C",
+          "value": "A-IV, B-II, C-III, D-I"
+        },
+        {
+          "key": "D",
+          "value": "A-IV, B-II, C-I, D-III"
+        }
+      ],
+      "answer": "A",
+      "explanation": "$$\\mathrm{XeO}_{3}-s p^{3}$$, Pyramidal\n<br/><br/>\n$$\\mathrm{XeF}_{2}-s p^{3} d$$, linear\n<br/><br/>\n$$\\mathrm{XeOF}_{4}-s p^{3} d^{2}$$, Square Pyramidal\n<br/><br/>\n$$\\mathrm{XeF}_{6}-s p^{3} d^{3}$$, distorted octahedral"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>The correct order of increasing intermolecular hydrogen bond strength is :</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "HCN < H<sub>2</sub>O < NH<sub>3</sub>"
+        },
+        {
+          "key": "B",
+          "value": "HCN < CH<sub>4</sub> < NH<sub>3</sub>"
+        },
+        {
+          "key": "C",
+          "value": "CH<sub>4</sub> < HCN < NH<sub>3</sub>"
+        },
+        {
+          "key": "D",
+          "value": "CH<sub>4</sub> < NH<sub>3</sub> < HCN"
+        }
+      ],
+      "answer": "C",
+      "explanation": "Due to the high difference in electronegativity of H and\nN the H-bond strength of NH<sub>3</sub> is highest. There is\nno H-bond in CH<sub>4</sub>.<br/><br/>\nCH<sub>4</sub> < HCN < NH<sub>3</sub>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Bonding in which of the following diatomic molecule(s) become(s) stronger, on the basis of MO Theory, by removal of an electron?</p>\n<p>(A) NO</p>\n<p>(B) N<sub>2</sub></p>\n<p>(C) O<sub>2</sub></p>\n<p>(D) C<sub>2</sub></p>\n<p>(E) B<sub>2</sub></p>\n<p>Choose the most appropriate answer from the options given below :</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "(A), (B), (C) only"
+        },
+        {
+          "key": "B",
+          "value": "(B), (C), (E) only"
+        },
+        {
+          "key": "C",
+          "value": "(A), (C) only"
+        },
+        {
+          "key": "D",
+          "value": "(D) only"
+        }
+      ],
+      "answer": "C",
+      "explanation": "If an electron is removed from the anti-bonding\norbital, then it will tend to increase the bond order.\nThe HOMO in NO and O<sub>2</sub> is antibonding molecular\norbital .<br/><br/>\nHence, in NO and O<sub>2</sub> bond order will increase on\nloss of electron."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Number of electron deficient molecules among the following</p>\n<p>PH<sub>3</sub>, B<sub>2</sub>H<sub>6</sub>, CCl<sub>4</sub>, NH<sub>3</sub>, LiH and BCl<sub>3</sub> is</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "0"
+        },
+        {
+          "key": "B",
+          "value": "1"
+        },
+        {
+          "key": "C",
+          "value": "2"
+        },
+        {
+          "key": "D",
+          "value": "3"
+        }
+      ],
+      "answer": "C",
+      "explanation": "Electron deficient species have less than 8 electrons (or two electrons for $$\\mathrm{H}$$ ) in their valence (incomplete octet).<br/><br/>\n$$\\mathrm{B}_{2} \\mathrm{H}_{6}, \\mathrm{BCl}_{3}$$ have incomplete octet.\n"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Number of paramagnetic oxides among the following given oxides is ____________.<br><br>Li<sub>2</sub>O, CaO, Na<sub>2</sub>O<sub>2</sub>, KO<sub>2</sub>, MgO and K<sub>2</sub>O",
+      "options": [
+        {
+          "key": "A",
+          "value": "1"
+        },
+        {
+          "key": "B",
+          "value": "2"
+        },
+        {
+          "key": "C",
+          "value": "3"
+        },
+        {
+          "key": "D",
+          "value": "0"
+        }
+      ],
+      "answer": "A",
+      "explanation": "Li<sub>2</sub>O $$\\Rightarrow$$ 2Li<sup>+</sup> O<sup>2$$-$$</sup><br><br>CaO $$\\Rightarrow$$ Ca<sup>2+</sup> O<sup>2$$-$$</sup><br><br>Na<sub>2</sub>O<sub>2</sub> $$\\Rightarrow$$ 2Na<sup>+</sup> O$$_2^{2 - }$$<br><br>KO<sub>2</sub> $$\\Rightarrow$$ O$$_2^{- }$$<br><br>MgO $$\\Rightarrow$$ Mg<sup>2+</sup> O<sup>2$$-$$</sup><br><br>K<sub>2</sub>O $$\\Rightarrow$$ 2K<sup>+</sup> O<sup>2$$-$$</sup><br><br>O<sup>2$$-$$</sup> $$\\Rightarrow$$ Complete octet, diamagnetic<br><br>$$O_2^{2−}$$ has 18 electrons.\n<br><br>Moleculer orbital configuration of $$O_2^{2−}$$ is \n<br><br>$${\\sigma _{1{s^2}}}\\,\\sigma _{1{s^2}}^ * \\,{\\sigma _{2{s^2}}}\\,\\sigma _{2{s^2}}^ * \\,{\\sigma _{2p_z^2}}\\,{\\pi _{2p_x^2}}\\, = \\,{\\pi _{2p_y^2}}\\,\\pi _{2p_x^2}^ * \\, = \\,\\pi _{2p_y^2}^ * $$\n<br><br>Here is no unpaired electron so it is diamagnetic.\n<br><br>$$O_2^{−}$$ has 17 electrons.\n<br><br>Moleculer orbital configuration of $$O_2^{−}$$ is \n<br><br>$${\\sigma _{1{s^2}}}\\,\\sigma _{1{s^2}}^ * \\,{\\sigma _{2{s^2}}}\\,\\sigma _{2{s^2}}^ * \\,{\\sigma _{2p_z^2}}\\,{\\pi _{2p_x^2}}\\, = \\,{\\pi _{2p_y^2}}\\,\\pi _{2p_x^2}^ * \\, = \\,\\pi _{2p_y^1}^ * $$\n<br><br>Here is 1 unpaired electron so it is paramagnetic. \n"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Match items of List-I with those of List-II :<br><br><table>\n<thead>\n  <tr>\n    <th></th>\n    <th>List - I<br>(Property)</th>\n    <th></th>\n    <th>List - II<br>(Example)</th>\n  </tr>\n</thead>\n<tbody>\n  <tr>\n    <td>(a)</td>\n    <td>Diamagnetism</td>\n    <td>(i)</td>\n    <td>MnO</td>\n  </tr>\n  <tr>\n    <td>(b)</td>\n    <td>Ferrimagnetism</td>\n    <td>(ii)</td>\n    <td>$${O_2}$$</td>\n  </tr>\n  <tr>\n    <td>(c)</td>\n    <td>Paramagnetism</td>\n    <td>(iii)</td>\n    <td>NaCl</td>\n  </tr>\n  <tr>\n    <td>(d)</td>\n    <td>Antiferromagnetism</td>\n    <td>(iv)</td>\n    <td>$$F{e_3}{O_4}$$</td>\n  </tr>\n</tbody>\n</table><br><br>Choose the most appropriate answer from the options given below :",
+      "options": [
+        {
+          "key": "A",
+          "value": "(a)-(ii), (b)-(i), (c)-(iii), (d)-(iv)"
+        },
+        {
+          "key": "B",
+          "value": "(a)-(i), (b)-(iii), (c)-(iv), (d)-(ii)"
+        },
+        {
+          "key": "C",
+          "value": "(a)-(iii), (b)-(iv), (c)-(ii), (d)-(i)"
+        },
+        {
+          "key": "D",
+          "value": "(a)-(iv), (b)-(ii), (c)-(i), (d)-(iii)"
+        }
+      ],
+      "answer": "C",
+      "explanation": "<p> A. NaCl is diamagnetic because all electrons are paired in Na<sup>+</sup> and in Cl<sup>−</sup> . So, it shows diamagnetism. </p>\n<p> B. Fe<sub>3</sub>O<sub>4</sub> is ferrimagnetic because of the presence of the unequal alignment of magnetic moment in opposite direction. </p>\n<p> C. O<sub>2</sub> molecule has two unpaired electrons. So, it is paramagnetic. </p>\n<p> D. In MnO, the orientation of the electrons of Mn and O is such that they cancel their effects, hence it is antiferromagnetic.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The bond order and magnetic behaviour of $$O_2^ - $$ ion are respectively :",
+      "options": [
+        {
+          "key": "A",
+          "value": "1.5 and paramagnetic "
+        },
+        {
+          "key": "B",
+          "value": "1.5 and diamagnetic"
+        },
+        {
+          "key": "C",
+          "value": "2 and diamagnetic"
+        },
+        {
+          "key": "D",
+          "value": "1 and paramagnetic "
+        }
+      ],
+      "answer": "A",
+      "explanation": "$$O_2^ -  = {({\\sigma _{1s}})^2}{(\\sigma _{1s}^*)^2}{({\\sigma _{2s}})^2}{(\\sigma _{2s}^*)^2}{({\\sigma _{2{p_z}}})^2}$$$$\\left( {\\pi _{2{p_x}}^2 = \\pi _{2{p_y}}^2} \\right)\\left( {\\pi _{2{p_x}}^{*2} = \\pi _{2{p_y}}^{*1}} \\right)$$<br><br>Bond order = $${{10 - 7} \\over 2} = 1.5$$ <br><br>and paramagnetic."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Match List-I with List-II :<br><br><table>\n<thead>\n  <tr>\n    <th></th>\n    <th>List-I<br>(Species)</th>\n    <th></th>\n    <th>List-II<br>(Hybrid Orbitals)</th>\n  </tr>\n</thead>\n<tbody>\n  <tr>\n    <td>(a)</td>\n    <td>$$S{F_4}$$</td>\n    <td>(i)</td>\n    <td>$$s{p^3}{d^2}$$</td>\n  </tr>\n  <tr>\n    <td>(b)</td>\n    <td>$$I{F_5}$$</td>\n    <td>(ii)</td>\n    <td>$${d^2}s{p^3}$$</td>\n  </tr>\n  <tr>\n    <td>(c)</td>\n    <td>$$NO_2^ + $$</td>\n    <td>(iii)</td>\n    <td>$$s{p^3}d$$</td>\n  </tr>\n  <tr>\n    <td>(d)</td>\n    <td>$$NH_4^ + $$</td>\n    <td>(iv)</td>\n    <td>$$s{p^3}$$</td>\n  </tr>\n  <tr>\n    <td></td>\n    <td></td>\n    <td>(v)</td>\n    <td>$$sp$$</td>\n  </tr>\n</tbody>\n</table><br><br>Choose the correct answer from the options given below :",
+      "options": [
+        {
+          "key": "A",
+          "value": "(a)-(i), (b)-(ii), (c)-(v) and (d)-(iii)"
+        },
+        {
+          "key": "B",
+          "value": "(a)-(ii), (b)-(i), (c)-(iv) and (d)-(v)"
+        },
+        {
+          "key": "C",
+          "value": "(a)-(iii), (b)-(i), (c)-(v) and (d)-(iv)"
+        },
+        {
+          "key": "D",
+          "value": "(a)-(iv), (b)-(iii), (c)-(ii) and (d)-(v)"
+        }
+      ],
+      "answer": "C",
+      "explanation": "(a) SF<sub>4</sub> - sp<sup>3</sup>d hybridization<br><br>(b) IF<sub>5</sub> - sp<sup>3</sup>d<sup>2</sup> hybridization<br><br>(c) NO$$_2^ + $$ - sp hybridization<br><br>(d) NH$$_4^ + $$ - sp<sup>3</sup> hybridization"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Given below are two statements : one is labelled as Assertion A and the other is labelled as Reason R.<br><br>Assertion A : Dipole-dipole interactions are the only non-covalent interactions, resulting in hydrogen bond formation.<br><br>Reason R : Fluorine is the most electronegative element and hydrogen bonds in HF are symmetrical.<br><br>In the light of the above statements, choose the most appropriate answer from the options given below :",
+      "options": [
+        {
+          "key": "A",
+          "value": "Both A and R are true and R is the correct explanation of A"
+        },
+        {
+          "key": "B",
+          "value": "A is true but R is false"
+        },
+        {
+          "key": "C",
+          "value": "A is false but R is true"
+        },
+        {
+          "key": "D",
+          "value": "Both A and R are true but R is NOT the correct explanation of A"
+        }
+      ],
+      "answer": "C",
+      "explanation": "Dipole - Dipole are not only the interaction\nresponsible for hydrogen bond formation.\nIon-dipole can also be responsible for\nhydrogen bond formation.\n<br><br> F is most electronegative element and\nanhydrous HF in solid phase has\nsymmetrical hydrogen bonding."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The correct set from the following in which both pairs are in correct order of melting point is :",
+      "options": [
+        {
+          "key": "A",
+          "value": "LiCl &gt; LiF ; NaCl &gt; MgO"
+        },
+        {
+          "key": "B",
+          "value": "LiCl &gt; LiF ; MgO &gt; NaCl"
+        },
+        {
+          "key": "C",
+          "value": "LiF &gt; LiCl ; NaCl &gt; MgO"
+        },
+        {
+          "key": "D",
+          "value": "LiF &gt; LiCl ; MgO &gt; NaCl"
+        }
+      ],
+      "answer": "D",
+      "explanation": "<p>Correct option is i.e. LiF > LiCl; MgO > NaCl. Melting point is directly proportional to lattice energy. Lattice energy is the energy required to separate a mole of an ionic solid into gaseous ions. It depends upon charge of ions and size of ions.</p>\n<p>$$M.P. \\propto L.E. \\propto {{Charge} \\over {Size}}$$</p>\n<p>$$\\matrix{\n   {Li \\to  + 1} & {Li \\to  + 1}  \\cr \n   {F =  - 1} & {Cl \\to  - 1}  \\cr \n\n } $$</p>\n<p>Both LiF and LiCl having same charge, so melting point will depend on size.</p>\n<p>Larger the size of anion, lesser the lattice energy and hence, melting point order is LiF > LiCl.</p>\n<p>Similarly, $$\\matrix{\n   {MgO} & {NaCl}  \\cr \n   {Mg \\to 2 + } & {Na \\to 1 + }  \\cr \n   {O \\to 2 - } & {Cl \\to 1 - }  \\cr \n\n } $$</p>\n<p>MgO having + 2 charge which is greater than NaCl (+ 1) charge. So, greater the charge on the ions greater will be lattice energy and hence, melting point order is MgO > NaCl.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The compound that has the largest H–M–H bond angle (M = N, O, S, C) is :",
+      "options": [
+        {
+          "key": "A",
+          "value": "CH<sub>4</sub>"
+        },
+        {
+          "key": "B",
+          "value": "H<sub>2</sub>S"
+        },
+        {
+          "key": "C",
+          "value": "NH<sub>3</sub>"
+        },
+        {
+          "key": "D",
+          "value": "H<sub>2</sub>O"
+        }
+      ],
+      "answer": "A",
+      "explanation": "CH<sub>4</sub> - Bond angle = 109<sup>o</sup>28'\n<br><br>H<sub>2</sub>S - Bond angle = 92<sup>o</sup>\n<br><br>NH<sub>3</sub> - Bond angle = 107<sup>o</sup>\n<br><br>H<sub>2</sub>O - Bond angle = 104<sup>o</sup>5'"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The structure of PCl<sub>5</sub>\n in the solid state is :",
+      "options": [
+        {
+          "key": "A",
+          "value": "square pyramidal"
+        },
+        {
+          "key": "B",
+          "value": "tetrahedral [PCl<sub>4</sub>]<sup>+</sup> and octahedral [PCl<sub>6</sub>]<sup>–</sup>"
+        },
+        {
+          "key": "C",
+          "value": "square planar [PCl<sub>4</sub>]<sup>+</sup> and octahedral [PCl<sub>6</sub>]<sup>–</sup>"
+        },
+        {
+          "key": "D",
+          "value": "trigonal bipyramidal"
+        }
+      ],
+      "answer": "B",
+      "explanation": "In solid state PCl<sub>5</sub>\n exist in Ionpair i.e. [PCl<sub>4</sub>]\n<sup>+</sup> and [PCl<sub>6</sub>]\n<sup>–</sup>\n<br><br>[PCl<sub>4</sub>]<sup>+</sup> is tetrahedral.\n<br>[PCl<sub>6</sub>]<sup>–</sup> is octahedral."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The shape / structure of [XeF<sub>5</sub>]<sup>–</sup> and XeO<sub>3</sub>F<sub>2</sub>,\nrespectively, are",
+      "options": [
+        {
+          "key": "A",
+          "value": "Pentagonal planar and trigonal bipyramidal"
+        },
+        {
+          "key": "B",
+          "value": "Trigonal bipyramidal and pentagonal\nplanar"
+        },
+        {
+          "key": "C",
+          "value": "Octahedral and square pyramidal"
+        },
+        {
+          "key": "D",
+          "value": "Trigonal bipyramidal and trigonal\nbipyramidal"
+        }
+      ],
+      "answer": "A",
+      "explanation": "[XeF<sub>5</sub>]<sup>–</sup>  $$ \\to $$ 5BP + 2LP $$ \\to $$ sp<sup>3</sup>d<sup>3</sup> hybridisation $$ \\to $$ Pentagonal planar\n<br><br>XeO<sub>3</sub>F<sub>2</sub>\n$$ \\to $$ 5BP + 0LP $$ \\to $$ sp<sup>3</sup>d hybridisation $$ \\to $$ Trigonal bipyramidal"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Match the type of interaction in column A with\nthe distance dependence of their interaction\nenergy in column B\n<br><style type=\"text/css\">\n.tg  {border-collapse:collapse;border-spacing:0;}\n.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}\n.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}\n</style>\n<table class=\"tg\">\n<thead>\n  <tr>\n    <th class=\"tg-c3ow\">A</th>\n    <th class=\"tg-c3ow\">B</th>\n  </tr>\n</thead>\n<tbody>\n  <tr>\n    <td class=\"tg-0pky\">(i) ion-ion</td>\n    <td class=\"tg-0pky\">(a) $${1 \\over r}$$</td>\n  </tr>\n  <tr>\n    <td class=\"tg-0pky\">(ii) dipole-dipole</td>\n    <td class=\"tg-0pky\">(b) $${1 \\over {{r^2}}}$$</td>\n  </tr>\n  <tr>\n    <td class=\"tg-0pky\">(iii) London dispersion</td>\n    <td class=\"tg-0pky\">(c) $${1 \\over {{r^3}}}$$</td>\n  </tr>\n  <tr>\n    <td class=\"tg-0pky\"></td>\n    <td class=\"tg-0pky\">(d) $${1 \\over {{r^6}}}$$</td>\n  </tr>\n</tbody>\n</table>",
+      "options": [
+        {
+          "key": "A",
+          "value": "(I)-(a), (II)-(b), (III)-(d)"
+        },
+        {
+          "key": "B",
+          "value": "(I)-(b), (II)-(d), (III)-(c)"
+        },
+        {
+          "key": "C",
+          "value": "(I)-(a), (II)-(b), (III)-(c)"
+        },
+        {
+          "key": "D",
+          "value": "(I)-(a), (II)-(c), (III)-(d)"
+        }
+      ],
+      "answer": "D",
+      "explanation": "Ion-ion interaction energy $$ \\propto $$ $${1 \\over r}$$\n<br><br>Dipole-dipole interaction energy $$ \\propto $$ $${1 \\over {{r^3}}}$$\n<br><br>London dispersion $$ \\propto $$ $${1 \\over {{r^6}}}$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "If AB<sub>4</sub> molecule is a polar molecule, a possible\ngeometry of AB<sub>4</sub> is",
+      "options": [
+        {
+          "key": "A",
+          "value": "Tetrahedral"
+        },
+        {
+          "key": "B",
+          "value": "see-saw"
+        },
+        {
+          "key": "C",
+          "value": "Square pyramidal"
+        },
+        {
+          "key": "D",
+          "value": "Square planar"
+        }
+      ],
+      "answer": "B",
+      "explanation": "<table class=\"tg\">\n<thead>\n  <tr>\n    <th class=\"tg-amwm\">Compound</th>\n    <th class=\"tg-amwm\">Electronic Geometry</th>\n    <th class=\"tg-amwm\">Moleculer Geometry<br>or <br>Moleculer Shape</th>\n    <th class=\"tg-amwm\">Lone Pair</th>\n    <th class=\"tg-amwm\">Polarity</th>\n  </tr>\n</thead>\n<tbody>\n  <tr>\n    <td class=\"tg-baqh\">AB<sub>4</sub></td>\n    <td class=\"tg-baqh\">Tetrahedral</td>\n    <td class=\"tg-baqh\">Tetrahedral</td>\n    <td class=\"tg-baqh\">0</td>\n    <td class=\"tg-baqh\">Nonpolar</td>\n  </tr>\n  <tr>\n    <td class=\"tg-baqh\">AB<sub>4</sub></td>\n    <td class=\"tg-baqh\">Trigonal Bipyramidal</td>\n    <td class=\"tg-baqh\">see-saw</td>\n    <td class=\"tg-baqh\">1</td>\n    <td class=\"tg-baqh\">Polar</td>\n  </tr>\n  <tr>\n    <td class=\"tg-baqh\">AB<sub>4</sub></td>\n    <td class=\"tg-baqh\">Octahedral<br>(Square Bipyramidal)</td>\n    <td class=\"tg-baqh\">Square Planar</td>\n    <td class=\"tg-baqh\">2</td>\n    <td class=\"tg-baqh\">Nonpolar</td>\n  </tr>\n</tbody>\n</table>\n<br><br><b>Note :</b> The difference between Electronic Geometry and Moleculer Geometry(Moleculer Shape) is that in Electronic Geometry we include lone pair but in Moleculer Geometry(Moleculer Shape) we do not include lone pair.\n<br><br>Here in this question it is not clear which geometry they are talking about, correct answer should be either Trigonal Bipyramidal or see-saw."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The number of sp<sup>2</sup> hybrid orbitals in a molecule\nof benzene is :",
+      "options": [
+        {
+          "key": "A",
+          "value": "24"
+        },
+        {
+          "key": "B",
+          "value": "12"
+        },
+        {
+          "key": "C",
+          "value": "6"
+        },
+        {
+          "key": "D",
+          "value": "18"
+        }
+      ],
+      "answer": "D",
+      "explanation": "Each carbon atom is sp<sup>2</sup> hybrid\n<br><br>$$ \\therefore $$ 3 sp<sup>2</sup> hybrid orbitals are formed by each\ncarbon atom\n<br><br>Total sp<sup>2</sup> orbitals = 6 × 3 = 18"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "If the magnetic moment of a dioxygen species\nis 1.73 B.M, it may be :",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$O_2^ - $$ or $$O_2^ + $$"
+        },
+        {
+          "key": "B",
+          "value": "O<sub>2</sub>, $$O_2^ - $$ or $$O_2^ + $$"
+        },
+        {
+          "key": "C",
+          "value": "O<sub>2</sub> or $$O_2^ + $$"
+        },
+        {
+          "key": "D",
+          "value": "O<sub>2</sub> or $$O_2^ - $$"
+        }
+      ],
+      "answer": "A",
+      "explanation": "Magnetic moment = 1.73 BM\n<br><br>$$ \\therefore $$ Unpaired electron = 1\n<br><br>(1) $$O_2$$ has 16 electrons. \n<br><br>Moleculer orbital configuration of $$O_2$$ is \n<br><br>$${\\sigma _{1{s^2}}}\\,\\sigma _{1{s^2}}^ * \\,\\,{\\sigma _{2{s^2}}}\\,\\,\\sigma _{2{s^2}}^ * \\,\\,{\\sigma _{2p_z^2}}\\,\\,{\\pi _{2p_x^2}}\\,= \\,{\\pi _{2p_y^2}}\\,\\pi _{2p_x^1}^ *  = \\,\\,\\pi _{2p_y^1}^ * $$\n<br><br>Here 2 unpaired electron present.\n<br><br>(2)&nbsp;&nbsp; $$O_2^{+}$$ has 15 electrons. \n<br><br>Moleculer orbital configuration of $$O_2^{+}$$ is \n<br><br>$${\\sigma _{1{s^2}}}\\,\\sigma _{1{s^2}}^ * \\,\\,{\\sigma _{2{s^2}}}\\,\\,\\sigma _{2{s^2}}^ * \\,\\,{\\sigma _{2p_z^2}}\\,\\,{\\pi _{2p_x^2}}\\,= \\,{\\pi _{2p_y^2}}\\,\\pi _{2p_x^1}^ *  = \\,\\,\\pi _{2p_y^0}^ * $$\n<br><br>Here 1 unpaired electron present.\n<br><br>(3)&nbsp;&nbsp; $$O_2^{-}$$ has 17 electrons. \n<br><br>Moleculer orbital configuration of $$O_2^{-}$$ is \n<br><br>$${\\sigma _{1{s^2}}}\\,\\sigma _{1{s^2}}^ * \\,\\,{\\sigma _{2{s^2}}}\\,\\,\\sigma _{2{s^2}}^ * \\,\\,{\\sigma _{2p_z^2}}\\,\\,{\\pi _{2p_x^2}}\\,= \\,{\\pi _{2p_y^2}}\\,\\pi _{2p_x^2}^ *  = \\,\\,\\pi _{2p_y^1}^ * $$\n<br><br>Here 1 unpaired electron present.\n<br><br>Hence $$O_2^{-}$$ &amp; $$O_2^{+}$$\n have one unpaired electron. \n"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Arrange the following bonds according to their\naverage bond energies in descending order :<br>\nC–Cl, C–Br, C–F, C–I",
+      "options": [
+        {
+          "key": "A",
+          "value": "C–Br &gt; C–I &gt; C–Cl &gt; C–F"
+        },
+        {
+          "key": "B",
+          "value": "C–Cl &gt; C–Br &gt; C–I &gt; C–F"
+        },
+        {
+          "key": "C",
+          "value": "C–I &gt; C–Br &gt; C–Cl &gt; C–F"
+        },
+        {
+          "key": "D",
+          "value": "C–F &gt; C–Cl &gt; C–Br &gt; C–I"
+        }
+      ],
+      "answer": "D",
+      "explanation": "Bond length order in carbon halogen bonds are\n<br><br>in the order of C – F $$&lt;$$ C – Cl $$&lt;$$ C – Br $$&lt;$$ C – I\n<br><br>Hence, Bond energy order\n<br><br>C – F $$&gt;$$ C – Cl $$&gt;$$ C – Br $$&gt;$$ C – I"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The bond order and the magnetic characteristics of CN<sup>-</sup>\n are :",
+      "options": [
+        {
+          "key": "A",
+          "value": "3, paramagnetic"
+        },
+        {
+          "key": "B",
+          "value": "$$2{1 \\over 2}$$, paramagnetic"
+        },
+        {
+          "key": "C",
+          "value": "3, diamagnetic"
+        },
+        {
+          "key": "D",
+          "value": "$$2{1 \\over 2}$$, diamagnetic"
+        }
+      ],
+      "answer": "C",
+      "explanation": "&nbsp;&nbsp;&nbsp; CN<sup>-</sup> has 14 electrons.\n<br><br>Moleculer orbital configuration of CN<sup>-</sup> is \n<br><br>$${\\sigma _{1{s^2}}}\\,\\sigma _{1{s^2}}^ * \\,\\,{\\sigma _{2{s^2}}}\\,\\,\\sigma _{2{s^2}}^ * \\,\\,{\\pi _{2p_x^2}} =\\,{\\pi _{2p_y^2}}\\,{\\sigma _{2p_z^2}}$$\n<br><br>Here is no unpaired electron so it is diamagnetic.\n<br>N<sub>b</sub> = 10\n<br><br>N<sub>a</sub> = 4 \n<br><br>$$\\therefore\\,\\,\\,\\,$$  BO = $${1 \\over 2}\\left[ {10 - 4} \\right]$$ = 3"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The relative strength of interionic/intermolecular forces in decreasing order is :\n",
+      "options": [
+        {
+          "key": "A",
+          "value": "dipole-dipole $$&gt;$$ ion-dipole $$&gt;$$ ion-ion"
+        },
+        {
+          "key": "B",
+          "value": "ion-dipole $$&gt;$$ dipole-dipole $$&gt;$$ ion-ion"
+        },
+        {
+          "key": "C",
+          "value": "ion-dipole $$&gt;$$ ion-ion $$&gt;$$ dipole-dipole"
+        },
+        {
+          "key": "D",
+          "value": "ion-ion $$&gt;$$ ion-dipole $$&gt;$$ dipole-dipole"
+        }
+      ],
+      "answer": "D",
+      "explanation": "Ionic interactions are stronger as compared to\nvan der waal interactions.\n<br><br>So, correct order is\n<br><br>ion-ion $$&gt;$$ ion-dipole $$&gt;$$ dipole-dipole"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The dipole of CCl<sub>4</sub>, CHCl<sub>3</sub> and CH<sub>4</sub> are in the order :",
+      "options": [
+        {
+          "key": "A",
+          "value": "CCl<sub>4</sub> &lt; CH<sub>4</sub> &lt; CHCl<sub>3</sub>"
+        },
+        {
+          "key": "B",
+          "value": "CH<sub>4</sub> = CCl<sub>4</sub> &lt; CHCl<sub>3</sub>\n"
+        },
+        {
+          "key": "C",
+          "value": "CH<sub>4</sub> &lt; CCl<sub>4</sub> &lt; CHCl<sub>3</sub>"
+        },
+        {
+          "key": "D",
+          "value": "CHCl<sub>3</sub> &lt; CH<sub>4</sub>= CCl<sub>4</sub>"
+        }
+      ],
+      "answer": "B",
+      "explanation": "CHCl<sub>3</sub> is polar while CH<sub>4</sub> and CCl<sub>4</sub> are nonpolar.\n<br><br>So, dipole moment order is :\n<br><br> CH<sub>4</sub> = CCl<sub>4</sub> &lt; CHCl<sub>3</sub>\n"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "During the change of O<sub>2</sub> to O<sub>2</sub><sup>-</sup>\n, the incoming electron goes to the orbital :",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$\\pi 2{p_y}$$"
+        },
+        {
+          "key": "B",
+          "value": "$${\\sigma ^*}2{p_z}$$"
+        },
+        {
+          "key": "C",
+          "value": "$${\\pi ^*}2{p_x}$$"
+        },
+        {
+          "key": "D",
+          "value": "$$\\pi 2{p_x}$$"
+        }
+      ],
+      "answer": "C",
+      "explanation": "Molecular orbital configuration of O<sub>2</sub> (16 electrons) is \n<br><br>$${\\sigma _{1{s^2}}}\\,\\sigma _{1{s^2}}^ * \\,{\\sigma _{2{s^2}}}\\,\\sigma _{2{s^2}}^ * \\,{\\sigma _{2p_z^2}}\\,{\\pi _{2p_x^2}}\\, = \\,{\\pi _{2p_y^2}}\\,\\pi _{2p_x^1}^ * \\, = \\,\\pi _{2p_y^1}^ * $$\n<br><br>Molecular orbital configuration of O<sub>2</sub><sup>-</sup> (17 electrons) is \n<br><br>$${\\sigma _{1{s^2}}}\\,\\sigma _{1{s^2}}^ * \\,{\\sigma _{2{s^2}}}\\,\\sigma _{2{s^2}}^ * \\,{\\sigma _{2p_z^2}}\\,{\\pi _{2p_x^2}}\\, = \\,{\\pi _{2p_y^2}}\\,\\pi _{2p_x^2}^ * \\, = \\,\\pi _{2p_y^1}^ * $$\n<br><br>So, the incoming electron goes to $$\\pi _{2p_x}^ *$$ or $$\\pi _{2p_y}^ *$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "HF has highest boiling point among hydrogen\nhalides, because it has :",
+      "options": [
+        {
+          "key": "A",
+          "value": "lowest dissociation enthalpy"
+        },
+        {
+          "key": "B",
+          "value": "strongest hydrogen bonding"
+        },
+        {
+          "key": "C",
+          "value": "lowest ionic character"
+        },
+        {
+          "key": "D",
+          "value": "strongest van der Waals' interactions"
+        }
+      ],
+      "answer": "B",
+      "explanation": "Due to strong H-bonding\nbetween HF molecules, HF has highest boiling point among the\nhydrogen halides."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Among the following species, the diamagnetic\nmolecule is",
+      "options": [
+        {
+          "key": "A",
+          "value": "CO"
+        },
+        {
+          "key": "B",
+          "value": "B<sub>2</sub>"
+        },
+        {
+          "key": "C",
+          "value": "O<sub>2</sub>"
+        },
+        {
+          "key": "D",
+          "value": "NO"
+        }
+      ],
+      "answer": "A",
+      "explanation": "Those species which have unpaired electrons are called paramagnetic species.\n<br><br>And those species which have no unpaired electrons are called diamagnetic species.\n\n<br><br>(a)&nbsp;&nbsp;&nbsp; CO has 14 electrons.\n<br><br>Moleculer orbital configuration of CO is \n<br><br>$${\\sigma _{1{s^2}}}\\,\\sigma _{1{s^2}}^ * \\,\\,{\\sigma _{2{s^2}}}\\,\\,\\sigma _{2{s^2}}^ * \\,\\,{\\pi _{2p_x^2}} =\\,{\\pi _{2p_y^2}}\\,{\\sigma _{2p_z^2}}$$\n<br><br>Here is no unpaired electron so it is diamagnetic. \n\n<br><br>(b)&nbsp;&nbsp; B<sub>2</sub> has 10 electrons.\n<br><br>Molecular orbital configuration of B<sub>2</sub> is \n<br><br>$${\\sigma _{1{s^2}}}\\,\\sigma _{1{s^2}}^ * \\,\\,{\\sigma _{2{s^2}}}\\,\\,\\sigma _{2{s^2}}^ * \\,\\,{\\pi _{2p_x^1}} = {\\pi _{2p_y^1}}$$\n<br><br>Here two  unpaired electrons present. So it is paramagnetic.\n<br><br>(c)&nbsp;&nbsp; $$O_2$$ has 16 electrons. \n<br><br>Moleculer orbital configuration of $$O_2$$ is \n<br><br>$${\\sigma _{1{s^2}}}\\,\\sigma _{1{s^2}}^ * \\,\\,{\\sigma _{2{s^2}}}\\,\\,\\sigma _{2{s^2}}^ * \\,\\,{\\sigma _{2p_z^2}}\\,\\,{\\pi _{2p_x^2}}\\,= \\,{\\pi _{2p_y^2}}\\,\\pi _{2p_x^1}^ *  = \\,\\,\\pi _{2p_y^1}^ * $$\n<br><br>Here 2 unpaired electron present, so it is paramagnetic.\n<br><br>(d)&nbsp;&nbsp;&nbsp;NO has 15 electrons. \n<br><br>Moleculer orbital configuration of NO is  \n<br><br>$${\\sigma _{1{s^2}}}\\,\\sigma _{1{s^2}}^ * \\,\\,{\\sigma _{2{s^2}}}\\,\\,\\sigma _{2{s^2}}^ * \\,\\,{\\sigma _{2p_z^2}}\\,\\,{\\pi _{2p_x^2}}\\,= \\,{\\pi _{2p_y^2}}\\,\\pi _{2p_x^1}^ *  = \\,\\,\\pi _{2p_y^0}^ * $$\n<br><br>Here is 1 unpaired electron, So it is Paramagnetic. \n"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Among the following, the molecule expected\nto be stabilized by anion formation is :<br>\nC<sub>2</sub>, O<sub>2</sub>, NO, F<sub>2</sub>",
+      "options": [
+        {
+          "key": "A",
+          "value": "C<sub>2</sub>"
+        },
+        {
+          "key": "B",
+          "value": "NO"
+        },
+        {
+          "key": "C",
+          "value": "O<sub>2</sub>"
+        },
+        {
+          "key": "D",
+          "value": "F<sub>2</sub>"
+        }
+      ],
+      "answer": "A",
+      "explanation": "C<sub>2</sub> has 12 electrons.\n<br><br>Moleculer orbital configuration of C<sub>2</sub> is \n<br><br>$${\\sigma _{1{s^2}}}\\,\\sigma _{1{s^2}}^ * \\,\\,{\\sigma _{2{s^2}}}\\,\\,\\sigma _{2{s^2}}^ * \\,\\,{\\pi _{2p_x^2}} =\\,{\\pi _{2p_y^2}}$$\n<br><br>Bond order of C<sub>2</sub> = $${{8 - 4} \\over 2}$$ = 2\n<br><br>C<sub>2</sub><sup>-</sup> has 13 electrons.\n<br><br>Moleculer orbital configuration of C<sub>2</sub><sup>-</sup> is \n<br><br>$${\\sigma _{1{s^2}}}\\,\\sigma _{1{s^2}}^ * \\,\\,{\\sigma _{2{s^2}}}\\,\\,\\sigma _{2{s^2}}^ * \\,\\,{\\pi _{2p_x^2}} =\\,{\\pi _{2p_y^2}}$$ $${\\sigma _{2p_z^1}}$$\n<br><br>Bond order of C<sub>2</sub><sup>-</sup> = $${{9 - 4} \\over 2}$$ = 2.5\n<br><br>As we know, higher is the bond order more will be the stability of the molecule.\n<br><br>So we can say, stability of C<sub>2</sub> increases when it forms C<sub>2</sub><sup>-</sup> ion."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The covalent alkaline earth metal halide\n(X = Cl, Br, I) is :",
+      "options": [
+        {
+          "key": "A",
+          "value": "CaX<sub>2</sub>"
+        },
+        {
+          "key": "B",
+          "value": "SrX<sub>2</sub>"
+        },
+        {
+          "key": "C",
+          "value": "MgX<sub>2</sub>"
+        },
+        {
+          "key": "D",
+          "value": "BeX<sub>2</sub>"
+        }
+      ],
+      "answer": "D",
+      "explanation": "According to Fajan’s rule, when the size of cation is less then the\ncovalent character would be more for the cation.\n<br><br>Since Be<sup>2+</sup> has minimum size\namong given cation, therefore, BeX<sub>2</sub> would be\nmost covalent among given alkaline with metal\nhalides"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Two pi and half sigma bonds are present in : ",
+      "options": [
+        {
+          "key": "A",
+          "value": "O<sub>2</sub>"
+        },
+        {
+          "key": "B",
+          "value": "N$$_2^ + $$"
+        },
+        {
+          "key": "C",
+          "value": "O$$_2^ + $$"
+        },
+        {
+          "key": "D",
+          "value": "N<sub>2</sub>"
+        }
+      ],
+      "answer": "B",
+      "explanation": "Two pi and half sigma bonds are presents in molecule with bond order 2.5.\n<br><br>Moleculer orbital configuration of $$N_2^+$$ (13 electrons)\n<br><br>= $${\\sigma _{1{s^2}}}\\,\\sigma _{1{s^2}}^ * \\,{\\sigma _{2{s^2}}}\\,\\sigma _{2{s^2}}^ * \\,{\\pi _{2p_x^2}}\\, = \\,{\\pi _{2p_y^2}}\\,{\\sigma _{2p_z^1}}$$\n<br><br>Bond order = $${1 \\over 2}\\left( {9 - 4} \\right)$$ = 2.5"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "In which of the following process, the bond order has increased and paramagnetic character has charged to diamagnetic ? ",
+      "options": [
+        {
+          "key": "A",
+          "value": "NO $$ \\to $$ NO<sup>+</sup>"
+        },
+        {
+          "key": "B",
+          "value": "N<sub>2</sub> $$ \\to $$&nbsp;N<sub>2</sub><sup>+</sup>"
+        },
+        {
+          "key": "C",
+          "value": "O<sub>2</sub>&nbsp;$$ \\to $$&nbsp;O<sub>2</sub><sup>+</sup>"
+        },
+        {
+          "key": "D",
+          "value": "O<sub>2</sub>&nbsp;$$ \\to $$&nbsp;O<sub>2</sub><sup>2$$-$$</sup>"
+        }
+      ],
+      "answer": "A",
+      "explanation": "Molecular orbital configuration of NO (15 electrons) is \n<br><br>$${\\sigma _{1{s^2}}}\\,\\sigma _{1{s^2}}^ * \\,{\\sigma _{2{s^2}}}\\,\\sigma _{2{s^2}}^ * \\,{\\sigma _{2p_z^2}}\\,{\\pi _{2p_x^2}}\\, = \\,{\\pi _{2p_y^2}}\\,\\pi _{2p_x^1}^ * \\, = \\,\\pi _{2p_y^o}^ * $$\n<br><br>$$\\therefore\\,\\,\\,\\,$$ N<sub>b</sub> = 10\n<br><br>N<sub>a</sub> = 5 \n<br><br>$$\\therefore\\,\\,\\,\\,$$  BO = $${1 \\over 2}\\left[ {10 - 5} \\right]$$ = 2.5\n<br><br>And in NO one unpaired electron is present , so it is paramagnetic.\n<br><br>Similarly Molecular orbital configuration of NO<sup>+</sup> (14 electrons) is \n<br><br>$${\\sigma _{1{s^2}}}\\,\\sigma _{1{s^2}}^ * \\,{\\sigma _{2{s^2}}}\\,\\sigma _{2{s^2}}^ * \\,{\\sigma _{2p_z^2}}\\,{\\pi _{2p_x^2}}\\, = \\,{\\pi _{2p_y^2}}\\,$$\n<br><br>$$\\therefore\\,\\,\\,\\,$$ N<sub>b</sub> = 10\n<br><br>N<sub>a</sub> = 4\n<br><br>$$\\therefore\\,\\,\\,\\,$$  BO = $${1 \\over 2}\\left[ {10 - 4} \\right]$$ = 3\n<br><br>And in NO<sup>+</sup> no unpaired electron is present , so it is diamagnetic.\n"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "According to molecular orbital theory, which of the following is true with respect to Li<sub>2</sub><sup>+</sup> and Li<sub>2</sub><sup>$$-$$</sup> ? ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$Li_2^ + $$ is unstable and $$Li_2^ - $$ is stable"
+        },
+        {
+          "key": "B",
+          "value": "$$Li_2^ + $$ is stable and $$Li_2^ - $$ unstable"
+        },
+        {
+          "key": "C",
+          "value": "Both are stable "
+        },
+        {
+          "key": "D",
+          "value": "Both are unstable "
+        }
+      ],
+      "answer": "C",
+      "explanation": "$$Li_2^ + $$&nbsp;&nbsp;(5 electrons) = $${\\sigma _{1{s^2}}}\\,\\,\\sigma _{1{s^2}}^ * \\,\\,{\\sigma _{2{s^1}}}$$\n<br><br>$$Li_2^ - $$&nbsp;&nbsp;(7 electrons) = $${\\sigma _{1{s^2}}}\\,\\,\\sigma _{1{s^2}}^ * \\,\\,{\\sigma _{2{s^2}}}$$  $$\\,\\sigma _{2{s^1}}^ * \\,$$\n<br><br>$$ \\therefore $$&nbsp;&nbsp;&nbsp;Bond order of $$Li_2^ + $$  = $${{3 - 2} \\over 2}$$ = 0.5\n<br><br>Bond order of $$Li_2^ - $$ = $${{4 - 3} \\over 2}$$ = 0.5\n<br><br>As both  $$Li_2^ + $$ and $$Li_2^ - $$ has non-zero bond order, so both are stable."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Which of the following compounds contain(s) no covalent bond(s)?\nKCl, PH<sub>3</sub>, O<sub>2</sub>, B<sub>2</sub>H<sub>6</sub>, H<sub>2</sub>SO<sub>4</sub> ",
+      "options": [
+        {
+          "key": "A",
+          "value": "KCl, B<sub>2</sub>H<sub>6</sub>"
+        },
+        {
+          "key": "B",
+          "value": "KCl, B<sub>2</sub>H<sub>6</sub>, PH<sub>3</sub>"
+        },
+        {
+          "key": "C",
+          "value": "KCl, H<sub>2</sub>SO<sub>4</sub>"
+        },
+        {
+          "key": "D",
+          "value": "KCl"
+        }
+      ],
+      "answer": "D",
+      "explanation": "Here only KCl is ionic compound all other compound has covalent bond."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "According to molecular orbital theory, which of the following will not be a viable molecule?",
+      "options": [
+        {
+          "key": "A",
+          "value": "$${\\rm H}e_2^{2 + }$$ "
+        },
+        {
+          "key": "B",
+          "value": "$${\\rm H}e_2^{ + }$$"
+        },
+        {
+          "key": "C",
+          "value": "$${\\rm H}_2^{- }$$"
+        },
+        {
+          "key": "D",
+          "value": "$${\\rm H}_2^{2 - }$$"
+        }
+      ],
+      "answer": "D",
+      "explanation": "<b><u>Note</u> :</b>\n<br><br>According to molecules orbital theory, when a molecule have bond order = 0 then that molecule does not exist. \n<br><br>(a)$$\\,\\,\\,$$ Configuration of $$He_2^{2 + }$$ (2 electrons) is = $${\\sigma _{1{s^2}}}$$\n<br><br>$$\\therefore\\,\\,\\,$$ Bond order = $${1 \\over 2}$$ (2 $$-$$0) = 1\n<br><br>(b)$$\\,\\,\\,$$ Configuration of $$He_2^ + $$ (3 electrons) is = $${\\sigma _{1{s^2}}}$$ $$\\sigma _{1{s^1}}^ * $$\n<br><br>$$\\therefore\\,\\,\\,$$ Bond order = $${1 \\over 2}$$ (2 $$-$$1) = 0.5\n<br><br>(c) $$\\,\\,\\,$$ Configuration of $$H_2^ - $$ (3 electrons) is = $${\\sigma _{1{s^2}}}$$ $$\\sigma _{1{s^1}}^ * $$\n<br><br>$$\\therefore$$ Bond order = $${1 \\over 2}$$ (2 $$-$$ 1) = 0.5\n<br><br>(d) $$\\therefore\\,\\,\\,$$ Configuration of $$He_2^{2 - }$$ is = $${\\sigma _{1{s^2}}}\\,\\,\\sigma _{1{s^2}}^ * $$ \n<br><br>$$\\therefore\\,\\,\\,$$ Bond order = $$ = {1 \\over 2}$$ (2 $$-$$ 2) = 0\n<br><br>$$\\therefore\\,\\,\\,$$ $$H_2^{2 - }$$ is not a viable molecule. "
+    },
+    {
+      "_type": "single_mcq",
+      "body": "In the molecular orbital diagram for the molecular ion, N<sub>2</sub><sup>+</sup>, the number of electrons in the $$\\sigma $$<sub>2p<sub>z</sub></sub> molecular orbital is : ",
+      "options": [
+        {
+          "key": "A",
+          "value": "0"
+        },
+        {
+          "key": "B",
+          "value": "1"
+        },
+        {
+          "key": "C",
+          "value": "2"
+        },
+        {
+          "key": "D",
+          "value": "3"
+        }
+      ],
+      "answer": "B",
+      "explanation": "Electrons in $$N_2^ + $$ = 7 $$ \\times $$ 2 $$-$$ 1 = 13\n<br><br>Moleculer orbital configuration of $$N_2^ + $$ (13)\n<br><br>= $${\\sigma _{1{s^2}}}\\,\\sigma _{1{s^2}}^ * \\,{\\sigma _{2{s^2}}}\\,\\sigma _{2{s^2}}^ * \\,{\\pi _{2p_x^2}}\\, = \\,{\\pi _{2p_y^2}}\\,{\\sigma _{2p_z^1}}$$\n<br><br>$$\\therefore\\,\\,\\,$$ $$\\,{\\sigma _{2{p_z}}}$$ no. of electrons = 1."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The group having triangular planar structures is :\n",
+      "options": [
+        {
+          "key": "A",
+          "value": "BF<sub>3</sub>, NF<sub>3</sub>, $$CO_3^{2 - }$$"
+        },
+        {
+          "key": "B",
+          "value": "$$CO_3^{2 - }$$, $$NO_3^ - $$,  SO<sub>3</sub>"
+        },
+        {
+          "key": "C",
+          "value": "NH<sub>3</sub>, SO<sub>3</sub>, $$CO_3^{2 - }$$"
+        },
+        {
+          "key": "D",
+          "value": "NCl<sub>3</sub>, BCl<sub>3</sub>, SO<sub>3</sub>"
+        }
+      ],
+      "answer": "B",
+      "explanation": "(A) BF<sub>3</sub> : sp<sup>2</sup> Hybridization : Triangular Planar\n<br><br>NF<sub>3</sub> : sp<sup>3</sup> Hybridization : Tetrahedral\n<br><br>$$CO_3^{2 - }$$ : sp<sup>2</sup> Hybridization : Triangular Planar\n<br><br>(B) $$CO_3^{2 - }$$ : sp<sup>2</sup> Hybridization : Triangular Planar\n<br><br>$$NO_3^ - $$ : sp<sup>2</sup> Hybridization : Triangular Planar\n<br><br>SO<sub>3</sub> : sp<sup>2</sup> Hybridization : Triangular Planar\n<br><br>(C) NH<sub>3</sub> : sp<sup>3</sup> Hybridization : Tetrahedral\n<br><br>SO<sub>3</sub> : sp<sup>2</sup> Hybridization : Triangular Planar\n<br><br>$$CO_3^{2 - }$$ : sp<sup>2</sup> Hybridization : Triangular Planar\n<br><br>(D) NCl<sub>3</sub> : sp<sup>3</sup> Hybridization : Tetrahedral\n<br><br>BCl<sub>3</sub> : sp<sup>2</sup> Hybridization : Triangular Planar\n<br><br>SO<sub>3</sub> : sp<sup>2</sup> Hybridization : Triangular Planar"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Which of the following is paramagnetic ? ",
+      "options": [
+        {
+          "key": "A",
+          "value": "NO<sup>+</sup> "
+        },
+        {
+          "key": "B",
+          "value": "CO"
+        },
+        {
+          "key": "C",
+          "value": "$$O_2^{2 - }$$"
+        },
+        {
+          "key": "D",
+          "value": "B<sub>2</sub>"
+        }
+      ],
+      "answer": "D",
+      "explanation": "Those species which have unpaired electrons are called paramagnetic species.\n<br><br>(a)&nbsp;&nbsp;&nbsp;NO<sup>+</sup> has 14 electrons. \n<br><br>Moleculer orbital configuration of NO<sup>+</sup> is  \n<br><br>$${\\sigma _{1{s^2}}}$$ $$\\sigma _{1{s^2}}^ * $$  $${\\sigma _{2{s^2}}}\\,\\sigma _{2{s^2}}^ * \\,\\,{\\sigma _{2p_z^2}}\\,\\,{\\pi _{2p_x^2}}\\,\\, = \\,\\,{\\pi _{2p_y^2}}$$\n<br><br>Here is no unpaired electron, So it is Diamagnetic. \n<br><br>(b)&nbsp;&nbsp;&nbsp; CO has 14 electrons.\n<br><br>Moleculer orbital configuration of CO is \n<br><br>$${\\sigma _{1{s^2}}}\\,\\sigma _{1{s^2}}^ * \\,\\,{\\sigma _{2{s^2}}}\\,\\,\\sigma _{2{s^2}}^ * \\,\\,{\\pi _{2p_x^2}} =\\,{\\pi _{2p_y^2}}\\,{\\sigma _{2p_z^2}}$$\n<br><br>Here is no unpaired electron so it is diamagnetic. \n<br><br>(c)&nbsp;&nbsp; $$O_2^{2 - }$$ has 18 electrons. \n<br><br>Moleculer orbital configuration of $$O_2^{2 - }$$ is \n<br><br>$${\\sigma _{1{s^2}}}\\,\\sigma _{1{s^2}}^ * \\,\\,{\\sigma _{2{s^2}}}\\,\\,\\sigma _{2{s^2}}^ * \\,\\,{\\sigma _{2p_z^2}}\\,\\,{\\pi _{2p_x^2}}\\,= \\,{\\pi _{2p_y^2}}\\,\\pi _{2p_x^2}^ *  = \\,\\,\\pi _{2p_y^2}^ * $$\n<br><br>Here also  no unpaired electron present, so it is diamagnetic.\n<br><br>(d)&nbsp;&nbsp; B<sub>2</sub> has 10 electrons.\n<br><br>Molecular orbital configuration of B<sub>2</sub> is \n<br><br>$${\\sigma _{1{s^2}}}\\,\\sigma _{1{s^2}}^ * \\,\\,{\\sigma _{2{s^2}}}\\,\\,\\sigma _{2{s^2}}^ * \\,\\,{\\pi _{2p_x^1}} = {\\pi _{2p_y^1}}$$\n<br><br>Here two  unpaired electrons present. \n<br><br>So it is paramagnetic. \n"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Which of the following species is <b>not</b> paramagnetic?\n",
+      "options": [
+        {
+          "key": "A",
+          "value": "CO"
+        },
+        {
+          "key": "B",
+          "value": "O<sub>2</sub>"
+        },
+        {
+          "key": "C",
+          "value": "B<sub>2</sub>"
+        },
+        {
+          "key": "D",
+          "value": "NO"
+        }
+      ],
+      "answer": "A",
+      "explanation": "Those species which have unpaired electrons are called paramagnetic species.\n\n<br><br>(a)&nbsp;&nbsp;&nbsp; CO has 14 electrons.\n<br><br>Moleculer orbital configuration of CO is \n<br><br>$${\\sigma _{1{s^2}}}\\,\\sigma _{1{s^2}}^ * \\,\\,{\\sigma _{2{s^2}}}\\,\\,\\sigma _{2{s^2}}^ * \\,\\,{\\pi _{2p_x^2}} =\\,{\\pi _{2p_y^2}}\\,{\\sigma _{2p_z^2}}$$\n<br><br>Here is no unpaired electron so it is diamagnetic. \n<br><br>(b)&nbsp;&nbsp; $$O_2$$ has 16 electrons. \n<br><br>Moleculer orbital configuration of $$O_2$$ is \n<br><br>$${\\sigma _{1{s^2}}}\\,\\sigma _{1{s^2}}^ * \\,\\,{\\sigma _{2{s^2}}}\\,\\,\\sigma _{2{s^2}}^ * \\,\\,{\\sigma _{2p_z^2}}\\,\\,{\\pi _{2p_x^2}}\\,= \\,{\\pi _{2p_y^2}}\\,\\pi _{2p_x^1}^ *  = \\,\\,\\pi _{2p_y^1}^ * $$\n<br><br>Here 2 unpaired electron present, so it is paramagnetic.\n<br><br>(c)&nbsp;&nbsp; B<sub>2</sub> has 10 electrons.\n<br><br>Molecular orbital configuration of B<sub>2</sub> is \n<br><br>$${\\sigma _{1{s^2}}}\\,\\sigma _{1{s^2}}^ * \\,\\,{\\sigma _{2{s^2}}}\\,\\,\\sigma _{2{s^2}}^ * \\,\\,{\\pi _{2p_x^1}} = {\\pi _{2p_y^1}}$$\n<br><br>Here two unpaired electrons present. So it is paramagnetic. \n<br><br>(d)&nbsp;&nbsp;&nbsp;NO has 15 electrons. \n<br><br>Moleculer orbital configuration of NO is  \n<br><br>$${\\sigma _{1{s^2}}}\\,\\sigma _{1{s^2}}^ * \\,\\,{\\sigma _{2{s^2}}}\\,\\,\\sigma _{2{s^2}}^ * \\,\\,{\\sigma _{2p_z^2}}\\,\\,{\\pi _{2p_x^2}}\\,= \\,{\\pi _{2p_y^2}}\\,\\pi _{2p_x^1}^ *  = \\,\\,\\pi _{2p_y^0}^ * $$\n<br><br>Here is 1 unpaired electron, So it is Paramagnetic. \n"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The bond angle H - X - H is the greatest in the compound :",
+      "options": [
+        {
+          "key": "A",
+          "value": "CH<sub>4</sub>"
+        },
+        {
+          "key": "B",
+          "value": "NH<sub>3</sub>"
+        },
+        {
+          "key": "C",
+          "value": "H<sub>2</sub>O"
+        },
+        {
+          "key": "D",
+          "value": "PH<sub>3</sub>"
+        }
+      ],
+      "answer": "A",
+      "explanation": "CH<sub>4</sub> - sp<sup>3</sup> hybridisation - Bond angle (109<sup>o</sup>28')\n<br><br>NH<sub>3</sub> - sp<sup>3</sup> hybridisation - Bond angle ( 107.8<sup>o</sup>)\n<br><br>H<sub>2</sub>O - sp<sup>3</sup> hybridisation - Bond angle ( 104.5<sup>o</sup>)\n<br><br>PH<sub>3</sub> - No hybridisation - Bond angle ( 90<sup>o</sup>)\n<br><br><b>Note :</b> According to DRAGO RULE, lone pair of electrons are in pure s- orbital of the atom P. That is why PH<sub>3</sub> has no hybridisation."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The group of molecules having identical shape is :",
+      "options": [
+        {
+          "key": "A",
+          "value": "SF<sub>4</sub> , XeF<sub>4</sub> , CCl<sub>4</sub>"
+        },
+        {
+          "key": "B",
+          "value": "ClF<sub>3</sub> , XeOF<sub>2</sub> , XeF$$_3^ + $$"
+        },
+        {
+          "key": "C",
+          "value": "BF<sub>3</sub> , PCl<sub>3</sub> , XeO<sub>3</sub>"
+        },
+        {
+          "key": "D",
+          "value": "PCl<sub>5</sub> , IF<sub>5</sub> , XeO<sub>2</sub>F<sub>2</sub>"
+        }
+      ],
+      "answer": "B",
+      "explanation": "H = $${1 \\over 2}$$[VE + MA – c + a]\n<br><br>ClF<sub>3</sub>\n, H =\n$${1 \\over 2}$$\n (7 + 3 – 0 + 0) = 5 (sp<sup>3</sup>d)\n<br><br>XeOF<sub>2</sub>\n, H = $${1 \\over 2}$$(8 + 2 – 0 + 0) = 5 (sp<sup>3</sup>d)\n<br><br>XeF<sub>3</sub><sup>+</sup>\n, H =\n$${1 \\over 2}$$\n (8 + 3 – 1 + 0 ) = 5 (sp<sup>3</sup>d)\n<br><br>All molecules have sp<sup>3</sup>d hybridization and 3 bond pair + 2 lone pairs. Hence all have identical stucture (T-shape).\n"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The intermolecular interaction that is dependent on the inverse cube of distance between the molecule is:",
+      "options": [
+        {
+          "key": "A",
+          "value": "ion-dipole interaction"
+        },
+        {
+          "key": "B",
+          "value": "London force"
+        },
+        {
+          "key": "C",
+          "value": "hydrogen bond"
+        },
+        {
+          "key": "D",
+          "value": "ion-ion interaction"
+        }
+      ],
+      "answer": "C",
+      "explanation": "Hydrogen bond is a type of strong electrostatic dipole- dipole intersection and dependent on the inverse cube of distance between the molecular ion-dipole -\n<br><br> interaction  $$ \\propto {1 \\over {{r^3}}}.$$ "
+    },
+    {
+      "_type": "single_mcq",
+      "body": "In which of the following pairs of molecules/ions, both the species are not likely to exist?",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$H_2^+$$ , $$He_2^{2-}$$"
+        },
+        {
+          "key": "B",
+          "value": "$$H_2^-$$ , $$He_2^{2-}$$"
+        },
+        {
+          "key": "C",
+          "value": "$$H_2^{2+}$$ , $$He_2$$"
+        },
+        {
+          "key": "D",
+          "value": "$$H_2^-$$ , $$He_2^{2+}$$"
+        }
+      ],
+      "answer": "C",
+      "explanation": "$$H_2^{2+}$$ , $$He_2$$\n<br><br>Both have zero bond order. Thus, they do not exist."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Stability of the species Li<sub>2</sub>, $$Li_2^−$$ and $$Li_2^+$$ increases in the order of: ",
+      "options": [
+        {
+          "key": "A",
+          "value": "Li<sub>2</sub> &lt; $$Li_2^+$$ &lt; $$Li_2^-$$"
+        },
+        {
+          "key": "B",
+          "value": "$$Li_2^+$$ &lt; $$Li_2^-$$ &lt; Li<sub>2</sub>"
+        },
+        {
+          "key": "C",
+          "value": "$$Li_2^-$$ &lt;$$Li_2^+$$ &lt;  Li<sub>2</sub>"
+        },
+        {
+          "key": "D",
+          "value": "$$Li_2^-$$ &lt; Li<sub>2</sub> &lt; $$Li_2^+$$"
+        }
+      ],
+      "answer": "C",
+      "explanation": "Li<sub>2</sub> = $${\\sigma _{1{s^2}}}\\,\\,\\sigma _{1{s^2}}^ * \\,$$ $${\\sigma _{2{s^2}}} \\,$$\n<br><br>$$ \\therefore $$ Bond order = $${1 \\over 2}\\left( {4 - 2} \\right)$$ = 1\n<br><br>$$Li_2^+$$ = $${\\sigma _{1{s^2}}}\\,\\,\\sigma _{1{s^2}}^ * \\,$$ $${\\sigma _{2{s^1}}} \\,$$\n<br><br>$$ \\therefore $$ Bond order = $${1 \\over 2}\\left( {3 - 2} \\right)$$ = 0.5\n<br><br>$$Li_2^-$$ = $${\\sigma _{1{s^2}}}\\,\\,\\sigma _{1{s^2}}^ * \\,$$ $${\\sigma _{2{s^2}}} \\,\\,\\sigma _{1{s^1}}^ * \\,$$\n<br><br>$$ \\therefore $$ Bond order = $${1 \\over 2}\\left( {4 - 3} \\right)$$ = 0.5\n<br><br>The bond order of $$Li_2^+$$ and $$Li_2^-$$ \nis same but $$Li_2^+$$\n is more stable\nthan $$Li_2^-$$ because $$Li_2^+$$\nis smaller in size and\nhas 2 electrons in antibonding orbitals whereas $$Li_2^-$$  has 3 electrons in antibonding orbitals.\nHence $$Li_2^+$$\n is more stable than $$Li_2^-$$."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "In which of the following pairs the two species are not isostructural ?",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$CO_3^{2-}$$ and $$NO_3^-$$"
+        },
+        {
+          "key": "B",
+          "value": "$$PCl_4^{+}$$ and $$SiCl_4$$"
+        },
+        {
+          "key": "C",
+          "value": "PF<sub>5</sub> and BrF<sub>5</sub>"
+        },
+        {
+          "key": "D",
+          "value": "$$AlF_6^-$$ and $$SF_6$$"
+        }
+      ],
+      "answer": "C",
+      "explanation": "PF<sub>5</sub>\n $$ \\Rightarrow $$ sp<sup>3</sup>d hybridized  and shape is trigonal bipyramidal.\n<br><br>BrF<sub>5</sub> $$ \\Rightarrow $$ 5 bond pair and 1 lone pair present so sp<sup>3</sup>d<sup>2</sup> hybridized  and shape is square pyramidal."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Among the following the maximum covalent character is shown by the compound : ",
+      "options": [
+        {
+          "key": "A",
+          "value": "SnCl<sub>2 </sub>"
+        },
+        {
+          "key": "B",
+          "value": "AlCl<sub>3</sub> "
+        },
+        {
+          "key": "C",
+          "value": "MgCl<sub>2 </sub>"
+        },
+        {
+          "key": "D",
+          "value": "FeCl<sub>2</sub>"
+        }
+      ],
+      "answer": "B",
+      "explanation": "Charge of cation/Size of cation is called polarising power.\n<br><br>$$ \\therefore $$ (i) Polarising power $$ \\propto $$ charge of cation\n<br><br>(ii) Polarising power $$ \\propto $$ <span style=\"display: inline-block;vertical-align: middle;\">\n     <div style=\"text-align: center;border-bottom: 1px solid black;\">1</div>\n     <div style=\"text-align: center;\">size of cation</div>\n</span>\n<br><br>Here the AlCl<sub>3</sub>\n is satisfying the above two conditions i.e., Al\nis in +3 oxidation state and also has small size. So it has more\ncovalent character.\n"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The bond dissociation energy of B - F in BF<sub>3</sub> is 646 kJ mol<sup>-1</sup> whereas that of C - F in CF<sub>4</sub> is 515 kj mol<sup>-1</sup>. The correct reason for higher B - F bond dissociation energy as compared to that of C - F is",
+      "options": [
+        {
+          "key": "A",
+          "value": "stronger $$\\sigma$$ bond between B and F in BF<sub>3</sub> as compared to that between C and F in CF<sub>4</sub>"
+        },
+        {
+          "key": "B",
+          "value": "significant $$p\\pi - p\\pi$$ interaction between B and F in BF<sub>3</sub> whereas there is no possibility of such interaction between C and F in CF<sub>4</sub>"
+        },
+        {
+          "key": "C",
+          "value": "lower degree of $$p\\pi - p\\pi$$ interaction between B and F in BF<sub>3</sub> than that between C and F in CF<sub>4</sub>"
+        },
+        {
+          "key": "D",
+          "value": "smaller size of B - atom as compared to that of C- atom."
+        }
+      ],
+      "answer": "B",
+      "explanation": "In BF<sub>3</sub>, B is sp<sup>2</sup>\n hybridised and by Back Bonding method strong p$$\\pi $$-p$$\\pi $$ bond is created between filled p-orbital of F and vacant p-orbital of\nB which leads to shortening of B–F bond length which results in higher bond dissociation energy of\nthe B–F bond. However in CF<sub>4</sub>, C does not have any vacant\np-orbitals to undergo $$\\pi $$-bonding."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Which of the following pair of species have the same bond order?",
+      "options": [
+        {
+          "key": "A",
+          "value": "CN<sup>-</sup> and NO<sup>+</sup>"
+        },
+        {
+          "key": "B",
+          "value": "CN<sup>-</sup> and CN<sup>+</sup>"
+        },
+        {
+          "key": "C",
+          "value": "$$O_2^-$$ and CN<sup>-</sup>"
+        },
+        {
+          "key": "D",
+          "value": "NO<sup>+</sup> and CN<sup>+</sup>"
+        }
+      ],
+      "answer": "A",
+      "explanation": "Number of electron in\nNO<sup>+</sup>\n = number of electron in CN<sup>–</sup>\n = 14 electrons.\n<br><br>As both have same number of electrons so their bond order is equal.\n<br><br>Moleculer orbital configuration of NO<sup>+</sup> (14 electrons) is  \n<br><br>= $${\\sigma _{1{s^2}}}\\,\\sigma _{1{s^2}}^ * \\,\\,{\\sigma _{2{s^2}}}\\,\\,\\sigma _{2{s^2}}^ * \\,\\,{\\sigma _{2p_z^2}}\\,\\,{\\pi _{2p_x^2}}\\,= \\,{\\pi _{2p_y^2}}\\,\\pi _{2p_x^0}^ *  = \\,\\,\\pi _{2p_y^0}^ * $$\n<br><br>$$ \\therefore $$ B.O = $${1 \\over 2}\\left[ {10 - 4} \\right]$$ = 3\n\n<br><br>Moleculer orbital configuration of CN<sup>-</sup> (14 electrons) is\n<br><br>= $${\\sigma _{1{s^2}}}\\,\\sigma _{1{s^2}}^ * \\,{\\sigma _{2{s^2}}}\\,\\sigma _{2{s^2}}^ * \\,{\\pi _{2p_x^2}}\\, = \\,{\\pi _{2p_y^2}}\\,{\\sigma _{2p_z^2}}$$\n<br><br>$$ \\therefore $$ B.O = $${1 \\over 2}\\left[ {10 - 4} \\right]$$ = 3"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Which of the following species exhibits the diamagnetic behaviour? ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$O_2^{2−}$$"
+        },
+        {
+          "key": "B",
+          "value": "NO"
+        },
+        {
+          "key": "C",
+          "value": "$$O_2^+$$"
+        },
+        {
+          "key": "D",
+          "value": "O<sub>2</sub>"
+        }
+      ],
+      "answer": "A",
+      "explanation": "Those species which have unpaired electrons are called paramagnetic species.\n<br><br>And those species which have no unpaired electrons are called diamagnetic species.\n\n<br><br>(a)&nbsp;&nbsp;&nbsp; $$O_2^{2−}$$ has 18 electrons.\n<br><br>Moleculer orbital configuration of $$O_2^{2−}$$ is \n<br><br>$${\\sigma _{1{s^2}}}\\,\\sigma _{1{s^2}}^ * \\,{\\sigma _{2{s^2}}}\\,\\sigma _{2{s^2}}^ * \\,{\\sigma _{2p_z^2}}\\,{\\pi _{2p_x^2}}\\, = \\,{\\pi _{2p_y^2}}\\,\\pi _{2p_x^2}^ * \\, = \\,\\pi _{2p_y^2}^ * $$\n<br><br>Here is no unpaired electron so it is diamagnetic. \n\n<br><br>(b)&nbsp;&nbsp;&nbsp;NO has 15 electrons. \n<br><br>Moleculer orbital configuration of NO is  \n<br><br>$${\\sigma _{1{s^2}}}\\,\\sigma _{1{s^2}}^ * \\,\\,{\\sigma _{2{s^2}}}\\,\\,\\sigma _{2{s^2}}^ * \\,\\,{\\sigma _{2p_z^2}}\\,\\,{\\pi _{2p_x^2}}\\,= \\,{\\pi _{2p_y^2}}\\,\\pi _{2p_x^1}^ *  = \\,\\,\\pi _{2p_y^0}^ * $$\n<br><br>Here is 1 unpaired electron, So it is Paramagnetic. \n<br><br>(c)&nbsp;&nbsp; $$O_2$$ has 16 electrons. \n<br><br>Moleculer orbital configuration of $$O_2$$ is \n<br><br>$${\\sigma _{1{s^2}}}\\,\\sigma _{1{s^2}}^ * \\,\\,{\\sigma _{2{s^2}}}\\,\\,\\sigma _{2{s^2}}^ * \\,\\,{\\sigma _{2p_z^2}}\\,\\,{\\pi _{2p_x^2}}\\,= \\,{\\pi _{2p_y^2}}\\,\\pi _{2p_x^1}^ *  = \\,\\,\\pi _{2p_y^1}^ * $$\n<br><br>Here 2 unpaired electron present, so it is paramagnetic.\n<br><br>(d)&nbsp;&nbsp; $$O_2^{+}$$ has 15 electrons. \n<br><br>Moleculer orbital configuration of $$O_2^{+}$$ is \n<br><br>$${\\sigma _{1{s^2}}}\\,\\sigma _{1{s^2}}^ * \\,\\,{\\sigma _{2{s^2}}}\\,\\,\\sigma _{2{s^2}}^ * \\,\\,{\\sigma _{2p_z^2}}\\,\\,{\\pi _{2p_x^2}}\\,= \\,{\\pi _{2p_y^2}}\\,\\pi _{2p_x^1}^ *  = \\,\\,\\pi _{2p_y^0}^ * $$\n<br><br>Here 1 unpaired electron present, so it is paramagnetic.\n"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The charge/size ratio of a cation determines its polarizing power. Which one of the following\nsequences represents the increasing order of the polarizinig order of the polarizing power of the\ncationic species, K<sup>+</sup>, Ca<sup>2+</sup>, Mg<sup>2+</sup>, Be<sup>2+</sup>? ",
+      "options": [
+        {
+          "key": "A",
+          "value": "Mg<sup>2+</sup> &lt; Be<sup>2+</sup> &lt; K<sup>+</sup> &lt; Ca<sup>2+</sup>"
+        },
+        {
+          "key": "B",
+          "value": "K<sup>+</sup> &lt; Ca<sup>2+</sup> &lt; Mg<sup>2+</sup> &lt; Be<sup>2+</sup>"
+        },
+        {
+          "key": "C",
+          "value": "Be<sup>2+</sup> &lt; K<sup>+</sup> &lt; Ca<sup>2+</sup> &lt; Mg<sup>2+</sup>"
+        },
+        {
+          "key": "D",
+          "value": "Ca<sup>2+</sup> &lt; Mg<sup>2+</sup> &lt; Be<sup>2+</sup> \n &lt; K<sup>+</sup>"
+        }
+      ],
+      "answer": "B",
+      "explanation": "As charge/size ratio of a cation determines its polarizing power so high charge and small size of the cations increases\npolarisation.\n<br><br>As the size of the given cations decreases as\n<br><br> K<sup>+</sup>\n &gt; Ca<sup>2+</sup> &gt; Mg<sup>2+</sup> &gt; Be<sup>2+</sup>\n<br><br>Hence, polarising power decreases as\n<br><br> K<sup>+</sup> &lt; Ca<sup>2+</sup> &lt; Mg<sup>2+</sup> &lt; Be<sup>2+</sup>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "In which of the following ionization processes, the bond order has increased and the magnetic\nbehaviour has changed? ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$C_2 \\to C_2^+$$"
+        },
+        {
+          "key": "B",
+          "value": "$$N_2 \\to N_2^+$$"
+        },
+        {
+          "key": "C",
+          "value": "$$NO \\to NO^+$$"
+        },
+        {
+          "key": "D",
+          "value": "$$O_2 \\to O_2^+$$"
+        }
+      ],
+      "answer": "C",
+      "explanation": "(A) Moleculer orbital configuration of $$C_2$$ (12 electrons)\n<br><br>= $${\\sigma _{1{s^2}}}\\,\\sigma _{1{s^2}}^ * \\,{\\sigma _{2{s^2}}}\\,\\sigma _{2{s^2}}^ * \\,{\\pi _{2p_x^2}}\\, = \\,{\\pi _{2p_y^2}}$$\n<br><br>$$\\therefore\\,\\,\\,\\,$$N<sub>a</sub> = 4\n<br><br>N<sub>b</sub> = 8\n<br><br>$$\\therefore\\,\\,\\,\\,$$ BO = $${1 \\over 2}\\left[ {8 - 4} \\right] = 2$$\n<br><br>Here no unpaired electron present, so it is diamagnetic.\n<br><br>Moleculer orbital configuration of $$C_2^+$$ (11 electrons)\n<br><br>= $${\\sigma _{1{s^2}}}\\,\\sigma _{1{s^2}}^ * \\,{\\sigma _{2{s^2}}}\\,\\sigma _{2{s^2}}^ * \\,{\\pi _{2p_x^2}}\\, = \\,{\\pi _{2p_y^1}}$$\n<br><br>$$\\therefore\\,\\,\\,\\,$$N<sub>a</sub> = 4\n<br><br>N<sub>b</sub> = 7\n<br><br>$$\\therefore\\,\\,\\,\\,$$ BO = $${1 \\over 2}\\left[ {7 - 4} \\right] = 1.5$$\n<br><br>Here 1 unpaired electron present, so it is paramagnetic.\n<br><br>(B) Moleculer orbital configuration of $$N_2$$ (14 electrons)\n<br><br>= $${\\sigma _{1{s^2}}}\\,\\sigma _{1{s^2}}^ * \\,{\\sigma _{2{s^2}}}\\,\\sigma _{2{s^2}}^ * \\,{\\pi _{2p_x^2}}\\, = \\,{\\pi _{2p_y^2}}\\,{\\sigma _{2p_z^2}}$$\n<br><br>$$\\therefore\\,\\,\\,\\,$$N<sub>a</sub> = 4\n<br><br>N<sub>b</sub> = 10\n<br><br>$$\\therefore\\,\\,\\,\\,$$ BO = $${1 \\over 2}\\left[ {10 - 4} \\right] = 3$$\n<br><br>Here no unpaired electron present, so it is diamagnetic.\n<br><br>Moleculer orbital configuration of $$N_2^+$$ (13 electrons)\n<br><br>= $${\\sigma _{1{s^2}}}\\,\\sigma _{1{s^2}}^ * \\,{\\sigma _{2{s^2}}}\\,\\sigma _{2{s^2}}^ * \\,{\\pi _{2p_x^2}}\\, = \\,{\\pi _{2p_y^2}}\\,{\\sigma _{2p_z^1}}$$\n<br><br>$$\\therefore\\,\\,\\,\\,$$N<sub>a</sub> = 4\n<br><br>N<sub>b</sub> = 9\n<br><br>$$\\therefore\\,\\,\\,\\,$$ BO = $${1 \\over 2}\\left[ {9 - 4} \\right] = 2.5$$\n<br><br>Here 1 unpaired electron present, so it is paramagnetic.\n\n<br><br>(C) Moleculer orbital configuration of NO (15 electrons) is  \n<br><br>$${\\sigma _{1{s^2}}}\\,\\sigma _{1{s^2}}^ * \\,\\,{\\sigma _{2{s^2}}}\\,\\,\\sigma _{2{s^2}}^ * \\,\\,{\\sigma _{2p_z^2}}\\,\\,{\\pi _{2p_x^2}}\\,= \\,{\\pi _{2p_y^2}}\\,\\pi _{2p_x^1}^ *  = \\,\\,\\pi _{2p_y^0}^ * $$\n<br><br>$$\\therefore\\,\\,\\,\\,$$N<sub>a</sub> = 5\n<br><br>N<sub>b</sub> = 10\n<br><br>$$\\therefore\\,\\,\\,\\,$$ BO = $${1 \\over 2}\\left[ {10 - 5} \\right] = 2.5$$\n<br><br>Here is 1 unpaired electron, So it is paramagnetic. \n<br><br>Moleculer orbital configuration of NO<sup>+</sup> (14 electrons) is  \n<br><br>$${\\sigma _{1{s^2}}}\\,\\sigma _{1{s^2}}^ * \\,\\,{\\sigma _{2{s^2}}}\\,\\,\\sigma _{2{s^2}}^ * \\,\\,{\\sigma _{2p_z^2}}\\,\\,{\\pi _{2p_x^2}}\\,= \\,{\\pi _{2p_y^2}}\\,\\pi _{2p_x^0}^ *  = \\,\\,\\pi _{2p_y^0}^ * $$\n<br><br>$$\\therefore\\,\\,\\,\\,$$N<sub>a</sub> = 4\n<br><br>N<sub>b</sub> = 10\n<br><br>$$\\therefore\\,\\,\\,\\,$$ BO = $${1 \\over 2}\\left[ {10 - 4} \\right] = 3$$\n<br><br>Here is no unpaired electron, So it is diamagnetic. \n\n\n\n\n\n\n<br><br>(D) Molecular orbital configuration of O<sub>2</sub> (16 electrons) is \n<br><br>$${\\sigma _{1{s^2}}}\\,\\,\\sigma _{1{s^2}}^ * \\,$$ $${\\sigma _{2{s^2}}}\\,\\,\\sigma _{2{s^2}}^ * \\,$$ $${\\sigma _{2p_z^2}}\\,\\,{\\pi _{2p_x^2}} = {\\pi _{2p_y^2}}\\,\\,\\pi _{2p_x^1}^ * \\,\\, = \\pi _{2p_y^1}^ * $$\n<br><br>$$\\therefore\\,\\,\\,\\,$$N<sub>a</sub> = 6\n<br><br>N<sub>b</sub> = 10\n<br><br>$$\\therefore\\,\\,\\,\\,$$ BO = $${1 \\over 2}\\left[ {10 - 6} \\right] = 2$$\n<br><br>Here 2 unpaired electrons present, so it is paramagnetic.\n<br><br>Molecular orbital configuration of O$$_2^ + $$ (15 electrons) is \n<br><br>$${\\sigma _{1{s^2}}}\\,\\sigma _{1{s^2}}^ * \\,{\\sigma _{2{s^2}}}\\,\\sigma _{2{s^2}}^ * \\,{\\sigma _{2p_z^2}}\\,{\\pi _{2p_x^2}}\\, = \\,{\\pi _{2p_y^2}}\\,\\pi _{2p_x^1}^ * \\, = \\,\\pi _{2p_y^o}^ * $$\n<br><br>$$\\therefore\\,\\,\\,\\,$$ N<sub>b</sub> = 10\n<br><br>N<sub>a</sub> = 5 \n<br><br>$$\\therefore\\,\\,\\,\\,$$  BO = $${1 \\over 2}\\left[ {10 - 5} \\right]$$ = 2.5\n<br><br>Here 1 unpaired electrons present, so it is also paramagnetic."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Which of the following hydrogen bonds is the strongest? ",
+      "options": [
+        {
+          "key": "A",
+          "value": "O−H…….N"
+        },
+        {
+          "key": "B",
+          "value": "F−H…….F "
+        },
+        {
+          "key": "C",
+          "value": "O−H…….O "
+        },
+        {
+          "key": "D",
+          "value": "O−H…….F "
+        }
+      ],
+      "answer": "B",
+      "explanation": "Among F, O and N, F is most electronegative so F pulls bond pair of electron in F - H towards itself and develops highly positive charge on H atom. \n<br><br>This highly positive charged H atom creates stongest hydrogen bonding by taking lone pair of electron form electronegative atom F/N/O. Hence among the given options F – H ...... F is the strongest bond.\n<br><br><b>Note :</b> F – H ...... N has strongest hydogen bonding among F – H ...... F, F – H ...... O and F – H ...... N because N is least electronegative among F, O and N and can easily donate lone pair of electron."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The decreasing values of bond angles from NH<sub>3</sub> (106<sup>o</sup>) to SbH<sub>3</sub> (91<sup>o</sup>\n) down group-15 of the periodic table is due to ",
+      "options": [
+        {
+          "key": "A",
+          "value": "increasing bp-bp repulsion"
+        },
+        {
+          "key": "B",
+          "value": "increasing p-orbital character in sp<sup>3</sup>"
+        },
+        {
+          "key": "C",
+          "value": "decreasing lp-bp repulsion"
+        },
+        {
+          "key": "D",
+          "value": "decreasing electronegativity "
+        }
+      ],
+      "answer": "C",
+      "explanation": "Nitrogen(N) atom is smaller in size so it's lone pair is relatively unstable. That is why repulsion between lone pairs present on nitrogen atom and bonded pairs of electrons is relatively high.\n<br><br>But size of Sb is more so its lone pair is relatively stable. That is why it does not want to perticipate in bond pair lone pair repulsion and decreases lp-bp repulsion."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Which of the following molecules/ions does not contain unpaired electrons? ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$O_2^{2−} $$"
+        },
+        {
+          "key": "B",
+          "value": "B<sub>2</sub>"
+        },
+        {
+          "key": "C",
+          "value": "$$N_2^+$$"
+        },
+        {
+          "key": "D",
+          "value": "O<sub>2</sub>"
+        }
+      ],
+      "answer": "A",
+      "explanation": "(A) Molecular orbital configuration of O $$_2^{2 - }$$ (18 electrons) is \n<br><br>$${\\sigma _{1{s^2}}}\\,\\sigma _{1{s^2}}^ * \\,{\\sigma _{2{s^2}}}\\,\\sigma _{2{s^2}}^ * \\,{\\sigma _{2p_z^2}}\\,{\\pi _{2p_x^2}}\\, = \\,{\\pi _{2p_y^2}}\\,\\pi _{2p_x^2}^ * \\, = \\,\\pi _{2p_y^2}^ * $$\n<br><br>So O $$_2^{2 - }$$ has no unpaired electrons.\n\n<br><br>(B) Molecular orbital configuration of B<sub>2</sub> (10 electrons) is \n<br><br>$${\\sigma _{1{s^2}}}\\,\\sigma _{1{s^2}}^ * \\,\\,{\\sigma _{2{s^2}}}\\,\\,\\sigma _{2{s^2}}^ * \\,\\,{\\pi _{2p_x^1}} = {\\pi _{2p_y^1}}$$\n<br><br>Here in B<sub>2</sub>, 2 unpaired electrons present.\n \n<br><br>(C) Moleculer orbital configuration of $$N_2^{ + }$$ (13 electrons)\n<br><br>= $${\\sigma _{1{s^2}}}\\,\\sigma _{1{s^2}}^ * \\,{\\sigma _{2{s^2}}}\\,\\sigma _{2{s^2}}^ * \\,{\\pi _{2p_x^2}}\\, = \\,{\\pi _{2p_y^2}}\\,{\\sigma _{2p_z^1}}$$\n<br><br>Here in $$N_2^{ + }$$, 1 unpaired electron present.\n<br><br>(D) Molecular orbital configuration of O<sub>2</sub> (16 electrons) is \n<br><br>$${\\sigma _{1{s^2}}}\\,\\,\\sigma _{1{s^2}}^ * \\,$$ $${\\sigma _{2{s^2}}}\\,\\,\\sigma _{2{s^2}}^ * \\,$$ $${\\sigma _{2p_z^2}}\\,\\,{\\pi _{2p_x^2}} = {\\pi _{2p_y^2}}\\,\\,\\pi _{2p_x^1}^ * \\,\\, = \\pi _{2p_y^1}^ * $$\n<br><br>So O$$_2$$ has 2 unpaired electrons."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Which one of the following species is diamagnetic in nature? ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$He_2^+$$"
+        },
+        {
+          "key": "B",
+          "value": "H<sub>2</sub>"
+        },
+        {
+          "key": "C",
+          "value": "$$H_2^+$$"
+        },
+        {
+          "key": "D",
+          "value": "$$H_2^-$$"
+        }
+      ],
+      "answer": "B",
+      "explanation": "<b>TIPS/Formulae :</b>     \n<br><br>A diamagnetic substance contains no unpaired electron. \n<br><br>$${H_2}$$ is diamagnetic as it contains all paired electrons \n<br><br>$$\\mathop {{H_2} = \\sigma _b^2}\\limits_{\\left( {diamagnetic} \\right)} \\,\\,,\\,\\,\\mathop {H_2^ +  = \\sigma _b^1,}\\limits_{\\left( {paramagnetic} \\right)} \\,\\,\\mathop {H_2^ -  = \\sigma _b^2,}\\limits_{\\left( {paramagnetic} \\right)} $$\n<br><br>$$\\mathop {\\sigma _a^{ * 1};He_2^ + }\\limits_{\\left( {paramagnetic} \\right)}  = \\mathop {\\sigma _b^2,\\sigma _a^{ \\ne 1}}\\limits_{\\left( {paramagnetic} \\right)} $$ "
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Lattice energy of an ionic compounds depends upon ",
+      "options": [
+        {
+          "key": "A",
+          "value": "Charge on the ion only"
+        },
+        {
+          "key": "B",
+          "value": "Size of the ion only "
+        },
+        {
+          "key": "C",
+          "value": "Packing of ions only"
+        },
+        {
+          "key": "D",
+          "value": "Charge on the ion and size of the ion"
+        }
+      ],
+      "answer": "D",
+      "explanation": "<p>The lattice energy of an ionic compound is a measure of the strength of the bonds in that ionic compound. Specifically, it is the energy required to separate one mole of an ionic solid into its constituent ions in the gaseous state. The lattice energy depends on several factors, primarily the charge on the ions and the size (or radius) of the ions.</p>\n\n<p>1. <strong>Charge on the ions:</strong> The lattice energy is directly proportional to the product of the charges of the cation and the anion. Higher charges result in stronger electrostatic attraction between the ions, thereby increasing the lattice energy. This relationship can be derived from Coulomb's law, which states that the force of attraction between two charged particles is directly proportional to the product of their charges.</p>\n\n<p><strong>Mathematically:</strong></p>\n\n<p>$$U \\propto \\frac{q_1 \\cdot q_2}{r}$$</p>\n\n<p>where $U$ is the lattice energy, $q_1$ and $q_2$ are the charges on the ions, and $r$ is the distance between the centers of the ions.</p>\n\n<p>2. <strong>Size of the ions:</strong> The lattice energy is inversely proportional to the distance between the ions, which depends on the sum of their ionic radii. Smaller ions can come closer together, increasing the electrostatic attractions between them, thereby increasing the lattice energy. Larger ions, being further apart, result in a lower lattice energy.</p>\n\n<p>Considering these two factors, the correct choice is:</p>\n\n<p><strong>Option D: Charge on the ion and size of the ion</strong></p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The bond order in NO is 2.5 while that in NO<sup>+</sup> is 3. Which of the following statements is true for these two species? ",
+      "options": [
+        {
+          "key": "A",
+          "value": "Bond length in NO<sup>+</sup> is greater than in NO "
+        },
+        {
+          "key": "B",
+          "value": "Bond length is unpredictable"
+        },
+        {
+          "key": "C",
+          "value": "Bond length in NO<sup>+</sup> in equal to that in NO"
+        },
+        {
+          "key": "D",
+          "value": "Bond length in NO is greater than in NO<sup>+</sup>"
+        }
+      ],
+      "answer": "D",
+      "explanation": "Molecular orbital configuration of NO (15 electrons) is \n<br><br>$${\\sigma _{1{s^2}}}\\,\\sigma _{1{s^2}}^ * \\,{\\sigma _{2{s^2}}}\\,\\sigma _{2{s^2}}^ * \\,{\\sigma _{2p_z^2}}\\,{\\pi _{2p_x^2}}\\, = \\,{\\pi _{2p_y^2}}\\,\\pi _{2p_x^1}^ * \\, = \\,\\pi _{2p_y^o}^ * $$\n<br><br>$$\\therefore\\,\\,\\,\\,$$ N<sub>b</sub> = 10\n<br><br>N<sub>a</sub> = 5 \n<br><br>$$\\therefore\\,\\,\\,\\,$$  BO = $${1 \\over 2}\\left[ {10 - 5} \\right]$$ = 2.5\n<br><br>Similarly Molecular orbital configuration of NO<sup>+</sup> (14 electrons) is \n<br><br>$${\\sigma _{1{s^2}}}\\,\\sigma _{1{s^2}}^ * \\,{\\sigma _{2{s^2}}}\\,\\sigma _{2{s^2}}^ * \\,{\\sigma _{2p_z^2}}\\,{\\pi _{2p_x^2}}\\, = \\,{\\pi _{2p_y^2}}\\,$$\n<br><br>$$\\therefore\\,\\,\\,\\,$$ N<sub>b</sub> = 10\n<br><br>N<sub>a</sub> = 4\n<br><br>$$\\therefore\\,\\,\\,\\,$$  BO = $${1 \\over 2}\\left[ {10 - 4} \\right]$$ = 3\n<br><br><b>Note :</b>\n<br>(2) $$\\,\\,\\,\\,$$ Bond length $$ \\propto $$ $${1 \\over {Bond\\,\\,order}}$$\n<br><br>So, bond length in NO &gt; NO<sup>+</sup>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Hybridisation of underline atom changes in",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$\\underline {Al} {H_3}$$ changes to $$AlH_4^-$$"
+        },
+        {
+          "key": "B",
+          "value": "$${H_2}\\underline O $$ changes to $$H_3O^+$$"
+        },
+        {
+          "key": "C",
+          "value": "$$\\underline N {H_3}$$ changes to $$NH_4^+$$"
+        },
+        {
+          "key": "D",
+          "value": "in all cases"
+        }
+      ],
+      "answer": "A",
+      "explanation": "(a) $$\\,\\,\\,$$ AlH<sub>3</sub> + H<sup>$$-$$</sup> $$ \\to $$ AlH$$_4^ - $$\n<br><br>Steric number of AlH<sub>3</sub> is  = $${1 \\over 2}$$ [3 + 3] = 3\n<br><br>$$\\therefore\\,\\,\\,$$ AlH<sub>3</sub> is sp<sup>2</sup> hybridized. \n<br><br>Steric number of AlH$$_4^ - $$ = $${1 \\over 2}$$ [3 + 4 +1] = 4 \n<br><br>$$\\therefore\\,\\,\\,$$  AlH$$_4^ - $$ is sp<sup>3</sup> hybridized. \n<br><br>(b) $$\\,\\,\\,$$ H<sub>2</sub>O + H<sup>+</sup> $$ \\to $$ H<sub>3</sub>O<sup>+</sup> \n<br><br>Steric no of H<sub>2</sub>O = $${1 \\over 2}$$ (6+ 2) = 4\n<br><br>$$\\therefore\\,\\,\\,\\,$$  H<sub>2</sub>O s sp<sup>3</sup> hybridized.\n<br><br>Steric no of H<sub>3</sub>O<sup>+</sup> = $${1 \\over 2}$$  [ 8 + 3 $$-$$1] = 4\n<br><br>$$\\therefore\\,\\,\\,$$  H<sub>3</sub>O<sup>+</sup> s also sp<sup>3</sup> hybridized.\n<br><br>(c) $$\\,\\,\\,$$ NH<sub>3</sub> + H<sup>+</sup> $$ \\to $$ NH<sub>4</sub><sup>+</sup> \n<br><br>Steric no of NH<sub>3</sub> = $${1 \\over 2}$$ [5 + 3] = 4\n<br><br>$$\\therefore\\,\\,\\,$$ hybridization of NH<sub>3</sub> is sp<sup>3</sup> \n<br><br>Steric number of NH<sub>4</sub><sup>+</sup> = $${1 \\over 2}$$ [5 + 4 $$-$$ ] = 4\n<br><br>$$\\therefore\\,\\,\\,$$ Hybridization of NH<sub>4</sub><sup>+</sup> is sp<sup>3</sup> "
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Which of the following statements is true?",
+      "options": [
+        {
+          "key": "A",
+          "value": "HF is less polar than HBr"
+        },
+        {
+          "key": "B",
+          "value": "absolutely pure water does not contain any ions"
+        },
+        {
+          "key": "C",
+          "value": "chemical bond formation takes place when forces of attraction overcome the forces of repulsion"
+        },
+        {
+          "key": "D",
+          "value": "in covalency transference of electron takes place"
+        }
+      ],
+      "answer": "C",
+      "explanation": "(A) Electronegativity of F is 4 and Electronegativity of H is 2.1.\n<br><br>$$ \\therefore $$ Electronegativity difference between F and H is = 4 - 2.1 = 1.9\n<br><br>Now  Electronegativity of Br is 2.8 and Electronegativity of H is 2.1.\n<br><br>$$ \\therefore $$ Electronegativity difference between Br and H is = 2.8 - 2.1 = 0.7\n<br><br>As in HF Electronegativity difference is more then it's polar nature is also more.\n<br><br>(B) At equilibrium pure H<sub>2</sub>O produce very less H<sup>+</sup> and OH<sup>-</sup> ions.\n<br><br>(C) Chemical bond formation takes place when forces of attraction overcome the forces of repulsion.\n<br><br>(D) In covalenrt bond, sharing of electons take place. Transfer of electrons take place in ionic bond."
+    },
+    {
+      "_type": "numerical",
+      "body": "<p>Total number of electrons present in $$\\left(\\pi^*\\right)$$ molecular orbitals of $$\\mathrm{O}_2, \\mathrm{O}_2^{+}$$ and $$\\mathrm{O}_2^{-}$$ is ________.</p>",
+      "answer": "6",
+      "explanation": "<p>$$\\begin{aligned}\n& \\mathrm{O}_2(16 \\mathrm{e}):\\left(\\sigma_{1 \\mathrm{~s}}\\right)^2\\left(\\sigma_{1 \\mathrm{~s}}^*\\right)^2\\left(\\sigma_{2 \\mathrm{~s}}\\right)^2\\left(\\sigma_{2 \\mathrm{~s}}^*\\right)^2 \\\\\n& \\left(\\sigma_{2 \\mathrm{p}}\\right)^2\\left[\\left(\\pi_{2 \\mathrm{p}}\\right)^2=\\left(\\pi_{2 \\mathrm{p}}\\right)^2\\right],\\left[\\left(\\pi_{2 \\mathrm{p}}^*\\right)^1=\\left(\\pi_{2 \\mathrm{p}}^*\\right)^1\\right]\n\\end{aligned}$$</p>\n<p>Number of $$\\mathrm{e}^{-}$$ present in $$\\left(\\pi^*\\right)$$ of $$\\mathrm{O}_2=2$$</p>\n<p>Number of $$\\mathrm{e}^{-}$$ present in $$\\left(\\pi^*\\right)$$ of $$\\mathrm{O}_2^{+}=1$$</p>\nNumber of $$\\mathrm{e}^{-}$$ present in $$\\left(\\pi^*\\right)$$ of $$\\mathrm{O}_2^{-}=3$$</p>\n<p>So total $$\\mathrm{e}^{-}$$ in $$\\left(\\pi^*\\right)=2+1+3=6$$</p>"
+    },
+    {
+      "_type": "numerical",
+      "body": "<p>The total number of species from the following in which one unpaired electron is present, is _______.</p>\n<p>$$\\mathrm{N}_2, \\mathrm{O}_2, \\mathrm{C}_2^{-}, \\mathrm{O}_2^{-}, \\mathrm{O}_2^{2-}, \\mathrm{H}_2^{+}, \\mathrm{CN}^{-}, \\mathrm{He}_2^{+}$$</p>",
+      "answer": "4",
+      "explanation": "<p><style type=\"text/css\">\n.tg  {border-collapse:collapse;border-spacing:0;}\n.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg .tg-baqh{text-align:center;vertical-align:top}\n.tg .tg-amwm{font-weight:bold;text-align:center;vertical-align:top}\n</style>\n<table class=\"tg\" style=\"undefined;table-layout: fixed; width: 351px\">\n<colgroup>\n<col style=\"width: 175px\">\n<col style=\"width: 176px\">\n</colgroup>\n<thead>\n  <tr>\n    <th class=\"tg-amwm\">Species</th>\n    <th class=\"tg-amwm\">Unpaired e</th>\n  </tr>\n</thead>\n<tbody>\n  <tr>\n    <td class=\"tg-baqh\">$$<br>\\mathrm{N}_2<br>$$</td>\n    <td class=\"tg-baqh\">0</td>\n  </tr>\n  <tr>\n    <td class=\"tg-baqh\">$$<br>\\mathrm{O}_2<br>$$</td>\n    <td class=\"tg-baqh\">2</td>\n  </tr>\n  <tr>\n    <td class=\"tg-baqh\">$$<br>\\mathrm{C}_2^{-}<br>$$</td>\n    <td class=\"tg-baqh\">1</td>\n  </tr>\n  <tr>\n    <td class=\"tg-baqh\">$$<br>\\mathrm{O}_2^{-}<br>$$</td>\n    <td class=\"tg-baqh\">1</td>\n  </tr>\n  <tr>\n    <td class=\"tg-baqh\">$$<br>\\mathrm{O}_2^{2-}<br>$$</td>\n    <td class=\"tg-baqh\">0</td>\n  </tr>\n  <tr>\n    <td class=\"tg-baqh\">$$<br>\\mathrm{H}_2^{+}<br>$$</td>\n    <td class=\"tg-baqh\">1</td>\n  </tr>\n  <tr>\n    <td class=\"tg-baqh\">$$<br>\\mathrm{CN}^{-}<br>$$</td>\n    <td class=\"tg-baqh\">0</td>\n  </tr>\n  <tr>\n    <td class=\"tg-baqh\">$$<br>\\mathrm{He}_2^{+}<br>$$</td>\n    <td class=\"tg-baqh\">1</td>\n  </tr>\n</tbody>\n</table></p>"
+    },
+    {
+      "_type": "numerical",
+      "body": "<p>Number of molecules having bond order 2 from the following molecules is _________.</p> <p>$$\\mathrm{C}_2, \\mathrm{O}_2, \\mathrm{Be}_2, \\mathrm{Li}_2, \\mathrm{Ne}_2, \\mathrm{~N}_2, \\mathrm{He}_2$$</p>",
+      "answer": "2",
+      "explanation": "<p>To determine the number of molecules with a bond order of 2 from the given molecules, we need to first calculate the bond order for each molecule. The bond order can be determined using Molecular Orbital Theory (MOT). The bond order is given by the formula:</p>\n\n<p>\n\n<p>$$\\text{Bond Order} = \\frac{\\text{Number of bonding electrons} - \\text{Number of anti-bonding electrons}}{2}$$</p>\n\n</p>\n\n<p>Let's evaluate each molecule individually:</p>\n\n<p><strong>1. $$\\mathrm{C}_2$$:</strong></p>\n\n<p>For $$\\mathrm{C}_2$$, the total number of electrons is 12. The molecular orbital configuration will be $$\\left( \\sigma_{1s} \\right)^2 \\left( \\sigma_{1s}^* \\right)^2 \\left( \\sigma_{2s} \\right)^2 \\left( \\sigma_{2s}^* \\right)^2 \\left( \\pi_{2p_x} \\right)^2 \\left( \\pi_{2p_y} \\right)^2$$. There are 8 bonding electrons and 4 anti-bonding electrons:</p>\n\n<p>\n\n<p>$$\\text{Bond Order} = \\frac{8 - 4}{2} = 2$$</p>\n\n</p>\n\n<p><strong>2. $$\\mathrm{O}_2$$:</strong></p>\n\n<p>For $$\\mathrm{O}_2$$, the total number of electrons is 16. The molecular orbital configuration will be $$\\left( \\sigma_{1s} \\right)^2 \\left( \\sigma_{1s}^* \\right)^2 \\left( \\sigma_{2s} \\right)^2 \\left( \\sigma_{2s}^* \\right)^2 \\left( \\sigma_{2p_z} \\right)^2 \\left( \\pi_{2p_x} \\right)^2 \\left( \\pi_{2p_y} \\right)^2 \\left( \\pi_{2p_x}^* \\right)^1 \\left( \\pi_{2p_y}^* \\right)^1$$. There are 10 bonding electrons and 6 anti-bonding electrons:</p>\n\n<p>\n\n<p>$$\\text{Bond Order} = \\frac{10 - 6}{2} = 2$$</p>\n\n</p>\n\n<p><strong>3. $$\\mathrm{Be}_2$$:</strong></p>\n\n<p>For $$\\mathrm{Be}_2$$, the total number of electrons is 8. The molecular orbital configuration will be $$\\left( \\sigma_{1s} \\right)^2 \\left( \\sigma_{1s}^* \\right)^2 \\left( \\sigma_{2s} \\right)^2 \\left( \\sigma_{2s}^* \\right)^2$$. There are 4 bonding electrons and 4 anti-bonding electrons:</p>\n\n<p>\n\n<p>$$\\text{Bond Order} = \\frac{4 - 4}{2} = 0$$</p>\n\n</p>\n\n<p><strong>4. $$\\mathrm{Li}_2$$:</strong></p>\n\n<p>For $$\\mathrm{Li}_2$$, the total number of electrons is 6. The molecular orbital configuration will be $$\\left( \\sigma_{1s} \\right)^2 \\left( \\sigma_{1s}^* \\right)^2 \\left( \\sigma_{2s} \\right)^2$$. There are 4 bonding electrons and 2 anti-bonding electrons:</p>\n\n<p>\n\n<p>$$\\text{Bond Order} = \\frac{4 - 2}{2} = 1$$</p>\n\n</p>\n\n<p><strong>5. $$\\mathrm{Ne}_2$$:</strong></p>\n\n<p>For $$\\mathrm{Ne}_2$$, the total number of electrons is 20. The molecular orbital configuration will be $$\\left( \\sigma_{1s} \\right)^2 \\left( \\sigma_{1s}^* \\right)^2 \\left( \\sigma_{2s} \\right)^2 \\left( \\sigma_{2s}^* \\right)^2 \\left( \\sigma_{2p_z} \\right)^2 \\left( \\pi_{2p_x} \\right)^2 \\left( \\pi_{2p_y} \\right)^2 \\left( \\pi_{2p_x}^* \\right)^2 \\left( \\pi_{2p_y}^* \\right)^2 \\left( \\sigma_{2p_z}^* \\right)^2$$. There are 10 bonding electrons and 10 anti-bonding electrons:</p>\n\n<p>\n\n<p>$$\\text{Bond Order} = \\frac{10 - 10}{2} = 0$$</p>\n\n</p>\n\n<p><strong>6. $$\\mathrm{N}_2$$:</strong></p>\n\n<p>For $$\\mathrm{N}_2$$, the total number of electrons is 14. The molecular orbital configuration will be $$\\left( \\sigma_{1s} \\right)^2 \\left( \\sigma_{1s}^* \\right)^2 \\left( \\sigma_{2s} \\right)^2 \\left( \\sigma_{2s}^* \\right)^2 \\left( \\sigma_{2p_z} \\right)^2 \\left( \\pi_{2p_x} \\right)^2 \\left( \\pi_{2p_y} \\right)^2$$. There are 10 bonding electrons and 4 anti-bonding electrons:</p>\n\n<p>\n\n<p>$$\\text{Bond Order} = \\frac{10 - 4}{2} = 3$$</p>\n\n</p>\n\n<p><strong>7. $$\\mathrm{He}_2$$:</strong></p>\n\n<p>For $$\\mathrm{He}_2$$, the total number of electrons is 4. The molecular orbital configuration will be $$\\left( \\sigma_{1s} \\right)^2 \\left( \\sigma_{1s}^* \\right)^2$$. There are 2 bonding electrons and 2 anti-bonding electrons:</p>\n\n<p>\n\n<p>$$\\text{Bond Order} = \\frac{2 - 2}{2} = 0$$</p>\n\n</p>\n\n<p>Thus, the molecules with a bond order of 2 from the given list are $$\\mathrm{C}_2$$ and $$\\mathrm{O}_2$$. Therefore, the number of molecules having bond order 2 is <strong>2</strong>.</p>"
+    },
+    {
+      "_type": "numerical",
+      "body": "<p>Number of molecules from the following which are exceptions to octet rule is _________.</p>\n<p>$$\\mathrm{CO}_2, \\mathrm{NO}_2, \\mathrm{H}_2 \\mathrm{SO}_4, \\mathrm{BF}_3, \\mathrm{CH}_4, \\mathrm{SiF}_4, \\mathrm{ClO}_2, \\mathrm{PCl}_5, \\mathrm{BeF}_2, \\mathrm{C}_2 \\mathrm{H}_6, \\mathrm{CHCl}_3, \\mathrm{CBr}_4$$</p>",
+      "answer": "6",
+      "explanation": "<p>$$\\mathrm{NO}_2, \\mathrm{H}_2 \\mathrm{SO}_4, \\mathrm{BF}_3, \\mathrm{ClO}_2, \\mathrm{PCl}_5, \\mathrm{BeF}_2$$</p>\n<p>These are exception of octet rule</p>"
+    },
+    {
+      "_type": "numerical",
+      "body": "<p>Total number of species from the following with central atom utilising $$\\mathrm{sp}^2$$ hybrid orbitals for bonding is ________.</p> <p>$$\\mathrm{NH}_3, \\mathrm{SO}_2, \\mathrm{SiO}_2, \\mathrm{BeCl}_2, \\mathrm{C}_2 \\mathrm{H}_2, \\mathrm{C}_2 \\mathrm{H}_4, \\mathrm{BCl}_3, \\mathrm{HCHO}, \\mathrm{C}_6 \\mathrm{H}_6, \\mathrm{BF}_3, \\mathrm{C}_2 \\mathrm{H}_4 \\mathrm{Cl}_2$$</p>",
+      "answer": "6",
+      "explanation": "<p>$$\\mathrm{SO}_2, \\mathrm{C}_2 \\mathrm{H}_4, \\mathrm{BCl}_3, \\mathrm{HCHO}, \\mathrm{C}_6 \\mathrm{H}_6, \\mathrm{BF}_3$$ are $$s p^2$$ hybridised central atom</p>"
+    },
+    {
+      "_type": "numerical",
+      "body": "<p>Number of compounds / species from the following with non-zero dipole moment is _________.</p>\n<p>$$\\mathrm{BeCl}_2, \\mathrm{BCl}_3, \\mathrm{NF}_3, \\mathrm{XeF}_4, \\mathrm{CCl}_4, \\mathrm{H}_2 \\mathrm{O}, \\mathrm{H}_2 \\mathrm{~S}, \\mathrm{HBr}, \\mathrm{CO}_2, \\mathrm{H}_2, \\mathrm{HCl}$$</p>",
+      "answer": "5",
+      "explanation": "<p>$$\\mathrm{NF}_3, \\mathrm{H}_2 \\mathrm{O}, \\mathrm{H}_2 \\mathrm{S}, \\mathrm{HBr}, \\mathrm{HCl}$$ have non zero dipole moments.</p>"
+    },
+    {
+      "_type": "numerical",
+      "body": "<p>Number of molecules/species from the following having one unpaired electron is ________.</p>\n<p>$$\\mathrm{O}_2, \\mathrm{O}_2^{-1}, \\mathrm{NO}, \\mathrm{CN}^{-1}, \\mathrm{O}_2^{2-}$$</p>",
+      "answer": "2",
+      "explanation": "<p>$$\\mathrm{O}_2^{-} \\text {and } \\mathrm{NO} \\text { have } 1 \\text { unpaired electron. }$$</p>"
+    },
+    {
+      "_type": "numerical",
+      "body": "The lowest oxidation number of an atom in a compound $\\mathrm{A}_2 \\mathrm{B}$ is -2 . The number of electrons in its valence shell is _______.",
+      "answer": "6",
+      "explanation": "$\\mathrm{A}_2 \\mathrm{~B} \\rightarrow 2 \\mathrm{~A}^{+}+\\mathrm{B}^{-2}$\n<p>When an atom has the lowest oxidation number of -2 in a compound, it means the atom has gained two electrons beyond its neutral state to achieve this oxidation state. This is because gaining electrons makes the oxidation number more negative. In a neutral atom, the electrons in the outermost shell are known as valence electrons, which play a crucial role in chemical reactions and bonding.</p><p>In the given compound $\\mathrm{A}_2\\mathrm{B}$, atom B has an oxidation state of -2, indicating it has gained two electrons. For an atom to gain two electrons to complete its octet implies that its neutral state had six valence electrons. Therefore, before gaining electrons, the atom B would have had six electrons in its valence shell to begin with. As it gains two more electrons, it reaches an oxidation number of -2, implying it now has a complete octet or eight electrons in its valence shell, but the original count of valence electrons in its neutral state was six.</p>"
+    },
+    {
+      "_type": "numerical",
+      "body": "<p>A diatomic molecule has a dipole moment of $$1.2 \\mathrm{~D}$$. If the bond distance is $$1 \\mathrm{~A}^{\\circ}$$, then fractional charge on each atom is _________ $$\\times 10^{-1}$$ esu.</p>\n<p>(Given $$1 \\mathrm{~D}=10^{-18}$$ esucm)</p>",
+      "answer": "0",
+      "explanation": "<p>To find the fractional charge on each atom in a diatomic molecule, we can use the relationship between dipole moment (μ), charge (q), and distance (d):</p>\n\n<p>$$ \\mu = q \\times d $$</p>\n\n<p>Where:</p>\n<ul>\n<li>μ is the dipole moment.</li>\n<br/><li>q is the magnitude of the charge on each atom.</li>\n<br/><li>d is the distance between the charges.</li>\n</ul>\n\n<p>First, convert units to be consistent with esu:</p>\n<ul>\n<li>Bond distance in cm: $$ 1 \\mathrm{~A}^{\\circ} = 1 \\times 10^{-8} \\mathrm{~cm} $$</li>\n<br/><li>Dipole moment in esu·cm: $$ 1.2 \\mathrm{~D} = 1.2 \\times 10^{-18} \\mathrm{~esucm} $$</li>\n</ul>\n\n<p>We are given that the bond distance ($ d $) is $ 1 \\mathrm{~A}^{\\circ} $ and that the dipole moment $( \\mu $) is $ 1.2 \\mathrm{~D} $. Using these values, we can calculate the charge ($ q $) as follows:</p>\n\n<p>$$ q = \\frac{\\mu}{d} $$</p>\n\n<p>Now plug in the given values:</p>\n\n<p>$$ q = \\frac{1.2 \\times 10^{-18} \\mathrm{~esucm}}{1 \\times 10^{-8} \\mathrm{~cm}} $$</p>\n<p>$$ q = 1.2 \\times 10^{-10} \\mathrm{~esu} $$</p>\n<p>$$ q = 1.2 \\times 10^{-9} \\times 10^{-1} \\mathrm{~esu} $$</p>\n<p>$$ q = 0.000000012 \\times 10^{-1} \\mathrm{~esu} $$</p>"
+    },
+    {
+      "_type": "numerical",
+      "body": "<p>The number of species from the following in which the central atom uses $$\\mathrm{sp}^3$$ hybrid orbitals in its bonding is __________.</p>\n<p>$$\\mathrm{NH}_3, \\mathrm{SO}_2, \\mathrm{SiO}_2, \\mathrm{BeCl}_2, \\mathrm{CO}_2, \\mathrm{H}_2 \\mathrm{O}, \\mathrm{CH}_4, \\mathrm{BF}_3$$</p>",
+      "answer": "3",
+      "explanation": "<p>To determine the number of species in which the central atom uses $$\\mathrm{sp}^3$$ hybrid orbitals in its bonding, we need to analyze the hybridization of each central atom in the given species.</p>\n\n<p>1. <strong>$$\\mathrm{NH}_3$$ (Ammonia)</strong>:</p>\n\n<p>The central atom is nitrogen. Ammonia has 3 sigma bonds and 1 lone pair. Thus, the steric number is 4, which corresponds to $$\\mathrm{sp}^3$$ hybridization.</p>\n\n<p>2. <strong>$$\\mathrm{SO}_2$$ (Sulfur dioxide)</strong>:</p>\n\n<p>The central atom is sulfur. Sulfur dioxide has 2 sigma bonds and 1 lone pair. Thus, the steric number is 3, which corresponds to $$\\mathrm{sp}^2$$ hybridization.</p>\n\n<p>3. <strong>$$\\mathrm{SiO}_2$$ (Silicon dioxide)</strong>:</p>\n\n<p>The central atom is silicon. Silicon dioxide has a linear structure with double bonds, leading to $$\\mathrm{sp}$$ hybridization.</p>\n\n<p>4. <strong>$$\\mathrm{BeCl}_2$$ (Beryllium chloride)</strong>:</p>\n\n<p>The central atom is beryllium. Beryllium chloride has 2 sigma bonds and no lone pair. Thus, the steric number is 2, which corresponds to $$\\mathrm{sp}$$ hybridization.</p>\n\n<p>5. <strong>$$\\mathrm{CO}_2$$ (Carbon dioxide)</strong>:</p>\n\n<p>The central atom is carbon. Carbon dioxide has a linear structure with double bonds, leading to $$\\mathrm{sp}$$ hybridization.</p>\n\n<p>6. <strong>$$\\mathrm{H}_2\\mathrm{O}$$ (Water)</strong>:</p>\n\n<p>The central atom is oxygen. Water has 2 sigma bonds and 2 lone pairs. Thus, the steric number is 4, which corresponds to $$\\mathrm{sp}^3$$ hybridization.</p>\n\n<p>7. <strong>$$\\mathrm{CH}_4$$ (Methane)</strong>:</p>\n\n<p>The central atom is carbon. Methane has 4 sigma bonds and no lone pair. Thus, the steric number is 4, which corresponds to $$\\mathrm{sp}^3$$ hybridization.</p>\n\n<p>8. <strong>$$\\mathrm{BF}_3$$ (Boron trifluoride)</strong>:</p>\n\n<p>The central atom is boron. Boron trifluoride has 3 sigma bonds and no lone pair. Thus, the steric number is 3, which corresponds to $$\\mathrm{sp}^2$$ hybridization.</p>\n\n<p>From the above analysis, the species in which the central atom uses $$\\mathrm{sp}^3$$ hybrid orbitals are:</p>\n\n<ul>\n\n<li>$$\\mathrm{NH}_3$$</li>\n\n<li>$$\\mathrm{H}_2\\mathrm{O}$$</li>\n\n<li>$$\\mathrm{CH}_4$$</li>\n\n</ul>\n\n<p>Therefore, the number of species where the central atom uses $$\\mathrm{sp}^3$$ hybrid orbitals is <b>3</b>.</p>"
+    },
+    {
+      "_type": "numerical",
+      "body": "<p>The total number of molecular orbitals formed from $$2 \\mathrm{s}$$ and $$2 \\mathrm{p}$$ atomic orbitals of a diatomic molecule is __________.</p>",
+      "answer": "8",
+      "explanation": "<p>Two molecular orbitals $$\\sigma 2 \\mathrm{s}$$ and $$\\sigma * 2 \\mathrm{s}$$.</p>\n<p>Six molecular orbitals $$\\sigma 2 \\mathrm{p}_z$$ and $$\\sigma * 2 \\mathrm{p}_{\\mathrm{z}}$$.</p>\n<p>$$\\pi 2 \\mathrm{p}_{\\mathrm{x}}, \\pi 2 \\mathrm{p}_{\\mathrm{y}}$$ and $$\\pi * 2 \\mathrm{p}_{\\mathrm{x}}, \\pi^* 2 \\mathrm{p}_{\\mathrm{y}}$$</p>"
+    },
+    {
+      "_type": "numerical",
+      "body": "<p>The total number of molecules with zero dipole moment among $$\\mathrm{CH}_4, \\mathrm{BF}_3, \\mathrm{H}_2 \\mathrm{O}, \\mathrm{HF}, \\mathrm{NH}_3, \\mathrm{CO}_2$$ and $$\\mathrm{SO}_2$$ is ________.</p>",
+      "answer": "3",
+      "explanation": "<p>To determine which molecules have a zero dipole moment from the list provided, we need to consider their molecular geometry and symmetry. Molecules that are symmetrical often have zero dipole moment because the bond dipoles cancel each other out.</p>\n\n<p><p><strong>CO₂ (Carbon Dioxide)</strong>: This molecule is linear in shape. The two opposing oxygen atoms pull equally on the carbon, canceling out the dipoles, resulting in a net dipole moment of zero.</p></p>\n<p><p><strong>CH₄ (Methane)</strong>: Methane is tetrahedral and symmetrical, with all four hydrogen atoms equally spaced around the carbon atom. This symmetry leads to the cancellation of dipoles, giving a net dipole moment of zero.</p></p>\n<p><p><strong>BF₃ (Boron Trifluoride)</strong>: This molecule is trigonal planar and symmetrical. The three fluorine atoms are arranged evenly around the central boron atom, causing the dipoles to cancel each other out, resulting in a zero dipole moment.</p></p>\n\n<p>Therefore, the molecules with zero dipole moment among the list provided are CO₂, CH₄, and BF₃.</p>"
+    },
+    {
+      "_type": "numerical",
+      "body": "<p>The total number of anti bonding molecular orbitals, formed from $$2 s$$ and $$2 p$$ atomic orbitals in a diatomic molecule is _______.</p>",
+      "answer": "4",
+      "explanation": "<p>Antibonding molecular orbital from $$2 \\mathrm{~s}=1$$</p>\n<p>Antibonding molecular orbital from $$2 p=3$$</p>\n<p>Total $$=4$$</p>"
+    },
+    {
+      "_type": "numerical",
+      "body": "<p>The number of species from the following which are paramagnetic and with bond order equal to one is _________.</p>\n<p>$$\\mathrm{H}_2, \\mathrm{He}_2^{+}, \\mathrm{O}_2^{+}, \\mathrm{N}_2^{2-}, \\mathrm{O}_2^{2-}, \\mathrm{F}_2, \\mathrm{Ne}_2^{+}, \\mathrm{B}_2$$</p>",
+      "answer": "1",
+      "explanation": "<p><style type=\"text/css\">\n.tg  {border-collapse:collapse;border-spacing:0;}\n.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg .tg-baqh{text-align:center;vertical-align:top}\n.tg .tg-amwm{font-weight:bold;text-align:center;vertical-align:top}\n</style>\n<table class=\"tg\" style=\"undefined;table-layout: fixed; width: 551px\">\n<colgroup>\n<col style=\"width: 158px\">\n<col style=\"width: 210px\">\n<col style=\"width: 183px\">\n</colgroup>\n<thead>\n  <tr>\n    <th class=\"tg-amwm\">Sol.</th>\n    <th class=\"tg-amwm\">Magnetic behaviour</th>\n    <th class=\"tg-amwm\">Bond order</th>\n  </tr>\n</thead>\n<tbody>\n  <tr>\n    <td class=\"tg-baqh\">$$\\mathrm{H}_2$$</td>\n    <td class=\"tg-baqh\">Diamagnetic</td>\n    <td class=\"tg-baqh\">$$1$$</td>\n  </tr>\n  <tr>\n    <td class=\"tg-baqh\">$$\\mathrm{He_2^+}$$</td>\n    <td class=\"tg-baqh\">Paramagnetic</td>\n    <td class=\"tg-baqh\">$$0.5$$</td>\n  </tr>\n  <tr>\n    <td class=\"tg-baqh\">$$\\mathrm{O_2^+}$$</td>\n    <td class=\"tg-baqh\">Paramagnetic</td>\n    <td class=\"tg-baqh\">$$2.5$$</td>\n  </tr>\n  <tr>\n    <td class=\"tg-baqh\">$$\\mathrm{N_2^{2-}}$$</td>\n    <td class=\"tg-baqh\">Paramagnetic</td>\n    <td class=\"tg-baqh\">$$2$$</td>\n  </tr>\n  <tr>\n    <td class=\"tg-baqh\">$$\\mathrm{O_2^{2-}}$$</td>\n    <td class=\"tg-baqh\">Diamagnetic</td>\n    <td class=\"tg-baqh\">$$1$$</td>\n  </tr>\n  <tr>\n    <td class=\"tg-baqh\">$$\\mathrm{F_2}$$</td>\n    <td class=\"tg-baqh\">Diamagnetic</td>\n    <td class=\"tg-baqh\">$$1$$</td>\n  </tr>\n  <tr>\n    <td class=\"tg-baqh\">$$\\mathrm{Ne_2^+}$$</td>\n    <td class=\"tg-baqh\">Paramagnetic</td>\n    <td class=\"tg-baqh\">$$0.5$$</td>\n  </tr>\n  <tr>\n    <td class=\"tg-baqh\">$$\\mathrm{B_2}$$</td>\n    <td class=\"tg-baqh\">Paramagnetic</td>\n    <td class=\"tg-baqh\">$$1$$</td>\n  </tr>\n</tbody>\n</table></p>"
+    },
+    {
+      "_type": "numerical",
+      "body": "<p>The number of non-polar molecules from the following is _________. $$\\mathrm{HF}, \\mathrm{H}_2 \\mathrm{O}, \\mathrm{SO}_2, \\mathrm{H}_2, \\mathrm{CO}_2, \\mathrm{CH}_4, \\mathrm{NH}_3, \\mathrm{HCl}, \\mathrm{CHCl}_3, \\mathrm{BF}_3$$</p>",
+      "answer": "4",
+      "explanation": "<p>To determine whether a molecule is polar or non-polar, we must consider the difference in electronegativity between the atoms and the symmetry of the molecule. Polar molecules occur when there is an electronegativity difference between the bonded atoms. Non-polar molecules either do not have any polar bonds or the polarities cancel each other out because of a symmetrical arrangement. Let's consider each molecule individually:</p>\n\n<ul>\n<li><b>HF</b> (Hydrogen fluoride): This molecule is polar due to the high electronegativity difference between hydrogen (H) and fluorine (F).</li>\n<li><b>H<sub>2</sub>O</b> (Water): It is polar because of its bent shape and the difference in electronegativity between oxygen and hydrogen.</li>\n<li><b>SO<sub>2</sub></b> (Sulfur dioxide): The molecule is non-linear and has polar bonds, making it a polar molecule.</li>\n<li><b>H<sub>2</sub></b> (Hydrogen): This molecule is non-polar because it consists of two identical atoms which share electrons evenly.</li>\n<li><b>CO<sub>2</sub></b> (Carbon dioxide): Even though C=O bonds are polar, the molecule is linear and the polarities cancel out, making CO<sub>2</sub> non-polar.</li>\n<li><b>CH<sub>4</sub></b> (Methane): It is non-polar because the C-H bonds are evenly distributed in a tetrahedral shape, canceling out any dipole moments.</li>\n<li><b>NH<sub>3</sub></b> (Ammonia): This molecule is polar; it has a trigonal pyramidal shape with a lone pair on nitrogen, creating a dipole moment.</li>\n<li><b>HCl</b> (Hydrogen chloride): The molecule is polar due to the electronegativity difference between hydrogen and chlorine.</li>\n<li><b>CHCl<sub>3</sub></b> (Chloroform): It has polar C-Cl bonds and is not symmetrical, resulting in a polar molecule.</li>\n<li><b>BF<sub>3</sub></b> (Boron trifluoride): This molecule is non-polar despite having polar bonds, because the shape of the molecule is trigonal planar and the dipoles cancel out.</li>\n</ul>\n\n<p>Given this information, the non-polar molecules from the list are: $$\\mathrm{H}_2, \\mathrm{CO}_2, \\mathrm{CH}_4, \\mathrm{BF}_3$$.</p>\n\n<p>Therefore, there are 4 non-polar molecules in the list given.</p>"
+    },
+    {
+      "_type": "numerical",
+      "body": "<p>Sum of bond order of CO and NO$$^+$$ is ________.</p>",
+      "answer": "6",
+      "explanation": "<p>$$\\begin{array}{lcl}\n\\mathrm{CO} \\Rightarrow & \\overline{\\mathrm{C}} \\equiv \\stackrel{+}{\\mathrm{O}} & : \\mathrm{BO}=3 \\\\\n\\mathrm{NO}^{+} \\Rightarrow & \\mathrm{N} \\equiv \\mathrm{O}^{+} & : \\mathrm{BO}=3\n\\end{array}$$</p>"
+    },
+    {
+      "_type": "numerical",
+      "body": "<p>The number of bent-shaped molecule/s from the following is __________</p>\n<p>N$$_3^-$$, NO$$_2^-$$, I$$_3^-$$, O$$_3$$, SO$$_2$$</p>",
+      "answer": "3",
+      "explanation": "<p>A bent-shaped molecule has a molecular geometry with a central atom bonded to two other atoms and one or two pairs of non-bonding electrons. The VSEPR (Valence Shell Electron Pair Repulsion) theory helps us predict the shapes of molecules.</p>\n<p>Let&#39;s consider the given molecules:</p>\n<ol>\n<li><p>N$_3^-$: The azide ion has a linear shape, not bent. The nitrogen in the middle is connected to two other nitrogens and there are no lone pairs on the central atom.</p>\n</li><br/>\n<li><p>NO$_2^-$: The nitrite ion has a bent shape. The central nitrogen atom is connected to two oxygen atoms and has one lone pair of electrons, giving it a bent geometry.</p>\n</li><br/>\n<li><p>I$_3^-$: The triiodide ion has a linear shape, not bent. The central iodine atom is connected to two other iodine atoms and there are no lone pairs on the central atom.</p>\n</li><br/>\n<li><p>O$_3$: Ozone has a bent shape. The central oxygen atom is connected to two other oxygen atoms and has one lone pair of electrons, giving it a bent geometry.</p>\n</li><br/>\n<li><p>SO$_2$: Sulfur dioxide has a bent shape. The central sulfur atom is connected to two oxygen atoms and has one lone pair of electrons, giving it a bent geometry.</p>\n</li>\n</ol>\n<p>Therefore, there are 3 bent-shaped molecules: NO$_2^-$, O$_3$, and SO$_2$.</p>\n"
+    },
+    {
+      "_type": "numerical",
+      "body": "<p>The sum of lone pairs present on the central atom of the interhalogen IF$$_5$$ and IF$$_7$$ is _________</p>",
+      "answer": "1",
+      "explanation": "<p>Interhalogen compounds are the substances that consist of two different halogens. The most common type of interhalogen compounds are binary, containing only two different elements.</p>\n<p>In IF$_5$, iodine (I) is the central atom. Iodine has 7 valence electrons, 5 of which are used for bonding with the 5 fluorine (F) atoms. This leaves 2 electrons, or 1 lone pair on the iodine atom.</p>\n<p>In IF$_7$, iodine (I) is the central atom again. Iodine has 7 valence electrons, all of which are used for bonding with the 7 fluorine (F) atoms. So, there are no lone pairs on the iodine atom.</p>\n<p>Therefore, the sum of lone pairs present on the central atom of the interhalogens IF$_5$ and IF$_7$ is 1.</p>\n"
+    },
+    {
+      "_type": "numerical",
+      "body": "<p>The number of following factors which affect the percent covalent character of the ionic bond is _________</p>\n<p>(A) Polarising power of cation</p>\n<p>(B) Extent of distortion of anion</p>\n<p>(C) Polarisability of the anion</p>\n<p>(D) Polarising power of anion</p>",
+      "answer": "3",
+      "explanation": "<p>The covalent character of an ionic bond is largely determined by the polarization of the ions involved in the bond. Polarization refers to the distortion of the electron cloud of an anion by a cation. This distortion leads to a shift in electron density towards the cation, thereby increasing the covalent character of the bond.</p>\n<p>Here&#39;s a breakdown of the options:</p>\n<p>(A) Polarising power of cation: The greater the polarising power of a cation, the greater the distortion of the anion, and therefore, the greater the covalent character of the bond. Thus, this statement is correct.</p>\n<p>(B) Extent of distortion of anion: The more an anion is distorted, the more the electron density is shifted towards the cation, and the greater the covalent character of the bond. This statement is also correct.</p>\n<p>(C) Polarisability of the anion: The greater the polarisability of an anion, the more it can be distorted, and therefore, the greater the covalent character of the bond. Thus, this statement is also correct.</p>\n<p>(D) Polarising power of anion: This statement is incorrect. It is not the polarising power of the anion, but the polarisability of the anion and the polarising power of the cation that influence the covalent character of the bond.</p>\n<p>Therefore, three of the factors listed (A, B, C) affect the percent covalent character of the ionic bond.</p>\n"
+    },
+    {
+      "_type": "numerical",
+      "body": "<p>The number of species having a square planar shape from the following is __________.</p>\n<p>$$\\mathrm{XeF}_{4}, \\mathrm{SF}_{4}, \\mathrm{SiF}_{4}, \\mathrm{BF}_{4}^{-}, \\mathrm{BrF}_{4}^{-},\\left[\\mathrm{Cu}\\left(\\mathrm{NH}_{3}\\right)_{4}\\right]^{2+},\\left[\\mathrm{FeCl}_{4}\\right]^{2-},\\left[\\mathrm{PtCl}_{4}\\right]^{2-}$$</p>",
+      "answer": "4",
+      "explanation": "$\\mathrm{XeF}_4 \\rightarrow$ Square planar<br/><br/>\n$\\mathrm{SF}_4 \\rightarrow$ See saw<br/><br/>\n$\\mathrm{SiF}_4 \\rightarrow$ Tetrahedral<br/><br/>\n$\\mathrm{BF}_4^{-} \\rightarrow$ Tetrahedral<br/><br/>\n$\\left[\\mathrm{Cu}\\left(\\mathrm{NH}_3\\right)_4\\right]^{2+} \\rightarrow$ Square planar<br/><br/>\n$\\left[\\mathrm{FeCl}_4\\right]^{2-} \\rightarrow$ Tetrahedral<br/><br/>\n$\\left[\\mathrm{PtCl}_4\\right]^{2-} \\rightarrow$ Square planar<br/><br/>\n$\\mathrm{BrF}_4^{-} \\rightarrow$ Square planar<br/><br/>\nSo, 4 square planer shape compounds are present."
+    },
+    {
+      "_type": "numerical",
+      "body": "<p>In an ice crystal, each water molecule is hydrogen bonded to ____________ neighbouring molecules.</p>",
+      "answer": "4",
+      "explanation": "In an ice crystal, each water molecule is hydrogen bonded to four neighbouring molecules."
+    },
+    {
+      "_type": "numerical",
+      "body": "<p>The number of species from the following which have square pyramidal structure is _________</p>\n<p>$$\\mathrm{PF}_{5}, \\mathrm{BrF}_{4}^{-}, \\mathrm{IF}_{5}, \\mathrm{BrF}_{5}, \\mathrm{XeOF}_{4}, \\mathrm{ICl}_{4}^{-}$$</p>",
+      "answer": "3",
+      "explanation": "<p>A square pyramidal structure has five bonds and one lone pair, making a total of six electron pairs around the central atom. The geometry of such a molecule can be analyzed using the VSEPR theory.</p>\n<ol>\n<li>$\\mathrm{PF}_{5}$: 5 bond pairs and 0 lone pairs, so its geometry is trigonal bipyramidal, not square pyramidal.</li>\n<br/><li>$\\mathrm{BrF}_{4}^{-}$: 4 bond pairs and 2 lone pairs, so its geometry is square planar, not square pyramidal.</li><br/>\n<li>$\\mathrm{IF}_{5}$: 5 bond pairs and 1 lone pair, so its geometry is square pyramidal.</li><br/>\n<li>$\\mathrm{BrF}_{5}$: 5 bond pairs and 1 lone pair, so its geometry is square pyramidal.</li>\n<br/><li>$\\mathrm{XeOF}_{4}$: 5 bond pairs and 1 lone pair, so its geometry is square pyramidal.</li><br/>\n<li>$\\mathrm{ICl}_{4}^{-}$: 4 bond pairs and 2 lone pairs, so its geometry is square planar, not square pyramidal.</li>\n</ol>\n<p>So the number of species from the given list that have a square pyramidal structure is 3.</p>\n"
+    },
+    {
+      "_type": "numerical",
+      "body": "<p>The number of molecules or ions from the following, which do not have odd number of electrons are _________.</p>\n<p>(A) NO$$_2$$</p>\n<p>(B) ICl$$_4^ - $$</p>\n<p>(C) BrF$$_3$$</p>\n<p>(D) ClO$$_2$$</p>\n<p>(E) NO$$_2^ + $$</p>\n<p>(F) NO</p>",
+      "answer": "3",
+      "explanation": "Only $\\mathrm{ICl}_4^{-}, \\mathrm{BrF}_3$ and $\\mathrm{NO}_2^{+}$have even number of electrons.\n<br/><br/>$$\n\\begin{aligned}\n& \\mathrm{NO}_2 \\Rightarrow 23 e^{-} ; \\\\\\\\\n& \\mathrm{ICl}_4^{-} \\Rightarrow 122 e^{-} ; \\\\\\\\\n& \\mathrm{BrF}_3 \\Rightarrow 62 e^{-} ; \\\\\\\\\n& \\mathrm{ClO}_2 \\Rightarrow 33 e^{-} ; \\\\\\\\\n& \\mathrm{NO}_2^{+} \\Rightarrow 22 e^{-} ; \\\\\\\\\n& \\mathrm{NO} \\Rightarrow 15 e^{-}\n\\end{aligned}\n$$"
+    },
+    {
+      "_type": "numerical",
+      "body": "<p>The number of paramagnetic species among the following is ___________.</p>\n<p>$$\\mathrm{B}_{2}, \\mathrm{Li}_{2}, \\mathrm{C}_{2}, \\mathrm{C}_{2}^{-}, \\mathrm{O}_{2}^{2-}, \\mathrm{O}_{2}^{+}$$ and $$\\mathrm{He}_{2}^{+}$$</p>",
+      "answer": "4",
+      "explanation": "Those species which have unpaired electrons are called paramagnetic species.\n<br><br>And those species which have no unpaired electrons are called diamagnetic species.\n<br><br>B<sub>2</sub> has 10 electrons.\n<br><br>Molecular orbital configuration of B<sub>2</sub> is \n<br><br>$${\\sigma _{1{s^2}}}\\,\\sigma _{1{s^2}}^ * \\,\\,{\\sigma _{2{s^2}}}\\,\\,\\sigma _{2{s^2}}^ * \\,\\,{\\pi _{2p_x^1}} = {\\pi _{2p_y^1}}$$\n<br><br>Here two unpaired electrons present. So it is paramagnetic. \n<br><br>$$O_2^{2−}$$ has 18 electrons.\n<br><br>Moleculer orbital configuration of $$O_2^{2−}$$ is \n<br><br>$${\\sigma _{1{s^2}}}\\,\\sigma _{1{s^2}}^ * \\,{\\sigma _{2{s^2}}}\\,\\sigma _{2{s^2}}^ * \\,{\\sigma _{2p_z^2}}\\,{\\pi _{2p_x^2}}\\, = \\,{\\pi _{2p_y^2}}\\,\\pi _{2p_x^2}^ * \\, = \\,\\pi _{2p_y^2}^ * $$\n<br><br>Here is no unpaired electron so it is diamagnetic. \n\n<br><br>$$O_2^{+}$$ has 15 electrons. \n<br><br>Moleculer orbital configuration of $$O_2^{+}$$ is \n<br><br>$${\\sigma _{1{s^2}}}\\,\\sigma _{1{s^2}}^ * \\,\\,{\\sigma _{2{s^2}}}\\,\\,\\sigma _{2{s^2}}^ * \\,\\,{\\sigma _{2p_z^2}}\\,\\,{\\pi _{2p_x^2}}\\,= \\,{\\pi _{2p_y^2}}\\,\\pi _{2p_x^1}^ *  = \\,\\,\\pi _{2p_y^0}^ * $$\n<br><br>Here 1 unpaired electron present, so it is paramagnetic.\n<br/><br/>$$C_2$$ has 12 electrons. \n<br><br>Moleculer orbital configuration of $$C_2$$\n<br><br>= $${\\sigma _{1{s^2}}}\\,\\sigma _{1{s^2}}^ * \\,{\\sigma _{2{s^2}}}\\,\\sigma _{2{s^2}}^ * \\,{\\pi _{2p_x^2}}\\, = \\,{\\pi _{2p_y^2}}$$\n<br><br>Here no unpaired electron present, so it is diamagnetic.\n<br/><br/>$$C_2^{ - }$$ has 13 electrons. \n<br><br>Moleculer orbital configuration of $$C_2^{ - }$$ is\n<br><br> $${\\sigma _{1{s^2}}}\\,\\sigma _{1{s^2}}^ * \\,{\\sigma _{2{s^2}}}\\,\\sigma _{2{s^2}}^ * \\,{\\pi _{2p_x^2}}\\, = \\,{\\pi _{2p_y^2}}\\,{\\sigma _{2p_z^1}}$$\n<br><br>Here 1 unpaired electron present, so it is paramagnetic.\n<br/><br/>Li<sub>2</sub> has 6 electrons.\n<br/><br/>Li<sub>2</sub> = $${\\sigma _{1{s^2}}}\\,\\,\\sigma _{1{s^2}}^ * \\,$$ $${\\sigma _{2{s^2}}} \\,$$\n<br><br>Here no unpaired electron present, so it is diamagnetic.\n<br/><br/>Configuration of $$He_2^ + $$ (3 electrons) is = $${\\sigma _{1{s^2}}}$$ $$\\sigma _{1{s^1}}^ * $$\n<br><br>Here 1 unpaired electron present, so it is paramagnetic."
+    },
+    {
+      "_type": "numerical",
+      "body": "<p>The number of interhalogens from the following having square pyramidal structure is :</p>\n<p>$$\\mathrm{ClF}_{3}, \\mathrm{IF}_{7}, \\mathrm{BrF}_{5}, \\mathrm{BrF}_{3}, \\mathrm{I}_{2} \\mathrm{Cl}_{6}, \\mathrm{IF}_{5}, \\mathrm{ClF}, \\mathrm{ClF}_{5}$$</p>",
+      "answer": "3",
+      "explanation": "$\\mathrm{CIF}_{3} \\rightarrow 3 \\sigma$ bond $+2$ lone pair\n<br/><br/>\n$\\mathrm{IF}_{7} \\rightarrow 7 \\sigma$ bond $+0$ lone pair\n<br/><br/>\n$\\mathrm{BrF}_{5} \\rightarrow 5 \\sigma$ bond $+1$ lone pair $\\rightarrow$ Square pyramidal\n<br/><br/>\n$\\mathrm{BrF}_{3} \\rightarrow 3 \\sigma$ bond $+2$ lone pair\n<br/><br/>\n$\\mathrm{I}_{2} \\mathrm{Cl}_{6} \\rightarrow 4 \\sigma$ bond $+2$ lone pair\n<br/><br/>\n$\\mathrm{IF}_{5} \\rightarrow 5 \\sigma$ bond $+1$ lone pair $\\rightarrow$ Square pyramidal\n<br/><br/>\n$\\mathrm{CIF} \\rightarrow 1 \\sigma$ bond $+3$ lone pair\n<br/><br/>\n$\\mathrm{CIF}_{5} \\rightarrow 5 \\sigma$ bond $+1$ lone pair $\\rightarrow$ Square pyramidal"
+    },
+    {
+      "_type": "numerical",
+      "body": "<p>The number of molecule(s) or ion(s) from the following having non-planar structure is ____________.</p>\n<p>$$\\mathrm{NO}_{3}^{-}, \\mathrm{H}_{2} \\mathrm{O}_{2}, \\mathrm{BF}_{3}, \\mathrm{PCl}_{3}, \\mathrm{XeF}_{4}, \\mathrm{SF}_{4}, \\mathrm{XeO}_{3}, \\mathrm{PH}_{4}^{+}, \\mathrm{SO}_{3},\\left[\\mathrm{Al}(\\mathrm{OH})_{4}\\right]^{-}$$</p>",
+      "answer": "6",
+      "explanation": "$\\mathrm{NO}_{3}^{\\ominus} \\rightarrow$ Trigonal planar (Planar)\n<br/><br/>\n$\\mathrm{H}_{2} \\mathrm{O}_{2} \\rightarrow$ Open book (Non-planar)\n<br/><br/>\n$\\mathrm{BF}_{3} \\rightarrow$ Trigonal planar (Planar)\n<br/><br/>\n$\\mathrm{PCl}_{3} \\rightarrow$ Pyramidal (Non-planar)\n<br/><br/>\n$\\mathrm{XeF}_{4} \\rightarrow$ Square planar (Planar)\n<br/><br/>\n$\\mathrm{SF}_{4} \\rightarrow$ See-Saw (Non-planar) $\\mathrm{XeO}_{3} \\rightarrow$ Pyramidal (Non-planar)\n<br/><br/>\n$\\mathrm{PH}_{4}^{\\oplus} \\rightarrow$ Tetrahedral (Non-planar)\n<br/><br/>\n$\\mathrm{SO}_{3} \\rightarrow$ Trigonal planar (Planar)\n<br/><br/>\n$\\left[\\mathrm{Al}(\\mathrm{OH})_{4}\\right]^{-} \\rightarrow$ Tetrahedral (Non-planar)"
+    },
+    {
+      "_type": "numerical",
+      "body": "<p>Amongst the following, the number of oxide(s) which are paramagnetic in nature is</p>\n<p>$$\\mathrm{Na}_{2} \\mathrm{O}, \\mathrm{KO}_{2}, \\mathrm{NO}_{2}, \\mathrm{~N}_{2} \\mathrm{O}, \\mathrm{ClO}_{2}, \\mathrm{NO}, \\mathrm{SO}_{2}, \\mathrm{Cl}_{2} \\mathrm{O}$$</p>",
+      "answer": "4",
+      "explanation": "Paramagnetic species: $\\mathrm{KO}_{2}, \\mathrm{NO}_{2}, \\mathrm{ClO}_{2}, \\mathrm{NO}$\n<br/><br/>\nDiamagnetic species are: $\\mathrm{Na}_{2} \\mathrm{O}, \\mathrm{N}_{2} \\mathrm{O}, \\mathrm{SO}_{2}, \\mathrm{Cl}_{2} \\mathrm{O}$"
+    },
+    {
+      "_type": "numerical",
+      "body": "<p>According to MO theory, number of species/ions from the following having identical bond order is ________.</p>\n<p>$$\\mathrm{CN}^{-}, \\mathrm{NO}^{+}, \\mathrm{O}_{2}, \\mathrm{O}_{2}^{+}, \\mathrm{O}_{2}^{2+}$$</p>",
+      "answer": "3",
+      "explanation": "$\\mathrm{CN}^{-}, \\mathrm{NO}^{+}$and $\\mathrm{O}_{2}^{2+}$ have bond order of 3 \n<br/><br/>\n$\\mathrm{O}_{2}$ has bond order of 2\n<br/><br/>\n$\\mathrm{O}_{2}^{+}$ has bond order of $2.5$\n<br/><br/>\n$\\therefore 3$ species have similar bond order."
+    },
+    {
+      "_type": "numerical",
+      "body": "<p>Among the following species</p>\n<p>$$\\mathrm{N}_{2}, \\mathrm{~N}_{2}^{+}, \\mathrm{N}_{2}^{-}, \\mathrm{N}_{2}^{2-}, \\mathrm{O}_{2}, \\mathrm{O}_{2}^{+}, \\mathrm{O}_{2}^{-}, \\mathrm{O}_{2}^{2-}$$</p>\n<p>the number of species showing diamagnesim is _______________.</p>",
+      "answer": "2",
+      "explanation": "Those species which have unpaired electrons are called paramagnetic species.\n<br><br>And those species which have no unpaired electrons are called diamagnetic species.\n\n<br><br>(1)&nbsp;&nbsp; $$N_2$$ has 14 electrons. \n<br><br>Moleculer orbital configuration of $$N_2$$\n<br><br>= $${\\sigma _{1{s^2}}}\\,\\sigma _{1{s^2}}^ * \\,{\\sigma _{2{s^2}}}\\,\\sigma _{2{s^2}}^ * \\,{\\pi _{2p_x^2}}\\, = \\,{\\pi _{2p_y^2}}\\,{\\sigma _{2p_z^2}}$$\n<br><br>Here no unpaired electron present, so it is diamagnetic.\n\n<br><br>(2) Moleculer orbital configuration of $$N_2^{ + }$$ (13 electrons)\n<br><br>= $${\\sigma _{1{s^2}}}\\,\\sigma _{1{s^2}}^ * \\,{\\sigma _{2{s^2}}}\\,\\sigma _{2{s^2}}^ * \\,{\\pi _{2p_x^2}}\\, = \\,{\\pi _{2p_y^2}}\\,{\\sigma _{2p_z^1}}$$\n<br><br>Here in $$N_2^{ + }$$, 1 unpaired electron present, so it is paramagnetic.\n\n<br><br>(3)&nbsp;&nbsp; $$\\mathrm{N}_{2}^{2-}$$ has 16 electrons. \n<br><br>Moleculer orbital configuration of $$\\mathrm{N}_{2}^{2-}$$ is \n<br><br>$${\\sigma _{1{s^2}}}\\,\\sigma _{1{s^2}}^ * \\,\\,{\\sigma _{2{s^2}}}\\,\\,\\sigma _{2{s^2}}^ * \\,\\,{\\sigma _{2p_z^2}}\\,\\,{\\pi _{2p_x^2}}\\,= \\,{\\pi _{2p_y^2}}\\,\\pi _{2p_x^1}^ *  = \\,\\,\\pi _{2p_y^1}^ * $$\n<br><br>Here 2 unpaired electron present, so it is paramagnetic.\n<br><br>(4)&nbsp;&nbsp; $$\\mathrm{N}_{2}^{-}$$ has 15 electrons. \n<br><br>Moleculer orbital configuration of $$\\mathrm{N}_{2}^{-}$$ is \n<br><br>$${\\sigma _{1{s^2}}}\\,\\sigma _{1{s^2}}^ * \\,\\,{\\sigma _{2{s^2}}}\\,\\,\\sigma _{2{s^2}}^ * \\,\\,{\\sigma _{2p_z^2}}\\,\\,{\\pi _{2p_x^2}}\\,= \\,{\\pi _{2p_y^2}}\\,\\pi _{2p_x^1}^ *  = \\,\\,\\pi _{2p_y^0}^ * $$\n<br><br>Here 1 unpaired electron present, so it is paramagnetic.\n\n\n\n<br><br>(a)&nbsp;&nbsp;&nbsp; $$O_2^{2−}$$ has 18 electrons.\n<br><br>Moleculer orbital configuration of $$O_2^{2−}$$ is \n<br><br>$${\\sigma _{1{s^2}}}\\,\\sigma _{1{s^2}}^ * \\,{\\sigma _{2{s^2}}}\\,\\sigma _{2{s^2}}^ * \\,{\\sigma _{2p_z^2}}\\,{\\pi _{2p_x^2}}\\, = \\,{\\pi _{2p_y^2}}\\,\\pi _{2p_x^2}^ * \\, = \\,\\pi _{2p_y^2}^ * $$\n<br><br>Here is no unpaired electron so it is diamagnetic. \n\n<br><br>(b)&nbsp;&nbsp;&nbsp; $$O_2^{−}$$ has 17 electrons.\n<br><br>Moleculer orbital configuration of $$O_2^{2−}$$ is \n<br><br>$${\\sigma _{1{s^2}}}\\,\\sigma _{1{s^2}}^ * \\,{\\sigma _{2{s^2}}}\\,\\sigma _{2{s^2}}^ * \\,{\\sigma _{2p_z^2}}\\,{\\pi _{2p_x^2}}\\, = \\,{\\pi _{2p_y^2}}\\,\\pi _{2p_x^2}^ * \\, = \\,\\pi _{2p_y^1}^ * $$\n<br><br>Here 1 unpaired electron present, so it is paramagnetic.\n<br><br>(c)&nbsp;&nbsp; $$O_2$$ has 16 electrons. \n<br><br>Moleculer orbital configuration of $$O_2$$ is \n<br><br>$${\\sigma _{1{s^2}}}\\,\\sigma _{1{s^2}}^ * \\,\\,{\\sigma _{2{s^2}}}\\,\\,\\sigma _{2{s^2}}^ * \\,\\,{\\sigma _{2p_z^2}}\\,\\,{\\pi _{2p_x^2}}\\,= \\,{\\pi _{2p_y^2}}\\,\\pi _{2p_x^1}^ *  = \\,\\,\\pi _{2p_y^1}^ * $$\n<br><br>Here 2 unpaired electron present, so it is paramagnetic.\n<br><br>(d)&nbsp;&nbsp; $$O_2^{+}$$ has 15 electrons. \n<br><br>Moleculer orbital configuration of $$O_2^{+}$$ is \n<br><br>$${\\sigma _{1{s^2}}}\\,\\sigma _{1{s^2}}^ * \\,\\,{\\sigma _{2{s^2}}}\\,\\,\\sigma _{2{s^2}}^ * \\,\\,{\\sigma _{2p_z^2}}\\,\\,{\\pi _{2p_x^2}}\\,= \\,{\\pi _{2p_y^2}}\\,\\pi _{2p_x^1}^ *  = \\,\\,\\pi _{2p_y^0}^ * $$\n<br><br>Here 1 unpaired electron present, so it is paramagnetic.\n"
+    },
+    {
+      "_type": "numerical",
+      "body": "<p>The hybridization of P exhibited in PF<sub>5</sub> is sp<sup>x</sup>d<sup>y</sup>. The value of y is __________.</p>",
+      "answer": "1",
+      "explanation": "$\\mathrm{PF}_5 \\Rightarrow \\mathrm{sp}^3 \\mathrm{~d}$ hybridisation\n<br/><br/>(5 sigma bonds, zero lone pair on central atom)\n<br/><br/>Value of $y=1$"
+    },
+    {
+      "_type": "numerical",
+      "body": "<p>Amongst BeF<sub>2</sub>, BF<sub>3</sub>, H<sub>2</sub>O, NH<sub>3</sub>, CCl<sub>4</sub> and HCl, the number of molecules with non-zero net dipole moment is ____________.</p>",
+      "answer": "3",
+      "explanation": "$\\mathrm{BeF}_2, \\mathrm{BF}_3$ and $\\mathrm{CCl}_4 \\Rightarrow \\mu_{\\mathrm{net}}=0$ <br/><br/>$\\mathrm{H}_2 \\mathrm{O}, \\mathrm{NH}_3$ and $\\mathrm{HCl} \\Rightarrow \\mu_{\\mathrm{net}} \\neq 0$"
+    },
+    {
+      "_type": "numerical",
+      "body": "The spin-only magnetic moment value of $$B_2^ + $$ species is _____________ $$\\times$$ 10<sup>$$-$$2</sup> BM. (Nearest integer) [Given : $$\\sqrt 3 $$ = 1.73]",
+      "answer": "173",
+      "explanation": "$$B_2^ +  \\Rightarrow \\sigma _{1s}^2\\sigma _{1s}^{*2}\\sigma _{2s}^2\\sigma _{2s}^{*2}\\pi _{2py}^1 \\simeq \\pi _{2pz}^0$$<br><br> It has one\nunpaired electron.<br><br>Spin - only magnetic moment = $$\\mu  \n$$\n<br><br>= $$\\sqrt {n\\left( {n + 1} \\right)} $$\n<br><br>n = Number of unpaired electrons\n<br><br>$$= \\sqrt {1(1 + 2)}  = \\sqrt 3 $$ BM<br><br>= 1.73 BM<br><br>= 1.73 $$\\times$$ 10<sup>$$-$$2</sup> BM"
+    },
+    {
+      "_type": "numerical",
+      "body": "According to molecular orbital theory, the number of unpaired electron(s) in $$O_2^{2 - }$$ is :",
+      "answer": "0",
+      "explanation": "Molecular orbital configuration of $$O_2^{2 - }$$ is <br><br>$$\\sigma _{1s}^2\\sigma _{1s}^{*2}\\sigma _{2s}^2\\sigma _{2s}^{*2}\\left( {\\pi 2p_x^2 = \\pi 2p_y^2} \\right)\\left( {\\pi _{2px}^{*2} = \\pi _{2py}^{*2}} \\right)$$<br><br>Zero unpaired electron"
+    },
+    {
+      "_type": "numerical",
+      "body": "AX is a covalent diatomic molecule where A and X are second row elements of periodic table. Based on Molecular orbital theory, the bond order of AX is 2.5. The total number of electrons in AX is __________. (Round off to the Nearest Integer).",
+      "answer": "15",
+      "explanation": "The compound AX is NO its bond order is 2.5 and it has total 15 electrons.\n<br><br><b>Note :</b> Total number of electrons equal to 13 will\nalso have the 2.5 bond order. But in this case\nneutral diatomic molecule will not be possible."
+    },
+    {
+      "_type": "numerical",
+      "body": "Among the following, the number of halide(s) which is/are inert to hydrolysis is _________.<br><br>(A) BF<sub>3</sub><br><br>(B) SiCl<sub>4</sub><br><br>(C) PCl<sub>5</sub><br><br>(D) SF<sub>6</sub>",
+      "answer": "1",
+      "explanation": "BF<sub>3</sub> – Shows Partial hydrolysis\n<br><br>SiCl<sub>4</sub> – Undergoes hydrolysis readily\n<br><br>PCl<sub>5</sub> – Undergoes hydrolysis by addition–\nelimination mechanism.\n<br><br>SF<sub>6</sub> – Due to crowding Inert towards hydrolysis."
+    },
+    {
+      "_type": "numerical",
+      "body": "Chlorine reacts with hot and concentrated NaOH and produces compounds (X) and (Y). Compound\n(X) gives white precipitate with silver nitrate solution. The average bond order between CI and O\natoms in (Y) is.",
+      "answer": "1.66to1.67",
+      "explanation": "3Cl<sub>2</sub> + 6NaOH $$ \\to $$ 5NaCl + NaClO<sub>3</sub> + 3H<sub>2</sub>O\n<br><br>NaCl + AgNO<sub>3</sub> $$ \\to $$ AgCl<sup>-</sup> $$ \\downarrow $$ + NaNO<sub>3</sub>\n<br><br>$$ \\therefore $$ X = NaCl then Y = NaClO<sub>3</sub>\n<br><br>Here in anion ClO<sub>3</sub><sup>-</sup> has bond between Cl and O atom.\n<br><br>Bond order of Cl–O Bond = <span style=\"display: inline-block;vertical-align: middle;\">\n     <div style=\"text-align: center;border-bottom: 1px solid black;\">Total bond</div>\n     <div style=\"text-align: center;\">Total resonating structure</div>\n</span>.\n<br><br>= $${5 \\over 3}$$ = 1.67\n"
+    }
+  ]
+}

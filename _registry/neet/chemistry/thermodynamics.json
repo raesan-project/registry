@@ -1,0 +1,1759 @@
+{
+  "_index": {
+    "name": "Thermodynamics"
+  },
+  "_children": [
+    {
+      "_type": "single_mcq",
+      "body": "<p>Choose the correct statement for the work done in the expansion and heat absorbed or released when\n5 litres of an ideal gas at 10 atmospheric pressure isothermally expands into vacuum until volume is\n15 litres :</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "Both the heat and work done will be greater than zero\n"
+        },
+        {
+          "key": "B",
+          "value": "Heat absorbed will be less than zero and work done will be positive\n"
+        },
+        {
+          "key": "C",
+          "value": "Work done will be zero and heat will also be zero\n"
+        },
+        {
+          "key": "D",
+          "value": "Work done will be greater than zero and heat will remain zero"
+        }
+      ],
+      "answer": "C",
+      "explanation": "<p>Since it is isothermal, $$\\Delta \\mathrm{T}=0$$</p>\n<p>$$\\Delta \\mathrm{U}=\\mathrm{nC}_{\\mathrm{v}} \\Delta \\mathrm{T}=0$$</p>\n<p>Since expansion is taking place against vacuum</p>\n<p>$$\\begin{aligned}\n& P_{\\text {ext }}=0 \\\\\n& W=-P_{\\text {ext }} \\Delta V=0\n\\end{aligned}$$</p>\n<p>From first law of thermodynamics,</p>\n<p>$$\\begin{aligned}\n& \\Delta U=q+W \\\\\n& 0=q+0 \\\\\n& q=0\n\\end{aligned}$$</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>For the following reaction at $$300 \\mathrm{~K}$$</p>\n<p>$$\\mathrm{A}_2(\\mathrm{~g})+3 \\mathrm{~B}_2(\\mathrm{~g}) \\rightarrow 2 \\mathrm{AB}_3(\\mathrm{~g})$$</p>\n<p>the enthalpy change is $$+15 \\mathrm{~kJ}$$, then the internal energy change is :</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$19988.4 \\mathrm{~J}$$\n"
+        },
+        {
+          "key": "B",
+          "value": "$$200 \\mathrm{~J}$$\n"
+        },
+        {
+          "key": "C",
+          "value": "$$1999 \\mathrm{~J}$$\n"
+        },
+        {
+          "key": "D",
+          "value": "$$1.9988 \\mathrm{~kJ}$$\n"
+        }
+      ],
+      "answer": "A",
+      "explanation": "<p>To determine the internal energy change (ΔU) for the reaction at $$300 \\mathrm{~K}$$, we will use the relationship between enthalpy change (ΔH) and internal energy change:</p>\n\n<p>$$\\Delta H = \\Delta U + \\Delta nRT$$</p>\n\n<p>where $$\\Delta H$$ is the enthalpy change, $$\\Delta U$$ is the internal energy change, $$\\Delta n$$ is the change in moles of gas, $$R$$ is the universal gas constant, and $$T$$ is the temperature.</p>\n\n<p>Given:</p>\n\n<ul>\n\n<li>$$\\Delta H = +15 \\mathrm{~kJ} = 15000 \\mathrm{~J}$$</li>\n\n<li>$$T = 300 \\mathrm{~K}$$</li>\n\n<li>$$R = 8.314 \\, \\mathrm{J \\, mol^{-1} \\, K^{-1}}$$</li>\n\n<li>$$\\Delta n = \\text{moles of products} - \\text{moles of reactants}$$</li>\n\n</ul>\n\n<p>From the balanced chemical equation:</p>\n\n<p>$$\\mathrm{A}_2(\\mathrm{~g}) + 3 \\mathrm{B}_2(\\mathrm{~g}) \\rightarrow 2 \\mathrm{AB}_3(\\mathrm{~g})$$</p>\n\n<p>Moles of reactants = 1 (for $$\\mathrm{A}_2$$) + 3 (for $$\\mathrm{B}_2$$) = 4 moles</p>\n\n<p>Moles of products = 2 (for $$\\mathrm{AB}_3$$)</p>\n\n<p>Therefore, $$\\Delta n$$ = 2 (products) - 4 (reactants) = -2</p>\n\n<p>Now, substituting these values into the equation:</p>\n\n<p>$$\\Delta H = \\Delta U + \\Delta nRT$$</p>\n\n<p>$$15000 = \\Delta U + (-2)(8.314)(300)$$</p>\n\n<p>Simplify the equation:</p>\n\n<p>$$15000 = \\Delta U - 4988.4$$</p>\n\n<p>Therefore:</p>\n\n<p>$$\\Delta U = 15000 + 4988.4 = 19988.4 \\mathrm{~J}$$</p>\n\n<p>Hence, the internal energy change is:</p>\n\n<p>Option A: $$19988.4 \\mathrm{~J}$$</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>In which of the following processes entropy increases?</p>\n<p>A. A liquid evaporates to vapour.</p>\n<p>B. Temperature of a crystalline solid lowered from $$130 \\mathrm{~K}$$ to $$0 \\mathrm{~K}$$.</p>\n<p>C. $$2 \\mathrm{NaHCO}_{3(\\mathrm{~s})} \\rightarrow \\mathrm{Na}_2 \\mathrm{CO}_{3(\\mathrm{~s})}+\\mathrm{CO}_{2(\\mathrm{~g})}+\\mathrm{H}_2 \\mathrm{O}_{(\\mathrm{g})}$$</p>\n<p>D. $$\\mathrm{Cl}_{2(g)} \\rightarrow 2 \\mathrm{Cl}_{(g)}$$</p>\n<p>Choose the correct answer from the options given below:</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "A and C\n"
+        },
+        {
+          "key": "B",
+          "value": "A, B and D\n"
+        },
+        {
+          "key": "C",
+          "value": "A, C and D\n"
+        },
+        {
+          "key": "D",
+          "value": "C and D"
+        }
+      ],
+      "answer": "C",
+      "explanation": "<p>The concept of entropy in thermodynamics refers to the degree of randomness or disorder in a system. An increase in entropy is generally associated with processes in which disorder increases. Let's analyze each option listed:</p>\n\n<p><strong>A. A liquid evaporates to vapour.</strong></p>\n\n<p>During the evaporation of a liquid to form a vapour, the molecules of the substance move from a relatively ordered state (liquid) to a more disordered state (vapour). In a vapour, the molecules have more freedom of motion and are less confined than in a liquid. This transition from liquid to vapour increases the randomness or disorder of the system, hence, the entropy increases.</p>\n\n<p><strong>B. Temperature of a crystalline solid lowered from $$130 \\mathrm{~K}$$ to $$0 \\mathrm{~K}$$.</strong></p>\n\n<p>Reducing the temperature of a crystalline solid generally decreases the entropy of the system. As the temperature decreases, the molecular motion within the solid becomes more restricted, leading to a decrease in randomness. At absolute zero ($$0 \\mathrm{~K}$$), the entropy is at its lowest possible value (ideally zero for a perfect crystal), as the molecular motion is minimized to only quantum mechanical vibrations.</p>\n\n<p><strong>C. $$2 \\mathrm{NaHCO}_{3(s)} \\rightarrow \\mathrm{Na}_2 \\mathrm{CO}_{3(s)}+\\mathrm{CO}_{2(g)}+\\mathrm{H}_2 \\mathrm{O}_{(g)}$$</strong></p>\n\n<p>In this chemical reaction, solid sodium bicarbonate decomposes to form solid sodium carbonate, carbon dioxide gas, and water vapor. The formation of gases from a solid significantly increases the entropy of the system because gases have much higher randomness due to their free molecular motion compared to solids.</p>\n\n<p><strong>D. $$\\mathrm{Cl}_{2(g)} \\rightarrow 2 \\mathrm{Cl}_{(g)}$$</strong></p>\n\n<p>The dissociation of chlorine gas ($$\\mathrm{Cl}_2$$) into atomic chlorine ($$\\mathrm{Cl}$$) represents a transition from a diatomic molecule to two separate atoms. This increases the number of particles in the gas phase, leading to increased randomness and disorder, hence, increasing the entropy.</p>\n\n<p><strong>Conclusion:</strong> Based on our analysis, processes A, C, and D involve an increase in entropy, as they each lead to greater disorder or randomness in the system. Option B is incorrect as it wrongly includes lowering the temperature of a solid as increasing entropy. Therefore, the correct answer is:</p>\n\n<p>Option C :</p>\n\n<p>A, C and D</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Match List I with List II.</p>\n<p><style type=\"text/css\">\n.tg  {border-collapse:collapse;border-spacing:0;}\n.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}\n.tg .tg-7btt{border-color:inherit;font-weight:bold;text-align:center;vertical-align:top}\n.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}\n</style>\n<table class=\"tg\" style=\"undefined;table-layout: fixed; width: 574px\">\n<colgroup>\n<col style=\"width: 79px\">\n<col style=\"width: 212px\">\n<col style=\"width: 75px\">\n<col style=\"width: 208px\">\n</colgroup>\n<thead>\n  <tr>\n    <th class=\"tg-7btt\"></th>\n    <th class=\"tg-7btt\">List I<br>(Process)</th>\n    <th class=\"tg-7btt\"></th>\n    <th class=\"tg-7btt\">List II<br>(Conditions)</th>\n  </tr>\n</thead>\n<tbody>\n  <tr>\n    <td class=\"tg-c3ow\">A.</td>\n    <td class=\"tg-0pky\">Isothermal process</td>\n    <td class=\"tg-c3ow\">I.</td>\n    <td class=\"tg-0pky\">No heat exchange</td>\n  </tr>\n  <tr>\n    <td class=\"tg-c3ow\">B.</td>\n    <td class=\"tg-0pky\">Isochoric process</td>\n    <td class=\"tg-c3ow\">II.</td>\n    <td class=\"tg-0pky\">Carried out at constant temperature</td>\n  </tr>\n  <tr>\n    <td class=\"tg-c3ow\">C.</td>\n    <td class=\"tg-0pky\">Isobaric process</td>\n    <td class=\"tg-c3ow\">III.</td>\n    <td class=\"tg-0pky\">Carried out at constant volume</td>\n  </tr>\n  <tr>\n    <td class=\"tg-c3ow\">D.</td>\n    <td class=\"tg-0pky\">Adiabatic process</td>\n    <td class=\"tg-c3ow\">IV.</td>\n    <td class=\"tg-0pky\">Carried out at constant pressure</td>\n  </tr>\n</tbody>\n</table></p>\n<p>Choose the correct answer from the options given below:</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "A-IV, B-III, C-II, D-I\n"
+        },
+        {
+          "key": "B",
+          "value": "A-IV, B-II, C-III, D-I\n"
+        },
+        {
+          "key": "C",
+          "value": "A-I, B-II, C-III, D-IV\n"
+        },
+        {
+          "key": "D",
+          "value": "A-II, B-III, C-IV, D-I"
+        }
+      ],
+      "answer": "D",
+      "explanation": "<p>The question involves matching different thermodynamic processes with their corresponding description or characteristics. Let's analyze these processes:</p>\n\n<ul>\n\n<li><strong>Isothermal process (A)</strong>: This process occurs at a constant temperature. Hence, A should match with \"Carried out at constant temperature\" (II).</li>\n\n<li><strong>Isochoric process (B)</strong>: This process occurs at a constant volume. Therefore, B should be matched with \"Carried out at constant volume\" (III).</li>\n\n<li><strong>Isobaric process (C)</strong>: This process happens at a constant pressure, making C correspond to \"Carried out at constant pressure\" (IV).</li>\n\n<li><strong>Adiabatic process (D)</strong>: During this process, there is no heat exchange with the surroundings. Consequently, D should be paired with \"No heat exchange\" (I).</li>\n\n</ul>\n\n<p>Reviewing the options:</p>\n\n<ul>\n\n<li>Option A: A-IV, B-III, C-II, D-I</li>\n\n<li>Option B: A-IV, B-II, C-III, D-I</li>\n\n<li>Option C: A-I, B-II, C-III, D-IV</li>\n\n<li>Option D: A-II, B-III, C-IV, D-I</li>\n\n</ul>\n\n<p>The correct matches, as elaborated above, are A-II, B-III, C-IV, D-I. Therefore, the correct answer here is <strong>Option D</strong>.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>The work done during reversible isothermal expansion of one mole of hydrogen gas at $$25^{\\circ} \\mathrm{C}$$ from pressure of 20 atmosphere to 10 atmosphere is (Given $$\\mathrm{R}=2.0 \\mathrm{~cal} \\mathrm{~K}^{-1} \\mathrm{~mol}^{-1}$$)</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "0 calorie\n"
+        },
+        {
+          "key": "B",
+          "value": "$$-$$413.14 calories\n"
+        },
+        {
+          "key": "C",
+          "value": "413.14 calories\n"
+        },
+        {
+          "key": "D",
+          "value": "100 calories"
+        }
+      ],
+      "answer": "B",
+      "explanation": "<p>The work done in a reversible isothermal process can be calculated using the formula:</p>\n\n<p>$$ W = -nRT \\ln\\left(\\frac{V_f}{V_i}\\right) $$</p>\n\n<p>Here:</p>\n\n<ul>\n\n<li>$$ W $$ is the work done by the gas.</li>\n\n<li>$$ n $$ is the number of moles of the gas.</li>\n\n<li>$$ R $$ is the universal gas constant.</li>\n\n<li>$$ T $$ is the temperature in Kelvin.</li>\n\n<li>$$ V_i $$ and $$ V_f $$ are the initial and final volumes of the gas, respectively.</li>\n\n</ul>\n\n<p>However, since the volumes are not directly provided but the pressures are given, we use the ideal gas law, $$ PV = nRT $$, to relate pressures and volumes at the same temperature and amount of gas:</p>\n\n<p>For an ideal gas undergoing a change at constant temperature, we can also write the work done in terms of the initial and final pressures:</p>\n\n<p>$$ W = -nRT \\ln\\left(\\frac{P_i}{P_f}\\right) $$</p>\n\n<p>where:</p>\n\n<ul>\n\n<li>$$ P_i $$ and $$ P_f $$ are the initial and final pressures, respectively.</li>\n\n</ul>\n\n<p>Given:</p>\n\n<ul>\n\n<li>$$ n = 1 $$ (one mole of hydrogen)</li>\n\n<li>$$ T = 25^{\\circ} \\mathrm{C} = 25 + 273.15 = 298.15 \\, \\mathrm{K} $$</li>\n\n<li>$$ R = 2.0 \\, \\mathrm{cal} \\, \\mathrm{K}^{-1} \\, \\mathrm{mol}^{-1} $$</li>\n\n<li>$$ P_i = 20 \\, \\mathrm{atm} $$</li>\n\n<li>$$ P_f = 10 \\, \\mathrm{atm} $$</li>\n\n</ul>\n\n<p>Substituting all values into the formula:</p>\n\n<p>$$ W = -1 \\cdot 2.0 \\cdot 298.15 \\ln\\left(\\frac{20}{10}\\right) $$</p>\n\n<p>$$ W = -2.0 \\cdot 298.15 \\cdot \\ln(2) $$</p>\n\n<p>Now, solving this using the value of $$ \\ln(2) \\approx 0.693 $$:</p>\n\n<p>$$ W \\approx -2.0 \\cdot 298.15 \\cdot 0.693 $$</p>\n\n<p>$$ W \\approx -413.14 \\, \\text{calories} $$</p>\n\n<p>Thus, the work done during the process is about $$ -413.14 \\, \\text{calories} $$, indicating that this amount of energy was done by the system (expansion work being done by the gas against external pressure), and hence is negative as it indicates work done by the system. Therefore, the correct option is:</p>\n\n<p>Option B: $$ -413.14 \\, \\text{calories} $$</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Consider the following reaction :-</p>\n<p>$$2 \\mathrm{H}_2(\\mathrm{~g})+\\mathrm{O}_2(\\mathrm{~g}) \\rightarrow 2 \\mathrm{H}_2 \\mathrm{O}(\\mathrm{g}) \\Delta_{\\mathrm{r}} \\mathrm{H}^{\\circ}=-483.64 \\mathrm{~kJ} \\text {. }$$</p>\n<p>What is the enthalpy change for decomposition of one mole of water? (Choose the right option).</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "120.9 kJ"
+        },
+        {
+          "key": "B",
+          "value": "241.82 kJ"
+        },
+        {
+          "key": "C",
+          "value": "18 kJ"
+        },
+        {
+          "key": "D",
+          "value": "100 kJ"
+        }
+      ],
+      "answer": "B",
+      "explanation": "<p>Decomposition for 1 mole of water</p>\n<p>$$\\begin{aligned}\n& \\mathrm{H}_2 \\mathrm{O}(\\mathrm{g}) \\rightarrow \\mathrm{H}_2(\\mathrm{~g})+\\frac{1}{2} \\mathrm{O}_2(\\mathrm{~g}) ; \\Delta \\mathrm{H}=+\\frac{483.64}{2} \\\\\n& \\Delta \\mathrm{H}=+241.82 \\mathrm{~kJ}\n\\end{aligned}$$</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>The equilibrium concentrations of the species in the reaction $$\\mathrm{A}+\\mathrm{B} \\rightleftharpoons \\mathrm{C}+\\mathrm{D}$$ are $$2,3,10$$ and $$6 \\mathrm{~mol}$$ $$\\mathrm{L}^{-1}$$, respectively at $$300 \\mathrm{~K} . \\Delta \\mathrm{G}^{0}$$ for the reaction is $$(\\mathrm{R}=2 \\mathrm{cal} / \\mathrm{mol} ~\\mathrm{K})$$</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$-137.26 ~\\mathrm{cal}$$"
+        },
+        {
+          "key": "B",
+          "value": "$$-1381.80 ~\\mathrm{cal}$$"
+        },
+        {
+          "key": "C",
+          "value": "$$-13.73 ~\\mathrm{cal}$$"
+        },
+        {
+          "key": "D",
+          "value": "$$1372.60 ~\\mathrm{cal}$$"
+        }
+      ],
+      "answer": "B",
+      "explanation": "<p>$$\\mathrm{A}+\\mathrm{B} \\rightleftharpoons \\mathrm{C}+\\mathrm{D}$$</p>\n<p>$$\n\\begin{aligned}\n{[A] } & =2 \\mathrm{~mol} \\mathrm{~L}^{-1} \\\\\n{[B] } & =3 \\mathrm{~mol} \\mathrm{~L}^{-1} \\\\\n{[C] } & =10 \\mathrm{~mol} \\mathrm{~L}^{-1} \\\\\n{[D] } & =6 \\mathrm{~mol} \\mathrm{~L}^{-1} \\\\\n\\Delta \\mathrm{G}^{0} & =-2.303 \\mathrm{RT} \\log \\mathrm{K}_{\\mathrm{eq}} \\\\\n& =-2.303 \\mathrm{RT} \\log \\frac{[\\mathrm{C}][\\mathrm{D}]}{[\\mathrm{A}][\\mathrm{B}]} \\\\\n& =-2.303 \\times 2 \\times 300 \\times \\log \\frac{10 \\times 6}{2 \\times 3} \\\\\n& =-2.303 \\times 2 \\times 300 \\times \\log 10 \\\\\n& =-1381.8 \\mathrm{~cal}\n\\end{aligned}\n$$</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Which amongst the following options is the correct relation between change in enthalpy and change in internal energy?</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$\\Delta \\mathrm{H}=\\Delta \\mathrm{U}+\\Delta \\mathrm{n_g R T}$$"
+        },
+        {
+          "key": "B",
+          "value": "$$\\Delta \\mathrm{H}-\\Delta \\mathrm{U}=-\\Delta \\mathrm{nRT}$$"
+        },
+        {
+          "key": "C",
+          "value": "$$\\Delta \\mathrm{H}+\\Delta \\mathrm{U}=\\Delta \\mathrm{nR}$$"
+        },
+        {
+          "key": "D",
+          "value": "$$\\Delta \\mathrm{H}=\\Delta \\mathrm{U}-\\Delta \\mathrm{n_g R T}$$"
+        }
+      ],
+      "answer": "A",
+      "explanation": "<p>$$\\Delta \\mathrm{H}=\\Delta \\mathrm{U}+\\Delta \\mathrm{n_g R T}$$</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>One mole of an ideal gas at 300 K is expanded isothermally from 1 L to 10 L volume. $$\\Delta$$U for this process is :</p>\n<p>(Use R = 8.314 J k<sup>$$-$$1</sup> mol<sup>$$-$$1</sup>)</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "0 J"
+        },
+        {
+          "key": "B",
+          "value": "1260 J"
+        },
+        {
+          "key": "C",
+          "value": "2520 J"
+        },
+        {
+          "key": "D",
+          "value": "5040 J"
+        }
+      ],
+      "answer": "A",
+      "explanation": "<p>$$\\Delta$$U = nC<sub>v</sub>$$\\Delta$$T</p>\n<p>For isothermal condition; $$\\Delta$$T = 0</p>\n<p>$$\\therefore$$ $$\\Delta$$U = 0</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>A vessel contains 3.2 g of dioxygen gas at STP (273.15 K and 1 atm pressure). The gas is now transferred to another vessel at constant temperature, where pressure becomes one third of the original pressure. The volume of new vessel in L is : (Given : molar volume at STP is 22.4 L)</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "67.2"
+        },
+        {
+          "key": "B",
+          "value": "6.72"
+        },
+        {
+          "key": "C",
+          "value": "2.24"
+        },
+        {
+          "key": "D",
+          "value": "22.4"
+        }
+      ],
+      "answer": "B",
+      "explanation": "<p>At constant temperature and amount</p>\n<p>$${P_1}{V_1} = {P_2}{V_2}$$</p>\n<p>$${P_1}{V_1} = {{{P_1}} \\over 3}{V_2}$$ [$$\\therefore$$ $${P_2} = {{{P_1}} \\over 3}$$]</p>\n<p>$${V_2} = 3{V_1}$$</p>\n<p>mole of $${O_2}(g) = {{3.2} \\over {32}} = 0.1$$ mole</p>\n<p>Volume of $${O_2}(g) = (0.1 \\times 22.4)$$ L = 2.24 L</p>\n<p>At STP (V<sub>1</sub>)</p>\n<p>$${V_2} = 3{V_1} = 3 \\times 2.24$$</p>\n<p>= 6.72 L</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Which one among the following is the correct option for right relationship between C<sub>P</sub> and C<sub>V</sub> for one mole of ideal gas?",
+      "options": [
+        {
+          "key": "A",
+          "value": "C<sub>V</sub> = RC<sub>P</sub>"
+        },
+        {
+          "key": "B",
+          "value": "C<sub>P</sub> + C<sub>V</sub> = R"
+        },
+        {
+          "key": "C",
+          "value": "C<sub>P</sub> $$-$$ C<sub>V</sub> = R"
+        },
+        {
+          "key": "D",
+          "value": "C<sub>P</sub> = RC<sub>V</sub>"
+        }
+      ],
+      "answer": "C",
+      "explanation": "At constant volume, q<sub>V</sub> = C<sub>V</sub>$$\\Delta$$T = $$\\Delta$$U<br><br>At constant pressure, q<sub>P</sub> = C<sub>P</sub>$$\\Delta$$T = $$\\Delta$$H<br><br>For a mole of an ideal gas, <br><br>$$\\Delta$$H = $$\\Delta$$U + $$\\Delta$$(PV)<br><br>= $$\\Delta$$U + $$\\Delta$$(RT)<br><br>= $$\\Delta$$U + R$$\\Delta$$T<br><br>On putting the values of $$\\Delta$$H and $$\\Delta$$U, we have<br><br>C<sub>P</sub>$$\\Delta$$T = C<sub>V</sub>$$\\Delta$$T + R$$\\Delta$$T<br><br>C<sub>P</sub> = C<sub>V</sub> + R<br><br>C<sub>P</sub> $$-$$ C<sub>V</sub> = R"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "For irreversible expansion of an ideal gas under isothermal condition, the correct option is :",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$\\Delta$$U $$\\ne$$ 0, $$\\Delta$$S<sub>total</sub> = 0"
+        },
+        {
+          "key": "B",
+          "value": "$$\\Delta$$U = 0, $$\\Delta$$S<sub>total</sub> = 0"
+        },
+        {
+          "key": "C",
+          "value": "$$\\Delta$$U $$\\ne$$ 0, $$\\Delta$$S<sub>total</sub> $$\\ne$$ 0"
+        },
+        {
+          "key": "D",
+          "value": "$$\\Delta$$U = 0, $$\\Delta$$S<sub>total</sub> $$\\ne$$ 0"
+        }
+      ],
+      "answer": "D",
+      "explanation": "$$\\bullet$$ For a spontaneous process, $$\\Delta$$S<sub>total</sub> &gt; 0 and since irreversible process is always spontaneous therefore $$\\Delta$$S<sub>total</sub> &gt; 0.<br><br>$$\\bullet$$ Since $$\\Delta$$U = nC<sub>V</sub>$$\\Delta$$T and $$\\Delta$$T = 0 for isothermal process therefore $$\\Delta$$U = 0."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Hydrolysis of sucrose is given by the following reaction.<br>Sucrose + H<sub>2</sub>O ⇌\nGlucose + Fructose<br>If the equilibrium constant (K<sub>c</sub>) is 2 $$ \\times $$ 10<sup>13</sup> at 800 K, the value of $$\\Delta r{G^\\Theta }$$\n at the same temperature will be :\n",
+      "options": [
+        {
+          "key": "A",
+          "value": "8.314 J $$mo{l^{ - 1}}{K^{ - 1}} \\times 300K \\times In(2 \\times {10^{13}})$$\n"
+        },
+        {
+          "key": "B",
+          "value": "8.314 J $$mo{l^{ - 1}}{K^{ - 1}} \\times 300K \\times In(3 \\times {10^{13}})$$\n"
+        },
+        {
+          "key": "C",
+          "value": "$$ - $$\n8.314 J $$mo{l^{ - 1}}{K^{ - 1}} \\times 300K \\times In(4 \\times {10^{13}})$$\n"
+        },
+        {
+          "key": "D",
+          "value": "-8.314 J $$mo{l^{ - 1}}{K^{ - 1}} \\times 300K \\times In(2 \\times {10^{13}})$$\n"
+        }
+      ],
+      "answer": "D",
+      "explanation": "$$\\Delta G$$\n = $$\\Delta G$$\n$$^\\circ $$\n + RT ln Q<br><br>At equilibrium $$\\Delta G$$\n = 0, Q = K<sub>eq</sub><br><br>So, $${\\Delta _r}G^\\circ $$\n = $$ - $$\nRT in K<sub>eq</sub><br><br>$${\\Delta _r}G^\\circ $$ = $$ - $$\n8.314 J mol<sup>-1</sup> K<sup>-1</sup> $$ \\times $$ 300K $$ \\times $$ ln (2 $$ \\times $$ 10<sup>13</sup>)\n"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "For the reaction, 2Cl(g) $$ \\to $$ Cl<sub>2</sub>(g), the correct option is :",
+      "options": [
+        {
+          "key": "A",
+          "value": "$${\\Delta _r}H &gt; 0$$\n and $${\\Delta _r}S &lt; 0$$\n"
+        },
+        {
+          "key": "B",
+          "value": "$${\\Delta _r}H &lt; 0$$\n and $${\\Delta _r}S &gt; 0$$\n"
+        },
+        {
+          "key": "C",
+          "value": "$${\\Delta _r}H &lt; 0$$\n and $${\\Delta _r}S &lt; 0$$\n"
+        },
+        {
+          "key": "D",
+          "value": "$${\\Delta _r}H &gt; 0$$\n and $${\\Delta _r}S &gt; 0$$\n"
+        }
+      ],
+      "answer": "C",
+      "explanation": "Given reaction,<br>2Cl(g)$$ \\to $$Cl<sub>2</sub>(g)<br>This is an endothermic reaction because it requires energy to break bonds.<br>So, the reverse reaction is exothermic<br>$${\\Delta _r}H &lt; 0$$\n<br>Also, two gaseous atoms combine together to form 1 gaseous molecule.<br>So, the randomness,<br>$${\\Delta _r}S &lt; 0$$\n"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The correct option for free expansion of an ideal gas under adiabatic condition is :",
+      "options": [
+        {
+          "key": "A",
+          "value": "q = 0, $$\\Delta $$\nT &lt; 0 and w &gt; 0"
+        },
+        {
+          "key": "B",
+          "value": "q &lt; 0, $$\\Delta $$\nT = 0 and w = 0"
+        },
+        {
+          "key": "C",
+          "value": "q &gt; 0, $$\\Delta $$\nT &gt; 0 and w &gt; 0"
+        },
+        {
+          "key": "D",
+          "value": "q = 0, $$\\Delta $$\nT = 0 and w = 0"
+        }
+      ],
+      "answer": "D",
+      "explanation": "Free expansion, so p<sub>ex</sub> = 0<br>So, w = $$ - $$\np<sub>ex</sub>$$\\Delta $$\nV = 0<br>Since, adiabatic process, so q = 0<br>Since both q and w are equal to zero. Then according to first law of thermodynamics $$\\Delta $$\nE = q + w<br>$$\\Delta $$\nU = 0<br>Hence, $$\\Delta $$\nT = 0"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "In which case change in entropy is negative?",
+      "options": [
+        {
+          "key": "A",
+          "value": "Sublimation of solid to gas"
+        },
+        {
+          "key": "B",
+          "value": "2H(g) $$ \\to $$ H<sub>2</sub>(g)"
+        },
+        {
+          "key": "C",
+          "value": "Evaporation of water"
+        },
+        {
+          "key": "D",
+          "value": "Expansion of a gas at temperature"
+        }
+      ],
+      "answer": "B",
+      "explanation": "2H(g) $$ \\to $$ H<sub>2</sub>(g)\n<br><br>Due to bond formation, entropy decreases."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Under isothermal condition, a gas at 300 K expands from 0.1 L to 0.25 L against a constant external pressure\nof 2 bar. The work done by the gas is [Given that 1 L bar = 100 J]",
+      "options": [
+        {
+          "key": "A",
+          "value": "25 J"
+        },
+        {
+          "key": "B",
+          "value": "30 J"
+        },
+        {
+          "key": "C",
+          "value": "-30 J"
+        },
+        {
+          "key": "D",
+          "value": "5 kJ"
+        }
+      ],
+      "answer": "C",
+      "explanation": "W = –P<sub>ext</sub> (V<sub>2</sub>–V<sub>1</sub>)\n<br><br>P<sub>ext</sub> = 2 bar\n<br><br>V<sub>1</sub> = 0.1 L\n<br><br>V<sub>2</sub> = 0.25 L\n<br><br>W = –2 bar[0.25 – 0.1] L\n<br><br>W = –2 × 0.15 bar L\n<br><br>W = –0.30 bar L\n<br><br>W = (–0.30) × 100 = –30 J"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The bond dissociation energies of X<sub>2</sub>\n, Y<sub>2</sub>\n and\nXY are in the ratio of 1 : 0.5 : 1. $$\\Delta $$H for the\nformation of XY is –200 kJ mol<sup>–1</sup>. The bond\ndissociation energy of X<sub>2</sub>\n will be",
+      "options": [
+        {
+          "key": "A",
+          "value": "800 kJ mol<sup>–1</sup>"
+        },
+        {
+          "key": "B",
+          "value": "200 kJ mol<sup>–1</sup>"
+        },
+        {
+          "key": "C",
+          "value": "400 kJ mol<sup>–1</sup>"
+        },
+        {
+          "key": "D",
+          "value": "100 kJ mol<sup>–1</sup>"
+        }
+      ],
+      "answer": "A",
+      "explanation": "Let bond dissociation energies of X<sub>2</sub>\n, Y<sub>2</sub>\n and\nXY are x kJ mol<sup>–1</sup>\n,\n0.5x kJ mol<sup>–1</sup> and x kJ mol<sup>–1</sup> respectively.\n<br><br>$${1 \\over 2}$$X<sub>2</sub> + $${1 \\over 2}$$Y<sub>2</sub> $$ \\to $$ XY; $$\\Delta $$H = -200 kJ mol<sup>-1</sup>\n<br><br>$$\\Delta $$H = Σ(B.E)<sub>Reactant</sub> - Σ(B.E)<sub>Product</sub>\n<br><br>$$ \\Rightarrow $$ -200 = $$\\left[ {{1 \\over 2} \\times x + {1 \\over 2} \\times 0.5x} \\right]$$ -  $$\\left[ {1 \\times x} \\right]$$\n<br><br>On solving, x = 800 kJ mol<sup>–1</sup>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A gas is allowed to expand in a well insulated container against a constant external pressure of 2.5 atm from an initial volume of 2.50 L to a final volume of 4.50 L. The change in internal energy $$\\Delta $$U of the gas in joules will be ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$-$$ 500 J"
+        },
+        {
+          "key": "B",
+          "value": "$$-$$ 505 J"
+        },
+        {
+          "key": "C",
+          "value": "+ 505 J"
+        },
+        {
+          "key": "D",
+          "value": "1136.25 J"
+        }
+      ],
+      "answer": "B",
+      "explanation": "w = - P<sub>ext</sub>$$\\Delta $$V = -2.5(4.50 - 2.50)<br><br>\n$$ \\Rightarrow $$ - 5 L atm = - 5 $$ \\times $$ 1.01.325 J = - 506.625 J<br><br>\n$$\\Delta $$U = q + w<br><br>\nAs, the container is insulted, thus q = 0<br><br>\nHence, $$\\Delta $$U = w = -506.625 J"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "For a given reaction, $$\\Delta $$H = 35.5 kJ mol<sup>$$-$$1</sup> and $$\\Delta $$S = 83.6 J K<sup>$$-$$1</sup> mol<sup>$$-$$1</sup>. The reaction is spontaneous at (Assume that $$\\Delta $$H and $$\\Delta $$S do not vary with temperature.)",
+      "options": [
+        {
+          "key": "A",
+          "value": "T &gt; 425 K"
+        },
+        {
+          "key": "B",
+          "value": "all temperatures "
+        },
+        {
+          "key": "C",
+          "value": "T &gt; 298 K"
+        },
+        {
+          "key": "D",
+          "value": "T &lt; 425 K"
+        }
+      ],
+      "answer": "A",
+      "explanation": "For a spontaneous reaction,<br><br>\n$$\\Delta $$G &lt; 0 i.e. $$\\Delta $$H - T$$\\Delta $$S &lt; 0<br><br>\n$$T &gt; {{\\Delta H} \\over {\\Delta S}}$$<br><br>\n$$T &gt; \\left( {{{35.5 \\times 1000} \\over {83.6}} = 424.6 \\approx 425K} \\right)$$<br><br>\n$$ \\therefore  T &gt; 425\\,K$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "For a sample of perfect gas when its pressure is changed isothermally from p<sub>i</sub> to p<sub>f</sub>, the entropy change is given by",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$\\Delta S = nR\\,\\ln \\left( {{{{p_f}} \\over {{p_i}}}} \\right)$$"
+        },
+        {
+          "key": "B",
+          "value": "$$\\Delta S = nR\\,\\ln \\left( {{{{p_i}} \\over {{p_f}}}} \\right)$$"
+        },
+        {
+          "key": "C",
+          "value": "$$\\Delta S = nRT\\,\\ln \\left( {{{{p_f}} \\over {{p_i}}}} \\right)$$"
+        },
+        {
+          "key": "D",
+          "value": "$$\\Delta S = RT\\,\\ln \\left( {{{{p_i}} \\over {{p_f}}}} \\right)$$"
+        }
+      ],
+      "answer": "B",
+      "explanation": "For an ideal gas undergoing reversible expansion, when temperature changes from T<sub>i</sub> to T<sub>f</sub> and pressure changes from P<sub>i</sub> to P<sub>f</sub>.<br><br>\n$$\\Delta $$S = nC<sub>p</sub> ln $${{{T_f}} \\over {{T_i}}}$$ + nR ln $${{{P_i}} \\over {{P_f}}}$$<br><br>\nFor an isothermal process, T<sub>i</sub> = T<sub>f</sub> so, ln 1 = 0<br><br>\n$$ \\therefore $$ $$\\Delta $$S = nR ln $${{{P_i}} \\over {{P_f}}}$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The heat of combination of carbon to CO<sub>2</sub> is $$-$$393.5 kJ/mol. The heat released upon formation of 35.2 g of CO<sub>2</sub> from carbon and oxygen gas is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "+ 315 kJ"
+        },
+        {
+          "key": "B",
+          "value": "$$-$$630 kJ"
+        },
+        {
+          "key": "C",
+          "value": "$$-$$ 3.15 kJ"
+        },
+        {
+          "key": "D",
+          "value": "$$-$$ 315 kJ"
+        }
+      ],
+      "answer": "D",
+      "explanation": "<p>To determine the heat released when 35.2 g of CO<sub>2</sub> is formed from carbon and oxygen gas, we will follow these steps:</p>\n\n<p><strong>1. Calculate the number of moles of CO<sub>2</sub>:</strong></p>\n\n<p>The molar mass of CO<sub>2</sub> can be calculated as follows:</p>\n\n<p>Carbon (C): 12.01 g/mol<br>\n\n<p>Oxygen (O): 16.00 g/mol</p></p>\n\n<p>So, the molar mass of CO<sub>2</sub> is:</p>\n\n<p>$$12.01 + (16.00 \\times 2) = 12.01 + 32.00 = 44.01 \\, \\text{g/mol}$$</p>\n\n<p>The number of moles of CO<sub>2</sub> in 35.2 g is calculated using:</p>\n\n<p>$$\\text{Number of moles} = \\frac{\\text{Mass}}{\\text{Molar Mass}} = \\frac{35.2 \\, \\text{g}}{44.01 \\, \\text{g/mol}} \\approx 0.8 \\, \\text{moles}$$</p>\n\n<p><strong>2. Calculate the heat released for 0.8 moles of CO<sub>2</sub>:</strong></p>\n\n<p>The heat of combination given is -393.5 kJ/mol. This is the energy released when 1 mole of CO<sub>2</sub> is formed:</p>\n\n<p>$$\\text{Heat released} = \\text{Number of moles} \\times \\text{Heat of combination}$$<br>\n\n<p>$$\\text{Heat released} = 0.8 \\, \\text{moles} \\times -393.5 \\, \\text{kJ/mol} = -314.8 \\, \\text{kJ}$$</p></p>\n\n<p>After rounding, the heat released is approximately -315 kJ.</p>\n\n<p><strong>Answer:</strong> Option D $$-$$ 315 kJ.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Which of the following statements is correct for the spontaneous adsorption of a gas? ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$\\Delta $$S is negative and, therefore $$\\Delta $$H should be highly positive. "
+        },
+        {
+          "key": "B",
+          "value": "$$\\Delta $$S is negative and therefore, $$\\Delta $$H should be highly negative. "
+        },
+        {
+          "key": "C",
+          "value": "$$\\Delta $$S is positive and therefore, $$\\Delta $$H should be negative . "
+        },
+        {
+          "key": "D",
+          "value": "$$\\Delta $$S is positive and therefore, $$\\Delta $$H should also be highly positive. "
+        }
+      ],
+      "answer": "B",
+      "explanation": "Using Gibb's-Helmholtz equation,<br><br>\n$$\\Delta G = \\Delta H - T\\Delta S$$<br><br>\nDuring adsorption of a gas, entropy decreases i.e, $$\\Delta $$S &lt; 0<br><br>\nFor spontaneous adsorption, $$\\Delta $$G should be negative, which is possible when $$\\Delta $$H is highly negative."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "For the reaction, $${X_2}{O_{4\\left( l \\right)}}\\,\\, \\to \\,\\,2X{O_{2(g)}}$$ <br/><br/>\n$$\\Delta $$U = 2.1 kcal, $$\\Delta $$S = 20 cal K<sup>$$-$$1</sup> at 300 K\n<br/><br/>Hence, G is",
+      "options": [
+        {
+          "key": "A",
+          "value": "2.7 kcal"
+        },
+        {
+          "key": "B",
+          "value": "$$-$$ 2.7 kcal"
+        },
+        {
+          "key": "C",
+          "value": "9.3 kcal"
+        },
+        {
+          "key": "D",
+          "value": "$$-$$ 9.3 kcal"
+        }
+      ],
+      "answer": "B",
+      "explanation": "$$\\Delta H = \\Delta U + \\Delta {n_g}RT$$<br><br>\nGiven $$\\Delta U = 2.1\\,kcal,\\,\\Delta {n_g} = 2$$<br><br>\n$$R = 2 \\times {10^{ - 3}}kcal,T = 300K$$<br><br>\n$$ \\therefore $$ $$\\Delta H = 2.1 + 2 \\times 2 \\times {10^{ - 3}} \\times 300 = 3.3\\,kcal$$<br><br>\nAgain, $$\\Delta G = \\Delta H + T\\Delta S$$<br><br>\nGiven $$\\Delta $$S = 20 $$ \\times $$ 10<sup>-3</sup> kcal K<sup>-1</sup><br><br>\nOn putting the values of $$\\Delta $$H and $$\\Delta $$S in the equation, we get<br><br>\n$$\\Delta G = 3.3 - 300 \\times 20 \\times {10^{ - 3}}$$<br><br>\n$$ \\Rightarrow 3.3 - 6 \\times {10^3} \\times {10^{ - 3}} =  - 2.7\\,kcal$$\n"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Three thermochemical equations are given below\n<br>(i)&nbsp;&nbsp;C<sub>(graphite)</sub> + O<sub>2(g)</sub>&nbsp;$$ \\to $$&nbsp;CO<sub>2(g)</sub>;&nbsp;$$\\Delta $$<sub>r</sub>H<sup>o</sup> = x kJ mol<sup>$$-$$1</sup>\n<br>(ii)&nbsp;&nbsp;C<sub>(graphite)</sub> + $${1 \\over 2}$$O<sub>2(g)</sub> $$ \\to $$ CO<sub>(g)</sub>;&nbsp;$$\\Delta $$<sub>r</sub>H<sup>o</sup> = y kJ mol<sup>$$-$$1</sup>\n<br>(iii)&nbsp;&nbsp;CO<sub>(g)</sub> +  $${1 \\over 2}$$O<sub>2(g)</sub>  $$ \\to $$  CO<sub>2(g)</sub>; $$\\Delta $$<sub>r</sub>H<sup>o</sup> = z kJ mol<sup>$$-$$1</sup>\n<br>Based on the above equations, find out which of the relationship given below is correct. ",
+      "options": [
+        {
+          "key": "A",
+          "value": "z = x + y"
+        },
+        {
+          "key": "B",
+          "value": "x = y + z"
+        },
+        {
+          "key": "C",
+          "value": "y = 2z $$-$$ x"
+        },
+        {
+          "key": "D",
+          "value": "x = y $$-$$ z"
+        }
+      ],
+      "answer": "B",
+      "explanation": "According to Hess's law, equation (i) is equal to equations (ii) + (iii)"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "When 5 litres of a gas mixture of methane and propane is perfectly combusted at 0<sup>o</sup>C and 1 atmosphere, 16 litres of oxygen at the same temperature and pressure is consumed, The amount of heat released from this combustion in kJ ($$\\Delta $$H<sub>comb.</sub> (CH<sub>4</sub>) = 890 kJ mol<sup>$$-$$1</sup>, $$\\Delta $$H<sub>comb</sub>. (C<sub>3</sub>H<sub>8</sub>) = 2220 kJ mol<sup>$$-$$1</sup>) is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "38"
+        },
+        {
+          "key": "B",
+          "value": "317"
+        },
+        {
+          "key": "C",
+          "value": "477"
+        },
+        {
+          "key": "D",
+          "value": "32"
+        }
+      ],
+      "answer": "B",
+      "explanation": "CH<sub>4</sub> + 2O<sub>2</sub> $$ \\to $$ CO<sub>2</sub> + 2H<sub>2</sub>O<br><br>\nC<sub>3</sub>H<sub>8</sub> + 5O<sub>2</sub> $$ \\to $$ 3CO<sub>2</sub> + <sub>4H2</sub>O<br><br>\nCH<sub>4</sub> + C<sub>3</sub>H<sub>8</sub> =  $${5 \\over {22.4}} = 0.22$$ moles.<br><br>\n$${O_2} = {{16} \\over {22.4}} = 0.71$$ moles<br><br>\n$$2x + (0.22 \\times x)5 = 0.71$$<br><br>\nx = 0.13<br><br>\nHeat liberated = 0.13 $$ \\times $$ 890 + 0.09 $$ \\times $$ 2220 = 316 kJ"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A reaction having equal energies of activation for forward and reverse reactions has",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$\\Delta $$H = 0"
+        },
+        {
+          "key": "B",
+          "value": "$$\\Delta $$H = $$\\Delta $$G = $$\\Delta $$S = 0"
+        },
+        {
+          "key": "C",
+          "value": "$$\\Delta $$S = 0"
+        },
+        {
+          "key": "D",
+          "value": "$$\\Delta $$G = 0"
+        }
+      ],
+      "answer": "A",
+      "explanation": "For a general reaction,\n<br><br>ΔH = Activation energy of forward reaction –\nActivation energy of backward reaction. \n<br><br>As, both\nthe energies of activation have same value thus, ΔH\n= 0. \n<br><br>$$\\Delta $$G is not equal to zero because if it is so the\nreaction must be in equilibrium which is not in this\ncase"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The enthalpy of fusion of water is 1.435 kcal/mol. The molar entropy change for the melting of ice at 0<sup>o</sup>C is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "10.52 cal/(mol K)"
+        },
+        {
+          "key": "B",
+          "value": "21.04 cal/(mol K)"
+        },
+        {
+          "key": "C",
+          "value": "5.260 cal/(mol K)"
+        },
+        {
+          "key": "D",
+          "value": "0.526 cal/(mol K)"
+        }
+      ],
+      "answer": "C",
+      "explanation": "H<sub>2</sub>O($$l$$) → H<sub>2</sub>O(s)\n<br><br>\t ∆H = 1.435 Kcal/mol\n<br><br> T = 0 + 273K = 273K\n<br><br>$$\\Delta S = {{\\Delta H} \\over T}$$\n<br><br>$$ \\Rightarrow $$ $$\\Delta S = {{1.435} \\over {273}}$$ = 5.26 $$ \\times $$ 10<sup>-3</sup> kcal/mol K\n<br><br>$$ \\Rightarrow $$ $$\\Delta S$$ = 5.260 cal/mol K"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Standard enthalpy of vaporisation $$\\Delta $$<sub>vap</sub>H<sup>o</sup> for water at 100<sup>o</sup>C is 40.66 kJ mol<sup>$$-$$1</sup>. The internal energy of vaporisation of water at 100<sup>o</sup>C (in kJ mol<sup>$$-$$1</sup>) is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "+37.56"
+        },
+        {
+          "key": "B",
+          "value": "$$-$$43.76"
+        },
+        {
+          "key": "C",
+          "value": "+ 43.76"
+        },
+        {
+          "key": "D",
+          "value": "+ 40.66"
+        }
+      ],
+      "answer": "A",
+      "explanation": "H<sub>2</sub>O(l) $$\\buildrel {100^\\circ \\,C} \\over\n \\longrightarrow $$ H<sub>2</sub>O(g)\n<br><br>∆H<sup>o</sup> = 40.66kJ mol<sup>–1</sup>\n<br><br>∆H<sup>o</sup> = ∆u<sup>o</sup> + $$\\Delta $$n<sub>g</sub> RT\n<br><br>$$\\Delta $$n<sub>g</sub> = 1, R = 8.314 × 10<sup>–3</sup> kJ mol<sup>–1</sup> k<sup>–1</sup>\n<br><br>T = 100 + 273 = 373 K\n<br><br>$$ \\Rightarrow $$ 40.66 = ∆u<sup>o</sup> + (1) (8.314 × 10<sup>–3</sup>) × 373\n<br><br>$$ \\Rightarrow $$ ∆u<sup>o</sup> = 37.56 kJ mol<sup>–1</sup>\n"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "In which of the following reactions, standard reaction entropy change ($$\\Delta $$S<sup>o</sup>) is positive and standard Gibb's energy change ($$\\Delta $$G<sup>o</sup>) decreases sharply with increasing temperature ? ",
+      "options": [
+        {
+          "key": "A",
+          "value": "C<sub>(graphite)</sub>  +  $${1 \\over 2}$$O<sub>2(g)</sub>  $$ \\to $$&nbsp;CO<sub>(g)</sub>"
+        },
+        {
+          "key": "B",
+          "value": "CO<sub>(g)</sub>  +  $${1 \\over 2}$$O<sub>2(g)</sub>  $$ \\to $$&nbsp;CO<sub>2(g)</sub>"
+        },
+        {
+          "key": "C",
+          "value": "Mg<sub>(s)</sub>  +  $${1 \\over 2}$$O<sub>2(g)</sub>  $$ \\to $$&nbsp;MgO<sub>(g)</sub>"
+        },
+        {
+          "key": "D",
+          "value": "$${1 \\over 2}$$C<sub>(graphite)</sub>  +  $${1 \\over 2}$$O<sub>2(g)</sub>  $$ \\to $$&nbsp;$${1 \\over 2}$$CO<sub>2(g)</sub>"
+        }
+      ],
+      "answer": "A",
+      "explanation": "$$\\Delta $$S<sup>o</sup> positive means entropy of products is more\nthan that of reactants. Among the given reactions\nonly in option (a) the $$\\Delta $$S<sup>o</sup> is positive cause products\nhas 1 mole of gaseous products CO while reaction\nhave half mole of gaseous O<sub>2</sub> and Carbon (C) in\nsolid state. Thus, reactions have less randomness\nthan products. Also, the reaction is a combustion\nreaction which has a negative value of $$\\Delta $$H.\nAccording to Gibbs energy change ($$\\Delta $$S<sup>o</sup>).\n<br><br>$$\\Delta $$G<sup>o</sup> = $$\\Delta $$H<sup>o</sup> - T$$\\Delta $$S<sup>o</sup>\n<br><br>$$ \\Rightarrow $$ $$\\Delta $$G<sup>o</sup> = -ve - T(+ve)\n<br><br>Thus, on increasing temperature value of $$\\Delta $$G<sup>o</sup>\ndecreases sharply.\n"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Consider the following processes :\n<br><br><style type=\"text/css\">\n.tg  {border-collapse:collapse;border-spacing:0;border:none;}\n.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;}\n.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;}\n.tg .tg-wv9z{font-size:22px;text-align:center}\n</style>\n<table class=\"tg\">\n  <tbody><tr>\n    <th class=\"tg-wv9z\"></th>\n    <th class=\"tg-wv9z\">H (kJ/mol)</th>\n  </tr>\n  <tr>\n    <td class=\"tg-wv9z\">1/2A $$ \\to $$ B</td>\n    <td class=\"tg-wv9z\">+150</td>\n  </tr>\n  <tr>\n    <td class=\"tg-wv9z\">3B&nbsp;&nbsp;$$ \\to $$ 2C + D</td>\n    <td class=\"tg-wv9z\">-125</td>\n  </tr>\n  <tr>\n    <td class=\"tg-wv9z\">E + A&nbsp;&nbsp;$$ \\to $$ 2D</td>\n    <td class=\"tg-wv9z\">+350</td>\n  </tr>\n</tbody></table>\n<br>For B + D $$ \\to $$ E + 2C, $$\\Delta $$H will be",
+      "options": [
+        {
+          "key": "A",
+          "value": "525 kJ/mol"
+        },
+        {
+          "key": "B",
+          "value": "$$-$$175 kJ/mol"
+        },
+        {
+          "key": "C",
+          "value": "$$-$$ 325 kJ/mol"
+        },
+        {
+          "key": "D",
+          "value": "325 kJ/mol"
+        }
+      ],
+      "answer": "B",
+      "explanation": "<table class=\"tg\">\n  <tbody><tr>\n    <th class=\"tg-wv9z\"></th>\n    <th class=\"tg-wv9z\">H (kJ/mol)</th>\n  </tr>\n  <tr>\n    <td class=\"tg-wv9z\">1/2A $$ \\to $$ B</td>\n    <td class=\"tg-wv9z\">+150</td>\n  </tr>\n  <tr>\n    <td class=\"tg-wv9z\">3B&nbsp;&nbsp;$$ \\to $$ 2C + D</td>\n    <td class=\"tg-wv9z\">-125</td>\n  </tr>\n  <tr>\n    <td class=\"tg-wv9z\">E + A&nbsp;&nbsp;$$ \\to $$ 2D</td>\n    <td class=\"tg-wv9z\">+350</td>\n  </tr>\n</tbody></table>\n___________________________________\n<br>&nbsp;&nbsp;&nbsp;B + D $$ \\to $$ E + 2C;\n<br><br>$$\\Delta $$H = (300 - 125 - 350) = - 175 kJ/mol\n"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Which of the following is correct option for free expansion of an ideal gas under adiabatic condition ? ",
+      "options": [
+        {
+          "key": "A",
+          "value": "q = 0, $$\\Delta $$T&nbsp;$$ \\ne $$ 0,  w = 0"
+        },
+        {
+          "key": "B",
+          "value": "q  $$ \\ne $$  0, &nbsp;&nbsp;$$\\Delta $$T  = 0, &nbsp;&nbsp;w  =  0"
+        },
+        {
+          "key": "C",
+          "value": "q  =  0, &nbsp;&nbsp;$$\\Delta $$T  = 0, &nbsp;&nbsp;w  =  0"
+        },
+        {
+          "key": "D",
+          "value": "q  = 0,&nbsp;&nbsp;$$\\Delta $$T &lt; 0,  w  $$ \\ne $$  0"
+        }
+      ],
+      "answer": "C",
+      "explanation": "For adiabatic condition, change in heat does\nnot take place thus, q = 0. \n<br><br>If q = 0 then change in\ntemperature does not take place thus, $$\\Delta $$T = 0.\n<br><br> Also\nfor a free expansion of ideal gas work done, W = 0\nas there is no external pressure on it."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Enthalpy change for the reaction, \n<br>4H<sub>(g)</sub>&nbsp;&nbsp;$$ \\to $$&nbsp;&nbsp;2H<sub>2(g)</sub>  is $$-$$869.6 kJ\n<br>The dissociation energy of H $$-$$ H bond is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "434.8 kJ"
+        },
+        {
+          "key": "B",
+          "value": "$$-$$ 869.6 kJ"
+        },
+        {
+          "key": "C",
+          "value": "+ 434.8 kJ"
+        },
+        {
+          "key": "D",
+          "value": "+ 217.4 kJ"
+        }
+      ],
+      "answer": "C",
+      "explanation": "4H(g) → 2H<sub>2</sub>(g), &nbsp;&nbsp;&nbsp;∆H = – 869.6 kJ\n<br><br>Reverse the above equation\n<br><br>2H<sub>2</sub>(g) → 4H(g), &nbsp;&nbsp;&nbsp;∆H = + 869.6 kJ\n<br><br>Divide the above equation by 2,\n<br><br>H<sub>2</sub>(g) → 2H(g), $$\\Delta H = {{869.6} \\over 2}$$ kJ = 434.8 kJ"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "If the enthalpy change for the transition of liquid water to steam is 30 kJ mol<sup>$$-$$1</sup> at 27<sup>o</sup>C, the entropy change for the process would be ",
+      "options": [
+        {
+          "key": "A",
+          "value": "10 J mol<sup>$$-$$1</sup> K<sup>$$-$$1</sup>"
+        },
+        {
+          "key": "B",
+          "value": "1.0 J mol<sup>$$-$$1</sup> K<sup>$$-$$1</sup>"
+        },
+        {
+          "key": "C",
+          "value": "0.1 J mol<sup>$$-$$1</sup> K<sup>$$-$$1</sup>"
+        },
+        {
+          "key": "D",
+          "value": "100 J mol<sup>$$-$$1</sup> K<sup>$$-$$1</sup>"
+        }
+      ],
+      "answer": "D",
+      "explanation": "H<sub>2</sub>O(l) $$\\buildrel {300K} \\over\n \\longrightarrow $$ H<sub>2</sub>O(g)\n<br><br>∆H = 30 kJ mol<sup>–1</sup>\n<br><br>$$\\Delta S = {{\\Delta H} \\over T}$$ = $${{30 \\times {{10}^3}} \\over {300}}$$\n<br><br>= 100 J mol<sup>–1</sup> K<sup>–1</sup>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Match List I (Equations) with List II (Type of processes) and select the correct option. \n<br><br><style type=\"text/css\">\n.tg  {border-collapse:collapse;border-spacing:0;border:none;}\n.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;}\n.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;}\n.tg .tg-13k7{font-size:20px;text-align:left}\n.tg .tg-bzci{font-size:20px;text-align:center;vertical-align:top}\n.tg .tg-4kyz{font-size:20px;text-align:center}\n.tg .tg-60hs{font-size:20px;text-align:left;vertical-align:top}\n</style>\n<table class=\"tg\">\n  <tbody><tr>\n    <th class=\"tg-4kyz\" colspan=\"2\">List I</th>\n    <th class=\"tg-bzci\" colspan=\"2\">List II</th>\n  </tr>\n  <tr>\n    <td class=\"tg-4kyz\" colspan=\"2\">Equations</td>\n    <td class=\"tg-bzci\" colspan=\"2\">Type of processes</td>\n  </tr>\n  <tr>\n    <td class=\"tg-13k7\">A.</td>\n    <td class=\"tg-4kyz\">K<sub>p</sub> &gt; Q</td>\n    <td class=\"tg-60hs\">(i)</td>\n    <td class=\"tg-bzci\">Non- spontaneous</td>\n  </tr>\n  <tr>\n    <td class=\"tg-13k7\">B.</td>\n    <td class=\"tg-4kyz\">$$\\Delta $$G<sup>o</sup> &lt; RT ln Q</td>\n    <td class=\"tg-60hs\">(ii)</td>\n    <td class=\"tg-bzci\">Equilibrium</td>\n  </tr>\n  <tr>\n    <td class=\"tg-60hs\">C.</td>\n    <td class=\"tg-bzci\">K<sub>p</sub> = Q</td>\n    <td class=\"tg-60hs\">(iii)</td>\n    <td class=\"tg-bzci\">Spontaneous and<br> endothermic</td>\n  </tr>\n  <tr>\n    <td class=\"tg-60hs\">D.</td>\n    <td class=\"tg-bzci\">T &gt; $${{\\Delta H} \\over {\\Delta S}}$$</td>\n    <td class=\"tg-60hs\">(iv)</td>\n    <td class=\"tg-bzci\">Spontaneous</td>\n  </tr>\n</tbody></table>",
+      "options": [
+        {
+          "key": "A",
+          "value": "A - (i), B - (ii), C - (iii), D - (iv)"
+        },
+        {
+          "key": "B",
+          "value": "A - (iii), B - (iv), C - (ii), D - (i)"
+        },
+        {
+          "key": "C",
+          "value": "A - (iv), B - (i), C - (ii), D - (iii)"
+        },
+        {
+          "key": "D",
+          "value": "A - (ii), B - (i), C - (iv), D - (iii)"
+        }
+      ],
+      "answer": "C",
+      "explanation": "When K<sub>p</sub> &gt; Q, rate of forward reaction &gt; rate of backward reaction.\n<br><br>$$ \\therefore $$ Reaction is spontaneous.\n<br><br>When $$\\Delta $$G<sup>o</sup> &lt; RT ln Q, $$\\Delta $$G<sup>o</sup>  is positive, reverse reaction is feasible, thus reaction is non spontaneous.\n<br><br>When K<sub>p</sub> = Q, rate of forward reaction &gt; rate of backward reaction.\n<br><br>$$ \\therefore $$ Reaction is in equilibrium.\n<br><br>When T$$\\Delta $$S &gt; $$\\Delta $$H, $$\\Delta $$G will be negative only when $$\\Delta $$H = +ve.\n<br><br>$$ \\therefore $$ Reaction is spontaneous and endothermic."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Three moles of an ideal gas expanded spontaneously into vacuum. The work done will be",
+      "options": [
+        {
+          "key": "A",
+          "value": "infinite"
+        },
+        {
+          "key": "B",
+          "value": "3 Joules"
+        },
+        {
+          "key": "C",
+          "value": "9 Joules"
+        },
+        {
+          "key": "D",
+          "value": "zero"
+        }
+      ],
+      "answer": "D",
+      "explanation": "Since the ideal gas expands spontaneously into vacuum,, P<sub>ext</sub> = 0.\n<br><br>$$ \\therefore $$ Work done is also zero."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "For vaporization of water at 1 atmospheric pressure, the values of $$\\Delta $$H and $$\\Delta $$S are 40.63 kJ mol<sup>$$-$$1</sup> and 108.8 J K<sup>$$-$$1</sup> mol<sup>$$-$$1</sup>, respectively. The temperature when Gibb's energy change ($$\\Delta $$G) for this transformation will be zero, is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "273.4 K"
+        },
+        {
+          "key": "B",
+          "value": "393.4 K"
+        },
+        {
+          "key": "C",
+          "value": "373.4 K"
+        },
+        {
+          "key": "D",
+          "value": "293.4 K"
+        }
+      ],
+      "answer": "C",
+      "explanation": "We know, from Gibb's equation,\n<br><br>$$\\Delta $$G = $$\\Delta $$H – T$$\\Delta $$S\n<br><br>When $$\\Delta $$G = 0, $$\\Delta $$H = T$$\\Delta $$S\n<br><br>$$ \\therefore $$ $$T = {{\\Delta H} \\over {\\Delta S}}$$ = $${{40.63 \\times {{10}^3}} \\over {108.8}}$$ = 373.4 K"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The following two reactions are known \n<br><br>Fe<sub>2</sub>O<sub>3(s)</sub> + 3CO<sub>(g)</sub> $$ \\to $$ 2Fe<sub>(s)</sub> + 3CO<sub>2(g)</sub>;\n$$\\Delta $$H = $$-$$ 26.8 kJ\n<br><br>FeO<sub>(s)</sub>  +  CO(g)  $$ \\to $$&nbsp;&nbsp;Fe<sub>(s)</sub> + CO<sub>2(g)</sub>; $$\\Delta $$H = $$-$$ 16.5 kJ\n<br><br>The value of $$\\Delta $$H for the following reaction \n<br><br>Fe<sub>2</sub>O<sub>3(s)</sub> + CO<sub>(g)</sub>  $$ \\to $$&nbsp;&nbsp;2FeO<sub>(s)</sub> + CO<sub>2(g)</sub> is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "+ 10.3 kJ"
+        },
+        {
+          "key": "B",
+          "value": "$$-$$ 43.3 kJ"
+        },
+        {
+          "key": "C",
+          "value": "$$-$$ 10.3 kJ"
+        },
+        {
+          "key": "D",
+          "value": "+ 6.2 kJ"
+        }
+      ],
+      "answer": "D",
+      "explanation": "Given\n<br><br>Fe<sub>2</sub>O<sub>3(s)</sub> + 3CO<sub>(g)</sub> $$ \\to $$ 2Fe<sub>(s)</sub> + 3CO<sub>2(g)</sub>;\n$$\\Delta $$H = $$-$$ 26.8 kJ .....(1)\n<br><br>FeO<sub>(s)</sub>  +  CO(g)  $$ \\to $$&nbsp;&nbsp;Fe<sub>(s)</sub> + CO<sub>2(g)</sub>; $$\\Delta $$H = $$-$$ 16.5 kJ .....(2)\n<br><br>Fe<sub>2</sub>O<sub>3(s)</sub> + CO<sub>(g)</sub>  $$ \\to $$&nbsp;&nbsp;2FeO<sub>(s)</sub> + CO<sub>2(g)</sub>, $$\\Delta $$H = ? ....(3)\n<br><br>Equation (3) can be calculated as :\n<br><br>(1) - 2(2)\n<br><br>$$ \\therefore $$ $$\\Delta $$H =  –26.8 + 33.0 = +6.2 kJ"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Standard entropies of X<sub>2</sub>, Y<sub>2</sub> and XY<sub>3</sub>  are 60, 40 and 50 J K<sup>$$-$$1</sup> mol<sup>$$-$$1</sup> respectively. For the reaction \n<br><br>1/2X<sub>2</sub> + 3/2Y<sub>2</sub> $$\\rightleftharpoons$$ XY<sub>3</sub>,  $$\\Delta $$H = $$-$$ 30 kJ, \n<br><br>to be at equilibrium, the temperature should be",
+      "options": [
+        {
+          "key": "A",
+          "value": "750 K"
+        },
+        {
+          "key": "B",
+          "value": "1000 K"
+        },
+        {
+          "key": "C",
+          "value": "1250 K"
+        },
+        {
+          "key": "D",
+          "value": "500 K"
+        }
+      ],
+      "answer": "A",
+      "explanation": "Given reaction is :\n<br><br>$${1 \\over 2}$$X<sub>2</sub> + $${3 \\over 2}$$Y<sub>2</sub> ⇌ XY<sub>3</sub>\n<br><br>We know,\n<br><br>$$\\Delta $$S<sup>o</sup> = $$\\sum {S_{products}^o}  - \\sum {S_{reac\\tan ts}^o} $$\n<br><br>= 50 - (30 + 60) = -40 J K<sup>-1</sup> mol<sup>-1</sup>\n<br><br>At equilibrium $$\\Delta $$G<sup>o</sup> = 0\n<br><br>$$\\Delta $$H<sup>o</sup> = T$$\\Delta $$S<sup>o</sup>\n<br><br>$$ \\therefore $$ $$T = {{\\Delta {H^o}} \\over {\\Delta {S^o}}}$$ = $${{ - 30 \\times {{10}^3}} \\over { - 40}}$$ = 750 K"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The values of $$\\Delta $$H and $$\\Delta $$S for the reaction, \n<br><br>C<sub>(graphite)</sub> + CO<sub>2</sub>(g)  $$ \\to $$&nbsp;&nbsp;2CO<sub>(g)</sub>\n<br><br>are 170 kJ and 170 J K<sup>$$-$$1</sup>, respectively. This reaction will be spontaneous at",
+      "options": [
+        {
+          "key": "A",
+          "value": "910 K"
+        },
+        {
+          "key": "B",
+          "value": "1110 K"
+        },
+        {
+          "key": "C",
+          "value": "510 K"
+        },
+        {
+          "key": "D",
+          "value": "710 K"
+        }
+      ],
+      "answer": "B",
+      "explanation": "We know, $$\\Delta $$G = $$\\Delta $$H – T$$\\Delta $$S\n<br><br>For reaction to be spontaneous,  $$\\Delta $$G &lt; 0\n<br><br>$$ \\Rightarrow $$ $$\\Delta $$H – T$$\\Delta $$S &lt; 0\n<br><br>$$ \\Rightarrow $$ 170 $$ \\times $$ 10<sup>3</sup> - T(170) &lt; 0\n<br><br>$$ \\Rightarrow $$ T &gt; 1000 K\n<br><br>Among the given temperatures, only 1110 K is\ngreater than 1000 K thus, at this temperate the reaction will be spontaneous."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Bond dissociation enthalpy of H<sub>2</sub>, Cl<sub>2</sub> and HCl are 434, 242 and 431 kJ mol<sup>$$-$$1</sup> respectively. Enthalpy of formation of HCl is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$-$$ 93 kJ mol<sup>$$-$$1</sup>"
+        },
+        {
+          "key": "B",
+          "value": "245 kJ mol<sup>$$-$$1</sup>"
+        },
+        {
+          "key": "C",
+          "value": "93 kJ mol<sup>$$-$$1</sup>"
+        },
+        {
+          "key": "D",
+          "value": "$$-$$ 245 kJ mol<sup>$$-$$1</sup>"
+        }
+      ],
+      "answer": "A",
+      "explanation": "$${1 \\over 2}$$H<sub>2</sub> + $${1 \\over 2}$$Cl<sub>2</sub> $$ \\to $$ HCl, $$\\Delta $$H<sub>f</sub> = ?\n<br><br>$$\\Delta $$H<sub>reaction</sub> = [ $${1 \\over 2}$$(B.E)<sub>H<sub>2</sub></sub> + $${1 \\over 2}$$(B.E)<sub>Cl<sub>2</sub></sub>] - (B.E)<sub>HCl</sub>\n<br><br>= [217 + 121] – 431\n<br><br>= 338 – 431 = – 93 kJ mol<sup>–1</sup>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "For the gas phase reaction, \n<br><br>PCl<sub>5(g)</sub>&nbsp;&nbsp;$$\\rightleftharpoons$$ PCl<sub>3(g)</sub> + Cl<sub>2(g)</sub>\n<br><br>which of the following conditions are correct ? ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$\\Delta $$H &lt; 0  and  $$\\Delta $$S  &lt; 0"
+        },
+        {
+          "key": "B",
+          "value": "$$\\Delta $$H &gt; 0  and  $$\\Delta $$S &lt; 0"
+        },
+        {
+          "key": "C",
+          "value": "$$\\Delta $$H  = 0  and $$\\Delta $$S &lt; 0"
+        },
+        {
+          "key": "D",
+          "value": "$$\\Delta $$H &gt; 0  and  $$\\Delta $$S  &gt; 0"
+        }
+      ],
+      "answer": "D",
+      "explanation": "$$\\Delta $$H = $$\\Delta $$E + $$\\Delta $$n<sub>g</sub>RT\n<br><br>$$\\Delta $$n<sub>g</sub> = (1 + 1) – (1) = 1\n<br><br>$$ \\Rightarrow $$ $$\\Delta $$H = $$\\Delta $$E + RT\n<br><br>Thus, $$\\Delta $$H is a positive quantity i.e., ∆H &gt; 0. Now\none mole of gaseous reactant dissociate into two\nmoles of gaseous products thus, entropy increases\ni.e., $$\\Delta $$S &gt; 0."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Which of the following are not state functions ? \n<br>(I)&nbsp;q + w&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(II)&nbsp;q\n<br>(III)&nbsp;w&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(IV)&nbsp;H $$-$$ TS",
+      "options": [
+        {
+          "key": "A",
+          "value": "(I), (II) and (III)"
+        },
+        {
+          "key": "B",
+          "value": "(II) and (III)"
+        },
+        {
+          "key": "C",
+          "value": "(I) and (IV)"
+        },
+        {
+          "key": "D",
+          "value": "(II), (III) and (IV)"
+        }
+      ],
+      "answer": "B",
+      "explanation": "Enthalpy (H = q + W) and Gibbs energy, (G\n= H –TS) are state functions which depend only on\nthe initial and final states of system. <br><br>While, heat (q)\nand work done (W) are the path function which\ndepends on the path followed in bringing the\nchange between two states of the system.\n"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Consider the following reactions : \n<br>(i)&nbsp;H<sup>+</sup><sub>(aq)</sub> + OH<sup>$$-$$</sup><sub>(aq)</sub> = H<sub>2</sub>O<sub>(l)</sub>,&nbsp;&nbsp;$$\\Delta $$H = $$-$$ X<sub>1</sub> kJ mol<sup>$$-$$1</sup>\n<br>(ii)&nbsp;H<sub>2(g)</sub> + 1/2O<sub>2(g)</sub>  = H<sub>2</sub>O<sub>(l)</sub>, &nbsp;&nbsp;$$\\Delta $$H = $$-$$ X<sub>2</sub> kJ mol<sup>$$-$$1</sup>\n<br>(iii)&nbsp;CO<sub>2(g)</sub> + H<sub>2(g)</sub> = CO<sub>(g)</sub> + H<sub>2</sub>O<sub>(l)</sub>,&nbsp;&nbsp;$$\\Delta $$H = $$-$$ X<sub>3</sub> kJ mol<sup>$$-$$1</sup>\n<br>(iv)&nbsp;C<sub>2</sub>H<sub>2(g)</sub> + 5/2O<sub>2(g)</sub> = 2CO<sub>2(g)</sub> + H<sub>2</sub>O<sub>(l)</sub>, &nbsp;&nbsp;&nbsp;$$\\Delta $$H = +X<sub>4</sub> kJ mol<sup>$$-$$1</sup>\n<br><br>Enthalpy of formation of H<sub>2</sub>O<sub>(l)</sub> is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "+X<sub>3</sub> kJ mol<sup>$$-$$1</sup>"
+        },
+        {
+          "key": "B",
+          "value": "$$-$$X<sub>4</sub> kJ mol<sup>$$-$$1</sup>"
+        },
+        {
+          "key": "C",
+          "value": "+X<sub>1</sub> kJ mol<sup>$$-$$1</sup>"
+        },
+        {
+          "key": "D",
+          "value": "$$-$$X<sub>2</sub> kJ mol<sup>$$-$$1</sup>"
+        }
+      ],
+      "answer": "D",
+      "explanation": "Chemical equation for the formation of H<sub>2</sub>O(l)\n is\n<br><br>H<sub>2(g)</sub> + 1/2O<sub>2(g)</sub>  = H<sub>2</sub>O<sub>(l)</sub>\n<br><br>Because enthalpy of formation of a compound is\nthe heat absorbed or released when one mole of this\nsubstance is formed from its constituent elements.\n<br><br>Thus, enthalpy of formation of H<sub>2</sub>O is –X<sub>2</sub> kJ mol<sup>–1</sup>\nwhere negative sign shows that the reaction is\nexothermic.\n<br><br>Equation (i) represents nutralisation reaction.\n<br><br>Equation (iii) represents hydrogenation reaction.\n<br><br>Equation (iv) represents combustion reaction."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Given that bond energies of H $$-$$ H and Cl $$-$$ Cl are 430 kJ mol<sup>$$-$$1</sup> and 240 kJ mol<sup>$$-$$1</sup> respectively and $$\\Delta $$H<sub>f</sub> for HCl is $$-$$ 90 kJ mol<sup>$$-$$1</sup>, bond enthalpy of HCl is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "380 kJ mol<sup>$$-$$1</sup>"
+        },
+        {
+          "key": "B",
+          "value": "425 kJ mol<sup>$$-$$1</sup>"
+        },
+        {
+          "key": "C",
+          "value": "245 kJ mol<sup>$$-$$1</sup>"
+        },
+        {
+          "key": "D",
+          "value": "290 kJ mol<sup>$$-$$1</sup>"
+        }
+      ],
+      "answer": "B",
+      "explanation": "$${1 \\over 2}$$H<sub>2</sub> + $${1 \\over 2}$$Cl<sub>2</sub> $$ \\to $$ HCl\n<br><br>$$\\Delta $$H<sub>f</sub>\n = –90 kJ mol<sup>–1</sup>\n<br><br>$$ \\Rightarrow $$ $$\\Delta $$H<sub>f</sub> = [ $${1 \\over 2}$$(B.E)<sub>H<sub>2</sub></sub> + $${1 \\over 2}$$(B.E)<sub>Cl<sub>2</sub></sub>] - (B.E)<sub>HCl</sub>\n<br><br>$$ \\Rightarrow $$ -90 = [ $${1 \\over 2}$$(430)<sub>H<sub>2</sub></sub> + $${1 \\over 2}$$(240)<sub>Cl<sub>2</sub></sub>] - (B.E)<sub>HCl</sub>\n<br><br>$$ \\Rightarrow $$ -90 = [215 + 120] - (B.E)<sub>HCl</sub>\n<br><br>$$ \\Rightarrow $$ (B.E)<sub>HCl</sub> =  425 kJ mol<sup>–1</sup>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Assume each reaction is carried out in an open container. For which reaction will $$\\Delta $$H = $$\\Delta $$E ? ",
+      "options": [
+        {
+          "key": "A",
+          "value": "2CO<sub>(g)</sub> + O<sub>2(g)</sub>  $$ \\to $$&nbsp;&nbsp;2CO<sub>2(g)</sub>"
+        },
+        {
+          "key": "B",
+          "value": "H<sub>2(g)</sub> + Br<sub>2(g)</sub> $$ \\to $$&nbsp;2HBr<sub>(g)</sub>"
+        },
+        {
+          "key": "C",
+          "value": "C<sub>(s)</sub> + 2H<sub>2</sub>O<sub>(g)</sub> $$ \\to $$&nbsp;2H<sub>2(g)</sub> + CO<sub>2(g)</sub>"
+        },
+        {
+          "key": "D",
+          "value": "PCl<sub>5(g)</sub> $$ \\to $$ PCl<sub>3(g)</sub>  + Cl<sub>2(g)</sub>"
+        }
+      ],
+      "answer": "B",
+      "explanation": "We know that\n<br><br>$$\\Delta $$H = $$\\Delta $$E + $$\\Delta $$n<sub>g</sub>RT\n<br><br>In the reaction, H<sub>2</sub>(g) + Br<sub>2</sub>(g) $$ \\to $$ 2HBr(g)\n<br><br>$$\\Delta $$n<sub>g</sub> = 2 - (1 + 1) = 0\n<br><br>So, $$\\Delta $$H = $$\\Delta $$E for this reaction."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Identify the correct statement for change of Gibb's energy for a system ($$\\Delta $$G<sub>system</sub>) at constant temperature and pressure. ",
+      "options": [
+        {
+          "key": "A",
+          "value": "If $$\\Delta $$G<sub>system</sub>&nbsp;&lt;&nbsp;0, the process is not spontaneous. "
+        },
+        {
+          "key": "B",
+          "value": "If $$\\Delta $$G<sub>system</sub> &gt; 0, the process is spontaneous. "
+        },
+        {
+          "key": "C",
+          "value": "If $$\\Delta $$G<sub>system</sub> = 0,  the system has attained equilibrium. "
+        },
+        {
+          "key": "D",
+          "value": "If $$\\Delta $$G<sub>system</sub> = 0, the system is till moving in a particular direction. "
+        }
+      ],
+      "answer": "C",
+      "explanation": "$$\\Delta $$G<sub>system</sub> &lt; 0, process is spontaneous.\n<br><br>$$\\Delta $$G<sub>system</sub> = 0, process is in equilibrium.\n<br><br>$$\\Delta $$G<sub>system</sub> &gt; 0, process is not spontaneous."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The enthalpy and entropy change for the reaction: \n<br>Br<sub>2(l)</sub> + Cl<sub>2(g)</sub>  $$ \\to $$  2BrCl<sub>(g)</sub>\n<br>are 30 kJ mol<sup>$$-$$1</sup> and 105 J K<sup>$$-$$1</sup> mol<sup>$$-$$1</sup> respectively.\n<br>The temperature at which the reaction will be in equilibrium is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "300 K"
+        },
+        {
+          "key": "B",
+          "value": "285.7 K"
+        },
+        {
+          "key": "C",
+          "value": "273 K"
+        },
+        {
+          "key": "D",
+          "value": "450 K"
+        }
+      ],
+      "answer": "B",
+      "explanation": "$$\\Delta $$G = $$\\Delta $$H – T$$\\Delta $$S\n<br><br>Now, at equilibrium $$\\Delta $$G = 0\n<br><br>0 = $$\\Delta $$H – T$$\\Delta $$S\n<br><br>$$ \\Rightarrow $$ 0 = 30000 –T (105)\n<br><br>$$ \\Rightarrow $$ T = $${{30000} \\over {105}}$$ = 285.7 K"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The absolute enthalpy of neutralisation of the reaction : \n<br><br>Mg(O)<sub>(s)</sub> + 2HCl<sub>(aq)</sub> $$ \\to $$ MgCl<sub>2(aq)</sub> + H<sub>2</sub>O<sub>(l)</sub>  will be ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$-$$57.33 kJ mol<sup>$$-$$1</sup>"
+        },
+        {
+          "key": "B",
+          "value": "greater than $$-$$ 57.33 kJ mol<sup>$$-$$1</sup>"
+        },
+        {
+          "key": "C",
+          "value": "less than $$-$$ 57.33 kJ mol<sup>$$-$$1</sup>"
+        },
+        {
+          "key": "D",
+          "value": "57.33 kJ mol<sup>$$-$$1</sup>"
+        }
+      ],
+      "answer": "C",
+      "explanation": "We know that enthalpy of neutralization of a strong acid\nand a strong base is –57.33 kJ mol<sup>–1</sup>.\n<br><br> Here, MgO\nis the weak base and HCl is a strong acid thus, a\nsmall amount of energy is used in the ionization\nof MgO thus, the heat of neutralization decreases.\nTherefore, enthalpy of neutralization is less than\n– 57.33 kJ mol<sup>–1</sup>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A reaction occurs spontaneously if ",
+      "options": [
+        {
+          "key": "A",
+          "value": "T$$\\Delta $$S &lt; $$\\Delta $$H  and  both $$\\Delta $$H  and  $$\\Delta $$S  are +ve"
+        },
+        {
+          "key": "B",
+          "value": "T$$\\Delta $$S &gt; $$\\Delta $$H  and  $$\\Delta $$H  is +ve   and  $$\\Delta $$S  are $$-$$ve"
+        },
+        {
+          "key": "C",
+          "value": "T$$\\Delta $$S &gt; $$\\Delta $$H  and  both $$\\Delta $$H  and  $$\\Delta $$S  are +ve"
+        },
+        {
+          "key": "D",
+          "value": "T$$\\Delta $$S = $$\\Delta $$H  and  both $$\\Delta $$H  and  $$\\Delta $$S  are +ve"
+        }
+      ],
+      "answer": "C",
+      "explanation": "$$\\Delta $$G = $$\\Delta $$H – T$$\\Delta $$S\n<br><br>For spontaneous reaction, $$\\Delta $$G has to be negative.\n<br><br>Among the given options, it is positive only when\nT$$\\Delta $$S &gt; $$\\Delta $$H and both $$\\Delta $$H and $$\\Delta $$S are +ve ."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Which of the following pairs of a chemical reaction is certain to result in a spontaneous reaction ? ",
+      "options": [
+        {
+          "key": "A",
+          "value": "Exothermic and increasing disorder"
+        },
+        {
+          "key": "B",
+          "value": "Exothermic and decreasing disorder "
+        },
+        {
+          "key": "C",
+          "value": "Endothermic and increasing disorder "
+        },
+        {
+          "key": "D",
+          "value": "Endothermic and decreasing disorder"
+        }
+      ],
+      "answer": "A",
+      "explanation": "$$\\Delta $$G = $$\\Delta $$H – T$$\\Delta $$S\n<br><br>For a reaction to become spontaneous, $$\\Delta $$G must be\nnegative.\n<br><br>For case (a) exothermic and increasing disorder\n<br><br>For exothermic reaction,\n<br><br>$$\\Delta $$H = –ve\nand increasing disorder,\n<br><br>$$\\Delta $$S = +ve\n<br><br>$$\\Delta $$G = –ve –T(+ve)\n<br><br>Thus, $$\\Delta $$G is negative for all temperature range\n<br><br>For case (b) exothermic and decreasing disorder\nFor exothermic reaction, $$\\Delta $$H = –ve and for\ndecreasing disorder,\n<br><br>$$\\Delta $$S = –ve\n<br><br>$$ \\Rightarrow $$ $$\\Delta $$G = –ve – T(–ve)\n<br><br>Thus, $$\\Delta $$G is not negative for all temperature range.\n\n\n<br><br>For case (c) endothermic and increasing disorder.\nFor endothermic reaction, $$\\Delta $$H = +ve and increasing\ndisorder,\n<br><br>$$\\Delta $$S = +ve\n<br><br>Thus, $$\\Delta $$G is not negative for all temperature range.\n<br><br>For case (d) endothermic and decreasing disorder\n<br><br>For endothermic reaction,\n<br><br>$$\\Delta $$H = +ve\nand decreasing disorder,\n<br><br>$$\\Delta $$S = –ve\n<br><br>$$\\Delta $$G = +ve – T (–ve)\n<br><br>Thus, $$\\Delta $$G is positive for all temperature range."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The work done during the expansion of a gas from a volume of 4 dm<sup>3</sup> to 6 dm<sup>3</sup> against a constant external pressure of 3 atm is (1 L atm = 101.32 J)",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$-$$ 6 J"
+        },
+        {
+          "key": "B",
+          "value": "$$-$$ 608 J"
+        },
+        {
+          "key": "C",
+          "value": "+ 304 J"
+        },
+        {
+          "key": "D",
+          "value": "$$-$$ 304 J"
+        }
+      ],
+      "answer": "B",
+      "explanation": "Work done during the expansion, W = – pdV\n<br><br>W = –3 atm (6 dm<sup>3</sup>\n – 4 dm<sup>3</sup>)\n<br><br> = – 3 atm ( 2 dm<sup>3</sup>\n) (1 dm<sup>3</sup>\n = 1 L)\n<br><br> = – 3 atm × 2 L\n<br><br> = – 6 L atm\n<br><br>As, 1 L atm = 101.32 J\n<br><br>$$ \\therefore $$ W = – 6 × 101.32 J = – 607.92 J ≈ – 608 J"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "If the bond energies of H $$-$$ H, Br $$-$$ Br, and H $$-$$ Br are 433, 192 and 364 kJ mol<sup>$$-$$1</sup> respectively, the $$\\Delta $$H<sup>o</sup> for the reaction<br><br> H<sub>2</sub><sub>(g)</sub> + Br<sub>2(g)</sub> $$ \\to $$ 2HBr<sub>(g)</sub> is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$-$$ 261 kJ"
+        },
+        {
+          "key": "B",
+          "value": "+103 kJ"
+        },
+        {
+          "key": "C",
+          "value": "+261 kJ"
+        },
+        {
+          "key": "D",
+          "value": "$$-$$103 kJ"
+        }
+      ],
+      "answer": "D",
+      "explanation": "H<sub>2</sub><sub>(g)</sub> + Br<sub>2(g)</sub> $$ \\to $$ 2HBr<sub>(g)</sub>, &nbsp;&nbsp;$$\\Delta $$H<sup>o</sup><sub>f</sub> = ?\n<br><br>$$\\Delta $$H<sup>o</sup><sub>f</sub> = $$\\Sigma $$(B.E.)<sub>reactants</sub> – $$\\Sigma $$(B.E.)<sub>products</sub>\n<br><br>=  (B.E.)<sub>H–H</sub> + (B.E.)<sub>Br–Br</sub> –2(B.E)<sub>H-Br</sub>\n<br><br>= [433 + 192] – 2(364) kJ mol<sup>–1</sup>\n<br><br> = (625 – 728) kJ mol<sup>–1</sup> = –103 kJ mol<sup>–1</sup>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Standard enthalpy and standard entropy changes for the oxidation of ammonia at 298 K are $$-$$ 382.64 kJ mol<sup>$$-$$1</sup> and $$-$$ 145.6 kJ mol<sup>$$-$$1</sup>, respectively. Standard Gibb's energy change for the same reaction at 298 K is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$-$$ 221.1 kJ mol<sup>$$-$$1</sup>"
+        },
+        {
+          "key": "B",
+          "value": "$$-$$339.3 kJ mol<sup>$$-$$1</sup>"
+        },
+        {
+          "key": "C",
+          "value": "$$-$$ 439.3 kJ mol<sup>$$-$$1</sup>"
+        },
+        {
+          "key": "D",
+          "value": "$$-$$ 523.2 kJ mol<sup>$$-$$1</sup>"
+        }
+      ],
+      "answer": "B",
+      "explanation": "$$\\Delta $$G = $$\\Delta $$H – T$$\\Delta $$S\n<br><br>$$\\Delta $$G = –382.64 × 103 J mol<sup>–1</sup> – (298K)\n(–145.6 JK<sup>–1</sup> mol<sup>–1</sup>)\n <br><br>= –382640  + 43388.8 \n<br><br> = – 339251.2 J mol<sup>–1</sup> = – 339.3 kJ mol<sup>–1</sup>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Considering entropy (S) as a thermodynamic parameter, the criterion for the spontaneity of any process is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$\\Delta {S_{system}} + \\Delta {S_{surroundings}} &gt; 0$$"
+        },
+        {
+          "key": "B",
+          "value": "$$\\Delta {S_{system}} - \\Delta {S_{surroundings}} &gt; 0$$"
+        },
+        {
+          "key": "C",
+          "value": "$$\\Delta {S_{system}} &gt; 0\\,\\,\\,$$only"
+        },
+        {
+          "key": "D",
+          "value": "$$\\Delta {S_{surroundings}} &gt; 0$$  only"
+        }
+      ],
+      "answer": "A",
+      "explanation": "For the reaction to be spontaneous, the total\nentropy of system and universe increases i.e.,\n<br><br>$$\\Delta {S_{system}} + \\Delta {S_{surroundings}} &gt; 0$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "What is the entropy change (in J K<sup>$$-$$1</sup> mol<sup>$$-$$1</sup>) when one mole of ice is converted into water at 0<sup>o</sup>C? (The enthalpy change for the conversion of ice to liquid water is 6.0 kJ mol<sup>$$-$$1</sup> at 0<sup>o</sup>C). ",
+      "options": [
+        {
+          "key": "A",
+          "value": "20.13"
+        },
+        {
+          "key": "B",
+          "value": "2.013"
+        },
+        {
+          "key": "C",
+          "value": "2.198"
+        },
+        {
+          "key": "D",
+          "value": "21.98"
+        }
+      ],
+      "answer": "D",
+      "explanation": "H<sub>2</sub>O(s) → H<sub>2</sub>O(l)\n<br><br> $$\\Delta $$H = 6.0 kJ mol<sup>–1</sup>\n<br><br> T = 0 + 273 K = 273 K; $$\\Delta $$S = ?\n<br><br>$$\\Delta $$S = $${{\\Delta H} \\over T}$$ = $${{6000} \\over {273}}$$ = 21.98 JK<sup>–1</sup> mol<sup>–1</sup>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The molar heat capacity of water at constant pressure, C, is 75 J K<sup>$$-$$1</sup> mol<sup>$$-$$1</sup>. When 1.0 kJ of heat is supplied to 100 g of water which is free to expand, the increase in temperature of water is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "1.2 K"
+        },
+        {
+          "key": "B",
+          "value": "2.4 K"
+        },
+        {
+          "key": "C",
+          "value": "4.8 K"
+        },
+        {
+          "key": "D",
+          "value": "6.6 K"
+        }
+      ],
+      "answer": "B",
+      "explanation": "As we know, q = nC$$\\Delta $$T\n<br><br>q = 1.0 kJ = 1000 J\n<br><br>C = 75 JK<sup>–1</sup> mol<sup>–1</sup>\n<br><br>m = 100 g ⇒ Number of moles = $${{100} \\over {18}}$$ g mol<sup>–1</sup>\n<br><br>1000 = $${{100} \\over {18}}$$ $$ \\times $$ 75 $$ \\times $$ $$\\Delta $$T\n<br><br>$$ \\Rightarrow $$ $$\\Delta $$T = $${{10 \\times 18} \\over {75}}$$ K\n<br><br>$$ \\Rightarrow $$ $$\\Delta $$T = 2.4 K"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Formation of solution from two components can be considered as \n<br>(i)&nbsp;Pure solvent $$ \\to $$&nbsp;separated solvent molecules, $$\\Delta $$H<sub>1</sub>\n<br>(ii)&nbsp;Pure solute $$ \\to $$ separated solute molecules, $$\\Delta $$H<sub>2</sub>\n<br>(iii)&nbsp;Separated solvent and solute molecules $$ \\to $$ solution, $$\\Delta $$H<sub>3</sub>\n<br>Solution so formed will be ideal if ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$\\Delta $$H<sub>soln</sub>  =  $$\\Delta $$H<sub>1</sub> + $$\\Delta $$H<sub>2</sub> + $$\\Delta $$H<sub>3</sub>"
+        },
+        {
+          "key": "B",
+          "value": "$$\\Delta $$H<sub>soln</sub>  =  $$\\Delta $$H<sub>1</sub> + $$\\Delta $$H<sub>2</sub> $$-$$ $$\\Delta $$H<sub>3</sub>"
+        },
+        {
+          "key": "C",
+          "value": "$$\\Delta $$H<sub>soln</sub>  =  $$\\Delta $$H<sub>1</sub> $$-$$ $$\\Delta $$H<sub>2</sub> $$-$$ $$\\Delta $$H<sub>3</sub>"
+        },
+        {
+          "key": "D",
+          "value": "$$\\Delta $$H<sub>soln</sub>  =  $$\\Delta $$H<sub>3</sub> $$-$$ $$\\Delta $$H<sub>1</sub> $$-$$ $$\\Delta $$H<sub>2</sub>"
+        }
+      ],
+      "answer": "A",
+      "explanation": "For ideal solution,\n<br><br>$$\\Delta $$H<sub>soln</sub>  =  $$\\Delta $$H<sub>1</sub> + $$\\Delta $$H<sub>2</sub> + $$\\Delta $$H<sub>3</sub>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "For which one of the following equations is $$\\Delta $$H<sup>o</sup><sub>react</sub> equal to $$\\Delta $$H<sup>o</sup><sub>f</sub> for the product ? ",
+      "options": [
+        {
+          "key": "A",
+          "value": "Xe<sub>(g)</sub> + 2F<sub>2(g)</sub> $$ \\to $$ XeF<sub>4(g)</sub>\n"
+        },
+        {
+          "key": "B",
+          "value": "2CO<sub>(g)</sub> + O<sub>2(g)</sub> $$ \\to $$ 2CO<sub>2(g)</sub>"
+        },
+        {
+          "key": "C",
+          "value": "N<sub>2(g)</sub> + O<sub>3(g)</sub> $$ \\to $$ N<sub>2</sub>O<sub>3(g)</sub>"
+        },
+        {
+          "key": "D",
+          "value": "CH<sub>4(g)</sub> + 2Cl<sub>2(g)</sub> $$ \\to $$ CH<sub>2</sub>Cl<sub>2(l)</sub> + 2HCl<sub>(g)</sub>"
+        }
+      ],
+      "answer": "A",
+      "explanation": "Heat of formation, $$\\Delta $$H<sup>o</sup><sub>f</sub>\n of a substance is the\namount of heat absorbed or released when one\nmole of this substance is formed directly from its\nconstituent elements.\n<br><br>In option (a), one mole of XeF<sub>4</sub> is formed from\nits constituent elements i.e., Xe and F<sub>2</sub> thus, the\nequation has equal value of $$\\Delta $$H<sup>o</sup><sub>r</sub> and $$\\Delta $$H<sup>o</sup><sub>f</sub>\n.<br><br> In\noption (b), the constituent atoms should be carbon\nand oxygen only but the reactant used is CO thus,\n<br><br>$$\\Delta $$H<sup>o</sup><sub>r</sub> $$ \\ne $$ $$\\Delta $$H<sup>o</sup><sub>f</sub>\n<br><br>In option (c), the reactant used is O<sub>3</sub> which is again\nnot in its element form thus,\n<br><br>$$\\Delta $$H<sup>o</sup><sub>r</sub> $$ \\ne $$ $$\\Delta $$H<sup>o</sup><sub>f</sub>\n<br><br>In option (d), two products are formed thus\n<br><br>$$\\Delta $$H<sup>o</sup><sub>r</sub> $$ \\ne $$ $$\\Delta $$H<sup>o</sup><sub>f</sub>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The densities of graphite and diamond at 298 K are 2.25 and 3.31 g cm<sup>$$-$$3</sup>, respectively. If the standard free energy difference $$\\left( {\\Delta {G^o}} \\right)$$ is equal to 1895 J mol<sup>$$-$$1</sup>, the pressure at which graphite will be transformed into diamond at 298 K is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "11.14 $$ \\times $$ 10<sup>8</sup> Pa"
+        },
+        {
+          "key": "B",
+          "value": "11.14 $$ \\times $$ 10<sup>7</sup> Pa"
+        },
+        {
+          "key": "C",
+          "value": "11.14 $$ \\times $$ 10<sup>6</sup> Pa"
+        },
+        {
+          "key": "D",
+          "value": "11.14 $$ \\times $$ 10<sup>5</sup> Pa"
+        }
+      ],
+      "answer": "A",
+      "explanation": "C<sub>(graphite)</sub> $$ \\to $$ C<sub>(diamond)</sub>\n<br><br>Volume of graphite = $${{12} \\over {2.25}} = 5.33$$ cm<sup>3</sup>\n mol<sup>–1</sup>\n<br><br>Volume of diamond = $${{12} \\over {3.31}} = 3.63$$ cm<sup>3</sup>\n mol<sup>–1</sup>\n<br><br>$$\\Delta $$V = V<sub>graphite</sub> – V<sub>diamond</sub>\n<br><br>= 1.70 cm<sup>3</sup>\n mol<sup>–1</sup>\n<br><br>= 1.70 × 10<sup>–3</sup> L mol<sup>–1</sup>\n<br><br>So, $$\\Delta $$G<sup>o</sup> = P$$\\Delta $$V\n<br><br>$$ \\Rightarrow $$ 1895 J mol<sup>–1</sup> = P(1.70 × 10<sup>–3</sup> L mol<sup>–1</sup>)\n<br><br>$$ \\Rightarrow $$ 1114.70 × 10<sup>3</sup>\n J/L = P\n<br><br>$$ \\Rightarrow $$ $${{1114.7 \\times {{10}^3}} \\over {101.33}}$$ = P\n<br><br>$$ \\Rightarrow $$ P = 11000.69 atm × 1.013 × 10<sup>5</sup>\n Pa\n<br><br> = 11143.69 × 10<sup>5</sup>\n Pa\n<br><br> = 11.14 × 10<sup>8</sup>\n Pa"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "For the reaction, \n<br>C<sub>3</sub>H<sub>8(g)</sub> + 5O<sub>2(g)</sub> $$ \\to $$&nbsp;3CO<sub>2</sub>(g) + 4H<sub>2</sub>O<sub>(l)</sub>\n<br>at constant temperature, $$\\Delta $$H $$-$$ $$\\Delta $$E is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "+ RT "
+        },
+        {
+          "key": "B",
+          "value": "$$-$$3RT"
+        },
+        {
+          "key": "C",
+          "value": "+ 3RT"
+        },
+        {
+          "key": "D",
+          "value": "$$-$$ RT"
+        }
+      ],
+      "answer": "B",
+      "explanation": "$$\\Delta $$H = $$\\Delta $$E + $$\\Delta $$n<sub>g</sub> RT\n<br><br>$$\\Delta $$n<sub>g</sub> = 3 – (1 + 5) = – 3\n<br><br>$$ \\Rightarrow $$ $$\\Delta $$H = $$\\Delta $$E + (– 3RT)\n<br><br>$$ \\Rightarrow $$ $$\\Delta $$H – $$\\Delta $$E = – 3RT"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "2 mole of ideal gas at 27<sup>o</sup>C temperature is expanded reversibly from 2 lit. to 20 lit. Find entropy change. (R = 2 cal/mol K)",
+      "options": [
+        {
+          "key": "A",
+          "value": "92.1"
+        },
+        {
+          "key": "B",
+          "value": "0"
+        },
+        {
+          "key": "C",
+          "value": "4"
+        },
+        {
+          "key": "D",
+          "value": "9.2"
+        }
+      ],
+      "answer": "D",
+      "explanation": "For isothermal reversible expansion\n<br><br>w = q = nRT $$ \\times $$ 2.303 $$\\log {{{v_2}} \\over {{v_1}}}$$\n<br><br>= 2RT $$ \\times $$ 2.303 $$\\log {{{20}} \\over {{2}}}$$\n<br><br>= 2 × 2 × T × 2.303 × 1 = 9.2 T\n<br><br>Entropy change, $$\\Delta $$S = $${q \\over T}$$ = $${{9.2T} \\over T}$$ = 9.2 cal/mol K"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Heat of combustion $$\\Delta $$H<sup>o</sup> for C<sub>(s)</sub>, H<sub>2(g)</sub> and CH<sub>4(g)</sub> are $$-$$ 94, $$-$$ 68 and $$-$$213 kcal/mol, then $$\\Delta $$H<sup>o</sup> for C<sub>(s)</sub> + 2H<sub>2(g)</sub> $$ \\to $$ CH<sub>4(g)</sub> is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$-$$17 kcal"
+        },
+        {
+          "key": "B",
+          "value": "$$-$$111 kcal"
+        },
+        {
+          "key": "C",
+          "value": "$$-$$170 kcal"
+        },
+        {
+          "key": "D",
+          "value": "$$-$$85 kcal"
+        }
+      ],
+      "answer": "A",
+      "explanation": "C<sub>(s)</sub> + 2H<sub>2(g)</sub> $$ \\to $$ CH<sub>4(g)</sub>, $$\\Delta $$H<sup>o</sup> = ?\n<br><br>C<sub>(s)</sub>\n + O<sub>2</sub><sub>(g)</sub> → CO<sub>2(g)</sub>, $$\\Delta $$H = – 94 kcal/mol ....(1)\n<br><br>H<sub>2(g)</sub> + $${1 \\over 2}$$O<sub>2</sub><sub>(g)</sub> $$ \\to $$ H<sub>2</sub>O<sub>(g)</sub>, $$\\Delta $$H = – 68 kcal/mol ....(2)\n<br><br>CH<sub>4</sub><sub>(g)</sub>\n + 2O<sub>2</sub><sub>(g)</sub> $$ \\to $$ CO<sub>2(g)</sub> + H<sub>2</sub>O<sub>(l)</sub>, $$\\Delta $$H = – 213 kcal/mol ....(3)\n<br><br>Performing (1) + 2 × (2) – (3)\n<br><br> $$\\Delta $$H<sup>o</sup> = [– 94 – 2(68)] – (–213) kcal/mol\n<br><br>= [– 94 – 136] + 213 k cal/mol\n<br><br>= – 230 + 213 = – 17 kcal/mol"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "In a closed insulated container a liquid is stirred with a paddle to increase the temperature which of the following is true ? ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$\\Delta $$E = W $$ \\ne $$ 0, q = 0"
+        },
+        {
+          "key": "B",
+          "value": "$$\\Delta $$E = w = q $$ \\ne $$ 0"
+        },
+        {
+          "key": "C",
+          "value": "$$\\Delta $$E  = 0, W = q $$ \\ne $$ 0"
+        },
+        {
+          "key": "D",
+          "value": "W  = 0, $$\\Delta $$E = q $$ \\ne $$ 0."
+        }
+      ],
+      "answer": "A",
+      "explanation": "When in a closed insulated container, a liquid\nis stirred, it increases the temperature of liquid thus\nit started behaving as adiabatic process resulting\nno change in heat and only temperature increases.\nTherefore, q = 0 for this process.\n<br><br>Also, $$\\Delta $$E = q + W\n<br><br>\t $$\\Delta $$E = W (As, q = 0)\n<br><br>As, there is rise in temperature thus, there must be\nchange in internal energy, i.e., $$\\Delta $$E = W ≠ 0."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Which reaction is not feasible? ",
+      "options": [
+        {
+          "key": "A",
+          "value": "2KI + Br<sub>2</sub> $$ \\to $$ 2KBr + I<sub>2</sub>"
+        },
+        {
+          "key": "B",
+          "value": "2KBr + I<sub>2</sub> $$ \\to $$ 2KI + Br<sub>2</sub>"
+        },
+        {
+          "key": "C",
+          "value": "2KBr + Cl<sub>2</sub>  $$ \\to $$ 2KCl + Br<sub>2</sub>"
+        },
+        {
+          "key": "D",
+          "value": "2H<sub>2</sub>O + 2F<sub>2</sub> $$ \\to $$ 4HF + O<sub>2</sub>"
+        }
+      ],
+      "answer": "B",
+      "explanation": "2KBr + I<sub>2</sub> $$ \\to $$ 2KI + Br<sub>2</sub>\n<br><br>reaction is not possible because Br<sup>–</sup> ion is not\noxidised in Br<sub>2</sub> with I<sub>2</sub> due to higher electrode\n(oxidation) potential of I<sub>2</sub> than bromine."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Unit of entropy is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "J K<sup>$$-$$1</sup> mol<sup>$$-$$1</sup> "
+        },
+        {
+          "key": "B",
+          "value": "J mol<sup>$$-$$1</sup>"
+        },
+        {
+          "key": "C",
+          "value": "J<sup>$$-$$1</sup> K<sup>$$-$$1</sup> mol<sup>$$-$$1</sup>"
+        },
+        {
+          "key": "D",
+          "value": "J K mol<sup>$$-$$1</sup>"
+        }
+      ],
+      "answer": "A",
+      "explanation": "Entropy is the change in heat per degree.\nThus, its unit is as follows.\n<br><br>Entropy = $${{Jmo{l^{ - 1}}} \\over K}$$ = J mol<sup>-1</sup> K<sup>-1</sup>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Enthalpy of CH<sub>4</sub> + $${1 \\over 2}$$ O<sub>2</sub> $$ \\to $$ CH<sub>3</sub>OH is negative. If enthalpy of combustion of CH<sub>4</sub> and CH<sub>3</sub>OH are x and y respectively. Then which relation is correct? ",
+      "options": [
+        {
+          "key": "A",
+          "value": "x &gt; y"
+        },
+        {
+          "key": "B",
+          "value": "x &lt; y"
+        },
+        {
+          "key": "C",
+          "value": "x = y"
+        },
+        {
+          "key": "D",
+          "value": "x<sup>3</sup> y"
+        }
+      ],
+      "answer": "B",
+      "explanation": "CH<sub>4</sub> + $${1 \\over 2}$$ O<sub>2</sub> $$ \\to $$ CH<sub>3</sub>OH\n<br><br>Given that for this reaction, $$\\Delta $$H<sub>r</sub> = -ve\n<br><br>CH<sub>4</sub> + 2O<sub>2</sub> → CO<sub>2</sub> + 2H<sub>2</sub>O,&nbsp;&nbsp;&nbsp; $$\\Delta $$H = x ....(1)\n<br><br>CH<sub>3</sub>OH + $${3 \\over 2}$$\nO<sub>2</sub> → CO<sub>2</sub> + 2H<sub>2</sub>O,&nbsp;&nbsp;&nbsp; $$\\Delta $$H = y ....(2)\n<br><br>Eqn. (1) – Eqn. (2)\n<br><br>CH<sub>4</sub> + $${1 \\over 2}$$ O<sub>2</sub> $$ \\to $$ CH<sub>3</sub>OH\n<br><br>$$\\Delta $$H<sub>r</sub> = x - y = -ve\n<br><br>$$ \\therefore $$ x &lt; y"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Change in enthalpy for reaction, \n<br><br>2H<sub>2</sub>O<sub>2(l)</sub>  $$ \\to $$   2H<sub>2</sub>O<sub>(l)</sub> + O<sub>2(g)</sub>\n<br><br>if heat of formation of H<sub>2</sub>O<sub>2(l)</sub>  and  H<sub>2</sub>O<sub>(l)</sub> are $$-$$188 and - 286 kJ/mol respectively, is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$-$$ 196 kJ/mol"
+        },
+        {
+          "key": "B",
+          "value": "+ 196 kJ/mol"
+        },
+        {
+          "key": "C",
+          "value": "+948 kJ/mol"
+        },
+        {
+          "key": "D",
+          "value": "$$-$$ 948 kJ/mol "
+        }
+      ],
+      "answer": "A",
+      "explanation": "2H<sub>2</sub>O<sub>2(l)</sub>  $$ \\to $$   2H<sub>2</sub>O<sub>(l)</sub> + O<sub>2(g)</sub>, $$\\Delta $$H<sub>r</sub> = ?\n<br><br>H<sub>2(g)</sub>\n + O<sub>2(g)</sub> → H<sub>2</sub>O<sub>2(l)</sub>,\n$$\\Delta $$H = – 188 kJ mol ...(1)\n<br><br>H<sub>2(g)</sub>\n + O<sub>2(g)</sub> → H<sub>2</sub>O<sub>(l)</sub>,\n$$\\Delta $$H = –286 kJ/mol ....(2)\n<br><br>(1) - (2)\n<br><br>H<sub>2</sub>O<sub>2(l)</sub> → H<sub>2</sub>O<sub>(l)</sub>\n + \n$${1 \\over 2}$$O<sub>2(g)</sub>\n<br><br>$$\\Delta $$H = –286 – (– 188) = –98 kJ mol<sup>–1</sup>\n<br><br>Multiplying this equation by 2 we get the required\nequation\n<br><br>2H<sub>2</sub>O<sub>2(l)</sub> → 2H<sup>2</sup>O<sub>(l)</sub>\n + O<sub>2(g)</sub>\n<br><br>$$\\Delta $$H = 2 (– 98) kJ/mol\n= – 196 kJ/mol\n"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "When 1 mol of gas is heated at constant volume temperature is raised from 298 to 308 K. Heat supplied to the gas is 500 J. Then which statement is correct ? ",
+      "options": [
+        {
+          "key": "A",
+          "value": "q = w = 500 J, $$\\Delta $$E = 0"
+        },
+        {
+          "key": "B",
+          "value": "q = $$\\Delta $$E = 500 J, w = 0"
+        },
+        {
+          "key": "C",
+          "value": "q = w = 500 J, $$\\Delta $$E = 0"
+        },
+        {
+          "key": "D",
+          "value": "$$\\Delta $$E = 0, q = w = $$-$$ 500 J"
+        }
+      ],
+      "answer": "B",
+      "explanation": "As, $$\\Delta $$E = q + W\n<br><br>Also, W = – p$$\\Delta $$V\n<br><br>As $$\\Delta $$V = 0\n<br><br>So, W = 0\n<br><br>$$ \\Rightarrow $$ $$\\Delta $$E = q\n<br><br>Now, q = 500 J\n<br><br>Thus, $$\\Delta $$E = q = 500 J"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "PbO<sub>2</sub> &nbsp;$$ \\to $$&nbsp;PbO; $$\\Delta $$G<sub>298</sub> &lt; 0\n<br>SnO<sub>2</sub> $$ \\to $$ SnO; &nbsp;$$\\Delta $$G<sub>298</sub> &gt; 0\n<br><br>Most probable oxidation state of Pb and Sn will be ",
+      "options": [
+        {
+          "key": "A",
+          "value": "Pb<sup>4+</sup>, Sn<sup>4+</sup>"
+        },
+        {
+          "key": "B",
+          "value": "Pb<sup>4+</sup>,  Sn<sup>2+</sup>"
+        },
+        {
+          "key": "C",
+          "value": "Pb<sup>2+</sup>,  Sn<sup>2+</sup>"
+        },
+        {
+          "key": "D",
+          "value": "Pb<sup>2+</sup>, Sn<sup>4+</sup>"
+        }
+      ],
+      "answer": "D",
+      "explanation": "PbO<sub>2</sub> → PbO\n<br><br>Pb has +4 oxidation state In PbO<sub>2</sub>.\n<br><br>Pb has +2 oxidation state In PbO.\n<br><br>Here $$\\Delta $$G is negative that is why reaction is spontaneous and\nPb<sup>4+</sup> reduces Pb<sup>2+</sup> thus, Pb<sup>2+</sup> is most probable\noxidation state of Pb.\n<br><br>SnO<sub>2</sub> $$ \\to $$ SnO;\n<br><br>Sn has +4 oxidation state In SnO<sub>2</sub>.\n<br><br>Sn has +2 oxidation state In SnO.\n<br><br>$$\\Delta $$G is positive that is why reaction is not spontaneous\nthus, +4 oxidation state of Sn is more stable as it does\nnot change to +2 oxidation state spontaneously."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "For the reaction, \n<br>C<sub>2</sub>H<sub>5</sub>OH<sub>(l)</sub> + 3O<sub>2(g)</sub> $$ \\to $$ 2CO<sub>2(g)</sub> + 3H<sub>2</sub>O<sub>(l)</sub>  \n<br>which one is true",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$\\Delta $$H = $$\\Delta $$E $$-$$RT"
+        },
+        {
+          "key": "B",
+          "value": "$$\\Delta $$H = $$\\Delta $$E + RT"
+        },
+        {
+          "key": "C",
+          "value": "$$\\Delta $$H = $$\\Delta $$E + 2RT"
+        },
+        {
+          "key": "D",
+          "value": "$$\\Delta $$H = $$\\Delta $$E $$-$$ 2RT"
+        }
+      ],
+      "answer": "A",
+      "explanation": "As we know, $$\\Delta $$H = $$\\Delta $$E + $$\\Delta $$n<sub>g</sub> RT\n<br><br>Now, $$\\Delta $$n<sub>g</sub> = Number of gaseous moles of products\n– number of gaseous moles of reactions\n<br><br> = 2 – 3 = – 1\n<br><br>$$ \\Rightarrow $$ $$\\Delta $$H = $$\\Delta $$E + (–1) RT\n<br><br>$$\\Delta $$H = $$\\Delta $$E – RT"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The entropy change in the fusion of one mole of a\nsolid melting at 27<sup>o</sup>C (latent heat of fusion is 2930 J\nmol<sup>–1</sup>) is :",
+      "options": [
+        {
+          "key": "A",
+          "value": "9.77 J/mol-K"
+        },
+        {
+          "key": "B",
+          "value": "10.77 J/mol-K"
+        },
+        {
+          "key": "C",
+          "value": "9.07 J/mol-K"
+        },
+        {
+          "key": "D",
+          "value": "0.977 J/mol-K"
+        }
+      ],
+      "answer": "A",
+      "explanation": "$$\\Delta S = {{\\Delta H} \\over T}$$ \n<br><br>= $${{2930} \\over {300}}$$ \n<br><br>= 9.77 J/mol-K"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "2Zn + O<sub>2</sub> $$ \\to $$ 2ZnO;&nbsp;&nbsp;$$\\Delta $$G<sup>o</sup> = $$-$$ 616 J\n<br>2Zn + S<sub>2</sub> $$ \\to $$ 2ZnS;&nbsp;&nbsp;$$\\Delta $$G<sup>o</sup> = $$-$$ 293 J\n<br>S<sub>2</sub> + 2O<sub>2</sub> $$ \\to $$ 2SO<sub>2</sub>; &nbsp;&nbsp;$$\\Delta $$G<sup>o</sup> = $$-$$408 J\n<br>$$\\Delta $$G<sup>o</sup> for the following reaction \n<br>2ZnS + 3O<sub>2</sub> $$ \\to $$&nbsp; 2ZnO + 2SO<sub>2</sub> is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$-$$ 731 J"
+        },
+        {
+          "key": "B",
+          "value": "$$-$$ 1317 J"
+        },
+        {
+          "key": "C",
+          "value": "$$-$$ 501 J"
+        },
+        {
+          "key": "D",
+          "value": "+ 731 J"
+        }
+      ],
+      "answer": "A",
+      "explanation": "2Zn + O<sub>2</sub> $$ \\to $$ 2ZnO;&nbsp;&nbsp;$$\\Delta $$G<sup>o</sup> = $$-$$ 616 J ....(1)\n<br>2ZnS  $$ \\to $$ 2Zn + O<sub>2</sub>;&nbsp;&nbsp;$$\\Delta $$G<sup>o</sup> = $$+$$ 293 J.....(2)\n<br>S<sub>2</sub> + 2O<sub>2</sub> $$ \\to $$ 2SO<sub>2</sub>; &nbsp;&nbsp;$$\\Delta $$G<sup>o</sup> = $$-$$408 J .....(3)\n<br><br>$$\\Delta $$G<sup>o</sup> for the reaction can be obtained by adding (1), (2) and (3)\n<br><br>$$ \\therefore $$ $$\\Delta $$G<sup>o</sup> = 293 - 616 - 408 = -731 J"
+    }
+  ]
+}

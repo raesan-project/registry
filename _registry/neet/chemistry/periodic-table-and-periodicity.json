@@ -1,0 +1,943 @@
+{
+  "_index": {
+    "name": "Periodic Table and Periodicity"
+  },
+  "_children": [
+    {
+      "_type": "single_mcq",
+      "body": "<p>The correct decreasing order of atomic radii (pm) of $$\\mathrm{Li}, \\mathrm{Be}, \\mathrm{B}$$ and $$\\mathrm{C}$$ is</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$\\mathrm{Be}>\\mathrm{Li}>\\mathrm{B}>\\mathrm{C}$$\n"
+        },
+        {
+          "key": "B",
+          "value": "$$\\mathrm{Li}>\\mathrm{Be}>\\mathrm{B}>\\mathrm{C}$$\n"
+        },
+        {
+          "key": "C",
+          "value": "$$\\mathrm{C}>\\mathrm{B}>\\mathrm{Be}>\\mathrm{Li}$$\n"
+        },
+        {
+          "key": "D",
+          "value": "$$\\mathrm{Li}>\\mathrm{C}>\\mathrm{Be}>\\mathrm{B}$$\n"
+        }
+      ],
+      "answer": "B",
+      "explanation": "<p>As the atomic number in a period increases, the effective nuclear charge also increases hence, atomic radii along the period decreases.</p>\n<p>Correct order of atomic radii</p>\n<p>$$\\mathrm{Li}>\\mathrm{Be}>\\mathrm{B}>\\mathrm{C}$$</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Match List I with List II :</p>\n<p><style type=\"text/css\">\n.tg  {border-collapse:collapse;border-spacing:0;}\n.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}\n.tg .tg-7btt{border-color:inherit;font-weight:bold;text-align:center;vertical-align:top}\n.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}\n</style>\n<table class=\"tg\" style=\"undefined;table-layout: fixed; width: 781px\"><colgroup>\n<col style=\"width: 78px\">\n<col style=\"width: 245px\">\n<col style=\"width: 83px\">\n<col style=\"width: 375px\">\n</colgroup>\n<thead>\n  <tr>\n    <th class=\"tg-7btt\"></th>\n    <th class=\"tg-7btt\">List - I<br>(Atom/Molecule)</th>\n    <th class=\"tg-7btt\"></th>\n    <th class=\"tg-7btt\">List - II<br>(Property)</th>\n  </tr></thead>\n<tbody>\n  <tr>\n    <td class=\"tg-c3ow\">(A)</td>\n    <td class=\"tg-0pky\">Nitrogen atom</td>\n    <td class=\"tg-c3ow\">(I)</td>\n    <td class=\"tg-0pky\">Paramagnetic</td>\n  </tr>\n  <tr>\n    <td class=\"tg-c3ow\">(B)</td>\n    <td class=\"tg-0pky\">Fluorine molecule</td>\n    <td class=\"tg-c3ow\">(II)</td>\n    <td class=\"tg-0pky\">Most relative element in group 18</td>\n  </tr>\n  <tr>\n    <td class=\"tg-c3ow\">(C)</td>\n    <td class=\"tg-0pky\">Oxygen molecule </td>\n    <td class=\"tg-c3ow\">(III)</td>\n    <td class=\"tg-0pky\">Element with highest ionisation enthalpy in group 15</td>\n  </tr>\n  <tr>\n    <td class=\"tg-c3ow\">(D)</td>\n    <td class=\"tg-0pky\">Xenon atom</td>\n    <td class=\"tg-c3ow\">(IV)</td>\n    <td class=\"tg-0pky\">Strongest oxidising agent</td>\n  </tr>\n</tbody>\n</table></p>\n<p>Identify the correct answer from the options given below :</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "A-III, B-I, C-IV, D-II\n"
+        },
+        {
+          "key": "B",
+          "value": "A-I, B-IV, C-III, D-II\n"
+        },
+        {
+          "key": "C",
+          "value": "A-II, B-IV, C-I, D-III\n"
+        },
+        {
+          "key": "D",
+          "value": "A-III, B-IV, C-I, D-II"
+        }
+      ],
+      "answer": "D",
+      "explanation": "<p><style type=\"text/css\">\n.tg  {border-collapse:collapse;border-spacing:0;}\n.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg .tg-amwm{font-weight:bold;text-align:center;vertical-align:top}\n.tg .tg-0lax{text-align:left;vertical-align:top}\n</style>\n<table class=\"tg\" style=\"undefined;table-layout: fixed; width: 483px\"><colgroup>\n<col style=\"width: 143px\">\n<col style=\"width: 340px\">\n</colgroup>\n<thead>\n  <tr>\n    <th class=\"tg-amwm\">(Atom/Molecule)</th>\n    <th class=\"tg-amwm\">(Property)</th>\n  </tr></thead>\n<tbody>\n  <tr>\n    <td class=\"tg-0lax\">Nitrogen atom</td>\n    <td class=\"tg-0lax\">Element with highest ionisation enthalpy in group 15</td>\n  </tr>\n  <tr>\n    <td class=\"tg-0lax\">Fluorine molecule </td>\n    <td class=\"tg-0lax\">Strongest oxidising agent</td>\n  </tr>\n  <tr>\n    <td class=\"tg-0lax\">Oxygen molecule </td>\n    <td class=\"tg-0lax\">Paramagnetic in nature</td>\n  </tr>\n  <tr>\n    <td class=\"tg-0lax\">Xenon atom</td>\n    <td class=\"tg-0lax\">Most reactive element in group 18</td>\n  </tr>\n</tbody>\n</table></p>\n<p>The correct match is A-III, B-IV, C-I, D-II</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Arrange the following elements in increasing order of first ionization enthalpy:\n$$\\mathrm{Li}, \\mathrm{Be}, \\mathrm{B}, \\mathrm{C}, \\mathrm{N}$$</p>\n<p>Choose the correct answer from the options given below:</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$\n\\mathrm{Li}<\\mathrm{Be}<\\mathrm{B}<\\mathrm{C}<\\mathrm{N}\n$$"
+        },
+        {
+          "key": "B",
+          "value": "$$\n\\mathrm{Li}<\\mathrm{B}<\\mathrm{Be}<\\mathrm{C}<\\mathrm{N}\n$$"
+        },
+        {
+          "key": "C",
+          "value": "$$\n\\mathrm{Li}<\\mathrm{Be}<\\mathrm{C}<\\mathrm{B}<\\mathrm{N}\n$$"
+        },
+        {
+          "key": "D",
+          "value": "$$\n\\mathrm{Li}<\\mathrm{Be}<\\mathrm{N}<\\mathrm{B}<\\mathrm{C}\n$$"
+        }
+      ],
+      "answer": "B",
+      "explanation": "<p>The first ionization enthalpy, also known as ionization energy, is the energy required to remove the most loosely bound electron from a neutral atom in the gaseous phase to form a cation. The trend of first ionization energies generally increases across a period from left to right in the periodic table. This is due to the increasing nuclear charge and the decreasing atomic radius, which cause the valence electrons to be attracted more strongly to the nucleus.</p>\n\n<p>However, there are notable exceptions based on the electron configuration stability and electron pairing in orbitals. Let's analyze the given elements:</p>\n\n<ul>\n\n<li><strong>Lithium (Li):</strong> Being the first element in the period, it has the smallest nuclear charge and only one electron in its outer shell, which makes it easy to remove an electron.</li>\n\n<li><strong>Beryllium (Be):</strong> This element has two electrons in the 2s orbital. The removal of one electron slightly disturbs the fully filled 2s sub-shell, creating more stability than having an unpaired electron. Therefore, Be has a higher ionization energy than Li.</li>\n\n<li><strong>Boron (B):</strong> This element has a half-filled 2p orbital configuration (one electron in the 2p orbital), which is relatively less stable compared to a full or empty p orbital, leading to a slightly lower ionization energy than Be.</li>\n\n<li><strong>Carbon (C):</strong> With two electrons in separate 2p orbitals (following Hund's rule), C experiences more effective nuclear shielding and electron-electron repulsion compared to a single electron in Boron's 2p orbital. This makes it relatively easier to remove an electron from B than from C, but harder than removing one from Be.</li>\n\n<li><strong>Nitrogen (N):</strong> It has exactly half-filled 2p orbitals, which provides extra stability and hence has a higher ionization energy than Carbon. Contrarily, the configuration of three p electrons is stable owing to the exchange energy and symmetric distribution in space.</li>\n\n</ul>\n\n<p>Given these points, we can order the elements by increasing first ionization enthalpy as follows:</p>\n\n<p>$$\\mathrm{Li} < \\mathrm{B} < \\mathrm{Be} < \\mathrm{C} < \\mathrm{N}$$</p>\n\n<p>This matches with Option B. Thus, the correct answer is:</p>\n\n<p>Option B\n\n<p>$$\\mathrm{Li}<\\mathrm{B}<\\mathrm{Be}<\\mathrm{C}<\\mathrm{N}$$</p></p>\n\n<p><style type=\"text/css\">\n\n<p>.tg  {border-collapse:collapse;border-spacing:0;}</p>\n\n<p>.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;</p>\n\n<p>overflow:hidden;padding:10px 5px;word-break:normal;}</p>\n\n<p>.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;</p>\n\n<p>font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}</p>\n\n<p>.tg .tg-baqh{text-align:center;vertical-align:top}</p>\n\n<p>.tg .tg-amwm{font-weight:bold;text-align:center;vertical-align:top}</p>\n\n</style>\n\n<table class=\"tg\" style=\"undefined;table-layout: fixed; width: 318px\">\n\n<colgroup>\n\n<col style=\"width: 116px\">\n\n<col style=\"width: 202px\">\n\n</colgroup>\n\n<thead>\n\n<tr>\n\n<th class=\"tg-amwm\">Element</th>\n\n<th class=\"tg-amwm\">First ionization enthalpy $$<br>\\left(\\Delta_\\mathrm{i} \\mathrm{H} / \\mathrm{k}{\\mathrm{J}} \\mathrm{~mol}^{-1}\\right)<br>$$</th>\n\n</tr>\n\n</thead>\n\n<tbody>\n\n<tr>\n\n<td class=\"tg-baqh\">Li</td>\n\n<td class=\"tg-baqh\">520</td>\n\n</tr>\n\n<tr>\n\n<td class=\"tg-baqh\">Be</td>\n\n<td class=\"tg-baqh\">899</td>\n\n</tr>\n\n<tr>\n\n<td class=\"tg-baqh\">B</td>\n\n<td class=\"tg-baqh\">801</td>\n\n</tr>\n\n<tr>\n\n<td class=\"tg-baqh\">C</td>\n\n<td class=\"tg-baqh\">1086</td>\n\n</tr>\n\n<tr>\n\n<td class=\"tg-baqh\">N</td>\n\n<td class=\"tg-baqh\">1402</td>\n\n</tr>\n\n</tbody>\n\n</table></p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Arrange the following elements in increasing order of electronegativity:</p>\n<p>N, O, F, C, Si</p>\n<p>Choose the correct answer from the options given below :</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "Si < C < N < O < F"
+        },
+        {
+          "key": "B",
+          "value": "Si < C < O < N < F"
+        },
+        {
+          "key": "C",
+          "value": "O < F < N < C < Si"
+        },
+        {
+          "key": "D",
+          "value": "F < O < N < C < Si"
+        }
+      ],
+      "answer": "A",
+      "explanation": "<p>Electronegativity is a chemical property that describes the tendency of an atom to attract a shared pair of electrons (or electron density) towards itself in a chemical bond. The Pauling scale is the most commonly used scale to measure electronegativity. According to this scale:</p>\n\n<ul>\n\n<li>The electronegativity of Fluorine (F) is the highest among the elements at around 3.98.</li>\n\n<li>Oxygen (O) follows next with an electronegativity of about 3.44.</li>\n\n<li>Nitrogen (N) has an electronegativity of approximately 3.04.</li>\n\n<li>Carbon (C) has an electronegativity value close to 2.55.</li>\n\n<li>Silicon (Si), being further down the group in the periodic table than Carbon, has a lower electronegativity of about 1.90.</li>\n\n</ul>\n\n<p>Based on these values, we can arrange the elements in order of increasing electronegativity as follows:</p>\n\n<p>$$ \\text{Si} < \\text{C} < \\text{N} < \\text{O} < \\text{F} $$</p>\n\n<p>Thus, considering the options provided:</p>\n\n<p>Option A: Si < C < N < O < F is the correct answer since it correctly ranks the elements from the lowest to the highest electronegativity.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Which of the following is correctly matched?</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "Basic oxides $$\\Rightarrow \\mathrm{In}_2 \\mathrm{O}_3, \\mathrm{~K}_2 \\mathrm{O}, \\mathrm{SnO}_2$$\n"
+        },
+        {
+          "key": "B",
+          "value": "Neutral oxides $$\\Rightarrow \\mathrm{CO}, \\mathrm{NO}_2, \\mathrm{~N}_2 \\mathrm{O}$$\n"
+        },
+        {
+          "key": "C",
+          "value": "Acidic oxides $$\\Rightarrow \\mathrm{Mn}_2 \\mathrm{O}_7, \\mathrm{SO}_2, \\mathrm{TeO}_3$$\n"
+        },
+        {
+          "key": "D",
+          "value": "Amphoteric oxides $$\\Rightarrow \\mathrm{BeO}, \\mathrm{Ga}_2 \\mathrm{O}_3, \\mathrm{GeO}$$\n"
+        }
+      ],
+      "answer": "C",
+      "explanation": "<p>$$\\mathrm{Mn}_2 \\mathrm{O}_7, \\mathrm{SO}_2, \\mathrm{TeO}_3$$ are acidic oxides.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>The correct sequence given below containing neutral, acidic, basic and amphoteric oxide each, respectively, is</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "NO, ZnO, CO$$_2$$, CaO"
+        },
+        {
+          "key": "B",
+          "value": "ZnO, NO, CaO, CO$$_2$$"
+        },
+        {
+          "key": "C",
+          "value": "NO, CO$$_2$$, ZnO, CaO"
+        },
+        {
+          "key": "D",
+          "value": "NO, CO$$_2$$, CaO, ZnO"
+        }
+      ],
+      "answer": "D",
+      "explanation": "<p>NO $$\\to$$ neutral</p>\n<p>CaO $$\\to$$ Basic</p>\n<p>CO$$_2$$ $$\\to$$ Acidic</p>\n<p>ZnO $$\\to$$ Amphoteric</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>The correct order of first ionization enthalpy for the given four elements is :</p>\n",
+      "options": [
+        {
+          "key": "A",
+          "value": "C < F < N < O"
+        },
+        {
+          "key": "B",
+          "value": "C < N < F < O"
+        },
+        {
+          "key": "C",
+          "value": "C < N < O < F"
+        },
+        {
+          "key": "D",
+          "value": "C < O < N < F"
+        }
+      ],
+      "answer": "D",
+      "explanation": "<p>$$\\bullet$$ Generally, on moving left to right in a period. First ionization enthalpy of elements increases due to increase in effective nuclear charge.</p>\n<p>$$\\bullet$$ Due to more stable half-filled outer electronic configuration (2s<sup>2</sup>2p<sup>3</sup>) of N, its first ionization enthalpy is more than O.</p>\n<p>So, correct order of IP is : C < O < N < F</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Decrease in size from left to right in actinoid series is greater and gradual than that in lanthanoid series due to</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "5f orbitals have greater shielding effect"
+        },
+        {
+          "key": "B",
+          "value": "4f orbitals are penultimate"
+        },
+        {
+          "key": "C",
+          "value": "4f orbitals have greater shielding effect"
+        },
+        {
+          "key": "D",
+          "value": "5f orbitals have poor shielding effect"
+        }
+      ],
+      "answer": "D",
+      "explanation": "Due to more diffused nature of 5f orbitals as compared to 4f orbitals the shielding effect of  5f is poor, resulting in the decrease in size from left to right in actinoid series which is greater and gradual than that in lanthanoid series."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Fluorine is a stronger oxidising agent than chlorine because :</p>\n<p>(a) F-F bond has a low enthalpy of dissociation.</p>\n<p>(b) Fluoride ion (F<sup>$$-$$</sup>) has high hydration enthalpy.</p>\n<p>(c) Electron gain enthalpy of fluorine is less negative than chlorine.</p>\n<p>(d) Fluorine has a very small size.</p>\n<p>Choose the most appropriate answer from the options given : </p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "(b) and (c) only"
+        },
+        {
+          "key": "B",
+          "value": "(a) and (b) only"
+        },
+        {
+          "key": "C",
+          "value": "(a) and (c) only"
+        },
+        {
+          "key": "D",
+          "value": "(a) and (d) only"
+        }
+      ],
+      "answer": "B",
+      "explanation": "<p>Fluorine is a stronger oxidising agent than chlorine due to</p>\n<p>(i) Low dissociation enthalpy of F-F bond</p>\n<p>(ii) High hydration enthalpy of F<sup>$$-$$</sup> ion</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>If first ionization enthalpies of elements X and Y are 419 kJ mol<sup>$$-$$1</sup> and 590 kJ mol<sup>$$-$$1</sup>, respectively and second ionization enthalpies of X and Y are 3069 kJ mol<sup>$$-$$1</sup> and 1145 kJ mol<sup>$$-$$1</sup>, respectively. Then correct statement is :</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "Both X and Y are alkaline earth metals"
+        },
+        {
+          "key": "B",
+          "value": "X is an alkali metal and Y is an alkaline earth metal"
+        },
+        {
+          "key": "C",
+          "value": "X is an alkaline earth metal and Y is an alkali metal"
+        },
+        {
+          "key": "D",
+          "value": "Both X and Y are alkali metals"
+        }
+      ],
+      "answer": "B",
+      "explanation": "<p>As it can be observed from given data of question, in case of element 'X' there is huge difference between IP<sub>1</sub> and IP<sub>2</sub> hence it will have one electron in outermost shell and will be alkali metal.</p>\n<p>While for 'Y' difference is not that high hence it will be alkaline earth metal.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>The IUPAC name of an element with atomic number 119 is</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "ununennium"
+        },
+        {
+          "key": "B",
+          "value": "unnilennium"
+        },
+        {
+          "key": "C",
+          "value": "unununnium"
+        },
+        {
+          "key": "D",
+          "value": "ununoctium"
+        }
+      ],
+      "answer": "A",
+      "explanation": "<p>IUPAC name of element : 119 : ununennium</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Gadolinium has a low value of third ionisation enthalpy because of</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "small size"
+        },
+        {
+          "key": "B",
+          "value": "high exchange enthalpy"
+        },
+        {
+          "key": "C",
+          "value": "high electronegativity"
+        },
+        {
+          "key": "D",
+          "value": "high basic character"
+        }
+      ],
+      "answer": "B",
+      "explanation": "<p>Electronic configuration of Gadolinium</p>\n<p>Gd :- [Xe] 4f<sup>7</sup> 5d<sup>1</sup> 6s<sup>2</sup></p>\n<p>In case of 3<sup>rd</sup> ionisation enthalpy electron will be removed from 5d and resultant configuration will be [Xe]4f<sup>7</sup> that is stable electronic configuration as it will have high exchange energy, hence less energy will be required to remove 3<sup>rd</sup> electron.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Identify the incorrect match.<br><table>\n<thead>\n  <tr>\n    <th>Name</th>\n    <th></th>\n    <th></th>\n    <th>IUPAC Official Name</th>\n  </tr>\n</thead>\n<tbody>\n  <tr>\n    <td>(A)</td>\n    <td>Unnilunium</td>\n    <td>(i)</td>\n    <td>Mendelevium</td>\n  </tr>\n  <tr>\n    <td>(B)</td>\n    <td>Unniltrium</td>\n    <td>(ii)</td>\n    <td>Lawrencium</td>\n  </tr>\n  <tr>\n    <td>(C)</td>\n    <td>Unnilhexium</td>\n    <td>(iii)</td>\n    <td>Seaborgium</td>\n  </tr>\n  <tr>\n    <td>(D)</td>\n    <td>Unununnium</td>\n    <td>(iv)</td>\n    <td>Darmstadtium</td>\n  </tr>\n</tbody>\n</table>",
+      "options": [
+        {
+          "key": "A",
+          "value": "(B), (ii)"
+        },
+        {
+          "key": "B",
+          "value": "(C), (iii)"
+        },
+        {
+          "key": "C",
+          "value": "(D), (iv)"
+        },
+        {
+          "key": "D",
+          "value": "(A), (i)"
+        }
+      ],
+      "answer": "C",
+      "explanation": "Unununnium<br>Atomic number = 111<br>IUPAC official name : Roentgenium (Rg) not Darmstadtium."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Match the following :\n<br><table>\n<thead>\n  <tr>\n    <th>Oxide</th>\n    <th></th>\n    <th></th>\n    <th>Nature</th>\n  </tr>\n</thead>\n<tbody>\n  <tr>\n    <td>(A)</td>\n    <td>CO</td>\n    <td>(i)</td>\n    <td>Basic</td>\n  </tr>\n  <tr>\n    <td>(B)</td>\n    <td>BaO</td>\n    <td>(ii)</td>\n    <td>Neutral</td>\n  </tr>\n  <tr>\n    <td>(C)</td>\n    <td>Al<sub>2</sub>O<sub>3</sub></td>\n    <td>(iii)</td>\n    <td>Acidic</td>\n  </tr>\n  <tr>\n    <td>(D)</td>\n    <td>Cl<sub>2</sub>O<sub>7</sub></td>\n    <td>(iv)</td>\n    <td>Amphoteric</td>\n  </tr>\n</tbody>\n</table><br>Which of the following is correct option?",
+      "options": [
+        {
+          "key": "A",
+          "value": "<table>\n<thead>\n  <tr>\n    <th>(A)</th>\n    <th>(B)</th>\n    <th>(C)</th>\n    <th>(D)</th>\n  </tr>\n</thead>\n<tbody>\n  <tr>\n    <td>(ii)</td>\n    <td>(i)</td>\n    <td>(iv)</td>\n    <td>(iii)</td>\n  </tr>\n</tbody>\n</table>"
+        },
+        {
+          "key": "B",
+          "value": "<table>\n<thead>\n  <tr>\n    <th>(A)</th>\n    <th>(B)</th>\n    <th>(C)</th>\n    <th>(D)</th>\n  </tr>\n</thead>\n<tbody>\n  <tr>\n    <td>(iii)</td>\n    <td>(iv)</td>\n    <td>(i)</td>\n    <td>(ii)</td>\n  </tr>\n</tbody>\n</table>"
+        },
+        {
+          "key": "C",
+          "value": "<table>\n<thead>\n  <tr>\n    <th>(A)</th>\n    <th>(B)</th>\n    <th>(C)</th>\n    <th>(D)</th>\n  </tr>\n</thead>\n<tbody>\n  <tr>\n    <td>(iv)</td>\n    <td>(iii)</td>\n    <td>(ii)</td>\n    <td>(i)</td>\n  </tr>\n</tbody>\n</table>"
+        },
+        {
+          "key": "D",
+          "value": "<table>\n<thead>\n  <tr>\n    <th>(A)</th>\n    <th>(B)</th>\n    <th>(C)</th>\n    <th>(D)</th>\n  </tr>\n</thead>\n<tbody>\n  <tr>\n    <td>(i)</td>\n    <td>(ii)</td>\n    <td>(iii)</td>\n    <td>(iv)</td>\n  </tr>\n</tbody>\n</table>"
+        }
+      ],
+      "answer": "A",
+      "explanation": "CO : Neutral oxide<br>BaO : Basic oxide<br>Al<sub>2</sub>O<sub>3</sub> : Amphoteric oxide<br>Cl<sub>2</sub>O<sub>7</sub> : Acidic oxide"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "For the second period elements the correct increasing order of first ionization enthalpy is :",
+      "options": [
+        {
+          "key": "A",
+          "value": "Li &lt; B &lt; Be &lt; C &lt; N &lt; O &lt; F &lt; Ne"
+        },
+        {
+          "key": "B",
+          "value": "Li &lt; Be &lt; B &lt; C &lt; O &lt; N &lt; F &lt; Ne"
+        },
+        {
+          "key": "C",
+          "value": "Li &lt; B &lt; Be &lt; C &lt; O &lt; N &lt; F &lt; Ne"
+        },
+        {
+          "key": "D",
+          "value": "Li &lt; Be &lt; B &lt; C &lt; N &lt; O &lt; F &lt; Ne "
+        }
+      ],
+      "answer": "C",
+      "explanation": "Ionisation enthalpy increases in a period from left to right, because of increased nuclear charge and decrease in atomic radii. But because of half filled orbitals of Be, N and fully filled orbitals of Ne, stability of those atoms inceases.\n<br><br>So, the correct increasing order of first\nionisation enthalpy will be :\n<br>Li &lt; B &lt; Be &lt; C &lt; O &lt; N &lt; F &lt; Ne"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Which of the following oxides is most acidic in\nnature?",
+      "options": [
+        {
+          "key": "A",
+          "value": "MgO"
+        },
+        {
+          "key": "B",
+          "value": "BeO"
+        },
+        {
+          "key": "C",
+          "value": "BaO"
+        },
+        {
+          "key": "D",
+          "value": "CaO"
+        }
+      ],
+      "answer": "B",
+      "explanation": "In metals, on moving down the group,\nmetallic character increases, so basic nature\nincreases hence most acidic will be BeO. In fact, BeO is amphoteric\noxide while other given oxides are basic oxides."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The correct order of atomic radii in group 13\nelements is",
+      "options": [
+        {
+          "key": "A",
+          "value": "B &lt; Al &lt; In &lt; Ga &lt; Tl"
+        },
+        {
+          "key": "B",
+          "value": "B &lt; Al &lt; Ga &lt; In &lt; Tl"
+        },
+        {
+          "key": "C",
+          "value": "B &lt; Ga &lt; Al &lt; Tl &lt; In"
+        },
+        {
+          "key": "D",
+          "value": "B &lt; Ga &lt; Al &lt; In &lt; Tl "
+        }
+      ],
+      "answer": "D",
+      "explanation": "Ga is slightly smaller than Al due poor shielding of d e<sup>–</sup> so Z<sub>eff</sub> increasing.\n<br><br>So, Atomic size : B &lt; Ga &lt; Al &lt; In &lt; Tl"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The element Z = 114 has been discovered recently. It will belong to which of the following family/group and electronic configuration ? ",
+      "options": [
+        {
+          "key": "A",
+          "value": "Carbon family, [Rn] 5f<sup>14</sup> 6d<sup>10</sup> 7s<sup>2</sup> 7p<sup>2</sup>"
+        },
+        {
+          "key": "B",
+          "value": "Oxygen family, [Rn] 5f<sup>14</sup> 6d<sup>10</sup> 7s<sup>2</sup> 7p<sup>4</sup>"
+        },
+        {
+          "key": "C",
+          "value": "Nitrogen family, [Rn] 5f<sup>14</sup> 6d<sup>10</sup> 7s<sup>2</sup> 7p<sup>6</sup>"
+        },
+        {
+          "key": "D",
+          "value": "Halogen family, [Rn] 5f<sup>14</sup> 6d<sup>10</sup> 7s<sup>2</sup> 7p<sup>5</sup>"
+        }
+      ],
+      "answer": "A",
+      "explanation": "The electronic configuration of th element with Z = 114 is [Rn] 5f<sup>14</sup> 6d<sup>10</sup> 7s<sup>2</sup> 7p<sup>2</sup>. Hence it belongs to the carbon family which has the same outer electronic configuaration."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The species Ar, K<sup>+</sup> and Ca<sup>2+</sup> contain the same number of electrons. In which order do their radii increase ? ",
+      "options": [
+        {
+          "key": "A",
+          "value": "Ca<sup>2+</sup> &lt; K<sup>+</sup> &lt; Ar"
+        },
+        {
+          "key": "B",
+          "value": "K<sup>+</sup> &lt; Ar &lt; Ca<sup>2+</sup>"
+        },
+        {
+          "key": "C",
+          "value": "Ar &lt; K<sup>+</sup> &lt; Ca<sup>2+</sup>"
+        },
+        {
+          "key": "D",
+          "value": "Ca<sup>2+</sup> &lt; Ar &lt; K<sup>+</sup>"
+        }
+      ],
+      "answer": "A",
+      "explanation": "For isoelectronic species, radius of atom decreases with increase in nuclear charge."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Which of the following orders of ionic radii is correctly represented ? ",
+      "options": [
+        {
+          "key": "A",
+          "value": "H<sup>$$-$$</sup> &gt; H$$^ \\bullet $$ &gt; H<sup>+</sup>"
+        },
+        {
+          "key": "B",
+          "value": "Na<sup>+</sup> &gt; F<sup>$$-$$</sup> &gt; O<sup>2$$-$$</sup>"
+        },
+        {
+          "key": "C",
+          "value": "F<sup>$$-$$</sup> &gt; O<sup>2$$-$$</sup> &gt; Na<sup>+</sup>"
+        },
+        {
+          "key": "D",
+          "value": "A$$l$$<sup>3+</sup> &gt; Mg<sup>2+</sup> &gt; N<sup>3$$-$$</sup>"
+        }
+      ],
+      "answer": "A",
+      "explanation": "Cation loose electrons are smaller in size than the parent atom, where anions gain electrons are larger in size than the parent atom.<br><br>\nHence the order is H<sup>-</sup> &gt; H &gt; H<sup>+</sup>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Which one of the following arrangements represents the correct order of least negative to most negative electron gain enthalpy for C, Ca, Al, F and O? ",
+      "options": [
+        {
+          "key": "A",
+          "value": "A$$l$$ &lt; Ca &lt; O &lt; C &lt; F"
+        },
+        {
+          "key": "B",
+          "value": "A$$l$$ &lt; O &lt; C &lt; Ca &lt; F"
+        },
+        {
+          "key": "C",
+          "value": "C &lt; F &lt; O &lt; A$$l$$ &lt; Ca"
+        },
+        {
+          "key": "D",
+          "value": "Ca &lt; A$$l$$ &lt; C &lt; O &lt; F"
+        }
+      ],
+      "answer": "D",
+      "explanation": "Electron gain enthalpy becomes less negative from top to bottom in a group while it becomes more negative from left to right within a period."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Identify the wrong statement in the following. ",
+      "options": [
+        {
+          "key": "A",
+          "value": "Amongst isoelectronic species, smaller the positive charge on the cation, smaller is the ionic radius. "
+        },
+        {
+          "key": "B",
+          "value": "Amongst isoelectronic species, greater the negative charge on the anion, larger is the ionic radius. "
+        },
+        {
+          "key": "C",
+          "value": "Atomic radius of the elements increases as one moves down the first group of the periodic table. "
+        },
+        {
+          "key": "D",
+          "value": "Atomic radius of the elements decreases as one moves across from left to right in the 2<sup>nd</sup> period of the periodic table. "
+        }
+      ],
+      "answer": "A",
+      "explanation": "When positive charge on the cation increases, effective nuclear charge increases. Thus atomic size decreases."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "What is the value of electron gain enthalpy of Na<sup>+</sup> if IE<sub>1</sub> of Na = 5.1 eV? ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$-$$ 5.1 eV"
+        },
+        {
+          "key": "B",
+          "value": "$$-$$ 10.2 eV"
+        },
+        {
+          "key": "C",
+          "value": "+2.55 eV"
+        },
+        {
+          "key": "D",
+          "value": "+10.2 eV"
+        }
+      ],
+      "answer": "A",
+      "explanation": "Na $$ \\to $$ Na<sup>+</sup> + e<sup>-</sup>; $$\\Delta $$H = 5.1 eV<br><br>\nNa<sup>+</sup> + e<sup>-</sup> $$ \\to $$ Na; $$\\Delta $$H = -5.1 eV"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Among the elements Ca, Mg, P and Cl, the order of increasing atomic radii is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "Mg &lt; Ca &lt; Cl &lt; P"
+        },
+        {
+          "key": "B",
+          "value": "Cl &lt; P &lt; Mg &lt; Ca"
+        },
+        {
+          "key": "C",
+          "value": "P &lt; Cl &lt; Ca &lt; Mg"
+        },
+        {
+          "key": "D",
+          "value": "Ca &lt; Mg &lt; P &lt; Cl"
+        }
+      ],
+      "answer": "B",
+      "explanation": "Atomic radius decreases on moving from left to right in a period. so order of sizes for Cl, P and Mg is Cl &lt; P &lt; Mg. Down the group size increases. So overall order is : Cl &lt; P &lt; Mg &lt; Ca."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Among the following which one has the highest cation to anion size ratio ? ",
+      "options": [
+        {
+          "key": "A",
+          "value": "CsI"
+        },
+        {
+          "key": "B",
+          "value": "CsF"
+        },
+        {
+          "key": "C",
+          "value": "LiF"
+        },
+        {
+          "key": "D",
+          "value": "NaF"
+        }
+      ],
+      "answer": "B",
+      "explanation": "The ratio in cation and anion size will be maximum when the cation is largest size and the anion is smallest size. So among the given species, Cs<sup>+</sup> has maximum size among given cations and F<sup>-</sup> has smallest size among the given anions, So Cs/F has highest r<sub>c</sub>/r<sub>a</sub>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Which of the following represents the correct order of increasing electron gain enthalpy with negative sign for the elements O, S, F and C$$l$$ ? ",
+      "options": [
+        {
+          "key": "A",
+          "value": "C$$l$$ &lt; F &lt; O &lt; S"
+        },
+        {
+          "key": "B",
+          "value": "O &lt; S &lt; F &lt; C$$l$$"
+        },
+        {
+          "key": "C",
+          "value": "F &lt; S &lt; O &lt; C$$l$$"
+        },
+        {
+          "key": "D",
+          "value": "S &lt; O &lt; C$$l$$ &lt; F"
+        }
+      ],
+      "answer": "B",
+      "explanation": "Cl atom has the highest electron affinity in the periodic table. F is a member of group 17 has highest electron gain enthalpy than S which is a group 16 element. This is turn is higher than the electron affinity of O atom. Thus,<br><br>\nCl &gt; F &gt; S &gt; O<br><br>\n"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The correct order of the decreasing ionic radii among the following isoelectronic species is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "Ca<sup>2+</sup> &gt; K<sup>+</sup> &gt; S<sup>2$$-$$</sup> &gt; C$$l$$<sup>$$-$$</sup>"
+        },
+        {
+          "key": "B",
+          "value": "C$$l$$<sup>$$-$$</sup> &gt; S<sup>2$$-$$</sup> &gt; Ca<sup>2+</sup> &gt; K<sup>+</sup>"
+        },
+        {
+          "key": "C",
+          "value": "S<sup>2$$-$$</sup> &gt; Cl<sup>$$-$$</sup> &gt; K<sup>+</sup> &gt; Ca<sup>2+</sup>"
+        },
+        {
+          "key": "D",
+          "value": "K<sup>+</sup> &gt; Ca<sup>2+</sup> &gt; Cl<sup>$$-$$</sup> &gt; S<sup>2$$-$$</sup>"
+        }
+      ],
+      "answer": "C",
+      "explanation": "For isoelectronic species, ionic radius increases when there is increase in negative charge. It happens because effective nuclear charge on the atom (Z<sub>eff</sub>) decreases.<br><br>\nSame when ionic radius decreases with increase in positive charge as  Z<sub>eff</sub> increases."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Amongst the elements with following electronic configurations, which one of them may have the highest ionisation energy ? ",
+      "options": [
+        {
+          "key": "A",
+          "value": "Ne [3s<sup>2</sup> 3p<sup>2</sup>]"
+        },
+        {
+          "key": "B",
+          "value": "Ar [3d<sup>10</sup> 4s<sup>2</sup> 4p<sup>3</sup>]"
+        },
+        {
+          "key": "C",
+          "value": "Ne [3s<sup>2</sup> 3p<sup>1</sup>]"
+        },
+        {
+          "key": "D",
+          "value": "Ne [3s<sup>2</sup> 3p<sup>3</sup>]"
+        }
+      ],
+      "answer": "D",
+      "explanation": "Among the given options (a), (c) and (d), the option (d) has the highest ionisation energy because of extra stability associated with half-filled 3p-orbital. In option (b), the presence of 3d<sup>10</sup> electrons offers shielding effect, as a result the 4p<sup>3</sup> electrons do not experience much nuclear charge and hence the electrons can be removed easily."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "With which of the following electronic configuration an atom has the lowest ionisation enthalpy ? ",
+      "options": [
+        {
+          "key": "A",
+          "value": "1s<sup>2</sup> 2s<sup>2</sup> 2p<sup>3</sup>"
+        },
+        {
+          "key": "B",
+          "value": "1s<sup>2</sup> 2s<sup>2</sup> 2p<sup>5</sup> 3s<sup>1</sup>"
+        },
+        {
+          "key": "C",
+          "value": "1s<sup>2</sup> 2s<sup>2</sup> 2p<sup>6</sup>"
+        },
+        {
+          "key": "D",
+          "value": "1s<sup>2</sup> 2s<sup>2</sup> 2p<sup>5</sup>"
+        }
+      ],
+      "answer": "B",
+      "explanation": "The larger the atomic size, smaller is the value of the ionisation enthalpy. Again higher the screening effect, lesser is the value of ionisation potential, So <b>option(b)</b> has lowest ionisation enthalpy."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Identify the correct order of the size of the following : ",
+      "options": [
+        {
+          "key": "A",
+          "value": "Ca<sup>2+</sup> &lt; K<sup>+</sup> &lt; Ar &lt; Cl<sup>$$-$$</sup> &lt; S<sup>2$$-$$</sup>"
+        },
+        {
+          "key": "B",
+          "value": "Ar &lt; Ca<sup>2+</sup> &lt; K<sup>+</sup> &lt; Cl<sup>$$-$$</sup> &lt; S<sup>2$$-$$</sup>"
+        },
+        {
+          "key": "C",
+          "value": "Ca<sup>2+</sup> &lt; Ar &lt; K<sup>+</sup> &lt; Cl<sup>$$-$$</sup> &lt; S<sup>2$$-$$</sup>"
+        },
+        {
+          "key": "D",
+          "value": "Ca<sup>2+</sup> &lt; K<sup>+</sup> &lt; Ar &lt; S<sup>2$$-$$</sup> &lt; Cl<sup>$$-$$</sup>"
+        }
+      ],
+      "answer": "A",
+      "explanation": "Among isoelectronic ions, ionic radius of anions is more than that of cations. Further size of the anion increases with increase in negative charge and size of the cation decreases with increase in positive charge."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Which one of the following ionic species has the greatest proton affinity to form stable compound ? ",
+      "options": [
+        {
+          "key": "A",
+          "value": "NH$$_2^ - $$"
+        },
+        {
+          "key": "B",
+          "value": "F<sup>$$-$$</sup>"
+        },
+        {
+          "key": "C",
+          "value": "I<sup>$$-$$</sup>"
+        },
+        {
+          "key": "D",
+          "value": "HS<sup>$$-$$</sup>"
+        }
+      ],
+      "answer": "A",
+      "explanation": "Going from left to right across a period in the periodic table, the basicity decreases as the electronegativity of the atom possessing the lone pair of electron increases. Hence basicity of $$NH_2^-$$ is higher than F<sup>-</sup>. In moving down a group, as the atomic mass increases, basicity decreases. Hence F<sup>-</sup> is more basic than I<sup>-</sup> and HO<sup>-</sup> is more basic than HS-. Hence among the ionic species, $$NH_2^-$$ has maximum proton affinity."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Which one of the following orders is not in accordance with the property stated against it? ",
+      "options": [
+        {
+          "key": "A",
+          "value": "F<sub>2</sub> &gt; Cl<sub>2</sub> &gt; Br<sub>2</sub> &gt; I<sub>2</sub> : Bond dissociation energy "
+        },
+        {
+          "key": "B",
+          "value": "F<sub>2</sub> &gt; Cl<sub>2</sub> &gt; Br<sub>2</sub> &gt; I<sub>2</sub> : Oxidising power"
+        },
+        {
+          "key": "C",
+          "value": "HI &gt; HBr &gt; HCl &gt; HF :  Acidic property in water "
+        },
+        {
+          "key": "D",
+          "value": "F<sub>2</sub> &gt; Cl<sub>2</sub> &gt; Br<sub>2</sub> &gt; I<sub>2</sub> : Electronegativity. "
+        }
+      ],
+      "answer": "A",
+      "explanation": "Bond dissociation energy is kcal/mol of F - F, Cl - Cl, Br - Br and I - I are 38, 57, 45.5 and 35.6 respectively. \n<br><br> Bond dissociation energy of fluorine is less because of its small size and repulsion between electrons of two atoms."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Which one of the following orders is not in accordance with the property stated against it ? ",
+      "options": [
+        {
+          "key": "A",
+          "value": "F<sub>2</sub> &gt; Cl<sub>2</sub> &gt; Br<sub>2</sub> &gt; I<sub>2</sub> : Bond dissociation energy "
+        },
+        {
+          "key": "B",
+          "value": "F<sub>2</sub> &gt; Cl<sub>2</sub> &gt; Br<sub>2</sub> &gt; I<sub>2</sub> : Oxidising power"
+        },
+        {
+          "key": "C",
+          "value": "HI &gt; HBr &gt; HCl &gt; HF : Acidic property in water "
+        },
+        {
+          "key": "D",
+          "value": "F<sub>2</sub> &gt; Cl<sub>2</sub> &gt; Br<sub>2</sub> &gt; I<sub>2</sub> : Electronegativity"
+        }
+      ],
+      "answer": "A",
+      "explanation": "$$\\mathop {F - F}\\limits_{38} \\,\\,\\,\\mathop {Cl - Cl}\\limits_{57} \\,\\,\\mathop {Br - Br}\\limits_{45.5} \\,\\,\\mathop {I - I}\\limits_{35.6} $$<br>\nX - X bond dissociation energy (kcal/mol)<br><br>\nThe lower value of bond dissociation energy of fluorine is due to the high inter-electronic repulsion between non-bonding electrons in the 2p-orbitals of fluorine. As a result F - F bond is weaker in comparison to Cl - Cl and Br - Br bonds."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Which one of the following arrangements represents the correct order of electron gain enthalpy (with negative sign) of the given atomic species ? ",
+      "options": [
+        {
+          "key": "A",
+          "value": "S &lt; O &lt; Cl &lt; F"
+        },
+        {
+          "key": "B",
+          "value": "Cl &lt; F &lt; S &lt; O"
+        },
+        {
+          "key": "C",
+          "value": "F &lt; Cl &lt; O &lt; S"
+        },
+        {
+          "key": "D",
+          "value": "O &lt; S &lt; F &lt; Cl"
+        }
+      ],
+      "answer": "D",
+      "explanation": "The molar enthalpy change accompanying the addition of an electron to an atom (or ion) is known as electron gain enthalpy.<br>\nGenerally in increases on moving from left to right in a period and in a group it decreases as the size increases.<br>\nException: Because of the small size of F, electron-electron repulsion present in its relatively compact 2p-subshell, do not easily allow the addition of an extra electron. On the other hand, Cl because of its comparatively bigger size than F, allows the addition of an extra electron more easily.<br>\n$$\\mathop O\\limits_{ - 1.48}  &lt; \\mathop S\\limits_{ - 2.0}  &lt; \\mathop F\\limits_{ - 3.6}  &lt; \\mathop {Cl}\\limits_{ - 3.8} $$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Ionic radii are",
+      "options": [
+        {
+          "key": "A",
+          "value": "inversely proportional to effective nuclear charge"
+        },
+        {
+          "key": "B",
+          "value": "inversely proportional to square of effective nuclear charge "
+        },
+        {
+          "key": "C",
+          "value": "directly proportional to effective nuclear charge"
+        },
+        {
+          "key": "D",
+          "value": "directly proportional to square of effective nuclear charge. "
+        }
+      ],
+      "answer": "A",
+      "explanation": "Ionic radius in the n<sup>th</sup> orbit is given by<br><br>\nr<sub>n</sub> = $${{{n^2}{a_0}} \\over {{Z^*}}}$$ or, $${r_n} \\propto {1 \\over {{Z^*}}}$$<br><br>\nWhen n is the principal quantum number, a<sub>0</sub> the Bohr's radius of H-atom and Z<sup>*</sup>, the effective nuclear charge."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The ions O<sup>2$$-$$</sup>, F<sup>$$-$$</sup>, Na<sup>+</sup>, Mg<sup>2+</sup> and Al<sup>3+</sup> are isoelectronic. Their ionic radii show ",
+      "options": [
+        {
+          "key": "A",
+          "value": "a significant increase from O<sup>2$$-$$</sup> to Al<sup>3+</sup>"
+        },
+        {
+          "key": "B",
+          "value": "a significant decrease from O<sup>2$$-$$</sup> to Al<sup>3+</sup>"
+        },
+        {
+          "key": "C",
+          "value": "an increase from O2<sup>$$-$$</sup> to F<sup>$$-$$</sup> and then decrease from Na<sup>+</sup> to Al<sup>3+</sup> "
+        },
+        {
+          "key": "D",
+          "value": "a decrease from O2<sup>$$-$$</sup> to F<sup>$$-$$</sup> and then increase from Na<sup>+</sup> to Al<sup>3+</sup>."
+        }
+      ],
+      "answer": "B",
+      "explanation": "Amongst isoelectronic ions, ionic radii of anions is more than that of cations. Further size of the anion increases with increase in -ve charge and size of cation decreases with increase in +ve charge. Hence, the correct order is<br><br>\nO<sup>2-</sup> &gt; F<sup>-</sup> &gt; Na<sup>+</sup> &gt; Mg<sup>2+</sup> &gt; Al<sup>3+</sup>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Which of the following order is wrong? ",
+      "options": [
+        {
+          "key": "A",
+          "value": "NH<sub>3</sub> &lt; PH<sub>3</sub> &lt; AsH<sub>3</sub> $$-$$ acidic"
+        },
+        {
+          "key": "B",
+          "value": "Li &lt; Be &lt; B &lt; C $$-$$ 1<sup>st</sup> IP"
+        },
+        {
+          "key": "C",
+          "value": "Al<sub>2</sub>O<sub>3</sub> &lt; MgO &lt; Na<sub>2</sub>O &lt; K<sub>2</sub>O $$-$$ basic"
+        },
+        {
+          "key": "D",
+          "value": "Li<sup>+</sup> &lt; Na<sup>+</sup> &lt; K<sup>+</sup> &lt; Cs<sup>+</sup> $$-$$ ionic radius."
+        }
+      ],
+      "answer": "B",
+      "explanation": "Along the period, I.P. generally increases but not regularly. Be and B are exceptions. First I.P. increases in moving from left to right in a period, but I.P. of B is lower than Be. \n<br><br>As in case of boron, 2p<sup>1</sup> electron have to be removed to get B<sup>+</sup>(1s<sup>2</sup> 2s<sup>2</sup>) \n from B(1s<sup>2</sup> 2s<sup>2</sup> 2p<sup>1</sup>), while in case of Be (1s<sup>2</sup>2s<sup>2</sup>) electron have to be removed to get Be<sup>+</sup> (1s<sup>2</sup>2s<sup>1</sup>). p electron can be removed more easily than s electron so the energy required to remove electron will be less in case of boron."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Correct order of 1<sup>st</sup> ionization potential among following elements Be, B, C, N, O is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "B &lt; Be &lt; C &lt; O &lt; N"
+        },
+        {
+          "key": "B",
+          "value": "B &lt; Be &lt; C &lt; N &lt; O"
+        },
+        {
+          "key": "C",
+          "value": "Be &lt; B &lt; C &lt; N &lt; O"
+        },
+        {
+          "key": "D",
+          "value": "Be &lt; B &lt; C &lt; O &lt; N"
+        }
+      ],
+      "answer": "A",
+      "explanation": "Be – 1s<sup>2</sup>2s<sup>2</sup>; \n<br><br>B – 1s<sup>2</sup>2s<sup>2</sup>2p<sup>1</sup>; \n<br><br>C – 1s<sup>2</sup>2s<sup>2</sup>2p<sup>2</sup>; \n<br><br>N – 1s<sup>2</sup>2s<sup>2</sup>2p<sup>3</sup>; \n<br><br>O – 1s<sup>2</sup>2s<sup>2</sup>2p<sup>4</sup>. \n<br><br>IP increases along the period. But IP of Be &gt; B. Further IP of O &lt; N because atoms with fully  or partly filled orbitals are most stable and hence have high ionisation energy. \n<br><br>As in case of boron, 2p<sup>1</sup> electron have to be removed to get B<sup>+</sup>(1s<sup>2</sup> 2s<sup>2</sup>) \n from B(1s<sup>2</sup> 2s<sup>2</sup> 2p<sup>1</sup>), while in case of Be (1s<sup>2</sup>2s<sup>2</sup>) electron have to be removed to get Be<sup>+</sup> (1s<sup>2</sup>2s<sup>1</sup>). p electron can be removed more easily than s electron so the energy required to remove electron will be less in case of boron."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Which statement is wrong ? ",
+      "options": [
+        {
+          "key": "A",
+          "value": "Bond energy of F<sub>2</sub> &gt; Cl<sub>2</sub>"
+        },
+        {
+          "key": "B",
+          "value": "Electronegativity of F &gt; Cl"
+        },
+        {
+          "key": "C",
+          "value": "F is more oxidising than Cl "
+        },
+        {
+          "key": "D",
+          "value": "Electron affinity of Cl &gt; F"
+        }
+      ],
+      "answer": "A",
+      "explanation": "Bond energy generally decreases on moving\nfrom top to bottom along a group. It happens due to fact\nthat size increases on moving down the group and\nthus, the two nuclei are far apart and less capable\nof holding the two atoms together. \n<br><br>But in case of F<sub>2</sub> molecule due to more repulsion in between non-bonding electron pair (2p) of two fluorines (due to small size of F-atom) in comparison to non-bonding electron pair (3p) in chlorine, the bond energy of F<sub>2</sub> is less than Cl<sub>2</sub>.<br><br>\nBE(F<sub>2</sub>) = 158.5 kJ/mole and<br><br>\nBE(Cl<sub>2</sub>)= 242.6 kJ/mole"
+    }
+  ]
+}

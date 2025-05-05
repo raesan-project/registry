@@ -1,0 +1,1231 @@
+{
+  "_index": {
+    "name": "Structure of Atom"
+  },
+  "_children": [
+    {
+      "_type": "single_mcq",
+      "body": "<p>The quantum numbers of four electrons are given below :</p>\n<p>I. $$n=4 ; I=2 ; m_1=-2 ; s=-\\frac{1}{2}$$</p>\n<p>II. $$n=3 ; I=2 ; m_1=1 ; s=+\\frac{1}{2}$$</p>\n<p>III. $$n=4 ; I=1 ; m_1=0 ; s=+\\frac{1}{2}$$</p>\n<p>IV. $$n=3 ; I=1 ; m_1=-1 ; s=+\\frac{1}{2}$$</p>\n<p>The correct decreasing order of energy of these electrons is</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "IV $$>$$ II $$>$$ III $$>$$ I\n"
+        },
+        {
+          "key": "B",
+          "value": "I $$>$$ III $$>$$ II $$>$$ IV\n"
+        },
+        {
+          "key": "C",
+          "value": "III $$>$$ I $$>$$ II $$>$$ IV\n"
+        },
+        {
+          "key": "D",
+          "value": "I $$>$$ II $$>$$ III $$>$$ IV"
+        }
+      ],
+      "answer": "B",
+      "explanation": "<p>(I) $$n=4, I=2, m I=-2, s=-\\frac{1}{2}$$; represents $$4 d(n+I=6)$$</p>\n<p>(II) $$n=3, I=2, m_I=1, s=+\\frac{1}{2}$$; represents $$3 d(n+I=5)$$</p>\n<p>(III) $$n=4, I=1, m_I=0, s=+\\frac{1}{2}$$; represents $$4 p(n+I=5)$$</p>\n<p>(IV) $$n=3, I=1, m_1=-1, s=+\\frac{1}{2}$$; represents $$3 p(n+I=4)$$</p>\n<p>Order of energy depends on the $$(n+I)$$, greater is the $$(n+I)$$ value greater is the energy, if $$(n+I)$$ is same, then it depends on $n$; if '$$n$$' is more, energy is more.</p>\n<p>Step-1: According to $$(\\mathrm{n}+\\mathrm{I})$$</p>\n<p>$$\\text { Energy }=(\\mathrm{I})>(\\mathrm{II})=(\\mathrm{III})>(\\text { IV) }$$</p>\n<p>Step-2 : If $$n \\uparrow$$, then energy increases</p>\n<p>$$\\text { Energy }=\\text { (I) }>\\text { (III) }>\\text { (II) }>\\text { (IV) }$$</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>The energy of an electron in the ground state $$\\mathrm{(n=1)}$$ for $$\\mathrm{He}^{+}$$ ion is $$\\mathrm{-x} \\mathrm{~J}$$, then that for an electron in $$\\mathrm{(n=2)}$$ state for $$\\mathrm{Be}^{3+}$$ ion in $$\\mathrm{J}$$ is</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$-x$$\n"
+        },
+        {
+          "key": "B",
+          "value": "$$-\\frac{x}{9}$$\n"
+        },
+        {
+          "key": "C",
+          "value": "$$-4 x$$\n"
+        },
+        {
+          "key": "D",
+          "value": "$$-\\frac{4}{9} x$$"
+        }
+      ],
+      "answer": "A",
+      "explanation": "<p>The energy levels of an electron in a hydrogen-like ion (an atom or ion with only one electron) can be quantified using the formula:</p>\n\n<p>$$ E_n = -\\frac{Z^2 \\cdot 13.6 \\text{ eV}}{n^2} $$</p>\n\n<p>where:\n\n<ul>\n\n<li>$$ E_n $$ is the energy of the electron in the nth energy level,</li><br>\n\n<li>$$ Z $$ is the atomic number (number of protons) of the ion,</li><br>\n\n<li>$$ 13.6 \\text{ eV} $$ is the ionization energy of hydrogen,</li><br>\n\n<li>$$ n $$ is the principal quantum number (the energy level).</p></li>\n\n</ul>\n\n<p>Since we need to compare this across different ions in different energy states, let's plug in some numbers:</p>\n\n<p>For $$ \\mathrm{He}^{+} $$ (Helium ion):\n\n<ul>\n\n<li>$$ Z = 2 $$ (as helium has 2 protons)</li><br>\n\n<li>$$ n = 1 $$ for ground state</li>\n\n</ul>\n\n<p>$$ E_1 = -\\frac{(2)^2 \\cdot 13.6 \\text{ eV}}{1^2} = -4 \\cdot 13.6 \\text{ eV} = -54.4 \\text{ eV} $$</p>\n\n<p>However, the problem gives the energy in joules, and it's given a constant $$ x $$. So, $$ x = 54.4 \\text{ eV} $$ (converted to joules as needed).</p></p>\n\n<p>Next, for the $$ \\mathrm{Be}^{3+} $$ ion:\n\n<ul>\n\n<li>$$ Z = 4 $$ (as beryllium has 4 protons)</li><br>\n\n<li>$$ n = 2 $$</li>\n\n</ul>\n\n<p>$$ E_2 = -\\frac{(4)^2 \\cdot 13.6 \\text{ eV}}{2^2} = -\\frac{16 \\cdot 13.6 \\text{ eV}}{4} = -54.4 \\text{ eV} $$</p>\n\n<p>Since initially $$ x = 54.4 \\text{ eV} $$ (or its equivalent in joules) for $$ \\mathrm{He}^{+} \\text{ at } n=1 $$, and now we have the same energy for $$ \\mathrm{Be}^{3+} \\text{ at } n=2 $$, the energy level in joules would also equate to $$ x $$, just at a different energy state and ion.</p></p>\n\n<p>So, the answer is:</p>\n\n<p>Option A: $$ -x $$.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Match List I with List II.</p>\n<p><style type=\"text/css\">\n.tg  {border-collapse:collapse;border-spacing:0;}\n.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}\n.tg .tg-7btt{border-color:inherit;font-weight:bold;text-align:center;vertical-align:top}\n.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}\n</style>\n<table class=\"tg\" style=\"undefined;table-layout: fixed; width: 574px\">\n<colgroup>\n<col style=\"width: 79px\">\n<col style=\"width: 212px\">\n<col style=\"width: 75px\">\n<col style=\"width: 208px\">\n</colgroup>\n<thead>\n  <tr>\n    <th class=\"tg-7btt\"></th>\n    <th class=\"tg-7btt\">List I<br>(Quantum Number)</th>\n    <th class=\"tg-7btt\"></th>\n    <th class=\"tg-7btt\">List II<br>(Information provided)</th>\n  </tr>\n</thead>\n<tbody>\n  <tr>\n    <td class=\"tg-c3ow\">A.</td>\n    <td class=\"tg-0pky\">$$\\mathrm{m_l}$$</td>\n    <td class=\"tg-c3ow\">I.</td>\n    <td class=\"tg-0pky\">Shape of orbital</td>\n  </tr>\n  <tr>\n    <td class=\"tg-c3ow\">B.</td>\n    <td class=\"tg-0pky\">$$\\mathrm{m_s}$$</td>\n    <td class=\"tg-c3ow\">II.</td>\n    <td class=\"tg-0pky\">Size of orbital</td>\n  </tr>\n  <tr>\n    <td class=\"tg-c3ow\">C.</td>\n    <td class=\"tg-0pky\">I</td>\n    <td class=\"tg-c3ow\">III.</td>\n    <td class=\"tg-0pky\">Orientation of orbital</td>\n  </tr>\n  <tr>\n    <td class=\"tg-c3ow\">D.</td>\n    <td class=\"tg-0pky\">n</td>\n    <td class=\"tg-c3ow\">IV.</td>\n    <td class=\"tg-0pky\">Orientation of spin of electron</td>\n  </tr>\n</tbody>\n</table></p>\n<p>Choose the correct answer from the options given below :</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "A-I, B-III, C-II, D-IV\n"
+        },
+        {
+          "key": "B",
+          "value": "A-III, B-IV, C-I, D-II\n"
+        },
+        {
+          "key": "C",
+          "value": "A-III, B-IV, C-II, D-I\n"
+        },
+        {
+          "key": "D",
+          "value": "A-II, B-I, C-IV, D-III"
+        }
+      ],
+      "answer": "B",
+      "explanation": "<p>To match List I (Quantum Numbers) with List II (Information provided), we need to understand what each quantum number represents:</p>\n\n<p>1. <strong>Principal Quantum Number ($$n$$):</strong> This quantum number determines the size and energy level of the orbital. An increase in $$n$$ implies a higher energy level and a larger orbital size.</p>\n\n<p>2. <strong>Azimuthal Quantum Number ($$\\ell$$):</strong> (not directly listed but related to $$\\mathrm{m_l}$$ because $$\\mathrm{m_l}$$ depends on $$\\ell$$): This quantum number defines the shape of the orbital. Different values of $$\\ell$$ correspond to different shapes (s, p, d, f, etc.).</p>\n\n<p>3. <strong>Magnetic Quantum Number ($$\\mathrm{m_l}$$):</strong> This quantum number describes the orientation of the orbital in space. It can take values from $$-\\ell$$ to $$\\ell$$, where each value corresponds to a specific orientation of the orbital.</p>\n\n<p>4. <strong>Spin Quantum Number ($$\\mathrm{m_s}$$):</strong> This quantum number specifies the orientation of the spin of the electron. The two possible values are $$+\\frac{1}{2}$$ and $$-\\frac{1}{2}$$, representing the two possible spin orientations (up or down).</p>\n\n<p>Matching the given options:</p>\n\n<p>A. $$\\mathrm{m_l}$$ - should be matched with \"Orientation of orbital\" (III).<br>\n\n<p>B. $$\\mathrm{m_s}$$ - should be matched with \"Orientation of spin of electron\" (IV).<br></p>\n\n<p>C. I - This is likely intended to be $$\\ell$$, and would be matched with \"Shape of orbital\" (I).<br></p>\n\n<p>D. $$n$$ - relates to \"Size of orbital\" (II), as it affects the distance from the nucleus along with the energy level.</p></p>\n\n<p>Using the understanding above, we can identify the correct matches:</p>\n\n<p>A-III (Orientation of orbital)<br>\n\n<p>B-IV (Orientation of spin of electron)<br></p>\n\n<p>C-I  (Shape of orbital)<br></p>\n\n<p>D-II (Size of orbital)</p></p>\n\n<p>Therefore, the correct answer is:</p>\n\n<p>Option B: A-III, B-IV, C-I, D-II</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Incorrect set of quantum numbers from the following is :</p>\n\n",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$\\mathrm{n}=4,1=3, \\mathrm{~m}_1=-3,-2,-1,0,+1,+2,+3,  \\mathrm{~m}_{\\mathrm{s}}=-1 / 2$$"
+        },
+        {
+          "key": "B",
+          "value": "$$\\mathrm{n}=5,1=2, \\mathrm{~m}_1=-2,-1,+1,+2, \\mathrm{~m}_{\\mathrm{s}}=+1 / 2$$"
+        },
+        {
+          "key": "C",
+          "value": "$$\\mathrm{n}=4,1=2, \\mathrm{~m}_1=-2,-1,0,+1,+2, \\mathrm{m}_{\\mathrm{s}}=-1 / 2$$"
+        },
+        {
+          "key": "D",
+          "value": "$$\\mathrm{n}=5,1=3, \\mathrm{~m}_1=-3,-2,-1,0,+1,+2,+3, \\mathrm{m_s}=+1 / 2$$"
+        }
+      ],
+      "answer": "B",
+      "explanation": "<p>$$\n\\mathrm{n}=5, \\ell=2, \\mathrm{~m}=-2,-1,+1,+2, \\mathrm{~m}_{\\mathrm{s}}=+\\frac{1}{2}\n$$</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Given below are two statements:</p>\n<p>Statement I : The value of wave function, $$\\psi $$ depends upon the coordinates of the electron in the atom.</p>\n<p>Statement II : The probability of finding an electron at a point within an atom is proportional to the orbital wave function.</p>\n<p>In the light of the above statements, choose the correct answer from the options given below:</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "Statement I is true but Statement II is false."
+        },
+        {
+          "key": "B",
+          "value": "Statement I is false but Statement II is true."
+        },
+        {
+          "key": "C",
+          "value": "Both Statement I and Statement II are true."
+        },
+        {
+          "key": "D",
+          "value": "Both Statement I and Statement II are false."
+        }
+      ],
+      "answer": "A",
+      "explanation": "<p>Statement I is correct because in quantum mechanics, the wave function $$\\psi$$ indeed depends on the coordinates (position variables) of the electron in an atom. These coordinates describe where the electron is likely to be at any given time and the wave function varies with these coordinates.</p>\n<p>Statement II, however, contains an inaccuracy. The probability of finding an electron at a point within an atom is not directly proportional to the orbital wave function $$\\psi$$ itself, but rather to the square of its absolute value, $$|\\psi|^2$$. This squared value is referred to as the probability density, and it is what provides the likelihood of locating an electron at a particular point in space.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Select the correct Statements from the following :</p>\n<p>A. Atoms of all elements are composed of two fundamental particles.</p>\n<p>B. The mass of the electron is $$9.10939 \\times 10^{-31} \\mathrm{~kg}$$.</p>\n<p>C. All the isotopes of a given elements show same chemical properties.</p>\n<p>D. Protons and electrons are collectively known as nucleons.</p>\n<p>E. Dalton's atomic theory, regarded the atom as an ultimate particle of matter.</p>\n<p>Choose the correct answer from the options given below.</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "C, D and E only"
+        },
+        {
+          "key": "B",
+          "value": "A and E only"
+        },
+        {
+          "key": "C",
+          "value": "B, C and E only"
+        },
+        {
+          "key": "D",
+          "value": "A, B and C only"
+        }
+      ],
+      "answer": "C",
+      "explanation": "<p>It is statement based question.</p>\n<p>Statements B, C & E are correct.</p>\n<p>(B) Mass of the electron is $$9.10939 \\times 10^{-31} \\mathrm{~kg}$$</p>\n<p>(C) All the isotopes of given elements show same chemical properties.</p>\n<p>(E) Dalton's atomic theory, regarded the atom as an ultimate particle of matter.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>The relation between $$\\mathrm{n}_{\\mathrm{m}},\\left(\\mathrm{n}_{\\mathrm{m}}=\\right.$$ the number of permissible values of magnetic quantum number $$(\\mathrm{m})$$) for a given value of azimuthal quantum number $$(l)$$, is</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$l=2 \\mathrm{n}_{\\mathrm{m}}+1$$"
+        },
+        {
+          "key": "B",
+          "value": "$$\\mathrm{n}_{\\mathrm{m}}=2 l^{2}+1$$"
+        },
+        {
+          "key": "C",
+          "value": "$$\\mathrm{n}_{\\mathrm{m}}=l+2$$"
+        },
+        {
+          "key": "D",
+          "value": "$$l=\\frac{\\mathrm{n}_{\\mathrm{m}}-1}{2}$$"
+        }
+      ],
+      "answer": "D",
+      "explanation": "<p>Sol. Number of permissible values of magnetic quantum number for a given value of azimuthal quantum $$(l)$$</p>\n<p>$$\\Rightarrow \\mathrm{n}_{\\mathrm{m}}=2 \\ell+1$$</p>\n<p>$$\\Rightarrow \\ell=\\frac{\\mathrm{n}_{m}-1}{2}$$</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Match List-I with List-II :</p>\n<p><style type=\"text/css\">\n.tg  {border-collapse:collapse;border-spacing:0;}\n.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg .tg-7btt{border-color:inherit;font-weight:bold;text-align:center;vertical-align:top}\n.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}\n</style>\n<table class=\"tg\">\n<thead>\n  <tr>\n    <th class=\"tg-7btt\"></th>\n    <th class=\"tg-7btt\">List-I<br>(quantum number)</th>\n    <th class=\"tg-7btt\"></th>\n    <th class=\"tg-7btt\">List-II<br>(orbital)</th>\n  </tr>\n</thead>\n<tbody>\n  <tr>\n    <td class=\"tg-0pky\">(a)</td>\n    <td class=\"tg-0pky\">n = 2, l = 1</td>\n    <td class=\"tg-0pky\">(i)</td>\n    <td class=\"tg-0pky\">2s</td>\n  </tr>\n  <tr>\n    <td class=\"tg-0pky\">(b)</td>\n    <td class=\"tg-0pky\">n = 3, l = 2</td>\n    <td class=\"tg-0pky\">(ii)</td>\n    <td class=\"tg-0pky\">3s</td>\n  </tr>\n  <tr>\n    <td class=\"tg-0pky\">(c)</td>\n    <td class=\"tg-0pky\">n = 3, l = 0</td>\n    <td class=\"tg-0pky\">(iii)</td>\n    <td class=\"tg-0pky\">2p</td>\n  </tr>\n  <tr>\n    <td class=\"tg-0pky\">(d)</td>\n    <td class=\"tg-0pky\">n = 2, l = 0</td>\n    <td class=\"tg-0pky\">(iv)</td>\n    <td class=\"tg-0pky\">3d</td>\n  </tr>\n</tbody>\n</table></p>\n<p>Choose the correct answer from the options given below :</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "(a) - (iii), (b) - (iv), (c) - (ii), (d) - (i)"
+        },
+        {
+          "key": "B",
+          "value": "(a) - (iii), (b) - (iv), (c) - (i), (d) - (ii)"
+        },
+        {
+          "key": "C",
+          "value": "(a) - (iv), (b) - (iii), (c) - (i), (d) - (ii)"
+        },
+        {
+          "key": "D",
+          "value": "(a) - (iv), (b) - (iii), (c) - (ii), (d) - (i)"
+        }
+      ],
+      "answer": "A",
+      "explanation": "<p><style type=\"text/css\">\n.tg  {border-collapse:collapse;border-spacing:0;}\n.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg .tg-baqh{text-align:center;vertical-align:top}\n</style>\n<table class=\"tg\" style=\"undefined;table-layout: fixed; width: 284px\">\n<colgroup>\n<col style=\"width: 75px\">\n<col style=\"width: 79px\">\n<col style=\"width: 130px\">\n</colgroup>\n<thead>\n  <tr>\n    <th class=\"tg-baqh\">n</th>\n    <th class=\"tg-baqh\">l</th>\n    <th class=\"tg-baqh\">Subshell notation</th>\n  </tr>\n</thead>\n<tbody>\n  <tr>\n    <td class=\"tg-baqh\">2</td>\n    <td class=\"tg-baqh\">0</td>\n    <td class=\"tg-baqh\">2s</td>\n  </tr>\n  <tr>\n    <td class=\"tg-baqh\">2</td>\n    <td class=\"tg-baqh\">1</td>\n    <td class=\"tg-baqh\">2p</td>\n  </tr>\n  <tr>\n    <td class=\"tg-baqh\">3</td>\n    <td class=\"tg-baqh\">0</td>\n    <td class=\"tg-baqh\">3s</td>\n  </tr>\n  <tr>\n    <td class=\"tg-baqh\">3</td>\n    <td class=\"tg-baqh\">1</td>\n    <td class=\"tg-baqh\">3p</td>\n  </tr>\n  <tr>\n    <td class=\"tg-baqh\">3</td>\n    <td class=\"tg-baqh\">2</td>\n    <td class=\"tg-baqh\">3d</td>\n  </tr>\n</tbody>\n</table></p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>When electromagnetic radiation of wavelength 300 nm falls on the surface of a metal, electrons are emitted with the kinetic energy of 1.68 $$\\times$$ 10<sup>5</sup> J mol<sup>$$-$$1</sup>. What is the minimum energy needed to remove an electron from the metal?</p>\n<p>(h = 6.626 $$\\times$$ 10<sup>$$-$$34</sup> Js, c = 3 $$\\times$$ 10<sup>8</sup> ms<sup>$$-$$1</sup>, N<sub>A</sub> = 6.022 $$\\times$$ 10<sup>23</sup> mol<sup>$$-$$1</sup>)</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "2.31 $$\\times$$ 10<sup>5</sup> J mol<sup>$$-$$1</sup>"
+        },
+        {
+          "key": "B",
+          "value": "2.31 $$\\times$$ 10<sup>6</sup> J mol<sup>$$-$$1</sup>"
+        },
+        {
+          "key": "C",
+          "value": "3.84 $$\\times$$ 10<sup>4</sup> J mol<sup>$$-$$1</sup>"
+        },
+        {
+          "key": "D",
+          "value": "3.84 $$\\times$$ 10<sup>$$-$$19</sup> J mol<sup>$$-$$1</sup>"
+        }
+      ],
+      "answer": "A",
+      "explanation": "<p>Energy of one photon $$ = {{hc} \\over \\lambda }$$ ($$\\lambda$$ = 300 nm)</p>\n<p>For one mole photons, $$E = {{hc} \\over \\lambda } \\times {N_A}$$</p>\n<p>$$E = {{6.626 \\times {{10}^{ - 34}} \\times 3 \\times {{10}^8} \\times 6.023 \\times {{10}^{23}}} \\over {300 \\times {{10}^{ - 9}}}}$$</p>\n<p>$$E = 3.99 \\times {10^5}$$ J mol<sup>$$-$$1</sup></p>\n<p>Kinetic energy $$ = 1.68 \\times {10^5}$$ J mol<sup>$$-$$1</sup></p>\n<p>$${W_0} = E - K.E.$$</p>\n<p>$$ = 3.99 \\times {10^5} - 1.68 \\times {10^5}$$</p>\n<p>$$ = 2.31 \\times {10^5}$$ J mol<sup>$$-$$1</sup></p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>If radius of second Bohr orbit of the He<sup>+</sup> ion is 105.8 pm, what is the radius of third Bohr orbit of Li<sup>2+</sup> ion?</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "158.7 pm"
+        },
+        {
+          "key": "B",
+          "value": "15.87 pm"
+        },
+        {
+          "key": "C",
+          "value": "1.587 pm"
+        },
+        {
+          "key": "D",
+          "value": "158.7 $$\\mathop A\\limits^o $$"
+        }
+      ],
+      "answer": "A",
+      "explanation": "<p>$${r_n} \\propto {{{n^2}} \\over Z}$$</p>\n<p>$${{{r_3}(L{i^{2 + }})} \\over {{r_2}(H{e^ + })}} = {{{{({n_3})}^2}} \\over {Z(L{i^{2 + }})}} \\times {{Z(H{e^ + })} \\over {{{({n_2})}^2}}}$$</p>\n<p>$${{{r_3}(L{i^{2 + }})} \\over {105.8}} = {{{{(3)}^2}} \\over 3} \\times {2 \\over {{{(2)}^2}}}$$</p>\n<p>$$ = 105.8 \\times {3 \\over 2}$$</p>\n<p>$${r_3}(L{i^{2 + }}) = 158.7$$ pm</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A particular station of All India Radio, New Delhi broadcasts on a frequency of 1,368 kHz (kilohertz). The wavelength of the electromagnetic radiation emitted by the transmitter is : [speed of light c = 3.0 $$\\times$$ 10<sup>8</sup> ms<sup>$$-$$1</sup>]",
+      "options": [
+        {
+          "key": "A",
+          "value": "21.92 cm"
+        },
+        {
+          "key": "B",
+          "value": "219.3 m"
+        },
+        {
+          "key": "C",
+          "value": "219.2 m"
+        },
+        {
+          "key": "D",
+          "value": "2192 m"
+        }
+      ],
+      "answer": "B",
+      "explanation": "Energy of electromagnetic radiation (E)<br><br>$$ = {{hc} \\over \\lambda } = h\\gamma $$<br><br>So, $${c \\over \\lambda } = \\gamma $$<br><br>$$ \\Rightarrow \\lambda  = {c \\over \\gamma }$$<br><br>$$\\lambda  = {{3 \\times {{10}^8}} \\over {1368 \\times {{10}^3}}} = 219.3$$ m"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Which of the following series of transitions in the spectrum of hydrogen atom falls in visible region?",
+      "options": [
+        {
+          "key": "A",
+          "value": "Paschen series"
+        },
+        {
+          "key": "B",
+          "value": "Brackett series"
+        },
+        {
+          "key": "C",
+          "value": "Lyman series"
+        },
+        {
+          "key": "D",
+          "value": "Balmer series"
+        }
+      ],
+      "answer": "D",
+      "explanation": "Balmer series lies in visible region.\n<br>Paschen series lies in infra red region.\n<br>Brackett series lies in infra red region.\n<br>Lyman series lies in ultraviolet region."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "4d, 5p, 5f and 6p orbitals are arranged in the order of decreasing energy. The correct option is :",
+      "options": [
+        {
+          "key": "A",
+          "value": "6p &gt; 5f &gt; 4d &gt; 5p"
+        },
+        {
+          "key": "B",
+          "value": "5f &gt; 6p &gt; 4d &gt; 5p"
+        },
+        {
+          "key": "C",
+          "value": "5f &gt; 6p &gt; 5p &gt; 4d"
+        },
+        {
+          "key": "D",
+          "value": "6p &gt; 5f &gt; 5p &gt; 4d"
+        }
+      ],
+      "answer": "C",
+      "explanation": "As per Aufbau principle (n + l rule), higher is\nthe value of (n + l), greater will be the energy. When (n + l) values are same then which orbital have higher value of n will have more energy.\n<br>4d = 4 + 2 = 6\n<br>5p = 5 + 1 = 6\n<br>5f = 5 + 3 = 8\n<br>6p = 6 + 1 = 7\n<br>Hence, the correct order of decreasing energy will\n<br>be : 5f &gt; 6p &gt; 5p &gt; 4d."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Which one is the wrong statement ? ",
+      "options": [
+        {
+          "key": "A",
+          "value": "The uncertainty principle is \n<br><br>$$\\Delta E \\times \\Delta t \\ge {h \\over {4\\pi }}$$"
+        },
+        {
+          "key": "B",
+          "value": "Half filled and fully filled orbitals have greater stability due to greater exchange energy, greater symmetry and more balanced arrangement. "
+        },
+        {
+          "key": "C",
+          "value": "The energy of 2s-orbital is less than the energy of 2p-orbital in case of hydrogen like atoms. "
+        },
+        {
+          "key": "D",
+          "value": "de-Broglie's wavelength is given by \n<br><br>$$\\lambda  = {h \\over {mv}}$$, where m = mass of the particle, \n<br><br>v $$=$$ group velocity of the particle."
+        }
+      ],
+      "answer": "C",
+      "explanation": "In the case of hydrogen type atoms, energy depends on the principal quantum number only. Therefore 2-s orbital will have energy equal to 2-p orbital."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "How many electrons can fit in the orbital for which n = 3 and $$l$$ = 1? ",
+      "options": [
+        {
+          "key": "A",
+          "value": "2"
+        },
+        {
+          "key": "B",
+          "value": "6"
+        },
+        {
+          "key": "C",
+          "value": "10"
+        },
+        {
+          "key": "D",
+          "value": "14"
+        }
+      ],
+      "answer": "A",
+      "explanation": "For n = 3 and l = 1, the subshell is 3p and a particular 3p orbital can accodomodate only 2 electrons."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Which of the following pairs of d-orbitals will have electron density along the axes ? ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$${d_{{z^2}}},\\,\\,{d_{xz}}$$"
+        },
+        {
+          "key": "B",
+          "value": "d<sub>xz</sub>,&nbsp;&nbsp;$${d_{yz}}$$"
+        },
+        {
+          "key": "C",
+          "value": "$${d_{{z^2}}},\\,\\,{d_{{x^2} - {y^2}}}$$"
+        },
+        {
+          "key": "D",
+          "value": "$${d_{xy}},\\,{d_{{x^2} - {y^2}}}$$"
+        }
+      ],
+      "answer": "C",
+      "explanation": "d<sub>x<sup>2</sup> - y<sup>2</sup></sub> and d<sub>z<sup>2</sup></sub> orbitals have electron density along the axes."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Two electrons occupying the same orbital are distinguished by ",
+      "options": [
+        {
+          "key": "A",
+          "value": "azimuthal quantum number "
+        },
+        {
+          "key": "B",
+          "value": "spin quantum number "
+        },
+        {
+          "key": "C",
+          "value": "principal quantum number "
+        },
+        {
+          "key": "D",
+          "value": "magnetic quantum number "
+        }
+      ],
+      "answer": "B",
+      "explanation": "For any two electrons occupying the same orbital values of n, l and m<sub>l</sub> are same but m<sub>s</sub> is different [ + $$1 \\over 2$$ and  - $$1 \\over 2$$]"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Which is the correct order of increasing energy of the listed orbitals in the atom of titanium ? (At. no. Z = 22)",
+      "options": [
+        {
+          "key": "A",
+          "value": "4s&nbsp;3s&nbsp;3p&nbsp;3d"
+        },
+        {
+          "key": "B",
+          "value": "3s&nbsp;3p&nbsp;3d&nbsp;4s"
+        },
+        {
+          "key": "C",
+          "value": "3s&nbsp;3p&nbsp;4s&nbsp;3d"
+        },
+        {
+          "key": "D",
+          "value": "3s&nbsp;4s&nbsp;3p&nbsp;3d"
+        }
+      ],
+      "answer": "C",
+      "explanation": "Ti (22) $$ \\Rightarrow $$ 1s<sup>2</sup> 2s<sup>2</sup> 2p<sup>6</sup> 3s<sup>2</sup> 3p<sup>6</sup> 4s<sup>2</sup> 3d<sup>2</sup><br><br>\n$$ \\therefore $$ Order of increasing energy is 3s, 3p, 4s, 3d"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The angular momentum of electron in 'd' orbital is equal to ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$2\\sqrt 3 h$$"
+        },
+        {
+          "key": "B",
+          "value": "0 $$\\hbar $$"
+        },
+        {
+          "key": "C",
+          "value": "$$\\sqrt 6 \\,\\hbar $$"
+        },
+        {
+          "key": "D",
+          "value": "$$\\sqrt 2 \\,\\hbar $$"
+        }
+      ],
+      "answer": "C",
+      "explanation": "We know Anglular momentum = $$\\sqrt {l(l + 1)}h $$<br><br>\nFor d obtial l = 2<br><br>\n$$ \\therefore $$ Angular momentum = $$\\sqrt {6}h $$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The number of d-electrons in Fe<sup>2+</sup> (Z = 26) is not equal to the number of electrons in which one of the following ? ",
+      "options": [
+        {
+          "key": "A",
+          "value": "d-electrons in Fe (Z = 26)"
+        },
+        {
+          "key": "B",
+          "value": "p-electrons in Ne (Z = 10)"
+        },
+        {
+          "key": "C",
+          "value": "s-electrons in Mg (Z = 12)"
+        },
+        {
+          "key": "D",
+          "value": "p-electrons in Cl(Z = 17)"
+        }
+      ],
+      "answer": "D",
+      "explanation": "Number of d-electrons in Fe<sup>2+</sup> = 6<br><br>\nNumber of p-electrons in Cl = 11"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Calculate the energy in joule corresponding to light of wavelength 45 nm. (Planck,s constant, h = 6.63 $$ \\times $$ 10<sup>$$-$$34</sup> J s, speed of light, c = 3 $$ \\times $$  10<sup>8</sup> m s<sup>$$-$$1</sup>)",
+      "options": [
+        {
+          "key": "A",
+          "value": "6.67 $$ \\times $$ 10<sup>15</sup> "
+        },
+        {
+          "key": "B",
+          "value": "6.67 $$ \\times $$ 10<sup>11</sup>"
+        },
+        {
+          "key": "C",
+          "value": "4.42 $$ \\times $$ 10<sup>$$-$$15</sup> "
+        },
+        {
+          "key": "D",
+          "value": "4.42 $$ \\times $$ 10<sup>$$-$$18</sup>"
+        }
+      ],
+      "answer": "D",
+      "explanation": "E = $$hc \\over \\lambda$$<br><br>\nE = $${{6.63 \\times {{10}^{ - 34}} \\times 3 \\times {{10}^8}} \\over {45 \\times {{10}^{ - 9}}}}$$<br><br>\n= 4.42 $$ \\times $$ 10<sup>-18</sup> J"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Be<sup>2+</sup> is isoelectronic with which of the following ions ? ",
+      "options": [
+        {
+          "key": "A",
+          "value": "H<sup>+</sup> "
+        },
+        {
+          "key": "B",
+          "value": "Li<sup>+</sup> "
+        },
+        {
+          "key": "C",
+          "value": "Na<sup>+</sup>"
+        },
+        {
+          "key": "D",
+          "value": "Mg<sup>2+</sup>"
+        }
+      ],
+      "answer": "B",
+      "explanation": "Be<sup>2+</sup> has 2 electrons and also Li<sup>+</sup> has 2 electrons so Be<sup>2+</sup> and Li<sup>+</sup> are isoelectronic"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "What is the maximum number of orbitals that can be identified with the following quantum numbers ? \n<br>n = 3, l = 1, m<sub>1</sub> = 0",
+      "options": [
+        {
+          "key": "A",
+          "value": "1"
+        },
+        {
+          "key": "B",
+          "value": "2"
+        },
+        {
+          "key": "C",
+          "value": "3"
+        },
+        {
+          "key": "D",
+          "value": "4"
+        }
+      ],
+      "answer": "A",
+      "explanation": "Only one orbital 3p has following set of quantum numbers, n = 3, l = 1 and m<sub>l</sub> = 0"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "According to law of photochemical equivalence the energy absorbed (in ergs/mole) is given as (h = 6.62 $$ \\times $$ 10<sup>$$-$$27</sup> ergs, c = 3 $$ \\times $$ 10<sup>10</sup> cm s<sup>$$-$$1</sup>, N<sub>A</sub> = 6.02 $$ \\times $$ 10<sup>$$-$$23</sup> mol<sup>$$-$$1</sup>)",
+      "options": [
+        {
+          "key": "A",
+          "value": "$${{1.196 \\times {{10}^8}} \\over \\lambda }$$"
+        },
+        {
+          "key": "B",
+          "value": "$${{2.859 \\times {{10}^5}} \\over \\lambda }$$"
+        },
+        {
+          "key": "C",
+          "value": "$${{2.859 \\times {{10}^{16}}} \\over \\lambda }$$"
+        },
+        {
+          "key": "D",
+          "value": "$${{1.196 \\times {{10}^{16}}} \\over \\lambda }$$"
+        }
+      ],
+      "answer": "A",
+      "explanation": "E = $${{hc{N_A}} \\over \\lambda }$$<br><br>\n= $${{6.62 \\times {{10}^{ - 27}} \\times 3 \\times {{10}^{10}} \\times 6.02 \\times {{10}^{23}}} \\over \\lambda }$$<br><br>\n= $${{1.1955 \\times {{10}^8}} \\over \\lambda }$$ = $${{1.196 \\times {{10}^8}} \\over \\lambda }$$ ergs mol<sup>-1</sup>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The outer electronic configuration of Gd (At. No. 64) is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "4f<sup>5</sup> 5d<sup>4</sup> 6s<sup>1</sup>"
+        },
+        {
+          "key": "B",
+          "value": "4f<sup>7</sup> 5d<sup>1</sup> 6s<sup>2</sup>"
+        },
+        {
+          "key": "C",
+          "value": "4f<sup>3</sup> 5d<sup>5</sup> 6s<sup>2</sup>"
+        },
+        {
+          "key": "D",
+          "value": "4f<sup>4</sup> 5d<sup>5</sup> 6s<sup>1</sup>"
+        }
+      ],
+      "answer": "B",
+      "explanation": "Gd[64] = [Xe]4f<sup>7</sup> 5d<sup>1</sup> 6s<sup>2</sup>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "What is the maximum numbers of electrons that can be associated with the following set of quantum numbers ? \n<br>n = 3, $$l$$ = 1 and m = $$-$$ 1",
+      "options": [
+        {
+          "key": "A",
+          "value": "4"
+        },
+        {
+          "key": "B",
+          "value": "2"
+        },
+        {
+          "key": "C",
+          "value": "10"
+        },
+        {
+          "key": "D",
+          "value": "6"
+        }
+      ],
+      "answer": "B",
+      "explanation": "The orbitals associated with n = 3, l = 1 is 3p. One orbital (with  m = -1)  of 3p-subshell can only accomodate maximum 2 electrons."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The value of Planck's  constant is 6.63 $$ \\times $$ 10<sup>$$-$$34</sup> J s. The speed of light is 3 $$ \\times $$ 10<sup>17</sup> mm s<sup>$$-$$1</sup>. Which value is closest to the wavelength in nanometer of a quantum of light with frequency of 6 $$ \\times $$ 10<sup>15</sup> s<sup>$$-$$1</sup> ? ",
+      "options": [
+        {
+          "key": "A",
+          "value": "50 "
+        },
+        {
+          "key": "B",
+          "value": "75 "
+        },
+        {
+          "key": "C",
+          "value": "10"
+        },
+        {
+          "key": "D",
+          "value": "25"
+        }
+      ],
+      "answer": "A",
+      "explanation": "c = $$\\nu \\lambda $$<br><br>\n$$\\lambda $$ = $${c \\over \\nu }$$<br><br>\n= $${{3 \\times {{10}^{17}}} \\over {6 \\times {{10}^{15}}}}$$ = 50 nm "
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Based on equation E = $$-$$ 2.178 $$ \\times $$ 10<sup>$$-$$18</sup> J $$\\left( {{{{Z^2}} \\over {{n^2}}}} \\right)$$, certain conclusions are written. Which of them is not correct ? ",
+      "options": [
+        {
+          "key": "A",
+          "value": "Equation can be used to calculate the change in energy when the electron changes orbit. "
+        },
+        {
+          "key": "B",
+          "value": "For n = 1, the electron has a more negative energy than it does for n = 6 which means that the electron is more loosely bound in the smallest allowed orbit. "
+        },
+        {
+          "key": "C",
+          "value": "The negative sign in equation simply means that the energy of electron bound to the nucleus is lower than it would be if the electrons were at the infinite distance from the nucleus. "
+        },
+        {
+          "key": "D",
+          "value": "Larger the value of n, the larger is the orbit radius. "
+        }
+      ],
+      "answer": "B",
+      "explanation": "The electron is more tightly bound in the smallest allowed orbit."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The orbital angular momentum of a p-electron is given as ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$${h \\over {\\sqrt 2 \\pi }}$$ "
+        },
+        {
+          "key": "B",
+          "value": "$$\\sqrt 3 {h \\over {2\\pi }}$$"
+        },
+        {
+          "key": "C",
+          "value": "$$\\sqrt {{3 \\over 2}} {h \\over \\pi }$$"
+        },
+        {
+          "key": "D",
+          "value": "$$\\sqrt 6 {h \\over {2\\pi }}$$"
+        }
+      ],
+      "answer": "A",
+      "explanation": "Orbital angular momentum  (m) = $$\\sqrt {l(l + 1)} {h \\over {2\\pi }}$$<br><br>\nFor p-electrons; l = 1<br><br>\nThus, m = $$\\sqrt {l(l + 1)} {h \\over {2\\pi }}$$ = $${ \\sqrt 2 {h}} \\over 2 \\pi$$ = $${h \\over {\\sqrt 2 \\pi }}$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Maximum number of electrons in a subshell with $$l$$ = 3 and n = 4 is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "14"
+        },
+        {
+          "key": "B",
+          "value": "16"
+        },
+        {
+          "key": "C",
+          "value": "10"
+        },
+        {
+          "key": "D",
+          "value": "12"
+        }
+      ],
+      "answer": "A",
+      "explanation": "l = 3 and n = 4 represent 4f, So total number of electrons = 2(2$$l$$+1) = 14"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The correct set of four quantum numbers for the valence electron of rubidium atom (Z = 37) is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "5, 1, 1, + 1/2"
+        },
+        {
+          "key": "B",
+          "value": "6, 0, 0, +1/2"
+        },
+        {
+          "key": "C",
+          "value": "5, 0, 0, +1/2"
+        },
+        {
+          "key": "D",
+          "value": "5, 1, 0, +1/2"
+        }
+      ],
+      "answer": "C",
+      "explanation": "Rb(37) = 1s<sup>2</sup> 2s<sup>2</sup> 2p<sup>6</sup> 3s<sup>2</sup> 3p<sup>6</sup> 4s<sup>2</sup> 3d<sup>10</sup> 4p<sup>6</sup> 5s<sup>1</sup><br><br>\nFor 5s, n= 5, l = 0, m = 0, s = +1/2 or -1/2"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "According to the Bohr theory, which of the following transitions in the hydrogen atom will give rise to the least energetic photon ? ",
+      "options": [
+        {
+          "key": "A",
+          "value": "n = 6 to n = 1"
+        },
+        {
+          "key": "B",
+          "value": "n = 5 to n = 4"
+        },
+        {
+          "key": "C",
+          "value": "n = 6 to n = 5"
+        },
+        {
+          "key": "D",
+          "value": "n = 5 to n = 3"
+        }
+      ],
+      "answer": "C",
+      "explanation": "We know that <br><br>\n$$\\Delta E \\propto \\left[ {{1 \\over {n_1^2}} - {1 \\over {n_2^2}}} \\right]$$, where n<sub>2</sub> &gt; n<sub>1</sub><br><br>\n$$ \\therefore $$ n = 6 and n = 5 will give least energetic photon."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The total number of atomic orbitals in fourth energy level of an atom is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "8"
+        },
+        {
+          "key": "B",
+          "value": "16"
+        },
+        {
+          "key": "C",
+          "value": "32"
+        },
+        {
+          "key": "D",
+          "value": "4"
+        }
+      ],
+      "answer": "B",
+      "explanation": "The total number of atomic orbitals in any energy level is n<sup>2</sup>.<br><br>\n$$ \\therefore $$ 4<sup>2</sup> = 16"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The energies E<sub>1</sub> and E<sub>2</sub> of two radiations are 25 eV and 50 eV respectively. The relation between their wavelengths i.e., $$\\lambda $$<sub>1</sub> and $$\\lambda $$<sub>2</sub> will be",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$\\lambda $$<sub>1</sub> = $$\\lambda $$<sub>2</sub>"
+        },
+        {
+          "key": "B",
+          "value": "$$\\lambda $$<sub>1</sub> = 2$$\\lambda $$<sub>2</sub>"
+        },
+        {
+          "key": "C",
+          "value": "$$\\lambda $$<sub>1</sub> = 4$$\\lambda $$<sub>2</sub>"
+        },
+        {
+          "key": "D",
+          "value": "$$\\lambda $$<sub>1</sub> = $${1 \\over 2}$$ $$\\lambda $$<sub>2</sub>"
+        }
+      ],
+      "answer": "B",
+      "explanation": "E<sub>1</sub> = $${{hc} \\over {{\\lambda _1}}}$$ and E<sub>2</sub> = $${{hc} \\over {{\\lambda _2}}}$$<br><br>\n$${{{E_1}} \\over {{E_2}}}$$ = $${{hc} \\over {{\\lambda _1}}} \\times {{{\\lambda _2}} \\over {hc}}$$ = $${{{\\lambda _2}} \\over {{\\lambda _1}}}$$<br><br>\n$$ \\Rightarrow $$ $$25 \\over 50$$ =  $${{{\\lambda _2}} \\over {{\\lambda _1}}}$$ <br><br>\n$$ \\Rightarrow $$ $$1 \\over 2$$ = $${{{\\lambda _2}} \\over {{\\lambda _1}}}$$ $$ \\Rightarrow $$ $$\\lambda _1$$ = 2$$\\lambda _2$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "If n = 6, the correct sequence for filling of electrons will be ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$ns \\to \\left( {n - 2} \\right)f \\to \\left( {n - 1} \\right)d \\to np$$"
+        },
+        {
+          "key": "B",
+          "value": "$$ns \\to \\left( {n - 1} \\right)d \\to \\left( {n - 2} \\right)f \\to np$$"
+        },
+        {
+          "key": "C",
+          "value": "$$ns \\to \\left( {n - 2} \\right)f \\to np \\to \\left( {n - 1} \\right)d$$"
+        },
+        {
+          "key": "D",
+          "value": "$$ns \\to np\\left( {n - 1} \\right)d \\to \\left( {n - 2} \\right)f$$"
+        }
+      ],
+      "answer": "A",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A 0.66 kg ball is moving with a speed of 100 m/s. The associated wavelength will be \n<br><br>(h = 6.6 $$ \\times $$ 10<sup>$$-$$34</sup> J s)",
+      "options": [
+        {
+          "key": "A",
+          "value": "6.6 $$ \\times $$ 10<sup>$$-$$32</sup> m"
+        },
+        {
+          "key": "B",
+          "value": "6.6 $$ \\times $$ 10<sup>$$-$$34</sup> m"
+        },
+        {
+          "key": "C",
+          "value": "1.0 $$ \\times $$  10<sup>$$-$$35</sup> m "
+        },
+        {
+          "key": "D",
+          "value": "1.0 $$ \\times $$ 10<sup>$$-$$32</sup> m"
+        }
+      ],
+      "answer": "C",
+      "explanation": "According to the de-Broglie equation, $$\\lambda $$  = $${h \\over {mv}}$$<br><br>\n$$ \\therefore $$ $$\\lambda $$ = $${{6.6 \\times {{10}^{ - 34}}} \\over {0.66 \\times 100}} = 1 \\times {10^{ - 35}}\\,m$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Which of the following is not permissible arrangement of electrons in an atom ? ",
+      "options": [
+        {
+          "key": "A",
+          "value": "n = 5, $$l$$ = 3, m = 0, s = +1/2"
+        },
+        {
+          "key": "B",
+          "value": "n = 3, $$l$$ = 2, m = $$-$$ 3, s = $$-$$1/2"
+        },
+        {
+          "key": "C",
+          "value": "n = 3, $$l$$ = 2, m = $$-$$ 2, s = $$-$$1/2"
+        },
+        {
+          "key": "D",
+          "value": "n = 4, $$l$$ = 0, m = 0, s = $$-$$1/2"
+        }
+      ],
+      "answer": "B",
+      "explanation": "In an atom for any value of n, the values of l = 0 to (n-1)<br><br>\nFor a given value of l, the values of m<sub>l</sub> = -$$l$$ to 0 to +$$l$$<br><br>\nand the value of s = +1/2 or -1/2<br><br>\nIn option(b), l = 2 and m<sub>l</sub> = -3<br><br>\nThis is not possible. as for l = 2 min value of m<sub>l</sub> = -2"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Maximum number of electrons in a subshell of an atom is determined by the following ",
+      "options": [
+        {
+          "key": "A",
+          "value": "2$$l$$ + 1"
+        },
+        {
+          "key": "B",
+          "value": "4$$l$$ $$-$$ 2"
+        },
+        {
+          "key": "C",
+          "value": "2n<sup>2</sup>"
+        },
+        {
+          "key": "D",
+          "value": "4$$l$$ + 2"
+        }
+      ],
+      "answer": "D",
+      "explanation": "Maximum number of electrons in a subshell = 2(2l+1) = 4l + 2"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "If uncertainty in position and momentum are equal, then uncertainty in velocity is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$${1 \\over m}\\sqrt {{h \\over \\pi }} $$"
+        },
+        {
+          "key": "B",
+          "value": "$$\\sqrt {{h \\over \\pi }} $$"
+        },
+        {
+          "key": "C",
+          "value": "$${1 \\over {2m}}\\sqrt {{h \\over \\pi }} $$"
+        },
+        {
+          "key": "D",
+          "value": "$$\\sqrt {{h \\over {2\\pi }}} $$"
+        }
+      ],
+      "answer": "C",
+      "explanation": "According to Heisenberg uncertainty principle <br><br>\n$$\\Delta p.\\Delta x \\ge {h \\over {4\\pi }}$$ or m$$\\Delta v.\\Delta x \\ge {h \\over {4\\pi }}$$<br><br>\n$$ \\Rightarrow $$ (m$$\\Delta v$$)<sup>2</sup> $$\\ge {h \\over {4\\pi }}$$ ($$ \\because $$  $$\\Delta x$$ = $$\\Delta p$$)<br><br>\n$$ \\Rightarrow $$ $$\\Delta v \\ge$$ $${1 \\over {2m}}\\sqrt {{h \\over \\pi }} $$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The measurement of the electron position is associated with an uncertainty in momentum, which is equal to 1 $$ \\times $$ 10<sup>$$-$$18</sup> g cm s<sup>$$-$$1</sup>. The uncertainty in electron velocity is (mass of an electron is 9 $$ \\times $$ 10<sup>$$-$$28</sup> g)",
+      "options": [
+        {
+          "key": "A",
+          "value": "1 $$ \\times $$ 10<sup>5</sup> cm s<sup>$$-$$1</sup>"
+        },
+        {
+          "key": "B",
+          "value": "1 $$ \\times $$ 10<sup>11</sup> cm s<sup>$$-$$1</sup>"
+        },
+        {
+          "key": "C",
+          "value": "1 $$ \\times $$ 10<sup>9</sup> cm s<sup>$$-$$1</sup>"
+        },
+        {
+          "key": "D",
+          "value": "1 $$ \\times $$ 10<sup>6</sup> cm s<sup>$$-$$1</sup>"
+        }
+      ],
+      "answer": "C",
+      "explanation": "$$\\Delta v$$ = $${{1 \\times {{10}^{ - 18}}} \\over {9 \\times {{10}^{ - 28}}}} = 1.1 \\times {10^9}cm\\,{s^{ - 1}}$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Consider the following sets of quantum numbers : \n<br><br><style type=\"text/css\">\n.tg  {border-collapse:collapse;border-spacing:0;border:none;}\n.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;}\n.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;}\n.tg .tg-baqh{text-align:center;vertical-align:top}\n.tg .tg-wrg0{font-size:22px;text-align:center;vertical-align:top}\n.tg .tg-wv9z{font-size:22px;text-align:center}\n</style>\n<table class=\"tg\">\n  <tbody><tr>\n    <th class=\"tg-wv9z\"></th>\n    <th class=\"tg-wv9z\">n</th>\n    <th class=\"tg-baqh\"></th>\n    <th class=\"tg-wv9z\">l</th>\n    <th class=\"tg-baqh\"></th>\n    <th class=\"tg-wv9z\">m</th>\n    <th class=\"tg-baqh\"></th>\n    <th class=\"tg-wv9z\">s</th>\n  </tr>\n  <tr>\n    <td class=\"tg-wv9z\">(i)</td>\n    <td class=\"tg-wv9z\">3</td>\n    <td class=\"tg-baqh\"></td>\n    <td class=\"tg-wv9z\">0</td>\n    <td class=\"tg-baqh\"></td>\n    <td class=\"tg-wv9z\">0</td>\n    <td class=\"tg-baqh\"></td>\n    <td class=\"tg-wv9z\">+1/2</td>\n  </tr>\n  <tr>\n    <td class=\"tg-wv9z\">(ii)</td>\n    <td class=\"tg-wv9z\">2</td>\n    <td class=\"tg-baqh\"></td>\n    <td class=\"tg-wv9z\">2</td>\n    <td class=\"tg-baqh\"></td>\n    <td class=\"tg-wv9z\">1</td>\n    <td class=\"tg-baqh\"></td>\n    <td class=\"tg-wv9z\">+1/2</td>\n  </tr>\n  <tr>\n    <td class=\"tg-wv9z\">(iii)</td>\n    <td class=\"tg-wv9z\">4</td>\n    <td class=\"tg-baqh\"></td>\n    <td class=\"tg-wv9z\">3</td>\n    <td class=\"tg-baqh\"></td>\n    <td class=\"tg-wv9z\">-2</td>\n    <td class=\"tg-baqh\"></td>\n    <td class=\"tg-wv9z\">-1/2</td>\n  </tr>\n  <tr>\n    <td class=\"tg-wv9z\">(iv)</td>\n    <td class=\"tg-wv9z\">1</td>\n    <td class=\"tg-baqh\"></td>\n    <td class=\"tg-wv9z\">0</td>\n    <td class=\"tg-baqh\"></td>\n    <td class=\"tg-wv9z\">-1</td>\n    <td class=\"tg-baqh\"></td>\n    <td class=\"tg-wv9z\">-1/2</td>\n  </tr>\n  <tr>\n    <td class=\"tg-wrg0\">(v)</td>\n    <td class=\"tg-wrg0\">3</td>\n    <td class=\"tg-baqh\"></td>\n    <td class=\"tg-wrg0\">2</td>\n    <td class=\"tg-baqh\"></td>\n    <td class=\"tg-wrg0\">3</td>\n    <td class=\"tg-baqh\"></td>\n    <td class=\"tg-wrg0\">+1/2</td>\n  </tr>\n</tbody></table>\n<br><br>Which of the following sets of quantum number is not possible ? ",
+      "options": [
+        {
+          "key": "A",
+          "value": "(i), (ii), (iii) and (iv)"
+        },
+        {
+          "key": "B",
+          "value": "(ii), (iv) and (v)"
+        },
+        {
+          "key": "C",
+          "value": "(i) and (iii)"
+        },
+        {
+          "key": "D",
+          "value": "(ii), (iii) and (iv)"
+        }
+      ],
+      "answer": "B",
+      "explanation": "(i) represents an electron in 3s orbital<br><br>\n(ii) is not possible as value of m varies from 0, 1, .... ($$n$$ -1)<br><br>\n(iii) represents an electron in 4f orbital<br><br>\n(iv) is not possible as value of m varies from -$$l$$ ... +$$l$$<br><br>\n(v) is not possible as value of m varies from -$$l$$ ... +$$l$$, it can never be grater than $$l$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The orientation of an atomic orbital is governed by ",
+      "options": [
+        {
+          "key": "A",
+          "value": "principal quantum number "
+        },
+        {
+          "key": "B",
+          "value": "azimuthal quantum number"
+        },
+        {
+          "key": "C",
+          "value": "spin quantum number"
+        },
+        {
+          "key": "D",
+          "value": "magnetic quantum number. "
+        }
+      ],
+      "answer": "D",
+      "explanation": "Magnetic quantum number describes the orientation."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Given : The mass of electron is 9.11 $$ \\times $$ 10<sup>$$-$$31</sup> kg, Planck constant is 6.626 $$ \\times $$ 10<sup>$$-$$34</sup> J s, the uncertainty involved in the measurement of velocity within a distance of 0.1 $$\\mathop A\\limits^ \\circ  $$ is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "5.79 $$ \\times $$ 10<sup>5</sup> m s<sup>$$-$$1</sup>"
+        },
+        {
+          "key": "B",
+          "value": "5.79 $$ \\times $$ 10<sup>6</sup> m s<sup>$$-$$1</sup> "
+        },
+        {
+          "key": "C",
+          "value": "5.79 $$ \\times $$ 10<sup>7</sup> m s<sup>$$-$$1</sup>"
+        },
+        {
+          "key": "D",
+          "value": "5.79 $$ \\times $$ 10<sup>8</sup> m s<sup>$$-$$1</sup>"
+        }
+      ],
+      "answer": "B",
+      "explanation": "$$\\Delta x.m\\Delta v = h/4\\pi $$<br><br>\n0.1 $$ \\times $$ 10<sup>-10</sup> $$ \\times $$ 9.11 $$ \\times $$ 10<sup>-31</sup> $$ \\times $$ $$\\Delta v$$ \n = $${{6.626 \\times {{10}^{ - 34}}} \\over {4 \\times 3.143}}$$<br><br>\n$$ \\therefore $$ $$\\Delta v$$ = $${{6.626 \\times {{10}^{ - 34}}} \\over {4 \\times 3.143 \\times 0.1 \\times {{10}^{ - 10}} \\times 9.11 \\times {{10}^{ - 31}}}}$$<br><br>\n= 5.79 $$ \\times $$ 10<sup>6</sup> m s<sup>-1</sup>\n"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The energy of second Bohr orbit of the hydrogen atom is $$-$$328 kJ mol<sup>$$-$$1</sup>; hence the energy of fourth Bohr orbit would be ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$-$$ 41 kJ mol<sup>$$-$$1</sup>"
+        },
+        {
+          "key": "B",
+          "value": "$$-$$82 kJ mol<sup>$$-$$1</sup>"
+        },
+        {
+          "key": "C",
+          "value": "$$-$$164 kJ mol<sup>$$-$$1</sup>"
+        },
+        {
+          "key": "D",
+          "value": "$$-$$1312 kJ mol<sup>$$-$$1</sup>"
+        }
+      ],
+      "answer": "B",
+      "explanation": "E<sub>n</sub> = -K$${\\left( {{Z \\over n}} \\right)^2}$$<br><br>\nZ = 1; n = 2<br><br>\nE<sub>2</sub> = $${ {{-K \\times 1 \\over 4}}}$$$$ \\Rightarrow $$ E<sub>2</sub> = -328 kJ mol<sup>-1</sup>;<br><br>\nK = 4 $$ \\times $$ 328<br><br>\nE<sub>4</sub> = $${ {{-K \\times 1 \\over 16}}}$$ $$ \\Rightarrow $$ E<sub>4</sub> = -4 $$ \\times $$ 328 $${ {{ 1 \\over 16}}}$$<br><br>\n= -82 kJ mol<sup>-1</sup>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The frequency of radiation emitted when the electron falls from n = 4 to n = 1 in hydrogen atom will be (Given ionization energy of H = 2.18 $$ \\times $$ 10<sup>$$-$$18</sup> J atom<sup>$$-$$1</sup> and h = 6.625 $$ \\times $$ 10<sup>$$-$$34</sup> J s)",
+      "options": [
+        {
+          "key": "A",
+          "value": "1.54 $$ \\times $$ 10<sup>15</sup> s<sup>$$-$$1</sup> "
+        },
+        {
+          "key": "B",
+          "value": "1.03 $$ \\times $$  10<sup>15</sup> s<sup>$$-$$1</sup> "
+        },
+        {
+          "key": "C",
+          "value": "3.08 $$ \\times $$ 10<sup>15</sup> s<sup>$$-$$1</sup> "
+        },
+        {
+          "key": "D",
+          "value": "2.00 $$ \\times $$ 10<sup>15</sup> s<sup>$$-$$1</sup> "
+        }
+      ],
+      "answer": "C",
+      "explanation": "E = h$$v$$ or $$v$$ = E/h<br><br>\nFor H atom, E = $${{ - 21.76 \\times {{10}^{ - 19}}} \\over {{n^2}}}J\\,at{m^{ - 1}}$$<br><br>\n$$\\Delta E =  - 21.76 \\times {10^{ - 19}}\\left( {{1 \\over {{4^2}}} - {1 \\over {{1^2}}}} \\right)$$<br><br>\n= 20.40 $$ \\times $$ 10<sup>-19</sup> J atm<sup>-1</sup><br><br>\n$$v$$ = $${{20.40 \\times {{10}^{ - 19}}} \\over {6.626 \\times {{10}^{ - 34}}}}$$ = 3.079 $$ \\times $$ 10<sup>15</sup> s<sup>-1</sup>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The velocity of Planck's constant is 6.63 $$ \\times $$ 10<sup>$$-$$34</sup> J s. \n<br><br>The velocity of light is 3.0 $$ \\times $$  10<sup>8</sup> m s<sup>$$-$$1</sup>. Which value is closest to the wavelength in nanometers of a quantum of light with frequency of 8 $$ \\times $$ 10<sup>15</sup> s<sup>$$-$$1</sup> ? ",
+      "options": [
+        {
+          "key": "A",
+          "value": "2 $$ \\times $$ 10<sup>$$-$$25</sup>"
+        },
+        {
+          "key": "B",
+          "value": "5 $$ \\times $$ 10<sup>$$-$$18</sup>"
+        },
+        {
+          "key": "C",
+          "value": "$$4 \\times {10^1}$$"
+        },
+        {
+          "key": "D",
+          "value": "3 $$ \\times $$ 10<sup>7</sup>"
+        }
+      ],
+      "answer": "C",
+      "explanation": "$$v$$ = c/$$\\lambda $$<br><br>\n$$\\lambda $$ = $${c \\over v}$$ = $${{3 \\times {{10}^8}} \\over {8 \\times {{10}^{15}}}}$$ = 37.5 $$ \\times $$ 10<sup>-9</sup> m<br><br>\n = 37.5 nm $$ \\approx $$ $$4 \\times {10^1}$$ nm"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "In hydrogen atom, energy of first excited state is $$-$$ 3.4 eV. Then find out K.E. of same orbit of hydrogen atom ",
+      "options": [
+        {
+          "key": "A",
+          "value": "+3.4 eV"
+        },
+        {
+          "key": "B",
+          "value": "+6.8 eV"
+        },
+        {
+          "key": "C",
+          "value": "$$-$$ 13.6 eV"
+        },
+        {
+          "key": "D",
+          "value": "+13.6 eV"
+        }
+      ],
+      "answer": "A",
+      "explanation": "K.E = 1/2 mv<sup>2</sup><br><br>\n= $${\\left( {{{\\pi {e^2}} \\over {nh}}} \\right)^2} \\times 2m$$ [ $$ \\because $$ v = $${{2\\pi {e^2}} \\over {nh}}$$]<br><br>\n$$ \\therefore $$ Total energy = E<sub>n</sub> = $${{ - 2{\\pi ^2}m{e^4}} \\over {{n^2}{h^2}}}$$<br><br>\n = -$${\\left( {{{\\pi {e^2}} \\over {nh}}} \\right)^2}$$ $$ \\times $$ 2m = -K.E<br><br>\n$$ \\therefore $$ K.E = - E<sub>n</sub><br><br>\nEnergy of first excited state is -3.4 eV<br><br>\n$$ \\therefore $$ Kinetic energy of the same orbit (n = 2) will be +3.4 ev"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Main axis of a diatomic molecule is z, molecular orbital p<sub>x</sub> and p<sub>y</sub> overlap to from which of the following orbitals. ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$\\pi $$ molecular orbital "
+        },
+        {
+          "key": "B",
+          "value": "$$\\sigma $$ molecular orbital "
+        },
+        {
+          "key": "C",
+          "value": "$$\\delta $$ molecular orbital "
+        },
+        {
+          "key": "D",
+          "value": "No bond will form "
+        }
+      ],
+      "answer": "A",
+      "explanation": "For $$\\pi $$ overlap, the lobes of the atomic orbitals are perpendicularto the line joining the nuclei.<br><br>\nHence only sidewise overlapping takes place."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The following quantum numbers are possible for how many orbitals : \n<br><br>n = 3, $$l$$ = 2, m = +2 ? ",
+      "options": [
+        {
+          "key": "A",
+          "value": "1"
+        },
+        {
+          "key": "B",
+          "value": "2"
+        },
+        {
+          "key": "C",
+          "value": "3"
+        },
+        {
+          "key": "D",
+          "value": "4"
+        }
+      ],
+      "answer": "A",
+      "explanation": "n = 3, l = 2, m = +2<br><br>\nIt shows one of the five d-orbitals(3d)"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Isoelectronic species are ",
+      "options": [
+        {
+          "key": "A",
+          "value": "CO, CN<sup>$$-$$</sup>, NO<sup>+</sup>, C$${_2^{2 - }}$$"
+        },
+        {
+          "key": "B",
+          "value": "CO<sup>$$-$$</sup>, CN, NO, "
+        },
+        {
+          "key": "C",
+          "value": "$$C_2^ - $$"
+        },
+        {
+          "key": "D",
+          "value": "CO, CN, NO, C<sub>2</sub>"
+        }
+      ],
+      "answer": "A",
+      "explanation": "No. of electrons CO = CN<sup>-</sup> = NO<sup>+</sup> = $$C_2^{2 - }$$ = 14, So these are isoelectronics."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "For given energy, E = 3.03 $$ \\times $$ 10<sup>$$-$$19</sup> Joules corresponding wavelength is  (h = 6.626 $$ \\times $$ 10<sup>$$-$$34</sup> J sec, c = 3 $$ \\times $$ 10<sup>8</sup> m/sec)",
+      "options": [
+        {
+          "key": "A",
+          "value": "65.6 nm "
+        },
+        {
+          "key": "B",
+          "value": "6.56 nm"
+        },
+        {
+          "key": "C",
+          "value": "3.4 nm"
+        },
+        {
+          "key": "D",
+          "value": "656 nm"
+        }
+      ],
+      "answer": "D",
+      "explanation": "E = $${{hc} \\over \\lambda }$$<br><br>\n$$ \\Rightarrow \\lambda $$  = $${{6.6 \\times {{10}^{ - 34}} \\times 3 \\times {{10}^8}} \\over {3.03 \\times {{10}^{ - 19}}}}$$<br><br>\n= 656 nm"
+    }
+  ]
+}

@@ -101,41 +101,12 @@ impl From<reg_models::Chapter> for Chapter {
     diesel::Associations,
 )]
 #[diesel(belongs_to(Chapter))]
-#[diesel(table_name=schema::question_answers)]
-pub struct QuestionAnswer {
-    pub id: String,
-    pub chapter_id: String,
-    pub body: String,
-}
-
-impl From<reg_models::QuestionAnswer> for QuestionAnswer {
-    fn from(question_answer: reg_models::QuestionAnswer) -> Self {
-        QuestionAnswer {
-            id: question_answer.id,
-            chapter_id: question_answer.chapter_id,
-            body: question_answer.body,
-        }
-    }
-}
-
-#[derive(
-    Debug,
-    Clone,
-    serde::Serialize,
-    serde::Deserialize,
-    diesel::Queryable,
-    diesel::Selectable,
-    diesel::Insertable,
-    diesel::AsChangeset,
-    diesel::Identifiable,
-    diesel::Associations,
-)]
-#[diesel(belongs_to(Chapter))]
 #[diesel(table_name=schema::single_mcqs)]
 pub struct SingleMCQ {
     pub id: String,
     pub chapter_id: String,
     pub body: String,
+    pub answer: String,
 }
 
 impl From<reg_models::SingleMCQ> for SingleMCQ {
@@ -144,6 +115,7 @@ impl From<reg_models::SingleMCQ> for SingleMCQ {
             id: single_mcq.id,
             chapter_id: single_mcq.chapter_id,
             body: single_mcq.body,
+            answer: single_mcq.answer,
         }
     }
 }
@@ -176,6 +148,38 @@ impl From<reg_models::SingleMCQOption> for SingleMCQOption {
             single_mcq_id: single_mcq_option.single_mcq_id,
             key: single_mcq_option.key,
             value: single_mcq_option.value,
+        }
+    }
+}
+
+#[derive(
+    Debug,
+    Clone,
+    serde::Serialize,
+    serde::Deserialize,
+    diesel::Queryable,
+    diesel::Selectable,
+    diesel::Insertable,
+    diesel::AsChangeset,
+    diesel::Identifiable,
+    diesel::Associations,
+)]
+#[diesel(belongs_to(Chapter))]
+#[diesel(table_name=schema::numericals)]
+pub struct Numerical {
+    pub id: String,
+    pub chapter_id: String,
+    pub body: String,
+    pub answer: String,
+}
+
+impl From<reg_models::Numerical> for Numerical {
+    fn from(numerical: reg_models::Numerical) -> Self {
+        Numerical {
+            id: numerical.id,
+            chapter_id: numerical.chapter_id,
+            body: numerical.body,
+            answer: numerical.answer,
         }
     }
 }

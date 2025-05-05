@@ -1,0 +1,121 @@
+{
+  "_index": {
+    "name": "d and f Block Elements"
+  },
+  "_children": [
+    {
+      "_type": "single_mcq",
+      "body": "Which of the following combination will produce $${H_2}$$ gas ? ",
+      "options": [
+        {
+          "key": "A",
+          "value": "Fe metal and conc. $$HN{O_3}$$ "
+        },
+        {
+          "key": "B",
+          "value": "$$Cu$$ metal and conc. $$HN{O_3}$$ "
+        },
+        {
+          "key": "C",
+          "value": "$$Zn$$ metal and $$NaOH(aq)$$"
+        },
+        {
+          "key": "D",
+          "value": "Au metal and $$NaCN\\left( {aq} \\right)$$ in the presence of air "
+        }
+      ],
+      "answer": "C",
+      "explanation": "<p>(a) Conc. HNO<sub>3</sub> makes iron passive. Cold relatively concentrated HNO<sub>3</sub> will react with Fe.</p>\n<p>$$\\mathop {Fe}\\limits_{Iron}  + \\mathop {6HN{O_3}}\\limits_{Nitric\\,acid}  \\to \\mathop {Fe{{(N{O_3})}_3}}\\limits_{Iron\\,nitrate}  + \\mathop {3N{O_2}}\\limits_{Nitrogen\\,dioxide}  + \\mathop {3{H_2}O}\\limits_{Water} $$</p>\n<p>(b) $$\\mathop {Cu}\\limits_{Copper}  + \\mathop {4HN{O_3}(conc.)}\\limits_{Nitric\\,acid}  \\to \\mathop {Cu{{(N{O_3})}_2}}\\limits_{Copper\\,nitrate}  + \\mathop {2N{O_2}}\\limits_{Nitrogen\\,dioxide}  + \\mathop {2{H_2}O}\\limits_{Water} $$</p>\n<p>(c) $$\\mathop {Zn}\\limits_{Zinc}  + \\mathop {2NaO{H_{(aq)}}}\\limits_{Sodium\\,hydroxide}  \\to \\mathop {N{a_2}Zn{O_2}}\\limits_{Sodium\\,zincate}  + \\mathop {{H_2}}\\limits_{Hydrogen} $$</p>\n<p>(d) $$\\mathop {4Au}\\limits_{Gold}  + \\mathop {8NaCN}\\limits_{Sodium\\,cyanide}  + \\mathop {{O_2}}\\limits_{Oxygen}  + \\mathop {2{H_2}O}\\limits_{Water}  \\to \\mathop {4Na[Au{{(CN)}_2}]}\\limits_{Sodium\\,dicyanoaurate}  + \\mathop {4NaOH}\\limits_{Sodium\\,hydroxide} $$</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>In the following reaction, sequence in aqueous solution, the species X, Y and Z, respectively, are</p>\n<p>$${S_2}O_3^{2 - }\\buildrel {A{g^ + }} \\over\n \\longrightarrow \\mathop X\\limits_{Clear\\,solution} \\buildrel {A{g^ + }} \\over\n \\longrightarrow \\mathop Y\\limits_{White\\,precipitate} \\buildrel {With\\,time} \\over\n \\longrightarrow \\mathop Z\\limits_{Black\\,precipitate} $$</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "[Ag(S<sub>2</sub>O<sub>3</sub>)<sub>2</sub>]<sup>3$$-$$</sup>, Ag<sub>2</sub>S<sub>2</sub>O<sub>3</sub>, Ag<sub>2</sub>S"
+        },
+        {
+          "key": "B",
+          "value": "[Ag(S<sub>2</sub>O<sub>3</sub>)<sub>2</sub>]<sup>5$$-$$</sup>, Ag<sub>2</sub>SO<sub>3</sub>, Ag<sub>2</sub>S"
+        },
+        {
+          "key": "C",
+          "value": "[Ag(SO<sub>3</sub>)<sub>2</sub>]<sup>3$$-$$</sup>, Ag<sub>2</sub>S<sub>2</sub>O<sub>3</sub>, Ag"
+        },
+        {
+          "key": "D",
+          "value": "[Ag(SO<sub>3</sub>)<sub>3</sub>]<sup>3$$-$$</sup>, Ag<sub>2</sub>SO<sub>4</sub>, Ag"
+        }
+      ],
+      "answer": "A",
+      "explanation": "<p>$$A{g^ + }\\mathop {2{S_2}O_3^{2 - }}\\limits_{(Excess)}  \\to \\mathop {{{[Ag{{({S_2}{O_3})}_2}]}^{3 - }}}\\limits_{Argentothiosulphate\\,(X)\\,(Soluble)} \\buildrel {A{g^ + }} \\over\n \\longrightarrow \\mathop {A{g_2}{S_2}{O_3}}\\limits_{(Y)\\,(White\\,ppt.)} \\mathrel{\\mathop{\\kern0pt\\longrightarrow}\n\\limits_{(due\\,to\\,hydrolysis)}^{With\\,time}} \\mathop {A{g_2}S}\\limits_{(Z)\\,(Black\\,ppt.)} $$</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Upon treatment with ammoniacal H<sub>2</sub>S, the metal ion that precipitates as a sulphide is</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "Fe(III)"
+        },
+        {
+          "key": "B",
+          "value": "Al(III)"
+        },
+        {
+          "key": "C",
+          "value": "Mg(II)"
+        },
+        {
+          "key": "D",
+          "value": "Zn(II)"
+        }
+      ],
+      "answer": "D",
+      "explanation": "<p>On treatment with H<sub>2</sub>S, Zn(II) gets precipitated as ZnS. Mg(II) does not get precipitated, while Fe<sup>3+</sup> and Al<sup>3+</sup> get precipitated as hydroxides.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>The colour of light absorbed by an aqueous solution of CuSO<sub>4</sub> is</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "orange-red"
+        },
+        {
+          "key": "B",
+          "value": "blue-green"
+        },
+        {
+          "key": "C",
+          "value": "yellow"
+        },
+        {
+          "key": "D",
+          "value": "violet"
+        }
+      ],
+      "answer": "A",
+      "explanation": "<p>When we consider the color of light absorbed by a substance, we are referring to the complementary color of the light that is transmitted or reflected by the substance. An aqueous solution of copper(II) sulfate (CuSO<sub>4</sub>) appears blue to our eyes. This color results from the absorption of light in the complementary color range.</p>\n\n<p>The visible spectrum of light can be divided into several regions, each corresponding to a different color. The complementary color of blue is orange-red. This means that the aqueous solution of CuSO<sub>4</sub> absorbs light in the orange-red region of the spectrum.</p>\n\n<p>Therefore, the correct answer is:</p>\n\n<p>Option A: orange-red</p>"
+    },
+    {
+      "_type": "numerical",
+      "body": "The reaction of $\\mathrm{Xe}$ and $\\mathrm{O}_{2}{F}_{2}$ gives a $\\mathrm{Xe}$ compound $\\mathbf{P}$. The number of moles of $\\mathrm{HF}$ produced by the complete hydrolysis of $1 \\mathrm{~mol}$ of $\\mathbf{P}$ is __________.",
+      "answer": "4",
+      "explanation": "<p>$$\\mathrm{Xe}+2 \\mathrm{O}_{2}{F}_{2} \\rightarrow \\underset{(\\mathrm{P})}{\\mathrm{XeF}_{4}}+2 \\mathrm{O}_{2}$$</p>\n<p>$$\\underset{(\\mathrm{P})}{\\mathrm{6XeF}_{4}}+12 \\mathrm{H}_{2} \\mathrm{O} \\longrightarrow 4 \\mathrm{Xe}+2 \\mathrm{XeO}_{3}+24 \\mathrm{HF}+3 \\mathrm{O}_{2}$$</p>\n<p>So, from the above reaction, it is clear that 6 moles of $\\mathrm{XeF}_4$ produces 24 moles of $\\mathrm{HF}$.\n\n<br/><br/>So, 1 mole of $\\mathrm{XeF}_4$ will produce $\\frac{24}{6}$ moles of HF, i.e., 4 moles of $\\mathrm{HF}$.</p>"
+    },
+    {
+      "_type": "numerical",
+      "body": "Among PbS, CuS, HgS, MnS, Ag<sub>2</sub>S, NiS, CoS, Bi<sub>2</sub>S<sub>3</sub> and SnS<sub>2</sub> the total number of black coloured sulphides is ",
+      "answer": "6",
+      "explanation": "<p>(i) Lead in +2 oxidation state as $\\mathrm{Pb}^{2+}$ reacts with hydrogen sulphide gas $\\left(\\mathrm{H}_2 \\mathrm{~S}\\right)$ to form black coloured precipitate of lead sulphide $(\\mathrm{PbS})$.</p>\n\n<p>$\\begin{aligned} & \\mathrm{Pb}^{2+}(a q)+\\mathrm{H}_2 \\mathrm{~S}(g) \\rightarrow \\mathrm{PbS}(s) \\downarrow\\text { (Black }  \\text { ppt) }+2 \\mathrm{H}^{+}(a q)   \\\\\\\\ & \\mathrm{PbS} \\text { is black coloured precipitate. } \\\\ & \\end{aligned}$</p>\n\n<p>(ii) Silver in +1 oxidation state as $\\mathrm{Ag}^{+}$reacts with hydrogen sulphide in neutral or acidic medium to form black coloured precipitate of silver sulphide $\\left(\\mathrm{Ag}_2 \\mathrm{~S}\\right)$.</p>\n\n<p>$$ 2 \\mathrm{Ag}^{+}(a q)+\\mathrm{H}_2 \\mathrm{~S}(g) \\xrightarrow[\\text { or acidic medium }]{\\text { Neutral }} \\mathrm{Ag}_2 \\mathrm{~S}(s) $$(Black ppt)</p>\n\n<p><b>$\\mathrm{Ag}_2 \\mathrm{~S}$ is black coloured precipitate.</b></p>\n\n<p>(iii) Mercury in +2 oxidation state as $\\mathrm{Hg}^{2+}$ reacts with hydrogen sulphide in dilute hydrochloric acid to form black coloured precipitate of mercury sulphide (HgS).</p>\n\n<p>$$ \\mathrm{Hg}^{2+}(a q)+\\underset{\\begin{array}{c} \\text { (saturated aq. } \\\\ \\text { solution or gas) } \\end{array}}{\\mathrm{H}_2 \\mathrm{~S}} \\xrightarrow{\\text { dil. } \\mathrm{HCl}} \\underset{\\begin{array}{c} \\text { Black } \\\\ \\text { ppt } \\end{array}}{\\mathrm{HgS}(s)} $$</p>\n\n<p><b>HgS is black coloured precipitate.</b></p>\n\n<p>(iv) Copper in +2 oxidation state as $\\mathrm{Cu}^{2+}$ reacts with dilute hydrochloric acid to form black coloured precipitate of copper sulphide (CuS).</p>\n\n<p>$$ \\begin{aligned} & \\mathrm{Cu}^{2+}(a q)+\\mathrm{H}_2 \\mathrm{~S}(\\mathrm{~g}) \\text { (saturated aq. solution) } \\xrightarrow[\\text { HCl }]{\\text { dil }} \\mathrm{CuS}(\\mathrm{s}) \\text { (black ppt) } \\\\ & \\end{aligned} $$</p>\n\n<p><b>CuS is black coloured precipitate.</b></p>\n\n<p>(v) Cobalt in +2 oxidation state as $\\mathrm{Co}^{2+}$ reacts with hydrogen sulphide in neutral or alkaline solution to form black coloured precipitate of cobalt sulphide.</p>\n\n<p>$\\mathrm{Co}^{2+}(a q) \\text { (ammonical hydrogen sulphide) }+\\mathrm{H}_2 \\mathrm{~S} \\longrightarrow \\mathrm{CoS}(\\mathrm{s})\\text { (Black ppt.) }$</p>\n\n<p><b>$(\\mathrm{CoS})$ is black coloured precipitate.</b></p>\n\n<p>(vi) Nickel in +2 oxidation state as $\\mathrm{Ni}^{2+}$ reacts with hydrogen sulphide in neutral or slightly alkaline solution to form, black coloured precipitate of nickel sulphide.</p>\n\n<p>$$ \\mathrm{Ni}^{2+}(a q)+\\mathrm{H}_2 \\mathrm{~S} \\longrightarrow \\underset{\\substack{\\text { Black } \\\\ \\text { ppt. }}}{\\mathrm{NiS}(\\mathrm{s})} $$</p>\n\n<p><b>NiS is black coloured precipitate.</b></p>\n\n<p>(vii) Bismuth in +3 oxidation state as $\\mathrm{Bi}^{3+}$ reacts with hydrogen sulphide in cold dilute hydrochloric acid to form crystalline dark brown coloured precipitate, but appears black coloured solid of $\\mathrm{Bi}_2 \\mathrm{~S}_3$.</p>\n\n<p>$\\mathrm{Bi}^{3+}(a q) \\text { (Saturated solution) }+\\mathrm{H}_2 \\mathrm{~S} \\longrightarrow \\mathrm{Bi}_2 \\mathrm{~S}_3(\\mathrm{~s})\\text { (Dark brown or Black precipitate  brownish) }$</p>\n\n<p><b>$\\mathrm{Bi}_2 \\mathrm{~S}_3$ may appear black in colours.</b></p>\n\n<p>Either compounds of sulphur are black in colour.</p>\n\n<p>(viii) In mildly acidic, medium tin in +2 state, i.e., $\\mathrm{Sn}^{2+}$ reacts with Hydrogen sulphide $\\left(\\mathrm{H}_2 \\mathrm{~S}\\right)$ to form brown coloured tin (II) sulphide which further reacts with excess of hydrogen sulphide to form light yellow coloured tin (IV) sulphide $\\left(\\mathrm{SnS}_2\\right)$.</p>\n\n<p>$\\begin{aligned} \\mathrm{Sn}^{2+}(a q)+\\mathrm{H}_2 \\mathrm{~S} \\rightleftharpoons \\underset{\\text { Brown }}{\\mathrm{SnS}(s)} \\\\ \\mathrm{SnS}(\\mathrm{s})+\\mathrm{H}_2 \\mathrm{~S} \\rightleftharpoons \\underset{\\text { Yellow }}{\\mathrm{SnS}_2(\\mathrm{~s})}+2 \\mathrm{H}^{+}\\end{aligned}$</p>\n\n<p>Hence, tin (IV) sulphide or $\\mathrm{SnS}_2$ is yellow in colour.</p>\n\n<p>(ix) MnS is known to be dirty pink coloured.</p>"
+    },
+    {
+      "_type": "numerical",
+      "body": "<p>The oxidation number of Mn in the product of alkaline oxidative fusion of MnO$$_2$$ is ___________.</p>",
+      "answer": "6",
+      "explanation": "<p>The reaction for alkaline oxidative fusion is</p>\n<p>2MnO$$_2$$ + 4KOH + O$$_2$$ $$\\to$$ 2K$$_2$$MnO$$_4$$ + 2H$$_2$$O</p>\n<p>In potassium manganite formed as product :</p>\n<p>K$$_2$$MnO$$_4$$</p>\n<p>2(+1) + $$x$$ + 4($$-$$2) = 0</p>\n<p>$$2+x-8=0$$</p>\n<p>$$x-6=0\\Rightarrow x=+6$$</p>"
+    }
+  ]
+}

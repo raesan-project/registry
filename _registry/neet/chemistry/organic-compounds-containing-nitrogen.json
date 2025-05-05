@@ -1,0 +1,175 @@
+{
+  "_index": {
+    "name": "Organic Compounds Containing Nitrogen"
+  },
+  "_children": [
+    {
+      "_type": "single_mcq",
+      "body": "<p>Given below are two statements:</p>\n<p>Statement I : Aniline does not undergo Friedel-Crafts alkylation reaction.</p>\n<p>Statement II : Aniline cannot be prepared through Gabriel synthesis.</p>\n<p>In the light of the above statements, choose the correct answer from the options given below:</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "Both statement I and Statement II are true\n"
+        },
+        {
+          "key": "B",
+          "value": "Both Statement I and Statement II are false\n"
+        },
+        {
+          "key": "C",
+          "value": "Statement I is correct but Statement II is false\n"
+        },
+        {
+          "key": "D",
+          "value": "Statement I is incorrect but Statement II is true"
+        }
+      ],
+      "answer": "A",
+      "explanation": "<p>$$\\bullet$$ Aniline does not undergo Friedel-Crafts alkylation reaction due to salt formation with aluminium chloride, the Lewis acid, which is used as a catalyst.</p>\n<p>$$\\bullet$$ Aniline (aromatic primary amine) cannot be prepared by Gabriel phthalimide synthesis because aryl halides do not undergo nucleophilic substitution with anion formed by phthalimide.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Given below are two statements</p>\n<p>Statement I : Primary aliphatic amines react with HNO<sub>2</sub> to give unstable diazonium salts.</p>\n<p>Statement II : Primary aromatic amines react with HNO<sub>2</sub> to form diazonium salts which are stable even above 300 K.</p>\n<p>In the light of the above statements, choose the most appropriate answer from the options given below.</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "Both Statement I and Statement II are correct."
+        },
+        {
+          "key": "B",
+          "value": "Both Statement I and Statement II are incorrect."
+        },
+        {
+          "key": "C",
+          "value": "Statement I is correct but Statement II is incorrect."
+        },
+        {
+          "key": "D",
+          "value": "Statement I is incorrect but Statement II is correct."
+        }
+      ],
+      "answer": "C",
+      "explanation": "<p>$$\\bullet$$ Primary aliphatic amines react with HNO<sub>2</sub> and give unstable diazonium salt which turns into alcohol</p>\n<p>$$R - N{H_2} + HN{O_2}\\buildrel {} \\over\n \\longrightarrow \\left[ {R - N_2^ +  - C{l^ - }} \\right]\\buildrel {{H_2}O} \\over\n \\longrightarrow ROH + {N_2} + HCl$$</p>\n<p>$$\\bullet$$ Primary aromatic amines reacts with HNO<sub>2</sub> and give stable diazonium salt which are stable at 273 to 278 K.</p>\n<p>$${C_6}{H_5} - N{H_2} + HN{O_2}\\buildrel {273 - 278\\,K} \\over\n \\longrightarrow {C_6}{H_5}N_2^ + C{l^ - }$$</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The correct order of the basic strength of methyl substituted amines in aqueous solution is :",
+      "options": [
+        {
+          "key": "A",
+          "value": "(CH<sub>3</sub>)<sub>3</sub>N &gt; (CH<sub>3</sub>)<sub>2</sub>NH &gt; CH<sub>3</sub>NH<sub>2</sub>"
+        },
+        {
+          "key": "B",
+          "value": "CH<sub>3</sub>NH<sub>2</sub> &gt; (CH<sub>3</sub>)<sub>2</sub>NH &gt; (CH<sub>3</sub>)<sub>3</sub>N"
+        },
+        {
+          "key": "C",
+          "value": "(CH<sub>3</sub>)<sub>2</sub>NH &gt; CH<sub>3</sub>NH<sub>2</sub> &gt; (CH<sub>3</sub>)<sub>3</sub>N"
+        },
+        {
+          "key": "D",
+          "value": "(CH<sub>3</sub>)<sub>3</sub>N &gt; CH<sub>3</sub>NH<sub>2</sub> &gt; (CH<sub>3</sub>)<sub>2</sub>NH"
+        }
+      ],
+      "answer": "C",
+      "explanation": "The basic strength of methyl substituted amines\nin aqueous form is together affected by inductive\neffect, solvation effect and steric hindrance. So, the\ncorrect order of basic strength will be :\n<br><br>(CH<sub>3</sub>)<sub>2</sub>NH &gt; CH<sub>3</sub>NH<sub>2</sub> &gt; (CH<sub>3</sub>)<sub>3</sub>N\n"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The correct statement regarding the basicity of arylamines is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "arylamines are generally more basic than alkalmines because of aryl group"
+        },
+        {
+          "key": "B",
+          "value": "arylamines are generally more basic than alkylmines, because the nitrogen atom in arylamines is <i>sp</i>-hybridised"
+        },
+        {
+          "key": "C",
+          "value": "arylamines are generally less basic than alkylamines because the nitrogen lone-pair electrons are delocalised by interaction with the aromatic ring $$\\pi $$-electron system "
+        },
+        {
+          "key": "D",
+          "value": "arylamines are generally more basic than alkylamines because the nitrogen lone-pair electrons are not delocalised by interaction with the aromatic ring $$\\pi $$-electron system. "
+        }
+      ],
+      "answer": "C",
+      "explanation": "In arylamines, lone pair of electrons on nitrogen atom is delocalized over the benzene ring, thus not available for donation so arylamine are less basic than alkylamines."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Method by which aniline cannot be prepared is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "degradation of benzamide with bromine in alkaline solution"
+        },
+        {
+          "key": "B",
+          "value": "reduction of nitrobenzene with H<sub>2</sub>/Pd in ethanol"
+        },
+        {
+          "key": "C",
+          "value": "potassium salt of phthalimide treated with chlorobenzene followed by hydrolysis with aqueous NaOH solution"
+        },
+        {
+          "key": "D",
+          "value": "hydrolysis of phenylisocyanide with acidic solution."
+        }
+      ],
+      "answer": "C",
+      "explanation": "Because arylhalides do not undergo nucleophilic substitution reaction with potassium phthalimide easily. "
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Acetamide is treated with the following reagents separately. Which one of these would yield methyl amine?",
+      "options": [
+        {
+          "key": "A",
+          "value": "NaOH/Br<sub>2</sub>"
+        },
+        {
+          "key": "B",
+          "value": "Sodalime"
+        },
+        {
+          "key": "C",
+          "value": "Hot conc.H<sub>2</sub>SO<sub>4</sub>"
+        },
+        {
+          "key": "D",
+          "value": "PCl<sub>5</sub>"
+        }
+      ],
+      "answer": "A",
+      "explanation": "Among the given reagents only NaOH/\nBr<sub>2</sub> converts -CONH<sub>2</sub> group to -NH<sub>2</sub> group.\nThis is known as Hofmann bromamide reaction.\n<br><br>CH<sub>3</sub>-CONH<sub>2</sub> + NaOH +Br<sub>2</sub>\n<br><br>&nbsp;&nbsp;&nbsp;$$ \\to $$ CH<sub>3</sub>NH<sub>2</sub> + NaBr +  Na<sub>2</sub>CO<sub>3</sub> +  H<sub>2</sub>O"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Which of the following is more basic than aniline? ",
+      "options": [
+        {
+          "key": "A",
+          "value": "Benzylamine "
+        },
+        {
+          "key": "B",
+          "value": "Diphenylamine"
+        },
+        {
+          "key": "C",
+          "value": "Triphenylamine"
+        },
+        {
+          "key": "D",
+          "value": "$$p$$-Nitroaniline"
+        }
+      ],
+      "answer": "A",
+      "explanation": "Benzylamine is more basic than aniline. The reason is that in aniline, the lone pair of nitrogen is conjugated with benzene ring so it is not available readily for others. On the other hand in Benzylamine, nitrogen is not directly attached with ring so lone pairs are not conjugated with ring.\n"
+    }
+  ]
+}

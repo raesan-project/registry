@@ -16,10 +16,11 @@ diesel::table! {
 }
 
 diesel::table! {
-    question_answers (id) {
+    numericals (id) {
         id -> Text,
         chapter_id -> Text,
         body -> Text,
+        answer -> Text,
     }
 }
 
@@ -37,6 +38,7 @@ diesel::table! {
         id -> Text,
         chapter_id -> Text,
         body -> Text,
+        answer -> Text,
     }
 }
 
@@ -49,7 +51,7 @@ diesel::table! {
 }
 
 diesel::joinable!(chapters -> subjects (subject_id));
-diesel::joinable!(question_answers -> chapters (chapter_id));
+diesel::joinable!(numericals -> chapters (chapter_id));
 diesel::joinable!(single_mcq_options -> single_mcqs (single_mcq_id));
 diesel::joinable!(single_mcqs -> chapters (chapter_id));
 diesel::joinable!(subjects -> exams (exam_id));
@@ -57,7 +59,7 @@ diesel::joinable!(subjects -> exams (exam_id));
 diesel::allow_tables_to_appear_in_same_query!(
     chapters,
     exams,
-    question_answers,
+    numericals,
     single_mcq_options,
     single_mcqs,
     subjects,

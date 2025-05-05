@@ -1,0 +1,499 @@
+{
+  "_index": {
+    "name": "Parabola"
+  },
+  "_children": [
+    {
+      "_type": "numerical",
+      "body": "Suppose that the foci of the ellipse $${{{x^2}} \\over 9} + {{{y^2}} \\over 5} = 1$$ are $$\\left( {{f_1},0} \\right)$$ and $$\\left( {{f_2},0} \\right)$$ where $${{f_1} &gt; 0}$$ and $${{f_2} &lt; 0}$$. Let $${P_1}$$ and $${P_2}$$ be two parabolas with a common vertex at $$(0,0)$$ and with foci at $$\\left( {{f_1},0} \\right)$$ and $$\\left( 2{{f_2},0} \\right)$$, respectively. Let $${T_1}$$ be a tangent to $${P_1}$$ which passes through $$\\left( 2{{f_2},0} \\right)$$ and $${T_2}$$ be a tangent to $${P_2}$$ which passes through $$\\left( {{f_1},0} \\right)$$. If $${m_1}$$ is the slope of $${T_1}$$ and $${m_2}$$ is the slope of $${T_2}$$, then the value of $$\\left( {{1 \\over {m_1^2}} + m_2^2} \\right)$$ is ",
+      "answer": "4",
+      "explanation": "<p>$${e^2} = 1 - {{{b^2}} \\over {{a^2}}} = 1 - {5 \\over 9} = {4 \\over 9}$$</p>\n<p>The foci are ($$\\pm$$ ae, 0) i.e. (2, 0) and ($$-$$2, 0).</p>\n<p>The parabola P<sub>1</sub> is $${y^2} = 8x$$ and P<sub>2</sub> is $${y^2} =  - 16x$$</p>\n<p>As tangent with slope m<sub>1</sub> to P<sub>1</sub> passes through ($$-$$4, 0), we have</p>\n<p>$$y = {m_1}x + {2 \\over {{m_1}}}$$ giving $$0 =  - 4{m_1} + {2 \\over {{m_1}}}$$</p>\n<p>i.e. $$4m_1^2 = 2 \\Rightarrow m_1^2 = {1 \\over 2}$$</p>\n<p>Again for tangent with slope m<sub>2</sub> to P<sub>2</sub> passing through (2, 0), we have</p>\n<p>$$y = {m_2}x - {4 \\over {{m_2}}} \\Rightarrow 0 = 2{m_2} - {4 \\over {{m_2}}}$$</p>\n<p>$$ \\Rightarrow 2m_2^2 = 4$$ $$\\therefore$$ $$m_2^2 = 2$$</p>\n<p>Thus, $${1 \\over {m_1^2}} + m_2^2 = 2 + 2 = 4$$</p>"
+    },
+    {
+      "_type": "numerical",
+      "body": "If the normals of the parabola $${y^2} = 4x$$ drawn at the end points of its latus rectum are tangents to the circle $${\\left( {x - 3} \\right)^2} + {\\left( {y + 2} \\right)^2} = {r^2}$$, then the value of $${r^2}$$ is ",
+      "answer": "2",
+      "explanation": "<p>Given: A parabola $$y^2=4 x$$</p>\n<p>Comparing the given equation of parabola with the standard equation of parabola $$y^2=4 a x$$, we get $$a=1$$</p>\n<p>Also, the end points of latus Rectum are $$(a, \\pm 2 a)$$</p>\n<p>$$\\Rightarrow$$ The end points of latus rectum are $$(1,2)$$ and $$(1,-2)$$</p>\n<p>Also we know that the equation of normal to the parabola at point</p>\n<p>$$\\begin{aligned}\n& & \\left(a m^2,-2 a m\\right) \\text { is } y & =m x-2 a m-a m^3 \\\\\n\\Rightarrow & & \\left(a m^2,-2 a m\\right) & =(1,2) \\\\\n\\Rightarrow & & \\left(m^2,-2 m\\right) & =(1,2) \\\\\n\\Rightarrow & & m^2 & =1 \\text { and } m=-1 \\\\\n\\Rightarrow & & m & =-1\n\\end{aligned}$$</p>\n<p>So, the equation of the normal at $$(1,2)$$ is,</p>\n<p>$$\\begin{aligned}\n& & y & =(-1) x-2(1)(-1)-(1)(-1)^3 \\\\\n\\Rightarrow & & y & =-x+3 \\\\\n\\Rightarrow & & x+y-3 & =0\n\\end{aligned}$$</p>\n<p>As the normal is tangent to the circle $$(x-3)^2+ (y+2)^2=r^2$$</p>\n<p>$$\\Rightarrow$$ The perpendicular distance of the tangent from the centre of the circle is equal to the radius of the circle.</p>\n<p>Now, comparing the equation of the circle with the general form of the circle we get\nCoordinates of centre $$\\equiv(3,-2)$$</p>\n<p>$$\\Rightarrow$$ Perpendicular distance from $$(3,-2)$$ to $$x+y-3=r$$</p>\n<p>$$\\begin{array}{rrr}\n\\Rightarrow & \\left|\\frac{3+(-2)-3}{\\sqrt{1^2+1^2}}\\right| & =r \\\\\n\\Rightarrow & \\frac{2}{\\sqrt{2}}=r \\\\\n\\Rightarrow & r^2=2\n\\end{array}$$</p>\n<p>Hint :</p>\n<p>(i) The equation of the normal to the parabola at point $$\\left(a m^2,-2 a m\\right)$$ is $$y=m x-2 a m-a m^3$$.</p>\n<p>(ii) The perpendicular distance of a point $$(h, k)$$ from the line $$a x+b y+c=o$$ is $$\\left|\\frac{a h+b k+c}{\\sqrt{a^2+b^2}}\\right|$$ units.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Let a, b and $$\\lambda $$ be positive real numbers. Suppose P is an end point of the latus return of the <br>parabola y<sup>2</sup> = 4$$\\lambda $$x, and suppose the ellipse $${{{x^2}} \\over {{a^2}}} + {{{y^2}} \\over {{b^2}}} = 1$$ passes through the point P. If the tangents to the parabola and the ellipse at the point P are perpendicular to each other, then the eccentricity of the ellipse is",
+      "options": [
+        {
+          "key": "A",
+          "value": "$${1 \\over {\\sqrt 2 }}$$"
+        },
+        {
+          "key": "B",
+          "value": "$${{1 \\over 2}}$$"
+        },
+        {
+          "key": "C",
+          "value": "$${{1 \\over 3}}$$"
+        },
+        {
+          "key": "D",
+          "value": "$${{2 \\over 5}}$$"
+        }
+      ],
+      "answer": "A",
+      "explanation": "Equation of given parabola is<br><br>y<sup>2</sup> = 4$$\\lambda $$x ....(i)<br><br>So the end point of the latus rectum of the parabola (i), P($$\\lambda $$, 2$$\\lambda $$) and the given ellipse $${{{x^2}} \\over {{a^2}}} + {{{y^2}} \\over {{b^2}}} = 1$$, passes through point P($$\\lambda $$, 2$$\\lambda $$).<br><br>On differentiating the equation of parabola, w.r.t. 'x', we get<br><br>$${{dy} \\over {dx}} = {{2\\lambda } \\over y}$$<br><br>$$ \\therefore $$ Slope of tangent to the parabola at point P is m<sub>1</sub> = 1<br><br>Similarly, on differentiating the equation of given ellipse, $${{{x^2}} \\over {{a^2}}} + {{{y^2}} \\over {{b^2}}} = 1$$, w.r.t.x, we get $${{2x} \\over {{a^2}}} + {{2y} \\over {{b^2}}}{{dy} \\over {dx}} = 0 \\Rightarrow {{dy} \\over {dx}} =  - {{{b^2}x} \\over {{a^2}y}}$$<br><br>$$ \\therefore $$ Slope of tangent to the ellipse at point P is $${m_2} =  - {{{b^2}} \\over {2{a^2}}}$$<br><br>$$ \\because $$ It is given that the tangents are perpendicular to each other. So, $${m_1}{m_2} =  - 1$$<br><br>$$ \\Rightarrow (1)\\left( { - {{{b^2}} \\over {2{a^2}}}} \\right) =  - 1$$<br><br>$$ \\Rightarrow {{{b^2}} \\over {{a^2}}} = 2 \\Rightarrow b = \\sqrt 2 a$$<br><br>$$ \\therefore $$ Eccentricity of ellipse $${{{x^2}} \\over {{a^2}}} + {{{y^2}} \\over {{b^2}}} = 1$$ will be<br><br>$$e = \\sqrt {1 - {{{a^2}} \\over {{b^2}}}}  = \\sqrt {1 - {1 \\over 2}}  = {1 \\over {\\sqrt 2 }}$$ {$$ \\because $$ b &gt; a}"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "If a tangent to a suitable conic (Column 1) is found to be y = x + 8 and its point of contact is (8, 16), then which of the following options is the only CORRECT combination?",
+      "options": [
+        {
+          "key": "A",
+          "value": "(III) (i) (P)"
+        },
+        {
+          "key": "B",
+          "value": "(I) (ii) (Q)"
+        },
+        {
+          "key": "C",
+          "value": "(II) (iv) (R)"
+        },
+        {
+          "key": "D",
+          "value": "(III) (ii) (Q)"
+        }
+      ],
+      "answer": "A",
+      "explanation": "<p>The tangent is y = x + 8.</p>\n<p>Satisfying (8, 16) in y<sup>2</sup> = 4ax, we have</p>\n<p>16<sup>2</sup> = 4a . 8. $$\\therefore$$ a = 8</p>\n<p>On comparing y = mx + $${a \\over m}$$, we have m = 1</p>\n<p>The point of contact is $$\\left( {{a \\over {{m^2}}},{{2a} \\over m}} \\right) = (8,16)$$</p>\n<p>So its verified.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>The locus of the orthocentre of the triangle formed by the lines <br/><br/>$$(1 + p)x - py + p(1 + p) = 0,\n$$\n<br/><br/>$$(1 + q)x - qy + q(1 + q) = 0$$\n<br/><br/> and $$y = 0$$, where $$p \\ne q$$, is :</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "a hyperbola."
+        },
+        {
+          "key": "B",
+          "value": "a parabola."
+        },
+        {
+          "key": "C",
+          "value": "an ellipse."
+        },
+        {
+          "key": "D",
+          "value": "a straight line."
+        }
+      ],
+      "answer": "D",
+      "explanation": "<p>The intersection point of $$y = 0$$ with first line is $$B( - p,0)$$.</p>\n<p>The intersection point of $$y=0$$ with second line is $$A( - q,0)$$.</p>\n<p>The intersection point of the two lines is $$C(pq,(p + 1)(q + 1))$$.</p>\n<p>The altitude from C to AB is $$x = pq$$.</p>\n<p>The altitude from B to AC is</p>\n<p>$$y =  - {q \\over {1 + q}}(x + p)$$</p>\n<p>Solving these two equations, we get $$x = pq$$ and $$y =  - pq$$.</p>\n<p>Hence, the locus of orthocentre is $$x + y = 0$$.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<b>STATEMENT-1:</b> The curve $$y = {{ - {x^2}} \\over 2} + x + 1$$ is symmetric with respect to the line $$x=1$$. because\n<p><b>STATEMENT-2:</b> A parabola is symmetric about its axis.</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "Statement-1 is True, Statement-2 is True; Statement-2 is a correct explanation for Statement-1"
+        },
+        {
+          "key": "B",
+          "value": "Statement-1 is True, Statement-2 is True; Statement-2 is NOT a correct explanation for Statement-1"
+        },
+        {
+          "key": "C",
+          "value": "Statement-1 is True, Statement-2 is False "
+        },
+        {
+          "key": "D",
+          "value": "Statement-1 is False, Statement-2 is True."
+        }
+      ],
+      "answer": "A",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Consider the circle $${x^2} + {y^2} = 9$$ and the parabola $${y^2} = 8x$$. They intersect at $$P$$ and $$Q$$ in the first and the fourth quadrants, respectively. Tangent to the circle at $$P$$ and $$Q$$ intersect the $$x$$-axis at $$R$$ and tangents to the parabola at $$P$$ and $$Q$$ intersect the $$x$$-axis at $$S$$. \n<p>The radius of the circumcircle of the triangle $$PRS$$ is </p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$5$$ "
+        },
+        {
+          "key": "B",
+          "value": "$$3\\sqrt 3 $$"
+        },
+        {
+          "key": "C",
+          "value": "$$3\\sqrt 2 $$"
+        },
+        {
+          "key": "D",
+          "value": "$$2\\sqrt 3 $$"
+        }
+      ],
+      "answer": "B",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Consider the circle $${x^2} + {y^2} = 9$$ and the parabola $${y^2} = 8x$$. They intersect at $$P$$ and $$Q$$ in the first and the fourth quadrants, respectively. Tangent to the circle at $$P$$ and $$Q$$ intersect the $$x$$-axis at $$R$$ and tangents to the parabola at $$P$$ and $$Q$$ intersect the $$x$$-axis at $$S$$. \n<p>The radius of the incircle of the triangle $$PQR$$ is </p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$4$$"
+        },
+        {
+          "key": "B",
+          "value": "$$3$$"
+        },
+        {
+          "key": "C",
+          "value": "$${8 \\over 3}$$"
+        },
+        {
+          "key": "D",
+          "value": "$$2$$"
+        }
+      ],
+      "answer": "D",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Consider the circle $${x^2} + {y^2} = 9$$ and the parabola $${y^2} = 8x$$. They intersect at $$P$$ and $$Q$$ in the first and the fourth quadrants, respectively. Tangent to the circle at $$P$$ and $$Q$$ intersect the $$x$$-axis at $$R$$ and tangents to the parabola at $$P$$ and $$Q$$ intersect the $$x$$-axis at $$S$$. \n<p>The ratio of the areas of the triangles $$PQS$$ and $$PQR$$ is </p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$1:\\sqrt 2 $$ "
+        },
+        {
+          "key": "B",
+          "value": "$$1:2$$ "
+        },
+        {
+          "key": "C",
+          "value": "$$1:4$$"
+        },
+        {
+          "key": "D",
+          "value": "$$1:8$$"
+        }
+      ],
+      "answer": "C",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The axis of a parabola is along the line $$y = x$$ and the distances of its vertex and focus from origin are $$\\sqrt 2 $$ and $$2\\sqrt 2 $$ respectively. If vertex and focus both lie in the first quadrant, then the equation of the parabola is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$${\\left( {x + y} \\right)^2} = \\left( {x - y - 2} \\right)$$ "
+        },
+        {
+          "key": "B",
+          "value": "$${\\left( {x - y} \\right)^2} = \\left( {x + y - 2} \\right)$$"
+        },
+        {
+          "key": "C",
+          "value": "$${\\left( {x - y} \\right)^2} = 4\\left( {x + y - 2} \\right)$$"
+        },
+        {
+          "key": "D",
+          "value": "$${\\left( {x - y} \\right)^2} = 8\\left( {x + y - 2} \\right)$$"
+        }
+      ],
+      "answer": "D",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Match the following : $$(3, 0)$$ is the pt. from which three normals are drawn to the parabola $${y^2} = 4x$$ which meet the parabola in the points $$P, Q $$ and $$R$$. Then \n<p><b>Column $${\\rm I}$$</b>\n<br>(A) Area of $$\\Delta PQR$$\n<br>(B) Radius of circumcircle of $$\\Delta PQR$$\n<br>(C) Centroid of $$\\Delta PQR$$ \n<br>(D) Circumcentre of $$\\Delta PQR$$</p>\n<p><b>Column $${\\rm I}$$$${\\rm I}$$</b>\n<br>(p) $$2$$\n<br>(q) $$5/2$$\n<br>(r) $$(5/2, 0)$$\n<br>(s) $$(2/3, 0)$$</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$\\left( A \\right) - \\left( p \\right),\\left( B \\right) - \\left( q \\right),\\left( C \\right) - \\left( s \\right),\\left( D \\right) - \\left( r \\right)$$ "
+        },
+        {
+          "key": "B",
+          "value": "$$\\left( A \\right) - \\left( p \\right),\\left( B \\right) - \\left( q \\right),\\left( C \\right) - \\left( r \\right),\\left( D \\right) - \\left( s \\right)$$ "
+        },
+        {
+          "key": "C",
+          "value": "$$\\left( A \\right) - \\left( s \\right),\\left( B \\right) - \\left( r \\right),\\left( C \\right) - \\left( p \\right),\\left( D \\right) - \\left( q \\right)$$ "
+        },
+        {
+          "key": "D",
+          "value": "$$\\left( A \\right) - \\left( r \\right),\\left( B \\right) - \\left( s \\right),\\left( C \\right) - \\left( q \\right),\\left( D \\right) - \\left( p \\right)$$ "
+        }
+      ],
+      "answer": "A",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Tangent to the curve $$y = {x^2} + 6$$ at a point $$(1, 7)$$ touches the circle $${x^2} + {y^2} + 16x + 12y + c = 0$$ at a point $$Q$$. Then the coordinates of $$Q$$ are ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$(-6, -11)$$ "
+        },
+        {
+          "key": "B",
+          "value": "$$(-9, -13)$$ "
+        },
+        {
+          "key": "C",
+          "value": "$$(-10, -15)$$ "
+        },
+        {
+          "key": "D",
+          "value": "$$(-6, -7)$$ "
+        }
+      ],
+      "answer": "D",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The angle between the tangents drawn from the point $$(1, 4)$$ to the parabola $${y^2} = 4x$$ is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$\\pi /6$$ "
+        },
+        {
+          "key": "B",
+          "value": "$$\\pi /4$$"
+        },
+        {
+          "key": "C",
+          "value": "$$\\pi /3$$"
+        },
+        {
+          "key": "D",
+          "value": "$$\\pi /2$$"
+        }
+      ],
+      "answer": "C",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The focal chord to $${y^2} = 16x$$ is tangent to $${\\left( {x - 6} \\right)^2} + {y^2} = 2,$$ then the possible values of the slope of the chord, are ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$\\left\\{ { - 1,\\,1} \\right\\}$$ "
+        },
+        {
+          "key": "B",
+          "value": "$$\\left\\{ { - 2,\\,2} \\right\\}$$"
+        },
+        {
+          "key": "C",
+          "value": "$$\\left\\{ { - 2,\\,-1/2} \\right\\}$$"
+        },
+        {
+          "key": "D",
+          "value": "$$\\left\\{ {  2,\\,-1/2} \\right\\}$$"
+        }
+      ],
+      "answer": "A",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The locus of the mid-point of the line segment joining the focus to a moving point on the parabola $${y^2} = 4ax$$ is another parabola with directrix",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$x = -a$$ "
+        },
+        {
+          "key": "B",
+          "value": "$$x = -a/2$$ "
+        },
+        {
+          "key": "C",
+          "value": "$$x = 0$$ "
+        },
+        {
+          "key": "D",
+          "value": "$$x = a/2$$ "
+        }
+      ],
+      "answer": "C",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The equation of the common tangent to the curves $${y^2} = 8x$$ and $$xy =  - 1$$ is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$3y = 9x + 2$$ "
+        },
+        {
+          "key": "B",
+          "value": "$$y = 2x + 1$$"
+        },
+        {
+          "key": "C",
+          "value": "$$2y = x + 8$$"
+        },
+        {
+          "key": "D",
+          "value": "$$y= x + 2$$"
+        }
+      ],
+      "answer": "D",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The equation of the directrix of the parabola $${y^2} + 4y + 4x + 2 = 0$$ ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$x =  - 1$$ "
+        },
+        {
+          "key": "B",
+          "value": "$$x =  1$$"
+        },
+        {
+          "key": "C",
+          "value": "$$x =  - 3/2$$"
+        },
+        {
+          "key": "D",
+          "value": "$$x =   3/2$$"
+        }
+      ],
+      "answer": "D",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The equation of the common tangent touching the circle $${\\left( {x - 3} \\right)^2} + {y^2} = 9$$ and the parabola $${y^2} = 4x$$ above the $$x$$-axis is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$\\sqrt {3y}  = 3x + 1$$ "
+        },
+        {
+          "key": "B",
+          "value": "$$\\sqrt {3y}  =  - \\left( {x + 3} \\right)$$ "
+        },
+        {
+          "key": "C",
+          "value": "$$\\sqrt {3y}  = x + 3$$"
+        },
+        {
+          "key": "D",
+          "value": "$$\\sqrt {3y}  =  - \\left( {3x + 1} \\right)$$ "
+        }
+      ],
+      "answer": "C",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "If the line $$x - 1 = 0$$ is the directrix of the parabola $${y^2} - kx + 8 = 0,$$ then one of the values of $$k$$ is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$1/8$$ "
+        },
+        {
+          "key": "B",
+          "value": "$$8$$ "
+        },
+        {
+          "key": "C",
+          "value": "$$4$$ "
+        },
+        {
+          "key": "D",
+          "value": "$$1/4$$ "
+        }
+      ],
+      "answer": "C",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "If $$x + y = k$$ is normal to $${y^2} = 12x,$$ then $$k$$ is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$3$$ "
+        },
+        {
+          "key": "B",
+          "value": "$$9$$ "
+        },
+        {
+          "key": "C",
+          "value": "$$-9$$ "
+        },
+        {
+          "key": "D",
+          "value": "$$-3$$ "
+        }
+      ],
+      "answer": "B",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The curve described parametrically by $$x = {t^2} + t + 1,$$ $$y = {t^2} - t + 1 $$   represents",
+      "options": [
+        {
+          "key": "A",
+          "value": "a pair of straight lines "
+        },
+        {
+          "key": "B",
+          "value": "an ellipse "
+        },
+        {
+          "key": "C",
+          "value": "a parabola "
+        },
+        {
+          "key": "D",
+          "value": "a hyperbola "
+        }
+      ],
+      "answer": "C",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Consider a circle with its centre lying on the focus of the parabola $${y^2} = 2px$$ such that it touches the directrix of the parabola. Then a point of intersection of the circle and parabola is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$\\left( {{p \\over 2},p} \\right)$$ or $$\\left( {{p \\over 2},- p} \\right)$$"
+        },
+        {
+          "key": "B",
+          "value": "$$\\left( {  {p \\over 2},  {p \\over 2}} \\right)$$"
+        },
+        {
+          "key": "C",
+          "value": "$$\\left( -{{p \\over 2},p} \\right)$$"
+        },
+        {
+          "key": "D",
+          "value": "$$\\left( { - {p \\over 2}, - {p \\over 2}} \\right)$$ "
+        }
+      ],
+      "answer": "A",
+      "explanation": ""
+    }
+  ]
+}

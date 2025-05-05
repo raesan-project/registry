@@ -1,0 +1,1447 @@
+{
+  "_index": {
+    "name": "Rotational Motion"
+  },
+  "_children": [
+    {
+      "_type": "single_mcq",
+      "body": "<p>The moment of inertia of a thin rod about an axis passing through its mid point and perpendicular to the rod is $$2400 \\mathrm{~g} \\mathrm{~cm}^2$$. The length of the $$400 \\mathrm{~g}$$ rod is nearly:</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "8.5 cm"
+        },
+        {
+          "key": "B",
+          "value": "17.5 cm"
+        },
+        {
+          "key": "C",
+          "value": "20.7 cm"
+        },
+        {
+          "key": "D",
+          "value": "72.0 cm"
+        }
+      ],
+      "answer": "A",
+      "explanation": "<p>$$\n\\begin{aligned}\n& \\text { Moment of inertia of rod }=I=\\frac{m \\ell^2}{12} \\\\\n& \\Rightarrow \\quad 2400=400 \\frac{\\ell^2}{12} \\\\\n& \\Rightarrow \\quad 72=\\ell^2 \\\\\n& \\Rightarrow \\quad \\ell=\\sqrt{72}=8.48 \\mathrm{~cm} \\simeq 8.5 \\mathrm{~cm}\n\\end{aligned}$$</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>A constant torque of $$100 \\mathrm{~N} \\mathrm{~m}$$ turns a wheel of moment of inertia $$300 \\mathrm{~kg} \\mathrm{~m}^2$$ about an axis passing through its centre. Starting from rest, its angular velocity after $$3 \\mathrm{~s}$$ is :-</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "1 rad/s"
+        },
+        {
+          "key": "B",
+          "value": "5 rad/s"
+        },
+        {
+          "key": "C",
+          "value": "10 rad/s"
+        },
+        {
+          "key": "D",
+          "value": "15 rad/s"
+        }
+      ],
+      "answer": "A",
+      "explanation": "<p>$$\\begin{aligned} \\tau & =\\mathrm{I} \\alpha \\Rightarrow \\alpha=\\frac{\\tau}{\\mathrm{I}}=\\frac{100}{300}=\\frac{1}{3} ~\\mathrm{rad} / \\mathrm{sec}^2 \\\\ \\omega_{\\mathrm{i}} & =0 \\\\ \\omega_{\\mathrm{f}} & =\\omega_{\\mathrm{i}}+\\alpha \\mathrm{t} \\\\ & =0+\\frac{1}{3} \\times 3 \\\\ \\omega_{\\mathrm{f}} & =1 ~\\mathrm{rad} / \\mathrm{sec}\\end{aligned}$$</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>The ratio of radius of gyration of a solid sphere of mass $$M$$ and radius $$R$$ about its own axis to the radius of gyration of the thin hollow sphere of same mass and radius about its axis is :-</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$5: 3$$"
+        },
+        {
+          "key": "B",
+          "value": "$$2: 5$$"
+        },
+        {
+          "key": "C",
+          "value": "$\\sqrt{5}: \\sqrt{3}$"
+        },
+        {
+          "key": "D",
+          "value": "$\\sqrt{3}: \\sqrt{5}$"
+        }
+      ],
+      "answer": "D",
+      "explanation": "<p>To solve this problem, we need to find the ratio of the radius of gyration for a solid sphere (K₁) to the radius of gyration for a thin hollow sphere (K₂) of the same mass M and radius R.</p>\n<p>The moment of inertia (I) of a solid sphere about its own axis is given by :</p>\n<p>$$I_{solid} = \\frac{2}{5}MR^2$$</p>\n<p>The radius of gyration (K) is related to the moment of inertia (I) and mass (M) by the formula :</p>\n<p>$$I = MK^2$$</p>\n<p>So for the solid sphere, we can find K₁ using :</p>\n<p>$$K^2_{1} = \\frac{I_{solid}}{M} = \\frac{2}{5}R^2$$\n<br/><br/>$$K_{1} = R\\sqrt{\\frac{2}{5}}$$</p>\n<p>Now, for a thin hollow sphere, the moment of inertia about its axis is given by :</p>\n<p>$$I_{hollow} = \\frac{2}{3}MR^2$$</p>\n<p>We can find K₂ using :</p>\n<p>$$K^2_{2} = \\frac{I_{hollow}}{M} = \\frac{2}{3}R^2$$\n<br/><br/>$$K_{2} = R\\sqrt{\\frac{2}{3}}$$</p>\n<p>Now, we need to find the ratio K₁ : K₂ :</p>\n<p>$$\\frac{K_{1}}{K_{2}} = \\frac{R\\sqrt{\\frac{2}{5}}}{R\\sqrt{\\frac{2}{3}}}$$</p>\n<p>The R terms cancel out, and we are left with :</p>\n<p>$$\\frac{K_{1}}{K_{2}} = \\frac{\\sqrt{\\frac{2}{5}}}{\\sqrt{\\frac{2}{3}}}$$</p>\n<p>Simplify by taking the square root of the fraction :</p>\n<p>$$\\frac{K_{1}}{K_{2}} = \\frac{\\sqrt{2}\\sqrt{3}}{\\sqrt{5}\\sqrt{2}}$$</p>\n<p>Now, the square root of 2 terms cancel out, giving us :</p>\n<p>$$\\frac{K_{1}}{K_{2}} = \\frac{\\sqrt{3}}{\\sqrt{5}}$$</p>\n\n"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>An energy of 484 J is spent in increasing the speed of a flywheel from 60 rpm to 360 rpm. The moment of inertia of the flywheel is :</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "0.07 kg-m<sup>2</sup>"
+        },
+        {
+          "key": "B",
+          "value": "0.7 kg-m<sup>2</sup>"
+        },
+        {
+          "key": "C",
+          "value": "3.22 kg-m<sup>2</sup>"
+        },
+        {
+          "key": "D",
+          "value": "30.8 kg-m<sup>2</sup>"
+        }
+      ],
+      "answer": "B",
+      "explanation": "<p>From work - energy theorem</p>\n<p>$$W = \\Delta k$$ (change in Kinetic Energy)</p>\n<p>In rotation, $$KE = {1 \\over 2}I{\\omega ^2}$$</p>\n<p>$$484 = {1 \\over 2}I(\\omega _f^2 - \\omega _i^2)$$</p>\n<p>$$ \\Rightarrow 484 = {1 \\over 2}I\\left[ {{{\\left( {2\\pi {{360} \\over {60}}} \\right)}^2} - {{\\left( {2\\pi  \\times {{60} \\over {60}}} \\right)}^2}} \\right]$$</p>\n<p>$$ \\Rightarrow 484 = {1 \\over 2}I4{\\pi ^2}(36 - 1)$$</p>\n<p>$$ \\Rightarrow I \\simeq 0.7$$ kg-m<sup>2</sup></p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>The angular speed of a fly wheel moving with uniform angular acceleration changes from 1200 rpm to 3120 rpm in 16 seconds. The angular acceleration in rad/s<sup>2</sup> is</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "2$$\\pi$$"
+        },
+        {
+          "key": "B",
+          "value": "4$$\\pi$$"
+        },
+        {
+          "key": "C",
+          "value": "12$$\\pi$$"
+        },
+        {
+          "key": "D",
+          "value": "104$$\\pi$$"
+        }
+      ],
+      "answer": "B",
+      "explanation": "<p>Angular acceleration $$\\alpha  = {{{\\omega _f} - {\\omega _i}} \\over t}$$</p>\n<p>$${\\omega _f} = 3120 \\times {{2\\pi } \\over {60}}$$ rad/s</p>\n<p>$${\\omega _i} =1200 \\times {{2\\pi } \\over {60}}$$ rad/s</p>\n<p>$$ \\Rightarrow \\alpha  = {{(3120 - 1200)} \\over {16}} \\times {{2\\pi } \\over {60}} = 4\\pi $$</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Find the torque about the origin when a force of 3 $$\\hat j$$\n N acts on a particle whose position vector is 2 $$\\hat k$$ m.\n",
+      "options": [
+        {
+          "key": "A",
+          "value": "6 $$\\hat j$$\n N m"
+        },
+        {
+          "key": "B",
+          "value": "$$ - $$\n6 $$\\hat i$$\n N m"
+        },
+        {
+          "key": "C",
+          "value": "6 $$\\hat k$$\n N m"
+        },
+        {
+          "key": "D",
+          "value": "6 $$\\hat i$$\n N m"
+        }
+      ],
+      "answer": "B",
+      "explanation": "Torque is the moment of Force applied.<br>$$\\overrightarrow \\tau   = \\overrightarrow r  \\times \\overrightarrow F $$\n<br>$$\\overrightarrow \\tau   = 2\\hat k \\times 3\\hat j$$\n<br>$$\\overrightarrow \\tau   =  - 6\\hat i$$\n Nm"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A solid cylinder of mass 2 kg and radius 4 cm is rotating about its axis at the rate of 3 rpm. The torque required to stop after 2$$\\pi $$ revolutions is : ",
+      "options": [
+        {
+          "key": "A",
+          "value": "2 × 10<sup>–3</sup> N m"
+        },
+        {
+          "key": "B",
+          "value": "2 × 10<sup>–6</sup> N m "
+        },
+        {
+          "key": "C",
+          "value": "2 × 10<sup>6</sup> N m"
+        },
+        {
+          "key": "D",
+          "value": "12 × 10<sup>–4</sup> N m"
+        }
+      ],
+      "answer": "B",
+      "explanation": "Acccording to work energy theorem,\n<br><br>W = $${1 \\over 2}\\left( {\\omega _f^2 - \\omega _i^2} \\right)$$\n<br><br>Given that,\n<br><br>$$\\theta $$ = 2$$\\pi $$ revolution/minute\n<br><br>$$\\theta $$ = 2$$\\pi $$ $$ \\times $$ 2$$\\pi $$ = 4$$\\pi $$<sup>2</sup> rad\n<br><br>$${\\omega _i} = 3 \\times {{2\\pi } \\over {60}}$$ rad/s\n<br><br>$${\\omega _f} = 0$$ rad/s\n<br><br>By putting the value of $${\\omega _f}$$ and $${\\omega _i}$$, we get\n<br><br> - $$\\tau $$$$\\theta $$ = $${1 \\over 2} \\times {1 \\over 2}m{r^2}\\left( {0 - \\omega _i^2} \\right)$$\n<br><br>$$ \\Rightarrow $$ $$\\tau $$ = $$ - {{{1 \\over 2} \\times {1 \\over 2} \\times 2 \\times \\left( {4 \\times {{10}^{ - 2}}} \\right) \\times {{\\left( { - 3 \\times {{2\\pi } \\over {60}}} \\right)}^2}} \\over {4{\\pi ^2}}}$$\n<br><br>= 2 $$ \\times $$ 10<sup>-6</sup> Nm"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Two particles A and B are moving in uniform circular motion in concentric circles of radii r<sub>A</sub> and r<sub>B</sub> with speed v<sub>A</sub> and v<sub>B</sub> respecitively. Their time period of rotation is the same. The ratio of angular speed of A to that of B will be :",
+      "options": [
+        {
+          "key": "A",
+          "value": "v<sub>A</sub> : v<sub>B</sub>"
+        },
+        {
+          "key": "B",
+          "value": "1 : 1"
+        },
+        {
+          "key": "C",
+          "value": "r<sub>B</sub> : r<sub>A</sub>"
+        },
+        {
+          "key": "D",
+          "value": "r<sub>A</sub> : r<sub>B</sub>"
+        }
+      ],
+      "answer": "B",
+      "explanation": "Since, the time period for both the particle in same\nSo, T<sub>A</sub> = T<sub>B</sub> = T\n<br><br>Angular velocity for A, ($${\\omega _A}$$) = $${{2\\pi } \\over {{T_A}}}$$\n<br><br>Angular velocity for B, ($${\\omega _B}$$) = $${{2\\pi } \\over {{T_B}}}$$\n<br><br>Now, the required ratio is\n<br><br>$${{{\\omega _A}} \\over {{\\omega _B}}} = {{{T_B}} \\over {{T_A}}} = {T \\over T} = 1$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A disc of radius 2 m and mass 100 kg rolls on a horizontal floor. Its centre of mass has speed of 20 cm/s. How much work is needed to stop it?",
+      "options": [
+        {
+          "key": "A",
+          "value": "1 J"
+        },
+        {
+          "key": "B",
+          "value": "2 J"
+        },
+        {
+          "key": "C",
+          "value": "3 J"
+        },
+        {
+          "key": "D",
+          "value": "30 kJ"
+        }
+      ],
+      "answer": "C",
+      "explanation": "$$\\omega  = {V \\over R} = {{0.2} \\over 2} = $$ 0.1 rad/sec\n<br><br>Apply the law of conservation of energy,\n<br><br>Work required = change in kinetic energy\n<br><br>Since, final KE = 0\n<br><br>And, initial KE = $${1 \\over 2}m{v^2} + {1 \\over 2}I{\\omega ^2}$$\n<br><br>= $${1 \\over 2}m{v^2} + {1 \\over 2}{{M{l^2}} \\over 2}{\\omega ^2}$$\n<br><br>= $${1 \\over 2}\\left( {100} \\right){\\left( {0.2} \\right)^2} + {1 \\over 2}{{100 \\times {{\\left( 2 \\right)}^2}} \\over 2}{\\left( {0.1} \\right)^2}$$\n<br><br>= 1 + $${1 \\over 2} \\times 4$$ = 3 J"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A solid sphere is in rolling motion. In rolling\nmotion a body possesses translational kinetic\nenergy (K<sub>t</sub>) as well as rotational kinetic energy\n(K<sub>r</sub>) simultaneously. The ratio K<sub>t</sub>\n: (K<sub>t</sub> + K<sub>r</sub>)\nfor the sphere is",
+      "options": [
+        {
+          "key": "A",
+          "value": "7 : 10"
+        },
+        {
+          "key": "B",
+          "value": "5 : 7"
+        },
+        {
+          "key": "C",
+          "value": "10 : 7"
+        },
+        {
+          "key": "D",
+          "value": "2 : 5"
+        }
+      ],
+      "answer": "B",
+      "explanation": "In rolling motion,\n<br><br>Translational kinetic energy, K<sub>t</sub> = $${1 \\over 2}m{v^2}$$\n<br><br>Rotational kinetic energy, K<sub>r</sub> = $${1 \\over 2}I{\\omega ^2}$$\n<br><br>$$ \\therefore $$ K<sub>t</sub> + K<sub>r</sub> = $${1 \\over 2}m{v^2}$$ + $${1 \\over 2}I{\\omega ^2}$$\n<br><br>= $${1 \\over 2}m{v^2} + {1 \\over 2}\\left( {{2 \\over 5}m{r^2}} \\right){\\left( {{v \\over r}} \\right)^2}$$\n<br><br>= $${7 \\over {10}}m{v^2}$$\n<br><br>$$ \\therefore $$ $${{{K_t}} \\over {{K_t} + {K_r}}} = {{{1 \\over 2}m{v^2}} \\over {{7 \\over {10}}m{v^2}}}$$ = $${5 \\over 7}$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A solid sphere is rotating freely about its\nsymmetry axis in free space. The radius of\nthe sphere is increased keeping its mass same.\nWhich of the following physical quantities\nwould remain constant for the sphere?",
+      "options": [
+        {
+          "key": "A",
+          "value": "Angular velocity"
+        },
+        {
+          "key": "B",
+          "value": "Moment of inertia"
+        },
+        {
+          "key": "C",
+          "value": "Rotational kinetic energy"
+        },
+        {
+          "key": "D",
+          "value": "Angular momentum"
+        }
+      ],
+      "answer": "D",
+      "explanation": "As sphere is in free space and no external torque is acting over it so its angular momentum will\nremain constant."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Three objects, A : (a solid sphere), B : (a thin\ncircular disk) and C : (a circular ring), each\nhave the same mass M and radius R. They\nall spin with the same angular speed $$\\omega $$ about\ntheir own symmetry axes. The amounts of\nwork (W) required to bring them to rest, would\nsatisfy the relation",
+      "options": [
+        {
+          "key": "A",
+          "value": "W<sub>C</sub> &gt; W<sub>B</sub> &gt; W<sub>A</sub>"
+        },
+        {
+          "key": "B",
+          "value": "W<sub>A</sub> &gt; W<sub>B</sub> &gt; W<sub>C</sub>"
+        },
+        {
+          "key": "C",
+          "value": "W<sub>B</sub> &gt; W<sub>A</sub> &gt; W<sub>C</sub>"
+        },
+        {
+          "key": "D",
+          "value": "W<sub>A</sub> &gt; W<sub>C</sub> &gt; W<sub>B</sub>"
+        }
+      ],
+      "answer": "A",
+      "explanation": "Work done required to bring them rest\n<br><br>$$\\Delta $$W = $$\\Delta $$K<sub>E</sub> (work-energy theorem)\n<br><br>$$\\Delta $$W = $${1 \\over 2}I{\\omega ^2}$$\n<br><br>For same $$\\omega $$, $$\\Delta $$W $$\\infty $$ I\n<br><br>For a solid sphere, I<sub>A</sub> = $${2 \\over 5}M{R^2}$$\n<br><br>For a thin circular disk, I<sub>B</sub> = $${1 \\over 2}M{R^2}$$\n<br><br>For a circular ring, I<sub>C</sub> = MR<sup>2</sup>\n<br><br>$$ \\therefore $$ I<sub>C</sub> &gt; I<sub>B</sub> &gt; I<sub>A</sub>\n<br><br>So, W<sub>C</sub> &gt; W<sub>B</sub> &gt; W<sub>A</sub>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The moment of the force, $$\\overrightarrow F  = 4\\widehat i + 5\\widehat j - 6\\widehat k$$ at\n<br>(2, 0, –3), about the point (2, –2, –2), is given by",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$ - 8\\widehat i - 4\\widehat j - 7\\widehat k$$"
+        },
+        {
+          "key": "B",
+          "value": "$$ - 4\\widehat i - \\widehat j - 8\\widehat k$$"
+        },
+        {
+          "key": "C",
+          "value": "$$ - 7\\widehat i - 8\\widehat j - 4\\widehat k$$"
+        },
+        {
+          "key": "D",
+          "value": "$$ - 7\\widehat i - 4\\widehat j - 8\\widehat k$$"
+        }
+      ],
+      "answer": "D",
+      "explanation": "Given, $$\\overrightarrow F  = 4\\widehat i + 5\\widehat j - 6\\widehat k$$\n<br><br>We know, \n<br>Moment of force, $$\\overrightarrow \\tau   = \\left( {\\overrightarrow r  - {{\\overrightarrow r }_0}} \\right) \\times \\overrightarrow F $$\n<br><br>Where $${\\overrightarrow r _0} = 2\\widehat i - 2\\widehat j - 2\\widehat k$$\n<br><br>and $$\\overrightarrow r  = 2\\widehat i + 0\\widehat j - 3\\widehat k$$\n<br><br>$${\\overrightarrow r  - {{\\overrightarrow r }_0}}$$ = $$\\left( {2\\widehat i + 0\\widehat j - 3\\widehat k} \\right) - \\left( {2\\widehat i - 2\\widehat j - 2\\widehat k} \\right)$$\n<br><br>= $${0\\widehat i + 2\\widehat j - \\widehat k}$$\n<br><br>$$\\overrightarrow \\tau   = \\left( {\\overrightarrow r  - {{\\overrightarrow r }_0}} \\right) \\times \\overrightarrow F $$\n<br><br>= $$\\left| {\\matrix{\n   {\\widehat i} &amp; {\\widehat j} &amp; {\\widehat k}  \\cr \n   0 &amp; 2 &amp; { - 1}  \\cr \n   4 &amp; 5 &amp; { - 6}  \\cr \n\n } } \\right|$$\n<br><br>= (-12 + 5)$${\\widehat i}$$ - (+4)$${\\widehat j}$$ + (-8)$${\\widehat k}$$\n<br><br>= $$ - 7\\widehat i - 4\\widehat j - 8\\widehat k$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Two discs of same moment of inertia rotating about their regular axis passing through centre and perpendicular to the plane of disc with angular velocities $${\\omega _1}$$ and $${\\omega _2}$$.  They are brought into contact face to face coinciding the axis of rotation. The expression for loss of energy during this process is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$${1 \\over 4}I{\\left( {{\\omega _1} - {\\omega _2}} \\right)^2}$$"
+        },
+        {
+          "key": "B",
+          "value": "$$I{\\left( {{\\omega _1} - {\\omega _2}} \\right)^2}$$"
+        },
+        {
+          "key": "C",
+          "value": "$${1 \\over 8}I{\\left( {{\\omega _1} - {\\omega _2}} \\right)^2}$$"
+        },
+        {
+          "key": "D",
+          "value": "$${1 \\over 2}I{\\left( {{\\omega _1} + {\\omega _2}} \\right)^2}$$"
+        }
+      ],
+      "answer": "A",
+      "explanation": "According to the problem,<br><br>\nI$${\\omega _1}$$ + I$${\\omega _2}$$ = 2I$${\\omega _0}$$<br><br>\n$${\\omega _0}$$ = $${{\\left( {{\\omega _1} - {\\omega _2}} \\right)} \\over 2}$$<br><br>\n$${K_i} = {1 \\over 2}I\\left( {{\\omega _1}^2 + {\\omega _2}^2} \\right)$$<br><br>\n$${K_f} = {1 \\over 4}{\\left( {{\\omega _1} + {\\omega _2}} \\right)^2}$$<br><br>\nLoss $$\\Delta K = I\\left[ {{{{\\omega _1}^2} \\over 2} + {{{\\omega _2}^2} \\over 2} - {{{\\omega _1}^2} \\over 4} - {{{\\omega _2}^2} \\over 4} - {{2{\\omega _1}{\\omega _2}} \\over 4}} \\right]$$<br><br>\n$$ = I\\left[ {{{{\\omega _1}^2} \\over 4} + {{{\\omega _2}^2} \\over 4} - {{2{\\omega _1}{\\omega _2}} \\over 4}} \\right]$$<br><br>\n$$ = {I \\over 4}{\\left[ {{\\omega _1} - {\\omega _2}} \\right]^2}$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Two rotating bodies A and B of masses m  and  2m with moments of inertia $${I_A}$$ and $${I_B}$$ ($${I_B}$$ &gt; $${I_A}$$) have equal kinetic energy of rotation. If L<sub>A</sub> and L<sub>B</sub> be their angular momenta respectively, then ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$${L_A} = {{{L_B}} \\over 2}$$"
+        },
+        {
+          "key": "B",
+          "value": "$${L_A} = 2{L_B}$$"
+        },
+        {
+          "key": "C",
+          "value": "$${L_B} &gt; {L_A}$$"
+        },
+        {
+          "key": "D",
+          "value": "$${L_A} &gt; {L_B}$$"
+        }
+      ],
+      "answer": "C",
+      "explanation": "It is known that rotational kinetic energy is\ngiven as :<br><br>\n$$E = {{I{\\omega ^2}} \\over 2}$$ = $${{{L^2}} \\over {2I}}$$<br><br>\nHence, L<sup>2</sup> $$ \\propto $$ I<br><br>\nFurther, E<sub>A</sub> = E<sub>B</sub><br><br>\nAlso, $${{{L_A}^2} \\over {2{I_A}}} = {{{L_B}^2} \\over {2{I_B}}}$$<br><br>\n$${I_B} &gt; {I_A}$$<br><br>\n$${L_B} &gt; {L_A}$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A light rod of length $$l$$ has two masses m<sub>1</sub> and m<sub>2</sub> attached to its two ends. The moment of inertia of the system about an axis perpendicular to the rod and passing through the centre of mass is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$${{{m_1}{m_2}} \\over {{m_1} + {m_2}}}{l^2}$$"
+        },
+        {
+          "key": "B",
+          "value": "$${{{m_1} + {m_2}} \\over {{m_1}{m_2}}}{l^2}$$"
+        },
+        {
+          "key": "C",
+          "value": "$$\\left( {{m_1} + {m_2}} \\right){l^2}$$"
+        },
+        {
+          "key": "D",
+          "value": "$$\\sqrt {{m_1}{m_2}} \\,{l^2}$$"
+        }
+      ],
+      "answer": "A",
+      "explanation": "Here, $${l_1} + {l_2} = l$$<br><br>\nCentre of mass of the system,<br><br>\n$${l_1} = {{{m_1} \\times 0 + {m_2} \\times l} \\over {{m_1} + {m_2}}} = {{{m_2}l} \\over {{m_1} + {m_2}}}$$<br><br>\n$${l_2} = l - {l_1} = {{{m_1}l} \\over {{m_1} + {m_2}}}$$<br><br>\nRequired moment of inertia of the system,<br><br>\n$$I = {m_1}l_1^2 + {m_2}l_2^2$$<br><br>\n$$ = \\left( {{m_1}m_2^2 + {m_2}m_1^2} \\right){{{l^2}} \\over {{{\\left( {{m_1} + {m_2}} \\right)}^2}}}$$<br><br>\n$$ = {{{m_1}{m_2}\\left( {{m_1} + {m_2}} \\right){l^2}} \\over {{{\\left( {{m_1} + {m_2}} \\right)}^2}}} = {{{m_1}{m_2}} \\over {{m_1} + {m_2}}}{l^2}$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A solid sphere of mass m and radius R is rotating about its diameter. A solid cylinder of same mass and same radius is also rotating about its geometrical axis with an angular speed twice that of the sphere. The ratio of their kinetic energies of rotation (E<sub>sphere</sub> / E<sub>cylinder</sub>) will be",
+      "options": [
+        {
+          "key": "A",
+          "value": "2 : 3"
+        },
+        {
+          "key": "B",
+          "value": "1 : 5"
+        },
+        {
+          "key": "C",
+          "value": "1 : 4"
+        },
+        {
+          "key": "D",
+          "value": "3 : 1"
+        }
+      ],
+      "answer": "B",
+      "explanation": "$${{{E_{Sphere}}} \\over {{E_{Cylinder}}}} = {{{1 \\over 2}{I_s}\\omega _s^2} \\over {{1 \\over 2}{I_c}\\omega _c^2}} = {{{I_s}\\omega _s^2} \\over {{I_c}\\omega _c^2}}$$<br><br>\nHere, $${I_s} = {2 \\over 5}m{R^2}$$, &nbsp;&nbsp;$${I_c} = {1 \\over 2}m{R^2}$$<br><br>\n$${\\omega _c} = 2{\\omega _s}$$<br><br>\n$${{{E_{Sphere}}} \\over {{E_{Cylinder}}}} = {{{2 \\over 5}m{R^2} \\times \\omega _s^2} \\over {{1 \\over 2}m{R^2} \\times {{\\left( {2{\\omega _2}} \\right)}^2}}}$$<br><br>\n$$ \\Rightarrow {4 \\over 5} \\times {1 \\over 4} = {1 \\over 5}$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A uniform circular disc of radius 50 cm at rest is free to turn about an axis which is perpendicular to its plane and passes through its centre. It is subjected to a torque which produces a constant angular acceleration of 2.0 rad s<sup>$$-$$2</sup>. Its net acceleration in m s<sup>$$-$$2</sup> at the end of 2.0 s is approximately",
+      "options": [
+        {
+          "key": "A",
+          "value": "6.0"
+        },
+        {
+          "key": "B",
+          "value": "3.0"
+        },
+        {
+          "key": "C",
+          "value": "8.0"
+        },
+        {
+          "key": "D",
+          "value": "7.0"
+        }
+      ],
+      "answer": "C",
+      "explanation": "Given, r = 50 cm = 0.5 m, $$\\alpha $$ = 2.0 rad s<sup>–2</sup>\n,  $${\\omega _0}$$ = 0<br><br>\nAt the end of 2 s,<br>\nTangential acceleration, at<br>\n = r$$\\alpha $$ = 0.5 × 2 = 1 m s<sup>–2</sup><br><br>\nRadial acceleration, = $${a_r} = {\\omega ^2}r = {\\left( {{\\omega _0} + \\alpha t} \\right)^2}r$$<br><br>\n= (0 + 2 × 2)<sup>2</sup> × 0.5 = 8 m s<sup>–2</sup><br><br>\n$$ \\therefore $$ Net acceleration,\n<br>\n$$a = \\sqrt {a_t^2 + a_r^2}  = \\sqrt {{1^2} + {8^2}}  = \\sqrt {65}  \\approx 8\\,m{s^{ - 2}}$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "From a disc of radius R and mass M, a circular hole of diameter R, whose rim passes through the centre is cut. What is the moment of inertia of the remaining part of the disc about a perpendicular axis, passing through the centre? ",
+      "options": [
+        {
+          "key": "A",
+          "value": "11 MR<sup>2</sup>/32"
+        },
+        {
+          "key": "B",
+          "value": "9 MR<sup>2</sup>/32"
+        },
+        {
+          "key": "C",
+          "value": "15 MR<sup>2</sup>/32"
+        },
+        {
+          "key": "D",
+          "value": "13 MR<sup>2</sup>/32"
+        }
+      ],
+      "answer": "D",
+      "explanation": "Moment of inertia of complete disc about\npoint 'O'.<br><br>\n$${I_{Total\\,disc}} = {{M{R^2}} \\over 2}$$<br><br>\nMass of removed disc<br><br>\n$${M_{{\\mathop{\\rm Removed}\\nolimits} }} = {M \\over 4}\\left( {Mass \\propto area} \\right)$$<br><br>\nMoment of inertia of removed disc about point\n'O'.<br><br>\nI<sub>Removed</sub> (about same perpendicular axis)<br><br>\n$$ = {I_{cm}} + m{x^2}$$<br><br>\n$$ = {M \\over 4}{{{{\\left( {R/2} \\right)}^2}} \\over 2} + {M \\over 4}{\\left( {{R \\over 2}} \\right)^2} = {{3M{R^2}} \\over {32}}$$<br><br>\nTherefore the moment of inertia of the remaining\npart of the disc about a perpendicular axis\npassing through the centre,<br><br>\nI<sub>Remaing disc</sub> = I<sub>Total</sub> – I<sub>Removed</sub><br><br>\n$$ = {{M{R^2}} \\over 2} - {3 \\over {32}}M{R^2} = {{13} \\over {32}}M{R^2}$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A disc and a sphere of same radius but different masses roll off on two inclined planes of the same altitude and length. Which one of the two objects gets to the bottom of the plane first? ",
+      "options": [
+        {
+          "key": "A",
+          "value": "Both reach at the same time"
+        },
+        {
+          "key": "B",
+          "value": "Depends on their masses"
+        },
+        {
+          "key": "C",
+          "value": "Disc"
+        },
+        {
+          "key": "D",
+          "value": "Sphere"
+        }
+      ],
+      "answer": "D",
+      "explanation": "Time taken by the body to reach the bottom\nwhen it rolls down on an inclined plane without\nslipping is given by<br><br>\n$$t = \\sqrt {{{2l\\left( {1 + {{{k^2}} \\over {{R^2}}}} \\right)} \\over {g\\sin \\theta }}} $$<br><br>\nSince g is constant and $$l$$, R and sin $$\\theta $$ are same for\nboth<br><br>\n$$ \\therefore $$ $${{{t_d}} \\over {{t_s}}} = {{\\sqrt {1 + {{k_d^2} \\over {{R^2}}}} } \\over {\\sqrt {1 + {{k_s^2} \\over {{R^2}}}} }} = \\sqrt {{{1 + {{{R^2}} \\over {2{R^2}}}} \\over {1 + {{2{R^2}} \\over {5{R^2}}}}}} $$<br><br>\n$$ \\left(\\because {{k_d} = {R \\over {\\sqrt 2 }},{k_s} = \\sqrt {{2 \\over 5}} R} \\right)$$<br><br>\n$$ \\Rightarrow \\sqrt {{3 \\over 2} \\times {5 \\over 7}}  = \\sqrt {{{15} \\over {14}}}  \\Rightarrow {t_d} &gt; {t_s}$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A force $$\\overrightarrow F  = \\alpha \\widehat i + 3\\widehat j + 6\\widehat k$$ is acting at a point $$\\overrightarrow r  = 2\\widehat i - 6\\widehat j - 12\\widehat k$$. The value of $$\\alpha $$ for which angular momentum about origin is conserved is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "zero"
+        },
+        {
+          "key": "B",
+          "value": "1"
+        },
+        {
+          "key": "C",
+          "value": "$$-$$ 1"
+        },
+        {
+          "key": "D",
+          "value": "2"
+        }
+      ],
+      "answer": "C",
+      "explanation": "From Newton's second law for rotational\nmotion,<br><br>\n$$\\overrightarrow \\tau   = {{\\overrightarrow d L} \\over {dt}}$$, if $$\\overrightarrow L $$ = constant then $$\\overrightarrow \\tau   = 0$$<br><br>\nSo, $$\\overrightarrow \\tau   = \\overrightarrow r  \\times \\overrightarrow F  = 0$$<br><br>\n$$\\left( {2\\widehat i - 6\\widehat j - 12\\widehat k} \\right) \\times \\left( {\\alpha \\widehat i + 3\\widehat j + 6\\widehat k} \\right) = 0$$<br><br>\nSolving we get $$\\alpha $$ = –1\n"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "An automobile moves on a road with a speed of 54 km h<sup>$$-$$1</sup>. The radius of its wheels is 0.45 m and the moment of inertia of the wheel about its axis of rotation is 3 kg m<sup>2</sup>. If the vehicle is brought to rest in 15 s, the magnitude of average torque transmitted by its brakes to the wheel is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "10.86 kg m<sup>2</sup> s<sup>$$-$$2</sup>"
+        },
+        {
+          "key": "B",
+          "value": "2.86 kg m<sup>2</sup> s<sup>$$-$$2</sup>"
+        },
+        {
+          "key": "C",
+          "value": "6.66 kg m<sup>2</sup> s<sup>$$-$$2</sup>"
+        },
+        {
+          "key": "D",
+          "value": "8.58 kg m<sup>2</sup> s<sup>$$-$$2</sup>"
+        }
+      ],
+      "answer": "C",
+      "explanation": "Here, Speed of the automobile,<br><br>\n$$v = 54\\,km{h^{ - 1}} = 54 \\times {5 \\over {18}}m{s^{ - 1}} = 15m{s^{ - 1}}$$<br><br>\nRadius of the wheel of the automobile, R = 0.45 m<br>\nMoment of inertia of the wheel about its axis of\nrotation, I = 3 kg m<sup>2</sup><br><br>\nTime in which the vehicle brought to rest, t = 15 s<br>\nThe initial angular speed of the wheel is<br><br>\n$${\\omega _i} = {v \\over R} = {{15m{s^{ - 1}}} \\over {0.45\\,m}} = {{1500} \\over {45}}rad\\,{s^{ - 1}} = {{100} \\over 3}rad\\,{s^{ - 1}}$$<br><br>\nand its final angular speed is $${\\omega _f}$$ = 0 (as the vehicle comes to rest)<br><br>\n$$ \\therefore $$ The angular retardation of the wheel is<br><br>\n$$\\alpha  = {{{\\omega _f} - {\\omega _i}} \\over t} = {{0 - {{100} \\over 3}} \\over {15\\,s}} =  - {{100} \\over {45}}rad\\,{s^{ - 1}}$$<br><br>\nThe magnitude of required torque is<br><br>\n$$\\tau  = I\\left| \\alpha  \\right| = \\left( {3kg\\,{m^2}} \\right)\\left( {{{100} \\over {45}}rad\\,{s^{ - 2}}} \\right)$$<br><br>\n$$ = {{20} \\over 3}kg\\,{m^2}{s^{ - 2}} = 6.66\\,kg\\,{m^2}{s^{ - 2}}$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The ratio of the accelerations for a solid sphere (mass m and radius R) rolling down an incline of angle $$\\theta $$ without slipping and slipping down the incline without rolling is",
+      "options": [
+        {
+          "key": "A",
+          "value": "5 : 7"
+        },
+        {
+          "key": "B",
+          "value": "2 : 3"
+        },
+        {
+          "key": "C",
+          "value": "2 : 5"
+        },
+        {
+          "key": "D",
+          "value": "7 : 5"
+        }
+      ],
+      "answer": "A",
+      "explanation": "Acceleration of the solid sphere slipping\ndown the incline without rolling is<br><br>\n$${a_{slipping}} = g\\sin \\theta $$ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;....(i)<br><br>\nAcceleration of the solid sphere rolling down the\nincline without slipping is<br><br>\n$${a_{rolling}} = {{g\\sin \\theta } \\over {1 + {{{k^2}} \\over {{R^2}}}}} = {{g\\sin \\theta } \\over {1 + {2 \\over 5}}}$$<br>\n$$\\left( \\because{For\\,\\,solid\\,\\,sphere,{{{k^2}} \\over {{R^2}}} = {2 \\over 5}} \\right)$$<br><br>\n= $${5 \\over 7}g\\sin \\theta $$&nbsp;&nbsp;&nbsp;... (ii)<br><br>\nDivide eqn. (ii) by eqn. (i), we get<br><br>\n$${{{a_{rolling}}} \\over {{a_{slipping}}}} = {5 \\over 7}$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A solid cylinder of mass 50 kg and radius 0.5 m is free to rotate about the horizontal axis. A massless string is wound round the cylinder with one end attached to it and other hanging freely. Tension in the string required to produce an angular acceleration of 2 revolutions s<sup>$$-$$2</sup> is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "25 N"
+        },
+        {
+          "key": "B",
+          "value": "50 N"
+        },
+        {
+          "key": "C",
+          "value": "78.5 N"
+        },
+        {
+          "key": "D",
+          "value": "157 N"
+        }
+      ],
+      "answer": "D",
+      "explanation": "Here $$\\alpha $$ = 2 revolutions/s<sup>2</sup> = 4$$\\pi $$ rad/s<sup>2</sup> (given)<br><br>\n$${I_{cylinder}} = {1 \\over 2}M{R^2} = {1 \\over 2}\\left( {50} \\right){\\left( {0.5} \\right)^2} = {{25} \\over 4}{\\rm{Kg - }}{{\\rm{m}}^{\\rm{2}}}$$<br><br>\nAs $$\\tau  = I\\alpha $$ so $$TR = I\\alpha $$<br><br>\n$$ \\Rightarrow T = {{I\\alpha } \\over R} = {{\\left( {{{25} \\over 4}} \\right)\\left( {4\\pi } \\right)} \\over {0.5}}N$$<br><br>\n= 50 $$\\pi $$N = 157 N"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Two discs are rotating about their axes, normal to the discs and passing through the centres of the discs. Disc D<sub>1</sub> has 2 kg mass and 0.2 m radius and initial angular velocity of 50 rad s<sup>$$-$$1</sup>. Disc D<sub>2</sub> has 4 kg mass, 0.1 m radius and initial angular velocity of 200 rad s<sup>$$-$$1</sup>. The two discs are brought in contact face to face, with their axes of rotation coincident. The final angular velocity (in rad s<sup>$$-$$1</sup>) of the system is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "60"
+        },
+        {
+          "key": "B",
+          "value": "100"
+        },
+        {
+          "key": "C",
+          "value": "120"
+        },
+        {
+          "key": "D",
+          "value": "40"
+        }
+      ],
+      "answer": "B",
+      "explanation": "Given:m<sub>1</sub> = 2 kg m<sub>2</sub> = 4 kg<br>\nr<sub>1</sub> = 0.2 m r<sub>2</sub> = 0.1 m<br>\nw<sub>1</sub> = 50 rad s<sup>–1</sup> w<sub>2</sub> = 200 rad s<sup>–1</sup><br><br>\nAs, angular momentum, I<sub>1</sub>W<sub>1</sub> = I<sub>2</sub>W<sub>2</sub> = Constant<br><br>\n$${W_f} = {{{I_1}{W_1} + {I_2}{W_2}} \\over {{I_1} + {I_2}}} = {{{1 \\over 2}{m_1}r_1^2{w_1} + {1 \\over 2}{m_2}r_2^2{w_2}} \\over {{1 \\over 2}{m_1}r_1^2 + {1 \\over 2}{m_2}r_2^2}}$$<br><br>\nBy putting the value of m<sub>1</sub>, m<sub>2</sub>, r<sub>1</sub>, r<sub>2</sub> and solving\nwe get = 100 rad s<sup>–1</sup>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The ratio of radii of gyration of a circular ring and a circular disc, of the same mass and radius, about an axis passing through their centres and perpendicular to their planes are",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$1:\\sqrt 2 $$"
+        },
+        {
+          "key": "B",
+          "value": "3 : 2"
+        },
+        {
+          "key": "C",
+          "value": "2 : 1"
+        },
+        {
+          "key": "D",
+          "value": "$$\\sqrt 2 :1$$"
+        }
+      ],
+      "answer": "D",
+      "explanation": "$$ \\because $$ $$I = M{K^2}$$ $$ \\therefore $$ $$K = \\sqrt {{I \\over M}} $$<br><br>\nI<sub>ring </sub>= MR<sup>2</sup> and I<sub>disc</sub> = $${1 \\over 2}$$MR<sup>2</sup><br><br>\n$${{{K_1}} \\over {{K_2}}} = \\sqrt {{{{I_1}} \\over {{I_2}}}}  = \\sqrt {{{M{R^2}} \\over {\\left( {{{M{R^2}} \\over 2}} \\right)}}}  = \\sqrt 2 :1$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A small object of uniform density rolls up a curved surface with an initial velocity 'v'. It reaches upto a maximum height of $${{3{v^2}} \\over {4g}}$$ with respect to the initial position. The object is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "hollow sphere"
+        },
+        {
+          "key": "B",
+          "value": "disc"
+        },
+        {
+          "key": "C",
+          "value": "ring"
+        },
+        {
+          "key": "D",
+          "value": "solid sphere"
+        }
+      ],
+      "answer": "B",
+      "explanation": "The kinetic energy of the rolling object is\nconverted into potential energy at height<br><br>\n$$h = \\left( { {{3{v^2}} \\over {4g}}} \\right)$$<br><br>\nSo by the law of conservation of \nmechanical energy, we have<br><br>\n$${1 \\over 2}M{v^2} + {1 \\over 2}I{\\omega ^2} = Mgh$$&nbsp;&nbsp;$$\\left( \\because{\\omega  = {v \\over R}} \\right)$$<br><br>\n$${1 \\over 2}M{v^2} + {1 \\over 2}I{\\left( {{v \\over R}} \\right)^2} = Mg\\left( {{{3{v^2}} \\over {4g}}} \\right)$$<br><br>\n$${1 \\over 2}I{{{v^2}} \\over {{R^2}}} = {3 \\over 4}M{v^2} - {1 \\over 2}M{v^2}$$<br><br>\n$${1 \\over 2}I{{{v^2}} \\over {{R^2}}} = {1 \\over 4}M{v^2}$$<br><br>\n$$ \\Rightarrow I = {1 \\over 2}M{R^2}$$<br><br>\nHence, the object is disc."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A circular platform is mounted on a frictionless vertical axle. Its radius R = 2 m and its moment of inertia about the axle is 200 kg m<sup>2</sup>. It is initially at rest. A 50 kg man stands on the edge of the platform and begins to walk along the edge at the speed of 1 ms<sup>$$-$$1</sup> relative to the ground. Time taken by the man to complete one revolution is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$\\pi $$ s"
+        },
+        {
+          "key": "B",
+          "value": "$${{3\\pi } \\over 2}$$ s"
+        },
+        {
+          "key": "C",
+          "value": "2$$\\pi $$ s"
+        },
+        {
+          "key": "D",
+          "value": "$${\\pi  \\over 2}$$ s"
+        }
+      ],
+      "answer": "C",
+      "explanation": "Using conservation<br>\nL<sub>i</sub> = 0 (Initial moment)<br>\nL<sub>f</sub> = mvR – I$$\\omega $$ (Final moment)<br><br>\nAccording to the conservation of momentum<br>\nL<sub>i</sub> = L<sub>f</sub><br><br>\n$$ \\Rightarrow $$ mvR – I.$$\\omega $$ = 0<br><br>\nmvR = I.$$\\omega $$<br><br>\n$$\\omega  = \\left( {{1 \\over 2}} \\right)$$<br><br>\n$$\\left( {v + \\omega R} \\right)t = 2\\pi R$$<br><br>\n$$t\\left( {1 + {1 \\over 2} \\times 2} \\right) = 2\\pi  \\times 2$$<br><br>\nt = 2$$\\pi $$ sec."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A car of mass m is moving on a level circular track of radius R. If $$\\mu $$<sub>s</sub> represents the static friction between the road and tyres of the car, the maximum speed of the car in circular motion is given by",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$\\sqrt {{\\mu _s}mRg} $$"
+        },
+        {
+          "key": "B",
+          "value": "$$\\sqrt {{{Rg} \\over {{\\mu _s}}}} $$"
+        },
+        {
+          "key": "C",
+          "value": "$$\\sqrt {{{mRg} \\over {{\\mu _s}}}} $$"
+        },
+        {
+          "key": "D",
+          "value": "$$\\sqrt {{\\mu _s}Rg} $$"
+        }
+      ],
+      "answer": "D",
+      "explanation": "For smooth driving maximum speed of car\nv then<br><br>\n$${{m{v^2}} \\over R} = {\\mu _s}mg$$<br><br>\n$$v = \\sqrt {{\\mu _s}Rg} $$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A car of mass 1000 kg negotiates a banked curve of radius 90 m on a frictionless road. If the banking angle is 45<sup>o</sup>, the speed of the car is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "20 m s<sup>$$-$$1</sup>"
+        },
+        {
+          "key": "B",
+          "value": "30 m s<sup>$$-$$1</sup>"
+        },
+        {
+          "key": "C",
+          "value": "5 m s<sup>$$-$$1</sup>"
+        },
+        {
+          "key": "D",
+          "value": "10 m s<sup>$$-$$1</sup>"
+        }
+      ],
+      "answer": "B",
+      "explanation": "Here, m = 1000 kg, R = 90 m, $$\\theta $$ = 45°<br><br>\nFor banking, $$\\tan \\theta  = {{{v^2}} \\over {Rg}}$$<br><br>\n$$ \\Rightarrow v = \\sqrt {Rg\\tan \\theta }  = \\sqrt {90 \\times 10 \\times \\tan {{45}^o}}  = 30\\,m{s^{ - 1}}$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The instantaneous angular position of a point on a rotating wheel is given by the equation $$\\theta \\left( t \\right) = 2{t^3} - 6{t^2}$$\n<br><br>The torque on the wheel becomes zero at ",
+      "options": [
+        {
+          "key": "A",
+          "value": "t = 1 s"
+        },
+        {
+          "key": "B",
+          "value": "t = 0.5 s"
+        },
+        {
+          "key": "C",
+          "value": "t = 0.25 s"
+        },
+        {
+          "key": "D",
+          "value": "t = 2 s"
+        }
+      ],
+      "answer": "A",
+      "explanation": "When angular acceleration (a) is zero then\ntorque on the wheel becomes zero.<br><br>\n$$\\theta \\left( t \\right) = 2{t^3} - 6{t^2}$$<br><br>\n$$ \\Rightarrow {{d\\theta } \\over {dt}} = 6{t^2} - 12t$$<br><br>\n$$ \\Rightarrow \\alpha  = {{{d^2}\\theta } \\over {d{t^2}}} = 12t - 12 = 0$$<br><br>\n$$ \\therefore $$ t = 1 sec."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The moment of inertia of a thin uniform rod of mass M and length L about an axis passing through its midpoint and perpendicular to its length is $$I$$<sub>0</sub>. Its moment of inertia about an axis passing  through one of its ends and perpendicular to its length is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$${I_0} + M{L^2}/2$$"
+        },
+        {
+          "key": "B",
+          "value": "$${I_0} + M{L^2}/4$$"
+        },
+        {
+          "key": "C",
+          "value": "$${I_0} + 2M{L^2}$$"
+        },
+        {
+          "key": "D",
+          "value": "$${I_0} + M{L^2}$$"
+        }
+      ],
+      "answer": "B",
+      "explanation": "By the theorem of parallel axes, the moment\nof inertia of a body about any axis is equal to the\nsum of the moment of inertia about a parallel axis\nthrough the centre of mass and Ma<sup>2</sup>\n, where M is the mass of the body and a is the separation between\nthe two axes.<br><br>\nTherefore, the moment of inertia of the rod about\nan axis passing through one of its ends and\nperpendicular to its length is<br><br>\nI = I<sub>0</sub> + M (L/2)<sup>2</sup><br><br>\n= I<sub>0</sub> + ML<sup>2</sup>/4\n"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "From a circular disc of radius R and mass 9M, a small disc of mass M and radius $${R \\over 3}$$ is removed concentrically. The moment of inertia of the remaining disc about an axis perpendicular to the plane of the disc and passing through its centre is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$${{40} \\over 9}$$ MR<sup>2</sup>"
+        },
+        {
+          "key": "B",
+          "value": "MR<sup>2</sup>"
+        },
+        {
+          "key": "C",
+          "value": "4MR<sup>2</sup>"
+        },
+        {
+          "key": "D",
+          "value": "$${4 \\over 9}$$ MR<sup>2</sup>"
+        }
+      ],
+      "answer": "A",
+      "explanation": "Mass of the disc = 9M\nMass of removed portion of disc = M\nThe moment of inertia of\nthe complete disc about\nan axis passing through\nits centre O and\nperpendicular to its plane is $${I_1} = {9 \\over 2}M{R^2}$$<br><br>\nNow, the moment of inertia of the disc with\nremoved portion<br><br>\n$${I_2} = {1 \\over 2}M{\\left( {{R \\over 3}} \\right)^2} = {1 \\over {18}}M{R^2}$$<br><br>\nTherefore, moment of inertia of the remaining portion of disc about O is<br><br>\n$$I = {I_1} - {I_2} = {9 \\over 2}M{R^2} - {{M{R^2}} \\over {18}} = {{40M{R^2}} \\over 9}$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A thin circular ring of mass M and radius r is rotating about its axis with constant angular velocity $$\\omega $$. Two objects each of msass m are attached gently to the opposite ends of a diameter of the ring. The ring now rotates with angular velocity given by",
+      "options": [
+        {
+          "key": "A",
+          "value": "$${{\\left( {M + 2m} \\right)\\omega } \\over {2m}}$$"
+        },
+        {
+          "key": "B",
+          "value": "$${{2M\\omega } \\over {M + 2m}}$$"
+        },
+        {
+          "key": "C",
+          "value": "$${{\\left( {M + 2m} \\right)\\omega } \\over M}$$"
+        },
+        {
+          "key": "D",
+          "value": "$${{M\\omega } \\over {M + 2m}}$$"
+        }
+      ],
+      "answer": "D",
+      "explanation": "As no external torque is acting about the\naxis, angular momentum of system remains\nconserved.\n<br><br>\nI<sub>1</sub>$${\\omega _1}$$ = I<sub>2</sub>$${\\omega _2}$$<br><br>\n$$ \\Rightarrow {\\omega _2} = {{{I_1}{\\omega _1}} \\over {\\left( {M + 2m} \\right){r^2}}} = {{M\\omega } \\over {\\left( {M + 2m} \\right)}}$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A solid cylinder and a hollow cylinder, both of the same mass and same external diameter are released from the same height at the same time on an inclined plane. Both  roll down without slipping. Which one will reach the bottom first? ",
+      "options": [
+        {
+          "key": "A",
+          "value": "Both together only when angle of  inclination of plane is 45<sup>o</sup>"
+        },
+        {
+          "key": "B",
+          "value": "Both together"
+        },
+        {
+          "key": "C",
+          "value": "Hollow cylinder "
+        },
+        {
+          "key": "D",
+          "value": "Solid cylinder "
+        }
+      ],
+      "answer": "D",
+      "explanation": "Time taken to reach the bottom of inclined\nplane.<br><br>\n$$t = \\sqrt {{{2l\\left( {1 + {{{K^2}} \\over {{R^2}}}} \\right)} \\over {g\\sin \\theta }}} $$<br><br>\nHere, $$l$$ is length of incline plane<br><br>\nFor solid cylinder $${K^2} = {{{R^2}} \\over 2}$$<br><br>\nFor hollow cylinder K<sup>2</sup> = R<sup>2</sup><br><br>\nHence, solid cylinder will reach the bottom first.\n"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A gramophone record is revolving with  an angular velocity $$\\omega $$. A coin is placed at a distance r from the centre of the record. The static coefficient of friction is $$\\mu $$. The coin will revolve with  the record if ",
+      "options": [
+        {
+          "key": "A",
+          "value": "r = $$\\mu $$g$$\\omega $$<sup>2</sup>"
+        },
+        {
+          "key": "B",
+          "value": "r &lt; $${{{\\omega ^2}} \\over {\\mu g}}$$"
+        },
+        {
+          "key": "C",
+          "value": "$$r \\le {{\\mu g} \\over {{\\omega ^2}}}$$"
+        },
+        {
+          "key": "D",
+          "value": "$$r \\ge {{\\mu g} \\over {{\\omega ^2}}}$$"
+        }
+      ],
+      "answer": "C",
+      "explanation": "The coin will revolve with the record, if\nForce of friction $$ \\ge $$ Centrifugal force<br><br>\n$$\\mu mg \\ge mr{\\omega ^2}$$<br><br>\n$$ \\Rightarrow r \\le {{\\mu g} \\over {{\\omega ^2}}}$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A circular disk of moment of inertia $${I_t}$$ is rotating in a horizontal plane, about its symmetry axis, with a constant angular speed $${\\omega _i}$$. Another disk of moment of inertia $${I_b}$$ is dropped coaxially onto the rotating disk. Initially the second disk has zero angular speed. Eventually both the disks rotate with a constant angular speed $$\\omega $$. The energy lost by the initially  rotating disc to friction is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$${1 \\over 2}{{I_b^2} \\over {\\left( {{I_t} + {I_b}} \\right)}}\\omega _i^2$$"
+        },
+        {
+          "key": "B",
+          "value": "$${1 \\over 2}{{I_t^2} \\over {\\left( {{I_t} + {I_b}} \\right)}}\\omega _i^2$$"
+        },
+        {
+          "key": "C",
+          "value": "$${{{I_b} - {I_t}} \\over {\\left( {{I_t} + {I_b}} \\right)}}\\omega _i^2$$"
+        },
+        {
+          "key": "D",
+          "value": "$${1 \\over 2}{{{I_b}{I_t}} \\over {\\left( {{I_t} + {I_b}} \\right)}}\\omega _i^2$$"
+        }
+      ],
+      "answer": "D",
+      "explanation": "As no external torque is applied to the\nsystem, the angular momentum of the system\nremains conserved.<br><br>\n$$ \\therefore $$ L<sub>i</sub> = L<sub>f</sub><br><br>\nAccording to given problem,<br><br>\n$${I_t}{\\omega _i} = \\left( {{I_t} + {I_b}} \\right){\\omega _f}$$<br><br>\n$$ \\Rightarrow {\\omega _f} = {{{I_t}{\\omega _i}} \\over {\\left( {{I_t} + {I_b}} \\right)}}$$&nbsp;&nbsp;&nbsp; ...(i)<br><br>\nInitial energy, $${E_i} = {1 \\over 2}{I_t}\\omega _i^2$$&nbsp;&nbsp;&nbsp;...(ii)<br><br>\nFinal energy,  $${E_f} = {1 \\over 2}\\left( {{I_t} + {I_b}} \\right)\\omega _f^2$$&nbsp;&nbsp;&nbsp;...(iii)<br><br>\nSubstituting the value of $${\\omega _f}$$ from equation (i) in equation (iii), we get<br><br>\nFinal energy, $${E_f} = {1 \\over 2}\\left( {{I_t} + {I_b}} \\right){\\left( {{{{I_t}{\\omega _i}} \\over {\\left( {{I_t} + {I_b}} \\right)}}} \\right)^2}$$<br><br>\n$$ = {1 \\over 2}{{I_t^2\\omega _i^2} \\over {{I_t} + {I_b}}}$$&nbsp;&nbsp;&nbsp;...(iv)<br><br>\nLoss of energy, $$\\Delta $$E = E<sub>i</sub> – E<sub>f</sub><br><br>\n$$ = {1 \\over 2}{I_t}\\omega _i^2 - {1 \\over 2}{{I_t^2\\omega _i^2} \\over {\\left( {{I_t} + {I_b}} \\right)}}$$ &nbsp;&nbsp;&nbsp; (Using (ii) and (iv))<br><br>\n$$ = {{\\omega _i^2} \\over 2}\\left( {{I_t} - {{I_t^2} \\over {\\left( {{I_t} + {I_b}} \\right)}}} \\right) = {{\\omega _i^2} \\over 2}\\left( {{{I_t^2 - {I_b}{I_t} - I_t^2} \\over {\\left( {{I_t} + {I_b}} \\right)}}} \\right)$$<br><br>\n$$ = {1 \\over 2}{{{I_b}{I_t}} \\over {\\left( {{I_t} + {I_b}} \\right)}}\\omega _i^2$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Four identical thin rods each of mass M and length $$l$$, form a square frame. Moment of inertia of this frame about an axis through the centre of the square and perpendicular to its plane is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$${2 \\over 3}M{l^2}$$"
+        },
+        {
+          "key": "B",
+          "value": "$${{13} \\over 3}M{l^2}$$"
+        },
+        {
+          "key": "C",
+          "value": "$${1 \\over 3}M{l^2}$$"
+        },
+        {
+          "key": "D",
+          "value": "$${4 \\over 3}M{l^2}$$"
+        }
+      ],
+      "answer": "D",
+      "explanation": "As per theorem of parallel axes :<br><br>\n I = I<sub>cm</sub> + Ma<sup>2</sup><br><br>\nwhere I<sub>cm</sub> = moment of inertia about an axis through centre of mass of rod<br>\nI = moment of inertia about parallel axis at distance ‘a’<br><br>\nNow moment of inertia of thin rod of mass M and\nlength L about an axis through the midpoint of the\nrod and perpendicular to its length is ML<sup>2</sup>/12.<br>\nThe moment of inertia of a rod about parallel axis at\ndistance L/2 will be :<br><br>\nML<sup>2</sup>/12 + M(L/2)<sup>2</sup> = ML<sup>2</sup>/3<br><br>\nAs there are 4 rods in square frame, so moment of inertia of entire frame is 4 times the moment of inertia of 1 rod, so it will be (4/3) ML<sup>2</sup>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "If $$\\overrightarrow F $$ is the force acting on a particle having position vector $$\\overrightarrow r $$ and $$\\overrightarrow \\tau  $$ be the torque of this force about the origin, then",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$\\overrightarrow r .\\overrightarrow \\tau   &gt; 0$$&nbsp;&nbsp;and&nbsp;&nbsp;$$\\overrightarrow F .\\overrightarrow \\tau   &lt; 0$$"
+        },
+        {
+          "key": "B",
+          "value": "$$\\overrightarrow r .\\overrightarrow \\tau   = 0$$&nbsp;&nbsp;and&nbsp;&nbsp;$$\\overrightarrow F .\\overrightarrow \\tau   = 0$$"
+        },
+        {
+          "key": "C",
+          "value": "$$\\overrightarrow r .\\overrightarrow \\tau   = 0$$&nbsp;&nbsp;and&nbsp;&nbsp;$$\\overrightarrow F .\\overrightarrow \\tau   \\ne 0$$"
+        },
+        {
+          "key": "D",
+          "value": "$$\\vec r.\\vec \\tau  \\ne 0$$&nbsp;&nbsp;and&nbsp;&nbsp;$$\\overrightarrow F .\\overrightarrow \\tau   = 0$$"
+        }
+      ],
+      "answer": "B",
+      "explanation": "Torque is always perpendicular to $$\\overrightarrow F $$ as well as $$\\overrightarrow r $$.<br><br>\n$$ \\therefore $$ $$\\overrightarrow r .\\overrightarrow \\tau   = 0$$ as well as $$\\overrightarrow F .\\overrightarrow \\tau   = 0$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A thin circular ring of mass M and radius R is rotating in a horizontal plane about an axis vertical to its plane with a constant angular velocity $$\\omega $$. If two objects each of mass m be attached gently to the opposite ends of a diameter of the ring, the ring will then rotate with an angular velocity",
+      "options": [
+        {
+          "key": "A",
+          "value": "$${{\\omega M} \\over {M + 2m}}$$"
+        },
+        {
+          "key": "B",
+          "value": "$${{\\omega \\left( {M + 2m} \\right)} \\over M}$$"
+        },
+        {
+          "key": "C",
+          "value": "$${{\\omega M} \\over {M + m}}$$"
+        },
+        {
+          "key": "D",
+          "value": "$${{\\omega \\left( {M - 2m} \\right)} \\over {M + 2m}}$$"
+        }
+      ],
+      "answer": "A",
+      "explanation": "As the masses are added to\nthe ring gently, there is no torque and\nangular momentum is conserved.<br><br>\n$$I\\omega  = I'\\omega '$$<br><br>\n$$ \\Rightarrow M{R^2}\\omega  = \\left( {M{R^2} + 2m{R^2}} \\right)\\omega '$$<br><br>\n$$ \\Rightarrow \\omega ' = {{M{R^2}\\omega } \\over {\\left( {M + 2m} \\right){R^2}}}$$<br><br>\n$$ \\Rightarrow \\omega ' = {{M\\omega } \\over {M + 2m}}$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The ratio of the radii of gyration of a circular disc to that of a circular ring, each of same mass and radius, around their respective axes is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$\\sqrt 2 :1$$"
+        },
+        {
+          "key": "B",
+          "value": "$$\\sqrt 2 :\\sqrt 3 $$"
+        },
+        {
+          "key": "C",
+          "value": "$$\\sqrt 3 :\\sqrt 2 $$"
+        },
+        {
+          "key": "D",
+          "value": "$$1:\\sqrt 2 $$"
+        }
+      ],
+      "answer": "D",
+      "explanation": "M.I. of a circular disc, $$M{k^2} = {{M.{R^2}} \\over 2}$$<br><br>\nM.I. of a circular ring = MR<sup>2</sup>.<br><br>\n$$ \\therefore $$ Ratio of their radius of gyration = $${1 \\over {\\sqrt 2 }}:1$$<br><br>\n$$ \\Rightarrow $$ 1 : $${\\sqrt 2 }$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A thin rod of length L and mass M  is bent at its midpoint into two halves so that the angle between them is 90<sup>o</sup>. The moment of inertia of the bent rod about an axis passing  through  the bending point  and  perpendicular to the plane defined by the two halves of the rod is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$${{M{L^2}} \\over 6}$$"
+        },
+        {
+          "key": "B",
+          "value": "$${{\\sqrt 2 M{L^2}} \\over {24}}$$"
+        },
+        {
+          "key": "C",
+          "value": "$${{M{L^2}} \\over {24}}$$"
+        },
+        {
+          "key": "D",
+          "value": "$${{M{L^2}} \\over {12}}$$"
+        }
+      ],
+      "answer": "D",
+      "explanation": "Total mass = M, total length = L<br>\nMoment of inertia of OA about O = Moment of inertia of OB about O.<br><br>\n$$ \\Rightarrow $$ M.I total = $$2 \\times \\left( {{M \\over 2}} \\right){\\left( {{L \\over 2}} \\right)^2}.{1 \\over 3} = {{M{L^2}} \\over {12}}$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A wheel has angular acceleration of 3.0 rad/sec<sup>2</sup> and an initial angular speed of 2.00 rad/sec. In a time of 2 sec it has rotated through  an angle (in radian) of ",
+      "options": [
+        {
+          "key": "A",
+          "value": "10"
+        },
+        {
+          "key": "B",
+          "value": "12"
+        },
+        {
+          "key": "C",
+          "value": "4"
+        },
+        {
+          "key": "D",
+          "value": "6"
+        }
+      ],
+      "answer": "A",
+      "explanation": "Given: Angular acceleration, $$\\alpha $$ = 3 rad/sec<sup>2</sup><br>\nInitial angular velocity $${\\omega _i}$$ = 2 rad/sec<br><br>\nTime t = 2 sec<br><br>\nUsing, $$\\theta  = {\\omega _i}t + {1 \\over 2}\\alpha {t^2}$$<br><br>\n$$ \\therefore $$ $$\\theta  = 2 \\times 2 + {1 \\over 2} \\times 3 \\times 4 = 4 + 6 = 10\\,$$ radian."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A tube of length L is filled completely with an incompressible liquid of mass M and closed at both the ends. The tube is then rotated in a horizontal plane about one of its ends with  a uniform angular velocity $$\\omega $$. The force exerted by the liquid at the other end  is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$${{M{L^2}{\\omega ^2}} \\over 2}$$"
+        },
+        {
+          "key": "B",
+          "value": "$${{ML{\\omega ^2}} \\over 2}$$"
+        },
+        {
+          "key": "C",
+          "value": "$${{M{L^2}\\omega } \\over 2}$$"
+        },
+        {
+          "key": "D",
+          "value": "$$ML{\\omega ^2}$$"
+        }
+      ],
+      "answer": "B",
+      "explanation": "The centre of the tube will be at length\nL/2. So radius r = L/2.<br><br>\nThe force exerted by the liquid at the other end\n= centrifugal force<br><br>\nCentrifugal force <br> = $$Mr{\\omega ^2} = M\\left( {{L \\over 2}} \\right){\\omega ^2} = {{ML{\\omega ^2}} \\over 2}$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A uniform rod AB of length $$l$$ and mass m is free to rotate about point A. The rod is released from rest in the horizontal position. Given that the moment of inertia of the rod about A is ml<sup>2</sup>/3, the initial angular acceleration of the rod will be \n<br><br>",
+      "options": [
+        {
+          "key": "A",
+          "value": "$${{mgl} \\over 2}$$"
+        },
+        {
+          "key": "B",
+          "value": "$${3 \\over 2}gl$$"
+        },
+        {
+          "key": "C",
+          "value": "$${{3g} \\over {2l}}$$"
+        },
+        {
+          "key": "D",
+          "value": "$${{2g} \\over {3l}}$$"
+        }
+      ],
+      "answer": "C",
+      "explanation": "Torque about A,<br><br>\n$$\\tau  = mg \\times {l \\over 2} = {{mgl} \\over 2}$$<br><br>\n$$\\tau  = I\\alpha $$<br><br>\n$$ \\therefore $$ Angular acceleration,\n<br>\n$$\\alpha  = {\\tau  \\over I} = {{mgl/2} \\over {m{l^2}/3}} = {{3g} \\over {2l}}$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The moment of inertia of a uniform circular disc of radius R and mass M about an axis touching the disc at its diameter and normal to the disc",
+      "options": [
+        {
+          "key": "A",
+          "value": "$${1 \\over 2}$$MR<sup>2</sup>"
+        },
+        {
+          "key": "B",
+          "value": "MR<sup>2</sup>"
+        },
+        {
+          "key": "C",
+          "value": "$${2 \\over 5}M{R^2}$$"
+        },
+        {
+          "key": "D",
+          "value": "$${3 \\over 2}M{R^2}$$"
+        }
+      ],
+      "answer": "D",
+      "explanation": "Moment of inertia of a uniform circular\ndisc about an axis through its centre and\nperpendicular to its plane is $${I_C} = {1 \\over 2}M{R^2}$$ by the theorem of parallel axes.<br><br>\n$$ \\therefore $$ Moment of inertia of a uniform circular disc\nabout an axis touching the disc at its diameter and\nnormal to the disc is I.<br><br>\n$$I = {I_C} + M{h^2} = {1 \\over 2}M{R^2} + M{R^2} = {3 \\over 2}M{R^2}$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Two bodies have their moments of inertia I and 2I respectively about their axis of rotation. If their kinetic energies of rotation are equal, their angular velocity will be  in the ratio",
+      "options": [
+        {
+          "key": "A",
+          "value": "2 : 1"
+        },
+        {
+          "key": "B",
+          "value": "1 : 2"
+        },
+        {
+          "key": "C",
+          "value": "$$\\sqrt 2 :1$$"
+        },
+        {
+          "key": "D",
+          "value": "$$1:\\sqrt 2 $$"
+        }
+      ],
+      "answer": "C",
+      "explanation": "$$K.E. = {1 \\over 2}I{\\omega ^2}$$<br><br>\n$$ \\therefore {1 \\over 2}{I_1}\\omega _1^2 = {1 \\over 2}.2{I_1}\\omega _2^2$$<br><br>\n$${{\\omega _1^2} \\over {\\omega _2^2}} = {2 \\over 1} \\Rightarrow {{{\\omega _1}} \\over {{\\omega _2}}} = {{\\sqrt 2 } \\over 1}$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The moment of inertia of a uniform circular disc of radius R and mass M about an axis passing  from the edge of the disc and normal to the disc is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "MR<sup>2</sup>"
+        },
+        {
+          "key": "B",
+          "value": "$${1 \\over 2}$$ MR<sup>2</sup>"
+        },
+        {
+          "key": "C",
+          "value": "$${3 \\over 2}$$ MR<sup>2</sup>"
+        },
+        {
+          "key": "D",
+          "value": "$${7 \\over 2}$$ MR<sup>2</sup>"
+        }
+      ],
+      "answer": "C",
+      "explanation": "Moment of Inertia of uniform circular disc\nwith radius ‘R’ and mass ‘M’ about axis passing\nthrough C.M. and normal to disc will be :<br><br>\nI<sub>CM</sub> = (1/2) MR<sup>2</sup><br><br>\nMoment of Inertia about axis tangential to disc :<br><br>\nI<sub>T</sub> = I<sub>CM</sub> + MR<sup>2</sup><br><br>\nI<sub>T</sub> = (1/2) MR<sup>2</sup>\n + MR<sup>2</sup><br><br>\n = (3/2) MR<sup>2</sup>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A drum of radius R and mass M, rolls down without slipping along an inclined plane of angle $$\\theta $$. The frictional force ",
+      "options": [
+        {
+          "key": "A",
+          "value": "dissipates energy as heat "
+        },
+        {
+          "key": "B",
+          "value": "decreases the rotational motion "
+        },
+        {
+          "key": "C",
+          "value": "decreases the rotational and translation motion "
+        },
+        {
+          "key": "D",
+          "value": "converts translational energy to rotational energy."
+        }
+      ],
+      "answer": "D",
+      "explanation": "It is noted that net work done by frictional\nforce when drum rolls down without slipping is\nzero, so W<sub>net</sub> = 0<br><br>\nW<sub>trans</sub> + W<sub>rotational</sub> = 0<br><br>\nΔK<sub>trans</sub> + ΔK<sub>rotational</sub> = 0<br><br>\nΔK<sub>trans</sub> = – ΔK<sub>rotational</sub><br><br>\nHence, frictional force converts translational energy to rotational energy."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The ratio of the radii of gyration of a circular disc about a tangential axis in the plane of the disc and of a circular ring of the same radius about a tangential axes in the plane of the ring is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "2 : 3"
+        },
+        {
+          "key": "B",
+          "value": "2 : 1"
+        },
+        {
+          "key": "C",
+          "value": "$$\\sqrt 5 :\\sqrt 6 $$"
+        },
+        {
+          "key": "D",
+          "value": "$$1:\\sqrt 2 $$"
+        }
+      ],
+      "answer": "C",
+      "explanation": "Radius of gyration of disc about a\ntangential axis in the plane of disc is $${{\\sqrt 5 } \\over 2}R = {K_1}$$,\nradius of gyration of circular ring of same radius\nabout a tangential axis in the plane of circular ring is<br><br>\n$${K_2} = \\sqrt {{3 \\over 2}} R$$<br><br>\n$$ \\therefore {{{K_1}} \\over {{K_2}}} = {{\\sqrt 5 } \\over {\\sqrt 6 }}$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A round disc of moment of inertia $$I$$<sub>2</sub> about its axis perpendicular to its plane and passing through  its centre is placed over another disc of moment  of inertia $$I$$<sub>1</sub> rotating with an angular velocity $$\\omega $$ about the same axis. The final angular velocity of the combination of discs is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$${{{I_2}\\omega } \\over {{I_1} + {I_2}}}$$"
+        },
+        {
+          "key": "B",
+          "value": "$$\\omega $$"
+        },
+        {
+          "key": "C",
+          "value": "$${{{I_1}\\omega } \\over {{I_1} + I{}_2}}$$"
+        },
+        {
+          "key": "D",
+          "value": "$${{\\left( {{I_1} + {I_2}} \\right)\\omega } \\over {{I_1}}}$$"
+        }
+      ],
+      "answer": "C",
+      "explanation": "The initial angular momentum of the system is\n$${I_1}\\omega $$ and final angular momentum is $$\\left( {{I_1} + {I_2}} \\right)\\omega '$$\nwhere<br><br>\n$$\\omega '$$ = final angular velocity of combination of discs<br>\nOn equating the initial and final angular\nmomentum, we get<br><br>\n$$\\omega ' = {{{I_1}\\omega } \\over {\\left( {{I_1} + {I_2}} \\right)}}$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A wheel having moment of inertia 2 kg m<sup>2</sup> about its vertical axis, rotates at the rate of 60 rpm about this axis. The torque which can stop the wheel's rotation in one minute would  be ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$${{2\\pi } \\over {15}}$$ N m"
+        },
+        {
+          "key": "B",
+          "value": "$${\\pi  \\over {12}}$$ N m"
+        },
+        {
+          "key": "C",
+          "value": "$${\\pi  \\over {15}}$$ N m"
+        },
+        {
+          "key": "D",
+          "value": "$${\\pi  \\over {18}}$$ N m"
+        }
+      ],
+      "answer": "C",
+      "explanation": "$${\\omega _f} = {\\omega _i} - \\alpha t \\Rightarrow 0 = {\\omega _i} - \\alpha t$$<br><br>\n$$ \\therefore $$ $$\\alpha  = {{{\\omega _i}} \\over t}$$ where $$\\alpha $$ is retardation.<br><br>\nThe torque on the wheel is given by<br><br>\n$$\\tau  = I\\alpha  = {{I\\omega } \\over t} = {{I.2\\pi \\upsilon } \\over t} = {{2 \\times 2 \\times \\pi  \\times 60} \\over {60 \\times 60}}$$<br><br>\n$$\\tau  = {\\pi  \\over {15}}$$ N m<br><br>\nThis is the torque required to stop the wheel in\n1 min. (or 60 sec.).\n"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A ball rolls without slipping. The radius of gyration of the ball about an axis passing through its centre of mass is K. If radius of the ball be R. then the fraction of total energy associated with its rotational energy  will be ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$${{{K^2} + {R^2}} \\over {{R^2}}}$$"
+        },
+        {
+          "key": "B",
+          "value": "$${{{K^2}} \\over {{R^2}}}$$"
+        },
+        {
+          "key": "C",
+          "value": "$${{{K^2}} \\over {{K^2} + {R^2}}}$$"
+        },
+        {
+          "key": "D",
+          "value": "$${{{R^2}} \\over {{K^2} + {R^2}}}$$"
+        }
+      ],
+      "answer": "C",
+      "explanation": "Rotational energy =$${1 \\over 2}I{\\left( \\omega  \\right)^2} = {1 \\over 2}\\left( {m{K^2}} \\right){\\omega ^2}$$<br><br>\nLinear kinetic energy = $${1 \\over 2}m{\\omega ^2}{R^2}$$<br><br>\n$$ \\therefore $$ Required fraction<br><br>\n$$ = {{{1 \\over 2}\\left( {m{K^2}} \\right){\\omega ^2}} \\over {{1 \\over 2}\\left( {m{K^2}} \\right){\\omega ^2} + {1 \\over 2}m{\\omega ^2}{R^2}}} = {{{K^2}} \\over {{K^2} + {R^2}}}$$\n"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A stone is tied to a string of length $$l$$ and is whirled in a vertical circle with the other end of the string as the centre. At a certain instant of time, the stone is at its lowest position and has a speed u. The magnitude of the change in velocity  as it reaches a position where the string is horizontal (g being acceleration due to gravity) is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$\\sqrt {2\\left( {{\\mu ^2} - gl} \\right)} $$"
+        },
+        {
+          "key": "B",
+          "value": "$$\\sqrt {{u^2} - gl} $$"
+        },
+        {
+          "key": "C",
+          "value": "$$u - \\sqrt {{u^2} - 2gl} $$"
+        },
+        {
+          "key": "D",
+          "value": "$$\\sqrt {2gl} $$"
+        }
+      ],
+      "answer": "A",
+      "explanation": "The total energy at A = the total energy at B<br><br>\n$$ \\Rightarrow {1 \\over 2}m{u^2} = {1 \\over 2}m{v^2} + mgl$$<br><br>\n$$ \\Rightarrow v = \\sqrt {{u^2} - 2gl} $$<br><br>\nThe change in magnitude of velocity = $$\\sqrt {{u^2} + {v^2}} $$<br><br>\n$$ = \\sqrt {2\\left( {{u^2} - gl} \\right)} $$\n"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A solid cylinder of mass M and radius R rolls without slipping down an inclined plane of length L and height h. What is the speed of its centre of mass when the cylinder reaches its bottom ? ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$\\sqrt {2gh} $$ "
+        },
+        {
+          "key": "B",
+          "value": "$$\\sqrt {{3 \\over 4}gh} $$"
+        },
+        {
+          "key": "C",
+          "value": "$$\\sqrt {{4 \\over 3}gh} $$"
+        },
+        {
+          "key": "D",
+          "value": "$$\\sqrt {4gh} $$"
+        }
+      ],
+      "answer": "C",
+      "explanation": "K.E. = $${1 \\over 2}I{\\omega ^2} + {1 \\over 2}m{v^2}$$<br><br>\nK.E. = $${1 \\over 2}\\left( {{1 \\over 2}m{r^2}} \\right){\\omega ^2} + {1 \\over 2}m{v^2}$$<br><br>\n$$ = {1 \\over 4}m{v^2} + {1 \\over 2}m{v^2} = {3 \\over 4}m{v^2}$$<br><br>\nNow, gain in K.E. = Loss in P.E. <br><br>\n$${3 \\over 4}m{v^2} = mgh \\Rightarrow v = \\sqrt {\\left( {{4 \\over 3}} \\right)gh} $$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A thin circular ring of mass M and radius r is rotating about its axis with a constant angular velocity $$\\omega $$. Four objects each of mass m, are kept gently to the opposite ends of two perpendicular diameters of the ring. The angular velocity of the ring will be :",
+      "options": [
+        {
+          "key": "A",
+          "value": "$${{M\\omega } \\over {4m}}$$"
+        },
+        {
+          "key": "B",
+          "value": "$${{M\\omega } \\over {M + 4m}}$$"
+        },
+        {
+          "key": "C",
+          "value": "$${{\\left( {M + 4m} \\right)\\omega } \\over M}$$"
+        },
+        {
+          "key": "D",
+          "value": "$${{\\left( {M - 4m} \\right)\\omega } \\over {M + 4m}}$$"
+        }
+      ],
+      "answer": "B",
+      "explanation": "Applying conservation law of angular momentum, $${I_1}{\\omega _1} = {I_2}{\\omega _2}$$<br><br>\n$${I_2} = \\left( {M{r^2}} \\right) + 4\\left( m \\right)\\left( {{r^2}} \\right) = \\left( {M + 4m} \\right){r^2}$$<br><br/>\n(Taking $${\\omega _1} = \\omega $$ and $${\\omega _1} = \\omega _1$$) <br><br>\n$$ \\Rightarrow M{r^2}\\omega  = \\left( {M + 4m} \\right){r^2}{\\omega _1}$$<br><br>\n$$ \\Rightarrow {\\omega _1} = {{M\\omega } \\over {M + 4m}}$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A circular disc is to be made by using iron and aluminium so that it acquired maximum moment of inertia about geometrical axis. It is possible with",
+      "options": [
+        {
+          "key": "A",
+          "value": "aluminium at interior and iron surround to it"
+        },
+        {
+          "key": "B",
+          "value": "iron at interior and aluminium surround to it"
+        },
+        {
+          "key": "C",
+          "value": "using iron and aluminium layers in alternate order"
+        },
+        {
+          "key": "D",
+          "value": "sheet of iron is used at both external surface and aluminium sheet as internal layers."
+        }
+      ],
+      "answer": "A",
+      "explanation": "A circular disc may be divided into a large number of circular rings. Moment of inertia of the disc will be the summation of the moments of inertia of these rings about the geometrical axis.<br><br> Now, moment of inertia of a circular ring about its geometrical axis is MR<sup>2</sup>, where M is the mass and R is the radius of the ring.<br><br> Since the density (mass per unit volume) for iron is more than that of aluminium, the proposed rings made of iron should be placed at a higher radius to get more value of MR<sup>2</sup>. Hence to get maximum moment of inertia for the circular disc, aluminium should be placed at interior and iron at the outside. "
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A disc is rotating with angular speed $$\\omega $$. If a child sits on it, what is conserved",
+      "options": [
+        {
+          "key": "A",
+          "value": "linear momentum"
+        },
+        {
+          "key": "B",
+          "value": "angular momentum"
+        },
+        {
+          "key": "C",
+          "value": "kinetic energy"
+        },
+        {
+          "key": "D",
+          "value": "potential energy."
+        }
+      ],
+      "answer": "B",
+      "explanation": "If external torque is zero, angular momentum remains conserved. <br>[External torque is zero because the weight of child acts downward] <br><br>\nL = I$$\\omega $$ = constant"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A solid sphere of radius R is placed on smooth horizontal surface. A horizontal force F is applied at height h from the lowest point. For the maximum acceleration of centre of mass, which is correct ? ",
+      "options": [
+        {
+          "key": "A",
+          "value": "h = R"
+        },
+        {
+          "key": "B",
+          "value": "h = 2R"
+        },
+        {
+          "key": "C",
+          "value": "h = 0"
+        },
+        {
+          "key": "D",
+          "value": "no relation between h and R."
+        }
+      ],
+      "answer": "D",
+      "explanation": "Since there is no friction at the contact surface (smooth horizontal surface) there will be no rolling. Hence, the acceleration of the centre of mass of the sphere will be independent of the position of the applied force F. Therefore, there is no relation between h and R. "
+    },
+    {
+      "_type": "single_mcq",
+      "body": "For a hollow cylinder and a solid cylinder rolling without slipping on an inclined plane, then which of these reaches earlier",
+      "options": [
+        {
+          "key": "A",
+          "value": "solid cylinder"
+        },
+        {
+          "key": "B",
+          "value": "hollow cylinder"
+        },
+        {
+          "key": "C",
+          "value": "both simultaneously "
+        },
+        {
+          "key": "D",
+          "value": "can't say anything."
+        }
+      ],
+      "answer": "A",
+      "explanation": "Solid sphere reaches the bottom first because for solid cylinder $${{{K^2}} \\over {{R^2}}} = {1 \\over 2}$$, and for hollow cylinder  $${{{K^2}} \\over {{R^2}}} = 1$$<br><br>\nAcceleration down the inclined plane $$ \\propto {1 \\over {{{{K^2}} \\over {{R^2}}}}}$$<br><br>\nSolid cylinder has greater acceleration, so it reaches the bottom first."
+    }
+  ]
+}

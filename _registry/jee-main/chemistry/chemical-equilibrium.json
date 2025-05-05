@@ -1,0 +1,1423 @@
+{
+  "_index": {
+    "name": "Chemical Equilibrium"
+  },
+  "_children": [
+    {
+      "_type": "numerical",
+      "body": "<p>Consider the following equilibrium,</p>\n<p>$$\\mathrm{CO}(\\mathrm{~g})+2 \\mathrm{H}_2(\\mathrm{~g}) \\rightleftharpoons \\mathrm{CH}_3 \\mathrm{OH}(\\mathrm{~g})$$</p>\n<p>0.1 mol of CO along with a catalyst is present in a $2 \\mathrm{dm}^3$ flask maintained at 500 K . Hydrogen is introduced into the flask until the pressure is 5 bar and 0.04 mol of $\\mathrm{CH}_3 \\mathrm{OH}$ is formed. The $K_p^\\theta$ is __________ $\\times 10^{-3}$ (nearest integer).</p>\n<p>Given : $\\mathrm{R}=0.08 \\mathrm{~dm}^3$ bar $\\mathrm{K}^{-1} \\mathrm{~mol}^{-1}$</p>\n<p>Assume only methanol is formed as the product and the system follows ideal gas behaviour.</p>",
+      "answer": "74",
+      "explanation": ""
+    },
+    {
+      "_type": "numerical",
+      "body": "<p>$37.8 \\mathrm{~g} \\mathrm{~N}_2 \\mathrm{O}_5$ was taken in a 1 L reaction vessel and allowed to undergo the following reaction at 500 K</p>\n<p>$$2 \\mathrm{~N}_2 \\mathrm{O}_{5(\\mathrm{~g})} \\rightleftharpoons 2 \\mathrm{~N}_2 \\mathrm{O}_{4(\\mathrm{~g})}+\\mathrm{O}_{2(\\mathrm{~g})}$$</p>\n<p>The total pressure at equilibrium was found to be 18.65 bar.</p>\n<p>Then, $\\mathrm{Kp}=$ _________ $\\times 10^{-2}$ [nearest integer]</p>\n<p>Assume $\\mathrm{N}_2 \\mathrm{O}_5$ to behave ideally under these conditions.</p>\n<p>Given: $\\mathrm{R}=0.082$ bar $\\mathrm{L} \\mathrm{mol}^{-1} \\mathrm{~K}^{-1}$</p>",
+      "answer": "962",
+      "explanation": "<p>$$\\begin{aligned}\n& \\text { Initial pressure of } \\mathrm{N}_2 \\mathrm{O}_5 \\\\\n& \\qquad \\\\\n& \\qquad=\\frac{\\frac{37.8}{108} \\times 0.082 \\times 500}{1}=14.35 \\mathrm{bar} \\\\\n& 2 \\mathrm{~N}_2 \\mathrm{O}_5 \\rightleftharpoons 2 \\mathrm{~N}_2 \\mathrm{O}_4+\\mathrm{O}_2\n\\end{aligned}$$</p>\n<p>$$\\begin{aligned}\n& \\mathrm{t}=0 \\quad 14.35 \\\\\n& \\mathrm{t}=\\mathrm{eq} \\quad 14.35-2 \\mathrm{P} \\quad 2 \\mathrm{P} \\quad \\mathrm{P} \\\\\n& \\mathrm{P}_{\\text {Total }} \\text { at eqb }=14.35+\\mathrm{P}=18.65 \\\\\n& \\mathrm{P}=4.3 \\\\\n& \\mathrm{P}_{\\mathrm{N}_2 \\mathrm{O}_{\\mathrm{s}}}=5.75 \\mathrm{bar} \\\\\n& \\mathrm{P}_{\\mathrm{N}_2 \\mathrm{O}_4}=8.6 \\mathrm{bar} \\\\\n& \\mathrm{P}_{\\mathrm{O}_2}=4.3 \\mathrm{bar} \\\\\n& \\mathrm{k}_{\\mathrm{p}}=\\frac{(8.6)^2 \\times(4.3)}{(5.75)^2}=9.619=\\mathrm{x} \\times 10^{-2} \\\\\n& \\mathrm{x}=961.9 \\approx 962\n\\end{aligned}$$</p>"
+    },
+    {
+      "_type": "numerical",
+      "body": "<p>The following concentrations were observed at $$500 \\mathrm{~K}$$ for the formation of $$\\mathrm{NH}_3$$ from $$\\mathrm{N}_2$$ and $$\\mathrm{H}_2$$. At equilibrium ; $$\\left[\\mathrm{N}_2\\right]=2 \\times 10^{-2} \\mathrm{M},\\left[\\mathrm{H}_2\\right]=3 \\times 10^{-2} \\mathrm{M}$$ and $$\\left[\\mathrm{NH}_3\\right]=1.5 \\times 10^{-2} \\mathrm{M}$$. Equilibrium constant for the reaction is ________.</p>",
+      "answer": "417",
+      "explanation": "<p>To calculate the equilibrium constant $\\mathrm{K}_C$ for the formation of $\\mathrm{NH}_3$ from $\\mathrm{N}_2$ and $\\mathrm{H}_2$ at $500 \\mathrm{~K}$, we use the formula:</p>\n<p>$ \\mathrm{K}_C = \\frac{[\\mathrm{NH}_3]^2}{[\\mathrm{N}_2][\\mathrm{H}_2]^3} $</p>\n<p>Substituting the given concentrations:</p>\n<p>$ \\mathrm{K}_C = \\frac{(1.5 \\times 10^{-2})^2}{(2 \\times 10^{-2}) \\times (3 \\times 10^{-2})^3} $</p>\n<p>Calculating the above expression results in:</p>\n<p>$ \\mathrm{K}_C = 417 $</p>"
+    },
+    {
+      "_type": "numerical",
+      "body": "<p>For the reaction $$\\mathrm{N}_2 \\mathrm{O}_{4(\\mathrm{~g})} \\rightleftarrows 2 \\mathrm{NO}_{2(\\mathrm{~g})}, \\mathrm{K}_{\\mathrm{p}}=0.492 \\mathrm{~atm}$$ at $$300 \\mathrm{~K} . \\mathrm{K}_{\\mathrm{c}}$$ for the reaction at same temperature is _________ $$\\times 10^{-2}$$.</p>\n<p>(Given : $$\\mathrm{R}=0.082 \\mathrm{~L} \\mathrm{~atm} \\mathrm{~mol}^{-1} \\mathrm{~K}^{-1}$$)</p>",
+      "answer": "2",
+      "explanation": "<p>For the reaction:</p>\n<p>$$ \\mathrm{N}_2 \\mathrm{O}_{4(\\mathrm{~g})} \\rightleftarrows 2 \\mathrm{NO}_{2(\\mathrm{~g})} $$</p>\n<p>we need to find the equilibrium constant $$\\mathrm{K}_{\\mathrm{c}}$$ at 300 K given that $$\\mathrm{K}_{\\mathrm{p}} = 0.492 \\text{ atm}$$.</p>\n<p>The relationship between $$\\mathrm{K}_{\\mathrm{p}}$$ and $$\\mathrm{K}_{\\mathrm{c}}$$ is given by the following equation:</p>\n<p>$$ \\mathrm{K}_{\\mathrm{p}} = \\mathrm{K}_{\\mathrm{c}} (RT)^{\\Delta n} $$</p>\n<p>where:</p>\n\n<p><p>$$R = 0.082 \\, \\mathrm{L} \\, \\mathrm{atm} \\, \\mathrm{mol}^{-1} \\, \\mathrm{K}^{-1}$$ is the gas constant,</p></p>\n<p><p>$$T = 300 \\, \\mathrm{K}$$ is the temperature,</p></p>\n<p><p>$$\\Delta n$$ is the change in moles of gas from reactants to products.</p></p>\n\n<p>For the reaction given:</p>\n\n<p><p>The number of moles of gaseous products is 2 (for $$2 \\mathrm{NO}_2$$).</p></p>\n<p><p>The number of moles of gaseous reactants is 1 (for $$\\mathrm{N}_2 \\mathrm{O}_4$$).</p></p>\n\n<p>Thus, $$\\Delta n = 2 - 1 = 1$$.</p>\n<p>Substitute the known values into the equation:</p>\n<p>$$ 0.492 = \\mathrm{K}_{\\mathrm{c}} (0.082 \\times 300)^{1} $$</p>\n<p>Solve for $$\\mathrm{K}_{\\mathrm{c}}$$:</p>\n<p>$$ 0.492 = \\mathrm{K}_{\\mathrm{c}} \\times 24.6 $$</p>\n<p>$$ \\mathrm{K}_{\\mathrm{c}} = \\frac{0.492}{24.6} $$</p>\n<p>Calculate $$\\mathrm{K}_{\\mathrm{c}}$$:</p>\n<p>$$ \\mathrm{K}_{\\mathrm{c}} = 0.02 $$</p>\n<p>Thus, $$\\mathrm{K}_{\\mathrm{c}}$$ for the reaction at 300 K is:</p>\n<p>$$ 2 \\times 10^{-2} $$</p>"
+    },
+    {
+      "_type": "numerical",
+      "body": "<p>A mixture of 1 mole of $$\\mathrm{H}_{2} \\mathrm{O}$$ and 1 mole of $$\\mathrm{CO}$$ is taken in a 10 litre container and heated to $$725 \\mathrm{~K}$$. At equilibrium $$40 \\%$$ of water by mass reacts with carbon monoxide according to the equation : \n<br/><br/>$$\\mathrm{CO}(\\mathrm{g})+\\mathrm{H}_{2} \\mathrm{O}(\\mathrm{g}) \\rightleftharpoons \\mathrm{CO}_{2}(\\mathrm{~g})+\\mathrm{H}_{2}(\\mathrm{~g})$$.\n<br/><br/> The equilibrium constant $$\\mathrm{K}_{\\mathrm{c}} \\times 10^{2}$$ for the reaction is ____________. (Nearest integer)</p>",
+      "answer": "44",
+      "explanation": "The given reaction is : \n\n<br/><br/>$$\\mathrm{CO(g)} + \\mathrm{H_{2}O(g)} \\rightleftharpoons \\mathrm{CO_{2}(g)} + \\mathrm{H_{2}(g)} $$\n\n<br/><br/>We are given that $40\\%$ of water by mass reacts with carbon monoxide.\n\n<br/><br/>The molecular weight of water (H<sub>2</sub>O) is approximately $18 \\, \\mathrm{g/mol}$, so $1 \\, \\mathrm{mole}$ of water weighs $18 \\, \\mathrm{g}$. Therefore, the mass of the reacted water is $0.40 \\times 18 \\, \\mathrm{g} = 7.2 \\, \\mathrm{g}$.\n\n<br/><br/>Since from the stoichiometry of the reaction we can see that $1 \\, \\mathrm{mole}$ of CO reacts with $1 \\, \\mathrm{mole}$ of H<sub>2</sub>O to form $1 \\, \\mathrm{mole}$ of CO<sub>2</sub> and $1 \\, \\mathrm{mole}$ of H<sub>2</sub>, this means that $7.2 \\, \\mathrm{g}$ of H<sub>2</sub>O is equivalent to $7.2 \\, \\mathrm{g} / 18 \\, \\mathrm{g/mol} = 0.4 \\, \\mathrm{mole}$.\n\n<br/><br/>We start with $1 \\, \\mathrm{mole}$ of CO and $1 \\, \\mathrm{mole}$ of H2O. At equilibrium, we have :\n\n<br/><br/>- CO: $1 \\, \\mathrm{mole} - 0.4 \\, \\mathrm{mole} = 0.6 \\, \\mathrm{mole}$\n<br/><br/>- H<sub>2</sub>O : $1 \\, \\mathrm{mole} - 0.4 \\, \\mathrm{mole} = 0.6 \\, \\mathrm{mole}$\n<br/><br/>- CO<sub>2</sub> : $0 \\, \\mathrm{mole} + 0.4 \\, \\mathrm{mole} = 0.4 \\, \\mathrm{mole}$\n<br/><br/>- H<sub>2</sub> : $0 \\, \\mathrm{mole} + 0.4 \\, \\mathrm{mole} = 0.4 \\, \\mathrm{mole}$\n\n<br/><br/>The volume of the container is $10 \\, \\mathrm{litres}$. Therefore, we can convert the moles to concentrations (in M = moles/L) as :\n\n<br/><br/>- [CO] = $0.6 \\, \\mathrm{M}$\n<br/><br/>- [H<sub>2</sub>O] = $0.6 \\, \\mathrm{M}$\n<br/><br/>- [CO<sub>2</sub>] = $0.4 \\, \\mathrm{M}$\n<br/><br/>- [H<sub>2</sub>] = $0.4 \\, \\mathrm{M}$\n\n<br/><br/>The equilibrium constant $K_{c}$ for the reaction can be calculated as :\n\n<br/><br/>$$K_{c} = \\frac{[\\mathrm{CO_{2}}][\\mathrm{H_{2}}]}{[\\mathrm{CO}][\\mathrm{H_{2}O}]}$$\n\n<br/><br/>So, substituting the values we get :\n\n<br/><br/>$$K_{c} = \\frac{(0.4 \\times 0.4)}{(0.6 \\times 0.6)} = 0.44$$\n\n<br/><br/>As per the question, we need to calculate the value of $K_{c} \\times 10^{2}$ :\n\n<br/><br/>$$K_{c} \\times 10^{2} = 0.44 \\times 10^{2} = 44 \\, (\\text{rounded to the nearest\n\n integer})$$\n\n<br/><br/>Therefore, $K_{c} \\times 10^{2} = 44$."
+    },
+    {
+      "_type": "numerical",
+      "body": "<p>$$\\mathrm{A}(g) \\rightleftharpoons 2 \\mathrm{~B}(g)+\\mathrm{C}(g)$$</p>\n<p>For the given reaction, if the initial pressure is $$450 \\mathrm{~mm} ~\\mathrm{Hg}$$ and the pressure at time $$\\mathrm{t}$$ is $$720 \\mathrm{~mm} ~\\mathrm{Hg}$$ at a constant temperature $$\\mathrm{T}$$ and constant volume $$\\mathrm{V}$$. The fraction of $$\\mathrm{A}(\\mathrm{g})$$ decomposed under these conditions is $$x \\times 10^{-1}$$. The value of $$x$$ is ___________ (nearest integer)</p>",
+      "answer": "3",
+      "explanation": "<p>Given the reaction:</p>\n<p>$$\\mathrm{A}_{(\\mathrm{g})} \\rightleftharpoons 2 \\mathrm{~B}_{(\\mathrm{g})}+\\mathrm{C}_{(\\mathrm{g})}$$</p>\n<p>At the beginning of the reaction (at time = 0), the total pressure is solely due to A, hence it is 450 mmHg.</p>\n<p>As the reaction progresses, let&#39;s denote &#39;x&#39; as the pressure decrease due to the decomposition of A. Correspondingly, the pressure increases by &#39;2x&#39; and &#39;x&#39; for B and C respectively, following the stoichiometry of the reaction.</p>\n<p>At time &#39;t&#39;, the total pressure (P(T)) is the sum of the pressures of A, B, and C, which is given to be 720 mmHg.</p>\n<p>This gives us the equation:</p>\n<p>$$450 \\text{ mmHg} - x \\text{ mmHg (decrease in A&#39;s pressure)} + 2x \\text{ mmHg (increase in B&#39;s pressure)} + x \\text{ mmHg (increase in C&#39;s pressure)} = 720 \\text{ mmHg (total pressure at time t)}$$</p>\n<p>Solving for &#39;x&#39; gives:</p>\n<p>$$x = 135 \\text{ mmHg}$$</p>\n<p>The fraction of A decomposed would then be this change in pressure divided by the initial pressure:</p>\n<p>$$\\text{Fraction decomposed} = \\frac{x}{\\text{Initial pressure}} = \\frac{135 \\text{ mmHg}}{450 \\text{ mmHg}} = 0.3 = 3 \\times 10^{-1}$$</p>\n"
+    },
+    {
+      "_type": "numerical",
+      "body": "<p>The number of correct statement/s involving equilibria in physical processes from the following is ________</p>\n<p>(A) Equilibrium is possible only in a closed system at a given temperature.</p>\n<p>(B) Both the opposing processes occur at the same rate.</p>\n<p>(C) When equilibrium is attained at a given temperature, the value of all its parameters became equal.</p>\n<p>(D) For dissolution of solids in liquids, the solubility is constant at a given temperature.</p>",
+      "answer": "3",
+      "explanation": "<p><b>(A) Equilibrium is possible only in a closed system at a given temperature.</b></p>\n<ul>\n<li>This statement is true. In a closed system, there is no exchange of matter with the surroundings. This allows the reaction to reach equilibrium at a constant temperature.</li>\n</ul>\n<p><b>(B) Both the opposing processes occur at the same rate.</b></p>\n<ul>\n<li>This statement is true. At equilibrium, the forward and reverse reactions occur at the same rate, meaning the concentrations of reactants and products remain constant.</li>\n</ul>\n<p><b>(C) When equilibrium is attained at a given temperature, the value of all its parameters became equal.</b></p>\n<ul>\n<li>This statement is false. When a system reaches equilibrium, it doesn&#39;t mean that the values of all parameters (such as the concentrations of reactants and products) are equal. It means that these values are constant, i.e., they are not changing with time because the rates of the forward and reverse reactions are equal.</li>\n</ul>\n<p><b>(D) For dissolution of solids in liquids, the solubility is constant at a given temperature.</b></p>\n<ul>\n<li>This statement is true. The solubility of a solid in a liquid (in a saturated solution) is indeed constant at a given temperature and pressure.</li>\n</ul>\n<p>Therefore, there are 3 correct statements: (A), (B), and (D).</p>\n"
+    },
+    {
+      "_type": "numerical",
+      "body": "<p>The equilibrium composition for the reaction $$\\mathrm{PCl}_{3}+\\mathrm{Cl}_{2} \\rightleftharpoons \\mathrm{PCl}_{5}$$ at $$298 \\mathrm{~K}$$ is given below:</p>\n<p>$$\\left[\\mathrm{PCl}_{3}\\right]_{\\mathrm{eq}}=0.2 \\mathrm{~mol} \\mathrm{~L}^{-1},\\left[\\mathrm{Cl}_{2}\\right]_{\\mathrm{eq}}=0.1 \\mathrm{~mol} \\mathrm{~L}^{-1},\\left[\\mathrm{PCl}_{5}\\right]_{\\mathrm{eq}}=0.40 \\mathrm{~mol} \\mathrm{~L}^{-1}$$</p>\n<p>If $$0.2 \\mathrm{~mol}$$ of $$\\mathrm{Cl}_{2}$$ is added at the same temperature, the equilibrium concentrations of $$\\mathrm{PCl}_{5}$$ is __________ $$\\times 10^{-2} \\mathrm{~mol} \\mathrm{~L}^{-1}$$</p>\n<p>Given : $$\\mathrm{K}_{\\mathrm{c}}$$ for the reaction at $$298 \\mathrm{~K}$$ is 20</p>",
+      "answer": "49",
+      "explanation": "<p>The initial equilibrium concentrations are given as:<br/><br/>\n$[\\mathrm{PCl}_{3}]_{\\text{eq}} = 0.2 \\, \\mathrm{mol/L}$, $[\\mathrm{Cl}_{2}]_{\\text{eq}} = 0.1 \\, \\mathrm{mol/L}$, $[\\mathrm{PCl}_{5}]_{\\text{eq}} = 0.4 \\, \\mathrm{mol/L}$.</p>\n<p>After adding $0.2 \\, \\mathrm{mol}$ of $\\mathrm{Cl_2}$, the new concentration of $\\mathrm{Cl_2}$ becomes $0.1 + 0.2 = 0.3 \\, \\mathrm{mol/L}$.</p>\n<p>Let the change in concentration be $x$, so at the new equilibrium, the concentrations are:<br/><br/>\n$[\\mathrm{PCl}_{3}] = 0.2 - x \\, \\mathrm{mol/L}$, $[\\mathrm{Cl}_{2}] = 0.3 - x \\, \\mathrm{mol/L}$, $[\\mathrm{PCl}_{5}] = 0.4 + x \\, \\mathrm{mol/L}$.</p>\n<p>Using the equilibrium constant expression $K_c = 20$, we get:<br/><br/>\n$20 = \\frac{0.4+x}{(0.2-x)(0.3-x)}$.</p>\n<p>Solving for $x$, we find $x \\approx 0.086$.</p>\n<p>Therefore, the new equilibrium concentration of $\\mathrm{PCl}_5$ is:<br/><br/>\n$[\\mathrm{PCl}_5]_{\\text{new eq}} = 0.4 + 0.086 = 0.486 \\, \\mathrm{mol/L} = 48.6 \\times 10^{-2} \\, \\mathrm{mol/L}$.</p>\n"
+    },
+    {
+      "_type": "numerical",
+      "body": "<p>For reaction : $$\\mathrm{SO}_{2}(\\mathrm{~g})+\\frac{1}{2} \\mathrm{O}_{2}(\\mathrm{~g}) \\rightleftharpoons \\mathrm{SO}_{3}(\\mathrm{~g})$$</p>\n<p>$$\\mathrm{K}_{\\mathrm{p}}=2 \\times 10^{12}$$ at $$27^{\\circ} \\mathrm{C}$$ and $$1 \\mathrm{~atm}$$ pressure. The $$\\mathrm{K}_{\\mathrm{c}}$$ for the same reaction is ____________ $$\\times 10^{13}$$. (Nearest integer)</p>\n<p>(Given $$\\mathrm{R}=0.082 \\mathrm{~L} \\mathrm{~atm} \\mathrm{~K}^{-1} \\mathrm{~mol}^{-1}$$)</p>",
+      "answer": "1",
+      "explanation": "$$\n\\begin{aligned}\n& \\mathrm{SO}_{2(\\mathrm{~g})}+\\frac{1}{2} \\mathrm{O}_{2(\\mathrm{~g})} \\rightleftharpoons \\mathrm{SO}_{3(\\mathrm{~g})} \\\\\\\\\n& \\mathrm{K}_{\\mathrm{P}}=2 \\times 10^{12} \\text { at } 300 \\mathrm{~K} \\\\\\\\\n& \\mathrm{~K}_{\\mathrm{P}}=\\mathrm{K}_{\\mathrm{C}} \\times(\\mathrm{RT})^{\\Delta \\mathrm{n}_{\\mathrm{g}}} \\\\\\\\\n& \\Rightarrow 2 \\times 10^{12}=\\mathrm{K}_{\\mathrm{C}} \\times(0.082 \\times 300)^{-1 / 2} \\\\\\\\\n& \\Rightarrow \\mathrm{~K}_{\\mathrm{C}}=9.92 \\times 10^{12} \\\\\\\\\n& \\Rightarrow \\mathrm{~K}_{\\mathrm{C}}=0.992 \\times 10^{13}\n\\end{aligned}\n$$"
+    },
+    {
+      "_type": "numerical",
+      "body": " Consider the following equation:\n<br/><br/>\n$2 \\mathrm{SO}_{2}(g)+\\mathrm{O}_{2}(g) \\rightleftharpoons 2 \\mathrm{SO}_{3}(g), \\Delta H=-190 \\mathrm{~kJ}$\n<br/><br/>\nThe number of factors which will increase the yield of $\\mathrm{SO}_{3}$ at equilibrium from the following is _______.<br/><br/>\nA. Increasing temperature<br/><br/>\nB. Increasing pressure<br/><br/>\nC. Adding more $\\mathrm{SO}_{2}$<br/><br/>\nD. Adding more $\\mathrm{O}_{2}$<br/><br/>\nE. Addition of catalyst",
+      "answer": "3",
+      "explanation": "<p>$$\\mathrm{2SO_2+O_2\\rightleftharpoons 2SO_3~~\\Delta H=-190~kJ}$$</p>\n<p>It is an exothermic reaction</p>\n<p>$$\\therefore$$ factor B, C, D will increase the amount of SO$$_3$$.</p>"
+    },
+    {
+      "_type": "numerical",
+      "body": "<p>At 298 K</p>\n<p>$$\\mathrm{N_2~(g)+3H_2~(g)\\rightleftharpoons~2NH_3~(g),~K_1=4\\times10^5}$$</p>\n<p>$$\\mathrm{N_2~(g)+O_2~(g)\\rightleftharpoons~2NO~(g),~K_2=1.6\\times10^{12}}$$</p>\n<p>$$\\mathrm{H_2~(g)+\\frac{1}{2}O_2~(g)\\rightleftharpoons~H_2O~(g),~K_3=1.0\\times10^{-13}}$$</p>\n<p>Based on above equilibria, then equilibrium constant of the reaction, $$\\mathrm{2NH_3(g)+\\frac{5}{2}O_2~(g)\\rightleftharpoons~2NO~(g)+3H_2O~(g)}$$ is ____________ $$\\times10^{-33}$$ (Nearest integer).</p>",
+      "answer": "4",
+      "explanation": "<p>$$\\mathrm{2NH_3(g)\\frac{5}{2}O_2(g)\\rightleftharpoons 2NO(g)+3H_2O(g)}$$</p>\n<p>Clearly, $$\\mathrm{{K_{eq}} = {1 \\over {{k_1}}} \\times {k_2} \\times k_3^3}$$</p>\n<p>$$ = {{1.6 \\times {{10}^{12}} \\times {{10}^{ - 39}}} \\over {4 \\times {{10}^5}}}$$</p>\n<p>$$ = 0.4 \\times {10^{ - 32}}$$</p>\n<p>$$ = 4 \\times {10^{ - 33}}$$</p>"
+    },
+    {
+      "_type": "numerical",
+      "body": "<p>Water decomposes at 2300 K</p>\n<p>$$\\mathrm{H_2O(g)\\to H_2(g)+\\frac{1}{2}O_2(g)}$$</p>\n<p>The percent of water decomposing at 2300 K and 1 bar is ___________ (Nearest integer).</p>\n<p>Equilibrium constant for the reaction is $$2\\times10^{-3}$$ at 2300 K.</p>",
+      "answer": "2",
+      "explanation": "$\\mathrm{H}_{2} \\mathrm{O} \\longrightarrow \\mathrm{H}_{2}+\\frac{1}{2} \\mathrm{O}_{2}$\n<br/><br/>\n$$\n\\begin{aligned}\n& \\mathrm{K}_{\\mathrm{p}}=\\frac{\\mathrm{P}_{\\mathrm{T}}^{\\frac{3}{2}}\\left(1+\\frac{\\alpha}{2}\\right) \\alpha^{\\frac{3}{2}}}{2^{\\frac{1}{2}} \\mathrm{P}_{\\mathrm{T}}\\left(1+\\frac{\\alpha}{2}\\right)^{\\frac{3}{2}}(1-\\alpha)} \\\\\\\\\n& 2 \\times 10^{-3}=\\frac{\\alpha^{\\frac{3}{2}}}{2^{\\frac{1}{2}}}\\left[\\text { as } \\alpha<<1 \\text { and let } \\mathrm{P}_{\\mathrm{T}}=1\\right]\n\\end{aligned}\n$$\n<br/><br/>\n$$\n\\begin{aligned}\n& \\alpha^{\\frac{3}{2}}=2^{\\frac{3}{2}} \\times 10^{-3} \\\\\\\\\n& \\approx 2 \\times 10^{-2}\n\\end{aligned}\n$$\n<br/><br/>\n$\\therefore \\%$ of water decomposition $=2 \\%$"
+    },
+    {
+      "_type": "numerical",
+      "body": "<p>Consider the following reaction approaching equilibrium at 27$$^\\circ$$C and 1 atm pressure</p>\n<p>$$\\mathrm{A+B}$$ $$\\mathrel{\\mathop{\\kern0pt\\rightleftharpoons}\n\\limits_{{k_r} = {{10}^2}}^{{k_f} = {{10}^3}}} $$ $$\\mathrm{C+D}$$</p>\n<p>The standard Gibb's energy change $$\\mathrm{(\\Delta_r G^\\theta)}$$ at 27$$^\\circ$$C is ($$-$$) ___________ kJ mol$$^{-1}$$ (Nearest integer).</p>\n<p>(Given : $$\\mathrm{R=8.3~J~K^{-1}~mol^{-1}}$$ and $$\\mathrm{\\ln 10=2.3}$$)</p>",
+      "answer": "6",
+      "explanation": "<p>The Gibbs energy change for a reaction at standard conditions, $\\Delta_r G^\\theta$, can be calculated using the equation:</p>\n<p>$ \\Delta \\mathrm{G}^\\theta = -\\mathrm{RT} \\ln \\mathrm{K}_{\\mathrm{eq}} $</p>\n<p>Where $\\mathrm{K}_{\\mathrm{eq}}$ is the equilibrium constant given by $\\frac{\\mathrm{K}_{\\mathrm{f}}}{\\mathrm{K}_{\\mathrm{b}}}$. For the reaction:</p>\n<p>$ \\mathrm{A + B} \\rightleftharpoons \\mathrm{C + D} $</p>\n<p>The forward rate constant, $k_f$, is $10^3$, and the reverse rate constant, $k_r$, is $10^2$. Therefore,</p>\n<p>$ \\mathrm{K}_{\\mathrm{eq}} = \\frac{10^3}{10^2} = 10 $</p>\n<p>Substitute the values into the Gibbs energy change formula:</p>\n<p>$ \\Delta \\mathrm{G}^\\theta = -\\mathrm{RT} \\ln 10 $</p>\n<p>where $R = 8.3 \\, \\mathrm{J \\, K^{-1} \\, mol^{-1}}$ and $T = 300 \\, \\mathrm{K}$ (since the temperature is $27^\\circ \\mathrm{C}$ which converts to 300 K). The natural logarithm of 10 is approximately 2.3.</p>\n<p>$ \\Delta \\mathrm{G}^\\theta = -(8.3 \\times 300 \\times 2.3) $</p>\n<p>Calculating gives:</p>\n<p>$ \\Delta \\mathrm{G}^\\theta = -5711 \\, \\mathrm{J \\, mol^{-1}} $</p>\n<p>Converting to kJ:</p>\n<p>$ \\Delta \\mathrm{G}^\\theta = -5.7 \\, \\mathrm{kJ \\, mol^{-1}} $</p>\n<p>Rounding to the nearest integer, the standard Gibb's energy change is approximately $-6 \\, \\mathrm{kJ \\, mol^{-1}}$.</p>"
+    },
+    {
+      "_type": "numerical",
+      "body": "<p>At $$298 \\mathrm{~K}$$, the equilibrium constant is $$2 \\times 10^{15}$$ for the reaction :</p>\n<p>$$\\mathrm{Cu}(\\mathrm{s})+2 \\mathrm{Ag}^{+}(\\mathrm{aq}) \\rightleftharpoons \\mathrm{Cu}^{2+}(\\mathrm{aq})+2 \\mathrm{Ag}(\\mathrm{s})$$</p>\n<p>The equilibrium constant for the reaction</p>\n<p>$$\n\\frac{1}{2} \\mathrm{Cu}^{2+}(\\mathrm{aq})+\\mathrm{Ag}(\\mathrm{s}) \\rightleftharpoons \\frac{1}{2} \\mathrm{Cu}(\\mathrm{s})+\\mathrm{Ag}^{+}(\\mathrm{aq})\n$$</p>\n<p>is $$x \\times 10^{-8}$$. The value of $$x$$ is _____________. (Nearest Integer)</p>",
+      "answer": "2",
+      "explanation": "$\\mathrm{Cu}(\\mathrm{s})+2 \\mathrm{Ag}^{+}(\\mathrm{aq}) \\rightleftharpoons \\mathrm{Cu}^{2+}(\\mathrm{aq})+2 \\mathrm{Ag}(\\mathrm{s})$\n<br/><br/>\n$k=2 \\times 10^{15}$\n<br/><br/>\n$\\frac{1}{2} \\mathrm{Cu}(\\mathrm{s})+\\mathrm{Ag}^{+}(\\mathrm{aq}) \\rightleftharpoons \\mathrm{Cu}^{+2}(\\mathrm{aq})+2 \\mathrm{Ag}(\\mathrm{s})$\n<br/><br/>\n$\\mathrm{K}^{\\prime}=\\frac{1}{(\\mathrm{~K})^{1 / 2}}=\\frac{1}{\\left(2 \\times 10^{15}\\right)^{1 / 2}}$\n<br/><br/>\n$=2.23 \\times 10^{-8}$\n<br/><br/>\n$x \\simeq 2$"
+    },
+    {
+      "_type": "numerical",
+      "body": "<p>A box contains 0.90 g of liquid water in equilibrium with water vapour at 27$$^\\circ$$C. The equilibrium vapour pressure of water at 27$$^\\circ$$C is 32.0 Torr. When the volume of the box is increased, some of the liquid water evaporates to maintain the equilibrium pressure. If all the liquid water evaporates, then the volume of the box must be __________ litre. [nearest integer]</p>\n<p>(Given : R = 0.082 L atm K<sup>$$-$$1</sup> mol<sup>$$-$$1</sup>)</p>\n<p>(Ignore the volume of the liquid water and assume water vapours behave as an ideal gas.)</p>",
+      "answer": "29",
+      "explanation": "<p>We know, 760 Torr = 1 atm</p>\n<p>$$\\therefore$$ 32 Torr = $${{32} \\over {760}}$$ atm</p>\n<p>As all the liquid water evaporates so entire water is in gaseous state.</p>\n<p>$$\\therefore$$ Weight of water vapour = 0.9 g</p>\n<p>$$\\therefore$$ Moles of water vapour (n) = $${{0.9} \\over {18}}$$</p>\n<p>Pressure (P) = $${{32} \\over {760}}$$ atm</p>\n<p>Temperature (T) = (27 + 273) K = 300 K</p>\n<p>R = 0.082 L atm K<sup>$$-$$1</sup> mol<sup>$$-$$1</sup></p>\n<p>Given water vapour act as an ideal gas, so we can apply ideal gas equation.</p>\n<p>From ideal gas equation,</p>\n<p>PV = nRT</p>\n<p>$$ \\Rightarrow {{32} \\over {760}} \\times v = {{0.9} \\over {18}} \\times 0.082 \\times 300$$</p>\n<p>$$ \\Rightarrow v = 29$$ L</p>"
+    },
+    {
+      "_type": "numerical",
+      "body": "<p>2O<sub>3</sub>(g) $$\\rightleftharpoons$$ 3O<sub>2</sub>(g)</p>\n<p>At 300 K, ozone is fifty percent dissociated. The standard free energy change at this temperature and 1 atm pressure is ($$-$$) ____________ J mol<sup>$$-$$1</sup>. (Nearest integer)</p>\n<p>[Given : ln 1.35 = 0.3 and R = 8.3 J K<sup>$$-$$1</sup> mol<sup>$$-$$1</sup>]</p>",
+      "answer": "747",
+      "explanation": "$\\underset{1-x}{2 \\mathrm{O}_3(\\mathrm{~g})} \\rightleftharpoons \\underset{\\frac{3 \\mathrm{x}}{2}}{3 \\mathrm{O}_2(\\mathrm{~g})}$<br/><br/>\nGiven, $x=0.5$\n<br/><br/>\n$\\therefore \\mathrm{k}_{\\mathrm{p}}=\\frac{[3(0.5)]^{3} \\times 1}{[2]^{3} \\times(0.5)^{2} \\times 1.25}$\n<br/><br/>\n$\\therefore \\mathrm{k}_{\\mathrm{p}}=\\frac{27}{8} \\times \\frac{0.5}{1.25}=1.35$\n<br/><br/>\n$$\n\\begin{aligned}\n\\Delta \\mathrm{G}^{\\circ} &=-2.303 \\mathrm{RT} \\log \\mathrm{k}_{\\mathrm{p}} \\\\\\\\\n&=-2.303 \\times 8.3 \\times 300 \\log 1.35 \\\\\\\\\n&=-8.3 \\times 300 \\ln (1.35) \\\\\\\\\n&=-747 \\mathrm{~J} \\mathrm{~mol}^{-1}\n\\end{aligned}\n$$"
+    },
+    {
+      "_type": "numerical",
+      "body": "The reaction rate for the reaction<br><br>[PtCl<sub>4</sub>]<sup>2$$-$$</sup> + H<sub>2</sub>O $$\\rightleftharpoons$$ [Pt(H<sub>2</sub>O)Cl<sub>3</sub>]<sup>$$-$$</sup> + Cl<sup>$$-$$</sup><br><br>was measured as a function of concentrations of different species. It was observed that $${{ - d\\left[ {{{\\left[ {PtC{l_4}} \\right]}^{2 - }}} \\right]} \\over {dt}} = 4.8 \\times {10^{ - 5}}\\left[ {{{\\left[ {PtC{l_4}} \\right]}^{2 - }}} \\right] - 2.4 \\times {10^{ - 3}}\\left[ {{{\\left[ {Pt({H_2}O)C{l_3}} \\right]}^ - }} \\right]\\left[ {C{l^ - }} \\right]$$.<br><br>where square brackets are used to denote molar concentrations. The equilibrium constant K<sub>c</sub> = ____________ . (Nearest integer)",
+      "answer": "0",
+      "explanation": "The rate equation provided in your question describes the rates of the forward and reverse reactions for this chemical system. The equilibrium constant, $K_c$, is the ratio of the forward rate constant ($k_f$) to the reverse rate constant ($k_r$). At equilibrium, the rate of the forward reaction is equal to the rate of the reverse reaction, so the rate equation simplifies to:\n\n<br/><br/>$$k_f[\\text{{PtCl}}_4]^{2-} = k_r[\\text{{Pt(H}}_2\\text{{O)Cl}}_3]^-[\\text{{Cl}}^-]$$\n\n<br/><br/>Given the rate equation:\n\n<br/><br/>$$-\\frac{d[\\text{{PtCl}}_4]^{2-}}{dt} = 4.8 \\times 10^{-5} [\\text{{PtCl}}_4]^{2-} - 2.4 \\times 10^{-3} [\\text{{Pt(H}}_2\\text{{O)Cl}}_3]^-[\\text{{Cl}}^-]$$\n\n<br/><br/>At equilibrium, $-\\frac{d[\\text{{PtCl}}_4]^{2-}}{dt} = 0$, so:\n\n<br/><br/>$$0 = 4.8 \\times 10^{-5} [\\text{{PtCl}}_4]^{2-} - 2.4 \\times 10^{-3} [\\text{{Pt(H}}_2\\text{{O)Cl}}_3]^-[\\text{{Cl}}^-]$$\n\n<br/><br/>Rearranging terms, we find:\n\n<br/><br/>$$4.8 \\times 10^{-5} [\\text{{PtCl}}_4]^{2-} = 2.4 \\times 10^{-3} [\\text{{Pt(H}}_2\\text{{O)Cl}}_3]^-[\\text{{Cl}}^-]$$\n\n<br/><br/>Now, the equilibrium constant $K_c$ is defined as the ratio of the concentrations of the products to the reactants, each raised to the power of their stoichiometric coefficients. For the reaction in question, we have:\n\n<br/><br/>$$K_c = \\frac{[\\text{{Pt(H}}_2\\text{{O)Cl}}_3]^-[\\text{{Cl}}^-]}{[\\text{{PtCl}}_4]^{2-}}$$\n\n<br/><br/>Dividing both sides of our rate equation by $[\\text{{PtCl}}_4]^{2-}$, we find that:\n\n<br/><br/>$$K_c = \\frac{4.8 \\times 10^{-5}}{2.4 \\times 10^{-3}} = \\frac{1}{50}$$ = 0.02\n\n<br/><br/>So, the equilibrium constant $K_c$ for this reaction is approximately 0, when rounded to the nearest integer."
+    },
+    {
+      "_type": "numerical",
+      "body": "The OH<sup>$$-$$</sup> concentration in a mixture of 5.0 mL of 0.0504 M NH<sub>4</sub>Cl and 2 mL of 0.0210 M NH<sub>3</sub> solution is x $$\\times$$ 10<sup>$$-$$6</sup> M. The value of x is ___________. (Nearest integer)<br><br>[Given K<sub>w</sub> = 1 $$\\times$$ 10<sup>$$-$$14</sup> and K<sub>b</sub> = 1.8 $$\\times$$ 10<sup>$$-$$5</sup>]",
+      "answer": "3",
+      "explanation": "$$\\left[ {NH_4^ + } \\right]$$ = 0.0504 &amp; [NH<sub>3</sub>] = 0.0210<br><br>So, $${K_b} = {{[NH_4^ + ][H{O^ - }]} \\over {[N{H_3}]}}$$<br><br>$$[H{O^ - }] = {{{K_b} \\times [N{H_3}]} \\over {[NH_4^ + ]}} = 1.8 \\times {10^{ - 5}} \\times {2 \\over 5} \\times {{210} \\over {504}} = 3 \\times {10^{ - 6}}$$"
+    },
+    {
+      "_type": "numerical",
+      "body": "The equilibrium constant for the reaction<br><br>A(s) $$\\rightleftharpoons$$ M(s) + $${1 \\over 2}$$O<sub>2</sub>(g)<br><br>is K<sub>p</sub> = 4. At equilibrium, the partial pressure of O<sub>2</sub> is _________ atm. (Round off to the nearest integer)",
+      "answer": "16",
+      "explanation": "<p>In the given equilibrium, the solid substances do not contribute to the equilibrium constant expression since their activities are considered to be 1.</p>\n<p>For the reaction:</p>\n<p>$ \\text{A(s)} \\rightleftharpoons \\text{M(s)} + \\frac{1}{2}\\text{O}_2(\\text{g}) $</p>\n<p>The equilibrium constant, $ K_p $, is given by:</p>\n<p>$ K_p = P_{\\text{O}_2}^{n} $</p>\n<p>where $ P_{\\text{O}_2} $ is the partial pressure of $ \\text{O}_2 $ and $ n $ represents the stoichiometric coefficient of $ \\text{O}_2 $ in the balanced chemical reaction, which is $ \\frac{1}{2} $. Therefore, the expression for $ K_p $ becomes:</p>\n<p>$ K_p = \\left( P_{\\text{O}_2} \\right)^{\\frac{1}{2}} $</p>\n<p>Given that $ K_p = 4 $, substituting into the equation gives:</p>\n<p>$ 4 = \\left( P_{\\text{O}_2} \\right)^{\\frac{1}{2}} $</p>\n<p>To find $ P_{\\text{O}_2} $, square both sides of the equation:</p>\n<p>$ 4^2 = P_{\\text{O}_2} $</p>\n<p>$ 16 = P_{\\text{O}_2} $</p>\n<p>Thus, the partial pressure of $ \\text{O}_2 $ at equilibrium is $\\boxed{16}$ atm.</p>"
+    },
+    {
+      "_type": "numerical",
+      "body": "PCl<sub>5</sub> $$\\rightleftharpoons$$ PCl<sub>3</sub> + Cl<sub>2</sub><br><br>K<sub>c</sub> = 1.844<br><br>3.0 moles of PCl<sub>5</sub> is introduced in a 1 L closed reaction vessel at 380 K. The number of moles of PCl<sub>5</sub> at equilibrium is ______________ $$\\times$$ 10<sup>$$-$$3</sup>. (Round off to the Nearest Integer)",
+      "answer": "1400",
+      "explanation": "PCl<sub>5(g)</sub> $$\\rightleftharpoons$$ PCl<sub>3(g)</sub> + Cl<sub>2(g)</sub> K<sub>2</sub> = 1.844<br><br>t = 0 3moles<br><br>t = $$\\infty$$ x x<br><br>$$ \\Rightarrow {{[PC{l_3}][C{l_2}]} \\over {[PC{l_5}]}} = {{{x^2}} \\over {3 - x}} = 1.844$$<br><br>$$ \\Rightarrow {x^2} + 1.844 - 5.532 = 0$$<br><br>$$ \\Rightarrow x = {{ - 1.844 + \\sqrt {{{(1.844)}^2} + 4 \\times 5.532} } \\over 2}$$<br><br>$$ \\cong 1.604$$<br><br>$$\\Rightarrow$$ Moles of PCl<sub>5</sub> = 3 $$-$$ 1.604 $$\\cong$$ 1.396"
+    },
+    {
+      "_type": "numerical",
+      "body": "Assuming that Ba(OH)<sub>2</sub> is completely ionised in aqueous solution under the given conditions the concentration of H<sub>3</sub>O<sup>+</sup> ions in 0.005 M aqueous solution of Ba(OH)<sup>2</sup> at 298 K is ______________ $$\\times$$ 10<sup>$$-$$12</sup> mol L<sup>$$-$$1</sup>. (Nearest integer)",
+      "answer": "1",
+      "explanation": "$$Ba{(OH)_2} \\to B{a^{ + 2}} + 2O{H^ - } \\downarrow 2 \\times 0.005 = 0.01 = {10^{ - 2}}$$<br><br>At 298 K : in aq. solution $$[{H_3}{O^ + }][O{H^ - }] = {10^{ - 14}}$$<br><br>$$[{H_3}{O^ + }] = {{{{10}^{ - 14}}} \\over {{{10}^{ - 2}}}} = {10^{ - 12}}$$"
+    },
+    {
+      "_type": "numerical",
+      "body": "Value of K<sub>P</sub> for the equilibrium reaction<br><br>N<sub>2</sub>O<sub>4(g)</sub> $$\\rightleftharpoons$$ 2NO<sub>2(g)</sub> at 288 K is 47.9. The K<sub>C</sub> for this reaction at same temperature is ____________. (Nearest integer)<br><br>(R = 0.083 L bar K<sup>$$-$$1</sup> mol<sup>$$-$$1</sup>)",
+      "answer": "2",
+      "explanation": "<p>For the equilibrium reaction </p>\n<p>$ \\text{N}_2\\text{O}_4(g) \\rightleftharpoons 2\\text{NO}_2(g) $</p>\n<p>the relationship between $ K_P $ and $ K_C $ is given by the equation:</p>\n<p>$ K_P = K_C (RT)^{\\Delta n} $</p>\n<p>where $ \\Delta n $ is the change in the number of moles of gas, $ R $ is the ideal gas constant, and $ T $ is the temperature in Kelvin. </p>\n<p>For the given reaction:</p>\n<p>$ \\Delta n = 2 - 1 = 1 $</p>\n<p>Given:</p>\n\n<p><p>$ K_P = 47.9 $</p></p>\n<p><p>$ R = 0.083 \\, \\text{L bar K}^{-1} \\text{mol}^{-1} $</p></p>\n<p><p>$ T = 288 \\, \\text{K} $</p></p>\n\n<p>Substitute these values into the equation:</p>\n<p>$ 47.9 = K_C (0.083 \\times 288)^{1} $</p>\n<p>$ K_C = \\frac{47.9}{0.083 \\times 288} $</p>\n<p>Calculate:</p>\n<p>$ 0.083 \\times 288 = 23.904 $</p>\n<p>$ K_C = \\frac{47.9}{23.904} $</p>\n<p>$ K_C \\approx 2.0033 $</p>\n<p>Rounding to the nearest integer, the value of $ K_C $ is </p>\n<p>$ \\boxed{2} $</p>"
+    },
+    {
+      "_type": "numerical",
+      "body": "2SO<sub>2</sub>(g) + O<sub>2</sub>(g) $$\\rightleftharpoons$$ 2SO<sub>3</sub>(g)<br><br>In an equilibrium mixture, the partial pressures are <br><br>P<sub>SO<sub>3</sub></sub> = 43 kPa; P<sub>O<sub>2</sub></sub> = 530 Pa and P<sub>SO<sub>2</sub></sub> = 45 kPa. The equilibrium constant K<sub>P</sub> = ___________ $$\\times$$ 10<sup>$$-$$2</sup>. (Nearest integer)",
+      "answer": "172",
+      "explanation": "On reaction, 2SO<sub>2</sub>(g) + O<sub>2</sub>(g) $$\\rightarrow$$ 2SO<sub>3</sub>(g)<br/><br/>Given values are : p<sub>SO<sub>3</sub></sub> = 45kPa, p<sub>SO<sub>2</sub></sub> = 530 Pa = 0.53 kPa<br/><br/>p<sub>SO<sub>2</sub></sub> = 43 kPa<br/><br/>Now, $${K_p} = {{{{[{p_{S{O_3}(g)}}]}^2}} \\over {{{[{p_{S{O_2}(g)}}]}^2} \\times [{p_{{O_2}}}]}}$$<br/><br/>On putting given values, we get<br/><br/>$$ \\Rightarrow {K_p} = {{{{(43)}^2}} \\over {{{(45)}^2} \\times 0.53}}$$<br/><br/>$$ = {{1849} \\over {2025 \\times 0.53}} = {{1849} \\over {1073.25}}$$<br/><br/>$$ = 1.7228$$<br/><br/>$$ = {{1.7228 \\times {{10}^2}} \\over {{{10}^2}}} = 172.28 \\times {10^{ - 2}} = 172$$<br/><br/>Hence, the equilibrium constant, K<sub>p</sub> = 172."
+    },
+    {
+      "_type": "numerical",
+      "body": "The gas phase reaction $$2A(g) \\rightleftharpoons {A_2}(g)$$ at 400 K has $$\\Delta$$G<sup>o</sup> = + 25.2 kJ mol<sup>-1</sup>.<br><br>The equilibrium constant K<sub>C</sub> for this reaction is ________ $$\\times$$ 10<sup>$$-$$2</sup>. (Round off to the Nearest Integer).<br><br>[Use : R = 8.3 J mol<sup>$$-$$1</sup> K<sup>$$-$$1</sup>, ln 10 = 2.3 log<sub>10</sub> 2 = 0.30, 1 atm = 1 bar]<br><br>[antilog ($$-$$0.3) = 0.501]",
+      "answer": "2",
+      "explanation": "Using formula,<br><br>$$\\Delta$$G$$^\\circ$$ = $$-$$ RTln(K<sub>p</sub>)<br><br>$$ \\Rightarrow $$ 25.2 $$\\times$$ 10<sup>3</sup> = $$-$$8.3 $$\\times$$ 400 $$\\times$$ 2.3 log (K<sub>p</sub>)<br><br>$$ \\Rightarrow $$ K<sub>p</sub> = 10<sup>$$-$$3.3</sup><br><br>= 10<sup>$$-$$3</sup> $$\\times$$ 0.501<br><br>= 5.01 $$\\times$$ 10<sup>$$-$$4</sup> Bar<sup>$$-$$1</sup><br><br>Also, <br><br>$${{{K_p}} \\over {{K_c}}} = {(RT)^{\\Delta {n_g}}}$$<br><br>$$ \\Rightarrow {{{K_p}} \\over {{K_c}}} = {(RT)^{ - 1}}$$<br><br>$$ \\Rightarrow {K_c} = {K_p}(RT)$$<br><br>$$ = 5.01 \\times {10^{ - 4}} \\times 8.3 \\times 400$$<br><br>$$ = 1.66 \\times {10^{ - 5}}$$ m<sup>3</sup>/mole<br><br>$$ = 1.66 \\times {10^{ - 2}}$$ L/mol"
+    },
+    {
+      "_type": "numerical",
+      "body": "Consider the reaction<br><br> $$N_{2}O_{4}\\left( g\\right)  \\rightleftharpoons 2NO_{2}\\left( g\\right)   $$<br><br>The temperature at which K<sub>C</sub> = 20.4 and K<sub>P</sub> = 600.1, is ____________ K. (Round off to the Nearest Integer). [Assume all gases are ideal and R = 0.0831 L bar K<sup>$$-$$1</sup> mol<sup>$$-$$1</sup>]",
+      "answer": "354",
+      "explanation": "N<sub>2</sub>O<sub>4</sub>(g) $$\\rightleftharpoons$$ 2NO<sub>2</sub>(g)<br><br>$$\\Delta$$n<sub>g</sub> = 2 $$-$$ 1 = 1<br><br>K<sub>P</sub> = K<sub>C</sub>(RT)<sup>$$\\Delta$$n<sub>g</sub></sup><br><br>600.1 = 20.4 (0.0831 $$\\times$$ T)<sup>1</sup><br><br>$$ \\Rightarrow $$ T = $${{600.1} \\over {20.4 \\times 0.0831}}$$ = 354 K"
+    },
+    {
+      "_type": "numerical",
+      "body": "For the reaction $$A(g) \\rightleftharpoons B(g)$$ at 495 K, $$\\Delta$$<sub>r</sub>G$$^\\circ$$ = $$-$$9.478 kJ mol<sup>$$-$$1</sup>.<br>If we start the reaction in a closed container at 495 K with 22 millimoles of A, the amount of B in the equilibrium mixture is ____________ millimoles.<br> (Round off to the Nearest Integer). [R = 8.314 J mol<sup>$$-$$1</sup> K<sup>$$-$$1</sup>; ln 10 = 2.303]",
+      "answer": "20",
+      "explanation": "$$\\Delta$$G<sup>o</sup> = $$-$$RT ln Keq<br><br>$$-$$9.478 $$\\times$$ 10<sup>3</sup> = $$-$$495 $$\\times$$ 8.314 ln Keq<br><br>ln Keq = 2.303 = ln 10<br><br>So, Keq = 10<br><br>Now, A(g) $$\\rightleftharpoons$$ B(g)<br><br>$$\\matrix{\n   {t = 0} &amp; {22} &amp; 0  \\cr \n   {t = t} &amp; {22 - x} &amp; x  \\cr \n\n } $$<br><br>$$Keq = {{[B]} \\over {[A]}} = {x \\over {(22 - x)}} = 10$$<br><br>x = 20<br><br>So, millimoles of B = 20"
+    },
+    {
+      "_type": "numerical",
+      "body": "At 1990 K and 1 atm pressure, there are equal number of Cl<sub>2</sub>, molecules and Cl atoms in the\nreaction mixture. The value of K<sub>p</sub> for the reaction Cl<sub>2 (g)</sub> $$ \\rightleftharpoons $$ 2Cl<sub>(g)</sub> under the above conditions\nis x $$ \\times $$ 10<sup>-1</sup>.<br>\nThe value of x is _______. (Rounded off to the nearest integer)",
+      "answer": "5",
+      "explanation": "Cl<sub>2</sub>(g) $$\\rightleftharpoons$$ 2Cl(g)<br/><br/>Let moles of both of Cl<sub>2</sub> and Cl molecule be x.<br/><br/>Partial pressure of Cl is, $${p_{Cl}} = {x \\over {2x}} \\times 1 = {1 \\over 2}$$<br/><br/>Partial pressure of Cl<sub>2</sub> is, $${p_{C{l_2}}} = {x \\over {2x}} \\times 1 = {1 \\over 2}$$<br/><br/>Now, $${K_p} = {{{{({p_{Cl}})}^2}} \\over {{p_{C{l_2}}}}} $$\n<br/><br/>$$\\Rightarrow {K_p} = {{{{(1/2)}^2}} \\over {1/2}} = {1 \\over 2} = 0.5$$<br/><br/>= 5 $$\\times$$ 10<sup>$$-$$1</sup><br/><br/>Hence, x $$\\times$$ 10<sup>$$-$$1</sup><br/><br/>x = 5"
+    },
+    {
+      "_type": "numerical",
+      "body": "For the reaction A<sub>(g)</sub> $$ \\to $$ B<sub>(g)</sub> the value of the equilibrium constant at 300 K and 1 atm is equal to 100.0. The value of $$\\Delta $$<sub>r</sub>G for the reaction at 300 K and 1 atm in J mol<sup>-1</sup> is – xR, where x is _______. (Rounded off to the nearest integer)<br>\n[R = 8.31 J mol<sup>–1</sup>K<sup>-1</sup> and ln 10 = 2.3)",
+      "answer": "1380",
+      "explanation": "For a reaction, A(g) $$\\to$$ B(g)<br/><br/>Given, K<sub>p</sub> (equilibrium constant) = 100<br/><br/>Temperature = 300 K<br/><br/>Pressure = 1 atm<br/><br/>Formula used, $$\\Delta$$G$$^\\circ$$ = $$-$$ RT ln K<sub>p</sub> .... (i)<br/><br/>Here, $$\\Delta$$G$$^\\circ$$ = standard Gibb's free energy<br/><br/>R = gas constant = 8.31 J mol<sup>$$-$$1</sup> K<sup>$$-$$1</sup><br/><br/>Put value in Eq. (i), we get<br/><br/>$$\\Delta$$G$$^\\circ$$ = $$-$$ R (300) ln 100<br/><br/>$$\\Delta$$G$$^\\circ$$ = $$-$$ R (300) (2) ln (10)<br/><br/>$$\\because$$ ln (10) = 2.3<br/><br/>$$\\Delta$$G$$^\\circ$$ = $$-$$ R(300) (2) (2.3)<br/><br/>$$\\Delta$$G$$^\\circ$$ = $$-$$ 1380 R<br/><br/>Hence, $$\\Delta$$G$$^\\circ$$ = $$-$$ xR<br/><br/>$$ \\therefore $$ x = 1380"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "In the following system, $\\mathrm{PCl}_5(\\mathrm{~g}) \\leftrightharpoons \\mathrm{PCl}_3(\\mathrm{~g})+\\mathrm{Cl}_2(\\mathrm{~g})$ at equilibrium, upon addition of xenon gas at constant T \\& p , the concentration of\n",
+      "options": [
+        {
+          "key": "A",
+          "value": "$\\mathrm{PCl}_5, \\mathrm{PCl}_3 \\& \\mathrm{Cl}_2$ remain constant\n"
+        },
+        {
+          "key": "B",
+          "value": "$\\mathrm{PCl}_3$ will increase\n"
+        },
+        {
+          "key": "C",
+          "value": " $\\mathrm{Cl}_2$ will decrease\n"
+        },
+        {
+          "key": "D",
+          "value": " $\\mathrm{PCl}_5$ will increase"
+        }
+      ],
+      "answer": "B",
+      "explanation": "<p>On addition of inert gas at constant P & T , reaction moves in the direction of greater no. of moles so it will shift in forward direction, so mole of $\\left[\\mathrm{PCl}_5\\right]$ decrease and $\\left[\\mathrm{PCl}_3\\right] \\&\\left[\\mathrm{Cl}_2\\right]$ will increase.</p>\n<p>But due to increasing volume concentration of all species will be decreased.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Given below are two statements :</p>\n<p><b>Statement I :</b> A catalyst cannot alter the equilibrium constant $\\left(\\mathrm{K}_{\\mathrm{c}}\\right)$ of the reaction, temperature remaining constant.</p>\n<p><b>Statement II :</b> A homogenous catalyst can change the equilibrium composition of a system, temperature remaining constant.</p>\n<p>In the light of the above statements, choose the correct answer from the options given below</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": " Statement I is true but Statement II is false\n"
+        },
+        {
+          "key": "B",
+          "value": "Statement I is false but Statement II is true\n"
+        },
+        {
+          "key": "C",
+          "value": " Both Statement I and Statement II are true\n"
+        },
+        {
+          "key": "D",
+          "value": "Both Statement I and Statement II are false"
+        }
+      ],
+      "answer": "A",
+      "explanation": "<p>Let's analyze both statements:</p>\n\n<p>Statement I: \"A catalyst cannot alter the equilibrium constant ($$K_c$$) of the reaction, temperature remaining constant.\"  </p>\n\n\n<p><p>A catalyst speeds up both the forward and reverse reactions equally, allowing the system to reach equilibrium faster.  </p></p>\n<p><p>However, it does not change the energy difference between reactants and products (i.e., the Gibbs free energy change), which directly determines the equilibrium constant.  </p></p>\n<p><p>Therefore, this statement is true.</p></p>\n\n\n<p>Statement II: \"A homogenous catalyst can change the equilibrium composition of a system, temperature remaining constant.\"  </p>\n\n\n<p><p>A homogeneous catalyst acts in the same phase as the reactants and, like any catalyst, it only helps the reaction reach equilibrium more quickly.  </p></p>\n<p><p>It does not alter the equilibrium position, meaning the relative concentrations of reactants and products at equilibrium remain unchanged if the temperature is constant.  </p></p>\n<p><p>Thus, this statement is false.</p></p>\n\n<p>In summary:</p>\n\n<p><p>Statement I is true.</p></p>\n<p><p>Statement II is false.</p></p>\n\n<p>The correct answer is: Option A.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Consider the following chemical equilibrium of the gas phase reaction at a constant temperature : $\\mathrm{A}(\\mathrm{g}) \\rightleftharpoons \\mathrm{B}(\\mathrm{g})+\\mathrm{C}(\\mathrm{g})$</p>\n<p>If $p$ being the total pressure, $K_p$ is the pressure equilibrium constant and $\\alpha$ is the degree of dissociation, then which of the following is true at equilibrium?</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "<p>If $K_p$ value is extremely high compared to $p, \\alpha$ becomes much less than unity</p>"
+        },
+        {
+          "key": "B",
+          "value": "When p increases $\\alpha$ increases\n"
+        },
+        {
+          "key": "C",
+          "value": "If p value is extremely high compared to $\\mathrm{K}_{\\mathrm{p}}, \\alpha \\approx 1$\n"
+        },
+        {
+          "key": "D",
+          "value": " When $p$ increases $\\alpha$ decreases"
+        }
+      ],
+      "answer": "D",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Consider the equilibrium</p>\n<p>$$ \\mathrm{CO}(\\mathrm{g})+3 \\mathrm{H}_2(\\mathrm{~g}) \\rightleftharpoons \\mathrm{CH}_4(\\mathrm{~g})+\\mathrm{H}_2 \\mathrm{O}(\\mathrm{~g}) $$</p>\n<p>If the pressure applied over the system increases by two fold at constant temperature then</p>\n<p>(A) Concentration of reactants and products increases.</p>\n<p>(B) Equilibrium will shift in forward direction.</p>\n<p>(C) Equilibrium constant increases since concentration of products increases.</p>\n<p>(D) Equilibrium constant remains unchanged as concentration of reactants and products remain same.</p>\n<p>Choose the <b>correct </b>answer from the options given below :</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "(A) and (B) only"
+        },
+        {
+          "key": "B",
+          "value": " (A), (B) and (D) only"
+        },
+        {
+          "key": "C",
+          "value": "(B) and (C) only"
+        },
+        {
+          "key": "D",
+          "value": "(A), (B) and (C) only"
+        }
+      ],
+      "answer": "A",
+      "explanation": "<p>Given equilibrium</p>\n<p>$$\\mathrm{\\mathop {C{O_{(g)}} + 3{H_2}(g)}\\limits_{(n = 4)}} \\rightleftharpoons \\mathrm{\\mathop {C{H_4}_{(g)} + {H_2}O(g)}\\limits_{(n = 2)}}$$</p>\n<p>Temperature $\\to$ Constant</p>\n<p>Pressure $\\to$ Increases by two fold.</p>\n<p>It is based on Le Chatelier's principle. The principle states that if a change of condition is applied to a system in equilibrium, the system will shift in a direction that relieves the stress.</p>\n<p>When pressure increases in a chemical equilibrium, the equilibrium shifts towards the side of the reaction with fewer moles of gas molecules. According to the principle, the reaction will favor the side that provides fewer gas molecules to counteract the increased pressure.</p>\n<p>In this equilibrium, fewer gas molecules are on the produce side and on increase in pressure, equilibrium shifts towards products - forwarded reaction occurs. As a result, concentration of the products increases.</p>\n<p>A) Concentration of reactants and products increases.</p>\n<p>$-$ Correct</p>\n<p>With increase in pressure, at constant temperature, the concentration of both reactants and products will increase because the same amount of gas is now in a smaller volume.</p>\n<p>(B) Equilibrium will shift in forward direction</p>\n<p>Correct</p>\n<p>Increase in pressure causes product formation as the equilibrium shift is in the forward direction.</p>\n<p>(C) Equilibrium constant increases since concentration of products increases.</p>\n<p>Not correct.</p>\n<p>The expression for equilibrium constant (K$_c$) for the given equilibrium can be written as</p>\n<p>$${K_c} = {{[C{H_4}][{H_2}O]} \\over {[CO]{{[{H_2}]}^3}}}$$</p>\n<p>Equilibrium constant is not changed with increase in pressure and increase in concentration of reactants or products.</p>\n<p>So, the equilibrium constant value is does not affected by change in concentration. If the change increase in concentration of product takes place, the equilibrium position will be shifted to counteract the change. So, equilibrium const value does not increase. Statement is incorrect.</p>\n<p>(D) Equilibrium constant remains unchanged as concentration of reactants and products remain same.</p>\n<p>State is incorrect.</p>\n<p>In the reaction, increase in pressure causes changes in the concentration of rectants and products but the equilibrium constant will not change.</p>\n<p>Statements (A) and (B) are correct.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Consider the reaction</p>\n<p>$$\\mathrm{X}_2 \\mathrm{Y}(\\mathrm{~g}) \\rightleftharpoons \\mathrm{X}_2(\\mathrm{~g})+\\frac{1}{2} \\mathrm{Y}_2(\\mathrm{~g})$$</p>\n<p>The equation representing correct relationship between the degree of dissociation (x) of $\\mathrm{X}_2 \\mathrm{Y}(\\mathrm{g})$ with its equilibrium constant Kp is __________.</p>\n<p>Assume $x$ to be very very small.</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "$x=\\sqrt[3]{\\frac{\\mathrm{Kp}}{\\mathrm{p}}}$\n"
+        },
+        {
+          "key": "B",
+          "value": "$x=\\sqrt[3]{\\frac{\\mathrm{Kp}}{2 \\mathrm{p}}}$\n"
+        },
+        {
+          "key": "C",
+          "value": "$x=\\sqrt[3]{\\frac{2 \\mathrm{Kp}^2}{\\mathrm{p}}}$\n"
+        },
+        {
+          "key": "D",
+          "value": "$x=\\sqrt[3]{\\frac{2 \\mathrm{Kp}}{\\mathrm{p}}}$"
+        }
+      ],
+      "answer": "C",
+      "explanation": "<p>To determine the relationship between the degree of dissociation ($x$) of $\\mathrm{X}_2 \\mathrm{Y}(\\mathrm{g})$ and its equilibrium constant $K_p$, let's analyze the reaction:</p>\n<p>$ \\mathrm{X}_2 \\mathrm{Y}(\\mathrm{g}) \\rightleftharpoons \\mathrm{X}_2(\\mathrm{g}) + \\frac{1}{2} \\mathrm{Y}_2(\\mathrm{g}) $</p>\n<h3>Initial and Change in Moles</h3>\n\n<p><p>Initially, we start with 1 mole of $\\mathrm{X}_2 \\mathrm{Y}$.</p></p>\n<p><p>At equilibrium:</p></p>\n<p><p>$\\mathrm{X}_2 \\mathrm{Y}$ is $(1-x)$ moles. </p></p>\n<p><p>$\\mathrm{X}_2$ is $x$ moles. </p></p>\n<p><p>$\\frac{1}{2} \\mathrm{Y}_2$ is $\\frac{x}{2}$ moles.</p></p>\n\n<h3>Partial Pressures</h3>\n<p>The total pressure $\\mathrm{P}_\\text{total}$ is given by:</p>\n\n<p><p>$\\mathrm{P}_{\\mathrm{X}_2 \\mathrm{Y}} = \\frac{1-x}{1+\\frac{x}{2}} \\times \\mathrm{P}$</p></p>\n<p><p>$\\mathrm{P}_{\\mathrm{X}_2} = \\frac{x}{1+\\frac{x}{2}} \\times \\mathrm{P}$</p></p>\n<p><p>$\\mathrm{P}_{\\mathrm{Y}_2} = \\frac{x/2}{1+\\frac{x}{2}} \\times \\mathrm{P}$</p></p>\n\n<h3>Equilibrium Constant Expression</h3>\n<p>The equilibrium constant $K_p$ can be written in terms of partial pressures:</p>\n<p>$ K_p = \\frac{\\left(\\frac{x}{1+\\frac{x}{2}} \\cdot \\mathrm{P}\\right) \\cdot \\left(\\frac{\\frac{x}{2}}{1+\\frac{x}{2}} \\cdot \\mathrm{P}\\right)^{1/2}}{\\frac{1-x}{1+\\frac{x}{2}} \\cdot \\mathrm{P}} $</p>\n<p>Simplifying the expression, considering $x$ to be very small, results in:</p>\n<p>$ K_p = \\left(\\frac{x}{1-x}\\right)\\left(\\frac{x}{2\\left(1+\\frac{x}{2}\\right)}\\right)^{1/2} \\cdot \\mathrm{P}^{\\frac{1}{2}} $</p>\n<p>For small $x$, $(1-x) \\approx 1$, thus:</p>\n<p>$ K_p = \\frac{x^{3/2}}{\\frac{1}{3}} \\cdot \\mathrm{P}^{\\frac{1}{2}} $</p>\n<p>$ x^{3/2} = \\frac{K_p \\cdot 2^{1/2}}{\\mathrm{P}^{1/2}} $</p>\n<p>Finally, by cubing both sides:</p>\n<p>$ x^3 = \\frac{2 \\cdot K_p^2}{\\mathrm{P}} $</p>\n<p>$ x = \\left(\\frac{2 \\cdot K_p^2}{\\mathrm{P}}\\right)^{1/3} $</p>\n<p>Thus, the degree of dissociation $x$ relates to $K_p$ by the equation:</p>\n<p>$ x = \\left(\\frac{2 \\cdot K_p^2}{\\mathrm{P}}\\right)^{1/3} $</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>A vessel at 1000 K contains $\\mathrm{CO}_2$ with a pressure of 0.5 atm . Some of $\\mathrm{CO}_2$ is converted into CO on addition of graphite. If total pressure at equilibrium is 0.8 atm , then K<sub>p</sub> is :</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "0.18 atm"
+        },
+        {
+          "key": "B",
+          "value": "0.3 atm"
+        },
+        {
+          "key": "C",
+          "value": "3 atm"
+        },
+        {
+          "key": "D",
+          "value": "1.8 atm"
+        }
+      ],
+      "answer": "D",
+      "explanation": "<p>The reaction is:</p>\n<p>$$\\mathrm{CO}_2(g) + \\mathrm{C}(s) \\rightleftharpoons 2\\mathrm{CO}(g)$$</p>\n<p>Initially, the pressure of $\\mathrm{CO}_2$ is 0.5 atm, and the pressure of $\\mathrm{CO}$ is 0 atm. Let 'x' be the change in pressure of $\\mathrm{CO}_2$ at equilibrium. Since the stoichiometric coefficient of CO is twice that of $\\mathrm{CO}_2$, the pressure of CO formed at equilibrium is 2x.</p>\n<p>At equilibrium:</p>\n\n<p><p>Pressure of $\\mathrm{CO}_2 = 0.5 - x$</p></p>\n<p><p>Pressure of $\\mathrm{CO} = 2x$</p></p>\n\n<p>The total pressure at equilibrium is given as 0.8 atm. Therefore:</p>\n<p>$$(0.5 - x) + 2x = 0.8$$</p>\n<p>$$0.5 + x = 0.8$$</p>\n<p>$$x = 0.8 - 0.5 = 0.3$$</p>\n<p>So, at equilibrium:</p>\n\n<p><p>Pressure of $\\mathrm{CO}_2 = 0.5 - 0.3 = 0.2 \\text{ atm}$</p></p>\n<p><p>Pressure of $\\mathrm{CO} = 2(0.3) = 0.6 \\text{ atm}$</p></p>\n\n<p>The equilibrium constant $K_p$ is given by:</p>\n<p>$$K_p = \\frac{P_{\\mathrm{CO}}^2}{P_{\\mathrm{CO}_2}}$$</p>\n<p>$$K_p = \\frac{(0.6)^2}{0.2} = \\frac{0.36}{0.2} = 1.8 \\text{ atm}$$</p>\n<p>Therefore, the value of $K_p$ is 1.8 atm.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>For the given hypothetical reactions, the equilibrium constants are as follows :</p>\n<p>$$\\begin{aligned}\n& \\mathrm{X} \\rightleftharpoons \\mathrm{Y} ; \\mathrm{K}_1=1.0 \\\\\n& \\mathrm{Y} \\rightleftharpoons \\mathrm{Z} ; \\mathrm{K}_2=2.0 \\\\\n& \\mathrm{Z} \\rightleftharpoons \\mathrm{W} ; \\mathrm{K}_3=4.0\n\\end{aligned}$$</p>\n<p>The equilibrium constant for the reaction $$\\mathrm{X} \\rightleftharpoons \\mathrm{W}$$ is</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "12.0"
+        },
+        {
+          "key": "B",
+          "value": "8.0"
+        },
+        {
+          "key": "C",
+          "value": "6.0"
+        },
+        {
+          "key": "D",
+          "value": "7.0"
+        }
+      ],
+      "answer": "B",
+      "explanation": "<p>To find the equilibrium constant for the overall reaction $$\\mathrm{X} \\rightleftharpoons \\mathrm{W}$$, we need to combine the equilibrium constants for the individual reactions given. Let's analyze this step-by-step:</p>\n\n<p>The given reactions and their equilibrium constants are:</p>\n\n<p>$$\\begin{aligned} & \\mathrm{X} \\rightleftharpoons \\mathrm{Y} \\quad K_1 = 1.0 \\\\ & \\mathrm{Y} \\rightleftharpoons \\mathrm{Z} \\quad K_2 = 2.0 \\\\ & \\mathrm{Z} \\rightleftharpoons \\mathrm{W} \\quad K_3 = 4.0  \\end{aligned}$$</p>\n\n<p>The equilibrium constant for the overall reaction $$\\mathrm{X} \\rightleftharpoons \\mathrm{W}$$ is the product of the equilibrium constants for the individual steps. This is because the equilibrium constant for a composite reaction is the product of the equilibrium constants for the sequential reactions that lead to the composite reaction.</p>\n\n<p>So, we have:</p>\n\n<p>$$K_{\\text{overall}} = K_1 \\cdot K_2 \\cdot K_3$$</p>\n\n<p>Now, substituting the given values:</p>\n\n<p>$$K_{\\text{overall}} = 1.0 \\cdot 2.0 \\cdot 4.0 = 8.0$$</p>\n\n<p>Therefore, the equilibrium constant for the reaction $$\\mathrm{X} \\rightleftharpoons \\mathrm{W}$$ is 8.0, which corresponds to Option B.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>The ratio $$\\frac{K_P}{K_C}$$ for the reaction :</p> \n<p>$$\\mathrm{CO}_{(\\mathrm{g})}+\\frac{1}{2} \\mathrm{O}_{2(\\mathrm{~g})} \\rightleftharpoons \\mathrm{CO}_{2(\\mathrm{~g})}$$ is :</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "1"
+        },
+        {
+          "key": "B",
+          "value": "$$\n(\\mathrm{RT})^{1 / 2}\n$$"
+        },
+        {
+          "key": "C",
+          "value": "RT"
+        },
+        {
+          "key": "D",
+          "value": "$$\\mathrm{\n\\frac{1}{\\sqrt{R T}}}\n$$"
+        }
+      ],
+      "answer": "D",
+      "explanation": "<p>To solve this problem, we need to understand the relationship between the equilibrium constant in terms of pressure, $$K_P$$, and the equilibrium constant in terms of concentration, $$K_C$$. The relationship between these two constants for a general reaction is given by:\n\n<p>$$ K_P = K_C (RT)^{\\Delta n} $$</p>\n\n<p>where:</p>\n\n</p>\n\n<p>\n\n<p>$$\\Delta n$$ is the change in the number of moles of gas (moles of gaseous products minus moles of gaseous reactants),</p>\n\n</p>\n\n<p>\n\n<p>$$R$$ is the ideal gas constant, and</p>\n\n</p>\n\n<p>\n\n<p>$$T$$ is the temperature in Kelvin.</p>\n\n</p>\n\n<p>For the given reaction:\n\n<p>$$ \\mathrm{CO}_{(\\mathrm{g})}+\\frac{1}{2} \\mathrm{O}_{2(\\mathrm{~g})} \\rightleftharpoons \\mathrm{CO}_{2(\\mathrm{~g})} $$</p>\n\n<p>we need to calculate $$\\Delta n$$.</p></p>\n\n<p>On the reactants side, we have:</p>\n\n<ul>\n\n<li>1 mole of $$\\mathrm{CO}$$ (g)</li>\n\n<li>0.5 moles of $$\\mathrm{O}_2$$ (g)</li>\n\n</ul>\n\n<p>So, the total number of moles of reactants is:</p>\n\n<p>$$ 1 + \\frac{1}{2} = \\frac{3}{2} = 1.5 $$</p>\n\n<p>On the products side, we have:</p>\n\n<ul>\n\n<li>1 mole of $$\\mathrm{CO}_2$$ (g)</li>\n\n</ul>\n\n<p>The total number of moles of products is:</p>\n\n<p>$$ 1 $$</p>\n\n<p>Therefore, $$\\Delta n$$ is:</p>\n\n<p>$$ \\Delta n = \\text{moles of products} - \\text{moles of reactants} = 1 - 1.5 = -0.5 $$</p>\n\n<p>Now, we can use the relationship between $$K_P$$ and $$K_C$$:</p>\n\n<p>$$ K_P = K_C (RT)^{\\Delta n} $$</p>\n\n<p>Substituting $$\\Delta n = -0.5$$, we get:</p>\n\n<p>$$ K_P = K_C (RT)^{-0.5} $$</p>\n\n<p>or equivalently:</p>\n\n<p>$$ \\frac{K_P}{K_C} = (RT)^{-0.5} $$</p>\n\n<p>Therefore, the correct option is:</p>\n\n<p><strong>Option D</strong>: $$\\frac{1}{\\sqrt{R T}}$$</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>At $$-20^{\\circ} \\mathrm{C}$$ and $$1 \\mathrm{~atm}$$ pressure, a cylinder is filled with equal number of $$\\mathrm{H}_2, \\mathrm{I}_2$$ and $$\\mathrm{HI}$$ molecules for the reaction\n$$\\mathrm{H}_2(\\mathrm{~g})+\\mathrm{I}_2(\\mathrm{~g}) \\rightleftharpoons 2 \\mathrm{HI}(\\mathrm{g})$$, the $$\\mathrm{K}_{\\mathrm{p}}$$ for the process is $$x \\times 10^{-1}$$.</p>\n<p>$$\\mathrm{x}=$$ __________.</p>\n<p>[Given : $$\\mathrm{R}=0.082 \\mathrm{~L} \\mathrm{~atm} \\mathrm{~K}^{-1} \\mathrm{~mol}^{-1}$$]</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "2"
+        },
+        {
+          "key": "B",
+          "value": "1"
+        },
+        {
+          "key": "C",
+          "value": "10"
+        },
+        {
+          "key": "D",
+          "value": "0.01"
+        }
+      ],
+      "answer": "C",
+      "explanation": "<p>At $$-20^{\\circ} \\mathrm{C}$$ and a pressure of $$1 \\mathrm{~atm}$$, a cylinder contains equal quantities of $$\\mathrm{H}_2, \\mathrm{I}_2,$$ and $$\\mathrm{HI}$$ molecules. The equilibrium constant for the reaction</p>\n\n<p>$$\\mathrm{H}_2(\\mathrm{~g})+\\mathrm{I}_2(\\mathrm{~g}) \\rightleftharpoons 2 \\mathrm{HI}(\\mathrm{g})$$</p>\n\n<p>denoted as $$\\mathrm{K}_{\\mathrm{p}}$$, is given by the expression $$x \\times 10^{-1}$$.</p>\n\n<p>To solve for $$x$$, use the provided equilibrium expression:</p>\n\n<p>$$\\mathrm{K_{P} = \\mathrm{K_C}} =\\frac{\\left[\\mathrm{HI}\\right]^2}{\\left[\\mathrm{H}_2\\right]\\left[\\mathrm{I}_2\\right]}=1 = 10 \\times 10^{-1}$$</p>\n\n<p>Therefore, $$x = 10$$.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Given below are two statements :</p>\n<p>Statement I : On passing $$\\mathrm{HCl}_{(\\mathrm{g})}$$ through a saturated solution of $$\\mathrm{BaCl}_2$$, at room temperature white turbidity appears.</p>\n<p>Statement II : When $$\\mathrm{HCl}$$ gas is passed through a saturated solution of $$\\mathrm{NaCl}$$, sodium chloride is precipitated due to common ion effect.</p>\n<p>In the light of the above statements, choose the most appropriate answer from the options given below :</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "Both Statement I and Statement II are correct\n"
+        },
+        {
+          "key": "B",
+          "value": "Statement I is incorrect but Statement II is correct\n"
+        },
+        {
+          "key": "C",
+          "value": "Both Statement I and Statement II are incorrect\n"
+        },
+        {
+          "key": "D",
+          "value": "Statement I is correct but Statement II is incorrect"
+        }
+      ],
+      "answer": "D",
+      "explanation": "<p>To determine the correctness of the statements, we'll analyze each one individually by applying principles of solubility, common ion effect, and chemical equilibria.</p>\n<hr />\n<h3><strong>Statement I:</strong></h3>\n<p><strong>On passing $\\mathrm{HCl}_{(g)}$ through a saturated solution of $\\mathrm{BaCl}_2$ at room temperature, white turbidity appears.</strong></p>\n<p><strong>Analysis:</strong></p>\n\n<p><p><strong>Dissolution of HCl Gas:</strong></p></p>\n<p><p>When $\\mathrm{HCl}_{(g)}$ is bubbled through water, it dissolves and dissociates completely:</p>\n<p>$     \\mathrm{HCl}_{(aq)} \\rightarrow \\mathrm{H}^+_{(aq)} + \\mathrm{Cl}^-_{(aq)}     $</p></p>\n<p><p>This increases the concentration of $\\mathrm{Cl}^-$ ions in the solution.</p></p>\n<p><p><strong>Effect on BaCl₂ Solubility:</strong></p></p>\n<p><p>The solubility equilibrium of $\\mathrm{BaCl}_2$ in water is:</p>\n<p>$     \\mathrm{BaCl}_2 \\leftrightarrow \\mathrm{Ba}^{2+}_{(aq)} + 2\\mathrm{Cl}^-_{(aq)}     $</p></p>\n<p><p>Adding more $\\mathrm{Cl}^-$ shifts the equilibrium to the left (Le Chatelier's Principle), causing $\\mathrm{BaCl}_2$ to precipitate.</p></p>\n<p><p>The precipitation of $\\mathrm{BaCl}_2$ manifests as a <strong>white turbidity</strong>.</p></p>\n\n<p><strong>Conclusion:</strong></p>\n\n<p><strong>Statement I is correct.</strong></p>\n\n<hr />\n<h3><strong>Statement II:</strong></h3>\n<p><strong>When $\\mathrm{HCl}$ gas is passed through a saturated solution of $\\mathrm{NaCl}$, sodium chloride is precipitated due to common ion effect.</strong></p>\n<p><strong>Analysis:</strong></p>\n\n<p><p><strong>Dissolution of HCl Gas:</strong></p></p>\n<p><p>Similar to before, $\\mathrm{HCl}$ increases $\\mathrm{Cl}^-$ ion concentration.</p></p>\n<p><p><strong>Effect on NaCl Solubility:</strong></p></p>\n<p><p>The solubility equilibrium of $\\mathrm{NaCl}$ is:</p>\n<p>$     \\mathrm{NaCl} \\leftrightarrow \\mathrm{Na}^+_{(aq)} + \\mathrm{Cl}^-_{(aq)}     $</p></p>\n<p><p><strong>However, $\\mathrm{NaCl}$ is highly soluble in water, and its solubility is not significantly affected by the common ion effect from $\\mathrm{Cl}^-$.</strong></p></p>\n<p><p>The solubility product ($K_{sp}$) of $\\mathrm{NaCl}$ is large, and the addition of $\\mathrm{Cl}^-$ ions does not cause $\\mathrm{NaCl}$ to precipitate under normal conditions.</p></p>\n<p><p><strong>No precipitation occurs; the solution remains clear.</strong></p></p>\n\n<p><strong>Conclusion:</strong></p>\n\n<p><strong>Statement II is incorrect.</strong></p>\n\n<hr />\n<h3><strong>Final Answer:</strong></h3>\n\n<p><strong>Statement I is correct but Statement II is incorrect.</strong></p>\n"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>The following reaction occurs in the Blast furnance where iron ore is reduced to iron metal</p>\n<p>$$\\mathrm{Fe}_2 \\mathrm{O}_{3(s)}+3 \\mathrm{CO}_{(g)} \\rightleftharpoons \\mathrm{Fe}_{(\\mathrm{l})}+3 \\mathrm{CO}_{2(g)}$$</p>\n<p>Using the Le-chatelier's principle, predict which one of the following will not disturb the equilibrium.</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "Addition of $$\\mathrm{CO}_2$$\n"
+        },
+        {
+          "key": "B",
+          "value": "Removal of $$\\mathrm{CO}$$\n"
+        },
+        {
+          "key": "C",
+          "value": "Addition of $$\\mathrm{Fe}_2 \\mathrm{O}_3$$\n"
+        },
+        {
+          "key": "D",
+          "value": "Removal of $$\\mathrm{CO}_2$$"
+        }
+      ],
+      "answer": "C",
+      "explanation": "<p>For the reaction :</p>\n<p>$$\\mathrm{Fe}_2 \\mathrm{O}_{3(\\mathrm{~s})}+3 \\mathrm{CO}_{(\\mathrm{g})} \\rightleftharpoons \\mathrm{Fe}_{(\\mathrm{l})}+3 \\mathrm{CO}_{2(\\mathrm{~g})}$$</p>\n<p>Addition or removal of $$\\mathrm{Fe}_2 \\mathrm{O}_{3(\\mathrm{s})}$$ and/or $$\\mathrm{Fe}_{\\text {(l) }}$$ will not affect the equilibrium quotient and the equilibrium.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>The equilibrium constant for the reaction</p>\n<p>$$\\mathrm{SO}_3(\\mathrm{~g}) \\rightleftharpoons \\mathrm{SO}_2(\\mathrm{~g})+\\frac{1}{2} \\mathrm{O}_2(\\mathrm{~g})$$</p>\n<p>is $$\\mathrm{K}_{\\mathrm{c}}=4.9 \\times 10^{-2}$$. The value of $$\\mathrm{K}_{\\mathrm{c}}$$ for the reaction given below is $$2 \\mathrm{SO}_2(\\mathrm{~g})+\\mathrm{O}_2(\\mathrm{~g}) \\rightleftharpoons 2 \\mathrm{SO}_3(\\mathrm{~g})$$ is :</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "49"
+        },
+        {
+          "key": "B",
+          "value": "416"
+        },
+        {
+          "key": "C",
+          "value": "41.6"
+        },
+        {
+          "key": "D",
+          "value": "4.9"
+        }
+      ],
+      "answer": "B",
+      "explanation": "<p>The reaction</p>\n<p>$$2 \\mathrm{SO}_2+\\mathrm{O}_2 \\rightleftharpoons 2 \\mathrm{SO}_3$$</p>\n<p>can be formed from the given reaction by reverting it and multiplying coefficients by 2.</p>\n<p>Thus,</p>\n<p>$$\\begin{aligned}\n\\mathrm{K}_c^{\\prime} & =\\mathrm{K}_{\\mathrm{c}}^{-2}=\\frac{1}{\\mathrm{~K}_{\\mathrm{c}}^2}=\\left(\\frac{1}{4.9 \\times 10^{-2}}\\right)^2 \\\\\n& =416\n\\end{aligned}$$</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>$$\\mathrm{A}_{(\\mathrm{g})} \\rightleftharpoons \\mathrm{B}_{(\\mathrm{g})}+\\frac{\\mathrm{C}}{2}(\\mathrm{g})$$ The correct relationship between $$\\mathrm{K}_{\\mathrm{P}}, \\alpha$$ and equilibrium pressure $$\\mathrm{P}$$ is</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$K_P=\\frac{\\alpha^{1 / 2} P^{3 / 2}}{(2+\\alpha)^{3 / 2}}$$\n"
+        },
+        {
+          "key": "B",
+          "value": "$$K_P=\\frac{\\alpha^{3 / 2} P^{1 / 2}}{(2+\\alpha)^{1 / 2}(1-\\alpha)}$$\n"
+        },
+        {
+          "key": "C",
+          "value": "$$K_P=\\frac{\\alpha^{1 / 2} P^{1 / 2}}{(2+\\alpha)^{3 / 2}}$$\n"
+        },
+        {
+          "key": "D",
+          "value": "$$K_P=\\frac{\\alpha^{1 / 2} P^{1 / 2}}{(2+\\alpha)^{1 / 2}}$$"
+        }
+      ],
+      "answer": "B",
+      "explanation": "<p>$$\\begin{aligned}\n& \\mathrm{A}_{(\\mathrm{g})} \\rightleftharpoons \\mathrm{B}_{(\\mathrm{g})}+\\frac{\\mathrm{C}}{2}(\\mathrm{~g}) \\\\\n& \\mathrm{t}=\\mathrm{t}_{\\mathrm{eq}} \\quad(1-\\alpha) \\quad \\alpha \\quad \\frac{\\alpha}{2}\n\\end{aligned}$$</p>\n<p>$$\\mathrm{P}_{\\mathrm{B}}=\\frac{\\alpha}{\\left(1+\\frac{\\alpha}{2}\\right)} \\cdot \\mathrm{P}, \\mathrm{P}_{\\mathrm{A}}=\\frac{(1-\\alpha)}{\\left(1+\\frac{\\alpha}{2}\\right)} \\cdot \\mathrm{P}, \\mathrm{P}_{\\mathrm{C}}=\\frac{\\frac{\\alpha}{2}}{\\left(1+\\frac{\\alpha}{2}\\right)} . \\mathrm{P}$$</p>\n<p>$$\\mathrm{K_P=\\frac{P_B \\cdot P_C^{\\frac{1}{2}}}{P_A}}$$</p>\n<p>$$\\mathrm{=\\frac{(\\alpha)^{\\frac{3}{2}}(P)^{\\frac{1}{2}}}{(1-\\alpha)(2+\\alpha)^{\\frac{1}{2}}}}$$</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>For the given reaction, choose the correct expression of $$\\mathrm{K}_{\\mathrm{C}}$$ from the following :-</p>\n<p>$$\\mathrm{Fe}_{(\\mathrm{aq})}^{3+}+\\mathrm{SCN}_{(\\mathrm{aq})}^{-} \\rightleftharpoons(\\mathrm{FeSCN})_{(\\mathrm{aq})}^{2+}$$</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$\\mathrm{K}_{\\mathrm{C}}=\\frac{\\left[\\mathrm{Fe}^{3+}\\right]\\left[\\mathrm{SCN}^{-}\\right]}{\\left[\\mathrm{FeSCN}^{2+}\\right]}$$\n"
+        },
+        {
+          "key": "B",
+          "value": "$$\\mathrm{K}_{\\mathrm{C}}=\\frac{\\left[\\mathrm{FeSCN}^{2+}\\right]}{\\left[\\mathrm{Fe}^{3+}\\right]\\left[\\mathrm{SCN}^{-}\\right]}$$\n"
+        },
+        {
+          "key": "C",
+          "value": "$$\\mathrm{K}_{\\mathrm{C}}=\\frac{\\left[\\mathrm{FeSCN}^{2+}\\right]^2}{\\left[\\mathrm{Fe}^{3+}\\right]\\left[\\mathrm{SCN}^{-}\\right]}$$\n"
+        },
+        {
+          "key": "D",
+          "value": "$$\\mathrm{K}_{\\mathrm{C}}=\\frac{\\left[\\mathrm{FeSCN}^{2+}\\right]}{\\left[\\mathrm{Fe}^{3+}\\right]^2\\left[\\mathrm{SCN}^{-}\\right]^2}$$"
+        }
+      ],
+      "answer": "B",
+      "explanation": "<p>$$\\begin{aligned}\n& \\mathrm{K}_{\\mathrm{C}}=\\frac{\\text { Products ion conc. }}{\\text { Reactants ion conc. }} \\\\\n& \\mathrm{K}_{\\mathrm{C}}=\\frac{\\left[\\mathrm{FeSCN}^{2+}\\right]}{\\left[\\mathrm{Fe}^{3+}\\right]\\left[\\mathrm{SCN}^{-}\\right]}\n\\end{aligned}$$</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p> For a concentrated solution of a weak electrolyte ($$\\mathrm{K}_{\\text {eq }}=$$ equilibrium constant) $$\\mathrm{A}_{2} \\mathrm{B}_{3}$$ of concentration '$$c$$', the degree of dissociation '$$\\alpha$$' is :</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$\\left(\\frac{K_{e q}}{25 c^{2}}\\right)^{\\frac{1}{5}}$$"
+        },
+        {
+          "key": "B",
+          "value": "$$\\left(\\frac{K_{e q}}{108 c^{4}}\\right)^{\\frac{1}{5}}$$"
+        },
+        {
+          "key": "C",
+          "value": "$$\\left(\\frac{K_{e q}}{5 c^{4}}\\right)^{\\frac{1}{5}}$$"
+        },
+        {
+          "key": "D",
+          "value": "$$\\left(\\frac{K_{e q}}{6 c^{5}}\\right)^{\\frac{1}{5}}$$"
+        }
+      ],
+      "answer": "B",
+      "explanation": "$$\n\\begin{aligned}\n& \\mathrm{A}_2 \\mathrm{~B}_3(\\mathrm{aq} .) \\rightleftharpoons 2 \\mathrm{~A}_{\\text {(aq.) }}^{3+}+3 \\mathrm{~B}_{\\text {(aq) }}^{2-} \\\\\\\\\n& \\mathrm{c}(1-\\alpha) \\quad\\quad\\quad 2 \\mathrm{c} \\alpha\\quad\\quad\\quad 3 \\mathrm{c}\\alpha\\\\\\\\\n& \\mathrm{K}_{\\mathrm{eq}}=\\frac{\\left[\\mathrm{A}^{3+}\\right]^2\\left[\\mathrm{~B}^{2-}\\right]^3}{\\left[\\mathrm{~A}_2 \\mathrm{~B}_3\\right]}=\\frac{4 \\mathrm{c}^2 \\alpha^2 \\times 27 \\mathrm{c}^3 \\alpha^3}{\\mathrm{c}(1-\\alpha)} \\\\\\\\\n& \\mathrm{K}_{\\mathrm{eq}}=\\frac{108 \\mathrm{c}^5 \\alpha^5}{\\mathrm{c}} \\alpha=\\left(\\frac{\\mathrm{K}_{\\mathrm{eq}}}{108 \\mathrm{c}^4}\\right)^{\\frac{1}{5}}\n\\end{aligned}\n$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>The equilibrium constant for the reversible reaction</p>\n<p>2A(g) $$\\rightleftharpoons$$ 2B(g) + C(g) is K<sub>1</sub></p>\n<p>$${3 \\over 2}$$A(g) $$\\rightleftharpoons$$ $${3 \\over 2}$$B(g) + $${3 \\over 4}$$C(g) is K<sub>2</sub>.</p>\n<p>K<sub>1</sub> and K<sub>2</sub> are related as :</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "$${K_1} = \\sqrt {{K_2}} $$"
+        },
+        {
+          "key": "B",
+          "value": "$${K_2} = \\sqrt {{K_1}} $$"
+        },
+        {
+          "key": "C",
+          "value": "$${K_2} = K_1^{3/4}$$"
+        },
+        {
+          "key": "D",
+          "value": "$${K_1} = K_2^{3/4}$$"
+        }
+      ],
+      "answer": "C",
+      "explanation": "$2 \\mathrm{A}(\\mathrm{g})=2 \\mathrm{B}(\\mathrm{~g})+\\mathrm{C}(\\mathrm{g}) \\quad K_{1} \\quad\\quad ...(i)$\n<br/><br/>\n$$\n\\frac{3}{2} \\mathrm{A}(\\mathrm{g})=\\frac{3}{2} \\mathrm{B}(\\mathrm{g})+\\frac{3}{4} \\mathrm{C}(\\mathrm{g}) \\quad K_{2}\\quad\\quad...(ii)\n$$\n<br/><br/>\neq. (ii) is $\\frac{3}{4}$ times of eq. (i), hence,\n<br/><br/>\n$K_{2}=\\left(K_{1}\\right)^{\\frac{3}{4}}$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The value of K<sub>C</sub> is 64 at 800 K for the reaction\n<br><br>N<sub>2</sub>(g) + 3H<sub>2</sub>(g) ⇌ 2NH<sub>3</sub>(g)\n<br><br>The value of K<sub>C</sub> for the following reaction is :\n<br><br>NH<sub>3</sub>(g) ⇌ $${1 \\over 2}$$N<sub>2</sub>(g) + $${3 \\over 2}$$H<sub>2</sub>(g)",
+      "options": [
+        {
+          "key": "A",
+          "value": "8"
+        },
+        {
+          "key": "B",
+          "value": "$${1 \\over 8}$$"
+        },
+        {
+          "key": "C",
+          "value": "$${1 \\over 4}$$"
+        },
+        {
+          "key": "D",
+          "value": "$${1 \\over {64}}$$"
+        }
+      ],
+      "answer": "B",
+      "explanation": "N<sub>2</sub>(g) + 3H<sub>2</sub>(g) ⇌ 2NH<sub>3</sub>(g) ; K<sub>C</sub>\n<br><br>2NH<sub>3</sub>(g) ⇌  N<sub>2</sub>(g) + 3H<sub>2</sub>(g) ; $${1 \\over {{K_C}}}$$\n<br><br>Multiplying by $${1 \\over 2}$$, reaction becomes\n<br><br>NH<sub>3</sub>(g) ⇌ $${1 \\over 2}$$N<sub>2</sub>(g) + $${3 \\over 2}$$H<sub>2</sub>(g) ; \n<br><br>$$ \\therefore $$ New K<sub>C</sub> = $${\\left( {{1 \\over {{K_C}}}} \\right)^{{1 \\over 2}}}$$ = $${\\left( {{1 \\over {64}}} \\right)^{{1 \\over 2}}}$$ = $${1 \\over 8}$$\n"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The variation of equilibrium constant with\ntemperature is given below :\n<br><br><style type=\"text/css\">\n.tg  {border-collapse:collapse;border-spacing:0;}\n.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg .tg-0lax{text-align:left;vertical-align:top}\n</style>\n<table class=\"tg\">\n<thead>\n  <tr>\n    <th class=\"tg-0lax\">Temperature</th>\n    <th class=\"tg-0lax\">Equilibrium Constant</th>\n  </tr>\n</thead>\n<tbody>\n  <tr>\n    <td class=\"tg-0lax\">T<sub>1</sub> = 25<sup>o</sup>C</td>\n    <td class=\"tg-0lax\">K<sub>1</sub> = 10</td>\n  </tr>\n  <tr>\n    <td class=\"tg-0lax\">T<sub>2</sub> = 100<sup>o</sup>C</td>\n    <td class=\"tg-0lax\">K<sub>2</sub> = 100</td>\n  </tr>\n</tbody>\n</table>\n<br>The values of $$\\Delta $$H<sup>o</sup>, $$\\Delta $$G<sup>o</sup> at <br>T<sub>1</sub> and $$\\Delta $$G<sup>o</sup> at T<sub>2</sub>\n(in kJ mol<sup>–1</sup>) respectively, are close to :<br>[Use\nR = 8.314 J K<sup>–1</sup> mol<sup>–1</sup>]",
+      "options": [
+        {
+          "key": "A",
+          "value": "28.4, –5.71 and –14.29"
+        },
+        {
+          "key": "B",
+          "value": "0.64, –7.14 and –5.71"
+        },
+        {
+          "key": "C",
+          "value": "28.4, –7.14 and –5.71"
+        },
+        {
+          "key": "D",
+          "value": "0.64, –5.71 and –14.29"
+        }
+      ],
+      "answer": "A",
+      "explanation": "ln $$\\left[ {{{{k_2}} \\over {{k_1}}}} \\right]$$ = $${{\\Delta H^\\circ } \\over R}\\left\\{ {{1 \\over {{T_1}}} - {1 \\over {{T_2}}}} \\right\\}$$\n<br><br>$$ \\Rightarrow $$ ln(10) = $${{\\Delta H^\\circ } \\over R}\\left\\{ {{1 \\over {298}} - {1 \\over {373}}} \\right\\}$$\n<br><br>$$ \\Rightarrow $$ $${\\Delta H^\\circ }$$ = 28.37 kJ/mol\n<br><br>$$\\Delta $$G<sup>o</sup> = –RT ln K\n<br><br>T<sub>1</sub> = 25<sup>o</sup>C K<sub>1</sub> = 10\n<br><br>$$\\Delta $$G<sup>o</sup> at T<sub>1</sub> = –8.314 × 298 × 2.303 × log 10\n<br><br>= –5.71 kJ/mol\n<br><br>$$\\Delta $$G<sup>o</sup> at T<sub>2</sub> = –8.314 × 373 × 2.303 × log(100)\n<br><br>= –14.29 kJ/mol\n"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "For the reaction\n<br><br>Fe<sub>2</sub>N(s) + $${3 \\over 2}$$H<sub>2</sub>(g) ⇌ 2Fe(s) + NH<sub>3</sub>(g)",
+      "options": [
+        {
+          "key": "A",
+          "value": "K<sub>C</sub> = K<sub>p</sub>(RT)<sup>1/2</sup>"
+        },
+        {
+          "key": "B",
+          "value": "K<sub>C</sub> = K<sub>p</sub>(RT)<sup>-1/2</sup>"
+        },
+        {
+          "key": "C",
+          "value": "K<sub>C</sub> = K<sub>p</sub>(RT)"
+        },
+        {
+          "key": "D",
+          "value": "K<sub>C</sub> = K<sub>p</sub>(RT)<sup>3/2</sup>"
+        }
+      ],
+      "answer": "A",
+      "explanation": "<p>To determine the correct relationship between the equilibrium constants $K_C$ and $K_p$ for the reaction:</p>\n<p>$$\\text{Fe}_2\\text{N(s)} + \\frac{3}{2}\\text{H}_2\\text{(g)} \\rightleftharpoons 2\\text{Fe(s)} + \\text{NH}_3\\text{(g)}$$</p>\n<p>First, consider the general relationship between $K_C$ and $K_p$:</p>\n<p>$$ K_p = K_C(RT)^{\\Delta n} $$</p>\n<p>where $\\Delta n$ is the change in the number of moles of gas between the products and the reactants, $R$ is the ideal gas constant, and $T$ is the temperature in Kelvin.</p>\n<p>For the given reaction, calculate $\\Delta n$:</p>\n\n<p><p>Moles of gas in products: NH<sub>3(g)</sub> = 1 mole</p></p>\n<p><p>Moles of gas in reactants: $${3 \\over 2}$$ H<sub>2(g)</sub> = 1.5 moles</p></p>\n\n<p>Therefore:</p>\n<p>$$ \\Delta n = 1 - 1.5 = -0.5 $$</p>\n<p>Substitute this value into the equation relating $K_C$ and $K_p$:</p>\n<p>$$ K_p = K_C(RT)^{-0.5} $$</p>\n<p>Rearrange to express $K_C$:</p>\n<p>$$ K_C = K_p(RT)^{0.5} $$</p>\n<p>Thus, the correct option is:</p>\n<p><strong>Option A:</strong> $$K_C = K_p(RT)^{1/2}$$</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Consider the following reaction:\n<br><br>N<sub>2</sub>O<sub>4</sub>(g) ⇌ 2NO<sub>2</sub>(g); $$\\Delta $$H<sup>o</sup> = +58 kJ\n<br><br>For each of the following cases (a, b), the direction in which the equilibrium shifts is :\n<br>(a) Temperature is decreased.\n<br>(b) Pressure is increased by adding N<sub>2</sub>\n at constant T.",
+      "options": [
+        {
+          "key": "A",
+          "value": "(a) towards reactant, (b) towards product"
+        },
+        {
+          "key": "B",
+          "value": "(a) towards reactant, (b) no change"
+        },
+        {
+          "key": "C",
+          "value": "(a) towards product, (b) towards reactant"
+        },
+        {
+          "key": "D",
+          "value": "(a) towards product, (b) no change"
+        }
+      ],
+      "answer": "B",
+      "explanation": "$$ \\because $$ Given reaction is endothermic.\n<br><br>$$ \\therefore $$ On decreasing temperature backward\nreaction will be favoured.\n<br><br>On adding N<sub>2</sub>, pressure is increased at\nconstant T, and volume would also be constant\nso no change is observed."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "If the equilibrium constant for<br> A ⇌ B + C is $$K_{eq}^{(1)}$$ and that of\n<br>B + C ⇌ P is $$K_{eq}^{(2)}$$, the equilibrium\n<br>constant for A ⇌ P is :",
+      "options": [
+        {
+          "key": "A",
+          "value": "$${{K_{eq}^{(1)}} \\over {K_{eq}^{(2)}}}$$"
+        },
+        {
+          "key": "B",
+          "value": "$${K_{eq}^{(1)}}$$ + $${K_{eq}^{(2)}}$$"
+        },
+        {
+          "key": "C",
+          "value": "$${K_{eq}^{(2)}}$$ - $${K_{eq}^{(1)}}$$"
+        },
+        {
+          "key": "D",
+          "value": "$${K_{eq}^{(1)}}$$ $${K_{eq}^{(2)}}$$"
+        }
+      ],
+      "answer": "D",
+      "explanation": "<p>We have two reactions:</p>\n\n<p><p>$ A \\;\\rightleftharpoons\\; B + C \\quad\\text{with } K_{eq}^{(1)}$</p></p>\n<p><p>$ B + C \\;\\rightleftharpoons\\; P \\quad\\text{with } K_{eq}^{(2)}$</p></p>\n\n<p>We want the equilibrium constant for the overall reaction</p>\n<p>$ A \\;\\rightleftharpoons\\; P. $</p>\n<hr />\n<h3>How to combine the equilibrium constants</h3>\n<p>When two reactions are added to yield a net (overall) reaction, <strong>the equilibrium constant of the net reaction is the product of the equilibrium constants of the individual reactions</strong>. Formally:</p>\n<p>$ \\text{(Reaction 1)} + \\text{(Reaction 2)} \\;\\Rightarrow\\; \\text{(Net Reaction)}, $</p>\n<p>and</p>\n<p>$ K_{\\text{net}} \\;=\\; K_{\\text{(Reaction 1)}} \\times K_{\\text{(Reaction 2)}}. $</p>\n<hr />\n<h3>Applying it here</h3>\n\n<p><p><strong>Reaction 1</strong>: $A \\to B + C$ has $K_{eq}^{(1)}.$</p></p>\n<p><p><strong>Reaction 2</strong>: $B + C \\to P$ has $K_{eq}^{(2)}.$</p></p>\n\n<p>When we add them,</p>\n<p>$ \\underbrace{A}_{\\text{Reactant 1}} \\;\\longrightarrow\\; \\underbrace{B + C}_{\\text{Products of Reaction 1}=\\text{Reactants of Reaction 2}} \\;\\longrightarrow\\; \\underbrace{P}_{\\text{Product of Reaction 2}}. $</p>\n<p>So the <strong>net reaction</strong> is $A \\to P$, and its equilibrium constant is</p>\n<p>$ K_{eq}^{\\text{(net)}} \\;=\\; K_{eq}^{(1)} \\times K_{eq}^{(2)}. $</p>\n<p>Thus, the correct answer is:</p>\n<p>$ \\boxed{K_{eq}^{(1)} \\, K_{eq}^{(2)}}. $</p>\n<p>Hence, the answer (Option D) is correct.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "An open beaker of water in equilibrium with\nwater vapour is in a sealed container. When a\nfew grams of glucose are added to the beaker\nof water, the rate at which water molecules :",
+      "options": [
+        {
+          "key": "A",
+          "value": "leaves the solution increases"
+        },
+        {
+          "key": "B",
+          "value": "leaves the vapour increases"
+        },
+        {
+          "key": "C",
+          "value": "leaves the vapour decreases"
+        },
+        {
+          "key": "D",
+          "value": "leaves the solution decreases"
+        }
+      ],
+      "answer": "D",
+      "explanation": "With addition of solute in solvent, surface area for vapourisation decreases causes lowering in vapour\npressure."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "In which one of the following equilibria, K<sub>p</sub> $$ \\ne $$ K<sub>C</sub> ?",
+      "options": [
+        {
+          "key": "A",
+          "value": "2NO(g) ⇋ N<sub>2</sub>(g) + O<sub>2</sub>(g)"
+        },
+        {
+          "key": "B",
+          "value": "2C(s) + O<sub>2</sub>(g) ⇋ 2CO(g)"
+        },
+        {
+          "key": "C",
+          "value": "2HI(g) ⇋ H<sub>2</sub>(g) + I<sub>2</sub>(g)"
+        },
+        {
+          "key": "D",
+          "value": "NO<sub>2</sub>(g) + SO<sub>2</sub>(g) ⇋ NO(g) + SO<sub>3</sub>(g)"
+        }
+      ],
+      "answer": "B",
+      "explanation": "We know,\n<br>K<sub>p</sub> = K<sub>C</sub>(RT)<sup>$$\\Delta $$n<sub>g</sub></sup>\n<br><br>K<sub>p</sub> = K<sub>C</sub> when $$\\Delta $$n<sub>g</sub> = 0\n<br>K<sub>p</sub> $$ \\ne $$ K<sub>C</sub> when $$\\Delta $$n<sub>g</sub> $$ \\ne $$ 0 and T $$ \\ne $$ 12 K\n<br><br>In this reaction, 2C(s) + O<sub>2</sub>(g) ⇋ 2CO(g)\n<br>$$\\Delta $$n<sub>g</sub> = 1, so K<sub>p</sub> $$ \\ne $$ K<sub>C</sub>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The INCORRECT match in the following is :",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$\\Delta $$G<sup>o</sup>\n = 0, K = 1"
+        },
+        {
+          "key": "B",
+          "value": "$$\\Delta $$G<sup>o</sup>\n &lt; 0, K &lt; 1"
+        },
+        {
+          "key": "C",
+          "value": "$$\\Delta $$G<sup>o</sup>\n &gt; 0, K &lt; 1"
+        },
+        {
+          "key": "D",
+          "value": "$$\\Delta $$G<sup>o</sup>\n &lt; 0, K &gt; 1"
+        }
+      ],
+      "answer": "B",
+      "explanation": "We know, $$\\Delta {G^o} =  - RT\\ln K$$\n<br>Case 1 : \n<br>If $$\\Delta $$G<sup>o</sup> &lt; 0\n<br>$$ \\Rightarrow $$ $$- RT\\ln K$$  &lt;  0\n<br>$$ \\Rightarrow $$ $$\\ln K$$  &gt;  0\n<br>$$ \\Rightarrow $$ K &gt; 1\n<br><br>Case 2 : \n<br>If $$\\Delta $$G<sup>o</sup> &gt; 0\n<br>$$ \\Rightarrow $$ $$- RT\\ln K$$  &gt;  0\n<br>$$ \\Rightarrow $$ $$\\ln K$$  &lt;  0\n<br>$$ \\Rightarrow $$ K &lt; 1\n<br><br>Case 2 : \n<br>If $$\\Delta $$G<sup>o</sup> = 0\n<br>$$ \\Rightarrow $$ $$- RT\\ln K$$  =  0\n<br>$$ \\Rightarrow $$ $$\\ln K$$  =  0\n<br>$$ \\Rightarrow $$ K = 1"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "For the reaction,\n<br> 2SO<sub>2</sub>(g) + O<sub>2</sub>(g) = 2SO<sub>3</sub>(g), $$\\Delta $$H = –57.2 kJ mol<sup>–1</sup>\n and K<sub>C</sub> = 1.7 × 10<sup>16</sup>\n<br>Which of the following statement is incorrect ? ",
+      "options": [
+        {
+          "key": "A",
+          "value": "The equilibrium will shift in forward direction as the pressure increase."
+        },
+        {
+          "key": "B",
+          "value": "The addition of inert gas at constant volume will be not affect the equilibrium constant."
+        },
+        {
+          "key": "C",
+          "value": "The equilibrium constant is large suggestive of reaction going to completion and so no catalyst is\nrequired."
+        },
+        {
+          "key": "D",
+          "value": "The equilibrium constant decreases as the temperature increase."
+        }
+      ],
+      "answer": "C",
+      "explanation": "Equilibrium constant has no relation with\ncatalyst.\n<br><br>Catalyst only affects the rate with\nwhich a reaction proceeds.\n<br><br>Here we use catalyst V<sub>2</sub>O<sub>5</sub> to\nspeed up the reaction."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "For the following reactions, equilibrium\nconstants are given :<br>\n<br>S(s) + O<sub>2</sub>(g)  ⇋  SO<sub>2</sub>(g); K<sub>1</sub> = 10<sup>52</sup><br>\n<br>2S(s) + 3O<sub>2</sub>(g) ⇋  2SO<sub>3</sub>(g); K<sub>2</sub> = 10<sup>129</sup><br>\n<br>The equilibrium constant for the reaction,<br>\n<br>2SO<sub>2</sub>(g) + O<sub>2</sub>(g) ⇋  2SO<sub>3</sub>(g) is :",
+      "options": [
+        {
+          "key": "A",
+          "value": "10<sup>181</sup>"
+        },
+        {
+          "key": "B",
+          "value": "10<sup>25</sup>"
+        },
+        {
+          "key": "C",
+          "value": "10<sup>77</sup>"
+        },
+        {
+          "key": "D",
+          "value": "10<sup>154</sup>"
+        }
+      ],
+      "answer": "B",
+      "explanation": "S(s) + O<sub>2</sub>(g)  ⇋  SO<sub>2</sub>(g); K<sub>1</sub> = 10<sup>52</sup>\n<br><br>By reversing the equation, we get\n<br><br>SO<sub>2</sub>(g); ⇋ S(s) + O<sub>2</sub>(g) ; $${1 \\over {{K_1}}} = {1 \\over {{{10}^{52}}}}$$ ..............(1)\n<br><br>2S(s) + 3O<sub>2</sub>(g) ⇋  2SO<sub>3</sub>(g); K<sub>2</sub> = 10<sup>129</sup> ....................(2)\n<br><br>Performing (2) - 2 $$ \\times $$ (1), we get\n<br><br>2SO<sub>2</sub>(g) + O<sub>2</sub>(g) ⇋  2SO<sub>3</sub>(g)\n<br><br>$$ \\therefore $$ Equilibrium constant of this reaction is\n<br><br>= $${{{K_2}} \\over {K_1^2}}$$ = $${{{{10}^{129}}} \\over {{{\\left( {{{10}^{52}}} \\right)}^2}}}$$ = 10<sup>25</sup>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Consider the reaction \n<br>N<sub>2</sub>(g) + 3H<sub>2</sub>(g)&nbsp;$$\\rightleftharpoons$$ 2NH<sub>3</sub>(g)\n<br><br>The equilibrium constant of the above reaction is K<sub>p</sub>. If pure ammonia is left to dissociate, the partial pressure of ammonia at equilibrium is given by (Assume that P<sub>NH<sub>3</sub></sub>  &lt;&lt; P<sub>total</sub> at equilibrium) ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$${{{3^{{3 \\over 2}}}{K_P^{{1 \\over 2}}}{P^2}} \\over 4}$$"
+        },
+        {
+          "key": "B",
+          "value": "$${{K_P^{{1 \\over 2}}{P^2}} \\over 4}$$"
+        },
+        {
+          "key": "C",
+          "value": "$${{{3^{{3 \\over 2}}}{K_P^{{1 \\over 2}}}{P^2}} \\over 16}$$"
+        },
+        {
+          "key": "D",
+          "value": "$${{K_P^{{1 \\over 2}}{P^2}} \\over 16}$$"
+        }
+      ],
+      "answer": "C",
+      "explanation": "N<sub>2</sub>(g) + 3H<sub>2</sub>(g)&nbsp;$$\\rightleftharpoons$$ 2NH<sub>3</sub>(g) ; K<sub>eq</sub> = K<sub>p</sub>\n<br><br>Write this equation reverse way,\n<br><br>2NH<sub>3</sub>(g) &nbsp;$$\\rightleftharpoons$$  N<sub>2</sub>(g) + 3H<sub>2</sub>(g) ; K<sub>eq</sub> = $${1 \\over {{K_p}}}$$\n<br><br><style type=\"text/css\">\n.tg  {border-collapse:collapse;border-spacing:0;}\n.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg .tg-baqh{text-align:center;vertical-align:top}\n</style>\n<table class=\"tg\">\n<thead>\n  <tr>\n    <th class=\"tg-baqh\"></th>\n    <th class=\"tg-baqh\">2NH<sub>3</sub>(g)</th>\n    <th class=\"tg-baqh\">⇌</th>\n    <th class=\"tg-baqh\">N<sub>2</sub>(g)</th>\n    <th class=\"tg-baqh\">+</th>\n    <th class=\"tg-baqh\">3H<sub>2</sub>(g)</th>\n  </tr>\n</thead>\n<tbody>\n  <tr>\n    <td class=\"tg-baqh\">At t = 0</td>\n    <td class=\"tg-baqh\">P<sup>o</sup></td>\n    <td class=\"tg-baqh\"></td>\n    <td class=\"tg-baqh\">0</td>\n    <td class=\"tg-baqh\"></td>\n    <td class=\"tg-baqh\">0</td>\n  </tr>\n  <tr>\n    <td class=\"tg-baqh\">At t = t<sub>eq</sub></td>\n    <td class=\"tg-baqh\">P<sub>NH<sub>3</sub></sub></td>\n    <td class=\"tg-baqh\"></td>\n    <td class=\"tg-baqh\">p</td>\n    <td class=\"tg-baqh\"></td>\n    <td class=\"tg-baqh\">3p</td>\n  </tr>\n</tbody>\n</table>\n<br>At equillibrium\n<br><br>P<sub>Total</sub> = P<sub>NH<sub>3</sub></sub> + P<sub>N<sub>2</sub></sub> + P<sub>H<sub>2</sub></sub>\n<br><br>= P<sub>NH<sub>3</sub></sub> + p + 3p\n<br><br>(As P<sub>NH<sub>3</sub></sub>  &lt;&lt; P<sub>total</sub> so we can ignore P<sub>NH<sub>3</sub></sub>)\n<br><br>$$ \\therefore $$ P<sub>Total</sub> = 4p\n<br><br>$$ \\Rightarrow $$ p = $${{{{P_{total}}} \\over 4}}$$\n<br><br>Formula of\n<br>K<sub>eq</sub> = $${{{p_{{N_2}}} \\times {{\\left( {{p_{{H_2}}}} \\right)}^3}} \\over {{{\\left( {{p_{N{H_3}}}} \\right)}^2}}}$$ = $${1 \\over {{K_p}}}$$\n<br><br>$$ \\Rightarrow $$ $${1 \\over {{K_p}}}$$ = $${{p \\times 27{p^3}} \\over {{{\\left( {{p_{N{H_3}}}} \\right)}^2}}}$$\n<br><br>$$ \\Rightarrow $$ $${{{\\left( {{p_{N{H_3}}}} \\right)}^2}}$$ = K<sub>p</sub> $$ \\times $$ 27 $$ \\times $$ $${{{\\left( {{{{P_{total}}} \\over 4}} \\right)}^4}}$$\n<br><br>$$ \\Rightarrow $$ P<sub>NH<sub>3</sub></sub> = $$\\sqrt {{K_p}}  \\times {\\left( {27} \\right)^{{1 \\over 2}}} \\times {\\left( {{{{P_{Total}}} \\over 4}} \\right)^{{4 \\over 2}}}$$\n<br><br>= $${{{3^{{3 \\over 2}}}K_p^{{1 \\over 2}}P_{Total}^2} \\over {16}}$$\n"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "5.1 g NH<sub>4</sub>SH is introduced in 3.0 L evacuated flask at 327ºC. 30% of the solid NH<sub>4</sub>SH decomposed to NH<sub>3</sub> and H<sub>2</sub>S as gases . The Kp of the reaction at 327<sup>o</sup>C is (R = 0.082 L atm mol<sup>–1</sup> K<sup>–1</sup>, Molar mass of S = 32 g mol<sup>–1</sup> molar mass of N = 14 g mol<sup>–1</sup>) \n",
+      "options": [
+        {
+          "key": "A",
+          "value": "0.242 $$ \\times $$ 10<sup>$$-$$4</sup> atm<sup>2</sup>"
+        },
+        {
+          "key": "B",
+          "value": "1 $$ \\times $$ 10<sup>–4</sup> atm<sup>2</sup>\n"
+        },
+        {
+          "key": "C",
+          "value": "4.9 $$ \\times $$ 10<sup>$$-$$3</sup> atm<sup>2</sup>"
+        },
+        {
+          "key": "D",
+          "value": "0.242 atm<sup>2</sup>"
+        }
+      ],
+      "answer": "D",
+      "explanation": "&nbsp;&nbsp;&nbsp;NH<sub>4</sub>SH(s)  &nbsp;$$\\rightleftharpoons$$ &nbsp;&nbsp;&nbsp;NH<sub>3</sub>(g) + H<sub>2</sub>S(g)\n<br><br>$$n = {{5.1} \\over {51}} = .1\\,mole\\,\\,\\,\\,\\,\\,\\,\\,0\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,0\\,\\,$$\n<br><br>$$.1\\left( { - 1 - \\alpha } \\right)\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,.1\\alpha \\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,.1\\alpha $$\n<br><br>$$\\alpha \\,\\, = \\,\\,30\\%  = .3$$\n<br><br>so number of moles at equilibrium\n<br><br>$$\\,\\,\\,\\,\\,\\,\\,.1\\,(1 - .3)\\,\\,\\,\\,\\,.1\\,\\, \\times \\,\\,.3\\,\\,\\,\\,\\,\\,\\,\\,\\,.1\\,\\, \\times \\,.3$$\n<br><br>$$ = \\,\\,\\,\\,.07\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\, = .03\\;\\,\\,\\,\\,\\,\\,\\,\\,\\, = .03$$\n<br><br>Now use PV = nRT at equilibrium\n<br><br>P<sub>total</sub> $$ \\times $$ 3 lit = (.03 + .03)  $$ \\times $$  .082  $$ \\times $$  600\n<br><br>P<sub>total</sub>  =  .984  atm\n<br><br>At equilibrium\n<br><br><sup>P<sub>NH<sub>3</sub></sub>  =  P<sub>H<sub>2</sub>S</sub>  =  $${{{P_{total}}} \\over 2}$$ = .492\n<br><br>So  k<sub>p</sub> =  P<sub>NH<sub>3</sub></sub> . P<sub>H<sub>2</sub>S</sub>  = (.492) (.492)\n<br><br>k<sub>p</sub>  = .242 atm<sup>2</sup></sup>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The gas phase reaction 2NO<sub>2</sub>(g) $$ \\to $$ N<sub>2</sub>O<sub>4</sub>(g) is an exothermic reaction.  The decomposition of N<sub>2</sub>O<sub>4</sub>,  in equilibrium mixture of NO<sub>2</sub>(g) and N<sub>2</sub>O<sub>4</sub>(g),  can be increased by : ",
+      "options": [
+        {
+          "key": "A",
+          "value": "lowering the temperature."
+        },
+        {
+          "key": "B",
+          "value": "increasing the pressure."
+        },
+        {
+          "key": "C",
+          "value": "addition of an inert gas at constant volume. "
+        },
+        {
+          "key": "D",
+          "value": "addition of an inert gas at constant pressure. "
+        }
+      ],
+      "answer": "D",
+      "explanation": "2NO<sub>2</sub> (g) $$\\buildrel \\, \\over\n \\longrightarrow $$ N<sub>2</sub>O<sub>4</sub> (g);  $$\\Delta $$H = $$-$$ ve \n<br><br>At equilibrium, N<sub>2</sub>O<sub>4</sub> $$\\rightleftharpoons$$ 2NO<sub>2</sub> ; $$\\Delta $$H = + ve\n<br><br> On adding the inert gas at constant pressure, the number of moles per unit volume of various reactants and products will decrease. Hence, the equilibrium will shift towards the direction in which there is increase in number of moles of gases. Therefore, in above case, reaction will move towards forward direction which will lead to the decomposition of dinitrogen tetraoxide (N<sub>2</sub>O<sub>4</sub>)."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "At a certain temperature in a $$5$$ $$L$$ vessel, 2 moles of carbon monoxide and 3 moles of chlorine were allowed to reach equilibrium according to the reaction,  \n<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;CO + Cl<sub>2</sub> $$\\rightleftharpoons$$ COCl<sub>2</sub>\n<br>At equilibrium, if one mole of CO is present then equilibrium constant (K<sub>c</sub>) for the reaction is : ",
+      "options": [
+        {
+          "key": "A",
+          "value": "2"
+        },
+        {
+          "key": "B",
+          "value": "2.5"
+        },
+        {
+          "key": "C",
+          "value": "3"
+        },
+        {
+          "key": "D",
+          "value": "4"
+        }
+      ],
+      "answer": "B",
+      "explanation": "<table class=\"tg\">\n  <tbody><tr>\n    <th class=\"tg-p7ly\"></th>\n    <th class=\"tg-p7ly\">CO</th>\n    <th class=\"tg-p7ly\">+</th>\n    <th class=\"tg-fbrz\">Cl<sub>2</sub></th>\n    <th class=\"tg-fbrz\">$$\\rightleftharpoons$$</th>\n    <th class=\"tg-fbrz\">COCl<sub>2</sub></th>\n  </tr>\n  <tr>\n    <td class=\"tg-13k7\">Initially number of moles</td>\n    <td class=\"tg-p7ly\">2</td>\n    <td class=\"tg-p7ly\"></td>\n    <td class=\"tg-fbrz\">3</td>\n    <td class=\"tg-fbrz\"></td>\n    <td class=\"tg-fbrz\">0</td>\n  </tr>\n  <tr>\n    <td class=\"tg-60hs\">At equilibrium number of moles</td>\n    <td class=\"tg-fbrz\">1</td>\n    <td class=\"tg-fbrz\"></td>\n    <td class=\"tg-fbrz\">2</td>\n    <td class=\"tg-fbrz\"></td>\n    <td class=\"tg-fbrz\">1</td>\n  </tr>\n</tbody></table>\n<br><br>The equilibrium constant,\n<br><br>K<sub>c</sub> = $${{\\left[ {COC{l_2}} \\right]} \\over {\\left[ {CO} \\right]\\left[ {C{l_2}} \\right]}}$$\n<br><br>=&nbsp;&nbsp;$${{\\left( {{1 \\over 5}} \\right)} \\over {\\left( {{1 \\over 5}} \\right) \\times \\left( {{2 \\over 5}} \\right)}}$$\n<br><br>=&nbsp;&nbsp; $${5 \\over 2}$$\n<br><br>=&nbsp;&nbsp;2.5"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "In which of the following reactions, an increase in the volume of the container will favour the formation of products? ",
+      "options": [
+        {
+          "key": "A",
+          "value": "2NO<sub>2</sub>(g) $$\\rightleftharpoons$$ 2NO(g) + O<sub>2</sub>(g)"
+        },
+        {
+          "key": "B",
+          "value": "H<sub>2</sub>(g) + I<sub>2</sub>(g) $$\\rightleftharpoons$$ 2HI(g)"
+        },
+        {
+          "key": "C",
+          "value": "4NH<sub>3</sub>(g) + 5O<sub>2</sub>(g) $$\\rightleftharpoons$$ 4NO(g) + 6H<sub>2</sub>O(1)"
+        },
+        {
+          "key": "D",
+          "value": "3O<sub>2</sub> (g) $$\\rightleftharpoons$$ 2O<sub>3</sub>(g)"
+        }
+      ],
+      "answer": "A",
+      "explanation": "From Boyle's law, we know when volume increase then pressure decreases, and to keep the pressure on original value the reaction should proceeds in the direction where the number of moles of gases increases. \n<br><br>In this reaction, only satisfy this. \n<br><br>2 NO<sub>2</sub>(g) $$\\rightleftharpoons$$ 2 NO(g) + O<sub>2</sub> (g) \n<br><br>$$\\therefore\\,\\,\\,\\,$$  $$\\Delta $$n<sub>g</sub> = (2 + 1) $$-$$ 2 = 1"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The following reaction occurs in the Blast Furnace where iron ore is reduced to iron\nmetal :\n<br><br>Fe<sub>2</sub>O<sub>3</sub>(s) + 3 CO(g) $$\\rightleftharpoons$$ 2 Fe(1) + 3 CO<sub>2</sub>(g)\n<br><br>Using the Le Chatelier’s principle, predict which one of the following will not disturb the equilibrium ?",
+      "options": [
+        {
+          "key": "A",
+          "value": "Removal of CO "
+        },
+        {
+          "key": "B",
+          "value": "Removal of CO<sub>2</sub> "
+        },
+        {
+          "key": "C",
+          "value": "Addition of CO<sub>2</sub>"
+        },
+        {
+          "key": "D",
+          "value": "Addition of Fe<sub>2</sub>O<sub>3</sub>"
+        }
+      ],
+      "answer": "D",
+      "explanation": "<p>Addition of a solid component to a system at constant\n\npressure has no effect on the equilibrium. Therefore,\n\naddition of Fe<sub>2</sub>O<sub>3</sub> will not disturb the equilibrium.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A solid XY kept in an evacuated sealed container undergoes decomposition to form a mixture of gases X and Y at temperature T. The equilibrium pressure is 10 bar in this vessel. K<sub>p</sub> for this reaction is :\n",
+      "options": [
+        {
+          "key": "A",
+          "value": "5"
+        },
+        {
+          "key": "B",
+          "value": "10"
+        },
+        {
+          "key": "C",
+          "value": "25"
+        },
+        {
+          "key": "D",
+          "value": "100"
+        }
+      ],
+      "answer": "C",
+      "explanation": "<p>To determine the equilibrium constant, $K_p$, for the decomposition reaction of the solid compound XY into its gaseous components X and Y, we need to consider the following reaction:</p>\n\n<p>\n\n<p>$$ \\text{XY (s)} \\rightleftharpoons \\text{X (g)} + \\text{Y (g)} $$</p>\n\n</p>\n\n<p>For a reaction where a solid decomposes into gases, the equilibrium constant $K_p$ is defined in terms of the partial pressures of the gaseous products. Since XY is a solid, its activity is considered to be 1 and does not appear in the equilibrium expression. Hence the expression for $K_p$ is:</p>\n\n<p>\n\n<p>$$ K_p = P_X \\cdot P_Y $$</p>\n\n</p>\n\n<p>Where $P_X$ and $P_Y$ are the partial pressures of the gases X and Y, respectively.</p>\n\n<p>Given that the total pressure at equilibrium is 10 bar, and assuming that X and Y are present in equal amounts due to the stoichiometry of the decomposition reaction (i.e., 1:1), we can write:</p>\n\n<p>\n\n<p>$$ P_X = P_Y = \\frac{10}{2} = 5 \\, \\text{bar} $$</p>\n\n</p>\n\n<p>Substituting these partial pressures into the expression for $K_p$ gives:</p>\n\n<p>\n\n<p>$$ K_p = P_X \\cdot P_Y = 5 \\, \\text{bar} \\cdot 5 \\, \\text{bar} = 25 \\, \\text{bar}^2 $$</p>\n\n</p>\n\n<p>Therefore, the equilibrium constant $K_p$ for this reaction is 25. Thus, the correct answer is:</p>\n\n<p>Option C - 25</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The standard Gibbs energy change at 300 K for the reaction 2A $$\\leftrightharpoons$$ B + C is 2494.2 J. At a given time,\nthe composition of the reaction mixture is [A] = 1/2, [B] = 2 and [C] = 1/2. The reaction proceeds in the: [R = 8.314 J/K/mol, e = 2.718]",
+      "options": [
+        {
+          "key": "A",
+          "value": "reverse direction because Q &gt; K<sub>c</sub>"
+        },
+        {
+          "key": "B",
+          "value": "forward direction because Q &lt; K<sub>c</sub>"
+        },
+        {
+          "key": "C",
+          "value": "reverse direction because Q &lt; K<sub>c</sub>"
+        },
+        {
+          "key": "D",
+          "value": "forward direction because Q &gt; K<sub>c</sub>"
+        }
+      ],
+      "answer": "A",
+      "explanation": "$$\\Delta {G^ \\circ } = 2494.2J$$ \n<br><br>$$2A\\,\\rightleftharpoons\\,B + C$$\n<br><br>$$R = 8.314\\,J/K/mol.$$\n<br><br>$$e = 2.718$$ \n<br><br>$$\\left[ A \\right] = {1 \\over 2},\\left[ B \\right] = 2,$$ \n<br><br>$$\\left[ C \\right] = {1 \\over 2};Q = {{\\left[ B \\right]\\left[ C \\right]} \\over {{{\\left[ A \\right]}^2}}}$$\n<br><br>$$ = {{2 \\times 1/2} \\over {{{\\left( {{1 \\over 2}} \\right)}^2}}} = 4$$ \n<br><br>$$\\Delta {G^ \\circ } =  - 2.303\\,\\,RT\\,\\log \\,{K_c}.$$\n<br><br>$$2494.2J =  - 2.303 \\times \\left( {8.314J/K/mol} \\right)$$ \n<br><br>$$\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\, \\times \\left( {300K} \\right)\\log {K_c}$$ \n<br><br>$$ \\Rightarrow \\log \\,{K_c}$$ \n<br><br>$$ =  - {{2494.2\\,J} \\over {2.303 \\times 8.314\\,J/K/mol \\times 300\\,K}}$$\n<br><br>$$ \\Rightarrow \\log \\,{K_c} =  - 0.4341;\\,\\,{K_c} = 0.37;\\,\\,Q &gt; {K_c}.$$ "
+    },
+    {
+      "_type": "single_mcq",
+      "body": "For the reaction SO<sub>2</sub> (g) + $${1 \\over 2} O_2(g) \\leftrightharpoons$$ SO<sub>3</sub>(g). <br>\n if K<sub>P</sub> = K<sub>C</sub>(RT)<sup>x</sup> where the symbols have usual meaning then\nthe value of x is: (assuming ideality)",
+      "options": [
+        {
+          "key": "A",
+          "value": "-1"
+        },
+        {
+          "key": "B",
+          "value": "-1/2"
+        },
+        {
+          "key": "C",
+          "value": "1/2"
+        },
+        {
+          "key": "D",
+          "value": "1"
+        }
+      ],
+      "answer": "B",
+      "explanation": "$$S{O_2}\\left( g \\right) + {1 \\over 2}{O_2}\\left( g \\right)\\,\\rightleftharpoons\\,S{O_3}\\left( g \\right)$$\n<br><br>$${K_p} = {K_C}{\\left( {RT} \\right)^x}$$ \n<br><br>where $$x = \\Delta {n_g} = $$ number of gaseous moles in product \n<br><br>$$\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,$$$$-$$ number of gaseous moles in reactant \n<br><br>$$ = 1 - \\left( {1 + {1 \\over 2}} \\right)$$ \n<br><br>$$ = 1 - {3 \\over 2} =  - {1 \\over 2}$$ "
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The equilibrium constant (K<sub>C</sub>) for the reaction N<sub>2</sub>(g) + O<sub>2</sub>(g) $$\\to$$ 2NO(g) at temperature T is 4 $$\\times$$ 10<sup>–4</sup>. The value of K<sub>C</sub> for the reaction, NO(g) $$\\to$$ 1/2N<sub>2</sub>(g) + 1/2O<sub>2</sub>(g) at the same temperature is : ",
+      "options": [
+        {
+          "key": "A",
+          "value": "0.02"
+        },
+        {
+          "key": "B",
+          "value": "2.5 $$\\times$$ 10<sup>2</sup>"
+        },
+        {
+          "key": "C",
+          "value": "4 $$\\times$$ 10<sup>-4</sup>"
+        },
+        {
+          "key": "D",
+          "value": "50.0"
+        }
+      ],
+      "answer": "D",
+      "explanation": "For the reaction\n<br><br>$${N_2} + {O_2} \\to 2NO$$ \n<br><br>$$\\,K = 4 \\times {10^{ - 4}}$$\n<br><br>Hence for the reaction \n<br><br>$$NO \\to {1 \\over 2}{N_2} + {1 \\over 2}{O_2}$$\n<br><br>$$K' = {1 \\over {\\sqrt K }}$$\n<br><br>$$ = {1 \\over {\\sqrt {4 \\times {{10}^{ - 4}}} }}$$\n<br><br>$$ = 50$$ "
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A vessel at 1000 K contains CO<sub>2</sub> with a pressure of 0.5 atm. Some of the CO<sub>2</sub> is converted into CO on\nthe addition of graphite. If the total pressure at equilibrium is 0.8 atm, the value of K is :",
+      "options": [
+        {
+          "key": "A",
+          "value": "3 atm "
+        },
+        {
+          "key": "B",
+          "value": "0.3 atm "
+        },
+        {
+          "key": "C",
+          "value": "0.18 atm"
+        },
+        {
+          "key": "D",
+          "value": "1.8 atm "
+        }
+      ],
+      "answer": "D",
+      "explanation": "<p>To determine the equilibrium constant $ K $, consider the equilibrium reaction: </p>\n<p>$ \\text{CO}_2 + \\text{C (graphite)} \\rightleftharpoons 2\\text{CO} $</p>\n<p>Initially, the pressure of $\\text{CO}_2$ is 0.5 atm, and there is no $\\text{CO}$:</p>\n\n<p>Initial Pressure: $\\text{CO}_2 = 0.5 \\text{ atm}, \\quad \\text{CO} = 0$</p>\n\n<p>At equilibrium, assume that $ x $ atm of $\\text{CO}_2$ is converted into $\\text{CO}$:</p>\n\n<p>Final Pressure: $\\text{CO}_2 = 0.5 - x \\text{ atm}, \\quad \\text{CO} = 2x \\text{ atm}$</p>\n\n<p>The total pressure at equilibrium is given as 0.8 atm:</p>\n<p>$ 0.5 - x + 2x = 0.5 + x = 0.8 $</p>\n<p>Solving for $ x $:</p>\n<p>$ x = 0.8 - 0.5 = 0.3 \\text{ atm} $</p>\n<p>The equilibrium constant $ K_p $ is calculated as:</p>\n<p>$ K_p = \\frac{(P_{\\text{CO}})^2}{P_{\\text{CO}_2}} $</p>\n<p>Substitute the equilibrium pressures:</p>\n<p>$ K_p = \\frac{(2x)^2}{0.5 - x} = \\frac{(2 \\times 0.3)^2}{0.5 - 0.3} = \\frac{0.6^2}{0.2} $</p>\n<p>$ K_p = \\frac{0.36}{0.2} = 1.8 \\text{ atm} $</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "In aqueous solution the ionization constants for carbonic acid are<br>\nK<sub>1</sub> = 4.2 x 10<sup>–7</sup> and K<sub>2</sub> = 4.8 x 10<sup>–11</sup><br>\nSelect the correct statement for a saturated 0.034 M solution of the carbonic acid.",
+      "options": [
+        {
+          "key": "A",
+          "value": "The concentration of\n$$CO_3^{2−}$$ is 0.034 M."
+        },
+        {
+          "key": "B",
+          "value": "The concentration of\n$$CO_3^{2−}$$ is greater than that of $$HCO_3^{−}$$"
+        },
+        {
+          "key": "C",
+          "value": "The concentration of H<sup>+</sup> and $$HCO_3^−$$ are approximately equal."
+        },
+        {
+          "key": "D",
+          "value": "The concentration of H<sup>+</sup> is double that of $$CO_3^−$$."
+        }
+      ],
+      "answer": "C",
+      "explanation": "$$\\mathop {{H_2}C{O_3}\\left( {aq} \\right)}\\limits_{0.034 - x} \\, + \\,{H_2}O\\left( l \\right)\\,\\rightleftharpoons\\,\\mathop {HCO_3^ - \\left( {aq} \\right)}\\limits_x \\, + \\,\\mathop {{H_3}{O^ + }\\left( {aq} \\right)}\\limits_x $$\n<br><br>$${K_1} = {{\\left[ {HCO_3^ - } \\right]\\left[ {{H_3}{O^ + }} \\right]} \\over {\\left[ {{H_2}C{O_3}} \\right]}}$$\n<br><br>$$ = {{x \\times x} \\over {0.034 - x}}$$\n<br><br>$$ \\Rightarrow 4.2 \\times {10^{ - 7}} = {{{x^2}} \\over {0.034}}$$\n<br><br>$$ \\Rightarrow x = 1.195 \\times {10^{ - 4}}$$\n<br><br>As $${H_2}C{O_3}$$ is a weak acid so the concentration of \n<br><br>$${H_2}C{O_3}$$ will remain $$0.034\\,\\,$$ as $$0.034 &gt;  &gt; x.$$ \n<br><br>$$x = \\left[ {{H^ + }} \\right] = \\left[ {HCO_3^ - } \\right]$$ \n<br><br>$$ = 1.195 \\times {10^{ - 4}}$$ \n<br><br>Now, $$\\mathop {HCO_3^ - }\\limits_{x - y} \\left( {aq} \\right) + {H_2}O\\left( l \\right)\\,\\rightleftharpoons\\,\\mathop {CO_3^{2 - }\\left( {aq} \\right)}\\limits_y \\, + \\,\\mathop {{H_3}{O^ + }\\left( {aq} \\right)}\\limits_y $$ \n<br><br>As $$HCO_3^ - \\,$$ is again a weak acid (weaker than $${H_2}C{O_3})$$ \n<br><br>with $$x &gt;  &gt; y.$$ \n<br><br>$${K_2} = {{\\left[ {CO_3^{{2^ - }}} \\right]\\left[ {{H_3}{O^ + }} \\right]} \\over {\\left[ {HCO_3^ - } \\right]}}$$ \n<br><br>$$ = {{y \\times \\left( {x + y} \\right)} \\over {\\left( {x - y} \\right)}}$$ \n<br><br><b>Note :</b> $$\\left[ {{H_3}{O^ + }} \\right] = {H^ + }\\,\\,$$ from first step $$(x)$$ \n<br><br>and from second step $$\\left( y \\right) = \\left( {x + y} \\right)$$\n<br><br>[As $$\\,\\,\\,x &gt;  &gt; y\\,\\,$$ so $$\\,\\,\\,x + y \\simeq x\\,\\,\\,$$ and $$x - y \\simeq x$$]\n<br><br>So, $$\\,\\,\\,{K_2} \\simeq {{y \\times x} \\over x} = y$$ \n<br><br>$$ \\Rightarrow {K_2} = 4.8 \\times {10^{ - 11}}$$ \n<br><br>$$ = y = \\left[ {CO_3^{{2^ - }}} \\right]$$ \n<br><br>So the concentration of $$\\,\\,\\,\\left[ {{H^ + }} \\right] = \\left[ {HCO_3^ - } \\right] = \\,\\,\\,$$ concentrations obtained from the first step. As the dissociation will be very low in second step so there will be no change in these concentrations. \n<br><br>Thus the final concentrations are \n<br><br>$$\\left[ {{H^ + }} \\right] = \\left[ {HCO_3^ - } \\right] = 1.195 \\times {10^{ - 4}}$$ \n<br><br>$$\\&amp; \\,\\,\\,\\left[ {CO_3^{2 - }} \\right] = 4.8 \\times {10^{ - 11}}$$ "
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The equilibrium constants K<sub>P1</sub> and K<sub>P2</sub> for the reactions X $$\\leftrightharpoons$$ 2Y and Z  $$\\leftrightharpoons$$ P + Q, respectively are in\nthe ratio of 1 : 9. If the degree of dissociation of X and Z be equal then the ratio of total pressure at\nthese equilibria is :",
+      "options": [
+        {
+          "key": "A",
+          "value": "1 : 36"
+        },
+        {
+          "key": "B",
+          "value": "1 : 1"
+        },
+        {
+          "key": "C",
+          "value": "1 : 3"
+        },
+        {
+          "key": "D",
+          "value": "1 : 9"
+        }
+      ],
+      "answer": "A",
+      "explanation": "Let the initial moles of $$X$$ be $$'a'$$ \n<br><br>and that of $$Z$$ be $$'b'$$ the for the given reactions, \n<br><br>we have   $$X\\,\\,\\,\\,\\,\\,\\,\\,\\,\\rightleftharpoons\\,\\,\\,\\,\\,\\,\\,\\,\\,2Y$$ \n<br><br>$$\\eqalign{\n  &amp; Initial\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,a\\,\\,moles\\,\\,\\,\\,\\,\\,\\,0  \\cr \n  &amp; At\\,\\,equi.\\,\\,\\,\\,\\,\\,\\,a\\left( {1 - \\alpha } \\right)\\,\\,\\,\\,\\,\\,\\,2a\\alpha   \\cr \n  &amp; (moles) \\cr} $$\n<br><br>Total no. of moles $$ = a\\left( {1 - \\alpha } \\right) + 2a\\alpha $$\n<br><br>$$ = a - a\\alpha  + 2a\\alpha $$ $$ = a\\left( {1 + \\alpha } \\right)$$\n<br><br>Now, $$\\,\\,\\,{K_{{p_1}}} = {{{{\\left( {{n_y}} \\right)}^2}} \\over {{n_x}}} \\times {\\left( {{{{P_{{T_1}}}} \\over {\\sum n }}} \\right)^{\\Delta n}}$$\n<br><br>or, $$\\,\\,\\,{K_{{p_1}}} = {{{{\\left( {2a\\alpha } \\right)}^2}.{P_{{T_1}}}} \\over {\\left[ {a\\left( {1 - \\alpha } \\right)} \\right]\\left[ {a\\left( {1 + \\alpha } \\right)} \\right]}}$$\n<br><br>$$\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,$$ $$\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,$$ $$Z\\,\\,\\,\\,\\,\\,\\,\\,\\,\\rightleftharpoons\\,\\,\\,\\,\\,\\,\\,\\,\\,P+Q$$ \n<br><br>$$\\eqalign{\n  &amp; Initial\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,b\\,\\,moles\\,\\,\\,\\,\\,\\,\\,\\,\\,0\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,0  \\cr \n  &amp; Ar\\,\\,equi.\\,\\,\\,\\,\\,\\,b\\left( {1 - \\alpha } \\right)\\,\\,\\,\\,\\,\\,\\,\\,b\\alpha \\,\\,\\,\\,\\,\\,\\,b\\alpha   \\cr \n  &amp; (moles) \\cr} $$\n<br><br>Total no. of moles \n<br><br>$$ = b\\left( {1 - \\alpha } \\right) + b\\alpha  + b\\alpha $$\n<br><br>$$ = b - b\\alpha  + b\\alpha  + b\\alpha $$\n<br><br>$$ = b\\left( {1 + \\alpha } \\right)$$\n<br><br>Now $$\\,\\,\\,{K_{{P_2}}} = {{{n_Q} \\times {n_P}} \\over {{n_z}}} \\times {\\left[ {{{{P_{{T_2}}}} \\over {\\sum\\nolimits_n \\, }}} \\right]^{\\Delta n}}$$\n<br><br>or$$\\,\\,\\,{K_{{P_2}}} = {{\\left( {b\\alpha } \\right)\\left( {b\\alpha } \\right).{P_{{T_2}}}} \\over {\\left[ {b\\left( {1 - \\alpha } \\right)} \\right]\\left[ {b\\left( {1 + \\alpha } \\right)} \\right]}}$$\n<br><br>or$$\\,\\,\\,$$ $$\\,\\,\\,{{{K_{{P_1}}}} \\over {{K_{P2}}}} = {{4{\\alpha ^2}.{P_{{T_1}}}} \\over {\\left( {1 - {\\alpha ^2}} \\right)}} \\times {{{{\\left( {1 - \\alpha } \\right)}^2}} \\over {{P_{{T_2}}}.{\\alpha ^2}}}$$ \n<br><br>$$\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,$$ $$ = {{4{P_{{T_1}}}} \\over {{P_{{T_2}}}}}$$\n<br>or$$\\,\\,\\,{{{P_{{T_1}}}} \\over {{P_{T2}}}} = {1 \\over 9}\\,\\,\\,\\,\\,$$ [ as $$\\,\\,\\,{{{K_{{P_1}}}} \\over {{K_{{P_1}}}}} = {1 \\over 9}\\,\\,$$ given ]\n<br><br>or$$\\,\\,\\,{{{P_{{T_1}}}} \\over {{P_{T2}}}} = {1 \\over {36}}$$ \n<br><br>or$$\\,\\,\\,1:36$$ "
+    },
+    {
+      "_type": "single_mcq",
+      "body": "For the following three reactions a, b and c, equilibrium constants are given: <br>\na. CO (g) + H<sub>2</sub>O (g) $$\\leftrightharpoons$$ CO<sub>2</sub>(g) + H<sub>2</sub> (g) ; K<sub>1</sub><br>\nb. CH<sub>4</sub> (g) + H<sub>2</sub>O (g) $$\\leftrightharpoons$$ CO(g) + 3H<sub>2</sub> (g) ; K<sub>2</sub><br>\nc. CH<sub>4</sub> (g) + 2H<sub>2</sub>O (g) $$\\leftrightharpoons$$ CO<sub>2</sub>(g) + 4H<sub>2</sub> (g) ; K<sub>3</sub><br>",
+      "options": [
+        {
+          "key": "A",
+          "value": "$${K_1}\\sqrt {{K_2}}  = {K_3}$$ "
+        },
+        {
+          "key": "B",
+          "value": "K<sub>2</sub>K<sub>3</sub> = K<sub>1</sub>"
+        },
+        {
+          "key": "C",
+          "value": "K<sub>3</sub> = K<sub>1</sub>K<sub>2</sub>"
+        },
+        {
+          "key": "D",
+          "value": "K<sub>3</sub>.$$K_2^3$$ = $$K_1^2$$"
+        }
+      ],
+      "answer": "C",
+      "explanation": "Reaction $$(c)$$ can be obtained by adding reactions $$(a)$$  and $$(b)$$ therefore $${K_3} = {K_1}.{K_2}$$\n<br><br>Hence $$(c)$$ is the correct answer. "
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Phosphorus pentachloride dissociates as follows, in a closed reaction vessel<br>\nPCl<sub>5</sub> (g) $$\\leftrightharpoons$$ PCl<sub>3</sub> (g) + Cl<sub>2</sub> (g) <br>\nIf total pressure at equilibrium of the reaction mixture is P and degree of dissociation of PCl<sub>5</sub> is x, the\npartial pressure of PCl<sub>3</sub> will be ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$\\left( {{x \\over {x + 1}}} \\right)P$$ "
+        },
+        {
+          "key": "B",
+          "value": "$$\\left( {{2x \\over {1 - x}}} \\right)P$$ "
+        },
+        {
+          "key": "C",
+          "value": "$$\\left( {{x \\over {x - 1}}} \\right)P$$ "
+        },
+        {
+          "key": "D",
+          "value": "$$\\left( {{x \\over {1 - x}}} \\right)P$$ "
+        }
+      ],
+      "answer": "A",
+      "explanation": "$$\\mathop {PC{l_5}\\left( g \\right)}\\limits_{1 - x} \\mathop {\\,\\rightleftharpoons\\,PC{l_3}\\left( g \\right)}\\limits_x \\,\\, + \\,\\,\\mathop {C{l_2}\\left( g \\right)}\\limits_x $$\n<br><br>Total moles after dissociation \n<br><br>$$1 - x + x + x = 1 + x$$\n<br><br>$${P_{PC{l_3}}} = $$ mole fraction of $$PCl{}_3 \\times $$ Total pressure \n<br><br>$$ = \\left( {{x \\over {1 + x}}} \\right)P$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The equilibrium constant for the reaction <br>\nSO<sub>3</sub> (g) $$\\leftrightharpoons$$ SO<sub>2</sub> (g) + $$1 \\over 2$$ O<sub>2</sub> (g)<br> \nis K<sub>c</sub> = 4.9 $$\\times$$ 10<sup>–2</sup>. The value of K<sub>c</sub> for the reaction<br>\n2SO<sub>2</sub> (g) + O<sub>2</sub> (g) $$\\leftrightharpoons$$ 2SO<sub>3</sub> (g) will be :",
+      "options": [
+        {
+          "key": "A",
+          "value": "416"
+        },
+        {
+          "key": "B",
+          "value": "9.8 $$\\times$$ 10<sup>-2</sup>"
+        },
+        {
+          "key": "C",
+          "value": "4.9 $$\\times$$ 10<sup>-2</sup>"
+        },
+        {
+          "key": "D",
+          "value": "2.40 $$\\times$$ 10<sup>-3</sup>"
+        }
+      ],
+      "answer": "A",
+      "explanation": "$$S{O_3}\\left( g \\right)\\,\\rightleftharpoons\\,S{O_2}\\left( g \\right)\\,\\, + \\,\\,{1 \\over 2}{O_2}\\left( g \\right)$$\n<br><br>$${K_c} = {{\\left[ {S{O_2}} \\right]{{\\left[ {{O_2}} \\right]}^{{\\raise0.5ex\\hbox{$\\scriptstyle 1$}\n\\kern-0.1em/\\kern-0.15em\n\\lower0.25ex\\hbox{$\\scriptstyle 2$}}}}} \\over {\\left[ {S{O_3}} \\right]}}$$\n<br><br>$$ = 4.9 \\times {10^{ - 2}};$$\n<br><br>On taking the square of the above reaction \n<br><br>$${{{{\\left[ {S{O_2}} \\right]}^2}\\left[ {{O_2}} \\right]} \\over {{{\\left[ {S{O_3}} \\right]}^2}}}$$\n<br><br>$$ = 24.01 \\times {10^{ - 4}}$$\n<br><br>now $$K{'_C}$$ \n<br><br>for $$\\,\\,2S{O_2}\\left( g \\right)\\,\\, + \\,\\,{O_2}\\left( g \\right)\\,\\rightleftharpoons\\,2S{O_3}$$\n<br><br>$$ = {{{{\\left[ {S{O_3}} \\right]}^2}} \\over {{{\\left[ {S{O_2}} \\right]}^2}\\left[ {{O_2}} \\right]}}$$\n<br><br>$$ = {1 \\over {24.01 \\times {{10}^{ - 4}}}}$$\n<br><br>$$ = 416$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The exothermic formation of ClF<sub>3</sub> is represented by the equation: <br>\nCl<sub>2</sub> (g) + 3F<sub>2</sub> (g) $$\\leftrightharpoons$$ 2ClF<sub>3</sub> (g); $$\\Delta H$$ = -329 kJ<br>\nWhich of the following will increase the quantity of ClF<sub>3</sub> in an equilibrium mixture of\nCl<sub>2</sub>, F<sub>2</sub> and ClF<sub>3</sub>? ",
+      "options": [
+        {
+          "key": "A",
+          "value": "Increasing the temperature"
+        },
+        {
+          "key": "B",
+          "value": "Removing Cl<sub>2</sub>"
+        },
+        {
+          "key": "C",
+          "value": "Increasing the volume of the container "
+        },
+        {
+          "key": "D",
+          "value": "Adding F<sub>2</sub>"
+        }
+      ],
+      "answer": "D",
+      "explanation": "The reaction given is an exothermic reaction thus accordingly to Lechatalier's principle lowering of temperature, addition of $${F_2}$$ and or $$C{l_2}$$ favour the for ward direction and hence the production of $$Cl{F_3}.$$ "
+    },
+    {
+      "_type": "single_mcq",
+      "body": "For the reaction\n2NO<sub>2</sub> (g) $$\\leftrightharpoons$$ 2NO (g) + O<sub>2</sub> (g), (K<sub>c</sub> = 1.8 $$\\times$$ 10<sup>-6</sup> at 184<sup>o</sup>C) (R = 0.0831 kJ/(mol. K))<br>\nWhen K<sub>p</sub> and K<sub>c</sub> are compared at 184<sup>o</sup>C , it is found that :",
+      "options": [
+        {
+          "key": "A",
+          "value": "K<sub>p</sub> is greater than K<sub>c</sub>"
+        },
+        {
+          "key": "B",
+          "value": "K<sub>p</sub> is less than K<sub>c</sub>"
+        },
+        {
+          "key": "C",
+          "value": "K<sub>p</sub> = K<sub>c</sub>"
+        },
+        {
+          "key": "D",
+          "value": "Whether K<sub>p</sub> is greater than, less than or equal to K<sub>c</sub> depends upon the total gas\npressure "
+        }
+      ],
+      "answer": "A",
+      "explanation": "For the reaction : - \n<br><br>$$2N{O_2}\\left( g \\right)\\rightleftharpoons2NO\\left( g \\right) + {O_2}\\left( g \\right)$$ \n<br><br>Given $${K_c} = 1.8 \\times {10^{ - 6}}\\,\\,$$ at $$\\,\\,{184^ \\circ }C$$ \n<br><br>$$R=0.0831$$ $$\\,\\,kJ/mol.k$$\n<br><br>$${K_p} = 1.8 \\times {10^{ - 6}} \\times 0.0831 \\times 457$$\n<br><br>$$ = 6.836 \\times {10^{ - 6}}$$ \n<br><br>$$\\left[ {} \\right.$$ as $$\\,\\,\\,\\,\\,{184^ \\circ }C = \\left( {273 + 184} \\right) = 457\\,k,\\,\\,$$ \n<br><br>$$\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\left. {\\Delta n = \\left( {2 + 1, - 1} \\right) = 1} \\right]$$\n<br><br>Hence it is clear that $${K_p} &gt; {K_c}$$ "
+    },
+    {
+      "_type": "single_mcq",
+      "body": "An amount of solid NH4<sub></sub>HS is placed in a flask already containing ammonia gas at a\ncertain temperature and 0.50 atm. Pressure. Ammonium hydrogen sulphide\ndecomposes to yield NH<sub>3</sub> and H<sub>2</sub>S gases in the flask. When the decomposition\nreaction reaches equilibrium, the total pressure in the flask rises to 0.84 atm. The\nequilibrium constant for NH<sub>4</sub>HS decomposition at this temperature is :",
+      "options": [
+        {
+          "key": "A",
+          "value": "0.30"
+        },
+        {
+          "key": "B",
+          "value": "0.11"
+        },
+        {
+          "key": "C",
+          "value": "0.17"
+        },
+        {
+          "key": "D",
+          "value": "0.18"
+        }
+      ],
+      "answer": "B",
+      "explanation": "$$\\mathop {N{H_4}HS\\left( s \\right)\\,\\rightleftharpoons\\,}\\limits_{\\matrix{\n   {start}  \\cr \n   {At\\,\\,equib.}  \\cr \n\n } } \\,\\,\\mathop {N{H_3}\\left( g \\right)}\\limits_{\\matrix{\n   {0.5\\,\\,atm}  \\cr \n   {0.5 + x\\,\\,atm}  \\cr \n\n } } \\,\\, + \\mathop {{H_2}S\\left( g \\right)}\\limits_{\\matrix{\n   {0\\,\\,atm}  \\cr \n   {x\\,\\,atm}  \\cr \n\n } } $$\n<br><br>Then $$0.5 + x + x = 2x + 0.5 = 0.84\\,\\,$$ (Given)\n<br><br>$$ \\Rightarrow x = 0.17\\,\\,atm.$$\n<br><br>$${P_{N{H_3}}} = 0.5 + 0.17 = 0.67\\,atm;$$\n<br><br>$$\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,$$ $${P_H}_{_2S} = 0.17\\,atm$$\n<br><br>$$K = {P_{N{H_3}}} \\times {P_{{H_2}S}}$$ \n<br><br>$$ = 0.67 \\times 0.17\\,at{m^2}$$\n<br><br>$$ = 0.1139 = 0.11$$ "
+    },
+    {
+      "_type": "single_mcq",
+      "body": "What is the equilibrium expression for the reaction <br>\nP<sub>4</sub> (s) + 5O<sub>2</sub> $$\\leftrightharpoons$$ P<sub>4</sub>O<sub>10</sub> (s)?",
+      "options": [
+        {
+          "key": "A",
+          "value": "K<sub>c</sub> = [P<sub>4</sub>O<sub>10</sub>] / 5[P<sub>4</sub>] [O<sub>2</sub>] "
+        },
+        {
+          "key": "B",
+          "value": "K<sub>c</sub> = 1/[O<sub>2</sub>]<sup>5</sup>"
+        },
+        {
+          "key": "C",
+          "value": "K<sub>c</sub> = [P<sub>4</sub>O<sub>10</sub>] / [P<sub>4</sub>] [O<sub>2</sub>]<sup>5</sup>"
+        },
+        {
+          "key": "D",
+          "value": "K<sub>c</sub> = [O<sub>2</sub>]<sup>5</sup>"
+        }
+      ],
+      "answer": "B",
+      "explanation": "For $${P_4}\\left( s \\right) + 5{O_2}\\left( g \\right)\\,\\rightleftharpoons\\,{P_4}{O_{10}}\\left( 8 \\right)$$\n<br><br>$${K_c} = {1 \\over {{{\\left( {{O_2}} \\right)}^5}}}.$$  The solids have concentration unity"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "For the reaction, CO(g) + Cl<sub>2</sub>(g) $$\\leftrightharpoons$$ COCl<sub>2</sub>(g) the $${{{K_p}} \\over {{K_c}}}$$ is equal to :",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$\\sqrt {RT} $$"
+        },
+        {
+          "key": "B",
+          "value": "RT"
+        },
+        {
+          "key": "C",
+          "value": "1/RT"
+        },
+        {
+          "key": "D",
+          "value": "1.0"
+        }
+      ],
+      "answer": "C",
+      "explanation": "$${K_p} = {K_c}{\\left( {RT} \\right)^{\\Delta n}};$$ \n<br><br>Here $$\\Delta n = 1 - 2 =  - 1$$ \n<br><br>$$\\therefore$$ $${{{k_p}} \\over {{K_c}}} = {1 \\over {RT}}$$ "
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The equilibrium constant for the reaction N<sub>2</sub>(g) + O<sub>2</sub>(g) $$\\leftrightharpoons$$ 2NO(g) at temperature T is\n4 $$\\times$$ 10<sup>-4</sup>. The value of K<sub>c</sub> for the reaction NO(g) $$\\leftrightharpoons$$ $$1 \\over 2$$N<sub>2</sub> (g) + $$1 \\over 2$$O<sub>2</sub> (g) at the same temperature is :",
+      "options": [
+        {
+          "key": "A",
+          "value": "2.5 $$\\times$$ 10<sup>2</sup>"
+        },
+        {
+          "key": "B",
+          "value": "4 $$\\times$$ 10<sup>-4</sup>"
+        },
+        {
+          "key": "C",
+          "value": "50"
+        },
+        {
+          "key": "D",
+          "value": "0.02"
+        }
+      ],
+      "answer": "C",
+      "explanation": "$${K_c} = {{{{\\left[ {NO} \\right]}^2}} \\over {\\left[ {{N_2}} \\right]\\left[ {{O_2}} \\right]}} = 4 \\times {10^{ - 4}}$$ \n<br><br>$$K{'_c} = {{{{\\left[ {{N_2}} \\right]}^{1/2}}{{\\left[ {{Q_2}} \\right]}^{1/2}}} \\over {\\left[ {NO} \\right]}}$$\n<br><br>$$ = {1 \\over {\\sqrt {{K_c}} }}$$\n<br><br>$$ = {1 \\over {\\sqrt {4 \\times {{10}^{ - 4}}} }}$$\n<br><br>$$ = 50$$ "
+    },
+    {
+      "_type": "single_mcq",
+      "body": "For the reaction equilibrium <br>\nN<sub>2</sub>O<sub>4</sub> (g) $$\\leftrightharpoons$$ 2NO<sub>2</sub> (g)<br>\nthe concentrations of N<sub>2</sub>O<sub>4</sub> and NO<sub>2</sub> at equilibrium are 4.8 $$\\times$$ 10<sup>-2</sup> and 1.2 $$\\times$$ 10<sup>-2</sup> mol L<sup>-1</sup> respectively. The value of K<sub>c</sub> for the reaction is",
+      "options": [
+        {
+          "key": "A",
+          "value": "3 $$\\times$$ 10<sup>-1</sup> mol L<sup>-1</sup>"
+        },
+        {
+          "key": "B",
+          "value": "3 $$\\times$$ 10<sup>-3</sup> mol L<sup>-1</sup>"
+        },
+        {
+          "key": "C",
+          "value": "3 $$\\times$$ 10<sup>3</sup> mol L<sup>-1</sup>"
+        },
+        {
+          "key": "D",
+          "value": "3.3 $$\\times$$ 10<sup>2</sup> mol L<sup>-1</sup>"
+        }
+      ],
+      "answer": "B",
+      "explanation": "$${K_c} = {{{{\\left[ {N{O_2}} \\right]}^2}} \\over {\\left[ {{N_2}{O_4}} \\right]}} = {{\\left[ {1.2 \\times {{10}^{ - 2}}} \\right]^2} \\over {\\left[ {4.8 \\times {{10}^{ - 2}}} \\right]}}$$\n<br><br>$$ = 3 \\times {10^{ - 3}}\\,mol/L$$ "
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Consider the reaction equilibrium<br>\n2 SO<sub>2</sub> (g) + O<sub>2</sub> (g) $$\\leftrightharpoons$$ 2 SO<sub>3</sub> (g); $$\\Delta H^o$$ = -198 kJ<br>\nOne the basis of Le Chatelier's principle, the condition favourable for the forward reaction is :",
+      "options": [
+        {
+          "key": "A",
+          "value": "increasing temperature as well as pressure"
+        },
+        {
+          "key": "B",
+          "value": "lowering the temperature and increasing the pressure"
+        },
+        {
+          "key": "C",
+          "value": "any value of temperature and pressure"
+        },
+        {
+          "key": "D",
+          "value": "lowering temperature as well as pressure"
+        }
+      ],
+      "answer": "B",
+      "explanation": "Due to exothermicity of reaction low or optimum temperature will be required. Since $$3$$ moles are changing to $$2$$ moles.\n<br><br>$$\\therefore$$ High pressure will be required. "
+    },
+    {
+      "_type": "single_mcq",
+      "body": "For the reaction CO (g) + (1/2) O<sub>2</sub> (g) $$\\leftrightharpoons$$ CO<sub>2</sub> (g), K<sub>p</sub>/K<sub>c</sub> is :",
+      "options": [
+        {
+          "key": "A",
+          "value": "RT"
+        },
+        {
+          "key": "B",
+          "value": "(RT)<sup>-1</sup>"
+        },
+        {
+          "key": "C",
+          "value": "(RT)<sup>-1/2</sup>"
+        },
+        {
+          "key": "D",
+          "value": "(RT)<sup>1/2</sup>"
+        }
+      ],
+      "answer": "C",
+      "explanation": "$${K_p} = {K_c}{\\left( {RT} \\right)^{\\Delta n}};$$ \n<br><br>$$\\Delta n = 1 - \\left( {1 + {1 \\over 2}} \\right)$$\n<br><br>$$ = 1 - {3 \\over 2} =  - {1 \\over 2}.$$\n<br><br>$$\\therefore$$ $$\\,\\,\\,\\,{{{K_p}} \\over {{K_c}}} = {\\left( {RT} \\right)^{ - 1/2}}$$ "
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Change in volume of the system does not alter which of the following equilibria?",
+      "options": [
+        {
+          "key": "A",
+          "value": "N<sub>2</sub>(g) + O<sub>2</sub>(g) $$\\leftrightharpoons$$ 2NO (g)"
+        },
+        {
+          "key": "B",
+          "value": "PCl<sub>5</sub>(g) $$\\leftrightharpoons$$ PCl<sub>3</sub> (g) + Cl<sub>2</sub> (g)"
+        },
+        {
+          "key": "C",
+          "value": "N<sub>2</sub>(g) + 3H<sub>2</sub>(g) $$\\leftrightharpoons$$ 2NH<sub>3</sub> (g)"
+        },
+        {
+          "key": "D",
+          "value": "SO<sub>2</sub>Cl<sub>2</sub> (g) $$\\leftrightharpoons$$ SO<sub>2</sub> (g) + Cl<sub>2</sub> (g)"
+        }
+      ],
+      "answer": "A",
+      "explanation": "In this reaction the ratio of number of moles of reactants to products is same $$i.e.\\,\\,2:2,$$ hence change in volume will not alter the number of moles. "
+    }
+  ]
+}

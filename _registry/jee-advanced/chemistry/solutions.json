@@ -1,0 +1,265 @@
+{
+  "_index": {
+    "name": "Solutions"
+  },
+  "_children": [
+    {
+      "_type": "numerical",
+      "body": "Vessel-1 contains $\\mathbf{w}_2 \\mathrm{~g}$ of a non-volatile solute $\\mathbf{X}$ dissolved in $\\mathbf{w}_1 \\mathrm{~g}$ of water. Vessel- 2 contains $\\mathbf{w}_2 \\mathrm{~g}$ of another non-volatile solute $\\mathbf{Y}$ dissolved in $\\mathbf{w}_1 \\mathrm{~g}$ of water. Both the vessels are at the same temperature and pressure. The molar mass of $\\mathbf{X}$ is $80 \\%$ of that of $\\mathbf{Y}$. The van't Hoff factor for $\\mathbf{X}$ is 1.2 times of that of $\\mathbf{Y}$ for their respective concentrations.\n<br/><br/>\nThe elevation of boiling point for solution in Vessel-1 is ________ $\\%$ of the solution in Vessel-2.",
+      "answer": "150",
+      "explanation": "<p>To determine the elevation of the boiling point for the solutions in both vessels, we need to use the concept of boiling point elevation. The boiling point elevation is given by the formula:</p>\n\n<p>\n\n<p>$$ \\Delta T_b = i \\cdot K_b \\cdot m $$</p>\n\n</p>\n\n<p>Where:</p>\n\n<ul>\n\n<li>$$\\Delta T_b$$ is the boiling point elevation</li>\n\n<li>$$i$$ is the van't Hoff factor</li>\n\n<li>$$K_b$$ is the ebullioscopic constant (which is the same for both solutions since they are dissolved in water)</li>\n\n<li>$$m$$ is the molality of the solution</li>\n\n</ul>\n\n<p>We need to compare the boiling point elevations for both solutions in Vessel-1 and Vessel-2.</p>\n\n<p>For Vessel-1, let the boiling point elevation be $$\\Delta T_{b1}$$, and for Vessel-2, let it be $$\\Delta T_{b2}$$.</p>\n\n<p>Let's denote the molar mass of solute $$Y$$ as $$M_Y$$ g/mol. According to the problem, the molar mass of solute $$X$$ is 80% of that of $$Y$$, i.e.,</p>\n\n<p>\n\n<p>$$ M_X = 0.8 \\cdot M_Y $$</p>\n\n</p>\n\n<p>The van't Hoff factor for $$X$$ is 1.2 times that of $$Y$$, i.e.,</p>\n\n<p>\n\n<p>$$ i_X = 1.2 \\cdot i_Y $$</p>\n\n</p>\n\n<p>The molality $$m$$ of each solution can be calculated using the formula:</p>\n\n<p>\n\n<p>$$ m = \\dfrac{w_2}{M \\cdot w_1} $$</p>\n\n</p>\n\n<p>Thus, the molality of $$X$$ and $$Y$$ solutions are:</p>\n\n<p>For solute $$X$$:</p>\n\n<p>\n\n<p>$$ m_X = \\dfrac{w_2}{M_X \\cdot w_1} = \\dfrac{w_2}{0.8 \\cdot M_Y \\cdot w_1} $$</p>\n\n</p>\n\n<p>For solute $$Y$$:</p>\n\n<p>\n\n<p>$$ m_Y = \\dfrac{w_2}{M_Y \\cdot w_1} $$</p>\n\n</p>\n\n<p>Now, substituting the values into the boiling point elevation formula, we get for Vessel-1:</p>\n\n<p>\n\n<p>$$ \\Delta T_{b1} = i_X \\cdot K_b \\cdot m_X = (1.2 \\cdot i_Y) \\cdot K_b \\cdot \\left( \\dfrac{w_2}{0.8 \\cdot M_Y \\cdot w_1} \\right) $$</p>\n\n</p>\n\n<p>For Vessel-2:</p>\n\n<p>\n\n<p>$$ \\Delta T_{b2} = i_Y \\cdot K_b \\cdot m_Y = i_Y \\cdot K_b \\cdot \\left( \\dfrac{w_2}{M_Y \\cdot w_1} \\right) $$</p>\n\n</p>\n\n<p>To find the ratio of $$\\Delta T_{b1}$$ to $$\\Delta T_{b2}$$:</p>\n\n<p>\n\n<p>$$ \\dfrac{\\Delta T_{b1}}{\\Delta T_{b2}} = \\dfrac{(1.2 \\cdot i_Y) \\cdot K_b \\cdot \\left( \\dfrac{w_2}{0.8 \\cdot M_Y \\cdot w_1} \\right)}{i_Y \\cdot K_b \\cdot \\left( \\dfrac{w_2}{M_Y \\cdot w_1} \\right)} $$</p>\n\n</p>\n\n<p>Simplifying the ratio:</p>\n\n<p>\n\n<p>$$ \\dfrac{\\Delta T_{b1}}{\\Delta T_{b2}} = \\dfrac{1.2}{0.8} = 1.5 $$</p>\n\n</p>\n\n<p>This means the elevation of the boiling point for the solution in Vessel-1 is 150% of that in Vessel-2. Thus, the elevation of boiling point for solution in Vessel-1 is <strong>150%</strong> of the elevation of the boiling point for the solution in Vessel-2.</p>"
+    },
+    {
+      "_type": "numerical",
+      "body": "$50 \\mathrm{~mL}$ of 0.2 molal urea solution (density $=1.012 \\mathrm{~g} \\mathrm{~mL}^{-1}$ at $300 \\mathrm{~K}$ ) is mixed with $250 \\mathrm{~mL}$ of a solution containing $0.06 \\mathrm{~g}$ of urea. Both the solutions were prepared in the same solvent. The osmotic pressure (in Torr) of the resulting solution at $300 \\mathrm{~K}$ is _______.\n<br/><br/>[Use: Molar mass of urea $=60 \\mathrm{~g} \\mathrm{~mol}^{-1}$; gas constant, $\\mathrm{R}=62$ L Torr $\\mathrm{K}^{-1} \\mathrm{~mol}^{-1}$;\n<br/><br/>Assume, $\\Delta_{\\text {mix }} \\mathrm{H}=0, \\Delta_{\\text {mix }} \\mathrm{V}=0$ ]",
+      "answer": "682",
+      "explanation": "<ol>\n<li><p><strong>Find the weight of urea in the 0.2 molal solution :</strong>\n<br/><br/>Given a 0.2 molal solution, there are 0.2 moles of urea in 1000 g of solvent. The weight of urea is thus $0.2 \\, \\text{mol} \\times 60 \\, \\text{g/mol} = 12 \\, \\text{g}$.</p>\n</li>\n<br/><li><p><strong>Find the weight of the solution :</strong>\n<br/><br/>The total weight of the solution is the weight of the solvent plus the weight of the solute, or $1000 \\, \\text{g} + 12 \\, \\text{g} = 1012 \\, \\text{g}$.</p>\n</li>\n<br/><li><p><strong>Find the volume of the solution :</strong>\n<br/><br/>Given the density of the solution, we can find its volume by dividing the total weight of the solution by the density: $\\frac{1012 \\, \\text{g}}{1.012 \\, \\text{g/mL}} = 1000 \\, \\text{mL}$.</p>\n</li>\n<br/><li><p><strong>Find the amount of urea in 50 mL of the 0.2 molal solution :</strong>\n<br/><br/>If 1000 mL of the solution contains 0.2 moles of urea, then 50 mL of the solution contains $\\frac{0.2 \\, \\text{mol} \\times 50 \\, \\text{mL}}{1000 \\, \\text{mL}} = 0.01 \\, \\text{mol}$ of urea.</p>\n</li>\n<br/><li><p><strong>Find the amount of urea in the 250 mL solution :</strong>\n<br/><br/>The 250 mL solution contains $0.06 \\, \\text{g}$ of urea, or $\\frac{0.06 \\, \\text{g}}{60 \\, \\text{g/mol}} = 0.001 \\, \\text{mol}$.</p>\n</li>\n<br/><li><p><strong>Find the total concentration of the solution :</strong>\n<br/><br/>After mixing, the total volume of the solution is $50 \\, \\text{mL} + 250 \\, \\text{mL} = 300 \\, \\text{mL}$, and the total amount of urea is $0.01 \\, \\text{mol} + 0.001 \\, \\text{mol} = 0.011 \\, \\text{mol}$. \n<br/><br/>So, the concentration of the solution is $\\frac{0.011 \\, \\text{mol}}{300 \\, \\text{mL}} \\times 1000 \\, \\text{mL/L} = 0.0366 \\, \\text{M}$.</p>\n</li>\n<br/><li><p><strong>Find the osmotic pressure of the solution :</strong>\n<br/><br/>Finally, the osmotic pressure $\\pi$ of the solution can be found using the formula $\\pi = CRT$, where $C$ is the concentration, $R$ is the gas constant, and $T$ is the temperature. Substituting the given and calculated values, <br/><br/>we have $\\pi = 0.0366 \\, \\text{M} \\times 62 \\, \\text{L Torr K}^{-1} \\text{mol}^{-1} \\times 300 \\, \\text{K} = 682 \\, \\text{Torr}$.</p>\n</li>\n</ol>\n"
+    },
+    {
+      "_type": "numerical",
+      "body": "The value of x is ________.",
+      "answer": "100.1",
+      "explanation": "$$\n\\begin{aligned}\n& \\mathrm{AgNO}_3(\\mathrm{aq}) \\longrightarrow \\underset{0.1 ~ m}{\\mathrm{Ag}^{+}(\\mathrm{aq})}+\\underset{0.1 ~m}{\\mathrm{NO}_3^{-}(\\mathrm{aq})}\\\\\\\\\n& \\Delta \\mathrm{T}_{\\mathrm{b}}=0.2 \\times 0.5 \\\\\\\\\n& =0.1^{\\circ} \\mathrm{C}=0.1 \\mathrm{~K} \n\\end{aligned}\n$$<br/><br/>\nBoiling point of solution $=100.1^{\\circ} \\mathrm{C} \n=\\mathrm{X}\n$"
+    },
+    {
+      "_type": "numerical",
+      "body": "The value of | y | is ________.",
+      "answer": "2.5",
+      "explanation": "$$\n\\begin{aligned}\n& \\mathrm{AgNO}_3(\\mathrm{aq}) \\longrightarrow \\mathrm{Ag}^{+}(\\mathrm{aq})+\\mathrm{NO}_3^{-}(\\mathrm{aq}) \\\\\\\\\n& 0.05 \\mathrm{~m} \\quad\\quad\\quad\\quad\\quad 0.05 \\mathrm{~m} \\quad\\quad 0.05 \\mathrm{~m} \\\\\\\\\n& \\mathrm{BaCl}_2(\\mathrm{aq}) \\longrightarrow \\mathrm{Ba}^{2+}(\\mathrm{aq})+2 \\mathrm{Cl}^{-}(\\mathrm{aq}) \\\\\\\\\n& 0.05 \\mathrm{~m} \\quad \\quad\\quad\\quad\\quad0.05 \\mathrm{~m} \\quad\\quad 0.1 \\mathrm{~m} \n\\end{aligned}\n$$<br/><br/>\n$\\mathrm{Ag}^{+}$and $\\mathrm{Cl}^{-}$combine to form $\\mathrm{AgCl}$ precipitate<br/><br/>\n$$\n\\begin{array}{cccc} \n& \\mathrm{Ag}^{+}(\\mathrm{aq})+ & \\mathrm{Cl}^{-}(\\mathrm{aq}) \\longrightarrow & \\mathrm{AgCl}(\\mathrm{s}) \\\\\\\\\n\\mathrm{t}=0 & 0.05 \\mathrm{~m} & 0.1 \\mathrm{~m} \\\\\\\\\n\\mathrm{t}=\\infty & 0 & 0.05 \\mathrm{~m}\n\\end{array}\n$$<br/><br/>\nIn final solution total concentration of all ions :<br/><br/>\n$$\n\\begin{aligned}\n& {\\left[\\mathrm{Cl}^{-}\\right]+\\left[\\mathrm{NO}_3^{-}\\right]+\\left[\\mathrm{Ba}^{2+}\\right]=0.05+0.05+0.05} \\\\\\\\\n& \\begin{aligned}\n\\Delta \\mathrm{T}_{\\mathrm{b}} & =0.5 \\times 0.15 \\\\\\\\\n& =0.15 \\mathrm{~m} \\\\\\\\\n& =0.075^{\\circ} \\mathrm{C}\n\\end{aligned}\n\\end{aligned}\n$$<br/><br/>\nB.P. of solution ' $\\mathrm{B}$ ' $=100.075^{\\circ} \\mathrm{C}$<br/><br/>\nB.P. of solution ' $\\mathrm{A}^{\\prime}=100.1^{\\circ} \\mathrm{C}$<br/><br/>\n$|y|=100.1-100.075$<br/><br/>\n$$\n=0.025=2.5 \\times 10^{-2}\n$$"
+    },
+    {
+      "_type": "numerical",
+      "body": "Liquids A and B form ideal solution for all compositions of A and B at 25$$^\\circ $$C. Two such solutions with 0.25 and 0.50 mole fractions of A have the total vapour pressure of 0.3 and 0.4 bar, respectively. What is the vapour pressure of pure liquid B  in bar?",
+      "answer": "0.2",
+      "explanation": "Using Raoult's law equation for a mixture of volatile liquids.<br><br>$${P_T} = p_A^o{\\chi _A} + p_B^o{\\chi _B}$$<br><br>$$0.3 = 0.25\\chi p_A^o + 0.75\\chi p_B^o$$ ....(i)<br><br>$$0.4 = 0.5\\chi p_A^o + 0.5\\chi p_B^o$$ ....(ii)<br><br>By solving equation (i) and (ii)<br><br>$$p_A^o$$ = 0.6 bar and $$p_B^o$$ = 0.2 bar<br><br>Thus, the vapour pressure of pure liquid B in bar is 0.2."
+    },
+    {
+      "_type": "numerical",
+      "body": "On dissolving 0.5 g of a non-volatile non-ionic solute to 39 g of benzene, its vapor pressure decreases from 650 mmHg to 640 mmHg. The depression of freezing point of benzene (in K) upon addition of the solute is .............<br><br>(Given data: Molar mass and the molal freezing point depression constant of benzene are 78 g mol<sup>-1</sup> and 5.12 K kg mol<sup>-1</sup>, respectively).",
+      "answer": "1.02",
+      "explanation": "When 0.5 g of non-volatile solute dissolve into 39 gm of benzene then relative lowering of vapour pressure occurs. Hence, vapour pressure decreases from 650 mmHg to 640 mmHg.<br><br>Given, vapour pressure of solvent (p$$^\\circ $$) = 650 mmHg<br><br>Vapour pressure of solution (p<sub>s</sub>) = 640 mmHg<br><br>Weight of non-volatile solute = 0.5 g<br><br>Weight of solvent (benzene) = 39 g<br><br>From relative lowering of vapour pressure,<br><br>$${{p^\\circ  - {p_s}} \\over {p^\\circ }} = {x_{Solute}} = {{{n_{solute}}} \\over {{n_{solute}} + {n_{solvent}}}}$$<br><br>$${{650 - 640} \\over {650}} = {{{{0.5} \\over {molar\\,mass}}} \\over {{{0.5} \\over {molar\\,mass}} + {{39} \\over {78}}}}$$<br><br>$${{10} \\over {650}} = {{{{0.5} \\over {molar\\,mass}}} \\over {{{0.5} \\over {molar\\,mass}} + 0.5}}$$<br><br>$$0.5 + 0.5 \\times molar\\,mass = 65 \\times 0.5$$<br><br>$$ \\therefore $$ Molar mass of solute = 64 g<br><br>From molal depression of freezing point,<br><br>$$\\Delta {T_f} = {K_f} \\times molality$$<br><br>$$ = {{{K_f} \\times {w_{solute}}} \\over {{{(MW)}_{solute}} \\times {w_{solvent}}}}$$<br><br>$$ \\Rightarrow $$ $$ \\Delta {T_f} = 5.12 \\times {{0.5 \\times 1000} \\over {64 \\times 39}} $$\n<br><br>$$\\Rightarrow \\Delta {T_f} = 1.02K$$"
+    },
+    {
+      "_type": "numerical",
+      "body": "Liquids <b>A</b> and <b>B</b>  form ideal solution over the entire range of composition. At temperature $$T,$$ equimolar binary solution of liquids $$A$$ and $$B$$ has vapor pressure $$45$$ $$Torr.$$  At the same temperature, a new solution of $$A$$ and $$B$$ having mole fractions $${X_A}$$ and $${X_B}$$, respectively, has vapour pressure of $$22.5$$ $$Torr.$$ The value of $${x_A}/{x_B}$$ in the new solution is ___________. \n<br><br>(given that the vapor pressure of pure liquid $$A$$ is $$20$$ $$Torr$$ at temperature $$T$$)",
+      "answer": "19",
+      "explanation": "<p>We know,</p>\n<p>$${p_{Total}} = p_A^o \\times {\\chi _A} + p_B^o \\times {\\chi _B}$$</p>\n<p>and for equimolar solutions $${\\chi _A} = {\\chi _B} = 1/2$$</p>\n<p>Given, $${p_{total}} = 45$$ torr for equimolar solution and $$p_A^o = 20$$ torr</p>\n<p>So, $$45 = p_A^o \\times {1 \\over 2} + p_B^o \\times {1 \\over 2} = {1 \\over 2}(p_A^o + p_B^o)$$</p>\n<p>or $$p_A^o + p_B^o = 90$$ torr ....... (i)</p>\n<p>But we know $$p_A^o = 20$$ torr</p>\n<p>So, $$p_B^o = 90 - 20 = 70$$ torr (From Eq. (i))</p>\n<p>Now, for the new solution from the same formula</p>\n<p>$${p_{total}} = 22.5$$ torr</p>\n<p>$$22.5 = 20{\\chi _A} + 70(1 - {\\chi _A})$$ (As $${\\chi _A} + {\\chi _B} = 1$$)</p>\n<p>or $$22.5 = 70 - 50{\\chi _A}$$</p>\n<p>So, $${\\chi _A} = {{70 - 22.5} \\over {50}} = 0.95$$</p>\n<p>Thus, $${\\chi _B} = 1 - 0.95 = 0.05$$ (as $$\\chi$$<sub>A</sub> + $$\\chi$$<sub>B</sub> = 1)</p>\n<p>Hence, the ratio</p>\n<p>$${{{\\chi _A}} \\over {{\\chi _B}}} = {{0.95} \\over {0.05}} = 19$$</p>"
+    },
+    {
+      "_type": "numerical",
+      "body": "The mole fraction of a solute in a solution is 0.1. At 298 K, molarity of this solution is the same as its\nmolality. Density of this solution at 298 K is 2.0 g cm<sup>–3</sup> . The ratio of the molecular weights of the solute and solvent, $$\\left( {{{M{W_{solute}}} \\over {M{W_{solvent}}}}} \\right)$$, is",
+      "answer": "9",
+      "explanation": "It is given that the mole fraction of the solute $\\left(x_{\\text {solute }}\\right)$ is 0.1 , therefore mole fraction of the solvent $\\left(x_{\\text {solvent }}\\right)$ is 0.9 . So we have\n<br/><br/>$$\nx_{\\text {solute }}=\\frac{n_{\\text {solute }}}{\\left(n_{\\text {solute }}+n_{\\text {solvent }}\\right)}=0.1\n$$ ......(1)\n<br/><br/>$$\nx_{\\text {solvent }}=\\frac{n_{\\text {solvent }}}{\\left(n_{\\text {solute }}+n_{\\text {solvent }}\\right)}=0.9\n$$ ......(2)\n<br/><br/>where $n_{\\text {solute }}$ and $n_{\\text {solvent }}$ are the number of moles of solute and solvent, respectively. Dividing Eq. (1) by Eq. (2) gives\n<br/><br/>$$\n\\frac{x_{\\text {solute }}}{x_{\\text {solvent }}}=\\frac{n_{\\text {solute }}}{n_{\\text {solvent }}}=\\frac{0.1}{0.9}\n$$ .......(3)\n<br/><br/>Given that the density of solution is $2 \\mathrm{~g} \\mathrm{~cm}^{-3}$, we have\n<br/><br/>$$\n\\begin{aligned}\n& W_{\\text {solution }} =\\text { density } \\times V_{\\text {solution }}=2 \\times V_{\\text {solution }} \\\\\\\\\n&  \\therefore W_{\\text {solute }}+W_{\\text {solvent }}  =2 \\times V_{\\text {solution }} .......(4)\n\\end{aligned}\n$$\n<br/><br/>We know that molality is given by\n<br/><br/>$$\nm=\\frac{n_{\\text {solute }} \\times 1000}{n_{\\text {solvent }} \\times W_{\\text {solvent }}}\n$$\n<br/><br/>Substituting from Eq. (3), we have\n<br/><br/>$$\nm=\\left(\\frac{0.1}{0.9}\\right) \\times \\frac{1000}{W_{\\text {solvent }}}\n$$ ......(5)\n<br/><br/>Molarity is given by\n<br/><br/>$$\nM=\\frac{n_{\\text {solute }} \\times 1000}{n_{\\text {solvent }} \\times V_{\\text {solution }}}\n$$\n<br/><br/>Substituting from Eq. (3), we have\n<br/><br/>$$\nM=\\left(\\frac{0.1}{0.9}\\right) \\times \\frac{1000}{V_{\\text {solution }}}\n$$ ..........(6)\n<br/><br/>Given that, Molarity $(M)=$ Molality $(m)$; \n<br/><br/>Therefore, from Eqs. (5) and (6), we get\n<br/><br/>$$\n\\begin{aligned}\n& \\frac{0.1 \\times 1000}{0.9 \\times W_{\\text {solvent }}}  =\\frac{0.1 \\times 1000}{0.9 \\times V_{\\text {solution }}} \\\\\\\\\n& W_{\\text {solvent }}  =V_{\\text {solution }}\n\\end{aligned}\n$$\n<br/><br/>From Eq. (4), we have\n<br/><br/>$$\n\\begin{aligned}\nW_{\\text {solvent }} & =\\frac{W_{\\text {solute }}+W_{\\text {solvent }}}{2} \\\\\\\\\n2 W_{\\text {solvent }} & =W_{\\text {solute }}+W_{\\text {solvent }} \\\\\\\\\nW_{\\text {solvent }} & =W_{\\text {solute }} .........(7)\n\\end{aligned}\n$$\n\n<br/><br/>\nThe molecular weight (MW) of the solute can be calculated by dividing the weight of the solute by the number of moles of solute. This can be written as :\n<br/><br/>$$\nMW_{\\text{solute}} = \\frac{W_{\\text{solute}}}{n_{\\text{solute}}}\n$$\n\n<br/><br/>2. Similarly, the molecular weight (MW) of the solvent can be calculated by dividing the weight of the solvent by the number of moles of solvent. This can be written as :\n<br/><br/>$$\nMW_{\\text{solvent}} = \\frac{W_{\\text{solvent}}}{n_{\\text{solvent}}}\n$$\n<br/><br/>In these formulas, $MW_{\\text{solute}}$ and $MW_{\\text{solvent}}$ represent the molecular weights of the solute and solvent respectively, $W_{\\text{solute}}$ and $W_{\\text{solvent}}$ represent their weights, and $n_{\\text{solute}}$ and $n_{\\text{solvent}}$ represent the number of moles of solute and solvent respectively.\n<br/><br/>From Eq. (3), we have\n<br/><br/>$$\n\\frac{n_{\\text {solute }}}{n_{\\text {solvent }}}=\\frac{W_{\\text {solute }} / M W_{\\text {solute }}}{W_{\\text {solvent }} / M W_{\\text {solvent }}}=\\frac{0.1}{0.9}\n$$\n<br/><br/>Using Eq. (7), we get\n<br/><br/>$$\n\\frac{M W_{\\text {solute }}}{M W_{\\text {solvent }}}=9\n$$"
+    },
+    {
+      "_type": "numerical",
+      "body": "If the freezing point of a 0.01 molal aqueous solution of a cobalt (III) chloride-ammonia complex(which\nbehaves as a strong electrolyte) is – 0.0558<sup>o</sup>C, the number of chloride(s) in the coordination sphere of the\ncomplex is [K<sub>f</sub> of water = 1.86 K kg mol<sup>–1</sup> ]",
+      "answer": "1",
+      "explanation": "<p>The depression in freezing point is given by</p>\n<p>$$\\Delta$$T<sub>f</sub> = K<sub>f</sub> $$\\times$$ m $$\\times$$ i</p>\n<p>0.0558 = 1.86 $$\\times$$ 0.01 $$\\times$$ i</p>\n<p>i = 3</p>\n<p>Therefore, one mole of complex gives three moles of ions in solution.</p>\n<p>Hence, the complex is [Co(NH<sub>3</sub>)<sub>5</sub>Cl]Cl<sub>2</sub> and the number of Cl<sup>$$-$$</sup> ions inside the coordination sphere is 1.</p>"
+    },
+    {
+      "_type": "numerical",
+      "body": "MX<sub>2</sub> dissociates in M<sup>2+</sup> and X<sup>-</sup> ions in an aqueous solution, with a degree of dissociation ($$\\alpha$$) of 0.5. The\nratio of the observed depression of freezing point of the aqueous solution to the value of the depression of\nfreezing point in the absence of ionic dissociation is ",
+      "answer": "2",
+      "explanation": "<p>The depression of freezing point is an important colligative property, which is influenced by the number of solute particles in a solution. When a solute dissociates or ionizes in a solution, it increases the number of particles in the solution, thereby affecting colligative properties such as the depression of freezing point. The degree of dissociation ($$\\alpha$$) gives us a measure of the extent to which a compound dissociates into its ions. For our case, MX<sub>2</sub> dissociates into one M<sup>2+</sup> ion and two X<sup>-</sup> ions.</p>\n\n<p>Let's initially consider 1 mole of MX<sub>2</sub> is present. Since the degree of dissociation ($$\\alpha$$) is 0.5, this means half of the MX<sub>2</sub> dissociates into its ions, and half remains undissociated.</p>\n\n<p>For the dissociation reaction:</p>\n\n<p>$$\\text{MX}_{2} \\rightarrow \\text{M}^{2+} + 2\\text{X}^{-}$$</p>\n\n<p>If the initial amount of MX<sub>2</sub> is 1 mole, then:</p>\n\n<ul>\n\n<li>The amount of MX<sub>2</sub> that dissociates = $$\\alpha = 0.5$$ moles</li>\n\n<li>The amount of M<sup>2+</sup> formed = $$\\alpha = 0.5$$ moles (since for every mole of MX<sub>2</sub> that dissociates, 1 mole of M<sup>2+</sup> is formed)</li>\n\n<li>The amount of X<sup>-</sup> formed = $$2\\alpha = 2 \\times 0.5 = 1$$ mole (since for every mole of MX<sub>2</sub> that dissociates, 2 moles of X<sup>-</sup> are formed)</li>\n\n</ul>\n\n<p>The Van't Hoff factor (i) quantifies the effect of solute particles on the colligative properties of a solution. It is defined as the ratio of the actual number of particles in solution after dissociation to the number of formula units initially dissolved in the solvent.</p>\n\n<p>$$i = \\frac{\\text{Total number of particles after dissociation}}{\\text{Number of moles of solute originally dissolved}}$$</p>\n\n<p>Considering the dissociation and the amounts calculated:</p>\n\n<ul>\n\n<li>Total number of particles after dissociation = (undissociated MX<sub>2</sub>) + (M<sup>2+</sup>) + (X<sup>-</sup>) = $$(1 - \\alpha) + \\alpha + 2\\alpha$$\n\n<li>Putting the value of $$\\alpha = 0.5$$, we get:\n\n<p>$$i = \\frac{(1 - 0.5) + 0.5 + 2(0.5)}{1} = \\frac{1 + 1}{1} = 2$$</li></p>\n\n</ul>\n\n<p>Now, the depression in freezing point ($$\\Delta T_f$$) is directly proportional to the molal concentration of the solute particles and Van't Hoff factor (i):</p>\n\n<p>$$\\Delta T_f = i \\cdot K_f \\cdot m$$</p>\n\n<p>Where $$K_f$$ is the cryoscopic constant and $$m$$ is the molality of the solution.</p>\n\n<p>Without ionic dissociation, the value of $$i$$ would have been 1 (since the solute would not have dissociated into multiple particles). However, due to the dissociation, the value of $$i$$ has increased to 2. The ratio of the observed depression of freezing point of the aqueous solution to the value of the depression of freezing point in the absence of ionic dissociation, therefore, would be directly equal to the ratio of the Van't Hoff factors:</p>\n\n<p>$$\\frac{\\text{Observed } \\Delta T_f}{\\text{In the absence of ionic dissociation}} = \\frac{2 \\cdot K_f \\cdot m}{1 \\cdot K_f \\cdot m} = \\frac{2}{1} = 2$$</p>\n\n<p>This ratio shows that due to the ionic dissociation of MX<sub>2</sub> into M<sup>2+</sup> and X<sup>-</sup> ions with a degree of dissociation ($$\\alpha$$) of 0.5, the observed depression in freezing point is twice the value it would have been in the absence of ionic dissociation.</p>"
+    },
+    {
+      "_type": "numerical",
+      "body": "75.2 g of C<sub>6</sub>H<sub>5</sub>OH (phenol) is dissolved in a solvent of K<sub>f</sub> = 14. If the depression in freezing point is 7 K then find the % of phenol that dimerises.",
+      "answer": "70",
+      "explanation": "<p>No. of moles of dissolved phenol in solution = $${{72.5} \\over {94}}$$ = 0.77 mol <br/><br/>[$$\\because$$ molar mass of phenol = 94 g mol<sup>-1</sup><br/>]</p>\n<p>Molality (m) of the solution = $${{0.77} \\over {1000}} \\times 1000 = 0.77$$ mol kg<sup>$$-$$1</sup> [$$\\because$$ weight of solvent = 1000 g]</p>\n<p>We know, $$\\Delta$$T<sub>f</sub> = k<sub>f</sub> $$\\times$$ m [Given : k<sub>f</sub> = 14]</p>\n<p>$$\\therefore$$ $$\\Delta$$T<sub>f</sub> = 14 $$\\times$$ 0.77 = 10.78 K</p>\n<p>Hence, calculated value of $$\\Delta$$T<sub>f</sub> = 10.78 K</p>\n<p>But, experimental value of $$\\Delta$$T<sub>f</sub> = 7K</p>\n<p>Therefore, van't Hoff factor, $$i = {7 \\over {10.78}} = 0.65$$</p>\n<p>If a solute undergoes association in solution, its degree of association ($$\\alpha$$) is given by, $$\\alpha  = {{i - 1} \\over {{1 \\over n} - 1}}$$</p>\n<p>where n = no. of molecules that associate to form a single associated molecule.</p>\n<p>In case of dimerisation, n = 2</p>\n<p>$$\\therefore$$ $$\\alpha  = {{0.65 - 1} \\over {{1 \\over 2} - 1}} = 0.7$$</p>\n<p>Hence, the percentage of phenol that dimerises = 70%</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "For a dilute solution containing 2.5 g of a non-volatile non-electrolyte solute in 100 g of water. the elevation in boiling point at 1 atm pressure is 2<sup>o</sup>C. Assuming concentration of solute is much lower than the concentration of solvent, the vapour pressure (mm of Hg) of the solution is (take K<sub>b</sub> = 0.76 K Kg mol<sup>-1</sup>)",
+      "options": [
+        {
+          "key": "A",
+          "value": "724"
+        },
+        {
+          "key": "B",
+          "value": "780"
+        },
+        {
+          "key": "C",
+          "value": "736"
+        },
+        {
+          "key": "D",
+          "value": "718"
+        }
+      ],
+      "answer": "A",
+      "explanation": "<p>Using the boiling point elevation formula:</p>\n<p>$$ \\Delta T_b = K_b \\cdot m $$,</p>\n<p>where:</p>\n\n<p><p>$ \\Delta T_b $ is the elevation in boiling point,</p></p>\n<p><p>$ K_b $ is the ebullioscopic constant,</p></p>\n<p><p>$ m $ is the molality.</p></p>\n\n<p>Given:</p>\n\n<p><p>$ K_b = 0.76 \\, \\text{K} \\, \\text{kg} \\, \\text{mol}^{-1} $,</p></p>\n<p><p>$ \\Delta T_b = 2^\\circ\\text{C} $,</p></p>\n<p><p>mass of solute $ = 2.5 \\, \\text{g} $,</p></p>\n<p><p>mass of solvent (water) $ = 100 \\, \\text{g} = 0.1 \\, \\text{kg} $.</p></p>\n\n<p>First, find the molality $ m $:</p>\n<p>$$ m = \\frac{\\Delta T_b}{K_b} = \\frac{2}{0.76} = \\frac{200}{76} \\approx 2.63 \\, \\text{mol} \\, \\text{kg}^{-1} $$.</p>\n<p>Now calculate the moles of solute:</p>\n<p>Given the molality $ m $,</p>\n<p>$$ m = \\frac{\\text{moles of solute}}{\\text{mass of solvent in kg}} $$.</p>\n<p>Thus,</p>\n<p>$$ \\text{moles of solute} = m \\times \\text{mass of solvent in kg} = 2.63 \\times 0.1 = 0.263 \\, \\text{mol} $$.</p>\n<p>Next, determine the molecular weight $ M $ of the solute:</p>\n<p>$$ M = \\frac{\\text{mass of solute}}{\\text{moles of solute}} = \\frac{2.5 \\, \\text{g}}{0.263 \\, \\text{mol}} \\approx 9.51 \\, \\text{g/mol} $$.</p>\n<p>Using Raoult's Law for the vapour pressure of the solution:</p>\n<p>$$ P_{\\text{solution}} = P_0 \\cdot (1 - \\chi_{\\text{solute}}) $$,</p>\n<p>where:</p>\n\n<p><p>$ P_0 $ is the vapour pressure of pure solvent,</p></p>\n<p><p>$ \\chi_{\\text{solute}} $ is the mole fraction of the solute.</p></p>\n\n<p>Approximate the mole fraction of the solute:</p>\n<p>$$ \\chi_{\\text{solute}} = \\frac{\\text{moles of solute}}{\\nu_{\\text{solvent}} + \\nu_{\\text{solute}}} \\approx \\frac{0.263}{5.55 + 0.263} \\approx \\frac{0.263}{5.813} \\approx 0.0452 $$,</p>\n<p>where $\\nu_{\\text{solvent}}$ are the moles of water (approximately 5.55 mol for 100 g of water).</p>\n<p>Therefore, the vapour pressure of the solution:</p>\n<p>$$ P_{\\text{solution}} = 760 \\times (1 - 0.0452) \\approx 760 \\times 0.9548 \\approx 724 \\, \\text{mm Hg} $$.</p>\n<p>Thus, the vapour pressure of the solution is 724 mm of Hg, corresponding to Option A.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The freezing point (in <sup>o</sup>C) of a solution containing 0.1 g of K<sub>3</sub>[Fe(CN)<sub>6</sub>] (Mol. wt. 329) in 100 g of water (K<sub>f</sub> = 1.86 K kg mol<sup>-1</sup>) is",
+      "options": [
+        {
+          "key": "A",
+          "value": "-2.3 $$\\times$$ 10<sup>-2</sup>"
+        },
+        {
+          "key": "B",
+          "value": "-5.7 $$\\times$$ 10<sup>-2</sup>"
+        },
+        {
+          "key": "C",
+          "value": "-5.7 $$\\times$$ 10<sup>-3</sup>"
+        },
+        {
+          "key": "D",
+          "value": "-1.2 $$\\times$$ 10<sup>-2</sup>"
+        }
+      ],
+      "answer": "A",
+      "explanation": "<p>To find the freezing point of the solution, we will use the formula for freezing point depression, which is given by:</p>\n\n<p>$$ \\Delta T_f = i \\cdot K_f \\cdot m $$</p>\n\n<p>where:</p>\n\n<ul>\n<li>$$ \\Delta T_f $$ is the freezing point depression.</li><br>\n<li>$$ i $$ is the van't Hoff factor (number of particles the solute splits into or forms in solution).</li><br>\n<li>$$ K_f $$ is the cryoscopic constant (freezing point depression constant), for water it's 1.86 K kg mol<sup>-1</sup>.</li><br>\n<li>$$ m $$ is the molality of the solution.</li>\n</ul>\n<p>Given:</p>\n\n<ul>\n<li>Solute is $$ K_3[Fe(CN)_6] $$, and molecular weight (M) = 329 g/mol.</li><br>\n<li>Mass of solute = 0.1 g.</li><br>\n<li>Mass of solvent (water) = 100 g.</li>\n</ul>\n<p>First, we calculate the molality $$ m $$ of the solution:</p>\n\n<p>$$ m = \\frac{{\\text{Moles of solute}}}{{\\text{Kilograms of solvent}}} $$</p>\n\n<p>Moles of solute:</p>\n\n<p>$$ \\text{Moles of solute} = \\frac{{\\text{Mass of solute}}}{{\\text{Molecular weight}}} = \\frac{0.1}{329} \\text{mol} $$</p>\n\n<p>$$ \\text{Moles of solute} = 3.04 \\times 10^{-4} \\text{ mol} $$</p>\n\n<p>Kilograms of solvent:</p>\n\n<p>$$ \\text{Kilograms of solvent} = 100 \\text{ g} = 0.1 \\text{ kg} $$</p>\n\n<p>Now molality:</p>\n\n<p>$$ m = \\frac{3.04 \\times 10^{-4} \\text{ mol}}{0.1 \\text{ kg}} = 0.00304 \\text{ mol/kg} $$</p>\n\n<p>Next, calculate the van't Hoff factor $$ i $$:</p>\n\n<ul>\n<li>The solute $$ K_3[Fe(CN)_6] $$ disassociates into 4 ions: 3 $$ K^+ $$ and 1 $$ [Fe(CN)_6]^{3-} $$. Therefore, $$ i = 4 $$.</li>\n</ul>\n<p>Substituting these into the freezing point depression formula:</p>\n\n<p>$$ \\Delta T_f = i \\cdot K_f \\cdot m = 4 \\cdot 1.86 \\cdot 0.00304 $$</p>\n\n<p>$$ \\Delta T_f = 0.02259 \\text{ K} $$</p>\n\n<p>Convert to degrees Celsius and remember that this will lower the freezing point, so it should be negative (since the freezing point depression means the solution freezes at a lower temperature than pure solvent):</p>\n\n<p>$$ \\Delta T_f = -0.02259 \\text{ °C} $$</p>\n\n<p>So, $$ \\Delta T_f = -2.259 \\times 10^{-2} \\text{ °C} $$</p>\n\n<p>From the given options, the closest to this calculated value of $$ \\Delta T_f $$ is:</p>\n\n<p>Option A: -2.3 $$\\times$$ 10<sup>-2</sup><sup>o</sup>C. Hence, Option A is the correct answer.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>The Henry's law constant for the solubility of N$$_2$$ gas in water at 298 K is 1.0 $$\\times$$ 10$$^5$$ atm. The mole fraction of N$$_2$$ in air is 0.8. The number of moles of N$$_2$$ from air dissolved in 10 moles of water at 298 K and 5 atm pressure is</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "4.0 $$\\times$$ 10$$^{-4}$$"
+        },
+        {
+          "key": "B",
+          "value": "4.0 $$\\times$$ 10$$^{-5}$$"
+        },
+        {
+          "key": "C",
+          "value": "5.0 $$\\times$$ 10$$^{-4}$$"
+        },
+        {
+          "key": "D",
+          "value": "4.0 $$\\times$$ 10$$^{-6}$$"
+        }
+      ],
+      "answer": "A",
+      "explanation": "<p>According to Henry's law, we have</p>\n<p>$${p_{{N_2}}} = {K_H}{x_{{N_2}}}$$</p>\n<p>$$0.8 \\times 5 = 1 \\times {10^5} \\times {x_{{N_2}}}$$</p>\n<p>$${x_{{N_2}}} = 4 \\times {10^{ - 5}}$$</p>\n<p>Thus one mole of solution contains $$4 \\times {10^{ - 5}}$$ moles of N$$_2$$ and $$1 - 4 \\times {10^{ - 5}} \\approx 1$$ mole of water. Therefore, N$$_2$$ from air dissolved in 10 moles of water is $$10 \\times 4 \\times {10^{ - 5}}$$ moles $$ = 4 \\times {10^{ - 4}}$$.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>The freezing point of the solution M is :</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "268.7 K"
+        },
+        {
+          "key": "B",
+          "value": "268.5 K"
+        },
+        {
+          "key": "C",
+          "value": "234.2 K"
+        },
+        {
+          "key": "D",
+          "value": "150.9 K"
+        }
+      ],
+      "answer": "D",
+      "explanation": "<p>For solution M, water is solute and ethanol is solvent.</p>\n<p>$$\\because$$ $$\\Delta {T_f} = {({K_f})_{ethanol}} \\times m$$</p>\n<p>$$2 \\times {{0.1} \\over {0.9 \\times {{46} \\over {1000}}}} = {{2000} \\over {9 \\times 46}} = 4.8$$</p>\n<p>$$\\therefore$$ $${T_f} = T_f^0 - \\Delta {T_f} = 155.7 - 4.8 = 150.9\\,K$$</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>The vapour pressure of the solution M is :</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "39.3 mm Hg"
+        },
+        {
+          "key": "B",
+          "value": "36.0 mm Hg"
+        },
+        {
+          "key": "C",
+          "value": "29.5 mm Hg"
+        },
+        {
+          "key": "D",
+          "value": "28.8 mm Hg"
+        }
+      ],
+      "answer": "B",
+      "explanation": "<p>Total vapour pressure $$P = P_A^0{x_A}$$</p>\n<p>[$$\\because$$ Solute is to be taken as non-volatile] $$ = 40 \\times 0.9 = 36$$ mm Hg</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Water is added to the solution M such that the fraction of water in the solution becomes 0.9 mole. The boiling point of this solution is:</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "380.4 K"
+        },
+        {
+          "key": "B",
+          "value": "376.2 K"
+        },
+        {
+          "key": "C",
+          "value": "375.5 K"
+        },
+        {
+          "key": "D",
+          "value": "354.7 K"
+        }
+      ],
+      "answer": "B",
+      "explanation": "<p>$$\\matrix{\n   {\\mathop {{x_{ethanol}} = 0.1}\\limits_{(\\mathrm{Solute \\equiv B})} } & : & {\\mathop {{x_{water}} = 0.9}\\limits_{(\\mathrm{Solvent \\equiv A})} }  \\cr \n\n } $$</p>\n<p>$$\\Delta {T_b} = {K_b}\\,.\\,m = {K_b}\\,.\\,{{{x_B}} \\over {1 - {x_B}}} \\times {{1000} \\over {{M_{{w_A}}}}}$$</p>\n<p>$$ = 0.52 \\times {{0.1} \\over {0.9}} \\times {{1000} \\over {18}} = 3.2\\,K$$</p>\n<p>$${T_b} = T_b^0 + \\Delta {T_b} = 373 + 3.2 = 376.2\\,K$$</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The elevation in boiling point of a solution of 13.44 g of CuCl<sub>2</sub> in 1kg of water using the following information will be (Molecular weight of CuCl<sub>2</sub> = 134.4 and K<sub>b</sub> = 0.52 K molal<sup>-1</sup>) ",
+      "options": [
+        {
+          "key": "A",
+          "value": "0.16"
+        },
+        {
+          "key": "B",
+          "value": "0.05"
+        },
+        {
+          "key": "C",
+          "value": "0.1"
+        },
+        {
+          "key": "D",
+          "value": "0.2"
+        }
+      ],
+      "answer": "A",
+      "explanation": "<p>We know, for ionic compounds, elevation in boiling point $$\\Delta$$T<sub>b</sub> = k<sub>b</sub> $$\\times$$ molality (m) $$\\times$$ i</p>\n<p>Given, k<sub>b</sub> = 0.52 K molal<sup>$$-$$1</sup></p>\n<p>Now, molality (m) = $${{mass\\,of\\,solute \\div molar\\,mass} \\over {mass\\,of\\,solvent}} \\times 1000$$</p>\n<p>or, $$m = {{13.44/134.4} \\over {1000}} \\times 1000 = 0.1$$ mol kg<sup>$$-$$1</sup></p>\n<p>We know, $$\\alpha  = {{i - 1} \\over {n - 1}}$$</p>\n<p>Now, 1 molecule of CuCl<sub>2</sub> on dissociation in solution produces 3 ions</p>\n<p>CuCl<sub>2</sub>(aq) $$\\to$$ Cu<sup>2+</sup>(aq) + 2Cl<sup>$$-$$</sup>(aq)</p>\n<p>Hence, n = 3</p>\n<p>If it is assumed that CuCl<sub>2</sub> undergoes complete dissociation in solution, then $$\\alpha$$ = 1</p>\n<p>$$\\therefore$$ $$1 = {{i - 1} \\over {3 - 1}}$$ or, i = 3</p>\n<p>For a solution of an electrolyte, $$\\Delta$$T<sub>b</sub> = i $$\\times$$ k<sub>b</sub> $$\\times$$ m</p>\n<p>$$\\therefore$$ $$\\Delta$$T<sub>b</sub> = 3 $$\\times$$ 0.52 $$\\times$$ 0.1 = 0.156 K</p>\n<p>$$\\therefore$$ Elevation of boiling point of the solution = 0.156 K</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The freezing point of equimolal aqueous solutions will be highest for",
+      "options": [
+        {
+          "key": "A",
+          "value": "C<sub>6</sub>H<sub>5</sub>NH<sub>3</sub>Cl (aniline hydrochloride)"
+        },
+        {
+          "key": "B",
+          "value": "Ca(NO<sub>3</sub>)<sub>2</sub>"
+        },
+        {
+          "key": "C",
+          "value": "La(NO<sub>3</sub>)<sub>3</sub>"
+        },
+        {
+          "key": "D",
+          "value": "C<sub>6</sub>H<sub>12</sub>O<sub>6</sub> (glucose)"
+        }
+      ],
+      "answer": "D",
+      "explanation": "<p>To determine which solution has the highest freezing point among the given options, we need to understand the concept of colligative properties, particularly the depression of freezing point. The freezing point depression depends on the number of solute particles in a solution, not on their chemical nature.</p>\n\n<p>The depression of freezing point can be expressed by the equation:\n\n<p>$$\\Delta T_f = K_f \\cdot m \\cdot i$$</p>\n\n<p>where:</p></p>\n\n<ul>\n\n<li>$$\\Delta T_f$$ is the freezing point depression,</li>\n\n<li>$$K_f$$ is the cryoscopic constant (freezing point depression constant),</li>\n\n<li>$$m$$ is the molality of the solution, and</li>\n\n<li>$$i$$ is the van't Hoff factor, the number of particles the solute splits into in solution.</li>\n\n</ul>\n\n<p>Since all solutions are equimolal, the important factor here is the van't Hoff factor (i). A lower van't Hoff factor will result in a smaller decrease in freezing point, meaning the freezing point will be relatively higher.</p>\n\n<p>Let's analyze each option:\n\n<ul>\n\n<li><strong>Option A: C<sub>6</sub>H<sub>5</sub>NH<sub>3</sub>Cl (aniline hydrochloride)</strong> dissociates into two ions: $$C_6H_5NH_3^+$$ and $$Cl^-$$.\n\n<p>$$i = 2$$</p>\n\n</li>\n\n<li><strong>Option B: Ca(NO<sub>3</sub>)<sub>2</sub></strong> dissociates into three ions: $$Ca^{2+}$$ and two $$NO_3^-$$ ions.\n\n<p>$$i = 3$$</p>\n\n</li>\n\n<li><strong>Option C: La(NO<sub>3</sub>)<sub>3</sub></strong> dissociates into four ions: $$La^{3+}$$ and three $$NO_3^-$$ ions.\n\n<p>$$i = 4$$</p>\n\n</li>\n\n<li><strong>Option D: C<sub>6</sub>H<sub>12</sub>O<sub>6</sub> (glucose)</strong> does not dissociate into ions in an aqueous solution.\n\n<p>$$i = 1$$</p>\n\n</li>\n\n</ul>\n\n</p>\n\n<p>Among the given options, glucose (Option D) has the lowest van't Hoff factor, $$i = 1$$. Therefore, the least number of particles results in the least depression of the freezing point. Hence, an aqueous solution of glucose will have the highest freezing point among the options provided.</p>"
+    }
+  ]
+}

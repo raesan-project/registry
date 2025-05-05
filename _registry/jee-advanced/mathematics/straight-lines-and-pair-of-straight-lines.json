@@ -1,0 +1,859 @@
+{
+  "_index": {
+    "name": "Straight Lines and Pair of Straight Lines"
+  },
+  "_children": [
+    {
+      "_type": "numerical",
+      "body": "Consider the lines L<sub>1</sub> and L<sub>2</sub> defined by <br><br>$${L_1}:x\\sqrt 2  + y - 1 = 0$$ and $${L_2}:x\\sqrt 2  - y + 1 = 0$$<br><br>For a fixed constant $$\\lambda$$, let C be the locus of a point P such that the product of the distance of P from L<sub>1</sub> and the distance of P from L<sub>2</sub> is $$\\lambda$$<sup>2</sup>. The line y = 2x + 1 meets C at two points R and S, where the distance between R and S is $$\\sqrt {270} $$. Let the perpendicular bisector of RS meet C at two distinct points R' and S'. Let D be the square of the distance between R' and S'.<br><br>The value of $$\\lambda$$<sup>2</sup> is __________.",
+      "answer": "9",
+      "explanation": "According to the question,<br/><br/>$$C:\\left| {{{x\\sqrt 2  + y - 1} \\over {\\sqrt 3 }}} \\right|\\left| {{{x\\sqrt 2  - y + 1} \\over {\\sqrt 3 }}} \\right| = {\\lambda ^2}$$<br/><br/>$$ \\Rightarrow C:{{\\left| {{{(x\\sqrt 2 )}^2} - {{(y - 1)}^2}} \\right|} \\over {\\sqrt 3  \\times \\sqrt 3 }} = {\\lambda ^2}$$<br/><br/>$$ \\Rightarrow C:\\left| {2{x^2} - {{(y - 1)}^2}} \\right| = 3{\\lambda ^2}$$<br/><br/>Let R $$\\equiv$$ (x<sub>1</sub>, y<sub>1</sub>) and S(x<sub>2</sub>, y<sub>2</sub>)<br/><br/>$$\\because$$ C cuts y $$-$$ 1 = 2x at R and S.<br/><br/>So, $$\\left| {2{x^2} - 4{x^2}} \\right| = 3{\\lambda ^2}$$<br/><br/>$$ \\Rightarrow x =  \\pm \\sqrt {{3 \\over 2}} \\left| \\lambda  \\right|$$<br/><br/>$$\\therefore$$ $$\\left| {{x_1} - {x_2}} \\right| = \\sqrt 6 \\left| \\lambda  \\right|$$<br/><br/>and $$\\left| {{y_1} - {y_2}} \\right| = 2\\left| {{x_1} - {x_2}} \\right| = 2\\sqrt 6 \\left| \\lambda  \\right|$$<br/><br/>$$\\because$$ RS<sup>2</sup> = 270 (given)<br/><br/>$$ \\Rightarrow {({x_1} - {x_2})^2} + {({y_1} - {y_2})^2} = 270$$<br/><br/>$$ \\Rightarrow {(\\sqrt 6 \\lambda )^2} + {(2\\sqrt 6 \\left| \\lambda  \\right|)^2} = 270$$<br/><br/>$$ \\Rightarrow 30{\\lambda ^2} = 270 \\Rightarrow {\\lambda ^2} = 9$$"
+    },
+    {
+      "_type": "numerical",
+      "body": "Consider the lines L<sub>1</sub> and L<sub>2</sub> defined by <br><br>$${L_1}:x\\sqrt 2  + y - 1 = 0$$ and $${L_2}:x\\sqrt 2  - y + 1 = 0$$<br><br>For a fixed constant $$\\lambda$$, let C be the locus of a point P such that the product of the distance of P from L<sub>1</sub> and the distance of P from L<sub>2</sub> is $$\\lambda$$<sup>2</sup>. The line y = 2x + 1 meets C at two points R and S, where the distance between R and S is $$\\sqrt {270} $$. Let the perpendicular bisector of RS meet C at two distinct points R' and S'. Let D be the square of the distance between R' and S'.<br><br>The value of D is __________.",
+      "answer": "77.14",
+      "explanation": "According to the question,<br/><br/>$$C:\\left| {{{x\\sqrt 2  + y - 1} \\over {\\sqrt 3 }}} \\right|\\left| {{{x\\sqrt 2  - y + 1} \\over {\\sqrt 3 }}} \\right| = {\\lambda ^2}$$<br/><br/>$$ \\Rightarrow C:{{\\left| {{{(x\\sqrt 2 )}^2} - {{(y - 1)}^2}} \\right|} \\over {\\sqrt 3  \\times \\sqrt 3 }} = {\\lambda ^2}$$<br/><br/>$$ \\Rightarrow C:\\left| {2{x^2} - {{(y - 1)}^2}} \\right| = 3{\\lambda ^2}$$<br/><br/>Let R $$\\equiv$$ (x<sub>1</sub>, y<sub>1</sub>) and S(x<sub>2</sub>, y<sub>2</sub>)<br/><br/>$$\\because$$ C cuts y $$-$$ 1 = 2x at R and S.<br/><br/>So, $$\\left| {2{x^2} - 4{x^2}} \\right| = 3{\\lambda ^2}$$<br/><br/>$$ \\Rightarrow x =  \\pm \\sqrt {{3 \\over 2}} \\left| \\lambda  \\right|$$<br/><br/>$$\\therefore$$ $$\\left| {{x_1} - {x_2}} \\right| = \\sqrt 6 \\left| \\lambda  \\right|$$<br/><br/>and $$\\left| {{y_1} - {y_2}} \\right| = 2\\left| {{x_1} - {x_2}} \\right| = 2\\sqrt 6 \\left| \\lambda  \\right|$$<br/><br/>$$\\because$$ RS<sup>2</sup> = 270 (given)<br/><br/>$$ \\Rightarrow {({x_1} - {x_2})^2} + {({y_1} - {y_2})^2} = 270$$<br/><br/>$$ \\Rightarrow {(\\sqrt 6 \\lambda )^2} + {(2\\sqrt 6 \\left| \\lambda  \\right|)^2} = 270$$<br/><br/>$$ \\Rightarrow 30{\\lambda ^2} = 270 \\Rightarrow {\\lambda ^2} = 9$$<br/><br/>Now, mid-point of RS is $$\\left( {{{{x_1} + {x_2}} \\over 2},{{{y_1} + {y_2}} \\over 2}} \\right) \\equiv (0,1)$$ and slope of RS = 2 and slope of $$R'S' = {{ - 1} \\over 2}$$<br/><br/>$$\\therefore$$ Equation of $$R'S':y - 1 =  - {1 \\over 2}x$$ i.e. 2y $$-$$ 2 = $$-$$x<br/><br/>$$ \\Rightarrow x + 2y - 2 = 0$$<br/><br/>On solving x + 2y $$-$$ 2 = 0 with C, we get<br/><br/>$${x^2} = {{12} \\over 7}{\\lambda ^2} \\Rightarrow \\left| {{x_1} - {x_2}} \\right| = 2\\sqrt {{{12} \\over 7}} \\left| \\lambda  \\right|$$<br/><br/>and $$\\left| {{y_1} - {y_2}} \\right| = {1 \\over 2}\\left| {{x_1} - {x_2}} \\right| = \\sqrt {{{12} \\over 7}} \\left| \\lambda  \\right|$$<br/><br/>Hence, $$D \\equiv {(R'S')^2} = {({x_1} - {x_2})^2} + {({y_1} - {y_2})^2}$$<br/><br/>$$ = {{12} \\over 7} \\times 9 \\times 5 = {{12 \\times 45} \\over 7} \\approx 77.14$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "For $$a &gt; b &gt; c &gt; 0,$$ the distance between $$(1, 1)$$ and the point of intersection of the lines $$ax + by + c = 0$$ and $$bx + ay + c = 0$$ is less than $$\\left( {2\\sqrt 2 } \\right)$$. Then ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$a + b - c &gt; 0$$ "
+        },
+        {
+          "key": "B",
+          "value": "$$a - b + c &lt; 0$$ "
+        },
+        {
+          "key": "C",
+          "value": "$$a - b + c = &gt; 0$$ "
+        },
+        {
+          "key": "D",
+          "value": "$$a + b - c &lt; 0$$ "
+        }
+      ],
+      "answer": "A",
+      "explanation": "<p>Let P is the point of intersection of line $$a x+b y +c=0$$ and $$b x+a y-c=0$$</p>\n<p>$$\\mathrm{P}=\\left(\\frac{-c}{a+b}, \\frac{-c}{a+b}\\right)$$</p>\n<p>Given, the distance between $$(1,1)$$ and $$P$$ is less than $$2 \\sqrt{2}$$</p>\n<p>$$\\begin{aligned}\n& \\therefore \\sqrt{\\left(1+\\frac{c}{a+b}\\right)^2+\\left(1+\\frac{c}{a+b}\\right)^2}<2 \\sqrt{2} \\\\\n& \\Rightarrow \\sqrt{2}\\left|\\frac{a+b+c}{a+b}\\right|<2 \\sqrt{2} \\\\\n& \\Rightarrow\\left|\\frac{a+b+c}{a+b}\\right|<2 \\\\\n& \\therefore a>b>c>0 \\\\\n& \\therefore \\frac{a+b+c}{a+b}<2 \\\\\n& \\Rightarrow a+b+c<2 a+2 b \\\\\n& \\Rightarrow a+b-c>0\n\\end{aligned}$$</p>\n<p>Hence, option (A) correct</p>\n<p>$$\\therefore$$ Given $$a > b > c > 0$$</p>\n<p>$$\\therefore a-b$$ is positive and c is also positive</p>\n<p>$$\\Rightarrow a-b+c>0$$</p>\n<p>Hence, option (C) is also true.</p>\n<p>Hints :</p>\n<p>Given, $$a > b > c > 0$$</p>\n<p>So, $$a-b, a-c, b$$ and $$c$$ all are positive</p>\n<p>$$\\therefore \\quad a-b+c>0, a-c+b>0$$</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Consider three points $$P = ( - \\sin (\\beta  - \\alpha ), - cos\\beta ),Q = (cos(\\beta  - \\alpha ),\\sin \\beta )$$ and $$R = (\\cos (\\beta  - \\alpha  + \\theta ),\\sin (\\beta  - \\theta ))$$ where $$0 < \\alpha ,\\beta ,\\theta  < {\\pi  \\over 4}$$. Then :</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "P lies on the line segment RQ"
+        },
+        {
+          "key": "B",
+          "value": "Q lies on the line segment PR"
+        },
+        {
+          "key": "C",
+          "value": "R lies on the line segment QP"
+        },
+        {
+          "key": "D",
+          "value": "P, Q, R are non-collinear"
+        }
+      ],
+      "answer": "D",
+      "explanation": "<p>$$\\Delta  = \\left| {\\matrix{\n   {\\cos (\\beta  - \\alpha )} & {\\sin \\beta } & 1  \\cr \n   { - \\sin (\\beta  - \\alpha )} & { - \\cos \\beta } & 1  \\cr \n   {\\cos (\\beta  - \\alpha  - \\theta )} & {\\sin (\\beta  - \\theta )} & 1  \\cr \n\n } } \\right|$$</p>\n<p>$${R_3} \\to R(\\cos \\theta {R_1} + \\sin \\theta {R_2})$$</p>\n<p>$$ = \\left| {\\matrix{\n   {\\cos (\\beta  - \\alpha )} & {\\sin \\beta } & 1  \\cr \n   { - \\sin (\\beta  - \\alpha )} & { - \\cos \\beta } & 1  \\cr \n   0 & 0 & {1 - (\\cos \\theta  + \\sin \\theta )}  \\cr \n\n } } \\right|$$</p>\n<p>$$ =  - [1 - (\\cos \\theta  + \\sin \\theta )]\\cos (2\\beta  - \\alpha ) \\ne 0$$</p>\n<p>$$ = 2\\beta  < {\\pi  \\over 2}$$ and $$\\alpha  > 0$$</p>\n<p>$$ \\Rightarrow (2\\beta  - \\alpha ) < {\\pi  \\over 2} \\Rightarrow \\cos (2\\beta  - \\alpha ) \\ne 0$$</p>\n<p>Also, since $$0 < \\theta  < {\\pi  \\over 2} \\Rightarrow \\cos \\theta  + \\sin \\theta  > 1$$</p>\n<p>$$\\Delta  \\ne 0$$</p>\n<p>$$\\Rightarrow$$ P, Q and R are not collinear.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Consider the lines given by:</p>\n<p>$${L_1}:x + 3y - 5 = 0$$</p>\n<p>$${L_2}:3x - ky - 1 = 0$$</p>\n<p>$${L_3}:5x + 2y - 12 = 0$$</p>\n<p>Match the Statement/Expressions in Column I with the Statements/Expressions in Column II.</p>\n<p><style type=\"text/css\">\n.tg  {border-collapse:collapse;border-spacing:0;}\n.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}\n.tg .tg-7btt{border-color:inherit;font-weight:bold;text-align:center;vertical-align:top}\n.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}\n</style>\n<table class=\"tg\" style=\"undefined;table-layout: fixed; width: 477px\">\n<colgroup>\n<col style=\"width: 48px\">\n<col style=\"width: 197px\">\n<col style=\"width: 53px\">\n<col style=\"width: 179px\">\n</colgroup>\n<thead>\n  <tr>\n    <th class=\"tg-7btt\"></th>\n    <th class=\"tg-7btt\">Column I</th>\n    <th class=\"tg-7btt\"></th>\n    <th class=\"tg-7btt\">Column II</th>\n  </tr>\n</thead>\n<tbody>\n  <tr>\n    <td class=\"tg-c3ow\">(A)</td>\n    <td class=\"tg-0pky\">L$$_1$$, L$$_2$$, L$$_3$$ are concurrent, if</td>\n    <td class=\"tg-c3ow\">(P)</td>\n    <td class=\"tg-0pky\">$$K =  - 9$$</td>\n  </tr>\n  <tr>\n    <td class=\"tg-c3ow\">(B)</td>\n    <td class=\"tg-0pky\">One of L$$_1$$, L$$_2$$, L$$_3$$ is parallel to atleast one of the other two, if</td>\n    <td class=\"tg-c3ow\">(Q)</td>\n    <td class=\"tg-0pky\">$$K =  - {6 \\over 5}$$</td>\n  </tr>\n  <tr>\n    <td class=\"tg-c3ow\">(C)</td>\n    <td class=\"tg-0pky\">L$$_1$$, L$$_2$$, L$$_3$$ form a triangle, if</td>\n    <td class=\"tg-c3ow\">(R)</td>\n    <td class=\"tg-0pky\">$$K = {5 \\over 6}$$</td>\n  </tr>\n  <tr>\n    <td class=\"tg-c3ow\">(D)</td>\n    <td class=\"tg-0pky\">L$$_1$$, L$$_2$$, L$$_3$$ do not form a triangle, if</td>\n    <td class=\"tg-c3ow\">(S)</td>\n    <td class=\"tg-0pky\">$$K = 5$$</td>\n  </tr>\n</tbody>\n</table></p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "A - iv; B - ii; C - iii; D - i, ii"
+        },
+        {
+          "key": "B",
+          "value": "A - iv; B - i, ii; C - iii; D - i, ii, iv"
+        },
+        {
+          "key": "C",
+          "value": "A - iv; B - i; C - iii; D - i, ii"
+        },
+        {
+          "key": "D",
+          "value": "A - ii; B - i, iii; C - iii; D - i, ii, iv"
+        }
+      ],
+      "answer": "B",
+      "explanation": "<p>We have,</p>\n<p>(A)</p>\n<p>$${L_1}:x + 3y - 5 = 0$$</p>\n<p>$${L_2}:3x - ky - 1 = 0$$</p>\n<p>$${L_3}:5x + 2y - 12 = 0$$</p>\n<p>Point of intersection of L$$_1$$ and L$$_2$$ is (2, 1)</p>\n<p>If lines are concurrent, then (2, 1) will satisfy L$$_2$$</p>\n<p>$$\\Rightarrow 3(2)-k(1)-1=0$$</p>\n<p>$$k=5$$</p>\n<p>(A) $$\\to$$ (iv)</p>\n<p>(B) If L$$_1$$ and L$$_2$$ are parallel</p>\n<p>$${3 \\over 1} = {{ - k} \\over 3} \\ne {{ - 1} \\over { - 5}} \\Rightarrow k - 9$$</p>\n<p>If L$$_2$$ and L$$_3$$ are parallel</p>\n<p>$${3 \\over 5} = {{ - k} \\over 2}$$</p>\n<p>$$k = {{ - 6} \\over 5}$$</p>\n<p>(B) $$\\to$$ (i, ii)</p>\n<p>(C) As lines form a triangle, they cannot be concurrent and no two of them are parallel.</p>\n<p>$$\\Rightarrow k\\ne5,-9,\\frac{-6}{5}$$</p>\n<p>$$\\Rightarrow k=\\frac{5}{6}$$</p>\n<p>(C) $$\\to$$ (iii)</p>\n<p>(D) If the lines do not form a triangle then</p>\n<p>$$k=5,-9,\\frac{-6}{5}$$</p>\n<p>(D) $$\\to$$ (i, ii, iv)</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Let a and b be non-zero real numbers. Then, the equation <br/><br/>$$(a{x^2} + b{y^2} + c)({x^2} - 5xy + 6{y^2}) = 0$$ represents :</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "four straight lines, when c = 0 and a, b are of the same sign"
+        },
+        {
+          "key": "B",
+          "value": "two straight lines and a circle, when a = b, and c is of sign opposite to that of a"
+        },
+        {
+          "key": "C",
+          "value": "two straight lines and a hyperbola, when a and b are of the same sign and c is of sign opposite to that of a"
+        },
+        {
+          "key": "D",
+          "value": "a circle and an ellipse, when a and b are of the same sign and c is of sign opposite to that of a"
+        }
+      ],
+      "answer": "B",
+      "explanation": "<p>Let a and b be non-zero real numbers.</p>\n<p>Therefore, the given equation $$(a{x^2} + b{y^2} + c)({x^2} - 5xy + 6{y^2}) = 0$$ implies either</p>\n<p>$${x^2} - 5xy + 6{y^2} = 0$$</p>\n<p>$$(x - 2y)(x - 3y) = 0$$</p>\n<p>$$x = 2y$$ and $$x = 3y$$ represent two straight line passing through origin or $$a{x^2} + b{y^2} + c = 0$$ when c = 0 and a and b are of same signs then</p>\n<p>$$a{x^2} + b{y^2} + c = 0$$</p>\n<p>$$y=0$$</p>\n<p>Which is a point specified as the origin. When a = b and c is of sign opposite to that of a $$a{x^2} + b{y^2} + c = 0$$ represent a circle.</p>\n<p>Hence, the given equation,</p>\n<p>$$(a{x^2} + b{y^2} + c)({x^2} - 5xy + 6{y^2}) = 0$$</p>\n<p>May represent two straight lines and a circle.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Let $$O\\left( {0,0} \\right),P\\left( {3,4} \\right),Q\\left( {6,0} \\right)$$ be the vertices of the triangles $$OPQ$$. The point $$R$$ inside the triangle $$OPQ$$ is such that the triangles $$OPR$$, $$PQR$$, $$OQR$$ are of equal area. The coordinates of $$R$$ are ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$\\left( {{4 \\over 3},3} \\right)$$ "
+        },
+        {
+          "key": "B",
+          "value": "$$\\left( {3,{2 \\over 3}} \\right)$$ "
+        },
+        {
+          "key": "C",
+          "value": "$$\\left( {3,{4 \\over 3}} \\right)$$ "
+        },
+        {
+          "key": "D",
+          "value": "$$\\left( {{4 \\over 3},{2 \\over 3}} \\right)$$ "
+        }
+      ],
+      "answer": "C",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The lines $${L_1}:y - x = 0$$ and $${L_2}:2x + y = 0$$ intersect the line $${L_3}:y + 2 = 0$$ at $$P$$ and $$Q$$ respectively. The bisector of the acute angle between $${L_1}$$ and $${L_2}$$ intersects $${L_3}$$ at $$R$$. \n<p><b>Statement-1:</b> The ratio $$PR$$ : $$RQ$$ equals $$2\\sqrt 2 :\\sqrt 5 $$. because\n<br><b>Statement-2:</b> In any triangle, bisector of an angle divides the triangle into two similar triangles.</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "Statement-1 is True, Statement-2 is True; Statement-2 is not a correct explanation for Statement- 1"
+        },
+        {
+          "key": "B",
+          "value": "Statement-1 is True, Statement-2 is True; Statement-2 is NOT a correct explanation for Statement-1.  "
+        },
+        {
+          "key": "C",
+          "value": "Statement-1 is True, Statement-2 is False. "
+        },
+        {
+          "key": "D",
+          "value": "Statement-1 is False, Statement-2 is True. "
+        }
+      ],
+      "answer": "C",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Area of the triangle formed by the line $$x + y = 3$$ and angle bisectors of the pair of straight line  $${x^2} - {y^2} + 2y = 1$$ is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "2 sq. units "
+        },
+        {
+          "key": "B",
+          "value": "4 sq. units "
+        },
+        {
+          "key": "C",
+          "value": "6 sq. units "
+        },
+        {
+          "key": "D",
+          "value": "8 sq. units "
+        }
+      ],
+      "answer": "A",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The number of integral points (integral point means both the coordinates should be integer) exactly in the interior of the triangle with vertices $$\\left( {0,0} \\right),\\left( {0,21} \\right)$$ and $$\\left( {21,0} \\right)$$, is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "133 "
+        },
+        {
+          "key": "B",
+          "value": "190 "
+        },
+        {
+          "key": "C",
+          "value": "233 "
+        },
+        {
+          "key": "D",
+          "value": "105"
+        }
+      ],
+      "answer": "B",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Orthocentre of triangle with vertices $$\\left( {0,0} \\right),\\left( {3,4} \\right)$$ and $$\\left( {4,0} \\right)$$ is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$\\,\\,\\left( {3,{5 \\over 4}} \\right)$$ "
+        },
+        {
+          "key": "B",
+          "value": "$$\\left( {3,12} \\right)$$ "
+        },
+        {
+          "key": "C",
+          "value": "$$\\left( {3,{3 \\over 4}} \\right)$$ "
+        },
+        {
+          "key": "D",
+          "value": "$$\\left( {3,9} \\right)$$ "
+        }
+      ],
+      "answer": "C",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Let $$0 &lt; \\alpha  &lt; {\\pi  \\over 2}$$ be fixed angle. If $$P = \\left( {\\cos \\theta ,\\,\\sin \\theta } \\right)$$ and $$Q = \\left( {\\cos \\left( {\\alpha  - \\theta } \\right),\\,\\sin \\left( {\\alpha  - \\theta } \\right)} \\right),$$ then $$Q$$ is obtained from $$P$$ by ",
+      "options": [
+        {
+          "key": "A",
+          "value": "clockwise rotation around origin through an angle $$\\alpha $$ "
+        },
+        {
+          "key": "B",
+          "value": "anticlockwise rotation around origin through an angle $$\\alpha $$ "
+        },
+        {
+          "key": "C",
+          "value": "reflection in the line through origin with slope tan $$\\alpha $$ "
+        },
+        {
+          "key": "D",
+          "value": "reflection in the line through origin with slope tan $$\\left( {\\alpha /2} \\right)$$ "
+        }
+      ],
+      "answer": "D",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Let $$P = \\left( { - 1,\\,0} \\right),\\,Q = \\left( {0,\\,0} \\right)$$ and $$R = \\left( {3,\\,3\\sqrt 3 } \\right)$$ be three points. \n<br>Then the equation of the bisector of the angle $$PQR$$ is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$${{\\sqrt 3 } \\over 2}x + y = 0$$ "
+        },
+        {
+          "key": "B",
+          "value": "$$x + \\sqrt 3 y = 0$$ "
+        },
+        {
+          "key": "C",
+          "value": "$$\\sqrt 3 x + y = 0$$ "
+        },
+        {
+          "key": "D",
+          "value": "$$x + {{\\sqrt 3 } \\over 2}y = 0$$ "
+        }
+      ],
+      "answer": "C",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A straight line through the origin $$O$$ meets the parallel lines $$4x+2y=9$$ and $$2x+y+6=0$$ at points $$P$$ and $$Q$$ respectively. Then the point $$O$$ divides the segemnt $$PQ$$ in the ratio ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$1 : 2$$"
+        },
+        {
+          "key": "B",
+          "value": "$$3 : 4$$"
+        },
+        {
+          "key": "C",
+          "value": "$$2 : 1$$"
+        },
+        {
+          "key": "D",
+          "value": "$$4 : 3$$ "
+        }
+      ],
+      "answer": "B",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A triangle with vertices $$(4, 0), (-1, -1), (3, 5)$$is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "isosceles and right angled"
+        },
+        {
+          "key": "B",
+          "value": "isosceles but not right angled "
+        },
+        {
+          "key": "C",
+          "value": "right angled but not isosceles "
+        },
+        {
+          "key": "D",
+          "value": "neither right angled nor isosceles"
+        }
+      ],
+      "answer": "A",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Locus of mid point of the portion between the axes of $$x$$ $$\\cos \\alpha  + y\\sin \\alpha  = p$$ where $$p$$ is constant is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$${x^2} + {y^2} = {4 \\over {{p^2}}}\\,\\,\\,$$ "
+        },
+        {
+          "key": "B",
+          "value": "$${x^2} + {y^2} = 4{p^2}$$ "
+        },
+        {
+          "key": "C",
+          "value": "$${1 \\over {{x^2}}} + {1 \\over {{y^2}}} = {2 \\over {{p^2}}}$$ "
+        },
+        {
+          "key": "D",
+          "value": "$${1 \\over {{x^2}}} + {1 \\over {{y^2}}} = {4 \\over {{p^2}}}$$ "
+        }
+      ],
+      "answer": "D",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "If the pair of lines $$a{x^2} + 2hxy + b{y^2} + 2gx + 2fy + c = 0$$ intersect on the $$y$$ axis then ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$2fgh = b{g^2} + c{h^2}$$ "
+        },
+        {
+          "key": "B",
+          "value": "$$b{g^2} \\ne c{h^2}$$ "
+        },
+        {
+          "key": "C",
+          "value": "$$\\,abc = 2fgh$$ "
+        },
+        {
+          "key": "D",
+          "value": "none of these "
+        }
+      ],
+      "answer": "A",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The pair of lines represented by \n<br>$$3a{x^2} + 5xy + \\left( {{a^2} - 2} \\right){y^2} = 0$$ are perpendicular to each other for ",
+      "options": [
+        {
+          "key": "A",
+          "value": "two values of $$a$$  "
+        },
+        {
+          "key": "B",
+          "value": "$$\\forall \\,a$$ "
+        },
+        {
+          "key": "C",
+          "value": "for one values of $$a$$ "
+        },
+        {
+          "key": "D",
+          "value": "for no values of $$a$$ "
+        }
+      ],
+      "answer": "A",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The number of integer values of $$m$$, for which the $$x$$-coordinate of the point of intersection of the lines $$3x + 4y =  9$$ and $$y = mx + 1$$ is also an integer, is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "2 "
+        },
+        {
+          "key": "B",
+          "value": "0 "
+        },
+        {
+          "key": "C",
+          "value": "4 "
+        },
+        {
+          "key": "D",
+          "value": "1 "
+        }
+      ],
+      "answer": "A",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Area of the parallelogram formed by the lines $$y = mx$$,  $$y = mx + 1$$, $$y = nx$$ and $$y = nx + 1$$ equals ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$\\left| {m + n} \\right|/{\\left( {m - n} \\right)^2}$$ "
+        },
+        {
+          "key": "B",
+          "value": "$$2/\\left| {m + n} \\right|$$ "
+        },
+        {
+          "key": "C",
+          "value": "$$1/\\left( {\\left| {m + n} \\right|} \\right)$$ "
+        },
+        {
+          "key": "D",
+          "value": "$$1/\\left( {\\left| {m - n} \\right|} \\right)$$"
+        }
+      ],
+      "answer": "D",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Let $$PS$$ be the median of the triangle with vertices $$P(2, 2),$$ $$Q(6, -1)$$ and $$R(7, 3).$$ The equation of the line passing through $$(1, -1)$$ and parallel to $$PS$$ is  ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$2x - 9y - 7 = 0$$ "
+        },
+        {
+          "key": "B",
+          "value": "$$2x - 9y - 11 = 0$$ "
+        },
+        {
+          "key": "C",
+          "value": "$$2x + 9y - 11 = 0$$ "
+        },
+        {
+          "key": "D",
+          "value": "$$2x + 9y + 7 = 0$$ "
+        }
+      ],
+      "answer": "D",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The incentre of the triangle with vertices $$\\left( {1,\\,\\sqrt 3 } \\right),\\left( {0,\\,0} \\right)$$ and $$\\left( {2,\\,0} \\right)$$ is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$\\left( {1,\\,{{\\sqrt 3 } \\over 2}} \\right)$$ "
+        },
+        {
+          "key": "B",
+          "value": "$$\\left( {{2 \\over 3},\\,{1 \\over {\\sqrt 3 }}} \\right)$$ "
+        },
+        {
+          "key": "C",
+          "value": "$$\\left( {{2 \\over 3},\\,{{\\sqrt 3 } \\over 2}} \\right)$$ "
+        },
+        {
+          "key": "D",
+          "value": "$$\\left( {1,\\,{1 \\over {\\sqrt 3 }}} \\right)$$ "
+        }
+      ],
+      "answer": "D",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Lt $$PQR$$ be a right angled isosceles triangle, right angled at $$P(2, 1)$$. If the equation of the line $$QR$$ is $$2x + y = 3,$$ then the equation representing the pair of lines $$PQ$$ and $$PR$$ is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$3{x^2} - 3{y^2} + 8xy + 20x + 10y + 25 = 0$$ "
+        },
+        {
+          "key": "B",
+          "value": "$$3{x^2} - 3{y^2} + 8xy - 20x - 10y + 25 = 0$$"
+        },
+        {
+          "key": "C",
+          "value": "$$3{x^2} - 3{y^2} + 8xy + 10x + 15y + 20 = 0$$"
+        },
+        {
+          "key": "D",
+          "value": "$$3{x^2} - 3{y^2} - 8xy - 10x - 15y - 20 = 0$$"
+        }
+      ],
+      "answer": "B",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "If $${x_1},\\,{x_2},\\,{x_3}$$ as well as $${y_1},\\,{y_2},\\,{y_3}$$, are in G.P. with the same common ratio, then the points $$\\left( {{x_1},\\,{y_1}} \\right),\\left( {{x_2},\\,{y_2}} \\right)$$ and $$\\left( {{x_3},\\,{y_3}} \\right).$$ ",
+      "options": [
+        {
+          "key": "A",
+          "value": "lie on a straight line "
+        },
+        {
+          "key": "B",
+          "value": "lie on an ellipse "
+        },
+        {
+          "key": "C",
+          "value": "lie on a circle "
+        },
+        {
+          "key": "D",
+          "value": "are vertices of a triangle "
+        }
+      ],
+      "answer": "A",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "If $$\\left( {P\\left( {1,2} \\right),\\,Q\\left( {4,6} \\right),\\,R\\left( {5,7} \\right)} \\right)$$ and $$S\\left( {a,b} \\right)$$ are the vertices of a parrallelogram $$PQRS,$$ then ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$a = 2,\\,b = 4$$ "
+        },
+        {
+          "key": "B",
+          "value": "$$a = 3,\\,b = 4$$"
+        },
+        {
+          "key": "C",
+          "value": "$$a = 2,\\,b = 3$$"
+        },
+        {
+          "key": "D",
+          "value": "$$a = 3,\\,b = 5$$"
+        }
+      ],
+      "answer": "C",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The diagonals of a parralleogram $$PQRS$$ are along the lines $$x + 3y = 4$$ and $$6x - 2y = 7$$. Then $$PQRS$$ must be a. ",
+      "options": [
+        {
+          "key": "A",
+          "value": "rectangle "
+        },
+        {
+          "key": "B",
+          "value": "square "
+        },
+        {
+          "key": "C",
+          "value": "cyclic quadrilateral "
+        },
+        {
+          "key": "D",
+          "value": "rhombus."
+        }
+      ],
+      "answer": "D",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The orthocentre of the triangle formed by the lines $$xy=0$$ and $$x+y=1$$ is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$\\left( {{1 \\over 2},\\,{1 \\over 2}} \\right)$$ "
+        },
+        {
+          "key": "B",
+          "value": "$$\\left( {{1 \\over 3},\\,{1 \\over 3}} \\right)$$"
+        },
+        {
+          "key": "C",
+          "value": "$$\\left( {0,\\,0} \\right)$$ "
+        },
+        {
+          "key": "D",
+          "value": "$$\\left( {{1 \\over 4},\\,{1 \\over 4}} \\right)$$"
+        }
+      ],
+      "answer": "C",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The equations to a pair of opposites sides of parallelogram are $${x^2} - 5x + 6 = 0$$ and $${y^2} - 6y + 5 = 0,$$ the equations to its diagonals are ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$x + 4y = 13,\\,y = 4x - 7$$ "
+        },
+        {
+          "key": "B",
+          "value": "$$4x + y = 13,\\,4y = x - 7$$ "
+        },
+        {
+          "key": "C",
+          "value": "$$4x + y = 13,\\,y = 4x - 7$$ "
+        },
+        {
+          "key": "D",
+          "value": "$$y - 4x = 13,\\,y + 4x = 7$$ "
+        }
+      ],
+      "answer": "C",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The locus of a variable point whose distance from  $$\\left( { - 2,\\,0} \\right)$$ is $$2/3$$ times its distance from the line $$x =  - {9 \\over 2}$$ is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "ellipse -"
+        },
+        {
+          "key": "B",
+          "value": "parabola"
+        },
+        {
+          "key": "C",
+          "value": "hyperbola "
+        },
+        {
+          "key": "D",
+          "value": "none of these "
+        }
+      ],
+      "answer": "A",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "If the sum of the distances of a point from two perpendicular lines in a plane is 1, then its locus is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "square "
+        },
+        {
+          "key": "B",
+          "value": "circle "
+        },
+        {
+          "key": "C",
+          "value": "straight line "
+        },
+        {
+          "key": "D",
+          "value": "two intersecting lines "
+        }
+      ],
+      "answer": "A",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Line $$L$$ has intercepts $$a$$ and $$b$$ on the coordinate axes. When the axes are rotated through a given angle, keeping the origin fixed, the same line $$L$$ has intercepts $$p$$ and $$q$$, then ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$${a^2} + {b^2} = {p^2} + {q^2}$$ "
+        },
+        {
+          "key": "B",
+          "value": "$${1 \\over {{a^2}}} + {1 \\over {{b^2}}} = {1 \\over {{p^2}}} + {1 \\over {{q^2}}}$$ "
+        },
+        {
+          "key": "C",
+          "value": "$${a^2} + {p^2} = {b^2} + {q^2}$$ "
+        },
+        {
+          "key": "D",
+          "value": "$${1 \\over {{a^2}}} + {1 \\over {{p^2}}} = {1 \\over {{b^2}}} + {1 \\over {{q^2}}}$$ "
+        }
+      ],
+      "answer": "B",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "If $$P=(1, 0),$$ $$Q=(-1, 0)$$ and $$R=(2, 0)$$ are three given points, then locus of the point $$S$$ satisfying the relation $$S{Q^2} + S{R^2} = 2S{P^2},$$ is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "a straight line parallel to x-axis "
+        },
+        {
+          "key": "B",
+          "value": "a circle passing through the origin "
+        },
+        {
+          "key": "C",
+          "value": "a circle with the centre at the origin "
+        },
+        {
+          "key": "D",
+          "value": "a straight line parallel to y-axis. "
+        }
+      ],
+      "answer": "D",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A vector $$\\overline a $$ has components $$2p$$ and $$1$$ with respect to a rectangular cartesian system. This system is rotated through a certain angle about the origin in the counter clockwise sense. If, with respect to the new system, $$\\overline a $$ has components $$p + 1$$ and $$1$$, then ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$p = 0$$ "
+        },
+        {
+          "key": "B",
+          "value": "$$p = 1$$ or $$p =  - {1 \\over 3}$$ "
+        },
+        {
+          "key": "C",
+          "value": "$$\\,p =  - 1$$ or $$p =   {1 \\over 3}$$"
+        },
+        {
+          "key": "D",
+          "value": "$$p = 1$$ or $$p = -1$$ "
+        }
+      ],
+      "answer": "B",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The points $$\\left( {0,{8 \\over 3}} \\right),\\,\\,\\left( {1,\\,3} \\right)$$ and $$\\left( {82,\\,30} \\right)$$ are vertices of ",
+      "options": [
+        {
+          "key": "A",
+          "value": "an obtuse angled triangle "
+        },
+        {
+          "key": "B",
+          "value": "an acute angled triangle "
+        },
+        {
+          "key": "C",
+          "value": "a right angled triangle "
+        },
+        {
+          "key": "D",
+          "value": "none of these "
+        }
+      ],
+      "answer": "D",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The straight lines $$x + y = 0,\\,3x + y - 4 = 0,\\,x + 3y - 4 = 0$$ form a triangle which is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "isosceles "
+        },
+        {
+          "key": "B",
+          "value": "equilateral "
+        },
+        {
+          "key": "C",
+          "value": "right angled "
+        },
+        {
+          "key": "D",
+          "value": "none of these "
+        }
+      ],
+      "answer": "A",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The point $$\\,\\left( {4,\\,1} \\right)$$ undergoes the following three transformations successively.\n<br>Reflection about the line $$y=x$$.\n<br>Translation through a distance 2 units along the positive direction of x-axis. \n<br>Rotation through an angle $$p/4$$ about the origin in the counter clockwise direction. \n<br>Then the final position of the point is given by the coordinates.",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$\\left( {{1 \\over {\\sqrt 2 }},{7 \\over {\\sqrt 2 }}} \\right)$$ "
+        },
+        {
+          "key": "B",
+          "value": "$$\\left( { - \\sqrt 2 ,\\,7\\sqrt 2 } \\right)$$ "
+        },
+        {
+          "key": "C",
+          "value": "$$\\left( { - {1 \\over {\\sqrt 2 }},{7 \\over {\\sqrt 2 }}} \\right)$$ "
+        },
+        {
+          "key": "D",
+          "value": "$$\\left( {  \\sqrt 2 ,\\,7\\sqrt 2 } \\right)$$"
+        }
+      ],
+      "answer": "C",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The points $$\\left( { - a,\\, - b} \\right),\\,\\left( {0,\\,0} \\right),\\,\\left( {a,\\,b} \\right)$$ and $$\\left( {{a^2},\\,ab} \\right)$$ are : ",
+      "options": [
+        {
+          "key": "A",
+          "value": "Collinear "
+        },
+        {
+          "key": "B",
+          "value": "Vertices of a parallelogram "
+        },
+        {
+          "key": "C",
+          "value": "Vertices of a rectangle "
+        },
+        {
+          "key": "D",
+          "value": "None of these "
+        }
+      ],
+      "answer": "A",
+      "explanation": ""
+    }
+  ]
+}

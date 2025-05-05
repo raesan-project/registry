@@ -1,0 +1,1471 @@
+{
+  "_index": {
+    "name": "Semiconductor Electronics"
+  },
+  "_children": [
+    {
+      "_type": "single_mcq",
+      "body": "<p>When the output of an OR gate is applied as input to a NOT gate, then the combination acts as a</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "NAND gate\n"
+        },
+        {
+          "key": "B",
+          "value": "NOR gate\n"
+        },
+        {
+          "key": "C",
+          "value": "AND gate\n"
+        },
+        {
+          "key": "D",
+          "value": "OR gate\n"
+        }
+      ],
+      "answer": "B",
+      "explanation": "<p>When the output of an OR gate is applied as input to a NOT gate, the combination acts as a NOR gate. To understand why, let's examine the behavior of these logic gates.</p>\n\n<p>An OR gate outputs a logic high (1) when at least one of its inputs is high. Mathematically, this can be expressed as:</p>\n\n<p>$$ Y_{\\text{OR}} = A + B $$</p>\n\n<p>Where $ A $ and $ B $ are the inputs, and $ Y_{\\text{OR}} $ is the output of the OR gate.</p>\n\n<p>An OR gate followed by a NOT gate inverts this output. The NOT gate, also known as an inverter, changes a high input to a low output, and vice versa. So the output of the NOT gate can be expressed as:</p>\n\n<p>$$ Y_{\\text{NOT}} = \\overline{Y_{\\text{OR}}} = \\overline{(A + B)} $$</p>\n\n<p>This is exactly the logic operation performed by a NOR gate. Therefore, this combination of an OR gate followed by a NOT gate behaves as a NOR gate.</p>\n\n<p>So, the correct answer is Option B: NOR gate.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>On the basis of electrical conductivity, which one of the following material has the smallest resistivity?</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "Germanium"
+        },
+        {
+          "key": "B",
+          "value": "Silver"
+        },
+        {
+          "key": "C",
+          "value": "Glass"
+        },
+        {
+          "key": "D",
+          "value": "Silicon"
+        }
+      ],
+      "answer": "B",
+      "explanation": "<p>Electrical conductivity is a measure of a material&#39;s ability to conduct an electric current. The higher the conductivity, the lower the resistivity. So, if we are looking for the material with the smallest resistivity, we are looking for the material with the highest electrical conductivity.</p>\n<p>Among the options given, silver (Option B) is known to have the highest electrical conductivity and thus, the smallest resistivity. Germanium (Option A) and silicon (Option D) are semiconductors, meaning they have moderate conductivity that can be manipulated, while glass (Option C) is generally a poor conductor, or an insulator. Therefore, silver is the correct answer.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>A p-type extrinsic semiconductor is obtained when Germanium is doped with:</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "Antimony"
+        },
+        {
+          "key": "B",
+          "value": "Phosphorous"
+        },
+        {
+          "key": "C",
+          "value": "Arsenic"
+        },
+        {
+          "key": "D",
+          "value": "Boron"
+        }
+      ],
+      "answer": "D",
+      "explanation": "<p>For p type semiconductor trivalent impurity added</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Given below are two statements:</p>\n<p>Statement I : Photovoltaic devices can convert optical radiation into electricity.</p>\n<p>Statement II : Zener diode is designed to operate under reverse bias in breakdown region.</p>\n<p>In the light of the above statements, choose the most appropriate answer from the options given below :</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "Both Statement I and Statement II are incorrect."
+        },
+        {
+          "key": "B",
+          "value": "Statement I is correct but Statement II is incorrect."
+        },
+        {
+          "key": "C",
+          "value": "Statement I is incorrect but Statement II is correct."
+        },
+        {
+          "key": "D",
+          "value": "Both Statement I and Statement II are correct"
+        }
+      ],
+      "answer": "D",
+      "explanation": "<p>Statement I : Photocell/solar cell convert light energy into electric energy/current.</p>\n<p>Statement II : We use zener diode in reverse biased condition, when reverse biased voltage more than break down voltage than it act as stablizer.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>A full wave rectifier circuit consists of two p-n junction diodes, a centre-tapped transformer, capacitor and a load resistance. Which of these components remove the ac ripple from the rectified output?</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "p-n junction diodes"
+        },
+        {
+          "key": "B",
+          "value": "Capacitor"
+        },
+        {
+          "key": "C",
+          "value": "Load resistance"
+        },
+        {
+          "key": "D",
+          "value": "A centre-tapped transformer"
+        }
+      ],
+      "answer": "B",
+      "explanation": "<p>Capacitor used to remove AC ripples from Rectifier output.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>The incorrect statement about the property of a Zener diode is :</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "p and n regions of Zener diode are heavily doped "
+        },
+        {
+          "key": "B",
+          "value": "Zener voltage remains constant at breakdown"
+        },
+        {
+          "key": "C",
+          "value": "It is designed to operate under reverse bias"
+        },
+        {
+          "key": "D",
+          "value": "Depletion region formed is very wide"
+        }
+      ],
+      "answer": "D",
+      "explanation": "<p>Zener diode is special purpose p-n junction diode, which is generally operated in reverse bias for its operation of voltage regulation. It is a heavily doped p-n junction. Due to large doping concentration depletion width is narrower.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>As the temperature increases, the electrical resistance</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "Increases for both conductors and semiconductors"
+        },
+        {
+          "key": "B",
+          "value": "Decreases for both conductors and semiconductors"
+        },
+        {
+          "key": "C",
+          "value": "Increases for conductors but decreases for semiconductors"
+        },
+        {
+          "key": "D",
+          "value": "Decreases for conductors but increases for semiconductors"
+        }
+      ],
+      "answer": "C",
+      "explanation": "<p>As the temperature increases the resistivity of the conductor increases hence the electrical resistance increases. However for semiconductor the resistivity decreases with the temperature. Hence electrical resistance of semiconductor decreases.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>In half wave rectification, if the input frequency is 60 Hz, then the output frequency would be</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "Zero"
+        },
+        {
+          "key": "B",
+          "value": "30 Hz"
+        },
+        {
+          "key": "C",
+          "value": "60 Hz"
+        },
+        {
+          "key": "D",
+          "value": "120 Hz"
+        }
+      ],
+      "answer": "C",
+      "explanation": "<p>In half wave rectifier, the output frequency is same as that of input frequency.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Consider the following statements (A) and (B) and identify the correct answer.<br><br>(A) A Zener diode is connected in reverse bias, when used as a voltage regulator.<br><br>(B) The potential barrier of p-n junction lies between 0.1 V to 0.3 V.",
+      "options": [
+        {
+          "key": "A",
+          "value": "(A) is incorrect but (B) is correct."
+        },
+        {
+          "key": "B",
+          "value": "(A) and (B) both are correct."
+        },
+        {
+          "key": "C",
+          "value": "(A) and (B) both are incorrect."
+        },
+        {
+          "key": "D",
+          "value": "(A) is correct and (B) is incorrect."
+        }
+      ],
+      "answer": "D",
+      "explanation": "In reverse biased, after breakdown, voltage across\nthe zener diode becomes constant. Therefore\nzener diode is connected in reverse biased when\nused as voltage regulator.\n<br><br>for Ge Potential barrier V<sub>0</sub> = 0.3 V<br><br>Si Potential barrier V<sub>0</sub> = 0.7 V"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The electron concentration in an n-type semiconductor is the same as hole concentration in a p-type semiconductor. An external field (electric) is applied across each of them. Compare the currents in them.",
+      "options": [
+        {
+          "key": "A",
+          "value": "No current will flow in p-type, current will only flow in n-type"
+        },
+        {
+          "key": "B",
+          "value": "Current in n-type = current in p-type"
+        },
+        {
+          "key": "C",
+          "value": "current in p-type &gt; current in n-type"
+        },
+        {
+          "key": "D",
+          "value": "current in n-type &gt; current in p-type"
+        }
+      ],
+      "answer": "D",
+      "explanation": "In N type semiconductor majority charge carriers are e<sup>$$-$$</sup> and P type semiconductor majority charge carriers are holes.<br><br>I = neAV<sub>d</sub> = neA ($$\\mu$$E)<br><br>As $$\\mu$$<sub>e</sub> &gt; $$\\mu$$<sub>h</sub> $$ \\Rightarrow $$ I<sub>e</sub> &gt; I<sub>h</sub> "
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The increase in the width of the depletion region in a p-n junction diode is due to :",
+      "options": [
+        {
+          "key": "A",
+          "value": "reverse bias only"
+        },
+        {
+          "key": "B",
+          "value": "both forward bias and reverse bias"
+        },
+        {
+          "key": "C",
+          "value": "increase in forward current"
+        },
+        {
+          "key": "D",
+          "value": "forward bias only"
+        }
+      ],
+      "answer": "A",
+      "explanation": "The width of depletion layer will increase with reverse bias."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "For a p-type semiconductor, which of the following statements is <b>true</b>?",
+      "options": [
+        {
+          "key": "A",
+          "value": "Holes are the majority carriers and trivalent atoms are the dopants."
+        },
+        {
+          "key": "B",
+          "value": "Holes are the majority carriers and pentavalent atoms are the dopants."
+        },
+        {
+          "key": "C",
+          "value": "Electrons are the majority carriers and pentavalent atoms are the dopants"
+        },
+        {
+          "key": "D",
+          "value": "Electrons are the majority carriers and trivalent atoms are the dopants. "
+        }
+      ],
+      "answer": "A",
+      "explanation": "In p-type semiconductor, an intrinsic semiconductor is doped with trivalent impurities, that creates deficiencies of valence electrons called holes which are majority charge carriers."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "In a p-n junction diode, change in temperature\ndue to heating",
+      "options": [
+        {
+          "key": "A",
+          "value": "affects only reverse resistance"
+        },
+        {
+          "key": "B",
+          "value": "affects only forward resistance"
+        },
+        {
+          "key": "C",
+          "value": "does not affect resistance of p-n junction"
+        },
+        {
+          "key": "D",
+          "value": "affects the overall V - I characteristics of\np-n junction"
+        }
+      ],
+      "answer": "D",
+      "explanation": "As a result of heating, temperature increases\nwhich generates large number of electron-hole\npairs which lead to increase in conductivity. As\n<br>current increases I = I<sub>0</sub>($${e^{ - {{qv} \\over {KT}}}}$$), overall resistance of\ndiode changes which affects forward and reversed\nbiasing."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "In a common emitter transistor amplifier the audio sgnal voltage across the collector is 3 V. The resistance of collector is 3 k$$\\Omega $$. If current gain is 100 and the base resistance is 2 k$$\\Omega $$, the voltage and power gain of the amplifier is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "15 and 200"
+        },
+        {
+          "key": "B",
+          "value": "150 and 15000"
+        },
+        {
+          "key": "C",
+          "value": "20 and 2000"
+        },
+        {
+          "key": "D",
+          "value": "200 and 1000"
+        }
+      ],
+      "answer": "B",
+      "explanation": "Given: V<sub>i</sub>\n = 3 V, R<sub>C</sub>\n = 3 k$$\\Omega $$, R<sub>B</sub>\n = 2 k$$\\Omega $$,\n$$\\beta $$ = 100\n<br><br>Voltage gain of the CE amplifier\n<br><br>A<sub>V</sub> = $$\\beta {{{R_c}} \\over {{R_b}}}$$ = 100$$\\left( {{3 \\over 2}} \\right)$$ = 150\n<br><br>Power gain = A<sub>V</sub>$$\\beta $$ = 150(100) = 15000"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "For CE transistor amplifier, the aufio signal voltage across the collector resistance of 2 k$$\\Omega $$ is 4 V. If the current amplification factor of the transistor is 100 and the base resistance is 1 k$$\\Omega $$, then the input signal voltage is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "10 mV"
+        },
+        {
+          "key": "B",
+          "value": "20 mV"
+        },
+        {
+          "key": "C",
+          "value": "30 mV"
+        },
+        {
+          "key": "D",
+          "value": "15 mV"
+        }
+      ],
+      "answer": "B",
+      "explanation": "Voltage gain, A = $$\\beta {{{R_C}} \\over {{R_B}}}$$ = $$100 \\times {{2000} \\over {1000}}$$ = 200\n<br><br>Also, A = $${{{V_0}} \\over {{V_i}}}$$\n<br><br>$$ \\Rightarrow $$ $${V_i} = {{{V_0}} \\over A}$$ = $${4 \\over {200}}$$ = 20 mA"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A npn transistor is connected in common emitter configuration in a given amplifier. A load resistance of 800 $$\\Omega $$ is connected in the collector circuit and the voltage frop across it is 0.8 V. If the current amplification factor is 0.96 and the input resistance of the circuit is 192 $$\\Omega $$, the voltage gain and the power gain of the amplifier will respectively be ",
+      "options": [
+        {
+          "key": "A",
+          "value": "4, 4"
+        },
+        {
+          "key": "B",
+          "value": "4, 3.69"
+        },
+        {
+          "key": "C",
+          "value": "4, 3.84"
+        },
+        {
+          "key": "D",
+          "value": "3.69, 3.84"
+        }
+      ],
+      "answer": "C",
+      "explanation": "Voltage gain = Current gain × Resistance gain\n<br><br>= 0.96 $$ \\times $$ $${{800} \\over {192}}$$ = 4\n<br><br>Power gain = [Current gain] × [Voltage gain]\n<br><br> = 0.96 × 4 = 3.84"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The input signal given to a CE amplifier having a voltage gain of 150 is V<sub>i</sub> = 2cos(15t + $${\\pi  \\over 3}$$). The corresponding output signal will be ",
+      "options": [
+        {
+          "key": "A",
+          "value": "2cos$$\\left( {15t + {{5\\pi } \\over 6}} \\right)$$"
+        },
+        {
+          "key": "B",
+          "value": "300cos$$\\left( {15t + {{4\\pi } \\over 3}} \\right)$$"
+        },
+        {
+          "key": "C",
+          "value": "300cos$$\\left( {15t + {{\\pi } \\over 3}} \\right)$$"
+        },
+        {
+          "key": "D",
+          "value": "75cos$$\\left( {15t + {{2\\pi } \\over 3}} \\right)$$"
+        }
+      ],
+      "answer": "B",
+      "explanation": "Given, V<sub>i</sub> = 2cos(15t + $${\\pi  \\over 3}$$)\n<br><br>and Voltage gain A<sub>V</sub> = 150\n<br><br>For CE transistor phase difference between\ninput and output signal is $$\\pi $$ = 180<sup>o</sup>\n<br><br>Using formula, A<sub>V</sub> = $${{{V_0}} \\over {{V_i}}}$$\n<br><br>$$ \\Rightarrow $$ V<sub>0</sub> = A<sub>V</sub> $$ \\times $$ V<sub>i</sub>\n<br><br>= 150$$ \\times $$2cos(15t + $${\\pi  \\over 3}$$ + $$\\pi $$)\n<br><br>= 300cos$$\\left( {15t + {{4\\pi } \\over 3}} \\right)$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The barrier potential of a p-n junction depends on \n<br>(1) &nbsp;&nbsp;type of semiconductor material \n<br>(2)&nbsp;&nbsp; amount of doping\n<br><br>(3) &nbsp;&nbsp;temperature\n<br><br>Which one of the following is correct ? ",
+      "options": [
+        {
+          "key": "A",
+          "value": "(1) and (2) only "
+        },
+        {
+          "key": "B",
+          "value": "(2) only"
+        },
+        {
+          "key": "C",
+          "value": "(2) and (3) only "
+        },
+        {
+          "key": "D",
+          "value": "(1), (2) and (3) "
+        }
+      ],
+      "answer": "D",
+      "explanation": "The barrier potential depends on type of\nsemiconductor (For Si, V<sub>b</sub>\n = 0.7 V and for Ge,\nV<sub>b</sub>\n = 0.3 V), amount of doping and also on the\ntemperature."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "One way in which the operation of a n-p-n transistor differs from that of a p-n-p ",
+      "options": [
+        {
+          "key": "A",
+          "value": "The emitter junction injects minority carries into the base region of  the p-n-p"
+        },
+        {
+          "key": "B",
+          "value": "The emitter injects holes into the base of the p-n-p and electrons into  the base region of n-p-n"
+        },
+        {
+          "key": "C",
+          "value": "The emitter injects holes into the base of n-p-n"
+        },
+        {
+          "key": "D",
+          "value": "The emitter junction is reversed biased in n-p-n"
+        }
+      ],
+      "answer": "B",
+      "explanation": "In p-n-p transistor holes are injected into\nthe base while electrons are injected into the\nbase of n-p-n transistor. Emitter-base junction\nis forward biased."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "In an unbiased p-n junction, holes diffuse from the p-region to n-region because of ",
+      "options": [
+        {
+          "key": "A",
+          "value": "The attraction of free electrons of n-region. "
+        },
+        {
+          "key": "B",
+          "value": "The higher hole concentration in p-region than that in n-region. "
+        },
+        {
+          "key": "C",
+          "value": "The higher concentration of electrons in the n-region than that in the p-region. "
+        },
+        {
+          "key": "D",
+          "value": "The potential difference across the p-n junction."
+        }
+      ],
+      "answer": "B",
+      "explanation": "The higher hole concentration is in\np-region than that in n-region."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "In a n-type semiconductor, which of the following statement is true. ",
+      "options": [
+        {
+          "key": "A",
+          "value": "Holes are minority carries and pentavalent atoms are dopants. "
+        },
+        {
+          "key": "B",
+          "value": "Holes are majority carries and trivalent atoms are dopants. "
+        },
+        {
+          "key": "C",
+          "value": "Electrons are majority carries and trivalent atoms are dopants. "
+        },
+        {
+          "key": "D",
+          "value": "Electrons are minority carriers and pentavalent atoms are dopants. "
+        }
+      ],
+      "answer": "A",
+      "explanation": "In n-type semiconductor, electrons are\nmajority charge carriers and holes are minority\ncharge carriers and pentavalent atoms are dopants."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "In a common emitter (CE) amplifier having a voltage gain G, the transistor used has transconductance 0.03 mho and current gain 25. If the above transistor is replaced with another one with transconductance 0.02 mho and current gain 20, the voltage gain will be ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$${1 \\over 3}G$$"
+        },
+        {
+          "key": "B",
+          "value": "$${5 \\over 4}G$$"
+        },
+        {
+          "key": "C",
+          "value": "$${2 \\over 3}G$$"
+        },
+        {
+          "key": "D",
+          "value": "1.5G"
+        }
+      ],
+      "answer": "C",
+      "explanation": "Formula for trans conductance $$g$$<sub>m</sub> is\n<br><br>$$g$$<sub>m</sub> = $${\\beta  \\over {{r_i}}}$$\n<br><br>Formula for voltage gain A,\n<br><br>A = $$\\beta $$$${{{R_L}} \\over {{r_i}}}$$\n<br><br>$$ \\Rightarrow $$ A = $$g$$<sub>m</sub>R<sub>L</sub>\n<br><br>Given A = G\n<br><br>$$ \\therefore $$ G = $$g$$<sub>m</sub>R<sub>L</sub>\n<br><br>$$ \\Rightarrow $$ G $$ \\propto $$ $$g$$<sub>m</sub>\n<br><br>$$ \\Rightarrow $$ $${{{G_2}} \\over {{G_1}}} = {{{g_{{m_2}}}} \\over {{g_{{m_1}}}}}$$\n<br><br>$$ \\Rightarrow $$ G<sub>2</sub> = $${{0.02} \\over {0.03}}$$ $$ \\times $$ G = $${2 \\over 3}G$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The input resistance of a silicon transistor is 100 $$\\Omega $$. Base current is changed by 40 $$\\mu $$A which results in a change in collector current by 2 mA. This transistor is used as a common emitter amplifier with a load resistance of 4 k$$\\Omega $$. The voltage gain of the amplifier is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "2000"
+        },
+        {
+          "key": "B",
+          "value": "3000"
+        },
+        {
+          "key": "C",
+          "value": "4000"
+        },
+        {
+          "key": "D",
+          "value": "1000"
+        }
+      ],
+      "answer": "A",
+      "explanation": "Current gain ($$\\beta $$) :\n<br><br>$$\\beta $$ = $${{\\Delta {I_C}} \\over {\\Delta {I_B}}}$$\n<br><br>= $${{2 \\times {{10}^{ - 3}}} \\over {40 \\times {{10}^{ - 6}}}}$$ = 50\n<br><br>Voltage gain of the amplifier is\n<br><br>A<sub>V</sub> = $$\\beta {{{R_L}} \\over {{R_i}}}$$\n<br><br>= 50 $$ \\times $$ $${{4 \\times {{10}^3}} \\over {100}}$$ = 2000"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "In a CE transistor amplifier, the audio signal voltage across the collector resistance of 2 k$$\\Omega $$ is 2 V. If the base resistance is 1 k$$\\Omega $$ and the current amplification of the transistor is 100, the input signal voltage is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "0.1 V"
+        },
+        {
+          "key": "B",
+          "value": "1.0 V"
+        },
+        {
+          "key": "C",
+          "value": "1 mV"
+        },
+        {
+          "key": "D",
+          "value": "10 mV"
+        }
+      ],
+      "answer": "D",
+      "explanation": "Here, R<sub>C</sub>\n = 2 k$$\\Omega $$ = 2 × 10<sup>3</sup> $$\\Omega $$\n<br><br>V<sub>0</sub>\n = 2 V, R<sub>B</sub>\n = 1 k$$\\Omega $$ = 1 × 10<sup>3</sup> $$\\Omega $$, $$\\beta $$ = 100\n<br><br>The output voltage, across the load R<sub>C</sub>\n<br><br>V<sub>0</sub> = I<sub>C</sub>R<sub>C</sub> = 2\n<br><br>The collector current (I<sub>C</sub>)\n<br><br>I<sub>C</sub> = $${2 \\over {2 \\times {{10}^3}}}$$ = 10<sup>-3</sup> A = 1 mA\n<br><br>Current gain($$\\beta $$) = $${{{I_C}} \\over {{I_B}}}$$ = 100\n<br><br>$$ \\Rightarrow $$ I<sub>B</sub> = $${{{I_C}} \\over {100}}$$ = $${{{{10}^{ - 3}}} \\over {100}}$$ = 10<sup>-5</sup> A\n<br><br>Input voltage, V<sub>i</sub>\n<br><br> = I<sub>B</sub>R<sub>B</sub>\n = (10<sup>–5</sup> A) (1 × 10<sup>3</sup> $$\\Omega $$)\n = 10<sup>–2</sup> V = 10 mV"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "C and Si both have same lattice structure; having 4 bonding electrons in each. However, C is insulator where as Si is intrinsic semiconductor. This is because ",
+      "options": [
+        {
+          "key": "A",
+          "value": "In case of C the valence band is not completely filled at absolute zero temperature. "
+        },
+        {
+          "key": "B",
+          "value": "In case of C the conduction band is partly filled even at absolute zero temperature. "
+        },
+        {
+          "key": "C",
+          "value": "The four bonding electrons in the case of C lie in the second orbit, whereas in the case of Si they lie in the third. "
+        },
+        {
+          "key": "D",
+          "value": "The four bonding electrons in the case of C lie in the third orbit , whereas for Si they lie in the fourth orbit. "
+        }
+      ],
+      "answer": "C",
+      "explanation": "Electronic configuration of <sup>6</sup>C\n<br><br><sup>6</sup>C = 1s<sup>2</sup>, 2s<sup>2</sup> 2p<sup>2</sup>\n<br><br>The electronic configuration of <sup>14</sup>Si\n<br><br><sup>14</sup>Si = 1s<sup>2</sup>, 2s<sup>2</sup> 2p<sup>6</sup>, 3s<sup>2</sup> 3p<sup>2</sup>\n<br><br>As they are away from Nucleus, so effect of\nnucleus is low for Si even for Sn and Pb are\nalmost mettalic."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Pure Si at 500 K has equal number of electron (n<sub>e</sub>) and hole (n<sub>h</sub>) concentrations of 1.5 $$ \\times $$ 10<sup>16</sup> m<sup>$$-$$3</sup>. Doping by indium increases n<sub>h</sub> to 4.5 $$ \\times $$ 10<sup>22</sup> m<sup>$$-$$3</sup>. The doped semiconductor is of ",
+      "options": [
+        {
+          "key": "A",
+          "value": "p-type having electron concentration n<sub>e</sub> = 5 $$ \\times $$ 10<sup>9</sup> m<sup>$$-$$3</sup>"
+        },
+        {
+          "key": "B",
+          "value": "n-type with electron concentration n<sub>e</sub> = 5 $$ \\times $$ 10<sup>22</sup> m<sup>$$-$$3</sup>"
+        },
+        {
+          "key": "C",
+          "value": "p-type with electron concentration n<sub>e</sub> = 2.5 $$ \\times $$ 10<sup>10</sup> m<sup>$$-$$3</sup>"
+        },
+        {
+          "key": "D",
+          "value": "n-type with electron concentration n<sub>e</sub> = 2.5 $$ \\times $$ 10<sup>23</sup> m<sup>$$-$$3</sup>"
+        }
+      ],
+      "answer": "A",
+      "explanation": "(n<sub>i</sub>)<sup>2</sup>\n= n<sub>e</sub> × n<sub>h</sub>\n<br><br>(1.5 × 10<sup>16</sup>)<sup>2</sup>\n = n<sub>e</sub> (4.5 × 10<sup>22</sup>)\n<br><br>So n<sub>e</sub> = 5 × 10<sup>9</sup>\n<br><br>Now n<sub>h</sub> = 4.5 × 10<sup>22</sup>\n<br><br>$$ \\Rightarrow $$ n<sub>h</sub> $$ &gt;&gt; $$ n<sub>e</sub>\n<br><br>Hence, semiconductor is p-type\n<br><br>and n<sub>e</sub> = 5 × 10<sup>9</sup> m<sup>–3</sup>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "In forward biasing of the p-n junction",
+      "options": [
+        {
+          "key": "A",
+          "value": "the positive terminal of the battery is connected to p-side and the depletion region becomes thick. "
+        },
+        {
+          "key": "B",
+          "value": "the positive terminal of the battery is connected to n-side and the depletion region becomes thin. "
+        },
+        {
+          "key": "C",
+          "value": "the positive terminal of the battery is connected to n-side and the depletion region becomes thick. "
+        },
+        {
+          "key": "D",
+          "value": "the positive terminal of the battery is connected to p-side and the depletion region becomes thin. "
+        }
+      ],
+      "answer": "D",
+      "explanation": "In forward biasing, the positive terminal of\nthe battery is connected to p-side and the negative\nterminal to n-side of p-n junction. The forward bias\nvoltage opposes the potential barrier. Due to it, the\ndepletion region becomes thin."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "If a small amount of antimony is added to germanium crystal ",
+      "options": [
+        {
+          "key": "A",
+          "value": "it becomes a p-type semiconductor "
+        },
+        {
+          "key": "B",
+          "value": "the antimony becomes an acceptor atom "
+        },
+        {
+          "key": "C",
+          "value": "there will be more free electrons than holes in the semiconductor "
+        },
+        {
+          "key": "D",
+          "value": "its resistance is increased"
+        }
+      ],
+      "answer": "C",
+      "explanation": "If a small amount of antimony is added to\ngermanium crystal, crystal becomes n-type semiconductor. Hence, there will be more free electrons\nthan holes."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A transistor is operated in common emitter configuration at V<sub>C</sub> = 2 V such that a change in the base current from 100 $$\\mu $$A to 300 $$\\mu $$A produces a change in the collector current from 10  mA to 20 mA. The current gain is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "50"
+        },
+        {
+          "key": "B",
+          "value": "75"
+        },
+        {
+          "key": "C",
+          "value": "100"
+        },
+        {
+          "key": "D",
+          "value": "25"
+        }
+      ],
+      "answer": "A",
+      "explanation": "Current gain, $$\\beta $$ = $${{\\Delta {I_C}} \\over {\\Delta {I_B}}}$$\n<br><br>= $${{\\left( {20 - 10} \\right) \\times {{10}^{ - 3}}} \\over {\\left( {300 - 100} \\right) \\times {{10}^{ - 6}}}}$$ = 50"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "For transistor action\n<br>(1)&nbsp;&nbsp;Base, emitter and collector regions should have similar size and doping concentrations. \n<br>(2)&nbsp;&nbsp;The base region must be vety thin and lightly doped.\n<br>(3)&nbsp;&nbsp;The emitter-base junction is forward biased and base-collector  junction is reverse biased.\n<br>(4)&nbsp;&nbsp;Both the emitter-base junction as well as the base-collector junction are forward biased. \n<br><br>Which one of the following pairs of statements is correct? ",
+      "options": [
+        {
+          "key": "A",
+          "value": "(4) and (1)"
+        },
+        {
+          "key": "B",
+          "value": "(1) and (2)"
+        },
+        {
+          "key": "C",
+          "value": "(2) and (3)"
+        },
+        {
+          "key": "D",
+          "value": "(3) and (4)"
+        }
+      ],
+      "answer": "C",
+      "explanation": "For transistor action, the base region\nmust be very thin and lightly doped. Also, the\nemitter-base junction is forward biased and\nbase-collector junction is reverse biased."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A common emitter amplifier has a voltage gain of 50, an input impedance of 100 $$\\Omega $$ and an output impedance of 200 $$\\Omega $$. The power gain of the amplifier is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "500 "
+        },
+        {
+          "key": "B",
+          "value": "1000"
+        },
+        {
+          "key": "C",
+          "value": "1250 "
+        },
+        {
+          "key": "D",
+          "value": "50"
+        }
+      ],
+      "answer": "C",
+      "explanation": "Voltage gain= $$\\beta $$ × Impedance gain\n<br><br>$$ \\Rightarrow $$50 = β × (200/100)\n<br><br>$$ \\Rightarrow $$ $$\\beta $$ = 25\n<br><br>Power gain = $$\\beta $$ × Voltage gain\n <br><br>= 25 × 50 = 1250"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Which one of the following bonds  produces a solid that reflects light in the visible region and whose electrical conductivity decreases with temperature and has high melting point ? ",
+      "options": [
+        {
+          "key": "A",
+          "value": "metallic bonding "
+        },
+        {
+          "key": "B",
+          "value": "van der Waal's bonding "
+        },
+        {
+          "key": "C",
+          "value": "ionic bonding "
+        },
+        {
+          "key": "D",
+          "value": "covalent bonding"
+        }
+      ],
+      "answer": "A",
+      "explanation": "In case of metal, conductivity decreases with\nincrease in temperature and metal has high melting\npoint."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The device that can act as a complete electronic circuit is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "junction diode"
+        },
+        {
+          "key": "B",
+          "value": "integrated circuit"
+        },
+        {
+          "key": "C",
+          "value": "junction transistor"
+        },
+        {
+          "key": "D",
+          "value": "zener diode"
+        }
+      ],
+      "answer": "B",
+      "explanation": "Integrated circuit can act as a complete\nelectronic circuit."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Which one of the following statement is false ? ",
+      "options": [
+        {
+          "key": "A",
+          "value": "Pure Si doped with trivalent impurities gives a p-type semiconductor. "
+        },
+        {
+          "key": "B",
+          "value": "Majority carries in a n-type semiconductor are holes. "
+        },
+        {
+          "key": "C",
+          "value": "Minority carries in a p-type semiconductor are electrons. "
+        },
+        {
+          "key": "D",
+          "value": "The resistance of intrinisic semiconductor decreases with increase of temperature. "
+        }
+      ],
+      "answer": "B",
+      "explanation": "In a n-type semiconductors, electrons are\nmajority carriers and holes are minority carriers."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Sodium  has body centred packing. Distance between two nearest atoms is 3.7 $$\\mathop A\\limits^ \\circ  $$. The lattice parameter is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "4.3 $$\\mathop A\\limits^ \\circ  $$"
+        },
+        {
+          "key": "B",
+          "value": "3.0 $$\\mathop A\\limits^ \\circ  $$"
+        },
+        {
+          "key": "C",
+          "value": "8.6 $$\\mathop A\\limits^ \\circ  $$"
+        },
+        {
+          "key": "D",
+          "value": "6.8 $$\\mathop A\\limits^ \\circ  $$"
+        }
+      ],
+      "answer": "A",
+      "explanation": "Distance between nearest atoms in body\ncentred cubic lattice (bcc),\n<br><br>d = $${{\\sqrt 3 } \\over 2}a$$\n<br><br>Given d = 3.7 $$\\mathop A\\limits^ \\circ  $$\n<br><br>$$ \\therefore $$ $$a = {{3.7 \\times 2} \\over {\\sqrt 3 }}$$ = 4.3 $$\\mathop A\\limits^ \\circ  $$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A p-n photodiode is fabricated from a semiconductor with a band gap of 2.5 eV. It can detect a signal of wavelength",
+      "options": [
+        {
+          "key": "A",
+          "value": "4000 nm"
+        },
+        {
+          "key": "B",
+          "value": "6000 nm"
+        },
+        {
+          "key": "C",
+          "value": "4000 $$\\mathop A\\limits^ \\circ  $$"
+        },
+        {
+          "key": "D",
+          "value": "6000 $$\\mathop A\\limits^ \\circ  $$"
+        }
+      ],
+      "answer": "C",
+      "explanation": "$$\\lambda $$<sub>max</sub> = $${{hc} \\over E}$$\n<br><br>= $${{6.6 \\times {{10}^{ - 34}} \\times 3 \\times {{10}^8}} \\over {2.5 \\times 1.6 \\times {{10}^{ - 19}}}}$$\n<br><br>= 5000 $$\\mathop A\\limits^o $$\n<br><br>Now the wavelength detected by photodiode be\nless than $$\\lambda $$<sub>max</sub>, hence it can detect a signal of wave\nlength 4000 $$\\mathop A\\limits^o $$."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A transistor is operated in common-emitter configuration at V<sub>C</sub> = 2V such that a change in the base current from 100 $$\\mu $$A to 200 $$\\mu $$A produces a change in the collector current from 5 mA to 10 mA. The current gain is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "100"
+        },
+        {
+          "key": "B",
+          "value": "150"
+        },
+        {
+          "key": "C",
+          "value": "50"
+        },
+        {
+          "key": "D",
+          "value": "75"
+        }
+      ],
+      "answer": "C",
+      "explanation": "Current gain, $$\\beta $$ = $${{\\Delta {I_C}} \\over {\\Delta {I_B}}}$$\n<br><br>= $${{\\left( {10 - 5} \\right) \\times {{10}^{ - 3}}} \\over {\\left( {200 - 100} \\right) \\times {{10}^{ - 6}}}}$$ = 50"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "If the lattice parameter for a crystalline structure is 3.6 $$\\mathop A\\limits^ \\circ  $$, then the atomic radius in fcc crystal is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "2.92 $$\\mathop A\\limits^ \\circ  $$"
+        },
+        {
+          "key": "B",
+          "value": "1.27 $$\\mathop A\\limits^ \\circ  $$"
+        },
+        {
+          "key": "C",
+          "value": "1.81 $$\\mathop A\\limits^ \\circ  $$"
+        },
+        {
+          "key": "D",
+          "value": "2.10 $$\\mathop A\\limits^ \\circ  $$"
+        }
+      ],
+      "answer": "B",
+      "explanation": "The atomic radius in a f.c.c. crystal is = $${a \\over {2\\sqrt 2 }}$$\n<br><br>$$ \\therefore $$ Atomic radius = $${{3.6} \\over {2\\sqrt 2 }}$$ = 1.27 $$\\mathop A\\limits^ \\circ  $$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The voltage gain of an amplifier with 9% negative feedback is 10. The voltage gain without feedback will be",
+      "options": [
+        {
+          "key": "A",
+          "value": "1.25"
+        },
+        {
+          "key": "B",
+          "value": "100"
+        },
+        {
+          "key": "C",
+          "value": "90"
+        },
+        {
+          "key": "D",
+          "value": "10"
+        }
+      ],
+      "answer": "B",
+      "explanation": "Negative feedback is applied to reduce the\noutput voltage of an amplifier. If there is no\nnegative feedback, the value of output voltage\ncould be very high. In the options given, the\nmaximum value of voltage gain is 100. Hence it\nis the correct option."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A p-n photodiode is made of a material with a band gap of 2.0 eV. The minimum frequency of the radiation that can be absorbed by the material is nearly ",
+      "options": [
+        {
+          "key": "A",
+          "value": "1 $$ \\times $$ 10<sup>14</sup> Hz"
+        },
+        {
+          "key": "B",
+          "value": "20 $$ \\times $$ 10<sup>14</sup> Hz"
+        },
+        {
+          "key": "C",
+          "value": "10 $$ \\times $$ 10<sup>14</sup> Hz"
+        },
+        {
+          "key": "D",
+          "value": "5 $$ \\times $$ 10<sup>14</sup> Hz"
+        }
+      ],
+      "answer": "D",
+      "explanation": "Energy gap E<sub>g</sub> = 2.0 eV\n<br><br>E<sub>g</sub> = 2.0 × 1.6 × 10<sup>–19</sup> J\n<br><br>E<sub>g</sub> = hf\n<br><br>f = frequency of radiation\n<br><br>$$ \\therefore $$ f = $${{{E_g}} \\over h}$$\n<br><br>= $${{3.2 \\times {{10}^{ - 19}}} \\over {6.625 \\times {{10}^{ - 34}}}}$$\n<br><br>= 5 $$ \\times $$ 10<sup>14</sup> Hz"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "For a cubic crystal structure which one of the following relations indicating the cell characteristics is correct ? ",
+      "options": [
+        {
+          "key": "A",
+          "value": "a $$ \\ne $$ b $$ \\ne $$ c&nbsp;&nbsp;and&nbsp;&nbsp;$$\\alpha $$ = $$\\beta $$ = $$\\gamma $$ = 90<sup>o</sup>"
+        },
+        {
+          "key": "B",
+          "value": "a = b = c&nbsp;&nbsp;and&nbsp;&nbsp;$$\\alpha $$ $$ \\ne $$ $$\\beta $$ $$ \\ne $$ $$\\gamma $$ = 90<sup>o</sup>"
+        },
+        {
+          "key": "C",
+          "value": "a = b = c&nbsp;&nbsp;and&nbsp;&nbsp;$$\\alpha $$ = $$\\beta $$ = $$\\gamma $$ = 90<sup>o</sup>"
+        },
+        {
+          "key": "D",
+          "value": "a $$ \\ne $$ b $$ \\ne $$ c&nbsp;&nbsp;and&nbsp;&nbsp;;$$\\alpha $$ $$ \\ne $$ $$\\beta $$ $$ \\ne $$&nbsp;&nbsp;and&nbsp;&nbsp;$$\\gamma $$ = 90<sup>o</sup>"
+        }
+      ],
+      "answer": "C",
+      "explanation": "In a cubic crystal structure\n<br>a = b = c&nbsp;&nbsp;and&nbsp;&nbsp;$$\\alpha $$ = $$\\beta $$ = $$\\gamma $$ = 90<sup>o</sup>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A transistor is operated in common emitter configuration at constant collector voltage V<sub>C</sub> = 1.5 V such that a change in the base current from 100 $$\\mu $$A to 150 $$\\mu $$A profuces a change in the collector current from 5 mA to 10 mA. The current gain $$\\beta $$ is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "50"
+        },
+        {
+          "key": "B",
+          "value": "67"
+        },
+        {
+          "key": "C",
+          "value": "75"
+        },
+        {
+          "key": "D",
+          "value": "100"
+        }
+      ],
+      "answer": "D",
+      "explanation": "Current gain, $$\\beta $$ = $${{\\Delta {I_C}} \\over {\\Delta {I_B}}}$$\n<br><br>= $${{\\left( {10 - 5} \\right) \\times {{10}^{ - 3}}} \\over {\\left( {150 - 100} \\right) \\times {{10}^{ - 6}}}}$$ = 100"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "In a p-n junction photo cell, the value of the photo-electromotive force profuced by monochromatic light is proportional to ",
+      "options": [
+        {
+          "key": "A",
+          "value": "The barrier voltage at the p-n junction. "
+        },
+        {
+          "key": "B",
+          "value": "The intensity of the light falling on the cell."
+        },
+        {
+          "key": "C",
+          "value": "The frequency of the light falling on the cell. "
+        },
+        {
+          "key": "D",
+          "value": "The voltage applied at the p-n junction. "
+        }
+      ],
+      "answer": "B",
+      "explanation": "Electromotive force depends on intensity of\nlight that falls on it and does not depend on the\nfrequency."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Copper has face centered cubic (fcc) lattice with interatomic spacing equal to 2.54 $$\\mathop A\\limits^ \\circ  $$. The value of lattice constant for this lattice is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "2.54 $$\\mathop A\\limits^ \\circ  $$"
+        },
+        {
+          "key": "B",
+          "value": "3.59 $$\\mathop A\\limits^ \\circ  $$"
+        },
+        {
+          "key": "C",
+          "value": "1.27 $$\\mathop A\\limits^ \\circ  $$"
+        },
+        {
+          "key": "D",
+          "value": "5.08 $$\\mathop A\\limits^ \\circ  $$"
+        }
+      ],
+      "answer": "B",
+      "explanation": "Lattice constant for (f.c.c.)\n<br><br>= a = interatomic spacing $$ \\times $$ $$\\sqrt 2 $$ = 3.59 $$\\mathop A\\limits^ \\circ  $$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Carbon, silicon and germanium atoms have four valence electrons each. Their valence and conduction bands are separated by energy band gaps represented by (E<sub>g</sub>)<sub>C</sub>,  (E<sub>g</sub>)<sub>si</sub> and (E<sub>g</sub>)<sub>Ge</sub> respectively. Which one of the following relationships is true in their case? ",
+      "options": [
+        {
+          "key": "A",
+          "value": "(E<sub>g</sub>)<sub>C</sub>  &gt;  (E<sub>g</sub>)<sub>Si</sub>"
+        },
+        {
+          "key": "B",
+          "value": "(E<sub>g</sub>)<sub>C</sub>  &lt;  (E<sub>g</sub>)<sub>Si</sub>"
+        },
+        {
+          "key": "C",
+          "value": "(E<sub>g</sub>)<sub>C</sub>  =  (E<sub>g</sub>)<sub>Si</sub>"
+        },
+        {
+          "key": "D",
+          "value": "(E<sub>g</sub>)<sub>C</sub>  &lt;  (E<sub>g</sub>)<sub>Ge</sub>."
+        }
+      ],
+      "answer": "A",
+      "explanation": "Band gap of carbon is 5.5 eV while that of\nsilicon is 1.1 eV\n<br><br>$$ \\therefore $$ (E<sub>g</sub>)<sub>C</sub>  $$&gt;$$  (E<sub>g</sub>)<sub>Si</sub>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Zener diode is used for ",
+      "options": [
+        {
+          "key": "A",
+          "value": "amplification"
+        },
+        {
+          "key": "B",
+          "value": "rectification"
+        },
+        {
+          "key": "C",
+          "value": "stabilisation"
+        },
+        {
+          "key": "D",
+          "value": "producing oscillations in an oscillator. "
+        }
+      ],
+      "answer": "C",
+      "explanation": "Zener diode is used for stabilisation while\np-n junction diode is used for rectification."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Application of a forward bias to a p-n junction ",
+      "options": [
+        {
+          "key": "A",
+          "value": "widens the depletion zone"
+        },
+        {
+          "key": "B",
+          "value": "increases the potential difference across the depletion zone"
+        },
+        {
+          "key": "C",
+          "value": "increases the number of donors on the n side"
+        },
+        {
+          "key": "D",
+          "value": "decreases the electric field in the depletion zone. "
+        }
+      ],
+      "answer": "D",
+      "explanation": "Number of donors is more because electrons\nfrom –ve terminal of the cell pushes (enters)\nthe n side and decreases the number of\nuncompensated pentavalent ion due to which\npotential barrier is reduced. The neutralised\npentavalent atom are again in position to\ndonate electrons."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Choose the only false statement from the following. ",
+      "options": [
+        {
+          "key": "A",
+          "value": "In conductors the valence and conduction bands overlap."
+        },
+        {
+          "key": "B",
+          "value": "Substances with energy gap of the order of 10 eV are insulators. "
+        },
+        {
+          "key": "C",
+          "value": "The resistivity of a semiconductor increases with increase in temperature. "
+        },
+        {
+          "key": "D",
+          "value": "The conductivity of a semiconductor increases with increase in temperature. "
+        }
+      ],
+      "answer": "C",
+      "explanation": "Option (a) is correct as in conductor conduction\nand valance band overlap and the conduction band\nis partially filled\n<br><br>Option (b) is correct as insulators have energy gap\nof 5 - 10 eV.\n<br><br>Option (c) is incorrect as resistivity decreases with\nincrease in temperature.\n<br><br>Option (d) is correct as with increase in temperature,\nmore and more electrons jump to conduction band,\nhence conductivity increases."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The output of OR gate is 1",
+      "options": [
+        {
+          "key": "A",
+          "value": "if both inputs are zero"
+        },
+        {
+          "key": "B",
+          "value": "if either or both inputs are 1 "
+        },
+        {
+          "key": "C",
+          "value": "only if both inputs are 1"
+        },
+        {
+          "key": "D",
+          "value": "if either inputs is zero "
+        }
+      ],
+      "answer": "B",
+      "explanation": "The truth table of OR gate is\n<br><br>$$\\matrix{\n   A &amp; B &amp; Y  \\cr \n   0 &amp; 0 &amp; 0  \\cr \n   0 &amp; 1 &amp; 1  \\cr \n   1 &amp; 0 &amp; 1  \\cr \n   1 &amp; 1 &amp; 1  \\cr \n\n } $$\n<br><br>It is seen that output of OR gate is Y = A + B.\n<br>If both or any one has 1 input then output will be 1."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "In semiconductors at a room temperature ",
+      "options": [
+        {
+          "key": "A",
+          "value": "the valence band is partially empty and the conduction band is partially filled"
+        },
+        {
+          "key": "B",
+          "value": "the valence band is completely filled and the conduction band is partially filled "
+        },
+        {
+          "key": "C",
+          "value": "the valence band is completely filled "
+        },
+        {
+          "key": "D",
+          "value": "the conduction band is completely empty"
+        }
+      ],
+      "answer": "A",
+      "explanation": "In semiconductors at room temperature the\nelectrons get enough energy so that they are able to\nover come the forbidden gap. Thus at room\ntemperature the valence band is partially empty and\nconduction band is partially filled. Conduction band\nin semiconductor is completely empty only at 0 K."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The peak voltage in the output of a half wave diode rectifier fed with a sinusoidal signal without filter is 10 V. The d.c. component of the output voltage is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "(10/$$\\sqrt 2 $$) V"
+        },
+        {
+          "key": "B",
+          "value": "$$\\left( {{{10} \\over \\pi }} \\right)V$$"
+        },
+        {
+          "key": "C",
+          "value": "10 V"
+        },
+        {
+          "key": "D",
+          "value": "(20/$$\\pi $$) V"
+        }
+      ],
+      "answer": "B",
+      "explanation": "V = $${{{V_0}} \\over \\pi }$$\n<br><br>$$ \\Rightarrow $$ V = $$\\left( {{{10} \\over \\pi }} \\right)V$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A n-p-n transistor conducts when ",
+      "options": [
+        {
+          "key": "A",
+          "value": "both collector and emitter are positive with respect to the base "
+        },
+        {
+          "key": "B",
+          "value": "collector is positive and emitter is negative with respect to the base"
+        },
+        {
+          "key": "C",
+          "value": "collector is positive and emitter is at same potential as the base"
+        },
+        {
+          "key": "D",
+          "value": "both collector and emitter are negative with respect to the base "
+        }
+      ],
+      "answer": "B",
+      "explanation": "When the collector is positive and emitter\nis negative with respect to base, it causes the forward\nbiasing for each junction, which causes\nconduction of current."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Reverse bias applied to a junction diode ",
+      "options": [
+        {
+          "key": "A",
+          "value": "lowers the potential barrier"
+        },
+        {
+          "key": "B",
+          "value": "raises the potential  barrier"
+        },
+        {
+          "key": "C",
+          "value": "increases the majority carrier current"
+        },
+        {
+          "key": "D",
+          "value": "increases the minority carrier current"
+        }
+      ],
+      "answer": "B",
+      "explanation": "In reverse bias, the size of the depletion region\nincreases thereby increasing the potential barrier."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "If a full wave rectifier circuit is operating from 50 Hz mains, the fundamental frequency in the ripple will be ",
+      "options": [
+        {
+          "key": "A",
+          "value": "25 Hz"
+        },
+        {
+          "key": "B",
+          "value": "50 Hz"
+        },
+        {
+          "key": "C",
+          "value": "70.7 Hz"
+        },
+        {
+          "key": "D",
+          "value": "100 Hz"
+        }
+      ],
+      "answer": "D",
+      "explanation": "In full wave rectifier the fundamental\nfrequency in ripple is twice of input frequency."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Barrier potential of a p-n junction diode does not depened on ",
+      "options": [
+        {
+          "key": "A",
+          "value": "diode design"
+        },
+        {
+          "key": "B",
+          "value": "temperature"
+        },
+        {
+          "key": "C",
+          "value": "forward bias"
+        },
+        {
+          "key": "D",
+          "value": "doping density"
+        }
+      ],
+      "answer": "A",
+      "explanation": "Barrier potential does not depend in diode\ndesign while barrier potential depends upon\ntemperature, doping density and forward biasing."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "In a p-n junction",
+      "options": [
+        {
+          "key": "A",
+          "value": "high potential at n side and low potential at p side "
+        },
+        {
+          "key": "B",
+          "value": "high potential at P side and low potential at n side"
+        },
+        {
+          "key": "C",
+          "value": "p and n both are at same potential"
+        },
+        {
+          "key": "D",
+          "value": "undetermined."
+        }
+      ],
+      "answer": "B",
+      "explanation": "For conduction, p-n junction must be\nforward biased. For this p-side should be\nconnected to higher potential and n-side to\nlower potential."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "For a transistor $${{{I_C}} \\over {{I_E}}}$$ = 0.96, then current gain for common emitter is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "12"
+        },
+        {
+          "key": "B",
+          "value": "6"
+        },
+        {
+          "key": "C",
+          "value": "48"
+        },
+        {
+          "key": "D",
+          "value": "24"
+        }
+      ],
+      "answer": "D",
+      "explanation": "$${{{I_C}} \\over {{I_E}}}$$ = 0.96 = $$\\alpha $$\n<br><br>$$ \\therefore $$ Current gain, $$\\beta $$ = $${{{I_C}} \\over {{I_B}}}$$ = $${\\alpha  \\over {1 - \\alpha }}$$ = 24"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Number of atom per unit cell in B.C.C.",
+      "options": [
+        {
+          "key": "A",
+          "value": "9"
+        },
+        {
+          "key": "B",
+          "value": "4"
+        },
+        {
+          "key": "C",
+          "value": "2"
+        },
+        {
+          "key": "D",
+          "value": "1"
+        }
+      ],
+      "answer": "C",
+      "explanation": "In body-centred cubic (b.c.c.) lattice there\nare eight atoms at the corners of the cube and one\nat the centre.\n<br><br>Therefore number of atom per unit cell\n<br><br>= $${1 \\over 8} \\times 8$$ + 1 = 2"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "For a common base circuit if  $${{{I_C}} \\over {{I_E}}}$$ = 0.98 then current gain for common emitter circuit will be",
+      "options": [
+        {
+          "key": "A",
+          "value": "49"
+        },
+        {
+          "key": "B",
+          "value": "98"
+        },
+        {
+          "key": "C",
+          "value": "4.9"
+        },
+        {
+          "key": "D",
+          "value": "25.5."
+        }
+      ],
+      "answer": "A",
+      "explanation": "$${{{I_C}} \\over {{I_E}}}$$ = 0.98 = $$\\alpha $$\n<br><br>$$ \\therefore $$ Current gain, $$\\beta $$ = $${{{I_C}} \\over {{I_B}}}$$ = $${\\alpha  \\over {1 - \\alpha }}$$ = 49"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The correct relation for $$\\alpha $$, $$\\beta $$ for a transistor",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$\\beta  = {{1 - \\alpha } \\over \\alpha }$$"
+        },
+        {
+          "key": "B",
+          "value": "$$\\beta  = {\\alpha  \\over {1 - \\alpha }}$$"
+        },
+        {
+          "key": "C",
+          "value": "$$\\alpha  = {{\\beta  - 1} \\over \\beta }$$"
+        },
+        {
+          "key": "D",
+          "value": "$$\\alpha \\beta  = 1$$"
+        }
+      ],
+      "answer": "B",
+      "explanation": "$$\\beta $$ = $${{{I_C}} \\over {{I_B}}}$$ = $${{{I_C}} \\over {{I_E} - {I_C}}}$$ = $${{{{{I_C}} \\over {{I_E}}}} \\over {1 - {{{I_C}} \\over {{I_E}}}}}$$ = $${\\alpha  \\over {1 - \\alpha }}$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The cations and anions are arranged in alternate form in ",
+      "options": [
+        {
+          "key": "A",
+          "value": "metallic crystal"
+        },
+        {
+          "key": "B",
+          "value": "ionic crystal"
+        },
+        {
+          "key": "C",
+          "value": "covalent crystal "
+        },
+        {
+          "key": "D",
+          "value": "semi-conductor crystal. "
+        }
+      ],
+      "answer": "B",
+      "explanation": "In an Ionic crystal, the cations and anions are arranged in alternate form."
+    }
+  ]
+}

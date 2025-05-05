@@ -1,0 +1,271 @@
+{
+  "_index": {
+    "name": "Thermodynamics"
+  },
+  "_children": [
+    {
+      "_type": "numerical",
+      "body": "<p>$2 \\mathrm{~mol} \\,\\mathrm{of}\\, \\mathrm{Hg}(\\mathrm{g})$ is combusted in a fixed volume bomb calorimeter with excess of $\\mathrm{O}_{2}$ at $298 \\mathrm{~K}$ and 1 atm into $\\mathrm{HgO}(s)$. During the reaction, temperature increases from $298.0 \\mathrm{~K}$ to $312.8 \\mathrm{~K}$. If heat capacity of the bomb calorimeter and enthalpy of formation of $\\mathrm{Hg}(g)$ are $20.00 \\mathrm{~kJ} \\mathrm{~K}^{-1}$ and $61.32 \\mathrm{~kJ}$ $\\mathrm{mol}^{-1}$ at $298 \\mathrm{~K}$, respectively, the calculated standard molar enthalpy of formation of $\\mathrm{HgO}(s)$ at 298 $\\mathrm{K}$ is $\\mathrm{X}\\, \\mathrm{kJ}\\, \\mathrm{mol}^{-1}$. The value of $|\\mathrm{X}|$ is _________ .</p>\n<p>[Given: Gas constant $\\mathrm{R}=8.3 \\mathrm{~J} \\mathrm{~K}^{-1} \\mathrm{~mol}^{-1}$ ]</p>",
+      "answer": "89.00TO91.00",
+      "explanation": "<p>$$2Hg(g)+O_2(g) \\longrightarrow 2HgO(s)$$</p>\n<p>Heat capacity of calorimeter = 20 kJ K<sup>$$-1$$</sup></p>\n<p>Rise in temperature = 14.8 K</p>\n<p>$$\\Delta H^\\circ=\\Delta U^\\circ+\\Delta n_g RT$$</p>\n<p>$$=-296-3\\times8.3\\times298\\times10^{-3}$$</p>\n<p>$$\\simeq -303.42$$ kJ</p>\n<p>$$\\Delta H^\\circ  = \\Delta H{^\\circ _f}(HgO(s)) - \\Delta H{^\\circ _f}(Hg(g))$$</p>\n<p>$$ - 303 - 42 = \\Delta H{^\\circ _f}(HgO(s)) - 2 \\times 61.32$$</p>\n<p>$$\\Delta H{^\\circ _f}(HgO(s)) =  - 303.42 - 122.64$$</p>\n<p>$$ =  - 180.78$$ kJ</p>\n<p>$$\\left| {\\Delta H{^\\circ _f}(HgO(s))} \\right| = 90.39$$ kJ mol<sup>$$-$$1</sup></p>"
+    },
+    {
+      "_type": "numerical",
+      "body": "Tin is obtained from cassiterite by reduction with coke. Use the data given below to determine the minimum temperature (in K) at which the reduction of cassiterite by coke would take place.<br><br>At $$298K:{\\Delta _f}H^\\circ [Sn{O_2}(s)] =  - 581.0$$ mol<sup>-1</sup>,<br><br>$$\\eqalign{\n  &amp; {\\Delta _f}H^\\circ [(C{O_2})(g)] =  - 394.0\\,kJ\\,mol{ ^{-1}}  \\cr \n  &amp; S^\\circ [Sn{O_2}(s)] = 56.0J\\,{K^{ - 1}}mo{l^{ - 1}}  \\cr \n  &amp; S^\\circ [Sn(s)] = 52.0\\,J\\,K{ ^{-1}}mo{l^{ - 1}}  \\cr \n  &amp; S^\\circ [C(s)] = 6.0\\,J\\,{K^{ - 1}}mo{l^{ - 1}}  \\cr \n  &amp; S^\\circ [C{O_2}(g)] = 210.0\\,J\\,{K^{ - 1}}mo{l^{ - 1}} \\cr} $$<br><br>Assume that, the enthalpies and the entropies are temperature independent.",
+      "answer": "935",
+      "explanation": "Tin is obtained from cassiterite by reduction with coke and the balanced chemical reaction is<br><br>$$Sn{O_2}(s) + C(s)\\buildrel {} \\over\n \\longrightarrow Sn(s) + C{O_2}(g)$$<br><br>Standard enthalpy of reaction,<br><br>$$\\Delta H_{{R^\\pi }}^o = (\\Delta H_f^oC{O_2}(g)) - (\\Delta H_f^oSn{O_2}(s))$$<br><br>$$\\Delta H_{{R^\\pi }}^o =  - 394 - ( - 581) \\Rightarrow 187$$<br><br>Standard entropy of reaction,<br><br>$$\\Delta S_{{R^\\pi }}^o = \\Delta S_{\\Pr oducts}^o - \\Delta S_{{\\mathop{\\rm Re}\\nolimits} ac\\tan ts}^o$$<br><br>$$\\Delta S_{{R^\\pi }}^o = [S_{}^o(Sn(s)) + S_{}^o(C{O_2}(g))] - S_{}^o(Sn{O_2}(s)) + S_{}^o(C(s))]$$<br><br>$$\\Delta S_{{R^\\pi }}^o = [52 + 210] - [56 + 6]$$<br><br>$$ \\Rightarrow $$ 200 JK<sup>$$-$$1</sup> mol<sup>$$-$$1</sup><br><br>We know that, $$\\Delta H^\\circ  = T\\Delta S^\\circ $$<br><br>$$ \\therefore $$ $$T = {{\\Delta H^\\circ } \\over {\\Delta S^\\circ }}$$<br><br>$$ = {{187 \\times 1000} \\over {200}} \\Rightarrow 935K$$<br><br>For the reaction to be spontaneous, the temperature should be greater than 935 K."
+    },
+    {
+      "_type": "numerical",
+      "body": "The surface of copper gets tarnished by the formation of copper oxide. $${N_2}$$ gas was passed to prevent the oxide formation during heating of copper at $$1250$$ $$K.$$  However, the $${N_2}$$ gas contains $$1$$ mole % of water vapor as impurity. The water vapor oxidises copper as per the reaction given below : $$2Cu\\left( s \\right) + {H_2}O\\left( g \\right) \\to C{u_2}O\\left( s \\right) + {H_2}\\left( g \\right)$$ \n<br><br>$${P_{H2}}$$ is the minimum partial pressure of $${H_2}$$ (in bar) needed to prevent the oxidation at $$1250$$ $$K.$$  The value of $$\\ln \\left( {{P_{H2}}} \\right)$$ is ________. \n<br><br>Given: total pressure $$=1$$ bar, $$R$$ (universal gas constant ) $$=$$ $$8J{K^{ - 1}}\\,\\,mo{l^{ - 1}},$$ $$\\ln \\left( {10} \\right) = 2.3.\\,$$ $$Cu(s)$$ and $$C{u_2}O\\left( s \\right)$$ are naturally immiscible.  \n<br><br>At $$1250$$ $$K:2Cu(s)$$ $$ + {\\raise0.5ex\\hbox{$\\scriptstyle 1$}\n\\kern-0.1em/\\kern-0.15em\n\\lower0.25ex\\hbox{$\\scriptstyle 2$}}{O_2}\\left( g \\right) \\to C{u_2}O\\left( s \\right);$$ $$\\Delta {G^ \\circ } =  - 78,000J\\,mo{l^{ - 1}}$$ \n<br><br>$${H_2}\\left( g \\right) + {\\raise0.5ex\\hbox{$\\scriptstyle 1$}\n\\kern-0.1em/\\kern-0.15em\n\\lower0.25ex\\hbox{$\\scriptstyle 2$}}{O_2}\\left( g \\right) \\to {H_2}O\\left( g \\right);$$ \n<br><br>$$\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,$$ $$\\Delta {G^ \\circ } =  - 1,78,000J\\,mo{l^{ - 1}};$$  ($$G$$ is the Gibbs energy) \n",
+      "answer": "-14.6",
+      "explanation": "<p>$$2Cu(s) + {1 \\over 2}{O_2}(g) \\to C{u_2}O(s);\\Delta {G^o} =  - 78,000$$ J mol<sup>$$-$$1</sup> ...... (1)</p>\n<p>$${H_2}(g) + {1 \\over 2}{O_2}(g) \\to {H_2}O(g);\\Delta {G^o} =  - 1,78,000$$ J mol<sup>$$-$$1</sup> ..... (2)</p>\n<p>Subtracting Eq. (1) $$-$$ Eq. (2), we get</p>\n<p>$$2Cu(s) + {H_2}O(g) \\to C{u_2}O(s) + {H_2}(g);\\Delta {G^o} =  + 100000$$ J mol<sup>$$-$$1</sup> ..... (3)</p>\n<p>Now, $$\\Delta G = \\Delta {G^o} + RT\\ln \\left( {{{{p_{{H_2}}}} \\over {{p_{{H_2}O}}}}} \\right)$$</p>\n<p>For the reaction (3) to not occur,</p>\n<p>$$\\Delta G > 0$$ or $$\\Delta {G^o} + RT\\ln \\left( {{{{p_{{H_2}}}} \\over {{p_{{H_2}O}}}}} \\right) > 0$$</p>\n<p>$$ \\Rightarrow 100000 + 8 \\times 1250\\ln \\left( {{{{p_{{H_2}}}} \\over {{p_{{H_2}O}}}}} \\right) > 0$$</p>\n<p>$$ \\Rightarrow 100000 + 8 \\times 1250\\ln \\left( {{{{p_{{H_2}}}} \\over {{p_{{H_2}O}}}}} \\right) > {{ - 100000} \\over {8 \\times 1250}}$$</p>\n<p>$$ \\Rightarrow \\ln \\left( {{{{p_{{H_2}}}} \\over {{p_{{H_2}O}}}}} \\right) >  - 10$$</p>\n<p>$$\\ln {p_{{H_2}}} >  - 10 + \\ln {p_{{H_2}O}}$$</p>\n<p>Now, $${p_{{H_2}O}} = {x_{{H_2}O}} \\times {p_T} = 0.01 \\times 1 = {10^{ - 2}}$$</p>\n<p>So, $$\\ln {p_{{H_2}}} >  - 10 - 2\\ln 10 \\Rightarrow {p_{{H_2}}} >  - 14.6$$ bar</p>"
+    },
+    {
+      "_type": "numerical",
+      "body": "<p>In a constant volume calorimeter, 3.5 g of a gas with molecular weight 28 was burnt in excess oxygen at 298.0 K. The temperature of the calorimeter was found to increase from 298.0 K to 298.45 K due to the combustion process. Given that the heat capacity of the calorimeter is 2.5 kJ K$$^{-1}$$, the numerical value for the enthalpy of combustion of the gas in kJ mol$$^{-1}$$ is ____________.</p>",
+      "answer": "9",
+      "explanation": "<p>To find the numerical value for the enthalpy of combustion of the gas in kJ mol$$^{-1}$$, we first need to determine the total heat released by the combustion of the gas within the calorimeter. We then convert this amount of heat into per mole of the gas.\n\n<strong>Step 1: Calculate the total heat released, $$ q $$.</strong>\n\n<p>The heat released, $$ q $$, due to combustion in the calorimeter can be calculated using the formula:\n\n<p>$$ q = C \\cdot \\Delta T $$</p>\n\n<p>where:</p>\n\n<ul>\n<li>$$ C $$ is the heat capacity of the calorimeter, and</li><br>\n<li>$$ \\Delta T $$ is the change in temperature.</p></li>\n</ul>\n<p>In this problem:\n\n<ul>\n<li>$$ C = 2.5 \\text{ kJ K}^{-1} $$</li><br>\n<li>$$ \\Delta T = 298.45 \\text{ K} - 298.0 \\text{ K} = 0.45 \\text{ K} $$</li>\n</ul>\n<p>Substituting these values into the equation gives:\n\n<p>$$ q = 2.5 \\text{ kJ K}^{-1} \\times 0.45 \\text{ K} = 1.125 \\text{ kJ} $$</p>\n\n<p>The total heat released by the process is therefore 1.125 kJ, where this amount of heat is a measure of energy released and absorbed by the calorimeter, therefore it is positive.</p></p>\n\n<strong>Step 2: Convert the heat released to a molar basis.</strong>\n\n<p>To convert the heat released into per mole of the gas, we first need to calculate the number of moles of the gas that was burnt. The number of moles, $$ n $$, can be calculated from the mass of the gas and its molecular weight:\n\n<p>$$ n = \\frac{\\text{mass}}{\\text{molecular weight}} $$</p>\n\n</p>\n\n<p>In this problem:\n\n<ul>\n<li>The mass of the gas = 3.5 g</li><br>\n<li>Molecular weight of the gas = 28 g mol$$^{-1}$$</li>\n</ul>\n<p>Substituting these values gives:\n\n<p>$$ n = \\frac{3.5 \\text{ g}}{28 \\text{ g mol}^{-1}} = 0.125 \\text{ mol} $$</p>\n\n</p>\n\n<strong>Step 3: Calculate the enthalpy of combustion per mole.</strong>\n\n<p>The enthalpy of combustion per mole, $$ \\Delta H $$, is given by:\n\n<p>$$ \\Delta H = \\frac{q}{n} $$</p>\n\n<p>Substituting the values we obtained:</p>\n\n<p>$$ \\Delta H = \\frac{1.125 \\text{ kJ}}{0.125 \\text{ mol}} = 9 \\text{ kJ mol}^{-1} $$</p>\n\n</p>\n\n<p>Therefore, the enthalpy of combustion of the gas is $$ -9 \\text{ kJ mol}^{-1} $$.\n\n<p>Note: The negative sign indicates that the process is exothermic (releases heat).</p></p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The standard state Gibbs free energies of formation of $$C$$(graphite) and $$C$$(diamond) at $$T=298$$ $$K$$ are\n<br><br>$${\\Delta _f}{G^0}$$ [$$C$$(graphite)] $$ = 0kJmo{l^{ - 1}}$$ \n<br><br>$${\\Delta _f}{G^0}$$ [$$C$$(diamond)] $$ = 2.9kJmo{l^{ - 1}}$$ \n<br><br>The standard state means that the pressure should be $$1$$ bar, and substance should be pure at a given temperature. The conversion of graphite [$$C$$(graphite)] to diamond [$$C$$(diamond)] reduces its volume by $$2 \\times {10^{ - 6}}\\,{m^3}\\,mo{l^{ - 1}}$$ If $$C$$(graphite) is converted to $$C$$(diamond) isothermally at $$T=298$$ $$K,$$ the pressure at which $$C$$(graphite) is in equilibrium with $$C$$(diamond), is \n<br><br>[Useful information : $$1$$ $$J=1$$ $$kg\\,{m^2}{s^{ - 2}};1\\,Pa = 1\\,kg\\,{m^{ - 1}}{s^{ - 2}};$$ $$1$$ bar $$ = {10^5}$$ $$Pa$$]",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$14501$$ bar "
+        },
+        {
+          "key": "B",
+          "value": "$$58001$$ $$bar$$ "
+        },
+        {
+          "key": "C",
+          "value": "$$1450$$ bar "
+        },
+        {
+          "key": "D",
+          "value": "$$29001$$ bar "
+        }
+      ],
+      "answer": "A",
+      "explanation": "<p>We have</p>\n<p>C(graphite) $$\\to$$ C(diamond)</p>\n<p>For solid at constant temperature, Gibbs energy can be calculated as</p>\n<p>$$dG = \\Delta Vdp$$</p>\n<p>$$\\int\\limits_{\\Delta {G_1}}^{\\Delta {G_2}} {d(\\Delta {G_T}) = \\int\\limits_{{p_1}}^{{p_2}} {\\Delta Vdp} } $$</p>\n<p>$$\\Delta {G_2} - \\Delta {G_1} = \\Delta V({p_2} - {p_1})$$</p>\n<p>$$(2.9 \\times {10^3} - 0) = 2 \\times {10^{ - 6}}({p_2} - 1)$$</p>\n<p>$$({p_2} - 1) = {{2.9 \\times {{10}^3}} \\over {2 \\times {{10}^{ - 6}}}}$$ Pa</p>\n<p>$$({p_2} - 1) = {{2.9 \\times {{10}^3}} \\over {2 \\times {{10}^{ - 6}} \\times {{10}^5}}}$$ bar</p>\n<p>p<sub>2</sub> = 14501 bar</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "One mole of an ideal gas at 300 K in thermal contact with surroundings expands isothermally from 1.0 L to\n2.0 L against a constant pressure of 3.0 atm. In this process, the change in entropy of surrounding ($$\\Delta$$S<sub>surr</sub>)in\nJK<sup>–1</sup> is (1L atm = 101.3 J)",
+      "options": [
+        {
+          "key": "A",
+          "value": "5.763 "
+        },
+        {
+          "key": "B",
+          "value": "1.013"
+        },
+        {
+          "key": "C",
+          "value": "– 1.013"
+        },
+        {
+          "key": "D",
+          "value": "– 5.763"
+        }
+      ],
+      "answer": "C",
+      "explanation": "Work done in an irreversible isothermal process is given by :\n<br/><br/>$$\n\\begin{aligned}\n\\mathrm{W}_{\\mathrm{irr}} & =-\\mathrm{P}_{\\mathrm{ext}}\\left(\\mathrm{V}_2-\\mathrm{V}_1\\right) \\\\\\\\\n& =-3.0 \\mathrm{~atm}(2.0 \\mathrm{~L}-1.0 \\mathrm{~L}) \\\\\\\\\n& =-3.0 \\times 1.0 \\mathrm{~atm} \\mathrm{~L} \\\\\\\\\n\\mathrm{~W}_{\\mathrm{irr}} & =-3.0 \\mathrm{~L} \\mathrm{~atm} \\\\\\\\\n\\mathrm{~W}_{\\mathrm{irr}} & =-3.0 \\times 101.3 \\mathrm{~J} \\,\\,\\,\\,\\,\\,\\,\\,\\,\\\n[1 \\mathrm{~L} \\mathrm{~atm}=101.3]\n \\\\\\\\\n& =-303.9 \\mathrm{~J}\n\\end{aligned}\n$$\n<br/><br/>At a constant pressure,\n<br/><br/>$$\n\\begin{aligned}\n& \\Delta \\mathrm{U}=\\mathrm{q}_{\\mathrm{p}}+\\mathrm{W}_{\\text {irr }}=\\mathrm{q}_{\\mathrm{p}}-\\mathrm{P}_{\\text {ext }}\\left(\\mathrm{V}_2-\\mathrm{V}_1\\right) \\\\\\\\\n& \\Delta \\mathrm{U}=\\Delta \\mathrm{H}-\\mathrm{P}_{\\text {ext }}\\left(\\mathrm{V}_2-\\mathrm{V}_1\\right) \\\\\\\\\n& \\Delta \\mathrm{H}=\\Delta \\mathrm{U}+\\mathrm{P}_{\\text {ext }}\\left(\\mathrm{V}_2-\\mathrm{V}_1\\right)\n\\end{aligned}\n$$\n<br/><br/>Since, reaction takes place at constant temperature; hence, $\\Delta \\mathrm{U}=0$.\n<br/><br/>$$\n\\begin{aligned}\n\\Delta \\mathrm{H} & =\\mathrm{P}_{\\text {ext }}\\left(\\mathrm{V}_2-\\mathrm{V}_1\\right)=-\\mathrm{W}_{\\mathrm{irr}}=303.9 \\mathrm{~J} \\\\\\\\\n\\Delta \\mathrm{H}_{\\mathrm{sys}} & =303.9 \\mathrm{~J} \\\\\\\\\n\\Delta \\mathrm{S}_{\\text {sys }} & =\\frac{\\Delta \\mathrm{H}_{\\text {sys }}}{\\mathrm{T}} \\text { and } \\\\\\\\\n\\end{aligned}\n$$\n<br/><br/>Finally, the change in entropy of the surroundings (ΔS<sub>surr</sub>) is equal to the negative of the change in entropy of the system, because the system and its surroundings form an isolated system :\n\n<br/><br/>ΔS<sub>surr</sub> = -ΔS<sub>sys</sub>\n<br/><br/>$$\n\\begin{aligned}\n\\Delta \\mathrm{S}_{\\text {surr }} & =-\\frac{\\Delta \\mathrm{H}_{\\text {sys }}}{\\mathrm{T}}=-\\frac{303.9 \\mathrm{~J}}{300 \\mathrm{~K}} \\\\\\\\\n& =-1.013 \\mathrm{~J} \\mathrm{~K}^{-1}\n\\end{aligned}\n$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Match the thermodynamics processes given under <b>column I</b> with expression given under <b>column II</b><br><br>\n<b>Column I</b><br>\n(A) Freezing water at 273 K and 1 atm<br>\n(B) Expansion of 1 mol of an ideal gas into a vacuum under isolated conditions.<br>\n(C) Mixing of equal volumes of two ideal gases at constant temperature and pressure in an isolated container.<br>\n(D) Reversible heating of H<sub>2</sub>(g) at 1 atm from 300K to 600K, followed by reversible cooling to 300K at 1 atm<br><br>\n<b>Column II</b><br>\n(p) q = 0<br>\n(q) w = 0<br>\n(r) $$\\Delta S_{sys}$$ &lt; 0<br>\n(s) $$\\Delta U$$ = 0<br>\n(t) $$\\Delta G$$ = 0<br>",
+      "options": [
+        {
+          "key": "A",
+          "value": "A $$\\to$$ r,t; B $$\\to$$ q,s; C $$\\to$$ p,s; D $$\\to$$ p,q,s; "
+        },
+        {
+          "key": "B",
+          "value": "A $$\\to$$ r,t; B $$\\to$$ p,s; C $$\\to$$ s; D $$\\to$$ q,s,t; "
+        },
+        {
+          "key": "C",
+          "value": "A $$\\to$$ r,t; B $$\\to$$ p,q,s; C $$\\to$$ p,q,s; D $$\\to$$ p,q,s,t; "
+        },
+        {
+          "key": "D",
+          "value": "A $$\\to$$ r,t; B $$\\to$$ p,s; C $$\\to$$ p,q,s; D $$\\to$$ p,s,t; "
+        }
+      ],
+      "answer": "C",
+      "explanation": "<p>(A) $$\\to$$ (R and T)</p>\n<p>Freezing of water,</p>\n<p>H<sub>2</sub>O<sub>(l)</sub> $$\\mathrel{\\mathop{\\kern0pt\\rightleftharpoons}\n\\limits_{273\\,K}^{1\\,atm}} $$ H<sub>2</sub>O<sub>(s)</sub></p>\n<p>The system is cooled i.e.; heat is released during the process</p>\n<p>so, q < 0</p>\n<p>$$\\mathop {Water}\\limits_{(Less\\,volume)} $$ $$\\rightleftharpoons$$ $$\\mathop {Ice}\\limits_{(More\\,volume)} $$ + heat</p>\n<p>Volume is increased i.e.; $$\\Delta$$V = +ve.</p>\n<p>w = $$-$$P$$\\Delta$$V = $$-$$ve</p>\n<p>i.e.; w < 0 (expansion)</p>\n<p>Entropy of system is decreased, $$\\Delta$$S<sub>sys</sub> < 0.</p>\n<p>$$\\Delta$$U = q + w</p>\n<p>As q < 0, w < 0 so, $$\\Delta$$U < 0.</p>\n<p>At equilibrium, $$\\Delta$$G = 0.</p>\n<p>(B) $$\\to$$ (P, Q and S)</p>\n<p>Expansion of 1 mol of an ideal gas into a vacuum under isolated conditions,</p>\n<p>w = 0, q = 0 so, $$\\Delta$$U = 0</p>\n<p>For expansion, $$\\Delta$$S<sub>sys</sub> > 0 as entropy increases.</p>\n<p>$$\\Delta G =  - nRT\\ln {{{V_2}} \\over {{V_1}}}$$</p>\n<p>For expansion, V<sub>2</sub> > V<sub>1</sub></p>\n<p>$$\\Delta$$G = $$-$$ve i.e.; $$\\Delta$$G < 0.</p>\n<p>(C) $$\\to$$ (P, Q and S)</p>\n<p>Mixing of equal volumes of two ideal gases at constant temperature and pressure in an isolated container.</p>\n<p>q =  0 (isolated)</p>\n<p>w = $$-$$P$$\\Delta$$V</p>\n<p>w = 0 ($$\\because$$ $$\\Delta$$V = 0)</p>\n<p>$$\\Delta$$S<sub>sys</sub> > 0 (mixing of gases)</p>\n<p>$$\\Delta$$U = q + w = 0</p>\n<p>$$\\Delta$$G = $$\\Delta$$H $$-$$ T$$\\Delta$$S</p>\n<p>$$\\Delta$$G = q<sub>p</sub> $$-$$ T$$\\Delta$$S (at constant P, T)</p>\n<p>$$\\Delta$$G =  0 $$-$$ T$$\\Delta$$S = $$-$$T$$\\Delta$$S</p>\n<p>$$\\Delta$$G < 0 ($$\\because$$ $$\\Delta$$S<sub>sys</sub> > 0)</p>\n<p>(D) $$\\to$$ (P, Q, S and T)</p>\n<p>$$\\mathop {{H_{2(g)}}}\\limits_{(300\\,K)} \\mathrel{\\mathop{\\kern0pt\\rightleftharpoons}\n\\limits_{Cool}^{Heat,\\,1\\,atm}} \\mathop {{H_{2(g)}}}\\limits_{(600\\,K)} $$</p>\n<p>Internal energy (U), entropy (S) and free energy (G) are state functions which depend only upon the state of the system and do not depend upon the path by which the state is attained.</p>\n<p>Thus, $$\\Delta$$U = 0, $$\\Delta$$S = 0 and $$\\Delta$$G = 0</p>\n<p>Work and heat are path functions but the same path is retraced so, q = 0 and w = 0.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "For the process<br>\nH<sub>2</sub>O(l) $$\\to$$ H<sub>2</sub>O(g)<br>\nat T = 100<sup>o</sup>C and 1 atmosphere pressure, the correct choice is",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$\\Delta S$$<sub>system</sub> &gt; 0 and $$\\Delta S$$<sub>surroundings</sub> &gt; 0"
+        },
+        {
+          "key": "B",
+          "value": "$$\\Delta S$$<sub>system</sub> &gt; 0 and $$\\Delta S$$<sub>surroundings</sub> &lt; 0"
+        },
+        {
+          "key": "C",
+          "value": "$$\\Delta S$$<sub>system</sub> &lt; 0 and $$\\Delta S$$<sub>surroundings</sub> &gt; 0"
+        },
+        {
+          "key": "D",
+          "value": "$$\\Delta S$$<sub>system</sub> &lt; 0 and $$\\Delta S$$<sub>surroundings</sub> &lt; 0"
+        }
+      ],
+      "answer": "B",
+      "explanation": "<p>To analyze the options provided, let's discuss the changes in entropy for the system and the surroundings separately during the phase change from liquid water (H<sub>2</sub>O(l)) to water vapor (H<sub>2</sub>O(g)) at 100°C and 1 atmosphere pressure. This is a typical boiling process.</p>\n\n<p>First, let's consider the change in entropy, $$\\Delta S_{\\text{system}}$$, of the water itself (the system). When water boils and changes from a liquid to a gas, the molecules spread out significantly, occupying a larger volume and showing greater randomness in their motion. This transition from a more ordered phase (liquid) to a less ordered phase (gas) results in an increase in entropy. Thus, $$\\Delta S_{\\text{system}}>0$$.</p>\n\n<p>Next, let's consider the change in entropy of the surroundings, $$\\Delta S_{\\text{surroundings}}$$. When the water boils at 100°C, it must absorb heat to do so. This heat is typically taken from the surroundings. As the surroundings lose heat, according to the formula for entropy change $$\\Delta S = \\frac{q}{T}$$, where $$q$$ is the heat transferred and $$T$$ is the temperature, the surroundings lose entropy if the process is happening at a constant temperature as typically assumed in such cases. Therefore, here $$\\Delta S_{\\text{surroundings}}<0$$ as heat loss by surroundings (negative $$q$$) results in a decrease in entropy.</p>\n\n<p>Combining these insights, we find:</p>\n\n<ul>\n\n<li>The entropy of the system increases ($$\\Delta S_{\\text{system}}>0$$).</li>\n\n<li>The entropy of the surroundings decreases ($$\\Delta S_{\\text{surroundings}}<0$$).</li>\n\n</ul>\n\n<p>Therefore, the correct answer is:\n\n<b>Option B</b>: $$\\Delta S_{\\text{system}}>0$$ and $$\\Delta S_{\\text{surroundings}}<0$$.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The standard enthalpies of formation of CO<sub>2</sub>(g), H<sub>2</sub>O(l) and glucose(s) at 25<sup>o</sup>C are –400 kJ/mol,\n–300 kJ/mol and –1300 kJ/mol, respectively. The standard enthalpy of combustion per gram of glucose at\n25<sup>o</sup>C is",
+      "options": [
+        {
+          "key": "A",
+          "value": "+2900 kJ"
+        },
+        {
+          "key": "B",
+          "value": "– 2900 kJ"
+        },
+        {
+          "key": "C",
+          "value": "–16.11 kJ "
+        },
+        {
+          "key": "D",
+          "value": "+16.11 kJ"
+        }
+      ],
+      "answer": "C",
+      "explanation": "<p>To find the standard enthalpy of combustion of glucose, we will first write the balanced chemical equation for the combustion of glucose. The chemical formula for glucose is $ C_6H_{12}O_6 $. Combustion involves the reaction of a substance with oxygen to produce carbon dioxide (CO<sub>2</sub>) and water (H<sub>2</sub>O) typically. The reaction for the combustion of glucose can be represented as:</p>\n\n$$\nC_6H_{12}O_6 (s) + 6O_2 (g) \\rightarrow 6CO_2 (g) + 6H_2O (l)\n$$\n\n<p>Each molecule of glucose (C6H12O6) produces six molecules of CO<sub>2</sub> and six molecules of H<sub>2</sub>O. Now, we use the given standard enthalpies of formation (ΔH<sub>f</sub>°) for these substances to find the enthalpy of the reaction. The enthalpy of a reaction can be calculated using the formula:</p>\n\n$$\n\\Delta H_{\\text{reaction}} = \\sum \\Delta H_{f,\\text{products}} - \\sum \\Delta H_{f,\\text{reactants}}\n$$\n\n<p>For the given reaction:</p>\n\n<ul>\n<li>ΔH<sub>f</sub>° of CO<sub>2</sub>(g) = –400 kJ/mol</li>\n<li>ΔH<sub>f</sub>° of H<sub>2</sub>O(l) = –300 kJ/mol</li>\n<li>ΔH<sub>f</sub>° of glucose(s) = –1300 kJ/mol</li>\n</ul>\n\n<p>The sum of the standard enthalpies of formation of the products:</p>\n\n$$\n[6 \\times (-400) \\text{ kJ/mol}] + [6 \\times (-300) \\text{ kJ/mol}] = (-2400 + -1800) \\text{ kJ} = -4200 \\text{ kJ}\n$$\n\n<p>The sum of the standard enthalpies of formation of the reactants (glucose as only part contributing with enthalpy value other than zero):</p>\n\n$$\n[-1300 \\text{ kJ/mol}] + [6 \\times 0 \\text{ kJ/mol for } O_2]\n$$\n\n<p>Therefore, the standard enthalpy of combustion of glucose is:</p>\n\n$$\n\\Delta H_{\\text{reaction}} =  (-4200 \\text{ kJ}) - (-1300 \\text{ kJ}) = -2900 \\text{ kJ}\n$$\n\n<p>So, -2900 kJ of energy is released per mole of glucose combusted at standard conditions. The standard enthalpy of combustion per gram of glucose can be calculated using the molar mass of glucose. Glucose has a molar mass of approximately 180 g/mol.</p>\n\n$$\n\\Delta H_{\\text{combustion per gram}} = \\frac{-2900 \\text{ kJ/mol}}{180 \\text{ g/mol}} = -16.11 \\text{ kJ/g}\n$$\n\n<p>Thus, the correct answer is -16.11 kJ per gram of glucose, which corresponds to option C  \n–16.11 kJ.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Using the data provided, calculate the multiple bond energy (kJ mol<sup>$$-$$1</sup>) of a C=C bond in C<sub>2</sub>H<sub>2</sub>. That energy is (take the bond energy of C-H bond as 350 kJ mol<sup>$$-$$1</sup>).</p>\n<p>$$\\matrix{\n   \\hfill {2C(s) + {H_2}(g) \\to {C_2}{H_2}} & \\hfill {\\Delta H = 225\\,kJ\\,mo{l^{ - 1}}} \\cr \n   \\hfill {2C(s) \\to 2C(g)} & \\hfill {\\Delta H = 1410\\,kJ\\,mo{l^{ - 1}}} \\cr \n   \\hfill {{H_2}(g) \\to 2H(g)} & \\hfill {\\Delta H = 330\\,kJ\\,mo{l^{ - 1}}} \\cr \n\n } $$</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "1165 kJ mol<sup>$$-$$1</sup>"
+        },
+        {
+          "key": "B",
+          "value": "837 kJ mol<sup>$$-$$1</sup>"
+        },
+        {
+          "key": "C",
+          "value": "865 kJ mol<sup>$$-$$1</sup>"
+        },
+        {
+          "key": "D",
+          "value": "815 kJ mol<sup>$$-$$1</sup>"
+        }
+      ],
+      "answer": "D",
+      "explanation": "<p>We know that</p>\n<p>Binding energy = Total energy of reactants $$-$$ Total energy of products</p>\n<p>So, we have</p>\n<p>225 = 2(C $$-$$ C) + 1(H $$-$$ H) $$-$$ 2(C $$-$$ H) + 1(C $$\\equiv$$ C)</p>\n<p>225 = 1410 + 330 $$-$$ 2 $$\\times$$ 350 + (C $$\\equiv$$ C)</p>\n<p>Solving, we get the value of C $$\\equiv$$ C as 815 kJ mol<sup>$$-$$1</sup>.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Match the transformations in <b>column I</b> with appropriate options in <b>column II</b><br><br>\n<b>Column I</b><br>\n(A) CO<sub>2</sub>(s) $$\\to$$ CO<sub>2</sub>(g)<br>\n(B) CaCO<sub>3</sub>(s) $$\\to$$ CaO(s) + CO<sub>2</sub>(g)<br>\n(C) 2H $$\\to$$ H<sub>2</sub>(g)<br>\n(D) P<sub>(white, solid)</sub> $$\\to$$ P<sub>(red, solid)</sub><br><br>\n<b>Column II</b><br>\n(p) phase transition<br>\n(q) allotropic change<br>\n(r) $$\\Delta H$$ is positive<br>\n(s) $$\\Delta S$$ is positive<br>\n(t) $$\\Delta S$$ is negative<br>\n",
+      "options": [
+        {
+          "key": "A",
+          "value": "A $$\\to$$ p,r,s; B $$\\to$$ r,s; C $$\\to$$ t; D $$\\to$$ p,q,t"
+        },
+        {
+          "key": "B",
+          "value": "A $$\\to$$ r,s; B $$\\to$$ p,s; C $$\\to$$ t; D $$\\to$$ p,q,t"
+        },
+        {
+          "key": "C",
+          "value": "A $$\\to$$ p,r,s; B $$\\to$$ r,s; C $$\\to$$ r; D $$\\to$$ p,t"
+        },
+        {
+          "key": "D",
+          "value": "A $$\\to$$ p,r,s; B $$\\to$$ r,s; C $$\\to$$ t; D $$\\to$$ q,t"
+        }
+      ],
+      "answer": "A",
+      "explanation": "<p><b>Analysis of each transformation:</b></p>\n<p><b>(A) CO<sub>2</sub>(s) $\\to$ CO<sub>2</sub>(g)</b></p>\n<p>This transformation represents the sublimation of solid carbon dioxide (dry ice) into gaseous carbon dioxide. This process is:</p>\n\n\n<p><b>Phase transition (p)</b>: The substance changes from solid to gas phase.</p>\n\n<p><b>$$\\Delta H$$ is positive (r)</b>: Sublimation is an endothermic process, meaning it absorbs heat from the surroundings.</p>\n\n<p><b>$$\\Delta S$$ is positive (s)</b>: The entropy increases as the substance moves from a more ordered solid state to a less ordered gaseous state.</p>\n\n\n<p><b>(B) CaCO<sub>3</sub>(s) $\\to$ CaO(s) + CO<sub>2</sub>(g)</b></p>\n<p>This transformation is the thermal decomposition of calcium carbonate to form calcium oxide and carbon dioxide. This process involves:</p>\n\n\n<p><b>$$\\Delta H$$ is positive (r)</b>: Decomposition reactions are typically endothermic, requiring energy to break chemical bonds.</p>\n\n<p><b>$$\\Delta S$$ is positive (s)</b>: The process results in an increase in entropy, primarily because a gas (CO<sub>2</sub>) is produced from a solid compound.</p>\n\n\n<p><b>(C) 2H $\\to$ H<sub>2</sub>(g)</b></p>\n<p>This is the formation of hydrogen gas (H<sub>2</sub>) from atomic hydrogen (H). This transformation:</p>\n\n\n<p><b>$$\\Delta S$$ is negative (t)</b>: Two individual hydrogen atoms combine into a diatomic molecule, decreasing the system's entropy since fewer particles are free to move independently.</p>\n\n\n<p><b>(D) P<sub>(white, solid)</sub> $\\to$ P<sub>(red, solid)</sub></b></p>\n<p>Crystalline solid white phosphorous is converted to amorphous red phosphorous. This process involves a phase change. Since, white and red phosphorous are allotropic form of phosphorous, i.e., both are composed of phosphorous atoms but the connectivity between atom differ, it is therefore regarded as allotropic change.</p>\n<p>The white form of phosphorous has lot of angular strain as compared to stable red phosphorous. Hence, randomness of system due to angular strain decreases as red phosphorus is formed. The entropy change is negative $(\\Delta S<0)$</p>\n<p><b>Option Evaluation:</b></p>\n<p>Upon reviewing each transformation and comparing the mappings:</p>\n\n\n<p>Option A agrees completely with the above analysis with proper mapping for each statement.</p>\n\n\n<p>Thus, <b>Option A</b> is correct: <br>\n\n<p>A $\\to$ p,r,s; B $\\to$ r,s; C $\\to$ t; D $\\to$ p,q,t</p></p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The species which by definition has <b>ZERO</b> standard molar enthalpy of formation at 298 K is",
+      "options": [
+        {
+          "key": "A",
+          "value": "Br<sub>2</sub> (g)"
+        },
+        {
+          "key": "B",
+          "value": "Cl<sub>2</sub> (g)"
+        },
+        {
+          "key": "C",
+          "value": "H<sub>2</sub>O (g)"
+        },
+        {
+          "key": "D",
+          "value": "CH<sub>4</sub> (g)"
+        }
+      ],
+      "answer": "B",
+      "explanation": "<p>The standard molar enthalpy of formation, denoted as $$\\Delta H_f^\\circ$$, is defined as the change in enthalpy when one mole of a compound is formed from its constituent elements in their standard states under standard conditions (298 K and 1 atm pressure). By definition, the standard molar enthalpy of formation of a pure element in its most stable form at 298 K is zero.</p>\n\n<p>Looking at the options:</p>\n\n<ul>\n\n<li><strong>Br<sub>2</sub> (g)</strong> - Bromine's standard state at room temperature is liquid (Br<sub>2</sub>(l)), not gas.</li>\n\n<li><strong>Cl<sub>2</sub> (g)</strong> - Chlorine's standard state at room temperature is a gas, which means the standard molar enthalpy of formation for Cl<sub>2</sub>(g) is indeed zero.</li>\n\n<li><strong>H<sub>2</sub>O (g)</strong> - Water in gaseous form is not a basic element but a compound of hydrogen and oxygen, so its enthalpy of formation is not zero.</li>\n\n<li><strong>CH<sub>4</sub> (g)</strong> - Methane, represented here, is also a compound composed of carbon and hydrogen, thus its enthalpy of formation is also not zero.</li>\n\n</ul>\n\n<p>Therefore, the correct option is <strong>Option B</strong>, Cl<sub>2</sub> (g), as chlorine gas is a diatomic molecule and an element in its standard state at 298 K, and as such, its standard molar enthalpy of formation is zero.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The bond energy (in <b>kcal mol<sup>-1</sup></b>) of a C-C single bond is approximately ",
+      "options": [
+        {
+          "key": "A",
+          "value": "1"
+        },
+        {
+          "key": "B",
+          "value": "10"
+        },
+        {
+          "key": "C",
+          "value": "100"
+        },
+        {
+          "key": "D",
+          "value": "1000"
+        }
+      ],
+      "answer": "C",
+      "explanation": "<p>The bond energy of a C-C (carbon-carbon) single bond is a measure of the strength of that bond, or how much energy is required to break one mole of such bonds in a gaseous substance. This value is a fundamental concept in chemistry, particularly in the study of organic molecules and reactions.</p>\n\n<p>For a C-C single bond, the bond energy is typically around 83 kcal/mol (kcal per mole). This places the value closest to option C amongst the given choices.</p>\n\n<p>Therefore, the correct answer is:</p>\n\n<b>Option C</b>: 100\n\n<p></p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Statement 1 : There is a natural asymmetry between converting work to heat and converting heat to work.</p>\n<p>Statement 2 : No process is possible in which the sole result is the absorption of heat from a reservoir and its complete conversion into work.</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "Statement 1 is True, Statement 2 is True; Statement 2 is a CORRECT explanation for Statement 1."
+        },
+        {
+          "key": "B",
+          "value": "Statement 1 is True, Statement 2 is True; Statement 2 is a NOT CORRECT explanation for Statement 1."
+        },
+        {
+          "key": "C",
+          "value": "Statement 1 is True, Statement 2 is False."
+        },
+        {
+          "key": "D",
+          "value": "Statement 1 is False, Statement 2 is True."
+        }
+      ],
+      "answer": "A",
+      "explanation": "<p>In reality, work can be converted to heat entirely but not vice versa. This is in accordance with second law of thermodynamics. So, no process is possible in practice where heat is entirely converted to work.</p>\n<p>Take for example the heat engine. It has to reject some heat to the sink and convert the remainder into work. Thus, entire heat supplied is not converted into work. On the other hand, in a refrigerator, work has to be supplied to transfer heat from a colder body to hotter surroundings-in this case, the entire work input is converted to heat.</p>\n<p>In practice, reversible isothermal processes are impossible because heat transfer always takes place across a finite temperature difference. This is an irreversibility. Thus, the entropy of the system will always increase if there is a heat transfer to the system. In that case, the amount of heat supplied to the system cannot entirely be converted to work (unlike reversible isothermal processes where heat is entirely converted to work).</p>\n<p>So, both the statements are clearly true but the second one does not explain the first one.</p>"
+    }
+  ]
+}

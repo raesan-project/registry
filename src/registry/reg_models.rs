@@ -67,47 +67,32 @@ impl From<crate::tables::Chapter> for Chapter {
 #[derive(Debug, Clone, serde::Serialize, serde::Deserialize)]
 #[serde(untagged)]
 pub enum Question {
-    QuestionAnswer(QuestionAnswer),
     SingleMCQ(SingleMCQ),
-}
-
-#[derive(Debug, Clone, serde::Serialize, serde::Deserialize)]
-pub struct QuestionAnswer {
-    #[serde(default)]
-    pub id: String,
-    #[serde(default)]
-    pub chapter_id: String,
-    pub body: String,
-}
-
-impl From<crate::tables::QuestionAnswer> for Question {
-    fn from(question_answer: crate::tables::QuestionAnswer) -> Self {
-        Question::QuestionAnswer(QuestionAnswer {
-            id: question_answer.id,
-            chapter_id: question_answer.chapter_id,
-            body: question_answer.body,
-        })
-    }
+    Numerical(Numerical),
 }
 
 #[derive(Debug, Clone, serde::Serialize, serde::Deserialize)]
 pub struct SingleMCQ {
+    pub _type: String,
     #[serde(default)]
     pub id: String,
     #[serde(default)]
     pub chapter_id: String,
     pub body: String,
     pub options: Vec<SingleMCQOption>,
+    pub answer: String,
 }
 
-impl From<crate::tables::SingleMCQ> for Question {
+impl From<crate::tables::SingleMCQ> for SingleMCQ {
     fn from(single_mcq: crate::tables::SingleMCQ) -> Self {
-        Question::SingleMCQ(SingleMCQ {
+        SingleMCQ {
+            _type: "single_mcq".to_string(),
             id: single_mcq.id,
             chapter_id: single_mcq.chapter_id,
             body: single_mcq.body,
             options: Vec::new(),
-        })
+            answer: single_mcq.answer,
+        }
     }
 }
 
@@ -128,6 +113,29 @@ impl From<crate::tables::SingleMCQOption> for SingleMCQOption {
             single_mcq_id: single_mcq_option.single_mcq_id,
             key: single_mcq_option.key,
             value: single_mcq_option.value,
+        }
+    }
+}
+
+#[derive(Debug, Clone, serde::Serialize, serde::Deserialize)]
+pub struct Numerical {
+    pub _type: String,
+    #[serde(default)]
+    pub id: String,
+    #[serde(default)]
+    pub chapter_id: String,
+    pub body: String,
+    pub answer: String,
+}
+
+impl From<crate::tables::Numerical> for Numerical {
+    fn from(numerical: crate::tables::Numerical) -> Self {
+        Numerical {
+            _type: "numerical".to_string(),
+            id: numerical.id,
+            chapter_id: numerical.chapter_id,
+            body: numerical.body,
+            answer: numerical.answer,
         }
     }
 }

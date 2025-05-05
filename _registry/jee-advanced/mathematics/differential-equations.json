@@ -1,0 +1,415 @@
+{
+  "_index": {
+    "name": "Differential Equations"
+  },
+  "_children": [
+    {
+      "_type": "single_mcq",
+      "body": "<p>Let $f(x)$ be a continuously differentiable function on the interval $(0, \\infty)$ such that $f(1)=2$ and</p>\n\n<p>$$ \\lim\\limits_{t \\rightarrow x} \\frac{t^{10} f(x)-x^{10} f(t)}{t^9-x^9}=1 $$</p>\n\n<p>for each $x>0$. Then, for all $x>0, f(x)$ is equal to :</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "$\\frac{31}{11 x}-\\frac{9}{11} x^{10}$"
+        },
+        {
+          "key": "B",
+          "value": "$\\frac{9}{11 x}+\\frac{13}{11} x^{10}$"
+        },
+        {
+          "key": "C",
+          "value": "$\\frac{-9}{11 x}+\\frac{31}{11} x^{10}$"
+        },
+        {
+          "key": "D",
+          "value": "$\\frac{13}{11 x}+\\frac{9}{11} x^{10}$"
+        }
+      ],
+      "answer": "B",
+      "explanation": "<p>$$ \\begin{aligned} & \\lim _{1 \\rightarrow x} \\frac{t^{10} f(x)-x^{10} f(t)}{t^9-x^9}=1 \\\\\\\\ & \\Rightarrow \\lim _{1 \\rightarrow x} \\frac{10 t^9 f(x)-x^{10} f^{\\prime}(t)}{9 t^8}=1 \\\\\\\\ & \\Rightarrow 10 x f(x)-x^2 f^{\\prime}(x)=9 \\\\\\\\ & \\Rightarrow x^2 f^{\\prime}(x)=10 x f(x)-9 \\\\\\\\ & \\Rightarrow f^{\\prime}(x)=\\frac{10 f(x)}{x}-\\frac{9}{x^2} \\\\\\\\ & \\Rightarrow \\frac{d y}{d x}-\\frac{10}{x} y=-\\frac{9}{x^2} \\\\\\\\ & \\Rightarrow y \\cdot \\frac{1}{x^{10}}=\\int-\\frac{9}{x^2} \\cdot \\frac{1}{x^{10}} d x \\\\\\\\ & \\Rightarrow \\frac{y}{x^{10}}=\\frac{9}{11 x^{11}}+c \\\\\\\\ & \\because f(1)=2 \\Rightarrow \\frac{2}{1}=\\frac{9}{11}+c \\Rightarrow c=\\frac{13}{11} \\\\\\\\ & \\therefore f(x)=\\frac{9}{11 x}+\\frac{13}{11} x^{10} \\end{aligned} $$</p>\n\n<p>$\\Rightarrow$ Option (B) is correct.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Let $f:[1, \\infty) \\rightarrow \\mathbb{R}$ be a differentiable function such that $f(1)=\\frac{1}{3}$ and $3 \\int\\limits_1^x f(t) d t=x f(x)-\\frac{x^3}{3}, x \\in[1, \\infty)$. Let $e$ denote the base of the natural logarithm. Then the value of $f(e)$ is :",
+      "options": [
+        {
+          "key": "A",
+          "value": "$\\frac{e^2+4}{3}$"
+        },
+        {
+          "key": "B",
+          "value": "$\\frac{\\log _e 4+e}{3}$"
+        },
+        {
+          "key": "C",
+          "value": "$\\frac{4 e^2}{3}$"
+        },
+        {
+          "key": "D",
+          "value": "$\\frac{e^2-4}{3}$"
+        }
+      ],
+      "answer": "C",
+      "explanation": "1. We are given a relationship between the integral of the function $f(t)$ and the function $f(x)$ :\n <br/><br/>  $$3 \\int\\limits_1^x f(t) d t=x f(x)-\\frac{x^3}{3}, x \\in[1, \\infty)$$\n\n<br/><br/>2. Differentiate both sides of the above equation with respect to $x$ :\n<br/><br/>$$\n3(f(x) \\cdot 1-0)=1 . f(x)+x f^{\\prime}(x)-\\frac{3 x^2}{3}\n$$\n\n  <br/><br/>$$ \\Rightarrow $$ $$3f(x) = f(x) + xf'(x) - x^2$$\n  <br/><br/>$$ \\Rightarrow $$ $$2f(x) = xf'(x) - x^2$$\n\n<br/><br/>3. We can rewrite this as a first order linear differential equation:\n\n  <br/><br/> $$xf'(x) - 2f(x) = x^2$$\n\n<br/><br/>4. The general form of a first order linear differential equation is:\n\n   <br/><br/>$$y'(x) + p(x)y = q(x)$$\n   \n <br/><br/>  Here $y = f(x)$, $p(x) = -\\frac{2}{x}$, and $q(x) = x$.\n\n<br/><br/>5. The integrating factor is obtained by exponentiating the integral of $p(x)$ with respect to $x$:\n\n  <br/><br/> $$e^{\\int p(x) dx} = e^{\\int -\\frac{2}{x} dx} = e^{-2\\ln|x|} = \\frac{1}{x^2}$$\n<br/><br/>6. $$ \\therefore $$ Solution of D.E :\n<br/><br/>$$\n\\begin{gathered}\ny \\cdot\\left(\\frac{1}{x^2}\\right)=\\int(x) \\frac{1}{x^2} d x \\\\\\\\\n\\frac{y}{x^2}=\\ln x+c \\\\\\\\\ny=x^2  ln x+c x^2\n\\end{gathered}\n$$\n<br/><br/>$$ \\therefore $$ The general solution is :\n\n<br/><br/>$$y(x) = x^2(\\ln x + c)$$\n\n<br/><br/>Here, $y(x)$ is the same as $f(x)$, i.e. the function we're trying to find. \n\n<br/><br/>7. Given that $f(1) = \\frac{1}{3}$, let's use this condition to find the constant $c$ :\n\n<br/><br/>$$\\frac{1}{3} = 1^2(\\ln 1 + c) \\Rightarrow c = \\frac{1}{3}$$\n\n<br/><br/>Therefore, the function $f(x)$ we are looking for is:\n\n<br/><br/>$$f(x) = x^2(\\ln x + \\frac{1}{3})$$\n\n<br/><br/>We want to find $f(e)$, so substituting $x=e$ into the function, we get :\n\n<br/><br/>$$f(e) = e^2(\\ln e + \\frac{1}{3}) = e^2(1 + \\frac{1}{3}) = \\frac{4e^2}{3}$$\n\n<br/><br/>So, the correct answer is \n\n<br/><br/>Option C : $\\frac{4e^2}{3}$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "If y = y(x) satisfies the differential equation<br><br>$${8\\sqrt x \\left( {\\sqrt {9 + \\sqrt x } } \\right)dy = {{\\left( {\\sqrt {4 + \\sqrt {9 + \\sqrt x } } } \\right)}^{ - 1}}}$$<br><br>dx, x &gt; 0 and y(0) = $$\\sqrt 7 $$, then y(256) = ",
+      "options": [
+        {
+          "key": "A",
+          "value": "16"
+        },
+        {
+          "key": "B",
+          "value": "3"
+        },
+        {
+          "key": "C",
+          "value": "9"
+        },
+        {
+          "key": "D",
+          "value": "80"
+        }
+      ],
+      "answer": "B",
+      "explanation": "$${{dy} \\over {dx}} = {1 \\over {8\\sqrt x  + \\sqrt {9 + \\sqrt x } \\sqrt {4 + \\sqrt {9 + \\sqrt x } } }}$$<br><br>$$ \\Rightarrow y = \\sqrt {4 + \\sqrt { + \\sqrt x } }  + c$$<br><br>Now, $$y(0) = \\sqrt 7  + c$$<br><br>$$ \\Rightarrow c = 0$$<br><br>$$y(256) = \\sqrt {4 + \\sqrt {9 + \\sqrt {16} } }  = \\sqrt {4 + 5}  = 3$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The function $$y=f(x)$$ is the solution of the differential equation\n<br>$${{dy} \\over {dx}} + {{xy} \\over {{x^2} - 1}} = {{{x^4} + 2x} \\over {\\sqrt {1 - {x^2}} }}\\,$$ in $$(-1,1)$$ satisfying $$f(0)=0$$. <br>Then $$\\int\\limits_{ - {{\\sqrt 3 } \\over 2}}^{{{\\sqrt 3 } \\over 2}} {f\\left( x \\right)} \\,d\\left( x \\right)$$ is",
+      "options": [
+        {
+          "key": "A",
+          "value": "$${\\pi  \\over 3} - {{\\sqrt 3 } \\over 2}$$ "
+        },
+        {
+          "key": "B",
+          "value": "$${\\pi  \\over 3} - {{\\sqrt 3 } \\over 4}$$"
+        },
+        {
+          "key": "C",
+          "value": "$${\\pi  \\over 6} - {{\\sqrt 3 } \\over 4}$$"
+        },
+        {
+          "key": "D",
+          "value": "$${\\pi  \\over 6} - {{\\sqrt 3 } \\over 2}$$"
+        }
+      ],
+      "answer": "B",
+      "explanation": "<p>Given, $$\\frac{d y}{d x}+\\left(\\frac{x}{x^2-1}\\right) y=\\frac{x^4+2 x}{\\sqrt{1-x^2}}$$</p>\n<p>The above differential equation is a linear differential equation.</p>\n<p>Integrating factor I.F. $$=e^{\\int \\frac{x}{x^2-1} d x}$$</p>\n<p>$$\\begin{aligned}\n& \\Rightarrow \\text { I.F. }=e^{\\frac{1}{2} \\int \\frac{-2 x d x}{1-x^2}} \\\\\n& \\Rightarrow \\text { I.F. }=e^{\\frac{1}{2} \\ln \\left(1-x^2\\right)} \\quad\\left(\\int \\frac{f^{\\prime}(x) d x}{f(x)}=\\ln f(x)+c\\right) \\\\\n& \\Rightarrow \\text { I.F. }=e^{\\ln \\sqrt{1-x^2}} \\\\\n& \\Rightarrow \\text { I.F. }=\\sqrt{1-x^2}\n\\end{aligned}$$</p>\n<p>Now, the solution of the given differential equation is</p>\n<p>$$\\begin{aligned}\n& \\Rightarrow y \\cdot \\text { (I.F. })=\\int\\left(\\frac{x^4+2 x}{\\sqrt{1-x^2}}\\right)(\\text { L.F. }) d x+\\text { C } \\\\\n& \\Rightarrow y \\sqrt{1-x^2}=\\int\\left(\\frac{x^4+2 x}{\\sqrt{1-x^2}}\\right) \\sqrt{1-x^2} d x+\\text { C } \\\\\n& \\Rightarrow y \\sqrt{1-x^2}=\\frac{x^5}{5}+2 \\times \\frac{x^2}{2}+\\text { C } \\\\\n& \\Rightarrow y=f(x)=\\frac{\\frac{x^5}{5}+x^2+\\mathrm{C}}{\\sqrt{1-x^2}}\n\\end{aligned}$$</p>\n<p>Given, $$f(0)=0$$</p>\n<p>$$\\begin{array}{ll}\n\\Rightarrow & 0=\\frac{0+0+C}{\\sqrt{1-0}} \\\\\n\\Rightarrow & C=0 \\\\\n\\therefore & f(x)=\\frac{\\frac{x^5}{5}+x^2}{\\sqrt{1-x^2}}=\\frac{x^5}{5 \\sqrt{1-x^2}}+\\frac{x^2}{\\sqrt{1-x^2}}\n\\end{array}$$</p>\n<p>Let $$\\mathrm{I}=\\int_{\\frac{-\\sqrt{3}}{2}}^{\\frac{\\sqrt{3}}{2}} f(x) d x$$</p>\n<p>$$\\Rightarrow \\mathrm{I}=\\int_{\\frac{-\\sqrt{3}}{2}}^{\\frac{\\sqrt{3}}{2}}\\left(\\frac{x^5}{5 \\sqrt{1-x^2}}+\\frac{x^2}{\\sqrt{1-x^2}}\\right) d x$$</p>\n<p>Here, $$\\frac{x^5}{5 \\sqrt{1-x^2}}$$ is an odd function and $$\\frac{x^2}{\\sqrt{1-x^2}}$$ is an even function.</p>\n<p>$$\\begin{aligned}\n& \\therefore \\mathrm{I}=0+2 \\int_0^{\\frac{\\sqrt{3}}{2}} \\frac{x^2}{\\sqrt{1-x^2}} d x \\\\\n& \\Rightarrow \\mathrm{I}=2 \\int_0^{\\frac{\\sqrt{3}}{2}}\\left(\\frac{x^2-1+1}{\\sqrt{1-x^2}}\\right) d x \\\\\n& \\Rightarrow \\mathrm{I}=2 \\int_0^{\\frac{\\sqrt{3}}{2}}\\left(-\\sqrt{1-x^2}+\\frac{1}{\\sqrt{1-x^2}}\\right) d x \\\\\n& \\Rightarrow \\mathrm{I}=2\\left[-\\left(\\frac{x}{2} \\sqrt{1-x^2}+\\frac{1}{2} \\sin ^{-1} x\\right)+\\sin ^{-1} x\\right]_0^{\\frac{\\sqrt{3}}{2}} \\\\\n& \\Rightarrow \\mathrm{I}=2\\left[-\\frac{x}{2} \\sqrt{1-x^2}+\\frac{1}{2} \\sin ^{-1} x\\right]_0^{\\frac{\\sqrt{3}}{2}} \\\\\n& \\Rightarrow \\mathrm{I}=2\\left[-\\frac{\\sqrt{3}}{4} \\times \\frac{1}{2}+\\frac{1}{2} \\times \\frac{\\pi}{3}\\right] \\\\\n& \\Rightarrow \\mathrm{I}=\\frac{\\pi}{3}-\\frac{\\sqrt{3}}{4}\n\\end{aligned}$$</p>\n<p>Hint:</p>\n<p>(i) The solution of linear differential equation $$\\frac{d y}{d x}+\\mathrm{P}(x) \\cdot y=\\mathrm{Q}(x)$$ is</p>\n<p>$$y \\text { (I.F.) } =\\int \\mathrm{Q}(x) \\cdot(\\text { I.F. }) d x+\\text { C }$$</p>\n<p>Where, $$\\quad \\text { L.F. } =e^{\\int p(x) d x}$$</p>\n<p>(ii) Recall the property</p>\n<p>$$\\int_{-a}^a f(x) d x=\\left\\{\\begin{array}{l}\n2 \\int_0^a f(x) d x, \\text { When } f(x) \\text { is an even } \\\\\n\\text { function. } \\\\\n0, \\text { When } f(x) \\text { is an odd function. }\n\\end{array}\\right.$$</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A curve passes through the point $$\\left( {1,{\\pi  \\over 6}} \\right)$$. Let the slope of \n<br>the curve at each point $$(x,y)$$ be $${y \\over x} + \\sec \\left( {{y \\over x}} \\right),x &gt; 0.$$\n<br>Then the equation of the curve is",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$sin\\left( {{y \\over x}} \\right) = \\log x + {1 \\over 2}$$ "
+        },
+        {
+          "key": "B",
+          "value": "$$cos\\,ec\\left( {{y \\over x}} \\right) = \\log x + 2$$ "
+        },
+        {
+          "key": "C",
+          "value": "$$\\,s\\,ec\\left( {{{2y} \\over x}} \\right) = \\log x + 2\\,$$ "
+        },
+        {
+          "key": "D",
+          "value": "$$\\,cos\\left( {{{2y} \\over x}} \\right) = \\log x + {1 \\over 2}$$ "
+        }
+      ],
+      "answer": "A",
+      "explanation": "<p>Given, the slope of curve at $$(x,y)$$ is</p>\n<p>$$\\begin{aligned}\n& \\frac{y}{x}+\\sec \\left(\\frac{y}{x}\\right), x>0 . \\\\\n\\therefore \\quad & \\frac{d y}{d x}=\\frac{y}{x}+\\sec \\left(\\frac{y}{x}\\right) \\quad \\text{... (i)}\n\\end{aligned}$$</p>\n<p>Put $$y=v x \\Rightarrow \\frac{d y}{d x}=v+x \\frac{d v}{d x}$$ in the equation (i)</p>\n<p>$$\\begin{aligned}\n& \\Rightarrow \\quad v+x \\frac{d v}{d x}=\\frac{v x}{x}+\\sec \\left(\\frac{v x}{x}\\right) \\\\\n& \\Rightarrow \\quad v+x \\frac{d v}{d x}=v+\\sec (v) \\\\\n& \\Rightarrow \\quad x \\frac{d v}{d x}=\\sec v \\\\\n& \\Rightarrow \\quad \\cos v d v=\\frac{d x}{x} \\\\\n& \\Rightarrow \\quad \\int \\cos v d v=\\int \\frac{d x}{x} \\\\\n& \\Rightarrow \\quad \\sin v=\\ln x+c \\\\\n& \\Rightarrow \\quad \\sin \\left(\\frac{y}{x}\\right)=\\ln x+c \\quad \\text{... (i)}\n\\end{aligned}$$</p>\n<p>Put $$x=1$$ and $$y=\\frac{\\pi}{6}$$ in the equation (ii)</p>\n<p>$$\\begin{aligned}\n\\Rightarrow & & \\sin \\frac{\\pi}{6} & =\\log 1+c \\\\\n\\Rightarrow & & \\frac{1}{2} & =0+c \\\\\n\\Rightarrow & & c & =\\frac{1}{2}\n\\end{aligned}$$</p>\n<p>Put $$c=\\frac{1}{2}$$ in the equation (ii)</p>\n<p>$$\\Rightarrow \\quad \\sin \\frac{y}{x}=\\log x+\\frac{1}{2}$$</p>\n<p>Hints:</p>\n<p>(i) the slope of a curve at $$(x, y)$$ is equal to $$\\frac{d y}{d x}$$</p>\n<p>(ii) For the solution of homogeneous differential equation $$\\frac{d y}{d x}=f\\left(\\frac{y}{x}\\right)$$ put $$y=v x$$ i.e. $$\\frac{d y}{d x}=v+x \\frac{d v}{d x}$$.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Match the statements/expressions in Column I with the open intervals in Column II :</p>\n<p><style type=\"text/css\">\n.tg  {border-collapse:collapse;border-spacing:0;}\n.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}\n.tg .tg-7btt{border-color:inherit;font-weight:bold;text-align:center;vertical-align:top}\n.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}\n.tg .tg-fymr{border-color:inherit;font-weight:bold;text-align:left;vertical-align:top}\n</style>\n<table class=\"tg\" style=\"undefined;table-layout: fixed; width: 642px\">\n<colgroup>\n<col style=\"width: 50px\">\n<col style=\"width: 298px\">\n<col style=\"width: 51px\">\n<col style=\"width: 243px\">\n</colgroup>\n<thead>\n  <tr>\n    <th class=\"tg-c3ow\"></th>\n    <th class=\"tg-7btt\">Column I</th>\n    <th class=\"tg-c3ow\"></th>\n    <th class=\"tg-7btt\">Column II</th>\n  </tr>\n</thead>\n<tbody>\n  <tr>\n    <td class=\"tg-7btt\">(A)</td>\n    <td class=\"tg-0pky\">Interval contained in the domain of definition of non-zero solutions of the differential equation $${(x - 3)^2}y' + y = 0$$</td>\n    <td class=\"tg-7btt\">(P)</td>\n    <td class=\"tg-0pky\">$$\\left( { - {\\pi  \\over 2},{\\pi  \\over 2}} \\right)$$</td>\n  </tr>\n  <tr>\n    <td class=\"tg-7btt\">(B)</td>\n    <td class=\"tg-0pky\">Interval containing the value of the integral $$\\int\\limits_1^5 {(x - 1)(x - 2)(x - 3)(x - 4)(x - 5)dx} $$</td>\n    <td class=\"tg-7btt\">(Q)</td>\n    <td class=\"tg-0pky\">$$\\left( {0,{\\pi  \\over 2}} \\right)$$</td>\n  </tr>\n  <tr>\n    <td class=\"tg-7btt\">(C)</td>\n    <td class=\"tg-0pky\">Interval in which at least one of the points of local maximum of $${\\cos ^2}x + \\sin x$$ lies</td>\n    <td class=\"tg-7btt\">(R)</td>\n    <td class=\"tg-0pky\">$$\\left( {{\\pi  \\over 8},{{5\\pi } \\over 4}} \\right)$$</td>\n  </tr>\n  <tr>\n    <td class=\"tg-7btt\">(D)</td>\n    <td class=\"tg-0pky\">Interval in which $${\\tan ^{ - 1}}(\\sin x + \\cos x)$$ is increasing</td>\n    <td class=\"tg-7btt\">(S)</td>\n    <td class=\"tg-0pky\">$$\\left( {0,{\\pi  \\over 8}} \\right)$$</td>\n  </tr>\n  <tr>\n    <td class=\"tg-fymr\"></td>\n    <td class=\"tg-0pky\"></td>\n    <td class=\"tg-7btt\">(T)</td>\n    <td class=\"tg-0pky\">$$( - \\pi ,\\pi )$$</td>\n  </tr>\n</tbody>\n</table></p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "(A)$$\\to$$(P), (Q), (S); (B)$$\\to$$(P), (T), (S); (C)$$\\to$$(P), (Q), (R), (T); (D)$$\\to$$(S)"
+        },
+        {
+          "key": "B",
+          "value": "(A)$$\\to$$(P), (Q), (S); (B)$$\\to$$(P), (T), (R); (C)$$\\to$$(P), (Q), (R), (T); (D)$$\\to$$(R)"
+        },
+        {
+          "key": "C",
+          "value": "(A)$$\\to$$(P), (Q), (S); (B)$$\\to$$(P), (T), (S); (C)$$\\to$$(S), (Q), (R), (T); (D)$$\\to$$(S)"
+        },
+        {
+          "key": "D",
+          "value": "(A)$$\\to$$(P), (T), (S); (B)$$\\to$$(P), (T), (S); (C)$$\\to$$(P), (Q), (R), (T); (D)$$\\to$$(S)"
+        }
+      ],
+      "answer": "A",
+      "explanation": "<p>(A) We have $${(x - 3)^2}{{dy} \\over {dx}} + y = 0$$</p>\n<p>$$\\int {{{dx} \\over {{{(x - 3)}^2}}} =  - \\int {{{dy} \\over y}} } $$</p>\n<p>$$ \\Rightarrow {1 \\over {x - 3}} = \\ln |y| + c$$</p>\n<p>So the domain is $$R \\to \\{ 3\\} $$.</p>\n<p>(B) On substituting $$x = t + 3$$, we get</p>\n<p>$$\\int\\limits_{ - 2}^2 {(t + 2)(t + 1)t(t - 1)(t - 2)dt = \\int\\limits_{ - 2}^2 {t({t^2} - 1)({t^2} - 4)dt = 0} } $$ (being odd function)</p>\n<p>(C) $$f(x) = {5 \\over 4} - {\\left( {\\sin x - {1 \\over 2}} \\right)^2}$$</p>\n<p>The maximum value occurs when $$\\sin x = 1/2$$.</p>\n<p>(D) $$f'(x) > 0$$ if $$\\cos x > \\sin x$$.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Let a solution $$y=y(x)$$ of the differential equation,\n<br/><br/> $$x\\sqrt {{x^2} - 1} \\,\\,dy - y\\sqrt {{y^2} - 1} \\,dx = 0$$ satify $$y\\left( 2 \\right) = {2 \\over {\\sqrt 3 }}.$$ \n<p><b>STATEMENT-1 :</b> $$y\\left( x \\right) = \\sec \\left( {{{\\sec }^{ - 1}}x - {\\pi  \\over 6}} \\right)$$ and \n<br><br/><b>STATEMENT-2 :</b> $$y\\left( x \\right)$$ given by $${1 \\over y} = {{2\\sqrt 3 } \\over x} - \\sqrt {1 - {1 \\over {{x^2}}}} $$ </p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "STATEMENT-1 is True, STATEMENT-2 is True;STATEMENT-2 is a correct explanation for STATEMENT-1"
+        },
+        {
+          "key": "B",
+          "value": "STATEMENT-1 is True, STATEMENT-2 is True;STATEMENT-2 is <b>NOT</b> a correct explanation for STATEMENT-1"
+        },
+        {
+          "key": "C",
+          "value": "STATEMENT-1 is True, STATEMENT-2 is False"
+        },
+        {
+          "key": "D",
+          "value": "STATEMENT-1 is False , STATEMENT-2 is True"
+        }
+      ],
+      "answer": "C",
+      "explanation": "<p>The given differential equation is</p>\n<p>$$x\\sqrt {{x^2} - 1} dy - y\\sqrt {{y^2} - 1} dx = 0$$</p>\n<p>$$ = \\int {{{dy} \\over {y\\sqrt {{y^2} - 1} }} = \\int {{{dx} \\over {x\\sqrt {{x^2} - 1} }}} } $$</p>\n<p>$$ \\Rightarrow {\\sec ^{ - 1}}y = {\\sec ^{ - 1}}x + c$$</p>\n<p>$$y = \\sec [{\\sec ^{ - 1}}x + C]$$ [$$\\because$$ $$y(2) = {2 \\over {\\sqrt 3 }}$$]</p>\n<p>$${2 \\over {\\sqrt 3 }} = \\sec ({\\sec ^{ - 1}}2 + C)$$</p>\n<p>$$ = {\\sec ^{ - 1}}{2 \\over {\\sqrt 3 }} - {\\sec ^{ - 1}}2 = C$$</p>\n<p>$$C = {\\pi  \\over 6} - {\\pi  \\over 3} = {{ - \\pi } \\over 6}$$ [$$\\therefore$$ $$y = \\sec \\left[ {{{\\sec }^{ - 1}}x - {\\pi  \\over 6}} \\right]$$]</p>\n<p>Statement 1 is true</p>\n<p>Also, $${1 \\over y} = \\cos \\left[ {\\cos  - {\\pi  \\over x} - {\\pi  \\over 6}} \\right]$$</p>\n<p>$$\\cos \\left( {{{\\cos }^{ - 1}}{1 \\over x}} \\right)\\cos {\\pi  \\over 6} + \\sin ({\\cos ^{ - 1}}{1 \\over x})\\sin {\\pi  \\over 6}$$</p>\n<p>$$ = {1 \\over y} = {{\\sqrt 3 } \\over {2x}} + {1 \\over 2}\\sqrt {1 - {1 \\over {{x^2}}}} $$</p>\n<p>$$\\therefore$$ Statement 2 is false.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The differential equation $${{dy} \\over {dx}} = {{\\sqrt {1 - {y^2}} } \\over y}$$ determines a family of circles with ",
+      "options": [
+        {
+          "key": "A",
+          "value": "variable radii and a fixed centre at $$(0,1)$$ "
+        },
+        {
+          "key": "B",
+          "value": "variable radii and a fixed centre at $$(0,-1)$$ "
+        },
+        {
+          "key": "C",
+          "value": "fixed radius $$1$$ and variable centres along the $$x$$-axis. "
+        },
+        {
+          "key": "D",
+          "value": "fixed radius $$1$$ and variable centrs along the $$y$$-axis."
+        }
+      ],
+      "answer": "C",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "For the primitive integral equation $$ydx + {y^2}dy = x\\,dy;$$ \n<br>$$x \\in R,\\,\\,y &gt; 0,y = y\\left( x \\right),\\,y\\left( 1 \\right) = 1,$$ then $$y(-3)$$ is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$3$$"
+        },
+        {
+          "key": "B",
+          "value": "$$2$$"
+        },
+        {
+          "key": "C",
+          "value": "$$1$$"
+        },
+        {
+          "key": "D",
+          "value": "$$5$$"
+        }
+      ],
+      "answer": "C",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "If $$y=y(x)$$ and it follows the relation $$x\\cos \\,y + y\\,cos\\,x = \\pi $$ then $$y''(0)=$$",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$1$$ "
+        },
+        {
+          "key": "B",
+          "value": "$$-1$$ "
+        },
+        {
+          "key": "C",
+          "value": "$${\\pi}$$ "
+        },
+        {
+          "key": "D",
+          "value": "$$ - \\pi $$ "
+        }
+      ],
+      "answer": "C",
+      "explanation": "<p>To find $$y''(0)$$, we need to differentiate the given equation twice with respect to $$x$$ and then substitute $$x=0$$. </p>\n\n<p>Differentiating the equation $$x\\cos \\,y + y\\,cos\\,x = \\pi $$ with respect to $$x$$, we get:</p>\n\n<p>$$ \\cos\\,y - x\\sin\\,y \\cdot y' + y'\\cos\\,x - y\\sin\\,x = 0$$</p>\n\n<p>Now, let's differentiate this equation again with respect to $$x$$:</p>\n\n<p>$$- \\sin\\,y \\cdot y' - \\sin\\,y \\cdot y' - x\\cos\\,y \\cdot (y')^2 - x\\sin\\,y \\cdot y'' + y''\\cos\\,x - y'\\sin\\,x - y'\\sin\\,x - y\\cos\\,x = 0$$</p>\n\n<p>Simplifying the equation, we get:</p>\n\n<p>$$-2\\sin\\,y \\cdot y' - x\\cos\\,y \\cdot (y')^2 - x\\sin\\,y \\cdot y'' + y''\\cos\\,x - 2y'\\sin\\,x - y\\cos\\,x = 0$$</p>\n\n<p>Now, let's substitute $$x = 0$$ in the original equation and the first derivative equation. This will help us find the values of $$y(0)$$ and $$y'(0)$$ respectively:</p>\n\n<p>From the original equation, $$x\\cos \\,y + y\\,cos\\,x = \\pi$$, substituting $$x = 0$$, we get:</p>\n\n<p>$$y(0) \\cdot 1 = \\pi$$</p>\n\n<p>Therefore, $$y(0) = \\pi$$.</p>\n\n<p>Now, substituting $$x = 0$$ in the first derivative equation, we get:</p>\n\n<p>$$ \\cos\\,y(0) + y'(0) \\cdot 1 = 0$$</p>\n\n<p>Substituting $$y(0) = \\pi$$, we get:</p>\n\n<p>$$ \\cos \\pi + y'(0) = 0$$</p>\n\n<p>Therefore, $$y'(0) = 1$$.</p>\n\n<p>Finally, let's substitute $$x = 0$$, $$y(0) = \\pi$$, and $$y'(0) = 1$$ in the second derivative equation:</p>\n\n<p>$$-2\\sin\\pi \\cdot 1 - 0 \\cdot \\cos \\pi \\cdot (1)^2 - 0 \\cdot \\sin \\pi \\cdot y''(0) + y''(0)\\cos 0 - 2 \\cdot 1 \\cdot \\sin 0 - \\pi \\cdot \\cos 0 = 0$$</p>\n\n<p>Simplifying the equation, we get:</p>\n\n<p>$$y''(0) - \\pi = 0$$</p>\n\n<p>Therefore, $$y''(0) = \\pi$$.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The solution of primitive integral equation $$\\left( {{x^2} + {y^2}} \\right)dy = xy$$\n<br>$$dx$$ is $$y=y(x),$$ If $$y(1)=1$$ and $$\\left( {{x_0}} \\right) = e$$, then $${{x_0}}$$ is equal to ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$\\sqrt {2\\left( {{e^2} - 1} \\right)} $$ "
+        },
+        {
+          "key": "B",
+          "value": "$$\\sqrt {2\\left( {{e^2} + 1} \\right)} $$"
+        },
+        {
+          "key": "C",
+          "value": "$$\\sqrt 3 \\,e$$ "
+        },
+        {
+          "key": "D",
+          "value": "$$\\sqrt {{{2\\left( {{e^2} + 1} \\right)} \\over 2}} $$ "
+        }
+      ],
+      "answer": "C",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "If $$y=y(x)$$ and $${{2 + \\sin x} \\over {y + 1}}\\left( {{{dy} \\over {dx}}} \\right) =  - \\cos x,y\\left( 0 \\right) = 1,$$ \n<br> then $$y\\left( {{\\pi  \\over 2}} \\right)$$ equals",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$1/3$$ "
+        },
+        {
+          "key": "B",
+          "value": "$$2/3$$ "
+        },
+        {
+          "key": "C",
+          "value": "$$-1/3$$"
+        },
+        {
+          "key": "D",
+          "value": "$$1$$"
+        }
+      ],
+      "answer": "A",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "If $$y(t)$$ is a solution of $$\\left( {1 + t} \\right){{dy} \\over {dt}} - ty = 1$$ and $$y\\left( 0 \\right) =  - 1,$$ then $$y(1)$$ is equal to",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$ - 1/2$$ "
+        },
+        {
+          "key": "B",
+          "value": "$$e+1/2$$"
+        },
+        {
+          "key": "C",
+          "value": "$$e-1/2$$"
+        },
+        {
+          "key": "D",
+          "value": "$$  1/2$$"
+        }
+      ],
+      "answer": "A",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "If $${x^2} + {y^2} = 1,$$ then ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$yy'' - 2{\\left( {y'} \\right)^2} + 1 = 0$$ "
+        },
+        {
+          "key": "B",
+          "value": "$$yy'' + {\\left( {y'} \\right)^2} + 1 = 0$$ "
+        },
+        {
+          "key": "C",
+          "value": "$$yy'' + {\\left( {y'} \\right)^2} - 1 = 0$$ "
+        },
+        {
+          "key": "D",
+          "value": "$$yy'' + 2{\\left( {y'} \\right)^2} + 1 = 0$$"
+        }
+      ],
+      "answer": "B",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A solution of the differential equation \n<br>$${\\left( {{{dy} \\over {dx}}} \\right)^2} - x{{dy} \\over {dx}} + y = 0$$ is",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$y=2$$"
+        },
+        {
+          "key": "B",
+          "value": "$$y=2x$$"
+        },
+        {
+          "key": "C",
+          "value": "$$y=2x-4$$"
+        },
+        {
+          "key": "D",
+          "value": "$$y = 2{x^2} - 4$$ "
+        }
+      ],
+      "answer": "C",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The order of the differential equation whose general solution is given by\n<br>$$y = \\left( {{C_1} + {C_2}} \\right)\\cos \\left( {x + {C_3}} \\right) - {C_4}{e^{x + {C_5}}},$$ where\n<br> $${C_1},{C_2},{C_3},{C_4},{C_5},$$ are arbitrary constants, is",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$5$$ "
+        },
+        {
+          "key": "B",
+          "value": "$$4$$"
+        },
+        {
+          "key": "C",
+          "value": "$$3$$"
+        },
+        {
+          "key": "D",
+          "value": "$$2$$"
+        }
+      ],
+      "answer": "C",
+      "explanation": ""
+    },
+    {
+      "_type": "numerical",
+      "body": "If $y(x)$ is the solution of the differential equation\n\n<br/><br/>$$\nx d y-\\left(y^{2}-4 y\\right) d x=0 \\text { for } x > 0,  y(1)=2,\n$$\n\n<br/><br/>and the slope of the curve $y=y(x)$ is never zero, then the value of $10 y(\\sqrt{2})$ is",
+      "answer": "8",
+      "explanation": "<p>$$xdy = ({y^2} - 4y)dx = 0$$</p>\n<p>$$ \\Rightarrow xdy = ({y^2} - 4y)dx$$</p>\n<p>$$ \\Rightarrow {{dy} \\over {({y^2} - 4x)}} = {{dx} \\over x}$$</p>\n<p>$$ \\Rightarrow {{dy} \\over {y(y - 4)}} = {{dx} \\over x}$$</p>\n<p>$$ \\Rightarrow {1 \\over 4} \\times {{y - (y - 4)} \\over {y(y - 4)}}dy = {{dx} \\over x}$$</p>\n<p>$$ \\Rightarrow {1 \\over 4}\\left( {{1 \\over {y - 4}} - {1 \\over y}} \\right)dy = {{dx} \\over x}$$</p>\n<p>Integrating both side, we get</p>\n<p>$$ \\Rightarrow {1 \\over 4}\\int {\\left( {{1 \\over {y - 4}} - {1 \\over y}} \\right)dy = \\int {{{dx} \\over x}} } $$</p>\n<p>$$ \\Rightarrow {1 \\over 4}\\left( {\\ln \\left| {{{y - 4} \\over y}} \\right|} \\right) = \\ln |x| + {1 \\over 4}\\ln C$$ (Cont.)</p>\n<p>$$ \\Rightarrow {1 \\over 4}\\ln \\left| {{{y - 4} \\over y}} \\right| = \\ln x + {1 \\over 4}\\ln C$$ [As $$x > 0$$, so $$|x| = x$$]</p>\n<p>$$ \\Rightarrow \\ln \\left| {{{y - 4} \\over y}} \\right| = 4\\ln x + \\ln C$$</p>\n<p>$$ \\Rightarrow \\ln \\left| {{{y - 4} \\over y}} \\right| = \\ln ({x^4}C)$$</p>\n<p>$$ \\Rightarrow {{y - 4} \\over y} = \\, \\pm \\,C{x^4}$$</p>\n<p>$$ \\Rightarrow {{y - 4} \\over y} = \\lambda {x^4}$$ [Assume $$ \\pm \\,C = \\lambda $$]</p>\n<p>Given, $$y(1) = 2$$</p>\n<p>$$\\therefore$$ $${{2 - 4} \\over 2} = \\lambda {(1)^4}$$</p>\n<p>$$ \\Rightarrow \\lambda  = -1$$</p>\n<p>$$\\therefore$$ $${{y - 4} \\over y} =  - {x^4}$$</p>\n<p>Now, $$y(\\sqrt 2 ) =  - {(\\sqrt 2 )^4} = {{y - 4} \\over y}$$</p>\n<p>$$ \\Rightarrow {{y - 4} \\over y} =  - 4$$</p>\n<p>$$ \\Rightarrow y - 4 =  - 4y$$</p>\n<p>$$ \\Rightarrow 5y = 4$$</p>\n<p>$$ \\Rightarrow y = {4 \\over 5}$$</p>\n<p>$$\\therefore$$ $$10y(\\sqrt 2 ) = 10 \\times {4 \\over 5} = 8$$</p>"
+    },
+    {
+      "_type": "numerical",
+      "body": "Let f : R $$ \\to $$ R be a differentiable function with f(0) = 0. If y = f(x) satisfies the differential equation $${{dy} \\over {dx}} = (2 + 5y)(5y - 2)$$, then the value of $$\\mathop {\\lim }\\limits_{n \\to  - \\infty } f(x)$$ is ...........",
+      "answer": "0.4",
+      "explanation": "We have,<br><br>$${{dy} \\over {dx}} = (2 + 5y)(5y - 2)$$<br><br>$$ \\Rightarrow {{dy} \\over {25{y^2} - 4}} = dx$$<br><br>$$ \\Rightarrow {1 \\over {25}}\\left( {{{dy} \\over {{y^2} - {4 \\over {25}}}}} \\right) = dx$$<br><br>On integrating both sides, we get<br><br>$${1 \\over {25}}\\int {{{dy} \\over {{y^2} - {{\\left( {{2 \\over 5}} \\right)}^2}}} = \\int {dx} } $$<br><br>$$ \\Rightarrow {1 \\over {25}} \\times {1 \\over {2 \\times 2/5}}\\log \\left| {{{y - 2/5} \\over {y + 2/5}}} \\right| = x + C$$<br><br>$$ \\Rightarrow \\log \\left| {{{5y - 2} \\over {5y + 2}}} \\right| = 20(x + C)$$<br><br>$$ \\Rightarrow \\left| {{{5y - 2} \\over {5y + 2}}} \\right| = A{e^{20x}}$$ [$$ \\because $$ e<sup>20C</sup> = A]<br><br>when x = 0 $$ \\Rightarrow $$ y = 0, then A = 1<br><br>$$ \\therefore $$ $$\\left| {{{5y - 2} \\over {5y + 2}}} \\right| = {e^{20x}}$$<br><br>$$\\mathop {\\lim }\\limits_{x \\to  - \\infty } \\left| {{{5f(x) - 2} \\over {5f(x) + 2}}} \\right| = \\mathop {\\lim }\\limits_{x \\to  - \\infty } {e^{20x}}$$<br><br>$$ \\Rightarrow \\mathop {\\lim }\\limits_{n \\to  - \\infty } \\left| {{{5f(x) - 2} \\over {5f(x) + 2}}} \\right| = 0$$<br><br>$$ \\Rightarrow \\mathop {\\lim }\\limits_{n \\to  - \\infty } 5f(x) - 2 = 0$$<br><br>$$ \\Rightarrow \\mathop {\\lim }\\limits_{n \\to  - \\infty } f(x) = {2 \\over 5} = 0.4$$"
+    },
+    {
+      "_type": "numerical",
+      "body": "<p>Let $$f:[1,\\infty ) \\to [2,\\infty )$$ be a differentiable function such that $$f(1) = 2$$. If $$6\\int\\limits_1^x {f(t)dt = 3xf(x) - {x^3} - 5} $$ for all $$x \\ge 1$$, then the value of f(2) is ___________.</p>",
+      "answer": "6",
+      "explanation": "<p>It is given that</p>\n<p>$$6\\int\\limits_1^x {f(t)dt = 3xf(x) - {x^3}} - 5$$</p>\n<p>$$ \\Rightarrow 6f(x) = 3f(x) + 3xf'(x) - 3{x^2}$$</p>\n<p>$$ \\Rightarrow 3f(x) = 3xf'(x) - 3{x^2} \\Rightarrow xf'(x) - f(x) = {x^2}$$</p>\n<p>$$ \\Rightarrow x{{dy} \\over {dx}} - y = {x^2} \\Rightarrow {{dy} \\over {dx}} - {1 \\over x}y = x$$ .... (1)</p>\n<p>Now, $$I.F. = {e^{\\int { - {1 \\over x}dx} }} = {e^{ - {{\\log }_e}x}}$$</p>\n<p>Multiplying Eq. (1) both sides by $${1 \\over x}$$, we get</p>\n<p>$${1 \\over x}{{dy} \\over {dx}} - {1 \\over {{x^2}}}y = 1 \\Rightarrow {d \\over {dx}}\\left( {y.{1 \\over x}} \\right) = 1$$</p>\n<p>Integrating, we get</p>\n<p>$${y \\over x} = x + c$$</p>\n<p>Substituting x = 1 and y = 2, we get</p>\n<p>$$ \\Rightarrow 2 = 1 + c \\Rightarrow c = 1 \\Rightarrow y = {x^2} + x$$</p>\n<p>$$ \\Rightarrow f(x) = {x^2} + x \\Rightarrow f(2) = 6$$</p>"
+    },
+    {
+      "_type": "numerical",
+      "body": "Let $$y'\\left( x \\right) + y\\left( x \\right)g'\\left( x \\right) = g\\left( x \\right),g'\\left( x \\right),y\\left( 0 \\right) = 0,x \\in R,$$ where $$f'(x)$$ denotes $${{df\\left( x \\right)} \\over {dx}}$$ and $$g(x)$$ is a given non-constant differentiable function on $$R$$ with $$g(0)=g(2)=0.$$ Then the value  of $$y(2)$$ is",
+      "answer": "0",
+      "explanation": "<p>It is given that</p>\n<p>$$y'(x) + y(x)g'(x) = g(x)g'(x)$$</p>\n<p>$$ \\Rightarrow {e^{g(x)}}y'(x) + {e^{g(x)}}g'(x)y(x) = {e^{g(x)}}g(x)g'(x)$$</p>\n<p>$$ \\Rightarrow {d \\over {dx}}(y(x){e^{g(x)}} )= {e^{g(x)}}g(x)g'(x)$$</p>\n<p>Therefore, $$y(x) = {e^{g(x)}} = \\int {{e^{g(x)}}g(x)g'(x)dx} $$</p>\n<p>$$ = \\int {{e^t}t\\,dt} $$ [where g(x) = t]</p>\n<p>$$ = (t - 1){e^t} + c$$</p>\n<p>Therefore, $$y(x){e^{g(x)}} = (g(x) - 1){e^{g(x)}} + c$$</p>\n<p>Substituting $$x = 0 \\Rightarrow 0 = (0 - 1) \\times 1 + c \\Rightarrow c = 1$$</p>\n<p>Substituting $$x = 2 \\Rightarrow y(2) \\times 1 = (0 - 1) \\times (1) + 1$$</p>\n<p>Hence, $$y(2) = 0$$.</p>"
+    }
+  ]
+}

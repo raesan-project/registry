@@ -1,0 +1,55 @@
+{
+  "_index": {
+    "name": "Current Electricity"
+  },
+  "_children": [
+    {
+      "_type": "single_mcq",
+      "body": "<p>If the direct transmission method with a cable of resistance 0.4 $$\\Omega$$ km<sup>$$-$$1</sup> is used, the power dissipation (in %) during transmission is</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "20"
+        },
+        {
+          "key": "B",
+          "value": "30"
+        },
+        {
+          "key": "C",
+          "value": "40"
+        },
+        {
+          "key": "D",
+          "value": "50"
+        }
+      ],
+      "answer": "B",
+      "explanation": "<p>P = Vi</p>\n<p>$$\\therefore$$ $$i = {P \\over V} = {{600 \\times {{10}^3}} \\over {4000}} = 150$$ A</p>\n<p>Total resistance of cables,</p>\n<p>R = 0.4 $$\\times$$ 20 = 8$$\\Omega$$</p>\n<p>$$\\therefore$$ Power loss in cables = i<sup>2</sup>R</p>\n<p>= (150)<sup>2</sup> (8)</p>\n<p>= 180000 W = 180 kW</p>\n<p>This loss is 30% of 600 kW.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Incandescent bulbs are designed by keeping in mind that the resistance of their filament increases with the increase in temperature. If at room temperature, 100, 60 and 40 W bulbs have filament resistances R<sub>100</sub>, R<sub>60</sub> and R<sub>40</sub> respectively, the relation between these resistances is</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "$${1 \\over {{R_{100}}}} = {1 \\over {{R_{40}}}} + {1 \\over {{R_{60}}}}$$"
+        },
+        {
+          "key": "B",
+          "value": "$${R_{100}} = {R_{40}} + {R_{60}}$$"
+        },
+        {
+          "key": "C",
+          "value": "$${R_{100}} > {R_{60}} > {R_{40}}$$"
+        },
+        {
+          "key": "D",
+          "value": "$${1 \\over {{R_{100}}}} > {1 \\over {{R_{60}}}} > {1 \\over {{R_{40}}}}$$"
+        }
+      ],
+      "answer": "D",
+      "explanation": "<p>The power of the bulb is</p>\n<p>$$P = {{{V^2}} \\over R}$$</p>\n<p>Therefore,</p>\n<p>$$100 = {{{V^2}} \\over {{R_{100}}}} \\Rightarrow {1 \\over {{R_{100}}}} = {{100} \\over {{V^2}}}$$</p>\n<p>where R<sub>100</sub> is the resistance (at any temperature) corresponds to 100 W. Similarly,</p>\n<p>$$60 = {{{V^2}} \\over {{R_{60}}}} \\Rightarrow {1 \\over {{R_{60}}}} = {{60} \\over {{V^2}}}$$ and $$40 = {{{V^2}} \\over {{R_{40}}}} \\Rightarrow {1 \\over {{R_{40}}}} = {{40} \\over {{V^2}}}$$</p>\n<p>From these equations, we get</p>\n<p>$${P_{100}} > {P_{60}} > {P_{40}} \\Rightarrow {1 \\over {{R_{100}}}} > {1 \\over {{R_{60}}}} > {1 \\over {{R_{40}}}}$$</p>"
+    }
+  ]
+}

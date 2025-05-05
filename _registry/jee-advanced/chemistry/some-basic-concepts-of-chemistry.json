@@ -1,0 +1,541 @@
+{
+  "_index": {
+    "name": "Some Basic Concepts of Chemistry"
+  },
+  "_children": [
+    {
+      "_type": "numerical",
+      "body": "$\\mathrm{H}_2 \\mathrm{S}$ (5 moles) reacts completely with acidified aqueous potassium permanganate solution. In this reaction, the number of moles of water produced is $\\mathbf{x}$, and the number of moles of electrons involved is $\\mathbf{y}$. The value of $(\\mathbf{x}+\\mathbf{y})$ is ________.",
+      "answer": "18",
+      "explanation": "<ol>\n<li><p>We start with the balanced redox reaction :</p>\n<br/><p> $$2 \\, \\mathrm{KMnO}_4 + 3 \\, \\mathrm{H}_2\\mathrm{SO}_4 + 5 \\, \\mathrm{H}_2\\mathrm{S} \\rightarrow \\mathrm{K}_2\\mathrm{SO}_4 + 2 \\, \\mathrm{MnSO}_4 + 5 \\, \\mathrm{S} + 8 \\, \\mathrm{H}_2\\mathrm{O}$$</p>\n</li>\n<br/><li><p>We want to find out the number of moles of water ($x$) produced and the number of moles of electrons ($y$) involved in this reaction.</p>\n</li>\n<br/><li><p>From the balanced equation, we can see that 8 moles of water are produced from the reaction. So, we can say :</p>\n<br/><p> $$x = 8$$</p>\n</li>\n<br/><li><p>Hydrogen sulfide ($\\mathrm{H}_2\\mathrm{S}$) gets oxidized to sulfur ($\\mathrm{S}$) in this reaction. Each molecule of $\\mathrm{H}_2\\mathrm{S}$ loses 2 electrons during this process (as sulfur has an oxidation state of -2 in $\\mathrm{H}_2\\mathrm{S}$ and 0 in $\\mathrm{S}$).</p>\n</li>\n<br/><li><p>So, for every mole of $\\mathrm{H}_2\\mathrm{S}$, 2 moles of electrons are involved. And since 5 moles of $\\mathrm{H}_2\\mathrm{S}$ are reacting, the total number of moles of electrons involved is $5 \\times 2 = 10$. So, we can say :</p>\n<br/><p> $$y = 10$$</p>\n</li>\n<br/><li><p>We are asked to find the sum of $x$ and $y$, so we add these two values together to get:</p>\n<br/><p> $$x + y = 8 + 10 = 18$$</p>\n</li>\n</ol>\n<p>Therefore, the value of $(x + y)$ is 18.</p>\n"
+    },
+    {
+      "_type": "numerical",
+      "body": "<p>The treatment of an aqueous solution of $3.74 \\mathrm{~g}$ of $\\mathrm{Cu}\\left(\\mathrm{NO}_{3}\\right)_{2}$ with excess KI results in a brown solution along with the formation of a precipitate. Passing $\\mathrm{H}_{2} \\mathrm{~S}$ through this brown solution gives another precipitate $\\mathbf{X}$. The amount of $\\mathbf{X}$ (in $g$ ) is ___________.\n</p>\n<p>[Given: Atomic mass of $\\mathrm{H}=1, \\mathrm{~N}=14, \\mathrm{O}=16, \\mathrm{~S}=32, \\mathrm{~K}=39, \\mathrm{Cu}=63, \\mathrm{I}=127$ ]</p>",
+      "answer": "0.31TO0.33",
+      "explanation": "<p>Number of moles of $$Cu{(N{O_3})_2} = {{3.74} \\over {187}} = 0.02$$</p>\n<p>$$\\mathop {2Cu{{(N{O_3})}_2}}\\limits_{0.02}  + 4KI \\to C{u_2}{I_2} \\downarrow  + \\mathop {{I_2}}\\limits_{0.01}  + 4KN{O_3}$$</p>\n<p>$$\\mathop {{I_2}}\\limits_{0.01}  + KI \\to \\mathop {K{I_3}}\\limits_{0.01\\,(Brown\\,solution)} $$</p>\n<p>$$\\mathop {K{I_3}}\\limits_{0.01}  + {H_2}S \\to KI + \\mathop S\\limits_{0.01\\,(X)}  \\downarrow  + 2HI$$</p>\n<p>Number of moles of sulphur precipitated (X) = 0.01</p>\n<p>Mass of sulphur precipitates (X) = 0.01 $$\\times$$ 32 = 0.32 gm</p>"
+    },
+    {
+      "_type": "numerical",
+      "body": "In the chemical reaction between stoichiometric quantities of KMnO<sub>4</sub> and KI in weakly basic solution, what is the number of moles of I<sub>2</sub> released for 4 moles of KMnO<sub>4</sub> consumed?",
+      "answer": "6",
+      "explanation": "In alkaline medium : Iodide is oxidised to iodate<br><br>$$2MnO_4^ -  + {H_2}O + {I^ - }\\buildrel {} \\over\n \\longrightarrow 2Mn{O_2} + 2O{H^ - } + IO_3^ - $$<br><br>But in weakly basic solution :<br><br>$$\\mathop {KMn{O_4}}\\limits^{ + 7}  + \\mathop {KI}\\limits^{ - 1} \\buildrel {} \\over\n \\longrightarrow \\mathop {Mn{O_2}}\\limits^{ + 4}  + \\mathop {{I_2}}\\limits^0 $$<br><br>Eq. of KMnO<sub>4</sub> = Eq. of I<sub>2</sub><br><br>$$4 \\times 3 = n \\times 2 \\Rightarrow n = 6$$"
+    },
+    {
+      "_type": "numerical",
+      "body": "5.00 mL of 0.10 M oxalic acid solution taken in a conical flask is titrated against NaOH from a burette using phenolphthalein indicator. The volume of NaOH required for the appearance of permanent faint pink color is tabulated below for five experiments. What is the concentration, in molarity, of the NaOH solution?<br><br><table>\n<thead>\n  <tr>\n    <th>Exp. No.</th>\n    <th>Vol. of NaOH (mL)</th>\n  </tr>\n</thead>\n<tbody>\n  <tr>\n    <td>1</td>\n    <td>12.5</td>\n  </tr>\n  <tr>\n    <td>2</td>\n    <td>10.5</td>\n  </tr>\n  <tr>\n    <td>3</td>\n    <td>9.0</td>\n  </tr>\n  <tr>\n    <td>4</td>\n    <td>9.0</td>\n  </tr>\n  <tr>\n    <td>5</td>\n    <td>9.0</td>\n  </tr>\n</tbody>\n</table>",
+      "answer": "0.11",
+      "explanation": "Oxalic acid solution titrated with NaOH solution using phenolphthalein as an indicator.<br><br>$${H_2}{C_2}{O_4} + 2NaOH\\buildrel {} \\over\n \\longrightarrow N{a_2}{C_2}{O_4} + 2{H_2}O$$<br><br>Equivalent of H<sub>2</sub>C<sub>2</sub>O<sub>4</sub> reacted = Equivalent of NaOH reacted<br><br>$$ = {{5 \\times 2 \\times 0.1} \\over {1000}} = {{9 \\times {M_{(NaOH)}} \\times 1} \\over {1000}}$$<br><br>$${M_{(NaOH)}} = {1 \\over 9} = 0.11$$"
+    },
+    {
+      "_type": "numerical",
+      "body": "The mole fraction of urea in an aqueous urea solution containing 900 g of water is 0.05. If the density of the solution is 1.2 g cm<sup>$$-$$3</sup>, then molarity of urea solution is ................<br><br>(Given data : Molar masses of urea and water are 60 g mol<sup>$$-$$1</sup> and 18 g mol<sup>$$-$$1</sup>, respectively)",
+      "answer": "2.98",
+      "explanation": "Molarity<br><br>$$(M) = {{Number\\,of\\,moles\\,of\\,solute \\times 1000} \\over {Volume\\,of\\,solution\\,(in\\,mL)}}$$<br><br>Also, volume = $${{Mass} \\over {Density}}$$<br><br>Given, mole fraction of urea $$({\\chi _{urea}})$$ = 0.05<br><br>Mass of water = 900 g<br><br>Density = 1.2 g/cm<sup>3</sup><br><br>$${\\chi _{urea}}$$ = $${{{n_{urea}}} \\over {{n_{urea}} + 50}}$$<br><br>[$$ \\because $$ Moles of water = $${{900} \\over {18}}$$ = 50]<br><br>$$0.05 = $$$${{{n_{urea}}} \\over {{n_{urea}} + 50}}$$<br><br>$$ \\Rightarrow $$ $$19{n_{urea}} = 50$$<br><br>$${n_{urea}} = 2.6315$$ moles<br><br>$${w_{urea}} = {n_{urea}} \\times {(M.wt)_{urea}}$$<br><br>$$ = (2.6315 \\times 60)g$$<br><br>$$V = {{2.6315 \\times 60 + 900} \\over {1.2}}$$<br><br>[$$ \\because $$ $$Density = {{Mass\\,of\\,solution} \\over {Volume\\,of\\,solution}}$$]\n<br/><br/> = 881.57 mL<br><br>Now, molarity<br><br>= $$Number\\,of\\,moles\\,of\\,solute \\times {{1000} \\over {Volume\\,of\\,solution\\,(mL)}}$$<br><br>$$ = {{2.6315 \\times 1000} \\over {881.57}}$$ = 2.98 M"
+    },
+    {
+      "_type": "numerical",
+      "body": "The amount of water produced (in g) in the oxidation of 1 mole of rhombic sulphur by conc. HNO<sub>3</sub> to a compound with the highest oxidation state of sulphur is ..............<br><br>(Given data : Molar mass of water = 18 g mol<sup>$$-$$1</sup>)",
+      "answer": "288",
+      "explanation": "When rhombic sulphur (S<sub>8</sub>) is oxidised by conc. HNO<sub>3</sub> then H<sub>2</sub>SO<sub>4</sub> is obtained and NO<sub>2</sub> gas is released.<br><br>$${S_8} + 48HN{O_3}\\buildrel {} \\over\n \\longrightarrow 8{H_2}S{O_4} + 48N{O_2} + 16{H_2}O$$<br><br>1 mole of rhombic sulphur produces = 16 moles of H<sub>2</sub>O<br><br>$$ \\therefore $$ Mass of water = 16 $$ \\times $$ 18 (molar mass of H<sub>2</sub>O) = 288 g"
+    },
+    {
+      "_type": "numerical",
+      "body": "A compound H<sub>2</sub>X with molar weight of 80g is dissolved in a solvent having density of 0.4 gml<sup>–1</sup> . Assuming no change in volume upon dissolution, the molality of a 3.2 molar solution is",
+      "answer": "8",
+      "explanation": "<strong>Understanding the Concepts</strong>\n\n<br/><br/><li><strong>Molarity (M):</strong> Moles of solute per liter of solution.</li><br>\n\n<li><strong>Molality (m):</strong> Moles of solute per kilogram of solvent.</li><br>\n\n<li><strong>Density:</strong> Mass per unit volume.</li>\n\n<br/><strong>Steps to Calculate Molality</strong>\n\n<ol>\n\n<br/><li><strong>Find the Mass of Solute (H₂X):</strong></li>\n\n</ol>\n\n<ul>\n\n<br/><li>Molarity = moles of solute / volume of solution (in liters)</li><br>\n\n<li>3.2 M solution means 3.2 moles of H₂X are present in 1 liter of solution.</li><br>\n\n<li>Mass of H₂X = moles $$ \\times $$ molar mass = 3.2 moles $$ \\times $$ 80 g/mole = 256 g</li>\n\n</ul>\n\n<ol>\n\n<br/><li><strong>Find the Mass of Solvent:</strong></li>\n\n</ol>\n\n<ul>\n\n<br/><li>Assuming no change in volume, the volume of the solution remains 1 liter.</li><br>\n\n<li>Density = mass / volume</li><br>\n\n<li>Mass of solvent = density $$ \\times $$ volume = 0.4 g/mL $$ \\times $$ 1000 mL = 400 g</li>\n\n</ul>\n\n<ol>\n\n<br/><li><strong>Convert Mass of Solvent to Kilograms:</strong></li>\n\n</ol>\n\n<ul>\n\n<br/><li>1 kg = 1000 g</li><br>\n\n<li>Mass of solvent = 400 g $$ \\times $$ (1 kg / 1000 g) = 0.4 kg</li>\n\n</ul>\n\n<ol>\n\n<br/><li><strong>Calculate Molality:</strong></li>\n\n</ol>\n\n<ul>\n\n<br/><li>Molality = moles of solute / mass of solvent (in kg)</li><br>\n\n<li>Molality = 3.2 moles / 0.4 kg = 8 mol/kg</li>\n\n</ul>\n\n<br/><strong>Answer:</strong>\n\n<p>The molality of the 3.2 molar solution is 8 mol/kg.</p>\n\n<p></p>"
+    },
+    {
+      "_type": "numerical",
+      "body": "If the value of Avogadro number is 6.023 $$\\times$$ 10<sup>23</sup> mol<sup>-1</sup> and the value of Boltzmann constant is 1.380 $$\\times$$ 10<sup>-23</sup> J K<sup>-1</sup>, then the number of significant digits in the calculated value of the universal gas constant is",
+      "answer": "4",
+      "explanation": "<p>The universal gas constant, denoted by R, can be calculated using the Avogadro number (N<sub>A</sub>) and the Boltzmann constant (k<sub>B</sub>) by the following relationship:</p>\n\n$$\nR = N_A \\times k_B\n$$\n\n<p>Given that:</p>\n\n$$\nN_A = 6.023 \\times 10^{23} \\text{ mol}^{-1}\n$$\n\n$$\nk_B = 1.380 \\times 10^{-23} \\text{ J K}^{-1}\n$$\n\n<p>Let's multiply these values to find R:</p>\n\n$$\nR = (6.023 \\times 10^{23} \\text{ mol}^{-1}) \\times (1.380 \\times 10^{-23} \\text{ J K}^{-1})\n$$\n\n$$\nR = (6.023 \\times 1.380) \\times (10^{23} \\times 10^{-23}) \\text{ J mol}^{-1} \\text{K}^{-1}\n$$\n\n$$\nR = 8.31174 \\times 10^{0} \\text{ J mol}^{-1} \\text{K}^{-1}\n$$\n\n<p>To determine the number of significant digits in the calculated value of R, we must consider the number of significant digits in the given values of N<sub>A</sub> and k<sub>B</sub>.</p>\n\n<p>The value for N<sub>A</sub> has four significant digits (6.023), and the value for k<sub>B</sub> also has four significant digits (1.380). When multiplying or dividing numbers, the number of significant digits in the result is determined by the number with the smallest amount of significant digits used in the calculation.</p>\n\n<p>In this case, since both constants have four significant digits, the value of R calculated from their multiplication will also contain four significant digits:</p>\n\n$$\nR \\approx 8.314 \\text{ J mol}^{-1} \\text{K}^{-1}\n$$\n\n<p>Therefore, the calculated value of the universal gas constant R has four significant digits.</p>"
+    },
+    {
+      "_type": "numerical",
+      "body": "29.2 % (w/w) HCl stock solution has density of 1.25 g mL<sup>-1</sup> . The molecular weight of HCl is 36.5 g mol<sup>-1</sup> .\nThe volume (mL) of stock solution required to prepare a 200 mL solution of 0.4 M HCl is",
+      "answer": "8",
+      "explanation": "<p>To calculate the volume of the 29.2% (w/w) HCl stock solution needed to prepare a 200 mL solution of 0.4 M HCl, we need to use several steps involving concentration and density conversions.</p>\n\n<p>First, we calculate the mass of HCl that is contained in the 200 mL of a 0.4 M solution:</p>\n\n<p>$$ Mass = Molarity \\times Volume \\times Molecular\\ Weight $$</p>\n\n<p>$$ Mass = 0.4 \\ mol/L \\times 0.200 \\ L \\times 36.5 \\ g/mol $$</p>\n\n<p>Note that we convert the volume from mL to L to match the units of molarity (mol/L).</p>\n\n<p>Now, we calculate it:</p>\n\n<p>$$ Mass = (0.4 \\times 0.200 \\times 36.5) \\ g $$</p>\n\n<p>$$ Mass = 0.08 \\times 36.5 \\ g $$</p>\n\n<p>$$ Mass = 2.92 \\ g $$</p>\n\n<p>The next step is to determine how much of the stock solution is needed to get 2.92 g of HCl. Since the stock solution is 29.2% (w/w) HCl, this means that in every 100 g of stock solution, there is 29.2 g of HCl. We can set up a proportion to find the mass of the stock solution needed:</p>\n\n<p>$$ \\frac{29.2\\ g \\ HCl}{100\\ g \\ stock\\ solution} = \\frac{2.92\\ g \\ HCl}{x\\ g \\ stock\\ solution} $$</p>\n\n<p>Now we solve for $$ x $$:</p>\n\n<p>$$ x = \\frac{2.92\\ g \\times 100\\ g \\ stock\\ solution}{29.2\\ g \\ HCl} $$</p>\n\n<p>$$ x = \\frac{292}{29.2} \\ g $$</p>\n\n<p>$$ x = 10\\ g $$</p>\n\n<p>So, we need 10 g of the stock solution to get 2.92 g of HCl.</p>\n\n<p>The final step is to calculate the volume of the stock solution that has a mass of 10 g. We use the density to convert mass to volume:</p>\n\n<p>$$ Volume = \\frac{Mass}{Density} $$</p>\n\n<p>The density of the stock solution is given as 1.25 g/mL, so:</p>\n\n<p>$$ Volume = \\frac{10\\ g}{1.25\\ g/mL} $$</p>\n\n<p>$$ Volume = 8\\ mL $$</p>\n\n<p>Therefore, to prepare a 200 mL solution of 0.4 M HCl, you would need to measure out 8 mL of the 29.2% HCl stock solution.</p>"
+    },
+    {
+      "_type": "numerical",
+      "body": "<p>The volume (in mL) of 0.1 M AgNO<sub>3</sub> required for complete precipitation of chloride ions present in 30 mL of 0.01 M solution of $$[Cr{({H_2}O)_5}Cl]C{l_2}$$, as silver chloride is close to ____________.</p>",
+      "answer": "6",
+      "explanation": "<p>The reaction taking place is</p>\n<p>$$2AgN{O_3} + [Cr{({H_2}O)_5}Cl]C{l_2} \\to 2AgCl + [Cr{({H_2}O)_5}Cl]{(N{O_3})_2}$$</p>\n<p>Using molarity equation</p>\n<p>$${(M \\times n \\times V)_{AgN{O_3}}} = {(M \\times n \\times V)_{[Cr{{({H_2}O)}_5}Cl]C{l_2}}}$$</p>\n<p>$$0.1 \\times 1 \\times V = 0.01 \\times 2 \\times 30 \\Rightarrow V = 6$$</p>"
+    },
+    {
+      "_type": "numerical",
+      "body": "A student performs a titration with different burettes and finds titre values of 25.2 mL, 25.25 mL, and 25.0 mL. The number of significant figures in the average titre value is",
+      "answer": "3",
+      "explanation": "<p>To find the average titre value, first add up the three measurements provided and then divide by the number of measurements.</p>\n\n<p>The sum of the measurements is:</p>\n$$\n25.2 \\, \\text{mL} + 25.25 \\, \\text{mL} + 25.0 \\, \\text{mL} = 75.45 \\, \\text{mL}\n$$\n\n<p>Since there are three measurements, divide this sum by 3 to calculate the average:</p>\n$$\n\\text{Average titre value} = \\frac{75.45 \\, \\text{mL}}{3} = 25.15 \\, \\text{mL}\n$$\n\n<p>When reporting the average, we must consider the significant figures of the original measurements. The number of significant figures is determined by the least precise measurement, which in this case is 25.0 mL with three significant figures. Therefore, we should report the average value to three significant figures as well.</p>\n\n<p>The average value of 25.15 mL has four significant figures, so we need to round it to three significant figures. However, this is slightly tricky since 25.15 already appears to be rounded to four significant figures. We should consult the original measurements to decide on the best course of action.</p>\n\n<p>Looking at the individual measurements (25.2, 25.25, and 25.0), we should consider the lowest decimal place which they all have in common, which is the first decimal place. The third measurement has no second decimal place, indicating its level of precision. Thus, the number of significant figures for the average titre value should be in line with this level of precision. Since the average calculated is 25.15, when we adjust to the first decimal place for consistent significant figures, the average is 25.1 mL with three significant figures.</p>\n\n$$\n\\text{Corrected Average titre value} = 25.1 \\, \\text{mL}\n$$\n\n<p>Therefore, the number of significant figures in the average titre value is three: 25.1 mL.</p>"
+    },
+    {
+      "_type": "numerical",
+      "body": "Silver (atomic weight = 108 g mol<sup>-1</sup>) has a density of 10.5 g.cm<sup>-3</sup>. The number of silver atoms on a surface of area 10<sup>-12</sup> m<sup>2</sup> can be expressed in scientific notation as y $$\\times$$ 10<sup>x</sup>. The value of x is?",
+      "answer": "7",
+      "explanation": "Given, atomic weight $=108 \\mathrm{~g} \\mathrm{~mol}^{-1}$\n<br/><br/>Density $=10.5 \\mathrm{~g} \\mathrm{~cm}^{-3}$\n<br/><br/>Surface area $=10^{-12} \\mathrm{~m}^2$\n<br/><br/>Volume of one silver atom $=4 / 3 \\pi r^3$\n<br/><br/>$$\n\\because \\text { Density }=\\frac{\\text { Mass }}{\\text { Volume }} \\Rightarrow \\text { Volume }=\\frac{\\text { Mass }}{\\text { Density }}\n$$\n<br/><br/>$\\begin{aligned}\n& \\text { or } \\frac{4}{3} \\pi r^3=\\frac{108}{6.023 \\times 10^{23} \\times 10.5} \\\\\\\\\n& r^3=\\frac{108 \\times 3}{6.023 \\times 10^{23} \\times 10.5 \\times 4 \\times 3.14} \\\\\\\\\n& r^3=0.40 \\times 10^{-23}=4 \\times 10^{-24} \\\\\\\\\n& \\text { or } r=1.58 \\times 10^{-8} \\mathrm{~cm}\n\\end{aligned}$\n<br/><br/>No. of silver atoms on a surface area of $10^{-12} \\mathrm{~m}^2$ can be given by $10^{-12}=\\mathrm{p} r^2 \\times n$\n<br/><br/>$\\begin{aligned} & n=\\frac{10^{-12}}{3.14 \\times\\left(1.58 \\times 10^{-10}\\right)^2}=0.127 \\times 10^8 \\\\\\\\ \\Rightarrow & n=1.27 \\times 10^7 \\text { or } x=7\\end{aligned}$"
+    },
+    {
+      "_type": "numerical",
+      "body": "2.68 $$\\times$$ 10<sup>-3</sup> moles of a solution containing an ion A<sup>n+</sup> require 1.61 $$\\times$$ 10<sup>-3</sup> moles of $$MnO_4^-$$ for the oxidation of An<sup>+</sup> to $$AO_3^-$$ in acid medium. What is the value of n?",
+      "answer": "2",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Dissolving 120 g of urea (mol. wt. 60) in 1000 g of water gave a solution of density 1.15 g/mL. The molarity of the solution is",
+      "options": [
+        {
+          "key": "A",
+          "value": "1.78 M"
+        },
+        {
+          "key": "B",
+          "value": "2.00 M"
+        },
+        {
+          "key": "C",
+          "value": "2.05 M"
+        },
+        {
+          "key": "D",
+          "value": "2.22 M"
+        }
+      ],
+      "answer": "C",
+      "explanation": "<p>To find the molarity of the urea solution, we will follow these steps:</p>\n\n<p>1. Calculate the number of moles of urea using its molecular weight.</p>\n\n<p>2. Determine the volume of the solution using its mass and density.</p>\n\n<p>3. Use the number of moles and volume of the solution to calculate the molarity.</p>\n\n<p>Step 1: Calculate the number of moles of urea.</p>\n\n<p>The number of moles of a substance $ n $ is determined by dividing the mass of the substance ($ m $) by its molecular weight ($ M $):</p>\n\n<p>$ n = \\frac{m}{M} $</p>\n\n<p>For urea, $ m = 120 \\text{ g} $ and $ M = 60 \\text{ g/mol} $, thus:</p>\n\n<p>$ n_{urea} = \\frac{120 \\text{ g}}{60 \\text{ g/mol}} $</p>\n\n<p>$ n_{urea} = 2 \\text{ moles} $</p>\n\n<p>Step 2: Determine the volume of the solution.</p>\n\n<p>The volume $ V $ of the solution can be found by dividing the mass of the solution by its density $ \\rho $:</p>\n\n<p>$ V = \\frac{mass_{solution}}{\\rho} $</p>\n\n<p>The mass of the solution is the sum of the mass of urea and the mass of water. Thus:</p>\n\n<p>$ mass_{solution} = mass_{urea} + mass_{water} = 120 \\text{ g} + 1000 \\text{ g} $</p>\n\n<p>$ mass_{solution} = 1120 \\text{ g} $</p>\n\n<p>The density of the solution $ \\rho $ is given as 1.15 g/mL. Therefore, the volume in milliliters (which is equivalent to cubic centimeters) is:</p>\n\n<p>$ V = \\frac{1120 \\text{ g}}{1.15 \\text{ g/mL}} $</p>\n\n<p>$ V = 973.91 \\text{ mL} $</p>\n\n<p>To convert milliliters to liters (since molarity is defined in terms of liters), we divide by 1000:</p>\n\n<p>$ V = 0.97391 \\text{ L} $</p>\n\n<p>Step 3: Calculate the molarity.</p>\n\n<p>Molarity ($ M $) is defined as the number of moles of solute divided by the volume of solution in liters:</p>\n\n<p>$ M = \\frac{n_{solute}}{V_{solution}} $</p>\n\n<p>$ M = \\frac{2 \\text{ moles}}{0.97391 \\text{ L}} $</p>\n\n<p>$ M \\approx 2.05 \\text{ M} $</p>\n\n<p>Therefore, the molarity of the urea solution is approximately 2.05 M, which corresponds to Option C.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Given that the abundances of isotopes <sup>54</sup>Fe, <sup>56</sup>Fe and <sup>57</sup>Fe are 5%, 90% and 5%, respectively, the atomic mass of Fe is :",
+      "options": [
+        {
+          "key": "A",
+          "value": "55.85"
+        },
+        {
+          "key": "B",
+          "value": "55.95"
+        },
+        {
+          "key": "C",
+          "value": "55.75"
+        },
+        {
+          "key": "D",
+          "value": "56.05"
+        }
+      ],
+      "answer": "B",
+      "explanation": "<p>To calculate the atomic mass of an element based on its isotopic abundances, we use a weighted average. The atomic mass reported on the periodic table is a reflection of the weighted averages of all the naturally occuring isotopes of that element. The formula to calculate the average atomic mass $ M $ of an element when given the abundance and atomic mass of each isotope is:</p>\n\n\n\n<p>$M = \\sum (f_i \\times m_i)$</p>\n\n\n\n<p>where:</p>\n\n<ul>\n<li>$ f_i $ is the fractional percent abundance (as a decimal) of the $ i $-th isotope.</li><br>\n<li>$ m_i $ is the mass number of the $ i $-th isotope.</li>\n</ul>\n<p>For iron (Fe), we have three isotopes $ ^{54}Fe, ^{56}Fe, ^{57}Fe $ with abundances 5%, 90%, and 5%, respectively. To convert these percentages into decimals, we divide each by 100.</p>\n\n<p>Let's calculate the weighted average:</p>\n\n\n\n<p>$M = (0.05 \\times 54) + (0.90 \\times 56) + (0.05 \\times 57)$</p>\n\n\n\n<p>Multiplying each fractional abundance by its respective mass we get:</p>\n\n\n\n<p>$M = (0.05 \\times 54) + (0.90 \\times 56) + (0.05 \\times 57)$</p>\n\n\n\n\n\n<p>$M = (2.7) + (50.4) + (2.85)$</p>\n\n\n<p>$M = 55.95$</p>\n\n\n\n<p>Therefore, the calculated atomic mass of Fe is 55.95, which corresponds to Option B.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Consider a titration of potassium dichromate solution with acidified Mohr’s salt solution using diphenylamine as indicator. The number of moles of Mohr’s salt required per mole of dichromate is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "3"
+        },
+        {
+          "key": "B",
+          "value": "4"
+        },
+        {
+          "key": "C",
+          "value": "5"
+        },
+        {
+          "key": "D",
+          "value": "6"
+        }
+      ],
+      "answer": "D",
+      "explanation": "<p>The formula of Mohr's salt is $$\\mathrm{FeSO_4(NH_4)_2SO_4}$$. It is a mixture of ferrous sulfate and ammonium sulfate. Ferrous sulfate is oxidized by potassium dichromate to ferric sulphate.</p>\n<p>Reaction is as follows:</p>\n<p>$$\\mathrm{K_2Cr_2O_7+6FeSO_4+7H_2SO_4\\to K_2SO_4+Cr_2(SO_4)_3+3Fe_2(SO_4)_3+7H_2O}$$</p>\n<p>1 mole of potassium dichromate reacts with 6 moles of ferrous sulphate. Thus, number of moles of Mohr's salt required per mole of dichromate is 6.<p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Which has maximum number of atoms?",
+      "options": [
+        {
+          "key": "A",
+          "value": "24 g of C(12)"
+        },
+        {
+          "key": "B",
+          "value": "56g of Fe(56)"
+        },
+        {
+          "key": "C",
+          "value": "27g of Al(27)"
+        },
+        {
+          "key": "D",
+          "value": "108g of Ag(108)"
+        }
+      ],
+      "answer": "A",
+      "explanation": "<p>To determine which option has the maximum number of atoms, we will use Avogadro's number and the concept of moles. Avogadro's number ($6.02 \\times 10^{23}$ atoms/mol) represents the number of atoms in one mole of any substance. The number of moles of a substance is calculated by dividing the given mass of the substance by its molar mass (which is given in grams per mole and is numerically equal to the element's atomic mass for pure elements).</p>\n\n<p>Let's calculate the number of moles for each option:</p>\n\n<p><b>Option A:</b> 24 g of C (Carbon, atomic mass = 12 g/mol)</p>\n\n<p>The number of moles of C = $\\frac{24 \\text{ g}}{12 \\text{ g/mol}} = 2 \\text{ moles}$</p>\n\n<p>Therefore, the number of atoms in 24 g of C = $2 \\text{ moles} \\times 6.02 \\times 10^{23} \\text{ atoms/mol} = 1.204 \\times 10^{24}$ atoms</p>\n\n<p><b>Option B:</b> 56 g of Fe (Iron, atomic mass = 56 g/mol)</p>\n\n<p>The number of moles of Fe = $\\frac{56 \\text{ g}}{56 \\text{ g/mol}} = 1 \\text{ mole}$</p>\n\n<p>Therefore, the number of atoms in 56 g of Fe = $1 \\text{ mole} \\times 6.02 \\times 10^{23} \\text{ atoms/mol} = 6.02 \\times 10^{23}$ atoms</p>\n\n<p><b>Option C:</b> 27 g of Al (Aluminum, atomic mass = 27 g/mol)</p>\n\n<p>The number of moles of Al = $\\frac{27 \\text{ g}}{27 \\text{ g/mol}} = 1 \\text{ mole}$</p>\n\n<p>Therefore, the number of atoms in 27 g of Al = $1 \\text{ mole} \\times 6.02 \\times 10^{23} \\text{ atoms/mol} = 6.02 \\times 10^{23}$ atoms</p>\n\n<p><b>Option D:</b> 108 g of Ag (Silver, atomic mass = 108 g/mol)</p>\n\n<p>The number of moles of Ag = $\\frac{108 \\text{ g}}{108 \\text{ g/mol}} = 1 \\text{ mole}$</p>\n\n<p>Therefore, the number of atoms in 108 g of Ag = $1 \\text{ mole} \\times 6.02 \\times 10^{23} \\text{ atoms/mol} = 6.02 \\times 10^{23}$ atoms</p>\n\n<p>Comparing the number of atoms in each option, <b>Option A</b> with 1.204 $\\times 10^{24}$ atoms has the maximum number of atoms.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Mixture X = 0.02 mol of [Co(NH<sub>3</sub>)<sub>5</sub>SO<sub>4</sub>]Br and 0.02 mol of [Co(NH<sub>3</sub>)<sub>5</sub>Br]SO<sub>4</sub> was prepared in 2 litre of solution.<br>\n1 litre of mixture X + excess AgNO<sub>3</sub> $$ \\to $$ Y.<br>\n1 litre of mixture X + excess BaCl<sub>2</sub> $$ \\to $$ Z<br>\nNo. of moles of Y and Z are",
+      "options": [
+        {
+          "key": "A",
+          "value": "0.01, 0.01"
+        },
+        {
+          "key": "B",
+          "value": "0.02, 0.01"
+        },
+        {
+          "key": "C",
+          "value": "0.01, 0.02"
+        },
+        {
+          "key": "D",
+          "value": "0.02, 0.02"
+        }
+      ],
+      "answer": "A",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "How many moles of electron weigh one kilogram?",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$6.023 \\times {10^{23}}$$"
+        },
+        {
+          "key": "B",
+          "value": "$${1 \\over {9.108}} \\times {10^{31}}$$ "
+        },
+        {
+          "key": "C",
+          "value": "$${{6.023} \\over {9.108}} \\times {10^{54}}$$ "
+        },
+        {
+          "key": "D",
+          "value": "$${1 \\over {9.108 \\times 6.023}} \\times {10^8}$$ "
+        }
+      ],
+      "answer": "D",
+      "explanation": "<p>To find out how many moles of electrons weigh one kilogram, we need to understand the concept of the mole and the mass of an electron.\n\n<p>A mole is defined as the amount of substance that contains as many entities (atoms, molecules, ions, electrons, etc.) as there are atoms in 12 grams of carbon-12. This number is known as Avogadro's number, $$N_A = 6.023 \\times 10^{23}$$ entities per mole.</p>\n\n<p>The mass of an electron is approximately $$9.109 \\times 10^{-31}$$ kg per electron.</p>\n\n<p>The number of moles ($n$) is given by the equation:</p>\n\n<p>$$n = \\frac{m}{M}$$</p>\n\n<p>where $m$ is the mass of the substance and $M$ is the molar mass of the substance.</p>\n\n<p>In the case of electrons, the mass ($m$) we're considering is 1 kilogram, and we need to find the equivalent mass in terms of moles of electrons.</p>\n\n<p>However, instead of using the molar mass as we would for atoms or molecules, we directly relate the mass of the electrons to Avogadro's number since we're dealing with elementary particles.</p>\n\n<p>The calculation involves finding out how many electrons make up 1 kg, and then calculating how many moles of electrons that represents.</p>\n\n<p>First, find the number of electrons in 1 kg:</p>\n\n<p>$$\\text{Number of electrons} = \\frac{1 \\, \\text{kg}}{(9.109 \\times 10^{-31} \\, \\text{kg/electron})} = \\frac{1}{9.109 \\times 10^{-31}}$$</p>\n\n<p>Then, to find out how many moles this number of electrons represents, we divide by Avogadro's number:</p>\n\n<p>$$\\text{Moles of electrons} = \\frac{1}{9.109 \\times 10^{-31}} \\times \\frac{1}{6.023 \\times 10^{23}}$$</p>\n\n<p>Simplifying this gives us:</p>\n\n<p>$$\\text{Moles of electrons} = \\frac{1}{9.109} \\times 10^{31} \\times \\frac{1}{6.023 \\times 10^{23}} = \\frac{1}{9.109 \\times 6.023} \\times 10^{8}$$</p>\n\n<p>Hence, the option that correctly represents the number of moles of electrons that weigh one kilogram is:</p>\n\n<p>Option D: $${1 \\over {9.108 \\times 6.023}} \\times {10^8}$$ </p></p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "An aqueous solution of 6.3 g oxalic acid dihydrate is made up to 250ml. the volume of\n0.1N NaOH required to completely neutralize 10ml of this solution is : ",
+      "options": [
+        {
+          "key": "A",
+          "value": "40ml"
+        },
+        {
+          "key": "B",
+          "value": "20ml"
+        },
+        {
+          "key": "C",
+          "value": "10ml "
+        },
+        {
+          "key": "D",
+          "value": "4ml"
+        }
+      ],
+      "answer": "A",
+      "explanation": "<p>To solve this problem, we need to use the concept of normality and the stoichiometry of the reaction between oxalic acid and sodium hydroxide. Oxalic acid dihydrate (C2H2O4.2H2O) reacts with sodium hydroxide (NaOH) in a 1:2 molar ratio because oxalic acid is a diprotic acid, meaning each molecule of oxalic acid can donate two protons.</p>\n\n<p>First, we need to calculate the number of moles of oxalic acid in the solution:</p>\n\n<p>The molar mass of oxalic acid dihydrate (C2H2O4.2H2O) is calculated as follows:\n\n<p>C: 12.01 g/mol * 2 = 24.02 g/mol</p>\n\n<p>H: 1.01 g/mol * 4 = 4.04 g/mol</p>\n\n<p>O: 16.00 g/mol * 6 = 96.00 g/mol</p>\n\n<p>Total: 126.06 g/mol</p></p>\n\n<p>Given mass of oxalic acid dihydrate = 6.3 g</p>\n\n<p>Moles of oxalic acid dihydrate = $$\\frac{\\text{mass}}{\\text{molar mass}} = \\frac{6.3 g}{126.06 g/mol} = 0.05 \\text{ mol}$$</p>\n\n<p>Since the solution is made up to 250 mL, the molarity (M) of this solution is calculated as follows:</p>\n\n<p>$$M = \\frac{\\text{moles of solute}}{\\text{volume of solution in liters}} = \\frac{0.05 \\text{ mol}}{0.25 \\text{ L}} = 0.2 \\text{ M}$$</p>\n\n<p>When 10 mL of this solution reacts with NaOH, the volume of NaOH required to completely neutralize the solution can be found using the stoichiometry of the reaction:</p>\n\n<p>The reaction between oxalic acid (H2C2O4) and NaOH is represented by the balanced chemical equation:</p>\n\n<p>$$H_2C_2O_4 + 2NaOH \\rightarrow Na_2C_2O_4 + 2H_2O$$</p>\n\n<p>This indicates that 1 mole of oxalic acid reacts with 2 moles of NaOH. Therefore, the moles of oxalic acid in 10 mL of the solution can be found as:</p>\n\n<p>$$\\text{Moles of oxalic acid} = 0.2 M * 0.01 L = 0.002 \\text{ mol}$$</p>\n\n<p>Since each mole of oxalic acid requires 2 moles of NaOH for complete neutralization:</p>\n\n<p>$$\\text{Moles of NaOH required} = 0.002 \\text{ mol of oxalic acid} * 2 = 0.004 \\text{ mol of NaOH}$$</p>\n\n<p>The normality (N) of NaOH solution is given as 0.1N. Because NaOH is monovalent, its normality is equal to its molarity in this context. Hence, the volume of NaOH solution required can be calculated using the formula:</p>\n\n<p>$$V = \\frac{\\text{moles of NaOH}}{\\text{Normality of NaOH solution}} = \\frac{0.004 \\text{ mol}}{0.1 N} = 0.04 L = 40 mL$$</p>\n\n<p>Therefore, the correct answer is <strong>Option A: 40mL</strong>.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "In the standardization of Na<sub>2</sub>S<sub>2</sub>O<sub>3</sub> using K<sub>2</sub>Cr<sub>2</sub>O<sub>7</sub> by iodometry, the equivalent weight of K<sub>2</sub>Cr<sub>2</sub>O<sub>7</sub> is: ",
+      "options": [
+        {
+          "key": "A",
+          "value": "(molecular weight)/2 "
+        },
+        {
+          "key": "B",
+          "value": "(molecular weight)/6 "
+        },
+        {
+          "key": "C",
+          "value": "(molecular weight)/3 "
+        },
+        {
+          "key": "D",
+          "value": "Same as molecular weight "
+        }
+      ],
+      "answer": "B",
+      "explanation": "<p>To determine the equivalent weight of $K_2Cr_2O_7$ in its reaction with sodium thiosulfate ($Na_2S_2O_3$) using iodometry, we need to consider the reaction that takes place. In iodometric titrations, $K_2Cr_2O_7$ acts as an oxidizing agent. The half-reaction for $Cr_2O_7^{2-}$ in acidic medium can be written as:</p>\n\n<p>$$Cr_2O_7^{2-} + 14H^+ + 6e^- \\rightarrow 2Cr^{3+} + 7H_2O$$</p>\n\n<p>This equation shows that one $Cr_2O_7^{2-}$ ion accepts 6 electrons to undergo reduction. Thus, the change in oxidation state per $K_2Cr_2O_7$ molecule (containing one $Cr_2O_7^{2-}$ ion) is equivalent to 6 electron transfers.</p>\n\n<p>The equivalent weight of a compound is defined as the molecular weight divided by the number of electrons transferred in the relevant half-reaction. Since $K_2Cr_2O_7$ transfers 6 electrons per molecule in this reaction, the equivalent weight of $K_2Cr_2O_7$ will be:</p>\n\n<p>$$\\text{Equivalent weight of } K_2Cr_2O_7 = \\frac{\\text{Molecular weight of } K_2Cr_2O_7}{6}$$</p>\n\n<p>Therefore, the correct answer is Option B: the equivalent weight of $K_2Cr_2O_7$ is the molecular weight divided by 6.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The oxidation state of the most electronegative element in the products of the reaction. BaO<sub>2</sub> with dil. H<sub>2</sub>SO<sub>4</sub> are",
+      "options": [
+        {
+          "key": "A",
+          "value": "0 and -1"
+        },
+        {
+          "key": "B",
+          "value": "-1 and -2"
+        },
+        {
+          "key": "C",
+          "value": "-2 and 0"
+        },
+        {
+          "key": "D",
+          "value": "-2 and -1"
+        }
+      ],
+      "answer": "D",
+      "explanation": "<p>To determine the oxidation state of the most electronegative element in the products of the reaction between $ \\text{BaO}_2 $ and dilute $ \\text{H}_2\\text{SO}_4 $, let's first write down the reaction:</p>\n\n<p>$ \\text{BaO}_2 + \\text{H}_2\\text{SO}_4 \\rightarrow \\text{BaSO}_4 + \\text{H}_2\\text{O}_2 $</p>\n\n<p>In this reaction, $ \\text{BaO}_2 $ reacts with $ \\text{H}_2\\text{SO}_4 $ to produce $ \\text{BaSO}_4 $ and $ \\text{H}_2\\text{O}_2 $.</p>\n\n<p>The most electronegative element present in the products is oxygen.</p>\n\n<ul>\n<li>In $ \\text{BaSO}_4 $, the oxygen is bonded to sulfur. The oxygen here typically has an oxidation state of $ -2 $.</li><br>\n<li>In $ \\text{H}_2\\text{O}_2 $ (hydrogen peroxide), the oxygen also has a different oxidation state compared to when it's in water or oxides. In hydrogen peroxide, oxygen has an oxidation state of $ -1 $.</li>\n</ul>\n<p>This indicates the oxidation states of the most electronegative element (oxygen) in the products are $ -2 $ and $ -1 $.</p>\n\n<p>Thus, the correct answer is:</p>\n\n<p>Option D: $ -2 $ and $ -1 $</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Read the following statement and explanation and answer as per the options given below:<br><br>\n<b>STATEMENT (S):</b> In the titration of Na<sub>2</sub>CO<sub>3</sub> with HCl using methyl orange indicator, the volume required at the equivalence point is twice that of the acid required using phenolphthalein indicator.<br><br>\n<b>EXPLANATION (E):</b> Two moles of HCl are required for the complete neutralization of one mole of Na<sub>2</sub>CO<sub>3</sub> ",
+      "options": [
+        {
+          "key": "A",
+          "value": "Both S and E are true, and E is the correct explanation of S."
+        },
+        {
+          "key": "B",
+          "value": "Both S and E are true, and E is not the correct explanation of S."
+        },
+        {
+          "key": "C",
+          "value": "S is true but E is false"
+        },
+        {
+          "key": "D",
+          "value": "S is false but E is true"
+        }
+      ],
+      "answer": "B",
+      "explanation": "<p>The correct answer is Option B : Both S and E are true, and E is not the correct explanation of S.</p>\n\n<p>Let us examine both the statement and the explanation :</p>\n\n<p><b>STATEMENT (S) : </b>In the titration of Na<sub>2</sub>CO<sub>3</sub> with HCl using methyl orange indicator, the volume required at the equivalence point is twice that of the acid required using phenolphthalein indicator.</p>\n\n<p>This statement is true. When titrating Na<sub>2</sub>CO<sub>3</sub> (sodium carbonate), which is a diprotic base, there are two stages of the neutralization reaction. The first stage is the neutralization of carbonate ion (CO<sub>3</sub><sup>2-</sup>) to bicarbonate ion (HCO<sub>3</sub><sup>-</sup>), which is indicated by phenolphthalein changing color. Phenolphthalein changes color at a pH around 8.3, which corresponds to the first endpoint of the titration:</p>\n\n<p>$$ \\text{Na}_2\\text{CO}_3 + \\text{HCl} \\rightarrow \\text{NaHCO}_3 + \\text{NaCl} $$</p>\n\n<p>The second stage is the neutralization of bicarbonate ion to carbonic acid (H<sub>2</sub>CO<sub>3</sub>), which then decomposes into water and carbon dioxide. Methyl orange, which changes color at a pH of about 3.1 to 4.4, is used to indicate this second endpoint :</p>\n\n<p>$$ \\text{NaHCO}_3 + \\text{HCl} \\rightarrow \\text{H}_2\\text{CO}_3 + \\text{NaCl} $$</p>\n\n<p>$$ \\text{H}_2\\text{CO}_3 \\rightarrow \\text{H}_2\\text{O} + \\text{CO}_2 $$</p>\n\n<p>Therefore, when using methyl orange, the total volume of HCl required for complete neutralization (both stages) is indeed twice the amount needed to reach the first endpoint with phenolphthalein.</p>\n\n<p><b>EXPLANATION (E) : </b>Two moles of HCl are required for the complete neutralization of one mole of Na<sub>2</sub>CO<sub>3</sub>.</p>\n\n<p>This explanation is true. As evident from the chemical equations above, one mole of Na<sub>2</sub>CO<sub>3</sub> requires one mole of HCl to convert to NaHCO<sub>3</sub>, and then another mole of HCl to neutralize the NaHCO<sub>3</sub> further into H<sub>2</sub>CO<sub>3</sub> followed by decomposition to water and CO<sub>2</sub>. Therefore, the total is two moles of HCl per mole of Na<sub>2</sub>CO<sub>3</sub>.</p>\n\n<p>Although both the statement and the explanation are true, the explanation does not adequately explain why the volume of HCl is doubled with methyl orange as the indicator compared to phenolphthalein. The correct explanation should involve the different end points detected by the two indicators (phenolphthalein indicating the first stage, methyl orange the second stage), rather than the overall stoichiometry of the reaction.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "In which mode of expression, the concentration of a solution remains independent of temperature?",
+      "options": [
+        {
+          "key": "A",
+          "value": "Molarity"
+        },
+        {
+          "key": "B",
+          "value": "Normality"
+        },
+        {
+          "key": "C",
+          "value": "Formality"
+        },
+        {
+          "key": "D",
+          "value": "Molality"
+        }
+      ],
+      "answer": "D",
+      "explanation": "<p>The mode of expression in which the concentration of a solution remains independent of temperature is Option D: Molality. </p>\n\n<p>Molality is defined as the number of moles of solute per kilogram of solvent. Its formula is given by:</p>\n\n<p>$$ molality = \\frac{moles \\; of \\; solute}{kilograms \\; of \\; solvent} $$</p>\n\n<p>Because molality involves mass (kilograms of solvent), it does not depend on temperature. Mass does not change with temperature, unlike volume, which can expand or contract with temperature changes. Hence, molality remains constant regardless of temperature changes. </p>\n\n<p>For the sake of completeness, here's why the other options listed are temperature-dependent:</p>\n\n<p><b>Molarity</b> (Option A) is defined as moles of solute per liter of solution. Since volume can change with temperature, molarity is temperature-dependent.</p>\n\n<p><b>Normality</b> (Option B) depends on the equivalent concept which is context-sensitive to the reaction occurring. It typically depends on volume (like molarity) for solutions, so it can vary with temperature due to volume changes.</p>\n\n<p><b>Formality</b> (Option C) is similar to molarity but refers to moles of solute per liter of solution for substances that do not dissociate or react in solution. While it can be useful for non-reactive solutes, it still depends on the volume of the solution, making it temperature-dependent.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A molal solution is one that contains one mole of solute in ",
+      "options": [
+        {
+          "key": "A",
+          "value": "1000 g of solvent"
+        },
+        {
+          "key": "B",
+          "value": "1.0 L of solvent (1986, 1M) "
+        },
+        {
+          "key": "C",
+          "value": "1.0 L of solution"
+        },
+        {
+          "key": "D",
+          "value": "22.4 L of solution"
+        }
+      ],
+      "answer": "A",
+      "explanation": "<p>The correct option for defining a molal (m) solution is Option A: 1000 g of solvent.\n\n<p>Molality is a measure of the concentration of a solution in terms of the amount of substance in a given mass of the solvent. It is defined as the number of moles of solute per kilogram of solvent. Thus, a 1 molal solution contains one mole of solute in 1000 grams (which is one kilogram) of the solvent. This measurement is independent of the temperature because it is based on mass rather than volume, which can fluctuate with temperature changes.</p>\n\n<p>Option B (1.0 L of solvent) refers to a volumetric method of specifying concentration, but it is not how molality is defined. This might be more relevant to molarity, which is defined as moles of solute per liter of solution, not solvent.</p>\n\n<p>Option C (1.0 L of solution) describes a unit related to the volume of the solution, not the mass of the solvent, and therefore does not describe molality.</p>\n\n<p>Option D (22.4 L of solution) refers to a specific volume that is not related to the definition of molality. It may be mistaken with the molar volume of an ideal gas at standard temperature and pressure (STP), but it has no relation to molality.</p>\n\n<p>Accordingly, the correct answer is Option A: 1000 g of solvent, which aligns with the definition of a molal solution as containing one mole of solute per kilogram (1000 g) of solvent.</p></p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "If 0.50 mol of BaCl<sub>2</sub> is mixed with 0.20 mol of Na<sub>3</sub>PO<sub>4</sub>, the maximum amount of Ba<sub>3</sub>(PO<sub>4</sub>)<sub>2</sub> that can be formed is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "0.70"
+        },
+        {
+          "key": "B",
+          "value": "0.50"
+        },
+        {
+          "key": "C",
+          "value": "0.20"
+        },
+        {
+          "key": "D",
+          "value": "0.10"
+        }
+      ],
+      "answer": "D",
+      "explanation": "<p>To determine the maximum amount of $ \\text{Ba}_3(\\text{PO}_4)_2 $ that can be formed when $0.50 \\, \\text{mol}$ of $ \\text{BaCl}_2 $ is mixed with $0.20 \\, \\text{mol}$ of $ \\text{Na}_3\\text{PO}_4 $, we need to look at the stoichiometry of the reaction between barium chloride and sodium phosphate. The balanced chemical equation for the formation of barium phosphate and sodium chloride is:</p>\n\n<p>$$ \\text{3BaCl}_2 + 2\\text{Na}_3\\text{PO}_4 \\rightarrow \\text{Ba}_3(\\text{PO}_4)_2 + 6\\text{NaCl} $$</p>\n\n<p>This equation tells us that 3 moles of barium chloride react with 2 moles of sodium phosphate to produce 1 mole of barium phosphate. From this, we can calculate the mole ratio needed for the complete reaction:</p>\n\n<ul>\n<li>Ratio for $ \\text{BaCl}_2 : \\text{Ba}_3(\\text{PO}_4)_2 = 3:1 $</li><br>\n<li>Ratio for $ \\text{Na}_3\\text{PO}_4 : \\text{Ba}_3(\\text{PO}_4)_2 = 2:1 $</li>\n</ul>\n<p>Given amounts are $0.50 \\, \\text{mol}$ of $ \\text{BaCl}_2 $ and $0.20 \\, \\text{mol}$ of $ \\text{Na}_3\\text{PO}_4 $. To find out which reactant is the limiting reagent, we calculate how much product each could produce if it were completely consumed:</p>\n\n<ul>\n<li>For $ \\text{BaCl}_2 $:</li>\n</ul>\n<p>$$ \\frac{\\text{Moles of BaCl}_2}{\\text{Mole ratio for BaCl}_2} = \\frac{0.50 \\, \\text{mol}}{3} = 0.167 \\, \\text{mols of } \\text{Ba}_3(\\text{PO}_4)_2 $$</p>\n\n<ul>\n<li>For $ \\text{Na}_3\\text{PO}_4 $:</li>\n</ul>\n<p>$$ \\frac{\\text{Moles of Na}_3\\text{PO}_4}{\\text{Mole ratio for Na}_3\\text{PO}_4} = \\frac{0.20 \\, \\text{mol}}{2} = 0.1 \\, \\text{mols of } \\text{Ba}_3(\\text{PO}_4)_2 $$</p>\n\n<p>From the calculations, $ \\text{Na}_3\\text{PO}_4 $ yields less $ \\text{Ba}_3(\\text{PO}_4)_2 $ than $ \\text{BaCl}_2 $ does; therefore, $ \\text{Na}_3\\text{PO}_4 $ is the limiting reactant. This means the maximum amount of $ \\text{Ba}_3(\\text{PO}_4)_2 $ that can be formed from the given amounts of reactants is $0.10 \\, \\text{mol}$.</p>\n\n<p>So, the answer is Option D: 0.10.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A gaseous mixture contains oxygen and nitrogen in the ratio of 1 : 4 by weight. Therefore the ratio of their no of molecules is",
+      "options": [
+        {
+          "key": "A",
+          "value": "1 : 4"
+        },
+        {
+          "key": "B",
+          "value": "1 : 8"
+        },
+        {
+          "key": "C",
+          "value": "7 : 32"
+        },
+        {
+          "key": "D",
+          "value": "3 : 16"
+        }
+      ],
+      "answer": "C",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The total number of electrons is one molecule of carbon dioxide is",
+      "options": [
+        {
+          "key": "A",
+          "value": "22"
+        },
+        {
+          "key": "B",
+          "value": "44"
+        },
+        {
+          "key": "C",
+          "value": "66"
+        },
+        {
+          "key": "D",
+          "value": "88"
+        }
+      ],
+      "answer": "A",
+      "explanation": "<p>To find the total number of electrons in one molecule of carbon dioxide (CO<sub>2</sub>), we need to consider the atomic structure of the atoms involved in the molecule. Carbon dioxide consists of one carbon atom and two oxygen atoms.</p>\n\n<p>Carbon (C) has an atomic number of 6, which means a neutral carbon atom has 6 electrons. Oxygen (O) has an atomic number of 8, meaning a neutral oxygen atom has 8 electrons.</p>\n\n<p>Therefore, the total number of electrons in a CO<sub>2</sub> molecule can be calculated as follows:</p>\n\n<p>Number of electrons in carbon = 6 <br>\n\n<p>Number of electrons in one oxygen = 8 <br></p>\n\n<p>So, number of electrons in two oxygens = 2 x 8 = 16</p></p>\n\n<p>Total number of electrons in CO<sub>2</sub> = 6 (from C) + 16 (from 2O) = 22</p>\n\n<p>So, the correct answer is Option A: 22</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "2.76 g of silver carbonate  on being strongly heated yields a residue weighing",
+      "options": [
+        {
+          "key": "A",
+          "value": "2.16 g"
+        },
+        {
+          "key": "B",
+          "value": "2.48 g"
+        },
+        {
+          "key": "C",
+          "value": "2.32 g"
+        },
+        {
+          "key": "D",
+          "value": "2.64 g"
+        }
+      ],
+      "answer": "A",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The largest number of molecules is in",
+      "options": [
+        {
+          "key": "A",
+          "value": "32 g of water"
+        },
+        {
+          "key": "B",
+          "value": "28 g of carbon monoxide"
+        },
+        {
+          "key": "C",
+          "value": "46 g of ethyl alcohol"
+        },
+        {
+          "key": "D",
+          "value": "54 g of nitrogen pentoxide"
+        }
+      ],
+      "answer": "A",
+      "explanation": "<p>To determine the largest number of molecules in the given options, we need to compare the moles of each substance since the number of molecules depends on the moles of the substance. The formula to calculate the number of moles is given as:</p>\n\n<p>$ \\text{Number of moles} = \\frac{\\text{Mass of substance}}{\\text{Molar mass of substance}} $</p>\n\n<p>Let's calculate the moles for each substance:</p>\n\n<p><b>Option A:</b> 32 g of water (H<sub>2</sub>O)</p>\n\n<p>The molar mass of water = (2 × 1) + 16 = 18 g/mol</p>\n\n<p>Moles of water = $\\frac{32}{18}$</p>\n\n<p>Moles of water ≈ 1.78 mol</p>\n\n<p><b>Option B:</b> 28 g of carbon monoxide (CO)</p>\n\n<p>The molar mass of CO = 12 + 16 = 28 g/mol</p>\n\n<p>Moles of CO = $\\frac{28}{28}$</p>\n\n<p>Moles of CO = 1 mol</p>\n\n<p><b>Option C:</b> 46 g of ethyl alcohol (C<sub>2</sub>H<sub>5</sub>OH)</p>\n\n<p>The molar mass of ethyl alcohol = (2 × 12) + (6 × 1) + 16 + 1 = 46 g/mol</p>\n\n<p>Moles of ethyl alcohol = $\\frac{46}{46}$</p>\n\n<p>Moles of ethyl alcohol = 1 mol</p>\n\n<p><b>Option D:</b> 54 g of nitrogen pentoxide (N<sub>2</sub>O<sub>5</sub>)</p>\n\n<p>The molar mass of N<sub>2</sub>O<sub>5</sub> = (2 × 14) + (5 × 16) = 108 g/mol</p>\n\n<p>Moles of N<sub>2</sub>O<sub>5</sub> = $\\frac{54}{108}$</p>\n\n<p>Moles of N<sub>2</sub>O<sub>5</sub> ≈ 0.5 mol</p>\n\n<p>Given that 1 mole of any substance contains $6.022 \\times 10^{23}$ molecules (Avogadro's number), the substance with the highest number of moles will have the most molecules.</p>\n\n<p>Therefore, <b>Option A</b> (32 g of water) has the largest number of molecules among the given options because it has the highest number of moles, approximately 1.78 mol.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "27 g of Al will react completely with how many grams if oxygen?",
+      "options": [
+        {
+          "key": "A",
+          "value": "8 g"
+        },
+        {
+          "key": "B",
+          "value": "16 g"
+        },
+        {
+          "key": "C",
+          "value": "32 g"
+        },
+        {
+          "key": "D",
+          "value": "24 g"
+        }
+      ],
+      "answer": "D",
+      "explanation": "<p>To determine how many grams of oxygen will react completely with 27 grams of aluminum (Al), we first need to look at the balanced chemical equation for the reaction between aluminum and oxygen to form aluminum oxide ($Al_2O_3$). The balanced equation is:</p>\n\n<p>$4Al + 3O_2 \\rightarrow 2Al_2O_3$</p>\n\n<p>This equation tells us that 4 moles of aluminum react with 3 moles of oxygen gas to produce 2 moles of aluminum oxide.</p>\n\n<p>First, we need to determine the molar mass of aluminum (Al) and oxygen (O<sub>2</sub>) to proceed with the calculations.</p>\n\n<p>The molar mass of aluminum (Al) is approximately $27 \\, g/mol$.<br>\n\n<p>The molar mass of oxygen gas (O<sub>2</sub>) is $32 \\, g/mol$ (since the molar mass of an oxygen atom is approximately 16 g/mol, and $O_2$ has two oxygen atoms).</p></p>\n\n<p>Given that we have 27 g of aluminum:</p>\n\n<ul>\n\n<li>The number of moles of aluminum ($n_{Al}$) can be calculated as follows:<br>\n\n<p>$n_{Al} = \\frac{\\text{mass of Al}}{\\text{molar mass of Al}} = \\frac{27 \\, g}{27 \\, g/mol} = 1 \\, mol$</li></p>\n\n<li>According to the balanced equation, 4 moles of Al react with 3 moles of O<sub>2</sub>. Therefore, to find out how many moles of O<sub>2</sub> react with 1 mole of Al, we set a proportion:<br>\n\n<p>$\\frac{4 \\, mol \\, Al}{3 \\, mol \\, O_2} = \\frac{1 \\, mol \\, Al}{x \\, mol \\, O_2}$</p>\n\n<p>Solving for $x$, we find:</p>\n\n<p>$x = \\frac{3 \\, mol \\, O_2}{4 \\, mol \\, Al} = \\frac{3}{4} \\, mol \\, O_2$</li></p>\n\n<li>To find out the mass of oxygen that will react, we use the molar mass of oxygen:\n\n<p>$mass \\, O_2 = n_{O_2} \\times \\text{molar mass of }\\, O_2 = \\frac{3}{4} \\, mol \\times 32 \\, g/mol = 24 \\, g$</li></p>\n\n</ul>\n\n<p>Therefore, 27 g of aluminum will react completely with 24 g of oxygen. The correct answer is Option D.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A compound was found to contain nitrogen and oxygen in the ratio 28 gm and 80 gm respectively. The formula of compound is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "NO"
+        },
+        {
+          "key": "B",
+          "value": "N<sub>2</sub>O<sub>3</sub>"
+        },
+        {
+          "key": "C",
+          "value": "N<sub>2</sub>O<sub>5</sub>"
+        },
+        {
+          "key": "D",
+          "value": "N<sub>2</sub>O<sub>4</sub>"
+        }
+      ],
+      "answer": "C",
+      "explanation": "<p>To determine the formula of the compound, we first need to understand the concept of empirical formula. The empirical formula represents the simplest whole-number ratio of atoms of each element in a compound. Given that the compound contains nitrogen (N) and oxygen (O) in a ratio of 28 g of nitrogen to 80 g of oxygen, we can use the following steps to find the empirical formula:</p>\n\n<p>Step 1: Convert the masses of nitrogen and oxygen to moles using their atomic masses. The atomic mass of nitrogen (N) is approximately 14 g/mol, and the atomic mass of oxygen (O) is approximately 16 g/mol.</p>\n\n<p>$$ \\text{Moles of N} = \\frac{28 \\, \\text{g}}{14 \\, \\text{g/mol}} = 2 \\, \\text{moles} $$</p>\n\n<p>$$ \\text{Moles of O} = \\frac{80 \\, \\text{g}}{16 \\, \\text{g/mol}} = 5 \\, \\text{moles} $$</p>\n\n<p>Step 2: Determine the simplest whole-number ratio of the moles of nitrogen to the moles of oxygen by dividing both by the smallest number of moles:</p>\n\n<p>$$ \\text{Ratio of N : O} = 2 : 5 $$</p>\n\n<p>This ratio suggests that for every 2 moles of nitrogen, there are 5 moles of oxygen. Thus, the empirical formula of the compound can be represented as $N_2O_5$.</p>\n\n<p>Therefore, the correct option is <strong>Option C: $N_2O_5$</strong>.</p>"
+    }
+  ]
+}

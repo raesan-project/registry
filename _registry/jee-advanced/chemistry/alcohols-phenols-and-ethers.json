@@ -1,0 +1,31 @@
+{
+  "_index": {
+    "name": "Alcohols, Phenols and Ethers"
+  },
+  "_children": [
+    {
+      "_type": "single_mcq",
+      "body": "<p>The compound that does NOT liberate CO<sub>2</sub>, on treatment with aqueous sodium bicarbonate solution, is</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "Benzoic acid"
+        },
+        {
+          "key": "B",
+          "value": "Benzenesulphonic acid"
+        },
+        {
+          "key": "C",
+          "value": "Salicylic acid"
+        },
+        {
+          "key": "D",
+          "value": "Carbolic acid (Phenol)"
+        }
+      ],
+      "answer": "D",
+      "explanation": "<p>Comparatively phenol is a weaker acidic than carbonic acid (H<sub>2</sub>CO<sub>3</sub>), and hence does not liberate CO<sub>2</sub> on treatment with aqueous NaHCO<sub>3</sub> solution. The rest are more acidic than H<sub>2</sub>CO<sub>3</sub>, and so liberate CO<sub>2</sub>.</p>"
+    }
+  ]
+}

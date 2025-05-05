@@ -1,0 +1,895 @@
+{
+  "_index": {
+    "name": "Respiration in Plants"
+  },
+  "_children": [
+    {
+      "_type": "single_mcq",
+      "body": "<p>Match List-I with List-II:</p>\n<p><style type=\"text/css\">\n.tg  {border-collapse:collapse;border-spacing:0;}\n.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}\n.tg .tg-7btt{border-color:inherit;font-weight:bold;text-align:center;vertical-align:top}\n.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}\n</style>\n<table class=\"tg\" style=\"undefined;table-layout: fixed; width: 746px\"><colgroup>\n<col style=\"width: 78px\">\n<col style=\"width: 262px\">\n<col style=\"width: 83px\">\n<col style=\"width: 323px\">\n</colgroup>\n<thead>\n  <tr>\n    <th class=\"tg-7btt\"></th>\n    <th class=\"tg-7btt\">List - I</th>\n    <th class=\"tg-7btt\"></th>\n    <th class=\"tg-7btt\">List - II</th>\n  </tr></thead>\n<tbody>\n  <tr>\n    <td class=\"tg-c3ow\">(A)</td>\n    <td class=\"tg-0pky\">ETS Complex I</td>\n    <td class=\"tg-c3ow\">(I)</td>\n    <td class=\"tg-0pky\">NADH Dehydrogenase</td>\n  </tr>\n  <tr>\n    <td class=\"tg-c3ow\">(B)</td>\n    <td class=\"tg-0pky\">ETS Complex II</td>\n    <td class=\"tg-c3ow\">(II)</td>\n    <td class=\"tg-0pky\">Cytochrome bC$$_1$$</td>\n  </tr>\n  <tr>\n    <td class=\"tg-c3ow\">(C)</td>\n    <td class=\"tg-0pky\">ETS Complex III</td>\n    <td class=\"tg-c3ow\">(III)</td>\n    <td class=\"tg-0pky\">Cytochrome C oxidase</td>\n  </tr>\n  <tr>\n    <td class=\"tg-c3ow\">(D)</td>\n    <td class=\"tg-0pky\">ETS Complex IV</td>\n    <td class=\"tg-c3ow\">(IV)</td>\n    <td class=\"tg-0pky\">Succinate Dehydrogenase</td>\n  </tr>\n</tbody>\n</table></p>\n<p>Choose the correct answer from the options given below :</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "A-IV, B-I, C-III, D-II\n"
+        },
+        {
+          "key": "B",
+          "value": "A-I, B-IV, C-II, D-III\n"
+        },
+        {
+          "key": "C",
+          "value": "A-III, B-I, C-IV, D-II\n"
+        },
+        {
+          "key": "D",
+          "value": "A-I, B-II, C-IV, D-III"
+        }
+      ],
+      "answer": "B",
+      "explanation": "<p>The correct answer is <strong>Option B: A-I, B-IV, C-II, D-III</strong>.</p>\n\n<p>Here's why:</p>\n\n<p>The Electron Transport System (ETS) in cellular respiration involves a series of protein complexes embedded in the inner mitochondrial membrane. Each complex plays a specific role in transferring electrons and pumping protons across the membrane, generating a proton gradient that drives ATP synthesis.</p>\n\n<p>Let's break down the matching:</p>\n\n<ol>\n\n<li><strong>ETS Complex I (NADH Dehydrogenase):</strong> This complex is responsible for accepting electrons from NADH, a reduced electron carrier generated in glycolysis and the Krebs cycle. It then pumps protons into the intermembrane space.</li>\n\n<li><strong>ETS Complex II (Succinate Dehydrogenase):</strong> This complex is directly involved in the Krebs cycle, accepting electrons from succinate and transferring them to the electron transport chain. It does not pump protons.</li>\n\n<li><strong>ETS Complex III (Cytochrome bC$$_1$$):</strong> This complex receives electrons from Complex I and II and passes them to cytochrome c. It also pumps protons across the membrane.</li>\n\n<li><strong>ETS Complex IV (Cytochrome C Oxidase):</strong> This complex is the final electron acceptor in the chain, receiving electrons from cytochrome c and transferring them to molecular oxygen (O$$_2$$) to form water (H$$_2$$O). It also pumps protons.</li>\n\n</ol>\n\n<p>Therefore, the correct match is:</p>\n\n<ul>\n\n<li>(A) ETS Complex I - (I) NADH Dehydrogenase</li>\n\n<li>(B) ETS Complex II - (IV) Succinate Dehydrogenase</li>\n\n<li>(C) ETS Complex III - (II) Cytochrome bC$$_1$$</li>\n\n<li>(D) ETS Complex IV - (III) Cytochrome C oxidase</li>\n\n</ul>\n\n<p></p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Which of the following are correct about cellular respiration?</p>\n<p>A. Cellular respiration is the breaking of C-C bonds of complex organic molecules by oxidation.</p>\n<p>B. The entire cellular respiration takes place in Mitochondria.</p>\n<p>C. Fermentation takes place under anaerobic condition in germinating seeds.</p>\n<p>D. The fate of pyruvate formed during glycolysis depends on the type of organism also.</p>\n<p>E. Water is formed during respiration as a result of O$$_2$$ accepting electrons and getting reduced.</p>\n<p>Choose the correct answer from the options given below :</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "A, C, D, E only\n"
+        },
+        {
+          "key": "B",
+          "value": "A, B, E only\n"
+        },
+        {
+          "key": "C",
+          "value": "A, B, C, E only\n"
+        },
+        {
+          "key": "D",
+          "value": "B, C, D, E only"
+        }
+      ],
+      "answer": "A",
+      "explanation": "<p>To determine the correct statements about cellular respiration, let's analyze each statement one by one:</p>\n\n<p><strong>A. Cellular respiration is the breaking of C-C bonds of complex organic molecules by oxidation.</strong><br>\n\n<p>This statement is correct. Cellular respiration involves the oxidation of organic molecules to break the carbon-carbon (C-C) bonds and release energy.</p></p>\n\n<p><strong>B. The entire cellular respiration takes place in Mitochondria.</strong><br>\n\n<p>This statement is incorrect. While the majority of cellular respiration (Krebs cycle and oxidative phosphorylation) occurs in the mitochondria, glycolysis (the first step) takes place in the cytoplasm.</p></p>\n\n<p><strong>C. Fermentation takes place under anaerobic condition in germinating seeds.</strong><br>\n\n<p>This statement is correct. Fermentation is an anaerobic process that converts sugars to acids, gases, or alcohol, and it can occur in germinating seeds when oxygen is scarce.</p></p>\n\n<p><strong>D. The fate of pyruvate formed during glycolysis depends on the type of organism also.</strong><br>\n\n<p>This statement is correct. The fate of pyruvate can vary depending on the type of organism and the presence of oxygen. For example, in aerobic conditions, pyruvate enters the mitochondria for the Krebs cycle, whereas in anaerobic conditions, it can be converted to lactate or ethanol, depending on the organism.</p></p>\n\n<p><strong>E. Water is formed during respiration as a result of O$$_2$$ accepting electrons and getting reduced.</strong><br>\n\n<p>This statement is correct. During the electron transport chain in oxidative phosphorylation, oxygen ($$O_2$$) acts as the final electron acceptor and gets reduced to form water ($$H_2O$$).</p></p>\n\n<p>Based on the analysis, the correct statements are A, C, D, and E. Hence, the correct option is:</p>\n\n<p><strong>Option A</strong>: A, C, D, E only</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Match List I with List II</p>\n<p><style type=\"text/css\">\n.tg  {border-collapse:collapse;border-spacing:0;}\n.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}\n.tg .tg-7btt{border-color:inherit;font-weight:bold;text-align:center;vertical-align:top}\n.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}\n</style>\n<table class=\"tg\" style=\"undefined;table-layout: fixed; width: 555px\">\n<colgroup>\n<col style=\"width: 71px\">\n<col style=\"width: 195px\">\n<col style=\"width: 74px\">\n<col style=\"width: 215px\">\n</colgroup>\n<thead>\n  <tr>\n    <th class=\"tg-7btt\"></th>\n    <th class=\"tg-7btt\">List - I</th>\n    <th class=\"tg-7btt\"></th>\n    <th class=\"tg-7btt\">List - II</th>\n  </tr>\n</thead>\n<tbody>\n  <tr>\n    <td class=\"tg-c3ow\">A.</td>\n    <td class=\"tg-0pky\">Citric acid cycle</td>\n    <td class=\"tg-c3ow\">I.</td>\n    <td class=\"tg-0pky\">Cytoplasm</td>\n  </tr>\n  <tr>\n    <td class=\"tg-c3ow\">B.</td>\n    <td class=\"tg-0pky\">Glycolysis</td>\n    <td class=\"tg-c3ow\">II.</td>\n    <td class=\"tg-0pky\">Mitochondrial matrix</td>\n  </tr>\n  <tr>\n    <td class=\"tg-c3ow\">C.</td>\n    <td class=\"tg-0pky\">Electron transport system</td>\n    <td class=\"tg-c3ow\">III.</td>\n    <td class=\"tg-0pky\">Intermembrane space of mitochondria</td>\n  </tr>\n  <tr>\n    <td class=\"tg-c3ow\">D.</td>\n    <td class=\"tg-0pky\">Proton gradient</td>\n    <td class=\"tg-c3ow\">IV.</td>\n    <td class=\"tg-0pky\">Inner mitochondrial membrane</td>\n  </tr>\n</tbody>\n</table></p>\n<p>Choose the correct answer from the options given below:</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "A-I, B-II, C-III, D-IV\n"
+        },
+        {
+          "key": "B",
+          "value": "A-II, B-I, C-IV, D-III\n"
+        },
+        {
+          "key": "C",
+          "value": "A-III, B-IV, C-I, D-II\n"
+        },
+        {
+          "key": "D",
+          "value": "A-IV, B-III, C-II, D-I\n"
+        }
+      ],
+      "answer": "B",
+      "explanation": "<p>To correctly match the given processes in List I with their locations in List II, let's go through each item:</p>\n\n<ul>\n\n<li><strong>Citric Acid Cycle</strong> (A) occurs in the <strong>mitochondrial matrix</strong>. This process, also known as the Krebs cycle, takes place in the matrix of mitochondria where enzymes for the cycle are located.</li>\n\n<br/><li><strong>Glycolysis</strong> (B) takes place in the <strong>cytoplasm</strong> of the cell. It is the process of breaking down glucose into pyruvate, generating small amounts of energy (ATP) and does not involve the mitochondria.</li>\n\n<br/><li><strong>Electron Transport System</strong> (C) occurs at the <strong>inner mitochondrial membrane</strong>. This is where the electron transport chains are located and where ATP is produced by oxidative phosphorylation.</li>\n\n<br/><li><strong>Proton Gradient</strong> (D) is involved in the creation of ATP and is formed across the <strong>intermembrane space of the mitochondria</strong>. Protons (H+ ions) are pumped from the mitochondrial matrix to the intermembrane space, creating a gradient that drives ATP synthesis.</li>\n\n</ul>\n\n<p>Now using the above information, let's match these with the correct options:</p>\n\n<ul>\n\n<li>A. Citric Acid Cycle - II. Mitochondrial Matrix</li>\n\n<li>B. Glycolysis - I. Cytoplasm</li>\n\n<li>C. Electron Transport System - IV. Inner Mitochondrial Membrane</li>\n\n<li>D. Proton Gradient - III. Intermembrane Space of Mitochondria</li>\n\n</ul>\n\n<p>Comparing these to the options provided:</p>\n\n<ul>\n\n<li>Option A: A-I, B-II, C-III, D-IV - Incorrect</li>\n\n<li>Option B: A-II, B-I, C-IV, D-III - <strong>Correct</strong></li>\n\n<li>Option C: A-III, B-IV, C-I, D-II - Incorrect</li>\n\n<li>Option D: A-IV, B-III, C-II, D-I - Incorrect</li>\n\n</ul>\n\n<p><strong>Therefore, Option B is the correct match:</strong></p>\n\n<p>A-II, B-I, C-IV, D-III</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Identify the step in tricarboxylic acid cycle, which does not involve oxidation of substrate.</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "Malic acid $$\\rightarrow$$ Oxaloacetic acid\n"
+        },
+        {
+          "key": "B",
+          "value": "Succinic acid $$\\rightarrow$$ Malic acid\n"
+        },
+        {
+          "key": "C",
+          "value": "Succinyl-CoA $$\\rightarrow$$ Succinic acid\n"
+        },
+        {
+          "key": "D",
+          "value": "Isocitrate $$\\rightarrow \\alpha$$-ketoglutaric acid"
+        }
+      ],
+      "answer": "C",
+      "explanation": "<p>The tricarboxylic acid cycle (TCA cycle), also known as the Krebs cycle or citric acid cycle, is a series of enzyme-catalyzed chemical reactions that form a key part of aerobic respiration in cells. This cycle is primarily used to generate high-energy electron carriers and carbon dioxide. Most of the steps in the TCA cycle involve the oxidation of the substrate, where electrons are transferred to NAD+ to form NADH or to FAD to form FADH2.</p>\n\n<p>Each option provided corresponds to a step in the TCA cycle:</p>\n\n<ul>\n\n<li><strong>Option A:</strong> Malic acid $$\\rightarrow$$ Oxaloacetic acid involves the enzyme malate dehydrogenase, where malate is oxidized to oxaloacetate. NAD+ is reduced to NADH in this process, indicating an oxidation reaction.</li>\n\n<br/><li><strong>Option B:</strong> Succinic acid $$\\rightarrow$$ Malic acid is not a direct step in the TCA cycle. Instead, succinic acid is first converted to fumarate by succinate dehydrogenase, involving the reduction of FAD to FADH2, then fumarate is hydrated to malate by fumarase. Both involve transformations but particularly the conversion of succinate to fumarate involves oxidation.</li>\n\n<br/><li><strong>Option C:</strong> Succinyl-CoA $$\\rightarrow$$ Succinic acid involves the conversion of Succinyl-CoA to Succinic acid catalyzed by succinyl-CoA synthetase. In this process, a high-energy thioester bond in Succinyl-CoA is broken to release a molecule of coenzyme A (CoA) and produce succinate. This step does not involve the transfer of electrons or the reduction of NAD+ or FAD; rather, it's coupled with the phosphorylation of GDP to GTP (or ADP to ATP in some organisms), which is a substrate-level phosphorylation.</li>\n\n<br/><li><strong>Option D:</strong> Isocitrate $$\\rightarrow \\alpha$$-ketoglutaric acid involves the enzyme isocitrate dehydrogenase that catalyzes the oxidative decarboxylation of isocitrate into alpha-ketoglutarate. NAD+ is reduced to NADH, showing that this step involves oxidation.</li>\n\n</ul>\n\n<p><strong>Therefore, the correct answer is Option C (Succinyl-CoA $$\\rightarrow$$ Succinic acid)</strong>. This is the step in the TCA cycle that does not involve the oxidation of the substrate but instead involves substrate-level phosphorylation, which is associated with the energy conversion of GTP formation rather than an electron transfer process.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>How many times decarboxylation occurs during each TCA cycle?</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "Thrice"
+        },
+        {
+          "key": "B",
+          "value": "Many"
+        },
+        {
+          "key": "C",
+          "value": "Once"
+        },
+        {
+          "key": "D",
+          "value": "Twice"
+        }
+      ],
+      "answer": "D",
+      "explanation": "<p>The tricarboxylic acid (TCA) cycle, also known as the citric acid cycle or Krebs cycle, involves the oxidative decarboxylation of malate to oxaloacetate and of isocitrate to alpha-ketoglutarate. However, the latter reaction is followed by another decarboxylation when alpha-ketoglutarate is converted to succinyl-CoA. So in total, there are two decarboxylation reactions per TCA cycle.</p>\n<p>So, the correct answer is Option D : Twice.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Fatty acids are connected with the respiratory pathway through :</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "Acetyl CoA"
+        },
+        {
+          "key": "B",
+          "value": "$$\\alpha$$-Ketoglutaric acid"
+        },
+        {
+          "key": "C",
+          "value": "Dihydroxy acetone phosphate"
+        },
+        {
+          "key": "D",
+          "value": "Pyruvic acid"
+        }
+      ],
+      "answer": "A",
+      "explanation": "<p>Yes, that's correct. Fatty acids are broken down through a process called beta-oxidation, which occurs in the mitochondria. During beta-oxidation, fatty acids are broken down two carbon atoms at a time, resulting in the formation of acetyl CoA. This acetyl CoA can then enter the Krebs cycle (also known as the citric acid cycle or TCA cycle) to be further oxidized, producing NADH and FADH2, which can be used in the electron transport chain to produce ATP, the cell's main form of energy.</p>\n<p>Hence, fatty acids are connected with the respiratory pathway through Acetyl CoA. So, the correct answer is Option A : Acetyl CoA.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Given below are two statements : One is labelled as Assertion A and the other is labelled as Reason R :</p>\n<p>Assertion A : ATP is used at two steps in glycolysis.</p>\n<p>Reason R : First ATP is used in converting glucose into glucose-6-phosphate and second ATP is used in \nconversion of fructose-6-phosphate into fructose-1, 6-diphosphate.</p>\n<p>In the light of the above statements, choose the correct answer from the options given below :</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "Both A and R are true but R is NOT the correct explanation of A."
+        },
+        {
+          "key": "B",
+          "value": "A is true but R is false."
+        },
+        {
+          "key": "C",
+          "value": "A is false but R is true."
+        },
+        {
+          "key": "D",
+          "value": "Both A and R are true and R is the correct explanation of A."
+        }
+      ],
+      "answer": "D",
+      "explanation": "The process of glycolysis involves the breakdown of glucose into two molecules of pyruvate. This metabolic pathway is divided into two parts: the energy investment phase and the energy payoff phase.\n\n<br/><br/>In the energy investment phase, two molecules of ATP are indeed used. The first ATP is used to convert glucose into glucose-6-phosphate, and the second ATP is used to convert fructose-6-phosphate into fructose-1, 6-diphosphate. These steps are necessary to prepare the glucose molecule for the energy payoff phase, where ATP will be generated.\n\n<br/><br/>So, both Assertion A and Reason R are true, and Reason R correctly explains Assertion A.\n\n<br/><br/>Therefore, the answer is :\n\n<br/><br/>Option D : Both A and R are true and R is the correct explanation of A."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Which of the following combinations is required for chemiosmosis?</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "Membrane, proton pump, proton gradient, NADP synthase"
+        },
+        {
+          "key": "B",
+          "value": "Proton pump, electron gradient, ATP synthase"
+        },
+        {
+          "key": "C",
+          "value": "Proton pump, electron gradient, NADP synthase"
+        },
+        {
+          "key": "D",
+          "value": "Membrane, proton pump, proton gradient, ATP synthase"
+        }
+      ],
+      "answer": "D",
+      "explanation": "<p>Chemiosmosis is a process by which ATP (adenosine triphosphate) is produced in the cell. It relies on a concentration gradient of protons (H+ ions) across a membrane. The proton gradient is created by a proton pump. As protons flow back across the membrane, down their concentration gradient, they pass through a protein complex called ATP synthase, which uses the energy of the proton flow to produce ATP.</p>\n<p>So, the correct answer is :</p>\n<p>Option D : Membrane, proton pump, proton gradient, ATP synthase</p>\n"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Match List I with List II:</p>\n<p><style type=\"text/css\">\n.tg  {border-collapse:collapse;border-spacing:0;}\n.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}\n.tg .tg-7btt{border-color:inherit;font-weight:bold;text-align:center;vertical-align:top}\n.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}\n</style>\n<table class=\"tg\" style=\"undefined;table-layout: fixed; width: 447px\">\n<colgroup>\n<col style=\"width: 49px\">\n<col style=\"width: 154px\">\n<col style=\"width: 54px\">\n<col style=\"width: 190px\">\n</colgroup>\n<thead>\n  <tr>\n    <th class=\"tg-7btt\"></th>\n    <th class=\"tg-7btt\">List I</th>\n    <th class=\"tg-7btt\"></th>\n    <th class=\"tg-7btt\">List II</th>\n  </tr>\n</thead>\n<tbody>\n  <tr>\n    <td class=\"tg-c3ow\">(A)</td>\n    <td class=\"tg-0pky\">Oxidative decarboxylation</td>\n    <td class=\"tg-c3ow\">(I)</td>\n    <td class=\"tg-0pky\">Citrate synthase</td>\n  </tr>\n  <tr>\n    <td class=\"tg-c3ow\">(B)</td>\n    <td class=\"tg-0pky\">Glycolysis</td>\n    <td class=\"tg-c3ow\">(II)</td>\n    <td class=\"tg-0pky\">Pyruvate dehydrogenase</td>\n  </tr>\n  <tr>\n    <td class=\"tg-c3ow\">(C)</td>\n    <td class=\"tg-0pky\">Oxidative phosphorylation</td>\n    <td class=\"tg-c3ow\">(III)</td>\n    <td class=\"tg-0pky\">Electron transport system</td>\n  </tr>\n  <tr>\n    <td class=\"tg-c3ow\">(D)</td>\n    <td class=\"tg-0pky\">Tricarboxylic acid cycle</td>\n    <td class=\"tg-c3ow\">(IV)</td>\n    <td class=\"tg-0pky\">EMP pathway</td>\n  </tr>\n</tbody>\n</table></p>\n<p>Choose the correct answer from the options given below :</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "A – II, B – IV, C – I, D – III"
+        },
+        {
+          "key": "B",
+          "value": "A – III, B – I, C – II, D – IV"
+        },
+        {
+          "key": "C",
+          "value": "A – II, B – IV, C – III, D – I"
+        },
+        {
+          "key": "D",
+          "value": "A – III, B – IV, C – II, D – I"
+        }
+      ],
+      "answer": "C",
+      "explanation": "<p>Pyruvate, which is formed by the glycolytic catabolism of carbohydrates in the cytosol, after it enters \nmitochondrial matrix undergoes oxidative decarboxylation by a complex set of reactions catalyzed by pyruvate dehydrogenase.<p>\n<p>The scheme of glycolysis was given by Gustav Embden, Otto Meyrhof and J. Parnas, and is often \nreferred to as the EMP pathway.</p>\n<p>In electron transport system, the energy of oxidation-reduction is utilized for the production of proton \ngradient required for phosphorylation, thus, this process is also called oxidative phosphorylation.</p>\n<p>The TCA (tricarboxylic acid cycle) starts with the condensation of acetyl group with oxaloacetic acid \n(OAA) and water to yield citric acid. The reaction is catalysed by the enzyme citrate synthase. Thus, \noption (C) is correct.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Melonate inhibits the growth of pathogenic bacteria by inhibiting the activity of</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "Amylase"
+        },
+        {
+          "key": "B",
+          "value": "Lipase"
+        },
+        {
+          "key": "C",
+          "value": "Dinitrogenase"
+        },
+        {
+          "key": "D",
+          "value": "Succinic dehydrogenase"
+        }
+      ],
+      "answer": "D",
+      "explanation": "<p>Melonate is a known inhibitor of the enzyme succinic dehydrogenase, which is involved in the citric acid cycle (also known as the Krebs cycle or TCA cycle), an essential metabolic pathway in many organisms, including bacteria. </p>\n<p>By inhibiting succinic dehydrogenase, melonate can disrupt the normal metabolism of pathogenic bacteria and inhibit their growth.</p>\n<p>So, the correct answer is :</p>\n<p>Option D : Succinic dehydrogenase</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>What is the net gain of ATP when each molecule of glucose is converted to two molecules of pyruvic acid?</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "Four"
+        },
+        {
+          "key": "B",
+          "value": "Six"
+        },
+        {
+          "key": "C",
+          "value": "Two"
+        },
+        {
+          "key": "D",
+          "value": "Eight"
+        }
+      ],
+      "answer": "C",
+      "explanation": "<p>During glycolysis, total 4 ATPs are produced from one glucose molecule with a net gain of 2 ATPs.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>What amount of energy is released from glucose during lactic acid fermentation?</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "Approximately 15%"
+        },
+        {
+          "key": "B",
+          "value": "More than 18%"
+        },
+        {
+          "key": "C",
+          "value": "About 10%"
+        },
+        {
+          "key": "D",
+          "value": "Less than 7%"
+        }
+      ],
+      "answer": "D",
+      "explanation": "<p>Less than seven percent of the energy in glucose is released during lactic acid fermentation and not all of it is trapped as high energy bonds of ATP.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Which of the following statements is incorrect?",
+      "options": [
+        {
+          "key": "A",
+          "value": "Oxidation-reduction reactions produce proton gradient in respiration"
+        },
+        {
+          "key": "B",
+          "value": "During aerobic respiration, role of oxygen is limited to the terminal stage."
+        },
+        {
+          "key": "C",
+          "value": "In ETC (Electron Transport Chain), one molecule of NADH + H<sup>+</sup> gives rise to 2 ATP molecules, and one FADH<sub>2</sub> gives rise to 3 ATP molecules"
+        },
+        {
+          "key": "D",
+          "value": "ATP is synthesized through complex V"
+        }
+      ],
+      "answer": "C",
+      "explanation": "$$\\bullet$$ During respiration, process of ATP synthesis is explained by chemiosmotic model. it says that a proton gradient is required for ATP synthesis that is established by oxidation-reduction reactions.<br><br>$$\\bullet$$  In ETC, one NADH + H<sup>+</sup> produces 3 ATP while one FADH<sub>2</sub> produces 2 ATP molecules.<br/> NADH and FADH<sub>2</sub>\nare two different\ntypes of electron donors. They differ in\nthe ways they feed electron during\nelectron transport chain. NADH feeds\nits electrons into the electron transport\nchain at the beginning (Complex I).\nFADH<sub>2</sub>\nfeeds into the electron\ntransport chain at Complex II (at a lower\nenergy level down the chain). The high\nenergy electrons from NADH have\nsufficient energy to result in 3 ATP\nwhereas the lower energy electrons in\nFADH<sub>2</sub>\nhave energy for 2 ATP production.\n<br><br>$$\\bullet$$  ATP is synthesized via complex V.<br><br>$$\\bullet$$  In ETS, oxygen acts as terminal electron acceptor."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Conversion of glucose to glucose-6 phosphate, the first irreversible reaction of glycolysis, is catalyzed by",
+      "options": [
+        {
+          "key": "A",
+          "value": "Enolase"
+        },
+        {
+          "key": "B",
+          "value": "Phosphofructokinase"
+        },
+        {
+          "key": "C",
+          "value": "Aldolase"
+        },
+        {
+          "key": "D",
+          "value": "Hexokinase"
+        }
+      ],
+      "answer": "D",
+      "explanation": "Hexokinase catalyse the conversion of Glucose to Glucose-6 phosphate. It is the first step of activation phase of glycolysis."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Respiratory Quotient (RQ) value of tripalmitin is :",
+      "options": [
+        {
+          "key": "A",
+          "value": "0.07"
+        },
+        {
+          "key": "B",
+          "value": "0.09"
+        },
+        {
+          "key": "C",
+          "value": "0.9"
+        },
+        {
+          "key": "D",
+          "value": "0.7"
+        }
+      ],
+      "answer": "D",
+      "explanation": "The respiratory quotient (RQ) is the ratio of CO<sub>2</sub> produced to O<sub>2</sub> consumed while food is being metabolized.\n<br><br>RQ = <span style=\"display: inline-block;vertical-align: middle;\">\n     <div style=\"text-align: center;border-bottom: 1px solid black;\"> CO<sub>2</sub> eliminated</div>\n     <div style=\"text-align: center;\">O<sub>2</sub> consumed</div>\n</span>\n<br><br><b>Respiratory quotient of tripalmitin is : </b>\n<br><br>2(C<sub>51</sub>H<sub>98</sub>O<sub>6</sub>) + 145O<sub>2</sub> $$ \\to $$ 102CO<sub>2</sub> + 98H<sub>2</sub>O + Energy\n<br><br>RQ = $${{102} \\over {145}} = 0.7$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Which of these statements is incorrect?",
+      "options": [
+        {
+          "key": "A",
+          "value": "Glycolysis operates as long as it is supplied\nwith NAD that can pick up hydrogen atoms.\n"
+        },
+        {
+          "key": "B",
+          "value": "Enzymes of TCA cycle are present in\nmitochondrial matrix.\n"
+        },
+        {
+          "key": "C",
+          "value": "Oxidative phosphorylation takes place in\nouter mitochondrial membrane. "
+        },
+        {
+          "key": "D",
+          "value": "Glycolysis occurs in cytosol.\n"
+        }
+      ],
+      "answer": "C",
+      "explanation": "Oxidative phosphorylation  takes place in inner mitochondrial membrane via F<sub>0</sub> –  F<sub>1</sub> particles."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "What is the role of NAD<sup>+</sup> in cellular respiration?",
+      "options": [
+        {
+          "key": "A",
+          "value": "It is the final electron acceptor for anaerobic\nrespiration."
+        },
+        {
+          "key": "B",
+          "value": "It functions as an enzyme."
+        },
+        {
+          "key": "C",
+          "value": "It functions as an electron carrier.\n"
+        },
+        {
+          "key": "D",
+          "value": "It is a nucleotide source for ATP synthesis."
+        }
+      ],
+      "answer": "C",
+      "explanation": "NAD<sup>+</sup> act as an electron carrier in cellular\nrespiration."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Which statement is wrong for Krebs' cycle? ",
+      "options": [
+        {
+          "key": "A",
+          "value": "There is one point in the cycle where FAD<sup>+</sup> is reduced to FADH<sub>2</sub>."
+        },
+        {
+          "key": "B",
+          "value": "During conversion of succinyl CoA to succinic acid,  a molecule of GTP is synthesised."
+        },
+        {
+          "key": "C",
+          "value": "The cyclic starts with condensation of acetyl group (acetyl CoA) with pyruvic acid to yield citric acid. "
+        },
+        {
+          "key": "D",
+          "value": "There are three points in the cycle where NAD<sup>+</sup> is reduced to NADH + H<sup>+</sup>. "
+        }
+      ],
+      "answer": "C",
+      "explanation": "Krebs cycle begins with condensation of\nacetyl CoA (2C) with oxaloacetic acid (4C)\nto form citric acid (6C)."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Oxidative phosphorylation is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "formation of ATP by transfer of phosphate group from a substrate to ADP"
+        },
+        {
+          "key": "B",
+          "value": "oxidation of phosphate group in ATP"
+        },
+        {
+          "key": "C",
+          "value": "addition of phosphate group to ATP"
+        },
+        {
+          "key": "D",
+          "value": "formation of ATP by energy released from electrons removed during substrate oxidation."
+        }
+      ],
+      "answer": "D",
+      "explanation": "Oxidative phosphorylation is the synthesis\nof energy rich ATP molecules with the help of energy\nliberated during oxidation of reduced co-enzymes\n(NADH, FADH<sub>2</sub>) produced in respiration.\nThe enzyme required for this synthesis is called ATP\nsynthase. It is located in F<sub>1</sub>\n or head piece of F<sub>0</sub> – F<sub>1</sub> or\nelementary particles present in the inner mitochondrial\nmembrane. <br><br>F<sub>1</sub>\n particle is capable of ATP synthesis.\nATP synthase becomes active in ATP formation only\nwhen there is a proton gradient having higher\nconcentration of H<sup>+</sup>\n or protons on the F<sub>0</sub>\n side as\ncompared to F<sub>1</sub>\n side. This higher concentration creates\nan electric potential across the mitochondrial\nmembrane. The proton gradient and membrane\nelectric potential together form proton motive force\n(PMF). The flow of protons through the F<sub>0</sub>\n channel\nwhich induces F<sub>1</sub>\n particle to function as ATP synthase.\nThe energy of the proton gradient is used in attaching\na phosphate radicle to ADP by high-energy bond. This\nproduces ATP.\n"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Which of the following biomolecules is common to respiration-mediated breakdown of fats, carbohydrates and proteins?",
+      "options": [
+        {
+          "key": "A",
+          "value": "Glucose-6-phosphate"
+        },
+        {
+          "key": "B",
+          "value": "Fructose 1, 6-bisphosphate"
+        },
+        {
+          "key": "C",
+          "value": "Pyruvic acid"
+        },
+        {
+          "key": "D",
+          "value": "Acetyl CoA"
+        }
+      ],
+      "answer": "D",
+      "explanation": "Carbohydrates are usually first converted\ninto glucose before they are used for respiration. Fats\nare broken down into glycerol and fatty acids first. If\nfatty acids were to be respired they would first be\ndegraded to acetyl CoA and enter the pathway.\nGlycerol would enter the pathway after being\nconverted to 3-phosphoglyceraldehyde (PGAL). The\nproteins are degraded by proteases to individual amino\nacids (after deamination) and depending on their\nstructure enter the pathway within the Krebs’ cycle\nor as pyruvate or acetyl CoA. Thus, acetyl CoA is the\ncommon metabolite of all the three (carbohydrates,\nproteins and fats).\n"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Cytochromes are found in ",
+      "options": [
+        {
+          "key": "A",
+          "value": "cristae of mitochondria"
+        },
+        {
+          "key": "B",
+          "value": "lysosomes "
+        },
+        {
+          "key": "C",
+          "value": "matrix of mitochondria"
+        },
+        {
+          "key": "D",
+          "value": "outer wall of mitochondria."
+        }
+      ],
+      "answer": "A",
+      "explanation": "Cytochromes are fond in mitochondria.\nThese are located on the inner membrane\nof mitochondria and are related with\nphosphorylation."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "In which one of the following processes CO<sub>2</sub> is not released?",
+      "options": [
+        {
+          "key": "A",
+          "value": "Aerobic respiration in plants"
+        },
+        {
+          "key": "B",
+          "value": "Areobic respiration in animals"
+        },
+        {
+          "key": "C",
+          "value": "Alcoholic fermentation"
+        },
+        {
+          "key": "D",
+          "value": "Lactic fermentation"
+        }
+      ],
+      "answer": "D",
+      "explanation": "Lactic acid fermentation : It occurs in\nlactic acid bacteria (Lactobacillus) and muscles\n(Human). Pyruvic acid produced in glycolysis\nis reduced by NADH<sub>2</sub> to form lactic acid\nwithout producing carbon dioxide.\n$$C{H_3}COCOOH{\\rm{ }} + {\\rm{ }}NAD{H_2}{\\rm{ }}\\mathrel{\\mathop{\\kern0pt\\longrightarrow}\n\\limits_{FMN,Z{n^{2 + }}}^{Lactate{\\rm{ }}dehydrogenase}} \\mathop {C{H_3}CHOHCOOH{\\rm{ }} + {\\rm{ }}NAD{\\rm{ }}}\\limits_{Lactic{\\rm{ }}acid} $$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Which of the metabolites is common to respiration-mediated breakdown of fats, carbohydrates and proteins? ",
+      "options": [
+        {
+          "key": "A",
+          "value": "Pyruvic acid "
+        },
+        {
+          "key": "B",
+          "value": "Acetyl CoA"
+        },
+        {
+          "key": "C",
+          "value": "Glucose- 6 - phosphate"
+        },
+        {
+          "key": "D",
+          "value": "Fructose 1, 6 - bisphosphate"
+        }
+      ],
+      "answer": "B",
+      "explanation": "Acetyl CoA is common to respiration\nmediated breakdown of fats, carbohydrates\nand proteins. Fats are broken down to fatty\nacid and glycerol and finally are degraded\nto acetyl Co - A. Protein first degraded by\nproteases to indiviual amino acids which\nare deaminated to pyruric acid and further\ndecarboxylised to acetyl Co- A."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "In mitochondria, protons accumulate in the ",
+      "options": [
+        {
+          "key": "A",
+          "value": "outer membrane"
+        },
+        {
+          "key": "B",
+          "value": "inner membrane"
+        },
+        {
+          "key": "C",
+          "value": "intermembrane space"
+        },
+        {
+          "key": "D",
+          "value": "matrix"
+        }
+      ],
+      "answer": "C",
+      "explanation": "In respiration, protons accumulate in the\nintermembrane space of the mitochondria when\nelectrons move through the ETS.\n"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The energy-releasing metabolic process in which substrate is oxidised without an external electron acceptor is called ",
+      "options": [
+        {
+          "key": "A",
+          "value": "glycolysis"
+        },
+        {
+          "key": "B",
+          "value": "fermentation"
+        },
+        {
+          "key": "C",
+          "value": "aerobic respiration"
+        },
+        {
+          "key": "D",
+          "value": "photorespiration."
+        }
+      ],
+      "answer": "B",
+      "explanation": "Fermentation is the process of deriving\nenergy from the oxidation of organic compounds such\nas carbohydrates and using an endogenous electron\nacceptor not external or exogenous, which is usually\nan organic compound, as opposed to respiration where\nelectrons are donated to an exogenous electron\nacceptor, such as oxygen via an electron transport\nchain."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Aerobic respiratory pathway is appropriately termed",
+      "options": [
+        {
+          "key": "A",
+          "value": "parabolic "
+        },
+        {
+          "key": "B",
+          "value": "amphibolic "
+        },
+        {
+          "key": "C",
+          "value": "anabolic "
+        },
+        {
+          "key": "D",
+          "value": "etabolic."
+        }
+      ],
+      "answer": "B",
+      "explanation": "All energy-releasing pathways whether\naerobic (requiring oxygen) or anaerobic (not\nrequiring oxygen) begin with a pathway\ncalled glycolysis, which occurs in the\ncytoplasm (cytosol). Aerobic respiratory\npathway is thus appropriately termed\namphibolic. Aerobic respiration is the main\nenergy-releasing pathway leading to ATP\nformation. It occurs in the mitochondria.\nAerobic respiration yields thirty-six ATP."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The chemiosmotic coupling hypothesis of oxidative phosphorylation proposes that adenosine triphosphate (ATP) is formed because",
+      "options": [
+        {
+          "key": "A",
+          "value": "a proton gradient forms across the inner membrane"
+        },
+        {
+          "key": "B",
+          "value": "there is a change in the permeability of the inner mitochondrial membrane toward adenosine diphosphate (ADP) "
+        },
+        {
+          "key": "C",
+          "value": "high energy bonds are formed in mitochondrial proteins"
+        },
+        {
+          "key": "D",
+          "value": "ADP is pumped out of the matrix into the intermembrane space."
+        }
+      ],
+      "answer": "A",
+      "explanation": "The chemiosmotic coupling hypothesis of\noxidative phosphorylation proposed by Mitchell,\nexplains the process of ATP formation and states that\nit is linked to development of a proton gradient across\na membrane. ATP synthase, required for ATP synthesis\nis located in F<sub>1</sub>\n particles present in the inner\nmitochondrial membrane and becomes active only\nwhen there is high concentration of proton on F0\n side<sub>\nas compared to F1</sub>\n side. The flow of proton through\nF<sub>0</sub>\n channel induces F<sub>1</sub>\n particle to function as ATP\nsynthase and the energy of proton gradient produces\nATP by attaching a phosphate radical to ADP."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The energy-releasing metabolic process in which substrate is oxidised without an external electron acceptor is called",
+      "options": [
+        {
+          "key": "A",
+          "value": "glycolysis "
+        },
+        {
+          "key": "B",
+          "value": "fermentation"
+        },
+        {
+          "key": "C",
+          "value": "aerobic respiration"
+        },
+        {
+          "key": "D",
+          "value": "photorespiration"
+        }
+      ],
+      "answer": "B",
+      "explanation": "<p>The energy-releasing metabolic process in which the substrate is oxidized without an external electron acceptor is called :</p>\n<p>Option B : Fermentation.</p>\n<p>Fermentation is a metabolic process that occurs in the absence of an external electron acceptor, like oxygen. In fermentation, the organic substrate itself acts as the electron donor and acceptor. This process allows for the partial oxidation of glucose (or other substrates) under anaerobic conditions, resulting in the production of energy in the form of ATP, along with various end products like ethanol or lactic acid, depending on the type of fermentation.</p>\n<p>To clarify the other options :</p>\n<ul>\n<li>Option A : Glycolysis is the process of breaking down glucose into pyruvate, yielding a small amount of energy. It occurs in both aerobic and anaerobic conditions and is not dependent on an external electron acceptor. However, it is not synonymous with fermentation.</li>\n<br/><li>Option C : Aerobic respiration is a metabolic process that requires an external electron acceptor, typically oxygen, for the complete oxidation of substrates like glucose to produce energy.</li>\n<br/><li>Option D : Photorespiration is a process in plants that occurs in light and consumes oxygen while producing carbon dioxide, but it is not primarily an energy-releasing process like fermentation.</li>\n</ul>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "All enzymes of TCA cycle are located in the mitochondrial matrix except one which is located in inner mitochondrial membranes in eukaryotes and in cytosol in prokaryotes. This enzyme is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "isocitrate dehydrogenase"
+        },
+        {
+          "key": "B",
+          "value": "malate dehydrogenase"
+        },
+        {
+          "key": "C",
+          "value": "succinate dehydrogenase"
+        },
+        {
+          "key": "D",
+          "value": "lactate dehydrogenase."
+        }
+      ],
+      "answer": "C",
+      "explanation": "Succinate: ubiquinone oxidoreductase,\nalso known in mitochondria as complex\nII, provides a link between the citric\nacid cycle and the membrane-bound\nelectron-transport system. The membrane\nextrinsic, water-soluble domain, known as\nsuccinate dehydrogenase (SDH), contains\nthe fumarate/succinate active site with a\ncovalently bound FAD group and three\niron-sulfur clusters: [2Fe-2S]<sup>2</sup> +/1+, [4Fe4S]<sup>2</sup> +/1+, and [3Fe-4S]<sup>1</sup> +/0 . The enzyme\ncatalyzes the interconversion of fumarate\nand succinate, and is closely related to\nfumarate reductase."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The overall goal of glycolysis, Krebs' cycle and the electron transport system is the formation of ",
+      "options": [
+        {
+          "key": "A",
+          "value": "ATP in one large oxidation reaction "
+        },
+        {
+          "key": "B",
+          "value": "sugars"
+        },
+        {
+          "key": "C",
+          "value": "nucleic acids"
+        },
+        {
+          "key": "D",
+          "value": "ATP in small stepwise units. "
+        }
+      ],
+      "answer": "D",
+      "explanation": "Respiration is an energy liberating\nenzymatically controlled multistep catabolic process of\nstepwise breakdown of organic substances (hexose\nsugar) inside the living cells. Aerobic respiration includes\nthe 3 major process, glycolysis, Krebs’ cycle and\nelectrons transport chain. The substrate is completely\nbroken down to form CO<sub>2</sub>\n and water. A large amount of\nenergy is released stepwise in the form of ATP."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "How many ATP molecules could maximally be generated from one molecule of glucose, if the complete oxidation of one mole of glucose to CO<sub>2</sub> and H<sub>2</sub>O yields 686 kcal and the useful chemical energy available in the high energy phosphate bond of one mole of ATP is 12 kcal?",
+      "options": [
+        {
+          "key": "A",
+          "value": "1"
+        },
+        {
+          "key": "B",
+          "value": "2"
+        },
+        {
+          "key": "C",
+          "value": "30"
+        },
+        {
+          "key": "D",
+          "value": "57"
+        }
+      ],
+      "answer": "D",
+      "explanation": "12 kcal of energy present in one\nmolecule of ATP &amp; on oxidation of one\nmole of glucose into CO<sub>2</sub> and H<sub>2</sub>O energy\nreleased is 686 kcal. So no. of ATP which\ncan store this energy would be = 57.1 = 57\nATPs."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "During which stage in the complete oxidation of glucose are the greatest number of ATP molecules formed from ADP? ",
+      "options": [
+        {
+          "key": "A",
+          "value": "Glycolysis"
+        },
+        {
+          "key": "B",
+          "value": "Krebs' cycle"
+        },
+        {
+          "key": "C",
+          "value": "Conversion of pyruvic acid to acetyl CoA"
+        },
+        {
+          "key": "D",
+          "value": "Electron transport chain "
+        }
+      ],
+      "answer": "D",
+      "explanation": "ATP molecules from ADP are generated\nin maximum number in electron transport\nchain."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "In glycolysis, during oxidation electrons are removed by",
+      "options": [
+        {
+          "key": "A",
+          "value": "ATP"
+        },
+        {
+          "key": "B",
+          "value": "glyceraldehyde-3-phosphate"
+        },
+        {
+          "key": "C",
+          "value": "NAD<sup>+</sup>"
+        },
+        {
+          "key": "D",
+          "value": "molecular oxygen."
+        }
+      ],
+      "answer": "C",
+      "explanation": "ATP is the energy currency in all cells.\nGlyceraldehyde 3 - phosphate is reduced\nduring glycolysis. Molecular oxygen is the\nterminal electron acceptor in ETS."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "In which one of the following do the two names refer to one and same thing? ",
+      "options": [
+        {
+          "key": "A",
+          "value": "Krebs' cycle and Calvin cycle"
+        },
+        {
+          "key": "B",
+          "value": "Tricarboxylic acid cycle and citric acid cycle "
+        },
+        {
+          "key": "C",
+          "value": "Citric acid cycle and Calvin cycle"
+        },
+        {
+          "key": "D",
+          "value": "Tricarboxylic acid cycle and urea cycle "
+        }
+      ],
+      "answer": "B",
+      "explanation": "TCA cycle is so called because the\nfirst stable product formed in the cycle is\na tricarboxylic acid molecule, that is, citric\nacid. Hence, the name citric acid cycle.\nIt is also called the Krebs cycle as it was\ndiscovered by Krebs."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "In alcohol fermentation",
+      "options": [
+        {
+          "key": "A",
+          "value": "triose phosphate is the electron donar while acetaldehyde is the electron acceptor"
+        },
+        {
+          "key": "B",
+          "value": "triose phosphate is the electron donar while pyruvic acid is the electron acceptor"
+        },
+        {
+          "key": "C",
+          "value": "there is no electron donar"
+        },
+        {
+          "key": "D",
+          "value": "oxygen is the electron acceptor. "
+        }
+      ],
+      "answer": "A",
+      "explanation": "In alcohol fermentation triose phosphate\nis the electron donor while acetaldehyde is\nthe electron acceptor."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Organisms which obtain energy by the oxidation of reduced inorganic compounds are called",
+      "options": [
+        {
+          "key": "A",
+          "value": "photoautotrophs"
+        },
+        {
+          "key": "B",
+          "value": "chemoautotrophs"
+        },
+        {
+          "key": "C",
+          "value": "saprozoic"
+        },
+        {
+          "key": "D",
+          "value": "coproheterophs."
+        }
+      ],
+      "answer": "B",
+      "explanation": "Chemoautotrophs are organisms that are\ncapable of manufacturing their organic food utilising\nchemical energy released in oxidation of some\ninorganic substances. The process of manufacture of\nfood in such organisms is called chemosynthesis. It\nincludes some aerobic bacteria. Photoautotroph obtain\nenergy for their synthesis of food from light.\nFungi living on dead or decaying plant or animal\nremains and also growing on dung of herbivores are\nsaprophytes.\n"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Cytochrome is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "metallo flavo protein"
+        },
+        {
+          "key": "B",
+          "value": "Fe containing porphyrin pigment"
+        },
+        {
+          "key": "C",
+          "value": "glycoprotein"
+        },
+        {
+          "key": "D",
+          "value": "lipid."
+        }
+      ],
+      "answer": "B",
+      "explanation": "Cytochrome is an Fe containing\nporphyrin pigment. These are electron\ntransferring proteins often regarded as\nenzymes."
+    }
+  ]
+}

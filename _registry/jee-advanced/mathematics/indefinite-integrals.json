@@ -1,0 +1,151 @@
+{
+  "_index": {
+    "name": "Indefinite Integrals"
+  },
+  "_children": [
+    {
+      "_type": "single_mcq",
+      "body": "The integral $\\int \\frac{\\sec ^2 x}{(\\sec x+\\tan x)^{9 / 2}} d x$ equals (for some arbitrary constant $$K$$)\n",
+      "options": [
+        {
+          "key": "A",
+          "value": "$-\\frac{1}{(\\sec x+\\tan x)^{11 / 2}}\\left\\{\\frac{1}{11}-\\frac{1}{7}(\\sec x+\\tan x)^2\\right\\}+K$"
+        },
+        {
+          "key": "B",
+          "value": "$\\frac{1}{(\\sec x+\\tan x)^{11 / 2}}\\left\\{\\frac{1}{11}-\\frac{1}{7}(\\sec x+\\tan x)^2\\right\\}+K$"
+        },
+        {
+          "key": "C",
+          "value": "$-\\frac{1}{(\\sec x+\\tan x)^{11 / 2}}\\left\\{\\frac{1}{11}+\\frac{1}{7}(\\sec x+\\tan x)^2\\right\\}+K$"
+        },
+        {
+          "key": "D",
+          "value": "$\\frac{1}{(\\sec x+\\tan x)^{11 / 2}}\\left\\{\\frac{1}{11}+\\frac{1}{7}(\\sec x+\\tan x)^2\\right\\}+K$"
+        }
+      ],
+      "answer": "C",
+      "explanation": "We have\n<br/><br/>$$\nI=\\int \\frac{\\sec ^2 x}{(\\sec x+\\tan x)^{9 / 2}} d x\n$$\n<br/><br/>Let $\\sec x+\\tan x=t $\n<br/><br/>$\\Rightarrow \\sec x-\\tan x=1 / t$.\n<br/><br/>$$ \\Rightarrow $$ $\\frac{1}{2}\\left(t+\\frac{1}{t}\\right)=\\sec x$\n<br/><br/>Now, $\\left(\\sec x \\tan x+\\sec ^2 x\\right) d x=d t$\n<br/><br/>$$ \\Rightarrow $$ $\\sec x(\\sec x+\\tan x) d x=d t$\n<br/><br/>$$ \\Rightarrow $$ $\\sec x d x=\\frac{d t}{t} $\n<br/><br/>$ I  =\\frac{1}{2} \\int \\frac{\\left(t+\\frac{1}{t}\\right)}{t^{9 / 2}} \\frac{d t}{t}$\n<br/><br/>$=\\frac{1}{2} \\int\\left(t^{-9 / 2}+t^{-13 / 2}\\right) d t $\n<br/><br/>$ =\\frac{1}{2}\\left[\\frac{t^{-\\frac{9}{2}+1}}{-\\frac{9}{2}+1}+\\frac{t^{-\\frac{13}{2}+1}}{-\\frac{13}{2}+1}\\right] $\n<br/><br/>$=\\frac{1}{2}\\left[\\frac{t^{-7 / 2}}{-\\frac{7}{2}}+\\frac{t^{-11 / 2}}{-\\frac{11}{2}}\\right]$\n<br/><br/>$=-\\frac{1}{7} t^{-7 / 2}-\\frac{1}{11} t^{-11 / 2}$\n<br/><br/>$=-\\frac{1}{7} \\frac{1}{t^{7 / 2}}-\\frac{1}{11} \\frac{1}{t^{11 / 2}}$\n<br/><br/>$=-\\frac{1}{t^{11 / 2}}\\left(\\frac{1}{11}+\\frac{t^2}{7}\\right)$\n<br/><br/>$=-\\frac{1}{(\\sec x+\\tan x)^{11 / 2}}\\left\\{\\frac{1}{11}+\\frac{1}{7}(\\sec x+\\tan x)^2\\right\\}+K$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Let $$I = \\int {{{{e^x}} \\over {{e^{4x}} + {e^{2x}} + 1}}dx,\\,\\,J = \\int {{{{e^{ - x}}} \\over {{e^{ - 4x}} + {e^{ - 2x}} + 1}}dx.} } $$ Then \n<br><br/>for an arbitrary constant $$C$$, the value of $$J -I$$ equals :",
+      "options": [
+        {
+          "key": "A",
+          "value": "$${1 \\over 2}\\log \\left( {{{{e^{4x}} - {e^{2x}} + 1} \\over {{e^{4x}} + {e^{2x}} + 1}}} \\right) + C$$ "
+        },
+        {
+          "key": "B",
+          "value": "$${1 \\over 2}\\log \\left( {{{{e^{2x}} + {e^x} + 1} \\over {{e^{2x}} - {e^x} + 1}}} \\right) + C$$ "
+        },
+        {
+          "key": "C",
+          "value": "$${1 \\over 2}\\log \\left( {{{{e^{2x}} - {e^x} + 1} \\over {{e^{2x}} + {e^x} + 1}}} \\right) + C$$ "
+        },
+        {
+          "key": "D",
+          "value": "$${1 \\over 2}\\log \\left( {{{{e^{4x}} + {e^{2x}} + 1} \\over {{e^{4x}} - {e^{2x}} + 1}}} \\right) + C$$ "
+        }
+      ],
+      "answer": "C",
+      "explanation": "<p>Given,</p>\n<p>$$I = \\int {{{{e^x}} \\over {{e^{4x}} + {e^{2x}} + 1}}dx} $$</p>\n<p>$$J = \\int {{{{e^{ - x}}} \\over {{e^{ - 4x}} + {e^{ - 2x}} + 1}}dx = \\int {{{{e^{3x}}} \\over {{e^{4x}} + {e^{2x}} + 1}}dx} } $$</p>\n<p>$$\\therefore$$ $$J - I = \\int {{{{e^x}({e^{2x}} - 1)} \\over {{e^{4x}} + {e^{2x}} + 1}}dx} $$</p>\n<p>Let $${e^x} = t \\Rightarrow {e^x}dx = dt$$</p>\n<p>$$\\therefore$$ $$J - I = \\int {{{{t^2} - 1} \\over {{t^4} + {t^2} + 1}}dt} $$</p>\n<p>$$ = \\int {{{1 - {1 \\over {{t^2}}}} \\over {{t^2} + 1 + {1 \\over {{t^2}}}}}dt} $$</p>\n<p>Let, $$t + {1 \\over t} = u \\Rightarrow \\left( {1 - {1 \\over {{t^2}}}} \\right)dt = du$$</p>\n<p>$$J - I = \\int {{{du} \\over {{u^2} - 1}} = {1 \\over 2}\\log \\left| {{{u - 1} \\over {u + 1}}} \\right| + C} $$</p>\n<p>$$ = {1 \\over 2}\\log \\left| {{{{{{t^2} + 1} \\over t} - 1} \\over {{{{t^2} + 1} \\over t} + 1}}} \\right| + C$$</p>\n<p>$$ = {1 \\over 2}\\log \\left| {{{{e^{2x}} - {e^x} + 1} \\over {{e^{2x}} + {e^x} + 1}}} \\right| + C$$</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Let $$F(x)$$ be an indefinite integral of $$si{n^2}x.$$ \n<p><b>STATEMENT-1:</b> The function $$F(x)$$ satisfies $$F\\left( {x + \\pi } \\right) = F\\left( x \\right)$$\n<br> for all real $$x$$. <b>because</b></p>\n<p><b>STATEMENT-2:</b> $${\\sin ^2}\\left( {x + \\pi } \\right) = {\\sin ^2}x$$ for all real $$x$$.</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "Statement-1 is True, Statement-2 is True; Statement-2 is is a correct explanation for Statement-1."
+        },
+        {
+          "key": "B",
+          "value": "Statement-1 is True, Statement-2 is True; Statement-2 is NOT a correct explanation for Statement-1."
+        },
+        {
+          "key": "C",
+          "value": "Statement- 1 is True, Statement-2 is False."
+        },
+        {
+          "key": "D",
+          "value": "Statement-1 is False, Statement-2 is True."
+        }
+      ],
+      "answer": "D",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "$$\\int {{{{x^2} - 1} \\over {{x^3}\\sqrt {2{x^4} - 2{x^2} + 1} }}dx = } $$ ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$${{\\sqrt {2{x^4} - 2{x^2} + 1} } \\over {{x^2}}} + c$$ "
+        },
+        {
+          "key": "B",
+          "value": "$${{\\sqrt {2{x^4} - 2{x^2} + 1} } \\over {{x^3}}} + c$$"
+        },
+        {
+          "key": "C",
+          "value": "$${{\\sqrt {2{x^4} - 2{x^2} + 1} } \\over {{x}}} + c$$"
+        },
+        {
+          "key": "D",
+          "value": "$${{\\sqrt {2{x^4} - 2{x^2} + 1} } \\over {{2x^2}}} + c$$"
+        }
+      ],
+      "answer": "D",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "If $$\\int\\limits_{\\sin x}^1 {{t^2}f\\left( t \\right)dt = 1 - \\sin x,} $$ then f$$\\left( {{1 \\over {\\sqrt 3 }}} \\right)$$ is",
+      "options": [
+        {
+          "key": "A",
+          "value": "$${1 \\over 3}$$ "
+        },
+        {
+          "key": "B",
+          "value": "$${{1 \\over {\\sqrt 3 }}}$$ "
+        },
+        {
+          "key": "C",
+          "value": "$$3$$ "
+        },
+        {
+          "key": "D",
+          "value": "$${\\sqrt 3 }$$ "
+        }
+      ],
+      "answer": "C",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The value of the integral $$\\int {{{{{\\cos }^3}x + {{\\cos }^5}x} \\over {{{\\sin }^2}x + {{\\sin }^4}x}}} \\,dx\\,$$ is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$\\sin x - 6{\\tan ^{ - 1}}\\left( {\\sin x} \\right) + c$$ "
+        },
+        {
+          "key": "B",
+          "value": "$$\\sin x - 2{\\left( {\\sin x} \\right)^{ - 1}} + c$$ "
+        },
+        {
+          "key": "C",
+          "value": "$$\\sin x - 2{\\left( {\\sin x} \\right)^{ - 1}} - 6{\\tan ^{ - 1}}\\left( {\\sin x} \\right) + c$$ "
+        },
+        {
+          "key": "D",
+          "value": "$$\\,\\sin x - 2{\\left( {\\sin x} \\right)^{ - 1}} + 5{\\tan ^{ - 1}}\\left( {\\sin x} \\right) + c$$ "
+        }
+      ],
+      "answer": "C",
+      "explanation": ""
+    }
+  ]
+}

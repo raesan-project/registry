@@ -1,0 +1,1639 @@
+{
+  "_index": {
+    "name": "Properties of Matter"
+  },
+  "_children": [
+    {
+      "_type": "single_mcq",
+      "body": "<p>The maximum elongation of a steel wire of $$1 \\mathrm{~m}$$ length if the elastic limit of steel and its Young's modulus, respectively, are $$8 \\times 10^8 \\mathrm{~N} \\mathrm{~m}^{-2}$$ and $$2 \\times 10^{11} \\mathrm{~N} \\mathrm{~m}^{-2}$$, is:</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "4 mm"
+        },
+        {
+          "key": "B",
+          "value": "0.4 mm"
+        },
+        {
+          "key": "C",
+          "value": "40 mm"
+        },
+        {
+          "key": "D",
+          "value": "8 mm"
+        }
+      ],
+      "answer": "A",
+      "explanation": "<p>First, we need to find the maximum force that can be applied to the steel wire within its elastic limit. This force can be calculated using the given area under stress and the stress limit provided by the elastic limit of steel.</p>\n\n<p>Let's assume the area of cross-section of the wire is $$A$$. The force exerted can be given by:<br>\n\n<p>$$ F = \\sigma \\times A $$</p>\n\n<p>where:</p>\n\n<p>$$ \\sigma = 8 \\times 10^8 \\mathrm{~N/m}^2 $$ (Elastic limit of steel)</p></p>\n\n<p>To calculate the elongation ($$ \\Delta L $$) under this force, we use Hooke's Law, which relates force, elongation, cross-sectional area, original length, and Young's modulus as follows:<br>\n\n<p>$$ F = \\frac{Y \\times A \\times \\Delta L}{L} $$</p>\n\n<p>where:</p>\n\n<p>$$ Y = 2 \\times 10^{11} \\mathrm{~N/m}^2 $$ (Young's modulus of steel),</p>\n\n<p>$$ L = 1 \\mathrm{~m} $$ (original length of the wire).</p></p>\n\n<p>Substituting for $$ F $$ from the earlier expression and rearranging the formula, we get:<br>\n\n<p>$$ \\sigma \\times A = \\frac{Y \\times A \\times \\Delta L}{L} $$</p>\n\n<p>$$ \\sigma = \\frac{Y \\times \\Delta L}{L} $$</p>\n\n<p>$$ \\Delta L = \\frac{\\sigma \\times L}{Y} $$</p>\n\n<p>$$ \\Delta L = \\frac{8 \\times 10^8 \\times 1}{2 \\times 10^{11}} \\mathrm{~meters} $$</p>\n\n<p>$$ \\Delta L = 0.004 \\mathrm{~meters} $$</p>\n\n<p>$$ \\Delta L = 4 \\mathrm{~mm} $$</p></p>\n\n<p>Thus, the maximum elongation of the wire within the elastic limit is $$4 \\mathrm{~mm}$$.</p>\n\n<p>The answer is: Option A - 4 mm.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>A metallic bar of Young's modulus, $$0.5 \\times 10^{11} \\mathrm{~N} \\mathrm{~m}^{-2}$$ and coefficient of linear thermal expansion $$10^{-5}{ }^{\\circ} \\mathrm{C}^{-1}$$, length $$1 \\mathrm{~m}$$ and area of cross-section $$10^{-3} \\mathrm{~m}^2$$ is heated from $$0^{\\circ} \\mathrm{C}$$ to $$100^{\\circ} \\mathrm{C}$$ without expansion or bending. The compressive force developed in it is :</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$5 \\times 10^3 \\mathrm{~N}$$\n"
+        },
+        {
+          "key": "B",
+          "value": "$$50 \\times 10^3 \\mathrm{~N}$$\n"
+        },
+        {
+          "key": "C",
+          "value": "$$100 \\times 10^3 \\mathrm{~N}$$\n"
+        },
+        {
+          "key": "D",
+          "value": "$$2 \\times 10^3 \\mathrm{~N}$$"
+        }
+      ],
+      "answer": "B",
+      "explanation": "<p>Given the properties and conditions of the metallic bar, we are required to calculate the compressive force developed due to heating. Key inputs include the Young's modulus (E), coefficient of linear thermal expansion (α), change in temperature ($$\\Delta T$$), and the original dimensions of the bar.</p>\n\n<p>First, compute the linear expansion of the bar if it were free to expand. The change in length ($$\\Delta L$$) due to thermal expansion can be computed through the formula:</p>\n\n<p>$$ \\Delta L = \\alpha L_0 \\Delta T $$</p>\n\n<p>Given:</p>\n\n<ul>\n\n<li>$$ \\alpha = 10^{-5} { }^{\\circ} C^{-1} $$</li>\n\n<li>$$ L_0 = 1 \\text{ m} $$</li>\n\n<li>$$ \\Delta T = 100^{\\circ} C $$</li>\n\n</ul>\n\n<p>Thus:</p>\n\n<p>$$ \\Delta L = 10^{-5} \\times 1 \\times 100 = 0.001 \\text{ m} $$</p>\n\n<p>This is the change in length that the bar would undergo if not constrained.</p>\n\n<p>However, in this scenario, the bar is constrained and does not actually expand. This constraint induces a compressive stress (constrained thermal stress) in the bar, which can be calculated using the formula relating stress, Young's modulus, and strain:</p>\n\n<p>$$ \\sigma = E \\epsilon $$</p>\n\n<p>Where the strain ($$\\epsilon$$) under constrained conditions due to thermal expansion is:</p>\n\n<p>$$ \\epsilon = \\frac{\\Delta L}{L_0} = \\frac{0.001}{1} = 0.001 $$</p>\n\n<p>Therefore:</p>\n\n<p>$$ \\sigma = 0.5 \\times 10^{11} \\times 0.001 = 5 \\times 10^7 \\mathrm{ N/m}^2 $$</p>\n\n<p>This stress is the force per unit area. To find the compressive force, we need to multiply this stress by the cross-sectional area of the bar:</p>\n\n<p>$$ F = \\sigma A = 5 \\times 10^7 \\mathrm{ N/m}^2 \\times 10^{-3} \\mathrm{ m}^2 = 5 \\times 10^4 \\mathrm{ N} $$</p>\n\n<p>Thus, the compressive force developed in the bar is $$50 \\times 10^3 \\mathrm{~N}$$.</p>\n\n<p>Hence, the correct answer is Option B:</p>\n\n<p>$$50 \\times 10^3 \\mathrm{~N}$$</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>The amount of elastic potential energy per unit volume (in SI unit) of a steel wire of length $$100 \\mathrm{~cm}$$ to stretch it by $$1 \\mathrm{~mm}$$ is (if Young's modulus of the wire $$=2.0 \\times 10^{11} \\mathrm{Nm}^{-2}$$ ) :</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$10^{11}$$"
+        },
+        {
+          "key": "B",
+          "value": "$$10^{17}$$"
+        },
+        {
+          "key": "C",
+          "value": "$$10^7$$"
+        },
+        {
+          "key": "D",
+          "value": "$$10^5$$"
+        }
+      ],
+      "answer": "D",
+      "explanation": "<p>$$\n\\begin{aligned}\n& \\frac{\\text { E.P.E }}{\\text { Volume }}=\\frac{1}{2}(\\text { stress)(strain) } \\\\\n& =\\frac{1}{2}(Y)(\\text { strain })^2 \\\\\n& =\\frac{1}{2}(\\mathrm{Y})\\left(\\frac{\\Delta \\mathrm{L}}{\\mathrm{L}}\\right)^2 \\\\\n& =\\frac{1}{2}\\left(2 \\times 10^{11}\\right)\\left(\\frac{1 \\times 10^{-3}}{100 \\times 10^{-2}}\\right)^2 \\\\\n& =10^5\n\\end{aligned}\n$$</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Which of the following statement is not true?</p>\n\n",
+      "options": [
+        {
+          "key": "A",
+          "value": "Coefficient of viscosity is a scalar quantity"
+        },
+        {
+          "key": "B",
+          "value": "Surface tension is a scalar quantity"
+        },
+        {
+          "key": "C",
+          "value": "Pressure is a vector quantity\n"
+        },
+        {
+          "key": "D",
+          "value": "Relative density is a scalar quantity\n"
+        }
+      ],
+      "answer": "C",
+      "explanation": "<p>Pressure is a scalar quantity.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>The viscous drag acting on a metal sphere of diameter $$1 \\mathrm{~mm}$$, falling through a fluid of viscosity $$0.8 \\mathrm{~Pa}$$ s with a velocity of $$2 \\mathrm{~m} \\mathrm{~s}^{-1}$$ is equal to :</p>\n",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$15 \\times 10^{-3} \\mathrm{~N}$$\n"
+        },
+        {
+          "key": "B",
+          "value": "$$30 \\times 10^{-3} \\mathrm{~N}$$\n"
+        },
+        {
+          "key": "C",
+          "value": "$$1.5 \\times 10^{-3} \\mathrm{~N}$$\n"
+        },
+        {
+          "key": "D",
+          "value": "$$20 \\times 10^{-3} \\mathrm{~N}$$\n"
+        }
+      ],
+      "answer": "A",
+      "explanation": "<p>$$\n\\begin{aligned}\n& F=6 \\pi \\mathrm{r} \\eta v \\\\\n& =(6)(3.14)\\left(\\frac{1 \\times 10^{-3}}{2}\\right)\\left(0.8 \\times 10^{-1}\\right)(2) \\\\\n& =1.5 \\times 10^{-3} \\mathrm{~N}\n\\end{aligned}\n$$</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>The amount of energy required to form a soap bubble of radius $$2 \\mathrm{~cm}$$ from a soap solution is nearly: (surface tension of soap solution $$=0.03 \\mathrm{~N} \\mathrm{~m}^{-1}$$ )</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$5.06 \\times 10^{-4} \\mathrm{~J}$$"
+        },
+        {
+          "key": "B",
+          "value": "$$3.01 \\times 10^{-4} \\mathrm{~J}$$"
+        },
+        {
+          "key": "C",
+          "value": "$$50.1 \\times 10^{-4} \\mathrm{~J}$$"
+        },
+        {
+          "key": "D",
+          "value": "$$30.16 \\times 10^{-4} \\mathrm{~J}$$"
+        }
+      ],
+      "answer": "B",
+      "explanation": "<p>$$E=2 T\\left(4 \\pi \\mathrm{R}^{2}\\right)$$</p>\n<p>$$=2(0.03)(4)(3.14)\\left(2 \\times 10^{-2}\\right)^{2}$$</p>\n<p>$$=3.01 \\times 10^{-4} \\mathrm{~J}$$</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>The venturi-meter works on :</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "Bernoulli's principle"
+        },
+        {
+          "key": "B",
+          "value": "The principle of parallel axes"
+        },
+        {
+          "key": "C",
+          "value": "The principle of perpendicular axes"
+        },
+        {
+          "key": "D",
+          "value": "Huygen's principle"
+        }
+      ],
+      "answer": "A",
+      "explanation": "A venturi meter is a device used to measure the flow rate of a fluid through a pipe. The venturi meter works on Bernoulli's principle, which states that for an incompressible, non-viscous fluid flowing through a pipe, the sum of the pressure energy, kinetic energy, and potential energy per unit volume remains constant."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Let a wire be suspended from the ceiling (rigid support) and stretched by a weight $$W$$ attached at its free end. The longitudinal stress at any point of cross-sectional area $$A$$ of the wire is :</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$W / A$$"
+        },
+        {
+          "key": "B",
+          "value": "$$W / 2 A$$"
+        },
+        {
+          "key": "C",
+          "value": "Zero"
+        },
+        {
+          "key": "D",
+          "value": "$$2 W / A$$"
+        }
+      ],
+      "answer": "A",
+      "explanation": "<p>When a wire is suspended from the ceiling and stretched by a weight W attached at its free end, the force acting on the wire is equal to the weight W. This force causes longitudinal stress in the wire. </p>\n<p>Longitudinal stress is defined as the force acting on an object divided by its cross-sectional area. In this case, the force acting on the wire is W, and the cross-sectional area of the wire is A. </p>\n<p>Thus, the longitudinal stress at any point of the wire with cross-sectional area A is given by :</p>\n<p>$$\\text{Longitudinal Stress} = \\frac{\\text{Force}}{\\text{Area}} = \\frac{W}{A}$$</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Two copper vessels A and B have the same base area but of different shapes. A takes twice the volume of water as that B requires to fill upto a particular common height. Then the correct statement among the following is :</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "Vessel B weighs twice that of A."
+        },
+        {
+          "key": "B",
+          "value": "Pressure on the base area of vessels A and B is same."
+        },
+        {
+          "key": "C",
+          "value": "Pressure on the base area of vessels A and B is not same."
+        },
+        {
+          "key": "D",
+          "value": "Both vessels A and B weigh the same."
+        }
+      ],
+      "answer": "B",
+      "explanation": "<p>In hydrostatic condition,</p>\n<p>$$P = {P_0} + \\rho gh$$</p>\n<p>Here, P : absolute pressure at depth h, P<sub>0</sub> is atmospheric pressure</p>\n<p>Since, height of liquid in both vessel is same therefore pressure on the base of both vessel will be same.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>The terminal velocity of a copper ball of radius 5 mm falling through a tank of oil at room temperature is 10 cm s<sup>$$-$$1</sup>. If the viscosity of oil at room temperature is 0.9 kg m<sup>$$-$$1</sup> s<sup>$$-$$1</sup>, the viscous drag force is :</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "4.23 $$\\times$$ 10<sup>$$-$$6</sup> N"
+        },
+        {
+          "key": "B",
+          "value": "8.48 $$\\times$$ 10<sup>$$-$$3</sup> N"
+        },
+        {
+          "key": "C",
+          "value": "8.48 $$\\times$$ 10<sup>$$-$$5</sup> N"
+        },
+        {
+          "key": "D",
+          "value": "4.23 $$\\times$$ 10<sup>$$-$$3</sup> N"
+        }
+      ],
+      "answer": "B",
+      "explanation": "<p>F<sub>viscous</sub> = $$-$$6$$\\pi$$$$\\eta$$av</p>\n<p>F<sub>viscous</sub> = 6 $$\\times$$ 3.14 $$\\times$$ 0.9 $$\\times$$ 5 $$\\times$$ 10<sup>$$-$$3</sup> $$\\times$$ 10 $$\\times$$ 10<sup>$$-$$2</sup></p>\n<p>= 84.78 $$\\times$$ 10<sup>$$-$$4</sup></p>\n<p>= 8.478 $$\\times$$ 10<sup>$$-$$3</sup> N</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>If a soap bubble expands, the pressure inside the bubble</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "Decreases"
+        },
+        {
+          "key": "B",
+          "value": "Increases"
+        },
+        {
+          "key": "C",
+          "value": "Remains the same"
+        },
+        {
+          "key": "D",
+          "value": "Is equal to the atmospheric pressure"
+        }
+      ],
+      "answer": "A",
+      "explanation": "<p>Excess pressure inside the bubble $$ = \\Delta P - {{4T} \\over R}$$</p>\n<p>$${P_{in}} = {P_{out}} + {{4T} \\over R}$$</p>\n<p>as 'R' increases 'P' decreases</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Given below are two statements : One is labelled as Assertion (A) and the other is labelled as Reason (R).</p>\n<p>Assertion (A) : The stretching of a spring is determined by the shear modulus of the material of the spring.</p>\n<p>Reason (R) : A coil spring of copper has more tensile strength than a steel spring of same dimensions.</p>\n<p>In the light of the above statements, choose the most appropriate answer from the options given below:</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "Both (A) and (R) are true and (R) is the correct explanation of (A)"
+        },
+        {
+          "key": "B",
+          "value": "Both (A) and (R) are true and (R) is not the correct explanation of (A)"
+        },
+        {
+          "key": "C",
+          "value": "(A) is true but (R) is false"
+        },
+        {
+          "key": "D",
+          "value": "(A) is false but (R) is true"
+        }
+      ],
+      "answer": "C",
+      "explanation": "<p>It is true that stretching of spring is determined by shear modulus of the spring as when coil spring is stretched neither its length nor its volume changes, there is only change in its shape.</p>\n<p>Tensile strength of steel is more than that of copper.</p>\n<p>Hence Assertion is true and Reason is false.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A capillary tube of radius r is immersed in water and water rises in it to a height h. The mass of the water in the capillary is 5 g. Another capillary tube of radius 2r is immersed in Water. The mass of water that will rise in this tube is :",
+      "options": [
+        {
+          "key": "A",
+          "value": "5.0 g"
+        },
+        {
+          "key": "B",
+          "value": "10.0 g"
+        },
+        {
+          "key": "C",
+          "value": "20.0 g"
+        },
+        {
+          "key": "D",
+          "value": "2.5 g"
+        }
+      ],
+      "answer": "B",
+      "explanation": "The weight of water in the capillary is balanced by the surface tension force.<br><br>mg = 2$$\\pi $$r.T.cos$$\\theta $$<br><br>Since constant, m is directly proportional to r.<br><br>m $$ \\propto $$ r<br><br>$${{{m_2}} \\over {{m_1}}} = {{{r_2}} \\over {{r_1}}}$$\n<br><br>$${{{m_2}} \\over 5} = {{2r} \\over r}$$\n<br><br>$$ \\therefore $$ $${m_2}$$\n= 10 grams."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A wire of length L, are of cross section A is hanging from a fixed support. The length of the wire changed to L<sub>1</sub> when mass M is suspended from its free end. The expression for Young's modulus is :",
+      "options": [
+        {
+          "key": "A",
+          "value": "$${{Mg\\left( {{L_1} - L} \\right)} \\over {AL}}$$\n"
+        },
+        {
+          "key": "B",
+          "value": "$${{MgL} \\over {A{L_1}}}$$\n"
+        },
+        {
+          "key": "C",
+          "value": "$${{MgL} \\over {A\\left( {{L_1} - L} \\right)}}$$\n"
+        },
+        {
+          "key": "D",
+          "value": "$${{Mg{L_1}} \\over {AL}}$$\n"
+        }
+      ],
+      "answer": "C",
+      "explanation": "$$Stress = {{Mg} \\over A}$$\n<br><br>$$Strain = {{\\Delta L} \\over L} = {{{L_{ - 1}} - L} \\over L}$$\n<br><br>Young's modulus = $${{Stress} \\over {Strain}}$$\n<br><br>= $${{MgL} \\over {A\\left( {{L_1} - L} \\right)}}$$\n"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A soap bubble, having radius of 1 mm, is blown from a detergent solution having a surface tension of 2.5 $$ \\times $$ 10<sup>–2</sup> N/m. The pressure inside the bubble equals at a point Z<sub>0</sub> below the free surface of water in a container. Taking g = 10 m/s<sup>2</sup>, density of water = 10<sup>3</sup> kg/m<sup>3</sup>, the value of Z<sub>0</sub> is : ",
+      "options": [
+        {
+          "key": "A",
+          "value": "1 cm"
+        },
+        {
+          "key": "B",
+          "value": "10 cm"
+        },
+        {
+          "key": "C",
+          "value": "100 cm"
+        },
+        {
+          "key": "D",
+          "value": "0.5 cm"
+        }
+      ],
+      "answer": "A",
+      "explanation": "P = P<sub>0</sub> +\n$$\\rho $$gZ<sub>0</sub> .........(i)\n<br><br>Also, P = P<sub>0</sub> + $${{4T} \\over R}$$ .....(ii)\n<br><br>From (i) and (ii),\n<br><br>$$\\rho $$gZ<sub>0</sub> = $${{4T} \\over R}$$\n<br><br>$$ \\therefore $$ Z<sub>0</sub> = $${{4T} \\over {\\rho gR}}$$\n<br><br>= $${{4 \\times 2.5 \\times {{10}^{ - 2}}} \\over {{{10}^3} \\times 10 \\times {{10}^{ - 3}}}}$$\n<br><br>= 10<sup>-2</sup> m = 1 cm"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A small hole of area of cross-section 2 mm<sup>2</sup> present  near the bottom of a fully filled open tank of height 2 m. Taking g = 10 m/s<sup>2</sup>, the rate of flow of water through the open hole would be nearly : ",
+      "options": [
+        {
+          "key": "A",
+          "value": "8.9 × 10<sup>–6</sup> m<sup>3</sup>/s"
+        },
+        {
+          "key": "B",
+          "value": "2.23 × 10<sup>–6</sup> m<sup>3</sup>/s"
+        },
+        {
+          "key": "C",
+          "value": "6.4 × 10<sup>–6</sup> m<sup>3</sup>/s"
+        },
+        {
+          "key": "D",
+          "value": "12.6 × 10<sup>–6</sup> m<sup>3</sup>/s"
+        }
+      ],
+      "answer": "D",
+      "explanation": "volume flow rate = Av = A$$\\sqrt {2gh} $$\n<br><br>= 2 $$ \\times $$ 10<sup>-6</sup> $$ \\times $$ $$\\sqrt {2 \\times 10 \\times 2} $$\n<br><br>= 2 $$ \\times $$ 2 $$ \\times $$ 3.14 $$ \\times $$ 10<sup>-6</sup> m<sup>3</sup>/s\n<br><br>= 12.56 $$ \\times $$ 10<sup>-6</sup> m<sup>3</sup>/s\n<br><br>= 12.6 $$ \\times $$ 10<sup>-6</sup> m<sup>3</sup>/s"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A copper rod of 88 cm and an aluminium rod of unknown length have their increase in length independent of increase in tmperature. The length of aluminium rod is : ($$\\alpha $$<sub>Cu</sub> = 1.7 × 10<sup>–5</sup> K<sup>–1</sup> and \n $$\\alpha $$<sub>Al</sub> = 2.2 × 10<sup>–5</sup> K<sup>–1</sup>)",
+      "options": [
+        {
+          "key": "A",
+          "value": "119.9 cm"
+        },
+        {
+          "key": "B",
+          "value": "88 cm"
+        },
+        {
+          "key": "C",
+          "value": "68 cm"
+        },
+        {
+          "key": "D",
+          "value": "6.8 cm"
+        }
+      ],
+      "answer": "C",
+      "explanation": "At any temperature\n<br><br>$${\\left( {\\Delta l} \\right)_{Cu}} = {\\left( {\\Delta l} \\right)_{Al}}$$\n<br><br>$${l_{Cu}}{\\alpha _{Cu}}\\Delta T = {l_{Al}}{\\alpha _{Al}}\\Delta T$$\n<br><br>$$ \\Rightarrow $$ 88 $$ \\times $$ 1.7 $$ \\times $$ 10<sup>-5</sup> = $${l_{Al}}$$ $$ \\times $$ 2.2 × 10<sup>–5</sup>\n<br><br>$$ \\Rightarrow $$ $${l_{Al}}$$ = 68 cm"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The unit of thermal conductivity is :",
+      "options": [
+        {
+          "key": "A",
+          "value": "J m<sup>–1</sup> K<sup>–1</sup>"
+        },
+        {
+          "key": "B",
+          "value": "W m K<sup>–1</sup>"
+        },
+        {
+          "key": "C",
+          "value": "J m K<sup>–1</sup>"
+        },
+        {
+          "key": "D",
+          "value": "W m<sup>–1</sup> K<sup>–1</sup>"
+        }
+      ],
+      "answer": "D",
+      "explanation": "We know,\n<br><br>Heat transfer (Q) = KA$$\\left( {{{\\Delta T} \\over {\\Delta x}}} \\right)$$$$ \\times $$t\n<br><br>Here, K is the coefficient of thermal conductivity\n<br><br>J = (K)m<sup>2</sup>$${{kelvin} \\over m}$$$$ \\times $$ s\n<br><br>$$ \\therefore $$ Unit of K = Wm<sup>–1</sup> K<sup>–1</sup>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A small sphere of radius ‘r’ falls from rest in a\nviscous liquid. As a result, heat is produced\ndue to viscous force. The rate of production of\nheat when the sphere attains its terminal velocity,\nis proportional to",
+      "options": [
+        {
+          "key": "A",
+          "value": "r<sup>3</sup>"
+        },
+        {
+          "key": "B",
+          "value": "r<sup>2</sup>"
+        },
+        {
+          "key": "C",
+          "value": "r<sup>5</sup>"
+        },
+        {
+          "key": "D",
+          "value": "r<sup>4</sup>"
+        }
+      ],
+      "answer": "C",
+      "explanation": "Power = rate of production of heat = F.V\n<br><br>= 6$$\\pi $$$$\\eta $$rV<sub>T</sub>.V<sub>T</sub> = = 6$$\\pi $$$$\\eta $$rV<sub>T</sub><sup>2</sup>\n<br><br>[ As F = 6$$\\pi $$$$\\eta $$rV<sub>T</sub> from stoke’s formula ]\n<br><br>$$ \\because $$ Terminal velocity V<sub>T</sub> = $${{2{r^2}\\left( {\\rho  - \\sigma } \\right)g} \\over {9\\eta }}$$\n<br><br>$$ \\therefore $$ V<sub>T</sub> $$ \\propto $$ r<sup>2</sup>\n<br><br>$$ \\therefore $$ Power $$ \\propto $$ 6$$\\pi $$$$\\eta $$r$$\\left[ {{{4{r^4}{{\\left( {\\rho  - \\sigma } \\right)}^2}{g^2}} \\over {81{\\eta ^2}}}} \\right]$$\n<br><br>$$ \\Rightarrow $$ Power $$ \\propto $$ r<sup>5</sup>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Two wires are made of the same material and\nhave the same volume. The first wire has\ncross-sectional area A and the second wire has\ncross-sectional area 3A. If the length of the first\nwire is increased by $$\\Delta $$l on applying a force F,\nhow much force is needed to stretch the second\nwire by the same amount?",
+      "options": [
+        {
+          "key": "A",
+          "value": "6F"
+        },
+        {
+          "key": "B",
+          "value": "F"
+        },
+        {
+          "key": "C",
+          "value": "9F"
+        },
+        {
+          "key": "D",
+          "value": "4F"
+        }
+      ],
+      "answer": "C",
+      "explanation": "Let the wire 1 is of length = l and wire 2 of\nlength = $${l \\over 3}$$\n<br><br>Now area of wire 1 = A while area of wire 2 = 3A\n<br><br>For wire 1,\n<br>$$\\Delta $$l = $$\\left( {{F \\over {AY}}} \\right)l$$ ....(i)\n<br><br>For wire 2, let F' force is applied\n<br><br>$$\\Delta $$l = $$\\left( {{{F'} \\over {3AY}}} \\right){l \\over 3}$$ ....(2)\n<br><br>From equation (i) &amp; (ii)\n<br><br>$$\\left( {{F \\over {AY}}} \\right)l$$ = $$\\left( {{{F'} \\over {3AY}}} \\right){l \\over 3}$$\n<br><br>$$ \\Rightarrow $$ F' = 9F"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The power radiated by a black body is P and it\nradiates maximum energy at wavelength, $$\\lambda $$<sub>0</sub>\n. If\nthe temperature of the black body is now\nchanged so that it radiates maximum energy at\nwavelength $${3 \\over 4}{\\lambda _0}$$, the power radiated by it\nbecomes nP. The value of n is",
+      "options": [
+        {
+          "key": "A",
+          "value": "$${3 \\over 4}$$"
+        },
+        {
+          "key": "B",
+          "value": "$${4 \\over 3}$$"
+        },
+        {
+          "key": "C",
+          "value": "$${{256} \\over {81}}$$"
+        },
+        {
+          "key": "D",
+          "value": "$${{81} \\over {256}}$$"
+        }
+      ],
+      "answer": "C",
+      "explanation": "From Wien's law, $$\\lambda $$<sub>max</sub>T = constant\n<br><br>$$ \\therefore $$ $$\\lambda $$<sub>max<sub>1</sub></sub>T<sub>1</sub> = $$\\lambda $$<sub>max<sub>2</sub></sub>T<sub>2</sub>\n<br><br>$$ \\Rightarrow $$ $$\\lambda $$<sub>0</sub>T<sub>1</sub> = $${{3{\\lambda _0}} \\over 4}$$T<sub>2</sub>\n<br><br>$$ \\Rightarrow $$ $${{T_2} \\over T_1} = {4 \\over 3}$$\n\n<br><br>According to Stefan-Boltzmann law, energy emitted\n<br>unit time by a black body is Ae$$\\sigma $$T<sup>4</sup>,\n<br><br>$$ \\therefore $$ P $$ \\propto $$ T<sup>4</sup>\n<br><br>So $${{{P_2}} \\over {{P_1}}} = {\\left( {{{{T_2}} \\over {{T_1}}}} \\right)^4}$$ = $${\\left( {{4 \\over 3}} \\right)^4}$$\n<br><br>Here, P<sub>2</sub> = nP and P<sub>1</sub> = P\n<br><br>So, $${{nP} \\over P} = n = {\\left( {{{{T_2}} \\over {{T_1}}}} \\right)^4} = {\\left( {{4 \\over 3}} \\right)^4} = {{256} \\over {81}}$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A spherical black body with a radius of 12 cm radiates 450 watt power at 500 K. If the radius were halved and the temperature doubled, the power radiated in watt would be",
+      "options": [
+        {
+          "key": "A",
+          "value": "450"
+        },
+        {
+          "key": "B",
+          "value": "1000"
+        },
+        {
+          "key": "C",
+          "value": "1800"
+        },
+        {
+          "key": "D",
+          "value": "225"
+        }
+      ],
+      "answer": "C",
+      "explanation": "Given r<sub>1</sub> = 12 cm , r<sub>2</sub> = 6 cm<br><br>\n T<sub>1</sub> = 500 K and T<sub>2</sub> = 2 × 500 = 1000 K <br><br>P<sub>1</sub> = 450 watt<br><br> Rate of power loss $$P \\propto {r^2}{T^4}$$<br><br>\n$${{{P_1}} \\over {{P_2}}} = {{r_1^2T_1^4} \\over {r_2^2T_2^4}}$$<br><br>\n$${P_2} = {P_1}{{r_1^2T_1^4} \\over {r_2^2T_2^4}}$$<br><br>\nSolving we get,   P<sub>2</sub> = 1800 watt\n"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The bulk modulus of  a spherical object is 'B'. If it is subjected to uniform pressure 'P', the fractional decrease in radius is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$${B \\over {3p}}$$"
+        },
+        {
+          "key": "B",
+          "value": "$${{3p} \\over B}$$"
+        },
+        {
+          "key": "C",
+          "value": "$${p \\over {3B}}$$"
+        },
+        {
+          "key": "D",
+          "value": "$${p \\over B}$$"
+        }
+      ],
+      "answer": "C",
+      "explanation": "Bulk modulus is given by <br><br>\n$$B = {P \\over {\\left( {{{\\Delta V} \\over V}} \\right)}} \\Rightarrow {{\\Delta V} \\over V} = {P \\over B}$$<br><br>\n$$3{{\\Delta R} \\over R} = {P \\over B}$$&nbsp;&nbsp; (here, $${{\\Delta R} \\over R}$$ = fractional decreases in radius) <br><br>\n$$ \\Rightarrow {{\\Delta R} \\over R} = {P \\over {3B}}$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Three liquids of densities $$\\rho $$<sub>1</sub>, $$\\rho $$<sub>2</sub>&nbsp;&nbsp;and $$\\rho $$<sub>3</sub> (with $$\\rho $$<sub>1</sub> &gt; $$\\rho $$<sub>2</sub> &gt; $$\\rho $$<sub>3</sub>), having the same value of surface tension T, rise to the same height in three identical capillaries. The angles of contact $$\\theta $$<sub>1</sub>, $$\\theta $$<sub>2</sub> and $$\\theta $$<sub>3</sub> obey",
+      "options": [
+        {
+          "key": "A",
+          "value": "$${\\pi  \\over 2} &gt; {\\theta _1} &gt; {\\theta _2} &gt; {\\theta _3} \\ge 0$$"
+        },
+        {
+          "key": "B",
+          "value": "0 $$ \\le $$ $$\\theta $$<sub>1</sub> &lt; $$\\theta $$<sub>2</sub> &lt; $$\\theta $$<sub>3</sub> &lt; $${\\pi  \\over 2}$$"
+        },
+        {
+          "key": "C",
+          "value": "$${\\pi  \\over 2} &lt; {\\theta _1} &lt; {\\theta _2} &lt; {\\theta _3} &lt; \\pi $$"
+        },
+        {
+          "key": "D",
+          "value": "$$\\pi  &gt; {\\theta _1} &gt; {\\theta _2} &gt; {\\theta _3} &gt; {\\pi  \\over 2}$$"
+        }
+      ],
+      "answer": "B",
+      "explanation": "Capillary rise, $$h = {{2T\\cos \\theta } \\over {r\\rho g}}$$<br><br>\nFor given value of T and $$r,h \\propto {{\\cos \\theta } \\over \\rho }$$<br><br>\nAlso, $${h_1} = {h_2} = {h_3}$$ <br><br>or $${{\\cos {\\theta _1}} \\over {{\\rho _1}}} = {{\\cos {\\theta _2}} \\over {{\\rho _2}}} = {{\\cos {\\theta _3}} \\over {{\\rho _3}}}$$<br><br>\nSince, $${\\rho _1} &gt; {\\rho _2} &gt; {\\rho _3}$$, so $${\\cos {\\theta _1} &gt; \\cos {\\theta _2} &gt; \\cos {\\theta _3}}$$<br><br>\nFor $$0 \\le \\theta  &lt; {\\pi  \\over 2},{\\theta _1} &lt; {\\theta _2} &lt; {\\theta _3}$$<br><br>\nHence, $$0 \\le {\\theta _1} &lt; {\\theta _2} &lt; {\\theta _3} &lt; {\\pi  \\over 2}$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A rectangular film of liquid is extended from (4 cm $$ \\times $$ 2 cm) to (5 cm $$ \\times $$ 4 cm). If the work done is 3 $$ \\times $$ 10<sup>$$-$$4</sup> J, the value of the surface tension of the liquid is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "0.250 N m<sup>$$-$$1</sup> "
+        },
+        {
+          "key": "B",
+          "value": "0.125 N m<sup>$$-$$1</sup>"
+        },
+        {
+          "key": "C",
+          "value": "0.2 N m<sup>$$-$$1</sup>"
+        },
+        {
+          "key": "D",
+          "value": "8.0 N m<sup>$$-$$1</sup>"
+        }
+      ],
+      "answer": "B",
+      "explanation": "We have d = 2700 m, ρ = 10<sup>3</sup> kg/m3, compressibility = 45.4 × 10<sup>−11</sup> /pascal<br><br> Now the pressure at bottom of ocean is <br><br>\n p = ρgd  <br><br>= 10<sup>3</sup> × 10 × 2700  <br><br>= 27 × 10<sup>6</sup> Pa<br><br>\nHence, fractional compression<br><br>  = 45.4 × 10<sup>−11</sup> × 27 × 10<sup>6</sup><br><br>   = 1.2 × 10<sup>−2</sup> = 0.125 N m<sup>$$-$$1</sup>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Two identical bodies are made of a material for which the heat capacity increases with temperature. One of these is at 100<sup>o</sup>C, while the other one is at 0<sup>o</sup>C. If the two bodies are brought into contact, then, assuming no heat loss, the final common temperature is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "50 <sup>o</sup>C"
+        },
+        {
+          "key": "B",
+          "value": "more than 50 <sup>o</sup>C"
+        },
+        {
+          "key": "C",
+          "value": "less than 50 <sup>o</sup>C but greater than 0 <sup>o</sup>C"
+        },
+        {
+          "key": "D",
+          "value": "0 <sup>o</sup>C"
+        }
+      ],
+      "answer": "B",
+      "explanation": "If the final common temperature is T<sub>c</sub>, C<sub>c</sub> and C<sub>h</sub> average heat capacities of cold and hot bodies then as per principle of calorimetry,<br><br>\nheat lost = heat gained <br><br>\nC<sub>h</sub> (100°C – T<sub>c</sub>) = C<sub>c</sub> × T<sub>c</sub> <br><br>\nNow T<sub>c</sub> = C<sub>h</sub>/(C<sub>h</sub> + C<sub>c</sub>) × 100°C<br><br>\n= 100/[1 + (C<sub>c</sub>/C<sub>h</sub>)], &nbsp;&nbsp;&nbsp; where C<sub>c</sub>/C<sub>h</sub> &lt; 1 <br><br>\nIt is seen that 1 + C<sub>c</sub>/C<sub>h</sub> &lt; 2 <br><br>Hence,  T<sub>c</sub> &gt; (100/2)°C or T<sub>c</sub> &gt; 50°C"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A body cools from a temperature 3T to 2T in 10 minutes. The room temperature is T. Assume that Newton's law of cooling is applicable. The temperature of the body at the end of next 10 minutes will be",
+      "options": [
+        {
+          "key": "A",
+          "value": "$${7 \\over 4}\\,$$ T"
+        },
+        {
+          "key": "B",
+          "value": "$${3 \\over 2}$$ T"
+        },
+        {
+          "key": "C",
+          "value": "$${4 \\over 3}$$ T"
+        },
+        {
+          "key": "D",
+          "value": "T"
+        }
+      ],
+      "answer": "B",
+      "explanation": "According to Newton’s law of cooling,<br><br>\n$${{dT} \\over {dt}} = K\\left( {T - {T_s}} \\right)$$<br><br>\nFor two cases,<br><br>\n$${{d{T_1}} \\over {dt}} = K\\left( {{T_1} - {T_s}} \\right)$$<br><br>\nand $${{d{T_2}} \\over {dt}} = K\\left( {{T_2} - {T_s}} \\right)$$<br><br>\nHere, $${T_s} = T,{T_1} = {{3T + 2T} \\over 2} = 2.5T$$<br><br>\nand $${{d{T_1}} \\over {dt}} = {{3T - 2T} \\over {10}} = {T \\over {10}}$$<br><br>\n$${T_2} = {{2T + T'} \\over 2}$$ and $${{d{T_2}} \\over {dt}} = {{2T - T'} \\over {10}}$$<br><br>\nSo $${T \\over {10}} = K\\left( {2.5T - T} \\right)$$&nbsp;&nbsp;&nbsp;...(i)<br><br>\n$${{2T - T'} \\over {10}} = K\\left( {{{2T + T'} \\over 2} - T} \\right)$$&nbsp;&nbsp;&nbsp;...(ii)<br><br>\nDividing eqn. (i) by eqn. (ii), we get <br><br>\n$${T \\over {2T - T'}} = {{\\left( {2.5T - T} \\right)} \\over {\\left( {{{2T + T'} \\over 2} - T} \\right)}}$$<br><br>\n$${{2T + T'} \\over 2} - T = \\left( {2T - T'} \\right) \\times {3 \\over 2}$$<br><br>\n$$T' = 3\\left( {2T - T'} \\right) \\Rightarrow 4T' = 6T$$<br><br>\n$$ \\therefore T' = {3 \\over 2}T$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Coefficient of linear expansion of brass and steel rods are $$\\alpha $$<sub>1</sub> and $$\\alpha $$<sub>2</sub>. Lengths of brass and steel rods are $$l$$<sub>1</sub> and $$l$$<sub>2</sub> respectively. If ($$l$$<sub>1</sub> $$-$$ $$l$$<sub>2</sub>) is maintained same at all temperatures, which one of the following relations holds good? ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$\\alpha $$<sub>1</sub>$$l$$<sub>2</sub> = $$\\alpha $$<sub>2</sub> <sup>2</sup>$$l$$<sub>1</sub>"
+        },
+        {
+          "key": "B",
+          "value": "$$\\alpha $$<sub>1</sub>$$l$$<sub>1</sub> = $$\\alpha $$<sub>2</sub>l<sub>2</sub>"
+        },
+        {
+          "key": "C",
+          "value": "$$\\alpha $$<sub>1</sub>$$l$$<sub>2</sub> = $$\\alpha $$<sub>2</sub>$$l$$<sub>1</sub>"
+        },
+        {
+          "key": "D",
+          "value": "$$\\alpha $$<sub>1</sub>$$l$$<sub>2</sub><sup>2</sup>  = $$\\alpha $$<sub>2</sub>$$l$$<sub>1</sub><sup>2</sup>"
+        }
+      ],
+      "answer": "B",
+      "explanation": "From question, $$\\left( {{l_2} - {l_1}} \\right)$$ is maintained same at all temperatures hence change in length for both rods should be same<br><br> i.e., $$\\Delta {l_1} = \\Delta {l_2}$$ <br><br>As we know, coefficient of linear expansion,<br><br>\n$$\\alpha  = {{\\Delta l} \\over {{l_0}\\Delta T}}$$<br><br>\n$${l_1}{\\alpha _1}\\Delta T = {l_2}{\\alpha _2}\\Delta T$$<br><br>\n$${l_1}{\\alpha _1} = {l_2}{\\alpha _2}$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Two non-mixing liquids of densities $$\\rho $$ and n$$\\rho $$ (n &gt; 1) are put in a container. The height of each liquid is h. A solid cylinder of length L and density d is put in this container. The cylinder floats with its axis vertical and length $$\\rho $$L ($$\\rho $$ &lt; 1) in the denser liquid. The density d is equal to ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$\\left\\{ {2 + \\left( {n - 1} \\right)p} \\right\\}\\rho $$"
+        },
+        {
+          "key": "B",
+          "value": "$$\\left\\{ {1 + \\left( {n - 1} \\right)p} \\right\\}\\rho $$"
+        },
+        {
+          "key": "C",
+          "value": "$$\\left\\{ {1 + \\left( {n + 1} \\right)p} \\right\\}\\rho $$"
+        },
+        {
+          "key": "D",
+          "value": "$$\\left\\{ {2 + \\left( {n + 1} \\right)p} \\right\\}\\rho $$"
+        }
+      ],
+      "answer": "B",
+      "explanation": "According to Archimedes principle, <br><br>Weight of the cylinder = (upthrust)<sub>1</sub> + (upthrust)<sub>2 </sub><br><br>\ni.e.,   $$ALdg = \\left( {1 - p} \\right)LA\\rho g + \\left( {pLA} \\right)n\\rho g$$<br><br>\n$$ \\Rightarrow d = \\left( {1 - p} \\right)\\rho  + pn\\rho $$<br><br>\n$$ = \\rho  - p\\rho  + np\\rho $$<br><br>\n$$ = \\rho  + \\left( {n + 1} \\right)p\\rho $$<br><br>\n$$ = p\\left[ {1 + (n - 1)p} \\right]$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A piece of ice falls from a height h so that it melts completely. Only one-quarter of the heat produced is absorbed by the ice and all energy of ice gets converted into heat during its fall. The value of h [Latent heat of ice is $$3.4 \\times {10^5}$$ J/kg and g = 10 N/Kg]",
+      "options": [
+        {
+          "key": "A",
+          "value": "136 km"
+        },
+        {
+          "key": "B",
+          "value": "68 km"
+        },
+        {
+          "key": "C",
+          "value": "34 km"
+        },
+        {
+          "key": "D",
+          "value": "544 km"
+        }
+      ],
+      "answer": "A",
+      "explanation": "Energy gained by the ice during its fall E = mgh <br><br>\nAs, $${{mgh} \\over 4} = m{L_f}$$<br><br>\n$$h = {{m{L_f} \\times 4} \\over {mg}} = {{{L_f} \\times 4} \\over g}$$<br><br>\n$$ = {{3.4 \\times {{10}^5} \\times 4} \\over {10}} = 136000\\,m = 136\\,km$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The value of coefficient of volume expansion of glycerin is 5 $$ \\times $$ 10<sup>$$-$$4</sup> K<sup>$$-$$1</sup>. The fractional change in the density of glycerin for a rise of 40<sup>o</sup>C in its temperature, is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "0.025 "
+        },
+        {
+          "key": "B",
+          "value": "0.010 "
+        },
+        {
+          "key": "C",
+          "value": "0.015"
+        },
+        {
+          "key": "D",
+          "value": "0.020"
+        }
+      ],
+      "answer": "D",
+      "explanation": "Let r<sub>0</sub> and r<sub>T</sub> be densities of glycerin at 0°C and T°C respectively. Then, <br><br>\n$${\\rho _T} = {\\rho _0}\\left( {1 - \\gamma \\Delta T} \\right)$$<br><br>\nwhere $$\\gamma $$ is the coefficient of volume expansion of glycerine and $${\\Delta T}$$ is rise in temperature.<br><br>\n$${{{\\rho _T}} \\over {{\\rho _0}}} = 1 - \\gamma \\Delta T \\Rightarrow \\gamma \\Delta T = 1 - {{{\\rho _T}} \\over {{\\rho _0}}}$$<br><br>\nThus, $${{{\\rho _0} - {\\rho _T}} \\over {{\\rho _0}}} = \\gamma \\Delta T$$<br><br>\nHere, $$\\gamma  = 5 \\times {10^{ - 4}}{K^{ - 1}}$$ and $$\\Delta T = {40^o}C = 40K$$<br><br>\n$$ \\therefore $$ The fractional change in the density of glycerin\n<br><br>\n$$ = {{{\\rho _0} - {\\rho _T}} \\over {{\\rho _0}}} = \\gamma \\Delta T = \\left( {5 \\times {{10}^{ - 4}}{K^{ - 1}}} \\right)\\left( {40K} \\right) = 0.020$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Water rises to a height h in capillary tube. If the length of capillary tube above the surface of water is made less than h, then",
+      "options": [
+        {
+          "key": "A",
+          "value": "water rises upto a point a little below the top and stays there. "
+        },
+        {
+          "key": "B",
+          "value": "water does not rise at all. "
+        },
+        {
+          "key": "C",
+          "value": "water rises upto the tip of capillary tube and then starts overflowing like a fountain."
+        },
+        {
+          "key": "D",
+          "value": "water rises upto the top of capillary tube and stays there without overflowing. "
+        }
+      ],
+      "answer": "D",
+      "explanation": "Water will not overflow but will change its radius of curvature. "
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The cylindrical tube of a spray pump has radius R, one end of which has n fine holes, each of radius r. If the speed of the liquid in the tube is V, the speed of the ejection of the liquid through the holes is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$${{VR{}^2} \\over {{n^3}{r^2}}}$$"
+        },
+        {
+          "key": "B",
+          "value": "$${{{V^2}R} \\over {nr}}$$"
+        },
+        {
+          "key": "C",
+          "value": "$${{V{R^2}} \\over {{n^2}{r^2}}}$$"
+        },
+        {
+          "key": "D",
+          "value": "$${{V{R^2}} \\over {n{r^2}}}$$"
+        }
+      ],
+      "answer": "D",
+      "explanation": "Let the speed of the ejection of the liquid through the holes be v. Then according to the equation of continuity,<br><br>\n$$\\pi {R^2}V = n\\pi {r^2}v$$<br><br>\n$$ \\Rightarrow v = {{\\pi {R^2}V} \\over {n\\pi {r^2}}} = {{V{R^2}} \\over {n{r^2}}}$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The approximate depth of an ocean is 2700 m. The compressiblity of water is 45.4 $$ \\times $$ 10<sup>$$-$$11</sup> Pa<sup>$$-$$1</sup> and density of water is 10<sup>3</sup> kg/m<sup>3</sup>. What fractional compression of water will be obtained at the bottom of the ocean?",
+      "options": [
+        {
+          "key": "A",
+          "value": "1.2 $$ \\times $$ 10<sup>$$-$$2</sup>"
+        },
+        {
+          "key": "B",
+          "value": "1.4 $$ \\times $$ 10<sup>$$-$$2</sup>"
+        },
+        {
+          "key": "C",
+          "value": "0.8 $$ \\times $$ 10<sup>$$-$$2</sup>"
+        },
+        {
+          "key": "D",
+          "value": "1.0 $$ \\times $$ 10<sup>$$-$$2</sup>"
+        }
+      ],
+      "answer": "A",
+      "explanation": "Compressibility of water, K = 45.4 × 10<sup>–11</sup> Pa<sup>–1 </sup><br><br>\ndensity of water P = 10<sup>3</sup> kg/m<sup>3 </sup><br><br>\ndepth of ocean, h = 2700 m<br><br>\nWe have to find $${{\\Delta V} \\over V} = ?$$<br><br>\nAs we know, compressibility, <br><br>\n$$K = {1 \\over B} = {{\\left( {\\Delta V/V} \\right)} \\over P}\\left( {P = \\rho gh} \\right)$$<br><br>\nSo, $$\\left( {{{\\Delta V} \\over V}} \\right) = K\\rho gh$$<br><br>\n= 45.4 × 10<sup>–11</sup> × 10<sup>3</sup> × 10 × 2700  = 1.2258 × 10<sup>–2</sup>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "On observing light from three different starts P, Q and R, it was found that intensity of violet colour is maximum in the spectrum of P, the intensity of green colour is maximum in the spectrum of R and the intensity of red colour is maximum in the spectrum of Q. If T<sub>P</sub>, T<sub>Q</sub> and T<sub>R</sub> are the respective absolute temperatures of P, Q and R, then it can be conclued from the above observations that ",
+      "options": [
+        {
+          "key": "A",
+          "value": "T<sub>P</sub>  &lt;  T<sub>R</sub>  &lt;  T<sub>Q</sub>"
+        },
+        {
+          "key": "B",
+          "value": "T<sub>P</sub>  &lt;  T<sub>Q</sub>  &lt;  T<sub>R</sub>"
+        },
+        {
+          "key": "C",
+          "value": "T<sub>P</sub>  &gt;  T<sub>Q</sub>  &gt;  T<sub>R</sub>"
+        },
+        {
+          "key": "D",
+          "value": "T<sub>P</sub>  &gt;  T<sub>R</sub>  &gt;  T<sub>Q</sub>"
+        }
+      ],
+      "answer": "D",
+      "explanation": "According to Wein’s displacement law<br><br>\n$${\\lambda _m}T$$ = constant&nbsp;&nbsp;&nbsp; …(i) <br><br>\nFor star P, intensity of violet colour is maximum.<br> For star Q, intensity of red colour is maximum. <br>For star R, intensity of green colour is maximum.<br><br>\nAlso, $${\\lambda _r} &gt; {\\lambda _g} &gt; {\\lambda _v}$$<br><br> Using equation (i), T<sub>r</sub> &lt; T<sub>g</sub> &lt; T<sub>v</sub><br><br> T<sub>Q</sub> &lt; T<sub>R</sub> &lt; T<sub>P</sub>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A wind with speed 40 m/s blows parallel to the roof of a house. The area of the roof is 250 m<sup>2</sup>. Assuming that the pressure inside the house is atmospheric pressure, the force exerted by the wind on the roof and the direction of the force will be $$({\\rho _{air}} = 1.2kg/{m^3})$$",
+      "options": [
+        {
+          "key": "A",
+          "value": "2.4 $$ \\times $$ 10<sup>5</sup> N, upwards"
+        },
+        {
+          "key": "B",
+          "value": "2.4 $$ \\times $$ 10<sup>5</sup> N, downwards"
+        },
+        {
+          "key": "C",
+          "value": "4.8  $$ \\times $$ 10<sup>5</sup> N, downwards"
+        },
+        {
+          "key": "D",
+          "value": "4.8 $$ \\times $$ 10<sup>5</sup> N, upwards"
+        }
+      ],
+      "answer": "A",
+      "explanation": "Using Bernoulli's theorem and assuming density constant,<br><br>\nP<sub>1</sub>+1/2ρv<sub>1</sub><sup>2</sup> = P<sub>2</sub>+1/2ρv<sub>2</sub><sup>2</sup>\n<br><br>where:<br>P<sub>2</sub> = pressure outside house<br> P<sub>1</sub> = pressure inside house<br> v<sub>1</sub> = speed of air inside house<br> v<sub>2</sub> = speed of air outside house<br><br>\nPressure difference, <br><br>\nP<sub>1</sub> – P<sub>2</sub> = 1/2ρ\t[v<sub>2</sub><sup>2</sup> – v<sub>1</sub><sup>2</sup>] <br><br>\nNow,  P<sub>1</sub> – P<sub>2</sub> = 1/2 × 1.2 [40<sup>2</sup> – 0<sup>2</sup>] <br><br>\nP<sub>1</sub> – P<sub>2</sub> = 960 N/m<sup>2</sup> <br><br>\nSince Pressure P = Force/Area, so force acting on roof will be :<br><br>\nF = P × A<br><br>\nF = 960 × 250<br><br>\nF = 960 × 1000/4<br><br>\nF = 24×10<sup>4</sup> or 2.4×10<sup>5</sup> N <br><br>\nwhich is acting upward. "
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The two ends of a metal rod are maintained at temperatures 100<sup>o</sup>C and 110<sup>o</sup>C. The rate of heat flow in the rod is found to be 4.0 J/s. If the ends are maintained at temperatures 200<sup>o</sup>C and 210<sup>o</sup>C, the rate of heat flow will be ",
+      "options": [
+        {
+          "key": "A",
+          "value": "8.0 J/s"
+        },
+        {
+          "key": "B",
+          "value": "4.0 J/s"
+        },
+        {
+          "key": "C",
+          "value": "44.0 J/s"
+        },
+        {
+          "key": "D",
+          "value": "16.8 J/s"
+        }
+      ],
+      "answer": "B",
+      "explanation": "As the temperature difference $$\\Delta T$$ = 10°C as well as the thermal resistance is same for both the cases, so thermal current or rate of heat flow will also be same for both the cases."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A certain number of spherical drops of a liquid of radius r coalesce to form a single drop of radius R and volume V. If T is the surface tension of the liquid, then ",
+      "options": [
+        {
+          "key": "A",
+          "value": "energy = 4VT $$\\left( {{1 \\over r} - {1 \\over R}} \\right)$$ is released."
+        },
+        {
+          "key": "B",
+          "value": "energy = 3VT$$\\left( {{1 \\over r} + {1 \\over R}} \\right)$$ is absorbed."
+        },
+        {
+          "key": "C",
+          "value": "energy = 3VT$$\\left( {{1 \\over r} - {1 \\over R}} \\right)$$ is released"
+        },
+        {
+          "key": "D",
+          "value": "energy is neither released nor absorbed. "
+        }
+      ],
+      "answer": "C",
+      "explanation": "As surface area decreases so energy is released.<br><br> Energy released = $$4\\pi {R^2}T\\left[ {{n^{1/3}} - 1} \\right]$$ <br><br>\nwhere R = n<sup>1/3</sup>r<br><br>\n$$ = 4\\pi {R^3}T\\left[ {{1 \\over r} - {1 \\over R}} \\right] = 3VT\\left[ {{1 \\over r} - {1 \\over R}} \\right]$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Steam at 100<sup>o</sup>C is passed into 20 g of water at 10<sup>o</sup>C. When water acquires a temperature of 80<sup>o</sup>C, the mass of water present will be\n<br>[Take specific heat of water = 1 cal g<sup>$$-$$1</sup> <sup>o</sup>C<sup>$$-$$1</sup> and latent heat of steam = 540 cal g<sup>$$-$$1</sup>]",
+      "options": [
+        {
+          "key": "A",
+          "value": "24 g"
+        },
+        {
+          "key": "B",
+          "value": "31.5 g"
+        },
+        {
+          "key": "C",
+          "value": "42.5 g"
+        },
+        {
+          "key": "D",
+          "value": "22.5 g"
+        }
+      ],
+      "answer": "D",
+      "explanation": "According to the principle of calorimetry.<br><br>\n Heat lost = Heat gained<br><br>\n$$m{L_v} + m{s_w}\\Delta \\theta  = {m_w}{s_w}\\Delta \\theta $$<br><br>\n$$ \\Rightarrow $$ m × 540 + m × 1 × (100 – 80) <br><br>\n= 20 × 1 × (80 – 10) <br><br>\n$$ \\Rightarrow $$  m = 2.5 g<br><br>\nTherefore total mass of water at 80°C <br><br>\n= (20 + 2.5) g = 22.5 g "
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Certain quantity of water cools from 70<sup>o</sup>C to 60<sup>o</sup>C in the first 5 minutes and to 54<sup>o</sup>C in the next 5 minutes. The temperature of the surroundings is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "45<sup>o</sup>C"
+        },
+        {
+          "key": "B",
+          "value": "20<sup>o</sup>C"
+        },
+        {
+          "key": "C",
+          "value": "42<sup>o</sup>C"
+        },
+        {
+          "key": "D",
+          "value": "10<sup>o</sup>C"
+        }
+      ],
+      "answer": "A",
+      "explanation": "Let the temperature of surroundings be $${\\theta _0}$$ <br>By Newton's law of cooling<br><br>\n$${{{\\theta _1} - {\\theta _2}} \\over t} = k\\left[ {{{{\\theta _1} - {\\theta _2}} \\over 2} - {\\theta _0}} \\right]$$<br><br>\n$$ \\Rightarrow {{70 - 60} \\over 5} = k\\left[ {{{70 + 60} \\over 2} - {\\theta _0}} \\right]$$<br><br>\n$$ \\Rightarrow 2 = k\\left[ {65 - {\\theta _0}} \\right]$$<br><br>\nSimilarly, $${{60 - 54} \\over 5} = k\\left[ {{{60 + 54} \\over 2} - {\\theta _0}} \\right]$$<br><br>\n$$ \\Rightarrow {6 \\over 5} = k\\left[ {57 - {\\theta _0}} \\right]$$<br><br>\nBy dividing (i) by (ii) we have\n<br><br>\n$${{10} \\over 6} = {{65 - {\\theta _0}} \\over {57 - {\\theta _0}}} \\Rightarrow {\\theta _0} = {45^o}$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Copper of fixed volume V is drawn into wire of length $$l$$. When this wire is subjected to a constant force F, the extension produced in the wire is $$\\Delta $$$$l$$. Which of the following graphs is a straight line ? ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$\\Delta $$$$l$$ versus 1/$$l$$"
+        },
+        {
+          "key": "B",
+          "value": "$$\\Delta $$$$l$$ versus $$l$$<sup>2</sup>"
+        },
+        {
+          "key": "C",
+          "value": "$$\\Delta $$$$l$$ versus 1/$$l$$<sup>2</sup>"
+        },
+        {
+          "key": "D",
+          "value": "$$\\Delta $$$$l$$ versus $$l$$"
+        }
+      ],
+      "answer": "B",
+      "explanation": "From Young Modulus $$Y = Fl/A\\Delta l = Fl/\\left( {V/l} \\right)\\Delta l$$ <br><br>\nNow $$\\Delta l = F{l^2}/VY$$<br><br>\nAlso $$\\Delta l \\propto {l^2}$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Two metal rods 1 and 2 of same lengths have same temperature difference between their ends. Their thermal conductivities are K<sub>1</sub> and K<sub>2</sub> and cross sectional areas A<sub>1</sub> and A<sub>2</sub>, respectively. If the rate of heat conduction in 1 is four times that in 2, then ",
+      "options": [
+        {
+          "key": "A",
+          "value": "K<sub>1</sub>A<sub>1</sub> = 4K<sub>2</sub>A<sub>2</sub>"
+        },
+        {
+          "key": "B",
+          "value": "K<sub>1</sub>A<sub>1</sub> = 2K<sub>2</sub>A<sub>2</sub>"
+        },
+        {
+          "key": "C",
+          "value": "4K<sub>1</sub>A<sub>1</sub> = K<sub>2</sub>A<sub>2</sub>"
+        },
+        {
+          "key": "D",
+          "value": "K<sub>1</sub>A<sub>1</sub> = K<sub>2</sub>A<sub>2</sub>"
+        }
+      ],
+      "answer": "A",
+      "explanation": "Let L be length of each rod. Rate of heat flow in rod 1 for the temperature difference $$\\Delta T$$ is <br><br>\n$${H_1} = {{{K_1}{A_1}\\Delta T} \\over L}$$<br><br>\nRate of heat flow in rod 2 for the same difference $$\\Delta T$$ is<br><br>\n$${H_2} = {{{K_2}{A_2}\\Delta T} \\over L}$$<br><br>\nAs per question, H<sub>1</sub> = 4H<sub>2</sub> <br><br>\n$${{{K_1}{A_1}\\Delta T} \\over L} = 4{{{K_2}{A_2}\\Delta T} \\over L}$$<br><br>\n$$ \\Rightarrow {K_1}{A_1} = 4{K_2}{A_2}$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A fluid is in streamline flow across a horizontal pipe of variable area of cross section. For this which of the following statements is correct? ",
+      "options": [
+        {
+          "key": "A",
+          "value": "The velocity is maximum at the narrowest part of the pipe and pressure is maximum at the widest part of the pipe. "
+        },
+        {
+          "key": "B",
+          "value": "Velocity and pressure both are maximum at the narrowest part of the pipe. "
+        },
+        {
+          "key": "C",
+          "value": "velocity and pressure both are maximum at the widest part of the pipe. "
+        },
+        {
+          "key": "D",
+          "value": "The velocity is minimum at the narrowest part of the pipe and the pressure is minimum at the widest part of the pipe. "
+        }
+      ],
+      "answer": "A",
+      "explanation": "According to Bernoulli’s theorem, <br><br>\n$$P + {1 \\over 2}\\rho {v^2}$$ = constant and Av = constant <br><br>\nIf A is minimum, v is maximum, P is minimum. "
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The density of water at 20<sup>o</sup>C is 998 kg/m<sup>3</sup> and at 40<sup>o</sup>C is 992 kg/m<sup>3</sup>. The coefficient of volume expansion of water is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "3 $$ \\times $$ 10<sup>$$-$$4</sup>/<sup>o</sup>C"
+        },
+        {
+          "key": "B",
+          "value": "2 $$ \\times $$ 10<sup>$$-$$4</sup>/<sup>o</sup>C"
+        },
+        {
+          "key": "C",
+          "value": "6 $$ \\times $$ 10<sup>$$-$$4</sup>/<sup>o</sup>C"
+        },
+        {
+          "key": "D",
+          "value": "10 $$ \\times $$ 10<sup>$$-$$4</sup>/<sup>o</sup>C"
+        }
+      ],
+      "answer": "A",
+      "explanation": "From question,<br><br>\n$$\\Delta \\rho $$ = (998 – 992) kg/m<sup>3</sup> = 6 kg/m<sup>3</sup> <br><br>\n$$\\rho  = {{998 + 992} \\over 2}kg/{m^3} = 995\\,kg/{m^3}$$<br><br>\n$$\\rho  = {m \\over v}$$<br><br>\n$$ \\Rightarrow {{\\Delta \\rho } \\over \\rho } =  - {{\\Delta V} \\over V} \\Rightarrow \\left| {{{\\Delta \\rho } \\over \\rho }} \\right| = \\left| {{{\\Delta V} \\over V}} \\right|$$<br><br>\n$$ \\therefore $$ Coefficient of volume expansion of water,<br><br>\n$${1 \\over V}{{\\Delta V} \\over {\\Delta t}} = {1 \\over \\rho }{{\\Delta \\rho } \\over {\\Delta t}} = {6 \\over {995 \\times 20}} \\approx 3 \\times {10^{ - 4}}{/^o}C$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A piece of iron is heated in a flame. It first becomes dull red then becomes reddish yellow and finally turns to white hot. The correct explanation for the above observation is  possible by using",
+      "options": [
+        {
+          "key": "A",
+          "value": "Kirchhoff's Law"
+        },
+        {
+          "key": "B",
+          "value": "Newton's Law of cooling"
+        },
+        {
+          "key": "C",
+          "value": "Stefan's Law"
+        },
+        {
+          "key": "D",
+          "value": "Wien's displacement Law"
+        }
+      ],
+      "answer": "D",
+      "explanation": "According to Wien’s displacement law<br><br>\n$${\\lambda _m}T$$ = constant<br><br>\n$${\\lambda _m} = {{constant} \\over T}$$<br><br>\nSo when a piece of iron is heated, $${\\lambda _m}$$ decreases i.e. with rise in temperature the maximum intensity of radiation emitted gets shifted towards the shorter wavelengths. So the colour of the heated object will change that of longer wavelength (red) to that of shorter (reddish yellow) and when the temperature is sufficiently high and all wavelengths are emitted, the colour will become white."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The molar specific heats of an ideal gas at constant pressure and volume are denoted by C<sub>p</sub> and C<sub>v</sub>, respectively. If &nbsp;$$\\gamma $$ = $${{{C_p}} \\over {{C_v}}}$$ and R is the universal gas constant, then C<sub>v</sub> is equal to ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$${{\\left( {\\gamma  - 1} \\right)} \\over R}$$"
+        },
+        {
+          "key": "B",
+          "value": "$$\\gamma R$$"
+        },
+        {
+          "key": "C",
+          "value": "$${{1 + \\gamma } \\over {1 - \\gamma }}$$"
+        },
+        {
+          "key": "D",
+          "value": "$${R \\over {\\left( {\\gamma  - 1} \\right)}}$$"
+        }
+      ],
+      "answer": "D",
+      "explanation": "In case of ideal gas<br><br> C<sub>p</sub> – C<sub>v</sub> = R <br><br>\nbut $$\\gamma $$ = C<sub>p</sub>/C<sub>v</sub><br><br>\nSo, $${C_v} = {R \\over {\\gamma  - 1}}$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The following four wires are made of the same material. Which of these will have the largest extension when the same tension is applied? ",
+      "options": [
+        {
+          "key": "A",
+          "value": "length = 200 cm, diameter = 2 mm"
+        },
+        {
+          "key": "B",
+          "value": "length = 300 cm, diameter = 3 mm"
+        },
+        {
+          "key": "C",
+          "value": "length = 50 cm, diameter = 0.5 mm"
+        },
+        {
+          "key": "D",
+          "value": "length = 100 cm, diameter = 1 mm"
+        }
+      ],
+      "answer": "C",
+      "explanation": "$$F = {{YA} \\over L} \\times \\ell $$<br><br>\nSo, extension, $$\\ell  \\propto {L \\over A} \\propto {L \\over {{D^2}}}$$<br>\n[$$ \\therefore $$ F and Y are constant]<br><br>\n$${\\ell _1} \\propto {{100} \\over {{1^2}}} \\propto 100$$ and $${\\ell _2} \\propto {{200} \\over {{2^2}}} \\propto 50$$<br><br>\n$${\\ell _3} \\propto {{300} \\over {{3^2}}} \\propto {{100} \\over 3}$$ and $${\\ell _4} \\propto {{50} \\over {{1 \\over 4}}} \\propto 200$$<br><br>\nThe ratio of $${L \\over {{D^2}}}$$ is maximum for case (length = 50 cm, diameter = 0.5 mm)"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The wettability of a surface by a liquid depends primarily on ",
+      "options": [
+        {
+          "key": "A",
+          "value": "density"
+        },
+        {
+          "key": "B",
+          "value": "angle of contact between the surface and the liquid "
+        },
+        {
+          "key": "C",
+          "value": "viscosity "
+        },
+        {
+          "key": "D",
+          "value": "surface tension"
+        }
+      ],
+      "answer": "B",
+      "explanation": "The wettability of a surface by a liquid depends primarily on angle of contact between the surface and the liquid. "
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A slab of stone of area 0.36 m<sup>2</sup> and thickness 0.1 m is exposed on the lower surface to steam at 100<sup>o</sup>C. A block of ice at 0<sup>o</sup>C rests on the upper surface of the slab. In one hour 4.8 kg of ice is melted. The thermal conductivity of slab is\n<br>(Given latent heat of fusion of ice = 3.36 $$ \\times $$ 10<sup>5</sup> J kg<sup>$$-$$1</sup>)",
+      "options": [
+        {
+          "key": "A",
+          "value": "1.24 J/m/s/<sup>o</sup>C"
+        },
+        {
+          "key": "B",
+          "value": "1.29 J/m/s/<sup>o</sup>C"
+        },
+        {
+          "key": "C",
+          "value": "2.05 J/m/s/<sup>o</sup>C"
+        },
+        {
+          "key": "D",
+          "value": "1.02 J/m/s/<sup>o</sup>C"
+        }
+      ],
+      "answer": "A",
+      "explanation": "Rate of heat given by steam = Rate of heat taken by ice <br><br>\nwhere K = Thermal conductivity of the slab <br>\nm = Mass of the ice <br>\nL = Latent heat of melting/fusion<br>\nA = Area of the slab<br><br>\n$${{dQ} \\over {dt}} = {{KA\\left( {100 - 0} \\right)} \\over 1} = m{{dL} \\over {dt}}$$,<br><br>\n$${{K \\times 100 \\times 0.36} \\over {0.1}} = {{4.8 \\times 3.36 \\times {{10}^5}} \\over {60 \\times 60}}$$<br><br>\nK =1.24 J/m/s/°C"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "If the radius of a star is R and it acts as a black body, what would be the temperature of the star, in which the rate of energy production is Q? ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$${Q \\over {4\\pi {R^2}\\sigma }}$$"
+        },
+        {
+          "key": "B",
+          "value": "$${\\left( {{Q \\over {4\\pi {R^2}\\sigma }}} \\right)^{ - 1/2}}$$"
+        },
+        {
+          "key": "C",
+          "value": "$${\\left( {{{4\\pi {R^2}Q} \\over \\sigma }} \\right)^{1/4}}$$"
+        },
+        {
+          "key": "D",
+          "value": "$${\\left( {{Q \\over {4\\pi {R^2}\\sigma }}} \\right)^{1/4}}$$"
+        }
+      ],
+      "answer": "D",
+      "explanation": "Stefan’s law for black body radiation <br><br>\n$$Q = \\sigma eA{T^4}$$<br><br>\n$$ \\therefore T = {\\left[ {{Q \\over {\\sigma \\left( {4\\pi {R^2}} \\right)}}} \\right]^{1/4}}$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Assuming the sun to have a spherical outer surface of radius r, radiating like a black body at temperature t<sup>o</sup>C, the power received by a unit surface, (normal to the incident rays) at a distance R from the centre of the sun is \n<br>where $$\\sigma $$ is the Stefan's constant.",
+      "options": [
+        {
+          "key": "A",
+          "value": "$${{{r^2}\\sigma {{\\left( {t + 273} \\right)}^4}} \\over {4\\pi {R^2}}}$$"
+        },
+        {
+          "key": "B",
+          "value": "$${{16{\\pi ^2}{r^2}\\sigma {t^4}} \\over {{R^2}}}$$"
+        },
+        {
+          "key": "C",
+          "value": "$${{{r^2}\\sigma {{\\left( {t + 273} \\right)}^4}} \\over {{R^2}}}$$"
+        },
+        {
+          "key": "D",
+          "value": "$${{4\\pi {r^2}\\sigma {t^4}} \\over {{R^2}}}$$"
+        }
+      ],
+      "answer": "C",
+      "explanation": "Power radiated by the sun at t°C <br><br>\n$$ = \\sigma {\\left( {t + 273} \\right)^4}4\\pi {r^2}$$<br><br>\nPower received by a unit surface<br><br>\n$$ = {{\\sigma {{\\left( {t + 273} \\right)}^4}4\\pi {r^2}} \\over {4\\pi {R^2}}} = {{{r^2}\\sigma {{\\left( {t + 273} \\right)}^4}} \\over {{R^2}}}$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The total radiant energy per unit area, normal to the direction of incidence, received at a distance R from the centre of a star of radius r, whose outer surface radiates as a black body at a temperature TK is given by",
+      "options": [
+        {
+          "key": "A",
+          "value": "$${{\\sigma {r^2}{T^4}} \\over {{R^2}}}$$"
+        },
+        {
+          "key": "B",
+          "value": "$${{\\sigma {r^2}{T^4}} \\over {4\\pi {R^2}}}$$"
+        },
+        {
+          "key": "C",
+          "value": "$${{\\sigma {r^2}{T^4}} \\over {{R^4}}}$$"
+        },
+        {
+          "key": "D",
+          "value": "$${{4\\pi \\sigma {r^2}{T^4}} \\over {{R^2}}}$$"
+        }
+      ],
+      "answer": "A",
+      "explanation": "According to the Stefan Boltzmann law, the power radiated by the star whose outer surface radiates as a black body at temperature T K is given by <br><br>\n$$P = \\sigma 4\\pi {r^2}{T^4}$$<br><br><br>\nwhere, r = radius of the star<br> $$\\sigma $$ = Stefan’s constant<br><br>\nThe radiant power per unit area received at a distance R from the centre of a star is <br><br>\n$$S = {P \\over {4\\pi {R^2}}} = {{\\sigma 4\\pi {r^2}{T^4}} \\over {4\\pi {R^2}}} = {{\\sigma {r^2}{T^4}} \\over {{R^2}}}$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A cylindrical metallic rod in thermal contact with two reservoirs of heat at its two ends conducts an amount of heat Q in time t. The metallic rod is melted and the material is formed into a rod of half the radius of the original rod. What is the amount of heat conducted by the new rod, when placed in thermal contact with the two reservoirs in time t? ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$${Q \\over 4}$$"
+        },
+        {
+          "key": "B",
+          "value": "$${Q \\over {16}}$$"
+        },
+        {
+          "key": "C",
+          "value": "2Q"
+        },
+        {
+          "key": "D",
+          "value": "$${Q \\over 2}$$"
+        }
+      ],
+      "answer": "B",
+      "explanation": "The amount of heat flows in time t through a cylindrical metallic rod of length L and uniform area of cross-section $$A\\left( { = \\pi {R^2}} \\right)$$ with its ends maintained at temperatures T<sub>1</sub> and T<sub>2</sub> (T<sub>1</sub> &gt; T<sub>2</sub>) is given by <br><br>\n$$Q = {{KA\\left( {{T_1} - {T_2}} \\right)t} \\over L}$$&nbsp;&nbsp;&nbsp;...(i)<br><br>\nwhere K is the thermal conductivity of the material of the rod. <br>Area of cross-section of new rod <br><br>\n$$A' = \\pi {\\left( {{R \\over 2}} \\right)^2} = {{\\pi {R^2}} \\over 4} = {A \\over 4}$$&nbsp;&nbsp;&nbsp;...(ii)<br><br>\nAs the volume of the rod remains unchanged <br><br>\n$$ \\therefore $$ AL = A'L' <br><br>\nwhere L' is the length the new rod <br><br>\n$$ \\Rightarrow L' = L{A \\over {A'}}$$&nbsp;&nbsp;&nbsp;...(iii)<br><br>\n= 4L &nbsp;&nbsp;&nbsp; (Using (ii)) <br><br>\nNow, the amount of heat flows in same time t in the new rod with its ends maintained at the same temperatures T<sub>1</sub> and T<sub>2</sub> is given by <br><br>\n$$Q' = {{KA'\\left( {{T_1} - {T_2}} \\right)t} \\over {L'}}$$&nbsp;&nbsp;&nbsp;...(iv)<br><br>\nSubstituting the values of A' and L' from equations (ii) and (iii) in the above equation, we get <br><br>\n$$Q' = {{K(A/4)\\left( {{T_1} - {T_2}} \\right)t} \\over {4L}} = {1 \\over {16}}{{KA\\left( {{T_1} - {T_2}} \\right)t} \\over L} = {1 \\over {16}}Q$$<br>\n&nbsp;&nbsp;&nbsp;(Using (i))"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The two ends of a rod of length L and a uniform cross-sectional area A are Kept at two temperatures T<sub>1</sub> and T<sub>2</sub> (T<sub>1</sub> &gt; T<sub>2</sub>). The rate of heat transfer, $${{dQ} \\over {dt}}$$ through the rod in a steady state is given by :",
+      "options": [
+        {
+          "key": "A",
+          "value": "$${{dQ} \\over {dt}} = {{k\\left( {{T_1} - {T_2}} \\right)} \\over {LA}}$$"
+        },
+        {
+          "key": "B",
+          "value": "$${{dQ} \\over {dt}} = kLA({T_1} - {T_2})$$"
+        },
+        {
+          "key": "C",
+          "value": "$${{dQ} \\over {dt}} = {{kA\\left( {{T_1} - {T_2}} \\right)} \\over L}$$"
+        },
+        {
+          "key": "D",
+          "value": "$${{dQ} \\over {dt}} = {{kL\\left( {{T_1} - {T_2}} \\right)} \\over A}$$"
+        }
+      ],
+      "answer": "C",
+      "explanation": "Similar to I = V/R\n<br><br>\n$${{dQ} \\over {dt}} = {{kA} \\over L}\\left( {{T_1} - {T_2}} \\right)$$<br><br>\nk = conductivity of the rod.\n"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A black body at 227<sup>o</sup>C radiates heat at the rate of 7 cals/cm<sup>2</sup>s. At a temperature of 727<sup>o</sup>C, the rate of heat radiated in the same units will be ",
+      "options": [
+        {
+          "key": "A",
+          "value": "50"
+        },
+        {
+          "key": "B",
+          "value": "112"
+        },
+        {
+          "key": "C",
+          "value": "80"
+        },
+        {
+          "key": "D",
+          "value": "60"
+        }
+      ],
+      "answer": "B",
+      "explanation": "Rate of heat radiated at (227 + 273) K = 7 cals/(cm<sup>2</sup>s) <br><br>\nLet rate of heat radiated at (727 + 273) K = x cals/(cm<sup>2</sup>s) <br><br>\nBy Stefan’s law, 7 $$ \\propto $$ (500)<sup>4</sup> and x $$ \\propto $$ (1000)<sup>4</sup><br><br>\n$$ \\therefore $$ $${x \\over 7} = {2^4} \\Rightarrow x = 7 \\times {2^4} = 112\\,$$ cals/(cm<sup>2</sup>s)"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "On a new scale of temperature (which is linear) and called the W scale, the freezing and boiling points of water are 39<sup>o</sup>W and 239<sup>o</sup>W respectively.  What will be the temperature on the new scale, corresponding to a temperature of 39<sup>o</sup>C on the Celsius scale ? ",
+      "options": [
+        {
+          "key": "A",
+          "value": "200<sup>o</sup>W"
+        },
+        {
+          "key": "B",
+          "value": "139<sup>o</sup>W"
+        },
+        {
+          "key": "C",
+          "value": "78<sup>o</sup>W"
+        },
+        {
+          "key": "D",
+          "value": "117<sup>o</sup>W"
+        }
+      ],
+      "answer": "D",
+      "explanation": "W is the temperature on new scale corresponding to 39ºC on ºC scale. <br><br>\nSo, (C –  0)/(100 – 0) = (W – 39)/(239 – 39) <br><br>\n$$ \\Rightarrow $$ C/100 = (W – 39)/200<br><br>\n$$ \\Rightarrow $$ W = (C/100) × 200 + 39 <br><br>\n= (39/100) × 200 + 39 <br><br>\n= 78 + 39 = 117 <br><br>\nSo, temperature on new scale is 117°W corresponding to 39°C. "
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A black body is at 727<sup>o</sup>C. It emits energy at a rate which is proportional to ",
+      "options": [
+        {
+          "key": "A",
+          "value": "(1000)<sup>4</sup>"
+        },
+        {
+          "key": "B",
+          "value": "(1000)<sup>2</sup>"
+        },
+        {
+          "key": "C",
+          "value": "(727)<sup>4</sup>"
+        },
+        {
+          "key": "D",
+          "value": "(727)<sup>2</sup>"
+        }
+      ],
+      "answer": "A",
+      "explanation": "According to Stefan’s law, rate of energy radiated $$E \\propto {T^4}$$<br><br>\nwhere T is the absolute temperature of a black body.<br><br>\n$$ \\therefore E \\propto {\\left( {727 + 273} \\right)^4} \\Rightarrow E \\propto {\\left[ {1000} \\right]^4}$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Assuming the sun to have a spherical outer surface of radius r, radiating like a black body at temperature t<sup>o</sup>C, the power received by a unit surface, (normal to the incident rays) at a distance R from the centre of the sun is \n<br>where $$\\sigma $$ is the Stefan's constant.",
+      "options": [
+        {
+          "key": "A",
+          "value": "$${{{r^2}\\sigma {{\\left( {t + 273} \\right)}^4}} \\over {4\\pi {R^2}}}$$"
+        },
+        {
+          "key": "B",
+          "value": "$${{16{\\pi ^2}{r^2}\\sigma {t^4}} \\over {{R^2}}}$$"
+        },
+        {
+          "key": "C",
+          "value": "$${{{r^2}\\sigma {{\\left( {t + 273} \\right)}^4}} \\over {{R^2}}}$$"
+        },
+        {
+          "key": "D",
+          "value": "$${{4\\pi {r^2}\\sigma {t^4}} \\over {{R^2}}}$$"
+        }
+      ],
+      "answer": "C",
+      "explanation": "Power radiated by the sun at t°C <br><br>\n$$ = \\sigma {\\left( {t + 273} \\right)^4}4\\pi {r^2}$$<br><br>\nPower received by a unit surface<br><br>\n$$ = {{\\sigma {{\\left( {t + 273} \\right)}^4}4\\pi {r^2}} \\over {4\\pi {R^2}}} = {{{r^2}\\sigma {{\\left( {t + 273} \\right)}^4}} \\over {{R^2}}}$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A black body at 1227<sup>o</sup>C emits radiations with maximum intensity at a wavelength of 5000 $$\\mathop A\\limits^ \\circ  $$. If the temperature of the body is increased by 1000<sup>o</sup>C, the maximum intensity will be observed at ",
+      "options": [
+        {
+          "key": "A",
+          "value": "3000 $$\\mathop A\\limits^ \\circ  $$"
+        },
+        {
+          "key": "B",
+          "value": "4000$$\\mathop A\\limits^ \\circ  $$"
+        },
+        {
+          "key": "C",
+          "value": "5000$$\\mathop A\\limits^ \\circ  $$"
+        },
+        {
+          "key": "D",
+          "value": "6000$$\\mathop A\\limits^ \\circ  $$"
+        }
+      ],
+      "answer": "A",
+      "explanation": "Applying Wein's displacement law, <br><br>\n$${\\lambda _m}T = contant$$<br><br>\n$$5000{\\bf{{Å}}} \\times \\left( {1227 + 273} \\right) = \\left( {2227 + 273} \\right) \\times {\\lambda _m}$$<br><br>\n$${\\lambda _m} = {{5000 \\times 1500} \\over {1000}} = 3000Å$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Which of the following rods, (given radius r and length $$l$$) each made of the same material and whose ends are maintained at the same temperature will conduct most heat ? ",
+      "options": [
+        {
+          "key": "A",
+          "value": "r = r<sub>0</sub>,    $$l$$ = $$l$$<sub>0</sub>"
+        },
+        {
+          "key": "B",
+          "value": "r = 2r<sub>0</sub>,    $$l$$ = $$l$$<sub>0</sub>"
+        },
+        {
+          "key": "C",
+          "value": "r = r<sub>0</sub>,    $$l$$ = 2$$l$$<sub>0</sub>"
+        },
+        {
+          "key": "D",
+          "value": "r = 2r<sub>0</sub>,    $$l$$ = 2$$l$$<sub>0</sub>"
+        }
+      ],
+      "answer": "B",
+      "explanation": "Heat conducted\n<br><br>$$ = {{KA\\left( {{T_1} - {T_2}} \\right)t} \\over l} = {{K\\pi {r^2}\\left( {{T_1} - {T_2}} \\right)t} \\over l}$$<br><br>\nThe rod with the maximum ratio of A/$$l$$ will conduct most. Here the rod with r = 2r<sub>0</sub> and $$l = l_0$$ will conduct most. "
+    },
+    {
+      "_type": "single_mcq",
+      "body": "If  $$\\lambda $$<sub>m</sub>  denotes the wavelength at which the radioactive amission from a black body at a temperature TK is maximum, then ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$${\\lambda _m}\\, \\propto \\,{T^4}$$"
+        },
+        {
+          "key": "B",
+          "value": "$${\\lambda _m}$$ is independent of T"
+        },
+        {
+          "key": "C",
+          "value": "$${\\lambda _m}$$ $$ \\propto $$ T"
+        },
+        {
+          "key": "D",
+          "value": "$${\\lambda _m}\\, \\propto \\,{T^{ - 1}}$$"
+        }
+      ],
+      "answer": "D",
+      "explanation": "From Wein’s displacement law <br><br>\n$${\\lambda _m}T$$ = constant<br><br>\n$$ \\Rightarrow {\\lambda _m} \\propto {T^{ - 1}}$$\n"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Consider a compound slab consisting of two different materials having equal thicknesses and thermal conductivities K and 2K, respectively. The equivalent thermal conductivity of the slab is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$${2 \\over 3}K$$"
+        },
+        {
+          "key": "B",
+          "value": "$$\\sqrt 2 K$$"
+        },
+        {
+          "key": "C",
+          "value": "3 K"
+        },
+        {
+          "key": "D",
+          "value": "$${4 \\over 3}K$$"
+        }
+      ],
+      "answer": "D",
+      "explanation": "In series, equivalent thermal conductivity <br><br>\n$${K_{eq}} = {{2{K_1}{K_2}} \\over {{K_1} + {K_2}}}$$<br><br>\n$$ \\Rightarrow {K_{eq}} = {{2 \\times K \\times 2K} \\over {K + 2K}} = {4 \\over 3}K$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The Wien's displacement law express relation between",
+      "options": [
+        {
+          "key": "A",
+          "value": "wavelength corresponding to maximum energy and temperature"
+        },
+        {
+          "key": "B",
+          "value": "radiation energy and wavelength "
+        },
+        {
+          "key": "C",
+          "value": "temperature and wavelength"
+        },
+        {
+          "key": "D",
+          "value": "colour of light and temperature."
+        }
+      ],
+      "answer": "A",
+      "explanation": "Wien’s displacement law states that the product of absolute temperature and the wavelength at which the emissive power is maximum is constant i.e. $$\\lambda _{max}$$ T = constant. Therefore it expresses relation between wavelength corresponding to maximum energy and temperature.\n"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Consider two rods of same length and different specific heats (S<sub>1</sub>, S<sub>2</sub>), conductivities (K<sub>1</sub>, K<sub>2</sub>) and area of cross-sections (A<sub>1</sub>, A<sub>2</sub>) and both having temperatures T<sub>1</sub> and T<sub>2</sub> at their ends. If rate of loss of heat due to conduction is equal, then ",
+      "options": [
+        {
+          "key": "A",
+          "value": "K<sub>1</sub>A<sub>1</sub> = K<sub>2</sub>A<sub>2</sub>"
+        },
+        {
+          "key": "B",
+          "value": "$${{{K_1}{A_1}} \\over {{S_1}}} = {{{K_2}{A_2}} \\over {{S_2}}}$$"
+        },
+        {
+          "key": "C",
+          "value": "K<sub>2</sub>A<sub>1</sub> = K<sub>1</sub>A<sub>2</sub>"
+        },
+        {
+          "key": "D",
+          "value": "$${{{K_2}{A_1}} \\over {{S_2}}} = {{{K_1}{A_2}} \\over {{S_1}}}$$"
+        }
+      ],
+      "answer": "A",
+      "explanation": "Rate of heat loss in rod 1 = Q<sub>1</sub> $$ = {{{K_1}{A_1}\\left( {{T_1} - {T_2}} \\right)} \\over {{l_1}}}$$<br><br>\nRate of heat loss in rod 2 = Q<sub>2 </sub> $$ = {{{K_2}{A_2}\\left( {{T_1} - {T_2}} \\right)} \\over {{l_2}}}$$<br><br>\nBy problem, Q1 = Q2.<br><br>\n$$ \\therefore {{{K_1}{A_1}\\left( {{T_1} - {T_2}} \\right)} \\over {{l_1}}} = {{{K_2}{A_2}\\left( {{T_1} - {T_2}} \\right)} \\over {{l_2}}}$$<br><br>\n$$ \\therefore $$  K<sub>1</sub>A<sub>1</sub> = K<sub>2</sub>A<sub>2</sub>. &nbsp;&nbsp;$$\\left[ \\because{{l_1} = {l_2}} \\right]$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "For a black body at temperature 727<sup>o</sup>C, its radiating power is 60 watt and temperature of surrounding is 227<sup>o</sup>C. If temperature of black body is changed to 1227<sup>o</sup>C then its radiating power will be",
+      "options": [
+        {
+          "key": "A",
+          "value": "304 W"
+        },
+        {
+          "key": "B",
+          "value": "320 W"
+        },
+        {
+          "key": "C",
+          "value": "240 W"
+        },
+        {
+          "key": "D",
+          "value": "120 W"
+        }
+      ],
+      "answer": "B",
+      "explanation": "Radiating power of a black body <br><br>\n$$ = {E_0} = \\sigma \\left( {{T^4} - T_0^4} \\right)A$$<br><br>\nwhere $$\\sigma $$ is known as the Stefan-Boltzmann constant, A is the surface area of a black body, T is the temperature of the black body and T<sub>0</sub> is the temperature of the surrounding. <br><br>\n$$ \\therefore $$ 60 = $$\\sigma $$(1000<sup>4</sup> – 500<sup>4</sup>)&nbsp;&nbsp;&nbsp; ...(i) <br><br>\n[T = 727<sup>o</sup>C = 727 + 273 = 1000 K, T0 = 227<sup>o</sup>C = 500 K]. <br><br>\nIn the second case, T = 1227<sup>o</sup>C = 1500 K and let E' be the radiating power. <br><br>\n$$ \\therefore $$ E' =  $$\\sigma $$(1500<sup>4</sup> – 500<sup>4</sup>)&nbsp;&nbsp;&nbsp; ...(ii) <br><br>\nFrom (i) and (ii) we have <br><br>\n$${{E'} \\over {60}} = {{{{1500}^4} - {{500}^4}} \\over {{{1000}^4} - {{500}^4}}} = {{{{15}^4} - {5^4}} \\over {{{10}^4} - {5^4}}} = {{50000} \\over {9375}}$$<br><br>\n$$ \\therefore $$ $$E' = {{50000} \\over {9375}} \\times 60 = 320\\,W$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Unit of Stefan's constant is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "watt m<sup>2</sup> K<sup>4</sup> "
+        },
+        {
+          "key": "B",
+          "value": "watt m<sup>2</sup>/K<sup>4</sup>"
+        },
+        {
+          "key": "C",
+          "value": "watt/m<sup>2</sup> K"
+        },
+        {
+          "key": "D",
+          "value": "watt/m<sup>2</sup>K<sup>4</sup>"
+        }
+      ],
+      "answer": "D",
+      "explanation": "Unit of Stefan’s constant is watt/m<sup>2</sup>K<sup>4</sup>.\n"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A cylindrical rod having temperature T<sub>1</sub> and T<sub>2</sub> at its end. The rate of flow of heat Q<sub>1</sub> cal/sec. If all the linear dimension are doubled keeping temperature constant, then rate of flow of heat Q<sub>2</sub> will be ",
+      "options": [
+        {
+          "key": "A",
+          "value": "4Q<sub>1</sub>"
+        },
+        {
+          "key": "B",
+          "value": "2Q<sub>1</sub> "
+        },
+        {
+          "key": "C",
+          "value": "$${{{Q_1}} \\over 4}$$"
+        },
+        {
+          "key": "D",
+          "value": "$${{{Q_1}} \\over 2}$$"
+        }
+      ],
+      "answer": "B",
+      "explanation": "Heat flow rate  $${{dQ} \\over {dt}} = {{KA\\left( {{T_1} - {T_2}} \\right)} \\over L} = Q$$<br><br>\nWhen linear dimensions are double. <br><br>\n$${A_1} \\propto r_1^2,{L_1} = L$$<br><br>\n$${A_2} \\propto 4r_1^2,{L_2} = 2L \\Rightarrow {Q_2} = 2{Q_1}$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A black body has maximum wavelength $$\\lambda $$<sub>m</sub> at 2000 K. Its corresponding wavelength at 3000 K will be",
+      "options": [
+        {
+          "key": "A",
+          "value": "$${3 \\over 2}{\\lambda _m}$$"
+        },
+        {
+          "key": "B",
+          "value": "$${2 \\over 3}{\\lambda _m}$$"
+        },
+        {
+          "key": "C",
+          "value": "$${{16} \\over {81}}{\\lambda _m}$$"
+        },
+        {
+          "key": "D",
+          "value": "$${{81} \\over {16}}{\\lambda _m}$$"
+        }
+      ],
+      "answer": "B",
+      "explanation": "According\nto Wein's displacement law, <br><br>\n$${\\lambda _m}T$$ = 2.88 × 10<sup>–3</sup> <br><br>\nWhen T = 2000 K, <br><br>\n$${\\lambda _m}$$(2000) = 2.88 × 10<sup>–3</sup>&nbsp;&nbsp; ....(1) <br><br>\nWhen T = 3000 K,<br><br>\n$$\\lambda _m^{'}$$ (3000) = 2.88 × 10<sup>–3</sup>&nbsp;&nbsp;&nbsp; ....(2) <br><br>\nDividing (1) by (2), <br><br>\n$${2 \\over 3}{{{\\lambda _m}} \\over {\\lambda _m^{'}}} = 1$$<br><br>\n$$ \\Rightarrow {{{\\lambda _m}} \\over {\\lambda _m^{'}}} = {3 \\over 2}$$<br><br>\n$$ \\Rightarrow \\lambda _m^{'} = {2 \\over 3}{\\lambda _m}$$"
+    }
+  ]
+}

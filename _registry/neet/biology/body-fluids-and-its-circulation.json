@@ -1,0 +1,1543 @@
+{
+  "_index": {
+    "name": "Body Fluids and Its Circulation"
+  },
+  "_children": [
+    {
+      "_type": "single_mcq",
+      "body": "<p>A person with blood group ARh– can receive the blood transfusion from which of the following types?</p>\n<p>A. BRh$$^–$$</p>\n<p>B. ABRh$$^–$$</p>\n<p>C. ORh$$^–$$</p>\n<p>D. ARh$$^–$$</p>\n<p>E. ARh$$^+$$</p>\n<p>Choose the correct answer from the options given below :</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "D and E only\n"
+        },
+        {
+          "key": "B",
+          "value": "D only\n"
+        },
+        {
+          "key": "C",
+          "value": "A and B only\n"
+        },
+        {
+          "key": "D",
+          "value": "C and D only"
+        }
+      ],
+      "answer": "D",
+      "explanation": "<p>The blood group of a person determines which antigens are present on the surface of their red blood cells and which antibodies are present in their plasma. In this case, ARh$$^-$$ implies that the person has A antigens on the surface of the red blood cells and does not have the Rh antigen (Rh-negative). Therefore, the person with ARh$$^-$$ blood can only receive blood from donors whose blood does not contain any antigens that their immune system would recognize as foreign and mount a response against.</p>\n\n<p>For a person with ARh$$^-$$ blood, suitable donors would have:</p>\n\n<p>1. A antigen (to match the recipient's A antigen) and be Rh-negative.</p>\n\n<p>2. O blood group (which has no A/B antigens) and be Rh-negative.</p>\n\n<p>Let's go through the options:</p>\n\n<ul>\n\n<li><strong>BRh$$^-$$:</strong> This blood group has B antigens, which would be recognized as foreign by the immune system of an A blood group recipient, hence it is not suitable.</li>\n\n<p></p>\n\n<li><strong>ABRh$$^-$$:</strong> This blood group has both A and B antigens, which would also be recognized as foreign due to the presence of the B antigen, making it unsuitable.</li>\n\n<p></p>\n\n<li><strong>ORh$$^-$$:</strong> This blood group has no A/B antigens, making it a universal donor for all ABO blood types and thus it is suitable for ARh$$^-$$ recipients.</li>\n\n<p></p>\n\n<li><strong>ARh$$^-$$:</strong> This blood group matches perfectly with the recipient since it has the same A antigen and is Rh-negative.</li>\n\n<p></p>\n\n<li><strong>ARh$$^+$$:</strong> This blood group has the A antigen but also has the Rh antigen (Rh-positive). The Rh antigen can trigger an immune response in someone who is Rh-negative, making this option unsuitable.</li>\n\n</ul>\n\n<p>Therefore, the correct answer is:</p>\n\n<p><strong>Option D: C and D only</strong></p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Diuresis is prevented by:</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "Renin from JG cell via switching off the osmoreceptors \n"
+        },
+        {
+          "key": "B",
+          "value": "ANF from atria of the heart\n"
+        },
+        {
+          "key": "C",
+          "value": "Aldosterone from adrenal medulla\n"
+        },
+        {
+          "key": "D",
+          "value": "Vasopressin from Neurohypophysis"
+        }
+      ],
+      "answer": "D",
+      "explanation": "<p>The correct answer is <strong>Option D: Vasopressin from Neurohypophysis</strong>. Here's why:</p>\n\n<p>Diuresis refers to increased urine production.  Let's break down how each option affects urine production:</p>\n\n<p><strong>Option A: Renin from JG cells via switching off the osmoreceptors</strong></p>\n\n<p>Renin, released from the juxtaglomerular (JG) cells, is part of the renin-angiotensin-aldosterone system (RAAS).  RAAS primarily affects blood pressure and volume by:</p>\n\n<ul>\n\n<li><strong>Increasing sodium reabsorption:</strong> This leads to water retention, thus increasing blood volume. </li>\n\n<li><strong>Constricting blood vessels:</strong> This raises blood pressure.</li>\n\n</ul>\n\n<p>While RAAS can indirectly influence urine production, it doesn't directly prevent diuresis.  Also, osmoreceptors are stimulated by increased blood osmolarity, not switched off by renin.</p>\n\n<p><strong>Option B: ANF from atria of the heart</strong></p>\n\n<p>Atrial natriuretic factor (ANF) is a hormone released from the heart's atria in response to high blood pressure. ANF acts to:</p>\n\n<ul>\n\n<li><strong>Decrease sodium reabsorption:</strong> This leads to increased urine output (diuresis) and lowers blood volume.</li>\n\n<li><strong>Dilate blood vessels:</strong> This lowers blood pressure.</li>\n\n</ul>\n\n<p>Therefore, ANF actually promotes diuresis, not prevents it.</p>\n\n<p><strong>Option C: Aldosterone from adrenal medulla</strong></p>\n\n<p>Aldosterone is a hormone secreted by the adrenal cortex, not the medulla. Its primary function is to increase sodium reabsorption in the kidneys, leading to water retention and increased blood volume. This effect is opposite to diuresis.</p>\n\n<p><strong>Option D: Vasopressin from Neurohypophysis</strong></p>\n\n<p>Vasopressin, also known as antidiuretic hormone (ADH), is released from the posterior pituitary gland (neurohypophysis). Vasopressin plays a crucial role in regulating water balance by:</p>\n\n<ul>\n\n<li><strong>Increasing water reabsorption in the kidneys:</strong> This leads to concentrated urine and decreased urine output, preventing diuresis.</li>\n\n</ul>\n\n<p>Vasopressin's action is the direct opposite of diuresis, making it the most effective in preventing excessive urine production.</p>\n\n<p><strong>In summary:</strong> Vasopressin (ADH) is the primary hormone responsible for preventing diuresis by increasing water reabsorption in the kidneys.</p>\n\n<p></p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>'Lub' sound of Heart is caused by the _________.</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "closure of the semilunar valves\n"
+        },
+        {
+          "key": "B",
+          "value": "opening of tricuspid and bicuspid valves\n"
+        },
+        {
+          "key": "C",
+          "value": "opening of the semilunar valves\n"
+        },
+        {
+          "key": "D",
+          "value": "closure of the tricuspid and bicuspid valves"
+        }
+      ],
+      "answer": "D",
+      "explanation": "<p>The correct answer is <strong>Option D: closure of the tricuspid and bicuspid valves</strong>. Here's why:</p>\n\n<p>The \"lub\" sound of the heartbeat, known as the <strong>first heart sound (S1)</strong>, is produced by the closure of the atrioventricular (AV) valves. These valves are the tricuspid valve (between the right atrium and right ventricle) and the bicuspid (mitral) valve (between the left atrium and left ventricle).</p>\n\n<p>Here's a breakdown of the heart sounds and the events causing them:</p>\n\n<ul>\n\n<li><strong>S1 (Lub):</strong> Closure of the AV valves (tricuspid and bicuspid). This occurs at the beginning of ventricular contraction (systole) when the ventricles are pushing blood out.</li>\n\n<li><strong>S2 (Dub):</strong> Closure of the semilunar valves (pulmonary and aortic). This happens at the end of ventricular contraction when the ventricles are relaxing and filling with blood.</li>\n\n</ul>\n\n<p>Let's look at why the other options are incorrect:</p>\n\n<ul>\n\n<li><strong>Option A: closure of the semilunar valves</strong>: This causes the \"dub\" sound, not the \"lub\" sound.</li>\n\n<li><strong>Option B: opening of tricuspid and bicuspid valves</strong>: This occurs during diastole (ventricular relaxation) and doesn't produce a significant heart sound.</li>\n\n<li><strong>Option C: opening of the semilunar valves</strong>: This happens at the beginning of ventricular contraction and is silent.</li>\n\n</ul>\n\n<p>In summary, the \"lub\" sound of the heart is generated by the closure of the tricuspid and bicuspid valves as the ventricles contract and push blood into the aorta and pulmonary arteries.</p>\n\n<p></p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Following are the stages of pathway for conduction of an action potential through the heart</p>\n<p>A. AV bundle</p>\n<p>B. Purkinje fibres</p>\n<p>C. AV node</p>\n<p>D. Bundle branches</p>\n<p>E. SA node</p>\n<p>Choose the correct sequence of pathway from the options given below</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "E-C-A-D-B\n"
+        },
+        {
+          "key": "B",
+          "value": "A-E-C-B-D\n"
+        },
+        {
+          "key": "C",
+          "value": "B-D-E-C-A\n"
+        },
+        {
+          "key": "D",
+          "value": "E-A-D-B-C\n"
+        }
+      ],
+      "answer": "A",
+      "explanation": "<p>The electrical pathway for the conduction of an action potential through the heart is a precisely coordinated process, essential for maintaining the heart's rhythmic beating. To understand this conduction pathway, it’s important to know the roles of the specific components involved:</p>\n\n<ul>\n\n<li><strong>SA node (Sinoatrial node)</strong>: Often referred to as the pacemaker of the heart. It initiates the electrical impulse, causing the atria to contract.</li>\n\n<li><strong>AV node (Atrioventricular node)</strong>: Receives the impulse from the SA node and provides a slight delay, allowing the ventricles time to fill with blood before they contract.</li>\n\n<li><strong>AV bundle (Bundle of His)</strong>: Transfers the electrical impulse from the AV node to the bundle branches.</li>\n\n<li><strong>Bundle branches</strong>: Conducts the impulses through the interventricular septum.</li>\n\n<li><strong>Purkinje fibers</strong>: Distribute the electrical impulse throughout the ventricles, stimulating them to contract uniformly and powerfully.</li>\n\n</ul>\n\n<p>The correct sequence for the pathway of an action potential through the heart follows a route designed to efficiently coordinate the heartbeat starting from the initiation of the action potential to the consequential contraction of the heart muscles. The sequence is: </p>\n\n<ol>\n\n<li><strong>SA node (E)</strong>: The pacemaker where the electrical activity originates.</li>\n\n<li><strong>AV node (C)</strong>: Where the impulse is delayed slightly.</li>\n\n<li><strong>AV bundle (A)</strong>: Conducts the impulse from the AV node to the bundle branches.</li>\n\n<li><strong>Bundle branches (D)</strong>: Leads the impulse to the Purkinje fibers.</li>\n\n<li><strong>Purkinje fibers (B)</strong>: Distributes the impulse throughout the ventricles.</li>\n\n</ol>\n\n<p>By examining the options provided with the above understanding:</p>\n\n<ul>\n\n<li>Option A: E-C-A-D-B </li>\n\n<li>Option B: A-E-C-B-D </li>\n\n<li>Option C: B-D-E-C-A </li>\n\n<li>Option D: E-A-D-B-C </li>\n\n</ul>\n\n<p>Option A (E-C-A-D-B) correctly reflects the order in which the electrical impulse travels through the cardiac conduction system, beginning with the SA node and ending in the Purkinje fibers. Hence, Option A is the correct answer.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Match List I with List II :</p>\n<p><style type=\"text/css\">\n.tg  {border-collapse:collapse;border-spacing:0;}\n.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}\n.tg .tg-7btt{border-color:inherit;font-weight:bold;text-align:center;vertical-align:top}\n.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}\n</style>\n<table class=\"tg\" style=\"undefined;table-layout: fixed; width: 692px\">\n<colgroup>\n<col style=\"width: 71px\">\n<col style=\"width: 252px\">\n<col style=\"width: 74px\">\n<col style=\"width: 295px\">\n</colgroup>\n<thead>\n  <tr>\n    <th class=\"tg-7btt\"></th>\n    <th class=\"tg-7btt\">List - I</th>\n    <th class=\"tg-7btt\"></th>\n    <th class=\"tg-7btt\">List - II</th>\n  </tr>\n</thead>\n<tbody>\n  <tr>\n    <td class=\"tg-c3ow\">A.</td>\n    <td class=\"tg-0pky\">P wave</td>\n    <td class=\"tg-c3ow\">(i)</td>\n    <td class=\"tg-0pky\">Heart muscles are electrically silent.</td>\n  </tr>\n  <tr>\n    <td class=\"tg-c3ow\">B.</td>\n    <td class=\"tg-0pky\">QRS complex</td>\n    <td class=\"tg-c3ow\">(ii)</td>\n    <td class=\"tg-0pky\">Depolarisation of ventricles.</td>\n  </tr>\n  <tr>\n    <td class=\"tg-c3ow\">C.</td>\n    <td class=\"tg-0pky\">T wave</td>\n    <td class=\"tg-c3ow\">(iii)</td>\n    <td class=\"tg-0pky\">Depolarisation of atria.</td>\n  </tr>\n  <tr>\n    <td class=\"tg-c3ow\">D.</td>\n    <td class=\"tg-0pky\">T-P gap</td>\n    <td class=\"tg-c3ow\">(iv)</td>\n    <td class=\"tg-0pky\">Repolarisation of ventricles.</td>\n  </tr>\n</tbody>\n</table></p>\n<p>Choose the correct answer from the options given below :</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "A-I, B-III, C-IV, D-II\n"
+        },
+        {
+          "key": "B",
+          "value": "A-III, B-II, C-IV, D-I\n"
+        },
+        {
+          "key": "C",
+          "value": "A-II, B-III, C-I, D-IV\n"
+        },
+        {
+          "key": "D",
+          "value": "A-IV, B-II, C-I, D-III"
+        }
+      ],
+      "answer": "B",
+      "explanation": "<p><strong>Option B:</strong><br />\n$$ A \\rightarrow \\text{(iii)}, B \\rightarrow \\text{(ii)}, C \\rightarrow \\text{(iv)}, D \\rightarrow \\text{(i)} $$</p>\n\n<p><strong>A. P wave</strong> corresponds to <strong>(iii) Depolarisation of atria.</strong></p>\n<p><strong>B. QRS complex</strong> corresponds to <strong>(ii) Depolarisation of ventricles.</strong></p>\n<p><strong>C. T wave</strong> corresponds to <strong>(iv) Repolarisation of ventricles.</strong></p>\n<p><strong>D. T-P gap</strong> corresponds to <strong>(i) Heart muscles are electrically silent.</strong></p>\n"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Match List-I with List-II. </p>\n<p><style type=\"text/css\">\n.tg  {border-collapse:collapse;border-spacing:0;}\n.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}\n.tg .tg-7btt{border-color:inherit;font-weight:bold;text-align:center;vertical-align:top}\n.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}\n</style>\n<table class=\"tg\" style=\"undefined;table-layout: fixed; width: 457px\">\n<colgroup>\n<col style=\"width: 48px\">\n<col style=\"width: 170px\">\n<col style=\"width: 55px\">\n<col style=\"width: 184px\">\n</colgroup>\n<thead>\n  <tr>\n    <th class=\"tg-7btt\"></th>\n    <th class=\"tg-7btt\">List - I<br>(ECG)</th>\n    <th class=\"tg-7btt\"></th>\n    <th class=\"tg-7btt\">List - II<br>(Electrical activity of heart)</th>\n  </tr>\n</thead>\n<tbody>\n  <tr>\n    <td class=\"tg-c3ow\">(A)</td>\n    <td class=\"tg-0pky\">P-wave</td>\n    <td class=\"tg-c3ow\">(I)</td>\n    <td class=\"tg-0pky\">Depolarisation of ventricles</td>\n  </tr>\n  <tr>\n    <td class=\"tg-c3ow\">(B)</td>\n    <td class=\"tg-0pky\">QRS complex</td>\n    <td class=\"tg-c3ow\">(II)</td>\n    <td class=\"tg-0pky\">End of systole</td>\n  </tr>\n  <tr>\n    <td class=\"tg-c3ow\">(C)</td>\n    <td class=\"tg-0pky\">T wave</td>\n    <td class=\"tg-c3ow\">(III)</td>\n    <td class=\"tg-0pky\">Depolarisation of atria</td>\n  </tr>\n  <tr>\n    <td class=\"tg-c3ow\">(D)</td>\n    <td class=\"tg-0pky\">End of T wave</td>\n    <td class=\"tg-c3ow\">(IV)</td>\n    <td class=\"tg-0pky\">Repolarisation of ventricles</td>\n  </tr>\n</tbody>\n</table></p>\n<p>Choose the correct answer from the options given \nbelow : </p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "A-(IV), B-(I), C-(III), D-(II) "
+        },
+        {
+          "key": "B",
+          "value": " A-(I), B-(IV), C-(III), D-(II)"
+        },
+        {
+          "key": "C",
+          "value": "A-(IV), B-(III), C-(I), D-(II) "
+        },
+        {
+          "key": "D",
+          "value": " A-(III), B-(I), C-(IV), D-(II) "
+        }
+      ],
+      "answer": "D",
+      "explanation": "<p>An ECG (Electrocardiogram) is a test that measures the electrical activities of the heart. Each wave in an ECG represents a certain part of the heart&#39;s electrical activity:</p>\n<ol>\n<li><b>P wave :</b> This wave occurs prior to the contraction of the atria (atrial contraction). It represents the depolarization of the atria.</li>\n<br/><li><b>QRS complex :</b> This is a series of three graph deflections seen on a typical electrocardiogram. It corresponds to the depolarization of the ventricles, which initiates the ventricular contraction.</li>\n<br/><li><b>T wave :</b> The T wave represents the repolarization (or recovery) of the ventricles.</li>\n</ol>\n<p>By matching these descriptions with the options provided :</p>\n<p>(A) P-wave - Depolarisation of atria (III)\n<br/><br/>(B) QRS complex - Depolarisation of ventricles (I)\n<br/><br/>(C) T wave - Repolarisation of ventricles (IV)\n<br/><br/>(D) End of T wave - End of systole (II)</p>\n<p>So, the correct answer seems to be Option D : A-(III), B-(I), C-(IV), D-(II) </p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Match List-I with List-II.</p>\n<p><style type=\"text/css\">\n.tg  {border-collapse:collapse;border-spacing:0;}\n.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}\n.tg .tg-7btt{border-color:inherit;font-weight:bold;text-align:center;vertical-align:top}\n.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}\n</style>\n<table class=\"tg\" style=\"undefined;table-layout: fixed; width: 457px\">\n<colgroup>\n<col style=\"width: 48px\">\n<col style=\"width: 170px\">\n<col style=\"width: 55px\">\n<col style=\"width: 184px\">\n</colgroup>\n<thead>\n  <tr>\n    <th class=\"tg-7btt\"></th>\n    <th class=\"tg-7btt\">List - I</th>\n    <th class=\"tg-7btt\"></th>\n    <th class=\"tg-7btt\">List - II</th>\n  </tr>\n</thead>\n<tbody>\n  <tr>\n    <td class=\"tg-c3ow\">(A)</td>\n    <td class=\"tg-0pky\">Eosinophils</td>\n    <td class=\"tg-c3ow\">(I)</td>\n    <td class=\"tg-0pky\">6 - 8%</td>\n  </tr>\n  <tr>\n    <td class=\"tg-c3ow\">(B)</td>\n    <td class=\"tg-0pky\">Lymphocytes</td>\n    <td class=\"tg-c3ow\">(II)</td>\n    <td class=\"tg-0pky\">2 - 3%</td>\n  </tr>\n  <tr>\n    <td class=\"tg-c3ow\">(C)</td>\n    <td class=\"tg-0pky\">Neutrophils  </td>\n    <td class=\"tg-c3ow\">(III)</td>\n    <td class=\"tg-0pky\">20 - 25%</td>\n  </tr>\n  <tr>\n    <td class=\"tg-c3ow\">(D)</td>\n    <td class=\"tg-0pky\">Monocytes</td>\n    <td class=\"tg-c3ow\">(IV)</td>\n    <td class=\"tg-0pky\">60 - 65%</td>\n  </tr>\n</tbody>\n</table></p>\n<p>Choose the correct answer from the options given \nbelow :</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "A-(IV), B-(I), C-(II), D-(III)"
+        },
+        {
+          "key": "B",
+          "value": " A-(IV), B-(I), C-(III), D-(II) "
+        },
+        {
+          "key": "C",
+          "value": "A-(II), B-(III), C-(IV), D-(I)"
+        },
+        {
+          "key": "D",
+          "value": "A-(II), B-(III), C-(I), D-(IV) "
+        }
+      ],
+      "answer": "C",
+      "explanation": "<p>This question asks to match types of white blood cells (List I) with their usual proportion in the blood (List II). The correct matchings are :</p>\n<ol>\n<li>Eosinophils (A) - typically make up 1-6% of white blood cells, so the best match is (I) 6 - 8%</li>\n<br/><li>Lymphocytes (B) - typically make up 20-40% of white blood cells, but none of the options are in this range. However, since the other cells have more fitting matches, the remaining percentage (III) 20 - 25% would be the best fit.</li>\n<br/><li>Neutrophils (C) - these are the most common type of white blood cells, making up 50-70% of all white blood cells, so the best match is (IV) 60 - 65%</li>\n<br/><li>Monocytes (D) - typically make up 2-8% of white blood cells, so the best match is (II) 2 - 3%</li>\n</ol>\n<p>So, the correct answer is Option C : A-(I), B-(III), C-(IV), D-(II)</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Match List I with List II.</p>\n<p><style type=\"text/css\">\n.tg  {border-collapse:collapse;border-spacing:0;}\n.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}\n.tg .tg-7btt{border-color:inherit;font-weight:bold;text-align:center;vertical-align:top}\n.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}\n</style>\n<table class=\"tg\" style=\"undefined;table-layout: fixed; width: 447px\">\n<colgroup>\n<col style=\"width: 49px\">\n<col style=\"width: 154px\">\n<col style=\"width: 54px\">\n<col style=\"width: 190px\">\n</colgroup>\n<thead>\n  <tr>\n    <th class=\"tg-7btt\"></th>\n    <th class=\"tg-7btt\">List I</th>\n    <th class=\"tg-7btt\"></th>\n    <th class=\"tg-7btt\">List II</th>\n  </tr>\n</thead>\n<tbody>\n  <tr>\n    <td class=\"tg-c3ow\">(A)</td>\n    <td class=\"tg-0pky\">P-wave</td>\n    <td class=\"tg-c3ow\">(I)</td>\n    <td class=\"tg-0pky\">Beginning of systole</td>\n  </tr>\n  <tr>\n    <td class=\"tg-c3ow\">(B)</td>\n    <td class=\"tg-0pky\">Q-wave</td>\n    <td class=\"tg-c3ow\">(II)</td>\n    <td class=\"tg-0pky\">Repolarisation of ventricles</td>\n  </tr>\n  <tr>\n    <td class=\"tg-c3ow\">(C)</td>\n    <td class=\"tg-0pky\">QRS complex</td>\n    <td class=\"tg-c3ow\">(III)</td>\n    <td class=\"tg-0pky\">Depolarisation of atria</td>\n  </tr>\n  <tr>\n    <td class=\"tg-c3ow\">(D)</td>\n    <td class=\"tg-0pky\">T-wave</td>\n    <td class=\"tg-c3ow\">(IV)</td>\n    <td class=\"tg-0pky\">Depolarisation of ventricles</td>\n  </tr>\n</tbody>\n</table></p>\n<p>Choose the correct answer from the options given below :</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "A-IV, B-III, C-II, D-I"
+        },
+        {
+          "key": "B",
+          "value": "A-II, B-IV, C-I, D-III"
+        },
+        {
+          "key": "C",
+          "value": "A-I, B-II, C-III, D-IV"
+        },
+        {
+          "key": "D",
+          "value": "A-III, B-I, C-IV, D-II"
+        }
+      ],
+      "answer": "D",
+      "explanation": "- P-wave: Depolarisation of atria\n<br/><br/>- Q-wave: Beginning of systole \n<br/><br/>- QRS complex: Depolarisation of ventricles\n<br/><br/>- T-wave: Repolarisation of ventricles\n"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Which of the following statements are correct?</p>\n<p>A. Basophils are most abundant cells of the total WBCs</p>\n<p>B. Basophils secrete histamine, serotonin and heparin</p>\n<p>C. Basophils are involved in inflammatory response</p>\n<p>D. Basophils have kidney shaped nucleus</p>\n<p>E. Basophils are agranulocytes</p>\n<p>Choose the correct answer from the options given below:</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "C and E only"
+        },
+        {
+          "key": "B",
+          "value": "B and C only"
+        },
+        {
+          "key": "C",
+          "value": "A and B only"
+        },
+        {
+          "key": "D",
+          "value": "D and E only"
+        }
+      ],
+      "answer": "B",
+      "explanation": "<p>The correct answer is Option B : B and C only.</p>\n<p>Statement A is incorrect. Basophils are actually the least abundant cells of the total white blood cells (WBCs), not the most abundant.</p>\n<p>Statement B is correct. Basophils do secrete histamine, serotonin, and heparin. Histamine and serotonin are involved in inflammatory response, while heparin is an anticoagulant.</p>\n<p>Statement C is also correct. Basophils are involved in the inflammatory response. They release chemicals such as histamine and serotonin that dilate blood vessels and attract other white blood cells to the site of inflammation.</p>\n<p>Statement D is incorrect. Basophils do not have a kidney-shaped nucleus. That description is more appropriate for monocytes, another type of white blood cell.</p>\n<p>Statement E is incorrect. Basophils are not agranulocytes. They are granulocytes, a category of white blood cells characterized by the presence of granules in their cytoplasm. Agranulocytes, which lack visible cytoplasmic granules, include lymphocytes and monocytes.</p>\n"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>A unique vascular connection between the digestive tract and liver is called______.</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "Hepato-cystic system"
+        },
+        {
+          "key": "B",
+          "value": " Hepato-pancreatic system"
+        },
+        {
+          "key": "C",
+          "value": "Hepatic portal system"
+        },
+        {
+          "key": "D",
+          "value": "Renal portal system"
+        }
+      ],
+      "answer": "C",
+      "explanation": "<p>Option (c) is the correct answer because hepatic portal system is a unique vascular connection between digestive tract and liver.</p>\n<p>Option (a) is not correct because hepato-cystic system is part of biliary pathway where common hepatic duct joins cystic duct of gall bladder.</p>\n<p>Option (b) is incorrect because hepato-pancreatic system is a part of biliary pathway where common bile duct fuses with pancreatic duct.</p>\n<p>Option (d) is incorrect because renal portal system is a unique vascular connection between lower parts of the body and kidney.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Arrange the following formed elements in the decreasing order of their abundance in blood in humans:</p>\n<p>(a) Platelets <br/><br/>(b) Neutrophils <br/><br/>(c) Erythrocytes <br/><br/>(d) Eosinophils <br/><br/>(e) Monocytes</p>\n<p>Choose the most appropriate answer from the options given below:</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "(a), (c), (b), (d), (e)"
+        },
+        {
+          "key": "B",
+          "value": "(c), (a), (b), (e), (d)"
+        },
+        {
+          "key": "C",
+          "value": "(c), (b), (a), (e), (d)"
+        },
+        {
+          "key": "D",
+          "value": "(d), (e), (b), (a), (c)"
+        }
+      ],
+      "answer": "B",
+      "explanation": "<p>Option (b) is the correct answer as a healthy adult man has, on an average, 5 millions to 5.5 millions of RBCs (erythrocytes) mm<sup>–3</sup> of blood.</p>\n<p>Blood normally contains 1,50,000 – 3,50,000 platelets mm<sup>–3</sup>.</p>\n<p>Neutrophils form 60-65 percent of the total WBCs, monocytes form 6-8 percent of the total WBCs and \neosinophils form 2-3 percent of the total WBCs. The total WBCs are approximately 6000-8000 mm<sup>–3</sup> of blood.</p>\n<p>Thus, the formed elements in the decreasing order of their abundance in blood in humans: - </p>\n<p>Erythrocytes – Platelets – Neutrophils – Monocytes – Eosinophils</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Given below are two statements:</p>\n<p>Statement I : The coagulum is formed of network of threads called thrombins.</p>\n<p>Statement II : Spleen is the graveyard of erythrocytes.</p>\n<p>In the light of the above statements, choose the most appropriate answer from the options given below :</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "Both Statement I and Statement II are correct"
+        },
+        {
+          "key": "B",
+          "value": "Both Statement I and Statement II are incorrect"
+        },
+        {
+          "key": "C",
+          "value": "Statement I is correct but Statement II is incorrect"
+        },
+        {
+          "key": "D",
+          "value": "Statement I is incorrect but Statement II is correct"
+        }
+      ],
+      "answer": "D",
+      "explanation": "<p>Option (d) is the correct answer because coagulum or clot is formed mainly of a network of threads called fibrins. Hence, Statement I is incorrect.</p>\n<p>RBCs are destroyed in the spleen so spleen is known as the graveyard of erythrocytes. Hence, Statement II is correct.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Which one of the following statements is correct?</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "The atrio-ventricular node (AVN) generates an action potential to stimulate atrial contraction"
+        },
+        {
+          "key": "B",
+          "value": "The tricuspid and the bicuspid valves open due to the pressure exerted by the simultaneous contraction of the atria"
+        },
+        {
+          "key": "C",
+          "value": "Blood moves freely from atrium to the ventricle during joint diastole."
+        },
+        {
+          "key": "D",
+          "value": "Increased ventricular pressure causes closing of the semilunar valves."
+        }
+      ],
+      "answer": "C",
+      "explanation": "<p>Option (c) is the correct answer because during joint diastole, blood moves freely from atrium to ventricle as atrioventricular valve remain open during joint diastole.</p>\n<p>Option (d) is incorrect because decrease in ventricular pressure, during ventricular diastole closes semilunar valves to produce 'dub' heart sound.</p>\n<p>Option (a) is incorrect because SA node generates action potential to stimulate atrial contraction.</p>\n<p>Option (b) is incorrect because bicuspid and tricuspid valves open due to pressure exerted by blood present in atria and decrease in pressure in ventricles during ventricular diastole.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Persons with 'AB' blood group are called as \"Universal recipients\". This is due to :",
+      "options": [
+        {
+          "key": "A",
+          "value": "Absence of antibodies, anti-A and anti-B, in plasma"
+        },
+        {
+          "key": "B",
+          "value": "Absence of antigens A and B on the surface of RBCs"
+        },
+        {
+          "key": "C",
+          "value": "Absence of antigens A and B in plasma"
+        },
+        {
+          "key": "D",
+          "value": "Presence of antibodies, anti-A and anti-B, on RBCs"
+        }
+      ],
+      "answer": "A",
+      "explanation": "Option (a) is correct because persons with 'AB' blood group contain antigens 'A' and 'B' but lack antibodies anti-A and anti-B in plasma. So, persons with 'AB' blood group can accept blood from persons with AB as well as the other groups of blood due to lack of antibodies in their blood. Therefore, such persons are called \"Universal recipients\"."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Which enzyme is responsible for the conversion of inactive fibrinogens to fibrins?",
+      "options": [
+        {
+          "key": "A",
+          "value": "Thrombokinase"
+        },
+        {
+          "key": "B",
+          "value": "Thrombin"
+        },
+        {
+          "key": "C",
+          "value": "Renin"
+        },
+        {
+          "key": "D",
+          "value": "Epinephrine"
+        }
+      ],
+      "answer": "B",
+      "explanation": "During coagulation of blood, an enzyme complex thrombokinase helps in the conversion of prothrombin (present in plasma) into thrombin.<br><br>Thrombin further helps in the conversion of inactive fibrinogens into fibrins which form network of threads.<br><br>Renin is secreted by JG cells in response to fall in glomerular blood flow, which converts angiotensinogen in blood to angiotensin-I<br><br>Epinephrine or adrenaline is secreted by adrenal medulla in response to stress of any kind and during emergency."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Match the following columns and select the\ncorrect option.\n<table style=\"width:100%\">\n<thead>\n  <tr>\n    <th>Column-I</th>\n    <th>Column-II</th>\n  </tr>\n</thead>\n<tbody>\n  <tr>\n    <td>(a) Eosinophils</td>\n    <td>(i) Immune response</td>\n  </tr>\n  <tr>\n    <td>(b) Basophils </td>\n    <td>(ii) Phagocytosis</td>\n  </tr>\n  <tr>\n    <td>(c) Neutrophils </td>\n    <td>(iii) Release\n histaminase,\n destructive enzymes</td>\n  </tr>\n  <tr>\n    <td>(d) Lymphocytes</td>\n    <td>(iv) Release granules\n containing\n histamine</td>\n  </tr>\n</tbody>\n</table>",
+      "options": [
+        {
+          "key": "A",
+          "value": "(A) $$ \\to $$ (iii), (B) $$ \\to $$ (iv), (C) $$ \\to $$ (ii), (D) $$ \\to $$ (i)"
+        },
+        {
+          "key": "B",
+          "value": "(A) $$ \\to $$ (iv), (B) $$ \\to $$ (i), (C) $$ \\to $$ (ii), (D) $$ \\to $$ (iii)"
+        },
+        {
+          "key": "C",
+          "value": "(A) $$ \\to $$ (i), (B) $$ \\to $$ (ii), (C) $$ \\to $$ (iii), (D) $$ \\to $$ (iv)"
+        },
+        {
+          "key": "D",
+          "value": "(A) $$ \\to $$ (ii), (B) $$ \\to $$ (i), (C) $$ \\to $$ (iii), (D) $$ \\to $$ (iv)"
+        }
+      ],
+      "answer": "A",
+      "explanation": "Eosinophils are associated with allergic\nreactions and release histaminase, Basophils\nsecrete histamine, serotonin, heparin etc.\nand are involved in inflammatory reactions,\nNeutrophils are phagocytic cells; Both B and\nT lymphocytes are responsible for immune\nresponses of the body."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The QRS complex in a standard ECG represents",
+      "options": [
+        {
+          "key": "A",
+          "value": "Repolarisation of ventricles"
+        },
+        {
+          "key": "B",
+          "value": "Repolarisation of auricles"
+        },
+        {
+          "key": "C",
+          "value": "Depolarisation of auricles"
+        },
+        {
+          "key": "D",
+          "value": "Depolarisation of ventricles\n"
+        }
+      ],
+      "answer": "D",
+      "explanation": "The QRS complex represents the\ndepolarisation of the ventricles, which initiates\nthe ventricular contraction. The contraction\nstarts shortly after Q and marks the beginning\nof the systole."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "What would be the heart rate of a person if the cardiac output is 5L, blood volume in the ventricles at the end\nof diastole is 100 mL and at the end of ventricular systole is 50 mL ?",
+      "options": [
+        {
+          "key": "A",
+          "value": "100 beats per minute"
+        },
+        {
+          "key": "B",
+          "value": "125 beats per minute"
+        },
+        {
+          "key": "C",
+          "value": "50 beats per minute"
+        },
+        {
+          "key": "D",
+          "value": "75 beats per minute"
+        }
+      ],
+      "answer": "A",
+      "explanation": "Cardiac output = Stroke volume $$ \\times $$ Heart rate\n<br>Where stroke volume = End diastolic volume – End systolic volume\n<br> = 100 ml – 50 ml\n<br> = 50 ml\n<br><br>$$ \\therefore $$ 5000 mL = 50 mL × Heart rate\n<br><br>$$ \\Rightarrow $$ Heart rate = $${{5000} \\over {50}}$$ = 100 beats per minute."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Match the items given in column I with those in\ncolumn II and select the correct option given\nbelow.\n<style type=\"text/css\">\n.tg  {border-collapse:collapse;border-spacing:0;width:100%}\n.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}\n.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}\n.tg .tg-lboi{border-color:inherit;text-align:left;vertical-align:middle}\n.tg .tg-uzvj{font-weight:bold;border-color:inherit;text-align:center;vertical-align:middle}\n.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}\n</style>\n<table class=\"tg\">\n  <tbody><tr>\n    <th class=\"tg-uzvj\">Column I</th>\n    <th class=\"tg-uzvj\">Column II</th>\n  </tr>\n  <tr>\n    <td class=\"tg-lboi\">A. Tricuspid  valve </td>\n    <td class=\"tg-lboi\">(i) Between left\natrium and left\nventricle</td>\n  </tr>\n  <tr>\n    <td class=\"tg-lboi\">B. Bicuspid valve</td>\n    <td class=\"tg-lboi\">(ii) Between right\nventricle and\npulmonary artery<br></td>\n  </tr>\n  <tr>\n    <td class=\"tg-0pky\">C. Semilunar valve</td>\n    <td class=\"tg-0pky\">(iii) Between right\natrium and right\nventricle<br></td>\n  </tr>\n</tbody></table>",
+      "options": [
+        {
+          "key": "A",
+          "value": "A $$ \\to $$ (i), B $$ \\to $$ (ii), C $$ \\to $$ (iii)"
+        },
+        {
+          "key": "B",
+          "value": "A $$ \\to $$ (iii), B $$ \\to $$ (i), C $$ \\to $$ (ii)"
+        },
+        {
+          "key": "C",
+          "value": "A $$ \\to $$ (i), B $$ \\to $$ (iii), C $$ \\to $$ (ii)"
+        },
+        {
+          "key": "D",
+          "value": "A $$ \\to $$ (ii), B $$ \\to $$ (i), C $$ \\to $$ (iii)"
+        }
+      ],
+      "answer": "B",
+      "explanation": "The opening between the right atrium and the right  ventricle is guarded by a valve formed of three muscular flaps or cusps, the tricuspid valve, whereas a  bicuspid or mitral valve guards the opening between  the left atrium and the left ventricle."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Match the items given in column I with those in\ncolumn II and select the correct option given\nbelow.\n<style type=\"text/css\">\n.tg  {border-collapse:collapse;border-spacing:0;width:100%}\n.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}\n.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}\n.tg .tg-lboi{border-color:inherit;text-align:left;vertical-align:middle}\n.tg .tg-uzvj{font-weight:bold;border-color:inherit;text-align:center;vertical-align:middle}\n.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}\n</style>\n<table class=\"tg\">\n  <tbody><tr>\n    <th class=\"tg-uzvj\">Column I</th>\n    <th class=\"tg-uzvj\">Column II</th>\n  </tr>\n  <tr>\n    <td class=\"tg-lboi\">A. Fibrinogen</td>\n    <td class=\"tg-lboi\">(i) Osmotic balance</td>\n  </tr>\n  <tr>\n    <td class=\"tg-lboi\">B. Globulin</td>\n    <td class=\"tg-lboi\">(ii) Blood clotting<br></td>\n  </tr>\n  <tr>\n    <td class=\"tg-0pky\">C. Albumin</td>\n    <td class=\"tg-0pky\">(iii) Defence mechanism<br></td>\n  </tr>\n</tbody></table>",
+      "options": [
+        {
+          "key": "A",
+          "value": "A $$ \\to $$ (i), B $$ \\to $$ (iii), C $$ \\to $$ (ii)"
+        },
+        {
+          "key": "B",
+          "value": "A $$ \\to $$ (iii), B $$ \\to $$ (ii), C $$ \\to $$ (i)"
+        },
+        {
+          "key": "C",
+          "value": "A $$ \\to $$ (ii), B $$ \\to $$ (iii), C $$ \\to $$ (i)"
+        },
+        {
+          "key": "D",
+          "value": "A $$ \\to $$ (i), B $$ \\to $$ (ii), C $$ \\to $$ (iii)"
+        }
+      ],
+      "answer": "C",
+      "explanation": "Fibrinogen is a protein present in the plasma\nof the blood. It plays an essential role in\nblood clotting.\n<br><br> Antibodies are derived\nfrom $$\\gamma $$-Globulin fraction of plasma\nproteins which means globulins are\ninvolved in defence mechanisms.\n<br><br> Albumin\nis a plasma protein mainly responsible for\nBlood Colloidal Osmotic Pressure (BCOP)."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The hepatic portal vein drains blood to liver from ",
+      "options": [
+        {
+          "key": "A",
+          "value": "stomach"
+        },
+        {
+          "key": "B",
+          "value": "kidneys"
+        },
+        {
+          "key": "C",
+          "value": "intestine"
+        },
+        {
+          "key": "D",
+          "value": "heart."
+        }
+      ],
+      "answer": "C",
+      "explanation": "In hepatic portal system, hepatic portal\nvein drains blood to liver from intestine."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Adult human RBCs are enucleate. Which of the following statement(s) is/are most appropriate explanation for this feature?\n<br>(1)&nbsp;&nbsp;They do not need to reproduce.\n<br>(2)&nbsp;&nbsp;They are somatic cells.\n<br>(3)&nbsp;&nbsp;They do not metabolise.\n<br>(4)&nbsp;&nbsp;All their internal space is available for oxygen transport.",
+      "options": [
+        {
+          "key": "A",
+          "value": "Only (1)"
+        },
+        {
+          "key": "B",
+          "value": "(1), (3) and (4)"
+        },
+        {
+          "key": "C",
+          "value": "(2) and (3)"
+        },
+        {
+          "key": "D",
+          "value": "Only (4)"
+        }
+      ],
+      "answer": "D",
+      "explanation": "Red blood cells of adult humans do not have\ncell organelles including nucleus, Golgi bodies,\nmitochondria, ribosomes, etc. It increases the surface\narea of RBCs and enables them to contain more\nhaemoglobin (the oxygen carrying pigment)."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Serum differs from blood in ",
+      "options": [
+        {
+          "key": "A",
+          "value": "lacking globulins"
+        },
+        {
+          "key": "B",
+          "value": "lacking albumins"
+        },
+        {
+          "key": "C",
+          "value": "lacking clothing factors"
+        },
+        {
+          "key": "D",
+          "value": "lacking antibodies."
+        }
+      ],
+      "answer": "C",
+      "explanation": "Serum is the fluid that separates from blood\nplasma on centrifugation. Serum is essentially similar\nin composition to plasma but lacks fibrinogen and other\nsubstances that are used in the coagulation process."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Name the blood cells, whose reduction in number can cause clotting disorder, leading to excessive loss of blood from the body.",
+      "options": [
+        {
+          "key": "A",
+          "value": "Erythrocytes"
+        },
+        {
+          "key": "B",
+          "value": "Leucocytes"
+        },
+        {
+          "key": "C",
+          "value": "Neutrophils"
+        },
+        {
+          "key": "D",
+          "value": "Thrombocytes"
+        }
+      ],
+      "answer": "D",
+      "explanation": "Thrombocytes are called blood platelets.\nThey are minute disc-shaped cell fragments in\nmammalian blood. They are formed as fragments of\nlarger cells found in red bone marrow; they have no\nnucleus. They play an important role in blood clotting\nand release thromboxane A<sub>2</sub>\n, serotonin and other\nchemicals, which cause a chain of events leading to\nthe formation of a plug at the site of the damage, thus\npreventing further blood loss. A reduction in their\nnumber can lead to clotting factors which will lead\nto excessive loss of blood from the body.\n"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Blood pressure in the pulmonary artery is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "more than that in the pulmonary vein"
+        },
+        {
+          "key": "B",
+          "value": "less than that in the venae cavae"
+        },
+        {
+          "key": "C",
+          "value": "same as that in the aorta"
+        },
+        {
+          "key": "D",
+          "value": "more than that in the carotid."
+        }
+      ],
+      "answer": "A",
+      "explanation": "Arteries have higher blood pressure than\nvein because blood is forced inside them from\nheart and also their lumen is narrow."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "In mammals, which blood vessel would normally carry largest amount of urea?",
+      "options": [
+        {
+          "key": "A",
+          "value": "Hepatic Vein"
+        },
+        {
+          "key": "B",
+          "value": "Hepatic Portal Vein"
+        },
+        {
+          "key": "C",
+          "value": "Renal Vein"
+        },
+        {
+          "key": "D",
+          "value": "Dorsal Aorta"
+        }
+      ],
+      "answer": "A",
+      "explanation": "Hepatic Vein, because the liver produces\nurea and other waste materials and then it\npours it all in the right ventricle of the heart\nfor oxygenation. The heart distributes the\nblood to various parts of the body from here.\nSo the impure blood brought by the Hepatic\nVein and other blood vessels get distributed\nthrough the aorta. This will automatically\nimply that the Renal Artery will contain lesser\nimpure blood than the Hepatic Vein."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Doctors use stethoscope to hear the sounds produced during each cardiac cycle. The second sound is heard when",
+      "options": [
+        {
+          "key": "A",
+          "value": "AV node receives signal from SA node "
+        },
+        {
+          "key": "B",
+          "value": "AV valves open up"
+        },
+        {
+          "key": "C",
+          "value": "Ventricular walls vibrate due to gushing in of blood from atria"
+        },
+        {
+          "key": "D",
+          "value": "Semilunar valves close down after the blood flows into vessels from ventricles. "
+        }
+      ],
+      "answer": "D",
+      "explanation": "Second heart sound i.e., dup is caused by\nthe closure of the semilunar values and marks the\nend of ventricular systole.\n"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Which one of the following animals has two separate circulatory pathways? ",
+      "options": [
+        {
+          "key": "A",
+          "value": "Whale"
+        },
+        {
+          "key": "B",
+          "value": "Shark"
+        },
+        {
+          "key": "C",
+          "value": "Frog"
+        },
+        {
+          "key": "D",
+          "value": "Lizard"
+        }
+      ],
+      "answer": "A",
+      "explanation": "Whale is a mammal and in mammals, two\nseparate circulatory pathways are found — systemic\ncirculation and pulmonary circulation. Oxygenated\nand deoxygenated bloods received by the left and right\natria respectively pass on to the left and right\nventricles. Thus, oxygenated and deoxygenated\nbloods are not mixed. This is referred to as double\ncirculation.\n"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Blood pressure in the mammalian aorta is maximum during",
+      "options": [
+        {
+          "key": "A",
+          "value": "systole of the left ventricle"
+        },
+        {
+          "key": "B",
+          "value": "diastole of the right atrium"
+        },
+        {
+          "key": "C",
+          "value": "systole of the left atrium"
+        },
+        {
+          "key": "D",
+          "value": "diastole of the right ventricle."
+        }
+      ],
+      "answer": "A",
+      "explanation": "The temporary rise in blood pressure during\nthe contraction of the heart is called systolic pressure\nand the temporary fall in blood pressure during\nrelaxation of the heart is called diastolic pressure.\nBlood pressure is expressed as the ratio of the systolic\npressure over the diastolic pressure. For a healthy\nresting adult person, the average systolic/diastolic\npressures are 120/80 mmHg. Aorta is directly supplied\nby left ventricle thus, the blood pressure in aorta is\nhighest during systole of left ventricle. During it, left\nventricle contracts and pushes blood into aorta.\n"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Which one of the following is correct?",
+      "options": [
+        {
+          "key": "A",
+          "value": "Lymph = Plasma + RBC + WBC"
+        },
+        {
+          "key": "B",
+          "value": "Blood = plasma + RBC + WBC + Platelets"
+        },
+        {
+          "key": "C",
+          "value": "Plasma = Blood $$-$$ Lymphocytes "
+        },
+        {
+          "key": "D",
+          "value": "Serum = Blood + Fibrinogen"
+        }
+      ],
+      "answer": "B",
+      "explanation": "Lymph = Plasma + WBC<br>\nPlasma = Blood – Cellular components<br>\nSerum = Plasma – Clotting factors"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Erythropoiesis starts in ",
+      "options": [
+        {
+          "key": "A",
+          "value": "spleen "
+        },
+        {
+          "key": "B",
+          "value": "red bone marrow "
+        },
+        {
+          "key": "C",
+          "value": "kidney"
+        },
+        {
+          "key": "D",
+          "value": "liver"
+        }
+      ],
+      "answer": "B",
+      "explanation": "Erythropoiesis is the process of formation\nof R.B.C. In the first month of pregnancy,\nyolk sac is the haemopoietic tissue. After 5\nweeks, it is followed by the liver. Red bone\nmarrow from 6 months onwards becomes the\nprincipal site of erythropoiesis."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "How do parasympathetic neutral signals affect the working of the heart?",
+      "options": [
+        {
+          "key": "A",
+          "value": "Reduce both heart rate and cardiac output. "
+        },
+        {
+          "key": "B",
+          "value": "Heart rate is increased without affecting the cardiac output. "
+        },
+        {
+          "key": "C",
+          "value": "Both heart rate and cardiac output increase."
+        },
+        {
+          "key": "D",
+          "value": "Heart rate decreases but cardiac output increases."
+        }
+      ],
+      "answer": "A",
+      "explanation": "Control of Heart Beat by Nervous\nSystem: Medulla oblongata has two\nregulatory centre:<br>\n(i) Accelerator centre - It functions through\nsympathetic nervous system (SNS) and\nincreases heart beat by the secretion of\nepinephrine or adrenaline.<br>\n(ii) Depressor centre - It functions through\nparasympathetic nervous system (PSNS)\nby the secretion of acetylcholine. It\ndecreases heart beat, speed of conduction\nof action potential and thereby the\ncardiac output."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Person with blood group AB is considered as universal recipient because he has",
+      "options": [
+        {
+          "key": "A",
+          "value": "both A and B antigens on RBC but no antibodies in the plasma"
+        },
+        {
+          "key": "B",
+          "value": "both A and B antibodies in the plasma "
+        },
+        {
+          "key": "C",
+          "value": "no antigen on RBC and no antibody in the plasma"
+        },
+        {
+          "key": "D",
+          "value": "both A and B antigens in the plasma but no antibodies. "
+        }
+      ],
+      "answer": "A",
+      "explanation": "Individuals with AB blood group have both\nantigen A and B on their RBCs, and no antibodies\nfor either of the antigen in their plasma. Type O\nindividuals are without A and B antigens on their\nRBCs, but have antibodies for both these antigens in\ntheir plasma. Individuals with blood group AB can\nreceive blood of A, B or O group, while those with\nblood group O can donate blood to anyone.\n"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Which one of the following human organs is often called the ''graveyard'' of RBCs?",
+      "options": [
+        {
+          "key": "A",
+          "value": "Gall blader"
+        },
+        {
+          "key": "B",
+          "value": "Kidney"
+        },
+        {
+          "key": "C",
+          "value": "Spleen"
+        },
+        {
+          "key": "D",
+          "value": "Liver"
+        }
+      ],
+      "answer": "C",
+      "explanation": "Spleen is an organ of the lymphatic\nsystem located in the left side of the\nabdominal cavity under the diaphragm, the\nmuscular partition between the abdomen and the chest. It is called graveyard of RBC\nbecause fragment of red blood cells, old and\ndead cells are constantly being removed from\nthe blood streams by it."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A certain road accident patient with unknown blood group needs immediate blood transfusion. His one doctor friend at once offers his blood. What was the blood group of the donar?",
+      "options": [
+        {
+          "key": "A",
+          "value": "Blood group B"
+        },
+        {
+          "key": "B",
+          "value": "Blood group AB"
+        },
+        {
+          "key": "C",
+          "value": "Blood group O"
+        },
+        {
+          "key": "D",
+          "value": "Blood group A"
+        }
+      ],
+      "answer": "C",
+      "explanation": "Blood group O acts as universal donor."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Which one of the following plasma proteins is involved in the coagulation of blood?",
+      "options": [
+        {
+          "key": "A",
+          "value": "Albumin"
+        },
+        {
+          "key": "B",
+          "value": "Serum amylase"
+        },
+        {
+          "key": "C",
+          "value": "Globulin"
+        },
+        {
+          "key": "D",
+          "value": "Fibrinogen"
+        }
+      ],
+      "answer": "D",
+      "explanation": "Blood plasma is a faint yellow, slightly\nalkaline and somewhat viscous fluid. The plasma\ncontains a number of proteins: serum albumin, serum\nglobulins, properdin, prothrombin and fibrinogen.\nProthrombin and fibrinogen play a role in blood clotting."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Which one of the following statements is correct regarding blood pressure? ",
+      "options": [
+        {
+          "key": "A",
+          "value": "130/90 mm Hg is considered high and requires treatment. "
+        },
+        {
+          "key": "B",
+          "value": "100/55 mm Hg is considered an ideal blood pressure. "
+        },
+        {
+          "key": "C",
+          "value": "105/50 mm Hg makes one very active."
+        },
+        {
+          "key": "D",
+          "value": "190/110 mm Hg may harm vital organs like brain and kidney."
+        }
+      ],
+      "answer": "D",
+      "explanation": "90/110 mmHg may harm vital\norgans like brain and kidney. This is called hypertension which can give rise to increased\nheart rate and palpitation."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A person with unknown blood group under ABO system, has suffered much blood loss in an accident and needs immediate blood transfusion. His friend who has valid certificate of his own blood type, offers for blood donation without delay. What would have been the type of blood group of the donar friend?",
+      "options": [
+        {
+          "key": "A",
+          "value": "Type B"
+        },
+        {
+          "key": "B",
+          "value": "Type AB"
+        },
+        {
+          "key": "C",
+          "value": "Type O"
+        },
+        {
+          "key": "D",
+          "value": "Type A"
+        }
+      ],
+      "answer": "C",
+      "explanation": "<p>The ABO blood system classifies human blood into four types based on the presence or absence of certain antigens on the surface of red blood cells. These types are A, B, AB, and O. For a safe blood transfusion, it's crucial that the donor's blood type is compatible with the recipient's. Compatibility is determined by antigens on the red blood cells and antibodies in the plasma. Here's how the compatibility works:</p>\n\n<ul>\n\n<li><strong>Type A:</strong> Has A antigens on the red blood cells and anti-B antibodies in the plasma.</li>\n\n<br/><li><strong>Type B:</strong> Has B antigens on the red blood cells and anti-A antibodies in the plasma.</li>\n\n<br/><li><strong>Type AB:</strong> Has both A and B antigens on the red blood cells but does not have anti-A or anti-B antibodies in the plasma. People with AB blood are universal recipients for ABO transfusions because they do not have anti-A or anti-B antibodies.</li>\n\n<br/><li><strong>Type O:</strong> Has no antigens on the red blood cells but has both anti-A and anti-B antibodies in the plasma. People with O blood are universal donors for ABO transfusions because they have no A or B antigens on their red blood cells.</li>\n\n</ul>\n\n<p>Given the scenario where the recipient's blood type is unknown, the safest option for blood transfusion would be Type O blood. This is because Type O blood has no A or B antigens on the red blood cells, making it compatible with any recipient regardless of their ABO blood type. Thus, regardless of the recipient's unknown ABO blood group, a friend with Type O blood could donate without causing a harmful reaction due to ABO incompatibility.</p>\n\n<p>Therefore, the correct answer is:</p>\n\n<p><strong>Option C: Type O</strong></p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Arteries are best defined as the vessels which ",
+      "options": [
+        {
+          "key": "A",
+          "value": "supply oxygenated blood to the different organs"
+        },
+        {
+          "key": "B",
+          "value": "carry blood away from the heart to different organs"
+        },
+        {
+          "key": "C",
+          "value": "break up into capillaries which reunite to form a vein"
+        },
+        {
+          "key": "D",
+          "value": "carry blood from one visceral organ to another visceral organ."
+        }
+      ],
+      "answer": "B",
+      "explanation": "Arteries are the vessels which break up\ninto capillaries which reunite to form one\nvisceral organ."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "'Bundle of his' is a part of which one of the following organs in humans?",
+      "options": [
+        {
+          "key": "A",
+          "value": "Brain"
+        },
+        {
+          "key": "B",
+          "value": "Heart"
+        },
+        {
+          "key": "C",
+          "value": "Kidney"
+        },
+        {
+          "key": "D",
+          "value": "Pancreas"
+        }
+      ],
+      "answer": "B",
+      "explanation": "‘Bundle of His’ are a typical cardiac\nmuscle fibres, connecting the atria with\nventricle."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The haemoglobin content per 100 ml of blood of a normal healthy human adult is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "5 - 11 mg"
+        },
+        {
+          "key": "B",
+          "value": "25 - 30 mg"
+        },
+        {
+          "key": "C",
+          "value": "17 - 20 mg"
+        },
+        {
+          "key": "D",
+          "value": "12 - 16 mg."
+        }
+      ],
+      "answer": "D",
+      "explanation": "<p>The haemoglobin content per 100 ml of blood in a normal healthy human adult is actually found in the range of <strong>12 - 16 grams</strong>. Therefore, the correct answer is Option D: <strong>12 - 16 mg</strong>. However, it's important to note that there seems to be a mistake in the unit provided in the options. The correct unit should be grams (g) and not milligrams (mg), as haemoglobin content in blood is measured in grams per deciliter (g/dL). So, the correct expression reflecting normal haemoglobin levels should be 12 - 16 g/dL, not mg. </p>\n\n<p>In general, average ranges for haemoglobin levels vary by age and sex, typically:\n\n<ul>\n<li>For men: 13.8 to 17.2 grams per deciliter</li><br>\n<li>For women: 12.1 to 15.1 grams per deciliter</li>\n</ul>\n<p>These levels can be affected by various factors including diet, physical activity, and medical conditions. It's essential for individuals to have their haemoglobin levels within the normal range as it's crucial for effectively transporting oxygen throughout the body. Deviations from the normal range can indicate different medical conditions that may require further investigation.</p></p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Given below are four statements (i-iv) regarding human blood circulatory system.\n<br>(i)&nbsp;&nbsp;Arteries are thick-walled and have narrow lumen as compared to veins.\n<br>(ii)&nbsp;&nbsp;Angina is acute chest pain when the blood circulation to the brain is reduced. \n<br>(iii)&nbsp;&nbsp;Persons with blood group AB can donate blood to any person with any blood group under ABO system.\n<br>(iv)&nbsp;&nbsp;Calcium ions play a very important role in blood clotting. \n<br>Which two of the above statements are correct?",
+      "options": [
+        {
+          "key": "A",
+          "value": "(i) and (iv)"
+        },
+        {
+          "key": "B",
+          "value": "(i) and (ii)"
+        },
+        {
+          "key": "C",
+          "value": "(ii) and (iii)"
+        },
+        {
+          "key": "D",
+          "value": "(iii) and (iv)"
+        }
+      ],
+      "answer": "A",
+      "explanation": "The term angina means chest pain. In this\ndisease enough oxygen does not reach the heart\nmuscles. The patient experiences heart pain usually\nin front of the chest.<br><br>\nAB blood group person have both antigens A and B,\nbut do not have antibodies in the plasma. Due to the\npresence of both the antigens, AB blood group person\ncannot donate blood to anyone. However, the person\ncan receive blood from any blood group as it has no\nantibodies. Thus, AB blood group is a universal\nrecepient.\n"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Fastest distribution of some injectible material/medicine and with no risk of any kind can be achieved by injecting it into the ",
+      "options": [
+        {
+          "key": "A",
+          "value": "muscles"
+        },
+        {
+          "key": "B",
+          "value": "arteries"
+        },
+        {
+          "key": "C",
+          "value": "veins"
+        },
+        {
+          "key": "D",
+          "value": "lymph vessels."
+        }
+      ],
+      "answer": "C",
+      "explanation": "<p>The fastest distribution of an injectable material or medicine, with minimal risk, is achieved by injecting it into the <strong>veins</strong>, making Option C the correct answer. Here’s why:</p>\n\n<ul>\n<li><strong>Veins:</strong> When medicine is injected into the venous system (intravenously), it is quickly carried throughout the body by the bloodstream. The advantage of venous injection (IV injection) is the rapid onset of effects as the medicine is directly entered into the circulatory system, bypassing the need for absorption. This method also allows for precise control over the dosage and is used for substances that might be irritants or not effective if administered by other routes.</li>\n<li><strong>Arteries:</strong> Injecting a substance directly into an artery is far more dangerous and is rarely done outside of specialized medical procedures. The arterial system is under much higher pressure than the venous system, which increases the risk of complications, including arterial damage and the potential for creating embolisms that could cause strokes or other serious issues.</li>\n<li><strong>Muscles:</strong> Intramuscular injections are absorbed more slowly than intravenous injections because the blood flow to muscle tissues is less than to veins. This method is used for certain types of medication that need to be absorbed over a longer period. It's safer than arterial injection but slower in effect compared to venous injection.</li>\n<li><strong>Lymph Vessels:</strong> The lymphatic system is not designed for the fast distribution of substances throughout the body. It has a much slower flow than the circulatory system and is involved in managing the immune response and transporting waste and other materials out of the bodily tissues. Injection into the lymphatic system is not a common practice for administering medications for systemic effect.</li>\n</ul>\n\n<p>In summary, intravenous injection (Option C) is the preferred route for the immediate and safest distribution of injectable substances throughout the body.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "If due to some injury the chordae tendinae of the tricuspid valve of the human heart is partially non-functional, what will be the immediate effect?",
+      "options": [
+        {
+          "key": "A",
+          "value": "The flow of blood into the aorta will be slowed down"
+        },
+        {
+          "key": "B",
+          "value": "The 'pacemaker' will stop working"
+        },
+        {
+          "key": "C",
+          "value": "The blood will tend to flow back into the left atrium"
+        },
+        {
+          "key": "D",
+          "value": "The flow of blood into the pulmonary artey will be reduced"
+        }
+      ],
+      "answer": "D",
+      "explanation": "Tricuspid valve is the valve in the heart\nbetween the right atrium and right ventricle. It consists\nof three cusps that channel the flow of blood from\nthe atrium to the ventricle. When the right ventricle\ncontracts, forcing blood into the pulmonary artery,\nthe tricuspid valve closes the aperture to the atrium,\nthereby preventing any backflow of blood. The valve\nreopens to allow blood to flow from the atrium into\nthe ventricle. Thus, if tricuspid valve is partially nonfunctional the flow of blood into the pulmonary artery\nwill be reduced.\n"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Which two of the following changes (i $$-$$ iv) usually tend to occur in the plain dwellers when they move to high altitudes (3, 500 m or more)?\n<br>(i)&nbsp;&nbsp;Increase in red blood cell size\n<br>(ii)&nbsp;&nbsp;Increase in red blood cell production\n<br>(iii)&nbsp;&nbsp;Increased breathing rate\n<br>(iv)&nbsp;&nbsp;Increase in thrombocyte count\n<br>Changes occurring are",
+      "options": [
+        {
+          "key": "A",
+          "value": "(ii) and (iii)"
+        },
+        {
+          "key": "B",
+          "value": "(iii) and (iv)"
+        },
+        {
+          "key": "C",
+          "value": "(i) and (iv)"
+        },
+        {
+          "key": "D",
+          "value": "(i) and (ii)."
+        }
+      ],
+      "answer": "A",
+      "explanation": "The body undergoes numerous changes at\nhigher elevation in order to increase oxygen delivery\nto cells and improve efficiency of oxygen use. The\nearly changes includes increased breathing rate,\nincreased heart rate and fluid shifts. The later changes\nincludes increased red blood cell production,\nincreased 2, 3 DPG production and increased number\nof capillaries.\n"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Globulins contained in human blood plasma are primarily involved in ",
+      "options": [
+        {
+          "key": "A",
+          "value": "osmotic balance of body fluids"
+        },
+        {
+          "key": "B",
+          "value": "oxygen transport in the blood"
+        },
+        {
+          "key": "C",
+          "value": "clotting of blood "
+        },
+        {
+          "key": "D",
+          "value": "defence mechanisms of body."
+        }
+      ],
+      "answer": "D",
+      "explanation": "Globulins contained in human blood\nplasma are primarily involved in defence\nmechanism of body. Globulin is one of the\ntwo types of serum proteins, the other being\nalbumin. Globulins can be divided into\nthree fractions based on their electrophoretic\nmobility. Most of the alpha and beta globulins\nare synthesized by the liver, whereas gamma\nglobulins are produced by lymphocytes and\nplasma cells in lymphoid tissue."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Compared to blood our lymph has ",
+      "options": [
+        {
+          "key": "A",
+          "value": "plasma without proteins"
+        },
+        {
+          "key": "B",
+          "value": "more WBCs and no RBCs"
+        },
+        {
+          "key": "C",
+          "value": "more RBCs and less WBCs"
+        },
+        {
+          "key": "D",
+          "value": "no plasma."
+        }
+      ],
+      "answer": "B",
+      "explanation": "Lymph is a mobile connective tissue\ncomprising lymph plasma and lymph\ncorpuscles. Its composition is just like blood\nplasma except that it lacks RBCs and large\nplasma proteins."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "In a standard ECG which one of the following alphabets is the correct representation of the respective activity of the human heart?",
+      "options": [
+        {
+          "key": "A",
+          "value": "S - start of systole"
+        },
+        {
+          "key": "B",
+          "value": "T - end of diastole"
+        },
+        {
+          "key": "C",
+          "value": "P - depolarisation of the atria"
+        },
+        {
+          "key": "D",
+          "value": "R - repolarisation of ventricles"
+        }
+      ],
+      "answer": "C",
+      "explanation": "In a standard ECG, the P-wave is\na small upward wave that indicates the\ndepolarisation of the atria. This is caused by\nthe activation of SA node."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "There is no DNA in ",
+      "options": [
+        {
+          "key": "A",
+          "value": "mature RBCs"
+        },
+        {
+          "key": "B",
+          "value": "a mature spermatozoan"
+        },
+        {
+          "key": "C",
+          "value": "hair root"
+        },
+        {
+          "key": "D",
+          "value": "an enucleated ovum."
+        }
+      ],
+      "answer": "A",
+      "explanation": "Red blood cells are the most common\ntype of blood cell and delivering oxygen to\nthe body tissues via the blood. There is no\nDNA in mature RBC. The reticulocyte is\nthe immediate precursor of the mature RBC\nand, within 24 hours of release into the\nperipheral circulation, evolves into mature\nRBC."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Which type of white blood cells are connected with the release of histamine and the natural anticoagulant heparin?",
+      "options": [
+        {
+          "key": "A",
+          "value": "Eosinophils"
+        },
+        {
+          "key": "B",
+          "value": "Monocytes"
+        },
+        {
+          "key": "C",
+          "value": "Neutrophils"
+        },
+        {
+          "key": "D",
+          "value": "Basophils"
+        }
+      ],
+      "answer": "D",
+      "explanation": "Basophil is a type of white blood\ncell (leucocyte) that has a lobed nucleus\nsurrounded by granular cytoplasm. Basophils\nare produced continually by stem cells in\nthe red bone marrow &amp; move about in an\namoeboid fashion. Like, mast cells, they\nproduce histamine and heparin as part of the\nbody’s defences at the site of an infection or\ninjury. "
+    },
+    {
+      "_type": "single_mcq",
+      "body": "In humans, blood passes from the post caval to the diastolic right atrium of heart due to",
+      "options": [
+        {
+          "key": "A",
+          "value": "stimulation of the sino auricular node"
+        },
+        {
+          "key": "B",
+          "value": "pressure difference between the post caval and atrium"
+        },
+        {
+          "key": "C",
+          "value": "pushing open of the venous valves"
+        },
+        {
+          "key": "D",
+          "value": "suction pull. "
+        }
+      ],
+      "answer": "B",
+      "explanation": "Due to the pressure difference between the\npost caval and atrium, the blood passes from the post\ncaval to the diastolic right atrium. Diastolic right atrium\nhas less pressure and post caval has high pressure, thus\nblood moves from post caval to right atrium.\n"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The most active phagocytic white blood cells are",
+      "options": [
+        {
+          "key": "A",
+          "value": "cosinophils and lymphocytes"
+        },
+        {
+          "key": "B",
+          "value": "neutrophils and monocytes"
+        },
+        {
+          "key": "C",
+          "value": "neutrophils and eosinophils"
+        },
+        {
+          "key": "D",
+          "value": "lymphocytes and macrophages,"
+        }
+      ],
+      "answer": "B",
+      "explanation": "Phagocytes are cells that are able to engulf\nand breakdown foreign particles, cell debris and\ndisease producing microorganisms. Neutrophils and\nmonocytes (type of white blood cells) are the most\nactive phagocytic cells."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A drop of each of the following, is placed separately on four slides. Which of them will not coagulate?",
+      "options": [
+        {
+          "key": "A",
+          "value": "Blood serum"
+        },
+        {
+          "key": "B",
+          "value": "Sample from the thoracic duct of lymphatic system"
+        },
+        {
+          "key": "C",
+          "value": "Whole blood from pulmonary vein "
+        },
+        {
+          "key": "D",
+          "value": "Blood plasma"
+        }
+      ],
+      "answer": "A",
+      "explanation": "Blood serum is blood plasma from which\nthe fibrin and clotting factors have been removed by\ncentrifugation or vigorous stirring, so that it cannot\nclot. Serum containing a specific antibody or antitoxin\nmay be used in the treatment or prevention of certain\ninfections. Such serum is generally derived from a\nnonhuman mammal (e.g., a horse).\n"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Which one of the following has an open circulatory system?",
+      "options": [
+        {
+          "key": "A",
+          "value": "<i>Octopus</i>"
+        },
+        {
+          "key": "B",
+          "value": "<i>Pheratima</i>"
+        },
+        {
+          "key": "C",
+          "value": "<i>Periplaneta</i>"
+        },
+        {
+          "key": "D",
+          "value": "<i>Hirudinaria</i>"
+        }
+      ],
+      "answer": "C",
+      "explanation": "Periplaneta has open circulatory system i.e.,\nthe blood does not flow in blood vessels but flows in\na haemocoel (body cavity). The circulatory systems\nof all vertebrates, as well as of annelids (for example,\nearthworms) and cephalopods (squid and Octopus)\nare closed, in which the blood never leaves the system\nof blood vessels consisting of arteries, capillaries and\nveins.\n"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "You are required to draw blood from a patient and to keep it in a test tube for analysis of blood corpuscles and plasma. You are also provided with the following four types of test tubes.\n<br>which of these you will not use for the purpose.",
+      "options": [
+        {
+          "key": "A",
+          "value": "Test tube containing calcium bicarbonate"
+        },
+        {
+          "key": "B",
+          "value": "Chilled test tube"
+        },
+        {
+          "key": "C",
+          "value": "Test tube containing heparin"
+        },
+        {
+          "key": "D",
+          "value": "Test tube containing sodium oxalate."
+        }
+      ],
+      "answer": "A",
+      "explanation": "<p>The correct option for a test tube that should not be used for the purpose of analyzing blood corpuscles and plasma is Option A: Test tube containing calcium bicarbonate.</p>\n\n<p>Let's analyze each option:</p>\n\n<ul>\n<li><strong>Option A: Test tube containing calcium bicarbonate</strong> - Calcium bicarbonate can affect the coagulation process of blood. The coagulation cascade requires calcium ions (Ca<sup>2+</sup>) to function. By introducing calcium bicarbonate into the blood sample, it can potentially disrupt this process and alter the condition of the blood, making it unsuitable for accurate analysis of blood corpuscles and plasma.</li>\n<br/><li><strong>Option B: Chilled test tube</strong> - Chilling a test tube prior to drawing blood can help to preserve certain components of the blood for analysis, especially when looking into specific enzymes or hormones. It does not interfere with the analysis of blood corpuscles and plasma. Therefore, this option is suitable for the purpose.</li>\n<br/><li><strong>Option C: Test tube containing heparin</strong> - Heparin is used as an anticoagulant that prevents the blood from clotting, which is crucial when analyzing blood corpuscles and plasma. The presence of heparin ensures that the blood remains in a fluid state, allowing for accurate analysis of its components. Thus, this option is appropriate for the purpose.</li>\n<br/><li><strong>Option D: Test tube containing sodium oxalate</strong> - Sodium oxalate also acts as an anticoagulant by binding calcium ions, thus preventing the blood from clotting. Like heparin, it helps keep the blood in a state suitable for analyzing blood corpuscles and plasma. Therefore, this option is suitable for the purpose.</li>\n</ul>\n\n<p>Given this analysis, the test tube containing calcium bicarbonate (Option A) is the one that should not be used for the purpose of drawing blood for analysis of blood corpuscles and plasma, as it can interfere with the coagulation process crucial for such analysis.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "In the ABO system of blood groups, if both antigens are present but no antibody, the blood group of the individual would be",
+      "options": [
+        {
+          "key": "A",
+          "value": "B"
+        },
+        {
+          "key": "B",
+          "value": "O"
+        },
+        {
+          "key": "C",
+          "value": "AB"
+        },
+        {
+          "key": "D",
+          "value": "A."
+        }
+      ],
+      "answer": "C",
+      "explanation": "<p>In the ABO blood group system, there are two main antigens (proteins on the surface of red blood cells) that are considered: antigen A and antigen B. An individual's blood type in this system is determined by the presence or absence of these antigens. Additionally, in the bloodstream, there will usually be antibodies against the antigens that the individual does not express. For example, someone with antigen A will typically have anti-B antibodies, and someone with antigen B will typically have anti-A antibodies. A person with neither antigen will have both types of antibodies, and a person with both antigens will have neither type of antibodies.</p>\n<p>If both antigens are present (antigen A and antigen B) on the surface of the red blood cells but no antibodies against them are found in the plasma, this signifies that the blood group of the individual is AB. This is because the presence of both antigens means the immune system does not need to produce antibodies against them since the body recognizes both antigens as self.</p>\n<p>Therefore, the correct answer is:</p>\n<p>Option C: AB</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Bundle of His is a network of ",
+      "options": [
+        {
+          "key": "A",
+          "value": "muscle fibres distributed throughout the heart walls "
+        },
+        {
+          "key": "B",
+          "value": "muscle fibres found only in the ventricle wall"
+        },
+        {
+          "key": "C",
+          "value": "nerve fibres distributed in ventricles"
+        },
+        {
+          "key": "D",
+          "value": "nerve fibres found throughout the heart."
+        }
+      ],
+      "answer": "B",
+      "explanation": "<p>The correct answer is <strong>Option B</strong>: muscle fibres found only in the ventricle wall.</p>\n\n<p>Let's elaborate on the nature and function of the Bundle of His to clarify this answer. The Bundle of His, also known as the Atrioventricular Bundle (AV Bundle), is a crucial part of the electrical conduction system of the heart. It is not a network of nerve fibers but rather specialized muscle fibers.</p>\n\n<p>The heart's electrical conduction system is responsible for coordinating the heartbeat, ensuring that blood is pumped efficiently throughout the body. The sequence of the conduction system goes as follows: from the sinoatrial (SA) node, located in the right atrium, the electrical impulse travels to the atrioventricular (AV) node. From the AV node, the impulse passes down through the Bundle of His, which then divides into the right and left bundle branches that run along the sides of the ventricular septum.</p>\n\n<p>The Bundle of His is specifically located between the atria and the ventricles within the heart's septum—the wall dividing the right and left sides of the heart. Its role is critical for transmitting electrical impulses from the atria to the ventricles, a process essential for maintaining a synchronized heartbeat. After the impulse moves through the Bundle of His, it travels down through the right and left bundle branches and into the Purkinje fibers, spreading throughout the ventricles and causing them to contract.</p>\n\n<p>Thus, the Bundle of His is comprised of specialized cardiac muscle fibers, not nerve fibers, and is found specifically in the heart's ventricular walls, bridging the electrical conduction between the atria and the ventricles. This corrects the common misconception that it might be composed of nerve fibers or distributed throughout the entire heart, including the atrial walls.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The cardiac pacemaker in a patient fails to function normally. The doctors find that an artificial pacemaker is to be grafted in him. It is likely that it will be grafted at the site of ",
+      "options": [
+        {
+          "key": "A",
+          "value": "atrioventricular bundle"
+        },
+        {
+          "key": "B",
+          "value": "Purkinje system"
+        },
+        {
+          "key": "C",
+          "value": "sinuatrial node"
+        },
+        {
+          "key": "D",
+          "value": "atrioventricular node."
+        }
+      ],
+      "answer": "C",
+      "explanation": "<p>The most appropriate site for grafting an artificial pacemaker is at the site of the sinoatrial (SA) node, making option C the correct answer. Let's explore why that is the case by understanding the role of the SA node and the other options provided.</p>\n\n<p>The SA node, located in the right atrium of the heart, acts as the natural pacemaker of the heart. It generates electrical impulses that initiate each heartbeat, regulating heart rate. These impulses travel across the atria, causing them to contract and pump blood into the ventricles. This is why, when the natural pacemaker fails to function properly, an artificial pacemaker is often installed to mimic the function of the SA node, ensuring the heart maintains a proper rhythm.</p>\n\n<p>Now, let's briefly look at the other options:</p>\n\n<p><b>Option A: Atrioventricular Bundle</b> - Also known as the Bundle of His, this pathway transmits impulses from the atria to the ventricles. While it's crucial for the coordinated contraction of the ventricles, it is not the primary site for initiating the heart's rhythm.</p>\n\n<p><b>Option B: Purkinje System</b> - This network spreads throughout the ventricles and ensures efficient contraction of the ventricular muscle. It's essential for the final distribution of the electrical impulse but not the initiation of the heart rhythm.</p>\n\n<p><b>Option D: Atrioventricular Node</b> - Located at the junction of the atria and ventricles, the AV node delays the electrical impulse slightly before passing it to the ventricles. This delay allows the atria to finish contracting before the ventricles begin. While important for coordinating the timing of contractions, it is not the site where the heart's rhythm is generated.</p>\n\n<p>Therefore, among the options provided, the sinoatrial node (Option C) is the most suitable site for grafting an artificial pacemaker, as it takes over the role of initiating and regulating the heart rhythm.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Which of the following statements is true for lymph?",
+      "options": [
+        {
+          "key": "A",
+          "value": "WBC + serum"
+        },
+        {
+          "key": "B",
+          "value": "Blood $$-$$ RBCs and some proteins"
+        },
+        {
+          "key": "C",
+          "value": "RBCs + WBCs + plasma"
+        },
+        {
+          "key": "D",
+          "value": "RBCs + proteins + platelets"
+        }
+      ],
+      "answer": "B",
+      "explanation": "Lymph is a colourless vascular connective tissue derived from tissue fluid. RBCs\nand platelets are absent. Only leucocytes and\nfloating amoeboid lymphocytes are present."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Impulse of heart beat originates from",
+      "options": [
+        {
+          "key": "A",
+          "value": "SA node"
+        },
+        {
+          "key": "B",
+          "value": "AV node"
+        },
+        {
+          "key": "C",
+          "value": "vagus nerve"
+        },
+        {
+          "key": "D",
+          "value": "cardiac nerve"
+        }
+      ],
+      "answer": "A",
+      "explanation": "<p>The impulse of a heartbeat originates from Option A, the SA node. The SA node, or sinoatrial node, is often referred to as the heart's natural pacemaker. It is located in the right atrium of the heart. This specialized cluster of cells generates electrical impulses that spread throughout the heart, prompting it to beat and pump blood. After the SA node fires, the electrical impulse triggers the atria to contract, pushing blood into the ventricles. The impulse then travels to the AV node (atrioventricular node), which acts as a gatekeeper, slowing the electrical signal before it enters the ventricles. This delay ensures that the atria have fully contracted and emptied their blood into the ventricles before the ventricles contract. Following the AV node, the impulse travels through the bundle of His, down the bundle branches, and through the Purkinje fibers, causing the ventricles to contract and pump blood to the lungs and the rest of the body.</p>\n\n<p>The vagus nerve (Option C) and the cardiac nerves (Option D) are part of the autonomic nervous system, which regulates the speed and strength of heartbeats but does not originate the heartbeat. The vagus nerve primarily exerts a parasympathetic effect, meaning it can slow the heart rate, while the cardiac nerves, part of the sympathetic nervous system, can increase the heart rate and force of contraction. However, the initial impulse that starts each heartbeat comes from the SA node, not these nerves.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "What is correct for blood group O?",
+      "options": [
+        {
+          "key": "A",
+          "value": "No antigens but both a and b antibodies are present"
+        },
+        {
+          "key": "B",
+          "value": "A antigen and b antibody present"
+        },
+        {
+          "key": "C",
+          "value": "Antigen and antibody both absent"
+        },
+        {
+          "key": "D",
+          "value": "A and B antigens and a, b antibodies present "
+        }
+      ],
+      "answer": "A",
+      "explanation": "<p>The correct answer is Option A: No antigens but both a and b antibodies are present.</p>\n\n<p>Explanation:</p>\n<p>In the ABO blood group system, blood group O is characterized by the absence of antigens on the surface of the red blood cells. Specifically, it does not have A or B antigens. However, the plasma of people with blood group O contains both anti-A and anti-B antibodies. These antibodies are ready to act against the A and B antigens if they are introduced into the body, such as via a blood transfusion with an incompatible blood type.</p>\n\n<p>Thus, for blood group O:</p>\n<ul>\n<li>Antigens present on red blood cells: None (neither A nor B antigens)</li>\n<li>Antibodies present in the plasma: Both anti-A and anti-B antibodies</li>\n</ul>\n\n<p>This unique feature allows individuals with blood group O to donate blood to any other group (universal donor), but they can only receive blood from other group O individuals due to the presence of both anti-A and anti-B antibodies in their plasma.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Which statement is true for WBC?",
+      "options": [
+        {
+          "key": "A",
+          "value": "Non-nucleated"
+        },
+        {
+          "key": "B",
+          "value": "In deficiency, cancer is caused"
+        },
+        {
+          "key": "C",
+          "value": "Manufactured in thymus"
+        },
+        {
+          "key": "D",
+          "value": "Can squeeze through blood capillaries"
+        }
+      ],
+      "answer": "D",
+      "explanation": "WBCs are the colourless nucleated amoeboid\ncells that can squeeze through blood capillaries by a\nprocess known as diapedsis. The increase in their\nnumber causes leukaemia, a cancer. WBCs are of two\ntypes, granulocytes (formed in bone marrow) and\nagranulocytes (formed in bone marrow and thymus)."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "In which point, pulmonary artery is different from pulmonary vein?",
+      "options": [
+        {
+          "key": "A",
+          "value": "Its lumen is broad"
+        },
+        {
+          "key": "B",
+          "value": "Its wall is thick"
+        },
+        {
+          "key": "C",
+          "value": "It has valves"
+        },
+        {
+          "key": "D",
+          "value": "It does not posses endothelium."
+        }
+      ],
+      "answer": "B",
+      "explanation": "<p>The pulmonary artery is different from the pulmonary vein in several aspects, but based on the options provided, the correct answer is:</p>\n\n<p><strong>Option B: Its wall is thick.</strong></p>\n\n<p>Let's explore why this is the case and clarify the reasoning behind each option:</p>\n\n<p><strong>Option A: Its lumen is broad.</strong> Both the pulmonary artery and vein can have broad lumens, but this characteristic does not fundamentally distinguish one from the other. The lumen size can vary based on the specific segment of the vessel and the volume of blood it is transporting.</p>\n\n<p><strong>Option B: Its wall is thick.</strong> This is true and distinguishes the pulmonary artery from the pulmonary vein. Typically, arteries have thicker walls than veins because they must withstand and convey the higher pressure of blood pumped from the heart. Even though the pulmonary artery carries deoxygenated blood to the lungs — and does so at a lower pressure than systemic arteries — its walls are still thicker than those of the pulmonary veins, which carry oxygenated blood back to the heart.</p>\n\n<p><strong>Option C: It has valves.</strong> This option is not correct. Pulmonary arteries do not have valves. The confusion might arise from the fact that vein systems, including pulmonary veins, generally have valves to prevent backflow of blood. This characteristic is not found in the pulmonary artery.</p>\n\n<p><strong>Option D: It does not possess endothelium.</strong> This is incorrect. All blood vessels, including the pulmonary artery and pulmonary vein, are lined with endothelium. The endothelium is a thin layer of cells that provides a barrier between the blood and the rest of the vessel wall, facilitating smooth blood flow and playing roles in vascular health and disease prevention.</p>\n\n<p>Therefore, the primary distinction between the pulmonary artery and the pulmonary vein, as highlighted by the options given, is the thickness of their walls (Option B).</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Differennce between pulmonary artery and pulmonary vein is that, the pulmonary artery has ",
+      "options": [
+        {
+          "key": "A",
+          "value": "no endothelium"
+        },
+        {
+          "key": "B",
+          "value": "valves"
+        },
+        {
+          "key": "C",
+          "value": "thicker walls"
+        },
+        {
+          "key": "D",
+          "value": "oxygenated blood."
+        }
+      ],
+      "answer": "C",
+      "explanation": "An artery has thick and more elastic wall\nbut its lumen is narrow as compared to vein.\nPulmonary artery carries deoxygenated blood from\nthe right ventricle to the lungs for oxygenation.\nPulmonary vein carries oxygenated blood from the\nlungs to the left auricle.\n"
+    }
+  ]
+}

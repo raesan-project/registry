@@ -1,0 +1,2887 @@
+{
+  "_index": {
+    "name": "Evolution"
+  },
+  "_children": [
+    {
+      "_type": "single_mcq",
+      "body": "Forelimbs of cat, lizard used in walking, forelimbs of whale used in swimming and forelimbs\nof bats used in flying are an example of: ",
+      "options": [
+        {
+          "key": "A",
+          "value": "Analogous organs"
+        },
+        {
+          "key": "B",
+          "value": "Homologous organs "
+        },
+        {
+          "key": "C",
+          "value": "Convergent evolution"
+        },
+        {
+          "key": "D",
+          "value": "Adaptive radiation "
+        }
+      ],
+      "answer": "B",
+      "explanation": "Organs which have a common\nfundamental anatomical plan and\nsimilar embryonic origin whatever varied\nfunctions they may perform are regarded\nas homologous organs. For examples the\nflippers of a whale, a bats wing, fore-limb\nof a horse, a bird’s wing and forelimbs of\nhuman are structurally as well as functionally\ndifferent."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "In a population of 1000 individuals 360 belong to genotype AA, 480 to Aa and the remaining\n160 to aa. Based on this data, the frequency of allele A in the population is : ",
+      "options": [
+        {
+          "key": "A",
+          "value": "0.4"
+        },
+        {
+          "key": "B",
+          "value": "0.5 "
+        },
+        {
+          "key": "C",
+          "value": "0.6 "
+        },
+        {
+          "key": "D",
+          "value": "0.7"
+        }
+      ],
+      "answer": "C",
+      "explanation": "According to Hardy Weinberg principle<br>\np<sup>2</sup> + 2pq + q<sup>2</sup> = 1; (p + q)<sup>2</sup> = 1<br>\n(AA) p<sup>2</sup> = 360 out of 1000 individual<br>\nor p<sup>2</sup> = 0.36<br>\nTherefore, p = 0.6.\n"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Which of the following had the smallest brain capacity ?",
+      "options": [
+        {
+          "key": "A",
+          "value": "Homo neanderthalensis"
+        },
+        {
+          "key": "B",
+          "value": "Homo erectus"
+        },
+        {
+          "key": "C",
+          "value": "Homo sapiens"
+        },
+        {
+          "key": "D",
+          "value": "Homo habilis"
+        }
+      ],
+      "answer": "D",
+      "explanation": "The brain capacity gradually increased from\nearly human ancestors to modern man. Homo habilis\nhad 650 - 800cc brain capacity which increased\naround 900cc in Homo erectus. The Neanderthal man\n(Homo neanderthalensis) had 1400cc brain capacity\nwhich evolved to around 1450cc in Homo sapiens."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Which is the most common mechanism of genetic variation in the population of a sexually reproducing organism ?",
+      "options": [
+        {
+          "key": "A",
+          "value": "Transduction"
+        },
+        {
+          "key": "B",
+          "value": "Chromosomal aberrations"
+        },
+        {
+          "key": "C",
+          "value": "Recombination"
+        },
+        {
+          "key": "D",
+          "value": "Genetic Drift"
+        }
+      ],
+      "answer": "C",
+      "explanation": "The most common cause of variations\nis recombination in the organism which are\nreproduced by sexual way"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A population will not exist in Hardy-Weinberg equilibrium if",
+      "options": [
+        {
+          "key": "A",
+          "value": "there are no mutations"
+        },
+        {
+          "key": "B",
+          "value": "individuals mate selectively"
+        },
+        {
+          "key": "C",
+          "value": "the population is large"
+        },
+        {
+          "key": "D",
+          "value": "there is no migration"
+        }
+      ],
+      "answer": "B",
+      "explanation": "The theory of Hardy- Weinberg\nequilibrium states that in the absence of\ndisturbance on the level of genetic structure,\na population’s existance will not continue.\nThus mating should be in a random way."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Industrial melanism is an example of - ",
+      "options": [
+        {
+          "key": "A",
+          "value": "Mutation"
+        },
+        {
+          "key": "B",
+          "value": "Natural selection"
+        },
+        {
+          "key": "C",
+          "value": "Neo Darwinism "
+        },
+        {
+          "key": "D",
+          "value": "Neo Lamarckism "
+        }
+      ],
+      "answer": "B",
+      "explanation": "Natural selection is the most widely accepted\ntheory concerning the principal causal mechanism of\nevolutionary change profounded by Charles Darwin\nand Alfred Russel Wallace. It results from the\ndifferential reproduction (some members of a\npopulation produce abundant offspring, some only a\nfew and still others none), one phenotype as compared\nwith other phenotypes in the same population. This\ndetermines the relative share of different genotypes\nwhich individuals possess and propagate in a\npopulation. Industrial melanism supports evolution\nby natural selection. It is an adaptation where the\nmoths living in the industrial areas developed melanin\npigments to match their bodies to the tree trunks."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The wings of a bird and the wings of an\ninsect are :",
+      "options": [
+        {
+          "key": "A",
+          "value": "homologous structures and represent\ndivergent evolution"
+        },
+        {
+          "key": "B",
+          "value": "phylogenetic structures and represent\ndivergent evolution"
+        },
+        {
+          "key": "C",
+          "value": "homologous structures and represent\nconvergent evolution "
+        },
+        {
+          "key": "D",
+          "value": "analogous structures and represent\nconvergent evolution "
+        }
+      ],
+      "answer": "D",
+      "explanation": "Analogous organs are the organs which have\nsimilar function but are different in their structural\ndetails and origin. The analogous structures are the \nresult of convergent evolution. The wings of an insect\nare analogous to wings of a bird because the basic\nstructure of the wings of the insects is different from\nthe wings of bird. However, their function is similar.\n"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Match List-I with List-II :</p>\n<p><style type=\"text/css\">\n.tg  {border-collapse:collapse;border-spacing:0;}\n.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}\n.tg .tg-7btt{border-color:inherit;font-weight:bold;text-align:center;vertical-align:top}\n.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}\n</style>\n<table class=\"tg\" style=\"undefined;table-layout: fixed; width: 746px\"><colgroup>\n<col style=\"width: 78px\">\n<col style=\"width: 262px\">\n<col style=\"width: 83px\">\n<col style=\"width: 323px\">\n</colgroup>\n<thead>\n  <tr>\n    <th class=\"tg-7btt\"></th>\n    <th class=\"tg-7btt\">List - I</th>\n    <th class=\"tg-7btt\"></th>\n    <th class=\"tg-7btt\">List - II</th>\n  </tr></thead>\n<tbody>\n  <tr>\n    <td class=\"tg-c3ow\">(A)</td>\n    <td class=\"tg-0pky\">Gene pool</td>\n    <td class=\"tg-c3ow\">(I)</td>\n    <td class=\"tg-0pky\">Stable within a generation</td>\n  </tr>\n  <tr>\n    <td class=\"tg-c3ow\">(B)</td>\n    <td class=\"tg-0pky\">Genetic drift  </td>\n    <td class=\"tg-c3ow\">(II)</td>\n    <td class=\"tg-0pky\">Change in gene frequency by chance</td>\n  </tr>\n  <tr>\n    <td class=\"tg-c3ow\">(C)</td>\n    <td class=\"tg-0pky\">Gene flow</td>\n    <td class=\"tg-c3ow\">(III)</td>\n    <td class=\"tg-0pky\">Transfer of genes into or out of population</td>\n  </tr>\n  <tr>\n    <td class=\"tg-c3ow\">(D)</td>\n    <td class=\"tg-0pky\">Gene frequency</td>\n    <td class=\"tg-c3ow\">(IV)</td>\n    <td class=\"tg-0pky\">Total number of genes and their alleles</td>\n  </tr>\n</tbody>\n</table></p>\n<p>Choose the correct answer from the options given below :</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "A-III, B-II, C-I, D-IV\n"
+        },
+        {
+          "key": "B",
+          "value": "A-IV, B-II, C-III, D-I\n"
+        },
+        {
+          "key": "C",
+          "value": "A-I, B-II, C-III, D-IV\n"
+        },
+        {
+          "key": "D",
+          "value": " A-II, B-III, C-IV, D-I"
+        }
+      ],
+      "answer": "B",
+      "explanation": "<p>The correct answer is <strong>Option B: A-IV, B-II, C-III, D-I</strong>.</p>\n\n<p>Here's the breakdown of each term and its corresponding definition:</p>\n\n<p>(A) <strong>Gene pool:</strong> This refers to the total number of genes and their alleles within a population. So, the correct match for gene pool is <strong>(IV) Total number of genes and their alleles</strong>. </p>\n\n<p>(B) <strong>Genetic drift:</strong> It's a random change in the frequency of alleles within a population due to chance events like natural disasters or small population size. Therefore, the correct match for genetic drift is <strong>(II) Change in gene frequency by chance</strong>. </p>\n\n<p>(C) <strong>Gene flow:</strong> This involves the movement of genes between populations. It can occur through migration or the exchange of genetic material. So, the correct match for gene flow is <strong>(III) Transfer of genes into or out of population</strong>. </p>\n\n<p>(D) <strong>Gene frequency:</strong> It represents the relative proportion of a specific allele within a population. Gene frequencies tend to remain stable within a generation unless acted upon by evolutionary forces. Therefore, the correct match for gene frequency is <strong>(I) Stable within a generation</strong>. </p>\n\n<p></p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Match List-I with List-II with respect to convergent evolution:</p>\n<p><style type=\"text/css\">\n.tg  {border-collapse:collapse;border-spacing:0;}\n.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}\n.tg .tg-7btt{border-color:inherit;font-weight:bold;text-align:center;vertical-align:top}\n.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}\n</style>\n<table class=\"tg\" style=\"undefined;table-layout: fixed; width: 746px\"><colgroup>\n<col style=\"width: 78px\">\n<col style=\"width: 262px\">\n<col style=\"width: 83px\">\n<col style=\"width: 323px\">\n</colgroup>\n<thead>\n  <tr>\n    <th class=\"tg-7btt\"></th>\n    <th class=\"tg-7btt\">List - I</th>\n    <th class=\"tg-7btt\"></th>\n    <th class=\"tg-7btt\">List - II</th>\n  </tr></thead>\n<tbody>\n  <tr>\n    <td class=\"tg-c3ow\">(A)</td>\n    <td class=\"tg-0pky\">Lemur</td>\n    <td class=\"tg-c3ow\">(I)</td>\n    <td class=\"tg-0pky\">Flying phalanger</td>\n  </tr>\n  <tr>\n    <td class=\"tg-c3ow\">(B)</td>\n    <td class=\"tg-0pky\">Bobcat</td>\n    <td class=\"tg-c3ow\">(II)</td>\n    <td class=\"tg-0pky\">Numbat</td>\n  </tr>\n  <tr>\n    <td class=\"tg-c3ow\">(C)</td>\n    <td class=\"tg-0pky\">Anteater</td>\n    <td class=\"tg-c3ow\">(III)</td>\n    <td class=\"tg-0pky\">Spotted cuscus</td>\n  </tr>\n  <tr>\n    <td class=\"tg-c3ow\">(D)</td>\n    <td class=\"tg-0pky\">Flying squirrels</td>\n    <td class=\"tg-c3ow\">(IV)</td>\n    <td class=\"tg-0pky\">Tasmanian tiger cat</td>\n  </tr>\n</tbody>\n</table></p>\n<p>Choose the correct answer from the options given below:</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "A-III, B-IV, C-II, D-I \n"
+        },
+        {
+          "key": "B",
+          "value": "A-III, B-II, C-IV, D-I \n"
+        },
+        {
+          "key": "C",
+          "value": "A-IV, B-III, C-II, D-I \n"
+        },
+        {
+          "key": "D",
+          "value": "A-IV, B-II, C-III, D-I"
+        }
+      ],
+      "answer": "A",
+      "explanation": "<p>Convergent evolution refers to the process where organisms not closely related independently evolve similar traits as a result of having to adapt to similar environments or ecological niches. Let's match List-I with List-II based on the principle of convergent evolution:</p>\n\n<p>\n\n<table class=\"tg\" style=\"undefined;table-layout: fixed; width: 746px\"><colgroup>\n\n<col style=\"width: 78px\">\n\n<col style=\"width: 262px\">\n\n<col style=\"width: 83px\">\n\n<col style=\"width: 323px\">\n\n</colgroup>\n\n<thead>\n\n<tr>\n\n<th class=\"tg-7btt\"></th>\n\n<th class=\"tg-7btt\">List - I</th>\n\n<th class=\"tg-7btt\"></th>\n\n<th class=\"tg-7btt\">List - II</th>\n\n</tr></thead>\n\n<tbody>\n\n<tr>\n\n<td class=\"tg-c3ow\">(A)</td>\n\n<td class=\"tg-0pky\">Lemur</td>\n\n<td class=\"tg-c3ow\">(I)</td>\n\n<td class=\"tg-0pky\">Flying phalanger</td>\n\n</tr>\n\n<tr>\n\n<td class=\"tg-c3ow\">(B)</td>\n\n<td class=\"tg-0pky\">Bobcat</td>\n\n<td class=\"tg-c3ow\">(II)</td>\n\n<td class=\"tg-0pky\">Numbat</td>\n\n</tr>\n\n<tr>\n\n<td class=\"tg-c3ow\">(C)</td>\n\n<td class=\"tg-0pky\">Anteater</td>\n\n<td class=\"tg-c3ow\">(III)</td>\n\n<td class=\"tg-0pky\">Spotted cuscus</td>\n\n</tr>\n\n<tr>\n\n<td class=\"tg-c3ow\">(D)</td>\n\n<td class=\"tg-0pky\">Flying squirrels</td>\n\n<td class=\"tg-c3ow\">(IV)</td>\n\n<td class=\"tg-0pky\">Tasmanian tiger cat</td>\n\n</tr>\n\n</tbody>\n\n</table></p>\n\n<p>Here's the matching based on some understanding of convergent evolution species:</p>\n\n<ul>\n\n<li>Lemur (A) matches with Spotted cuscus (III) - both are arboreal and have similar ecological roles in their environments.</li>\n\n<li>Bobcat (B) matches with Tasmanian tiger cat (IV) - both are predatory and adapt similarly to their environments.</li>\n\n<li>Anteater (C) matches with Numbat (II) - both have adapted to eating ants and termites.</li>\n\n<li>Flying squirrels (D) matches with Flying phalanger (I) - both have developed the ability to glide.</li>\n\n</ul>\n\n<p>So, the correct answer is:</p>\n\n<p><strong>Option A</strong><br>\n\n<p>A-III, B-IV, C-II, D-I</p></p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Match List I with List II:</p>\n<p><style type=\"text/css\">\n.tg  {border-collapse:collapse;border-spacing:0;}\n.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}\n.tg .tg-7btt{border-color:inherit;font-weight:bold;text-align:center;vertical-align:top}\n.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}\n</style>\n<table class=\"tg\" style=\"undefined;table-layout: fixed; width: 746px\"><colgroup>\n<col style=\"width: 78px\">\n<col style=\"width: 262px\">\n<col style=\"width: 83px\">\n<col style=\"width: 323px\">\n</colgroup>\n<thead>\n  <tr>\n    <th class=\"tg-7btt\"></th>\n    <th class=\"tg-7btt\">List - I</th>\n    <th class=\"tg-7btt\"></th>\n    <th class=\"tg-7btt\">List - II</th>\n  </tr></thead>\n<tbody>\n  <tr>\n    <td class=\"tg-c3ow\">(A)</td>\n    <td class=\"tg-0pky\">Living Fossil</td>\n    <td class=\"tg-c3ow\">(I)</td>\n    <td class=\"tg-0pky\">Elongated canine teeth</td>\n  </tr>\n  <tr>\n    <td class=\"tg-c3ow\">(B)</td>\n    <td class=\"tg-0pky\">Connecting Link</td>\n    <td class=\"tg-c3ow\">(II)</td>\n    <td class=\"tg-0pky\">Vermiform appendix</td>\n  </tr>\n  <tr>\n    <td class=\"tg-c3ow\">(C)</td>\n    <td class=\"tg-0pky\">Vestigial Organ</td>\n    <td class=\"tg-c3ow\">(III)</td>\n    <td class=\"tg-0pky\">Echidna</td>\n  </tr>\n  <tr>\n    <td class=\"tg-c3ow\">(D)</td>\n    <td class=\"tg-0pky\">Atavism</td>\n    <td class=\"tg-c3ow\">(IV)</td>\n    <td class=\"tg-0pky\">Latimeria</td>\n  </tr>\n</tbody>\n</table></p>\n<p>Choose the correct answer from the options given below:</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "A-IV, B-III, C-II, D-I\n"
+        },
+        {
+          "key": "B",
+          "value": "A-IV, B-II, C-III, D-I\n"
+        },
+        {
+          "key": "C",
+          "value": "A-IV, B-III, C-I, D-II\n"
+        },
+        {
+          "key": "D",
+          "value": "A-III, B-IV, C-I, D-II"
+        }
+      ],
+      "answer": "A",
+      "explanation": "<p>Let's understand each term in the lists and then match them correctly.</p>\n\n<p><strong>List I:</strong></p>\n\n<ol>\n\n<li><strong>Living Fossil:</strong> Organisms that have remained virtually unchanged over millions of years. They are often considered evolutionary \"relics\" and provide valuable insights into past ecosystems.</li>\n\n<li><strong>Connecting Link:</strong> Organisms that exhibit characteristics of both ancestral and more advanced groups, suggesting evolutionary transitions. They are crucial for understanding the branching patterns of evolutionary lineages.</li>\n\n<li><strong>Vestigial Organ:</strong>  Organs or structures that have lost their original function over time due to evolutionary changes. They often remain as reduced or non-functional remnants of their ancestral forms.</li>\n\n<li><strong>Atavism:</strong>  The reappearance of a trait that was lost in the evolutionary history of a species, often due to mutations or the re-expression of suppressed genes.</li>\n\n</ol>\n\n<p><strong>List II:</strong></p>\n\n<ol>\n\n<li><strong>Elongated canine teeth:</strong>  These teeth are characteristic of carnivorous animals and are used for tearing flesh. They are not directly related to any of the terms in List I.</li>\n\n<li><strong>Vermiform appendix:</strong> A small, finger-like projection from the cecum in the human digestive system. It is considered a vestigial organ, as it is believed to have lost its digestive function in humans.</li>\n\n<li><strong>Echidna:</strong> A spiny anteater found in Australia and New Guinea. It is a fascinating example of a monotreme, a group of mammals that lay eggs. While it has unique adaptations, it is not considered a living fossil or a connecting link.</li>\n\n<li><strong>Latimeria:</strong>  A type of lobe-finned fish commonly known as the coelacanth. It is considered a living fossil due to its remarkable resemblance to ancient fish species that lived millions of years ago.</li>\n\n</ol>\n\n<p>Now, let's match the terms:</p>\n\n<ul>\n\n<li> <strong>(A) Living Fossil - (IV) Latimeria:</strong> Latimeria is a prime example of a living fossil, representing a lineage that has persisted for millions of years with minimal changes.</li>\n\n<li> <strong>(B) Connecting Link - (III) Echidna:</strong>  While Echidna is not a direct connecting link between different groups, its unique characteristics, being a mammal that lays eggs, demonstrate the evolutionary transition from reptilian ancestors to mammals.</li>\n\n<li> <strong>(C) Vestigial Organ - (II) Vermiform appendix:</strong> The vermiform appendix is a well-known example of a vestigial organ in humans.</li>\n\n<li> <strong>(D) Atavism - (I) Elongated canine teeth:</strong>  While not directly related to the term \"Atavism,\" elongated canine teeth are characteristic of carnivores and might reappear in species that have lost this trait due to a shift in their diet, demonstrating the potential for atavism.</li>\n\n</ul>\n\n<p>Therefore, the correct matching is: <strong>A-IV, B-III, C-II, D-I</strong>. This corresponds to <strong>Option A</strong>.</p>\n\n<p></p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>What is the correct order (old to recent) of periods in Paleozoic era?</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "Silurian, Devonian, Permian, Carboniferous\n"
+        },
+        {
+          "key": "B",
+          "value": "Silurian, Devonian, Carboniferous, Permian\n"
+        },
+        {
+          "key": "C",
+          "value": "Permian, Devonian, Silurian, Carboniferous\n"
+        },
+        {
+          "key": "D",
+          "value": "Silurian, Carboniferous, Permian, Devonian"
+        }
+      ],
+      "answer": "B",
+      "explanation": "<p>The correct order of periods in the Paleozoic era from oldest to most recent is:</p>\n\n<p><strong>Option B: Silurian, Devonian, Carboniferous, Permian</strong></p>\n\n<p>Here's a breakdown of the Paleozoic periods and their approximate time spans:</p>\n\n<ul>\n\n<li><strong>Cambrian Period</strong> (541-485.4 million years ago): The Cambrian Period marks the beginning of the Paleozoic Era. Life diversified rapidly during this time, with the emergence of many new animal phyla.</li>\n\n<li><strong>Ordovician Period</strong> (485.4-443.8 million years ago): This period saw the continued diversification of marine life, including the evolution of the first vertebrates.</li>\n\n<li><strong>Silurian Period</strong> (443.8-419.2 million years ago): The Silurian Period was marked by the colonization of land by plants and animals. The first land plants evolved during this time, along with the first arthropods to live on land.</li>\n\n<li><strong>Devonian Period</strong> (419.2-358.9 million years ago): This period is often referred to as the \"Age of Fishes\" due to the abundance of fish species that evolved during this time. The first tetrapods (four-legged vertebrates) also emerged in the Devonian.</li>\n\n<li><strong>Carboniferous Period</strong> (358.9-298.9 million years ago): The Carboniferous Period was a time of extensive swamp forests, which gave rise to the vast coal deposits that are mined today. Amphibians and insects diversified during this time.</li>\n\n<li><strong>Permian Period</strong> (298.9-251.9 million years ago): The Permian Period ended with the largest mass extinction event in Earth's history, which wiped out over 90% of marine species and 70% of terrestrial species. The Permian extinction paved the way for the rise of dinosaurs in the Mesozoic Era.</li>\n\n</ul>\n\n<p></p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>The flippers of the Penguins and Dolphins are the example of the</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "Adaptive radiation\n"
+        },
+        {
+          "key": "B",
+          "value": "Natural selection\n"
+        },
+        {
+          "key": "C",
+          "value": "Convergent evolution\n"
+        },
+        {
+          "key": "D",
+          "value": "Divergent evolution"
+        }
+      ],
+      "answer": "C",
+      "explanation": "<p>The flippers of penguins and dolphins are examples of convergent evolution. Convergent evolution occurs when different species independently evolve similar traits or structures because they adapt to similar environments or ecological niches, despite being of different lineages. This phenomenon leads to analogous structures, which perform similar functions but are not derived from a common ancestral trait.</p>\n\n<p>Penguins are birds, and dolphins are mammals. Their ancestors did not possess flippers, but both these species have evolved this similar structure, which helps in swimming efficiently in aquatic environments. The development of flippers in both cases is an adaptation to enhance their abilities in similar environments (aquatic life), even though they come from different evolutionary paths.</p>\n\n<p>Therefore, the correct answer is:</p>\n\n<p><strong>Option C: Convergent evolution</strong></p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Given below are some stages of human evolution.</p>\n<p>Arrange them in correct sequence. (Past to Recent)</p>\n<p>A. Homo habilis</p>\n<p>B. Homo sapiens</p>\n<p>C. Homo neanderthalensis</p>\n<p>D. Homo erectus</p>\n<p>Choose the correct sequence of human evolution from the options given below:</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "D-A-C-B"
+        },
+        {
+          "key": "B",
+          "value": "B-A-D-C"
+        },
+        {
+          "key": "C",
+          "value": "C-B-D-A"
+        },
+        {
+          "key": "D",
+          "value": "A-D-C-B"
+        }
+      ],
+      "answer": "D",
+      "explanation": "<p>To correctly arrange the stages of human evolution from past to most recent, we must place these species in chronological order based on when they first appeared according to scientific evidence.</p>\n\n<ol>\n<li><strong>Homo habilis</strong> - Often considered one of the earliest members of the genus Homo, appearing around 2.1 to 2.8 million years ago.</li><br>\n<li><strong>Homo erectus</strong> - Appeared around 1.9 million years ago and is known for its longer survival until about 140,000 years ago in some regions.</li><br>\n<li><strong>Homo neanderthalensis (Neanderthals)</strong> - Emerged around 400,000 years ago and disappeared around 40,000 years ago.</li><br>\n<li><strong>Homo sapiens</strong> - Our own species, which emerged around 300,000 years ago and is the only surviving species of the genus Homo.</li>\n</ol>\n<p>Based on this information, the correct sequence from past to most recent would be:</p>\n\n<ul>\n<li><strong>A. Homo habilis</strong></li><br>\n<li><strong>D. Homo erectus</strong></li><br>\n<li><strong>C. Homo neanderthalensis</strong></li><br>\n<li><strong>B. Homo sapiens</strong></li>\n</ul>\n<p>Thus, the correct sequence is represented by:</p>\n\n<p>Option D: A-D-C-B.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Match List I with List II:</p>\n<p><style type=\"text/css\">\n.tg  {border-collapse:collapse;border-spacing:0;}\n.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}\n.tg .tg-7btt{border-color:inherit;font-weight:bold;text-align:center;vertical-align:top}\n.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}\n</style>\n<table class=\"tg\" style=\"undefined;table-layout: fixed; width: 705px\">\n<colgroup>\n<col style=\"width: 71px\">\n<col style=\"width: 265px\">\n<col style=\"width: 74px\">\n<col style=\"width: 295px\">\n</colgroup>\n<thead>\n  <tr>\n    <th class=\"tg-7btt\"></th>\n    <th class=\"tg-7btt\">List - I</th>\n    <th class=\"tg-7btt\"></th>\n    <th class=\"tg-7btt\">List - II</th>\n  </tr>\n</thead>\n<tbody>\n  <tr>\n    <td class=\"tg-c3ow\">A.</td>\n    <td class=\"tg-0pky\">Mesozoic Era</td>\n    <td class=\"tg-c3ow\">I.</td>\n    <td class=\"tg-0pky\">Lower invertebrates</td>\n  </tr>\n  <tr>\n    <td class=\"tg-c3ow\">B.</td>\n    <td class=\"tg-0pky\">Proterozoic Era</td>\n    <td class=\"tg-c3ow\">II.</td>\n    <td class=\"tg-0pky\">Fish &amp; Amphibia</td>\n  </tr>\n  <tr>\n    <td class=\"tg-c3ow\">C.</td>\n    <td class=\"tg-0pky\">Cenozoic Era</td>\n    <td class=\"tg-c3ow\">III.</td>\n    <td class=\"tg-0pky\">Birds &amp; Reptiles</td>\n  </tr>\n  <tr>\n    <td class=\"tg-c3ow\">D.</td>\n    <td class=\"tg-0pky\">Paleozoic Era</td>\n    <td class=\"tg-c3ow\">IV.</td>\n    <td class=\"tg-0pky\">Mammals</td>\n  </tr>\n</tbody>\n</table></p>\n<p>Choose the correct answer from the options given below :</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "A-II, B-I, C-III, D-IV\n"
+        },
+        {
+          "key": "B",
+          "value": "A-III, B-I, C-II, D-IV\n"
+        },
+        {
+          "key": "C",
+          "value": "A-I, B-II, C-IV, D-III\n"
+        },
+        {
+          "key": "D",
+          "value": "A-III, B-I, C-IV, D-II"
+        }
+      ],
+      "answer": "D",
+      "explanation": "<p>The question requires matching events in historical geological eras to the prevalent life forms of those periods. To do this accurately, knowledge of what characterized each era in terms of biodiversity is essential. Here's a breakdown:</p>\n\n<ul>\n\n<li><strong>Mesozoic Era (A)</strong>: This era, often called the \"Age of Reptiles,\" is renowned for its diverse reptilian species, including the dinosaurs, and also saw the emergence of birds from theropod dinosaurs. Hence, Mesozoic Era matches with \"Birds & Reptiles (III)\".</li>\n\n<br/><li><strong>Proterozoic Era (B)</strong>: The Proterozoic Era is part of the Precambrian period, characterized by the rise of simple, mostly unicellular life, including the first complex eukaryotic cells and multicellular forms like the Ediacara biota. Therefore, it should match with \"Lower invertebrates (I)\".</li>\n\n<br/><li><strong>Cenozoic Era (C)</strong>: Known as the \"Age of Mammals,\" this period saw mammals diversifying after the extinction of the dinosaurs at the K-T boundary (the transition from Mesozoic to Cenozoic). Therefore, Cenozoic Era matches with \"Mammals (IV)\".</li>\n\n<br/><li><strong>Paleozoic Era (D)</strong>: During the Paleozoic Era, marine life flourished, and vertebrates began to emerge, including fishes and the first tetrapods (amphibians). Thus, Paleozoic Era corresponds to \"Fish & Amphibia (II)\".</li>\n\n</ul>\n\n<p>Therefore, the correct matching based on the information given would be:</p>\n\n<p>Option D: A-III, B-I, C-IV, D-II. This option accurately aligns each era with the dominant life forms characterized within those eras.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Identify the fossil of man who showed the following \ncharacteristics.</p>\n<p> (A) Brain capacity of 1400 cc </p>\n<p> (B) Used hides to protect their body </p>\n<p> (C) Buried their dead bodies </p>\n<p> In the light of above statements, choose the correct \nanswer from the options given below :</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "Homo erectus"
+        },
+        {
+          "key": "B",
+          "value": "Neanderthal man"
+        },
+        {
+          "key": "C",
+          "value": "Homo habilits"
+        },
+        {
+          "key": "D",
+          "value": "Australopithecus"
+        }
+      ],
+      "answer": "B",
+      "explanation": "<p><b>Option A : Homo erectus -</b> Homo erectus was an early human species that existed around 1.9 million to 110,000 years ago. They were the first of the hominins to leave Africa and spread across parts of Europe and Asia. They had a larger brain size compared to earlier human ancestors (with an average capacity of about 900 - 1100 cc), used more complex tools, and were likely able to control fire.</p>\n<p><b>Option B : Neanderthal man -</b> Neanderthals are an extinct species of hominids that lived between about 400,000 and 40,000 years ago in Europe and southwestern to central Asia. They had a brain capacity equal to or slightly larger than that of modern humans, with an average of about 1200 - 1750 cc. They made and used a diverse set of sophisticated tools, controlled fire, lived in shelters, made and wore clothing, were skilled hunters of large animals and also ate plant foods, and occasionally made symbolic or ornamental objects. There is evidence that Neanderthals deliberately buried their dead and occasionally even marked their graves with offerings.</p>\n<p><b>Option C : Homo habilis -</b> Homo habilis is an early human species that lived between approximately 2.1 and 1.5 million years ago. It is considered one of the earliest members of the Homo genus and had a larger brain than earlier hominins, averaging around 650 - 800 cc. They also manufactured primitive tools, giving them their name &#39;handy man&#39;.</p>\n<p><b>Option D : Australopithecus -</b> Australopithecus is a genus of hominins that lived between about 4 and 2 million years ago. They had a smaller brain size (average around 400 - 500 cc) and were more similar to apes in terms of their physical characteristics. Some species of Australopithecus are considered direct ancestors of the Homo genus. Fossil evidence suggests they walked upright, but it&#39;s unclear how much they used tools.</p>\n"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Select the correct group/set of Australian Marsupials exhibiting adaptive radiation.</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "Numbat, Spotted cuscus, Flying phalanger"
+        },
+        {
+          "key": "B",
+          "value": "Mole, Flying squirrel, Tasmanian tiger cat"
+        },
+        {
+          "key": "C",
+          "value": "Lemur, Anteater, Wolf"
+        },
+        {
+          "key": "D",
+          "value": "Tasmanian wolf, Bobcat, Marsupial mole"
+        }
+      ],
+      "answer": "A",
+      "explanation": "<p>Option (A) is the correct answer because numbat, spotted cuscus and flying phalanger are Australian \nmarsupials exhibiting adaptive radiation.</p>\n<p>Option (B) is incorrect because mole and flying squirrel are placental mammals.</p>\n<p>Option (C) is incorrect because lemur and wolf are placental mammals.</p>\n<p>Option (D) is incorrect because bobcat is a placental mammal.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Given below are two statements:</p>\n<p>Statement I: RNA mutates at a faster rate.</p>\n<p>Statement II: Viruses having RNA genome and shorter life span mutate and evolve faster.</p>\n<p>In the light of the above statements, choose the correct answer from the options given below:</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "Both Statement I and Statement II are false."
+        },
+        {
+          "key": "B",
+          "value": "Statement I is true but Statement II is false."
+        },
+        {
+          "key": "C",
+          "value": "Statement I is false but Statement II is true."
+        },
+        {
+          "key": "D",
+          "value": "Both Statement I and Statement II are true."
+        }
+      ],
+      "answer": "D",
+      "explanation": "Statement I is true because RNA, particularly in RNA viruses, does mutate at a faster rate than DNA. This is largely due to the lack of proofreading mechanisms in RNA replication that are present in DNA replication.\n\n<br/><br/>Statement II is also true. Viruses with an RNA genome, like the influenza virus or HIV, can mutate and evolve faster. The high mutation rate of RNA, combined with the short generation time of viruses, leads to rapid evolution, allowing these viruses to quickly adapt to new environments or hosts."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Give the correct descending order of organisms with reference to their estimated number found in Amazon forest.</p>\n<p>(a) Plants (b) Invertebrates (c) Fishes (d) Mammals (e) Birds</p>\n<p>Choose the correct answer from the options given below :</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "(b) > (a) > (c) > (e) > (d)"
+        },
+        {
+          "key": "B",
+          "value": "(a) > (b) > (e) > (d) > (c)"
+        },
+        {
+          "key": "C",
+          "value": "(a) > (c) > (d) > (b) > (e)"
+        },
+        {
+          "key": "D",
+          "value": "(b) > (a) > (e) > (d) > (c)"
+        }
+      ],
+      "answer": "A",
+      "explanation": "<p>The numbers of species related to different taxa in Amazonian rain forest are as follows:</p>\n<p><style type=\"text/css\">\n.tg  {border-collapse:collapse;border-spacing:0;}\n.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg .tg-baqh{text-align:center;vertical-align:top}\n</style>\n<table class=\"tg\" style=\"undefined;table-layout: fixed; width: 297px\">\n<colgroup>\n<col style=\"width: 153px\">\n<col style=\"width: 144px\">\n</colgroup>\n<thead>\n  <tr>\n    <th class=\"tg-baqh\">Taxa</th>\n    <th class=\"tg-baqh\">Number of species</th>\n  </tr>\n</thead>\n<tbody>\n  <tr>\n    <td class=\"tg-baqh\">Plants</td>\n    <td class=\"tg-baqh\">&gt; 40,000</td>\n  </tr>\n  <tr>\n    <td class=\"tg-baqh\">Mammals</td>\n    <td class=\"tg-baqh\">427</td>\n  </tr>\n  <tr>\n    <td class=\"tg-baqh\">Birds</td>\n    <td class=\"tg-baqh\">1,300</td>\n  </tr>\n  <tr>\n    <td class=\"tg-baqh\">Fishes</td>\n    <td class=\"tg-baqh\">3,000</td>\n  </tr>\n  <tr>\n    <td class=\"tg-baqh\">Invertebrates</td>\n    <td class=\"tg-baqh\">&gt; 1,25,000</td>\n  </tr>\n</tbody>\n</table></p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Select the correct statement regarding mutation theory of evolution.</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "Large differences due to mutations arise gradually in a population"
+        },
+        {
+          "key": "B",
+          "value": "This theory was proposed by Alfred Wallace"
+        },
+        {
+          "key": "C",
+          "value": "Variations are small directional changes"
+        },
+        {
+          "key": "D",
+          "value": "Single step large mutation is a cause of speciation"
+        }
+      ],
+      "answer": "D",
+      "explanation": "<p>Correct answer is option no. (a) because</p>\n<p>Hugo de Vries, based on his work on evening primrose brought forth the idea of mutations. He believed that mutation caused speciation and hence called it saltation (Single step large mutation).</p>\n<p>Option (a)  is incorrect because mutations are sudden (random) and directionless.</p>\n<p>Option (b) is incorrect because mutation theory was proposed by Hugo de Vries.</p>\n<p>Option (c) is incorrect because Darwinian variations are small and directional changes, but they are not related to mutation theory of evolution.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Natural selection where more individuals acquire specific character value other than the mean character value, leads to</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "Stabilising change"
+        },
+        {
+          "key": "B",
+          "value": "Directional change"
+        },
+        {
+          "key": "C",
+          "value": "Disruptive change"
+        },
+        {
+          "key": "D",
+          "value": "Random change"
+        }
+      ],
+      "answer": "B",
+      "explanation": "<p>Option (b) is correct because in directional natural selection more individuals acquire value other than the mean character value.</p>\n<p>Option (c) is incorrect because in disruptive change, more individuals acquire peripheral character value at both ends of the distribution curve.</p>\n<p>Option (d) is incorrect because there is no random change in natural selection.</p>\n<p>Option (a) is incorrect because natural selection leads to stabilisation when more individuals acquire mean character value.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Which of the following statements is not true?</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "Analogous structures are a result of convergent evolution"
+        },
+        {
+          "key": "B",
+          "value": "Sweet potato and potato is an example of analogy"
+        },
+        {
+          "key": "C",
+          "value": "Homology indicates common ancestry"
+        },
+        {
+          "key": "D",
+          "value": "Flippers of penguins and dolphins are a pair of homologous organs"
+        }
+      ],
+      "answer": "D",
+      "explanation": "<p>Option (d) is the correct answer because flippers of penguins and dolphins are analogous organs as they help in swimming but do not have the same structure.</p>\n<p>Option (c), (a) and (b) are true statements and hence cannot be the correct answer.</p>\n<p>Homologous organs have the same structure but have different functions according to the needs of the organisms. Hence, homology indicates common ancestry.</p>\n<p>Analogous structures have developed for the same function but do not show a similarity in structure. Hence, they are a result of convergent evolution.</p>\n<p>Sweet potato is a root modification for food storage whereas potato is an underground stem modification for storage. Hence they are analogous.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The factor that leads to Founder effect in a population is :",
+      "options": [
+        {
+          "key": "A",
+          "value": "Genetic drift"
+        },
+        {
+          "key": "B",
+          "value": "Natural selection"
+        },
+        {
+          "key": "C",
+          "value": "Genetic recombination"
+        },
+        {
+          "key": "D",
+          "value": "Mutation"
+        }
+      ],
+      "answer": "A",
+      "explanation": "$$\\bullet$$ Change in gene frequency in a small population by chance is known as genetic drift. Genetic drift has two ramifications, one i bottle neck effect and another is founder's effect.<br><br>$$\\bullet$$ When accidentally a few individuals are dispersed and act as founders of a new isolated population, founder's effect is said to be observed.<br><br>$$\\bullet$$ Crossing over which occurs during gamete formation results in genetic recombination.<br><br>$$\\bullet$$ Mutations are random and directionless."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Match List-I with List-II.<br><br><style type=\"text/css\">\n.tg  {border-collapse:collapse;border-spacing:0;}\n.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg .tg-amwm{font-weight:bold;text-align:center;vertical-align:top}\n.tg .tg-0lax{text-align:left;vertical-align:top}\n</style>\n<table class=\"tg\">\n<thead>\n  <tr>\n    <th class=\"tg-amwm\"></th>\n    <th class=\"tg-amwm\">List-I</th>\n    <th class=\"tg-amwm\"></th>\n    <th class=\"tg-amwm\">List-II</th>\n  </tr>\n</thead>\n<tbody>\n  <tr>\n    <td class=\"tg-0lax\">(a)</td>\n    <td class=\"tg-0lax\">Adaptive radiation</td>\n    <td class=\"tg-0lax\">(i)</td>\n    <td class=\"tg-0lax\">Selection of resistant varieties due to excessive use of herbicides and pesticides</td>\n  </tr>\n  <tr>\n    <td class=\"tg-0lax\">(b)</td>\n    <td class=\"tg-0lax\">Convergent evolution</td>\n    <td class=\"tg-0lax\">(ii)</td>\n    <td class=\"tg-0lax\">Bones of forelimbs in Man and Whale</td>\n  </tr>\n  <tr>\n    <td class=\"tg-0lax\">(c)</td>\n    <td class=\"tg-0lax\">Divergent evolution</td>\n    <td class=\"tg-0lax\">(iii)</td>\n    <td class=\"tg-0lax\">Wings of Butterfly and Bird</td>\n  </tr>\n  <tr>\n    <td class=\"tg-0lax\">(d)</td>\n    <td class=\"tg-0lax\">Evolution by anthropogenic action</td>\n    <td class=\"tg-0lax\">(iv)</td>\n    <td class=\"tg-0lax\">Darwin Finches</td>\n  </tr>\n</tbody>\n</table><br><br>Choose the correct answer from the options given below.",
+      "options": [
+        {
+          "key": "A",
+          "value": "<table>\n<thead>\n  <tr>\n    <th>(a)</th>\n    <th>(b)</th>\n    <th>(c)</th>\n    <th>(d)</th>\n  </tr>\n</thead>\n<tbody>\n  <tr>\n    <td>(i)</td>\n    <td>(iv)</td>\n    <td>(iii)</td>\n    <td>(ii)</td>\n  </tr>\n</tbody>\n</table>"
+        },
+        {
+          "key": "B",
+          "value": "<table>\n<thead>\n  <tr>\n    <th>(a)</th>\n    <th>(b)</th>\n    <th>(c)</th>\n    <th>(d)</th>\n  </tr>\n</thead>\n<tbody>\n  <tr>\n    <td>(iv)</td>\n    <td>(iii)</td>\n    <td>(ii)</td>\n    <td>(i)</td>\n  </tr>\n</tbody>\n</table>"
+        },
+        {
+          "key": "C",
+          "value": "<table>\n<thead>\n  <tr>\n    <th>(a)</th>\n    <th>(b)</th>\n    <th>(c)</th>\n    <th>(d)</th>\n  </tr>\n</thead>\n<tbody>\n  <tr>\n    <td>(iii)</td>\n    <td>(ii)</td>\n    <td>(i)</td>\n    <td>(iv)</td>\n  </tr>\n</tbody>\n</table>"
+        },
+        {
+          "key": "D",
+          "value": "<table>\n<thead>\n  <tr>\n    <th>(a)</th>\n    <th>(b)</th>\n    <th>(c)</th>\n    <th>(d)</th>\n  </tr>\n</thead>\n<tbody>\n  <tr>\n    <td>(ii)</td>\n    <td>(i)</td>\n    <td>(iv)</td>\n    <td>(iii)</td>\n  </tr>\n</tbody>\n</table>"
+        }
+      ],
+      "answer": "B",
+      "explanation": "The correct option is (b)<br><br>$$\\bullet$$ Adaptive radiation is the process of evolution of different species in a given geographical area starting from a point and literally radiating to other areas of geography, for example : Darwin's finches.<br><br>$$\\bullet$$ Analogous organs which are not anatomically similar structures though they perform similar functions, are a result of convergent evolution, for example: Wings of butterfly and of birds.<br><br>$$\\bullet$$ Homologous organs which are anatomically similar structures but perform different functions according to their needs, are a result of divergent evolution, for example: Bones of forelimbs in man and whale.<br><br>$$\\bullet$$ Evolution by anthropogenic action means evolution due to human interference, for example: Antibiotic resistant microbes, herbicides resistant varieties and pesticide resistant varieties."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Embryological support for evolution was\ndisapproved by",
+      "options": [
+        {
+          "key": "A",
+          "value": "Oparin"
+        },
+        {
+          "key": "B",
+          "value": "Alfred Wallace"
+        },
+        {
+          "key": "C",
+          "value": "Karl Ernst von Baer"
+        },
+        {
+          "key": "D",
+          "value": "Charles Darwin"
+        }
+      ],
+      "answer": "C",
+      "explanation": "<p>Embryological support for evolution was disapproved by Karl Ernst von Baer.</p>\n\n<p>To elaborate, Karl Ernst von Baer, a pioneering embryologist, analyzed the development stages of embryos and pointed out that embryos of different species do not resemble each other as closely as was previously thought, especially in their early stages. His observations indicated that while there may be superficial similarities in the embryonic stages of different species, these similarities do not necessarily support a common ancestry. This contradicted earlier notions that embryological development could provide strong evidence for evolution.</p>\n\n<p>Therefore, the correct answer is:</p>\n\n<p><b>Option C: Karl Ernst von Baer</b></p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "From his experiments, S.L. Miller produced\namino acids by mixing the following in a\nclosed flask",
+      "options": [
+        {
+          "key": "A",
+          "value": "CH<sub>3</sub>, H<sub>2</sub>, NH<sub>3</sub> and water vapor at 600°C"
+        },
+        {
+          "key": "B",
+          "value": "CH<sub>4</sub>, H<sub>2</sub>, NH<sub>3</sub> and water vapor at 800°C"
+        },
+        {
+          "key": "C",
+          "value": "CH<sub>3</sub>\n, H<sub>2</sub>\n, NH<sub>4</sub>\n and water vapor at 800°C"
+        },
+        {
+          "key": "D",
+          "value": "CH<sub>4</sub>\n, H<sub>2</sub>\n, NH<sub>3</sub>\n and water vapor at 600°C"
+        }
+      ],
+      "answer": "B",
+      "explanation": "In 1953, S.L. Miller, an American\nscientist created electric discharge in a closed\nflask containing CH<sub>4</sub>\n, H<sub>2</sub>\n, NH<sub>3</sub> and water vapor at 800°C. "
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Flippers of Penguins and Dolphins are\nexamples of",
+      "options": [
+        {
+          "key": "A",
+          "value": "Adaptive radiation"
+        },
+        {
+          "key": "B",
+          "value": "Natural selection"
+        },
+        {
+          "key": "C",
+          "value": "Industrial melanism"
+        },
+        {
+          "key": "D",
+          "value": "Convergent evolution"
+        }
+      ],
+      "answer": "D",
+      "explanation": "The flippers of penguins and dolphins are examples of convergent evolution.\n<br/><br/>\nConvergent evolution is a process in which organisms that are not closely related independently evolve similar adaptations to similar environments or ecological niches. In the case of penguins and dolphins, both are adapted to aquatic environments and have evolved similar adaptations in their body shape and appendages to optimize swimming and diving.\n<br/><br/>\nPenguins and dolphins are not closely related; penguins are birds, while dolphins are mammals. However, they have evolved similar adaptations for swimming, such as streamlined bodies and flippers that are modified for swimming rather than flight or walking.\n<br/><br/>\nAdaptive radiation is a process in which a single ancestral species gives rise to a diverse array of descendant species, each adapted to a different ecological niche. Natural selection is a mechanism of evolution in which individuals with advantageous traits are more likely to survive and reproduce, passing on those traits to their offspring. Industrial melanism is a phenomenon in which dark-colored individuals of a species become more common in industrialized areas due to environmental pollution.\n<br/><br/>\nSo, option D, \"Convergent evolution,\" is the correct answer."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Which of the following refer to correct\nexample(s) of organisms which have evolved\ndue to changes in environment brought about\nby anthropogenic action?<br><br>\n(a) Darwin’s Finches of Galapagos islands.<br>\n(b) Herbicide resistant weeds.<br>\n(c) Drug resistant eukaryotes.<br>\n(d) Man-created breeds of domesticated\nanimals like dogs.",
+      "options": [
+        {
+          "key": "A",
+          "value": "(b), (c) and (d)"
+        },
+        {
+          "key": "B",
+          "value": "only (a)"
+        },
+        {
+          "key": "C",
+          "value": "(a) and (c)"
+        },
+        {
+          "key": "D",
+          "value": "only (d)"
+        }
+      ],
+      "answer": "A",
+      "explanation": "Herbicide\nresistant weeds, drug resistant eukaryotes\nand man-created breeds of domesticated animals like dogs are examples of evolution\nby anthropogenic action. Darwin’s Finches\nof Galapagos islands are example of natural\nselection, adaptive radiation and founder’s\neffect."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The concept of ''<i>Omnis cellula-e cellula</i>'' regarding cell division was first proposed by : ",
+      "options": [
+        {
+          "key": "A",
+          "value": "Schleiden"
+        },
+        {
+          "key": "B",
+          "value": "Aristotle"
+        },
+        {
+          "key": "C",
+          "value": "Rudolf Virchow"
+        },
+        {
+          "key": "D",
+          "value": "Theodore Schwann"
+        }
+      ],
+      "answer": "C",
+      "explanation": "Rudolf Carl Virchow in 1858, gave the concept of\n''<i>Omnis cellula-e cellula</i>'' regarding cell division.\nThis means that all cells arise from pre-existing\ncells by cell-division."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Match the hominids with their correct brain size :\n<br><style type=\"text/css\">\n.tg  {border-collapse:collapse;border-spacing:0;}\n.tg td{border-style:solid;border-width:0px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;\n  padding:10px 5px;word-break:normal;}\n.tg th{border-style:solid;border-width:0px;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;\n  overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg .tg-nx8p{font-size:18px;text-align:left;vertical-align:top}\n</style>\n<table class=\"tg\">\n  <tbody><tr>\n    <th class=\"tg-nx8p\">(a) Homo habilis</th>\n    <th class=\"tg-nx8p\">(i) 900 cc</th>\n  </tr>\n  <tr>\n    <td class=\"tg-nx8p\">(b) Homo neanderthalensis</td>\n    <td class=\"tg-nx8p\">(ii) 1350 cc</td>\n  </tr>\n  <tr>\n    <td class=\"tg-nx8p\">(c) Homo erectus</td>\n    <td class=\"tg-nx8p\">(iii) 650-800 cc</td>\n  </tr>\n  <tr>\n    <td class=\"tg-nx8p\">(d) Homo sapiens</td>\n    <td class=\"tg-nx8p\">(iv) 1400 cc</td>\n  </tr>\n</tbody></table>\n<br>Select the correct option.",
+      "options": [
+        {
+          "key": "A",
+          "value": "<table class=\"tg\">\n  <tbody><tr>\n    <th class=\"tg-nx8p\">(a)</th>\n    <th class=\"tg-nx8p\">(b)</th>\n    <th class=\"tg-nx8p\">(c)</th>\n    <th class=\"tg-nx8p\">(d)</th>\n  </tr>\n  <tr>\n    <td class=\"tg-nx8p\">(iii)</td>\n    <td class=\"tg-nx8p\">(iv)</td>\n    <td class=\"tg-nx8p\">(i)</td>\n    <td class=\"tg-nx8p\">(ii)</td>\n  </tr>\n</tbody></table>"
+        },
+        {
+          "key": "B",
+          "value": "<table class=\"tg\">\n  <tbody><tr>\n    <th class=\"tg-nx8p\">(a)</th>\n    <th class=\"tg-nx8p\">(b)</th>\n    <th class=\"tg-nx8p\">(c)</th>\n    <th class=\"tg-nx8p\">(d)</th>\n  </tr>\n  <tr>\n    <td class=\"tg-nx8p\">(iv)</td>\n    <td class=\"tg-nx8p\">(iii)</td>\n    <td class=\"tg-nx8p\">(i)</td>\n    <td class=\"tg-nx8p\">(ii)</td>\n  </tr>\n</tbody></table>"
+        },
+        {
+          "key": "C",
+          "value": "<table class=\"tg\">\n  <tbody><tr>\n    <th class=\"tg-nx8p\">(a)</th>\n    <th class=\"tg-nx8p\">(b)</th>\n    <th class=\"tg-nx8p\">(c)</th>\n    <th class=\"tg-nx8p\">(d)</th>\n  </tr>\n  <tr>\n    <td class=\"tg-nx8p\">(iii)</td>\n    <td class=\"tg-nx8p\">(i)</td>\n    <td class=\"tg-nx8p\">(iv)</td>\n    <td class=\"tg-nx8p\">(ii)</td>\n  </tr>\n</tbody></table>"
+        },
+        {
+          "key": "D",
+          "value": "<table class=\"tg\">\n  <tbody><tr>\n    <th class=\"tg-nx8p\">(a)</th>\n    <th class=\"tg-nx8p\">(b)</th>\n    <th class=\"tg-nx8p\">(c)</th>\n    <th class=\"tg-nx8p\">(d)</th>\n  </tr>\n  <tr>\n    <td class=\"tg-nx8p\">(iii)</td>\n    <td class=\"tg-nx8p\">(ii)</td>\n    <td class=\"tg-nx8p\">(i)</td>\n    <td class=\"tg-nx8p\">(iv)</td>\n  </tr>\n</tbody></table>"
+        }
+      ],
+      "answer": "A",
+      "explanation": "Correct match of hominids with their brain\nsizes are as follows :\n <br><br>Homo habilis - 650-800 cc\n <br>Homo neanderthalensis -1400 cc\n<br> Homo erectus - 900 cc\n <br>Homo sapiens - 1350 cc"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Variations caused by mutation, as proposed by Hugo de Vries, are :",
+      "options": [
+        {
+          "key": "A",
+          "value": "small and directional"
+        },
+        {
+          "key": "B",
+          "value": "small and directionless"
+        },
+        {
+          "key": "C",
+          "value": "random and directional"
+        },
+        {
+          "key": "D",
+          "value": "random and directionless"
+        }
+      ],
+      "answer": "D",
+      "explanation": "According to De Vries, Variations are large, random and directionless."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "In a species, the weight of newborn ranges from 2 to 5 kg. 97% of the newborn with an average weight\nbetween 3 to 3.3 kg survive whereas 99% of the infants born with weights from 2 to 2.5 kg or 4.5 to 5kg die.\nWhich type of selection process is taking place?\n",
+      "options": [
+        {
+          "key": "A",
+          "value": "Disruptive Selection"
+        },
+        {
+          "key": "B",
+          "value": "Cyclical Selection"
+        },
+        {
+          "key": "C",
+          "value": "Directional Selection"
+        },
+        {
+          "key": "D",
+          "value": "Stabilizing Selection"
+        }
+      ],
+      "answer": "D",
+      "explanation": "It shows stabilizing selection as most of the\nnewborn having average weight between 3 to\n3.3 kg survive and babies with less and more\nweight have low survival rate. Stabilizing\nis a type of natural selection in which the\npopulation mean stabilizes on a particular nonextreme trait value."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Among the following sets of examples for\ndivergent evolution, select the incorrect option.",
+      "options": [
+        {
+          "key": "A",
+          "value": "Forelimbs of man, bat and cheetah"
+        },
+        {
+          "key": "B",
+          "value": "Heart of bat, man and cheetah"
+        },
+        {
+          "key": "C",
+          "value": "Brain of bat, man and cheetah"
+        },
+        {
+          "key": "D",
+          "value": "Eye of octopus, bat and man"
+        }
+      ],
+      "answer": "D",
+      "explanation": "Divergent evolution occurs in the same\nstructure which have developed along\ndifferent directions due to adaptation to\ndifferent needs, examples, forelimbs, heart, \nbrain of vertebrates. Eyes of octopus, bat\nand man are examples showing convergent\nevolution."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The similarity of bone structure in the forelimbs\nof many vertebrates is an example of",
+      "options": [
+        {
+          "key": "A",
+          "value": "homology"
+        },
+        {
+          "key": "B",
+          "value": "analogy"
+        },
+        {
+          "key": "C",
+          "value": "convergent evolution"
+        },
+        {
+          "key": "D",
+          "value": "adaptive radiation"
+        }
+      ],
+      "answer": "A",
+      "explanation": "Bird and bat wings are analogous, as\nforelimb is homologous. In different\nvertebrates, bones of forelimbs are similar\nbut their forelimbs are adapted in different\nway as per their adaptation, show\nhomology."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "According to Hugo de Vries, the mechanism of\nevolution is",
+      "options": [
+        {
+          "key": "A",
+          "value": "multiple step mutations"
+        },
+        {
+          "key": "B",
+          "value": "saltation"
+        },
+        {
+          "key": "C",
+          "value": "phenotypic variations"
+        },
+        {
+          "key": "D",
+          "value": "minor mutations"
+        }
+      ],
+      "answer": "B",
+      "explanation": "As per mutation theory given by Hugo de\nVries, the evolution is a discontinuous phenomenon\nor saltatory phenomenon (single step large mutation)."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "In Hardy-Weinberg equation, the frequency of heterozygous individual is represented by",
+      "options": [
+        {
+          "key": "A",
+          "value": "pq"
+        },
+        {
+          "key": "B",
+          "value": "p<sup>2</sup>"
+        },
+        {
+          "key": "C",
+          "value": "2pq"
+        },
+        {
+          "key": "D",
+          "value": "q<sup>2</sup>"
+        }
+      ],
+      "answer": "C",
+      "explanation": "In a stable population, for a gene with two\nalleles, ‘A’ (dominant) and ‘a’ (recessive), if the\nfrequency of ‘A’ is p and the frequency of ‘a’ is q,\nthen the frequencies of the three possible genotypes\n(AA, Aa and aa) can be expressed by the HardyWeinberg equation:<br>\np<sup>2</sup> + 2pq + q<sup>2</sup> = 1<br>\nwhere p<sup>2</sup> = Frequency of AA (homozygous\ndominant) individuals<br>\nq<sup>2</sup> = Frequency of aa (homozygous\nrecessive) individuals<br>\n2pq = Frequency of Aa (heterozygous)\nindividuals"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Genetic drift operates in",
+      "options": [
+        {
+          "key": "A",
+          "value": "slow reproductive population"
+        },
+        {
+          "key": "B",
+          "value": "large isolated population"
+        },
+        {
+          "key": "C",
+          "value": "non-reproductive population"
+        },
+        {
+          "key": "D",
+          "value": "small isolated population"
+        }
+      ],
+      "answer": "D",
+      "explanation": "Genetic drift (Sewall Wright effect) is the\nrandom change in the frequency of alleles in a\npopulation over successive generations in the\ngametes. Each new generation differs from its parental\ngeneration with regard to allele frequencies simply\nbecause of random variation in the distribution of\ngametes. This process is more rapid in smaller\npopulations, or when the alleles concerned confer no\napparent benefit compared to their counterparts."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The chronological order of human evolution from early to the recent is",
+      "options": [
+        {
+          "key": "A",
+          "value": "Ramapithecus $$ \\to $$ Homo habilis $$ \\to $$ Australopithecus $$ \\to $$ Homo erectus"
+        },
+        {
+          "key": "B",
+          "value": "Australopithecus $$ \\to $$ Ramapithecus $$ \\to $$ Homo habilis $$ \\to $$ Homo erectus"
+        },
+        {
+          "key": "C",
+          "value": "Ramapithecus $$ \\to $$ Australopithecus $$ \\to $$ Homo habilis $$ \\to $$ Homo erectus"
+        },
+        {
+          "key": "D",
+          "value": "Australopithecus $$ \\to $$ Homo habilis $$ \\to $$ Ramapithecus $$ \\to $$ Homo erectus"
+        }
+      ],
+      "answer": "C",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Which of the following is the correct sequence of events in the origin of life ?<br>\nI. Formation of protobionts<br>\nII. Synthesis of organic monomers<br>\nIII. Synthesis of organic polymers<br>\nIV. Formation of DNA-based genetic systems",
+      "options": [
+        {
+          "key": "A",
+          "value": "II, III, I, IV"
+        },
+        {
+          "key": "B",
+          "value": "II, III, IV, I"
+        },
+        {
+          "key": "C",
+          "value": "I, II, III, IV"
+        },
+        {
+          "key": "D",
+          "value": "I, III, II, IV"
+        }
+      ],
+      "answer": "A",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Analogous structures are a result of :",
+      "options": [
+        {
+          "key": "A",
+          "value": "Divergent evolution"
+        },
+        {
+          "key": "B",
+          "value": "Convergent evolution"
+        },
+        {
+          "key": "C",
+          "value": "Stabilizing selection"
+        },
+        {
+          "key": "D",
+          "value": "Shared ancestry"
+        }
+      ],
+      "answer": "B",
+      "explanation": "Analogous structures are those that\nhave the same function, but they are not\nderived from a common ancestor and have\nundergone different patterns of development\ni.e., Convergent evolution which is natural\nselection that favors the same type of\nstructure in different ancestors."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Following are the two statements regarding the origin of life -<br>\n(a) The earliest organisms that appeared on the earth were non-green and presumably anaerobes<br>\n(b) The first autotrophic organisms were the chemoautotrophs that never released oxygen<br>\nOf the above statements which one of the following options is correct ?",
+      "options": [
+        {
+          "key": "A",
+          "value": "Both (a) and (b) are false"
+        },
+        {
+          "key": "B",
+          "value": "Both (a) and (b) are correct"
+        },
+        {
+          "key": "C",
+          "value": "(b) is correct but (a) is false"
+        },
+        {
+          "key": "D",
+          "value": "(a) is correct but (b) is false"
+        }
+      ],
+      "answer": "B",
+      "explanation": "Both statements are correct because\nprimitive atmosphere was reducing\nand chlorophyll appeared later on.\nChemoautotrophs were the first autotrophic\norganisms unable to perform photolysis of\nwater and never released oxygen."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Which of the following structures is homologus to the wing of a bird ? ",
+      "options": [
+        {
+          "key": "A",
+          "value": "Wing of a Moth "
+        },
+        {
+          "key": "B",
+          "value": "Dorsal fin of a Shark "
+        },
+        {
+          "key": "C",
+          "value": "Flipper of Whale"
+        },
+        {
+          "key": "D",
+          "value": "Hindlimb of Rabbit"
+        }
+      ],
+      "answer": "C",
+      "explanation": "Wings of a bird and flippers of a whale\nare modified forelimbs."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Dinosaurs dominated the World in which of the\nfollowing geological era ?",
+      "options": [
+        {
+          "key": "A",
+          "value": "Jurassic"
+        },
+        {
+          "key": "B",
+          "value": "Devonion"
+        },
+        {
+          "key": "C",
+          "value": "Coenozoic"
+        },
+        {
+          "key": "D",
+          "value": "Mesozoic"
+        }
+      ],
+      "answer": "D",
+      "explanation": "Dinosaurs dominated in Jurassic period of\nmesozoic era and were extinct by cretaceous period.\n"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Random undirectional change in allele frequencies\nthat occur by chance in all populations and especially\nin small populations is known as :-",
+      "options": [
+        {
+          "key": "A",
+          "value": "Genetic drift"
+        },
+        {
+          "key": "B",
+          "value": "Migration"
+        },
+        {
+          "key": "C",
+          "value": "Mutation"
+        },
+        {
+          "key": "D",
+          "value": "Natural selection"
+        }
+      ],
+      "answer": "A",
+      "explanation": "Genetic drift is random change in allele\nnumber and frequency in a gene pool due to\nchance (e.g., small size of population). It is\ncaused by sampling error or error in gene pool\nsample that is to form the next generation.\nThe sampling gene pool is generally small in\nsize. Variability is also limited."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Genetic variation in a population arises due to :",
+      "options": [
+        {
+          "key": "A",
+          "value": "Reproductive isolation and selection"
+        },
+        {
+          "key": "B",
+          "value": "Mutations only"
+        },
+        {
+          "key": "C",
+          "value": "Mutations as well as recombination"
+        },
+        {
+          "key": "D",
+          "value": "Recombination only"
+        }
+      ],
+      "answer": "C",
+      "explanation": "The genetic variations exist due to\nreshuffling of genes caused by recombinations or by\nmutations. The recombinations are produced by the\nroutine reshuffling of genes during independent\nassortment of chromosomes, reciprocal crossing of\ngenes during crossing over and random fertilization\nof gametes. Mutation is the sudden inheritable\ndiscontinuous variation which appears in an organism\ndue to permanent changes in its genotype. Mutation\ncan occur at any stage during the development.\nMutations are heritable changes, that is, if they appear\nin somatic cells they are inherited to daughter cells\nby mitosis but if they appear in gamete cells they are\ninherited to the offsprings. The former are known as\nsomatic mutations and latter as germ mutations. They\nbring about a change in the genetic message and cause\nvariation"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The finch species of Galapagos Islands are grouped\naccording to their food sources. Which of the\nfollowing is not a finch food ?",
+      "options": [
+        {
+          "key": "A",
+          "value": "Insects"
+        },
+        {
+          "key": "B",
+          "value": "Carrion"
+        },
+        {
+          "key": "C",
+          "value": "Tree buds"
+        },
+        {
+          "key": "D",
+          "value": "Seeds"
+        }
+      ],
+      "answer": "B",
+      "explanation": "Darwin observed an amazing diversity\nof creatures on galapagos islands. He realised\nthat there were many varieties of finches in\nthe same island like seed-eating, with altered\nbeaks insectivorous and vegetarian finches.\nCarrion are dead bodies. No finches feed on\ncarrion."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "According to Darwin, the organic evolution is due to - ",
+      "options": [
+        {
+          "key": "A",
+          "value": "Reduced feeding efficiency in one species due to the presence of interfering species"
+        },
+        {
+          "key": "B",
+          "value": "Competition within closely related species "
+        },
+        {
+          "key": "C",
+          "value": "Intraspecific competition"
+        },
+        {
+          "key": "D",
+          "value": "Interspecific competition "
+        }
+      ],
+      "answer": "C",
+      "explanation": "Intraspecific competition leads to evolution.\nVariations arise naturally in a growing population due\nto crossing over etc. Organisms with variations better\nsuited to their environment are favoured by natural\nselection, while less fitted ones are eliminated.\nGradually this continued process of natural selection\nleads to evolution. Interspecfic struggle also plays a\nrole in evolution but intraspecific struggle is more\nintense and prominent one."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The tendency of population to remain in genetic equilibrium may be disturbed by : ",
+      "options": [
+        {
+          "key": "A",
+          "value": "lack of random mating "
+        },
+        {
+          "key": "B",
+          "value": "random mating"
+        },
+        {
+          "key": "C",
+          "value": "lack of migration "
+        },
+        {
+          "key": "D",
+          "value": "lack of mutations "
+        }
+      ],
+      "answer": "A",
+      "explanation": "Hardy-Weinberg law states that allele\nfrequencies in a population are stable and remain\nconstant from generation to generation when there is\nrandom and non-selective mating. In case of lack of\nrandom mating, genetic equilibrium may be disturbed."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Variation in gene frequencies within populations can occur by chance rather than by natural selection. This is\nreferred to as :",
+      "options": [
+        {
+          "key": "A",
+          "value": "Genetic drift "
+        },
+        {
+          "key": "B",
+          "value": "Genetic load "
+        },
+        {
+          "key": "C",
+          "value": "Genetic flow "
+        },
+        {
+          "key": "D",
+          "value": "Random mating"
+        }
+      ],
+      "answer": "A",
+      "explanation": "Genetic drift is variation in gene\nfrequencies within populations can occur\nby chance rather than by natural selection,\nsometimes the change in allele frequency is\nso different in the new sample of population\nthat they become a different species. The\noriginal drifted population becomes founders\nand the effect is called founder effect."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The process by which organisms with different evolutionary history evolve similar phenotypic adaptations in\nresponse to a common environmental challenge is called : ",
+      "options": [
+        {
+          "key": "A",
+          "value": "Convergent evolution"
+        },
+        {
+          "key": "B",
+          "value": "Adaptive radiation"
+        },
+        {
+          "key": "C",
+          "value": "Natural selection "
+        },
+        {
+          "key": "D",
+          "value": "Non-random evolution "
+        }
+      ],
+      "answer": "A",
+      "explanation": "The wings is a classic example of\nconvergent evolution. Flying insects, birds \nand bats same all evolved the capacity of\nflight independently. All four serve the same\nfunction and are similar in structure but\nanatomically different."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The eye of octopus and eye of cat show different patterns of structure, yet they perform similar function, This\nis an example of : ",
+      "options": [
+        {
+          "key": "A",
+          "value": "Homologous organs that have evolved due to divergent evolution "
+        },
+        {
+          "key": "B",
+          "value": "Analogous organs that have evolved due to convergent evolution"
+        },
+        {
+          "key": "C",
+          "value": "Homologous organs that have evolved due to convergent evolution"
+        },
+        {
+          "key": "D",
+          "value": "Analogous organs that have evolved due to divergent evolution"
+        }
+      ],
+      "answer": "B",
+      "explanation": "The eye of octopus and eye of cat\nshow different patterns of structure, yet\nthey perform similar functions. This is an\nexample of analogous organs.<br>\nAnalogous organs have evolved due to\nconvergent evolution. Analogous organs\nhave developed in the evolutionary\nprocess through adaptation of quite\ndifferent organisms to similar mode of life."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The idea of mutations was brought forth by :",
+      "options": [
+        {
+          "key": "A",
+          "value": "Charles Darwin, who observed a wide variety of organisms during sea voyage "
+        },
+        {
+          "key": "B",
+          "value": "Hugo do Vries, who worked on evening primrose"
+        },
+        {
+          "key": "C",
+          "value": "Gregor Mendol, who worked on Pisum sativum"
+        },
+        {
+          "key": "D",
+          "value": "Hardy Weinberg, who worked on allele frequencies in a population "
+        }
+      ],
+      "answer": "B",
+      "explanation": "The term mutation was coined by Hugo de\nVries (1901) for large spontaneous inheritable\nchanges which occur suddenly in naturally\nreproducing population. He also proposed mutation\ntheory of evolution in his book “The Mutation\nTheory” published in 1903 in which he put forth that\nevolution occurred due to large discontinuous\nvariations. He worked on Oenothera lamarckiana or\nevening primrose. During his experiments he found\n834 mutations in a population of 54343 plants. It was\nlater on found that the mutations observed by Hugo\nde Vries were actually chromosomal aberrations."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The extinct human who lived 1,00,000 to 40,000 years ago, in Europe, Asia and parts of Africa, with\nshort stature, heavy eye brows, retreating fore heads, large jaws with heavy teeth, stocky bodies, a\nlumbering gait and stooped posture was : ",
+      "options": [
+        {
+          "key": "A",
+          "value": "Neanderthal human"
+        },
+        {
+          "key": "B",
+          "value": "Homo habilis "
+        },
+        {
+          "key": "C",
+          "value": "Cro-magnan humans"
+        },
+        {
+          "key": "D",
+          "value": "Ramapithecus"
+        }
+      ],
+      "answer": "A",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "What was the most significant trend in the evolution of modern man (Homo sapiens) from his\nancestors ?",
+      "options": [
+        {
+          "key": "A",
+          "value": "Uprigth posture"
+        },
+        {
+          "key": "B",
+          "value": "Increasing cranial capacity "
+        },
+        {
+          "key": "C",
+          "value": "Shortening of jaws "
+        },
+        {
+          "key": "D",
+          "value": "Binocular vision "
+        }
+      ],
+      "answer": "B",
+      "explanation": "The most significant trend in evolution\nof modern man (Homo sapiens) from his\nancestors is development of brain capacity."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Which one of the following options gives one correct example each of convergent evolution and\ndivergent evolution ?",
+      "options": [
+        {
+          "key": "A",
+          "value": "Convergent evolution  $$ \\to $$ Thorns of Bougainvillia and tendrils of cucurbita <b> &amp;</b> Divergent evolution $$ \\to $$ Eyes of Octopus and mammals "
+        },
+        {
+          "key": "B",
+          "value": "Convergent evolution  $$ \\to $$ Eyes of octopus <b> &amp;</b> Divergent evolution $$ \\to $$ Bones of forelimpbs of mammals and vertebrates "
+        },
+        {
+          "key": "C",
+          "value": "Convergent evolution  $$ \\to $$ Thorns of Bougainvillia and ten drils of cucurbita  <b> &amp;</b> Divergent evolution $$ \\to $$ Wings of butterflies and birds "
+        },
+        {
+          "key": "D",
+          "value": "Convergent evolution  $$ \\to $$ Bones of forelimbs of vertebrates  <b> &amp;</b> Divergent evolution $$ \\to $$ Wings of butterfly and birds "
+        }
+      ],
+      "answer": "B",
+      "explanation": "Development of similar adaptive functional\nstructures in unrelated groups of organisms is called\nconvergent evolution. It shows analogy. Examples are\nwings of butterfly and birds, eye of the octopus and\nthe mammals, flippers of penguins &amp; dolphins, etc.\nOn the other hand, divergent evolution involves\ndevelopment of different functional structures along\ndifferent directions due to adaptations to different\nneeds from a common ancestral form. For example, forelimbs of vertebrates (whales, bat, cheetah,\nhuman). Though these perform different functions,\nthey have similar anatomical structures."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Evolution of different species in a given area starting from a point and spreading to other\ngeographical areas is known as ",
+      "options": [
+        {
+          "key": "A",
+          "value": "divergent evolution "
+        },
+        {
+          "key": "B",
+          "value": "Natural selection "
+        },
+        {
+          "key": "C",
+          "value": "Migration "
+        },
+        {
+          "key": "D",
+          "value": "Adaptive radiation"
+        }
+      ],
+      "answer": "D",
+      "explanation": "Process of evolution of different species\nin a given area starting from a point and\nradiating to other area of geographical areas\nis called adaptive radiations.<br>\nExample : Darwin’s finches, Australian\nmarsupials."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "What was the most significant trend in the evolution of modern man (Homo sapiens) from his\nancestors ?",
+      "options": [
+        {
+          "key": "A",
+          "value": "Uprigth posture"
+        },
+        {
+          "key": "B",
+          "value": "Shortening of jaws "
+        },
+        {
+          "key": "C",
+          "value": "Binocular vision "
+        },
+        {
+          "key": "D",
+          "value": "Increasing cranial capacity "
+        }
+      ],
+      "answer": "D",
+      "explanation": "The most significant trend in evolution\nof modern man (Homo sapiens) from his\nancestors is development of brain capacity."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Given below are four statements (A-D) each with\none or two blanks. Select the option which\ncorrectly fills up the blanks in two statements<br> –\n<b> Statements :</b><br>\n (A) Wings of butterfly and birds look alike and\nare the results of (i) , evolution<br>\n (B) Miller showed that CH<sub>4</sub>, H<sub>2</sub>, NH<sub>3</sub> and (i),\nwhen exposed to electric discharge in a flask\nresulted in formation of (ii) .<br>\n (C) Vermiform appendix is a (i) organ and an (ii) evidence pf evolution.<br>\n (D) According to Darwin evolution took place\ndue to (i) and  (ii) of the fittest. ",
+      "options": [
+        {
+          "key": "A",
+          "value": "(C) - (i) vestigial, (ii) anatomical,\n (D) - (i) mutations, (ii) multiplication "
+        },
+        {
+          "key": "B",
+          "value": "(D) - (i) small variations, (ii) survival,\n (A) - (i) convergent "
+        },
+        {
+          "key": "C",
+          "value": "(A) - (i) convergent,\n (B) - (ii) oxygen, (ii) nucleosides "
+        },
+        {
+          "key": "D",
+          "value": "(B) - (i) water vapour, (ii) amino acids,\n (C) - (i) rudimentary (ii) anatomical "
+        }
+      ],
+      "answer": "B",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The most apparent changes during the\nevolutionary history of Homo sapiens is traced\nin ",
+      "options": [
+        {
+          "key": "A",
+          "value": "Remarkable increase in the brain size "
+        },
+        {
+          "key": "B",
+          "value": "Walking upright "
+        },
+        {
+          "key": "C",
+          "value": "Loss of body hair \n"
+        },
+        {
+          "key": "D",
+          "value": "Shortening of the jaws "
+        }
+      ],
+      "answer": "A",
+      "explanation": "The brain capacity gradually increased from\nearly human ancestors to modern man. Homo habilis\nhad 650 - 800cc brain capacity which increased\naround 900cc in Homo erectus. The Neanderthal man\n(Homo neanderthalensis) had 1400cc brain capacity\nwhich evolved to around 1450cc in Homo sapiens."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Darwin's finches are a good example of – ",
+      "options": [
+        {
+          "key": "A",
+          "value": "Convergent evolution "
+        },
+        {
+          "key": "B",
+          "value": "Connecting link "
+        },
+        {
+          "key": "C",
+          "value": "Industrial melanism "
+        },
+        {
+          "key": "D",
+          "value": "Adaptive radiation"
+        }
+      ],
+      "answer": "D",
+      "explanation": "Darwin finches a good example of\nadaptive radiation. Adaptive radiation is a\nprocess of evolution of different species in a\ngiven geographical area starting from a point\nand radiating to other areas of geography."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "In the case of peppered moth (Biston betularia)\nthe black-coloured from became dominant over\nthe light-coloured form in England during\nindustrial revolution. This is an example of - ",
+      "options": [
+        {
+          "key": "A",
+          "value": "Natural selection whereby the darker forms\nwere selected. "
+        },
+        {
+          "key": "B",
+          "value": "Protective mimicry "
+        },
+        {
+          "key": "C",
+          "value": "Inheritance of darker colour character\nacquired due to the darker environment "
+        },
+        {
+          "key": "D",
+          "value": "Appearance of the darker coloured\nindividuals due to very poor sunlight"
+        }
+      ],
+      "answer": "A",
+      "explanation": "In the case of peppered moth (Biston\nbetularia) the black coloured form became\ndominant over the light coloured form in\nEngland during industrial revolution. This is\nan example of natural selection. This group\nis about species that gain protection from\npredators due to selection caused by nature."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Peripatus is a connecting link between :",
+      "options": [
+        {
+          "key": "A",
+          "value": "Ctenophora and Platyhelminthes"
+        },
+        {
+          "key": "B",
+          "value": "Mollusca and Echinodermata "
+        },
+        {
+          "key": "C",
+          "value": "Coelenterata and Porifera "
+        },
+        {
+          "key": "D",
+          "value": "Annelida and Arthropoda "
+        }
+      ],
+      "answer": "D",
+      "explanation": "Peripatus is a genus of Onychophora\n(Velvet worms). It is said to be a living\nfossil because it has been unchanged for\napproximately 570 million years. Peripatus\nis a nocturnal carnivore. Peripatus is a\nconnecting link between Annelida and\nArthropoda. It feeds by trapping its prey\n(mostly small insects) in a white, sticky fluid\nit ejects from two antennae near its head.\nThe fluid hardens on contact with the air\nand then the prey becomes immoblized."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Which one of the following is incorrect about\nthe characteristics of protobionts (coacervates\nand microspheres) as envisaged in the abiogenic\norigin of life? ",
+      "options": [
+        {
+          "key": "A",
+          "value": "They could separate combinations of molecules from the surroundings "
+        },
+        {
+          "key": "B",
+          "value": "They were able to reproduce"
+        },
+        {
+          "key": "C",
+          "value": "They were partially isolated from the surruounding "
+        },
+        {
+          "key": "D",
+          "value": "They could maintain an internal environment "
+        }
+      ],
+      "answer": "B",
+      "explanation": "Coacervate is an aggregate of\nmacromolecules such as proteins, lipids\nand membrane, and contain enzymes that\nare capable of converting substance such\nas glucose into more complex molecules,\nsuch as starch. Coacervate droplets arise\nspontaneously under appropriate conditions\nand may have been the prebiological systems\nfrom which living organisms originated."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Which one of the following scientist's name is\ncorrectly matched with the theory put fourth by\nhim? ",
+      "options": [
+        {
+          "key": "A",
+          "value": "Mendel — Theory of pangenesis "
+        },
+        {
+          "key": "B",
+          "value": "deVries — Natural selection "
+        },
+        {
+          "key": "C",
+          "value": "Pasteur — Inheritance of acquired\n characters"
+        },
+        {
+          "key": "D",
+          "value": "Weismann — Theory of continuity\n of germplasm"
+        }
+      ],
+      "answer": "D",
+      "explanation": "Theory of continuity of germplasm was put\nforward by August Weismann. According to this, the\ncharacters influencing the germ cells are only\ninherited. There is a continuity of germplasm but the\nsomataplasm is not transmitted to the next generation\nhence it doesn’t carry characters to next generation."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Thorn of Bougainvillea and tendril of Cucurbita\nare examples of: ",
+      "options": [
+        {
+          "key": "A",
+          "value": "analogous organs "
+        },
+        {
+          "key": "B",
+          "value": "homologous organs "
+        },
+        {
+          "key": "C",
+          "value": "vestigial organs \n"
+        },
+        {
+          "key": "D",
+          "value": "retrogressive evolution "
+        }
+      ],
+      "answer": "B",
+      "explanation": "The organs which have the same\nfundamental structure but are different in function\nare called homologous organs. Thorn of\nBougainvillea and tendril of Cucurbita both arises in\nthe axillary position, but have different functions.\n"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Darwin's finches are a good example of –",
+      "options": [
+        {
+          "key": "A",
+          "value": "Convergent evolution "
+        },
+        {
+          "key": "B",
+          "value": "Adaptive radiation "
+        },
+        {
+          "key": "C",
+          "value": "Connecting link "
+        },
+        {
+          "key": "D",
+          "value": "Industrial melanism "
+        }
+      ],
+      "answer": "B",
+      "explanation": "Darwin finches a good example of\nadaptive radiation. Adaptive radiation is a\nprocess of evolution of different species in a\ngiven geographical area starting from a point\nand radiating to other areas of geography."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The finches of Galapogas islands provide an\nevidence in favour of- ",
+      "options": [
+        {
+          "key": "A",
+          "value": "Special Creation "
+        },
+        {
+          "key": "B",
+          "value": "Biogeographical Evolution"
+        },
+        {
+          "key": "C",
+          "value": "Evolution due to Mutation "
+        },
+        {
+          "key": "D",
+          "value": "Retrogressive Evolution "
+        }
+      ],
+      "answer": "B",
+      "explanation": "The finches of Galapagos islands\nprovides an evidence in favour of\nbiogeographical evolution."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Adaptive radiation refers to:- ",
+      "options": [
+        {
+          "key": "A",
+          "value": "Adaptations due to Geographical isolation"
+        },
+        {
+          "key": "B",
+          "value": "Migration of members of a species to\ndifferent geographical areas "
+        },
+        {
+          "key": "C",
+          "value": "Evolution of different species from a\ncommon ancestor "
+        },
+        {
+          "key": "D",
+          "value": "Power of adaptation in an individual to a\nvariety of environments"
+        }
+      ],
+      "answer": "C",
+      "explanation": "Adaptive radiation refers to evolution\nof different species from a common\nancestor. The mammals are adapted for\ndifferent mode of life i.e. they show adaptive\nradiation. They can be aerial (bat), aquatic\n(whale and dolphins), burrowing or fossorial\n(rat), cursorial (horse), scantorial (squarrel)\nor arboreal (monkey). The adaptive\nradiation, the term by osborn, is also known\nas Divergent evolution.\n"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Which one of the following statements is correct?",
+      "options": [
+        {
+          "key": "A",
+          "value": "Ontogeny repeats phylogeny.\n"
+        },
+        {
+          "key": "B",
+          "value": "There is no evidence of the existence of gills\nduring embryogenesis of mammals."
+        },
+        {
+          "key": "C",
+          "value": "Stem cells are specialized cells. "
+        },
+        {
+          "key": "D",
+          "value": "All plant and animal cells are totipotent.\n"
+        }
+      ],
+      "answer": "A",
+      "explanation": "Haeckel (1810) proposed that developing\nanimal embryo passes through stages resembling adult\nforms of its ancestors. Ernst Haeckel (1868, 1874)\nformulated biogenetic law or racapitulation theory\nwhich states that ontogeny (developmental history of\nan individual) repeats phylogeny (development\nhistory of races).\n"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The concept of chemical evolution is based on- ",
+      "options": [
+        {
+          "key": "A",
+          "value": "Crystallization of chemicals "
+        },
+        {
+          "key": "B",
+          "value": "Effect of solar radiation on chemicals "
+        },
+        {
+          "key": "C",
+          "value": "Possible origin of life by combination of\nchemicals under suitable environmental\nconditions "
+        },
+        {
+          "key": "D",
+          "value": "Interaction of water, air and clay under\nintense heat"
+        }
+      ],
+      "answer": "C",
+      "explanation": "Chemical evolution has two meanings and\nuses. The first refers to the theories of evolution of\nthe chemical elements in the universe through\nnucleosynthesis. The second use of chemical\nevolution or chemosynthesis is as a hypothesis to\nexplain how life might possibly have developed or\nevolved from non-life.\n"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "When two species of different genealogy come\nto resemble each other as a result of adaptation,\nthe phenomenon is termed:- ",
+      "options": [
+        {
+          "key": "A",
+          "value": "Microevolution "
+        },
+        {
+          "key": "B",
+          "value": "Convergent evolution"
+        },
+        {
+          "key": "C",
+          "value": "Co-evolution"
+        },
+        {
+          "key": "D",
+          "value": "Divergent evolution "
+        }
+      ],
+      "answer": "B",
+      "explanation": "The analogous organs show convergent\nevolution due to similar adaptions which do\nnot support organic evolution."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "An important evidence in favour of organic\nevolution is the occurrence of- ",
+      "options": [
+        {
+          "key": "A",
+          "value": "Homologous organs onl"
+        },
+        {
+          "key": "B",
+          "value": "Homologous and vestigial organs"
+        },
+        {
+          "key": "C",
+          "value": "Homologous and analogous organs "
+        },
+        {
+          "key": "D",
+          "value": "Analogous and vestigial organs "
+        }
+      ],
+      "answer": "B",
+      "explanation": "Homologous organs represent the\ndivergent evolution. These are the organs\nbelonging to different organisms of different\nspecies may be for dissimilar function but\nthey all have the same basic structure. On the\nother hand vestigial organs show that how a\nspecies evolved from its ancestors through\nthe ages according to the use and disuse of\norgans. These are the organs which were\nsometime functional in humans (or may be\nany other organisms) but during the course\nof evolution their utility gradually decline\nand now they are present as non-functional\nand vestigial organs."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Which one of the following amino-acids was not\nfound to be synthesized in Miller's experiment ?",
+      "options": [
+        {
+          "key": "A",
+          "value": "Aspartic acid"
+        },
+        {
+          "key": "B",
+          "value": "Alanine"
+        },
+        {
+          "key": "C",
+          "value": "Glycine "
+        },
+        {
+          "key": "D",
+          "value": "Glutamic acid "
+        }
+      ],
+      "answer": "D",
+      "explanation": "Stanley Miller in 1953, who was then a\ngraduate student of Harold Urey at the University of\nChicago, circulated four gases - methane, ammonia,\nhydrogen and water vapour in an air tight apparatus\nand passed electrical discharges from electrodes. He\npassed the mixture through a condenser. He circulated\nthe gases continuously in this way for one week and\nthen analysed the chemical composition of the liquid\ninside the apparatus. He found a large number of\nsimple organic compounds including some amino acid\nsuch as alanine, glycine and aspartic acid. Glutamic\nacid was not found.\n"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Jurassic period of the Mesozoic era\ncharacterized by- ",
+      "options": [
+        {
+          "key": "A",
+          "value": "Radiation of reptiles and origin of mammal\nlike reptiles "
+        },
+        {
+          "key": "B",
+          "value": "Flowering plants and first dinosaurs appear"
+        },
+        {
+          "key": "C",
+          "value": "Gymnosperms are dominant plants and first\nbirds appear \n"
+        },
+        {
+          "key": "D",
+          "value": "Dinosaurs become extinct and angiosperms\nappear "
+        }
+      ],
+      "answer": "C",
+      "explanation": "Jurassic period of meoszoic era was\nabout 19-20 crore years ago &amp; lasted for\nabout 5.5-6 crore years. The climate was hot\nand damp. It is called the age of dinosaurs.\nIst primitive bird Archaeopteryx evolved\nfrom reptiles. Ist angiosperm appeared\nas a dicotyledon but gymnosperms were\ndominant."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Praying mantis is a good example of- ",
+      "options": [
+        {
+          "key": "A",
+          "value": "Warning colouration "
+        },
+        {
+          "key": "B",
+          "value": "Camouflage"
+        },
+        {
+          "key": "C",
+          "value": "Mullerian mimicry"
+        },
+        {
+          "key": "D",
+          "value": "Social insects"
+        }
+      ],
+      "answer": "B",
+      "explanation": "Praying mantis shows the phenomenon of\ncamouflage by blending itself into the background.\nThis enables it to elude predators.\n"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Which of the following is the relatively most\naccurate method for dating of fossils ?",
+      "options": [
+        {
+          "key": "A",
+          "value": "Radio-carbon method"
+        },
+        {
+          "key": "B",
+          "value": "Uranium-lead method "
+        },
+        {
+          "key": "C",
+          "value": "Potassium–argon method "
+        },
+        {
+          "key": "D",
+          "value": "Electron-spin resonance method "
+        }
+      ],
+      "answer": "D",
+      "explanation": "Electron spin resonance (ESR) measures the\nnumber of charges occupying deep traps in the crystal\nbandgap. By measuring the change in absorption of\nmicrowave energy within a continuously varying\nstrong magnetic field, this method detects the number\nof “unpaired spins” of electronic charges trapped at\nvarious defects in the mineral lattice.\n<br><br>\nThe principle of ESR dating is that radiation damage\noccurs in minerals as a result of uranium uptake, and\nexternal effects. This damage is usually repaired in\nliving tissue, but in dead tissue it accumulates. If the\nmethod of uptake can be judged, then the approximate\nage of the tissue can be deduced from the extent of\nthe radiation damage.\n"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "At a particular locus, frequency of 'A' allele is\n0.6 and that of 'a' is 0.4. What would be the\nfrequency of heterozygotes in a random mating\npopulation at equilibrium ? ",
+      "options": [
+        {
+          "key": "A",
+          "value": "0.48"
+        },
+        {
+          "key": "B",
+          "value": "0.24"
+        },
+        {
+          "key": "C",
+          "value": "0.36 "
+        },
+        {
+          "key": "D",
+          "value": "0.16"
+        }
+      ],
+      "answer": "A",
+      "explanation": "In a stable population, for a gene with two\nalleles, A (dominant) and a (recessive), if the\nfrequency of A is p and the frequency of a is q, then\nthe frequencies of the three possible genotypes (AA,\nAa, and aa) can be expressed by the given HardyWeinberg equation :<br>\np<sup>2</sup> + 2pq + q<sup>2</sup> = 1.<br>\nwhere p<sup>2</sup> = frequency of AA (homozygous dominant) individuals, 2pq = frequency of Aa (heterozygous) individuals, and q<sup>2</sup> = frequency of aa (homozygous\nrecessive) individuals. The equation can be used to\ncalculate allele frequencies if the numbers of\nhomozygous recessive individuals in the population\nis known. The equation and the equilibrium are named\nafter British mathematician G.H. Hardy and German\nphysician W. Weinberg.<br>\nSo p = 0.6 and q = 0.4 (given)<br>\n$$ \\therefore $$ 2pq (frequency of heterozygote)<br>\n= 2 × 0.6 × 0.4 = 0.48\n"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Which of the following is not true for a species ?",
+      "options": [
+        {
+          "key": "A",
+          "value": "Variations occur among members of a\nspecies "
+        },
+        {
+          "key": "B",
+          "value": "Gene flow does not occur between the\npopulations of a species"
+        },
+        {
+          "key": "C",
+          "value": "Each species is reproductively isolated from\nevery other species"
+        },
+        {
+          "key": "D",
+          "value": "Members of a species can interbreed"
+        }
+      ],
+      "answer": "B",
+      "explanation": "Gene flow is the spread of genes through\npopulations as effected by movements\nof individual and their propagules, e.g.\nseeds spores etc. Gene flow ensures that\nall populations of a given species share a\ncommon gene pool. i.e. it reduces difference\nbetween populations. The interruption of\ngene flow between populations is a prerequisite for the formation of new species."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "De Vries gave his mutation theory on organic\nevolution while working on - ",
+      "options": [
+        {
+          "key": "A",
+          "value": "Althea rosea"
+        },
+        {
+          "key": "B",
+          "value": "Oenothera lamarckiana"
+        },
+        {
+          "key": "C",
+          "value": "Pisum sativum"
+        },
+        {
+          "key": "D",
+          "value": "Drosophila melanogaster"
+        }
+      ],
+      "answer": "B",
+      "explanation": "Pisum sativum - Mendel<br>\n Drosophila melanogaster - T. H. Morgan."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Which one of the following experiments\nsuggests that simplest living organisms could\nnot have originated spontaneously from non-living matter ?",
+      "options": [
+        {
+          "key": "A",
+          "value": "Meat was not spoiled, when heated and kept\nsealed in a vessel "
+        },
+        {
+          "key": "B",
+          "value": "Larva cound appear in decaying organic\nmatter "
+        },
+        {
+          "key": "C",
+          "value": "Microbes appeared form unsterilized organic\nmatter "
+        },
+        {
+          "key": "D",
+          "value": "microbes did not appear in stored meat "
+        }
+      ],
+      "answer": "A",
+      "explanation": "Microbes were killed by heating the meat\nand the sealed vessel formed a closed system wherein\nthe new microbes could not come in contact with the\nnutrient medium and hence no spoilage of meat.\n"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Which one of the following phenomena supports\nDarwin's concept of natural selection in organic\nevolution ?",
+      "options": [
+        {
+          "key": "A",
+          "value": "Prevalence of pesticide resistant insects "
+        },
+        {
+          "key": "B",
+          "value": "Development of organs from 'stem' cells for\norgan transplantation "
+        },
+        {
+          "key": "C",
+          "value": "production of 'Dolly', the sheep by cloning "
+        },
+        {
+          "key": "D",
+          "value": "Development of transgenic animals "
+        }
+      ],
+      "answer": "A",
+      "explanation": "When DDT was sprayed to kill\nmosquitoes, there were only few mosquitoes\nwhich were already resistant to DDT, and\nhence survived. Most of the mosquitoes\nwhich were sensitive to DDT died.<br>\nDue to differential reproduction the\nresistant mosquitoes got more chances of\nreproduction and multiplied. After few\ngenerations most of the mosquitoes were\nresistant. The sensitive were very few.\nThis supports Darwin’s theory of natural\nselection and survival of the fittest."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "There are two opposing views about origin of\nmodern man. According to one view Homo\nerectus in Asia were the ancestors of modern\nman. A study of variation of DNA however\nsuggested African origin of modern man. What\nkind of observation of DNA variation could\nsuggest this ?",
+      "options": [
+        {
+          "key": "A",
+          "value": "Variation only in Asia and no variation in\nAfrica "
+        },
+        {
+          "key": "B",
+          "value": "Similar variation in Africa and Asia"
+        },
+        {
+          "key": "C",
+          "value": "Greater variation in Africa than in Asia "
+        },
+        {
+          "key": "D",
+          "value": "Greater variation in Asia than in Africa "
+        }
+      ],
+      "answer": "C",
+      "explanation": "According to Neodarwinism variation\nis the root cause of evolution."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Diversification in plant life appeared ",
+      "options": [
+        {
+          "key": "A",
+          "value": "By seed dispersal"
+        },
+        {
+          "key": "B",
+          "value": "Due to abrupt mutations "
+        },
+        {
+          "key": "C",
+          "value": "Due to long periods of evolutionary changes "
+        },
+        {
+          "key": "D",
+          "value": "Suddenly on earth "
+        }
+      ],
+      "answer": "C",
+      "explanation": "According to Darwin gradual accumulation of small variations gives rise to new\nspecies. Abrupt mutations do not give rise to\nnew species . Plants arose by gradual adaptation to diverse habitats and not suddenly on\nearth. Seeded plants are just one group in the\nplant kingdom."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Age of fossils in the past was generally\ndetermined by radio-carbon method and other\nmethods involving radioactive elements found in\nthe rocks. More precise methods, which were\nused recently and led to the revision of the\nevolutionary periods for different groups of\norganisms includes - ",
+      "options": [
+        {
+          "key": "A",
+          "value": "Electron spin resonance (ESR) &amp; fossil DNA "
+        },
+        {
+          "key": "B",
+          "value": "Study of carbohydrates/proteins in fossils "
+        },
+        {
+          "key": "C",
+          "value": "Study of the conditions of fossilization"
+        },
+        {
+          "key": "D",
+          "value": "Study of carbohydrates/proteins in rocks"
+        }
+      ],
+      "answer": "A",
+      "explanation": "ESR, Electron Spin Resonance\nmeasures number of charges occupying\ndeep traps in crystal band gap.<br>\nElectron Paramagnetic Resonance (EPR)\nor Electron Spin Resonance (ESR) is a\nspectroscopic technique which detects\nspecies that have unpaired electrons,\ngenerally meaning that the molecule in\nquestion is a free radical if it is an organic\nmolecule, or that it has transition metal\nions if it is an inorganic complex. Because\nmost stable molecules have a closed-shell\nconfiguration without a suitable unpaired\nspin, the technique is less widely used than\nnuclear magnetic resonance (NMR). The\nEPR was first discovered in Kazan State\nUniversity by Soviet physicist Yevgeniy\nZavoyskiy in 1944."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "What kind of evidence suggested that man is\nmore closely related with chimpanzee than with\nother hominoid apes ?",
+      "options": [
+        {
+          "key": "A",
+          "value": "Evidence from fossil remains and the fossil\nmitochondrial DNA alone "
+        },
+        {
+          "key": "B",
+          "value": "Evidence from DNA extracted from sex\nchromosomes, autosomes"
+        },
+        {
+          "key": "C",
+          "value": "Comparison of chromosomes morphology\nonly "
+        },
+        {
+          "key": "D",
+          "value": "Evidence from DNA from sex chromosomes\nonly "
+        }
+      ],
+      "answer": "B",
+      "explanation": "DNA from sex chromosomes,\nautosomes and mitochondria reflect\nthe entire genomic limit. Chromosome\nmorphology is only partial."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Which one of the following is living fossil ?",
+      "options": [
+        {
+          "key": "A",
+          "value": "Cycas"
+        },
+        {
+          "key": "B",
+          "value": "Moss"
+        },
+        {
+          "key": "C",
+          "value": "spirogyra"
+        },
+        {
+          "key": "D",
+          "value": "Saccharomyces "
+        }
+      ],
+      "answer": "A",
+      "explanation": "Cycas and Ginkgo are often considered as\nthe living fossil because they are one of the few\nrepresentative of once a large group of plants (which\nwas once a well flourished group) and possess traits\nof extinct pteridosperms and other gymnosperms."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "According to oparin, which one of the following\nwas not present in the primitive atmosphere of\nthe earth ?",
+      "options": [
+        {
+          "key": "A",
+          "value": "Water vapour"
+        },
+        {
+          "key": "B",
+          "value": "Oxygen"
+        },
+        {
+          "key": "C",
+          "value": "Methane "
+        },
+        {
+          "key": "D",
+          "value": "Hydrogen "
+        }
+      ],
+      "answer": "B",
+      "explanation": "The first scientific explanation of origin of\nlife was put forward by a Russian Scientist, A.I.\nOparin in 1923. J.B.S. Haldane (1928), England-born\nIndian Scientist, also made similar observations\nregarding the origin of life. According to them\nprimitive atmosphere was reducing atmosphere\nbecause hydrogen atoms (most numerous and most\nreactive) combined with all available oxygen atoms\nto form water and leaving no free oxygen.\n"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Which one of the following describes correctly\nthe homologous structures ?",
+      "options": [
+        {
+          "key": "A",
+          "value": "Organs with anatomical dissimilarities but\nperforming same function "
+        },
+        {
+          "key": "B",
+          "value": "Organs that have no function now, but had\nan important function in ancestors "
+        },
+        {
+          "key": "C",
+          "value": "Organs with anatomical similarities, but\nperforming different func"
+        },
+        {
+          "key": "D",
+          "value": "Organs appearing only in embryonic stage\nand disappearing later in the adult "
+        }
+      ],
+      "answer": "C",
+      "explanation": "Those organs which have a common\norigin and are built on the same anatomical\npattern, but perform different functions and\nare modified accordingly."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Which one of the following is categorised under\nliving fossils ?",
+      "options": [
+        {
+          "key": "A",
+          "value": "Cycas"
+        },
+        {
+          "key": "B",
+          "value": "Metasequoia "
+        },
+        {
+          "key": "C",
+          "value": "Pinus "
+        },
+        {
+          "key": "D",
+          "value": "Selaginella"
+        }
+      ],
+      "answer": "A",
+      "explanation": "Cycas and Ginkgo are often considered as\nthe living fossil because they are one of the few\nrepresentative of once a large group of plants (which\nwas once a well flourished group) and possess traits\nof extinct pteridosperms and other gymnosperms.\n"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Industrial melanism is an example of : - ",
+      "options": [
+        {
+          "key": "A",
+          "value": "Darkening of skin due to smoke from\nindustries "
+        },
+        {
+          "key": "B",
+          "value": "Defensive adaptation of skin against\nultraviolet radiations "
+        },
+        {
+          "key": "C",
+          "value": "Drug resistance"
+        },
+        {
+          "key": "D",
+          "value": "Protective resemblance with the surroundings \n"
+        }
+      ],
+      "answer": "D",
+      "explanation": "The replacement of grey coloured\nmoth by dark coloured melanic species\ndue to industrial smoke is called industrial\nmelanism. Initially on the lichen covered\ntree trunks, the mutant moths was more\nconspicuous due to its black colouration and\nwas therefore more susceptible to predation\nby birds. The large scale burning of coal\nduring industrial revolution resulted in the\ndeposition of sooty particulate matter on\ntree trunks. Hence the grey coloured moths\nbecame more conspicuous to predatory \nbirds. Thus the population of black moths\nincreased considerably."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "In a random mating population in equilibrium,\nwhich of the following brings about a change in\ngene frequency in a non-directional manner : - ",
+      "options": [
+        {
+          "key": "A",
+          "value": "Selection "
+        },
+        {
+          "key": "B",
+          "value": "Random drift "
+        },
+        {
+          "key": "C",
+          "value": "Mutations "
+        },
+        {
+          "key": "D",
+          "value": "Migration "
+        }
+      ],
+      "answer": "B",
+      "explanation": "Migration refers to the movement of\nindividuals into and out of population.\nMutation refers to random and sudden\nheritable variations or changes arising in the\ngenetic constitution."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Darwin in his 'Natural Selection Theory' did not\nbelieve in any role of which one of the following\nin organic evolution ?",
+      "options": [
+        {
+          "key": "A",
+          "value": "Survival of the fittest "
+        },
+        {
+          "key": "B",
+          "value": "Parasites and predators as natural enemies "
+        },
+        {
+          "key": "C",
+          "value": "Discontinuous variations "
+        },
+        {
+          "key": "D",
+          "value": "Struggle for existence "
+        }
+      ],
+      "answer": "C",
+      "explanation": "In any population, there is always\ncompetition for space and food resources. "
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Random genetic drift in a population probably\nresults from",
+      "options": [
+        {
+          "key": "A",
+          "value": "Constant low mutation rate "
+        },
+        {
+          "key": "B",
+          "value": "Interbreeding within this population "
+        },
+        {
+          "key": "C",
+          "value": "Large population size "
+        },
+        {
+          "key": "D",
+          "value": "Highly genetically variable individuals"
+        }
+      ],
+      "answer": "B",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Convergent evolution is illustrated by : -",
+      "options": [
+        {
+          "key": "A",
+          "value": "Bacterium and protozoan "
+        },
+        {
+          "key": "B",
+          "value": "Rat and dog"
+        },
+        {
+          "key": "C",
+          "value": "Dogfish and whale "
+        },
+        {
+          "key": "D",
+          "value": "Starfish and cuttle fish "
+        }
+      ],
+      "answer": "C",
+      "explanation": "Convergent evolution is the formation of\nsimilar traits by unrelated groups of organisms.\nDogfish and whale are the interesting examples of\nconvergent evolution in animals as both of them have\nmore or less similar body organization.\n"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Which one of the following sequences was\nproposed by Darwin and Wallace for organic\nevolution ?",
+      "options": [
+        {
+          "key": "A",
+          "value": "Variations, natural selection,\noverproduction, constancy of population\nsize "
+        },
+        {
+          "key": "B",
+          "value": "Overproduction, constancy of population\nsize, variations, natural selection"
+        },
+        {
+          "key": "C",
+          "value": "Variations, constancy of population size,\noverproduction, natural selection"
+        },
+        {
+          "key": "D",
+          "value": "Overproduction, variations, constancy of\npopulation size, natural selection"
+        }
+      ],
+      "answer": "B",
+      "explanation": "According to Darwinism there is\ndifferential reproduction, followed by\nstruggle for existence, suitable variations are\nselected by nature-natural selection."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Which of the following is important for\nspeciation ?",
+      "options": [
+        {
+          "key": "A",
+          "value": "Behavioural isolation "
+        },
+        {
+          "key": "B",
+          "value": "Seasonal isolation "
+        },
+        {
+          "key": "C",
+          "value": "Tropical isolation "
+        },
+        {
+          "key": "D",
+          "value": "Reproductive isolation "
+        }
+      ],
+      "answer": "D",
+      "explanation": "Seasonal isolation refers to the\ndifferences in season of breeding that\ncan isolate two varieties. Behavioural or\nethological isolation refers to differences\nin behaviour like courtship rituals etc. to\nprevent mating. Mechanical isolation refers \nto the differences in the position, size and\nstructure of animal genitalia which prevent\nreproductive contact and thus bring about\nisolation. Reproductive isolation is the\nprevention of interbreeds between the\npopulation of two different species."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Cause of mimicry is - ",
+      "options": [
+        {
+          "key": "A",
+          "value": "offence"
+        },
+        {
+          "key": "B",
+          "value": "concealment"
+        },
+        {
+          "key": "C",
+          "value": "defence"
+        },
+        {
+          "key": "D",
+          "value": "both (b) and (c)"
+        }
+      ],
+      "answer": "D",
+      "explanation": "Mimicry is resemblance of an organism\nto its natural surroundings, a non living object\nor another organism for concealing itself from\nits natural predators or preys."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "There is no life on moon due to the absence of - ",
+      "options": [
+        {
+          "key": "A",
+          "value": "O<sub>2</sub>"
+        },
+        {
+          "key": "B",
+          "value": "Light"
+        },
+        {
+          "key": "C",
+          "value": "Water "
+        },
+        {
+          "key": "D",
+          "value": "Temperature"
+        }
+      ],
+      "answer": "C",
+      "explanation": "Water is the most essential material to\nsurvive. One can thrive without O<sub>2</sub>\n (anaerobic\nbacteria) and light and in a wide range of temperature\nbut one cannot live without water which is the most\nimportant component of the body (about 90% of\nplasma consists of water) and life was originated from\nabiogenetic materials in water.\n"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Which of the following are homologous organs ?",
+      "options": [
+        {
+          "key": "A",
+          "value": "Wings of birds &amp; Pectoral fins of\nfish"
+        },
+        {
+          "key": "B",
+          "value": "Wings of bat &amp; Butterfly"
+        },
+        {
+          "key": "C",
+          "value": "Legs of frog &amp; Cockroch"
+        },
+        {
+          "key": "D",
+          "value": "Wings of birds &amp; Locust "
+        }
+      ],
+      "answer": "A",
+      "explanation": "Homologous organs have same basic\nstructure and origin but they differ in their\nexternal appearance and function."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Genetic drift oparates in : - ",
+      "options": [
+        {
+          "key": "A",
+          "value": "Slow reproductive population "
+        },
+        {
+          "key": "B",
+          "value": "Small isolated population"
+        },
+        {
+          "key": "C",
+          "value": "Large isolated population "
+        },
+        {
+          "key": "D",
+          "value": "Fast reproductive population"
+        }
+      ],
+      "answer": "B",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "In which condition, the gene ratio remains\nconstant for any species population ?",
+      "options": [
+        {
+          "key": "A",
+          "value": "Gene flow"
+        },
+        {
+          "key": "B",
+          "value": "Mutation "
+        },
+        {
+          "key": "C",
+          "value": "Sexual selection"
+        },
+        {
+          "key": "D",
+          "value": "Random mating "
+        }
+      ],
+      "answer": "D",
+      "explanation": "Mutation is any random sudden\nheritable change occurring in the genetic\nmaterial. Sexual selection refers to selection\nof a mate by an organism."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "According to fossils which discovered up to\npresent time, origin and evolution of man was\nstarted from ",
+      "options": [
+        {
+          "key": "A",
+          "value": "Java"
+        },
+        {
+          "key": "B",
+          "value": "Africa"
+        },
+        {
+          "key": "C",
+          "value": "China "
+        },
+        {
+          "key": "D",
+          "value": "France"
+        }
+      ],
+      "answer": "B",
+      "explanation": "The common ancestor of both ape and man\nis Dryopithecus – a 20 million years old fossil\ndiscovered from Africa. Austroalopithecus also lived\nin Africa between 6 million to 1 million years ago.\nThe genus Homo evolved 2 million years ago from\none of such Australopithecines in Africa and then only\nmoved out of the continent.<br>\nThe first such Homo lived throughout Asia, some parts\nof Europe and Africa. But obviously its evolution took\nplace in Africa.\n"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "In which era reptiles were dominant ?",
+      "options": [
+        {
+          "key": "A",
+          "value": "Archaeozoic era "
+        },
+        {
+          "key": "B",
+          "value": "Mesozoic era "
+        },
+        {
+          "key": "C",
+          "value": "Coenozoic era"
+        },
+        {
+          "key": "D",
+          "value": "Paleozoic era "
+        }
+      ],
+      "answer": "B",
+      "explanation": "Mesozoic era is the era during which reptiles\nwere dominant. It includes three periods : Triassic\n(240 million years ago), Jurassic (195 million years\nago) and Cretaceous (135 million years ago). Origin\nof dinosaurs occurred during triassic period. During\nJurassic period, lizards, crocodiles and alligators\noriginated. Dinosaurs became large and reptiles were\ndominant during this period. During cretaceous\nperiod, dinosaurs got extinct.\n"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Sequence of which of the following is used to\nknow the phylogeny ?",
+      "options": [
+        {
+          "key": "A",
+          "value": "DNA"
+        },
+        {
+          "key": "B",
+          "value": "r-RNA "
+        },
+        {
+          "key": "C",
+          "value": "m-RNA"
+        },
+        {
+          "key": "D",
+          "value": "t-RNA"
+        }
+      ],
+      "answer": "B",
+      "explanation": "Carl Woese came up with the theory of life\nbased on his discovery that the genes encoding\nribosomal RNA are ancient and distributed over all\nlineages of life with little or no gene transfer.\nTherefore, rRNA are commonly recommended as\nmolecular clocks to the phylogeny."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Which of the following is correct order of the\nevolutionary history of man ?",
+      "options": [
+        {
+          "key": "A",
+          "value": "Peking man, Hedalberg man, Neanderthal\nman, Cromagnon man "
+        },
+        {
+          "key": "B",
+          "value": "Peking man, Neanderthal man, Homosapiens\nCromagnon man "
+        },
+        {
+          "key": "C",
+          "value": "Peking man, Neanderthal man, Homosapiens\nHedalberg man "
+        },
+        {
+          "key": "D",
+          "value": "Peking man, Homo sapiens, Neanderthel\nman, Cromagnon man "
+        }
+      ],
+      "answer": "A",
+      "explanation": "Peking man had a cranial capacity of\nabout 1000cc. Heidelberg man is regarded as\nancestor of Neanderthal man. Cro-magnon is\nthe form of modern man living in Europe."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Which statement is correct about centre of origin\nof plant ?",
+      "options": [
+        {
+          "key": "A",
+          "value": "Climatic condition more favourable "
+        },
+        {
+          "key": "B",
+          "value": "More diversity in improved variety"
+        },
+        {
+          "key": "C",
+          "value": "None "
+        },
+        {
+          "key": "D",
+          "value": "Frequency of dominant gene is more "
+        }
+      ],
+      "answer": "B",
+      "explanation": "The two criteria on basis of which Nikolai\nIvanwitch Vavilov proposed different centre of origin\nwere (a) occurrence of maximum variation in the crop\nand (b) occurrence of wild relatives."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Half life period of C<sup>14</sup> is : - ",
+      "options": [
+        {
+          "key": "A",
+          "value": "5000 years "
+        },
+        {
+          "key": "B",
+          "value": "50 years"
+        },
+        {
+          "key": "C",
+          "value": "500 years"
+        },
+        {
+          "key": "D",
+          "value": "5 × 10<sup>4</sup> years"
+        }
+      ],
+      "answer": "A",
+      "explanation": "<sup>14</sup>C has a half life of 5570 years and is used\nin radio carbon dating. Carbon in living things\ncontains a uniform amount of radioactive <sup>14</sup>C\nproduced constantly in the atmosphere. From the\namount of <sup>14</sup>C in the dead sample, the age of the\norganism can be determined.\n"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Most abundant organic compound on earth is",
+      "options": [
+        {
+          "key": "A",
+          "value": "Cellulose"
+        },
+        {
+          "key": "B",
+          "value": "Steroids"
+        },
+        {
+          "key": "C",
+          "value": "Protein"
+        },
+        {
+          "key": "D",
+          "value": "Lipids"
+        }
+      ],
+      "answer": "A",
+      "explanation": "Cellulose is the most abundant organic\ncompound, polysaccharide and biopolymer\nfound on earth."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Reason of diversity in living being : - ",
+      "options": [
+        {
+          "key": "A",
+          "value": "Mutation "
+        },
+        {
+          "key": "B",
+          "value": "Short term evolutionary change "
+        },
+        {
+          "key": "C",
+          "value": "Long term evolutionary change "
+        },
+        {
+          "key": "D",
+          "value": "Gradual change "
+        }
+      ],
+      "answer": "C",
+      "explanation": "Diversity is due to the long term evolutionary changes. Adaptability to continuous\nchanges in environmental conditions is important for natural selection of variants and\nvariations generation after generation leading\nto emergence of diverse descendants."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Which of the following is closest relative of\nman ?",
+      "options": [
+        {
+          "key": "A",
+          "value": "Gorilla "
+        },
+        {
+          "key": "B",
+          "value": "Chimpanzee"
+        },
+        {
+          "key": "C",
+          "value": "Gibbon"
+        },
+        {
+          "key": "D",
+          "value": "Orangutan"
+        }
+      ],
+      "answer": "B",
+      "explanation": "Chimpanzee is the closest relative\nof man. Banding pattern of human\nchromosome number 3 and 6 are remarkably\nsimilar to that of chimpanzee indicating\ncommon origin for both."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Similarities in organism with different genotype\nindicates : - ",
+      "options": [
+        {
+          "key": "A",
+          "value": "Divergent evolution "
+        },
+        {
+          "key": "B",
+          "value": "Macroevolution "
+        },
+        {
+          "key": "C",
+          "value": "Convergent evolution "
+        },
+        {
+          "key": "D",
+          "value": "Microevolution "
+        }
+      ],
+      "answer": "C",
+      "explanation": "Microevolution is a series of changes\nwithin a species due to gene mutations and\naccumulation of variations.<br>\nMacroevolution is evolution in which taxa\nhigher than the level of species are formed\ndue to morphological and cytological\nchanges. Formation of different functional\nforms of a basically similar structure is\ncalled divergent evolution."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "First life on earth was : - ",
+      "options": [
+        {
+          "key": "A",
+          "value": "Autotrophs"
+        },
+        {
+          "key": "B",
+          "value": "Photoautotrophs "
+        },
+        {
+          "key": "C",
+          "value": "Cyanobacteria"
+        },
+        {
+          "key": "D",
+          "value": "Chemohetrotrophs"
+        }
+      ],
+      "answer": "D",
+      "explanation": "First living beings were formed in the\nenvironment of sea having abundant organic\nmolecules. They absorbed the organic\nmaterials for the sake of nutrtion and hence\nwere chemoheterotrophs."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Forthcoming generations are less adaptive than\ntheir parental generation due to",
+      "options": [
+        {
+          "key": "A",
+          "value": "Genetic drift "
+        },
+        {
+          "key": "B",
+          "value": "Natural selection"
+        },
+        {
+          "key": "C",
+          "value": "Mutation"
+        },
+        {
+          "key": "D",
+          "value": "Adaptation "
+        }
+      ],
+      "answer": "C",
+      "explanation": "Natural selection operates through\ndifferential reproduction. Genetic drift is\nrandom change in the allele number and\nfrequency in a gene pool."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Occurrence of endemic species in South America\nand Australia is due to",
+      "options": [
+        {
+          "key": "A",
+          "value": "These is no terrestrial route to these places "
+        },
+        {
+          "key": "B",
+          "value": "Retrogressive evolution "
+        },
+        {
+          "key": "C",
+          "value": "These species has been extinct from other\nregions"
+        },
+        {
+          "key": "D",
+          "value": "Continental separation "
+        }
+      ],
+      "answer": "D",
+      "explanation": "Occurrence of endemic species in South\nAmerica and Australia is due to geographic isolation\n(continental separation). Animals occupy all diverse\nhabitats. The distribution, continuous or discontinuous of a species or a group of organisms\ndepends on many factors like evolutionary, climatic,\nphysical or biological barriers etc.\n\n"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Darwins theory of pangenesis shows similarity\nwith theory of inheritance of acquired characters\nthen what shall be correct according to it",
+      "options": [
+        {
+          "key": "A",
+          "value": "There should be some physical basis of\ninheritance "
+        },
+        {
+          "key": "B",
+          "value": "Size of organs increase with aging "
+        },
+        {
+          "key": "C",
+          "value": "Useful organs become strong and\ndeveloped while useless organs become\nextinct. These organs help in struggle for\nsurvival "
+        },
+        {
+          "key": "D",
+          "value": "Development of organs is due to will power "
+        }
+      ],
+      "answer": "A",
+      "explanation": "According to theory of pangenesis Darwin\nthought that every somatic cell of the body produces\na tiny particle called gemmule or pangene which\ncontains both the parental and acquired characters.\nAll gemmules or pangenes of the body cells collect\nin the gametes and are passed on to the zygote where\nthey guide the growth of different parts of the embryo."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Which is not a vestigial organ in man ?",
+      "options": [
+        {
+          "key": "A",
+          "value": "Segmental muscles of abdomen "
+        },
+        {
+          "key": "B",
+          "value": "Third molar"
+        },
+        {
+          "key": "C",
+          "value": "Coccyx"
+        },
+        {
+          "key": "D",
+          "value": "Nails"
+        }
+      ],
+      "answer": "D",
+      "explanation": "The vestigial organs are the useless remnants\nof structures or organs which might have been large\nand functional in the ancestors. Segmental muscles\nin abdomen, coccyx, third molar (wisdom teeth) of\nhuman are vestigial organs. Nail is not a vestigial\norgan of human.\n"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Which is the most important factor for continuity of a species from evolutionary point of view ?",
+      "options": [
+        {
+          "key": "A",
+          "value": "Formation of gametes"
+        },
+        {
+          "key": "B",
+          "value": "Synthesis of proteins"
+        },
+        {
+          "key": "C",
+          "value": "Replication of genetic material"
+        },
+        {
+          "key": "D",
+          "value": "None of these"
+        }
+      ],
+      "answer": "C",
+      "explanation": "Replication of genetic material is the most\nimportant factor for continuity of a species from\nevolutionary point of view. When genetic material\nreplicates, only then it could be transferred from one\ngeneration to next resulting in continuity of a species.\nAsexual animals do not produce gametes while sexual\nanimals do. So, formation of gametes is not an\nimportant factor in asexual animals though replication\nof genetic material takes place in both asexual as well\nas sexual animals. Synthesis of proteins does not play\nany role in continuity of species.\n"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Who is directly related to man ?",
+      "options": [
+        {
+          "key": "A",
+          "value": "Gorilla"
+        },
+        {
+          "key": "B",
+          "value": "Orangutan "
+        },
+        {
+          "key": "C",
+          "value": "Gibbon "
+        },
+        {
+          "key": "D",
+          "value": "Rhesus "
+        }
+      ],
+      "answer": "A",
+      "explanation": "Chimpanzees and gorillas are our\nclosest relatives among the living primates."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Character which is closely related to human\nevolution ",
+      "options": [
+        {
+          "key": "A",
+          "value": "Reduction in size of jaws "
+        },
+        {
+          "key": "B",
+          "value": "Disappearance of tail"
+        },
+        {
+          "key": "C",
+          "value": "Flat nails "
+        },
+        {
+          "key": "D",
+          "value": "Binocular vision "
+        }
+      ],
+      "answer": "B",
+      "explanation": "Loss of a prehensile tail is associated\nwith the gradual development of erect\nposture and bipedal gait."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Which evidence of evolution related to Darwin's\nfinches ?",
+      "options": [
+        {
+          "key": "A",
+          "value": "Evidences from comparative anatomy "
+        },
+        {
+          "key": "B",
+          "value": "Evidences from embryology"
+        },
+        {
+          "key": "C",
+          "value": "Evidences from biogeographical distribution"
+        },
+        {
+          "key": "D",
+          "value": "Evidences from palaeontological "
+        }
+      ],
+      "answer": "C",
+      "explanation": "Biogeography is the study of geographical\ndistribution of organisms. Paleontology is\nthe study of past life based on fossils and\nfossil impressions. Anatomy is the study of\ninternal structure. Embryology is the study\nof development of embryo from zygote till\nit becomes an offspring."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Homo sapiens have evolved in",
+      "options": [
+        {
+          "key": "A",
+          "value": "Pleistocene"
+        },
+        {
+          "key": "B",
+          "value": "Paleocene"
+        },
+        {
+          "key": "C",
+          "value": "Oligocene "
+        },
+        {
+          "key": "D",
+          "value": "Holocene"
+        }
+      ],
+      "answer": "D",
+      "explanation": "Oligocene is masked by the rise of\nmonkeys and apes. Miocene is masked by\nappearance of man like apes. Pliocene is\ncharacterized by origin of man."
+    }
+  ]
+}

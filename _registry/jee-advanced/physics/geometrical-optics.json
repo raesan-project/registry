@@ -1,0 +1,43 @@
+{
+  "_index": {
+    "name": "Geometrical Optics"
+  },
+  "_children": [
+    {
+      "_type": "numerical",
+      "body": "<p>The focal length of a thin biconvex lens is 20 cm. When an object is moved from a distance of 25 cm in front of it to 50 cm, the magnification of its image changes from m<sub>25</sub> to m<sub>50</sub>. The ratio $${{{m_{25}}} \\over {{m_{50}}}}$$ is __________.</p>",
+      "answer": "6",
+      "explanation": "<p>$${1 \\over v} - {1 \\over u} = {1 \\over f}$$</p>\n<p>or, $${u \\over v} - 1 = {u \\over f}$$</p>\n<p>or, $${u \\over v} = \\left( {{{u + f} \\over f}} \\right)$$</p>\n<p>$$\\therefore$$ $$m = {v \\over u} = \\left( {{f \\over {u + f}}} \\right)$$</p>\n<p>$${{{m_{25}}} \\over {{m_{50}}}} = {{\\left( {{{20} \\over { - 25 + 20}}} \\right)} \\over {\\left( {{{20} \\over { - 50 + 20}}} \\right)}} = 6$$</p>"
+    },
+    {
+      "_type": "numerical",
+      "body": "<p>Image of an object approaching a convex mirror of radius of curvature 20 m along its optical axis is observed to move from $${{25} \\over 3}$$ m to $${{50} \\over 7}$$ m in 30 s. What is the speed of the object in km per hour?</p>",
+      "answer": "3",
+      "explanation": "<p>Focal length of a convex mirror, $$f = {R \\over 2} = {{20} \\over 2}$$ m = 10 m</p>\n<p>For first object, $${v_1} =  + {{25} \\over 3}$$ m, $$f =  + 10$$ m</p>\n<p>Using mirror formula $${1 \\over v} + {1 \\over u} = {1 \\over f}$$</p>\n<p>$$\\therefore$$ $${1 \\over {(25/3)}} + {1 \\over {{u_1}}} = {1 \\over {10}}$$ or $${1 \\over {{u_1}}} = {1 \\over {10}} - {3 \\over {25}}$$</p>\n<p>or $${u_1} =  - 50$$ m</p>\n<p>For second object,</p>\n<p>$${v_2} =  + {{50} \\over 7}$$ m, $$f =  + 10$$ m</p>\n<p>$$\\therefore$$ $${1 \\over {{v_2}}} + {1 \\over {{u_2}}} = {1 \\over f}$$</p>\n<p>$${1 \\over {(50/7)}} + {1 \\over {{u_2}}} = {1 \\over {10}}$$ or $${1 \\over {{u_2}}} = {1 \\over {10}} - {7 \\over {50}}$$ or $${u_2} =  - 25$$ m</p>\n<p>Speed of the object $$ = {{25} \\over {30}}$$ m s<sup>$$-$$1</sup></p>\n<p>$$ = {{25} \\over {30}} \\times {{18} \\over 5}$$ km h<sup>$$-$$1</sup> = 3 km h<sup>$$-$$1</sup></p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Choose the correct statement.</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "The speed of light in the meta-material is v = c|n|."
+        },
+        {
+          "key": "B",
+          "value": "The speed of light in the meta-material is $$v = {c \\over {|n|}}$$."
+        },
+        {
+          "key": "C",
+          "value": "The speed of light in the meta-material is v = c."
+        },
+        {
+          "key": "D",
+          "value": "The wavelength of the light in the meta-material ($$\\lambda$$<sub>m</sub>) is given by $${\\lambda _m} = {\\lambda _{air}}|n|$$, where $${\\lambda _{air}}$$ is wavelength of the light in air."
+        }
+      ],
+      "answer": "B",
+      "explanation": "<p>Refractive index for a medium</p>\n<p>$$n = \\left( {{c \\over v}} \\right)$$</p>\n<p>For meta-material, $$n = \\,|n|$$</p>\n<p>$$\\therefore$$ $$v = {c \\over {|n|}}$$</p>"
+    }
+  ]
+}

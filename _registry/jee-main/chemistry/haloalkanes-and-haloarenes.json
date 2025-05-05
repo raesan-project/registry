@@ -1,0 +1,493 @@
+{
+  "_index": {
+    "name": "Haloalkanes and Haloarenes"
+  },
+  "_children": [
+    {
+      "_type": "single_mcq",
+      "body": "<p>The products A and B in the following reactions, respectively are</p>\n<p>$\\mathrm{A} \\stackrel{\\mathrm{Ag}-\\mathrm{NO}_2}{\\longleftrightarrow} \\mathrm{CH}_3-\\mathrm{CH}_2-\\mathrm{CH}_2-\\mathrm{Br} \\xrightarrow{\\mathrm{AgCN}} \\mathrm{B}$</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "$\\mathrm{CH}_3-\\mathrm{CH}_2-\\mathrm{CH}_2-\\mathrm{ONO}, \\mathrm{CH}_3-\\mathrm{CH}_2-\\mathrm{CH}_2-\\mathrm{CN}$\n"
+        },
+        {
+          "key": "B",
+          "value": "$\\mathrm{CH}_3-\\mathrm{CH}_2-\\mathrm{CH}_2-\\mathrm{NO}_2, \\mathrm{CH}_3-\\mathrm{CH}_2-\\mathrm{CH}_2-\\mathrm{CN}$\n"
+        },
+        {
+          "key": "C",
+          "value": "$\\mathrm{CH}_3-\\mathrm{CH}_2-\\mathrm{CH}_2-\\mathrm{ONO}, \\mathrm{CH}_3-\\mathrm{CH}_2-\\mathrm{CH}_2-\\mathrm{NC}$\n"
+        },
+        {
+          "key": "D",
+          "value": "$\\mathrm{CH}_3-\\mathrm{CH}_2-\\mathrm{CH}_2-\\mathrm{NO}_2, \\mathrm{CH}_3-\\mathrm{CH}_2-\\mathrm{CH}_2-\\mathrm{NC}$"
+        }
+      ],
+      "answer": "D",
+      "explanation": "<p>$$\\mathrm{\\mathop {C{H_3} - C{H_2} - C{H_2} - N{O_2}}\\limits_{(A)} \\buildrel {Ag - N{O_2}} \\over\n \\longrightarrow C{H_3} - C{H_2} - C{H_2} - Br\\buildrel {AgCN} \\over\n \\longrightarrow \\mathop {C{H_3} - C{H_2} - C{H_2} - NC}\\limits_{(B)}}$$</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Given below are two statements : one is labelled as Assertion (A) and the other is labelled as Reason (R).</p>\n<p>Assertion (A) : $$\\mathrm{S}_{\\mathrm{N}} 2$$ reaction of $$\\mathrm{C}_6 \\mathrm{H}_5 \\mathrm{CH}_2 \\mathrm{Br}$$ occurs more readily than the $$\\mathrm{S}_{\\mathrm{N}} 2$$ reaction of $$\\mathrm{CH}_3 \\mathrm{CH}_2 \\mathrm{Br}$$.</p>\n<p>Reason (R) : The partially bonded unhybridized p-orbital that develops in the trigonal bipyramidal transition state is stabilized by conjugation with the phenyl ring.</p>\n<p>In the light of the above statements, choose the most appropriate answer from the options given below :</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "Both (A) and (R) are correct but (R) is not the correct explanation of (A)"
+        },
+        {
+          "key": "B",
+          "value": "Both (A) and (R) are correct and (R) is the correct explanation of (A)"
+        },
+        {
+          "key": "C",
+          "value": "(A) is not correct but (R) is correct"
+        },
+        {
+          "key": "D",
+          "value": "(A) is correct but (R) is not correct"
+        }
+      ],
+      "answer": "B",
+      "explanation": "<p>To determine the correct answer, we need to analyze both the Assertion (A) and the Reason (R) independently, as well as see if the Reason (R) provides the correct explanation for the Assertion (A).</p>\n\n<p><strong>Assertion (A) Analysis:</strong><br>\n\n<p>Assertion (A) states that $$\\mathrm{S}_{\\mathrm{N}} 2$$ reaction of $$\\mathrm{C}_6 \\mathrm{H}_5 \\mathrm{CH}_2 \\mathrm{Br}$$ occurs more readily than the $$\\mathrm{S}_{\\mathrm{N}} 2$$ reaction of $$\\mathrm{CH}_3 \\mathrm{CH}_2 \\mathrm{Br}$$. In an $$\\mathrm{S}_{\\mathrm{N}} 2$$ reaction, the rate depends on the nucleophile as well as the substrate. Specifically, $$\\mathrm{S}_{\\mathrm{N}} 2$$ reactions proceed through a backside attack mechanism, leading to the formation of a transition state where the nucleophile and the leaving group are simultaneously bonded to the carbon atom. The benzyl group $$\\mathrm{C}_6 \\mathrm{H}_5 \\mathrm{CH}_2-$$ is more stable for $$\\mathrm{S}_{\\mathrm{N}} 2$$ reactions compared to the ethyl group $$\\mathrm{CH}_3 \\mathrm{CH}_2-$$ because the benzyl carbon's partial positive charge in the transition state is stabilized by the resonance of the phenyl ring.</p></p>\n\n<p><strong>Reason (R) Analysis:</strong><br>\n\n<p>Reason (R) explains that the partially bonded unhybridized p-orbital that develops in the trigonal bipyramidal transition state is stabilized by conjugation with the phenyl ring. This means that the presence of the phenyl ring can delocalize and stabilize the charge in the transition state, facilitating the $$\\mathrm{S}_{\\mathrm{N}} 2$$ reaction.</p></p>\n\n<p><strong>Combining Assertion (A) and Reason (R):</strong><br>\n\n<p>Given that the phenyl ring in $$\\mathrm{C}_6 \\mathrm{H}_5 \\mathrm{CH}_2 \\mathrm{Br}$$ can indeed stabilize the transition state through conjugation more effectively than an ethyl group, both the Assertion (A) and Reason (R) are correct. Furthermore, Reason (R) provides a valid explanation for Assertion (A), reinforcing why the $$\\mathrm{S}_{\\mathrm{N}} 2$$ reaction occurs more readily for $$\\mathrm{C}_6 \\mathrm{H}_5 \\mathrm{CH}_2 \\mathrm{Br}$$.</p></p>\n\n<p>Thus, the most appropriate answer is:</p>\n\n<p><strong>Option B:</strong> Both (A) and (R) are correct and (R) is the correct explanation of (A)</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Given below are two statements : one is labelled as <b>Assertion (A)</b> and the other is labelled as <b>Reason (R)</b>.<br/><br/>\n<b>Assertion (A)</b> : Haloalkanes react with KCN to form alkyl cyanides as a main product while with $\\mathrm{AgCN}$ form isocyanide as the main product.\n<br/><br/>\n<b>Reason (R)</b> : $\\mathrm{KCN}$ and $\\mathrm{AgCN}$ both are highly ionic compounds.<br/><br/>\nIn the light of the above statements, choose the <b>most appropriate</b> answer from the options given below :\n",
+      "options": [
+        {
+          "key": "A",
+          "value": "(A) is correct but $(\\mathbf{R})$ is not correct"
+        },
+        {
+          "key": "B",
+          "value": "Both (A) and (R) are correct and (R) is the correct explanation of (A)"
+        },
+        {
+          "key": "C",
+          "value": "(A) is not correct but (R) is correct"
+        },
+        {
+          "key": "D",
+          "value": "Both (A) and (R) are correct but (R) is not the correct explanation of (A)"
+        }
+      ],
+      "answer": "A",
+      "explanation": "$\\begin{aligned} & \\mathrm{R}-\\mathrm{X}+\\mathrm{KCN} \\longrightarrow \\mathrm{R}-\\mathrm{CN}+\\mathrm{KX} \\\\\\\\ & \\mathrm{R}-\\mathrm{X}+\\mathrm{AgCN} \\longrightarrow \\mathrm{R}-\\mathrm{NC}+\\mathrm{AgX}\\end{aligned}$\n<br/><br/>$\\mathrm{KCN}$ is ionic so it provides cyanide ions in solution and attacks from carbon side on alkyl halide.\n\n<br/><br/>But $\\mathrm{AgCN}$ is covalent it cannot form cyanide ion so it attacks from nitrogen side and isocyanide is formed predominantly.\n<br/><br/>$\\mathrm{A}$ is correct $\\mathrm{R}$ is not correct."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Given below are two statements:</p>\n<p>Statement - I: High concentration of strong nucleophilic reagent with secondary alkyl halides which do not have bulky substituents will follow $$\\mathrm{S}_{\\mathrm{N}}{ }^2$$ mechanism.</p>\n<p>Statement - II: A secondary alkyl halide when treated with a large excess of ethanol follows $$\\mathrm{S}_{\\mathrm{N}}{ }^1$$ mechanism.</p>\n<p>In the light of the above statements, choose the most appropriate from the options given below:</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "Both Statement I and Statement II are true.\n"
+        },
+        {
+          "key": "B",
+          "value": "Statement I is true but Statement II is false.\n"
+        },
+        {
+          "key": "C",
+          "value": "Both Statement I and Statement II are false.\n"
+        },
+        {
+          "key": "D",
+          "value": "Statement I is false but Statement II is true."
+        }
+      ],
+      "answer": "A",
+      "explanation": "<p>Statement - I: Rate of $$\\mathrm{S}_{\\mathrm{N}} 2 \\propto[\\mathrm{R}-\\mathrm{X}]\\left[\\mathrm{Nu}^{-}\\right]$$</p>\n<p>$$\\mathrm{S}_{\\mathrm{N}} 2$$ reaction is favoured by high concentration of nucleophile $$(\\mathrm{Nu}^{-})$$ & less crowding in the substrate molecule.</p>\n<p>Statement - II: Solvolysis follows $$\\mathrm{S}_{\\mathrm{N}} 1$$ path.</p>\n<p>Both are correct Statements.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Alkyl halide is converted into alkyl isocyanide by reaction with</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$\\mathrm{KCN}$$\n"
+        },
+        {
+          "key": "B",
+          "value": "$$\\mathrm{NH}_4 \\mathrm{CN}$$\n"
+        },
+        {
+          "key": "C",
+          "value": "$$\\mathrm{NaCN}$$\n"
+        },
+        {
+          "key": "D",
+          "value": "$$\\mathrm{AgCN}$$"
+        }
+      ],
+      "answer": "D",
+      "explanation": "<p>Covalent character of $$\\mathrm{AgCN}$$.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>The correct statement regarding nucleophilic substitution reaction in a chiral alkyl halide is ;</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "Retention occurs in $$S_N 1$$ reaction and inversion occurs in $$\\mathrm{S}_{\\mathrm{N}} 2$$ reaction.\n"
+        },
+        {
+          "key": "B",
+          "value": "Racemisation occurs in $$\\mathrm{S}_{\\mathrm{N}} 1$$ reaction and retention occurs in $$\\mathrm{S}_{\\mathrm{N}} 2$$ reaction.\n"
+        },
+        {
+          "key": "C",
+          "value": "Racemisation occurs in both $$\\mathrm{S}_{\\mathrm{N}} 1$$ and $$\\mathrm{S}_{\\mathrm{N}} 2$$ reactions.\n"
+        },
+        {
+          "key": "D",
+          "value": "Racemisation occurs in $$S_N 1$$ reaction and inversion occurs in $$\\mathrm{S}_{\\mathrm{N}} 2$$ reaction."
+        }
+      ],
+      "answer": "D",
+      "explanation": "<p>The correct statement regarding nucleophilic substitution reaction in a chiral alkyl halide is Option D. Let's break down why this is the case by understanding both the $$S_N 1$$ and $$S_N 2$$ reactions and their effects on the chirality of the alkyl halide.</p>\n\n<p><b>$$S_N 2$$ Reaction:</b></p>\n\n<p>The $$S_N 2$$ (Substitution Nucleophilic Bimolecular) reaction is a one-step process where the bond formation (nucleophile attacking the substrate) and the bond-breaking (leaving group leaving the substrate) processes occur simultaneously. This reaction type is associated with an inversion of configuration at the chiral center. This means that if the reactant molecule is chiral and the nucleophile attacks from the side opposite to the leaving group, the product will have the opposite configuration to the reactant. This phenomenon is known as Walden inversion. Therefore, it does not lead to racemisation but rather to inversion of the stereochemistry at the chiral center.</p>\n\n<p><b>$$S_N 1$$ Reaction:</b></p>\n\n<p>The $$S_N 1$$ (Substitution Nucleophilic Unimolecular) reaction is a two-step process. The first step involves the formation of a carbocation intermediate by the departure of the leaving group. This intermediate is planar, and hence, the nucleophile can attack from either side of the plane with equal probability. This results in the formation of products with both configurations - one retaining the original configuration and the other being its mirror image (inverted configuration). As both enantiomers are formed, the process leads to racemisation, especially in situations where the carbocation can freely rotate and is attacked with equal probability from both sides. Over time, if this reaction goes to completion and there's no bias in nucleophile attack direction, you'd expect a racemic mixture of products.</p>\n\n<p>Thus, Option D is correct: Racemisation occurs in $$S_N 1$$ reaction, and inversion occurs in the $$S_N 2$$ reaction.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>The pair from the following pairs having both compounds with net non-zero dipole moment is</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "cis-butene, trans-butene"
+        },
+        {
+          "key": "B",
+          "value": "CH$$_2$$Cl$$_2$$, CHCl$$_3$$"
+        },
+        {
+          "key": "C",
+          "value": "Benzene, anisidine"
+        },
+        {
+          "key": "D",
+          "value": "1,4-Dichlorobenzene, 1,3-Dichlorobenzene"
+        }
+      ],
+      "answer": "B",
+      "explanation": "<p>The correct option from the pairs having both compounds with a net non-zero dipole moment is:</p>\n<p><b>Option A</b>: $\\text{cis-butene, trans-butene}$\ncis-butene has a net dipole moment because the two alkyl groups are on the same side of the molecule, causing an imbalance in the distribution of electrons. However, trans-butene is symmetric, so the dipole moments of the two alkyl groups cancel each other out, giving it a net dipole moment of zero. Therefore, this pair does not have both compounds with a net non-zero dipole moment.</p>\n<p><b>Option B</b>: $\\text{CH}_2\\text{Cl}_2, \\text{CHCl}_3$\nBoth $\\text{CH}_2\\text{Cl}_2$ (dichloromethane) and $\\text{CHCl}_3$ (chloroform) have a net non-zero dipole moment due to the difference in electronegativity between the hydrogen and chlorine atoms. Hence, this pair has both compounds with a net non-zero dipole moment.</p>\n<p><b>Option C</b>: $\\text{Benzene, Anisidine}$\nBenzene has a symmetrical structure, leading to a net zero dipole moment. Anisidine, however, does have a net dipole moment due to the asymmetry in its structure. Therefore, this pair does not have both compounds with a net non-zero dipole moment.</p>\n<p><b>Option D</b>: $\\text{1,4-Dichlorobenzene, 1,3-Dichlorobenzene}$\n$\\text{1,4-Dichlorobenzene}$ has a symmetrical structure, leading to a net zero dipole moment. However, $\\text{1,3-Dichlorobenzene}$ has a non-zero dipole moment due to the asymmetry in its structure. Therefore, this pair does not have both compounds with a net non-zero dipole moment.</p>\n"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Assertion A : Hydrolysis of an alkyl chloride is a slow reaction but in the presence of NaI, the rate of the hydrolysis increases.</p>\n<p>Reason R : I$$^{-}$$ is a good nucleophile as well as a good leaving group.</p>\n<p>In the light of the above statements, choose the correct answer from the options given below</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "A is true but R is false"
+        },
+        {
+          "key": "B",
+          "value": "A is false but R is true"
+        },
+        {
+          "key": "C",
+          "value": "Both A and R are true and R is the correct explanation of A"
+        },
+        {
+          "key": "D",
+          "value": "Both A and R are true but R is NOT the correct explanation of A"
+        }
+      ],
+      "answer": "C",
+      "explanation": "The rate of hydrolysis of alkyl chloride improves because of better Nucleophilicity of I<sup>–</sup>."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Given below are two statements :<br><br>Statement I : C<sub>2</sub>H<sub>5</sub>OH and AgCN both can generate nucleophile.<br><br>Statement II : KCN and AgCN both will generate nitrile nucleophile with all reaction conditions.<br><br>Choose the most appropriate option :",
+      "options": [
+        {
+          "key": "A",
+          "value": "Statement I is false but statement II is true."
+        },
+        {
+          "key": "B",
+          "value": "Both statement I and statement II are true."
+        },
+        {
+          "key": "C",
+          "value": "Both statement I and statement II are false."
+        },
+        {
+          "key": "D",
+          "value": "Statement I is true but statement II is false."
+        }
+      ],
+      "answer": "D",
+      "explanation": "Both C<sub>2</sub>H<sub>5</sub>OH and AgCN can generate nucleophile.<br><br>\nKCN generates nitriles on substitution reactions\nwith haloalkanes where AgCN generates isonitriles\non substitution reactions with haloalkanes. Because\nKCN is ionic and has ‘C’ nucleophilic centre\nwhereas AgCN is covalent and has ‘N’ nucleophilic\ncentre."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The correct pair(s) of the ambident nucleophiles is(are)<br><br>(A) AgCN/KCN<br><br>(B) RCOOAg/RCOOK<br><br>(C) AgNO<sub>2</sub>/KNO<sub>2</sub><br><br>(D) AgI/KI",
+      "options": [
+        {
+          "key": "A",
+          "value": "(B) and (C) only"
+        },
+        {
+          "key": "B",
+          "value": "(B) only"
+        },
+        {
+          "key": "C",
+          "value": "(A) and (C) only"
+        },
+        {
+          "key": "D",
+          "value": "(A) only"
+        }
+      ],
+      "answer": "C",
+      "explanation": "Ambident ligands are those which have two donor sites but at once it has the ability to donate either site.<br>\nHence in AgCN/KCN, AgNO<sub>2</sub>/KNO<sub>2</sub>, CN<sup>-</sup>, NO<sub>2</sub><sup>-</sup> have two donar sites act as ambident Nu<sup>-</sup>."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Which of the following reaction is an example of ammonolysis?",
+      "options": [
+        {
+          "key": "A",
+          "value": "C<sub>6</sub>H<sub>5</sub>COCl + C<sub>6</sub>H<sub>5</sub>NH<sub>2</sub> $$ \\to $$ C<sub>6</sub>H<sub>5</sub>CONHC<sub>6</sub>H<sub>5</sub>"
+        },
+        {
+          "key": "B",
+          "value": "C<sub>6</sub>H<sub>5</sub>CH<sub>2</sub>CN $$\\buildrel {[H]} \\over\n \\longrightarrow $$ C<sub>6</sub>H<sub>5</sub>CH<sub>2</sub>CH<sub>2</sub>NH<sub>2</sub>"
+        },
+        {
+          "key": "C",
+          "value": "C<sub>6</sub>H<sub>5</sub>CH<sub>2</sub>CN $$\\buildrel {HCl} \\over\n \\longrightarrow $$ C<sub>6</sub>H<sub>5</sub>$$\\mathop N\\limits^ +  $$H<sub>3</sub>Cl<sup>$$-$$</sup>"
+        },
+        {
+          "key": "D",
+          "value": "C<sub>6</sub>H<sub>5</sub>CH<sub>2</sub>Cl + NH<sub>3</sub> $$ \\to $$ C<sub>6</sub>H<sub>5</sub>CH<sub>2</sub>NH<sub>2</sub>"
+        }
+      ],
+      "answer": "D",
+      "explanation": "Ammonolysis of alkyl halides is the reaction of an alkyl\nhalide with NH<sub>3</sub> which leads to the preparation of\namines.<br><br>\nC<sub>6</sub>H<sub>5</sub>CH<sub>2</sub>Cl + NH<sub>3</sub> $$ \\to $$ C<sub>6</sub>H<sub>5</sub>CH<sub>2</sub>NH<sub>2</sub>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Which one of the following is likely to give a precipitate with AgNO<sub>3</sub> solution ?",
+      "options": [
+        {
+          "key": "A",
+          "value": "CHCl<sub>3</sub>"
+        },
+        {
+          "key": "B",
+          "value": "(CH<sub>3</sub>)<sub>3</sub>CCl"
+        },
+        {
+          "key": "C",
+          "value": "CCl<sub>4</sub>"
+        },
+        {
+          "key": "D",
+          "value": "CH<sub>2</sub>=CH–Cl"
+        }
+      ],
+      "answer": "B",
+      "explanation": "The molecule which will produce stable carbocation will react with AgNO<sub>3</sub> solution.\n<br><br>(CH<sub>3</sub>)<sub>3</sub>CCl $$\\buildrel {AgN{O_3}} \\over\n \\longrightarrow $$ (CH<sub>3</sub>)<sub>3</sub>C<sup>+</sup>NO<sub>3</sub><sup>-</sup> + AgCl($$ \\downarrow $$)"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The synthesis of alkyl fluorides is best accomplished by:",
+      "options": [
+        {
+          "key": "A",
+          "value": "Sandmeyer’s reaction"
+        },
+        {
+          "key": "B",
+          "value": "Finkelstein reaction"
+        },
+        {
+          "key": "C",
+          "value": "Swarts reaction"
+        },
+        {
+          "key": "D",
+          "value": "Free radical fluorination"
+        }
+      ],
+      "answer": "C",
+      "explanation": "Alkyl fluorides are more conveniently prepared by heating suitable chloro $$-$$ or bromo-alkanes with organic fluorides such as  $$As{F_3},\\,\\,Sb{F_3},\\,\\,Co{F_2},\\,\\,AgF,\\,H{g_2}{F_2}\\,\\,$$ etc.\n<br><br>This reaction is called  <b>Swarts reaction.</b> \n<br><br>$$C{H_3}Br + AgF\\buildrel \\, \\over\n \\longrightarrow C{H_3}F + AgBr$$\n<br><br>$$2C{H_3}C{H_2}Cl + H{g_2}{F_2}\\buildrel \\, \\over\n \\longrightarrow $$ \n<br><br>$$\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,2C{H_3}C{H_2}F + H{g_2}Cl{}_2$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "In S<sub>N</sub>2 reactions, the correct order of reactivity for the following compounds:<br>\nCH<sub>3</sub>Cl, CH<sub>3</sub>CH\n<sub>2</sub>Cl, (CH<sub>3</sub>)<sub>2</sub>CHCl and (CH<sub>3</sub>)<sub>3</sub>CCl is: ",
+      "options": [
+        {
+          "key": "A",
+          "value": "CH<sub>3</sub>CH<sub>2</sub>Cl &gt; CH<sub>3</sub>Cl &gt; (CH<sub>3</sub>)<sub>2</sub>CHCl &gt; (CH<sub>3</sub>)<sub>3</sub>CCl"
+        },
+        {
+          "key": "B",
+          "value": "(CH<sub>3</sub>)<sub>2</sub>CHCl &gt; CH<sub>3</sub>CH<sub>2</sub>Cl &gt; CH<sub>3</sub>Cl &gt; (CH<sub>3</sub>)<sub>3</sub>CCl"
+        },
+        {
+          "key": "C",
+          "value": "CH<sub>3</sub>Cl &gt; (CH<sub>3</sub>)<sub>2</sub>CHCl &gt; CH<sub>3</sub>CH<sub>2</sub>Cl &gt; (CH<sub>3</sub>)<sub>3</sub>CCl"
+        },
+        {
+          "key": "D",
+          "value": "CH3<sub></sub>Cl &gt; CH<sub>3</sub>CH<sub>2</sub>Cl &gt; (CH<sub>3</sub>)<sub>2</sub>CHCl &gt; (CH<sub>3</sub>)<sub>3</sub>CCl"
+        }
+      ],
+      "answer": "D",
+      "explanation": "Steric congestion around the carbon atom undergoing the inversion process will slow down the $${S_N}2$$ reaction, hence less congestion faster will the reaction. So, the order is \n<br><br>$$C{H_3}Cl &gt; \\left( {C{H_3}} \\right)C{H_2} - Cl &gt; $$\n<br><br>$$\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,{\\left( {C{H_3}} \\right)_2}CH - Cl &gt; {\\left( {C{H_3}} \\right)_3}CCl$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "What is DDT among the following?",
+      "options": [
+        {
+          "key": "A",
+          "value": "Greenhouse gas"
+        },
+        {
+          "key": "B",
+          "value": "A fertilizer"
+        },
+        {
+          "key": "C",
+          "value": "Biodegradable pollutant"
+        },
+        {
+          "key": "D",
+          "value": "Non–biodegradable pollutant\n"
+        }
+      ],
+      "answer": "D",
+      "explanation": "$$DDT$$ is a non-biodegradable pollutant."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The organic chloro compound, which shows complete stereochemical inversion during a S<sub>N</sub>2 reaction,\nis",
+      "options": [
+        {
+          "key": "A",
+          "value": "(C<sub>2</sub>H<sub>5</sub>)<sub>2</sub>CHC"
+        },
+        {
+          "key": "B",
+          "value": "(CH<sub>3</sub>)<sub>3</sub>CCl "
+        },
+        {
+          "key": "C",
+          "value": "(CH<sub>3</sub>)<sub>2</sub>CHCl "
+        },
+        {
+          "key": "D",
+          "value": "CH<sub>3</sub>Cl"
+        }
+      ],
+      "answer": "D",
+      "explanation": "$${S_N}2$$ reaction is favoured by small groups on the carbon atom attached to halogen.\n<br><br>So, the order of reactivity is \n<br><br>$$C{H_3}Cl &gt; {\\left( {C{H_3}} \\right)_2}CHCl &gt; $$ \n<br><br>$$\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,{\\left( {C{H_3}} \\right)_3}CCl &gt; {\\left( {C{}_2{H_5}} \\right)_2}CHCl$$ \n<br><br><b>NOTE :</b> $${S_N}2$$ reaction is shown to maximum extent by primary halides. The only primary halides given is $$C{H_3}Cl,$$ so the correct answer is $$(d). $$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Which of the following is the correct order of decreasing S<sub>N</sub>2 reactivity? ",
+      "options": [
+        {
+          "key": "A",
+          "value": "RCH<sub>2</sub>X &gt; R<sub>3</sub>CX &gt; R<sub>2</sub>CHX"
+        },
+        {
+          "key": "B",
+          "value": "RCH<sub>2</sub>X &gt; R<sub>2</sub>CHX &gt;  \nR<sub>3</sub>CX"
+        },
+        {
+          "key": "C",
+          "value": "R<sub>3</sub>CX &gt;  R<sub>2</sub>CHX &gt; RCH<sub>2</sub>X"
+        },
+        {
+          "key": "D",
+          "value": "R<sub>2</sub>CHX &gt; R<sub>3</sub>CX &gt; RCH<sub>2</sub>X"
+        }
+      ],
+      "answer": "B",
+      "explanation": "In $${S_N}2$$ mechanism transition state is pentavelent. For bulky alkyl group it will have sterical hinderance and smaller alkyl group will favour the $${S_N}2$$ mechanism. So the decreasing order of reactivity of alkyl halides is $$RC{H_2}X &gt; {R_2}CHX &gt; {R_3}CX$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Tertiary alkyl halides are practically inert to substitution by S<sub>N</sub>2 mechanism because of ",
+      "options": [
+        {
+          "key": "A",
+          "value": "insolubility"
+        },
+        {
+          "key": "B",
+          "value": "instability"
+        },
+        {
+          "key": "C",
+          "value": "inductive effect"
+        },
+        {
+          "key": "D",
+          "value": "steric hindrance"
+        }
+      ],
+      "answer": "D",
+      "explanation": "Due to steric hindrance tertiary alkyl halide do not react by $${S_N}2$$ mechanism they react by $${S_N}1$$ mechanism. $${S_N}2$$ mechanism is followed in case of primary and secondary alkyl halides .\n<br><br>The order is \n<br><br>$$C{H_2} - X &gt; C{H_3} - C{H_2}X &gt; {\\left( {C{H_3}} \\right)_2}CH.X &gt; {\\left( {C{H_3}} \\right)_3}C - X$$ "
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Alkyl halides react with dialkyl copper reagents to give ",
+      "options": [
+        {
+          "key": "A",
+          "value": "alkenes"
+        },
+        {
+          "key": "B",
+          "value": "alkyl copper halides"
+        },
+        {
+          "key": "C",
+          "value": "alkanes"
+        },
+        {
+          "key": "D",
+          "value": "alkenyl halides"
+        }
+      ],
+      "answer": "C",
+      "explanation": "In Corey House synthesis of alkanes alkyl halide react with lithium dialkyl cuprate\n<br><br>$$R'X + Li{R_2}Cu\\buildrel \\, \\over\n \\longrightarrow R' - R + RCu + LiX$$ "
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Bottles containing C<sub>6</sub>H<sub>5</sub>l and C<sub>6</sub>H<sub>5</sub>CH<sub>2</sub>I lost their original labels. They were labelled A and B for testing A and B were separately taken in test tubes and boiled with NaOH solution. The end solution in each tube was made acidic with dilute HNO<sub>3</sub> and then some AgNO<sub>3</sub> solution was added. Substance B gave a yellow precipitate. Which one of the following statements is true for this experiment?",
+      "options": [
+        {
+          "key": "A",
+          "value": "A and C<sub>6</sub>H<sub>5</sub>CH<sub>2</sub>I"
+        },
+        {
+          "key": "B",
+          "value": "B and C<sub>6</sub>H<sub>5</sub>I"
+        },
+        {
+          "key": "C",
+          "value": "Addition of HNO<sub>3</sub> was unnecessary"
+        },
+        {
+          "key": "D",
+          "value": "A was C<sub>6</sub>H<sub>5</sub>I"
+        }
+      ],
+      "answer": "D",
+      "explanation": "$${C_6}{H_5}I\\,\\,\\buildrel {NaOH} \\over\n \\longrightarrow \\,\\,{C_6}{H_5}ONa\\,\\,\\buildrel {HN{O_3}/{H^ + }} \\over\n \\longrightarrow $$ \n<br><br>$${C_6}{H_5}OH\\,\\,\\buildrel {AgN{O_3}} \\over\n \\longrightarrow \\,\\,$$ No yellow ppt.\n<br><br>$${C_6}{H_5}C{H_2}I\\,\\,\\buildrel {NaOH} \\over\n \\longrightarrow \\,\\,{C_6}{H_5}C{H_2}ONa\\,\\,\\buildrel {HN{O_3}/{H^ + }} \\over\n \\longrightarrow $$\n<br><br>$${C_6}{H_5}C{H_2}OH\\,\\,\\buildrel {AgN{O_3}} \\over\n \\longrightarrow .$$  $$\\,\\,\\,$$ yellow ppt.\n<br><br>Since benzyl iodide gives yellow ppt. hence this is  compound $$B$$ and $$A$$ was phenyl iodide $$\\left( {{C_6}{H_5}I} \\right).$$"
+    },
+    {
+      "_type": "numerical",
+      "body": "A chloro compound \"A\".<br><br>(i) forms aldehydes on ozonolysis followed by the hydrolysis.<br><br>(ii) when vaporized completely 1.53 g of A, gives 448 mL of vapour at STP.<br><br>The number of carbon atoms in a molecule of compound A is ___________.",
+      "answer": "3",
+      "explanation": "448 ml of A $$\\Rightarrow$$ 1.53 gm A<br><br>22400 ml of A $$\\Rightarrow$$ $${{1.53} \\over {448}}$$ $$\\times$$ 22400 gm A = 76.5 Agm<br><br>$$\\mathop {{H_3}CHC - CH - Cl}\\limits_{It\\,has\\,3\\,carbon\\,atoms} \\mathrel{\\mathop{\\kern0pt\\longrightarrow}\n\\limits_{Zn/{H_2}O}^{{O_3}}} \\mathop {C{H_3} - CH = O}\\limits_{Aldehyde} $$<br><br>&amp; MM is 36 + 5 + 35.5 = 76.5"
+    }
+  ]
+}

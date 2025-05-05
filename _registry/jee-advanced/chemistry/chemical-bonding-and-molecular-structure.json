@@ -1,0 +1,1099 @@
+{
+  "_index": {
+    "name": "Chemical Bonding & Molecular Structure"
+  },
+  "_children": [
+    {
+      "_type": "single_mcq",
+      "body": "Assuming 2s – 2p mixing is NOT operative, the paramagnetic species among the following is",
+      "options": [
+        {
+          "key": "A",
+          "value": "Be<sub>2</sub>"
+        },
+        {
+          "key": "B",
+          "value": "B<sub>2</sub>"
+        },
+        {
+          "key": "C",
+          "value": "C<sub>2</sub>"
+        },
+        {
+          "key": "D",
+          "value": "N<sub>2</sub>"
+        }
+      ],
+      "answer": "C",
+      "explanation": "<p>Write the molecular orbital electronic configuration keeping in mind that there is no $2 s-2 p$ mixing, then if highest occupied molecular orbital contain unpaired electron then molecule is paramagnetic otherwise diamagnetic.</p>\n\n<p>Note: Since there is no mixing of $2 s$ and $2 p$ orbitals of each of the atom in a diatomic molecule, the energy of bonding molecular orbital $2 p z$, i.e., $2 p$ is less than that of bonding molecular orbital of $2 p x$ and $2 p y$, i.e., $\\left(\\pi_{2 p x}^*\\right.$ and $\\left.\\pi_{2 p y}^*\\right)$.</p>\n\n<p>$$ \\therefore $$ The order of molecular orbital energy levels, i.e., bonding and anti-bonding energy levels is as follows:</p>\n\n<p>$$ \\begin{aligned} \\left(\\sigma_{1 s}\\right)\\left(\\sigma_{1 s}^*\\right)\\left(\\sigma_{2 s}\\right)\\left(\\sigma_{2 s}^*\\right)\\left(\\sigma_{2 p z}\\right)\\left(\\pi_{2 p x}\\right. & \\left.\\equiv \\pi_{2 p y}\\right) \\left(\\pi_{2 p x}^*\\right.  \\left.\\equiv \\pi_{2 p y}^*\\right)\\left(\\sigma_{2 p z}^*\\right) \\end{aligned} $$</p>\n\n<p>(A) Total number (no.) of electrons in $\\mathrm{Be}_2=4+4=$ 8. The electronic configuration of $\\mathrm{Be}_2$ is:</p>\n\n<p>$$ \\left(\\sigma_{1 s}\\right)^2\\left(\\sigma_{1 s}^*\\right)^2\\left(\\sigma_{2 s}\\right)^2\\left(\\sigma_{2 s}^*\\right)^2 $$</p>\n\n<p>All the electrons in $\\mathrm{Be}_2$ are paired up, $\\mathrm{Be}_2$ is diamagnetic.</p>\n\n<p>(B) Total number (no.) of electrons in $\\mathrm{B}_2=5+5=$ 10. The electronic configuration of $B_2$ is:\n\n<br/><br/>$\\left(\\sigma_{1 s}\\right)^2\\left(\\sigma_{1 s}^*\\right)^2\\left(\\sigma_{2 s}\\right)^2\\left(\\sigma_{2 s}^*\\right)^2\\left(\\sigma_{2 p z}\\right)^2$</p>\n\n<p>All the electrons in $B_2$ are paired up, $B_2$ is diamagnetic.</p>\n\n<p>(C) Total no. of electrons in $\\mathrm{C}_2=6+6=12$ The electronic configuration of $\\mathrm{C}_2$ is:</p>\n\n<p>$$ \\left(\\sigma_{1 s}\\right)^2\\left(\\sigma_{1 s}^*\\right)^2\\left(\\sigma_{2 s}\\right)^2\\left(\\sigma_{2 s}^*\\right)^2\\left(\\sigma_{2 p z}\\right)^2\\left(\\pi_{2 p x}^{* 1} \\equiv \\pi_{2 p y}^{* 1}\\right) $$</p>\n\n<p>There are two unpaired electrons in doubly degenerate.</p>\n\n<p>$\\pi_{2 p x}$ and $\\pi_{2 p y} \\mathrm{C}_2$ is paramagnetic.</p>\n\n<p>(D) Total no. of electrons in $\\mathrm{N}_2=7+7=14$</p>\n\n<p>The electronic configuration of $\\mathrm{N}_2$ is:</p>\n\n<p>$$ \\left(\\sigma_{1 s}\\right)^2\\left(\\sigma_{1 s}^*\\right)^2\\left(\\sigma_{2 s}\\right)^2\\left(\\sigma_{2 s}^*\\right)^2\\left(\\sigma_{2 p z}\\right)^2\\left(\\pi_{2 p x}^{* 2} \\equiv \\pi_{2 p y}^{* 2}\\right) $$</p>\n\n<p>All the electrons in $\\mathrm{N}_2$ are paired up; $\\mathrm{N}_2$ is diamagnetic.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Assuming that Hund’s rule is violated, the bond order and magnetic nature of the diatomic molecule B<sub>2</sub> is",
+      "options": [
+        {
+          "key": "A",
+          "value": "1 and diamagnetic"
+        },
+        {
+          "key": "B",
+          "value": "0 and diamagnetic"
+        },
+        {
+          "key": "C",
+          "value": "1 and paramagnetic"
+        },
+        {
+          "key": "D",
+          "value": "0 and paramagnetic"
+        }
+      ],
+      "answer": "A",
+      "explanation": "<p>Molecular orbital configuration of B<sub>2</sub> (10 electrons) is </p>\n<p>$${\\sigma _{1{s^2}}}\\,\\sigma _{1{s^2}}^ * \\,\\,{\\sigma _{2{s^2}}}\\,\\,\\sigma _{2{s^2}}^ * \\,\\,{\\pi _{2p_x^1}} = {\\pi _{2p_y^1}}$$</p>\n<p>Here in B<sub>2</sub>, 2 unpaired electrons present.</p>\n<p>Since the Hund's rule is violated, two electrons are placed in $\\pi 2 p_x$ molecular orbital, so</p>\n<p>$$ \\mathrm{B}_2(10): {\\sigma _{1{s^2}}}\\,\\sigma _{1{s^2}}^ * \\,\\,{\\sigma _{2{s^2}}}\\,\\,\\sigma _{2{s^2}}^ * \\,\\,{\\pi _{2p_x^2}} $$</p>\n<p>Thus, bond order $=\\frac{6-4}{2}=1$.</p>\n<p>As there are no unpaired electrons, the nature is diamagnetic.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Match each of the diatomic molecules in Column I with its property/properties in Column II:</p>\n<p><style type=\"text/css\">\n.tg  {border-collapse:collapse;border-spacing:0;}\n.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}\n.tg .tg-7btt{border-color:inherit;font-weight:bold;text-align:center;vertical-align:top}\n.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}\n.tg .tg-fymr{border-color:inherit;font-weight:bold;text-align:left;vertical-align:top}\n</style>\n<table class=\"tg\" style=\"undefined;table-layout: fixed; width: 635px\">\n<colgroup>\n<col style=\"width: 50px\">\n<col style=\"width: 240px\">\n<col style=\"width: 51px\">\n<col style=\"width: 294px\">\n</colgroup>\n<thead>\n  <tr>\n    <th class=\"tg-c3ow\"></th>\n    <th class=\"tg-7btt\">Column I</th>\n    <th class=\"tg-c3ow\"></th>\n    <th class=\"tg-7btt\">Column II</th>\n  </tr>\n</thead>\n<tbody>\n  <tr>\n    <td class=\"tg-7btt\">(A)</td>\n    <td class=\"tg-0pky\">$${B_2}$$</td>\n    <td class=\"tg-7btt\">(P)</td>\n    <td class=\"tg-0pky\">Paramagnetic</td>\n  </tr>\n  <tr>\n    <td class=\"tg-7btt\">(B)</td>\n    <td class=\"tg-0pky\">$${N_2}$$</td>\n    <td class=\"tg-7btt\">(Q)</td>\n    <td class=\"tg-0pky\">Undergoes oxidation</td>\n  </tr>\n  <tr>\n    <td class=\"tg-7btt\">(C)</td>\n    <td class=\"tg-0pky\">$$O_2^ - $$</td>\n    <td class=\"tg-7btt\">(R)</td>\n    <td class=\"tg-0pky\">Undergoes reduction</td>\n  </tr>\n  <tr>\n    <td class=\"tg-7btt\">(D)</td>\n    <td class=\"tg-0pky\">$${O_2}$$</td>\n    <td class=\"tg-7btt\">(S)</td>\n    <td class=\"tg-0pky\">Bond order $$\\ge$$ 2</td>\n  </tr>\n  <tr>\n    <td class=\"tg-fymr\"></td>\n    <td class=\"tg-0pky\"></td>\n    <td class=\"tg-7btt\">(T)</td>\n    <td class=\"tg-0pky\">Mixing of $$s$$ and $$p$$ orbitals</td>\n  </tr>\n</tbody>\n</table></p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$\\mathrm{(A)\\to(P),(Q),(R),(T);(B)\\to(S),(T);(C)\\to(P),(Q);(D)\\to(P),(Q),(S)}$$"
+        },
+        {
+          "key": "B",
+          "value": "$$\\mathrm{(A)\\to(P),(S),(R),(T);(B)\\to(S),(T);(C)\\to(P),(Q);(D)\\to(P),(T),(S)}$$"
+        },
+        {
+          "key": "C",
+          "value": "$$\\mathrm{(A)\\to(Q),(R),(T);(B)\\to(P),(T);(C)\\to(P),(Q);(D)\\to(T),(Q),(S)}$$"
+        },
+        {
+          "key": "D",
+          "value": "$$\\mathrm{(A)\\to(P),(R),(T);(B)\\to(Q),(T);(C)\\to(S),(Q);(D)\\to(P),(Q),(S)}$$"
+        }
+      ],
+      "answer": "A",
+      "explanation": "<p>(A) $${B_2} \\to \\sigma 1{s^2}\\,\\sigma  * 1{s^2}\\,\\sigma 2{s^2}\\,\\sigma  * 2{s^2}\\pi 2p_x^1 = \\pi 2p_y^1$$</p>\n<p>It is paramagnetic due to two unpaired electrons. The bond order is</p>\n<p>$${{{N_b} - {N_a}} \\over 2} = {{6 - 4} \\over 2} = 1$$</p>\n<p>The gain of electron increases bond order, so reduction is possible.</p>\n<p>(B) $${N_2} \\to \\sigma 1{s^2}\\,\\sigma  * 1{s^2}\\,\\sigma 2{s^2}\\,\\sigma  * 2{s^2}\\pi 2p_x^2 = \\pi 2p_y^2\\sigma 2p_z^2$$</p>\n<p>There are no unpaired electrons. Bond order is</p>\n<p>$${{{N_b} - {N_a}} \\over 2} = {{10 - 4} \\over 2} = {6 \\over 2} = 3$$</p>\n<p>Mixing of 2s and 2p orbitals is possible because of similar energies.</p>\n<p>(C) $$O_2^ -  \\to \\sigma 1{s^2}\\,\\sigma  * 1{s^2}\\,\\sigma 2{s^2}\\,\\sigma  * 2{s^2}\\sigma 2p_z^2\\pi 2p_x^2 = \\pi 2p_y^2\\,\\pi  * 2p_x^2\\,\\pi  * 2p_y^1$$</p>\n<p>The molecule is paramagnetic due to presence of unpaired electron. Bond order is less than 2.</p>\n<p>$${{{N_b} - {N_a}} \\over 2} = {{10 - 7} \\over 2} = {3 \\over 2}$$</p>\n<p>Loss of electron increases the bond order so oxidation is possible.</p>\n<p>(D) $$O_2^{} \\to \\sigma 1{s^2}\\,\\sigma  * 1{s^2}\\,\\sigma 2{s^2}\\,\\sigma  * 2{s^2}\\sigma 2p_z^2\\pi 2p_x^2 = \\pi 2p_y^2\\,\\pi  * 2p_x^1\\,\\pi  * 2p_y^1$$</p>\n<p>The molecule is paramagnetic due to presence of unpaired electrons. Bond order is</p>\n<p>$${{{N_b} - {N_a}} \\over 2} = {{10 - 6} \\over 2} = {4 \\over 2} = 2$$</p>\n<p>Loss of electron causes increase in bond order, so it undergoes oxidation.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The species having bond order different from that in CO is",
+      "options": [
+        {
+          "key": "A",
+          "value": "NO<sup>-</sup>"
+        },
+        {
+          "key": "B",
+          "value": "NO<sup>+</sup>"
+        },
+        {
+          "key": "C",
+          "value": "CN<sup>-</sup>"
+        },
+        {
+          "key": "D",
+          "value": "N<sub>2</sub>"
+        }
+      ],
+      "answer": "A",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Among the following the paramagnetic compound is",
+      "options": [
+        {
+          "key": "A",
+          "value": "Na<sub>2</sub>O<sub>2</sub>"
+        },
+        {
+          "key": "B",
+          "value": "O<sub>3</sub>"
+        },
+        {
+          "key": "C",
+          "value": "N<sub>2</sub>O"
+        },
+        {
+          "key": "D",
+          "value": "KO<sub>2</sub>"
+        }
+      ],
+      "answer": "D",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Which species has the maximum number of lone pair of electrons on the central atom?",
+      "options": [
+        {
+          "key": "A",
+          "value": "[ClO<sub>3</sub>]<sup>-</sup>"
+        },
+        {
+          "key": "B",
+          "value": "XeF<sub>4</sub>"
+        },
+        {
+          "key": "C",
+          "value": "SF<sub>4</sub>"
+        },
+        {
+          "key": "D",
+          "value": "[I<sub>3</sub>]<sup>-</sup>"
+        }
+      ],
+      "answer": "D",
+      "explanation": "<p>To determine which species has the maximum number of lone pairs of electrons on the central atom, we'll examine the electron configuration of each molecule's central atom:</p>\n\n<p><b>Option A: $$[ClO_3]^-$$</b></p>\n\n<p>The central atom is chlorine (Cl).</p>\n\n<p>Chlorine has 7 valence electrons. In the $$[ClO_3]^-$$ ion, chlorine forms three bonds with oxygen atoms and there is an additional negative charge (one extra electron). Thus, chlorine has:</p>\n\n<p>$$7 + 1 - 3 = 5$$ valence electrons left, which form 2.5 lone pairs. However, due to the requirement to minimize formal charges, typically chlorine in $$[ClO_3]^-$$ is involved in resonance structures reducing the average lone pairs per resonance structure to 1.</p>\n\n<p>So, $$[ClO_3]^-$$ has 1 lone pair on the central atom.</p>\n\n<p><b>Option B: $$XeF_4$$</b></p>\n\n<p>The central atom is xenon (Xe).</p>\n\n<p>Xenon has 8 valence electrons. In $$XeF_4$$, xenon forms four bonds with four fluorine atoms. Thus, xenon has:</p>\n\n<p>$$8 - 4 = 4$$ valence electrons left, which form 2 lone pairs.</p>\n\n<p>So, $$XeF_4$$ has 2 lone pairs on the central atom.</p>\n\n<p><b>Option C: $$SF_4$$</b></p>\n\n<p>The central atom is sulfur (S).</p>\n\n<p>Sulfur has 6 valence electrons. In $$SF_4$$, sulfur forms four bonds with four fluorine atoms. Thus, sulfur has:</p>\n\n<p>$$6 - 4 = 2$$ valence electrons left, which form 1 lone pair.</p>\n\n<p>So, $$SF_4$$ has 1 lone pair on the central atom.</p>\n\n<p><b>Option D: $$[I_3]^-$$</b></p>\n\n<p>The central atom is iodine (I).</p>\n\n<p>Iodine has 7 valence electrons. In the $$[I_3]^-$$ ion, iodines form a linear structure where the central iodine forms two bonds with two other iodine atoms and there is an additional negative charge (one extra electron). Thus, the central iodine has:</p>\n\n<p>$$7 + 1 - 2 = 6$$ valence electrons left, which form 3 lone pairs.</p>\n\n<p>So, $$[I_3]^-$$ has 3 lone pairs on the central atom.</p>\n\n<p>Hence, the species with the maximum number of lone pairs of electrons on the central atom is:</p>\n\n<p><b>Option D: $$[I_3]^-$$</b></p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "According to molecular orbital theory which of the following statement about the magnetic character and bond order is correct regarding $$O_2^+$$",
+      "options": [
+        {
+          "key": "A",
+          "value": "Paramagnetic and Bond order &lt; O<sub>2</sub>"
+        },
+        {
+          "key": "B",
+          "value": "Paramagnetic and Bond order &gt; O<sub>2</sub>"
+        },
+        {
+          "key": "C",
+          "value": "Diamagnetic and Bond order &lt; O<sub>2</sub>"
+        },
+        {
+          "key": "D",
+          "value": "Diamagnetic and Bond order &gt; O<sub>2</sub>"
+        }
+      ],
+      "answer": "B",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Which of the following molecular species has unpaired electrons(s)?",
+      "options": [
+        {
+          "key": "A",
+          "value": "N<sub>2</sub>"
+        },
+        {
+          "key": "B",
+          "value": "F<sub>2</sub>"
+        },
+        {
+          "key": "C",
+          "value": "$$O_2^-$$"
+        },
+        {
+          "key": "D",
+          "value": "$$O_2^{2-}$$"
+        }
+      ],
+      "answer": "C",
+      "explanation": "<p>To determine which molecular species have unpaired electrons, let's examine the electron configurations of each species using molecular orbital (MO) theory. The presence of unpaired electrons can be deduced from the electron filling in the molecular orbitals.</p>\n\n<p><strong>Option A: N<sub>2</sub></strong></p>\n\n<p>For nitrogen diatomic (N<sub>2</sub>), each nitrogen atom has 7 electrons, so the total number of electrons is 14. According to the molecular orbital theory, the electrons fill the molecular orbitals in the following order:  $$\\sigma_{1s}$$, $$\\sigma_{1s}^*$$, $$\\sigma_{2s}$$, $$\\sigma_{2s}^*$$, $$\\pi_{2p_x}$$ = $$\\pi_{2p_y}$$, $$\\sigma_{2p_z}$$.</p>\n\n<p>Filling these orbitals results in no unpaired electrons:</p>\n\n<p>$$\\sigma_{1s}^{2} \\sigma_{1s}^{*2} \\sigma_{2s}^{2} \\sigma_{2s}^{*2} \\pi_{2p_x}^2 = \\pi_{2p_y}^2 \\sigma_{2p_z}^2$$</p>\n\n<p>So, N<sub>2</sub> has no unpaired electrons.</p>\n\n<p><strong>Option B: F<sub>2</sub></strong></p>\n\n<p>For fluorine diatomic (F<sub>2</sub>), each fluorine atom has 9 electrons, resulting in a total of 18 electrons. They fill the orbitals in the following order: $$\\sigma_{1s}$$, $$\\sigma_{1s}^*$$, $$\\sigma_{2s}$$, $$\\sigma_{2s}^*$$, $$\\pi_{2p_x}$$ = $$\\pi_{2p_y}$$, $$\\sigma_{2p_z}$$, $$\\pi_{2p_x}^{*}$$ = $$\\pi_{2p_y}^{*}$$, $$\\sigma_{2p_z}^*$$.</p>\n\n<p>Filling these orbitals also results in no unpaired electrons:</p>\n\n<p>$$\\sigma_{1s}^{2} \\sigma_{1s}^{*2} \\sigma_{2s}^{2} \\sigma_{2s}^{*2} \\pi_{2p_x}^2 = \\pi_{2p_y}^2 \\sigma_{2p_z}^2 \\pi_{2p_x}^{*2} = \\pi_{2p_y}^{*2}$$</p>\n\n<p>So, F<sub>2</sub> has no unpaired electrons.</p>\n\n<p><strong>Option C: $$O_2^-$$</strong></p>\n\n<p>The dioxygen anion ($$O_2^-$$) has one extra electron compared to neutral O<sub>2</sub>, which normally has 16 electrons. Hence, $$O_2^-$$ has 17 electrons. These electrons fill the orbitals in the following order: $$\\sigma_{1s}$$, $$\\sigma_{1s}^*$$, $$\\sigma_{2s}$$, $$\\sigma_{2s}^*$$, $$\\pi_{2p_x}$$ = $$\\pi_{2p_y}$$, $$\\sigma_{2p_z}$$, $$\\pi_{2p_x}^{*}$$ = $$\\pi_{2p_y}^{*}$$, $$\\sigma_{2p_z}^*$$.</p>\n\n<p>Filling these orbitals, the last electron will be placed in one of the degenerate $$\\pi_{2p_x}^{*}$$ or $$\\pi_{2p_y}^{*}$$ orbitals, resulting in one unpaired electron:</p>\n\n<p>$$\\sigma_{1s}^{2} \\sigma_{1s}^{*2} \\sigma_{2s}^{2} \\sigma_{2s}^{*2} \\pi_{2p_x}^2 = \\pi_{2p_y}^2 \\sigma_{2p_z}^2 \\pi_{2p_x}^{*2} = \\pi_{2p_y}^{*1}$$</p>\n\n<p>So, $$O_2^-$$ has one unpaired electron.</p>\n\n<p><strong>Option D: $$O_2^{2-}$$</strong></p>\n\n<p>The peroxide ion ($$O_2^{2-}$$) has two extra electrons compared to neutral O<sub>2</sub>, giving it a total of 18 electrons. These electrons fill the orbitals as follows: $$\\sigma_{1s}$$, $$\\sigma_{1s}^*$$, $$\\sigma_{2s}$$, $$\\sigma_{2s}^*$$, $$\\pi_{2p_x}$$ = $$\\pi_{2p_y}$$, $$\\sigma_{2p_z}$$, $$\\pi_{2p_x}^{*}$$ = $$\\pi_{2p_y}^{*}$$, $$\\sigma_{2p_z}^*$$.</p>\n\n<p>Filling these orbitals results in no unpaired electrons:</p>\n\n<p>$$\\sigma_{1s}^{2} \\sigma_{1s}^{*2} \\sigma_{2s}^{2} \\sigma_{2s}^{*2} \\pi_{2p_x}^2 = \\pi_{2p_y}^2 \\sigma_{2p_z}^2 \\pi_{2p_x}^{*2} = \\pi_{2p_y}^{*2}$$</p>\n\n<p>So, $$O_2^{2-}$$ has no unpaired electrons.</p>\n\n<p>Based on the molecular orbital theory, the molecular species that has unpaired electron(s) is <strong>Option C: $$O_2^-$$</strong>.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The common features among the species CN<sup>-</sup>, CO and NO<sup>+</sup> are :",
+      "options": [
+        {
+          "key": "A",
+          "value": "bond order three and isoelectronic"
+        },
+        {
+          "key": "B",
+          "value": "bond order three and weak field ligands"
+        },
+        {
+          "key": "C",
+          "value": "bond order two and $$\\pi$$-acceptors"
+        },
+        {
+          "key": "D",
+          "value": "isoelectronic and weak field ligands"
+        }
+      ],
+      "answer": "A",
+      "explanation": "<p>To answer the question about the common features among the species CN<sup>-</sup>, CO, and NO<sup>+</sup>, let's first understand the electronic configurations and bond orders of each species.</p>\n\n<p><strong>1. Electronic Configurations:</strong></p>\n\n<p>- CN<sup>-</sup>: The cyanide ion (CN<sup>-</sup>) has an electronic configuration similar to N<sub>2</sub> because CN has 10 electrons (from C and N); adding one more electron for the negative charge brings it to 11 electrons.</p>\n\n<p>- CO: Carbon monoxide (CO) has a total of 10 valence electrons (4 from Carbon and 6 from Oxygen).</p>\n\n<p>- NO<sup>+</sup>: The nitrosonium ion (NO<sup>+</sup>) has a total of 10 electrons as well, considering the positive charge removes one electron from the original 11 valence electrons of NO.</p>\n\n<p>Thus, all three species CN<sup>-</sup>, CO, and NO<sup>+</sup> are isoelectronic, meaning they all have the same number of electrons (10 valence electrons).</p>\n\n<p><strong>2. Bond Order:</strong> The bond order is the number of chemical bonds between a pair of atoms. It is calculated as half the difference between the number of bonding electrons and the number of antibonding electrons. All three species have a bond order of 3, as can be seen from their molecular orbital diagrams.</p>\n\n<p><strong>3. Ligand Field Strength:</strong></p>\n\n<p>CO and CN<sup>-</sup> are generally considered strong field ligands due to their ability to partake in back-donation, where electrons from the metal center can be donated back into the empty π* orbitals of the ligand. NO<sup>+</sup> is also a reasonably strong field ligand due to its ability to accept electrons.</p>\n\n<p><strong>Conclusion:</strong></p>\n\n<p>Based on the above analysis, the correct option is:</p>\n\n<p><strong>Option A: bond order three and isoelectronic</strong></p>\n\n<p>This option accurately describes the common features among CN<sup>-</sup>, CO, and NO<sup>+</sup>.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The correct order of increasing C - O bond length of CO, $$CO_3^{2-}$$, CO<sub>2</sub> is",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$CO_3^{2-}$$ &lt; CO<sub>2</sub> &lt; CO"
+        },
+        {
+          "key": "B",
+          "value": "CO<sub>2</sub> &lt; $$CO_3^{2-}$$ &lt; CO"
+        },
+        {
+          "key": "C",
+          "value": "CO &lt; $$CO_3^{2-}$$ &lt; CO<sub>2</sub>"
+        },
+        {
+          "key": "D",
+          "value": "CO &lt; CO<sub>2</sub> &lt; $$CO_3^{2-}$$"
+        }
+      ],
+      "answer": "D",
+      "explanation": "<p>To determine the order of increasing C-O bond lengths for CO, $$CO_3^{2-}$$ and CO<sub>2</sub>, it's essential to understand the types of bonding in these molecules and ions.</p>\n\n<p><strong>1. Carbon Monoxide (CO):</strong></p>\n\n<p>Carbon monoxide has a triple bond between carbon and oxygen. Triple bonds are stronger and shorter compared to single and double bonds. Thus, CO has a very short bond length.</p>\n\n<p><strong>2. Carbon Dioxide (CO<sub>2</sub>):</strong></p>\n\n<p>In CO<sub>2</sub>, carbon is double-bonded to each oxygen atom. Double bonds are longer than triple bonds but shorter than single bonds. Therefore, the C-O bond length in CO<sub>2</sub> is longer than in CO but shorter than in a molecule with single bonds.</p>\n\n<p><strong>3. Carbonate Ion ($$CO_3^{2-}$$):</strong></p>\n\n<p>In the carbonate ion, the bond order for each C-O bond is 1.33. This is because the carbonate ion has a resonance structure where one carbon-oxygen bond is a double bond and the others are single bonds. Due to the resonance, the effective bond order between carbon and oxygen is between a single and a double bond, making its bond length longer than that in CO<sub>2</sub> and shorter than a pure single bond.</p>\n\n<p>Therefore, the increasing order of C-O bond length is:</p>\n\n<p>CO &lt; CO<sub>2</sub> &lt; $$CO_3^{2-}$$</p>\n\n<p>The correct option is:</p>\n\n<p>Option D</p>\n\n<p>CO &lt; CO<sub>2</sub> &lt; $$CO_3^{2-}$$</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Read the following Assertion and Reason and answer as per the options given below<br><br>\n<b>Assetion: </b> LiCl is predominantly a covalent compound<br><br>\n<b>Reason :</b> Electronegativity difference between Li and Cl is too small",
+      "options": [
+        {
+          "key": "A",
+          "value": "If both assertion and reason are correct and reason is the correct explanation of the assertion"
+        },
+        {
+          "key": "B",
+          "value": "If both assertion and reason are correct and reason is not the correct explanation of the assertion"
+        },
+        {
+          "key": "C",
+          "value": "If assertion is correct but reason is incorrect"
+        },
+        {
+          "key": "D",
+          "value": "If assertion is incorrect but reason is correct"
+        }
+      ],
+      "answer": "C",
+      "explanation": "<p>The correct answer is <strong>Option C: If assertion is correct but reason is incorrect</strong>.</p>\n\n<strong>Explanation:</strong>\n\n<ul>\n<li><strong>Assertion:</strong> LiCl (Lithium Chloride) is indeed predominantly a covalent compound. This is due to the high polarizing power of the small lithium ion (Li⁺), which distorts the electron cloud of the larger chloride ion (Cl⁻), resulting in a significant degree of electron sharing and hence covalency.</li><br>\n<li><strong>Reason:</strong> The reason provided is incorrect. The electronegativity difference between lithium (Li) and chlorine (Cl) is substantial. It is this difference in electronegativity that creates the polarity in the Li-Cl bond, making it an ionic bond with some covalent character.</li>\n</ul>\n<strong>Key Point:</strong> The high polarizing power of the Li⁺ ion, due to its small size and high charge density, is the main reason for the covalent character of LiCl, not the small electronegativity difference.\n\n<p></p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The critical temperature of water is higher than that of O<sub>2</sub> because the H<sub>2</sub>O molecule has",
+      "options": [
+        {
+          "key": "A",
+          "value": "fewer electrons than O<sub>2</sub>"
+        },
+        {
+          "key": "B",
+          "value": "two covalent bonds"
+        },
+        {
+          "key": "C",
+          "value": "V-shape"
+        },
+        {
+          "key": "D",
+          "value": "dipole moment"
+        }
+      ],
+      "answer": "D",
+      "explanation": "<p>The critical temperature of a substance is the temperature above which it cannot be liquefied, regardless of the pressure applied. It depends on the intermolecular forces within the substance. To understand why the critical temperature of water (H<sub>2</sub>O) is higher than that of oxygen (O<sub>2</sub>), we need to examine the characteristics and interactions of these molecules.</p>\n\n<p>Let’s break down the options:</p>\n\n<p><strong>Option A: Fewer electrons than O<sub>2</sub></strong> <br>\n\n<p>This option is incorrect. The number of electrons in a molecule does not directly determine the critical temperature. While electron count can affect molecular interactions to an extent, it is not the primary reason for the difference in critical temperatures between H<sub>2</sub>O and O<sub>2</sub>. </p></p>\n\n<p><strong>Option B: Two covalent bonds</strong><br>\n\n<p>Although H<sub>2</sub>O does have two covalent bonds, this feature alone does not explain its higher critical temperature compared to O<sub>2</sub>. The nature of the bonds plays a more crucial role, particularly the type of intermolecular forces these bonds enable. </p></p>\n\n<p><strong>Option C: V-shape</strong><br>\n\n<p>H<sub>2</sub>O indeed has a V-shaped (or bent) molecular geometry, while O<sub>2</sub> is linear. This V-shape contributes to some properties of water, like its polarity, but it is not the most direct reason for the higher critical temperature.</p></p>\n\n<p><strong>Option D: Dipole moment</strong><br>\n\n<p>This is the correct answer. H<sub>2</sub>O has a significant dipole moment due to its molecular geometry and the difference in electronegativity between hydrogen and oxygen atoms. This results in strong hydrogen bonding between water molecules. Hydrogen bonds are a type of dipole-dipole interaction, which are much stronger than the van der Waals forces (or London dispersion forces) experienced by O<sub>2</sub> molecules. These strong intermolecular hydrogen bonds in water require more energy (higher temperature) to break, resulting in a higher critical temperature.</p></p>\n\n<p>Therefore, the primary reason the critical temperature of water is higher than that of oxygen is due to the strong dipole moment leading to significant hydrogen bonding in water. The correct answer is:</p>\n\n<p><strong>Option D: dipole moment</strong></p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Which one of the following compounds has sp<sup>2</sup> hybridization?",
+      "options": [
+        {
+          "key": "A",
+          "value": "CO<sub>2</sub>"
+        },
+        {
+          "key": "B",
+          "value": "SO<sub>2</sub>"
+        },
+        {
+          "key": "C",
+          "value": "N<sub>2</sub>O"
+        },
+        {
+          "key": "D",
+          "value": "CO"
+        }
+      ],
+      "answer": "B",
+      "explanation": "<p>To determine which of the given compounds has sp<sup>2</sup> hybridization, we need to understand the structure of each molecule and the hybridization of the central atom in each case.</p>\n\n<p><strong>Option A: CO<sub>2</sub></strong></p>\n<p>In carbon dioxide (CO<sub>2</sub>), the carbon atom is the central atom. Carbon forms two double bonds with two oxygen atoms.</p>\n<p>In this configuration, carbon has two regions of electron density (each double bond counts as one region of electron density). According to the Valence Shell Electron Pair Repulsion (VSEPR) theory, this would result in a linear structure with a bond angle of 180 degrees. The hybridization of the carbon atom, in this case, is sp, because it needs two hybrid orbitals to form the two double bonds.</p>\n<p>So, CO<sub>2</sub> does not have sp<sup>2</sup> hybridization.</p>\n\n<p><strong>Option B: SO<sub>2</sub></strong></p>\n<p>In sulfur dioxide (SO<sub>2</sub>), the sulfur atom is the central atom. Sulfur forms two double bonds with two oxygen atoms.</p>\n<p>However, sulfur also has a lone pair of electrons. This results in three regions of electron density around the sulfur atom (two double bonds and one lone pair). According to the VSEPR theory, this configuration leads to a bent molecular shape.</p>\n<p>With three regions of electron density, the hybridization of sulfur is sp<sup>2</sup>. Therefore, SO<sub>2</sub> has sp<sup>2</sup> hybridization.</p>\n\n<p><strong>Option C: N<sub>2</sub>O</strong></p>\n<p>In nitrous oxide (N<sub>2</sub>O), one nitrogen atom is central. The molecule can be arranged as N=N=O, where the central nitrogen forms a double bond with each of the terminal nitrogen and oxygen atoms.</p>\n<p>This gives the central nitrogen two regions of electron density, resulting in linear geometry. The hybridization of the central nitrogen atom here is sp, not sp<sup>2</sup>.</p>\n<p>So, N<sub>2</sub>O does not have sp<sup>2</sup> hybridization.</p>\n\n<p><strong>Option D: CO</strong></p>\n<p>In carbon monoxide (CO), the carbon atom forms a triple bond with the oxygen atom. This involves one sigma bond and two pi bonds, with one lone pair on each atom.</p>\n<p>This gives each atom two regions of electron density, resulting in linear geometry. The hybridization of carbon in CO is also sp.</p>\n<p>So, CO does not have sp<sup>2</sup> hybridization.</p>\n\n<p>Based on the analysis of each option, the correct answer is:</p>\n<p><strong>Option B: SO<sub>2</sub></strong></p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The number and type of bonds between two carbon atoms in CaC<sub>2</sub> are:",
+      "options": [
+        {
+          "key": "A",
+          "value": "one sigma ($$\\sigma$$) and one pi ($$\\pi$$) bonds"
+        },
+        {
+          "key": "B",
+          "value": "one sigma ($$\\sigma$$) and two pi ($$\\pi$$) bonds"
+        },
+        {
+          "key": "C",
+          "value": "one sigma ($$\\sigma$$) and one and a half pi ($$\\pi$$) bonds"
+        },
+        {
+          "key": "D",
+          "value": "one sigma ($$\\sigma$$) bond"
+        }
+      ],
+      "answer": "B",
+      "explanation": "<p>Calcium carbide ($$CaC_2$$) is an ionic compound consisting of $${Ca^{2+}}$$ and carbide ions $${C_2^{2-}}$$. In this compound, the two carbon atoms are bonded together in the carbide ion $${C_2^{2-}}$$. The bonding in the carbide ion involves one sigma ($$\\sigma$$) bond and two pi ($$\\pi$$) bonds, which forms a triple bond between the two carbon atoms.</p>\n\n<p>The reasoning is as follows:</p>\n\n<p>Each carbon atom in the $${C_2^{2-}}$$ ion is sp hybridized, having one sigma ($$\\sigma$$) bond from the overlap of sp hybrid orbitals and two pi ($$\\pi$$) bonds from the lateral overlap of p orbitals. Therefore, the carbide ion $${C_2^{2-}}$$ has a carbon-carbon triple bond.</p>\n\n<p>Thus, the correct option is:</p>\n\n<p>Option B: one sigma ($$\\sigma$$) and two pi ($$\\pi$$) bonds</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Among the following species, identity the isostructural pairs NF<sub>3</sub>, $$NO_3^-$$,  BF<sub>3</sub>, H<sub>3</sub>O<sup>+</sup> , HN<sub>3</sub>",
+      "options": [
+        {
+          "key": "A",
+          "value": "[NF<sub>3</sub>, $$NO_3^-$$] and [BF<sub>3</sub>, H<sub>3</sub>O<sup>+</sup>]"
+        },
+        {
+          "key": "B",
+          "value": "[NF<sub>3</sub>, HN<sub>3</sub>] and [$$NO_3^-$$, BF<sub>3</sub>]"
+        },
+        {
+          "key": "C",
+          "value": "[NF<sub>3</sub>, H<sub>3</sub>O<sup>+</sup>] and [$$NO_3^-$$, BF<sub>3</sub>]"
+        },
+        {
+          "key": "D",
+          "value": "[NF<sub>3</sub>, H<sub>3</sub>O<sup>+</sup>] and [HN<sub>3</sub>, BF<sub>3</sub>]"
+        }
+      ],
+      "answer": "C",
+      "explanation": "<p>To identify the isostructural pairs among the given species, we first need to understand their molecular geometries and the electron-pair arrangements.</p>\n\n<p>1. <strong>NF<sub>3</sub></strong>: Nitrogen trifluoride has a trigonal pyramidal structure due to the presence of one lone pair of electrons on nitrogen. It follows the AX<sub>3</sub>E steric number formula (where A is the central atom, X represents bonded atoms, and E represents lone pairs).</p>\n\n<p>2. <strong>$$NO_3^-$$</strong>: The nitrate ion has a trigonal planar structure. This can be rationalized using VSEPR theory, where it follows the AX<sub>3</sub> steric number formula with no lone pairs on the central nitrogen atom.</p>\n\n<p>3. <strong>BF<sub>3</sub></strong>: Boron trifluoride is also trigonal planar. It conforms to the AX<sub>3</sub> steric number formula with no lone pairs on boron.</p>\n\n<p>4. <strong>H<sub>3</sub>O<sup>+</sup></strong>: The hydronium ion has a trigonal pyramidal structure, similar to NF<sub>3</sub>, with one lone pair of electrons. It follows the AX<sub>3</sub>E formula.</p>\n\n<p>5. <strong>HN<sub>3</sub></strong>: Hydronitrenium ion has a linear or slightly bent structure, depending on how we look at the resonance structures. Overall, it does not share the same geometric configuration with any of the molecules listed above.</p>\n\n<p>From the above analysis:</p>\n\n<ul>\n\n<li><strong>Isostructural Pair 1</strong>: NF<sub>3</sub> and H<sub>3</sub>O<sup>+</sup> (both have a trigonal pyramidal structure)</li>\n\n<li><strong>Isostructural Pair 2</strong>: $$NO_3^-$$ and BF<sub>3</sub> (both have a trigonal planar structure)</li>\n\n</ul>\n\n<p>Therefore, the correct option is:</p>\n\n<p><strong>Option C:</strong></p>\n\n<p>\n\n<p>[NF<sub>3</sub>, H<sub>3</sub>O<sup>+</sup>] and [$$NO_3^-$$, BF<sub>3</sub>].</p>\n\n</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Number of paired electrons in O<sub>2</sub> molecules is",
+      "options": [
+        {
+          "key": "A",
+          "value": "7"
+        },
+        {
+          "key": "B",
+          "value": "8"
+        },
+        {
+          "key": "C",
+          "value": "16"
+        },
+        {
+          "key": "D",
+          "value": "14"
+        }
+      ],
+      "answer": "D",
+      "explanation": "<p>To determine the number of paired electrons in an O<sub>2</sub> molecule, we need to understand its electronic configuration and molecular orbital configuration. Each oxygen atom has an atomic number of 8, so its electron configuration is:</p>\n\n<p>\n$$1s^2 2s^2 2p^4$$\n</p>\n\n<p>When two oxygen atoms form a diatomic O<sub>2</sub> molecule, their atomic orbitals combine to form molecular orbitals. For O<sub>2</sub>, the relevant molecular orbitals and their filling order are:</p>\n\n<p>\n$$\\sigma_{1s}, \\sigma_{1s}^*, \\sigma_{2s}, \\sigma_{2s}^*, \\sigma_{2p_z}, \\pi_{2p_x} = \\pi_{2p_y}, \\pi_{2p_x}^* = \\pi_{2p_y}^*, \\sigma_{2p_z}^*$$\n</p>\n\n<p>Filling these molecular orbitals with the 16 electrons (8 from each oxygen atom) according to the aufbau principle and Hund's rule, we get the following configuration:</p>\n\n<p>\n$$ (\\sigma_{1s})^2 (\\sigma_{1s}^*)^2 (\\sigma_{2s})^2 (\\sigma_{2s}^*)^2 (\\sigma_{2p_z})^2 (\\pi_{2p_x})^2 (\\pi_{2p_y})^2 (\\pi_{2p_x}^*)^1 (\\pi_{2p_y}^*)^1 $$\n</p>\n\n<p>Here’s the breakdown of paired and unpaired electrons:</p>\n\n<ul>\n  <li>$ \\sigma_{1s} $ -> 2 paired electrons</li>\n  <li>$ \\sigma_{1s}^* $ -> 2 paired electrons</li>\n  <li>$ \\sigma_{2s} $ -> 2 paired electrons</li>\n  <li>$ \\sigma_{2s}^* $ -> 2 paired electrons</li>\n  <li>$ \\sigma_{2p_z} $ -> 2 paired electrons</li>\n  <li>$ \\pi_{2p_x} $ -> 2 paired electrons</li>\n  <li>$ \\pi_{2p_y} $ -> 2 paired electrons</li>\n</ul>\n\n<p>The antibonding $ \\pi_{2p_x}^* $ and $ \\pi_{2p_y}^* $ orbitals each have one unpaired electron, but since the question asks for paired electrons, these do not count.</p>\n\n<p>Total number of paired electrons:</p>\n\n<p>\n$$2 ( \\sigma_{1s} ) + 2 ( \\sigma_{1s}^* ) + 2 ( \\sigma_{2s} ) + 2 ( \\sigma_{2s}^* ) + 2 ( \\sigma_{2p_z} ) + 2 ( \\pi_{2p_x} ) + 2 ( \\pi_{2p_y} ) = 14$$\n</p>\n\n<p>Therefore, the number of paired electrons in O<sub>2</sub> molecules is:</p>\n\n<p><strong>Option D: 14</strong></p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Which one is most ionic",
+      "options": [
+        {
+          "key": "A",
+          "value": "P<sub>2</sub>O<sub>5</sub>"
+        },
+        {
+          "key": "B",
+          "value": "CrO<sub>3</sub>"
+        },
+        {
+          "key": "C",
+          "value": "MnO"
+        },
+        {
+          "key": "D",
+          "value": "Mn<sub>2</sub>O<sub>7</sub>"
+        }
+      ],
+      "answer": "C",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Pick out the isoelectronic structures from the following<br>\nI. $$CH_3^+$$ <br>  II. $$H_3O^+$$ <br>\nIII. $$NH_3$$<br>\nIV. $$CH_3^-$$",
+      "options": [
+        {
+          "key": "A",
+          "value": "I and II"
+        },
+        {
+          "key": "B",
+          "value": "III and IV"
+        },
+        {
+          "key": "C",
+          "value": "I and III"
+        },
+        {
+          "key": "D",
+          "value": "II, III and IV"
+        }
+      ],
+      "answer": "D",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The type of hybrid orbitals used by the chlorine atom in $$ClO_2^-$$ is",
+      "options": [
+        {
+          "key": "A",
+          "value": "sp<sup>3</sup>"
+        },
+        {
+          "key": "B",
+          "value": "sp<sup>2</sup>"
+        },
+        {
+          "key": "C",
+          "value": "sp"
+        },
+        {
+          "key": "D",
+          "value": "none of these"
+        }
+      ],
+      "answer": "A",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The cyanide ion, CN<sup>-</sup> and N<sub>2</sub> are isoelectronic, But in contrast to CN<sup>-</sup>, N<sub>2</sub> is chemically inert, because of",
+      "options": [
+        {
+          "key": "A",
+          "value": "low bond energy"
+        },
+        {
+          "key": "B",
+          "value": "absence of bond polarity"
+        },
+        {
+          "key": "C",
+          "value": "unsymmetrical electron distribution"
+        },
+        {
+          "key": "D",
+          "value": "presence of more number of electrons in bonding orbitals"
+        }
+      ],
+      "answer": "B",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The maximum number of hydrogen bonds a water molecule can form is",
+      "options": [
+        {
+          "key": "A",
+          "value": "2"
+        },
+        {
+          "key": "B",
+          "value": "4"
+        },
+        {
+          "key": "C",
+          "value": "3"
+        },
+        {
+          "key": "D",
+          "value": "1"
+        }
+      ],
+      "answer": "B",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The molecule which has pyramidal shape is",
+      "options": [
+        {
+          "key": "A",
+          "value": "PCl<sub>3</sub>"
+        },
+        {
+          "key": "B",
+          "value": "SO<sub>3</sub>"
+        },
+        {
+          "key": "C",
+          "value": "$$CO_3^{2-}$$"
+        },
+        {
+          "key": "D",
+          "value": "$$NO_3^-$$"
+        }
+      ],
+      "answer": "A",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Which of the following is paramagnetic?",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$O_2^-$$"
+        },
+        {
+          "key": "B",
+          "value": "CN<sup>-</sup>"
+        },
+        {
+          "key": "C",
+          "value": "CO"
+        },
+        {
+          "key": "D",
+          "value": "NO<sup>+</sup>"
+        }
+      ],
+      "answer": "A",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The compound in which $$\\mathop C\\limits^* $$ uses its sp<sup>3</sup> hybrid orbitals for bond formation is",
+      "options": [
+        {
+          "key": "A",
+          "value": "H $$\\mathop C\\limits^* $$ OOH"
+        },
+        {
+          "key": "B",
+          "value": "(H<sub>2</sub>N)<sub>2</sub> $$\\mathop C\\limits^* $$ O"
+        },
+        {
+          "key": "C",
+          "value": "(CH<sub>3</sub>)<sub>3</sub> $$\\mathop C\\limits^* $$ OH"
+        },
+        {
+          "key": "D",
+          "value": "CH3 $$\\mathop C\\limits^* $$ HO"
+        }
+      ],
+      "answer": "C",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The molecule which has zero dipole moment is:",
+      "options": [
+        {
+          "key": "A",
+          "value": "CH<sub>2</sub>Cl<sub>2</sub>"
+        },
+        {
+          "key": "B",
+          "value": "BF<sub>3</sub>"
+        },
+        {
+          "key": "C",
+          "value": "NF<sub>3</sub>"
+        },
+        {
+          "key": "D",
+          "value": "ClO<sub>2</sub>"
+        }
+      ],
+      "answer": "B",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The molecule that has linear structure is",
+      "options": [
+        {
+          "key": "A",
+          "value": "CO<sub>2</sub>"
+        },
+        {
+          "key": "B",
+          "value": "NO<sub>2</sub>"
+        },
+        {
+          "key": "C",
+          "value": "SO<sub>2</sub>"
+        },
+        {
+          "key": "D",
+          "value": "SiO<sub>2</sub>"
+        }
+      ],
+      "answer": "A",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The species in which the central atom uses sp<sup>2</sup> hybrid orbitals in its bonding is",
+      "options": [
+        {
+          "key": "A",
+          "value": "PH<sub>3</sub>"
+        },
+        {
+          "key": "B",
+          "value": "NH<sub>3</sub>"
+        },
+        {
+          "key": "C",
+          "value": "$$CH_3^+$$"
+        },
+        {
+          "key": "D",
+          "value": "SbH<sub>3</sub>"
+        }
+      ],
+      "answer": "C",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Hydrogen bond is maximum in",
+      "options": [
+        {
+          "key": "A",
+          "value": "Ethanol"
+        },
+        {
+          "key": "B",
+          "value": "Diethyl ether"
+        },
+        {
+          "key": "C",
+          "value": "Ethyl chloride"
+        },
+        {
+          "key": "D",
+          "value": "Triethylamine"
+        }
+      ],
+      "answer": "A",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The bond between two identical non-metal atoms has a pair of electrons",
+      "options": [
+        {
+          "key": "A",
+          "value": "unequally shared between the two"
+        },
+        {
+          "key": "B",
+          "value": "transferred fully from one atom to another"
+        },
+        {
+          "key": "C",
+          "value": "with identical spins"
+        },
+        {
+          "key": "D",
+          "value": "equally shared between them"
+        }
+      ],
+      "answer": "D",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The hydrogen bond is strongest in",
+      "options": [
+        {
+          "key": "A",
+          "value": "O - H......S"
+        },
+        {
+          "key": "B",
+          "value": "S - H.......O"
+        },
+        {
+          "key": "C",
+          "value": "F - H........F"
+        },
+        {
+          "key": "D",
+          "value": "F - H.........O"
+        }
+      ],
+      "answer": "C",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The hybridisation of sulphur in sulphur dioxide is",
+      "options": [
+        {
+          "key": "A",
+          "value": "sp"
+        },
+        {
+          "key": "B",
+          "value": "sp<sup>3</sup>"
+        },
+        {
+          "key": "C",
+          "value": "sp<sup>2</sup>"
+        },
+        {
+          "key": "D",
+          "value": "dsp<sup>2</sup>"
+        }
+      ],
+      "answer": "C",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The molecule having one unpaired electron is",
+      "options": [
+        {
+          "key": "A",
+          "value": "NO"
+        },
+        {
+          "key": "B",
+          "value": "CO"
+        },
+        {
+          "key": "C",
+          "value": "CN<sup>-</sup>"
+        },
+        {
+          "key": "D",
+          "value": "O<sub>2</sub>"
+        }
+      ],
+      "answer": "A",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "On hybridization of one s and one p orbitals we get:",
+      "options": [
+        {
+          "key": "A",
+          "value": "two mutually perpendicular orbitals"
+        },
+        {
+          "key": "B",
+          "value": "two orbitals at 180<sup>o</sup>"
+        },
+        {
+          "key": "C",
+          "value": "four orbitals directed tetrahedrally"
+        },
+        {
+          "key": "D",
+          "value": "three orbitals in a plane"
+        }
+      ],
+      "answer": "B",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Carbon tetrachloride has no net dipole moment because of",
+      "options": [
+        {
+          "key": "A",
+          "value": "its planar structure"
+        },
+        {
+          "key": "B",
+          "value": "its regular tetrahedral structure"
+        },
+        {
+          "key": "C",
+          "value": "similar sizes of carbon and chlorine"
+        },
+        {
+          "key": "D",
+          "value": "similar electron affinities of carbon and chlorine"
+        }
+      ],
+      "answer": "B",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The types of bonds present in CuSO<sub>4</sub>.5H<sub>2</sub>O are only",
+      "options": [
+        {
+          "key": "A",
+          "value": "electrovalent and covalent"
+        },
+        {
+          "key": "B",
+          "value": "electrovalent and coordinate covalent"
+        },
+        {
+          "key": "C",
+          "value": "electrovalent, covalent and coordinate covalent"
+        },
+        {
+          "key": "D",
+          "value": "covalent and coordinate covalent"
+        }
+      ],
+      "answer": "C",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Which one among the following does not have the hydrogen bond?",
+      "options": [
+        {
+          "key": "A",
+          "value": "phenol"
+        },
+        {
+          "key": "B",
+          "value": "liquid NH<sub>3</sub>"
+        },
+        {
+          "key": "C",
+          "value": "water"
+        },
+        {
+          "key": "D",
+          "value": "liquid HCl"
+        }
+      ],
+      "answer": "D",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The compound with no dipole moment is",
+      "options": [
+        {
+          "key": "A",
+          "value": "methyl chloride"
+        },
+        {
+          "key": "B",
+          "value": "carbon tetrachloride"
+        },
+        {
+          "key": "C",
+          "value": "methylene chloride"
+        },
+        {
+          "key": "D",
+          "value": "chloroform"
+        }
+      ],
+      "answer": "B",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Among the following, the molecule that is linear is",
+      "options": [
+        {
+          "key": "A",
+          "value": "CO<sub>2</sub>"
+        },
+        {
+          "key": "B",
+          "value": "NO<sub>2</sub>"
+        },
+        {
+          "key": "C",
+          "value": "SO<sub>2</sub>"
+        },
+        {
+          "key": "D",
+          "value": "ClO<sub>2</sub>"
+        }
+      ],
+      "answer": "A",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "If a molecule MX<sub>3</sub> has zero dipole moment, the sigma bonding orbitals used by M (atomic number &lt; 21) are",
+      "options": [
+        {
+          "key": "A",
+          "value": "pure p"
+        },
+        {
+          "key": "B",
+          "value": "sp hybrid"
+        },
+        {
+          "key": "C",
+          "value": "sp<sup>2</sup> hybrid"
+        },
+        {
+          "key": "D",
+          "value": "sp<sup>3</sup> hybrid"
+        }
+      ],
+      "answer": "C",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Which of the following is soluble in water?",
+      "options": [
+        {
+          "key": "A",
+          "value": "CS<sub>2</sub>"
+        },
+        {
+          "key": "B",
+          "value": "C<sub>2</sub>H<sub>5</sub>OH"
+        },
+        {
+          "key": "C",
+          "value": "CCl<sub>4</sub>"
+        },
+        {
+          "key": "D",
+          "value": "CHCl<sub>3</sub>"
+        }
+      ],
+      "answer": "B",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The total number of electrons that take part in forming the bond in N<sub>2</sub> is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "2"
+        },
+        {
+          "key": "B",
+          "value": "4"
+        },
+        {
+          "key": "C",
+          "value": "6"
+        },
+        {
+          "key": "D",
+          "value": "10"
+        }
+      ],
+      "answer": "C",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Which of the following compounds are covalent?",
+      "options": [
+        {
+          "key": "A",
+          "value": "H<sub>2</sub>"
+        },
+        {
+          "key": "B",
+          "value": "CaO"
+        },
+        {
+          "key": "C",
+          "value": "KCl"
+        },
+        {
+          "key": "D",
+          "value": "Na<sub>2</sub>S"
+        }
+      ],
+      "answer": "A",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Element X is strongly electropositive and element Y is strongly electronegative. Both are univalent. The compound formed would be",
+      "options": [
+        {
+          "key": "A",
+          "value": "X<sup>+</sup>Y<sup>-</sup>"
+        },
+        {
+          "key": "B",
+          "value": "X<sup>-</sup>X<sup>+</sup>"
+        },
+        {
+          "key": "C",
+          "value": "X-Y"
+        },
+        {
+          "key": "D",
+          "value": "X $$\\to$$ Y"
+        }
+      ],
+      "answer": "A",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The octet rule is not valid for the molecule",
+      "options": [
+        {
+          "key": "A",
+          "value": "CO<sub>2</sub>"
+        },
+        {
+          "key": "B",
+          "value": "H<sub>2</sub>O"
+        },
+        {
+          "key": "C",
+          "value": "O<sub>2</sub>"
+        },
+        {
+          "key": "D",
+          "value": "CO"
+        }
+      ],
+      "answer": "D",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The compound which contains both ionic and covalent bonds is",
+      "options": [
+        {
+          "key": "A",
+          "value": "CH<sub>4</sub>"
+        },
+        {
+          "key": "B",
+          "value": "H<sub>2</sub>"
+        },
+        {
+          "key": "C",
+          "value": "KCN"
+        },
+        {
+          "key": "D",
+          "value": "KCl"
+        }
+      ],
+      "answer": "C",
+      "explanation": ""
+    },
+    {
+      "_type": "numerical",
+      "body": "Among $${H_2},H{e_2}^ + ,L{i_2},$$ $$B{e_2},{B_2},{C_2},{N_2},O_2^ - $$ and $${F_2},$$ the number of diamagnetic species is  \n<br><br>(Atomic numbers : $$H = 1,He = 2,$$ $$Li = 3,Be = 4,$$ $$B = 5,C = 6,$$ $$N = 7,$$ $$O = 8,F = 9$$) ",
+      "answer": "6",
+      "explanation": "(1) Electronic configuration of diatomic $\\mathrm{H}_2$ on the the basis of molecular orbital theory: <br/><br/>$\\left(\\sigma_{1 \\mathrm{~s}}\\right)^2\\left(\\sigma_{1 s}^*\\right)^0$<br/><br/>\nThere are no unpaired electrons in the bonding and anti-bonding molecular orbitals; hence, it's a diamagnetic molecule.<br/><br/>\n(2) Electronic configuration of diatomic $\\mathrm{He}^{2+}$ on the basis of molecular orbital theory: <br/><br/>$\\left(\\sigma_{1 s}\\right)^2\\left(\\sigma_{1 s}^*\\right)^1$<br/><br/>\nThere is one unpaired electron in the sigma bonding molecular orbital; hence, it's a paramagnetic molecule.<br/><br/>\n(3) Electronic configuration of diatomic $\\mathrm{Li}_2$ on the basis of molecular orbital theory: <br/><br/>$\\left(\\sigma_{1 s}\\right)^2\\left(\\sigma_{1 s}^*\\right)^2\\left(\\sigma_{2 s}\\right)^2$<br/><br/>\nThere are no unpaired electrons in the bonding and anti-bonding molecular orbitals; hence, it's a diamagnetic molecule.<br/><br/>\n(4) Electronic configuration of diatomic $\\mathrm{Be}_2$ on the basis of molecular orbital theory: <br/><br/>$\\left(\\sigma_{1 s}\\right)^2\\left(\\sigma_{1 s}^*\\right)^2\\left(\\sigma_{2 s}\\right)^2\\left(\\sigma_{1 s}^*\\right)^2$<br/><br/>\nThere are no unpaired electrons in the bonding and anti-bonding molecular orbitals; hence, it's a diamagnetic molecule.<br/><br/>\n(5) Electronic configuration of diatomic $B_2$ on the basis of molecular orbitals theory:<br/><br/>\n$$\n\\left(\\sigma_{1 s}\\right)^2\\left(\\sigma_{1 s}^*\\right)^2\\left(\\sigma_{2 s}\\right)^2\\left(\\sigma_{2 s}^*\\right)^2\\left(\\pi_{2 p x}^1 \\equiv \\pi_{2 p y}^1\\right)\n$$<br/><br/>\nThere are two unpaired electrons in pi bonding molecular orbital; hence, it's a paramagnetic molecule.<br/><br/>\n(6) Electronic configuration of diatomic $\\mathrm{C}_2$ on the basis of molecular orbital theory:<br/><br/>\n$$\n\\left(\\sigma_{1 s}\\right)^2\\left(\\sigma_{1 s}^*\\right)^2\\left(\\sigma_{2 s}\\right)^2\\left(\\sigma_{2 s}^*\\right)^2\\left(\\pi_{2 p x}^2 \\equiv \\pi_{2 p y}^2\\right)\n$$<br/><br/>\nThere are no unpaired electrons in the bonding and anti-bonding molecular orbitals; hence, it's a diamagnetic molecule.<br/><br/>\n(7) Electronic configuration of diatomic $\\mathrm{N}_2$ on the basis of molecular orbital theory:<br/><br/>\n$$\n\\left(\\sigma_{1 s}\\right)^2\\left(\\sigma_{1 s}^*\\right)^2\\left(\\sigma_{2 s}\\right)^2\\left(\\sigma_{2 s}^*\\right)^2\\left(\\pi_{2 p x}^1 \\equiv \\pi_{2 p y}^1\\right) \\sigma_{2 p z}^2\n$$<br/><br/>\nThere are no unpaired electron in the bonding and anti-bonding molecular orbitals; hence, it's a diamagnetic molecule.<br/><br/>\n(8) Electronic configuration of diatomic $\\mathrm{O}_2$ on the basis of molecular orbital theory:<br/><br/>\n$$\n\\begin{aligned}\n& \\left(\\sigma_{1 s}\\right)^2\\left(\\sigma_{1 s}^*\\right)^2\\left(\\sigma_{2 s}\\right)^2\\left(\\sigma_{2 s}^*\\right)^2\\left(\\sigma_{p 3}^2\\right)^2\\left(\\pi_{2 p x}^1 \\equiv \\pi_{2 p y}^1\\right) \\\\\\\\\n& \\left(\\pi_{2 p x}^* \\equiv \\pi\\right)\n\\end{aligned}\n$$<br/><br/>\nThere is one unpaired electron in the $\\mathrm{pi}^*$ anti-bonding molecular orbital; hence, it's a paramagnetic molecule.<br/><br/>\n(9) Electronic configuration of diatomic $\\mathrm{F}_2$ on the basis of molecular orbital theory:<br/><br/>\n$$\n\\begin{aligned}\n& \\left(\\sigma_{1 s}\\right)^2\\left(\\sigma_{1 s}^*\\right)^2\\left(\\sigma_{2 s}\\right)^2\\left(\\sigma_{2 s}^*\\right)^2\\left(\\sigma_{2 p z}\\right)^2\\left(\\pi_{2 p x}^2 \\equiv \\pi_{2 p y}^2\\right) \\\\\\\\\n& \\left(\\pi_{2 p x}^{2^*} \\equiv \\pi_{2 p y}^{2^*}\\right)\n\\end{aligned}\n$$<br/><br/>\nAll the electrons are paired in the bonding and anti-bonding molecular orbitals; hence, $\\mathrm{F}_2$ is a diamagnetic molecule<br/><br/>\n<b>Answer</b>. The are 6 diamagnetic species among the given diatomic molecules."
+    },
+    {
+      "_type": "numerical",
+      "body": "There are ______ $$\\pi$$ bonds in a nitrogen molecule.",
+      "answer": "2",
+      "explanation": ""
+    }
+  ]
+}

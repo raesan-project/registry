@@ -1,0 +1,541 @@
+{
+  "_index": {
+    "name": "Alcohols, Phenols and Ethers"
+  },
+  "_children": [
+    {
+      "_type": "single_mcq",
+      "body": "<p>Given below are two statements :</p>\n<p><b>Statement I :</b> Dimethyl ether is completely soluble in water. However, diethyl ether is soluble in water to a very small extent.</p>\n<p><b>Statement II :</b> Sodium metal can be used to dry diethyl ether and not ethyl alcohol.</p>\n<p>In the light of given statements. choose the correct answer from the options given below</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "Statement I is false but Statement II are true\n"
+        },
+        {
+          "key": "B",
+          "value": "Statement I is true but Statement II is false\n"
+        },
+        {
+          "key": "C",
+          "value": "Both Statement I and Statement II are true\n"
+        },
+        {
+          "key": "D",
+          "value": "Both Statement I and Statement II are False"
+        }
+      ],
+      "answer": "C",
+      "explanation": "<p>St-I - St-I is correct because both given ether are soluble in water $\\rightarrow$ Di ethyl ether and butan-1-ol are miscible to almost same extent i.e., 7.5 and 9 gm per 100 ml water due to H -bonding</p>\n<p>St-II : - St. II is also correct because sodium metal is not used with ethyl alcohol as $\\mathrm{H}_2$ gas release with ethyl a below</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Given below are two statements :</p>\n<p>Statement (I) : The boiling points of alcohols and phenols increase with increase in the number of C -atoms.</p>\n<p>Statement (II) : The boiling points of alcohols and phenols are higher in comparison to other class of compounds such as ethers, haloalkanes.</p>\n<p>In the light of the above statements, choose the correct answer from the options given below :</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "Statement I is false but Statement II is true\n"
+        },
+        {
+          "key": "B",
+          "value": "Both Statement I and Statement II are true\n"
+        },
+        {
+          "key": "C",
+          "value": "Statement I is true but Statement II is false\n"
+        },
+        {
+          "key": "D",
+          "value": "Both Statement I and Statement II are false"
+        }
+      ],
+      "answer": "B",
+      "explanation": "<p>$$\\textbf{Statement (I):}$$  </p>\n\n\n<p><p>As the number of carbon atoms in alcohols or phenols increases, the molecule becomes larger, which in turn enhances the van der Waals (dispersion) forces between the molecules.</p></p>\n<p><p>Stronger intermolecular forces require more energy (i.e., higher temperature) to overcome, leading to higher boiling points.</p></p>\n<p><p>Therefore, Statement (I) is true.</p></p>\n\n\n<p>$$\\textbf{Statement (II):}$$  </p>\n\n\n<p><p>Alcohols and phenols have a hydroxyl group ($$-OH$$) that can form hydrogen bonds, which are significantly stronger than the dipole-dipole interactions typically seen in ethers or the interactions in haloalkanes.</p></p>\n<p><p>This stronger hydrogen bonding means that alcohols and phenols have higher boiling points compared to ethers and haloalkanes of similar molecular weight.</p></p>\n<p><p>Hence, Statement (II) is also true.</p></p>\n\n<p>Based on the above points, the correct answer is:</p>\n<p>Option B: Both Statement I and Statement II are true.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Which one the following compounds will readily react with dilute $$\\mathrm{NaOH}$$ ?</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$\\mathrm{C}_6 \\mathrm{H}_5 \\mathrm{CH}_2 \\mathrm{OH}$$\n"
+        },
+        {
+          "key": "B",
+          "value": "$$\\mathrm{C}_2 \\mathrm{H}_5 \\mathrm{OH}$$\n"
+        },
+        {
+          "key": "C",
+          "value": "$$\\mathrm{C}_6 \\mathrm{H}_5 \\mathrm{OH}$$\n"
+        },
+        {
+          "key": "D",
+          "value": "$$\\left(\\mathrm{CH}_3\\right)_3 \\mathrm{COH}$$"
+        }
+      ],
+      "answer": "C",
+      "explanation": "<p>To determine which of the given compounds will readily react with dilute $$\\mathrm{NaOH}$$, we need to understand the chemical reactivity of these compounds towards bases like sodium hydroxide ($$\\mathrm{NaOH}$$).</p>\n\n<p>Here's a brief overview of each compound's reactivity towards $$\\mathrm{NaOH}$$:</p>\n\n<ul>\n<li><strong>Option A: $$\\mathrm{C}_6 \\mathrm{H}_5 \\mathrm{CH}_2 \\mathrm{OH}$$ (Benzyl Alcohol)</strong>\n<p>The presence of a benzyl group (a phenyl group attached to a CH<sub>2</sub> group) adjacent to the hydroxyl group can somewhat increase the acidity of the hydroxyl hydrogen. However, benzyl alcohol is still not significantly acidic to react vigorously with a weak base like dilute $$\\mathrm{NaOH}$$. Nonetheless, under certain conditions, it might undergo reactions, but not as readily as an acidic hydrogen-containing compound would.</p>\n</li>\n\n<br/><li><strong>Option B: $$\\mathrm{C}_2 \\mathrm{H}_5 \\mathrm{OH}$$ (Ethanol)</strong>\n<p>Ethanol is a simple alcohol with no acidic hydrogen atoms that would react with $$\\mathrm{NaOH}$$. The hydroxyl group in ethanol is not sufficiently acidic to deprotonate in the presence of a base like $$\\mathrm{NaOH}$$, making it unreactive in this context.</p>\n</li>\n\n<br/><li><strong>Option C: $$\\mathrm{C}_6 \\mathrm{H}_5 \\mathrm{OH}$$ (Phenol)</strong>\n<p>Phenol contains a hydroxyl group directly attached to an aromatic ring. This structural feature significantly increases the acidity of the hydroxyl hydrogen compared to alcohols. The reason behind this is the stabilization of the phenoxide ion (the conjugate base) through resonance within the aromatic ring. As a result, phenol can react with a weak base like $$\\mathrm{NaOH}$$ to form sodium phenoxide and water.\n$$\\mathrm{C}_6 \\mathrm{H}_5 \\mathrm{OH} + \\mathrm{NaOH} \\rightarrow \\mathrm{C}_6 \\mathrm{H}_5 \\mathrm{O}^- \\mathrm{Na}^+ + \\mathrm{H}_2\\mathrm{O}$$</p>\n</li>\n\n<br/><li><strong>Option D: $$\\left(\\mathrm{CH}_3\\right)_3 \\mathrm{COH}$$ (tert-Butyl Alcohol)</strong>\n<p>tert-Butyl alcohol, being a tertiary alcohol, does not have a hydrogen atom on the carbon bearing the hydroxyl group that is acidic enough to react with $$\\mathrm{NaOH}$$. Tertiary alcohols, in general, are resistant to deprotonation because of the steric hindrance around the hydroxyl group and the lack of an easily removable hydrogen atom connected to the carbon with the -OH group.</p>\n</li>\n</ul>\n\n<p>Given the choices, the correct answer is <strong>Option C: $$\\mathrm{C}_6 \\mathrm{H}_5 \\mathrm{OH}$$ (Phenol)</strong>, as it will readily react with dilute $$\\mathrm{NaOH}$$ due to the increased acidity of its hydroxyl group caused by the resonance stability of the phenoxide ion formed in the reaction.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Match <b>List - I</b> with <b>List - II</b>.\n<br/><br/>\n<style>\n  table {\n    border-collapse: collapse;\n    width: 100%;\n  }\n  th, td {\n    border: 1px solid black;\n    padding: 8px;\n    text-align: left;\n  }\n  th {\n    background-color: #0000FF;\n    color: white;\n  }\n</style>\n\n<table>\n  <tr>\n    <th>List I (Reactants)</th>\n    <th>List II (Product)</th>\n  </tr>\n  <tr>\n    <td>(A) Phenol, Zn/Δ</td>\n    <td>(I) Salicylaldehyde</td>\n  </tr>\n  <tr>\n    <td>(B) Phenol, CHCl<sub>3</sub>, NaOH, HCl</td>\n    <td>(II) Salicylic acid</td>\n  </tr>\n  <tr>\n    <td>(C) Phenol, CO<sub>2</sub>, NaOH, HCl</td>\n    <td>(III) Benzene</td>\n  </tr>\n  <tr>\n    <td>(D) Phenol, Conc. HNO<sub>3</sub></td>\n    <td>(IV) Picric acid</td>\n  </tr>\n</table>\n<br/>\nChoose the correct answer from the options given below :",
+      "options": [
+        {
+          "key": "A",
+          "value": "(A)-(IV), (B)-(I), (C)-(II), (D)-(III)"
+        },
+        {
+          "key": "B",
+          "value": "(A)-(III), (B)-(I), (C)-(II), (D)-(IV)"
+        },
+        {
+          "key": "C",
+          "value": "(A)-(IV), (B)-(II), (C)-(I), (D)-(III)"
+        },
+        {
+          "key": "D",
+          "value": "(A)-(III), (B)-(IV), (C)-(I), (D)-(II)"
+        }
+      ],
+      "answer": "B",
+      "explanation": "Let's analyze each reaction given in List I to identify the correct product from List II.\n\n<p><b>(A) Phenol, Zn/Δ:</b> When phenol is reacted with zinc dust (Zn) upon heating (Δ), it undergoes a reduction reaction known as the Clemmensen reduction, which results in the removal of the oxygen from the hydroxyl group (-OH) attached to the benzene ring, thus forming benzene. Hence, (A) corresponds to (III) Benzene.</p>\n\n<p><b>(B) Phenol, CHCl<sub>3</sub>, NaOH, HCl:</b> This reaction is known as the Reimer-Tiemann reaction. Phenol, when reacted with chloroform (CHCl<sub>3</sub>) in the presence of an aqueous base (NaOH), followed by acidification with HCl, forms salicylaldehyde. Therefore, (B) corresponds to (I) Salicylaldehyde.</p>\n\n<p><b>(C) Phenol, CO<sub>2</sub>, NaOH, HCl:</b> This is the Kolbe-Schmitt reaction. In this reaction, phenol reacts with carbon dioxide (CO<sub>2</sub>) under pressure at high temperatures in the presence of sodium hydroxide (NaOH), followed by acidification with HCl, to yield salicylic acid. Thus, (C) corresponds to (II) Salicylic acid.</p>\n\n<p><b>(D) Phenol, Conc. HNO<sub>3</sub>:</b> The nitration of phenol with concentrated nitric acid (HNO<sub>3</sub>) produces picric acid (2,4,6-trinitrophenol). So, (D) corresponds to (IV) Picric acid.</p>\n\nBased on the above reactions, the correct matching would be:\n\n<p>(A)-(III) Benzene<br/>\n(B)-(I) Salicylaldehyde<br/>\n(C)-(II) Salicylic acid<br/>\n(D)-(IV) Picric acid</p>\n\nTherefore, the correct answer is <b>Option B</b>: \n(A)-(III), (B)-(I), (C)-(II), (D)-(IV)."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Given below are two statements: One is labelled as Assertion A and the other is labelled as Reason R:</p>\n<p>Assertion A: Alcohols react both as nucleophiles and electrophiles.</p>\n<p>Reason R: Alcohols react with active metals such as sodium, potassium and aluminum to yield corresponding alkoxides and liberate hydrogen.</p>\n<p>In the light of the above statements, choose the correct answer from the options given below:</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$A$$ is false but $$R$$ is true.\n"
+        },
+        {
+          "key": "B",
+          "value": "Both $$A$$ and $$R$$ are true but $$R$$ is NOT the correct explanation of $$A$$.\n"
+        },
+        {
+          "key": "C",
+          "value": "Both $$A$$ and $$R$$ are true and $$R$$ is the correct explanation of $$A$$.\n"
+        },
+        {
+          "key": "D",
+          "value": "$$A$$ is true but $$R$$ is false."
+        }
+      ],
+      "answer": "B",
+      "explanation": "<p>Assertion A is that alcohols can act as both nucleophiles and electrophiles. This is indeed true.</p>\n<p>Alcohols can act as nucleophiles because they have a polar O-H bond; the oxygen atom has a pair of nonbonding electrons that can be donated to electrophiles. For example, in the presence of a strong acid such as hydrochloric acid, the lone pair on the oxygen can attack the positively charged hydrogen atom to form an oxonium ion ($$R-OH_2^+$$), which then acts as a good leaving group in substitution reactions.</p>\n<p>Alcohols can also behave as electrophiles. An example of an alcohol acting as an electrophile is when it reacts with a strong base, such as sodium hydride (NaH), to undergo deprotonation forming an alkoxide ion ($$R-O^-$$). The alkoxide ion is a strong nucleophile, but the original alcohol molecule in the presence of a base acts as an electrophile due to the acidity of the hydroxyl hydrogen.</p>\n<p>Reason R posits that alcohols react with active metals such as sodium, potassium and aluminum to yield corresponding alkoxides and liberate hydrogen. This is also true. When alcohols react with active metals, the alcohol acts as an acid, donating a hydrogen ion ($$H^+$$) to form hydrogen gas ($$H_2$$), while the remaining alkoxide ion ($$R-O^-$$) bonds with the metal cation ($$M^+$$, where M is an active metal like sodium) to form the alkoxide salt ($$MOR$$).</p>\n<p>Now, considering the above explanations, the relationship between Assertion A and Reason R needs to be evaluated:</p>\n<p>While both Assertion A and Reason R are indeed true, Reason R is not the correct explanation of Assertion A. Reason R describes a reaction (alcohol with active metal) where the alcohol functions only as an acid (not as a nucleophile or an electrophile). Hence, Reason R does not explain how alcohols can act as both nucleophiles and electrophiles, which is what Assertion A states.</p>\n<p>Therefore, the correct answer is:</p>\nOption B :\nBoth $$A$$ and $$R$$ are true but $$R$$ is NOT the correct explanation of $$A$$."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Given below are two statements: One is labelled as Assertion A and the other is labelled as Reason R:</p>\n<p>Assertion A: $$\\mathrm{pK}_{\\mathrm{a}}$$ value of phenol is 10.0 while that of ethanol is 15.9 .</p>\n<p>Reason R: Ethanol is stronger acid than phenol.</p>\n<p>In the light of the above statements, choose the correct answer from the options given below:</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "A is false but R is true.\n"
+        },
+        {
+          "key": "B",
+          "value": "Both $$A$$ and $$R$$ are true but $$R$$ is NOT the correct explanation of $$A$$.\n"
+        },
+        {
+          "key": "C",
+          "value": "Both $$\\mathrm{A}$$ and $$\\mathrm{R}$$ are true and $$\\mathrm{R}$$ is the correct explanation of $$\\mathrm{A}$$.\n"
+        },
+        {
+          "key": "D",
+          "value": "$$A$$ is true but $$R$$ is false."
+        }
+      ],
+      "answer": "D",
+      "explanation": "<p>Phenol is more acidic than ethanol because conjugate base of phenoxide is more stable than ethoxide.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Match List I with List II</p>\n<p><style type=\"text/css\">\n.tg  {border-collapse:collapse;border-spacing:0;}\n.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}\n.tg .tg-7btt{border-color:inherit;font-weight:bold;text-align:center;vertical-align:top}\n.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}\n</style>\n<table class=\"tg\" style=\"undefined;table-layout: fixed; width: 523px\">\n<colgroup>\n<col style=\"width: 70px\">\n<col style=\"width: 184px\">\n<col style=\"width: 94px\">\n<col style=\"width: 175px\">\n</colgroup>\n<thead>\n  <tr>\n    <th class=\"tg-7btt\"></th>\n    <th class=\"tg-7btt\">List - I<br>(Compound)</th>\n    <th class=\"tg-7btt\"></th>\n    <th class=\"tg-7btt\">List - II<br>($$\\mathrm{pK_a}$$ value)</th>\n  </tr>\n</thead>\n<tbody>\n  <tr>\n    <td class=\"tg-c3ow\">(A)</td>\n    <td class=\"tg-0pky\">Ethanol</td>\n    <td class=\"tg-c3ow\">(I)</td>\n    <td class=\"tg-0pky\">10.0</td>\n  </tr>\n  <tr>\n    <td class=\"tg-c3ow\">(B)</td>\n    <td class=\"tg-0pky\">Phenol</td>\n    <td class=\"tg-c3ow\">(II)</td>\n    <td class=\"tg-0pky\">15.9</td>\n  </tr>\n  <tr>\n    <td class=\"tg-c3ow\">(C)</td>\n    <td class=\"tg-0pky\">m-Nitrophenol</td>\n    <td class=\"tg-c3ow\">(III)</td>\n    <td class=\"tg-0pky\">7.1</td>\n  </tr>\n  <tr>\n    <td class=\"tg-c3ow\">(D)</td>\n    <td class=\"tg-0pky\">p-Nitrophenol</td>\n    <td class=\"tg-c3ow\">(IV)</td>\n    <td class=\"tg-0pky\">8.3</td>\n  </tr>\n</tbody>\n</table></p>\n<p>Choose the correct answer from the options given below:</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "A-I, B-II, C-III, D-IV\n"
+        },
+        {
+          "key": "B",
+          "value": "A-IV, B-I, C-II, D-III\n"
+        },
+        {
+          "key": "C",
+          "value": "A-II, B-I, C-IV, D-III\n"
+        },
+        {
+          "key": "D",
+          "value": "A-III, B-IV, C-I, D-II"
+        }
+      ],
+      "answer": "C",
+      "explanation": "<p>$$\\begin{aligned}\n& \\text { Ethanol } \\rightarrow 15.9 \\\\\n& \\text { Phenol } \\rightarrow 10 \\\\\n& \\text { M-Nitrophenol } \\rightarrow 8.3 \\\\\n& \\text { P-Nitrophenol } \\rightarrow 7.1\n\\end{aligned}$$</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Phenolic group can be identified by a positive:</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "Tollen's test\n"
+        },
+        {
+          "key": "B",
+          "value": "Phthalein dye test\n"
+        },
+        {
+          "key": "C",
+          "value": "Carbylamine test\n"
+        },
+        {
+          "key": "D",
+          "value": "Lucas test"
+        }
+      ],
+      "answer": "B",
+      "explanation": "<p>The correct answer for identifying the phenolic group is Option B, the Phthalein dye test.</p>\n\n<p><strong>Option A: Tollen's test</strong> - This test is used to identify aldehydes. Aldehydes are oxidized to carboxylic acids by the Tollen's reagent (ammoniacal silver nitrate), and this reaction results in a characteristic silver mirror or a black precipitate of silver metal, which is not relevant to phenolic compounds.</p>\n\n<p><strong>Option B: Phthalein dye test</strong> - The phenolic group can be identified using the phthalein dye test. In this test, phenols react with phthalic anhydride in the presence of a dehydrating agent, typically concentrated sulfuric acid, to form phthalein dyes. A common example of a phthalein dye that can be formed in this manner is phenolphthalein, which is synthesized using phenol and phthalic anhydride. These dyes exhibit color changes in different pH environments, which is a characteristic helpful in identifying phenolic compounds.</p>\n\n<p><strong>Option C: Carbylamine test</strong> - The carbylamine test, also known as the isocyanide test, is specific to primary amines. In this reaction, primary amines are heated with chloroform and an alkali base, typically potassium hydroxide, to produce a foul-smelling isocyanide or carbylamine. Since phenolic compounds do not have an amine group, they will not give a positive carbylamine test.</p>\n\n<p><strong>Option D: Lucas test</strong> - The Lucas test is used to classify alcohols of low molecular weight based on their reactivity with Lucas reagent, a solution of zinc chloride in concentrated hydrochloric acid. The test differentiates between primary, secondary, and tertiary alcohols. Phenols, which have an -OH group bonded to an aromatic ring, do not react in the same way as aliphatic alcohols in the Lucas test, and therefore, this test is not used to identify phenolic groups.</p>\n\n<p>Thus, the test that is specifically used to identify a phenolic group is the Phthalein dye test.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>2-Methyl propyl bromide reacts with $$\\mathrm{C}_{2} \\mathrm{H}_{5} \\mathrm{O}^{-}$$ and gives 'A' whereas on reaction with $$\\mathrm{C}_{2} \\mathrm{H}_{5} \\mathrm{OH}$$ it gives 'B'. The mechanism followed in these reactions and the products 'A' and 'B' respectively are :</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$\\mathrm{S}_{N} 1, A=$$ tert-butyl ethyl ether; $$\\mathrm{S}_{N} 2, B=$$ iso-butyl ethyl ether"
+        },
+        {
+          "key": "B",
+          "value": "$$\\mathrm{S}_{\\mathrm{N}} 1, \\mathrm{~A}=$$ tert-butyl ethyl ether; $$\\mathrm{S}_{\\mathrm{N}} 1, \\mathrm{~B}=$$ 2-butyl ethyl ether"
+        },
+        {
+          "key": "C",
+          "value": "$$\\mathrm{S}_{\\mathrm{N}} 2, \\mathrm{~A}=$$ iso-butyl ethyl ether; $$\\mathrm{S}_{\\mathrm{N}} 1, \\mathrm{~B}=$$ tert-butyl ethyl ether"
+        },
+        {
+          "key": "D",
+          "value": "$$\\mathrm{S}_{\\mathrm{N}} 2, \\mathrm{~A}=$$ 2-butyl ethyl ether; $$\\mathrm{S}_{\\mathrm{N}} 2, \\mathrm{~B}=$$ iso-butyl ethyl ether"
+        }
+      ],
+      "answer": "C",
+      "explanation": "2-Methyl propyl bromide (also known as isobutyl bromide) has the formula (CH₃)₂CHCH₂Br.\n<br/><br/>\nWhen it reacts with C₂H₅O⁻ (ethoxide ion), it undergoes an SN2 reaction because ethoxide ion is a strong nucleophile. The reaction proceeds with a direct exchange of the leaving group (Br⁻) and the nucleophile (C₂H₅O⁻). The product 'A' would be iso-butyl ethyl ether (CH₃CH₂OCH(CH₃)CH₃).\n<br/><br/>\nWhen it reacts with C₂H₅OH (ethanol), the reaction proceeds via an SN1 mechanism because ethanol is a weak nucleophile. In this case, the bromide ion leaves first, forming a carbocation intermediate, which is then attacked by the nucleophile (C₂H₅OH). The product 'B' would be tert-butyl ethyl ether ((CH₃)₃COCH₂CH₃).\n<br/><br/>\nSo, the correct option is:\n<br/><br/>\nS<sub>N</sub>2, A = iso-butyl ethyl ether; S<sub>N</sub>1, B = tert-butyl ethyl ether"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Incorrect method of preparation for alcohols from the following is:</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "Hydroboration-oxidation of alkene."
+        },
+        {
+          "key": "B",
+          "value": "Reaction of Ketone with $$\\mathrm{RMgBr}$$ followed by hydrolysis."
+        },
+        {
+          "key": "C",
+          "value": "Ozonolysis of alkene."
+        },
+        {
+          "key": "D",
+          "value": "Reaction of alkyl halide with aqueous $$\\mathrm{NaOH}$$."
+        }
+      ],
+      "answer": "C",
+      "explanation": "Reductive ozonolysis of alkenes will lead to\nformation of aldehyde or ketones, oxidative\nozonolysis of alkenes will lead to formation of\ncarboxylic acids or ketones.<br/><br/>\nSo, alcohol is not formed by ozonolysis of alkenes."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Given below are two statements: One is labelled as Assertion A and the other is labelled as Reason R.</p>\n<p>Assertion A: Butan -1- ol has higher boiling point than ethoxyethane.</p>\n<p>Reason R: Extensive hydrogen bonding leads to stronger association of molecules.</p>\n<p>In the light of the above statements, choose the correct answer from the options given below:</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "A is false but R is true"
+        },
+        {
+          "key": "B",
+          "value": "Both A and R are true but R is not the correct explanation of A"
+        },
+        {
+          "key": "C",
+          "value": "Both A and R are true and R is the correct explanation of A"
+        },
+        {
+          "key": "D",
+          "value": "A is true but R is false"
+        }
+      ],
+      "answer": "C",
+      "explanation": "<p>The boiling point of a substance is dependent on the strength of the intermolecular forces between its molecules. Stronger intermolecular forces require more energy to overcome, thus resulting in a higher boiling point.</p>\n<p>In the case of butan-1-ol and ethoxyethane (diethyl ether), they are both composed of similar numbers of similar atoms, but the type of intermolecular force between the molecules differs due to their functional groups.</p>\n<p>Butan-1-ol is an alcohol and has a -OH group, which allows for hydrogen bonding, a strong type of dipole-dipole interaction. This happens when the hydrogen atom in a polar bond (especially -OH, -NH, -HF) is attracted to some electronegative atom (like O, N, or F) in another molecule. Because of this, butan-1-ol molecules &quot;stick together&quot; more strongly, requiring more heat energy to separate them and thus exhibiting a higher boiling point.</p>\n<p>On the other hand, ethoxyethane, being an ether, does not have the ability to form hydrogen bonds since it lacks the -OH group. The primary intermolecular forces in ethers are relatively weaker van der Waals forces. Therefore, it requires less heat energy to break these forces, resulting in a lower boiling point compared to butan-1-ol.</p>\n<p>So, both A and R are true and R is indeed the correct explanation for A.</p>\n"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>The water gas on reacting with cobalt as a catalyst forms</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "Methanoic acid"
+        },
+        {
+          "key": "B",
+          "value": "Methanol"
+        },
+        {
+          "key": "C",
+          "value": "Methanal"
+        },
+        {
+          "key": "D",
+          "value": "Ethanol"
+        }
+      ],
+      "answer": "B",
+      "explanation": "<p>Water gas, also known as synthesis gas or &quot;syngas&quot;, is a mixture of carbon monoxide (CO) and hydrogen (H<sub>2</sub>). When water gas reacts with a catalyst, typically consisting of a combination of cobalt and molybdenum, it can undergo a reaction to form methanol (CH<sub>3</sub>OH).</p>\n<p>This is known as the methanol synthesis reaction and can be written as:</p>\n<p>$$\\mathrm{CO(g)} + 2\\mathrm{H}_{2}(g) \\rightarrow \\mathrm{CH}_{3}\\mathrm{OH(g)}$$</p>\n<p>This reaction is widely used in industry for the production of methanol, which can be used as a solvent, an antifreeze, a fuel, and as a feedstock for the production of chemicals.</p>\n"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>A solution of $$\\mathrm{Cr O_5}$$ in amyl alcohol has a __________ colour.</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "Yellow"
+        },
+        {
+          "key": "B",
+          "value": "Orange-Red"
+        },
+        {
+          "key": "C",
+          "value": "Green"
+        },
+        {
+          "key": "D",
+          "value": "Blue"
+        }
+      ],
+      "answer": "D",
+      "explanation": "<p>CrO$$_5$$ is blue in colour in amyl alcohol.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Given below are two statements, one is labelled as Assertion A and the other is labelled as Reason R</p>\n<p>Assertion A : Butylated hydroxy anisole when added to butter increases its shelf life.</p>\n<p>Reason R : Butylated hydroxy anisole is more reactive towards oxygen than food.</p>\n<p>In the light of the above statements, choose the most appropriate answer from the options given below</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "A is correct but R is not correct"
+        },
+        {
+          "key": "B",
+          "value": "Both A and R are correct but R is NOT the correct explanation of A"
+        },
+        {
+          "key": "C",
+          "value": "Both A and R are correct and R is the correct explanation of A"
+        },
+        {
+          "key": "D",
+          "value": "A is not correct but R is correct"
+        }
+      ],
+      "answer": "C",
+      "explanation": "Butylated hydroxy anisole is added to butter to\nincrease its shelf life from months to years as it is\nmore reactive towards oxygen than food.\nTherefore, both Assertion and Reason are correct\nand Reason is the correct explanation of Assertion."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Given below are two statements : one is labelled as Assertion A and the other is labelled as Reason R :</p>\n<p>Assertion A : Acetal / Ketal is stable in basic medium.</p>\n<p>Reason R : The high leaving tendency of alkoxide ion gives the stability to acetal/ketal in basic medium.</p>\n<p>In the light of the above statements, choose the correct answer from the options given below :</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "A is false but R is true."
+        },
+        {
+          "key": "B",
+          "value": "Both A and R are true but R is NOT the correct explanation of A"
+        },
+        {
+          "key": "C",
+          "value": "Both A and R are true and R is the correct explanation of A"
+        },
+        {
+          "key": "D",
+          "value": "A is true but R is false."
+        }
+      ],
+      "answer": "D",
+      "explanation": "<b>For Assertion:</b> Acetal and ketals are basically\nethers hence they must be stable in basic medium\nbut should break down in acidic medium.\nHence assertion is correct.<br/><br/>\n<b>For reason:</b> Alkoxide ion (RO<sup>–</sup>) is not considered a good leaving group hence reason must be false."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>When ethanol is heated with conc. $$\\mathrm{H}_{2} \\mathrm{SO}_{4}$$, a gas is produced. The compound formed, when this gas is treated with cold dilute aqueous solution of Baeyer's reagent, is</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "formaldehyde"
+        },
+        {
+          "key": "B",
+          "value": "formic acid"
+        },
+        {
+          "key": "C",
+          "value": "glycol"
+        },
+        {
+          "key": "D",
+          "value": "ethanoic acid"
+        }
+      ],
+      "answer": "C",
+      "explanation": "$$$\\mathrm{CH}_{3}-\\mathrm{CH}_{2}-\\mathrm{OH} \\frac{\\text { Conc. } \\mathrm{H}_{2} \\mathrm{SO}_{4}}{\\Delta} \\mathrm{CH}_{2}=\\mathrm{CH}_{2} \\frac{\\text { Cold dil solution of }}{\\text { Bayers reagent }} \\mathrm{OH}-\\mathrm{CH}_{2}-\\mathrm{CH}_{2}-\\mathrm{OH}\\,(\\text {Glycol})$$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>The difference in the reaction of phenol with bromine in chloroform and bromine in water medium is due to :</p>\n\n ",
+      "options": [
+        {
+          "key": "A",
+          "value": "Hyperconjugation in substrate"
+        },
+        {
+          "key": "B",
+          "value": "Polarity of solvent"
+        },
+        {
+          "key": "C",
+          "value": "Free radical formation"
+        },
+        {
+          "key": "D",
+          "value": "Electromeric effect the substrate"
+        }
+      ],
+      "answer": "B",
+      "explanation": "Phenol gives different products with bromine in\nchloroform and water medium due to the polarity\ndifference between chloroform and water acting as\nsolvent"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Given below are two statements :</p>\n<p>Statement I : Phenols are weakly acidic.</p>\n<p>Statement II : Therefore they are freely soluble in NaOH solution and are weaker acids than alcohols and water.</p>\n<p>Choose the most appropriate option :</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "Both Statement I and Statement II are correct."
+        },
+        {
+          "key": "B",
+          "value": "Both Statement I and Statement II are incorrect."
+        },
+        {
+          "key": "C",
+          "value": "Statement I is correct but Statement II is incorrect."
+        },
+        {
+          "key": "D",
+          "value": "Statement I is incorrect but Statement II is correct."
+        }
+      ],
+      "answer": "C",
+      "explanation": "Phenol are weakly acidic. Phenol is more acidic\nthan alcohol & H<sub>2</sub>O statement (I) is correct. (II) is\nincorrect."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Ceric ammonium nitrate and CHCl<sub>3</sub>/alc. KOH are used for the identification of functional groups present in __________ and _______ respectively.",
+      "options": [
+        {
+          "key": "A",
+          "value": "amine, alcohol"
+        },
+        {
+          "key": "B",
+          "value": "alcohol, phenol"
+        },
+        {
+          "key": "C",
+          "value": "alcohol, amine"
+        },
+        {
+          "key": "D",
+          "value": "amine, phenol"
+        }
+      ],
+      "answer": "C",
+      "explanation": "Alcohol give positive test with ceric ammonium nitrate and primary amines gives carbyl amine\ntest with CHCl<sub>3</sub>, KOH."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Arrange the following compounds in increasing order of C–OH bond length : <br>methanol, phenol,\np-ethoxyphenol",
+      "options": [
+        {
+          "key": "A",
+          "value": "phenol &lt; methanol &lt; p-ethoxyphenol"
+        },
+        {
+          "key": "B",
+          "value": "methanol &lt; p-ethoxyphenol &lt; phenol"
+        },
+        {
+          "key": "C",
+          "value": "methanol &lt; phenol &lt; p-ethoxyphenol"
+        },
+        {
+          "key": "D",
+          "value": "phenol &lt; p-ethoxyphenol &lt; methanol"
+        }
+      ],
+      "answer": "D",
+      "explanation": "C-OH bond length in Among methanol, phenol and\np-ethoxyphenol, C-OH bond length is least in phenol due to\nresonance and maximum in methanol due to\nlack of resonance whereas it will have some\nintermediate value in p-ethoxyphenol.\n<br><br>phenol &lt; p-ethoxyphenol &lt; methanol"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The major product of the following reaction is :<br>\n$${\\rm{C}}{{\\rm{H}}_3}{\\rm{CH =  CHC}}{{\\rm{O}}_2}{\\rm{CH_3 }}\\buildrel {LiAl{H_4}} \\over\n \\longrightarrow $$",
+      "options": [
+        {
+          "key": "A",
+          "value": "CH<sub>3</sub>CH<sub>2</sub>CH<sub>2</sub>CHO"
+        },
+        {
+          "key": "B",
+          "value": "CH<sub>3</sub>CH<sub>2</sub>CH<sub>2</sub>CO<sub>2</sub>CH<sub>3</sub>"
+        },
+        {
+          "key": "C",
+          "value": "CH<sub>3</sub>CH = CHCH<sub>2</sub>OH"
+        },
+        {
+          "key": "D",
+          "value": "CH<sub>3</sub>CH<sub>2</sub>CH<sub>2</sub>CH<sub>2</sub>OH"
+        }
+      ],
+      "answer": "C",
+      "explanation": "LiAlH<sub>4</sub> reduces esters to alcohols but does not\nreduce C = C.\n<br><br>$${\\rm{C}}{{\\rm{H}}_3}{\\rm{CH =  CHC}}{{\\rm{O}}_2}{\\rm{CH_3 }}\\buildrel {LiAl{H_4}} \\over\n \\longrightarrow $$ CH<sub>3</sub>CH = CHCH<sub>2</sub>OH + CH<sub>3</sub>OH"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Phenyl magnesium bromide reacts with methanol to give ",
+      "options": [
+        {
+          "key": "A",
+          "value": "a mixture of anisole and Mg(OH)Br"
+        },
+        {
+          "key": "B",
+          "value": "a mixture of benzene and Mg(OMe)Br "
+        },
+        {
+          "key": "C",
+          "value": "a mixture of toluene and Mg(OH)Br"
+        },
+        {
+          "key": "D",
+          "value": "a mixture of phenol and Mg(Me)Br"
+        }
+      ],
+      "answer": "B",
+      "explanation": "$$C{H_3}OH + {C_6}{H_5}MgBr\\buildrel \\, \\over\n \\longrightarrow C{H_3}O.MgBr + {C_6}{H_6}$$ v"
+    },
+    {
+      "_type": "numerical",
+      "body": "<p>The denticity of the ligand present in the Fehling's reagent is ___________.</p>",
+      "answer": "4",
+      "explanation": "The ligand present in Fehling's reagent is tartrate, specifically potassium sodium tartrate (KNaC<sub>4</sub>H<sub>4</sub>O<sub>6</sub>•4H<sub>2</sub>O), which acts as a chelating agent. The denticity of tartrate is four, meaning that it can bond to a metal ion through four different atoms, in this case, two oxygen atoms from each of the two carboxylate groups and two oxygen atoms from the two hydroxyl groups. This chelation allows the copper ions in Fehling's A to remain in solution, preventing them from precipitating out as insoluble copper hydroxides. The chelation also helps to stabilize the intermediate copper complexes formed during the redox reaction with reducing sugars, allowing for the formation of the brick-red precipitate of copper(I) oxide (Cu<sub>2</sub>O)."
+    }
+  ]
+}

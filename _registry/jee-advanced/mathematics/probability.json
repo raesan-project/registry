@@ -1,0 +1,1339 @@
+{
+  "_index": {
+    "name": "Probability"
+  },
+  "_children": [
+    {
+      "_type": "numerical",
+      "body": "A bag contains $N$ balls out of which 3 balls are white, 6 balls are green, and the remaining balls are blue. Assume that the balls are identical otherwise. Three balls are drawn randomly one after the other without replacement. For $i=1,2,3$, let $W_i, G_i$, and $B_i$ denote the events that the ball drawn in the $i^{\\text {th }}$ draw is a white ball, green ball, and blue ball, respectively. If the probability $P\\left(W_1 \\cap G_2 \\cap B_3\\right)=\\frac{2}{5 N}$ and the conditional probability $P\\left(B_3 \\mid W_1 \\cap G_2\\right)=\\frac{2}{9}$, then $N$ equals ________.",
+      "answer": "11",
+      "explanation": "<p>3 White</p>\n<p>6 Green</p>\n<p>$$(\\mathrm{N}-9)$$ Blue</p>\n<p>$$\\begin{aligned}\n& \\text { Given } P\\left(W_1 \\cap G_2 \\cap B_3\\right)=\\frac{2}{5 N} \\\\\n& \\text { and } P\\left(B_3 \\mid W_1 \\cap G_2\\right)=\\frac{2}{9} \\\\\n& \\Rightarrow \\frac{P\\left(B_3 \\cap W_1 \\cap G_2\\right)}{P\\left(W_1 \\cap G_2\\right)}=\\frac{2}{9} \\\\\n& \\Rightarrow \\frac{2}{5 N} \\times \\frac{N \\times(N-1)}{3 \\times 6}=\\frac{2}{9} \\\\\n& \\Rightarrow N=11\n\\end{aligned}$$</p>"
+    },
+    {
+      "_type": "numerical",
+      "body": "<p>Let $X$ be a random variable, and let $P(X=x)$ denote the probability that $X$ takes the value $x$. Suppose that the points $(x, P(X=x)), x=0,1,2,3,4$, lie on a fixed straight line in the $x y$-plane, and $P(X=x)=0$ for all $x \\in \\mathbb{R}-\\{0,1,2,3,4\\}$. If the mean of $X$ is $\\frac{5}{2}$, and the variance of $X$ is $\\alpha$, then the value of $24 \\alpha$ is _____________.</p>",
+      "answer": "42",
+      "explanation": "<p>Let equation of line is $$\\mathrm{y=mx+c}$$</p>\n<p><style type=\"text/css\">\n.tg  {border-collapse:collapse;border-spacing:0;}\n.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg .tg-baqh{text-align:center;vertical-align:top}\n</style>\n<table class=\"tg\" style=\"undefined;table-layout: fixed; width: 607px\"><colgroup>\n<col style=\"width: 78px\">\n<col style=\"width: 77px\">\n<col style=\"width: 72px\">\n<col style=\"width: 77px\">\n<col style=\"width: 70px\">\n<col style=\"width: 78px\">\n<col style=\"width: 155px\">\n</colgroup>\n<thead>\n  <tr>\n    <th class=\"tg-baqh\">$$\\mathrm{x}$$</th>\n    <th class=\"tg-baqh\">0</th>\n    <th class=\"tg-baqh\">1</th>\n    <th class=\"tg-baqh\">2</th>\n    <th class=\"tg-baqh\">3</th>\n    <th class=\"tg-baqh\">4</th>\n    <th class=\"tg-baqh\">$$\\mathrm{R-\\{0,1,2,3,4\\}}$$</th>\n  </tr></thead>\n<tbody>\n  <tr>\n    <td class=\"tg-baqh\">$$\\mathrm{P(x)}$$</td>\n    <td class=\"tg-baqh\">$$\\mathrm{c}$$</td>\n    <td class=\"tg-baqh\">$$\\mathrm{m+c}$$</td>\n    <td class=\"tg-baqh\">$$\\mathrm{2m+c}$$</td>\n    <td class=\"tg-baqh\">$$\\mathrm{3m+c}$$</td>\n    <td class=\"tg-baqh\">$$\\mathrm{4m+c}$$</td>\n    <td class=\"tg-baqh\">0</td>\n  </tr>\n</tbody>\n</table></p>\n<p>$$\\sum_{x=0}^4(m x+c)=1 \\Rightarrow 10 m+5 c=1 \\Rightarrow 2 m+c=\\frac{1}{5}\\quad \\text{.... (i)}$$</p>\n<p>$$\\begin{aligned}\n& \\text { mean }=\\sum x_i P_i=\\sum_{i=0}^4\\left(m x_i+c\\right) \\cdot x_i=30 m+10 c=\\frac{5}{2} \\\\\n& \\therefore 3 m+c=\\frac{1}{4} \\ldots(2) \\\\\n& \\text { from (1) and (2) } \\mathrm{m}=\\frac{1}{20}, \\mathrm{c}=\\frac{1}{10} \\\\\n& \\Sigma \\mathrm{P}_{\\mathrm{i}} \\mathrm{x}_{\\mathrm{i}}^2=\\sum_{\\mathrm{i}=0}^4\\left(\\mathrm{mx}_{\\mathrm{i}}+\\mathrm{c}\\right) \\mathrm{x}_1^2 \\\\\n& =\\sum_{\\mathrm{i}=0}^4\\left(\\mathrm{mx}_{\\mathrm{i}}^3+c \\mathrm{x}_{\\mathrm{i}}^2\\right) \\Rightarrow 100 \\mathrm{~m}+30 \\mathrm{c}(\\text { Now putting } \\mathrm{m} \\text { and } \\mathrm{c}) \\\\\n& \\Rightarrow \\Sigma \\mathrm{P}_{\\mathrm{i}}^2=5+3=8 \\\\\n& \\text { Variance }=\\Sigma \\mathrm{P}_{\\mathrm{i}} \\mathrm{x}_{\\mathrm{i}}^2-\\left(\\Sigma \\mathrm{P}_{\\mathrm{i}} \\mathrm{x}_{\\mathrm{i}}\\right)^2=8-\\left(\\frac{5}{2}\\right)^2=\\frac{7}{4} \\\\\n& \\therefore 24 \\alpha=42\n\\end{aligned}$$</p>"
+    },
+    {
+      "_type": "numerical",
+      "body": "A number of chosen at random from the set {1, 2, 3, ....., 2000}. Let p be the probability that the chosen number is a multiple of 3 or a multiple of 7. Then the value of 500p is __________.",
+      "answer": "214",
+      "explanation": "Given, set = {1, 2, 3, ...., 2000}<br/><br/>Let E<sub>1</sub> = Event that it is a multiple of 3 = {3, 6, 9, ...., 1998}<br/><br/>$$\\therefore$$ n(E<sub>1</sub>) = 666<br/><br/>and E<sub>2</sub> = Event that it is a multiple of 7 = {7, 14, ..., 1995}<br/><br/>$$\\therefore$$ n(E<sub>2</sub>) = 285<br/><br/>$${E_1} \\cap {E_2}$$ = multiple of 21 = {21, 42, ....., 1995}<br/><br/>$$n({E_1} \\cap {E_2}) = 95$$<br/><br/>$$\\therefore$$ $$P({E_1} \\cup {E_2}) = P({E_1}) + P({E_2}) - P({E_1} \\cap {E_2})$$<br/><br/>$$P({E_1} \\cup {E_2}) = {{666 + 285 - 95} \\over {2000}} = {{856} \\over {2000}} = p$$ (given)<br/><br/>Hence, $$500p = 500 \\times {{856} \\over {2000}} = {{856} \\over 4} = 214$$"
+    },
+    {
+      "_type": "numerical",
+      "body": "Three numbers are chosen at random, one after another with replacement, from the set S = {1, 2, 3, ......, 100}. Let p<sub>1</sub> be the probability that the maximum of chosen numbers is at least 81 and p<sub>2</sub> be the probability that the minimum of chosen numbers is at most 40.<br><br>The value of $${{625} \\over 4}{p_1}$$ is ___________.",
+      "answer": "76.25",
+      "explanation": "p<sub>1</sub> = 1 $$-$$ p (all 3 numbers are $$\\le$$ 80)<br/><br/>$$ = 1 - {\\left( {{{80} \\over {100}}} \\right)^3} = {{125 - 64} \\over {125}} = {{61} \\over {125}}$$<br/><br/>So, $${{625{p_1}} \\over 4} = {{625} \\over 4} \\times {{61} \\over {125}} = {5 \\over 4} \\times 61 = 76.25$$"
+    },
+    {
+      "_type": "numerical",
+      "body": "Three numbers are chosen at random, one after another with replacement, from the set S = {1, 2, 3, ......, 100}. Let p<sub>1</sub> be the probability that the maximum of chosen numbers is at least 81 and p<sub>2</sub> be the probability that the minimum of chosen numbers is at most 40.<br><br>The value of $${{125} \\over 4}{p_2}$$ is ___________.",
+      "answer": "24.5",
+      "explanation": "p<sub>2</sub> = 1 $$-$$ p (all three numbers are > 40)<br/><br/>$$ = 1 - {\\left( {{{60} \\over {100}}} \\right)^3} = 1 - {{27} \\over {125}} = {{98} \\over {125}}$$<br/><br/>So, $${{125{p_2}} \\over 4} = {{125} \\over 4} \\times {{98} \\over {125}} = {{98} \\over 4} = 24.50$$"
+    },
+    {
+      "_type": "numerical",
+      "body": "The probability that a missile hits a target successfully is 0.75. In order to destroy the target completely, at least three successful hits are required. Then the minimum number of missiles that have to be fired so that the probability of completely destroying the target is NOT less than 0.95, is ............",
+      "answer": "6",
+      "explanation": "It is given that the probability, a missile hits a target successfully $$p = {3 \\over 4}$$, so the probability to not hits the target is $${1 \\over 4}$$. And it is also given that to destroy the target completely, at least three successful hits are required.<br><br>Now, according to the question, let the minimum number of missiles required to fired is n, so<br><br>$$^n{C_3}{p^3}{q^{n - 3}}{ + ^n}{C_4}{p^4}{q^{n - 4}} + ...{ + ^n}{C_n}{p^n}\\, \\ge \\,0.95$$<br><br>$$ \\Rightarrow 1 - \\left\\{ {^n{C_0}{{\\left( {{1 \\over 4}} \\right)}^n}{ + ^n}{C_1}\\left( {{3 \\over 4}} \\right){{\\left( {{1 \\over 4}} \\right)}^{n - 1}}{ + ^n}{C_2}{{\\left( {{3 \\over 4}} \\right)}^2}{{\\left( {{1 \\over 4}} \\right)}^{n - 2}}} \\right\\}\\, \\ge \\,0.95$$<br><br>$$ \\Rightarrow 1 - {{95} \\over {100}}\\, \\ge \\,{1 \\over {{4^n}}} + {{3n} \\over {{4^n}}} + {{n(n - 1)} \\over 2}{9 \\over {{4^n}}}$$<br><br>$$ \\Rightarrow {{{4^n}} \\over {20}}\\, \\ge \\,{{2 + 6n + 9{n^2} - 9n} \\over 2}$$<br><br>$$ \\Rightarrow 10(9{n^2} - 3n + 2)\\, \\le \\,{4^n}$$<br><br>Now, at n = 3, LHS = 720, RHS = 64<br><br>at n = 4, LHS = 1340, RHS = 256<br><br>at n = 5, LHS = 2120, RHS = 1024<br><br>at n = 6, LHS = 3080, RHS = 4096<br><br>Hence, n = 6 missiles should be fired."
+    },
+    {
+      "_type": "numerical",
+      "body": "Two fair dice, each with faces numbered 1, 2, 3, 4, 5 and 6, are rolled together and the sum of the numbers on the faces is observed. This process is repeated till the sum is either a prime number or a perfect square. Suppose the sum turns out to be a perfect square before it turns out to be a prime number. If p is the probability that this perfect square is an odd number, then the value of 14p is ..........",
+      "answer": "8",
+      "explanation": "Let an event E of sum of outputs are perfect square (i.e., 4 or 9), so<br><br>E = {(1, 3), (2, 2), (3, 1), (3, 6), (4, 5), (5, 4), (6, 3)}<br><br>and an event F of sum of outputs are prime numbers<br><br>(i.e., 2, 3, 5, 7, 11) so<br><br>F = {(1, 1), (1, 2), (2, 1), (1, 4), (2, 3), (3, 2), (4, 1), (1, 6), (2, 5), (3, 4), (4, 3), (5, 2), (6, 1), (5, 6), (6, 5)}<br><br>and event T of sum of outputs are odd numbers<br><br>(i.e., 3, 5, 7, 9, 11)<br><br>T = {(1, 2), (2, 1), (1, 4), (2, 3), (3, 2), (4, 1), (1, 6), (2, 5), (3, 4), (4, 3), (5, 2), (6, 1), (3, 6), (4, 5), (5, 4), (6, 3), (5, 6), (6, 5)}<br><br>Now, required probability $$p = P(T/E)$$<br><br>$$ = {{P(T \\cap E)} \\over {P(E)}}$$<br><br>where, $${P(T \\cap E)}$$ = probability of occurring perfect square odd number before prime<br><br>$$ = \\left( {{4 \\over {36}}} \\right) + \\left( {{{14} \\over {36}}} \\right)\\left( {{4 \\over {36}}} \\right) + {\\left( {{{14} \\over {36}}} \\right)^2}\\left( {{4 \\over {36}}} \\right) + ....\\infty $$<br><br>$$ = {{{4 \\over {36}}} \\over {1 - {{14} \\over {36}}}} = {4 \\over {22}} = {2 \\over {11}}$$<br><br>and P(E) = probability of occurring perfect square before prime<br><br>$$ = \\left( {{7 \\over {36}}} \\right) + \\left( {{{14} \\over {36}}} \\right)\\left( {{7 \\over {36}}} \\right) + {\\left( {{{14} \\over {36}}} \\right)^2}\\left( {{7 \\over {36}}} \\right) + ....\\infty $$<br><br>$$ = {{{7 \\over {36}}} \\over {1 - {{14} \\over {36}}}} = {7 \\over {22}}$$<br><br>$$ \\therefore $$ $$P(T/E) = {{{2 \\over {11}}} \\over {{7 \\over {22}}}} = {4 \\over 7} = p \\Rightarrow 14p = 8$$"
+    },
+    {
+      "_type": "numerical",
+      "body": "Let S be the sample space of all 3 $$ \\times $$ 3 matrices with entries from the set {0, 1}. Let the events E<sub>1</sub> and E<sub>2</sub> be given by<br><br>E<sub>1</sub> = {A$$ \\in $$S : det A = 0} and<br><br>E<sub>2</sub> = {A$$ \\in $$S : sum of entries of A is 7}.<br><br>If a matrix is chosen at random from S, then the conditional probability P(E<sub>1</sub> | E<sub>2</sub>) equals ...............",
+      "answer": "0.5",
+      "explanation": "Given sample space (S) of al 3 $$ \\times $$ 3 matrices with entries from the set {0, 1} and events<br><br>E<sub>1</sub> = {A$$ \\in $$S : det(A) = 0} and<br><br>E<sub>2</sub> = {A$$ \\in $$S : sum of entries of A is 7}.<br><br>For event E<sub>2</sub>, means sum of entries of matrix A is 7, then we need seven 1s and two 0s.<br><br>$$ \\therefore $$ Number of different possible matrices = $${{9!} \\over {7!2!}}$$<br><br>$$ \\Rightarrow $$ n(E<sub>2</sub>) = 36<br><br>For event E<sub>1</sub>, |A| = 0, both the zeroes must be in same row/column.<br><br>$$ \\therefore $$ Number of matrices such that their determinant is zero = $$6 \\times {{3!} \\over {2!}}$$ = 18 = $$n({E_1} \\cap {E_2})$$<br><br>$$ \\therefore $$ Required probability,<br><br>$$P\\left( {{{{E_1}} \\over {{E_2}}}} \\right) = {{n({E_1} \\cap {E_2})} \\over {n({E_2})}}$$<br><br>$$ = {{18} \\over {36}}$$<br><br>$$ = {1 \\over 2} = 0.50$$"
+    },
+    {
+      "_type": "numerical",
+      "body": "The minimum number of times a fair coin needs to be tossed, so that the probability of getting at least two heads is at least $$0.96,$$ is",
+      "answer": "8",
+      "explanation": "<p>Let the coin is tossed $$n$$ times.</p>\n<p>$$\\because p$$ (at least 2 heads) $$=1-[p$$ (one heads) $$+p$$ (No heads)$$\\}$$</p>\n<p>As we know, by binominal probability theorem the probability of getting $$r$$ success in $$n$$ trials with $$p$$ being the probability of success and $$q$$ be the probability of failure, is given by $${ }^n \\mathrm{C}_r(p)^r(q)^{n-r}$$.</p>\n<p>Let head be considered as the success and tail be the failure probability of getting head in a toss $$=p=\\frac{1}{2}$$ and probability of getting tail in a toss $$=q=\\frac{1}{2}$$</p>\n<p>$$\\begin{aligned}\n& \\therefore \\mathrm{P}(\\text { one head })={ }^n \\mathrm{C}_1\\left(\\frac{1}{2}\\right)^1\\left(\\frac{1}{2}\\right)^{n-1} \\\\\n& ={ }^n \\mathrm{C}_1\\left(\\frac{1}{2}\\right)^n \\\\\n& \\Rightarrow \\mathrm{P} \\text { (one head) }=n\\left(\\frac{1}{2}\\right)^n \\\\\n& \\text { Similarly, } \\mathrm{P}(\\text {No heads})={ }^n \\mathrm{C}_0\\left(\\frac{1}{2}\\right)^0\\left(\\frac{1}{2}\\right)^n \\\\\n& \\Rightarrow \\mathrm{P}(\\text { No heads })=\\left(\\frac{1}{2}\\right)^n \\quad\\left\\{\\because n_{c_o}=1\\right\\} \\\\\n& \\therefore \\mathrm{P} \\text { (at least } 2 \\text { heads) }=1-\\left\\{n\\left(\\frac{1}{2}\\right)^n+\\left(\\frac{1}{2}\\right)^n\\right\\}\n\\end{aligned}$$</p>\n<p>$$\\begin{aligned}\n& \\qquad=1-\\frac{(n+1)}{2^n} \\\\\n& \\because P(\\text { at least } 2 \\text { heads }) \\geq 0.96 \\\\\n& \\Rightarrow 1-\\frac{(n+1)}{2^n} \\geq 0.96 \\\\\n& \\Rightarrow 0.04 \\geq \\frac{n+1}{2^n} \\\\\n& \\Rightarrow \\frac{1}{25} \\geq \\frac{n+1}{2^n} \\\\\n& \\Rightarrow \\frac{2^n}{n+1} \\geq 25 \\\\\n& \\Rightarrow n \\geq 8\n\\end{aligned}$$</p>\n<p>So, the minimum number of times a fair coin to be tossed is 8.</p>\n<p>Hint:</p>\n<p>(i) P (at least 2 heads) $$=1-\\{\\mathrm{P}$$ (one head} + $$\\mathrm{P}$$(No heads)}</p>\n<p>(ii) Use binomial probability theorem and simplify it.</p>"
+    },
+    {
+      "_type": "numerical",
+      "body": "Of the three independent events $${E_1},{E_2}$$ and $${E_3},$$ the probability that only $${E_1}$$ occurs is $$\\alpha ,$$ only $${E_2}$$ occurs is $$\\beta $$ and only $${E_3}$$ occurs is $$\\gamma .$$ Let the probability $$p$$ that none of events $${E_1},{E_2}$$ or  $${E_3}$$ occurs satisfy the equations $$\\left( {\\alpha -2\\beta } \\right)p = \\alpha \\beta $$ and $$\\left( {\\beta  - 3\\gamma } \\right)p = 2\\beta \\gamma .$$  All the given probabilities are assumed to lie in the interval $$(0, 1)$$. \n<p>Then $${{\\Pr obability\\,\\,of\\,\\,occurrence\\,\\,of\\,\\,{E_1}} \\over {\\Pr obability\\,\\,of\\,\\,occurrence\\,\\,of\\,\\,{E_3}}}$$  </p>",
+      "answer": "6",
+      "explanation": "<p>Given, three independent events $$\\mathrm{E}_1, \\mathrm{E}_2$$ and $$\\mathrm{E}_3$$.</p>\n<p>Probability that only</p>\n<p>$$\\mathrm{E}_1 \\text { occurs }=\\mathrm{P}\\left(\\mathrm{E}_1 \\cap \\overline{\\mathrm{E}}_2 \\cap \\overline{\\mathrm{E}}_3\\right)=\\alpha$$</p>\n<p>Probability that only</p>\n<p>$$\\mathrm{E}_2 \\text { occurs }=\\mathrm{P}\\left(\\mathrm{E}_1 \\cap \\overline{\\mathrm{E}}_2 \\cap \\overline{\\mathrm{E}}_3\\right)=\\beta$$</p>\n<p>Probability that only</p>\n<p>$$\\mathrm{E}_3 \\text { occurs }=P\\left(\\bar{E}_1 \\cap \\bar{E}_2 \\cap E_3\\right)=\\gamma$$</p>\n<p>Probability that none of $$E_1, E_2$$ or $$E_3$$ occurs</p>\n<p>$$=P\\left(\\overline{\\mathrm{E}}_1 \\cap \\overline{\\mathrm{E}}_2 \\cap \\overline{\\mathrm{E}}_3\\right)=\\rho$$</p>\n<p>$$\\begin{aligned}\n& \\text { Let } \\mathrm{P}\\left(\\mathrm{E}_1\\right)=x, \\mathrm{P}\\left(\\mathrm{E}_2\\right)=y \\text { and } \\mathrm{P}\\left(\\mathrm{E}_3\\right)=z \\\\\n& \\alpha=\\mathrm{P}\\left(\\mathrm{E}_1\\right) \\cdot \\mathrm{P}\\left(\\overline{\\mathrm{E}}_2\\right) \\cdot \\mathrm{P}\\left(\\overline{\\mathrm{E}}_3\\right) \\\\\n& \\Rightarrow \\quad \\alpha=x(1-y)(1-z) \\quad \\text{... (i)}\\\\\n& \\beta=\\mathrm{P}\\left(\\overline{\\mathrm{E}}_1\\right) \\cdot \\mathrm{P}\\left(\\mathrm{E}_2\\right) \\cdot \\mathrm{P}\\left(\\overline{\\mathrm{E}}_3\\right) \\\\\n& \\Rightarrow \\quad \\beta=(1-x) \\cdot(y)(1-z) \\quad \\text{... (ii)}\\\\\n& \\gamma=\\mathrm{P}\\left(\\overline{\\mathrm{E}}_1\\right) \\cdot \\mathrm{P}\\left(\\overline{\\mathrm{E}}_2\\right) \\cdot \\mathrm{P}\\left(\\mathrm{E}_3\\right) \\\\\n& \\Rightarrow \\quad \\gamma=(1-x)(1-y) z \\quad \\text{... (iii)}\\\\\n& \\rho=\\mathrm{P}\\left(\\overline{\\mathrm{E}}_1\\right) \\cdot \\mathrm{P}\\left(\\overline{\\mathrm{E}}_2\\right) \\cdot \\mathrm{P}\\left(\\overline{\\mathrm{E}}_3\\right) \\\\\n& \\Rightarrow \\quad \\rho=(1-x)(1-y)(1-z) \\quad \\text{... (iv)}\\\\\n\\end{aligned}$$</p>\n<p>Given $$(\\alpha-2 \\beta) \\rho=a \\beta$$ and $$(\\beta-3 \\gamma) \\rho=2 b \\gamma$$</p>\n<p>$$\\begin{aligned}\n\\Rightarrow \\quad & {[x(1-y)(1-z)-2(1-x) y(1-z)](1-x) } \\\\\n& (1-y)(1-z) \\\\\n& =x(1-y)(1-z) \\cdot(1-x) y(1-z) \\text { and } \\\\\n& {[(1-x) y(1-z)-3(1-x)(1-y) z](1-x) } \\\\\n& (1-y)(1-z) \\\\\n& =2(1-x) y(1-z) \\cdot(1-x)(1-y) z \\\\\n\\Rightarrow \\quad & {[x-x y-2 y+2 x y](1-x)(1-y)(1-z)^2 } \\\\\n& =x y(1-x)(1-y)(1-z)^2 \\text { and } \\\\\n& {[y-y z-3 z+3 y z](1-x)^2(1-y)(1-z) } \\\\\n& =2 y z(1-x)^2(1-y)(1-z) \\\\\n\\Rightarrow \\quad & (x-2 y+x y)=x y \\text { and }(y-3 z+2 y z)=2 y z \\\\\n\\Rightarrow \\quad & x=2 y \\text { and } y=3 z \\\\\n\\Rightarrow \\quad & \\frac{x}{2}=y=3 z \\\\\n\\Rightarrow \\quad & \\frac{x}{Z}=6\n\\end{aligned}$$</p>\n<p>$$\\Rightarrow \\frac{\\text { Probability of occurrence of } E_1}{\\text { Probability of occurrence of } E_3}=\\frac{x}{Z}=6$$</p>\n<p>Hints :</p>\n<p>If $$\\mathrm{A}, \\mathrm{B}, \\mathrm{C}$$ are independent events, then probability of occurrence of only event A</p>\n<p>$$=\\mathrm{P}(\\mathrm{A} \\cap \\overline{\\mathrm{B}} \\cap \\overline{\\mathrm{C}})=\\mathrm{P}(\\mathrm{A}) \\cdot \\mathrm{P}(\\overline{\\mathrm{B}}) \\cdot \\mathrm{P}(\\overline{\\mathrm{C}})$$.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>A student appears for a quiz consisting of only true-false type questions and answers all the questions. The student knows the answers of some questions and guesses the answers for the remaining questions. Whenever the student knows the answer of a question, he gives the correct answer. Assume that the probability of the student giving the correct answer for a question, given that he has guessed it, is $\\frac{1}{2}$. Also assume that the probability of the answer for a question being guessed, given that the student's answer is correct, is $\\frac{1}{6}$. Then the probability that the student knows the answer of a randomly chosen question is :</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "$\\frac{1}{12}$"
+        },
+        {
+          "key": "B",
+          "value": "$\\frac{1}{7}$"
+        },
+        {
+          "key": "C",
+          "value": "$\\frac{5}{7}$"
+        },
+        {
+          "key": "D",
+          "value": "$\\frac{5}{12}$"
+        }
+      ],
+      "answer": "C",
+      "explanation": "<p>We can solve this problem using Bayes' theorem. Let's define the following events :</p>\n\n<p>\n\n<p>$A$: The student knows the answer of a randomly chosen question.<br></p>\n\n<p>$B$: The student guesses the answer of a randomly chosen question.<br></p>\n\n<p>$C$: The student gives the correct answer to a question.</p>\n\n</p>\n\n<p>We are asked to find the probability that the student knows the answer of a randomly chosen question, i.e., $P(A | C)$. According to Bayes' theorem,</p>\n\n<p>$$ P(A | C) = \\frac{P(C | A) \\cdot P(A)}{P(C)} $$</p>\n\n<p>We need to find the values of $P(C | A)$, $P(A)$, and $P(C)$. Let's proceed step by step :</p>\n\n<p>1. $P(C | A)$ is the probability that the student gives the correct answer given that he knows the answer. Since he knows the answer, he will definitely give the correct answer. Therefore,</p>\n\n<p>$$ P(C | A) = 1 $$</p>\n\n<p>2. $P(A)$ is the probability that the student knows the answer of a randomly chosen question. We don't have this value directly, and we will denote it as $P(A)$. Likewise, the probability that the student guesses the answer is $P(B) = 1 - P(A)$.</p>\n\n<p>3. $P(C)$ is the total probability that the student gives the correct answer. This can be calculated using the Law of Total Probability :</p>\n\n<p>$$ P(C) = P(C | A) \\cdot P(A) + P(C | B) \\cdot P(B) $$</p>\n\n<p>Where:</p>\n\n<p>$$ P(C | B) = \\frac{1}{2} $$</p>\n\n<p>(The probability that the student gives the correct answer given that he guessed it), and</p>\n\n<p>$$ P(B | C) = \\frac{1}{6} $$</p>\n\n<p>(The probability that the answer was guessed given the student's answer is correct).</p>\n\n<p>We also have the relation :</p>\n\n<p>$$ P(B | C) = \\frac{P(C | B) \\cdot P(B)}{P(C)} $$</p>\n\n<p>Substitute the known values and simplify :</p>\n\n<p>$$ \\frac{1}{6} = \\frac{\\frac{1}{2} \\cdot P(B)}{P(C)} $$</p>\n\n<p>Solving for $P(C)$ gives :</p>\n\n<p>$$ P(C) = 3 \\cdot P(B) $$</p>\n\n<p>From $P(B) = 1 - P(A)$, we get :</p>\n\n<p>$$ P(C) = 3 \\cdot (1 - P(A)) $$</p>\n\n<p>We also know from our Law of Total Probability calculation :</p>\n\n<p>$$ P(C) = P(A) + \\frac{1}{2} \\cdot (1 - P(A)) $$</p>\n\n<p>Equate the two expressions for $P(C)$ :</p>\n\n<p>$$ P(A) + \\frac{1}{2} \\cdot (1 - P(A)) = 3 \\cdot (1 - P(A)) $$</p>\n\n<p>Simplify this equation:</p>\n\n<p>$$ P(A) + \\frac{1}{2} - \\frac{1}{2} \\cdot P(A) = 3 - 3 \\cdot P(A) $$</p>\n\n<p>$$ P(A) - \\frac{1}{2} \\cdot P(A) + \\frac{1}{2} = 3 - 3 \\cdot P(A) $$</p>\n\n<p>$$ \\frac{1}{2} \\cdot P(A) + \\frac{1}{2} = 3 - 3 \\cdot P(A) $$</p>\n\n<p>$$ \\frac{7}{2} \\cdot P(A) = \\frac{5}{2} $$</p>\n\n<p>$$ P(A) = \\frac{5}{7} $$</p>\n\n<p>Thus, the probability that the student knows the answer of a randomly chosen question is :</p>\n\n<p>$$ \\boxed{\\frac{5}{7}} $$</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Consider an experiment of tossing a coin repeatedly until the outcomes of two consecutive tosses are same. If the probability of a random toss resulting in head is $\\frac{1}{3}$, then the probability that the experiment stops with head is :",
+      "options": [
+        {
+          "key": "A",
+          "value": "$\\frac{1}{3}$"
+        },
+        {
+          "key": "B",
+          "value": "$\\frac{5}{21}$"
+        },
+        {
+          "key": "C",
+          "value": "$\\frac{4}{21}$"
+        },
+        {
+          "key": "D",
+          "value": "$\\frac{2}{7}$"
+        }
+      ],
+      "answer": "B",
+      "explanation": "<p>We are given a biased coin with the probability of getting heads (H) as $\\frac{1}{3}$ and thus, the probability of getting tails (T) is $\\frac{2}{3}$ (since the total probability of getting either heads or tails should sum to 1). </p>\n<p>The experiment involves tossing this coin repeatedly until we obtain two identical outcomes in a row. We are interested in the case where the experiment ends with two consecutive heads.</p>\n<p>Let&#39;s consider two different scenarios for the sequences of coin tosses :</p>\n<ol>\n<li>Sequences that begin with a head and end with HH (like HH, HTHH, HTHTHH, and so on).</li>\n<li>Sequences that begin with a tail and end with HH (like THH, THTHH, THTHTHH, and so on).</li>\n</ol>\n<p>Both types of sequences will result in the experiment ending, so we need to consider both in our final probability calculation.</p>\n<h4 id=\"scenario-1-sequences-beginning-with-h\">Scenario 1 : Sequences beginning with H</h4>\n<p>The simplest sequence is getting HH right away. The probability of this event is $(\\frac{1}{3})^2 = \\frac{1}{9}$. </p>\n<p>The next sequence is getting a head, then a tail, and then HH (i.e., HTHH). The probability of this sequence is $\\frac{1}{3} \\cdot \\frac{2}{3} \\cdot (\\frac{1}{3})^2 = \\frac{2}{81}$.</p>\n<p>We can see a pattern in these sequences. Each sequence in this scenario can be described as getting one head, followed by some number of &quot;tail, head&quot; pairs, and ending with HH. </p>\n<p>Hence, the sequences in this scenario form a geometric series, where the ratio between consecutive terms is $r = P(HT) = \\frac{1}{3} \\cdot \\frac{2}{3} = \\frac{2}{9}$. </p>\n<p>The sum of an infinite geometric series is given by the formula $\\frac{a}{1 - r}$, where $a$ is the first term of the series and $r$ is the common ratio.</p>\n<p>In this scenario, the first term is the probability of getting HH immediately, which is $\\frac{1}{9}$. So, the sum of this series is :</p>\n<p>$$S_1 = \\frac{1/9}{1 - 2/9} = \\frac{1/9}{7/9} = \\frac{1}{7}.$$</p>\n<h4 id=\"scenario-2-sequences-beginning-with-t\">Scenario 2 : Sequences beginning with T</h4>\n<p>In this scenario, we first get a tail, and then we follow the same pattern as in the first scenario.</p>\n<p>The simplest sequence is THH, with a probability of $\\frac{2}{3} \\cdot (\\frac{1}{3})^2 = \\frac{2}{27}$.</p>\n<p>The next sequence is getting a tail, a head, another tail, and then HH (i.e., THTHH). The probability of this sequence is $\\frac{2}{3} \\cdot \\frac{1}{3} \\cdot \\frac{2}{3} \\cdot (\\frac{1}{3})^2 = \\frac{4}{243}$.</p>\n<p>As before, these sequences form a geometric series, with the ratio between consecutive terms is $r = P(TH) = \\frac{2}{9}$.</p>\n<p>In this scenario, the first term is the probability of getting THH, which is $\\frac{2}{27}$. So, the sum of this series is :</p>\n<p>$$S_2 = \\frac{2/27}{1 - 2/9} = \\frac{2/27}{7/9} = \\frac{2}{21}.$$</p>\n<p>Finally, to calculate the total probability of the experiment ending with two consecutive heads, we need to sum up the probabilities calculated in both scenarios:</p>\n<p>$$P(\\text{HH}) = S_1 + S_2 = \\frac{1}{7} + \\frac{2}{21} = \\frac{5}{21}.$$</p>\n<p>So, the answer to the problem is $\\frac{5}{21}$ (Option B).</p>\n"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Two players, $$P_{1}$$ and $$P_{2}$$, play a game against each other. In every round of the game, each player rolls a fair die once, where the six faces of the die have six distinct numbers. Let $$x$$ and $$y$$ denote the readings on the die rolled by $$P_{1}$$ and $$P_{2}$$, respectively. If $$x>y$$, then $$P_{1}$$ scores 5 points and $$P_{2}$$ scores 0 point. If $$x=y$$, then each player scores 2 points. If $$x < y$$, then $$P_{1}$$ scores 0 point and $$P_{2}$$ scores 5 points. Let $$X_{i}$$ and $$Y_{i}$$ be the total scores of $$P_{1}$$ and $$P_{2}$$, respectively, after playing the $$i^{\\text {th }}$$ round.</p>\n<p><style type=\"text/css\">\n.tg  {border-collapse:collapse;border-spacing:0;}\n.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg .tg-amwm{font-weight:bold;text-align:center;vertical-align:top}\n.tg .tg-0lax{text-align:left;vertical-align:top}\n</style>\n<table class=\"tg\" style=\"width: 420px\">\n<thead>\n  <tr>\n    <th class=\"tg-amwm\">List-I</th>\n    <th class=\"tg-amwm\"><span style=\"font-weight:bold;font-style:normal\">List-II</span></th>\n  </tr>\n</thead>\n<tbody>\n  <tr>\n    <td class=\"tg-0lax\">(I) Probability of $$\\left(X_{2} \\geq Y_{2}\\right)$$ is</td>\n    <td class=\"tg-0lax\">(P) $$\\frac{3}{8}$$</td>\n  </tr>\n  <tr>\n    <td class=\"tg-0lax\">(II) Probability of $$\\left(X_{2}&gt;Y_{2}\\right)$$ is</td>\n    <td class=\"tg-0lax\">(Q) $$\\frac{11}{16}$$</td>\n  </tr>\n  <tr>\n    <td class=\"tg-0lax\">(III) Probability of $$\\left(X_{3}=Y_{3}\\right)$$ is</td>\n    <td class=\"tg-0lax\">(R) $$\\frac{5}{16}$$</td>\n  </tr>\n  <tr>\n    <td class=\"tg-0lax\">(IV) Probability of $$\\left(X_{3}&gt;Y_{3}\\right)$$ is</td>\n    <td class=\"tg-0lax\">(S) $$\\frac{355}{864}$$</td>\n  </tr>\n  <tr>\n    <td class=\"tg-0lax\"></td>\n    <td class=\"tg-0lax\">(T) $$\\frac{77}{432}$$</td>\n  </tr>\n</tbody>\n</table></p>\n<p>The correct option is:</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "(I) $$\\rightarrow$$ (Q); (II) $$\\rightarrow$$ (R); (III) $$\\rightarrow$$ (T); (IV) $$\\rightarrow(S)$$"
+        },
+        {
+          "key": "B",
+          "value": "(I) $$\\rightarrow$$ (Q); (II) $$\\rightarrow$$ (R); (III) $$\\rightarrow$$ (T); (IV) $$\\rightarrow$$ (T)"
+        },
+        {
+          "key": "C",
+          "value": " (I) $$\\rightarrow$$ (P); (II) $$\\rightarrow$$ (R); (III) $$\\rightarrow(\\mathrm{Q}) ;(\\mathrm{IV}) \\rightarrow(\\mathrm{S})$$"
+        },
+        {
+          "key": "D",
+          "value": " (I) $$\\rightarrow$$ (P); (II) $$\\rightarrow$$ (R); (III) $$\\rightarrow$$ (Q); (IV) $$\\rightarrow$$ (T) "
+        }
+      ],
+      "answer": "A",
+      "explanation": "Given, \n<br/><br/>$$\n\\begin{aligned}\n& P(\\text { draw in } 1 \\text { round })=\\frac{6}{36}=\\frac{1}{6} \\\\\\\\\n& P(\\text { win in } 1 \\text { round })=\\frac{1}{2}\\left(1-\\frac{1}{6}\\right)=\\frac{5}{12} \\\\\\\\\n& P(\\text { loss in } 1 \\text { round })=\\frac{5}{12}\n\\end{aligned}\n$$\n<br/><br/>Now finding the probability of all we get.\n<br/><br/>$$\n\\begin{aligned}\n& \\mathrm{P}\\left(\\mathrm{X}_2>\\mathrm{Y}_2\\right)=\\mathrm{P}(10,0)+\\mathrm{P}(7,2) \\\\\\\\\n& =\\frac{5}{12} \\times \\frac{5}{12}+\\frac{5}{12} \\times \\frac{1}{6} \\times 2 \\\\\\\\\n& =\\frac{45}{144}=\\frac{5}{16} \\rightarrow \\mathrm{R} \\\\\\\\\n& \\mathrm{P}\\left(\\mathrm{X}_2=\\mathrm{Y}_2\\right)=\\mathrm{P}(5,5)+\\mathrm{P}(4,4) \\\\\\\\\n& =\\frac{5}{12} \\times \\frac{5}{12} \\times 2+\\frac{1}{6} \\times \\frac{1}{6} \\\\\\\\\n& =\\frac{25+2}{72}=\\frac{3}{8} \\\\\\\\\n& \\mathrm{P}\\left(\\mathrm{X}_3=\\mathrm{Y}_3\\right)=\\mathrm{P}(6,6)+\\mathrm{P}(7,7) \\\\\\\\\n& =\\frac{1}{6 \\times 6 \\times 6}+\\frac{5}{12} \\times \\frac{1}{6} \\times \\frac{5}{12} \\times \\frac{1}{6} \\\\\\\\\n& =\\frac{77}{432} \\rightarrow \\mathrm{F} \\\\\\\\\n& \\mathrm{P}\\left(\\mathrm{X}_3>\\mathrm{Y}_3\\right)=\\frac{1}{2}\\left(1-\\frac{77}{432}\\right)=\\frac{355}{864} \\rightarrow \\mathrm{S} \\\\\\\\\n& P\\left(X_2 \\geq Y_2\\right)=\\frac{5}{16}+\\frac{3}{8}=\\frac{11}{16} \\rightarrow \\mathrm{Q}\n\\end{aligned}\n$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "There are five students S<sub>1</sub>, S<sub>2</sub>, S<sub>3</sub>, S<sub>4</sub> and S<sub>5</sub> in a music class and for them there are five seats R<sub>1</sub>, R<sub>2</sub>, R<sub>3</sub>, R<sub>4</sub> and R<sub>5</sub> arranged in a row, where initially the seat R<sub>i</sub> is allotted to the student S<sub>i</sub>, i = 1, 2, 3, 4, 5. But, on the examination day, the five students are randomly allotted the five seats.<br><br>(There are two questions based on Paragraph \"A\", the question given below is one of them)<br><br>The probability that, on the examination day, the student S<sub>1</sub> gets the previously allotted seat R<sub>1</sub>, and NONE of the remaining students gets the seat previously allotted to him/her is",
+      "options": [
+        {
+          "key": "A",
+          "value": "$${3 \\over {40}}$$"
+        },
+        {
+          "key": "B",
+          "value": "$${1 \\over 8}$$"
+        },
+        {
+          "key": "C",
+          "value": "$${7 \\over 40}$$"
+        },
+        {
+          "key": "D",
+          "value": "$${1 \\over 5}$$"
+        }
+      ],
+      "answer": "A",
+      "explanation": "Here, five students S<sub>1</sub>, S<sub>1</sub>, S<sub>3</sub>, S<sub>4</sub> and S<sub>5</sub> and five seats R<sub>1</sub>, R<sub>2</sub>, R<sub>3</sub>, R<sub>4</sub> and R<sub>5</sub><br><br>$$ \\therefore $$ Total number of arrangement of sitting five students is 5! = 120<br><br>Here, S<sub>1</sub> gets previously allotted seat R<sub>1</sub><br><br>$$ \\therefore $$ S<sub>2</sub>, S<sub>3</sub>, S<sub>4</sub> and S<sub>5</sub> not get previously seats. <br><br>Total number of way S<sub>2</sub>, S<sub>3</sub>, S<sub>4</sub> and S<sub>5</sub> not get previously seats is<br><br>$$4!\\left( {1 - {1 \\over {1!}} + {1 \\over {2!}} - {1 \\over {3!}} + {1 \\over {4!}}} \\right)$$<br><br>$$ = 24\\left( {1 - 1 + {1 \\over 2} - {1 \\over 6} + {1 \\over {24}}} \\right)$$<br><br>$$ = 24\\left( {{{12 - 4 + 1} \\over {24}}} \\right) = 9$$<br><br>$$ \\therefore $$ Required probability = $${9 \\over {120}} = {3 \\over {40}}$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "There are five students S<sub>1</sub>, S<sub>2</sub>, S<sub>3</sub>, S<sub>4</sub> and S<sub>5</sub> in a music class and for them there are five seats R<sub>1</sub>, R<sub>2</sub>, R<sub>3</sub>, R<sub>4</sub> and R<sub>5</sub> arranged in a row, where initially the seat R<sub>i</sub> is allotted to the student S<sub>i</sub>, i = 1, 2, 3, 4, 5. But, on the examination day, the five students are randomly allotted the five seats.<br><br>(There are two questions based on Paragraph \"A\", the question given below is one of them)<br><br>For i = 1, 2, 3, 4, let T<sub>i</sub> denote the event that the students S<sub>i</sub> and S<sub>i+1</sub> do NOT sit adjacent to each other on the day of the examination. Then, the probability of the event $${T_1} \\cap {T_2} \\cap {T_3} \\cap {T_4}$$ is",
+      "options": [
+        {
+          "key": "A",
+          "value": "$${1 \\over {15}}$$"
+        },
+        {
+          "key": "B",
+          "value": "$${1 \\over {10}}$$"
+        },
+        {
+          "key": "C",
+          "value": "$${7 \\over {60}}$$"
+        },
+        {
+          "key": "D",
+          "value": "$${1 \\over {5}}$$"
+        }
+      ],
+      "answer": "C",
+      "explanation": "Here, $$n({T_1} \\cap {T_2} \\cap {T_3} \\cap {T_4})$$ = Total $$ - n(\\overline {{T_1}}  \\cup \\overline {{T_2}}  \\cup \\overline {{T_3}}  \\cup \\overline {{T_4}} )$$<br><br>$$ \\Rightarrow $$ $$n({T_1} \\cap {T_2} \\cap {T_3} \\cap {T_4})$$<br><br>$$ = 5! - [{}^4{C_1}4!2!\\, - ({}^3{C_1}3!2! + {}^3{C_1}3!2!2!) + ({}^2{C_1}2!2!\\, + \\,{}^4{C_1}2.2!) - 2]$$<br><br>$$ \\Rightarrow $$ $$n({T_1} \\cap {T_2} \\cap {T_3} \\cap {T_4})$$<br><br>$$ = 120 - [192 - (36 + 72) + (8 + 16) - 2]$$<br><br>$$ = 120 - [192 - 108 + 24 - 2] = 14$$<br><br>$$ \\therefore $$ Required probability = $${{14} \\over {120}} = {7 \\over {60}}$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Three randomly chosen nonnegative integers x, y and z are found to satisfy the equation x + y + z = 10. Then the probability that z is even, is",
+      "options": [
+        {
+          "key": "A",
+          "value": "$${1 \\over {2}}$$"
+        },
+        {
+          "key": "B",
+          "value": "$${36 \\over {55}}$$"
+        },
+        {
+          "key": "C",
+          "value": "$${6 \\over {11}}$$"
+        },
+        {
+          "key": "D",
+          "value": "$${5 \\over {11}}$$"
+        }
+      ],
+      "answer": "C",
+      "explanation": "<p>To solve this problem, we need to find the total number of possible solutions to the equation $ x + y + z = 10 $ where $ x, y, $ and $ z $ are nonnegative integers.</p>\n\n<p>First, we employ the \"stars and bars\" method to determine the number of nonnegative integer solutions to this equation. This method states that the number of ways to partition $ n $ identical items (our sum) into $ k $ distinct groups (our variables) is given by:</p>\n\n<p>$$ \\binom{n + k - 1}{k - 1} $$</p>\n\n<p>For $ x + y + z = 10 $, we have $ n = 10 $ and $ k = 3 $. Plugging into the formula, we get:</p>\n\n<p>$$ \\binom{10 + 3 - 1}{3 - 1} = \\binom{12}{2} $$</p>\n\n<p>We calculate the binomial coefficient:</p>\n\n<p>$$ \\binom{12}{2} = \\frac{12 \\times 11}{2 \\times 1} = 66 $$</p>\n\n<p>So, there are 66 possible solutions to the equation $ x + y + z = 10 $.</p>\n\n<p>Next, we need to find the number of solutions for which $ z $ is even. Let $ z = 2k $ where $ k $ is a nonnegative integer. Then the equation becomes:</p>\n\n<p>$$ x + y + 2k = 10 $$</p>\n\n<p>Rearranging it, we get:</p>\n\n<p>$$ x + y = 10 - 2k $$</p>\n\n<p>Here, $ 10 - 2k $ must be nonnegative, so $ k $ can take values $ 0, 1, 2, 3, 4, 5 $ making total 6 possible values of k.</p>\n\n<p>For each value of $ k $, $ x + y $ must equal the corresponding $ 10 - 2k $. The number of nonnegative integer solutions to $ x + y = m $ for any nonnegative integer $ m $ is given by:</p>\n\n<p>$$ \\binom{m + 1}{1} = m + 1 $$</p>\n\n<p>We will sum the solutions for each valid $ k $:</p>\n\n<p>When $ k = 0 $: $ x + y = 10 $, the number of solutions is $ 11 $.<br>\n\n<p>When $ k = 1 $: $ x + y = 8 $, the number of solutions is $ 9 $.<br></p>\n\n<p>When $ k = 2 $: $ x + y = 6 $, the number of solutions is $ 7 $.<br></p>\n\n<p>When $ k = 3 $: $ x + y = 4 $, the number of solutions is $ 5 $.<br></p>\n\n<p>When $ k = 4 $: $ x + y = 2 $, the number of solutions is $ 3 $.<br></p>\n\n<p>When $ k = 5 $: $ x + y = 0 $, the number of solutions is $ 1 $.<br></p></p>\n\n<p>Summing these, we get:</p>\n\n<p>$$ 11 + 9 + 7 + 5 + 3 + 1 = 36 $$</p>\n\n<p>Thus, there are 36 solutions where $ z $ is even out of a total of 66 solutions. Hence, the probability that $ z $ is even is given by:</p>\n\n<p>$$ \\frac{36}{66} = \\frac{6}{11} $$</p>\n\n<p>Thus, the correct answer is:</p>\n\n<p>Option C: $$ \\frac{6}{11} $$</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Football teams $${T_1}$$ and $${T_2}$$ have to play two games against each other. It is assumed that the outcomes of the two games are independent. The probabilities of $${T_1}$$ winning, drawing and losing a game against $${T_2}$$ are $${1 \\over 2},{1 \\over 6}$$ and $${1 \\over 3}$$  respectively. Each team gets $$3$$ points for a win, $$1$$ point for a draw and $$0$$ point for a loss in a game. Let $$X$$ and $$Y$$ denote the total points scored by teams $${T_1}$$  and $${T_2}$$  respectively after two games.\n<p>$$P\\,\\left( {X = Y} \\right)$$ is </p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "$${{11} \\over {36}}$$ "
+        },
+        {
+          "key": "B",
+          "value": "$${{1} \\over {3}}$$"
+        },
+        {
+          "key": "C",
+          "value": "$${{13} \\over {36}}$$"
+        },
+        {
+          "key": "D",
+          "value": "$${{1} \\over {2}}$$"
+        }
+      ],
+      "answer": "C",
+      "explanation": "<p>$$\\bullet$$ Probability of wining of T<sub>1</sub> against T<sub>2</sub> = 1/2.</p>\n<p>$$\\bullet$$ Probability of drawing of T<sub>1</sub> against T<sub>2</sub> is = 1/6.</p>\n<p>$$\\bullet$$ Probability of losing of T<sub>1</sub> against T<sub>2</sub> is = 1/3.</p>\n<p>$$\\bullet$$ 3 points for win.</p>\n<p>$$\\bullet$$ 1 point for draw.</p>\n<p>$$\\bullet$$ 0 point for loss.</p>\n<p>P[X = Y] = P(draw) . P(draw) + P(T<sub>1</sub> win) P(T<sub>2</sub> win) + P(T<sub>2</sub> win) . P(T<sub>1</sub> win)</p>\n<p>= (1/6 $$\\times$$ 1/6) + (1/2 $$\\times$$ 1/3) + (1/3 $$\\times$$ 1/2) = 13/36</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Football teams $${T_1}$$ and $${T_2}$$ have to play two games against each other. It is assumed that the outcomes of the two games are independent. The probabilities of $${T_1}$$ winning, drawing and losing a game against $${T_2}$$ are $${1 \\over 2},{1 \\over 6}$$ and $${1 \\over 3}$$  respectively. Each team gets $$3$$ points for a win, $$1$$ point for a draw and $$0$$ point for a loss in a game. Let $$X$$ and $$Y$$ denote the total points scored by teams $${T_1}$$  and $${T_2}$$  respectively after two games.\n<p>$$\\,\\,\\,\\,P\\,\\left( {X &gt; Y} \\right)$$ is</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "$${1 \\over 4}$$"
+        },
+        {
+          "key": "B",
+          "value": "$${5 \\over 12}$$"
+        },
+        {
+          "key": "C",
+          "value": "$${1 \\over 2}$$"
+        },
+        {
+          "key": "D",
+          "value": "$${7 \\over 12}$$"
+        }
+      ],
+      "answer": "B",
+      "explanation": "<p>$$\\bullet$$ Probability of wining of T<sub>1</sub> against T<sub>2</sub> is = 1/2.</p>\n<p>$$\\bullet$$ Probability of drawing of T<sub>1</sub> against T<sub>2</sub> is = 1/6.</p>\n<p>$$\\bullet$$ Probability of losing of T<sub>1</sub> against T<sub>2</sub> is = 1/3.</p>\n<p>$$\\bullet$$3 points for win.</p>\n<p>$$\\bullet$$1 point for draw.</p>\n<p>$$\\bullet$$ 0 point for loss.</p>\n<p>Here, P(X > Y) = P(T<sub>1</sub> win) P(T<sub>1</sub> win) + P(T<sub>1</sub> win) P(draw) + P(draw) P(T<sub>1</sub> win)</p>\n<p>$$ = \\left( {{1 \\over 2} \\times {1 \\over 2}} \\right) + \\left( {{1 \\over 2} \\times {1 \\over 6}} \\right) + \\left( {{1 \\over 6} \\times {1 \\over 2}} \\right) = {5 \\over {12}}$$</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A computer producing factory has only two plants $${T_1}$$ and $${T_2}.$$ Plant $${T_1}$$ produces $$20$$% and plant $${T_2}$$ produces $$80$$% of the total computers produced. $$7$$% of computers produced in the factory turn out to be defective.  It is known that $$P$$ (computer turns out to be defective given that it is produced in plant $${T_1}$$)\n<br>$$ = 10P$$ (computer turns out to be defective given that it is produced in plant $${T_2}$$),\n<br>where $$P(E)$$ denotes the probability of an event $$E$$. A computer produced in the factory is randomly selected and it does not turn out to be defective. Then the probability that it is produced in plant $${T_2}$$ is \n",
+      "options": [
+        {
+          "key": "A",
+          "value": "$${{36} \\over {73}}$$ "
+        },
+        {
+          "key": "B",
+          "value": "$${{47} \\over {79}}$$"
+        },
+        {
+          "key": "C",
+          "value": "$${{78} \\over {93}}$$"
+        },
+        {
+          "key": "D",
+          "value": "$${{75} \\over {83}}$$"
+        }
+      ],
+      "answer": "C",
+      "explanation": "Let $P_1$ be the defective computers that are produced from plant $T_1$ and $P_2$ be that from plant $T_2$.<br/><br/>\nThe total percentage of the defective computers produced is $7 \\%$.<br/><br/>\nNow, $P_1=10 P$ and $P_2=P$.<br/><br/>\nThe computers produced that are defective:<br/><br/>\n$$\n\\begin{gathered}\n\\frac{20}{100} \\times P_1+\\frac{80}{100} \\times P_2=\\frac{7}{100} \\\\\\\\\n20 P_1+80 P_2=7 \\\\\\\\\n200 P+80 P=7 \\\\\\\\\nP=\\frac{7}{280}=\\frac{1}{40}\n\\end{gathered}\n$$<br/><br/>\nNow, the probability of the defective products is calculated as follows:<br/><br/>\n$$\n\\frac{20}{100} P_1+\\frac{80}{100} P_2=\\frac{20}{100} \\times \\frac{1}{4}+\\frac{80}{100} \\times \\frac{1}{40}=\\frac{28}{400}=\\frac{7}{100}\n$$<br/><br/>\nThe probability of producing NOT defective computers is<br/><br/>\n$$\n1-\\frac{7}{100}=\\frac{93}{100}\n$$<br/><br/>\nThe probability that plant $T_2$ produces NOT defective computers is calculated as follows:<br/><br/>\n$$\n\\frac{(80 / 100) \\times(39 / 40)}{(93 / 100)}=\\frac{78}{93}\n$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Three boys and two girls stand in a queue.  The probability, that the number of boys ahead of every girl is at least one more than the number of girls ahead of her, is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$${1 \\over 2}$$ "
+        },
+        {
+          "key": "B",
+          "value": "$${1 \\over 3}$$"
+        },
+        {
+          "key": "C",
+          "value": "$${2 \\over 3}$$"
+        },
+        {
+          "key": "D",
+          "value": "$${3 \\over 4}$$"
+        }
+      ],
+      "answer": "A",
+      "explanation": "<p>Given, 3 boys and 2 girls stand in a queue.</p>\n<p>Sample space $$n(s)=\\left| \\!{\\underline {\\,\n  {5} \\,}} \\right.=120$$</p>\n<p>According to the given condition, following cases may arise.</p>\n<p>BGGBB $$\\quad \\left| \\!{\\underline {\\,\n  {3} \\,}} \\right. \\left| \\!{\\underline {\\,\n  {2} \\,}} \\right.$$</p>\n<p>GGBBB $$\\quad \\left| \\!{\\underline {\\,\n  {3} \\,}} \\right. \\left| \\!{\\underline {\\,\n  {2} \\,}} \\right.$$</p>\n<p>GBGBB $$\\quad \\left| \\!{\\underline {\\,\n  {3} \\,}} \\right. \\left| \\!{\\underline {\\,\n  {2} \\,}} \\right.$$</p>\n<p>GBBGB $$\\quad \\left| \\!{\\underline {\\,\n  {3} \\,}} \\right. \\left| \\!{\\underline {\\,\n  {2} \\,}} \\right.$$</p>\n<p>BGBGB $$\\quad \\left| \\!{\\underline {\\,\n  {3} \\,}} \\right. \\left| \\!{\\underline {\\,\n  {2} \\,}} \\right.$$</p>\n<p>So, number of favorable ways $$=5\\left| \\!{\\underline {\\,\n  {3} \\,}} \\right. \\left| \\!{\\underline {\\,\n  {2} \\,}} \\right.=60$$</p>\n<p>Required probability $$=\\frac{60}{120}=\\frac{1}{2}$$</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A box $${B_1}$$ contains $$1$$ white ball, $$3$$ red balls and $$2$$ black balls. Another box $${B_2}$$ contains $$2$$ white balls, $$3$$ red balls and $$4$$ black balls. A third box $${B_3}$$ contains $$3$$ white balls, $$4$$ red balls and $$5$$ black balls.\n <p>If $$2$$ balls are drawn (without replacement) from a randomly selected box and one of the balls is white and the other ball is red, the probability that these $$2$$ balls are drawn from box $${B_2}$$ is</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "$${{116} \\over {181}}$$ "
+        },
+        {
+          "key": "B",
+          "value": "$${{126} \\over {181}}$$"
+        },
+        {
+          "key": "C",
+          "value": "$${{65} \\over {181}}$$"
+        },
+        {
+          "key": "D",
+          "value": "$${{55} \\over {181}}$$"
+        }
+      ],
+      "answer": "D",
+      "explanation": "<p>Let $$E$$ be the event of one white and one red balls $$A_1, A_2, A_3$$ be the events of both balls are from box $$\\mathrm{B}_1, \\mathrm{~B}_2, \\mathrm{~B}_3$$ respectively</p>\n<p>Now, the probability of one white and one red both balls are drawn from box $$B_2$$ is $$P\\left(\\frac{A_2}{E}\\right)$$.</p>\n<p>$$\\Rightarrow P\\left(\\frac{A_2}{E}\\right)=\\frac{P\\left(A_2 \\cap E\\right)}{P(E)}$$</p>\n<p>$$\\begin{aligned}\n& \\Rightarrow P\\left(\\frac{A_2}{E}\\right)=\\frac{P\\left(A_2\\right) \\cdot P\\left(\\frac{E}{A_2}\\right)}{P\\left(A_1\\right) \\cdot P\\left(\\frac{E}{A_1}\\right)+P\\left(A_2\\right).\\mathrm{P}\\left(\\frac{\\mathrm{E}}{\\mathrm{A}_2}\\right)+\\mathrm{P}\\left(\\mathrm{A}_3\\right) \\cdot \\mathrm{P}\\left(\\frac{\\mathrm{E}}{\\mathrm{A}_3}\\right)} \\\\\n& \\Rightarrow \\mathrm{P}\\left(\\frac{\\mathrm{A}_2}{\\mathrm{E}}\\right)=\\frac{\\frac{1}{3} \\times \\frac{{ }^2 \\mathrm{C}_1 \\cdot{ }^3 \\mathrm{C}_1}{{ }^9 \\mathrm{C}_2}}{\\frac{1}{3} \\times \\frac{{ }^1 \\mathrm{C}_1 \\cdot{ }^3 \\mathrm{C}_1}{{ }^6 \\mathrm{C}_2}+\\frac{1}{3} \\times \\frac{{ }^2 \\mathrm{C}_1 \\cdot{ }^3 \\mathrm{C}_1}{{ }^9 \\mathrm{C}_2}+\\frac{1}{3} \\times \\frac{{ }^3 \\mathrm{C}_1 \\cdot{ }^4 \\mathrm{C}_1}{{ }^{12} \\mathrm{C}_2} } \\\\\n& \\Rightarrow \\mathrm{P}\\left(\\frac{\\mathrm{A}_2}{\\mathrm{E}}\\right)=\\frac{\\frac{1}{6}}{\\frac{1}{5}+\\frac{1}{6}+\\frac{2}{11}} \\\\\n& \\Rightarrow \\mathrm{P}\\left(\\frac{\\mathrm{A}_2}{\\mathrm{E}}\\right)=\\frac{55}{181} \\\\\n\\end{aligned}$$</p>\n<p>Hints:</p>\n<p>$$\\Rightarrow$$ Recall the Bay's theorem</p>\n<p>$$\n\\begin{gathered}\nP\\left(\\frac{A_2}{E}\\right)=\\frac{P\\left(A_2\\right) \\cdot P\\left(\\frac{E}{A_2}\\right)}{P\\left(A_1\\right) \\cdot P\\left(\\frac{E}{A}\\right)+P\\left(A_2\\right) \\cdot P\\left(\\frac{E}{A_2}\\right)+P\\left(A_3\\right) \\cdot P\\left(\\frac{E}{A_3}\\right)}\\\\\n\\end{gathered}$$</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Four persons independently solve a certain problem correctly with probabilities $${1 \\over 2},{3 \\over 4},{1 \\over 4},{1 \\over 8}.$$ Then the probability that the problem is solved correctly by at least one of them is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$${{235} \\over {256}}$$ "
+        },
+        {
+          "key": "B",
+          "value": "$${{21} \\over {256}}$$"
+        },
+        {
+          "key": "C",
+          "value": "$${{3} \\over {256}}$$"
+        },
+        {
+          "key": "D",
+          "value": "$${{253} \\over {256}}$$"
+        }
+      ],
+      "answer": "A",
+      "explanation": "<p>Let A, B, C, D are the events of solving a problem.</p>\n<p>Given: $$\\mathrm{P}(\\mathrm{A})=\\frac{1}{2}, \\mathrm{P}(\\mathrm{B})=\\frac{3}{4}, \\mathrm{P}(\\mathrm{C})=\\frac{1}{4}, \\mathrm{P}(\\mathrm{D})=\\frac{1}{8}$$</p>\n<p>Also given A, B, C, D are independent events.</p>\n<p>Let P is the probability of solved by at least one person.</p>\n<p>$$\\Rightarrow \\mathrm{P}=1-$$ (Probability that none of the person can solve the problem)</p>\n<p>$$\\begin{aligned}\n& \\Rightarrow \\mathrm{P}=1-\\mathrm{P}(\\overline{\\mathrm{A}} \\cap \\overline{\\mathrm{B}} \\cap \\overline{\\mathrm{C}} \\cap \\overline{\\mathrm{D}}) \\\\\n& \\Rightarrow \\mathrm{P}=1-\\mathrm{P}(\\overline{\\mathrm{A}}) \\cdot \\mathrm{P}(\\overline{\\mathrm{B}}) \\cdot \\mathrm{P}(\\overline{\\mathrm{C}}) \\cdot \\mathrm{P}(\\overline{\\mathrm{D}}) \\\\\n& \\Rightarrow \\mathrm{P}=1-(1-\\mathrm{P}(\\mathrm{A}))(1-\\mathrm{P}(\\mathrm{B}))(1-\\mathrm{P}(\\mathrm{C}))(1-\\mathrm{P}(\\mathrm{D})) \\\\\n& \\Rightarrow \\mathrm{P}=1-\\left(1-\\frac{1}{2}\\right)\\left(1-\\frac{3}{4}\\right)\\left(1-\\frac{1}{4}\\right)\\left(1-\\frac{1}{8}\\right) \\\\\n& \\Rightarrow \\mathrm{P}=1-\\frac{1}{2} \\times \\frac{1}{4} \\times \\frac{3}{4} \\times \\frac{7}{8} \\\\\n& \\Rightarrow \\mathrm{P}=1-\\frac{21}{256}\\\\\n& \\Rightarrow \\mathrm{P}=\\frac{235}{256}\n\\end{aligned}$$</p>\n<p>Hints:</p>\n<p>$$\\Rightarrow$$ (i) If $$A$$ and $$B$$ are independent events, then</p>\n<p>$$\\begin{aligned}\n& \\rightarrow \\mathrm{P}(\\mathrm{A} \\cap \\mathrm{B})=\\mathrm{P}(\\mathrm{A}) \\cdot \\mathrm{P}(\\mathrm{B}) \\\\\n& \\rightarrow \\mathrm{P}(\\overline{\\mathrm{A}} \\cap \\overline{\\mathrm{B}})=\\mathrm{P}(\\overline{\\mathrm{A}}) \\cdot \\mathrm{P}(\\overline{\\mathrm{B}})=(1-\\mathrm{P}(\\mathrm{A}))(1-\\mathrm{P}(\\mathrm{B})) \\\\\n& \\rightarrow \\mathrm{P}(\\overline{\\mathrm{A}} \\cap \\mathrm{B})=\\mathrm{P}(\\overline{\\mathrm{A}}) \\cdot \\mathrm{P}(\\mathrm{B})=(1-\\mathrm{P}(\\mathrm{A})) \\mathrm{P}(\\mathrm{B}) \\\\\n& \\rightarrow \\mathrm{P}(\\mathrm{A} \\cap \\overline{\\mathrm{B}})=\\mathrm{P}(\\mathrm{A}) \\cdot \\mathrm{P}(\\overline{\\mathrm{B}})=\\mathrm{P}(\\mathrm{A}) \\cdot(1-\\mathrm{P}(\\mathrm{B}))\n\\end{aligned}$$</p>\n<p>(ii) Probability of at least one person can solve the problem $$= 1-$$ Probability that none of the persons can solve that problem.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Four fair dice $${D_1,}$$ $${D_2,}$$ $${D_3}$$ and $${D_4}$$ ; each having six faces numbered $$1, 2, 3, 4, 5$$ and $$6$$ are rolled simultaneously. The probability that $${D_4}$$ shows a number appearing on one of $${D_1},$$ $${D_2}$$ and $${D_3}$$ is",
+      "options": [
+        {
+          "key": "A",
+          "value": "$${{91} \\over {216}}$$ "
+        },
+        {
+          "key": "B",
+          "value": "$${{108} \\over {216}}$$"
+        },
+        {
+          "key": "C",
+          "value": "$${{125} \\over {216}}$$"
+        },
+        {
+          "key": "D",
+          "value": "$${{127} \\over {216}}$$"
+        }
+      ],
+      "answer": "A",
+      "explanation": "<p>For the given condition, the sample space $$=6^4$$</p>\n<p>For favourable condition</p>\n<p>Case I : For $$D_4$$ there are $${ }^6 C_1$$ way. Now, it appears on any one of $$D_1, D_2, D_3$$ i.e. $${ }^3 C_1 \\cdot 1$$, for other two there are $$5 \\times 5$$ ways.</p>\n<p>$$\\Rightarrow{ }^6 \\mathrm{C}_1 \\cdot{ }^3 \\mathrm{C}_1 \\cdot 1 \\cdot 5^2=450 \\text { Ways }$$</p>\n<p>Case II : For $$\\mathrm{D}_4$$ there are $${ }^6 \\mathrm{C}_1$$ ways. Now, it appears on any two of $$D_1, D_2, D_3$$ i.e. $${ }^3 \\mathrm{C}_2 .1 .1$$, for other one there are 5 ways.</p>\n<p>$$\\Rightarrow{ }^6 \\mathrm{C}_1 \\cdot{ }^3 \\mathrm{C}_2 \\cdot 1^2 \\cdot 5=90 \\text { Ways }$$</p>\n<p>Case III : For $$\\mathrm{D}_4$$ there are $${ }^6 \\mathrm{C}_1$$ ways. Now, it appears on all i.e. $$1^3$$.</p>\n<p>$$\\Rightarrow{ }^6 \\mathrm{C}_1 \\cdot 1^3=6$$</p>\n<p>Total number of favourable cases</p>\n<p>$$\\begin{aligned}\n& =450+90+6 \\\\\n& =546 \\text { ways }\n\\end{aligned}$$</p>\n<p>Thus, Probability $$=\\frac{546}{6^4}=\\frac{91}{216}$$</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>The probability  of the drawn ball from $${U_2}$$ being white is </p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "$${{13} \\over {30}}$$ "
+        },
+        {
+          "key": "B",
+          "value": "$${{23} \\over {30}}$$"
+        },
+        {
+          "key": "C",
+          "value": "$${{19} \\over {30}}$$"
+        },
+        {
+          "key": "D",
+          "value": "$${{11} \\over {30}}$$"
+        }
+      ],
+      "answer": "B",
+      "explanation": "<p>H $$\\to$$ One ball from U<sub>1</sub> to U<sub>2</sub>.</p>\n<p>T $$\\to$$ Two balls from U<sub>1</sub> to U<sub>2</sub>.</p>\n<p>E : One ball drawn from U<sub>2</sub>.</p>\n<p>P/W from</p>\n<p>$${U_2} = {1 \\over 2} \\times \\left( {{3 \\over 5} \\times 1} \\right) + {1 \\over 2} \\times \\left( {{2 \\over 5} \\times {1 \\over 2}} \\right) + {1 \\over 2} \\times \\left( {{{{}^3{C_2}} \\over {{}^5{C_2}}} \\times 1} \\right) + {1 \\over 2} \\times \\left( {{{{}^2{C_2}} \\over {{}^5{C_2}}} \\times {1 \\over 3}} \\right) + {1 \\over 2} \\times \\left( {{{{}^3{C_1}\\,.\\,{}^2{C_1}} \\over {{}^5{C_2}}} \\times {2 \\over 3}} \\right) = {{23} \\over {30}}$$</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Given that the drawn ball from $${U_2}$$ is white, the probability that head appeared on the coin is </p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "$${{17} \\over {23}}$$"
+        },
+        {
+          "key": "B",
+          "value": "$${{11} \\over {23}}$$"
+        },
+        {
+          "key": "C",
+          "value": "$${{15} \\over {23}}$$"
+        },
+        {
+          "key": "D",
+          "value": "$${{12} \\over {23}}$$"
+        }
+      ],
+      "answer": "D",
+      "explanation": "<p>$$P\\left( {{H \\over W}} \\right) = {{P(W/H) \\times P(H)} \\over {P(W/T)\\,.\\,P(T) + (W/H)\\,.\\,P(H)}}$$</p>\n<p>$$ = {{{1 \\over 2}\\left( {{3 \\over 5} \\times 1 + {2 \\over 5} \\times {1 \\over 2}} \\right)} \\over {23/30}} = {{12} \\over {23}}$$</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Let $$\\omega $$ be a complex cube root of unity with $$\\omega  \\ne 1.$$ A fair die is thrown three times. If $${r_1},$$ $${r_2}$$ and $${r_3}$$ are the numbers obtained on the die, then the probability that $${\\omega ^{{r_1}}} + {\\omega ^{{r_2}}} + {\\omega ^{{r_3}}} = 0$$ is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$${1 \\over 18}$$"
+        },
+        {
+          "key": "B",
+          "value": "$${1 \\over 9}$$"
+        },
+        {
+          "key": "C",
+          "value": "$${2 \\over 9}$$ "
+        },
+        {
+          "key": "D",
+          "value": "$${1 \\over 36}$$"
+        }
+      ],
+      "answer": "C",
+      "explanation": "<p>Sample space A dice is thrown thrice, $$n(s) = 6 \\times 6 \\times 6$$.</p>\n<p>Favorable events $${\\omega ^{{r_1}}} + {\\omega ^{{r_2}}} + {\\omega ^{{r_3}}} = 0$$</p>\n<p>i.e. $$({r_1},{r_2},{r_3})$$ are ordered 3-triples which can take values,</p>\n<p>$$\\left. {\\matrix{\n   {(1,2,3),} & {(1,5,3),} & {(4,2,3),} & {(4,5,3)}  \\cr \n   {(1,2,6),} & {(1,5,6),} & {(4,2,6),} & {(4,5,6)}  \\cr \n\n } } \\right\\}$$</p>\n<p>i.e. 8 ordered pairs and each can be arranged in 3! ways = 6</p>\n<p>$$\\therefore$$ $$n(E) = 8 \\times 6$$</p>\n<p>$$ \\Rightarrow P(E) = {{8 \\times 6} \\over {6 \\times 6 \\times 6}} = {2 \\over 9}$$</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The probability that X = 3 equals",
+      "options": [
+        {
+          "key": "A",
+          "value": "$${{25} \\over {216}}$$ "
+        },
+        {
+          "key": "B",
+          "value": "$${{25} \\over {36}}$$"
+        },
+        {
+          "key": "C",
+          "value": "$${{5} \\over {36}}$$ "
+        },
+        {
+          "key": "D",
+          "value": "$${{125} \\over {216}}$$ "
+        }
+      ],
+      "answer": "A",
+      "explanation": "<p>The required probability is $$P(X = 3)$$</p>\n<p>$$\\left( {{5 \\over 6}} \\right)\\left( {{5 \\over 6}} \\right){1 \\over 6} = {{25} \\over {216}}$$</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>The probability that $$X\\ge3$$ equals :</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "$${{125} \\over {216}}$$"
+        },
+        {
+          "key": "B",
+          "value": "$${{25} \\over {36}}$$"
+        },
+        {
+          "key": "C",
+          "value": "$${{5} \\over {36}}$$"
+        },
+        {
+          "key": "D",
+          "value": "$${{25} \\over {216}}$$"
+        }
+      ],
+      "answer": "B",
+      "explanation": "<p>The probability $$P(X \\ge 3)$$ is nothing but the probability of $$P(X \\le 2)$$:</p>\n<p>$${1 \\over 6} + {5 \\over 6} \\times {1 \\over 6} = {{11} \\over {36}}$$</p>\n<p>The required probability is</p>\n<p>$$1 - {{11} \\over {36}} = {{25} \\over {36}}$$</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>The conditional probability that $$X\\ge6$$ given $$X>3$$ equals :</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "$${{125} \\over {216}}$$"
+        },
+        {
+          "key": "B",
+          "value": "$${{25} \\over {216}}$$ "
+        },
+        {
+          "key": "C",
+          "value": "$${{5} \\over {36}}$$"
+        },
+        {
+          "key": "D",
+          "value": "$${{25} \\over {36}}$$"
+        }
+      ],
+      "answer": "D",
+      "explanation": "<p>$$X \\ge 6$$: The probability for</p>\n<p>$${{{5^5}} \\over {{6^6}}} + {{{5^6}} \\over {{6^7}}}\\, + \\,...\\, + \\,\\infty  = {{{5^5}} \\over {{6^6}}}\\left( {{1 \\over {1 - 5/6}}} \\right) = {\\left( {{5 \\over 6}} \\right)^5}$$</p>\n<p>For $$X>3$$, we have</p>\n<p>$${{{5^3}} \\over {{6^4}}} + {{{5^4}} \\over {{6^5}}}\\, + {{{5^5}} \\over {{6^6}}}\\, + ...\\, + \\,\\infty  = {\\left( {{5 \\over 6}} \\right)^3}$$<?p>\n<p>Hence, the conditional probability is</p>\n<p>$${{{{(5/6)}^6}} \\over {{{(5/6)}^3}}} = {{25} \\over {36}}$$</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>An experiment has 10 equally likely outcomes. Let A and B be two non-empty events of the experiment. If A consists of 4 outcomes, the number of outcomes that B must have so that A and B are independent is :</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "2, 4 or 8"
+        },
+        {
+          "key": "B",
+          "value": "3, 6 or 9"
+        },
+        {
+          "key": "C",
+          "value": "4 or 8"
+        },
+        {
+          "key": "D",
+          "value": "5 or 10"
+        }
+      ],
+      "answer": "D",
+      "explanation": "<p>Given,</p>\n<p>An experiment has 10 equally likely outcomes,</p>\n<p>Let B have n no of outcomes,</p>\n<p>So, $$P(B) = {n \\over {10}}$$</p>\n<p>$$P(A) = {4 \\over {10}}$$</p>\n<p>$$P(A \\cap B) = {4 \\over {10}} \\times {n \\over {10}} = {{{{2n} \\over 5}} \\over {10}}$$</p>\n<p>Since, A and B are independent</p>\n<p>n is an integer</p>\n<p>n = 5 or 10</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Consider the system of equations $$ax+by=0; cx+dy=0,$$ \n<br>where $$a,b,c,d$$ $$ \\in \\left\\{ {0,1} \\right\\}$$\n<br><br/><b>STATEMENT - 1 :</b> The probability that the system of equations has a unique solution is $${3 \\over 8}.$$ and \n<br><br/><b>STATEMENT - 2 :</b>  The probability that the system of equations has a solution is $$1.$$",
+      "options": [
+        {
+          "key": "A",
+          "value": "STATEMENT - 1 is True, STATEMENT - 2 is True; STATEMENT - 2 is a correct explanation for STATEMENT - 1"
+        },
+        {
+          "key": "B",
+          "value": "STATEMENT - 1 is True, STATEMENT - 2 is True; STATEMENT - 2 is <b>NOT</b> a correct explanation for STATEMENT - 1"
+        },
+        {
+          "key": "C",
+          "value": "STATEMENT - 1 is True, STATEMENT - 2 is False."
+        },
+        {
+          "key": "D",
+          "value": "STATEMENT - 1 is False, STATEMENT - 2 is True."
+        }
+      ],
+      "answer": "B",
+      "explanation": "<p>We have,</p>\n<p>$$ax + by = 0$$</p>\n<p>$$cx + dy = 0$$</p>\n<p>since, the system of homogeneous equation is always consistent and has a solution.</p>\n<p>Therefore, statement 2 is true.</p>\n<p>Now, $$\\Delta  = \\left| {\\matrix{\n   a & b  \\cr \n   c & d  \\cr \n\n } } \\right|$$ and $$a,b,c,d \\in \\{ 0,1\\} $$</p>\n<p>$$ = ad - bc$$</p>\n<p>No. of ways of selecting $$a,b,c,d$$ from the set {0, 1} is 2 $$\\times$$ 2 $$\\times$$ 2 $$\\times$$ 2 = 16</p>\n<p>If the system has unique solution,</p>\n<p>Then $$\\Delta\\ne0$$</p>\n<p>$$\\Rightarrow$$ either $$ad = 1,bc = 0$$ or $$ad = 0,bc = 1$$ favourable case = 6</p>\n<p>Therefore, probability that system of equation has unique solution is $${6 \\over {16}} = {3 \\over 8}$$. Statement 1 is True.</p>\n<p>Hence, the Statement 2 is True but is not a correct explanation of statement 1.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Let $${H_1},{H_2},....,{H_n}$$ be mutually exclusive and exhaustive events with $$P\\left( {{H_1}} \\right) &gt; 0,i = 1,2,.....,n.$$ Let $$E$$ be any other event with $$0 &lt; P\\left( E \\right) &lt; 1.$$ \n<br><b>STATEMENT-1:</b>\n<br>$$P\\left( {{H_1}|E} \\right) &gt; P\\left( {E|{H_1}} \\right).P\\left( {{H_1}} \\right)$$ for $$i=1,2,....,n$$ <b>because</b>\n<p><b>STATEMENT-2:</b> $$\\sum\\limits_{i = 1}^n {P\\left( {{H_i}} \\right)}  = 1.$$</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "Statement-1 is True, Statement-2 is True; Statement-2 is a correct explanation for Statement-1."
+        },
+        {
+          "key": "B",
+          "value": "Statement-1 is True, Statement-2 is True; Statement-2 is NOT a correct explanation for Statement-1."
+        },
+        {
+          "key": "C",
+          "value": "Statement-1 is True, Statement-2 is False."
+        },
+        {
+          "key": "D",
+          "value": "Statement-1 is False, Statement-2 is True"
+        }
+      ],
+      "answer": "D",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "One Indian and four American men and their wives are to be seated randomly around a circular table. Then the conditional probability that the Indian man is seated adjacent to his wife given that each American man is seated adjacent to his wife is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$${1 \\over 2}$$ "
+        },
+        {
+          "key": "B",
+          "value": "$${1 \\over 3}$$"
+        },
+        {
+          "key": "C",
+          "value": "$${2 \\over 5}$$"
+        },
+        {
+          "key": "D",
+          "value": "$${1 \\over 5}$$"
+        }
+      ],
+      "answer": "C",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Let $${E^c}$$ denote the complement of an event $$E.$$ Let $$E, F, G$$ be pairwise independent events with $$P\\left( G \\right) &gt; 0$$ and $$P\\left( {E \\cap F \\cap G} \\right) = 0.$$ Then $$P\\left( {{E^c} \\cap {F^c}|G} \\right)$$ equals ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$P\\left( {{E^c}} \\right) + P\\left( {{F^c}} \\right)$$ "
+        },
+        {
+          "key": "B",
+          "value": "$$P\\left( {{E^c}} \\right) - P\\left( {{F^c}} \\right)$$  "
+        },
+        {
+          "key": "C",
+          "value": "$$P\\left( {{E^c}} \\right) - P\\left( F \\right)$$ "
+        },
+        {
+          "key": "D",
+          "value": "$$P\\left( E \\right) - P\\left( {{F^c}} \\right)$$ "
+        }
+      ],
+      "answer": "C",
+      "explanation": "<p>$$\\begin{aligned}\n& \\mathrm{E}_{1} f_{1} G \\text { are pairwise independent events. } \\\\\\\\\n& \\therefore \\quad \\mathrm{P}(\\mathrm{E} \\cap \\mathrm{F})=\\mathrm{P}(\\mathrm{E}) \\cdot \\mathrm{P}(\\mathrm{F}) \\\\\\\\\n& \\mathrm{P}(\\mathrm{F} \\cap \\mathrm{G})=\\mathrm{P}(\\mathrm{F}) \\cdot \\mathrm{P}(\\mathrm{G}) \\\\\\\\\n& \\mathrm{P}(\\mathrm{G} \\cap \\mathrm{E})=\\mathrm{P}(\\mathrm{G}) \\cdot \\mathrm{P}(\\mathrm{E}) \\\\\\\\\n& \\mathrm{P}\\left(\\frac{\\mathrm{E}^{\\mathrm{c}} \\cap \\mathrm{F}^{\\mathrm{c}}}{\\mathrm{G}}\\right)=\\mathrm{P}\\left(\\frac{\\left(E^{\\mathrm{c}} \\cap \\mathrm{F}^{\\mathrm{c}}\\right) \\cap G}{\\mathrm{P}(\\mathrm{G})}\\right) \\\\\\\\\n&=\\frac{\\mathrm{P}(\\mathrm{G})-\\mathrm{P}(\\mathrm{G} \\cap \\mathrm{E})-\\mathrm{P}(\\mathrm{G} \\cap \\mathrm{F})}{\\mathrm{P}(\\mathrm{G})} \\\\\\\\\n&=1-\\mathrm{P}(\\mathrm{E})-\\mathrm{P}(\\mathrm{F}) \\\\\\\\\n&=\\mathrm{P}\\left(\\mathrm{E}^{\\mathrm{c}}\\right)-\\mathrm{P}(\\mathrm{F}) .\n\\end{aligned}$$</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "There are $$n$$ urns, each of these contain $$n+1$$ balls. The ith urn contains $$i$$ white balls and $$(n+1-i)$$ red balls. Let $${u_i}$$ be the event of selecting ith urn, $$i=1,2,3........,n$$ and $$w$$ the event of getting a white ball.\n<p>Let $$P\\left( {{u_i}} \\right) = {1 \\over n},$$  if $$n$$ is even and $$E$$ denotes the event of choosing even numbered urn, then the value of $$P\\left( {w/E} \\right)$$ is</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "$${{n + 2} \\over {2n + 1}}$$"
+        },
+        {
+          "key": "B",
+          "value": "$${{n + 2} \\over {2\\left( {n + 1} \\right)}}$$ "
+        },
+        {
+          "key": "C",
+          "value": "$${n \\over {n + 1}}$$ "
+        },
+        {
+          "key": "D",
+          "value": "$${1 \\over {n + 1}}$$"
+        }
+      ],
+      "answer": "B",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "There are $$n$$ urns, each of these contain $$n+1$$ balls. The ith urn contains $$i$$ white balls and $$(n+1-i)$$ red balls. Let $${u_i}$$ be the event of selecting ith urn, $$i=1,2,3........,n$$ and $$w$$ the event of getting a white ball.\n<p>If $$P\\left( {{u_i}} \\right) = c,$$ (a constant) then $$P\\left( {{u_n}/w} \\right) = $$</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "$${2 \\over {n + 1}}$$ "
+        },
+        {
+          "key": "B",
+          "value": "$${1 \\over {n + 1}}$$"
+        },
+        {
+          "key": "C",
+          "value": "$${n \\over {n + 1}}$$"
+        },
+        {
+          "key": "D",
+          "value": "$${1 \\over 2}$$ "
+        }
+      ],
+      "answer": "A",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "There are $$n$$ urns, each of these contain $$n+1$$ balls. The ith urn contains $$i$$ white balls and $$(n+1-i)$$ red balls. Let $${u_i}$$ be the event of selecting ith urn, $$i=1,2,3........,n$$ and $$w$$ the event of getting a white ball.\n<p>If $$P\\left( {{u_i}} \\right) \\propto i,\\,$$ where $$i=1,2,3,.......,n,$$ then $$\\mathop {\\lim }\\limits_{n \\to \\infty } P\\left( w \\right) = $$ </p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$1$$"
+        },
+        {
+          "key": "B",
+          "value": "$$2/3$$"
+        },
+        {
+          "key": "C",
+          "value": "$$3/4$$"
+        },
+        {
+          "key": "D",
+          "value": "$$1/4$$"
+        }
+      ],
+      "answer": "B",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A six faced fair dice is thrown until $$1$$ comes, then the probability that $$1$$ comes in even no. of trials is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$5/11$$ "
+        },
+        {
+          "key": "B",
+          "value": "$$5/6$$"
+        },
+        {
+          "key": "C",
+          "value": "$$6/11$$ "
+        },
+        {
+          "key": "D",
+          "value": "$$1/6$$"
+        }
+      ],
+      "answer": "A",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "If three distinct numbers are chosen randomly from the first $$100$$ natural numbers, then the probability that all three of them are divisible by both $$2$$ and $$3$$ is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$4/25$$"
+        },
+        {
+          "key": "B",
+          "value": "$$4/35$$"
+        },
+        {
+          "key": "C",
+          "value": "$$4/33$$ "
+        },
+        {
+          "key": "D",
+          "value": "$$4/1155$$"
+        }
+      ],
+      "answer": "D",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Two numbers are selected randomly from the set $$S = \\left\\{ {1,2,3,4,5,6} \\right\\}$$ without replacement one by one. The probability that minimum of the two numbers is less than $$4$$ is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$1/15$$ "
+        },
+        {
+          "key": "B",
+          "value": "$$14/15$$ "
+        },
+        {
+          "key": "C",
+          "value": "$$1/5$$ "
+        },
+        {
+          "key": "D",
+          "value": "$$4/5$$ "
+        }
+      ],
+      "answer": "D",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "If $$P\\left( B \\right) = {3 \\over 4},P\\left( {A \\cap B \\cap \\overline C } \\right) = {1 \\over 3}$$ and \n<br>$$P\\left( {\\overline A  \\cap B \\cap \\overline C } \\right) = {1 \\over 3},\\,\\,$$ then $$P\\left( {B \\cap C} \\right)$$  is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$1/12$$ "
+        },
+        {
+          "key": "B",
+          "value": "$$1/6$$"
+        },
+        {
+          "key": "C",
+          "value": "$$1/15$$"
+        },
+        {
+          "key": "D",
+          "value": "$$1/9$$"
+        }
+      ],
+      "answer": "A",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "If the integers $$m$$ and $$n$$ are chosen at random from $$1$$ to $$100$$, then the probability that a number of the form $${7^m} + {7^n}$$ is divisible by $$5$$ equals",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$1/4$$ "
+        },
+        {
+          "key": "B",
+          "value": "$$1/7$$ "
+        },
+        {
+          "key": "C",
+          "value": "$$1/8$$ "
+        },
+        {
+          "key": "D",
+          "value": "$$1/49$$"
+        }
+      ],
+      "answer": "A",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A fair coin is tossed repeatedly. If the tail appears on first four tosses, then the probability of the head appearing on the fifth toss equals ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$1/2$$ "
+        },
+        {
+          "key": "B",
+          "value": "$$1/32$$ "
+        },
+        {
+          "key": "C",
+          "value": "$$31/32$$ "
+        },
+        {
+          "key": "D",
+          "value": "$$1/5$$"
+        }
+      ],
+      "answer": "A",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Seven white balls and three black balls are randomly placed in a row. The probability that no two black balls are placed adjacently equals",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$1/2$$ "
+        },
+        {
+          "key": "B",
+          "value": "$$7/15$$"
+        },
+        {
+          "key": "C",
+          "value": "$$2/15$$"
+        },
+        {
+          "key": "D",
+          "value": "$$1/3$$"
+        }
+      ],
+      "answer": "B",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "There are four machines and it is known that exactly two of them are faulty. They are tested, one by one, in a random order till both the faulty machines are identified. Then the probability that only two tests are needed is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$1/3$$ "
+        },
+        {
+          "key": "B",
+          "value": "$$1/6$$  "
+        },
+        {
+          "key": "C",
+          "value": "$$1/2$$"
+        },
+        {
+          "key": "D",
+          "value": "$$1/4$$"
+        }
+      ],
+      "answer": "B",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "If $$E$$ and $$F$$ are events with $$P\\left( E \\right) \\le P\\left( F \\right)$$ and $$P\\left( {E \\cap F} \\right) &gt; 0,$$ then ",
+      "options": [
+        {
+          "key": "A",
+          "value": "occurrence of $$E$$ $$ \\Rightarrow $$ occurrence of $$F$$ "
+        },
+        {
+          "key": "B",
+          "value": "occurrence of $$F$$ $$ \\Rightarrow $$ occurrence of $$E$$ "
+        },
+        {
+          "key": "C",
+          "value": "non-occurrence of $$E$$ $$ \\Rightarrow $$ non-occurrence of $$F$$ "
+        },
+        {
+          "key": "D",
+          "value": "none of the above implications holds"
+        }
+      ],
+      "answer": "D",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "If from each of the three boxes containing $$3$$ white and $$1$$ black, $$2$$ white and $$2$$ black, $$1$$ white and $$3$$ black balls, one ball is drawn at random, then the probability that $$2$$ white and $$1$$ black ball will be drawn is",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$13/32$$ "
+        },
+        {
+          "key": "B",
+          "value": "$$1/4$$"
+        },
+        {
+          "key": "C",
+          "value": "$$1/32$$"
+        },
+        {
+          "key": "D",
+          "value": "$$3/16$$"
+        }
+      ],
+      "answer": "A",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "For the three events $$A, B,$$ and $$C,P$$ (exactly one of the events $$A$$ or $$B$$ occurs) $$=P$$ (exactly one of the two events $$B$$ or $$C$$ occurs)$$=P$$ (exactly one of the events $$C$$ or $$A$$ occurs)$$=p$$ and $$P$$ (all the three events occur simultaneously) $$ = {p^2},$$ where $$0 &lt; p &lt; 1/2.$$ Then the probability of at least one of the three  events $$A,B$$ and $$C$$ occurring is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$${{3p + 2{p^2}} \\over 2}$$ "
+        },
+        {
+          "key": "B",
+          "value": "$${{p + 3{p^2}} \\over 4}$$ "
+        },
+        {
+          "key": "C",
+          "value": "$${{p + 3{p^2}} \\over 2}$$"
+        },
+        {
+          "key": "D",
+          "value": "$${{3p + 2{p^2}} \\over 4}$$"
+        }
+      ],
+      "answer": "A",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Three of six vertices of a regular hexagon are chosen at random. The probability that the triangle with three vertices is equilateral, equals ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$1/2$$ "
+        },
+        {
+          "key": "B",
+          "value": "$$1/5$$"
+        },
+        {
+          "key": "C",
+          "value": "$$1/10$$ "
+        },
+        {
+          "key": "D",
+          "value": "$$1/20$$ "
+        }
+      ],
+      "answer": "C",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The probability of India winning a test match against West Indies is  $$1/2$$. Assuming independence from match to match the probability that in a $$5$$ match series India's second win occurs at third test is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$1/8$$ "
+        },
+        {
+          "key": "B",
+          "value": "$$1/4$$"
+        },
+        {
+          "key": "C",
+          "value": "$$1/2$$"
+        },
+        {
+          "key": "D",
+          "value": "$$2/3$$"
+        }
+      ],
+      "answer": "B",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Let $$A, B, C$$ be three mutually independent events. Consider the two statements $${S_1}$$ and $${S_2}$$\n<br>$${S_1}\\,:\\,A$$ and $$B \\cup C$$ are independent \n<br>$${S_2}\\,:\\,A$$ and $$B \\cap C$$ are independent\n<br>Then,",
+      "options": [
+        {
+          "key": "A",
+          "value": "Both $${S_1}$$ and $${S_2}$$ are true "
+        },
+        {
+          "key": "B",
+          "value": "Only $${S_1}$$ is true "
+        },
+        {
+          "key": "C",
+          "value": "Only $${S_2}$$ is true "
+        },
+        {
+          "key": "D",
+          "value": "Neither $${S_1}$$ nor $${S_2}$$ is true"
+        }
+      ],
+      "answer": "A",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "An unbiased die with faces marked $$1,2,3,4,5$$ and $$6$$ is rolled four times. Out of four face values obtained, the probability that the minimum face value is not less than $$2$$ and the maximum face value is not greater than $$5,$$ is then:",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$16/81$$ "
+        },
+        {
+          "key": "B",
+          "value": "$$1/81$$ "
+        },
+        {
+          "key": "C",
+          "value": "$$80/81$$ "
+        },
+        {
+          "key": "D",
+          "value": "$$65/81$$ "
+        }
+      ],
+      "answer": "A",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "India plays two matches each with West Indies and Australia. In any match the probabilities of India getting, points $$0,$$ $$1$$ and $$2$$ are $$0.45,  0.05$$ and $$0.50$$ respectively. Assuming that the outcomes are independent, the probability of India getting at least $$7$$ points is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$0.8750$$"
+        },
+        {
+          "key": "B",
+          "value": "$$0.0875$$"
+        },
+        {
+          "key": "C",
+          "value": "$$0.0625$$ "
+        },
+        {
+          "key": "D",
+          "value": "$$0.0250$$ "
+        }
+      ],
+      "answer": "B",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "One hundred identical coins, each with probability, $$p,$$ of showing up heads are tossed once. If $$0 &lt; p &lt; 1$$ and the probability of heads showing on $$50$$ coins is equal to that of heads showing on $$51$$ coins, then the value of $$p$$ is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$1/2$$ "
+        },
+        {
+          "key": "B",
+          "value": "$$49/101$$ "
+        },
+        {
+          "key": "C",
+          "value": "$$50/101$$ "
+        },
+        {
+          "key": "D",
+          "value": "$$51/101.$$"
+        }
+      ],
+      "answer": "D",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The probability that at least one of the events $$A$$ and $$B$$ occurs is $$0.6$$. If $$A$$ and $$B$$ occur simultaneously with probability $$0.2,$$ then $$P\\left( {\\overline A } \\right) + P\\left( {\\overline B } \\right)$$ is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$0.4$$"
+        },
+        {
+          "key": "B",
+          "value": "$$0.8$$"
+        },
+        {
+          "key": "C",
+          "value": "$$1.2$$ "
+        },
+        {
+          "key": "D",
+          "value": "$$1.4$$"
+        }
+      ],
+      "answer": "C",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A student appears for tests, $$I$$, $$II$$ and $$III$$. The student is successful if he passes either in tests $$I$$ and $$II$$ or tests $$I$$ and $$III$$. The probabilities of student passing in tests $$I$$, $$II$$ and $$III$$ are $$p, q$$ and $${1 \\over 2}$$ respectively. If the probability that the student is successful is $${1 \\over 2}$$, then ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$p=q=1$$"
+        },
+        {
+          "key": "B",
+          "value": "$$p = q = {1 \\over 2}$$ "
+        },
+        {
+          "key": "C",
+          "value": "$$p=1,$$ $$q=0$$ "
+        },
+        {
+          "key": "D",
+          "value": "$$p = 1,q = {1 \\over 2}$$ "
+        }
+      ],
+      "answer": "C",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A box contains $$24$$ identical balls of which $$12$$ are white and $$12$$ are black. The balls are drawn at random from the box one at a time with replacement. The probability that a white ball is drawn for the $$4$$th time on the $$7$$th draw is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$5/64$$"
+        },
+        {
+          "key": "B",
+          "value": "$$27/32$$"
+        },
+        {
+          "key": "C",
+          "value": "$$5/32$$ "
+        },
+        {
+          "key": "D",
+          "value": "$$1/2$$"
+        }
+      ],
+      "answer": "C",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Three identical dice are rolled. The probability that the same number will appear on each of them is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$1/6$$ "
+        },
+        {
+          "key": "B",
+          "value": "$$1/36$$ "
+        },
+        {
+          "key": "C",
+          "value": "$$1/18$$ "
+        },
+        {
+          "key": "D",
+          "value": "$$3/28$$"
+        }
+      ],
+      "answer": "B",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Fifteen coupons are numbered $$1, 2 ........15,$$ respectively. Seven coupons are selected at random one at a time with replacement. The probability that the largest number appearing on a selected coupon is $$9,$$ is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$${\\left( {{9 \\over {16}}} \\right)^6}$$ "
+        },
+        {
+          "key": "B",
+          "value": "$${\\left( {{18 \\over {15}}} \\right)^7}$$"
+        },
+        {
+          "key": "C",
+          "value": "$${\\left( {{3 \\over {5}}} \\right)^7}$$"
+        },
+        {
+          "key": "D",
+          "value": "none of these "
+        }
+      ],
+      "answer": "C",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "If $$A$$ and $$B$$ are two events such that $$P\\left( A \\right) &gt; 0,$$ and $$P\\left( B \\right) \\ne 1,$$ then $$P\\left( {{{\\overline A } \\over {\\overline B }}} \\right)$$ is equal to ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$1 - P({A \\over B})$$ (Here $$\\overline A $$ and $$\\overline B $$ are complements of $$A$$ and $$B$$ respectively)."
+        },
+        {
+          "key": "B",
+          "value": "$$1 - P({{\\overline A } \\over B})$$ (Here $$\\overline A $$ and $$\\overline B $$ are complements of $$A$$ and $$B$$ respectively)."
+        },
+        {
+          "key": "C",
+          "value": "$${{1 - P\\left( {A \\cup B} \\right)} \\over {P\\left( {\\overline B } \\right)}}$$ (Here $$\\overline A $$ and $$\\overline B $$ are complements of $$A$$ and $$B$$ respectively)."
+        },
+        {
+          "key": "D",
+          "value": "$${{P\\left( {\\overline A } \\right)} \\over {P\\left( {\\overline B } \\right)}}$$ (Here $$\\overline A $$ and $$\\overline B $$ are complements of $$A$$ and $$B$$ respectively)."
+        }
+      ],
+      "answer": "C",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The probability that an event $$A$$ happens in one trial of an experiment is $$0.4.$$ Three independent trials of the experiment are performed. The probability that the event $$A$$ happens at least once is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$0.936$$ "
+        },
+        {
+          "key": "B",
+          "value": "$$0.784$$"
+        },
+        {
+          "key": "C",
+          "value": "$$0.904$$ "
+        },
+        {
+          "key": "D",
+          "value": "none of these "
+        }
+      ],
+      "answer": "B",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Two events $$A$$ and $$B$$ have probabilities $$0.25$$ and $$0.50$$ respectively. The probability that both $$A$$ and $$B$$ occur simultaneously is $$0.14$$. Then the probability that neither $$A$$ nor $$B$$ occurs is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$0.39$$"
+        },
+        {
+          "key": "B",
+          "value": "$$0.25$$ "
+        },
+        {
+          "key": "C",
+          "value": "$$0.11$$ "
+        },
+        {
+          "key": "D",
+          "value": "none of these "
+        }
+      ],
+      "answer": "A",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Two fair dice are tossed. Let $$x$$ be the event that the first die shows an even number and $$y$$ be the event that the second die shows an odd number. The two events $$x$$ and $$y$$ are:",
+      "options": [
+        {
+          "key": "A",
+          "value": "Mutually exclusive "
+        },
+        {
+          "key": "B",
+          "value": "Independent and mutually exclusive "
+        },
+        {
+          "key": "C",
+          "value": "Dependent "
+        },
+        {
+          "key": "D",
+          "value": "None of these."
+        }
+      ],
+      "answer": "D",
+      "explanation": ""
+    }
+  ]
+}

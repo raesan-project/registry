@@ -1,0 +1,415 @@
+{
+  "_index": {
+    "name": "The Living World"
+  },
+  "_children": [
+    {
+      "_type": "single_mcq",
+      "body": "<p>In the taxonomic categories which hierarchical arrangement in ascending order is correct in case of animals?</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "Kingdom, Phylum, Class, Order, Family, Genus, Species"
+        },
+        {
+          "key": "B",
+          "value": "Kingdom, Class, Phylum, Family, Order, Genus, Species"
+        },
+        {
+          "key": "C",
+          "value": "Kingdom, Order, Class, Phylum, Family, Genus, Species"
+        },
+        {
+          "key": "D",
+          "value": "Kingdom, Order, Phylum, Class, Family, Genus, Species"
+        }
+      ],
+      "answer": "A",
+      "explanation": "<p>None of the options are matching with the language of the question</p>\n<p>The correct ascending order of taxonomic categories in case of animals is</p>\n<p>species $$\\to $$ genus $$\\to$$ family $$\\to$$ order $$\\to$$ class $$\\to$$ phylum $$\\to$$ kingdom</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Which one of the following belongs to the family Muscidae?",
+      "options": [
+        {
+          "key": "A",
+          "value": "House fly"
+        },
+        {
+          "key": "B",
+          "value": "Fire fly"
+        },
+        {
+          "key": "C",
+          "value": "Grasshopper"
+        },
+        {
+          "key": "D",
+          "value": "Cockroach"
+        }
+      ],
+      "answer": "A",
+      "explanation": "$$\\bullet$$ Option (a) is correct because housefly belongs to the family Muscidae, class Insecta and phylum Arthropoda.<br><br>$$\\bullet$$ Fire flies are placed in family Lampyridae of class Insecta.<br><br>$$\\bullet$$ Grasshopper is also an insect placed in family Acrididae.<br><br>$$\\bullet$$ Cockroach is also an insect placed in family Blattidae."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Match the items given in column I with those in column II and select the correct option given below. \n<style type=\"text/css\">\n.tg  {border-collapse:collapse;border-spacing:0;}\n.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}\n.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}\n.tg .tg-cly1{text-align:left;vertical-align:middle}\n.tg .tg-wa1i{font-weight:bold;text-align:center;vertical-align:middle}\n.tg .tg-0lax{text-align:left;vertical-align:top}\n</style>\n<table class=\"tg\">\n  <tbody><tr>\n    <th class=\"tg-wa1i\">Column I</th>\n    <th class=\"tg-wa1i\">Column II</th>\n  </tr>\n  <tr>\n    <td class=\"tg-cly1\">A. Herbarium</td>\n    <td class=\"tg-cly1\">(i) It is a place having a collection of preserved plants and animals.</td>\n  </tr>\n  <tr>\n    <td class=\"tg-cly1\">B. Key</td>\n    <td class=\"tg-cly1\">(ii) A list that enumerates methodically all the species found in an area with brief description aiding identification.</td>\n  </tr>\n  <tr>\n    <td class=\"tg-0lax\">C. Museum</td>\n    <td class=\"tg-0lax\">(iii) Is a place where dried and pressed plant specimens mounted on sheets are kept.</td>\n  </tr>\n  <tr>\n    <td class=\"tg-0lax\">D. Catalogue</td>\n    <td class=\"tg-0lax\">(iv) A booklet containing a list of characters and their alternates which are helpful in identification of various taxa.</td>\n  </tr>\n</tbody></table>",
+      "options": [
+        {
+          "key": "A",
+          "value": "A $$ \\to $$ (ii), B $$ \\to $$ (iv), C $$ \\to $$ (iii), D $$ \\to $$ (i)"
+        },
+        {
+          "key": "B",
+          "value": "A $$ \\to $$ (iii), B $$ \\to $$ (ii), C $$ \\to $$ (i), D $$ \\to $$ (iv)"
+        },
+        {
+          "key": "C",
+          "value": "A $$ \\to $$ (iii), B $$ \\to $$ (iv), C $$ \\to $$ (i), D $$ \\to $$ (ii)"
+        },
+        {
+          "key": "D",
+          "value": "A $$ \\to $$ (i), B $$ \\to $$ (iv), C $$ \\to $$ (iii), D $$ \\to $$ (ii)"
+        }
+      ],
+      "answer": "C",
+      "explanation": "<b>Herbarium :</b> It is defined as \"store house of collected plant speccimens that are dried, pressed and preserved on sheets\". Label on herbarium sheets convey following information,  such as date and place of collection, botanical, local  and english names, family and collector’s name.\n<br><br><b>Key :</b> A key is an artificial analytical device, consisting of set of alternate characters of various plants and animals and is used for identificion purposes.\n<br><br><b>Museum :</b> museum is aplaxe used for storing, preservation and exhibition of both plants and animals. All educational institutes and universities maintain museums in their Botany and Zoology departments.\n<br><br><b>Catalogue:</b> It is a list or register that indicates the alphabetical arrangement of species of a particular place,  often with brief description aiding identification."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Study the four statements (A-D) given below and select the two correct ones out of them. \n<br>A.&nbsp;&nbsp;Definition of biological species was given by Ernst Mayr.\n<br>B.&nbsp;&nbsp;Photoperiod does not affect reproduction in plants. \n<br>C.&nbsp;&nbsp;Binomial nomenclature system was given by R.H. Whittaker.\n<br>D.&nbsp;&nbsp;In unicellular organisms, reproduction is synonymous with growth. \n<br><br>The two correct statements are",
+      "options": [
+        {
+          "key": "A",
+          "value": "B and C"
+        },
+        {
+          "key": "B",
+          "value": "C and D"
+        },
+        {
+          "key": "C",
+          "value": "A and D"
+        },
+        {
+          "key": "D",
+          "value": "A and B"
+        }
+      ],
+      "answer": "C",
+      "explanation": "Photoperiod affects flowering and reproduction in plants. Binomial nomenclature system was given by Carolus Linnaeus. "
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The label of a herbarium sheet does not carry information on",
+      "options": [
+        {
+          "key": "A",
+          "value": "date of collection"
+        },
+        {
+          "key": "B",
+          "value": "name of collector"
+        },
+        {
+          "key": "C",
+          "value": "locals names "
+        },
+        {
+          "key": "D",
+          "value": "height of the plant."
+        }
+      ],
+      "answer": "D",
+      "explanation": "A herbarium is a collection of plants, which have been dried, pressed, mounted on herbarium sheets, identified and classified according to some approved system of classification. The storage of herbarium sheets forms a repository for future use. A printed label (7 x 12 cm) giving the following information is fixed on the lower, right corner of herbarium sheet:<br><br>\n(i) Scientific name of plant (ii) Common/vernacular name (iii) Family (iv) Locality (v) Date of collection (vi) Collection number (vii) Name of collector (viii) Plant characteristics (optional) (ix) Name of institution (optional). "
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Nomenclature is governed by certain universal rules. Which one of the following is countrary to the rules of nomenclature? ",
+      "options": [
+        {
+          "key": "A",
+          "value": "The names are written in Latin and are italicised. "
+        },
+        {
+          "key": "B",
+          "value": "When written by hand the names are to be underlined."
+        },
+        {
+          "key": "C",
+          "value": "Biological names can be written in any language. "
+        },
+        {
+          "key": "D",
+          "value": "The first word in a biological name represents the genus name and the second is a specific epithet."
+        }
+      ],
+      "answer": "C",
+      "explanation": "Binomial nomenclature is a formal system of naming species of living things by giving each a name composed of two parts, both of which use Latin grammatical forms, although they can be based on words from \nother languages.\n"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The common characteristics between tomato and potato will be maximum at the level of  their",
+      "options": [
+        {
+          "key": "A",
+          "value": "family"
+        },
+        {
+          "key": "B",
+          "value": "order"
+        },
+        {
+          "key": "C",
+          "value": "division"
+        },
+        {
+          "key": "D",
+          "value": "genus."
+        }
+      ],
+      "answer": "A",
+      "explanation": "Potato (Solanum tuberosum) and tomato\n(Lycopersicum esculentum) both belong to family\nSolanaceae, which is commonly called as the “potato\nfamily”. Many plants belonging to this family are\nsources of vegetables, fruits etc."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Which one of the following is not a correct statement? ",
+      "options": [
+        {
+          "key": "A",
+          "value": "A museum has collection of photographs of plants and animals. "
+        },
+        {
+          "key": "B",
+          "value": "Key is taxonomic aid for identification of specimens."
+        },
+        {
+          "key": "C",
+          "value": "Herbarium houses dried, pressed and preserved plant specimens."
+        },
+        {
+          "key": "D",
+          "value": "Botanical  gardens have collection of living plants for reference."
+        }
+      ],
+      "answer": "A",
+      "explanation": "<b>Museum</b> – Biological museums are\ngenerally set up in educational institutes\nsuch as schools and colleges. Museums\nhave collections of preserved plant and\nanimal specimens for study and reference.\nSpecimens are preserved in the containers\nor jars in preservative solutions. Plant and\nanimal specimens may also be preserved as\ndry specimens. Insects are preserved in insect\nboxes after collections, killing and pinning.\nLarger animals like birds and mammals are\nusually stuffed and preserved. Museums often\nhave collections of skeletons of animals too."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Which one of the following organisms  is scientifically correctly named, correctly printed according to the international Rules of Nomenclature and correctly described? ",
+      "options": [
+        {
+          "key": "A",
+          "value": "<i>Musca domestica</i> - the common house lizard, a reptile"
+        },
+        {
+          "key": "B",
+          "value": "<i>Plasmodium falciparum</i> - a protozoan pathogen causing the most serious type of malaria. "
+        },
+        {
+          "key": "C",
+          "value": "<i>Felis tigris </i>- the Indian tiger,  well protected in Gir forests."
+        },
+        {
+          "key": "D",
+          "value": "<i>E.coli</i> - full name <i>Entamoeba coil,</i> a commonly occuring bacterium in human intestine."
+        }
+      ],
+      "answer": "B",
+      "explanation": "Plasmodium falciparum – A protozoan\npathogen causes the most serious type of\nmalaria that is falciparum malaria.<br>\nMusca domestica – House fly, an insect\nbelongs to phylum arthropoda.<br>\nFelis tigris - The Bengal tiger, is well protected\nin Sundarbans (tiger reserve)<br>\nE.coli - Escherichia coli, a commonly occurring\nbacterium in human intestine"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Which one of the following aspects is in exclusive characteristics of living things? ",
+      "options": [
+        {
+          "key": "A",
+          "value": "Isolated metabolic reactions occur in <i>vitro</i>"
+        },
+        {
+          "key": "B",
+          "value": "Increase in mass from inside only"
+        },
+        {
+          "key": "C",
+          "value": "Perception of events happening in the environment and their memory."
+        },
+        {
+          "key": "D",
+          "value": "Increase in mass by accumulation  of material both on surface as well as internally."
+        }
+      ],
+      "answer": "C",
+      "explanation": "All living things have an ability to\nrespond to their environment, that is also\ncalled stimulation. \n"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Which one of the following animals is correctly matched with its particular taxonomic category?",
+      "options": [
+        {
+          "key": "A",
+          "value": "Tiger - <i>Tigris,</i> species "
+        },
+        {
+          "key": "B",
+          "value": "Cuttlefish - mollusca, class"
+        },
+        {
+          "key": "C",
+          "value": "Humans - primata, family"
+        },
+        {
+          "key": "D",
+          "value": "Housefly - <i>Musca,</i> order"
+        }
+      ],
+      "answer": "A",
+      "explanation": "Binomial nomenclature system of naming\norganisms using a two-part Latinized (or scientific)\nname that was devised by the Swedish botanist\nLinnaeus (Carl Linne); it is also known as the\nLinnaean system. The first part is the generic name,\nthe second is the specific name. Zoological name of\ntiger is Panthera tigris. So, tigris is species name of\nTiger."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "ICBN stands for",
+      "options": [
+        {
+          "key": "A",
+          "value": "International Code of Botanical Nomenclature"
+        },
+        {
+          "key": "B",
+          "value": "International Congress of Biological Names "
+        },
+        {
+          "key": "C",
+          "value": "Indian Code of Botanical Nomenclature"
+        },
+        {
+          "key": "D",
+          "value": "Indian Congress of Biological Names."
+        }
+      ],
+      "answer": "A",
+      "explanation": "The International Code of Botanical\nNomenclature (ICBN) is a set of rules and\nrecommendations dealing with the formal botanical\nnames given to plant.<br> The foundations of ICBN are\ngiven in book written by C. Linnaeus named\nPhilosophia Botanica. It is independent of zoological\nnomenclature. <br>The rank of species is basic and relative\norder of the ranks of taxa are as : species, genus,\ntribe, family, order, series, class, division and kingdom.\n<br>The different ranks or categories have following\nspecific endings of their names as division – phyla,\nclass-ae, family-aceae.\n"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The living organisms can be unexceptionally distinguished from the non-living things on the basis of their ability for ",
+      "options": [
+        {
+          "key": "A",
+          "value": "interaction with the environment and progressive evoluation"
+        },
+        {
+          "key": "B",
+          "value": "reproduction"
+        },
+        {
+          "key": "C",
+          "value": "growth and movement"
+        },
+        {
+          "key": "D",
+          "value": "responsiveness to touch."
+        }
+      ],
+      "answer": "A",
+      "explanation": "All living organisms interact with their\nenvironment and shows progressive\nevolution. They can sense and respond\nto environmental uses. On the other\nhand reproduction, growth and\nmovement cannot be all inclusive\ndefining properties of living organisms."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "One of the most important functions of botanical gardens is that",
+      "options": [
+        {
+          "key": "A",
+          "value": "they provide a beautiful area for recreation "
+        },
+        {
+          "key": "B",
+          "value": "one can observe tropical plants there "
+        },
+        {
+          "key": "C",
+          "value": "they allow <i>ex situ</i> conservation of germplasm"
+        },
+        {
+          "key": "D",
+          "value": "they provide the natural habitat for wild life."
+        }
+      ],
+      "answer": "C",
+      "explanation": "Ex situ conservation means “offsite\nconservation”.<br><br> It is the process of protecting\nendangered species of plants and animals by removing\nit from an unsafe or threatened habitat and placing it\nor part of it under the care of humans.<br><br> Botanical\ngarden serve as ex situ conservation of germplasm of\ndifferent plants, to maintain rare and endemic plant\nspecies and also to provide recreation and knowledge\nabout plants to a common man."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Biosystematics aims at ",
+      "options": [
+        {
+          "key": "A",
+          "value": "the classification of organisms based on broad morphological characters"
+        },
+        {
+          "key": "B",
+          "value": "delmiting various raxa of organisms and establishing their relationships"
+        },
+        {
+          "key": "C",
+          "value": "the classification of organisms based on their evolutionary history and establishing their phylogeny on the totally of various parameters from all fields of studies"
+        },
+        {
+          "key": "D",
+          "value": "identification and arrangement of organisms on the basis of their cytological characteristics."
+        }
+      ],
+      "answer": "C",
+      "explanation": "Biosystematics is the study of diversity\nof organism and all their comparative and\nevolutionary relationships."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Species are considered as",
+      "options": [
+        {
+          "key": "A",
+          "value": "real basic units of classification"
+        },
+        {
+          "key": "B",
+          "value": "the lowest units of classification"
+        },
+        {
+          "key": "C",
+          "value": "artificial concept of human mind which cannot  be defined in absolute terms"
+        },
+        {
+          "key": "D",
+          "value": "real units of classification devised by taxonomists."
+        }
+      ],
+      "answer": "A",
+      "explanation": "Species is a natural population or group of\nnatural populations of individuals which are\ngenetically distinct and reproductively isolated with\nsimilar essential morphological traits.<br><br>\nSpecies is also a genetically closed system because its members do\nnot interbreed with members of other species. Species is lowest or basic taxonomic category, e.g., mango (Mangifera indica), potato (Solanum tuberosum), lion\n(Panthera leo). <br><br>Here indica, tuberosum, leo are species\nof genera Mangifera, Solanum and Panthera\nrespectively. All other taxonomic categories are\ndefined and described in relation to species.<br><br> For\nexample, a genus is a group of species and a subspecies\nor a variety is a part of species. New species originate\nfrom already existing species. Species is considered\nbasic unit of taxonomy since in the greater majority\nof cases we do not have intraspecific names."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Which of the following is less general in characters as compared to genus?",
+      "options": [
+        {
+          "key": "A",
+          "value": "Species "
+        },
+        {
+          "key": "B",
+          "value": "Division"
+        },
+        {
+          "key": "C",
+          "value": "Class"
+        },
+        {
+          "key": "D",
+          "value": "Family"
+        }
+      ],
+      "answer": "A",
+      "explanation": "A taxonomic hierarchy is the sequence of\narrangement of taxonomic categories in a descending\norder during the classification of an organism.<br><br> There\nare seven obligate categories - kingdom, division ,\nclass, order, family, genus and species. Species is the\nlowest category while kingdom is the highest category.\nThe number of common characters is maximum in case\nof organisms placed in the lowest category. <br><br>Number\nof common characters decreases with the rise in\ncategory. Species are the smallest group of individuals\nwhich can be recognized by ordinary methods as\ngroups and which are consistently and persistently\ndifferent from other groups because their characters\nare less general.\n"
+    }
+  ]
+}

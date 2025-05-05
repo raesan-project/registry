@@ -1,0 +1,421 @@
+{
+  "_index": {
+    "name": "Hydrocarbons"
+  },
+  "_children": [
+    {
+      "_type": "single_mcq",
+      "body": "<p>Given below are two statements :</p>\n<p>Statement (I) : Neopentane forms only one monosubstituted derivative.</p>\n<p>Statement (II) : Melting point of neopentane is higher than n-pentane.</p>\n<p>In the light of the above statements, choose the most appropriate answer from the options given below :</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": " Statement I is incorrect but Statement II is correct\n"
+        },
+        {
+          "key": "B",
+          "value": "Both Statement I and Statement II are correct\n"
+        },
+        {
+          "key": "C",
+          "value": " Statement I is correct but Statement II is incorrect\n"
+        },
+        {
+          "key": "D",
+          "value": " Both Statement I and Statement II are incorrect"
+        }
+      ],
+      "answer": "B",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Match the List - I with List - II</p>\n<p><style type=\"text/css\">\n.tg  {border-collapse:collapse;border-spacing:0;}\n.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}\n.tg .tg-7btt{border-color:inherit;font-weight:bold;text-align:center;vertical-align:top}\n.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}\n</style>\n<table class=\"tg\" style=\"undefined;table-layout: fixed; width: 689px\"><colgroup>\n<col style=\"width: 79px\">\n<col style=\"width: 282px\">\n<col style=\"width: 78px\">\n<col style=\"width: 250px\">\n</colgroup>\n<thead>\n  <tr>\n    <th class=\"tg-7btt\"></th>\n    <th class=\"tg-7btt\">List - I<br>Name reaction</th>\n    <th class=\"tg-7btt\"></th>\n    <th class=\"tg-7btt\">List - II<br>Product obtainable</th>\n  </tr></thead>\n<tbody>\n  <tr>\n    <td class=\"tg-c3ow\">(A)</td>\n    <td class=\"tg-0pky\">Swarts reaction</td>\n    <td class=\"tg-c3ow\">(I)</td>\n    <td class=\"tg-0pky\">Ethyl benzene</td>\n  </tr>\n  <tr>\n    <td class=\"tg-c3ow\">(B)</td>\n    <td class=\"tg-0pky\">Sandmeyer's reaction</td>\n    <td class=\"tg-c3ow\">(II)</td>\n    <td class=\"tg-0pky\">Ethyl iodide</td>\n  </tr>\n  <tr>\n    <td class=\"tg-c3ow\">(C)</td>\n    <td class=\"tg-0pky\">Wurtz Fittig reaction</td>\n    <td class=\"tg-c3ow\">(III)</td>\n    <td class=\"tg-0pky\">Cyanobenzene</td>\n  </tr>\n  <tr>\n    <td class=\"tg-c3ow\">(D)</td>\n    <td class=\"tg-0pky\">Finkelstein reaction</td>\n    <td class=\"tg-c3ow\">(IV)</td>\n    <td class=\"tg-0pky\">Ethyl fluoride</td>\n  </tr>\n</tbody>\n</table></p>\n<p>Choose the correct answer from the options given below:</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "A-II, B-III, C-I, D-IV\n"
+        },
+        {
+          "key": "B",
+          "value": "A-II, B-I, C-III, D-IV\n"
+        },
+        {
+          "key": "C",
+          "value": "A-IV, B-I, C-III, D-II\n"
+        },
+        {
+          "key": "D",
+          "value": "A-IV, B-III, C-I, D-II"
+        }
+      ],
+      "answer": "D",
+      "explanation": "<p><style type=\"text/css\">\n.tg  {border-collapse:collapse;border-spacing:0;}\n.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}\n.tg .tg-7btt{border-color:inherit;font-weight:bold;text-align:center;vertical-align:top}\n</style>\n<table class=\"tg\" style=\"undefined;table-layout: fixed; width: 726px\"><colgroup>\n<col style=\"width: 91px\">\n<col style=\"width: 209px\">\n<col style=\"width: 87px\">\n<col style=\"width: 339px\">\n</colgroup>\n<thead>\n  <tr>\n    <th class=\"tg-7btt\"></th>\n    <th class=\"tg-7btt\">LIST-i<br>Name reaction</th>\n    <th class=\"tg-7btt\"></th>\n    <th class=\"tg-7btt\">LIST-II<br>Product obtainable</th>\n  </tr></thead>\n<tbody>\n  <tr>\n    <td class=\"tg-c3ow\">(A)</td>\n    <td class=\"tg-c3ow\">Swarts reaction</td>\n    <td class=\"tg-c3ow\">(I)</td>\n    <td class=\"tg-c3ow\">$\\mathrm{Et}-\\mathrm{I} \\xrightarrow[\\mathrm{DMF}]{\\mathrm{KF}} \\mathrm{Et}-\\mathrm{F}$<br></td>\n  </tr>\n  <tr>\n    <td class=\"tg-c3ow\">(B)</td>\n    <td class=\"tg-c3ow\">Sandmeyer's reaction</td>\n    <td class=\"tg-c3ow\">(II)</td>\n    <td class=\"tg-c3ow\">$\\mathrm{PhN}_2^{\\oplus} \\mathrm{Cl}^{-} \\xrightarrow{\\mathrm{CuCN} / \\mathrm{KCN}} \\mathrm{PhCN}+\\mathrm{N}_2$</td>\n  </tr>\n  <tr>\n    <td class=\"tg-c3ow\">(C)</td>\n    <td class=\"tg-c3ow\">Wurtz Fittig reaction</td>\n    <td class=\"tg-c3ow\">(III)</td>\n    <td class=\"tg-c3ow\">$$<br>\\mathrm{Ph}-\\mathrm{Cl}+\\mathrm{EtCl} \\xrightarrow[\\text { ether }]{\\mathrm{Na}}<br>$$<br>$$<br>\\mathrm{Ph}-\\mathrm{Et}+\\mathrm{Ph}-\\mathrm{Ph}+\\mathrm{Et}-\\mathrm{Et}<br>$$</td>\n  </tr>\n  <tr>\n    <td class=\"tg-c3ow\">(D)</td>\n    <td class=\"tg-c3ow\">Finkelstein reaction</td>\n    <td class=\"tg-c3ow\">(IV)</td>\n    <td class=\"tg-c3ow\">$\\mathrm{Et}-\\mathrm{Cl} \\xrightarrow[\\text { acetone }]{\\mathrm{NaI}} \\mathrm{Et}-\\mathrm{I}+\\mathrm{NaCl}$</td>\n  </tr>\n</tbody></table></p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Given below are two statements :</p>\n<p>Statement I : One mole of propyne reacts with excess of sodium to liberate half a mole of $\\mathrm{H}_2$ gas.</p>\n<p>Statement II : Four g of propyne reacts with $\\mathrm{NaNH}_2$ to liberate $\\mathrm{NH}_3$ gas which occupies 224 mL at STP.</p>\n<p>In the light of the above statements, choose the most appropriate answer from the options given below :</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "Both Statement I and Statement II are incorrect\n"
+        },
+        {
+          "key": "B",
+          "value": "Statement I is incorrect but Statement II is correct\n"
+        },
+        {
+          "key": "C",
+          "value": "Both Statement I and Statement II are correct\n"
+        },
+        {
+          "key": "D",
+          "value": "Statement I is correct but Statement II is incorrect"
+        }
+      ],
+      "answer": "D",
+      "explanation": "<h2><strong>Statement I</strong></h2>\n<p>“One mole of propyne reacts with excess of sodium to liberate half a mole of $\\mathrm{H}_2$ gas.”</p>\n<h3><strong>Reaction and Stoichiometry</strong></h3>\n\n<p><p>Propyne (terminal alkyne): $\\mathrm{CH_3C \\equiv CH}$.  </p></p>\n<p><p>Reaction with sodium:  </p>\n<p>$     2\\,\\mathrm{CH_3C \\equiv CH} \\;+\\; 2\\,\\mathrm{Na}      \\;\\longrightarrow\\; 2\\,(\\mathrm{CH_3C \\equiv C^-Na^+}) \\;+\\; \\mathrm{H_2}.   $  </p></p>\n<p><p>From this balanced equation, <strong>2 moles</strong> of propyne produce <strong>1 mole</strong> of $\\mathrm{H_2}$.  </p></p>\n\n<p>Hence, <strong>1 mole</strong> of propyne will produce <strong>$\\tfrac{1}{2}$ mole</strong> of $\\mathrm{H_2}$.  </p>\n<p>$ \\boxed{\\text{Statement I is correct.}} $</p>\n<hr />\n<h2><strong>Statement II</strong></h2>\n<p>“Four grams of propyne reacts with $\\mathrm{NaNH_2}$ to liberate $\\mathrm{NH_3}$ gas which occupies 224 mL at STP.”</p>\n<h3><strong>Analysis</strong></h3>\n\n<p><strong>Moles of propyne</strong>  </p>\n\n\n<p><p>Molecular mass of propyne ($\\mathrm{C_3H_4}$): </p>\n<p>$        3 \\times 12 + 4 \\times 1 = 36 + 4 = 40\\,\\mathrm{g/mol}.      $</p></p>\n<p><p>Four grams of propyne is: </p>\n<p>$        \\frac{4\\,\\mathrm{g}}{40\\,\\mathrm{g/mol}} = 0.1\\,\\mathrm{mol}.      $</p></p>\n\n\n<p><strong>Reaction with $\\mathrm{NaNH_2}$</strong>  </p>\n\n\n<p><p>For a <strong>terminal alkyne</strong>:  </p>\n<p>$        \\mathrm{CH_3C \\equiv CH} \\;+\\; \\mathrm{NaNH_2}         \\;\\longrightarrow\\; \\mathrm{CH_3C \\equiv C^-Na^+} \\;+\\; \\mathrm{NH_3}.      $</p></p>\n<p><p><strong>1 mole</strong> of propyne produces <strong>1 mole</strong> of $\\mathrm{NH_3}$.</p></p>\n\n\n<p><strong>Moles of $\\mathrm{NH_3}$ produced</strong>  </p>\n\n\n<p>With $0.1\\,\\mathrm{mol}$ of propyne, we get $0.1\\,\\mathrm{mol}$ of $\\mathrm{NH_3}$.</p>\n\n\n<p><strong>Volume of $\\mathrm{NH_3}$ at STP</strong>  </p>\n\n\n<p><p>1 mole of any ideal gas at STP $\\approx 22.4\\,\\mathrm{L} = 22400\\,\\mathrm{mL}.$  </p></p>\n<p><p>$0.1\\,\\mathrm{mol}$ of $\\mathrm{NH_3}$ occupies $0.1 \\times 22.4\\,\\mathrm{L} = 2.24\\,\\mathrm{L} = 2240\\,\\mathrm{mL}.$</p></p>\n\n<p>However, <strong>Statement II</strong> says the liberated $\\mathrm{NH_3}$ occupies only <strong>224 mL</strong> at STP, which corresponds to $0.01\\,\\mathrm{mol}$ of $\\mathrm{NH_3}$, not $0.1\\,\\mathrm{mol}$. Therefore, the statement’s volume is off by a factor of 10 and is thus <strong>incorrect</strong> if the reaction goes to completion in a typical way.</p>\n<p>$ \\boxed{\\text{Statement II is incorrect.}} $</p>\n<hr />\n<h2><strong>Conclusion</strong></h2>\n\n<p><p><strong>Statement I</strong> is <strong>correct</strong>.  </p></p>\n<p><p><strong>Statement II</strong> is <strong>incorrect</strong>.  </p></p>\n\n<p>Hence, the best choice is:</p>\n<p>$ \\boxed{\\text{Option D: Statement I is correct but Statement II is incorrect.}} $</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>The incorrect statement regarding ethyne is</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "The carbon - carbon bonds in ethyne is weaker than that in ethene\n"
+        },
+        {
+          "key": "B",
+          "value": "Both carbons are sp hybridised\n"
+        },
+        {
+          "key": "C",
+          "value": "The $$\\mathrm{C}-\\mathrm{C}$$ bonds in ethyne is shorter than that in ethene\n"
+        },
+        {
+          "key": "D",
+          "value": "Ethyne is linear"
+        }
+      ],
+      "answer": "A",
+      "explanation": "<p>To evaluate which statement regarding ethyne is incorrect, it's necessary to review the characteristics of the chemical bonds in ethyne (acetylene, $$\\mathrm{C_2H_2}$$) compared to ethene (ethylene, $$\\mathrm{C_2H_4}$$). </p>\n\n<p><strong>Option A:</strong> The statement that the carbon-carbon bonds in ethyne are weaker than that in ethene is <strong>incorrect</strong>. In ethyne, the carbon-carbon triple bond is composed of one sigma ($\\sigma$) bond and two pi ($\\pi$) bonds. This configuration makes the triple bond in ethyne much stronger and shorter compared to the double bond in ethene, which consists of one $\\sigma$ bond and one $\\pi$ bond. Thus, the carbon-carbon bond in ethyne is actually stronger than that in ethene. </p>\n\n<p><strong>Option B:</strong> The statement that both carbons are sp hybridised in ethyne is <strong>correct</strong>. In ethyne, each carbon atom is bonded to the other carbon atom and a single hydrogen atom, necessitating the sp hybridisation to form a linear molecule with $180^\\circ$ angles between the bonds. </p>\n\n<p><strong>Option C:</strong> The statement that the $$\\mathrm{C-C}$$ bonds in ethyne are shorter than that in ethene is <strong>correct</strong>. The presence of a triple bond between the carbon atoms in ethyne results in a shorter bond length compared to the double-bonded carbons in ethene. This is because the additional pi bonds in a triple bond pull the carbon atoms closer together. </p>\n\n<p><strong>Option D:</strong> The statement that ethyne is linear is <strong>correct</strong>. Due to the sp hybridisation of carbon atoms in ethyne, the molecule adopts a linear geometry with bond angles of $180^\\circ$. </p>\n\n<p>Therefore, the incorrect statement regarding ethyne is <strong>Option A</strong>: The carbon-carbon bonds in ethyne are weaker than that in ethene.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Given below are two statements :</p>\n<p>Statement (I) : $$\\mathrm{S}_{\\mathrm{N}} 2$$ reactions are 'stereospecific', indicating that they result in the formation of only one stereo-isomer as the product.</p>\n<p>Statement (II) : $$\\mathrm{S}_{\\mathrm{N}} 1$$ reactions generally result in formation of product as racemic mixtures.</p>\n<p>In the light of the above statements, choose the correct answer from the options given below :</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "Both Statement I and Statement II are false\n"
+        },
+        {
+          "key": "B",
+          "value": "Statement I is false but Statement II is true\n"
+        },
+        {
+          "key": "C",
+          "value": "Statement I is true but Statement II is false\n"
+        },
+        {
+          "key": "D",
+          "value": "Both Statement I and Statement II are true"
+        }
+      ],
+      "answer": "D",
+      "explanation": "<p>Statement (I) explains a characteristic of $$\\mathrm{S}_{\\mathrm{N}}2$$ (Substitution Nucleophilic Bimolecular) reactions. In $$\\mathrm{S}_{\\mathrm{N}}2$$ reactions, the attack of the nucleophile and the departure of the leaving group occur simultaneously in a single step. This reaction has a back-side attack mechanism, where the nucleophile attacks the electrophilic carbon from the opposite side of the leaving group. This back-side attack leads to the inversion of configuration at the carbon atom undergoing substitution, a phenomenon often referred to as 'Walden inversion'. Thus, $$\\mathrm{S}_{\\mathrm{N}}2$$ reactions are stereospecific, leading to the formation of a product with a specific configuration (either inversion or retention of configuration, but typically inversion in the case of $$\\mathrm{S}_{\\mathrm{N}}2$$). Therefore, Statement I is true.</p>\n<p>Statement (II) concerns $$\\mathrm{S}_{\\mathrm{N}}1$$ (Substitution Nucleophilic Unimolecular) reactions, which proceed in two steps: first, the leaving group departs, forming a carbocation intermediate, and then the nucleophile attacks. The attack of the nucleophile can occur from either side of the planar carbocation, resulting in the formation of both enantiomers of the product. When the reactant is chiral, the product is usually a racemic mixture, consisting of equal amounts of both enantiomers, assuming that there is no steric or electronic preference for the attack on the carbocation. This makes $$\\mathrm{S}_{\\mathrm{N}}1$$ reactions non-stereospecific. Therefore, Statement II is true as well.</p>\n<p>Based on the explanations provided, the correct answer is <strong>Option D</strong>: Both Statement I and Statement II are true.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>$$\n\\stackrel{\\bullet}{\\mathrm{Cl}}+\\mathrm{CH}_{4} \\rightarrow \\mathrm{A}+\\mathrm{B}\n$$</p>\n<p>A and B in the above atmospheric reaction step are :</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$\\mathrm{C}_{2} \\mathrm{H}_{6}$$ and $$\\mathrm{Cl}_{2}$$"
+        },
+        {
+          "key": "B",
+          "value": "$$\\stackrel{\\bullet}{\\mathrm{C}} \\mathrm{HCl}_{2}$$ and $$\\mathrm{H}_{2}$$"
+        },
+        {
+          "key": "C",
+          "value": "$$\\stackrel{\\bullet}{\\mathrm{C}}\\mathrm{H}_{3}$$ and $$\\mathrm{HCl}$$"
+        },
+        {
+          "key": "D",
+          "value": "$$\\mathrm{C}_{2} \\mathrm{H}_{6}$$ and $$\\mathrm{HCl}$$"
+        }
+      ],
+      "answer": "C",
+      "explanation": "$$\n\\stackrel{\\bullet}{\\mathrm{Cl}}+\\mathrm{CH}_4 \\longrightarrow {\\stackrel{\\bullet}{\\mathrm{C}}}\\mathrm{H}_3+\\mathrm{HCl}\n$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Given below are two statements :</p>\n<p>Statement I : The presence of weaker $$\\pi$$-bonds make alkenes less stable than alkanes.</p>\n<p>Statement II : The strength of the double bond is greater than that of carbon-carbon single bond.</p>\n<p>In the light of the above statements, choose the correct answer from the options given below :",
+      "options": [
+        {
+          "key": "A",
+          "value": "Both Statement I and Statement II are correct."
+        },
+        {
+          "key": "B",
+          "value": "Both Statement I and Statement II are incorrect."
+        },
+        {
+          "key": "C",
+          "value": "Statement I is correct but Statement II is incorrect."
+        },
+        {
+          "key": "D",
+          "value": "Statement I is incorrect but Statement II is correct."
+        }
+      ],
+      "answer": "A",
+      "explanation": "The $\\pi$-bond present is alkenes is weaker than $\\sigma$ bond present in alkanes. That makes alkenes less stable than alkanes. Therefore, statement-I is correct.\n<br/><br/>\nCarbon-carbon double bond is stronger than Carbon-carbon single bond because more energy is required to break 1 sigma and 1 pi bond than to break 1 sigma bond only. Therefore, statement-II is also correct."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Presence of which reagent will affect the reversibility of the following reaction, and change it to a irreversible reaction :<br><br>CH<sub>4</sub> + I<sub>2</sub> $$\\mathrel{\\mathop{\\kern0pt\\rightleftharpoons}\n\\limits_{{\\mathop{\\rm Re}\\nolimits} versible}^{hv}} $$ CH<sub>3</sub> $$-$$ I + HI",
+      "options": [
+        {
+          "key": "A",
+          "value": "HOCl"
+        },
+        {
+          "key": "B",
+          "value": "dilute HNO<sub>2</sub>"
+        },
+        {
+          "key": "C",
+          "value": "Liquid NH<sub>3</sub>"
+        },
+        {
+          "key": "D",
+          "value": "Concentrated HIO<sub>3</sub>"
+        }
+      ],
+      "answer": "D",
+      "explanation": "Iodination of alkane is reversible reaction. It can be irreversible in the presence of strong oxidising agent like conc. HNO<sub>3</sub> or conc. HIO<sub>3</sub>."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Metallic sodium does not react normally with :",
+      "options": [
+        {
+          "key": "A",
+          "value": "gaseous ammonia"
+        },
+        {
+          "key": "B",
+          "value": "But-2-yne"
+        },
+        {
+          "key": "C",
+          "value": "Ethyne"
+        },
+        {
+          "key": "D",
+          "value": "tert-butyl alcohol"
+        }
+      ],
+      "answer": "B",
+      "explanation": "Metallic sodium does not react with 2-butyne because 2-butyne does not have acidic hydrogen."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Match List - I with List - II :<br><br><b>List - I (Chemicals)</b><br><br>(a) Alcoholic potassium hydroxide<br><br>(b) Pd/BaSO<sub>4</sub><br><br>(c) BHC (Benzene hexachloride)<br><br>(d) Polyacetylene<br><br><b>List - II (Use / Preparation / Constituent)</b><br><br>(i) Electrodes in batteries<br><br>(ii) Obtained by addition reaction<br><br>(iii) Used for $$\\beta$$ - elimination reaction<br><br>(iv) Lindlar's catalyst<br><br>Choose the most appropriate match :",
+      "options": [
+        {
+          "key": "A",
+          "value": "(a) - (ii), (b) - (i), (c) - (iv), (d) - (iii)"
+        },
+        {
+          "key": "B",
+          "value": "(a) - (iii), (b) - (iv), (c) - (ii), (d) - (i)"
+        },
+        {
+          "key": "C",
+          "value": "(a) - (iii), (b) - (i), (c) - (iv), (d) - (ii)"
+        },
+        {
+          "key": "D",
+          "value": "(a) - (ii), (b) - (iv), (c) - (i), (d) - (iii)"
+        }
+      ],
+      "answer": "B",
+      "explanation": "Alc. KOH causes elimination<br><br>\nPd / BaSO<sub>4</sub> – Lindlar’s catalyst<br><br>\nBHC is obtained by the addition reaction of Cl<sub>2</sub>\nwith benzene in presence of U.V.<br><br>\nThin film of polyacetylene can be used as\nelectrode in batteries."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Which of the following is Lindlar catalyst?",
+      "options": [
+        {
+          "key": "A",
+          "value": "Partially deactivated palladised charcoal"
+        },
+        {
+          "key": "B",
+          "value": "Zinc chloride and HCl"
+        },
+        {
+          "key": "C",
+          "value": "Sodium and Liquid NH<sub>3</sub>"
+        },
+        {
+          "key": "D",
+          "value": "Cold dilute solution of KMnO<sub>4</sub>"
+        }
+      ],
+      "answer": "A",
+      "explanation": "Lindlar's catalyst $$ \\Rightarrow $$ Pd/CaCO<sub>3</sub> + (CH<sub>3</sub>COO)<sub>2</sub> Pb + quinolene"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Polysubstitution is a major drawback in:",
+      "options": [
+        {
+          "key": "A",
+          "value": "Reimer Tiemann reaction "
+        },
+        {
+          "key": "B",
+          "value": "Friedel Craft's alkylation"
+        },
+        {
+          "key": "C",
+          "value": "Acetylation of aniline"
+        },
+        {
+          "key": "D",
+          "value": "Friedel Craft's acylation"
+        }
+      ],
+      "answer": "B",
+      "explanation": "Polysubstitution is a major drawback of Friedal–Craft alkylation.\n<br><br> –CH<sub>3</sub> group in highly activating group\n due to +H effect, so after first time addition of -CH<sub>3</sub> group in benzene ring the reactivity of the benzene ring increases."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The correct order for acid strength of compounds : <br><br>CH $$ \\equiv $$ CH, CH<sub>3</sub>–C $$ \\equiv $$ CH and CH<sub>2</sub> = CH<sub>2</sub> is as follows ",
+      "options": [
+        {
+          "key": "A",
+          "value": "CH $$ \\equiv $$ CH &gt; CH<sub>2</sub> = CH<sub>2</sub> &gt; CH<sub>3</sub> – C $$ \\equiv $$ CH "
+        },
+        {
+          "key": "B",
+          "value": "CH<sub>3</sub> – C $$ \\equiv $$ CH &gt; CH<sub>2</sub> = CH<sub>2</sub> &gt; HC $$ \\equiv $$ CH"
+        },
+        {
+          "key": "C",
+          "value": "HC $$ \\equiv $$ CH &gt; CH<sub>3</sub> – C $$ \\equiv $$ CH &gt; CH<sub>2</sub> = CH<sub>2</sub> "
+        },
+        {
+          "key": "D",
+          "value": "CH<sub>3</sub> – CH $$ \\equiv $$ CH &gt; CH $$ \\equiv $$ CH &gt; CH<sub>2</sub> = CH<sub>2</sub> "
+        }
+      ],
+      "answer": "C",
+      "explanation": "Among CH $$ \\equiv $$ CH and CH<sub>2</sub> = CH<sub>2</sub>, in CH $$ \\equiv $$ CH compound H atom is attached with sp hybridised C atom and in CH<sub>2</sub> = CH<sub>2</sub> compound H atom is attached with sp<sup>2</sup> hybridised C atom.\n<br><br>As we know, electronegitivity of sp carbon is more compare to sp<sup>2</sup> carbon atom and that H is more acidic which is attached with more electronegative carbon atom. So CH $$ \\equiv $$ CH is more acidic than  CH<sub>2</sub> = CH<sub>2</sub>.\n<br><br>Among CH $$ \\equiv $$ CH and CH<sub>3</sub>–C $$ \\equiv $$ CH, in CH $$ \\equiv $$ CH both the H atom is connected to sp carbon atom but in CH<sub>3</sub>–C $$ \\equiv $$ CH, with one sp carbon atom H atom attached and with other sp carbon atom -CH<sub>3</sub> group attached which have +I effect and we know +I effect decreases acidic strength.\n<br>So, CH $$ \\equiv $$ CH is more acidic than CH<sub>3</sub>–C $$ \\equiv $$ CH.\n<br><br>So correct order is\n<br><br>HC $$ \\equiv $$ CH &gt; CH<sub>3</sub> – C $$ \\equiv $$ CH &gt; CH<sub>2</sub> = CH<sub>2</sub> \n"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "5 L of an alkane requires 25 L of oxygen for its complete combustion. If all volumes are measured at constant temperature and pressure, the alkane is :",
+      "options": [
+        {
+          "key": "A",
+          "value": "Ethane "
+        },
+        {
+          "key": "B",
+          "value": "Propane "
+        },
+        {
+          "key": "C",
+          "value": "Butane"
+        },
+        {
+          "key": "D",
+          "value": "Isobutane"
+        }
+      ],
+      "answer": "B",
+      "explanation": "We know, conbustion of Hydrocarbon \n<br><br>C<sub>x</sub> H<sub>y</sub> + (x + $${y \\over 4}$$)O<sub>2</sub> &nbsp;$$ \\to $$&nbsp; x CO<sub>2</sub> + $${y \\over 2}$$ H<sub>2</sub>O\n<br><br>So, to consume 1 mole of C<sub>x</sub> H<sub>y</sub> we need \n<br><br>(x + $${y \\over 4}$$) mole of O<sub>2</sub> gas.\n<br><br>As  both C<sub>x</sub> H<sub>y</sub> and O<sub>2</sub> are gas,\n<br><br>So avogadro's law is applicable on them.\n<br><br>At constant temperature and pressure according to avogadro's law, volume $$ \\propto $$ mole\n<br><br>So, for 5L of C<sub>x</sub> H<sub>y</sub> the \n<br><br>volume of O<sub>2</sub> = 5(x + $${y \\over 4}$$)\n<br><br>According to the question,\n<br><br>5(x + $${y \\over 4}$$) = 25\n<br><br>$$\\therefore\\,\\,\\,$$ (x + $${y \\over 4}$$) = 5 . . . . . (1)\n<br><br>For Ethane (C<sub>2</sub> H<sub>6</sub>), x = 2 and y = 6\n<br><br>$$\\therefore\\,\\,\\,$$ x + $${y \\over 4}$$ = 2 + $${6 \\over 4}$$ $$ \\ne $$ 5\n<br><br>$$\\therefore\\,\\,\\,$$ C<sub>2</sub> H<sub>6</sub> can't be the required alkane. \n<br><br>For Propane (C<sub>3</sub> H<sub>8</sub>),  x = 3. and y = 8\n<br><br>$$\\therefore\\,\\,\\,$$ x + $${y \\over 4}$$ = 3 + $${8 \\over 4}$$ = 5\n<br><br>$$\\therefore\\,\\,\\,$$ Propane (C<sub>3</sub> H<sub>8</sub>) is the right alkane.\n<br><br>Similarly for Butane (C<sub>4</sub> H<sub>10</sub>) and Isobutane (C<sub>4</sub> H<sub>10</sub>) you can check \n<br>x + $${y \\over 4}$$ $$ \\ne $$ 5."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "At 300 K and 1 atm, 15 mL of a gaseous hydrocarbon requires 375 mL air containing 20% O<sub>2</sub> by volume\nfor complete combustion. After combustion the gases occupy 345 mL. Assuming that the water formed is\nin liquid form and the volumes were measured at the same temperature and pressure, the formula of the hydrocarbon is:",
+      "options": [
+        {
+          "key": "A",
+          "value": "C<sub>3</sub>H<sub>8</sub>"
+        },
+        {
+          "key": "B",
+          "value": "C<sub>4</sub>H<sub>8</sub>"
+        },
+        {
+          "key": "C",
+          "value": "C<sub>4</sub>H<sub>10 </sub>"
+        },
+        {
+          "key": "D",
+          "value": "C<sub>3</sub>H<sub>6</sub>"
+        }
+      ],
+      "answer": "A",
+      "explanation": "$${C_x}{H_{y\\left( g \\right)}} + \\left( {{{4x + y} \\over 4}} \\right){O_{2\\left( g \\right)}}$$\n$$ \\to xC{O_{2\\left( g \\right)}} + {y \\over 2}{H_2}O\\left( l \\right)$$\n<br><br>Volume of $${O_2}$$ used \n<br><br>$$ = 375 \\times {{20} \\over {100}} = 75ml$$ \n<br><br>$$\\therefore$$ From the reaction of combination\n<br><br>$$1\\,\\,ml\\,{C_x}{H_y}\\,\\,$$ requires $$ = {{4x + y} \\over 4}ml\\,{O_2}$$ \n<br><br>$$15\\left( {{{4x + y} \\over 4}} \\right) = 75$$ \n<br><br>So, $$4x+y=20$$ \n<br><br>$$x=3$$ \n<br><br>$$y=8$$ \n<br><br>$$\\therefore$$ $${C_3}{H_8}$$ "
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Which one of the following has the minimum boiling point?",
+      "options": [
+        {
+          "key": "A",
+          "value": "n-butane"
+        },
+        {
+          "key": "B",
+          "value": "isobutane"
+        },
+        {
+          "key": "C",
+          "value": "1- butene "
+        },
+        {
+          "key": "D",
+          "value": "1- butyne "
+        }
+      ],
+      "answer": "B",
+      "explanation": "<b>NOTE :</b> Among isomeric alkanes, the straight chain isomer has higher boiling point than  the branched chain isomer. The greater the branching of the chain, the lower is the boiling point. Further due to the presence of $$\\pi $$ electrons, these molecules are slightly polar and hence have higher boiling points than the corresponding alkanes. \n<br><br>Thus $$B.pt.$$ follows the order\n<br><br>alkynes $$&gt;$$ alkene $$&gt;$$  alkanes (straight chain) &gt; branched chain alkanes. "
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Acetylene does not react with :",
+      "options": [
+        {
+          "key": "A",
+          "value": "$\\mathrm{Na}$"
+        },
+        {
+          "key": "B",
+          "value": "ammoniacal $\\mathrm{AgNO}_3$"
+        },
+        {
+          "key": "C",
+          "value": "$\\mathrm{HCl}$"
+        },
+        {
+          "key": "D",
+          "value": "$\\mathrm{NaOH}$"
+        }
+      ],
+      "answer": "D",
+      "explanation": "1. Acetylene reacts with sodium :\n   <br/><br/>$$\\mathrm{2CH} \\equiv \\mathrm{CH} + 2\\mathrm{Na} \\longrightarrow 2\\mathrm{CH} \\equiv \\mathrm{C}^{-}\\mathrm{Na}^{+} + \\mathrm{H}_2$$\n  <br/><br/> Here, acetylene reacts with sodium to produce sodium acetylide and hydrogen gas.\n\n<br/><br/>2. Acetylene reacts with ammoniacal silver nitrate :\n  <br/><br/> $$\\mathrm{CH} \\equiv \\mathrm{CH} + 2\\mathrm{AgNO}_3 \\longrightarrow \\mathrm{Ag}_2\\mathrm{C}_2 + 2\\mathrm{HNO}_3$$\n <br/><br/>  In this reaction, acetylene reacts with ammoniacal silver nitrate to form a white precipitate of silver acetylide and nitric acid.\n\n<br/><br/>3. Acetylene reaction with hydrochloric acid in the presence of a $\\mathrm{Hg}^{2+}$ catalyst (oxymercuration-demercuration) :\n  <br/><br/> $$\\mathrm{CH} \\equiv \\mathrm{CH} + \\mathrm{Hg(OAc)_2} + \\mathrm{H}_2\\mathrm{O} \\longrightarrow \\mathrm{CH}_2=\\mathrm{CH}-\\mathrm{OH} + \\mathrm{HgOAc}$$\n  <br/><br/> $$\\mathrm{CH}_2=\\mathrm{CH}-\\mathrm{OH} + \\mathrm{NaBH}_4 \\longrightarrow \\mathrm{CH}_2=\\mathrm{CH}-\\mathrm{H} + \\mathrm{B(OH)_3} + \\mathrm{NaOAc}$$\n <br/><br/>  Acetylene does not readily react with $\\mathrm{HCl}$. However, in the presence of a catalyst like $\\mathrm{Hg}^{2+}$, a specific type of electrophilic addition known as oxymercuration can occur. The result is vinyl chloride. Note that $\\mathrm{NaBH}_4$ is used to reduce the mercurinium ion intermediate and to replace the $\\mathrm{Hg}$ group with a hydrogen atom.\n\n<br/><br/>4. Acetylene does not react with sodium hydroxide :\n <br/><br/>  $$\\mathrm{CH} \\equiv \\mathrm{CH} + \\mathrm{NaOH} \\longrightarrow \\text { no reaction }$$\n  <br/><br/> According to the principles of the Hard and Soft Acids and Bases (HSAB) theory, soft acids prefer to bind with soft bases and hard acids prefer to bind with hard bases. In this case, $\\mathrm{OH}^-$ is a hard base, while the $\\mathrm{C}$ in acetylene is a soft acid, so they are not particularly reactive with each other.\n\n<br/><br/>5. Acetylene reacts with sodium amide :\n <br/><br/>  $$\\mathrm{CH} \\equiv \\mathrm{CH} + \\mathrm{NaNH}_2 \\longrightarrow \\mathrm{CH} \\equiv \\mathrm{C}^{-}\\mathrm{Na}^{+} + \\mathrm{NH}_3$$\n <br/><br/>  Here, sodium amide acts as a strong base and nucleophile, deprotonating the acetylene to form sodium acetylide and ammonia."
+    },
+    {
+      "_type": "numerical",
+      "body": "The minimum number of moles of O<sub>2</sub>\n required for complete combustion of 1 mole of propane and 2\nmoles of butane is _____.",
+      "answer": "18",
+      "explanation": "C<sub>3</sub>H<sub>8</sub>(g) + 5O<sub>2</sub>(g) $$ \\to $$ 3CO<sub>2</sub>(g) + 4H<sub>2</sub>O(l)\n<br><br>C<sub>4</sub>H<sub>10</sub>(g) + $${{13} \\over 2}$$O<sub>2</sub>(g) $$ \\to $$ 4CO<sub>2</sub>(g) + 5H<sub>2</sub>O(l)\n<br><br>$$ \\therefore $$ No. of moles of O<sub>2</sub> required to oxidise 1 mole of propane = 5\n<br><br>$$ \\therefore $$ No. of moles of O<sub>2</sub> required to oxidise 1 mole of butane = $${{13} \\over 2}$$\n<br><br>So, No. of moles of O<sub>2</sub> required to oxidise 1 mole of\n<br><br/>propane and 2 moles of butane = 5 + 2 $$ \\times $$ $${{13} \\over 2}$$ = 18"
+    }
+  ]
+}

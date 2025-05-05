@@ -1,0 +1,3775 @@
+{
+  "_index": {
+    "name": "Molecular Basis of Inheritance"
+  },
+  "_children": [
+    {
+      "_type": "single_mcq",
+      "body": "<p>In a chromosome, there is a specific DNA sequence, responsible for initiating replication. It is called as:</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "Recognition sequence\n"
+        },
+        {
+          "key": "B",
+          "value": "Cloning site\n"
+        },
+        {
+          "key": "C",
+          "value": "Restriction site\n"
+        },
+        {
+          "key": "D",
+          "value": "ori site\n"
+        }
+      ],
+      "answer": "D",
+      "explanation": "<p>The correct answer is:</p>\n\n<p>Option D<br>\n\n<strong>ori site</strong></p>\n\n<p>Explanation:</p>\n\n<p>The specific DNA sequence in a chromosome that is responsible for initiating replication is known as the \"origin of replication,\" typically abbreviated as \"ori.\" The ori site is a crucial element in DNA replication because it is the point where the replication machinery assembles and begins the process of copying the DNA. In prokaryotes like E. coli, there is usually a single ori site, whereas eukaryotes have multiple ori sites along their chromosomes to ensure timely and efficient replication.</p>\n\n<p>Let's summarize each option:</p>\n\n<p>Option A - <strong>Recognition sequence:</strong> This refers to a specific sequence of nucleotides that is recognized by proteins, such as enzymes, which can bind to it and perform a function. While these sequences are important, they are not specifically involved in initiating DNA replication.</p>\n\n<p>Option B - <strong>Cloning site:</strong> A cloning site refers to a location within a plasmid or other vector where DNA can be inserted for cloning purposes. This is not related to the initiation of DNA replication.</p>\n\n<p>Option C - <strong>Restriction site:</strong> A restriction site is a specific sequence of nucleotides recognized and cut by a restriction enzyme. These sites are important in molecular biology for cutting and manipulating DNA but are not involved in the initiation of DNA replication.</p>\n\n<p>Option D - <strong>ori site:</strong> The origin of replication (ori site) is indeed the specific DNA sequence where replication begins. This site is essential for the replication of DNA and marks where the replication machinery assembles to start the process of copying DNA.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Given below are two statements regarding RNA polymerase in prokaryotes.</p>\n<p>Statement I : In prokaryotes, RNA polymerase is capable of catalysing the process of elongation during \ntranscription.</p>\n<p>Statement II : RNA polymerase associate transiently with ‘Rho’ factor to initiate transcription.</p>\n<p>In the light of the above statements, choose the correct answer from the options given below :</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "Statement I is true but Statement II is false\n"
+        },
+        {
+          "key": "B",
+          "value": "Statement I is false but Statement II is true\n"
+        },
+        {
+          "key": "C",
+          "value": "Both Statement I and Statement II are true\n"
+        },
+        {
+          "key": "D",
+          "value": "Both Statement I and Statement II are false"
+        }
+      ],
+      "answer": "A",
+      "explanation": "<p>Let's analyze the given statements regarding RNA polymerase in prokaryotes:</p>\n\n<p><strong>Statement I:</strong> In prokaryotes, RNA polymerase is capable of catalysing the process of elongation during transcription.</p>\n\n<p>In prokaryotes, RNA polymerase is indeed responsible for transcribing RNA from a DNA template. It performs various functions during transcription, including the elongation phase, where it synthesizes RNA by adding nucleotides to the growing RNA strand. Hence, Statement I is true.</p>\n\n<p><strong>Statement II:</strong> RNA polymerase associates transiently with the ‘Rho’ factor to initiate transcription.</p>\n\n<p>This statement is incorrect. In prokaryotes, RNA polymerase associates with the sigma factor ($$\\sigma$$) to initiate transcription. The sigma factor helps the RNA polymerase to recognize the promoter regions of the DNA. The Rho factor ($$\\rho$$), on the other hand, is involved in the termination of transcription, not the initiation. Thus, Statement II is false.</p>\n\n<p>Considering the above explanations, the correct answer is:</p>\n\n<p><strong>Option A:</strong> Statement I is true but Statement II is false</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Given below are two statements:</p>\n<p>Statement I: In eukaryotes there are three RNA polymerases in the nucleus in addition to the RNA\npolymerase found in the organelles.</p>\n<p>Statement II: All the three RNA polymerases in eukaryotic nucleus have different roles.</p>\n<p>In the light of the above statements, choose the correct answer from the options given below:</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "Statement I is correct but Statement II is incorrect\n"
+        },
+        {
+          "key": "B",
+          "value": "Statement I is incorrect but Statement II is correct\n"
+        },
+        {
+          "key": "C",
+          "value": "Both Statement I and Statement II are correct\n"
+        },
+        {
+          "key": "D",
+          "value": "Both Statement I and Statement II are incorrect"
+        }
+      ],
+      "answer": "C",
+      "explanation": "<p>The correct answer is <strong>Option C: Both Statement I and Statement II are correct.</strong></p>\n\n<p>Let's break down why:</p>\n\n<p><strong>Statement I: In eukaryotes there are three RNA polymerases in the nucleus in addition to the RNA polymerase found in the organelles.</strong></p>\n\n<p>This statement is <strong>correct</strong>. Eukaryotic cells possess three main nuclear RNA polymerases:</p>\n\n<ul>\n\n<li><strong>RNA polymerase I:</strong> This polymerase is responsible for transcribing ribosomal RNA (rRNA), which is essential for protein synthesis.</li>\n\n<li><strong>RNA polymerase II:</strong> This polymerase transcribes messenger RNA (mRNA), which carries genetic information from DNA to ribosomes for protein production. It also transcribes small nuclear RNAs (snRNAs) involved in splicing.</li>\n\n<li><strong>RNA polymerase III:</strong> This polymerase transcribes transfer RNA (tRNA), which brings amino acids to the ribosome during translation, and other small RNAs like 5S rRNA.</li>\n\n</ul>\n\n<p>In addition to these nuclear RNA polymerases, eukaryotes also have RNA polymerases in their organelles, like mitochondria and chloroplasts. These organellar RNA polymerases have different structures and functions compared to the nuclear RNA polymerases.</p>\n\n<p><strong>Statement II: All the three RNA polymerases in eukaryotic nucleus have different roles.</strong></p>\n\n<p>This statement is also <strong>correct</strong>. As explained above, each of the three nuclear RNA polymerases has a specific function:</p>\n\n<ul>\n\n<li>RNA polymerase I transcribes rRNA.</li>\n\n<li>RNA polymerase II transcribes mRNA and snRNAs.</li>\n\n<li>RNA polymerase III transcribes tRNA and other small RNAs.</li>\n\n</ul>\n\n<p>Therefore, all three RNA polymerases in the eukaryotic nucleus have distinct roles in the process of gene expression. Their specialized functions ensure the proper synthesis of different types of RNA molecules essential for cellular processes.</p>\n\n<p></p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Given below are two statements :</p>\n<p>Statement I : RNA interference takes place in all Eukaryotic organisms as method of cellular defense.</p>\n<p>Statement II : RNAi involves the silencing of a specific mRNA due to a complementary single-stranded RNA molecule that binds and prevents translation of mRNA</p>\n<p>In the light of the above statements, choose the correct answer from the options given below.</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "Statement I is true but Statement II is false.\n"
+        },
+        {
+          "key": "B",
+          "value": "Statement I is false but Statement II is true.\n"
+        },
+        {
+          "key": "C",
+          "value": "Both Statement I and Statement II are true.\n"
+        },
+        {
+          "key": "D",
+          "value": "Both Statement I and Statement II are false."
+        }
+      ],
+      "answer": "A",
+      "explanation": "<p>The correct answer is option (A) because Statement I is correct which states that RNA interference \ntakes place in all eukaryotic organisms as method of cellular defense and Statement II is incorrect \nwhich states that RNAi involved the silencing of a specific mRNA due to a complementary ssRNA molecule that binds and prevents translation of mRNA.</p>\n<p>In statement II, it should be complementary dsRNA molecule that is involved in silencing of a specific mRNA.</p>\n<p>Options (B), (C) and (D) are incorrect as they represent wrong answer.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>The lactose present in the growth medium of bacteria is transported to the cell by the action of</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "Beta-galactosidase\n"
+        },
+        {
+          "key": "B",
+          "value": "Acetylase\n"
+        },
+        {
+          "key": "C",
+          "value": "Permease\n"
+        },
+        {
+          "key": "D",
+          "value": "Polymerase"
+        }
+      ],
+      "answer": "C",
+      "explanation": "<p>The correct answer is Option C: Permease.</p>\n\n<p>Lactose, a disaccharide sugar composed of glucose and galactose, needs particular mechanisms to be transported into bacterial cells for metabolism. Among the options provided, permease is the protein responsible for this function. Specifically, in the case of bacterial cells such as <i>Escherichia coli</i>, the lactose permease enzyme plays a crucial role.</p>\n\n<p>Lactose permease is encoded by the <i>lacY</i> gene, which is part of the lac operon. The lac operon is a famous example of gene regulation in bacteria. When lactose is present outside the cell, lactose permease facilitates its transport into the cell across the cell membrane. Once inside, lactose can be utilized as a source of energy and carbon.</p>\n\n<p>Once lactose is inside the bacterial cell:</p>\n<ul>\n<li>It is broken down by the enzyme β-galactosidase into glucose and galactose. This enzyme is encoded by the <i>lacZ</i> gene, which is a different component of the lac operon.</li>\n</ul>\n\n<p>We can rule out the other options because:</p>\n<ul>\n<li>Beta-galactosidase (Option A) is involved in the hydrolysis of lactose into glucose and galactose but not in its transport.</li>\n<li>Acetylase (Option B) refers to enzymes involved in the addition of acetyl groups to substrates, unrelated to sugar transport.</li>\n<li>Polymerase (Option D) are enzymes that synthesize RNA and DNA, thus also unrelated to transporting sugars like lactose.</li>\n</ul>\n\n<p>Thus, to facilitate the transport of lactose across the cell membrane into the bacterial cell, lactose permease (Option C) is required, making it the correct choice.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>A transcription unit in DNA is defined primarily by the three regions in DNA and these are with respect to upstream and down stream end;</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "Repressor, Operator gene, Structural gene\n"
+        },
+        {
+          "key": "B",
+          "value": "Structural gene, Transposons, Operator gene\n"
+        },
+        {
+          "key": "C",
+          "value": "Inducer, Repressor, Structural gene\n"
+        },
+        {
+          "key": "D",
+          "value": "Promotor, Structural gene, Terminator\n"
+        }
+      ],
+      "answer": "D",
+      "explanation": "<p>A transcription unit in DNA is critical for the process of transcription, wherein a particular segment of DNA is copied into RNA (especially mRNA) by the enzyme RNA polymerase. This unit is composed of sequences that include both coding regions, which are directly transcribed into RNA, and regulatory regions, which ensure that transcription is initiated and terminated at the correct locations on the DNA.</p>\n\n<p>The correct answer is:</p>\n\n<p>Option D: Promotor, Structural gene, Terminator</p>\n\n<p>Here's a detailed explanation of each component:</p>\n\n<ul>\n\n<li><strong>Promoter:</strong> The promoter is a sequence in DNA that signals the RNA polymerase to start transcription. It is located at the upstream end (5' end) of the gene. Promoters are essential for transcription initiation and are typically found just before the genes they regulate.</li>\n\n<li><strong>Structural gene:</strong> This region of the transcription unit is actually expressed or translated into protein (or functional RNA), depending on the kind of gene. These genes contain the functional sequences that are copied during the transcription process.</li>\n\n<li><strong>Terminator:</strong> The terminator is found at the downstream end (3' end) of the transcription unit and includes sequences that signal the RNA polymerase enzyme to stop transcription. This ensures that the newly synthesized RNA contains only the necessary genetic message.</li>\n\n</ul>\n\n<p>The other options contain components that do not accurately define the typical structure of a transcription unit:</p>\n\n<ul>\n\n<li>Option A mixes regulatory proteins and DNA regions, which does not accurately represent the structural components of a transcription unit.</li>\n\n<li>Option B includes \"transposons\" which are genetic elements that can move around within the genomes but are not typically part of the transcription unit.</li>\n\n<li>Option C again refers to regulatory proteins (inducer and repressor) along with structural genes, confusing the functions of proteins and DNA regions.</li>\n\n</ul>\n\n<p>Therefore, Option D correctly represents the standard components of a transcription unit in the context of gene transcription in DNA.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Which of the following statement is correct regarding the process of replication in E.coli?</p>\n",
+      "options": [
+        {
+          "key": "A",
+          "value": "'The DNA dependent DNA polymerase catalyses polymerization in one direction that is $$3^{\\prime} \\rightarrow 5$$'</p>\n"
+        },
+        {
+          "key": "B",
+          "value": "The DNA dependent RNA polymerase catalyses polymerization in one direction, that is $$5^{\\prime} \\rightarrow 3^{\\prime}$$\n"
+        },
+        {
+          "key": "C",
+          "value": "The DNA dependent DNA polymerase catalyses polymerization in 5' $$\\rightarrow$$ 3' as well as $$3^{\\prime} \\rightarrow 5^{\\prime}$$ direction"
+        },
+        {
+          "key": "D",
+          "value": "The DNA dependent DNA polymerase catalyses polymerization in 5' $$\\rightarrow$$ 3' direction"
+        }
+      ],
+      "answer": "D",
+      "explanation": "<p>The correct statement regarding the process of replication in <em>E.coli</em> is found in Option D: \"The DNA dependent DNA polymerase catalyses polymerization in 5' $$\\rightarrow$$ 3' direction\".</p>\n\n<p>To elaborate, replication in <em>E.coli</em> involves the synthesis of new DNA strands from a DNA template. This synthesis is catalyzed by an enzyme known as DNA polymerase. DNA polymerases are key enzymes that add nucleotides to the growing DNA strand during replication. However, the key characteristic of these enzymes is their directionality. DNA polymerases can only add nucleotides to the 3' end of the DNA strand, thereby synthesizing new DNA in the direction of 5' $$\\rightarrow$$ 3'.</p>\n\n<p>This directional limitation is due to the structure of deoxyribonucleotide triphosphates (dNTPs) that are used as substrates by the enzyme. Each dNTP has a 5' phosphate group, a 3' hydroxyl group, and a nitrogenous base. The formation of DNA strands occurs via the formation of phosphodiester bonds between the 3' hydroxyl group of one nucleotide and the phosphate group at the 5' position of the next nucleotide. Therefore, nucleotides can only be added to the 3' end of the growing strand.</p>\n\n<p>The other options are incorrect for the following reasons:</p>\n\n<ul>\n\n<li>Option A incorrectly states the direction of synthesis as $$3^{\\prime} \\rightarrow 5^{\\prime}$$, which is impossible with the mechanics of DNA polymerases.</li>\n\n<li>Option B refers to DNA dependent RNA polymerase. This enzyme is indeed involved in transcription (synthesizing RNA from DNA), not replication, and synthesizes RNA in the $$5^{\\prime} \\rightarrow 3^{\\prime}$$ direction.</li>\n\n<li>Option C incorrectly states that DNA polymerase can synthesize in both directions, which contradicts the inherent directional nature of this enzyme.</li>\n\n</ul>\n\n<p>Therefore, understanding the precise enzyme mechanics and functionality helps in recognizing that Option D is the correct description of how DNA dependent DNA polymerase facilitates DNA replication in <em>E.coli</em>.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Match List I with List II</p>\n<p><style type=\"text/css\">\n.tg  {border-collapse:collapse;border-spacing:0;}\n.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}\n.tg .tg-7btt{border-color:inherit;font-weight:bold;text-align:center;vertical-align:top}\n.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}\n</style>\n<table class=\"tg\" style=\"undefined;table-layout: fixed; width: 555px\">\n<colgroup>\n<col style=\"width: 71px\">\n<col style=\"width: 195px\">\n<col style=\"width: 74px\">\n<col style=\"width: 215px\">\n</colgroup>\n<thead>\n  <tr>\n    <th class=\"tg-7btt\"></th>\n    <th class=\"tg-7btt\">List - I</th>\n    <th class=\"tg-7btt\"></th>\n    <th class=\"tg-7btt\">List - II</th>\n  </tr>\n</thead>\n<tbody>\n  <tr>\n    <td class=\"tg-c3ow\">A.</td>\n    <td class=\"tg-0pky\">Frederick Griffith</td>\n    <td class=\"tg-c3ow\">I.</td>\n    <td class=\"tg-0pky\">Genetic code</td>\n  </tr>\n  <tr>\n    <td class=\"tg-c3ow\">B.</td>\n    <td class=\"tg-0pky\">Francois Jacob &amp; Jacque Monod</td>\n    <td class=\"tg-c3ow\">II.</td>\n    <td class=\"tg-0pky\">Semi-conservative mode of DNA replication</td>\n  </tr>\n  <tr>\n    <td class=\"tg-c3ow\">C.</td>\n    <td class=\"tg-0pky\">Har Gobind Khorana</td>\n    <td class=\"tg-c3ow\">III.</td>\n    <td class=\"tg-0pky\">Tranformation</td>\n  </tr>\n  <tr>\n    <td class=\"tg-c3ow\">D.</td>\n    <td class=\"tg-0pky\">Meselson &amp; Stahl</td>\n    <td class=\"tg-c3ow\">IV.</td>\n    <td class=\"tg-0pky\">Lac operon</td>\n  </tr>\n</tbody>\n</table></p>\n<p>Choose the correct answer from the options given below:</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "A-III, B-II, C-I, D-IV\n"
+        },
+        {
+          "key": "B",
+          "value": "A-III, B-IV, C-I, D-II\n"
+        },
+        {
+          "key": "C",
+          "value": "A-II, B-III, C-IV, D-I\n"
+        },
+        {
+          "key": "D",
+          "value": "A-IV, B-II, C-II, D-III"
+        }
+      ],
+      "answer": "B",
+      "explanation": "<p>To solve this matching question, let's discuss each scientist(s) and their contribution:</p>\n\n<p><strong>A. Frederick Griffith:</strong> Known for discovering the \"transforming principle,\" which showed that a substance from dead bacteria could genetically transform living bacteria. This process is called transformation. The correct match for Frederick Griffith is <strong>III. Transformation</strong>.</p>\n\n<p><strong>B. Francois Jacob &amp; Jacques Monod:</strong> They are famous for their work on the lac operon, a set of genes involved in lactose metabolism in bacteria. Their study elucidated how genes are regulated and expressed in cells. The correct match for Francois Jacob and Jacques Monod is <strong>IV. Lac operon</strong>.</p>\n\n<p><strong>C. Har Gobind Khorana:</strong> Known for his research on the genetic code and its role in protein synthesis. Khorana was one of the scientists who elucidated how the sequence of nucleotides in nucleic acids is translated into protein sequences. The correct match for Har Gobind Khorana is <strong>I. Genetic code</strong>.</p>\n\n<p><strong>D. Meselson &amp; Stahl:</strong> Famous for their experiment confirming the semi-conservative mechanism of DNA replication, where each new DNA molecule consists of one old strand and one newly synthesized strand. The correct match for Meselson and Stahl is <strong>II. Semi-conservative mode of DNA replication</strong>.</p>\n\n<p>Comparing this information with the options provided:</p>\n\n<ul>\n\n<li><strong>Option A</strong>: A-III, B-II, C-I, D-IV (Incorrect: B does not match II)</li>\n\n<li><strong>Option B</strong>: A-III, B-IV, C-I, D-II (Correct: All matches are accurate)</li>\n\n<li><strong>Option C</strong>: A-II, B-III, C-IV, D-I (Incorrect: A, B, C, and D do not match correctly)</li>\n\n<li><strong>Option D</strong>: A-IV, B-II, C-II, D-III (Incorrect: A, C, and D do not match correctly)</li>\n\n</ul>\n\n<p>Therefore, the correct answer is <strong>Option B</strong>.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Match List I with List II :</p>\n<p><style type=\"text/css\">\n.tg  {border-collapse:collapse;border-spacing:0;}\n.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}\n.tg .tg-7btt{border-color:inherit;font-weight:bold;text-align:center;vertical-align:top}\n.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}\n</style>\n<table class=\"tg\" style=\"undefined;table-layout: fixed; width: 555px\">\n<colgroup>\n<col style=\"width: 71px\">\n<col style=\"width: 195px\">\n<col style=\"width: 74px\">\n<col style=\"width: 215px\">\n</colgroup>\n<thead>\n  <tr>\n    <th class=\"tg-7btt\"></th>\n    <th class=\"tg-7btt\">List - I</th>\n    <th class=\"tg-7btt\"></th>\n    <th class=\"tg-7btt\">List - II</th>\n  </tr>\n</thead>\n<tbody>\n  <tr>\n    <td class=\"tg-c3ow\">A.</td>\n    <td class=\"tg-0pky\">Down's syndrome</td>\n    <td class=\"tg-c3ow\">I.</td>\n    <td class=\"tg-0pky\">11$$^\\mathrm{th}$$ chromosome</td>\n  </tr>\n  <tr>\n    <td class=\"tg-c3ow\">B.</td>\n    <td class=\"tg-0pky\">$$\\alpha$$-thalassemia</td>\n    <td class=\"tg-c3ow\">II.</td>\n    <td class=\"tg-0pky\">'X' chromosome</td>\n  </tr>\n  <tr>\n    <td class=\"tg-c3ow\">C.</td>\n    <td class=\"tg-0pky\">$$\\beta$$-thalassemia</td>\n    <td class=\"tg-c3ow\">III.</td>\n    <td class=\"tg-0pky\">21$$^\\mathrm{st}$$ chromosome</td>\n  </tr>\n  <tr>\n    <td class=\"tg-c3ow\">D.</td>\n    <td class=\"tg-0pky\">Klinefelter's syndrome</td>\n    <td class=\"tg-c3ow\">IV.</td>\n    <td class=\"tg-0pky\">16$$^\\mathrm{th}$$ chromosome</td>\n  </tr>\n</tbody>\n</table></p>\n<p>Choose the correct answer from the options given below :</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "A-I, B-II, C-III, D-IV\n"
+        },
+        {
+          "key": "B",
+          "value": "A-II, B-III, C-IV, D-I\n"
+        },
+        {
+          "key": "C",
+          "value": "A-III, B-IV, C-I, D-II\n"
+        },
+        {
+          "key": "D",
+          "value": "A-IV, B-I, C-II, D-III"
+        }
+      ],
+      "answer": "C",
+      "explanation": "<p>To correctly match List I with List II concerning medical conditions and their associated chromosomes, it's essential to have some understanding of genetics and chromosome abnormalities related with each condition. Here's the correct matching based on that information:</p>\n\n<ul>\n\n<li><strong>Down's syndrome</strong>: This genetic disorder is characterized by an extra copy (trisomy) of the 21$$^\\mathrm{st}$$ chromosome, which makes it associated with <strong>21$$^\\mathrm{st}$$ chromosome (III)</strong>.</li>\n\n<li><strong>$$\\alpha$$-thalassemia</strong>: This condition is related to a mutation or deletion in the alpha globin genes located on the <strong>16$$^\\mathrm{th}$$ chromosome (IV)</strong>.</li>\n\n<li><strong>$$\\beta$$-thalassemia</strong>: This is a blood disorder caused due to mutations in the beta globin gene found on the <strong>11$$^\\mathrm{th}$$ chromosome (I)</strong>.</li>\n\n<li><strong>Klinefelter's syndrome</strong>: This syndrome arises from the presence of an extra X chromosome in males (usually XXY), so it is related to abnormality in the <strong>'X' chromosome (II)</strong>.</li>\n\n</ul>\n\n<p>Given these matches:</p>\n\n<ul>\n\n<li>A - III</li>\n\n<li>B - IV</li>\n\n<li>C - I</li>\n\n<li>D - II</li>\n\n</ul>\n\n<p>The correct option based on the details above is:</p>\n\n<p><strong>Option C:</strong> A-III, B-IV, C-I, D-II </p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Which one is the correct product of DNA dependent RNA polymerase to the given template?\n<br/><br/>3'TACATGGCAAATATCCATTCA5'</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "5'AUGUACCGUUUAUAGGUAAGU3'\n"
+        },
+        {
+          "key": "B",
+          "value": "5'AUGUAAAGUUUAUAGGUAAGU3'\n"
+        },
+        {
+          "key": "C",
+          "value": "5'AUGUACCGUUUAUAGGGAAGU3'\n"
+        },
+        {
+          "key": "D",
+          "value": "5'ATGTACCGTTTATAGGTAAGT3'\n"
+        }
+      ],
+      "answer": "A",
+      "explanation": "<p>DNA-dependent RNA polymerase is an enzyme responsible for transcribing DNA into RNA. During transcription, the RNA polymerase reads the template strand of DNA and synthesizes a complementary RNA strand. A key point in this process is that RNA polymerase builds RNA by replacing thymine (T) with uracil (U).</p>\n\n<p>The provided DNA template is:</p>\n\n<p>3'TACATGGCAAATATCCATTCA5'</p>\n\n<p>To find the correct RNA sequence, we need to identify the complementary base for each base in the template strand while considering RNA bases. Remember, in RNA:</p>\n\n<ul>\n\n<li>A (Adenine) pairs with U (Uracil)</li>\n\n<li>T (Thymine) pairs with A (Adenine)</li>\n\n<li>C (Cytosine) pairs with G (Guanine)</li>\n\n<li>G (Guanine) pairs with C (Cytosine)</li>\n\n</ul>\n\n<p>The complementary RNA sequence to the DNA template is generated as follows:</p>\n\n<ul>\n\n<li>3'T --> 5'A</li>\n\n<li>3'A --> 5'U</li>\n\n<li>3'C --> 5'G</li>\n\n<li>3'G --> 5'C</li>\n\n<li>3'T --> 5'A</li>\n\n<li>3'A --> 5'U</li>\n\n<li>3'T --> 5'A</li>\n\n<li>3'G --> 5'C</li>\n\n<li>3'G --> 5'C</li>\n\n<li>3'C --> 5'G</li>\n\n<li>3'A --> 5'U</li>\n\n<li>3'A --> 5'U</li>\n\n<li>3'T --> 5'A</li>\n\n<li>3'A --> 5'U</li>\n\n<li>3'T --> 5'A</li>\n\n<li>3'C --> 5'G</li>\n\n<li>3'C --> 5'G</li>\n\n<li>3'A --> 5'U</li>\n\n<li>3'T --> 5'A</li>\n\n<li>3'T --> 5'A</li>\n\n<li>3'C --> 5'G'</li>\n\n</ul>\n\n<p>This constructs the RNA sequence:</p>\n\n<p>5'AUGUACCGUUUAUAGGUAAGU3'</p>\n\n<p>Thus, Option A correctly represents the RNA sequence transcribed by DNA-dependent RNA polymerase from the given DNA template:</p>\n\n<p><strong>Option A: 5'AUGUACCGUUUAUAGGUAAGU3'</strong></p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Match List I with List II:</p>\n<p><style type=\"text/css\">\n.tg  {border-collapse:collapse;border-spacing:0;}\n.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}\n.tg .tg-7btt{border-color:inherit;font-weight:bold;text-align:center;vertical-align:top}\n.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}\n</style>\n<table class=\"tg\" style=\"undefined;table-layout: fixed; width: 705px\">\n<colgroup>\n<col style=\"width: 71px\">\n<col style=\"width: 265px\">\n<col style=\"width: 74px\">\n<col style=\"width: 295px\">\n</colgroup>\n<thead>\n  <tr>\n    <th class=\"tg-7btt\"></th>\n    <th class=\"tg-7btt\">List - I</th>\n    <th class=\"tg-7btt\"></th>\n    <th class=\"tg-7btt\">List - II</th>\n  </tr>\n</thead>\n<tbody>\n  <tr>\n    <td class=\"tg-c3ow\">A.</td>\n    <td class=\"tg-0pky\">RNA polymerase III</td>\n    <td class=\"tg-c3ow\">I.</td>\n    <td class=\"tg-0pky\">snRNPs</td>\n  </tr>\n  <tr>\n    <td class=\"tg-c3ow\">B.</td>\n    <td class=\"tg-0pky\">Termination of transcription</td>\n    <td class=\"tg-c3ow\">II.</td>\n    <td class=\"tg-0pky\">Promotor</td>\n  </tr>\n  <tr>\n    <td class=\"tg-c3ow\">C.</td>\n    <td class=\"tg-0pky\">Splicing of Exons</td>\n    <td class=\"tg-c3ow\">III.</td>\n    <td class=\"tg-0pky\">Rho factor</td>\n  </tr>\n  <tr>\n    <td class=\"tg-c3ow\">D.</td>\n    <td class=\"tg-0pky\">TATA box</td>\n    <td class=\"tg-c3ow\">IV.</td>\n    <td class=\"tg-0pky\">SnRNAs, tRNA</td>\n  </tr>\n</tbody>\n</table></p>\n<p>Choose the correct answer from the options given below :</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "A-II, B-IV, C-I, D-III\n"
+        },
+        {
+          "key": "B",
+          "value": "A-III, B-II, C-IV, D-I\n"
+        },
+        {
+          "key": "C",
+          "value": "A-III, B-IV, C-I, D-II\n"
+        },
+        {
+          "key": "D",
+          "value": "A-IV, B-III, C-I, D-II"
+        }
+      ],
+      "answer": "D",
+      "explanation": "<p>The goal is to correctly match the terms in List I with the descriptions in List II. Let's analyze and match each term from List I with its appropriate partner in List II:</p>\n\n<p><strong>List I:</strong></p>\n\n<ul>\n\n<li><strong>A. RNA polymerase III</strong>: This enzyme is primarily responsible for transcribing DNA to synthesize tRNA, 5S rRNA, and other small RNAs.</li>\n\n<li><strong>B. Termination of transcription</strong>: In prokaryotes, specific termination factors such as the Rho factor are involved in stopping transcription. In eukaryotes, different mechanisms and sequences are used.</li>\n\n<li><strong>C. Splicing of Exons</strong>: The process involving the removal of introns and joining of exons during mRNA processing. Small nuclear ribonucleoproteins (snRNPs) are critical components in this process.</li>\n\n<li><strong>D. TATA box</strong>: A DNA sequence within the promoter region, which is crucial for forming the transcription initiation complex.</li>\n\n</ul>\n\n<p><strong>List II:</strong></p>\n\n<ul>\n\n<li><strong>I. snRNPs</strong>: Small nuclear ribonucleoproteins involved in mRNA splicing.</li>\n\n<li><strong>II. Promoter</strong>: A region of DNA that initiates transcription of a particular gene, typically containing sequences like the TATA box.</li>\n\n<li><strong>III. Rho factor</strong>: A protein essential for terminating transcription in prokaryotes.</li>\n\n<li><strong>IV. SnRNAs, tRNA</strong>: Molecules transcribed primarily by RNA polymerase III.</li>\n\n</ul>\n\n<p>Matching these descriptions:</p>\n\n<ul>\n\n<li>A (RNA polymerase III) matches with IV (SnRNAs, tRNA).</li>\n\n<li>B (Termination of transcription) matches with III (Rho factor).</li>\n\n<li>C (Splicing of Exons) matches with I (snRNPs).</li>\n\n<li>D (TATA box) matches with II (Promoter).</li>\n\n</ul>\n\n<p>Therefore, the correct matches according to options listed are:</p>\n\n<p>Option D: A-IV, B-III, C-I, D-II</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>The last chromosome sequenced in Human Genome Project was:</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "Chromosome 6"
+        },
+        {
+          "key": "B",
+          "value": "Chromosome 1"
+        },
+        {
+          "key": "C",
+          "value": "Chromosome 22"
+        },
+        {
+          "key": "D",
+          "value": "Chromosome 14"
+        }
+      ],
+      "answer": "B",
+      "explanation": "<p>The correct answer is :</p>\n<p>Option B : Chromosome 1</p>\n<p>While the Human Genome Project, which aimed to sequence all the genes in the human genome, was officially completed in 2003, the sequencing and refinement of some parts of the genome continued past that date. Chromosome 1, the largest human chromosome, was the last to be fully sequenced, with this task not being completed until May 2006. This marked a significant milestone in human genetics.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Name the component that binds to the operator region of an operon and prevents RNA polymerase from transcribing the operon.</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "Promotor"
+        },
+        {
+          "key": "B",
+          "value": "Regulator protein"
+        },
+        {
+          "key": "C",
+          "value": "Repressor protein"
+        },
+        {
+          "key": "D",
+          "value": "Inducer"
+        }
+      ],
+      "answer": "C",
+      "explanation": "<p>The component that binds to the operator region of an operon and prevents RNA polymerase from transcribing the operon is the Repressor protein. Repressor proteins are produced by a regulator gene and can bind to an operator site to block transcription of downstream structural genes.</p>\n<p>Therefore, the correct answer is Option C : Repressor protein.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Given below are two statements :</p>\n<p> Statement I : The process of copying genetic information from one strand of the DNA into RNA is termed as transcription. </p>\n<p>Statement II :  A transcription unit in DNA is defined primarily by the three regions in the DNA i.e., a promotor, the structural gene and a terminator.</p>\n<p>In the light of the above statements, choose the \ncorrect answer from the options given below :</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "Statement I is true but Statement II is false "
+        },
+        {
+          "key": "B",
+          "value": "Statement I is false but Statement II is true"
+        },
+        {
+          "key": "C",
+          "value": "Both Statement I and Statement II are true"
+        },
+        {
+          "key": "D",
+          "value": "Both Statement I and Statement II are false"
+        }
+      ],
+      "answer": "C",
+      "explanation": "<p>Option C : Both Statement I and Statement II are true</p>\n<p>Explanation :\n<br/><br/>Statement I is correct. Transcription is the process of copying genetic information from one strand of the DNA into RNA. The resulting RNA molecule is complementary to the DNA strand from which it was transcribed.</p>\n<p>Statement II is also correct. A transcription unit in DNA is indeed defined by three main regions: the promoter, the structural gene, and a terminator. </p>\n<ol>\n<li>1. The promoter is a DNA sequence that defines where transcription of a gene by RNA polymerase begins.</li>\n<li>2. The structural gene contains the actual genetic information that is being transcribed.</li>\n<li>3. The terminator is a sequence of nucleotides that signals the end of transcription.</li>\n</ol>\n<p>So, both the statements are true.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Which scientist conducted an experiment with <sup>32</sup>P \nand <sup>35</sup>S labelled phages for demonstrating that DNA is the genetic material? </p>",
+      "options": [
+        {
+          "key": "A",
+          "value": " james D. Watson and F.H. C. Crick"
+        },
+        {
+          "key": "B",
+          "value": " A. D Hershey and M.J. Chase "
+        },
+        {
+          "key": "C",
+          "value": "F. Griffith"
+        },
+        {
+          "key": "D",
+          "value": "O.T. Avery, C.M. MacLeod and M. McCarty"
+        }
+      ],
+      "answer": "B",
+      "explanation": "<p>The experiment with <sup>32</sup>P and <sup>35</sup>S labelled phages for demonstrating that DNA is the genetic material was conducted by A. D. Hershey and M. J. Chase. So the correct answer is Option B.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Given below are two statements :</p>\n<p>Statement I :  RNA being unstable, mutate at a faster rate.</p>\n<p>Statement II :  RNA can directly code for synthesis of proteins hence can easily express the characters.</p>\n<p>In the light of the above statements, choose the \ncorrect answer from the options given below : </p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "Statement I is correct but Statement II is \nfalse "
+        },
+        {
+          "key": "B",
+          "value": "Statement I is incorrect but Statement II is \ntrue"
+        },
+        {
+          "key": "C",
+          "value": "Both Statement I and Statement II are true"
+        },
+        {
+          "key": "D",
+          "value": "Both Statement I and Statement II are false"
+        }
+      ],
+      "answer": "C",
+      "explanation": "<p>The correct answer is :</p>\n<p>Option C : Both Statement I and Statement II are true</p>\n<p>Here&#39;s why :</p>\n<p>Statement I : RNA is indeed generally less stable than DNA and mutates at a faster rate. This is due to the presence of a hydroxyl group on the 2&#39; carbon of RNA, which makes it more susceptible to hydrolysis and other chemical reactions. This increased rate of mutation can be beneficial for RNA viruses, for example, as it allows them to rapidly adapt to new environments or hosts.</p>\n<p>Statement II : RNA, particularly mRNA (messenger RNA), can directly code for the synthesis of proteins. In the process of gene expression, DNA is first transcribed into RNA, which is then translated into protein. Hence, changes in the RNA sequence can directly affect the resultant protein and thus easily express different characters.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Select the correct statements about sickle cell \nanaemia. </p>\n<p> (A) There is a change in gene for beta globin. </p>\n<p> (B) In the beta globin, there is valine in the place of \nLysine.</p> \n<p> (C) It is an example of point mutation. </p>\n<p> (D) In the normal gene U is replaced by A. </p>\n<p> Choose the correct answer from the options given \nbelow :</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": " (B), (C) and (D) only "
+        },
+        {
+          "key": "B",
+          "value": " (B) and (D) only"
+        },
+        {
+          "key": "C",
+          "value": "(A), (B) and (D) only"
+        },
+        {
+          "key": "D",
+          "value": "(A) and (C) only"
+        }
+      ],
+      "answer": "D",
+      "explanation": "<p>Sickle cell anemia is caused by a single point mutation in the gene for the beta globin chain of hemoglobin. </p>\n<p>(A) is correct because the mutation occurs in the gene for beta globin.</p>\n<p>(B) is incorrect because, in sickle cell anemia, there is a change in the beta globin chain where valine is substituted for glutamic acid, not lysine.</p>\n<p>(C) is correct because sickle cell anemia is caused by a single point mutation, which is a change in a single nucleotide in the DNA.</p>\n<p>(D) is incorrect because the statement does not accurately describe the genetic mutation. In the normal gene, the DNA code is GAG, which codes for glutamic acid, but in sickle cell anemia, this is changed to GTG, which codes for valine. This does not involve replacing uracil (U) with adenine (A) as the statement suggests.</p>\n<p>So, the correct answer is Option D : (A) and (C) only.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Which one of the following acts as an inducer for \nlac operon ?</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "Sucrose"
+        },
+        {
+          "key": "B",
+          "value": "Lactose"
+        },
+        {
+          "key": "C",
+          "value": "Glucose"
+        },
+        {
+          "key": "D",
+          "value": "Galactose"
+        }
+      ],
+      "answer": "B",
+      "explanation": "<p>The correct answer is :</p>\n<p>Option B : Lactose</p>\n<p>Explanation :\n<br/><br/>In bacterial genetics, the lac operon is an operon (a functioning unit of genomic DNA containing a cluster of genes under the control of a single regulatory signal or promoter) required for the transport and metabolism of lactose in E. coli and some other enteric bacteria.</p>\n<p>When lactose is present, it acts as an inducer for the lac operon. This means that lactose, when present, triggers the activation of the lac operon, allowing the bacteria to produce the necessary enzymes (beta-galactosidase, lactose permease, and thiogalactoside transacetylase) to metabolize lactose. The lac operon is a classic example of a gene system subject to both positive and negative control.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>With reference to Hershey and Chase experiments. \nSelect the correct statements.</p>\n<p> (A) Viruses grown in the presence of radioactive \nphosphorus contained radioactive DNA. </p>\n<p> (B) Viruses grown on radioactive sulphur contained \nradioactive proteins. </p>\n<p> (C) Viruses grown on radioactive phosphorus \ncontained radioactive protein. </p>\n<p> (D) Viruses grown on radioactive sulphur contained \nradioactive DNA. </p>\n<p> (E) Viruses grown on radioactive protein contained \nradioactive DNA. </p>\n<p> Choose the most appropriate answer from the \noptions given below :</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "(D) and (E) only"
+        },
+        {
+          "key": "B",
+          "value": "(A) and (B) only "
+        },
+        {
+          "key": "C",
+          "value": "(A) and (C) only "
+        },
+        {
+          "key": "D",
+          "value": "(B) and (D) only"
+        }
+      ],
+      "answer": "B",
+      "explanation": "<p>Option B : (A) and (B) only </p>\n<p><b>Explanation :</b> In the Hershey and Chase experiments, they used bacteriophages (viruses that infect bacteria) and grew one batch in the presence of radioactive phosphorus (P<sup>32</sup>) and another batch in the presence of radioactive sulfur (S<sup>35</sup>).</p>\n<p>Phosphorus is a component of DNA but not of protein. Therefore, any virus particles grown in the presence of radioactive phosphorus would have radioactive DNA, which is statement (A).</p>\n<p>Sulfur is found in proteins (in the amino acids methionine and cysteine) but not in DNA. Therefore, any virus particles grown in the presence of radioactive sulfur would have radioactive protein, which is statement (B).</p>\n<p>Statements (C), (D), and (E) are incorrect because they do not align with the components of DNA and proteins, and where sulfur and phosphorus are found in these molecules.</p>\n<p>The Hershey and Chase experiments were key in establishing that DNA, not protein, is the genetic material. When these radioactive viruses infected bacteria, they found that the radioactive DNA (from phosphorus) was transferred to the bacteria, not the radioactive protein (from sulfur).</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>The salient features of genetic code are : </p>\n<p> (A) The code is palindromic </p>\n<p> (B) UGA act as initiator codon </p>\n<p> (C) The code is unambiguous and specific </p>\n<p> (D) The code is nearly universal </p>\n<p> Choose the most appropriate answer from the \noptions given below :</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "(A) and (D) only"
+        },
+        {
+          "key": "B",
+          "value": "(B) and (C) only"
+        },
+        {
+          "key": "C",
+          "value": "(A) and (B) only"
+        },
+        {
+          "key": "D",
+          "value": "(C) and (D) only "
+        }
+      ],
+      "answer": "D",
+      "explanation": "<p>The correct answer is Option D : (C) and (D) only.</p>\n<p>The genetic code is unambiguous and specific, meaning each codon specifies only one amino acid. Also, the genetic code is nearly universal as the same codons specify the same amino acids in all organisms with a few minor exceptions. The code is not palindromic, and UGA does not act as an initiator codon; it is a stop codon in most organisms.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Unequivocal proof that DNA is the genetic material was first proposed by</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "Alfred Hershey and Martha Chase"
+        },
+        {
+          "key": "B",
+          "value": "Avery, Macleoid and McCarthy"
+        },
+        {
+          "key": "C",
+          "value": "Wilkins and Franklin"
+        },
+        {
+          "key": "D",
+          "value": "Frederick Griffith"
+        }
+      ],
+      "answer": "A",
+      "explanation": "<p>The first unequivocal proof that DNA is the genetic material came from the experiments conducted by Alfred Hershey and Martha Chase in 1952. They used bacteriophages (viruses that infect bacteria) and radioactively labeled the protein and DNA of the phage separately in two different sets of experiments. They found that it was the DNA, not the protein, of the phage that was injected into the bacteria and carried the genetic information necessary for the production of new phage particles.</p>\n<p>Avery, Macleoid and McCarty gave the biochemical characterisation of Transforming Principle.</p>\n<p>The transformation experiments by using Pneumococcus was conducted by Frederick Griffith.</p>\n<p>Wilkins and Franklin produced X-ray diffraction data of DNA.</p>\n<p>So, the correct answer is :</p>\n\n<p>Option A : Alfred Hershey and Martha Chase.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>What is the role of RNA polymerase III in the process of transcription in Eukaryotes?</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "Transcription of tRNA, 5S rRNA and snRNA"
+        },
+        {
+          "key": "B",
+          "value": "Transcription of precursor of mRNA"
+        },
+        {
+          "key": "C",
+          "value": "Transcription of only snRNAs"
+        },
+        {
+          "key": "D",
+          "value": "Transcription of rRNAs (28S, 18S and 5.8S)"
+        }
+      ],
+      "answer": "A",
+      "explanation": "<p>In eukaryotes there are three major types of RNA polymerases.</p>\n<p>RNA polymerase I transcribes : 5.8S, 18S, 28S rRNAs</p>\n<p>RNA polymerase II transcribes : hnRNAs (precurssor of mRNA)</p>\n<p>RNA polymerase III transcribes : tRNAs, ScRNA, 5S rRNA and snRNA</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Expressed Sequence Tags (ESTs) refers to</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "All genes that are expressed as proteins."
+        },
+        {
+          "key": "B",
+          "value": "All genes whether expressed or unexpressed."
+        },
+        {
+          "key": "C",
+          "value": "Certain important expressed genes."
+        },
+        {
+          "key": "D",
+          "value": "All genes that are expressed as RNA."
+        }
+      ],
+      "answer": "D",
+      "explanation": "Expressed Sequence Tags (ESTs) are short sub-sequences of a cDNA sequence. They may identify expressed genes, so they are derived from mRNA which is transcribed from expressed genes. They serve as a kind of \"tag\" or marker for identifying the gene from which it was transcribed. Therefore, ESTs represent genes that are expressed as RNA. The other options listed do not accurately describe what ESTs are."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Upon exposure to UV radiation, DNA stained with ethidium bromide will show</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "Bright blue colour"
+        },
+        {
+          "key": "B",
+          "value": "Bright yellow colour"
+        },
+        {
+          "key": "C",
+          "value": "Bright orange colour"
+        },
+        {
+          "key": "D",
+          "value": "Bright red colour"
+        }
+      ],
+      "answer": "C",
+      "explanation": "<p>Option (C) is the correct answer because in recombinant DNA technology the separated DNA fragments can be visualised only after staining the DNA with a substance known as ethidium bromide followed by \nexposure to U.V. radiation. You can see bright orange coloured bands of DNA in an ethidium bromide \nstained gel exposed to U.V. light.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Match List I with List II.</p>\n<p><style type=\"text/css\">\n.tg  {border-collapse:collapse;border-spacing:0;}\n.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}\n.tg .tg-7btt{border-color:inherit;font-weight:bold;text-align:center;vertical-align:top}\n.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}\n</style>\n<table class=\"tg\" style=\"undefined;table-layout: fixed; width: 447px\">\n<colgroup>\n<col style=\"width: 49px\">\n<col style=\"width: 154px\">\n<col style=\"width: 54px\">\n<col style=\"width: 190px\">\n</colgroup>\n<thead>\n  <tr>\n    <th class=\"tg-7btt\"></th>\n    <th class=\"tg-7btt\">List I</th>\n    <th class=\"tg-7btt\"></th>\n    <th class=\"tg-7btt\">List II</th>\n  </tr>\n</thead>\n<tbody>\n  <tr>\n    <td class=\"tg-c3ow\">(A)</td>\n    <td class=\"tg-0pky\">Gene 'a'</td>\n    <td class=\"tg-c3ow\">(I)</td>\n    <td class=\"tg-0pky\">$$\\beta$$-galactosidase</td>\n  </tr>\n  <tr>\n    <td class=\"tg-c3ow\">(B)</td>\n    <td class=\"tg-0pky\">Gene 'y'</td>\n    <td class=\"tg-c3ow\">(II)</td>\n    <td class=\"tg-0pky\">Transacetylase</td>\n  </tr>\n  <tr>\n    <td class=\"tg-c3ow\">(C)</td>\n    <td class=\"tg-0pky\">Gene 'i'</td>\n    <td class=\"tg-c3ow\">(III)</td>\n    <td class=\"tg-0pky\">Permease</td>\n  </tr>\n  <tr>\n    <td class=\"tg-c3ow\">(D)</td>\n    <td class=\"tg-0pky\">Gene 'z'</td>\n    <td class=\"tg-c3ow\">(IV)</td>\n    <td class=\"tg-0pky\">Repressor protein</td>\n  </tr>\n</tbody>\n</table></p>\n<p>Choose the correct answer from the options given below :</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "A-II, B-III, C-IV, D-I"
+        },
+        {
+          "key": "B",
+          "value": "A-III, B-IV, C-I, D-II"
+        },
+        {
+          "key": "C",
+          "value": "A-III, B-I, C-IV, D-II"
+        },
+        {
+          "key": "D",
+          "value": "A-II, B-I, C-IV, D-III"
+        }
+      ],
+      "answer": "A",
+      "explanation": "The question relates to the lac operon model in E. coli, which is a well-studied example of gene regulation. In this model :\n\n<br/><br/>- Gene 'z' codes for beta-galactosidase (breaks down lactose into glucose and galactose)\n<br/><br/>- Gene 'y' codes for permease (transports lactose into the cell)\n<br/><br/>- Gene 'a' codes for transacetylase (may help in lactose metabolism, but its exact role is unclear)\n<br/><br/>- Gene 'i' codes for the repressor protein (binds to the operator to prevent transcription)\n\n<br/><br/>So, matching the List I (genes) with List II (proteins they code for) :\n\n<br/><br/>- A (Gene 'a') matches with II (Transacetylase)\n<br/><br/>- B (Gene 'y') matches with III (Permease)\n<br/><br/>- C (Gene 'i') matches with IV (Repressor protein)\n<br/><br/>- D (Gene 'z') matches with I (Beta-galactosidase)\n\n<br/><br/>Therefore, the correct option is :\n\n<br/><br/>Option A : A-II, B-III, C-IV, D-I"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Given below are two statements:</p>\n<p>Statement I: In prokaryotes, the positively charged DNA is held with some negatively charged proteins in a \nregion called nucleoid.</p>\n<p>Statement II: In eukaryotes, the negatively charged DNA is wrapped around the positively charged histone \noctamer to form nucleosome.</p>\n<p>In the light of the above statements, choose the correct answer from the options given below:</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "Both Statement I and Statement II are false."
+        },
+        {
+          "key": "B",
+          "value": "Statement I is correct but Statement II is false."
+        },
+        {
+          "key": "C",
+          "value": "Statement I is incorrect but Statement II is true."
+        },
+        {
+          "key": "D",
+          "value": "Both Statement I and Statement II are true."
+        }
+      ],
+      "answer": "C",
+      "explanation": "<p>In prokaryotes, the negatively charged DNA is held with some positively charged proteins in a region \ntermed as nucleoid.</p>\n<p>In eukaryotes, the negatively charged DNA is wrapped around the positively charged histone octamer \nto form a structure called nucleosome.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>In lac operon, z gene codes for</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "Transacetylase"
+        },
+        {
+          "key": "B",
+          "value": "$$\\beta$$-galactosidase"
+        },
+        {
+          "key": "C",
+          "value": "Permease"
+        },
+        {
+          "key": "D",
+          "value": "Repressor"
+        }
+      ],
+      "answer": "B",
+      "explanation": "<p>In lac operon, z gene codes for $$\\beta$$-galactosidase.</p>\n<p>Transacetylase, permease and repressor protein are coded by genes 'a', 'y' and 'i' respectively.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Given below are two statements</p>\n<p>Statement I : DNA polymerases catalyse polymerisation only in one direction, that is 5' → 3'.\n</p>\n<p>Statement II : During replication of DNA, on one strand the replication is continuous while on other strand it is\ndiscontinuous.</p>\n<p>In the light of the above statements, choose the correct answer from the options given below:\n</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "Statement I is incorrect but Statement II is correct"
+        },
+        {
+          "key": "B",
+          "value": "Both Statement I and Statement II are correct"
+        },
+        {
+          "key": "C",
+          "value": "Both Statement I and Statement II are incorrect"
+        },
+        {
+          "key": "D",
+          "value": "Statement I is correct but Statement II is incorrect"
+        }
+      ],
+      "answer": "B",
+      "explanation": "<p>The DNA-dependent DNA polymerases catalyse polymerisation only in one direction, that is 5' $$\\to$$ 3'. This creates some additional complications at the replicating fork. Consequently, on one strand (the \ntemplate with polarity 3' $$\\to$$ 5'),  the replication is continuous, while on the other (the template with \npolarity 5' $$\\to$$ 3'), it is discontinuous.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Match List - I with List - II.</p>\n<p><style type=\"text/css\">\n.tg  {border-collapse:collapse;border-spacing:0;}\n.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg .tg-amwm{font-weight:bold;text-align:center;vertical-align:top}\n.tg .tg-0lax{text-align:left;vertical-align:top}\n</style>\n<table class=\"tg\">\n<thead>\n  <tr>\n    <th class=\"tg-amwm\"></th>\n    <th class=\"tg-amwm\">List - I</th>\n    <th class=\"tg-amwm\"></th>\n    <th class=\"tg-amwm\">List - II</th>\n  </tr>\n</thead>\n<tbody>\n  <tr>\n    <td class=\"tg-0lax\">(a)</td>\n    <td class=\"tg-0lax\">In Iac operon i gene codes for</td>\n    <td class=\"tg-0lax\">(i)</td>\n    <td class=\"tg-0lax\">transacetylase</td>\n  </tr>\n  <tr>\n    <td class=\"tg-0lax\">(b)</td>\n    <td class=\"tg-0lax\">In Iac operon z gene codes for</td>\n    <td class=\"tg-0lax\">(ii)</td>\n    <td class=\"tg-0lax\">permease</td>\n  </tr>\n  <tr>\n    <td class=\"tg-0lax\">(c)</td>\n    <td class=\"tg-0lax\">In Iac operon y gene codes for</td>\n    <td class=\"tg-0lax\">(iii)</td>\n    <td class=\"tg-0lax\">$$\\beta$$-galactosidase</td>\n  </tr>\n  <tr>\n    <td class=\"tg-0lax\">(d)</td>\n    <td class=\"tg-0lax\">In Iac operon a gene codes for</td>\n    <td class=\"tg-0lax\">(iv)</td>\n    <td class=\"tg-0lax\">Repressor</td>\n  </tr>\n</tbody>\n</table></p>\n<p>Choose the correct answer from the options given below</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "(a) - (iii), (b) - (i), (c) - (iv), (d) - (ii)"
+        },
+        {
+          "key": "B",
+          "value": "(a) - (iii), (b) - (ii), (c) - (i), (d) - (iv)"
+        },
+        {
+          "key": "C",
+          "value": "(a) - (iv), (b) - (iii), (c) - (ii), (d) - (i)"
+        },
+        {
+          "key": "D",
+          "value": "(a) - (iv), (b) - (i), (c) - (iii), (d) - (ii)"
+        }
+      ],
+      "answer": "C",
+      "explanation": "<p>In Iac operon,</p>\n<p>The i gene codes for repressor protein.</p>\n<p>The z gene codes for $$\\beta$$-galactosidase.</p>\n<p>The y gene codes for permease and the a gene codes for transacetylase.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Match List-I with List-II:</p>\n<p><style type=\"text/css\">\n.tg  {border-collapse:collapse;border-spacing:0;}\n.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg .tg-amwm{font-weight:bold;text-align:center;vertical-align:top}\n.tg .tg-0lax{text-align:left;vertical-align:top}\n</style>\n<table class=\"tg\">\n<thead>\n  <tr>\n    <th class=\"tg-amwm\"></th>\n    <th class=\"tg-amwm\">List - I</th>\n    <th class=\"tg-amwm\"></th>\n    <th class=\"tg-amwm\">List - II</th>\n  </tr>\n</thead>\n<tbody>\n  <tr>\n    <td class=\"tg-0lax\">(a)</td>\n    <td class=\"tg-0lax\">Bacteriophage $$\\phi$$ $$\\times$$ 174</td>\n    <td class=\"tg-0lax\">(i)</td>\n    <td class=\"tg-0lax\">48502 base pairs</td>\n  </tr>\n  <tr>\n    <td class=\"tg-0lax\">(b)</td>\n    <td class=\"tg-0lax\">Bacteriophage lambda</td>\n    <td class=\"tg-0lax\">(ii)</td>\n    <td class=\"tg-0lax\">5386 nucleotides</td>\n  </tr>\n  <tr>\n    <td class=\"tg-0lax\">(c)</td>\n    <td class=\"tg-0lax\">Escherichia coli</td>\n    <td class=\"tg-0lax\">(iii)</td>\n    <td class=\"tg-0lax\">3.3 $$\\times$$ 10$$^9$$ base pairs</td>\n  </tr>\n  <tr>\n    <td class=\"tg-0lax\">(d)</td>\n    <td class=\"tg-0lax\">Haploid content of human DNA</td>\n    <td class=\"tg-0lax\">(iv)</td>\n    <td class=\"tg-0lax\">4.6 $$\\times$$ 10$$^6$$ base pairs</td>\n  </tr>\n</tbody>\n</table></p>\n<p>Choose the correct answer from the options given below:</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "(a)-(i), (b)-(ii), (c)-(iv), (d)-(iii)"
+        },
+        {
+          "key": "B",
+          "value": "(a)-(i), (b)-(ii), (c)-(iii), (d)-(iv)"
+        },
+        {
+          "key": "C",
+          "value": "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)"
+        },
+        {
+          "key": "D",
+          "value": "(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)"
+        }
+      ],
+      "answer": "D",
+      "explanation": "<p>Genetic material of –</p>\n<p>$$\\bullet$$ Bacteriophage $$\\phi$$ $$\\times$$ 174 contains 5386 nucleotides</p>\n<p>$$\\bullet$$ Bacteriophage lambda contains 48502 base pairs</p>\n<p>$$\\bullet$$ Escherichia coli contains 4.6 $$\\times$$ 10<sup>6</sup> base pairs</p>\n<p>$$\\bullet$$ Haploid content of human DNA contains 3.3 $$\\times$$ 10<sup>9</sup> base pairs</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Against the codon 5' UAC 3', what would be the sequence of anticodon on tRNA?</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "5' GUA 3'"
+        },
+        {
+          "key": "B",
+          "value": "5' AUG 3'"
+        },
+        {
+          "key": "C",
+          "value": "5' ATG 3'"
+        },
+        {
+          "key": "D",
+          "value": "5' GTA 3'"
+        }
+      ],
+      "answer": "B",
+      "explanation": "<p>In the process of translation, the mRNA codon pairs with the tRNA anticodon to bring the correct amino acid to the growing polypeptide chain. The pairing between the codon and anticodon follows the complementary base-pairing rules, with adenine (A) pairing with uracil (U), and guanine (G) pairing with cytosine (C).</p>\n<p>In this case, the mRNA codon is given as 5&#39; UAC 3&#39;. To determine the tRNA anticodon sequence, we must follow the base-pairing rules:</p>\n<ul>\n<li>The U (uracil) in the codon pairs with A (adenine) in the anticodon.</li>\n<li>The A (adenine) in the codon pairs with U (uracil) in the anticodon.</li>\n<li>The C (cytosine) in the codon pairs with G (guanine) in the anticodon.</li>\n</ul>\n<p>Therefore, the anticodon sequence on the tRNA would be 5&#39; AUG 3&#39;.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>If A and C make 30% and 20% of DNA, respectively, what will be the percentage composition of T and G?</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "T : 20%, G : 20%"
+        },
+        {
+          "key": "B",
+          "value": "T : 20%, G : 30%"
+        },
+        {
+          "key": "C",
+          "value": "T : 30%, G : 20%"
+        },
+        {
+          "key": "D",
+          "value": "T : 30%, G : 30%"
+        }
+      ],
+      "answer": "C",
+      "explanation": "<p>According to Chargaff’s rule, amount of Adenine (A) is equal to thymine and amount of cytosine (c) will be equal to that of Guanine.</p>\n<p>So,</p>\n<p>A = T = 30% + 30% = 60%</p>\n<p>C = G = 20% + 20% = 40%</p>\n<p>So, T and G will be 30% and 20% respectively.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>The process of translation of mRNA to proteins begins as soon as:</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "The small subunit of ribosome encounters mRNA"
+        },
+        {
+          "key": "B",
+          "value": "The larger subunit of ribosome encounters mRNA"
+        },
+        {
+          "key": "C",
+          "value": "Both the subunits join together to bind with mRNA"
+        },
+        {
+          "key": "D",
+          "value": "The tRNA is activated and the larger subunit of ribosome encounters mRNA"
+        }
+      ],
+      "answer": "A",
+      "explanation": "<p>When the small subunit of ribosome encounters an mRNA, the process of translation of the mRNA to protein begins. This process is followed by the binding of bigger/larger subunit.</p>\n<p>t-RNA is activated by the addition of amino acid prior to the attachment or ribosome, in the first phase.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>DNA polymorphism forms the basis of:</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "Genetic mapping"
+        },
+        {
+          "key": "B",
+          "value": "DNA finger printing"
+        },
+        {
+          "key": "C",
+          "value": "Both genetic mapping and DNA finger printing"
+        },
+        {
+          "key": "D",
+          "value": "Translation"
+        }
+      ],
+      "answer": "C",
+      "explanation": "<p>Polymorphism in DNA sequence is the basis of genetic mapping of human genome as well as of DNA finger printing.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Read the following statements and choose the set of correct statements:</p>\n<p>(a) Euchromatin is loosely packed chromatin</p>\n<p>(b) Heterochromatin is transcriptionally active</p>\n<p>(c) Histone octamer is wrapped by negatively charged DNA in nucleosome</p>\n<p>(d) Histones are rich in lysine and arginine</p>\n<p>(e) A typical nucleosome contains 400 bp of DNA helix</p>\n<p>Choose the correct answer from the options given below :</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "(b), (d), (e) only"
+        },
+        {
+          "key": "B",
+          "value": "(a), (c), (d) only"
+        },
+        {
+          "key": "C",
+          "value": "(b), (e) only"
+        },
+        {
+          "key": "D",
+          "value": "(a), (c), (e) only"
+        }
+      ],
+      "answer": "B",
+      "explanation": "<p>Heterochromatin is transcriptionally inactive. A typical nucleosome contains 200 bp of DNA helix.</p>\n<p>Euchromatin is the loosely packed chromatin region.</p>\n<p>The negatively charged DNA is wrapped around the positively charged histone octamer to form a structure called nucleosome. Histones are rich in basic amino acid residues lysine and arginine.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Transposons can be used during which one of the following?</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "Polymerase Chain Reaction"
+        },
+        {
+          "key": "B",
+          "value": "Gene Silencing"
+        },
+        {
+          "key": "C",
+          "value": "Autoradiography"
+        },
+        {
+          "key": "D",
+          "value": "Gene sequencing"
+        }
+      ],
+      "answer": "B",
+      "explanation": "<p>Option (b) is the correct answer as the source of the complementary RNA for RNAi could be mobile genetic elements (transposons) that replicate via an RNA intermediate.</p>\n<p>Option (c) is incorrect as autoradiography usually follows hybridisation.</p>\n<p>Option (a) is incorrect because polymerase chain reaction is used to make copies of the DNA sample and does not need transposons.</p>\n<p>Option (d) is incorrect because transposons are not required during gene sequencing.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>If a geneticist uses the blind approach for sequencing the whole genome of an organism, followed by assignment of function to different segments, the methodology adopted by him is called as :</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "Sequence annotation"
+        },
+        {
+          "key": "B",
+          "value": "Gene mapping"
+        },
+        {
+          "key": "C",
+          "value": "Expressed sequence tags"
+        },
+        {
+          "key": "D",
+          "value": "Bioinformatics"
+        }
+      ],
+      "answer": "A",
+      "explanation": "<p>Sequencing the whole set of genome that contained all the coding and non-coding sequences and later assigning different regions in the sequence with functions is called sequence annotation.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>If the length of a DNA molecule is 1.1 metres, what will b the approximate number of base pairs?</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "3.3 $$\\times$$ bp 10<sup>9</sup>"
+        },
+        {
+          "key": "B",
+          "value": "6.6 $$\\times$$ bp 10<sup>9</sup>"
+        },
+        {
+          "key": "C",
+          "value": "3.3 $$\\times$$ bp 10<sup>6</sup>"
+        },
+        {
+          "key": "D",
+          "value": "6.6 $$\\times$$ bp 10<sup>6</sup>"
+        }
+      ],
+      "answer": "A",
+      "explanation": "<p>Number of base pairs $$\\times$$ distance between 2 consecutive base pairs = Length of DNA molecule</p>\n<p>x . 0.34 $$\\times$$ 10<sup>$$-$$9</sup> m = 1.1 m</p>\n<p>x = $${{1.1} \\over {0.3 \\times {{10}^{ - 9}}}}$$</p>\n<p>= 3.6 $$\\times$$ 10<sup>9</sup></p>\n<p>$$\\simeq$$ 3.3 $$\\times$$ 10<sup>9</sup> bp</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>In an E. Coli strain i gene gets mutated and its product can not bind the inducer molecule. If growth medium is provided with lactose, what will be the outcome?</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "Only z gene will get transcribed"
+        },
+        {
+          "key": "B",
+          "value": "z, y, a genes will be transcribed"
+        },
+        {
+          "key": "C",
+          "value": "z, y, a genes will not be translated"
+        },
+        {
+          "key": "D",
+          "value": "RNA polymerase will bind the promoter region"
+        }
+      ],
+      "answer": "C",
+      "explanation": "<p>As the product of 'i' gene binds with the operator region and blocks the transcription and translation of z, y and a genes.</p>\n<p>It's product is prevented from binding to the operator by attaching it with the inducer. As the inducer can not no more capable of binding with the repressor, thus, in all the cases, operator always gets attached with the repressor thereby preventing the transcription and transmission of z, y and a.</p>\n<p>Even in the presence of lactose, transcription and translation of z, y and a would not occur.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "DNA strands on a gel stained with ethidium bromide when viewed under UV radiation, appear as",
+      "options": [
+        {
+          "key": "A",
+          "value": "Bright blue bands"
+        },
+        {
+          "key": "B",
+          "value": "Yellow bands"
+        },
+        {
+          "key": "C",
+          "value": "Bright orange bands"
+        },
+        {
+          "key": "D",
+          "value": "Dark red bands"
+        }
+      ],
+      "answer": "C",
+      "explanation": "To make the DNA visible in the gel,\nethidium bromide is added to the gel\nsolution and the buffer. This positively\ncharged polycyclic aromatic compound \nbinds to DNA by inserting itself between\nthe basepairs (intercalation). The DNA\nfragments when exposed to ultraviolet\nlight appear as orange colour bands, due\nto the large increase in fluorescence of\nthe ethidium bromide upon binding to\nthe DNA."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "What is the role of RNA polymerase III in the process of transcription in eukaryotes?",
+      "options": [
+        {
+          "key": "A",
+          "value": "Transcribes only snRNAs"
+        },
+        {
+          "key": "B",
+          "value": "Transcribes rRNAs (28S, 18S and 5.8S)"
+        },
+        {
+          "key": "C",
+          "value": "Transcribes tRNA, 5s rRNA and snRNA"
+        },
+        {
+          "key": "D",
+          "value": "Transcribes precursor of mRNA"
+        }
+      ],
+      "answer": "C",
+      "explanation": "$$\\bullet$$ RNA polymerase III transcribes tRNA, ScRNA, 5S rRNA and snRNA.<br><br>$$\\bullet$$ RNA polymerase I transcribes 5.8S, 18S and 28S rRNA.<br><br>$$\\bullet$$ RNA polymerase II transcribes hnRNA which is precursor of mRNA"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "DNA fingerprinting involves identifying differences in some specific regions in DNA sequence, called as",
+      "options": [
+        {
+          "key": "A",
+          "value": "Polymorphic DNA"
+        },
+        {
+          "key": "B",
+          "value": "Satellite DNA"
+        },
+        {
+          "key": "C",
+          "value": "Repetitive DNA"
+        },
+        {
+          "key": "D",
+          "value": "Single nucleotides"
+        }
+      ],
+      "answer": "C",
+      "explanation": "$$\\bullet$$ DNA fingerprinting involves identifying differences in some specific regions in DNA sequence called as repetitive DNA.<br><br>$$\\bullet$$ The basis of DNA fingerprinting is VNTR (a satellite DNA as probe that show very high degree of polymorphism)<br><br>$$\\bullet$$ Polymorphism is the variation at genetic level. Allelic sequence variation has traditionally been described as a DNA polymorphism."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Identify the correct statement.",
+      "options": [
+        {
+          "key": "A",
+          "value": "Split gene arrangement is characteristic of prokaryotes"
+        },
+        {
+          "key": "B",
+          "value": "In capping, methyl guanosine triphosphate is added to the 3' end of hnRNA"
+        },
+        {
+          "key": "C",
+          "value": "RNA polymerase binds with Rho factor to terminate the process of transcription in bacteria"
+        },
+        {
+          "key": "D",
+          "value": "The coding strand in a transcription unit is copied to an mRNA"
+        }
+      ],
+      "answer": "C",
+      "explanation": "$$\\bullet$$  Split gene arrangement is characteristic of eukaryotes.<br><br>$$\\bullet$$  In capping 5-methyl guanosine triphosphate is added at 5' end of hnRNA.<br><br>$$\\bullet$$  At 3' end poly-A tail is added.<br><br>$$\\bullet$$  The non coding or template strand is copied to an mRNA. RNA polymerase associate with $$\\rho$$ factor (Rho factor) and it alters the specificity of the RNA polymerase to terminate the processes."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "If Adenine makes 30% of the DNA molecule, what will be the percentage of Thymine, Guanine and Cytosine in it?",
+      "options": [
+        {
+          "key": "A",
+          "value": "T : 20 ; G : 25 ; C : 25"
+        },
+        {
+          "key": "B",
+          "value": "T : 20 ; G : 30 ; C : 20"
+        },
+        {
+          "key": "C",
+          "value": "T : 20 ; G : 20 ; C : 30"
+        },
+        {
+          "key": "D",
+          "value": "T : 30 ; G : 20 ; C : 20"
+        }
+      ],
+      "answer": "D",
+      "explanation": "Chargaff rule - In DNA there is always\nequality in quantity between the bases A\nand T and between the bases G and C.\n<br/><br/>According to Chargaff's rule, for a double stranded DNA,<br><br>[A] = [T],<br><br>$$\\because$$ [A] = 30%, $$\\Rightarrow$$ [T] = 30%<br><br>Since [C] = [G]<br><br>$$\\therefore$$ 100 $$-$$ [A + T]<br><br>= 100 $$-$$ [30 + 30]<br><br>= 100 $$-$$ 60 = 40%<br><br>and C = G = 20% each<br><br>$$\\therefore$$ [A] = 30%<br><br>[T] = 30%<br><br>[G] = 20%<br><br>[C] = 20%"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Which of the following RNAs is not required for the synthesis of protein?",
+      "options": [
+        {
+          "key": "A",
+          "value": "siRNA"
+        },
+        {
+          "key": "B",
+          "value": "mRNA"
+        },
+        {
+          "key": "C",
+          "value": "tRNA"
+        },
+        {
+          "key": "D",
+          "value": "rRNA"
+        }
+      ],
+      "answer": "A",
+      "explanation": "siRNA mainly protect the cell from\nexogenous mRNA attacks. It degrades\nthe growing mRNA and stop gene\nexpression. It is highly specific and\nreduces the synthesis of particular\nproteins by reducing the translation of\nspecific messenger RNAs. Hence, siRNA\nis not required for protein synthesis but\nis used to reduce its synthesis.<br><br>mRNA is messenger RNA that carries genetic information provided by DNA.<br><br>tRNA carries amino acids to the mRNA during translation.<br><br>rRNA is structural RNA that forms ribosomes which are involved in translation."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Which is the \"Only enzyme\" that has \"Capability\" to catalyse Initiation, Elongation and Termination in the process of transcription in prokaryotes?",
+      "options": [
+        {
+          "key": "A",
+          "value": "DNase"
+        },
+        {
+          "key": "B",
+          "value": "DNA dependent DNA polymerase"
+        },
+        {
+          "key": "C",
+          "value": "DNA dependent RNA polymerase"
+        },
+        {
+          "key": "D",
+          "value": "DNA Ligase"
+        }
+      ],
+      "answer": "C",
+      "explanation": "Prokaryotes utilize one RNA\npolymerase for transcription of all\ntypes of RNA. The enzyme RNA\npolymerase is needed for RNA\nformation from DNA, i.e. DNA\ndependent RNA polymerase. It occurs\nin the cytoplasm of prokaryotic cells.\nRNA polymerase is the only enzyme\nwhich, has the capability to catalyse\nall initiation, elongation and\ntermination in prokaryotes."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Which one of the following statements about histones is wrong?",
+      "options": [
+        {
+          "key": "A",
+          "value": "Histones carry positive charge in the side chain"
+        },
+        {
+          "key": "B",
+          "value": "Histones are organized to form a unit of 8 molecules"
+        },
+        {
+          "key": "C",
+          "value": "The pH of histones is slightly acidic"
+        },
+        {
+          "key": "D",
+          "value": "Histones are rich in amino acids - Lysine and Arginine"
+        }
+      ],
+      "answer": "C",
+      "explanation": "$$\\bullet$$ Histones are rich in basic amino acids residue lysine and arginine with charged side chain.<br><br>$$\\bullet$$ There are five types of histone proteins i.e. H<sub>1</sub>, H<sub>2</sub>A, H<sub>2</sub>B, H<sub>3</sub> and H<sub>4</sub>. Four of them occur in pairs to produce a unit of 8 molecules (histone octamer).<br><br>$$\\bullet$$ The pH of histones is basic."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Statement I : The codon 'AUG' codes for methionine and phenylalanine.<br><br>Statement II : 'AAA' and 'AAG' both codons code for the amino acid lysine.<br><br>In the light of the above statements, choose the correct answer from the options given below.",
+      "options": [
+        {
+          "key": "A",
+          "value": "Statement I is incorrect but Statement II is true"
+        },
+        {
+          "key": "B",
+          "value": "Both Statement I and Statement II are true"
+        },
+        {
+          "key": "C",
+          "value": "Both Statement I and Statement II are false"
+        },
+        {
+          "key": "D",
+          "value": "Statement I is correct but Statement II is false"
+        }
+      ],
+      "answer": "A",
+      "explanation": "$$\\bullet$$ The codon AUG only codes for\nmethionine. As the codons are universal.\nFrom bacteria to mammals AUG only\ncodes for methionine.\n<br><br>$$ \\therefore $$ Statement I is false.\n<br><br>$$\\bullet$$ Some amino acids are coded by more\nthan one codon, hence the code is\ndegenerate. AAA and AAG both codons\ncode for the amino acid lysine.<br><br>$$ \\therefore $$ Statement II is true."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "If the distance between two consecutive base\npairs is 0.34 nm and the total number of base\npairs of a DNA double helix in a typical\nmammalian cell is 6.6 × 109 bp, then the length\nof the DNA is approximately",
+      "options": [
+        {
+          "key": "A",
+          "value": "2.7 meters "
+        },
+        {
+          "key": "B",
+          "value": "2.0 meters"
+        },
+        {
+          "key": "C",
+          "value": "2.5 meters"
+        },
+        {
+          "key": "D",
+          "value": "2.2 meters"
+        }
+      ],
+      "answer": "D",
+      "explanation": "Length of DNA = [0.34 × 10<sup>–9</sup>] m × 6.6 ×\n109 bp = 2.2 m<br><br>\nDistance between 2 base pair in DNA helix =\n0.34 nm = 0.34 × 10<sup>–9</sup> m<br><br>\nTotal number of base pair = 6.6 × 109 bp"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Which of the following statements is correct?",
+      "options": [
+        {
+          "key": "A",
+          "value": "Adenine does not pair with thymine"
+        },
+        {
+          "key": "B",
+          "value": "Adenine pairs with thymine through one\nH-bond"
+        },
+        {
+          "key": "C",
+          "value": "Adenine pairs with thymine through two\nH-bonds"
+        },
+        {
+          "key": "D",
+          "value": "Adenine pairs with thymine through three\nH-bonds"
+        }
+      ],
+      "answer": "C",
+      "explanation": "Based on the observation of Erwin\nChargaff that for a double stranded DNA,\nthe ratios between Adenine and Thymine and\nGuanine and Cytosine are constant and equals\none. Adenine pairs with thymine through two\nH-bonds i.e., A = T and guanine pairs with\ncytosine with three H-bonds. "
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The first phase of translation is",
+      "options": [
+        {
+          "key": "A",
+          "value": "Recognition of an anti-codon"
+        },
+        {
+          "key": "B",
+          "value": "Recognition of DNA molecule"
+        },
+        {
+          "key": "C",
+          "value": "Binding of mRNA to ribosome"
+        },
+        {
+          "key": "D",
+          "value": "Aminoacylation of tRNA"
+        }
+      ],
+      "answer": "D",
+      "explanation": "The first phase of translation involves\nactivation of amino acid in the presence of ATP\nand linked to their cognate tRNA - a process\ncommonly called as charging of tRNA or\naminoacylation of tRNA."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Name the enzyme that facilitates opening of\nDNA helix during transcription.",
+      "options": [
+        {
+          "key": "A",
+          "value": "DNA polymerase"
+        },
+        {
+          "key": "B",
+          "value": "RNA polymerase"
+        },
+        {
+          "key": "C",
+          "value": "DNA helicase"
+        },
+        {
+          "key": "D",
+          "value": "DNA ligase"
+        }
+      ],
+      "answer": "B",
+      "explanation": "The enzyme that facilitates opening of the DNA helix during transcription is RNA polymerase.\n<br/><br/>\nRNA polymerase is responsible for the synthesis of RNA from a DNA template during transcription. It binds to the DNA at a specific site called the promoter region and then unwinds the DNA helix to expose the template strand. This opening of the DNA helix is facilitated by the activity of RNA polymerase, which breaks the hydrogen bonds between the base pairs of the DNA.\n<br/><br/>\nOnce the DNA is unwound, RNA polymerase can begin the synthesis of RNA by adding complementary RNA nucleotides to the template strand. The RNA polymerase moves along the DNA strand, opening the helix as it goes, and synthesizing a new RNA molecule.\n<br/><br/>\nTherefore, option B, \"RNA polymerase,\" is the correct answer."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Purines found both in DNA and RNA are:",
+      "options": [
+        {
+          "key": "A",
+          "value": "Guanine and cytosine"
+        },
+        {
+          "key": "B",
+          "value": "Cytosine and thymine"
+        },
+        {
+          "key": "C",
+          "value": "Adenine and thymine"
+        },
+        {
+          "key": "D",
+          "value": "Adenine and guanine"
+        }
+      ],
+      "answer": "D",
+      "explanation": "Adenine and guanine are purines which are common to both DNA and RNA."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Expressed Sequence Tags (ESTs) refers to :",
+      "options": [
+        {
+          "key": "A",
+          "value": "DNA polymorphism"
+        },
+        {
+          "key": "B",
+          "value": "Novel DNA sequences"
+        },
+        {
+          "key": "C",
+          "value": "Genes expressed as RNA"
+        },
+        {
+          "key": "D",
+          "value": "Polypeptide expression"
+        }
+      ],
+      "answer": "C",
+      "explanation": "Expressed sequence tags (ESTs) refers to genes expressed as RNA."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Match the following genes of the Lac operon with their respective produces :\n<br><br><style type=\"text/css\">\n.tg  {border-collapse:collapse;border-spacing:0;}\n.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg .tg-60hs{font-size:20px;text-align:left;vertical-align:top}\n</style>\n<table class=\"tg\">\n  <tbody><tr>\n    <th class=\"tg-60hs\">(a) i gene</th>\n    <th class=\"tg-60hs\">(i) $$\\beta $$-galactosidase</th>\n  </tr>\n  <tr>\n    <td class=\"tg-60hs\">(b) z gene</td>\n    <td class=\"tg-60hs\">(ii) Permease<br></td>\n  </tr>\n  <tr>\n    <td class=\"tg-60hs\">(c) a gene</td>\n    <td class=\"tg-60hs\">(iii) Repressor</td>\n  </tr>\n  <tr>\n    <td class=\"tg-60hs\">(d) y gene</td>\n    <td class=\"tg-60hs\">(iv) Transacetylase</td>\n  </tr>\n</tbody></table>\n<br>Select the <b>correct</b> option.",
+      "options": [
+        {
+          "key": "A",
+          "value": "<table class=\"tg\">\n  <tbody><tr>\n    <th class=\"tg-p8sp\">(a)</th>\n    <th class=\"tg-p8sp\">(b)</th>\n    <th class=\"tg-p8sp\">(c)</th>\n    <th class=\"tg-p8sp\">(d)</th>\n  </tr>\n  <tr>\n    <td class=\"tg-p8sp\">(iii)</td>\n    <td class=\"tg-p8sp\">(i)</td>\n    <td class=\"tg-p8sp\">(iv)</td>\n    <td class=\"tg-p8sp\">(ii)</td>\n  </tr>\n</tbody></table>"
+        },
+        {
+          "key": "B",
+          "value": "<table class=\"tg\">\n  <tbody><tr>\n    <th class=\"tg-p8sp\">(a)</th>\n    <th class=\"tg-p8sp\">(b)</th>\n    <th class=\"tg-p8sp\">(c)</th>\n    <th class=\"tg-p8sp\">(d)</th>\n  </tr>\n  <tr>\n    <td class=\"tg-p8sp\">(iii)</td>\n    <td class=\"tg-p8sp\">(iv)</td>\n    <td class=\"tg-p8sp\">(i)</td>\n    <td class=\"tg-p8sp\">(ii)</td>\n  </tr>\n</tbody></table>"
+        },
+        {
+          "key": "C",
+          "value": "<table class=\"tg\">\n  <tbody><tr>\n    <th class=\"tg-p8sp\">(a)</th>\n    <th class=\"tg-p8sp\">(b)</th>\n    <th class=\"tg-p8sp\">(c)</th>\n    <th class=\"tg-p8sp\">(d)</th>\n  </tr>\n  <tr>\n    <td class=\"tg-p8sp\">(i)</td>\n    <td class=\"tg-p8sp\">(iii)</td>\n    <td class=\"tg-p8sp\">(ii)</td>\n    <td class=\"tg-p8sp\">(iv)</td>\n  </tr>\n</tbody></table>"
+        },
+        {
+          "key": "D",
+          "value": "<table class=\"tg\">\n  <tbody><tr>\n    <th class=\"tg-p8sp\">(a)</th>\n    <th class=\"tg-p8sp\">(b)</th>\n    <th class=\"tg-p8sp\">(c)</th>\n    <th class=\"tg-p8sp\">(d)</th>\n  </tr>\n  <tr>\n    <td class=\"tg-p8sp\">(iii)</td>\n    <td class=\"tg-p8sp\">(i)</td>\n    <td class=\"tg-p8sp\">(ii)</td>\n    <td class=\"tg-p8sp\">(iv)</td>\n  </tr>\n</tbody></table>"
+        }
+      ],
+      "answer": "A",
+      "explanation": "The lac operon consists of :\n<br><br>One regulatory gene (i-gene), which codes for repressor.   \n<br><br>Three structural genes (z, y and a).\n<br><br>1. z gene : Codes for β-galactosidase, which hydrolyze lactose to galactose and glucose. <br><br>2.  y gene : Codes for Permease, which increases the permeability of the cell to lactose. \n<br><br>3. a-gene : Codes for a transacetylase."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Which of the following features of genetic code does allow bacteria to produce human insulin by\nrecombinant DNA technology?",
+      "options": [
+        {
+          "key": "A",
+          "value": "Genetic code is nearly universal"
+        },
+        {
+          "key": "B",
+          "value": "Genetic code is specific"
+        },
+        {
+          "key": "C",
+          "value": "Genetic code is not ambiguous"
+        },
+        {
+          "key": "D",
+          "value": "Genetic code is redundant"
+        }
+      ],
+      "answer": "A",
+      "explanation": "In recombinant DNA technology, a bacterium is able to produce human insulin because genetic code is nearly universal. Human insulin is used to treat diabetes."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The shorter and longer arms of a submetacentric chromosome are referred to as:",
+      "options": [
+        {
+          "key": "A",
+          "value": "q-arm and p-arm respectively\n"
+        },
+        {
+          "key": "B",
+          "value": "m-arm and n-arm respectively"
+        },
+        {
+          "key": "C",
+          "value": "s-arm and l-arm respectively"
+        },
+        {
+          "key": "D",
+          "value": "p-arm and q-arm respectively"
+        }
+      ],
+      "answer": "D",
+      "explanation": "The shorter arm of a sub-metacentric chromosome is called as the 'p' - arm and the longer arm is called as a\n'q' - arm."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Select the correct match :",
+      "options": [
+        {
+          "key": "A",
+          "value": "Alec Jeffreys - Streptococcus\npneumoniae"
+        },
+        {
+          "key": "B",
+          "value": "Alfred Hershey and - TMV\nMartha Chase"
+        },
+        {
+          "key": "C",
+          "value": "Matthew Meselson - Pisum sativum\nand F. Stahl"
+        },
+        {
+          "key": "D",
+          "value": "Francois Jacob and - Lac operon\nJacques Monod"
+        }
+      ],
+      "answer": "D",
+      "explanation": "Francois Jacob and Jacque Monod\nproposed model of gene regulation known\nas operon model/lac operon. Alec Jeffreys\ngave DNA fingerprinting technique.\nMatthew Meselson and F. Stahl gave semiconservative DNA replication in E.coli.\nAlfred Hershey and Martha Chase proved\nDNA as genetic material not protein."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The experimental proof for semi-conservative\nreplication of DNA was first shown in a",
+      "options": [
+        {
+          "key": "A",
+          "value": "fungus"
+        },
+        {
+          "key": "B",
+          "value": "bacterium"
+        },
+        {
+          "key": "C",
+          "value": "plant"
+        },
+        {
+          "key": "D",
+          "value": "virus."
+        }
+      ],
+      "answer": "B",
+      "explanation": "Semi-conservative DNA replication was\nfirst shown in bacterium escherichia coli\nby Matthew Meselson and Franklin Stahl."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Select the correct statement :",
+      "options": [
+        {
+          "key": "A",
+          "value": "Franklin Stahl coined the term ‘‘linkage’’."
+        },
+        {
+          "key": "B",
+          "value": "Punnett square was developed by a British\nscientist."
+        },
+        {
+          "key": "C",
+          "value": "Spliceosomes take part in translation."
+        },
+        {
+          "key": "D",
+          "value": "Transduction was discovered by S. Altman"
+        }
+      ],
+      "answer": "B",
+      "explanation": "Punnet square was developed by a British\ngeneticist Reginald C. Punnet.\n<br><br> Franklin Stahl and Meselson proved semiconservative mode of DNA replication.\n<br><br>Morgan coined the term linkage.\n<br><br>Transduction was discovered by Zinder and\nLederberg."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Select the correct match :",
+      "options": [
+        {
+          "key": "A",
+          "value": "Ribozyme - Nucleic acid"
+        },
+        {
+          "key": "B",
+          "value": "F<sub>2</sub> $$ \\times $$ Recessive parent - Dihybrid cross"
+        },
+        {
+          "key": "C",
+          "value": "T.H. Morgan - Transduction"
+        },
+        {
+          "key": "D",
+          "value": "G. Mendel - Transformation"
+        }
+      ],
+      "answer": "A",
+      "explanation": "Ribozyme is a catalytic RNA, which is\nnucleic acid."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Many ribosomes may associate with a single\nmRNA to form multiple copies of a polypeptide\nsimultaneously. Such strings of ribosomes are\ntermed as",
+      "options": [
+        {
+          "key": "A",
+          "value": "polysome"
+        },
+        {
+          "key": "B",
+          "value": "polyhedral bodies"
+        },
+        {
+          "key": "C",
+          "value": "plastidome"
+        },
+        {
+          "key": "D",
+          "value": "nucleosome"
+        }
+      ],
+      "answer": "A",
+      "explanation": "Ribosomes may occur singly a monosomes\nor in rosettes and helical groups called\npolysomes. The different ribosomes of a\npolysome are connected with a strand of\nm-RNA.\n<br><br>Nucleosome is a basic unit of DNA packaging\nin eukaryotes.\n<br><br>Plastidome are the plastids of a cell when they\nare referred to a functional unit.\n<br><br>Polyhedral bodies are involved in carbon\nfixation are present in autotrophic bacteria."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "All of the following are part of an operon except",
+      "options": [
+        {
+          "key": "A",
+          "value": "an operator"
+        },
+        {
+          "key": "B",
+          "value": "structural genes"
+        },
+        {
+          "key": "C",
+          "value": "an enhancer"
+        },
+        {
+          "key": "D",
+          "value": "a promoter"
+        }
+      ],
+      "answer": "C",
+      "explanation": "Operon concept is for prokaryotes and\nenchancer sequences are present in\neukaryotes."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "AGGTATCGCAT is a sequence from the coding\nstrand of a gene. What will be the corresponding\nsequence of the transcribed mRNA?",
+      "options": [
+        {
+          "key": "A",
+          "value": "AGGUAUCGCAU"
+        },
+        {
+          "key": "B",
+          "value": "UGGTUTCGCAT"
+        },
+        {
+          "key": "C",
+          "value": "ACCUAUGCGAU"
+        },
+        {
+          "key": "D",
+          "value": "UCCAUAGCGUA"
+        }
+      ],
+      "answer": "A",
+      "explanation": "Coding strand and mRNA have same\nnucleotide sequence except, ‘T’ - Thymine is replaced\nby ‘U’ - Uracil in mRNA."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "If there are 999 bases in an RNA that codes for a protein with 333 amino acids, and the base at position 901 is\ndeleted such that the length of the RNA becomes 998 bases, how many codons will be altered ?",
+      "options": [
+        {
+          "key": "A",
+          "value": "1"
+        },
+        {
+          "key": "B",
+          "value": "11"
+        },
+        {
+          "key": "C",
+          "value": "333"
+        },
+        {
+          "key": "D",
+          "value": "33"
+        }
+      ],
+      "answer": "D",
+      "explanation": "If deletion happen at 901<sup>st</sup> position than\nthe remaining 98 bases specifying for 33\ncodons of amino acids will be altered."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Which of the following RNAs should be most abundant in animal cell ?",
+      "options": [
+        {
+          "key": "A",
+          "value": "m-RNA"
+        },
+        {
+          "key": "B",
+          "value": "mi-RNA"
+        },
+        {
+          "key": "C",
+          "value": "r-RNA"
+        },
+        {
+          "key": "D",
+          "value": "t-RNA"
+        }
+      ],
+      "answer": "C",
+      "explanation": "Ribosomal RNA (rRNA) is most\nabundant in animal cell. It constitutes 80%\nof total RNA of the cell."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The association of histone H<sub>1</sub> with a nucleosome indicates :",
+      "options": [
+        {
+          "key": "A",
+          "value": "DNA replication is occurring"
+        },
+        {
+          "key": "B",
+          "value": "Transcription is occurring"
+        },
+        {
+          "key": "C",
+          "value": "The DNA is condensed into a Chromatin Fibre"
+        },
+        {
+          "key": "D",
+          "value": "The DNA double helix is exposed"
+        }
+      ],
+      "answer": "C",
+      "explanation": "Histones help in packaging of DNA. In\neukaryotes, DNA packaging is carried out with the\nhelp of positively charged basic proteins called\nhistones. Histones are of five types – H<sub>1</sub>\n, H<sub>2</sub>A, H<sub>2</sub>B,\nH<sub>3</sub>\n and H<sub>4</sub>\n. H<sub>1</sub>\n is attached over the linker DNA.\nHistone contains a large proportion of the positively\ncharged (basic) amino acids, lysine and arginine in\ntheir structure. DNA is negatively charged due to\nthe phosphate groups on its backbone. The result\nof these opposite charges is strong attraction and\ntherefore, high binding affinity between histones\nand DNA.\n"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The final proof for DNA as the genetic material came from the experiments of",
+      "options": [
+        {
+          "key": "A",
+          "value": "Griffith"
+        },
+        {
+          "key": "B",
+          "value": "Hargobind Khorana"
+        },
+        {
+          "key": "C",
+          "value": "Avery, Mcleod and McCarty"
+        },
+        {
+          "key": "D",
+          "value": "Hershey and chase"
+        }
+      ],
+      "answer": "D",
+      "explanation": "Hershey and Chase proved that DNA as\ngenetic material. They used bacteriophage for\ntheir experiment.\n"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "During DNA replication, Okazaki fragments are used to elongate",
+      "options": [
+        {
+          "key": "A",
+          "value": "The leading strand away from replication fork\n"
+        },
+        {
+          "key": "B",
+          "value": "The lagging strand towards replication fork"
+        },
+        {
+          "key": "C",
+          "value": "The lagging strand away from the replication fork"
+        },
+        {
+          "key": "D",
+          "value": "The leading strand towards replication fork"
+        }
+      ],
+      "answer": "C",
+      "explanation": "Two DNA polymerase molecules\nsimultaneously work at the DNA fork, one\non the leading strand and the other on the\nlagging strand.<br><br>\nDNA polymerase synthesizes each Okazaki\nfragment at lagging strand in 5′-3′ direction.\nAs the replication fork opens further, new\nPkazaki fragments appear. The first Okazaki\nfragment appears away from the replication\nfork and thus the direction of elongation\nwould be away from replication fork."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Spliceosomes are not found in cells of :",
+      "options": [
+        {
+          "key": "A",
+          "value": "Bacteria"
+        },
+        {
+          "key": "B",
+          "value": "Plants"
+        },
+        {
+          "key": "C",
+          "value": "Animals"
+        },
+        {
+          "key": "D",
+          "value": "Fungi"
+        }
+      ],
+      "answer": "A",
+      "explanation": "Spliceosomes helps in removal of introns.\nThey will not occur in prokaryotes because\nprokaryotes do not have introns and thus, processing\ndoes not require splicing of mRNA."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "DNA-dependent RNA polymerase catalyzes transcription on one strand of the DNA which is called the",
+      "options": [
+        {
+          "key": "A",
+          "value": "coding strand"
+        },
+        {
+          "key": "B",
+          "value": "antistrand"
+        },
+        {
+          "key": "C",
+          "value": "template strand "
+        },
+        {
+          "key": "D",
+          "value": "alpha strand"
+        }
+      ],
+      "answer": "C",
+      "explanation": "The strand of DNA on which RNA\npolymerase binds to catalyse transcription is called\ntemplate strand. It is also known as master or antisense\nstrand. It has the polarity of 3' $$ \\to $$ 5'.\n"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A molecule that can act as a genetic material must fulfill the traits given below, except",
+      "options": [
+        {
+          "key": "A",
+          "value": "it should be able to express itself in the form of ‘Mendelian characters’\n"
+        },
+        {
+          "key": "B",
+          "value": "it should be unstable structurally and chemically"
+        },
+        {
+          "key": "C",
+          "value": "it should provide the scope for slow changes that are required for evolution"
+        },
+        {
+          "key": "D",
+          "value": "it should be able to generate its replica"
+        }
+      ],
+      "answer": "B",
+      "explanation": "Genetic material should be structurally and\nchemically stable otherwise its expression will change\nand lead to loss of several metabolic functions, etc."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The equivalent of a structural gene is -",
+      "options": [
+        {
+          "key": "A",
+          "value": "cistron "
+        },
+        {
+          "key": "B",
+          "value": "recon"
+        },
+        {
+          "key": "C",
+          "value": "muton"
+        },
+        {
+          "key": "D",
+          "value": "operon"
+        }
+      ],
+      "answer": "A",
+      "explanation": "Cistron (or gene) is a length of DNA that\ncontains the information for coding a specific\npolypeptide chain or a functional RNA molecule (i.e.,\ntransfer RNA or ribosomal RNA). Hence, cistron is a\nunit of function. Currently such a gene is called\nstructural gene.\n"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Taylor conducted the experiments to prove semiconservative mode of chromosome replication on \n",
+      "options": [
+        {
+          "key": "A",
+          "value": "Vicia faba\n"
+        },
+        {
+          "key": "B",
+          "value": "Drosophila melanogaster"
+        },
+        {
+          "key": "C",
+          "value": "Vinca rosea"
+        },
+        {
+          "key": "D",
+          "value": "E. coli"
+        }
+      ],
+      "answer": "A",
+      "explanation": "Taylor et al. (1957) conducted experiment\non Vicia faba (broad bean) to prove semi-conservative\nreplication of DNA. He fed dividing cells of root tips\nof Vicia faba with radioactive <sup>3</sup>H containing thymine\ninstead of normal thymine and found that all the\nchromosomes became radioactive. Labelled thymine\nwas then replaced with normal one. Next generation\ncame to have radioactivity in one of the two\nchromatids of each chromosome while in subsequent\ngeneration radioactivity was present in 50% of the\nchromosomes. This is possible only if out of the two\nstrands of a chromosome, one is formed afresh while\nthe other is conserved at each replication."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Which of the following rRNAs acts as structural RNA as well as ribozyme in bacteria ?",
+      "options": [
+        {
+          "key": "A",
+          "value": "5.8 S rRNA"
+        },
+        {
+          "key": "B",
+          "value": "23 S rRNA "
+        },
+        {
+          "key": "C",
+          "value": "18 S rRNA"
+        },
+        {
+          "key": "D",
+          "value": "5 S rRNA"
+        }
+      ],
+      "answer": "B",
+      "explanation": "23S rRNA acts as structural RNA as well\nas ribozyme in bacteria.\n"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A complex of ribosomes attached to a single strand of RNA is known as : ",
+      "options": [
+        {
+          "key": "A",
+          "value": "Polypeptide"
+        },
+        {
+          "key": "B",
+          "value": "Okazaki fragment"
+        },
+        {
+          "key": "C",
+          "value": "Polysome "
+        },
+        {
+          "key": "D",
+          "value": "Polymer"
+        }
+      ],
+      "answer": "C",
+      "explanation": "A polysome or polyribosome is a\ncomplex of an mRNA molecule and two or\nmore ribosomes, which is formed during the\nactive translation process. They were initially\nnamed as ergosomes in 1963. However,\nfurther research by Jonathan Warner and\nAlex Rich characterized polysome"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Which of the following is required as inducer(s) for the expression of Lac operon?",
+      "options": [
+        {
+          "key": "A",
+          "value": "lactose"
+        },
+        {
+          "key": "B",
+          "value": "lactose and galactose"
+        },
+        {
+          "key": "C",
+          "value": "glucose"
+        },
+        {
+          "key": "D",
+          "value": "galactose "
+        }
+      ],
+      "answer": "A",
+      "explanation": "In Lac operon, lactose is an inducer. It binds\nwith suppressor and inactivates it. It allows RNA\npolymers access to the promoter and transcription\nproceeds.\n"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Which one of the following is the starter codon ?",
+      "options": [
+        {
+          "key": "A",
+          "value": "AUG"
+        },
+        {
+          "key": "B",
+          "value": "UAG"
+        },
+        {
+          "key": "C",
+          "value": "UAA"
+        },
+        {
+          "key": "D",
+          "value": "UGA "
+        }
+      ],
+      "answer": "A",
+      "explanation": "The start codon is the first codon of\na messenger RNA (mRNA) transcript\ntranslated by a ribosome. The start codon\nalways codes for methionine in eukaryotes\nand a modified Met (fMet) in prokaryotes.\nThe most common start codon is AUG."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Satellite DNA is important because it : ",
+      "options": [
+        {
+          "key": "A",
+          "value": "Shows high degree of polymorphism in\npopulation and also the same degree of\npolymorphism in an individual, which\nis heritable from parents to children. "
+        },
+        {
+          "key": "B",
+          "value": "does not code for proteins and is same\nin all members of the population. "
+        },
+        {
+          "key": "C",
+          "value": "codes for proteins needed in cell cycle. "
+        },
+        {
+          "key": "D",
+          "value": "codes for proteins needed in cell cycle. "
+        }
+      ],
+      "answer": "A",
+      "explanation": "Satellite DNA displays high degree\nof polymorphism in population and also\nthe same degree of polymorphism in an\nindividual, which is inherited from parents\nto children (offsprings)."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Identify the correct order of organisation of\ngenetic material from largest to smallest : \n",
+      "options": [
+        {
+          "key": "A",
+          "value": "Chromosome, genome, nucleotide,\ngene"
+        },
+        {
+          "key": "B",
+          "value": "Genome, chromosome, nucleotide,\ngene "
+        },
+        {
+          "key": "C",
+          "value": "Genome, chromosome, gene, nucleotide "
+        },
+        {
+          "key": "D",
+          "value": "Chromosome, gene, genome, nucleotide "
+        }
+      ],
+      "answer": "C",
+      "explanation": "The correct order of organization of genetic material from largest to smallest is:\n<br/><br/>\nGenome > Chromosome > Gene > Nucleotide\n<br/><br/>\nGenome: It is the complete set of genetic material or DNA present in a cell or an organism, including all the genes, regulatory sequences, and non-coding DNA.<br/><br/>\nChromosome: It is a thread-like structure made up of DNA and protein that carries genetic information in the form of genes. In eukaryotic cells, chromosomes are found in the nucleus, while in prokaryotic cells, they are present in the cytoplasm.<br/><br/>\nGene: It is a unit of heredity that carries information for the synthesis of a particular protein or RNA molecule. A gene is a sequence of DNA that is transcribed into RNA and then translated into a protein.<br/><br/>\nNucleotide: It is the basic building block of DNA and RNA, consisting of a nitrogenous base, a sugar molecule, and a phosphate group. The sequence of nucleotides in DNA determines the genetic information and the traits of an organism.<br/><br/>\nTherefore, the correct order of organization of genetic material from largest to smallest is genome > chromosome > gene > nucleotide, where genome is the largest and nucleotide is the smallest unit."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Balbiani rings are sites of : ",
+      "options": [
+        {
+          "key": "A",
+          "value": "Polysaccharide synthesis"
+        },
+        {
+          "key": "B",
+          "value": "Lipid synthesis"
+        },
+        {
+          "key": "C",
+          "value": "RNA and protein synthesis "
+        },
+        {
+          "key": "D",
+          "value": "Nucleotide synthesis \n"
+        }
+      ],
+      "answer": "C",
+      "explanation": "RNA and protein synthesis occur in\nBalbiani rings."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Which one of the following is not\napplicable to RNA? ",
+      "options": [
+        {
+          "key": "A",
+          "value": "Complementary base pairing "
+        },
+        {
+          "key": "B",
+          "value": "5' phosphoryl and 3' hydroxyl ends"
+        },
+        {
+          "key": "C",
+          "value": "Heterocyclic nitrogenous bases "
+        },
+        {
+          "key": "D",
+          "value": "Chargaff's rule "
+        }
+      ],
+      "answer": "D",
+      "explanation": "Chargaff’s rules are applicable only for\ndouble stranded DNA molecule. These are not\napplicable for single stranded DNA or RNA\nmolecules. Chargaff’s rules state that DNA helices\ncontain equal molar ratios of A and T, G and C. This\nis because in a ds DNA molecule, complementary base\npairing occurs between A and T, and C and G base\npairs. This complementary base pairing is not possible\nin case of single stranded RNA molecule. Thus,\nChargaff’s rules are not applicable to RNA."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "In sea urchin DNA, which is double stranded, 17% of the bases were shown to be cytosine, The percentages of the other three bases expected to be present in this DNA are",
+      "options": [
+        {
+          "key": "A",
+          "value": "G 17%, A 16.5%, T 32.5%"
+        },
+        {
+          "key": "B",
+          "value": "G 17%, A 33%, T 33%"
+        },
+        {
+          "key": "C",
+          "value": "G 8.5%, A 50%, T 24.5%"
+        },
+        {
+          "key": "D",
+          "value": "G 34%, A 24.5%, T 24.5%"
+        }
+      ],
+      "answer": "B",
+      "explanation": "Chargaff’s rule states that A = T and G\n≡ C. The molar amount of adenine = molar\namount of thymine. The molar amount of\nguanine = molar amount of cytosine.<br>\nHence,<br> G is 17%, so, C = 17%<br>\n A = 33%, so, T = 33%"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Gene regulation governing lactose operon of E.coli that involves the lac I gene product is",
+      "options": [
+        {
+          "key": "A",
+          "value": "negative and inducible because repressor protein prevents transcription."
+        },
+        {
+          "key": "B",
+          "value": "positive and inducible because it can be induced by lactose"
+        },
+        {
+          "key": "C",
+          "value": "negative and repressible because repressor protein prevents transcription"
+        },
+        {
+          "key": "D",
+          "value": "feedback inhibition because excess of $$\\beta $$-galactosidase can switch off transcription"
+        }
+      ],
+      "answer": "A",
+      "explanation": "The control of expression of lac operon is\nnegative (as it is turned off normally) and inducible.\nInducible operon is an operon which remains switched\noff normally but becomes operational in the presence\nof an inducer (lactose, actually allolactose a\nmetabolite of lactose, in case of lac operon). The\ninducible operon generally functions in catabolic\npathways. In the presence of an inducer, the repressor\nhas a higher affinity for the inducer than for the operator\ngene. <br><br>When lactose is added, a few lactose molecules\nare carried into the cell by the enzyme lactose permease\nas small amount of this enzyme is present in the cell\neven when the operon is not working. These few lactose\nmolecules are converted into allolactose molecules\nwhich act as an inducer and bind to the repressor (a\nproduct of regulator gene). The repressor-inducer\ncomplex fails to join with the operator gene, thus it is\nturned on.\n"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Select the correct option ; ",
+      "options": [
+        {
+          "key": "A",
+          "value": "Direction of RNA synthesis 3’−5’,  Direction of reading of the template DNA strand 5’−3’"
+        },
+        {
+          "key": "B",
+          "value": "Direction of RNA synthesis 5’−3’,  Direction of reading of the template DNA strand 5’−3’"
+        },
+        {
+          "key": "C",
+          "value": "Direction of RNA synthesis 5’−3’,  Direction of reading of the template DNA strand 3’−5’"
+        },
+        {
+          "key": "D",
+          "value": "Direction of RNA synthesis 3’−5’,  Direction of reading of the template DNA strand 3’−5’"
+        }
+      ],
+      "answer": "C",
+      "explanation": "RNA polymerase initiates and extends the\nRNA (chain elongation) and functions always in 5'\nto 3' direction. The structural component of DNA has\n3' to 5' polarity. It is also called template DNA strand\nor antisense (–) strand.\n"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Transformation was discovered by : ",
+      "options": [
+        {
+          "key": "A",
+          "value": "Griffith"
+        },
+        {
+          "key": "B",
+          "value": "Watson and Crick "
+        },
+        {
+          "key": "C",
+          "value": "Hershey and Chase "
+        },
+        {
+          "key": "D",
+          "value": "Meselson and Stahl "
+        }
+      ],
+      "answer": "A",
+      "explanation": "Frederick Griffith (in 1928), a British\nMedical officer described the phenomenon\nof bacterial transformation. He carried out\nexperiment with Streptococcus pneumoniae\n(bacterium causing pneumonia) which is used\nto infect mice. By using S Strain (heat killed)\nand R strain (live) it was concluded that R\nstrain has been transformed by some material\nof S strain which makes R strain virulent and\nenable to synthesize smooth polysachharide. "
+    },
+    {
+      "_type": "single_mcq",
+      "body": "In an inducible operon, the genes are :",
+      "options": [
+        {
+          "key": "A",
+          "value": "usually expressed unless a signal turns them\n\"off\"\n"
+        },
+        {
+          "key": "B",
+          "value": "always expressed"
+        },
+        {
+          "key": "C",
+          "value": "never expressed"
+        },
+        {
+          "key": "D",
+          "value": "usually not expressed unless a signal turns them\n\"on\""
+        }
+      ],
+      "answer": "D",
+      "explanation": "Inducible operons are usually switched\noff. This is a type of operon which is switched\non when a chemical called inducer is present.\nThe inducer is almost always a substrate."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Satellite RNA are present in some :",
+      "options": [
+        {
+          "key": "A",
+          "value": "Prions"
+        },
+        {
+          "key": "B",
+          "value": "Bacteriophages"
+        },
+        {
+          "key": "C",
+          "value": "Plant viruses"
+        },
+        {
+          "key": "D",
+          "value": "Viroids"
+        }
+      ],
+      "answer": "C",
+      "explanation": "Plant viruses often contain parasites of their\nown, referred to as satellites. Satellite RNAs are\nhighly dependent on their helper virus for both\nreplication and encapsidation. Their size vary from\n194 to 1500 nucleotides (approximately) The larger\nsatellites contain open reading frame and express\nproteins, whereas smaller satellites do not produce\nfunctional proteins.\n"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Which of the following is not a property of the\ngenetic code ?",
+      "options": [
+        {
+          "key": "A",
+          "value": "Ambiguous"
+        },
+        {
+          "key": "B",
+          "value": "Universal"
+        },
+        {
+          "key": "C",
+          "value": "Degeneracy"
+        },
+        {
+          "key": "D",
+          "value": "Non-overlapping"
+        }
+      ],
+      "answer": "A",
+      "explanation": "Genetic code is the relationship of\namino acid sequence in a polypeptide\nand nucleotide/base sequence in mRNA/\nantisense strand of DNA.<br>\nIt is universal, i.e., a codon specifies\nthe same amino acid in all organisms,\nnon-overlapping, i.e., adjacent codons are\nindependent with no base being member of\ntwo codons, degeneracy, i.e., some amino\nacids are coded by more than one codon,\nhence the code is degenerate, unambiguous,\ni.e., one codon codes for only one amino acid."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Genes of interest can be selected from a genomic\nlibrary by using :",
+      "options": [
+        {
+          "key": "A",
+          "value": "Restriction enzymes"
+        },
+        {
+          "key": "B",
+          "value": "Gene targets"
+        },
+        {
+          "key": "C",
+          "value": "Cloning vectors"
+        },
+        {
+          "key": "D",
+          "value": "DNA probes"
+        }
+      ],
+      "answer": "D",
+      "explanation": "Gene bank or genomic library is a complete\ncollection of cloned DNA fragments which comprises\nthe entire genome of an organism. Molecular probes\nare small DNA segments that are used to detect the\npresence of complementary sequences in nucleic acid\nsamples in genomic library. These are usually formed\nof 200-500 nucleotide sequences. These segments or\nprobes are labelled either with radioactive or with\nnonradioactive compound. Probes with DNA\nsequence complementary to the gene to be isolated\nare used. They bind with the desired gene, making it\nvisible and help in isolating it from the library.\n"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "One of the most frequently used techniques in DNA\nfingerprinting is :-",
+      "options": [
+        {
+          "key": "A",
+          "value": "SSCP"
+        },
+        {
+          "key": "B",
+          "value": "SCAR"
+        },
+        {
+          "key": "C",
+          "value": "VNTR"
+        },
+        {
+          "key": "D",
+          "value": "AFLP"
+        }
+      ],
+      "answer": "C",
+      "explanation": "The technique of DNA fingerprinting\nwas developed by Dr. Alec Jeffrey in 1984.\nIt is a technique generally using repeated\nsequences (repetitive DNA) in the human\ngenome that produces a pattern of band that\nis unique for every individuals. These short\nnucleotide repeats vary in number from\nperson to person and are called variable\nnumber of tandem repeat (VNTR). VNTR\nbelongs to class of satellite DNA referred to\nas minisatellite."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Which enzyme will be produced in a cell in which there is a non-sense mutation in the lac Y gene ? ",
+      "options": [
+        {
+          "key": "A",
+          "value": "Transacetylase"
+        },
+        {
+          "key": "B",
+          "value": "Lactose permease and transacetylase"
+        },
+        {
+          "key": "C",
+          "value": "Lactose permease "
+        },
+        {
+          "key": "D",
+          "value": "$$\\beta $$-galactosidase "
+        }
+      ],
+      "answer": "D",
+      "explanation": "A nonsense mutation is the one which stops\npolypeptide synthesis due to the formation of\ntermination or non-sense codon. In lac operon,\nsequence of structural genes is Z, Y and A, which\nrespectively code for $$\\beta $$-galactosidase, lactose\npermease and transacetylase. If the gene Y has\nnonsense mutation, gene expression will stop at it,\nresulting in non-expression of both gene Y and\nsuccessive gene A. Thus, only $$\\beta $$-galactosidase enzyme\nwill be produced.\n"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Which of the following statements is not true of two genes that show 50% recombination frequency ? ",
+      "options": [
+        {
+          "key": "A",
+          "value": "The genes are tightly linked "
+        },
+        {
+          "key": "B",
+          "value": "The genes show independent assortment "
+        },
+        {
+          "key": "C",
+          "value": "If the genes are present on the same chromosome, they undergo more than one crossovers in every\nmeiosis. "
+        },
+        {
+          "key": "D",
+          "value": "The genes may be on different chromosomes"
+        }
+      ],
+      "answer": "A",
+      "explanation": "Tightly linked genes show more linkage\nthen crossing over."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Removal of RNA polymerase -III from nucleoplasm will affect the synthesis of ",
+      "options": [
+        {
+          "key": "A",
+          "value": "tRNA"
+        },
+        {
+          "key": "B",
+          "value": "hnRNA"
+        },
+        {
+          "key": "C",
+          "value": "rRNA "
+        },
+        {
+          "key": "D",
+          "value": "mRNA "
+        }
+      ],
+      "answer": "A",
+      "explanation": "In eukaryotes, RNA polymerase enzymes\n(Type I, II, III) catalyze the synthesis of RNA using\nas a template either an existing DNA strand or an RNA\nstrand. Type I is responsible for synthesis of rRNA,\ntype II for mRNA and type III for tRNA synthesis."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Ribosomal RNA is actively synthesized in ",
+      "options": [
+        {
+          "key": "A",
+          "value": "Nucleolus"
+        },
+        {
+          "key": "B",
+          "value": "Ribosomes "
+        },
+        {
+          "key": "C",
+          "value": "Lysosomes "
+        },
+        {
+          "key": "D",
+          "value": "Nucleoplasm "
+        }
+      ],
+      "answer": "A",
+      "explanation": "Ribosomal RNA is actively synthesized\nin nucleolus. Nucleolus is also known as\nribosomal factory."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Which one of the following is not a part of a transcription unit in DNA ?",
+      "options": [
+        {
+          "key": "A",
+          "value": "The structural gene "
+        },
+        {
+          "key": "B",
+          "value": "the inducer "
+        },
+        {
+          "key": "C",
+          "value": "A terminator"
+        },
+        {
+          "key": "D",
+          "value": "A promoter "
+        }
+      ],
+      "answer": "B",
+      "explanation": "A transcription unit is a part of DNA that\nis able to transcribe a complete RNA. It consists\nof a promoter region (where RNA polymerase binds\nto start transcription), the structural gene (coding\nregion) and the terminator region (that signals\nrelease of RNA polymerase and newly formed RNA\nstrand).\n"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Removal of introns and joining of exons in a defined order during transcription is called ",
+      "options": [
+        {
+          "key": "A",
+          "value": "Looping "
+        },
+        {
+          "key": "B",
+          "value": "Inducing "
+        },
+        {
+          "key": "C",
+          "value": "Slicing "
+        },
+        {
+          "key": "D",
+          "value": "Splicing "
+        }
+      ],
+      "answer": "D",
+      "explanation": "Introns, which occur principally in\neukaryotes, are transcribed into messenger RNA\n(mRNA) but are subsequently removed from the\ntranscription before translation. In certain cases,\nremoval of the introns is an autocatalytic process (selfsplicing) whereby the RNA itself has the properties\nof an enzyme.\n"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "If one strand of DNA has the nitrogenous base sequence as ATCTG, what would be the\ncomplementary RNA stand sequence",
+      "options": [
+        {
+          "key": "A",
+          "value": "ATCGU "
+        },
+        {
+          "key": "B",
+          "value": "UAGAC"
+        },
+        {
+          "key": "C",
+          "value": "AACTG"
+        },
+        {
+          "key": "D",
+          "value": "TTAGU "
+        }
+      ],
+      "answer": "B",
+      "explanation": "Sequence of DNA is ATCTG then\nsequence of m-RNA will UAGAC. As\nadenine base pairs with uracil and guanine\nwith cytosine."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The unequivocal proof of DNA as the genetic\nmaterial came from the studies on a : \n",
+      "options": [
+        {
+          "key": "A",
+          "value": "Viroid"
+        },
+        {
+          "key": "B",
+          "value": "Bacterium"
+        },
+        {
+          "key": "C",
+          "value": "Fungus "
+        },
+        {
+          "key": "D",
+          "value": "Bacterial virus "
+        }
+      ],
+      "answer": "D",
+      "explanation": "The unequivocal proof that DNA is the\ngenetic material came from the experiments of Alfred\nHershey and Martha Chase (1952). They worked with\nviruses that infect bacteria called bacteriophages.\n"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "What are those structures that appear as 'beads-on-string' in the chromosomes when viewed\nunder electron microscope ? ",
+      "options": [
+        {
+          "key": "A",
+          "value": "Nucleosomes "
+        },
+        {
+          "key": "B",
+          "value": "Genes"
+        },
+        {
+          "key": "C",
+          "value": "Nucleotides"
+        },
+        {
+          "key": "D",
+          "value": "Base pairs"
+        }
+      ],
+      "answer": "A",
+      "explanation": "The structures that appear as \"beads-on-string\" in the chromosomes when viewed under an electron microscope are nucleosomes.\n<br/><br/>\nNucleosomes are the basic units of chromatin, which is the material that makes up chromosomes. Each nucleosome consists of a core of eight histone proteins, around which DNA is wrapped. The wrapped DNA and histone proteins together form a structure called a nucleosome, which appears as a \"bead\" on a string of DNA when viewed under an electron microscope. The string of DNA between the nucleosomes is referred to as linker DNA.\n<br/><br/>\nNucleosomes play an important role in regulating gene expression and other cellular processes. The positioning and spacing of nucleosomes along the DNA can affect how accessible different regions of the DNA are to proteins and enzymes that carry out gene expression and other functions.\n<br/><br/>\nSo, option A, \"Nucleosomes,\" is the correct answer."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Which one of the follwoing statements about the\nparticular entity is true ?",
+      "options": [
+        {
+          "key": "A",
+          "value": "Nucleosome is formed of nucleotides"
+        },
+        {
+          "key": "B",
+          "value": "Centromere is found in animals cells, which\nproduces aster during cell division"
+        },
+        {
+          "key": "C",
+          "value": "The gene for producing insulin is present in\nevery body cell "
+        },
+        {
+          "key": "D",
+          "value": "DNA consists of a core of eight histones "
+        }
+      ],
+      "answer": "C",
+      "explanation": "Insulin gene is found in every body cell but\nis not expressed in all cells. It is nucleosome which\nconsists of a core of eight histones. DNA is composed\nof nucleotides. Centriole is found in animal cells,\nwhich produces aster during cell division."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "In eukaryotic cell transcription, RNA splicing\nand RNA capping take place inside the -",
+      "options": [
+        {
+          "key": "A",
+          "value": "Dictyosomes"
+        },
+        {
+          "key": "B",
+          "value": "Ribosomes"
+        },
+        {
+          "key": "C",
+          "value": "Nucleus "
+        },
+        {
+          "key": "D",
+          "value": "ER"
+        }
+      ],
+      "answer": "C",
+      "explanation": "Unlike in prokaryotes where transcription\nand translation take place in the same compartment, in\neukaryotes primary transcript is first processed in the\nnucleus and then transported outside of the nucleus.\nSince the primary transcripts of the eukaryotes\ncontains both the expressing genes (exons) and nonexpressing genes (introns), it undergoes splicing of\nintrons and later capping and tailing at 5'-end and\n3'-end respectively.\n"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The lac Operon consists of - ",
+      "options": [
+        {
+          "key": "A",
+          "value": "Three regulatory genes and three structure\ngenes "
+        },
+        {
+          "key": "B",
+          "value": "Four regulatory genes only "
+        },
+        {
+          "key": "C",
+          "value": "Two regulatory genes and two structural\ngenes"
+        },
+        {
+          "key": "D",
+          "value": "One regulatory gene and three structural\ngenes"
+        }
+      ],
+      "answer": "D",
+      "explanation": "Lac operon is the operon that regulates lactose metabolism in the bacterium Escherichia coli. Its form wast first postulated in 1961 by Francois Jacob and Jacques Monod to explain the control of β- galactosidase synthesis and for this work, they were awarded Nobel Prize. Lac operon system or inducible operon system consists of regulator gene (i) promoter gene (z, y and a), repressor protein and inducer."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The 3'-5' phosphodiester linkages inside a\npolynucleotide chain serve to join - ",
+      "options": [
+        {
+          "key": "A",
+          "value": "One nucleotide with another nucleotide"
+        },
+        {
+          "key": "B",
+          "value": "One nitrogenous base with pentose sugar "
+        },
+        {
+          "key": "C",
+          "value": "One nucleoside with another nucleoside "
+        },
+        {
+          "key": "D",
+          "value": "One DNA strand with the other DNA strand"
+        }
+      ],
+      "answer": "A",
+      "explanation": "The phosphodiester bonds is formed between\nthe phosphate group, which is connected to carbon 5'\nof the sugar residue of one nucleotide and carbon 3'\nof the sugar residue of the next nucleotide."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Select the two correct statements out of the four\n(a-d) statements given below about lac operon. <br>\n(a) Glucose or galactose may bind with the\nrepressor and inactivate it<br>\n (b) In the absence of lactose the repressor binds\nwith the operator region<br>\n (c) The z-gene codes for permease<br>\n (d) This was elucidated by Francois Jacob and\nJacque Monod<br>\n The correct statements are : ",
+      "options": [
+        {
+          "key": "A",
+          "value": "(b) and (d) "
+        },
+        {
+          "key": "B",
+          "value": "(a) and (b) "
+        },
+        {
+          "key": "C",
+          "value": "(b) and (c) "
+        },
+        {
+          "key": "D",
+          "value": "(a) and (c) "
+        }
+      ],
+      "answer": "A",
+      "explanation": "Jacob and Monod proposed the lac\noperon of E. coli. The lac operon contains a\npromoter, an operator, and three structural\ngenes called z, y, and a, coding for the\nenzyme, β galactosidase, permease and\ntransacetylase respectively. The lac regulator gene, designated as i gene, codes for repressor.\nIn the absence of the inducer, the repressor\nbinds to the lac operator, preventing RNA\npolymerase from binding to the promoter and\nthus transcribing the structural gene."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The one aspect which is not a salient feature of\ngenetic code, is its being – ",
+      "options": [
+        {
+          "key": "A",
+          "value": "Specific"
+        },
+        {
+          "key": "B",
+          "value": "Degenerate"
+        },
+        {
+          "key": "C",
+          "value": "Ambiguous "
+        },
+        {
+          "key": "D",
+          "value": "Universal "
+        }
+      ],
+      "answer": "C",
+      "explanation": "Genetic code is non ambiguous. There is\nno ambiguity for a particular codon. A particular codon will always code for the same\namino acid, where ever it is found."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Which one of the following palindromic base\nsequences in DNA can be easily cut at about the\nmiddle by some particular restriction enzyme?",
+      "options": [
+        {
+          "key": "A",
+          "value": "5' _____ CG TTCG ______ 3' <br>\n3' ______ATGGTA ______5'"
+        },
+        {
+          "key": "B",
+          "value": "5'______GAATTC ______3'<br>\n3'______CTTAAG______5'"
+        },
+        {
+          "key": "C",
+          "value": "5'______CACGTA______3' <br>\n3'______CTCAGT______5' \n"
+        },
+        {
+          "key": "D",
+          "value": "5'______GATATG ______3'<br>\n3'______CTACTA ______5' "
+        }
+      ],
+      "answer": "B",
+      "explanation": "Palindromic nucleotide sequences in the\nDNA molecule are groups of bases that form the same\nsequence when read in both forward and backward\ndirection. In the given question, only option (b)\nrepresents a palindromic sequence, that can be easily\ncut at about the middle by some particular restriction\nenzyme."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Which one of the following does not follow the\ncentral dogma of molecular biology ? ",
+      "options": [
+        {
+          "key": "A",
+          "value": "Mucor "
+        },
+        {
+          "key": "B",
+          "value": "HIV "
+        },
+        {
+          "key": "C",
+          "value": "Chlamydomonas "
+        },
+        {
+          "key": "D",
+          "value": "Pea "
+        }
+      ],
+      "answer": "B",
+      "explanation": "HIV viruses does not follow central\ndogma. Central dogma is a one way flow of\ninformation from DNA to mRNA and then\nto protein.\n"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Whose experiments cracked the DNA and\ndiscovered unequivocally that a genetic code is a\n\"triplet\" ? ",
+      "options": [
+        {
+          "key": "A",
+          "value": "Nirenberg and Mathaei "
+        },
+        {
+          "key": "B",
+          "value": "Morgan and Sturtevant "
+        },
+        {
+          "key": "C",
+          "value": "Hershey and Chase"
+        },
+        {
+          "key": "D",
+          "value": "Beadle and Tatum "
+        }
+      ],
+      "answer": "A",
+      "explanation": "Nirenberg and Mathaei (1961) experimentally proved that a single amino acid is\ndetermined by a sequence of three nitrogen\nbases. The sequence of three nitrogen bases\ndetermining a single amino acid is called\na triplet code. Nirenberg and Mathaei\nexperiments cracked the DNA and discovered\nunequivocally that a genetic code is a triplet."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "What is not true for genetic code? ",
+      "options": [
+        {
+          "key": "A",
+          "value": "It is nearly universal "
+        },
+        {
+          "key": "B",
+          "value": "A codon in mRNA is read in a noncontiguous fashion "
+        },
+        {
+          "key": "C",
+          "value": "It is degenerate "
+        },
+        {
+          "key": "D",
+          "value": "It is unambiguous "
+        }
+      ],
+      "answer": "B",
+      "explanation": "The genetic code consists of 64 triplets of\nnucleotides. These triplets are called codons.\nWith three exceptions, each codon encodes\nfor one of the 20 amino acids used in the\nsynthesis of proteins. That produces some\nredundancy in the code. Most of the amino\nacids being encoded by more than one codon.\nThe genetic code can be expressed as either\nRNA codons or DNA codons."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Removal of introns and joining the exons in a\ndefined order in a transcription unit is called : ",
+      "options": [
+        {
+          "key": "A",
+          "value": "Transformation "
+        },
+        {
+          "key": "B",
+          "value": "Capping "
+        },
+        {
+          "key": "C",
+          "value": "Splicing "
+        },
+        {
+          "key": "D",
+          "value": "Tailing"
+        }
+      ],
+      "answer": "C",
+      "explanation": "Splicing is the removal of introns and\njoining the exons in a defined order in a\ntranscription unit. In molecular biology,\nsplicing is a modification of RNA after\ntranscription, in which introns are removed\nand exons are joined."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Semi-conservative replication of DNA was first\ndemonstrated in :",
+      "options": [
+        {
+          "key": "A",
+          "value": "Drosophila melanogaster "
+        },
+        {
+          "key": "B",
+          "value": "Streptococcus pneumoniae"
+        },
+        {
+          "key": "C",
+          "value": "Salmonella typhimurium "
+        },
+        {
+          "key": "D",
+          "value": "Escherichia coli"
+        }
+      ],
+      "answer": "D",
+      "explanation": "Mathew Meselson and Franklin Stahl (1958)\nconducted various experiments using isotopically\nlabelled DNA of Escherichia coli to provide evidence\nin favour of semi-conservative mode of DNA\nreplication.\n"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Which one of the following pairs of codons is\ncorrectly matched with their function or the\nsignal for the particular amino acid ?",
+      "options": [
+        {
+          "key": "A",
+          "value": "UUA, UCA — Leucine "
+        },
+        {
+          "key": "B",
+          "value": "AUG, ACG — Start/Methionine "
+        },
+        {
+          "key": "C",
+          "value": "UAG, UGA — Stop "
+        },
+        {
+          "key": "D",
+          "value": "GUU, GCU — Alanine"
+        }
+      ],
+      "answer": "C",
+      "explanation": "GCU indicates alanine but GUU\nindicates valine.<br>\nStop codons are UAG, UGA and UAA\nAUG is the most common start codon which\ncodes for methionine.<br>\nUUA indicates leucine but UCA indicates\nserine."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Polysome is formed by",
+      "options": [
+        {
+          "key": "A",
+          "value": "several ribosomes attached to a single\nmRNA"
+        },
+        {
+          "key": "B",
+          "value": "many ribosomes attached to a strand of\n endoplasmic reticulum"
+        },
+        {
+          "key": "C",
+          "value": "a ribosome with several subunits"
+        },
+        {
+          "key": "D",
+          "value": "ribosomes attached to each other in a linear\narrangement "
+        }
+      ],
+      "answer": "A",
+      "explanation": "Polysome (Polyribosome) is a complex\nformed by several ribosomes attached to\na single mRNA molecule in the process of\ntranslation."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Which one of the following pairs of nitrogenous\nbases of nucleic acids, is wrongly matched with\nthe category mentioned against it? ",
+      "options": [
+        {
+          "key": "A",
+          "value": "Thymine, Uracil — Pyrimidines "
+        },
+        {
+          "key": "B",
+          "value": "Guanine, Adenine — Purines "
+        },
+        {
+          "key": "C",
+          "value": "Uracil, Cytosine — Pyrimidines "
+        },
+        {
+          "key": "D",
+          "value": "Adenine, Thymine — Purines"
+        }
+      ],
+      "answer": "D",
+      "explanation": "Purine is an organic nitrogenous base\nsparingly soluble in water, that gives rise to a\ngroup of biologically important derivatives,\nnotably adenine and guanine, which occur\nin nucleotides and nucleic acids (DNA and\nRNA)."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "In the DNA molecule: ",
+      "options": [
+        {
+          "key": "A",
+          "value": "the total amount of purine nucleotides and\npyrimidine nucleotides is not always equal "
+        },
+        {
+          "key": "B",
+          "value": "there are two strands which run antiparallel\none in 5'→ 3' direction and other in 3'→ 5'\n"
+        },
+        {
+          "key": "C",
+          "value": "there are two strands which run parallel in\nthe 5'→ 3' direction "
+        },
+        {
+          "key": "D",
+          "value": "the proportion of adenine in relation to\nthymine varies with the organism"
+        }
+      ],
+      "answer": "B",
+      "explanation": "In the DNA molecule, there are two\nstrands which run anti parallel one is 5' - 3'\ndirection and other in 3' -5' direction, the two\nchains are held together by hydrogen bonds\nbetween their bases. Adenine (A), a purine of\none chain his exactly opposite thymine (T),\na pyramidine of the other chain. Similarly,\ncytosine (C), a pyrimidine lies opposite\nguanine (G), a purine. This allows a sort\nof lock &amp; key arrangment between large\nsized purine &amp; small sized pyrimidine. It is\nstrengthened by the appearance of hydrogen\nbonds between the two."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Amino acid sequence, in protein synthesis is\ndecided by the sequence of -",
+      "options": [
+        {
+          "key": "A",
+          "value": "cDNA "
+        },
+        {
+          "key": "B",
+          "value": "mRNA "
+        },
+        {
+          "key": "C",
+          "value": "tRNA"
+        },
+        {
+          "key": "D",
+          "value": "rRNA"
+        }
+      ],
+      "answer": "B",
+      "explanation": "Messenger RNA or mRNA has been named\nso because it carries the coded information from DNA\nfor the synthesis of proteins. It carries the coded\ninformation in a number of base triplets called codons.\nIt is transcribed on DNA by the enzyme RNA\npolymerase. Hence, its base sequence is\ncomplementary to DNA on which it has been\nsynthesized. In eukaryotes each gene transcribes its\nown mRNA, therefore the number of mRNAs\ncorresponds to the number of genes. rRNA is a type\nof RNA that forms structural and functional\ncomponents of ribosomes. tRNA is a class of RNA\nhaving structures with triplet nucleotide sequences\nthat are complementary to the triplet nucleotide coding\nsequences of mRNA. It binds with amino acids and\ntransfers them to ribosomes.\n"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "One turn of the helix in a B-form DNA is\napproximately - ",
+      "options": [
+        {
+          "key": "A",
+          "value": "20 nm "
+        },
+        {
+          "key": "B",
+          "value": "3.4 nm "
+        },
+        {
+          "key": "C",
+          "value": "2 nm"
+        },
+        {
+          "key": "D",
+          "value": "0.34 nm "
+        }
+      ],
+      "answer": "B",
+      "explanation": "DNA or deoxyribose nucleic acid is the\nlargest macromolecule made of the helically twisted\ntwo antiparallel polydeoxyribonucleotide strands held\ntogether by hydrogen bonds. The two strands of DNA\nare together called DNA duplex. It has a diameter\nof 20Å. One turn spiral has a distance of 34 Å or\n3.4 nm.\n"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "One gene-one enzyme hypothesis was\npostulated by - ",
+      "options": [
+        {
+          "key": "A",
+          "value": "A.Garrod"
+        },
+        {
+          "key": "B",
+          "value": "Hershey and Chase "
+        },
+        {
+          "key": "C",
+          "value": "Beadle and Tatum"
+        },
+        {
+          "key": "D",
+          "value": "R. Franklin"
+        }
+      ],
+      "answer": "C",
+      "explanation": "In 1948, Beadle and Tatum proposed onegene one-enzyme hypothesis which states that a gene\ncontrols metabolic machinery of the organism through\nsynthesis of an enzyme. This laid the foundation of\nbiochemical genetics. Beadle and Tatum were\nawarded Nobel Prize in 1958. This one gene one\nenzyme theory has been changed to one gene one\npolypeptide hypothesis proposed by Yanofsky, i.e., one\ngene synthesizes one polypeptide and many\npolypeptides form one enzyme."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Antiparallel strands of a DNA molecule means\nthat- ",
+      "options": [
+        {
+          "key": "A",
+          "value": "The phosphate groups at the start of two\nDNA strands are in opposite position (pole)"
+        },
+        {
+          "key": "B",
+          "value": "One strand turns anti-clockwise "
+        },
+        {
+          "key": "C",
+          "value": "One strand turns clockwise "
+        },
+        {
+          "key": "D",
+          "value": "The phosphate groups of two DNA stands,\nat their ends, share the same position"
+        }
+      ],
+      "answer": "A",
+      "explanation": "Griffith’s experiment with Pneumococcus\nproves that DNA is the genetic material. It consists of a\nlong polymer of nucleotides which transcribes the\ncoded information in the form of a triplet code of\nnucleotides in mRNA. It is a double helical molecule.\nThe two strands of DNA run in opposite directions to\none another with the hydrogen bonds between them.\nOne strand of DNA has 5'-3' direction and the other\nstrand has 3'-5' direction. So they are antiparallel. This\ndirection is determined by the presence of a free\nphosphate or OH group at the end of the strand.\n"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Which antibiotic inhibits interaction between\ntRNA and mRNA during bacterial protein\nsynthesis ? ",
+      "options": [
+        {
+          "key": "A",
+          "value": "Neomycin "
+        },
+        {
+          "key": "B",
+          "value": "Erythromycin "
+        },
+        {
+          "key": "C",
+          "value": "Tetracycline"
+        },
+        {
+          "key": "D",
+          "value": "Streptomycin"
+        }
+      ],
+      "answer": "A",
+      "explanation": "Neomycin is the antibiotic which inhibits\nthe translation of bacterial cell so that it can\nnot affect the host cell."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "During transcription holoenzyme RNA\npolymerase binds to a DNA sequence and the\nDNA assumes a saddle like structure at the point.\nWhat is the sequence called ?",
+      "options": [
+        {
+          "key": "A",
+          "value": "TATA box "
+        },
+        {
+          "key": "B",
+          "value": "GGTT box "
+        },
+        {
+          "key": "C",
+          "value": "CAAT box "
+        },
+        {
+          "key": "D",
+          "value": "AAAT box"
+        }
+      ],
+      "answer": "A",
+      "explanation": "After 25 bases from start of transcription\npoint are TATA boxes. After 40 bases from TATA\nboxes appears CAAT boxes. Both of these sequences\nserve as recognition sites in eukaryotic promoters.\nTranscription in eukaryotic genes is a far more\ncomplicated process than in prokaryotes."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Which one of the following makes use of RNA\nas a template to synthesize DNA - ",
+      "options": [
+        {
+          "key": "A",
+          "value": "Reverse transcriptase "
+        },
+        {
+          "key": "B",
+          "value": "DNA dependant RNA polymerase "
+        },
+        {
+          "key": "C",
+          "value": "RNA polymerase"
+        },
+        {
+          "key": "D",
+          "value": "DNA polymerase "
+        }
+      ],
+      "answer": "A",
+      "explanation": "Reverse transcriptase (RNA dependent\nDNA polymerase) is present in some\nretroviruses eg. HIV virus."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Protein synthesis in an animal cell occurs - ",
+      "options": [
+        {
+          "key": "A",
+          "value": "On ribosomes present in the nucleolus as\nwell as in cytoplasm"
+        },
+        {
+          "key": "B",
+          "value": "On ribosomes presents in cytoplasm as well\nas in mitochondria "
+        },
+        {
+          "key": "C",
+          "value": "Only on the ribosomes present in cytosol "
+        },
+        {
+          "key": "D",
+          "value": "Only on ribosomes attached to the nuclear\nenvelope and endoplasmic reticulum "
+        }
+      ],
+      "answer": "B",
+      "explanation": "The mitochondria contains its own set of\nribosomes which synthesize proteins, so protein\nsynthesis occurs both in mitochondria and cytoplasm."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Which one of the following hydrolyses internal\nphosphodiester bonds in a polynucleotide chain ?",
+      "options": [
+        {
+          "key": "A",
+          "value": "protease "
+        },
+        {
+          "key": "B",
+          "value": "Endonuclease "
+        },
+        {
+          "key": "C",
+          "value": "Lipase "
+        },
+        {
+          "key": "D",
+          "value": "Exonuclease "
+        }
+      ],
+      "answer": "B",
+      "explanation": "Endonucleases hydrolyse internal\nphosphodiester bonds in a polynucleotide\nchain (DNA). While exonucleases hydrolyse\nterminal phosphodiester bonds in a\npolynucleotide chain (DNA)."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Using imprints from a plate with complete\nmedium and carrying bacterial colonies, you\ncan select streptomycin resistant mutants and\nprove that such mutations do not originates as\nadaptation. These imprints need to be used - ",
+      "options": [
+        {
+          "key": "A",
+          "value": "On plates with minimal medium "
+        },
+        {
+          "key": "B",
+          "value": "Only on plates with streptomycin"
+        },
+        {
+          "key": "C",
+          "value": "Only on plates without streptomycin "
+        },
+        {
+          "key": "D",
+          "value": "On plates with and without streptomycin "
+        }
+      ],
+      "answer": "B",
+      "explanation": "Adaptation is generally due to selection\nof pre-existing variations and not due to\nnew mutations or variations. This tends\nto support Darwin’s theory of natural\nselection. The basis was proved by replica\nplating experiment of Joshua Lederberg and\nEsther Lederberg. A number of sterile agar\nplates having antibiotic streptomycin were\nprepared. Bacteria were inoculated on the\nrenicilling plates from the master plate by\nsterile velvet plate. Most bacterial colonies\ndid not form replicas and inoculum died.\nMoreover a few colonies survived showing\nthat they were resistant to streptomycin."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Telomerase is an enzyme which is a - ",
+      "options": [
+        {
+          "key": "A",
+          "value": "RNA "
+        },
+        {
+          "key": "B",
+          "value": "Repetitive DNA "
+        },
+        {
+          "key": "C",
+          "value": "Simple protein "
+        },
+        {
+          "key": "D",
+          "value": "Ribonucleoprotein "
+        }
+      ],
+      "answer": "D",
+      "explanation": "Telomerase is a ribonucleoprotein which\nsynthesize the rich strand of telomers in\nDNA. Telomerase is an enzyme that adds\nspecific DNA sequence repeats (\"TTAGGG\"\nin all vertebrates) to the 3' (\"three prime\")\nend of DNA strands in the telomere regions,\nwhich are found at the ends of eukaryotic\nchromosomes. The telomeres contain\ncondensed DNA material, giving stability to\nthe chromosomes. The enzyme is a reverse\ntranscriptase that carries its own RNA\nmolecule, which is used as a template when\nit elongates telomeres, which are shortened\nafter each replication cycle. Telomerase was\ndiscovered by Carol W. Greider in 1984."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "E. coli cells with a mustard z gene of the lac\noperon cannot grow in medium containing only\nlactose as the source of energy because - ",
+      "options": [
+        {
+          "key": "A",
+          "value": "They cannot transport lactose from the\nmedium into the cell "
+        },
+        {
+          "key": "B",
+          "value": "They cannot synthesize functional beta\ngalactosidase "
+        },
+        {
+          "key": "C",
+          "value": "In the presence of glucose, E. coli cells do\nnot utilize lactose \n"
+        },
+        {
+          "key": "D",
+          "value": "The lac operon is constitutively active in\nthese cells "
+        }
+      ],
+      "answer": "B",
+      "explanation": "Operons are segments of genetic material\nwhich function as regulated unit or units that\ncan be switched on and switched off. An\noperon consists of one to several structural\ngenes. (Three in lac operon)<br>\n These are genes which produce mRNAs\nfor forming polypeptides / proteins / enzymes.\nZ (produces enzyme β galactosidase for\nsplitting lactose into glucose and galactose).\nY (produces enzyme galactoside permease\nrequired in entry of lactose) A (produces\nenzyme thiogalactoside trans- acetylase).<br>\n The three structural genes of the operon\nproduce a single polycistronic mRNA."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "After a mutation at a genetic locus the character\nof an organism changes due to the change in :- ",
+      "options": [
+        {
+          "key": "A",
+          "value": "Protein synthesis pattern"
+        },
+        {
+          "key": "B",
+          "value": "RNA transcription pattern"
+        },
+        {
+          "key": "C",
+          "value": "DNA replication "
+        },
+        {
+          "key": "D",
+          "value": "Protein structure "
+        }
+      ],
+      "answer": "D",
+      "explanation": "Change in genetic locus, changes the gene\nand in turn the amino acid it codes for. This\nalters the nature of protein synthesized which\nproduces change in the organism. DNA\nreplication is not affected neither the method\nof protein synthesis. Synthesis of RNA over\nDNA template is called transcription."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Which form of RNA has a structure resembling\nclover leaf ? ",
+      "options": [
+        {
+          "key": "A",
+          "value": "r-RNA"
+        },
+        {
+          "key": "B",
+          "value": "m-RNA"
+        },
+        {
+          "key": "C",
+          "value": "t-RNA "
+        },
+        {
+          "key": "D",
+          "value": "hn-RNA"
+        }
+      ],
+      "answer": "C",
+      "explanation": "rRNA occurs inside ribosomes. m\nRNA carries information from DNA to\npolypeptides. hnRNA are heterogenous\nnuclear RNA."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "In a mutational event, when adenine is replaced\nby guanine, it is a case of - ",
+      "options": [
+        {
+          "key": "A",
+          "value": "Frameshift mutation"
+        },
+        {
+          "key": "B",
+          "value": "Transition "
+        },
+        {
+          "key": "C",
+          "value": "Transversion "
+        },
+        {
+          "key": "D",
+          "value": "Transcription "
+        }
+      ],
+      "answer": "B",
+      "explanation": "In transition substitution a purine is\nreplaced by another purine base (A with G\nor vice versa). In transversion substitution\na purine is replaced by a pyrimidine base\nor vice versa. Frameshift mutation is a type\nof mutation where the reading of codons\nis changed due to insertion or deletion of\nnucleotides. Transition is the formation of\nRNA over the template of DNA."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The following ratio is generally constant for a\ngiven species :- ",
+      "options": [
+        {
+          "key": "A",
+          "value": "A + C / T + G "
+        },
+        {
+          "key": "B",
+          "value": "G + C / A+ T"
+        },
+        {
+          "key": "C",
+          "value": "A + G / C +T "
+        },
+        {
+          "key": "D",
+          "value": "T + C / G + A "
+        }
+      ],
+      "answer": "B",
+      "explanation": "According to Chargaff purines and\npyrimidines are in equal amounts. Purine\n(adenine) is equimolar with pyrimidine\n(thymine) and purine (guanine) is equimolar\nwith pyrimidine (cytosine). <br>\nBase ratio $${{A + T} \\over {C + G}}$$ is specific for species."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Which one of the following triplet codes, is\ncorrectly matched with its specificity for an\namino acid in protein synthesis or as 'start' or\n'stop' codon ?",
+      "options": [
+        {
+          "key": "A",
+          "value": "UUU – Stop"
+        },
+        {
+          "key": "B",
+          "value": "UAC – Tyrosine "
+        },
+        {
+          "key": "C",
+          "value": "UGU – Leucine "
+        },
+        {
+          "key": "D",
+          "value": "UCG – Start"
+        }
+      ],
+      "answer": "B",
+      "explanation": "AUG is initiating codon. UCG codes\nfor serine, UUU codes for phenylalan, UGU\ncodes for cysteine."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "What does \"lac\" refer to in what we call the lac\noperon ?",
+      "options": [
+        {
+          "key": "A",
+          "value": "The number 1,00,000"
+        },
+        {
+          "key": "B",
+          "value": "Lac insect "
+        },
+        {
+          "key": "C",
+          "value": "Lactase "
+        },
+        {
+          "key": "D",
+          "value": "Lactose"
+        }
+      ],
+      "answer": "D",
+      "explanation": "Lactose operon in E.coli is a catabolic\npathway in which the structural genes remain\nswitched off unless the inducer (Lactose) is\npresent in the medium.\n"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "During transcription, the DNA site at which\nRNA polymerase binds is called :-",
+      "options": [
+        {
+          "key": "A",
+          "value": "Receptor "
+        },
+        {
+          "key": "B",
+          "value": "Regulator"
+        },
+        {
+          "key": "C",
+          "value": "Enhancer "
+        },
+        {
+          "key": "D",
+          "value": "Promoter"
+        }
+      ],
+      "answer": "D",
+      "explanation": "Regulator is a gene which forms a\nbiochemical for suppressing the activity of\noperator gene. Promoter is the gene which\nprovides the point of attachment to RNA\npolymerase required for transcription of\nstructural genes."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Degeneration of a genetic code is attributed to\nthe : - ",
+      "options": [
+        {
+          "key": "A",
+          "value": "Second member of a codon "
+        },
+        {
+          "key": "B",
+          "value": "Third member of a codon "
+        },
+        {
+          "key": "C",
+          "value": "First member of a codon"
+        },
+        {
+          "key": "D",
+          "value": "Entire codon "
+        }
+      ],
+      "answer": "B",
+      "explanation": "According to the Wobble hypothesis,\ntRNA anticodon has the ability to wobble\nat its 5′ end by pairing with even noncomplementary base of mRNA codon. It\ncorrespond to third base degeneracy of the\ncodons."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "What would happen if in a gene encoding a\npolypeptide of 50 amino acids, 25th codon\n(UAU) is mutated to UAA ?",
+      "options": [
+        {
+          "key": "A",
+          "value": "A polypeptide of 49 amino acids will be\nformed "
+        },
+        {
+          "key": "B",
+          "value": "A polypeptide of 25 amino acids will be\nformed "
+        },
+        {
+          "key": "C",
+          "value": "Two polypeptides of 24 and 25 amino acids\nwill be formed"
+        },
+        {
+          "key": "D",
+          "value": "A polypeptide of 24 amino acids will be\nformed "
+        }
+      ],
+      "answer": "D",
+      "explanation": "UGA, UAG and UAA are three non sense\n(or termination) codon which do not code for any\namino acid. If in a gene encoding a polypeptide of 50\namino acid, 25<sup>th</sup> codon is mutated to UAA or any of\nthe termination codon, then the chain will be\nterminated at that place because it will become\ndifficult for tRNA to bring amino acid from amino\nacid pool. So in that case a polypeptide of 24 amino\nacids will be formed.\n"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "In the genetic code dictionary, how many\ncodons are used to code for all the 20 essential\namino acids : -",
+      "options": [
+        {
+          "key": "A",
+          "value": "64 "
+        },
+        {
+          "key": "B",
+          "value": "20 "
+        },
+        {
+          "key": "C",
+          "value": "60 "
+        },
+        {
+          "key": "D",
+          "value": "61 "
+        }
+      ],
+      "answer": "D",
+      "explanation": "Out of a total of 64 codons, 3 codons do\nnot make any sense. Hence only 61 codons \nare used in the formation of the 20 essential\namino acids (polypeptides).\n"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "During translation initiation in prokaryotes, a\nGTP molecule is needed in : - ",
+      "options": [
+        {
+          "key": "A",
+          "value": "Association of 30S mRNA with formy-lmet-tRNA "
+        },
+        {
+          "key": "B",
+          "value": "Formation of formyl-met-tRNA "
+        },
+        {
+          "key": "C",
+          "value": "Association of 50S subunit of ribosome\nwith initiation complex "
+        },
+        {
+          "key": "D",
+          "value": "Binding of 30S subunit of ribosome with\nmRNA "
+        }
+      ],
+      "answer": "A",
+      "explanation": "For the formation of initiation complex\nduring translation of mRNA, GTP is also\nrequired. The initiator AUG codes for the\nformylmethionine in prokaryotes."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Which of the following reunites the exon\nsegments after RNA splicing ?",
+      "options": [
+        {
+          "key": "A",
+          "value": "RNA polymerase "
+        },
+        {
+          "key": "B",
+          "value": "RNA proteases"
+        },
+        {
+          "key": "C",
+          "value": "RNA primase "
+        },
+        {
+          "key": "D",
+          "value": "RNA ligase"
+        }
+      ],
+      "answer": "D",
+      "explanation": "RNA polymerase enzyme catalyses the\nsynthesis of RNA. It is single in prokaryotes. There\nare three types of RNA polymerases in eukaryotes– I\nfor 28S, 18S and 5.8S RNA, II for mRNA and snRNA\nand III for tRNA, 5S RNA and scRNA. Primase is an\nRNA polymerase that is used to initiate DNA\nsynthesis. RNA ligase reunites the exon segment after\nRNA splicing.\n"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "In a DNA percentage of thymine is 20% then\nwhat is the percentage of guanine : - ",
+      "options": [
+        {
+          "key": "A",
+          "value": "40%"
+        },
+        {
+          "key": "B",
+          "value": "20% "
+        },
+        {
+          "key": "C",
+          "value": "30%"
+        },
+        {
+          "key": "D",
+          "value": "60%"
+        }
+      ],
+      "answer": "C",
+      "explanation": "In a DNA, the percentage of thymine is 20%.\nSo, as it pairs with adenine, it is also 20%. So the\nguanine and cytosine together forms 60% of DNA\nand hence, guanine is 30%."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Jacob and Monad studied lactose metabolism in\nE.Coli and proposed operon concept. Operon\nconcept applicable for : ",
+      "options": [
+        {
+          "key": "A",
+          "value": "All prokaryotes and all eukaryotes "
+        },
+        {
+          "key": "B",
+          "value": "All prokaryotes and some protozoanes "
+        },
+        {
+          "key": "C",
+          "value": "All prokaryotes "
+        },
+        {
+          "key": "D",
+          "value": "All prokaryotes and some eukaryotes "
+        }
+      ],
+      "answer": "A",
+      "explanation": "Gene regulation of eukaryotes is\ncomplex as compared to that of prokaryotes."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Transformation experiment was first performed\non which bacteria : - ",
+      "options": [
+        {
+          "key": "A",
+          "value": "Diplococcus pneumoniae "
+        },
+        {
+          "key": "B",
+          "value": "Pasteurella pestis"
+        },
+        {
+          "key": "C",
+          "value": "E. coli"
+        },
+        {
+          "key": "D",
+          "value": "Salmonella"
+        }
+      ],
+      "answer": "A",
+      "explanation": "Transformation involves transfer of genetic\nmaterial of one bacterial cell into another bacterial\ncell by some unknown mechanism and it converts one\ntype of bacterium into another type. This was first\nstudied by Griffith (1928) in Diplococcus pneumoniae\nand hence is known as Griffith effect.\n"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Exon part of m-RNAs have code for : - ",
+      "options": [
+        {
+          "key": "A",
+          "value": "Lipid "
+        },
+        {
+          "key": "B",
+          "value": "Protein"
+        },
+        {
+          "key": "C",
+          "value": "Phospholipid "
+        },
+        {
+          "key": "D",
+          "value": "Carbohydrate "
+        }
+      ],
+      "answer": "B",
+      "explanation": "DNA transcribes to form mRNA. Its function\nis to carry coded information from DNA for the\nsynthesis of proteins. The RNA consists of a coding\nregion called exon and non-coding region called\nintrons. The exons are thus the functional part that\nhave code for proteins.\n"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Which of the following enzymes are used to join\nbits of DNA ?",
+      "options": [
+        {
+          "key": "A",
+          "value": "Endonuclease "
+        },
+        {
+          "key": "B",
+          "value": "DNA polymerase "
+        },
+        {
+          "key": "C",
+          "value": "Ligase"
+        },
+        {
+          "key": "D",
+          "value": "Primase "
+        }
+      ],
+      "answer": "C",
+      "explanation": "Ligases are used to join bits of DNA.\nPrimase is an RNA polymerase, used to initiate DNA\nsynthesis. DNA polymerase enzyme catalyses the\nsynthesis of DNA. Endonuclease, causes the splicing\nof the intron carrying the coding sequence of the same\nendonuclease.\n"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Change in sequence of nucleotide in DNA is\ncalled as - ",
+      "options": [
+        {
+          "key": "A",
+          "value": "Recombination"
+        },
+        {
+          "key": "B",
+          "value": "Mutation "
+        },
+        {
+          "key": "C",
+          "value": "Mutagen"
+        },
+        {
+          "key": "D",
+          "value": "Translation"
+        }
+      ],
+      "answer": "B",
+      "explanation": "A mutation involves a change in the\nsequence of nucleotides in a nucleic acid molecule.\nThis change will express itself in the form of a change\nin the sequence of aminoacids in the protein molecule\nsynthesized through the information, encoded in\nnucleic acid segment. Therefore mutations at\nmolecule level can be studied both by the study of\nthe sequence of amino acids in a protein and also by\nthe study of sequence of nucleotides in a segment of\nnucleic acid.\n"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Out of 64 codons, 61 codons code for 20 types\nof amino acid it is called : - ",
+      "options": [
+        {
+          "key": "A",
+          "value": "Wobbling of codon "
+        },
+        {
+          "key": "B",
+          "value": "Universility of codons"
+        },
+        {
+          "key": "C",
+          "value": "Overlapping of gene "
+        },
+        {
+          "key": "D",
+          "value": "Degeneracy of genetic code "
+        }
+      ],
+      "answer": "D",
+      "explanation": "Out of 64 codons, only 3 signify stop\ncodons. There are more than one codon\nfor most of the amino acids, the genetic\ncode is non-over lapping. Three successive\nnucleotides or bases code for only one\namino acid wobbling refers to the third base\ndegeneracy."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Types of RNA polymerase required in nucleus\nfor RNA synthesis : - ",
+      "options": [
+        {
+          "key": "A",
+          "value": "2"
+        },
+        {
+          "key": "B",
+          "value": "3 "
+        },
+        {
+          "key": "C",
+          "value": "1 "
+        },
+        {
+          "key": "D",
+          "value": "4 "
+        }
+      ],
+      "answer": "B",
+      "explanation": "RNA polymerase enzyme catalyses the\nsynthesis of RNA. It is single in prokaryotes. There\nare three types of RNA polymerases in eukaryotes– I\nfor 28S, 18S and 5.8S RNA, II for mRNA and snRNA\nand III for tRNA, 5S RNA and scRNA. Primase is an\nRNA polymerase that is used to initiate DNA\nsynthesis. RNA ligase reunites the exon segment after\nRNA splicing.\n"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Gene and cistron words are sometimes used\nsynonymously because : - ",
+      "options": [
+        {
+          "key": "A",
+          "value": "One gene contains one cistron"
+        },
+        {
+          "key": "B",
+          "value": "One cistron contains many gene"
+        },
+        {
+          "key": "C",
+          "value": "One gene contains no cistron \n"
+        },
+        {
+          "key": "D",
+          "value": "One gene contains many cistrons "
+        }
+      ],
+      "answer": "A",
+      "explanation": "Cistron is that segment of DNA which\nspecifies synthesis of a polypeptide."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "In Negative operon : - ",
+      "options": [
+        {
+          "key": "A",
+          "value": "CAMP have negative effect on lac operon "
+        },
+        {
+          "key": "B",
+          "value": "Co-repressor binds with inducer "
+        },
+        {
+          "key": "C",
+          "value": "Co-repressor binds with repressor"
+        },
+        {
+          "key": "D",
+          "value": "Co-repressor does not binds with repressor"
+        }
+      ],
+      "answer": "C",
+      "explanation": "In negative (repressible) operon, the\nrepressor co-repressor complex binds with\nthe operator. The free repressor cannot bind\nto the operator."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "m-RNA is synthesised on DNA template in\nwhich direction : - ",
+      "options": [
+        {
+          "key": "A",
+          "value": "Any"
+        },
+        {
+          "key": "B",
+          "value": "Both (c) and (d)"
+        },
+        {
+          "key": "C",
+          "value": "5' → 3' "
+        },
+        {
+          "key": "D",
+          "value": "3' → 5' "
+        }
+      ],
+      "answer": "C",
+      "explanation": "The enzyme polymerase can synthesize\nthe bases only in 5′→3′direction."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Similarity in DNA and RNA : ",
+      "options": [
+        {
+          "key": "A",
+          "value": "Both have similar sugar "
+        },
+        {
+          "key": "B",
+          "value": "Both are genetic material "
+        },
+        {
+          "key": "C",
+          "value": "Both have similar pyrimidine"
+        },
+        {
+          "key": "D",
+          "value": "Both are polymer of nucleotides "
+        }
+      ],
+      "answer": "D",
+      "explanation": "Deoxyribonucleic acid and ribonucleic acid\nas the name suggests are made up of several\nnucleotide monomers. Each nucleotide consists of\npentose sugar, phosphate group and nitrogenous\nbases. DNA has deoxyribose sugar whereas RNA has\nribose sugar. The bases in DNA molecule are A, T, G\nand C whereas in RNA, thymine is absent and instead\nuracil is found.\n"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Anticodon occurs in : ",
+      "options": [
+        {
+          "key": "A",
+          "value": "DNA"
+        },
+        {
+          "key": "B",
+          "value": "r-RNA"
+        },
+        {
+          "key": "C",
+          "value": "t-RNA"
+        },
+        {
+          "key": "D",
+          "value": "m-RNA"
+        }
+      ],
+      "answer": "C",
+      "explanation": "tRNA works as an adaptor molecules for\ncarrying amino acid to the mRNA templated during protein synthesis. It bears anticodon\nand recognizes the specific codon on mRNA.\n"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "In three dimensional view the molecule of\nt-RNA is : ",
+      "options": [
+        {
+          "key": "A",
+          "value": "E-shaped "
+        },
+        {
+          "key": "B",
+          "value": "L-shaped"
+        },
+        {
+          "key": "C",
+          "value": "S-shaped "
+        },
+        {
+          "key": "D",
+          "value": "Y-shaped "
+        }
+      ],
+      "answer": "B",
+      "explanation": "3-D model of tRNA looks like flattened\nL-shaped molecule.<br>\ntRNA acts as adapter molecule which carries\namino acids to the site of protein synthesis\n(i.e., ribosomes). Most accepted model for tRNA\nstructure is clover leaf model."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Length of one loop of B- DNA :",
+      "options": [
+        {
+          "key": "A",
+          "value": "20 nm. "
+        },
+        {
+          "key": "B",
+          "value": "10 nm. "
+        },
+        {
+          "key": "C",
+          "value": "3.4 nm. "
+        },
+        {
+          "key": "D",
+          "value": "0.34 nm. "
+        }
+      ],
+      "answer": "C",
+      "explanation": "B-DNA is an antiparallel double helix.\nThe double strand or duplex is coiled\nplectonemically in right handed fashion around a\ncommon axis like a rope stair case twisted in a\nspiral. The coiling produces alternate major and\nminor grooves. One turn of spiral has a distance\nbetween two adjacent nucleotides is 3.4 nm."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Method of DNA replication in which two\nstrands of DNA separates and synthesize new\nstrands ",
+      "options": [
+        {
+          "key": "A",
+          "value": "Conservative "
+        },
+        {
+          "key": "B",
+          "value": "Non conservative"
+        },
+        {
+          "key": "C",
+          "value": "Dispersive"
+        },
+        {
+          "key": "D",
+          "value": "Semiconservative"
+        }
+      ],
+      "answer": "D",
+      "explanation": "The method of DNA replication is semiconservative. According to the semi-conservative\nmodel proposed by Watson and Crick, each strand of\nthe two double helices formed would have one old\nand one new strand. So, the parental identity is\nconserved upto half extent and hence DNA replication\nis semi-conservative.\n"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Which of the following is initiation codon ?",
+      "options": [
+        {
+          "key": "A",
+          "value": "AUC "
+        },
+        {
+          "key": "B",
+          "value": "CCU"
+        },
+        {
+          "key": "C",
+          "value": "UAG "
+        },
+        {
+          "key": "D",
+          "value": "AUG"
+        }
+      ],
+      "answer": "D",
+      "explanation": "The initiation codon is the codon which\ninitiates the protein synthesis. They are AUG\nfor methionine and GUG for valine."
+    }
+  ]
+}

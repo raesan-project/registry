@@ -1,0 +1,115 @@
+{
+  "_index": {
+    "name": "Gravitation"
+  },
+  "_children": [
+    {
+      "_type": "single_mcq",
+      "body": "<p>A particle of mass $m$ is under the influence of the gravitational field of a body of mass $M(\\gg m)$. The particle is moving in a circular orbit of radius $r_0$ with time period $T_0$ around the mass $M$. Then, the particle is subjected to an additional central force, corresponding to the potential energy $V_{\\mathrm{c}}(r)=m \\alpha / r^3$, where $\\alpha$ is a positive constant of suitable dimensions and $r$ is the distance from the center of the orbit. If the particle moves in the same circular orbit of radius $r_0$ in the combined gravitational potential due to $M$ and $V_{\\mathrm{c}}(r)$, but with a new time period $T_1$, then $\\left(T_1^2-T_0^2\\right) / T_1^2$ is given by</p>\n\n<p>[G is the gravitational constant.]</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "$\\frac{3 \\alpha}{G M r_0^2}$"
+        },
+        {
+          "key": "B",
+          "value": "$\\frac{\\alpha}{2 G M r_0^2}$"
+        },
+        {
+          "key": "C",
+          "value": "$\\frac{\\alpha}{G M r_0^2}$"
+        },
+        {
+          "key": "D",
+          "value": "$\\frac{2 \\alpha}{G M r_0^2}$"
+        }
+      ],
+      "answer": "A",
+      "explanation": "<p>To find the effect of an additional central force on the time period of a particle in a circular orbit, consider the following:</p>\n\n<p><p><strong>Initial Gravitational Force ($F_1$):</strong></p>\n<p>The force due to gravity for a particle in a circular orbit of radius $r_0$ is given by:</p>\n<p>$    F_1 = \\frac{GMm}{r_0^2}    $</p>\n<p>where $ G $ is the gravitational constant, $ M $ is the mass of the central body, and $ m $ is the mass of the particle.</p></p>\n<p><p><strong>Modified Force with Additional Potential ($F_2$):</strong></p>\n<p>When an additional force derived from the potential energy $ V_{\\mathrm{c}}(r) = \\frac{m\\alpha}{r^3} $ acts on the particle, the effective central force becomes:</p>\n<p>$    F_2 = \\frac{GMm}{r_0^2} - \\frac{3m\\alpha}{r_0^4}    $</p></p>\n<p><p><strong>Relation of Angular Velocities:</strong></p>\n<p>The ratio of squares of the angular velocities ($\\omega_0$ and $\\omega_1$) before and after the additional force is:</p>\n<p>$    \\frac{\\omega_1^2}{\\omega_0^2} = \\frac{F_2}{F_1} = \\frac{\\frac{GM}{r_0^2} - \\frac{3\\alpha}{r_0^4}}{\\frac{GM}{r_0^2}}    $</p></p>\n<p><p><strong>Relating Time Periods:</strong></p>\n<p>Since the angular velocity is inversely proportional to the time period, $\\frac{\\omega_1^2}{\\omega_0^2} = \\frac{T_0^2}{T_1^2}$. Thus, we have:</p>\n<p>$    \\frac{T_0^2}{T_1^2} = 1 - \\frac{3\\alpha}{GMr_0^2}    $</p></p>\n<p><p><strong>Find the Change in Time Period:</strong></p>\n<p>The expression for the change in the square of the time periods is:</p>\n<p>$    \\frac{T_1^2 - T_0^2}{T_1^2} = \\frac{3\\alpha}{GMr_0^2}    $</p></p>\n\n<p>This shows how the additional central force, represented by the potential $ V_{\\mathrm{c}}(r) = \\frac{m\\alpha}{r^3} $, affects the particle’s orbital period when combined with the gravitational field of the mass $ M $.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Two satellites $\\mathrm{P}$ and $\\mathrm{Q}$ are moving in different circular orbits around the Earth (radius $R$ ). The heights of $\\mathrm{P}$ and $\\mathrm{Q}$ from the Earth surface are $h_{\\mathrm{P}}$ and $h_{\\mathrm{Q}}$, respectively, where $h_{\\mathrm{P}}=R / 3$. The accelerations of $\\mathrm{P}$ and $\\mathrm{Q}$ due to Earth's gravity are $g_{\\mathrm{P}}$ and $g_{\\mathrm{Q}}$, respectively. If $g_{\\mathrm{P}} / g_{\\mathrm{Q}}=36 / 25$, what is the value of $h_{\\mathrm{Q}}$ ?",
+      "options": [
+        {
+          "key": "A",
+          "value": "$\\frac{3 R}{5}$"
+        },
+        {
+          "key": "B",
+          "value": "$\\frac{R}{6}$"
+        },
+        {
+          "key": "C",
+          "value": "$\\frac{6 R}{5}$"
+        },
+        {
+          "key": "D",
+          "value": "$\\frac{5 R}{5}$"
+        }
+      ],
+      "answer": "A",
+      "explanation": "<p>The formula to calculate the acceleration due to gravity at a height ( h ) from the surface of the Earth is expressed as :\n<br/><br/>$ g = \\frac{G M_e}{(R_e + h)^2} $</p>\n<p>To find the ratio of gravitational acceleration at two different heights ( h_P ) and ( h_Q ) above the Earth&#39;s surface, use the formula for each and form a ratio :\n<br/><br/>$ \\frac{g_P}{g_Q} = \\frac{\\frac{G M_e}{(R_e + h_P)^2}}{\\frac{G M_e}{(R_e + h_Q)^2}} = \\frac{(R_e + h_Q)^2}{(R_e + h_P)^2} $</p>\n<p>Given $ h_P = \\frac{R_e}{3} $, the ratio simplifies to:\n<br/><br/>$ \\frac{g_P}{g_Q} = \\frac{(R_e + h_Q)^2}{(R_e + \\frac{R_e}{3})^2} = \\frac{36}{25} $</p>\n<p>Solving for $ h_Q $ in terms of $ R_e $ yields $ h_Q = \\frac{3R_e}{5} $.</p>\n"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A satellite is moving with a constant speed ‘V’ in a circular orbit about the earth. An object of mass ‘m’ is\nejected from the satellite such that it just escapes from the gravitational pull of the earth. At the time of its\nejection, the kinetic energy of the object is",
+      "options": [
+        {
+          "key": "A",
+          "value": "$${1 \\over 2}m{V^2}$$"
+        },
+        {
+          "key": "B",
+          "value": "$$m{V^2}$$"
+        },
+        {
+          "key": "C",
+          "value": "$${3 \\over 2}m{V^2}$$"
+        },
+        {
+          "key": "D",
+          "value": "$$2m{V^2}$$"
+        }
+      ],
+      "answer": "B",
+      "explanation": "<p>A particle escapes from the gravitational pull if its total energy (T) i.e., sum of kinetic energy (K) and potential energy (U), is greater than or equal to zero. The condition for just escape T = K + U = 0 i.e.,</p>\n<p>K = $$-$$ U. .............. (1)</p>\n<p>In a circular orbit of radius r, gravitational attraction provides the centripetal acceleration, mV<sup>2</sup>/r = GMm/r<sup>2</sup>, which gives</p>\n<p>$$r = {{GM} \\over {{V^2}}}$$ ........ (2)</p>\n<p>From equations (1) and (2), the kinetic energy of the particle at the time of injection is given by</p>\n<p>$$K =  - U =  - \\left( { - {{GMm} \\over r}} \\right) = {{GMm} \\over {GM/{V^2}}} = m{V^2}$$.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>STATEMENT - 1</p>\n<p>An astronaut in an orbiting space station above the Earth experiences weightlessness.</p>\n<p>and</p>\n<p>STATEMENT - 2</p>\n<p>An object moving around the Earth under the influence of Earth's gravitational force is in a state of 'free-fall'.</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "Statement - 1 is True, Statement - 2 is True; Statement - 2 is a correct explanation for Statement - 1"
+        },
+        {
+          "key": "B",
+          "value": "Statement - 1 is True, Statement - 2 is True; Statement - 2 is NOT a correct explanation for Statement - 1"
+        },
+        {
+          "key": "C",
+          "value": "Statement - 1 is True, Statement - 2 is False"
+        },
+        {
+          "key": "D",
+          "value": "Statement - 1 is False, Statement - 2 is True"
+        }
+      ],
+      "answer": "A",
+      "explanation": "<p>1<sup>st</sup> Method : The normal force exerted by the astronaut on the orbiting space station is zero. Therefore, the apparent weight of astronaut in the orbiting space station is zero. Astronaut is called in a state of weightlessness. Why because astronaut as well as space ship are free falling bodies. Statement - I is true, Statement - 2 is true and Statement - 2 is the correct explanation of Statement - 1.</p>\n<p>2<sup>nd</sup> method : For the body to follow circular path, there must be a centripetal force. Here the astronaut is inside the satellites which is revolving around the earth under the influence of the earth's gravitation. Thus, the earth's gravitation acts as a centripetal force and the net force on the astronaut is zero.</p>\n<p>Statement - 2 is right explanation of 1.</p>"
+    },
+    {
+      "_type": "numerical",
+      "body": "The distance between two stars of masses 3M<sub>S</sub> and 6M<sub>S</sub> is 9R. Here R is the mean distance between the centers of the Earth and the Sun, and M<sub>S</sub> is the mass of the Sun. The two stars orbit around their common center of mass in circular orbits with period nT, where T is the period of Earth's revolution around the Sun. The value of n is __________.",
+      "answer": "9",
+      "explanation": "For earth-sun system,<br/><br/>$$T_0^2 = {{4{\\pi ^2}} \\over {G{M_S}}} \\times {R^3}$$ ..... (i)<br/><br/>For binary system<br/><br/>$${T^2} = {{4{\\pi ^2}} \\over {G[3{M_S} + 6{M_S}]}} \\times {(9R)^3}$$ .... (ii)<br/><br/>Using Eqs. (i) and (ii), we get<br/><br/>T = 9T<sub>0</sub><br/><br/>So, n = 9"
+    },
+    {
+      "_type": "numerical",
+      "body": "Gravitational acceleration on the surface of a planet is $${{\\sqrt 6 } \\over {11}}g$$, where $$g$$ is the gravitational acceleration on\nthe surface of the earth. The average mass density of the planet is $${2 \\over 3}$$\ntimes that of the earth. If the escape\nspeed on the surface of the earth is taken to be 11 kms<sup>-1</sup>, the escape speed on the surface of the planet in\nkms<sup>-1</sup> will be",
+      "answer": "3",
+      "explanation": "<p>On the planet,</p>\n<p>$${g_p} = {{G{M_p}} \\over {R_p^2}} = {G \\over {R_p^2}}\\left( {{4 \\over 3}\\pi R_p^3{\\rho _p}} \\right) = {4 \\over 3}G\\pi R_p^{}{\\rho _p}$$</p>\n<p>On the earth,</p>\n<p>$${g_e} = {{G{M_e}} \\over {R_e^2}} = {G \\over {R_e^2}}\\left( {{4 \\over 3}\\pi R_e^3{\\rho _e}} \\right) = {4 \\over 3}G\\pi R_e^{}{\\rho _e}$$</p>\n<p>$$\\therefore$$ $${{{g_p}} \\over {{g_e}}} = {{R_p^{}{\\rho _p}} \\over {R_e^{}{\\rho _e}}}$$ or $${{{R_p}} \\over {{R_e}}} = {{g_p^{}{\\rho _p}} \\over {g_e^{}{\\rho _e}}}$$ ..... (i)</p>\n<p>On the planet, $${v_p} = \\sqrt {2{g_p}{R_p}} $$</p>\n<p>On the earth, $${v_e} = \\sqrt {2{g_e}{R_e}} $$</p>\n<p>$$\\therefore$$ $${{{v_p}} \\over {{v_e}}} = \\sqrt {{{{g_p}{R_p}} \\over {{g_e}{R_e}}}}  = {{{g_p}} \\over {{g_e}}}\\sqrt {{{{\\rho _e}} \\over {{\\rho _p}}}} $$ (Using (i))</p>\n<p>Here, $${\\rho _p} = {2 \\over 3}{\\rho _e}$$, $${g_p} = {{\\sqrt 6 } \\over {11}}{g_e}$$</p>\n<p>$$\\therefore$$ $${{{v_p}} \\over {{v_e}}} = {{\\sqrt 6 } \\over {11}}\\sqrt {{3 \\over 2}} $$</p>\n<p>or, $${v_p} = 11 \\times {{\\sqrt 6 } \\over {11}} \\times \\sqrt {{3 \\over 2}} $$ ($$\\because$$ v<sub>e</sub> = 11 km s<sup>$$-$$1</sup> (Given))</p>\n<p>= 3 km s<sup>$$-$$1</sup></p>"
+    }
+  ]
+}

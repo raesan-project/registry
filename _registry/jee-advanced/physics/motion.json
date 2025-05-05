@@ -1,0 +1,145 @@
+{
+  "_index": {
+    "name": "Motion"
+  },
+  "_children": [
+    {
+      "_type": "numerical",
+      "body": "<p>A projectile is fired from horizontal ground with speed $v$ and projection angle $\\theta$. When the acceleration due to gravity is $g$, the range of the projectile is $d$. If at the highest point in its trajectory, the projectile enters a different region where the effective acceleration due to gravity is $g^{\\prime}=\\frac{g}{0.81}$, then the new range is $d^{\\prime}=n d$. The value of $n$ is ___________ .</p>",
+      "answer": "0.93TO0.97",
+      "explanation": "$d=\\frac{u^{2} \\sin 2 \\theta}{g}$\n<br/><br/>\n$$\nH=\\frac{u^{2} \\sin ^{2} \\theta}{2 g}\n$$\n<br/><br/>\nSo, after entering in the new region, time taken by projectile to reach ground\n<br/><br/>\n$$\n\\begin{aligned}\nt &=\\sqrt{\\frac{2 H}{g^{\\prime}}} \\\\\\\\\n&=\\sqrt{\\frac{2 u^{2} \\sin ^{2} \\theta \\times 0.81}{2 g \\times g}} \\\\\\\\\n&=\\frac{0.94 \\sin \\theta}{g}\n\\end{aligned}\n$$\n<br/><br/>\nSo, horizontal displacement done by the projectile in new region is\n<br/><br/>\n$$\n\\begin{aligned}\n& x=\\frac{0.9 u \\sin \\theta}{g} \\times u \\cos \\theta\n\\end{aligned}\n$$\n<br/><br/>\n$$\n\\begin{aligned}\nx &=\\frac{0.9 u \\sin \\theta}{g} \\times u \\\\\\\\\n&=0.9 \\frac{u^{2} \\sin 2 \\theta}{2 g}\n\\end{aligned}\n$$\n<br/><br/>\nSo, $d^{\\prime}=\\frac{d}{2}+x$\n<br/><br/>\n$$\n=0.95 d\n$$\n<br/><br/>\nSo, $n=0.95 d$"
+    },
+    {
+      "_type": "numerical",
+      "body": "A ball is projected from the ground at an angle of $${45^o}$$ with the horizontal surface. It reaches a maximum height of $$120$$ $$m$$ and returns to the ground. Upon hitting the ground for the first time, it loses half of its kinetic energy. Immediately after the bounce, the velocity of the ball makes an angle of $${30^o}$$  with the horizontal surface. The maximium height it reaches after the bounce, in <i>metres,</i> is ______________. ",
+      "answer": "30",
+      "explanation": "<p>$$H = {{{u^2}{{\\sin }^2}(45^\\circ )} \\over {2g}} = 120$$ m</p>\n<p>$$ \\Rightarrow {{{u^2}} \\over {4g}} = 120$$ m</p>\n<p>If speed is v after the first collision, then speed should remain $${1 \\over {\\sqrt 2 }}$$ times, because kinetic energy has reduced to half.</p>\n<p>$$ \\Rightarrow v = {u \\over {\\sqrt 2 }}$$</p>\n<p>$$ \\Rightarrow {h_{\\max }} = {{{v^2}{{\\sin }^2}(30^\\circ )} \\over {2g}}$$</p>\n<p>$$ \\Rightarrow {h_{\\max }} = {{{{\\left( {{u \\over {\\sqrt 2 }}} \\right)}^2}{{\\sin }^2}(30^\\circ )} \\over {2g}}$$</p>\n<p>$$ \\Rightarrow {h_{\\max }} = \\left( {{{{u^2}/4g} \\over 4}} \\right) = {{120} \\over 4}$$</p>\n<p>$$ \\Rightarrow {h_{\\max }} = 30$$ m</p>"
+    },
+    {
+      "_type": "numerical",
+      "body": "A train is moving along a straight line with a constant acceleration 'a'. A boy standing in the train throws a\nball forward with a speed of 10 m/s, at an angle of $$60^\\circ $$ to the horizontal. The boy has to move forward by\n1.15 m inside the train to catch the ball back at the initial height. The acceleration of the train, in m/s<sup>2</sup>, is",
+      "answer": "5",
+      "explanation": "<p>u = 10 ms<sup>$$-$$1</sup>, $$\\theta$$ = 60$$^\\circ$$</p>\n<p>Time of flight is</p>\n<p>$$t = {{2u\\sin \\theta } \\over g} = {{2 \\times 10 \\times \\sin 60^\\circ } \\over {10}} = \\sqrt 3 \\,s$$</p>\n<p>Let v be the velocity of the train. The horizontal velocity of ball at the instant it is thrown $$ = (v + {u_x}) = (v + u\\cos \\theta )$$. Therefore, the horizontal range of the ball with respect to the ground is</p>\n<p>$$R = (v + u\\cos \\theta )t$$, where $$t = \\sqrt 3 \\,s$$</p>\n<p>It is clear that</p>\n<p>Distance travelled by ball in time $$t + 1.15 = R$$</p>\n<p>i.e. $$vt + {1 \\over 2}a{t^2} + 1.15 = (v + u\\cos \\theta )t$$</p>\n<p>$$ \\Rightarrow {1 \\over 2}a{t^2} + 1.15 = (u\\cos \\theta )t$$</p>\n<p>$$ \\Rightarrow {1 \\over 2}a \\times {(\\sqrt 3 )^2} + 1.15 = (10\\cos 60^\\circ ) \\times \\sqrt 3 $$</p>\n<p>$$ \\Rightarrow a = 5$$ ms<sup>$$-$$2</sup></p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Consider an expanding sphere of instantaneous radius R whose total mass remains constant. The expansion is such that the instantaneous density $$\\rho $$ remains uniform throughout the volume. The rate of fractional change in density $$\\left( {{1 \\over \\rho }  {{d\\rho } \\over {dt}}} \\right)$$ is constant. The velocity $$v$$ of any point on the surface of the expanding sphere is proportional to ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$R$$ "
+        },
+        {
+          "key": "B",
+          "value": "$${R^3}$$ "
+        },
+        {
+          "key": "C",
+          "value": "$${1 \\over R}$$ "
+        },
+        {
+          "key": "D",
+          "value": "$${R^{2/3}}$$ "
+        }
+      ],
+      "answer": "A",
+      "explanation": "<p>Density $$\\rho  = {{mass\\,(m)} \\over {volume\\,(V)}}$$</p>\n<p>Volume of sphere $$ = {4 \\over 3}\\pi {R^3} \\Rightarrow \\rho  = {m \\over {{4 \\over 3}\\pi {R^3}}} = {{3m} \\over {4\\pi {R^3}}}$$</p>\n<p>Rearranging it we get</p>\n<p>$$\\rho {R^2} = {3 \\over {4\\pi }}m$$</p>\n<p>It is given that mas m remains constant. Let the constant be k. Therefore,</p>\n<p>$$\\rho {R^3} = k$$</p>\n<p>Differentiating it w.r.t. time, we get</p>\n<p>$${d \\over {dt}}(\\rho {R^3}) = 0$$ (Since, differentiation of constant is zero)</p>\n<p>$${R^3}{{d\\rho } \\over {dt}} + 3{R^2}\\rho {{dR} \\over {dt}} = 0$$</p>\n<p>Now $${{dR} \\over {dt}}$$, that is, rate of change of radius is equal to velocity. Therefore,</p>\n<p>$${R^3}{{d\\rho } \\over {dt}} + 3{R^2}\\rho v = 0 \\Rightarrow 3{R^2}\\rho v =  - {R^3}{{d\\rho } \\over {dt}}$$</p>\n<p>$$ \\Rightarrow v = {{ - 1} \\over 3}{{{R^3}} \\over {{R^2}}}{1 \\over \\rho }{{d\\rho } \\over {dt}} = {{ - 1R} \\over 3}{1 \\over \\rho }{{d\\rho } \\over {dt}}$$</p>\n<p>It is given that rate of fractional change in density $$\\left( {{1 \\over \\rho }{{d\\rho } \\over {dt}}} \\right)$$ is constant. Thus,</p>\n<p>v $$\\propto$$ R</p>\n<p>Thus velocity of any point on surface of expanding sphere is proportional to R.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<b>STATEMENT-1:</b> For an observer looking out through the window of a fast moving train, the nearby objects appear to move in the\nopposite direction to the train, while the distant objects appear to be stationary.\n<p><b>STATEMENT-2:</b> If the observer and the object are moving at velocities $${\\overrightarrow v _1}$$\nand $${\\overrightarrow v _2}$$\nrespectively with reference to a laboratory frame, the\nvelocity of the object with respect to the observer is $${\\overrightarrow v _2}$$ - $${\\overrightarrow v _1}$$.</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "STATEMENT - 1 is True, STATEMENT - 2 is True; STATEMENT - 2 is a correct explanation for STATEMENT ,- 1"
+        },
+        {
+          "key": "B",
+          "value": "STATEMENT - 1 is True, STATEMENT - 2 is True; STATEMENT - 2 is NOT a correct explanation for\nSTATEMENT - 1"
+        },
+        {
+          "key": "C",
+          "value": "STATEMENT - 1 is True, STATEMENT - 2 is False"
+        },
+        {
+          "key": "D",
+          "value": "STATEMENT - 1 is False, STATEMENT - 2 is True"
+        }
+      ],
+      "answer": "B",
+      "explanation": "<p>Statement 1 is True.</p>\n<p>For a moving observer, the nearly objects appear to move in the opposite direction at a large speed. This is because the angular speed of the nearby object w.r.t to observer is large. As the object moves away, the angular velocity decreases and therefore its speed seems to be less. The distant object almost remains stationary.</p>\n<p>Statement 2 is True but related to relative velocity</p>\n<p>$${\\overline V _{21}} = {\\overline V _{2G}} - {\\overline V _{1G}}$$</p>\n<p>Where, G = Laboratory frame</p>\n<p>Thus, both the statement are true but statement 2 is not the correct explanation of statement 1.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A particle starts sliding down a frictionless inclined plane. If S<sub>n</sub> is the distance traveled by it from time t = n - 1 sec to t = n sec, the ratio S<sub>n</sub> / S<sub>n+1</sub> is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$${{2n - 1} \\over {2n + 1}}$$"
+        },
+        {
+          "key": "B",
+          "value": "$${{2n + 1} \\over {2n}}$$"
+        },
+        {
+          "key": "C",
+          "value": "$${{2n} \\over {2n + 1}}$$"
+        },
+        {
+          "key": "D",
+          "value": "$${{2n + 1} \\over {2n - 1}}$$"
+        }
+      ],
+      "answer": "A",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A boat which has a speed of 5 km/hr in still water crosses a river of width 1 km along the shortest possible path in 15 minutes. The velocity of the river water in km/hr is",
+      "options": [
+        {
+          "key": "A",
+          "value": "1"
+        },
+        {
+          "key": "B",
+          "value": "3"
+        },
+        {
+          "key": "C",
+          "value": "4"
+        },
+        {
+          "key": "D",
+          "value": "$$\\sqrt {41} $$"
+        }
+      ],
+      "answer": "B",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A river is flowing from west to east at a speed of 5 meters per minute. A man on the south bank of the river, capable of swimming at 10 meters per minute in still water, wants to swim across the river in the shortest time. He should swim in a direction",
+      "options": [
+        {
+          "key": "A",
+          "value": "due north"
+        },
+        {
+          "key": "B",
+          "value": "$$30^\\circ $$ east of north"
+        },
+        {
+          "key": "C",
+          "value": "$$30^\\circ $$ west of north"
+        },
+        {
+          "key": "D",
+          "value": "$$60^\\circ $$ east of north"
+        }
+      ],
+      "answer": "A",
+      "explanation": ""
+    }
+  ]
+}

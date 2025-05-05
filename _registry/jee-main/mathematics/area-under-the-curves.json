@@ -1,0 +1,259 @@
+{
+  "_index": {
+    "name": "Area Under The Curves"
+  },
+  "_children": [
+    {
+      "_type": "numerical",
+      "body": "<p>If the area of the region $\\left\\{(x, y):\\left|4-x^2\\right| \\leq y \\leq x^2, y \\leq 4, x \\geq 0\\right\\}$ is $\\left(\\frac{80 \\sqrt{2}}{\\alpha}-\\beta\\right), \\alpha, \\beta \\in \\mathbf{N}$, then $\\alpha+\\beta$ is equal to _________.</p>",
+      "answer": "22",
+      "explanation": ""
+    },
+    {
+      "_type": "numerical",
+      "body": "<p>The area of the region enclosed by the parabolas $$y=x^2-5 x$$ and $$y=7 x-x^2$$ is ________.</p>",
+      "answer": "198",
+      "explanation": "<p>$$\\begin{aligned}\ny=x^2-5 x, y=7 x-x^2 & \\Rightarrow \\quad x^2-5 x=7 x-x^2 \\\\\n& \\Rightarrow \\quad x=0, x=6\n\\end{aligned}$$</p>\n<p>$$\\text { Area }=\\int_\\limits0^6\\left[\\left(7 x-x^2\\right)-(x-5 x)\\right] d x$$</p>\n<p>$$=\\int_\\limits0^6\\left(12 x-2 x^2\\right) d x=6 x-\\left.\\frac{2 x^3}{3}\\right|_0 ^6$$</p>\n<p>$$=216-144=72 \\text { sq. unit }$$</p>\n<p>But answer is 198 as per NTA.</p>"
+    },
+    {
+      "_type": "numerical",
+      "body": "The sum of squares of all possible values of $k$, for which area of the region bounded by the parabolas $2 y^2=\\mathrm{k} x$ and $\\mathrm{ky}^2=2(y-x)$ is maximum, is equal to :",
+      "answer": "8",
+      "explanation": "Given $k y^2=2(y-x)$ .........(i)\n<br/><br/>$$\n2 y^2=k x\n$$ .........(ii)\n\n<br/><br/>Point of intersection of (i) and (ii)\n<br/><br/>$$\n\\begin{aligned}\n& k y^2=2\\left(y-\\frac{2 y^2}{k}\\right) \\\\\\\\\n& \\Rightarrow y=0, k y=2\\left(1-\\frac{2 y}{k}\\right)\n\\end{aligned}\n$$\n<br/><br/>$\\begin{aligned} & k y+\\frac{4 y}{k}=2 \\\\\\\\ & y=\\frac{2}{k+\\frac{4}{k}}=\\frac{2 k}{k^2+4}\\end{aligned}$\n<br/><br/>$\\begin{aligned} & A=\\int\\limits_6^{\\frac{2 k}{k^2+4}}\\left(\\left(y-\\frac{k y^2}{2}\\right)-\\frac{2 y^2}{k}\\right) d y \\\\\\\\ & A=\\left[\\frac{y^2}{2}-\\left(\\frac{k}{2}+\\frac{2}{k}\\right) \\frac{y^3}{3}\\right]_0^{\\frac{2 k}{k^2+4}}\\end{aligned}$\n<br/><br/>$\\begin{aligned} & =\\left(\\frac{2 k}{k^2+4}\\right)^2\\left[\\frac{1}{2}-\\frac{k^2+4}{2 k}\\left(\\frac{1}{3}\\right)\\left(\\frac{2 k}{k^2+4}\\right)\\right] \\\\\\\\ & =\\frac{1}{6} \\times 4 \\times\\left(\\frac{1}{k+\\frac{4}{k}}\\right)^2\\end{aligned}$\n<br/><br/>$\\begin{aligned} & \\text { A.M. } \\geq \\text { G.M. } \\\\\\\\ & \\frac{\\left(k+\\frac{4}{k}\\right)}{2} \\geq 2 \\\\\\\\ & k+\\frac{4}{k} \\geq 4\\end{aligned}$\n<br/><br/>$\\therefore$ Area is maximum when $k=\\frac{4}{k}$\n<br/><br/>$$\n\\begin{aligned}\n& \\therefore k^2=4 \\\\\\\\\n& k= \\pm 2 \\\\\\\\\n& k_1=2, k_2=-2 \\\\\\\\\n& \\therefore k_1^2+k_2^2=(+2)^2+(-2)^2 \\\\\\\\\n& =4+4 \\\\\\\\\n& =08\n\\end{aligned}\n$$"
+    },
+    {
+      "_type": "numerical",
+      "body": "<p>If the points of intersection of two distinct conics $$x^2+y^2=4 b$$ and $$\\frac{x^2}{16}+\\frac{y^2}{b^2}=1$$ lie on the curve $$y^2=3 x^2$$, then $$3 \\sqrt{3}$$ times the area of the rectangle formed by the intersection points is _________.</p>",
+      "answer": "432",
+      "explanation": "<p>Putting $$y^2=3 x^2$$ in both the conics</p>\n<p>We get $$x^2=b$$ and $$\\frac{b}{16}+\\frac{3}{b}=1$$</p>\n<p>$$\\Rightarrow \\mathrm{b}=4,12 \\quad(\\mathrm{b}=4$$ is rejected because curves coincide)</p>\n<p>$$\\therefore \\mathrm{b}=12$$</p>\n<p>Hence points of intersection are</p>\n<p>$$( \\pm \\sqrt{12}, \\pm 6) \\Rightarrow \\text { area of rectangle }=432$$</p>"
+    },
+    {
+      "_type": "numerical",
+      "body": "<p>If the area enclosed by the parabolas $$\\mathrm{P_1:2y=5x^2}$$ and $$\\mathrm{P_2:x^2-y+6=0}$$ is equal to the area enclosed by $$\\mathrm{P_1}$$ and $$\\mathrm{y=\\alpha x,\\alpha > 0}$$, then $$\\alpha^3$$ is equal to ____________.</p>",
+      "answer": "600",
+      "explanation": "$x^{2}+6=\\frac{5}{2} x^{2} \\Rightarrow x=\\pm 2$\n<br/><br/>\n$$\n\\begin{aligned}\n& \\text { Area between } P_{1} \\text { and } P_{2} \\quad \\text  { [Say } \\left.A_{1}\\right] \\\\\\\\\n& =\\int\\limits_{-2}^{2}\\left(x^{2}+6\\right)-\\frac{5}{2} x^{2} d x \\\\\\\\\n& =2 \\int\\limits_{0}^{2}\\left(6-\\frac{3}{2} x^{2}\\right) d x=2\\left[6 x-\\frac{x^{3}}{2}\\right]_{0}^{2}=16\n\\end{aligned}\n$$<br/><br/>\n$$\n\\begin{aligned}\n& a x=\\frac{5}{2} x^2 \\Rightarrow x=0, \\frac{2 a}{5} \\\\\\\\\n& \\text { Area between } P_1 \\text { and } y=a x \\quad \\text { [Say } A_2 \\text { ] } \\\\\\\\\n& =\\int\\limits_0^{\\frac{2 \\alpha}{5}} a x-\\frac{5}{2} x^2 d x \\\\\\\\\n& \\left.=\\frac{a x^2}{2}-\\frac{5}{6} x^3\\right]_0^{\\frac{2 a}{5}}: \\frac{2 a^3}{75} \\\\\\\\\n& A_1=A_2 \\Rightarrow \\frac{2 a^3}{75}=16 \\\\\\\\\n& a^3=600\n\\end{aligned}\n$$"
+    },
+    {
+      "_type": "numerical",
+      "body": "The area bounded by the lines y = || x $$-$$ 1 | $$-$$ 2 | is ___________.",
+      "answer": "8",
+      "explanation": "Question is incomplete it should be area bounded\nby y = || x $$-$$ 1 | $$-$$ 2 | and y = 2."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Let $f:[0, \\infty) \\rightarrow \\mathbb{R}$ be a differentiable function such that</p>\n<p>$f(x)=1-2 x+\\int_0^x e^{x-t} f(t) d t$ for all $x \\in[0, \\infty)$.</p>\n<p>Then the area of the region bounded by $y=f(x)$ and the coordinate axes is</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "$\\sqrt5$"
+        },
+        {
+          "key": "B",
+          "value": "2"
+        },
+        {
+          "key": "C",
+          "value": "$\\sqrt2$"
+        },
+        {
+          "key": "D",
+          "value": "$\\frac{1}{2}$"
+        }
+      ],
+      "answer": "D",
+      "explanation": "<p>$$\\because f(x)=1-2 x+\\int_0^x e^{x-t} f(t) d t$$</p>\n<p>or, $f(x)=1-2 x+e^x \\int_0^x e^{-t} f(t) d t$</p>\n<p>on differentiating both sides w.r.t. $x$ we get</p>\n<p>$$\\begin{aligned}\n& f^{\\prime}(x)=-2+e^x \\int_0^x e^{-t} f(t) d t+e^x \\cdot e^{-x} f(x) \\\\\n& f^{\\prime}(x)=-2+f(x)+2 x-1+f(x)\\{\\text { from eq. (1) \\}}\n\\end{aligned}$$</p>\n<p>$$\\begin{aligned}\n& \\therefore \\quad f(x)-2 f(x)=2 x-3 \\\\\n& \\text { I.F. }=e^{\\int-2 d x}=e^{-2 x} \\\\\n& \\therefore \\quad e^{-2 x} \\cdot f(x)=\\int e^{-2 x}(2 x-3) d x \\\\\n& e^{-2 x} \\cdot f(x)=(2 x-3) \\cdot \\frac{e^{-2 x}}{-2}-\\int 2 \\cdot \\frac{e^{-2 x}}{-2} d x \\\\\n& e^{-2 x} \\cdot f(x)=\\frac{(2 x-3) e^{-2 x}}{-2}+\\frac{e^{-2 x}}{-2}+c \\\\\n& f(x)=-x+1+c^{\\prime} e^{2 x} \\\\\n& \\because \\quad f(x)=1 \\text { from eq. (1) } \\\\\n& \\therefore \\quad 1=0+1+c^{\\prime} \\Rightarrow c^{\\prime}=0 \\\\\n& \\therefore \\quad f(x)=-x+1\n\\end{aligned}$$</p>\n<p>$\\Rightarrow \\quad$ Area $=\\frac{1}{2}$</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>The area of the region $\\left\\{(x, y): x^2+4 x+2 \\leq y \\leq|x+2|\\right\\}$ is equal to</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "7"
+        },
+        {
+          "key": "B",
+          "value": "24/5"
+        },
+        {
+          "key": "C",
+          "value": "20/3"
+        },
+        {
+          "key": "D",
+          "value": "5"
+        }
+      ],
+      "answer": "C",
+      "explanation": "<p>$$x^2+4 x+2 \\leq y \\leq|x+2|$$</p>\n<p>The area bounded between</p>\n<p>$$y=x^2+4 x+2=(x+2)^2-2$$</p>\n<p>and $y=|x+2|$ is same as area bounded between $y=x^2-2$ and $y=|x|$</p>\n<p>For P.O.I $|x|^2-2=|x|$</p>\n<p>$$\\begin{aligned}\n& \\Rightarrow|x|=2 \\Rightarrow x= \\pm 2 \\\\\n& \\therefore \\text { Required area }=-\\int_{-2}^2\\left(x^2-2\\right) d x+\\int_{-2}^2|x| d x \\\\\n& =-2 \\int_0^2\\left(x^2-2\\right) d x+2 \\int_0^2 x \\cdot d x \\\\\n& =-2\\left[\\frac{x^3}{3}-2 x\\right]_0^2+2\\left[\\frac{x^2}{2}\\right]_0^2 \\\\\n& =--2\\left[\\frac{8}{3}-4\\right]+2\\left[\\frac{4}{2}\\right] \\\\\n& =-2 \\times\\left(\\frac{-4}{3}\\right)+4 \\\\\n& =\\frac{20}{3}\n\\end{aligned}$$</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>The area of the region enclosed by the curves $y=x^2-4 x+4$ and $y^2=16-8 x$ is :</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "$\\frac{8}{3}$\n"
+        },
+        {
+          "key": "B",
+          "value": "$5$\n"
+        },
+        {
+          "key": "C",
+          "value": "$8$\n"
+        },
+        {
+          "key": "D",
+          "value": "$\\frac{4}{3}$"
+        }
+      ],
+      "answer": "A",
+      "explanation": "<p>Consider the curves</p>\n<p>$$ y = x^2 - 4x + 4 = (x-2)^2 $$</p>\n<p>and</p>\n<p>$$ y^2 = 16 - 8x. $$</p>\n<p>Notice that the second equation can be rewritten in terms of $$x$$:</p>\n<p>$$ 8x = 16 - y^2 \\quad \\Longrightarrow \\quad x = 2 - \\frac{y^2}{8}. $$</p>\n<p><strong>Step 1. Find the Intersection Points</strong></p>\n<p>To find the points where the curves intersect, substitute</p>\n<p>$$ y = (x-2)^2 $$</p>\n<p>into</p>\n<p>$$ y^2 = 16 - 8x. $$</p>\n<p>Let</p>\n<p>$$ u = x - 2 \\quad \\text{so that} \\quad y = u^2. $$</p>\n<p>Then</p>\n<p>$$ y^2 = u^4 $$</p>\n<p>and</p>\n<p>$$ x = u + 2. $$</p>\n<p>Substitute into the second curve:</p>\n<p>$$ u^4 = 16 - 8(u+2). $$</p>\n<p>Simplify the right side:</p>\n<p>$$ 16 - 8(u+2) = 16 - 8u - 16 = -8u. $$</p>\n<p>Thus, the equation becomes</p>\n<p>$$ u^4 + 8u = 0 \\quad \\Longrightarrow \\quad u(u^4/ u? \\,\\, **{correcting factor}**). $$</p>\n<p>In fact, factor by taking out a common factor $$u$$:</p>\n<p>$$ u(u^3 + 8) = 0. $$</p>\n<p>Thus, either</p>\n<p>$$ u = 0 \\quad \\text{or} \\quad u^3 = -8. $$</p>\n<p>For $$u = 0$$:</p>\n<p>$$ x = u + 2 = 2, \\quad y = u^2 = 0. $$</p>\n<p>For $$u^3 = -8$$:</p>\n<p>$$ u = -2, \\quad \\text{so} \\quad x = -2 + 2 = 0, \\quad y = (-2)^2 = 4. $$</p>\n<p>The curves intersect at the points $$ (2, 0) $$ and $$ (0, 4). $$</p>\n<p><strong>Step 2. Express the Curves in Terms of $$y$$</strong></p>\n<p>It is easier to integrate horizontally by expressing $$x$$ as a function of $$y$$.</p>\n<p>From the second curve:</p>\n<p>$$ x = 2 - \\frac{y^2}{8}. $$</p>\n<p>From the first curve, solving</p>\n<p>$$ y = (x-2)^2 $$</p>\n<p>for $$x$$ gives</p>\n<p>$$ x-2 = \\pm\\sqrt{y}. $$</p>\n<p>Since at the intersection $$ (0, 4) $$ the $$x$$–value is less than 2, we take the negative branch:</p>\n<p>$$ x = 2 - \\sqrt{y}. $$</p>\n<p>Thus, for a fixed $$y$$ between 0 and 4, the left boundary is</p>\n<p>$$ x_{\\text{left}} = 2 - \\sqrt{y}, $$</p>\n<p>and the right boundary is</p>\n<p>$$ x_{\\text{right}} = 2 - \\frac{y^2}{8}. $$</p>\n<p><strong>Step 3. Set Up the Integral for the Area</strong></p>\n<p>The horizontal distance between the curves at a given $$y$$ is</p>\n<p>$$ \\Delta x = x_{\\text{right}} - x_{\\text{left}} = \\left(2 - \\frac{y^2}{8}\\right) - \\left(2 - \\sqrt{y}\\right) = \\sqrt{y} - \\frac{y^2}{8}. $$</p>\n<p>Integrate with respect to $$y$$ from $$y = 0$$ to $$y = 4$$:</p>\n<p>$$ A = \\int_{0}^{4} \\left(\\sqrt{y} - \\frac{y^2}{8}\\right) \\, dy. $$</p>\n<p><strong>Step 4. Evaluate the Integral</strong></p>\n<p>Write the integral as</p>\n<p>$$ A = \\int_{0}^{4} y^{1/2}\\, dy - \\frac{1}{8} \\int_{0}^{4} y^2\\, dy. $$</p>\n<p>Compute each term:</p>\n\n<p>For the first integral:</p>\n\n<p>$$ \\int y^{1/2}\\, dy = \\frac{2}{3} y^{3/2}. $$</p>\n<ol start=\"2\">\n<p>For the second integral:</p>\n\n<p>$$ \\int y^2\\, dy = \\frac{y^3}{3}. $$</p>\n<p>Thus,</p>\n<p>$$ A = \\left[\\frac{2}{3} y^{3/2}\\right]_0^4 - \\frac{1}{8}\\left[\\frac{y^3}{3}\\right]_0^4. $$</p>\n<p>Substitute $$y = 4$$ (note that at $$y = 0$$ both terms vanish):</p>\n\n<p>Compute $$4^{3/2}$$:</p>\n\n<p>$$ 4^{3/2} = \\left( \\sqrt{4} \\right)^3 = 2^3 = 8. $$</p>\n\n<p>Compute the first term:</p>\n\n<p>$$ \\frac{2}{3} \\times 8 = \\frac{16}{3}. $$</p>\n\n<p>Compute the second term:</p>\n\n<p>$$ \\frac{1}{8} \\cdot \\frac{64}{3} = \\frac{64}{24} = \\frac{8}{3}. $$</p>\n<p>Therefore, the area is</p>\n<p>$$ A = \\frac{16}{3} - \\frac{8}{3} = \\frac{8}{3}. $$</p>\n<p><strong>Final Answer</strong></p>\n<p>The area of the region enclosed by the curves is</p>\n<p>$$ \\frac{8}{3}. $$</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>If the area of the region $$\\left\\{(x, y): \\frac{\\mathrm{a}}{x^2} \\leq y \\leq \\frac{1}{x}, 1 \\leq x \\leq 2,0<\\mathrm{a}<1\\right\\}$$ is $$\\left(\\log _{\\mathrm{e}} 2\\right)-\\frac{1}{7}$$ then the value of $$7 \\mathrm{a}-3$$ is equal to :</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "1"
+        },
+        {
+          "key": "B",
+          "value": "0"
+        },
+        {
+          "key": "C",
+          "value": "2"
+        },
+        {
+          "key": "D",
+          "value": "$$-$$1"
+        }
+      ],
+      "answer": "D",
+      "explanation": "<p>$$\\left\\{(x, y): \\frac{a}{x^2} \\leq y \\leq \\frac{1}{x}, 1 \\leq x \\leq 2,0< a<1\\right\\}$$</p>\n<p>$$ \\Rightarrow \\int\\limits_1^2 {\\left( {{1 \\over x} - {a \\over {{x^2}}}} \\right)dx = \\left| {\\ln |x| + {a \\over x}} \\right|_1^2} $$</p>\n<p>$$\\begin{aligned}\n& \\left(\\ln 2+\\frac{a}{2}\\right)-(\\ln 1+a)=\\ln 2-\\frac{a}{2} \\\\\n& \\Rightarrow \\quad \\frac{a}{2}=\\frac{1}{7} \\\\\n& \\Rightarrow \\quad a=\\frac{2}{7} \\\\\n& \\quad 7 a-3=\\frac{2}{7} \\times 7-3=-1\n\\end{aligned}$$</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>The odd natural number a, such that the area of the region bounded by y = 1, y = 3, x = 0, x = y<sup>a</sup> is $${{364} \\over 3}$$, is equal to :</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "3"
+        },
+        {
+          "key": "B",
+          "value": "5"
+        },
+        {
+          "key": "C",
+          "value": "7"
+        },
+        {
+          "key": "D",
+          "value": "9"
+        }
+      ],
+      "answer": "B",
+      "explanation": "<p>$$\\mathrm{a}$$ is a odd natural number and</p>\n<p>$$\\left| {\\int\\limits_1^3 {{y^a}dy} } \\right| = {{364} \\over 3}$$</p>\n<p>$$ \\Rightarrow \\left| {{1 \\over {a + 1}}\\left( {{y^{a + 1}}} \\right)_1^3} \\right| = {{364} \\over 3}$$</p>\n<p>$$ \\Rightarrow {{{3^{a + 1}} - 1} \\over {a + 1}} = \\, \\pm \\,{{364} \\over 3}$$</p>\n<p>Solving with $$( - )$$ sign,</p>\n<p>$${{{3^{a + 1}} - 1} \\over {a + 1}} = {{364} \\over 3} \\Rightarrow (a = 5)$$</p>\n<p>Solving with $$( + )$$ sign,</p>\n<p>$${{{3^{a + 1}} - 1} \\over {a + 1}} = {{ - 364} \\over 3}$$, No a exist</p>\n<p>$$\\therefore$$ $$(a = 5)$$</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The area, enclosed by the curves $$y = \\sin x + \\cos x$$ and $$y = \\left| {\\cos x - \\sin x} \\right|$$ and the lines $$x = 0,x = {\\pi  \\over 2}$$, is :",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$2\\sqrt 2 (\\sqrt 2  - 1)$$"
+        },
+        {
+          "key": "B",
+          "value": "$$2(\\sqrt 2  + 1)$$"
+        },
+        {
+          "key": "C",
+          "value": "$$4(\\sqrt 2  - 1)$$"
+        },
+        {
+          "key": "D",
+          "value": "$$2\\sqrt 2 (\\sqrt 2  + 1)$$"
+        }
+      ],
+      "answer": "A",
+      "explanation": "$$A = \\int_0^{{\\pi  \\over 2}} {\\left( {(\\sin x + \\cos x) - \\left| {\\cos x - \\sin x} \\right|} \\right)\\,dx} $$<br><br>$$A = \\int_0^{{\\pi  \\over 2}} {\\left( {(\\sin x + \\cos x) - (\\cos x - \\sin x)} \\right)\\,dx}  + \\int_{{\\pi  \\over 4}}^{{\\pi  \\over 2}} {\\left( {(\\sin x + \\cos x) - (\\sin x - \\cos x)} \\right)\\,dx} $$<br><br>$$A = 2\\int_0^{{\\pi  \\over 2}} {\\sin x\\,dx + 2\\int_{{\\pi  \\over 4}}^{{\\pi  \\over 2}} {\\cos x\\,dx} } $$<br><br>$$A =  - 2\\left( {{1 \\over {\\sqrt 2 }} - 1} \\right) + \\left( {1 - {1 \\over {\\sqrt 2 }}} \\right)$$<br><br>$$A = 4 - 2\\sqrt 2  = 2\\sqrt 2 (\\sqrt 2  - 1)$$<br><br>Option (a)"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "If the area enclosed between the curves y = kx<sup>2</sup> and x = ky<sup>2</sup>, (k &gt; 0), is 1 square unit. Then k is -",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$\\sqrt 3 $$"
+        },
+        {
+          "key": "B",
+          "value": "$${{\\sqrt 3 } \\over 2}$$"
+        },
+        {
+          "key": "C",
+          "value": "$${2 \\over {\\sqrt 3 }}$$"
+        },
+        {
+          "key": "D",
+          "value": "$${1 \\over {\\sqrt 3 }}$$"
+        }
+      ],
+      "answer": "D",
+      "explanation": "Area bounded by \n<br><br>y<sup>2</sup> = 4ax &amp; x<sup>2</sup> = 4by, a, b $$ \\ne $$ 0\n<br><br>is&nbsp;$$\\left| {{{16ab} \\over 3}} \\right|$$\n<br><br>by using formula : \n<br><br>4a $$=$$ $${1 \\over k} = 4b,k &gt; 0$$\n<br><br>Area $$ = \\left| {{{16.{1 \\over {4k}}.{1 \\over {4k}}} \\over 3}} \\right| = 1$$\n<br><br>$$ \\Rightarrow $$&nbsp;&nbsp;k<sup>2</sup> $$ = {1 \\over 3}$$\n<br><br>$$ \\Rightarrow $$&nbsp;&nbsp;k $$ = {1 \\over {\\sqrt 3 }}$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The area of the region described by \n<br>$$A = \\left\\{ {\\left( {x,y} \\right):{x^2} + {y^2} \\le 1} \\right.$$ and $$\\left. {{y^2} \\le 1 - x} \\right\\}$$ is :",
+      "options": [
+        {
+          "key": "A",
+          "value": "$${\\pi  \\over 2} - {2 \\over 3}$$ "
+        },
+        {
+          "key": "B",
+          "value": "$${\\pi  \\over 2} + {2 \\over 3}$$"
+        },
+        {
+          "key": "C",
+          "value": "$${\\pi  \\over 2} + {4 \\over 3}$$"
+        },
+        {
+          "key": "D",
+          "value": "$${\\pi  \\over 2} - {4 \\over 3}$$"
+        }
+      ],
+      "answer": "C",
+      "explanation": "Given curves are $${x^2} + {y^2} = 1$$ and $${y^2} = 1 - x.$$ \n<br><br>Intersection points are $$x = 0,1$$ \n<br><br>Area of shaded portion is the required area. \n<br><br>So,  Required Area $$=$$ Area of semi-circle $$+$$ Area bounded by parabola\n<br><br>$$ = {{\\pi {r^2}} \\over 2} + 2\\int\\limits_0^1 {\\sqrt {1 - x} dx} $$\n<br><br>$$ = {\\pi  \\over 2} + 2\\int\\limits_0^1 {\\sqrt {1 - x} \\,dx} $$\n<br><br>( As radius of circle $$=1$$ )\n<br><br>$$ = {\\pi  \\over 2} + 2\\left[ {{{{{\\left( {1 - x} \\right)}^{{\\raise0.5ex\\hbox{$\\scriptstyle 3$}\n\\kern-0.1em/\\kern-0.15em\n\\lower0.25ex\\hbox{$\\scriptstyle 2$}}}}} \\over { - {\\raise0.5ex\\hbox{$\\scriptstyle 3$}\n\\kern-0.1em/\\kern-0.15em\n\\lower0.25ex\\hbox{$\\scriptstyle 2$}}}}} \\right]_0^1$$ \n<br><br>$$ = {\\pi  \\over 2} - {4 \\over 3}\\left( { - 1} \\right) = {\\pi  \\over 2} + {4 \\over 3}$$ Sq. unit"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Let $$f(x)$$ be a non - negative  continuous function such that the area bounded by the curve $$y=f(x),$$ $$x$$-axis and the ordinates $$x = {\\pi  \\over 4}$$ and $$x = \\beta  &gt; {\\pi  \\over 4}$$ is $$\\left( {\\beta \\sin \\beta  + {\\pi  \\over 4}\\cos \\beta  + \\sqrt 2 \\beta } \\right).$$ Then $$f\\left( {{\\pi  \\over 2}} \\right)$$ is",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$\\left( {{\\pi  \\over 4} + \\sqrt 2  - 1} \\right)$$ "
+        },
+        {
+          "key": "B",
+          "value": "$$\\left( {{\\pi  \\over 4} - \\sqrt 2  + 1} \\right)$$"
+        },
+        {
+          "key": "C",
+          "value": "$$\\left( {1 - {\\pi  \\over 4} - \\sqrt 2 } \\right)$$ "
+        },
+        {
+          "key": "D",
+          "value": "$$\\left( {1 - {\\pi  \\over 4} + \\sqrt 2 } \\right)$$ "
+        }
+      ],
+      "answer": "D",
+      "explanation": "Given that\n<br><br>$$\\int\\limits_{\\pi /4}^\\beta  {f\\left( x \\right)} dx = \\beta \\sin \\beta  + {\\pi  \\over 4}\\cos \\,\\beta  + \\sqrt 2 \\beta $$\n<br><br>Differentiating $$w.r.t$$ $$\\beta $$\n<br><br>$$f\\left( \\beta  \\right) = \\beta \\cos \\beta  + \\sin \\beta  - {\\pi  \\over 4}\\sin \\beta  + \\sqrt 2 $$\n<br><br>$$f\\left( {{\\pi  \\over 2}} \\right) = \\left( {1 - {\\pi  \\over 4}} \\right)\\sin {\\pi  \\over 2} + \\sqrt 2 $$\n<br><br>$$ = 1 - {\\pi  \\over 4} + \\sqrt 2 $$"
+    }
+  ]
+}

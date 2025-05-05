@@ -1,0 +1,505 @@
+{
+  "_index": {
+    "name": "Properties of Triangle"
+  },
+  "_children": [
+    {
+      "_type": "numerical",
+      "body": "$$\n\\text { Let } a \\text { be the area of the triangle } A B C \\text {. Then the value of }(64 a)^2 \\text { is }\n$$ :",
+      "answer": "1008",
+      "explanation": "Area of $\\triangle A B C=\\frac{A B \\cdot B C \\cdot A C}{4 R}$\n<br/><br/>$$\n\\begin{aligned}\n\\Rightarrow  a & =\\frac{8 \\sin A \\cdot \\sin B \\sin C}{4} \\\\\\\\\n& =2 \\sin \\left(\\frac{\\pi}{2}-2 C\\right) \\sin \\left(\\frac{\\pi}{2}+C\\right) \\sin C \\\\\\\\\n& =2 \\cos 2 C \\cdot \\cos C \\cdot \\sin C \\\\\\\\\n& =\\cos 2 C \\cdot \\sin 2 C \\\\\\\\\n& =\\sqrt{1-\\sin ^2 2 C} \\cdot \\sin 2 C \\\\\\\\\n& =\\sqrt{1-\\frac{9}{6}} \\cdot \\times \\frac{3}{4} \\\\\\\\\n&\\Rightarrow  a  =\\frac{3 \\sqrt{7}}{16} \\\\\\\\\n& \\therefore (64 a)^2  =1008\n\\end{aligned}\n$$"
+    },
+    {
+      "_type": "numerical",
+      "body": "In a triangle PQR, let a = QR, b = RP, and c = PQ. If |a| = 3, |b| = 4 <br><br>and $${{a\\,.(\\,c - \\,b)} \\over {c\\,.\\,(a - \\,b)}} = {{|a|} \\over {|a| + |b|}}$$, then the value of |a $$ \\times $$ b|<sup>2</sup> is ......",
+      "answer": "108",
+      "explanation": "It is given that, in a $$\\Delta $$PQR<br><br>PQ = c, QR = a and RP = b, so a + b + c = 0<br><br>$$ \\therefore $$ |a|<sup>2</sup> + a . b + a . c = 0 ....(i)<br><br>and a . b + |b|<sup>2</sup> + c . b = 0 ....(ii)<br><br>and, also given that |a| = 3, |b| = 4<br><br>and $${{a\\,.\\,c - a\\,.\\,b} \\over {c\\,.\\,a - c\\,.\\,b}} = {{|a|} \\over {|a| + |b|}} = {3 \\over 7}$$<br><br>$$ \\Rightarrow 7[(a\\,.\\,c) - (a\\,.\\,b)] = 3[(c\\,.\\,a) - (c\\,.\\,b)]$$<br><br>from Eqs. (i) and (ii), on putting the values of a . c and c . b, we get,<br><br>$$ \\Rightarrow 7[ - 9 - (a\\,.\\,b) - (a\\,.\\,b)] = 3[ - 9 - (a\\,.\\,b) + 16 + (a\\,.\\,b)]$$<br><br>$$ \\Rightarrow 7[ - 9 - 2(a\\,.\\,b)] = 3 \\times 7$$<br><br>$$ \\Rightarrow a\\,.\\,b =  - 6$$<br><br>$$ \\because $$ $$|a \\times b{|^2} = {(|a||b|)^2} - {(a\\,.\\,b)^2}$$<br><br>= $$144 - 36 = 108$$"
+    },
+    {
+      "_type": "numerical",
+      "body": "Consider a triangle $$ABC$$ and let $$a, b$$ and $$c$$ denote the lengths of the sides opposit to vertices $$A, B$$ and $$C$$ respectively. Suppose $$a = 6,b = 10$$ and the area of the triangle is $$15\\sqrt 3 $$, if $$\\angle ACB$$ is obtuse and if $$r$$ denotes the radius of the incircle of the triangle, then r<sup>2</sup> is equal to :",
+      "answer": "3",
+      "explanation": "<p>$$\\sin C = {{\\sqrt 3 } \\over 2}$$ and C is given to be obtuse</p>\n<p>$$ \\Rightarrow C = {{2\\pi } \\over 3} = \\sqrt {{a^2} + {b^2} - 2ab\\cos C} $$</p>\n<p>$$ = \\sqrt {{6^2} + {{10}^2} - 2 \\times 6 \\times 10 \\times \\cos {{2\\pi } \\over 3}}  = 14$$</p>\n<p>$$\\therefore$$ $$r = {\\Delta  \\over s} \\Rightarrow {r^2} = {{225 \\times 3} \\over {{{\\left( {{{6 + 10 + 14} \\over 2}} \\right)}^2}}} = 3$$</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "In a triangle the sum of two sides is $$x$$ and the product of the same sides is $$y$$. If $${x^2} - {c^2} = y$$, where $$c$$ is the third side of the triangle, then the ratio of the in radius to the circum-radius of the triangle is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$${{3y} \\over {2x\\left( {x + c} \\right)}}$$ "
+        },
+        {
+          "key": "B",
+          "value": "$${{3y} \\over {2c\\left( {x + c} \\right)}}$$  "
+        },
+        {
+          "key": "C",
+          "value": "$${{3y} \\over {4x\\left( {x + c} \\right)}}$$ "
+        },
+        {
+          "key": "D",
+          "value": "$${{3y} \\over {4c\\left( {x + c} \\right)}}$$  "
+        }
+      ],
+      "answer": "B",
+      "explanation": "<p>Let $$a, b, c$$ are the sides of a triangle</p>\n<p>And $$\\quad a+b=x, a b =y$$</p>\n<p>Given, $$\\quad x^2-c^2 =y$$</p>\n<p>$$\\begin{array}{lrl}\n\\Rightarrow & (x+c)(x-c) & =y \\\\\n\\Rightarrow & (a+b+c)(a+b-c) & =y \\\\\n\\Rightarrow & 2 s(2 s-2 c) & =y \\\\\n\\Rightarrow & s(s-c) & =\\frac{y}{4} \\quad \\text{... (i)}\\\\\n\\Rightarrow & \\frac{s(s-c)}{y} & =\\frac{1}{4}\n\\end{array}$$</p>\n<p>$$\\begin{array}{ll}\n\\Rightarrow & \\frac{s(s-c)}{a b}=\\frac{1}{4} \\\\\n\\Rightarrow & \\cos ^2 \\frac{C}{2}=\\frac{1}{4} \\\\\n\\Rightarrow & \\cos \\frac{C}{2}= \\pm \\frac{1}{2} \\\\\n\\Rightarrow & \\frac{C}{2}=\\frac{\\pi}{3}, \\frac{2 \\pi}{3} \\\\\n\\Rightarrow & \\mathrm{C}=\\frac{2 \\pi}{3}, \\frac{4 \\pi}{3}\n\\end{array}$$</p>\n<p>$$\\because \\quad C=\\frac{4 \\pi}{3}$$ is impossible in a triangle</p>\n<p>$$\\therefore \\quad C=\\frac{2 \\pi}{3}$$</p>\n<p>Now, $$\\frac{r}{\\mathrm{R}}=\\frac{(s-c) \\tan \\frac{\\mathrm{C}}{2}}{\\frac{c}{2 \\sin \\mathrm{C}}}$$</p>\n<p>$$\\begin{aligned}\n\\Rightarrow \\quad \\frac{r}{\\mathrm{R}} & =\\frac{(s-c) \\cdot \\tan \\frac{\\pi}{3}}{\\frac{c}{2 \\sin \\frac{2 \\pi}{3}}} \\\\\n\\Rightarrow \\quad \\frac{r}{\\mathrm{R}} & =\\frac{\\frac{y}{4 s} \\cdot \\sqrt{3}}{\\frac{c}{2 \\cdot \\frac{\\sqrt{3}}{2}}} \\quad \\left[(s-c)=\\frac{y}{4 s} \\text { from equation (i) }\\right]\n\\end{aligned}$$</p>\n<p>$$\\begin{aligned}\n& \\Rightarrow \\quad \\frac{r}{\\mathrm{R}}=\\frac{3 y}{2 \\cdot 2 s \\cdot c} \\\\\n& \\Rightarrow \\quad \\frac{r}{\\mathrm{R}}=\\frac{3 y}{2(a+b+c) c} \\\\\n& \\Rightarrow \\quad \\frac{r}{\\mathrm{R}}=\\frac{3 y}{2(x+c) \\cdot c}\n\\end{aligned}$$</p>\n<p>Hint:</p>\n<p>$$\\Rightarrow$$ In a triangle $$\\triangle \\mathrm{ABC}$$</p>\n<p>(i) $$r=(\\mathrm{s}-c) \\tan \\frac{\\mathrm{C}}{2}, \\mathrm{R}=\\frac{c}{2 \\sin \\mathrm{C}}$$</p>\n<p>(ii) $$\\cos \\frac{c}{2}=\\sqrt{\\frac{s(s-c)}{a b}}, s=\\frac{a+b+c}{2}$$</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Let $$PQR$$ be a triangle of area $$\\Delta $$ with $$a=2$$, $$b = {7 \\over 2}$$ and $$c = {5 \\over 2}$$; where $$a, b,$$ and $$c$$ are the lengths of the sides of the triangle opposite to the angles at $$P.Q$$ and $$R$$ respectively. Then $${{2\\sin P - \\sin 2P} \\over {2\\sin P + \\sin 2P}}$$ equals. ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$${3 \\over {4\\Delta }}$$ "
+        },
+        {
+          "key": "B",
+          "value": "$${45 \\over {4\\Delta }}$$"
+        },
+        {
+          "key": "C",
+          "value": "$${\\left( {{3 \\over {4\\Delta }}} \\right)^2}$$ "
+        },
+        {
+          "key": "D",
+          "value": "$${\\left( {{45 \\over {4\\Delta }}} \\right)^2}$$"
+        }
+      ],
+      "answer": "C",
+      "explanation": "<p>Given, $$\\Delta$$ be the area of $$\\triangle \\mathrm{PQR}$$ of side length</p>\n<p>$$\\begin{gathered}\na=2, b=\\frac{7}{2} \\text { and } c=\\frac{5}{2} \\\\\n\\Rightarrow s=\\frac{a+b+c}{2}=\\frac{2+\\frac{7}{2}+\\frac{5}{2}}{2}=4\n\\end{gathered}$$</p>\n<p>$$\\begin{aligned}\n\\text { Now, } & \\frac{2 \\sin \\mathrm{P}-\\sin 2 \\mathrm{P}}{2 \\sin \\mathrm{P}+\\sin 2 \\mathrm{P}} \\\\\n&=\\frac{2 \\sin \\mathrm{P}-2 \\sin \\mathrm{P} \\cdot \\cos \\mathrm{P}}{2 \\sin \\mathrm{P}+2 \\sin \\mathrm{P} \\cdot \\cos \\mathrm{P}} \\\\\n& \\quad(\\sin 2 \\theta=2 \\sin \\theta \\cdot \\cos \\theta)\n\\end{aligned}$$</p>\n<p>$$\\begin{aligned}\n& =\\frac{1-\\cos \\mathrm{P}}{1+\\cos \\mathrm{P}} \\\\\n& =\\frac{1-\\left(1-2 \\sin ^2 \\frac{\\mathrm{P}}{2}\\right)}{1+\\left(2 \\cos ^2 \\frac{\\mathrm{P}}{2}-1\\right)} \\\\\n& \\quad\\left(\\cos 2 \\theta=2 \\cos ^2 \\theta-1=1-2 \\sin ^2 \\theta\\right) \\\\\n& =\\tan ^2 \\frac{\\mathrm{P}}{2} \\\\\n& =\\left(\\sqrt{\\left.\\frac{(s-b)(s-c)}{s(s-a)}\\right)^2}\\right. \\\\\n& =\\left(\\frac{(s-b)(s-c)}{\\sqrt{s(s-a)(s-b)(s-c)}}\\right)^2\n\\end{aligned}$$</p>\n<p>$$\\begin{aligned}\n& =\\left(\\frac{(s-b)(s-c)}{\\Delta}\\right)^2 \\\\\n& \\therefore \\quad(\\Delta=\\sqrt{s(s-a)(s-b)(s-c)}) \\\\\n& =\\frac{\\left(4-\\frac{7}{2}\\right)^2\\left(4-\\frac{5}{2}\\right)^2}{\\Delta^2} \\\\\n& =\\frac{9}{16 \\Delta^2} \\\\\n& =\\left(\\frac{3}{4 \\Delta}\\right)^2\n\\end{aligned}$$</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "If the angles $$A, B$$ and $$C$$ of a triangle are in an arithmetic progression and if $$a, b$$ and $$c$$ denote the lengths of the sides opposite to $$A, B$$ and $$C$$ respectively, then the value of the expression  $${a \\over c}\\sin 2C + {c \\over a}\\sin 2A$$ is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$${1 \\over 2}$$"
+        },
+        {
+          "key": "B",
+          "value": "$${{\\sqrt 3 } \\over 2}$$ "
+        },
+        {
+          "key": "C",
+          "value": "$$1$$ "
+        },
+        {
+          "key": "D",
+          "value": "$${\\sqrt 3 }$$ "
+        }
+      ],
+      "answer": "D",
+      "explanation": "<p>Since, A, B, C are in AP</p>\n<p>$$\\Rightarrow$$ 2B = A + C i.e., $$\\angle$$B = 60$$^\\circ$$</p>\n<p>$$\\therefore$$ $${a \\over c}$$(2 sin C cos C) + $${c \\over a}$$ (2 sin A cos A)</p>\n<p>= 2k (a cos C + c cos A)</p>\n<p>[using, $${a \\over {\\sin A}} = {b \\over {\\sin B}} = {c \\over {\\sin C}} = {1 \\over k}$$]</p>\n<p>= 2k (b)</p>\n<p>= 2 sin B</p>\n<p>[using, b = a cos C + c cos A]</p>\n<p>= $$\\sqrt3$$</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Let $$ABCD$$ be a quadrilateral with area $$18$$, with side $$AB$$ parallel to the side $$CD$$ and $$2AB=CD$$. Let $$AD$$ be perpendicular to $$AB$$ and $$CD$$. If a circle is drawn inside the quadrilateral $$ABCD$$ touching all the sides, then its radius is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$3$$ "
+        },
+        {
+          "key": "B",
+          "value": "$$2$$ "
+        },
+        {
+          "key": "C",
+          "value": "$${3 \\over 2}$$ "
+        },
+        {
+          "key": "D",
+          "value": "$$1$$"
+        }
+      ],
+      "answer": "B",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "One angle of an isosceles $$\\Delta $$ is $${120^ \\circ }$$ and radius of its incircle $$ = \\sqrt 3 $$. Then the area of the triangle in sq. units is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$7 + 12\\sqrt 3 $$ "
+        },
+        {
+          "key": "B",
+          "value": "$$12 - 7\\sqrt 3 $$ "
+        },
+        {
+          "key": "C",
+          "value": "$$12 + 7\\sqrt 3 $$"
+        },
+        {
+          "key": "D",
+          "value": "$$4\\pi $$ "
+        }
+      ],
+      "answer": "C",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "In a triangle $$ABC$$, $$a,b,c$$ are the lengths of its sides and $$A,B,C$$ are the angles of triangle $$ABC$$. The correct relation is given by ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$\\left( {b - c} \\right)\\sin \\left( {{{B - C} \\over 2}} \\right) = a\\cos {A \\over 2}$$ "
+        },
+        {
+          "key": "B",
+          "value": "$$\\left( {b - c} \\right)cos\\left( {{A \\over 2}} \\right) = a\\,sin{{B - C} \\over 2}$$ "
+        },
+        {
+          "key": "C",
+          "value": "$$\\left( {b + c} \\right)\\sin \\left( {{{B + C} \\over 2}} \\right) = a\\cos {A \\over 2}$$"
+        },
+        {
+          "key": "D",
+          "value": "$$\\left( {b - c} \\right)cos\\left( {{A \\over 2}} \\right) = 2a\\,sin{{B + C} \\over 2}$$ "
+        }
+      ],
+      "answer": "B",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The sides of a triangle are in the ratio $$1:\\sqrt 3 :2$$, then the angles of the triangle are in the ratio ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$1:3:5$$ "
+        },
+        {
+          "key": "B",
+          "value": "$$2:3:4$$"
+        },
+        {
+          "key": "C",
+          "value": "$$3:2:1$$ "
+        },
+        {
+          "key": "D",
+          "value": "$$1:2:3$$ "
+        }
+      ],
+      "answer": "D",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "If the angles of a triangle are in the ratio $$4:1:1$$, then the ratio of the longest side to the perimeter is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$\\sqrt 3 :\\left( {2 + \\sqrt 3 } \\right)$$ "
+        },
+        {
+          "key": "B",
+          "value": "$$1:6$$ "
+        },
+        {
+          "key": "C",
+          "value": "$$1:2 + \\sqrt 3 $$ "
+        },
+        {
+          "key": "D",
+          "value": "$$2:3$$ "
+        }
+      ],
+      "answer": "A",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Which of the following pieces of data does NOT uniquely determine an acute-angled triangle $$ABC$$ ($$R$$ being the radius of the circumcircle)?",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$a,\\,\\sin \\,A,sin\\,B$$ "
+        },
+        {
+          "key": "B",
+          "value": "$$a,b,c$$"
+        },
+        {
+          "key": "C",
+          "value": "$$a,\\,\\sin \\,B,R$$ "
+        },
+        {
+          "key": "D",
+          "value": "$$a,\\,\\sin \\,A,R$$ "
+        }
+      ],
+      "answer": "D",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A man from the top of a $$100$$ metres high tower sees a car moving towards the tower at an angle of depression of $${30^ \\circ }$$. After some time,the angle of depression becomes $${60^ \\circ }$$. The distance (in metres) travelled by the car during this time is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$100\\sqrt 3 $$ "
+        },
+        {
+          "key": "B",
+          "value": "$$200\\sqrt 3 /3$$ "
+        },
+        {
+          "key": "C",
+          "value": "$$100\\sqrt 3 /3$$ "
+        },
+        {
+          "key": "D",
+          "value": "$$200\\sqrt 3 $$ "
+        }
+      ],
+      "answer": "B",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A pole stands vertically inside a triangular park $$\\Delta ABC$$. If the angle of elevation of the top of the pole from each corner of the park is same, then in $$\\Delta ABC$$ the foot of the pole is at the ",
+      "options": [
+        {
+          "key": "A",
+          "value": "centroid "
+        },
+        {
+          "key": "B",
+          "value": "circumcentre "
+        },
+        {
+          "key": "C",
+          "value": "incentre "
+        },
+        {
+          "key": "D",
+          "value": "orthocentre "
+        }
+      ],
+      "answer": "B",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "In a triangle $$ABC$$, let $$\\angle C = {\\pi  \\over 2}$$. If $$r$$ is the inradius and $$R$$ is the circumradius of the triangle, then $$2(r+R)$$ is equal to ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$a+b$$ "
+        },
+        {
+          "key": "B",
+          "value": "$$b+c$$ "
+        },
+        {
+          "key": "C",
+          "value": "$$c+a$$ "
+        },
+        {
+          "key": "D",
+          "value": "$$a+b+c$$ "
+        }
+      ],
+      "answer": "A",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "In a triangle $$ABC$$, $$2ac\\,\\sin {1 \\over 2}\\left( {A - B + C} \\right) = $$ ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$${a^2} + {b^2} - {c^2}$$ "
+        },
+        {
+          "key": "B",
+          "value": "$${c^2} + {a^2} - {b^2}$$ "
+        },
+        {
+          "key": "C",
+          "value": "$${b^2} - {c^2} - {a^2}$$ "
+        },
+        {
+          "key": "D",
+          "value": "$${c^2} - {a^2} - {b^2}$$ "
+        }
+      ],
+      "answer": "B",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Let $${A_0}{A_1}{A_2}{A_3}{A_4}{A_5}$$ be a regular hexagon inscribed in a circle of unit radius. Then the product of the lengths of the line segments $${A_0}{A_1},{A_0}{A_2}$$ and $${A_0}{A_4}$$ is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$${3 \\over 4}$$ "
+        },
+        {
+          "key": "B",
+          "value": "$$3\\sqrt 3 $$ "
+        },
+        {
+          "key": "C",
+          "value": "$$3$$ "
+        },
+        {
+          "key": "D",
+          "value": "$${{3\\sqrt 3 } \\over 2}$$ "
+        }
+      ],
+      "answer": "C",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "If in a triangle $$PQR$$, $$\\sin P,\\sin Q,\\sin R$$ are in $$A.P.,$$ then ",
+      "options": [
+        {
+          "key": "A",
+          "value": "the altitudes are in $$A.P.$$"
+        },
+        {
+          "key": "B",
+          "value": "the altitudes are in $$H.P.$$"
+        },
+        {
+          "key": "C",
+          "value": "the medians are in $$G.P.$$"
+        },
+        {
+          "key": "D",
+          "value": "the medians are in $$A.P$$ "
+        }
+      ],
+      "answer": "B",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "In a triangle $$ABC$$, $$\\angle B = {\\pi  \\over 3}$$ and $$\\angle C = {\\pi  \\over 4}$$. Let $$D$$ divide $$BC$$ internally in the ratio $$1:3$$ then $${{\\sin \\angle BAD} \\over {\\sin \\angle CAD}}$$ is equal to ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$${1 \\over {\\sqrt 6 }}$$ "
+        },
+        {
+          "key": "B",
+          "value": "$${1 \\over 3}$$ "
+        },
+        {
+          "key": "C",
+          "value": "$${1 \\over {\\sqrt 3 }}$$"
+        },
+        {
+          "key": "D",
+          "value": "$$\\sqrt {{2 \\over 3}} $$ "
+        }
+      ],
+      "answer": "A",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "If the lengths of the sides of triangle are $$3, 5, 7$$ then the largest angle of the triangle is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$${\\pi  \\over 2}$$ "
+        },
+        {
+          "key": "B",
+          "value": "$${5\\pi  \\over 6}$$ "
+        },
+        {
+          "key": "C",
+          "value": "$${2\\pi  \\over 3}$$ "
+        },
+        {
+          "key": "D",
+          "value": "$${3\\pi  \\over 4}$$ "
+        }
+      ],
+      "answer": "C",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "In a triangle $$ABC$$, angle $$A$$ is greater than angle $$B$$. If the measures of angles $$A$$ and $$B$$ satify the equation $$3{\\mathop{\\rm sinx}\\nolimits}  - 4si{n^3}x - k = 0,$$ $$0 &lt; k &lt; 1$$, then the measure of angle $$C$$ is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$${\\pi  \\over 3}$$ "
+        },
+        {
+          "key": "B",
+          "value": "$${\\pi  \\over 2}$$ "
+        },
+        {
+          "key": "C",
+          "value": "$${2\\pi  \\over 3}$$ "
+        },
+        {
+          "key": "D",
+          "value": "$${5\\pi  \\over 6}$$ "
+        }
+      ],
+      "answer": "C",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "From the top of a light-house 60 metres high with its base at the sea-level, the angle of depression of a boat is $${15^ \\circ }$$. The distance of the boat from the foot of the light house is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$\\left( {{{\\sqrt 3  - 1} \\over {\\sqrt 3  + 1}}} \\right)60$$ metres"
+        },
+        {
+          "key": "B",
+          "value": "$$\\left( {{{\\sqrt 3  + 1} \\over {\\sqrt 3  - 1}}} \\right)60$$ metres"
+        },
+        {
+          "key": "C",
+          "value": "$${\\left( {{{\\sqrt 3  + 1} \\over {\\sqrt 3  - 1}}} \\right)^2}$$ metres"
+        },
+        {
+          "key": "D",
+          "value": "none of these "
+        }
+      ],
+      "answer": "B",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "If the bisector of the angle $$P$$ of a triangle $$PQR$$ meets $$QR$$ in $$S$$, then ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$QS=SR$$ "
+        },
+        {
+          "key": "B",
+          "value": "$$QS:SR$$ $$= PR:PQ$$"
+        },
+        {
+          "key": "C",
+          "value": "$$QS:SR=PQ:PR$$"
+        },
+        {
+          "key": "D",
+          "value": "None of these"
+        }
+      ],
+      "answer": "C",
+      "explanation": ""
+    }
+  ]
+}

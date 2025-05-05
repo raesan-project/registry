@@ -1,0 +1,31 @@
+{
+  "_index": {
+    "name": "Polymers"
+  },
+  "_children": [
+    {
+      "_type": "single_mcq",
+      "body": "<p>Among cellulose, poly(vinyl chloride), nylon and natural rubber, the polymer in which the intermolecular force of attraction is weakest is</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "Nylon"
+        },
+        {
+          "key": "B",
+          "value": "Poly(vinyl chloride)"
+        },
+        {
+          "key": "C",
+          "value": "Cellulose"
+        },
+        {
+          "key": "D",
+          "value": "Natural Rubber"
+        }
+      ],
+      "answer": "D",
+      "explanation": "<p>Natural rubber is an elastomer in which the chains are held together by weak van der Waals forces of attraction. Cellulose and nylon are fibres and PVC is a thermoplastic. Both these classes of polymers have stronger forces of attraction in the order</p>\n<p>Fibre > Thermoplastic > Elastomer.</p>"
+    }
+  ]
+}

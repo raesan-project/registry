@@ -1,0 +1,2503 @@
+{
+  "_index": {
+    "name": "Human Health and Diseases"
+  },
+  "_children": [
+    {
+      "_type": "single_mcq",
+      "body": "<p>Given below are two statements:</p>\n<p>Statement I: Antibiotics are chemicals produced by microbes that kill other microbes.</p>\n<p>Statement II: Antibodies are chemicals formed in body that eliminate microbes.</p>\n<p>In the light of the above statements, choose the most appropriate answer from the options given below.</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "Statement I is correct but Statement II is incorrect\n"
+        },
+        {
+          "key": "B",
+          "value": "Statement I is incorrect but Statement II is correct\n"
+        },
+        {
+          "key": "C",
+          "value": "Both Statement I and Statement II are correct\n"
+        },
+        {
+          "key": "D",
+          "value": "Both Statement I and Statement II are incorrect\n"
+        }
+      ],
+      "answer": "C",
+      "explanation": "<p>The correct answer is <strong>Option C: Both Statement I and Statement II are correct.</strong></p>\n\n<p>Let's break down why each statement is true:</p>\n\n<p><strong>Statement I: Antibiotics are chemicals produced by microbes that kill other microbes.</strong></p>\n\n<p>This statement is accurate. Antibiotics are naturally occurring substances produced by certain microorganisms, such as bacteria and fungi. These substances have the ability to inhibit the growth or kill other microorganisms, particularly bacteria.</p>\n\n<p><strong>Statement II: Antibodies are chemicals formed in the body that eliminate microbes.</strong></p>\n\n<p>This statement is also correct. Antibodies are specialized proteins produced by the immune system in response to the presence of foreign substances, such as bacteria, viruses, and toxins. These antibodies bind to specific antigens (markers) on the surface of the microbes, marking them for destruction by other immune cells.</p>\n\n<p>In summary, both antibiotics and antibodies play critical roles in combating microbial infections, but they operate through different mechanisms. Antibiotics are produced by microbes and directly kill or inhibit the growth of other microbes, while antibodies are produced by the body's immune system and specifically target and neutralize microbes.</p>\n\n<p></p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Math List-I with List-II:</p>\n<p><style type=\"text/css\">\n.tg  {border-collapse:collapse;border-spacing:0;}\n.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}\n.tg .tg-7btt{border-color:inherit;font-weight:bold;text-align:center;vertical-align:top}\n.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}\n</style>\n<table class=\"tg\" style=\"undefined;table-layout: fixed; width: 746px\"><colgroup>\n<col style=\"width: 78px\">\n<col style=\"width: 262px\">\n<col style=\"width: 83px\">\n<col style=\"width: 323px\">\n</colgroup>\n<thead>\n  <tr>\n    <th class=\"tg-7btt\"></th>\n    <th class=\"tg-7btt\">List - I</th>\n    <th class=\"tg-7btt\"></th>\n    <th class=\"tg-7btt\">List - II</th>\n  </tr></thead>\n<tbody>\n  <tr>\n    <td class=\"tg-c3ow\">(A)</td>\n    <td class=\"tg-0pky\">Malignant tumors</td>\n    <td class=\"tg-c3ow\">(I)</td>\n    <td class=\"tg-0pky\">Destroy tumors</td>\n  </tr>\n  <tr>\n    <td class=\"tg-c3ow\">(B)</td>\n    <td class=\"tg-0pky\">MALT</td>\n    <td class=\"tg-c3ow\">(II)</td>\n    <td class=\"tg-0pky\">AIDS</td>\n  </tr>\n  <tr>\n    <td class=\"tg-c3ow\">(C)</td>\n    <td class=\"tg-0pky\">NACO</td>\n    <td class=\"tg-c3ow\">(III)</td>\n    <td class=\"tg-0pky\">Metastasis</td>\n  </tr>\n  <tr>\n    <td class=\"tg-c3ow\">(D)</td>\n    <td class=\"tg-0pky\">$$\\alpha$$-Interferons</td>\n    <td class=\"tg-c3ow\">(IV)</td>\n    <td class=\"tg-0pky\">Lymphoid tissue</td>\n  </tr>\n</tbody>\n</table></p>\n<p>Choose the correct answer from the options given below:</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "A-III, B-IV, C-II, D-I \n"
+        },
+        {
+          "key": "B",
+          "value": "A-IV, B-III, C-II, D-I \n"
+        },
+        {
+          "key": "C",
+          "value": "A-III, B-IV, C-I, D-II\n"
+        },
+        {
+          "key": "D",
+          "value": "A-III, B-I, C-IV, D-II"
+        }
+      ],
+      "answer": "A",
+      "explanation": "<p>To solve this matching problem, we need to pair each item from List - I with the corresponding item in List - II. Let's analyze each pair:</p>\n\n<p>\n\n<strong>(A) Malignant tumors</strong> - Malignant tumors are characterized by uncontrolled growth and the ability to invade or spread to other parts of the body. This process is known as <strong>Metastasis</strong>.\n\n</p>\n\n<p>\n\n<strong>(B) MALT</strong> - MALT stands for Mucosa-Associated Lymphoid Tissue. It is a part of the immune system that includes tissues such as the tonsils and the Peyer's patches in the intestines. Therefore, it is associated with <strong>Lymphoid tissue</strong>.\n\n</p>\n\n<p>\n\n<strong>(C) NACO</strong> - NACO stands for the National AIDS Control Organization, which is involved in the fight against AIDS in India. Thus, it relates to <strong>AIDS</strong>.\n\n</p>\n\n<p>\n\n<strong>(D) $$\\alpha$$-Interferons</strong> - $$\\alpha$$-Interferons are a group of signaling proteins used in the treatment of various diseases, including some cancers, by helping the immune system destroy tumors. Therefore, they are connected to the action to <strong>Destroy tumors</strong>.\n\n</p>\n\n<p>Now, let's match these correctly:</p>\n\n<ul>\n\n<li><strong>(A) Malignant tumors</strong> - (III) Metastasis</li>\n\n<li><strong>(B) MALT</strong> - (IV) Lymphoid tissue</li>\n\n<li><strong>(C) NACO</strong> - (II) AIDS</li>\n\n<li><strong>(D) $$\\alpha$$-Interferons</strong> - (I) Destroy tumors</li>\n\n</ul>\n\n<p>Thus, the correct option is:</p>\n\n<p>Option A: A-III, B-IV, C-II, D-I</p>\n\n<p>Therefore, the answer is: <strong>Option A</strong></p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Match List I with List II :</p>\n<p><style type=\"text/css\">\n.tg  {border-collapse:collapse;border-spacing:0;}\n.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}\n.tg .tg-7btt{border-color:inherit;font-weight:bold;text-align:center;vertical-align:top}\n.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}\n</style>\n<table class=\"tg\" style=\"undefined;table-layout: fixed; width: 746px\"><colgroup>\n<col style=\"width: 78px\">\n<col style=\"width: 262px\">\n<col style=\"width: 83px\">\n<col style=\"width: 323px\">\n</colgroup>\n<thead>\n  <tr>\n    <th class=\"tg-7btt\"></th>\n    <th class=\"tg-7btt\">List - I</th>\n    <th class=\"tg-7btt\"></th>\n    <th class=\"tg-7btt\">List - II</th>\n  </tr></thead>\n<tbody>\n  <tr>\n    <td class=\"tg-c3ow\">(A)</td>\n    <td class=\"tg-0pky\">B-Lymphocytes</td>\n    <td class=\"tg-c3ow\">(I)</td>\n    <td class=\"tg-0pky\">Passive immunity  </td>\n  </tr>\n  <tr>\n    <td class=\"tg-c3ow\">(B)</td>\n    <td class=\"tg-0pky\">Interferons</td>\n    <td class=\"tg-c3ow\">(II)</td>\n    <td class=\"tg-0pky\">Cell mediated immunity  </td>\n  </tr>\n  <tr>\n    <td class=\"tg-c3ow\">(C)</td>\n    <td class=\"tg-0pky\">T-Lymphocytes</td>\n    <td class=\"tg-c3ow\">(III)</td>\n    <td class=\"tg-0pky\">Produce an army of proteins in response to pathogens</td>\n  </tr>\n  <tr>\n    <td class=\"tg-c3ow\">(D)</td>\n    <td class=\"tg-0pky\">Colostrum</td>\n    <td class=\"tg-c3ow\">(IV)</td>\n    <td class=\"tg-0pky\">Innate immunity  </td>\n  </tr>\n</tbody>\n</table></p>\n<p>Choose the correct answer from the options given below :</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "A-I, B-IV, C-II, D-III \n"
+        },
+        {
+          "key": "B",
+          "value": "A-IV, B-II, C-III, D-I \n"
+        },
+        {
+          "key": "C",
+          "value": "A-III, B-IV, C-II, D-I \n"
+        },
+        {
+          "key": "D",
+          "value": "A-II, B-IV, C-I, D-III"
+        }
+      ],
+      "answer": "C",
+      "explanation": "<p>To match the items in List I with those in List II, we need to understand the functions and roles of each item.</p>\n\n<p>Here are the explanations for each item:</p>\n\n<p><b>(A) B-Lymphocytes</b>: These are a type of white blood cell that plays a significant role in humoral immunity (part of the adaptive immune system). They produce antibodies to neutralize pathogens. This matches with <b>III - Produce an army of proteins in response to pathogens</b>.</p>\n\n<p><b>(B) Interferons</b>: These are proteins produced by various cells in response to viral infections. They are part of innate immunity and help in reducing the spread of viruses. This matches with <b>IV - Innate immunity</b>.</p>\n\n<p><b>(C) T-Lymphocytes</b>: These are another type of white blood cell, crucial for cell-mediated immunity. They do not produce antibodies but directly attack infected cells. This matches with <b>II - Cell mediated immunity</b>.</p>\n\n<p><b>(D) Colostrum</b>: This is the first form of milk produced after childbirth, rich in antibodies, providing passive immunity to the newborn. This matches with <b>I - Passive immunity</b>.</p>\n\n<p>Now, matching these explanations with the options given:</p>\n\n<p>Option C: A-III, B-IV, C-II, D-I</p>\n\n<p>Therefore, the correct answer is <b>Option C</b>.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Which of the following are Autoimmune disorders?</p>\n<p>A. Myasthenia gravis</p>\n<p>B. Rheumatoid arthritis</p>\n<p>C. Gout</p>\n<p>D. Muscular dystrophy</p>\n<p>E. Systemic Lupus Erythematosus (SLE)</p>\n<p>Choose the most appropriate answer from the options given below:</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "A, B & D only\n"
+        },
+        {
+          "key": "B",
+          "value": "A, B & E only\n"
+        },
+        {
+          "key": "C",
+          "value": "B, C & E only\n"
+        },
+        {
+          "key": "D",
+          "value": "C, D & E only"
+        }
+      ],
+      "answer": "B",
+      "explanation": "<p>Autoimmune disorders are conditions in which the immune system mistakenly attacks the body's own tissues. Analysis of the given diseases in the context of autoimmune disorders includes:</p>\n\n<ul>\n\n<li><strong>Myasthenia gravis</strong>: This is an autoimmune disorder where antibodies interfere with the communication between nerves and muscles, leading to muscle weakness.</li>\n\n<li><strong>Rheumatoid arthritis</strong>: Another autoimmune disease where the immune system mistakenly attacks the lining of the joints, causing inflammation and potentially leading to joint deformity.</li>\n\n<li><strong>Gout</strong>: This is not an autoimmune disease; it's a form of arthritis caused by excess uric acid in the bloodstream, resulting in the formation of crystals in joints, not by immune system activity attacking body tissues.</li>\n\n<li><strong>Muscular dystrophy</strong>: This refers to a group of genetic diseases characterized by progressive weakness and loss of muscle mass, not caused by an autoimmune response.</li>\n\n<li><strong>Systemic Lupus Erythematosus (SLE)</strong>: It is an autoimmune disease in which the immune system attacks various body systems including skin, joints, and organs like kidneys and heart.</li>\n\n</ul>\n\n<p>With this analysis, the correct diseases identified as autoimmune disorders are Myasthenia gravis, Rheumatoid arthritis, and Systemic Lupus Erythematosus (SLE). Therefore, among the provided options, the correct answer is:</p>\n\n<p><strong>Option B: A, B & E only</strong></p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Match List I with List II:</p>\n<p><style type=\"text/css\">\n.tg  {border-collapse:collapse;border-spacing:0;}\n.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}\n.tg .tg-7btt{border-color:inherit;font-weight:bold;text-align:center;vertical-align:top}\n.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}\n</style>\n<table class=\"tg\" style=\"undefined;table-layout: fixed; width: 555px\">\n<colgroup>\n<col style=\"width: 71px\">\n<col style=\"width: 195px\">\n<col style=\"width: 74px\">\n<col style=\"width: 215px\">\n</colgroup>\n<thead>\n  <tr>\n    <th class=\"tg-7btt\"></th>\n    <th class=\"tg-7btt\">List - I</th>\n    <th class=\"tg-7btt\"></th>\n    <th class=\"tg-7btt\">List - II</th>\n  </tr>\n</thead>\n<tbody>\n  <tr>\n    <td class=\"tg-c3ow\">A.</td>\n    <td class=\"tg-0pky\">Typhoid</td>\n    <td class=\"tg-c3ow\">I.</td>\n    <td class=\"tg-0pky\">Fungus</td>\n  </tr>\n  <tr>\n    <td class=\"tg-c3ow\">B.</td>\n    <td class=\"tg-0pky\">Leishmaniasis</td>\n    <td class=\"tg-c3ow\">II.</td>\n    <td class=\"tg-0pky\">Nematode</td>\n  </tr>\n  <tr>\n    <td class=\"tg-c3ow\">C.</td>\n    <td class=\"tg-0pky\">Ringworm</td>\n    <td class=\"tg-c3ow\">III.</td>\n    <td class=\"tg-0pky\">Protozoa</td>\n  </tr>\n  <tr>\n    <td class=\"tg-c3ow\">D.</td>\n    <td class=\"tg-0pky\">Filariasis</td>\n    <td class=\"tg-c3ow\">IV.</td>\n    <td class=\"tg-0pky\">Bacteria</td>\n  </tr>\n</tbody>\n</table></p>\n<p>Choose the correct answer from the options given below:</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "A-I, B-III, C-II, D-IV\n"
+        },
+        {
+          "key": "B",
+          "value": "A-IV, B-III, C-I, D-II\n"
+        },
+        {
+          "key": "C",
+          "value": "A-III, B-I, C-IV, D-II\n"
+        },
+        {
+          "key": "D",
+          "value": "A-II, B-IV, C-III, D-I"
+        }
+      ],
+      "answer": "B",
+      "explanation": "<p>To correctly match List I (Diseases) with List II (Pathogen Types), we need to understand the causative agents for each disease listed in List I.</p>\n\n<p><strong>Details for each disease:</strong></p>\n\n<ul>\n\n<li><strong>Typhoid:</strong> This is a bacterial infection caused by <em>Salmonella typhi</em>. Hence, it matches with \"Bacteria\".</li>\n\n<li><strong>Leishmaniasis:</strong> This disease is caused by parasitic protozoans of the genus Leishmania. Therefore, it corresponds to \"Protozoa\".</li>\n\n<li><strong>Ringworm:</strong> Despite its name, ringworm is not caused by a worm. It’s a fungal infection on the skin, caused by various types of fungi. So, Ringworm should be associated with \"Fungus\".</li>\n\n<li><strong>Filariasis:</strong> Also known as lymphatic filariasis, this condition is caused by infection with parasites classified as nematodes (roundworms) of the family Filarioidea. Thus, it matches with \"Nematode\".</li>\n\n</ul>\n\n<p>With this understanding:</p>\n\n<ul>\n\n<li>A should be paired with IV (Bacteria).</li>\n\n<li>B should be paired with III (Protozoa).</li>\n\n<li>C should be paired with I (Fungus).</li>\n\n<li>D should be paired with II (Nematode).</li>\n\n</ul>\n\n<p><strong>Corresponding to the options provided:</strong></p>\n\n<ul>\n\n<li>Option A: A-I, B-III, C-II, D-IV - Incorrect</li>\n\n<li>Option B: A-IV, B-III, C-I, D-II - Correct!</li>\n\n<li>Option C: A-III, B-I, C-IV, D-II - Incorrect</li>\n\n<li>Option D: A-II, B-IV, C-III, D-I - Incorrect</li>\n\n</ul>\n\n<p>Therefore, the correct answer is <strong>Option B</strong>: A-IV, B-III, C-I, D-II.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Match List I with List II:</p>\n<p><style type=\"text/css\">\n.tg  {border-collapse:collapse;border-spacing:0;}\n.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}\n.tg .tg-7btt{border-color:inherit;font-weight:bold;text-align:center;vertical-align:top}\n.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}\n</style>\n<table class=\"tg\" style=\"undefined;table-layout: fixed; width: 555px\">\n<colgroup>\n<col style=\"width: 71px\">\n<col style=\"width: 195px\">\n<col style=\"width: 74px\">\n<col style=\"width: 215px\">\n</colgroup>\n<thead>\n  <tr>\n    <th class=\"tg-7btt\"></th>\n    <th class=\"tg-7btt\">List - I</th>\n    <th class=\"tg-7btt\"></th>\n    <th class=\"tg-7btt\">List - II</th>\n  </tr>\n</thead>\n<tbody>\n  <tr>\n    <td class=\"tg-c3ow\">A.</td>\n    <td class=\"tg-0pky\">Cocaine</td>\n    <td class=\"tg-c3ow\">I.</td>\n    <td class=\"tg-0pky\">Effective sedative in surgery</td>\n  </tr>\n  <tr>\n    <td class=\"tg-c3ow\">B.</td>\n    <td class=\"tg-0pky\">Heroin</td>\n    <td class=\"tg-c3ow\">II.</td>\n    <td class=\"tg-0pky\">Cannabis sativa</td>\n  </tr>\n  <tr>\n    <td class=\"tg-c3ow\">C.</td>\n    <td class=\"tg-0pky\">Morphine</td>\n    <td class=\"tg-c3ow\">III.</td>\n    <td class=\"tg-0pky\">Erythroxylum</td>\n  </tr>\n  <tr>\n    <td class=\"tg-c3ow\">D.</td>\n    <td class=\"tg-0pky\">Marijuana</td>\n    <td class=\"tg-c3ow\">IV.</td>\n    <td class=\"tg-0pky\">Papaver somniferum</td>\n  </tr>\n</tbody>\n</table></p>\n<p>Choose the correct answer from the options given below:</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "A-IV, B-III, C-I, D-II\n"
+        },
+        {
+          "key": "B",
+          "value": "A-I, B-III, C-II, D-IV\n"
+        },
+        {
+          "key": "C",
+          "value": "A-II, B-I, C-III, D-IV\n"
+        },
+        {
+          "key": "D",
+          "value": "A-III, B-IV, C-I, D-II"
+        }
+      ],
+      "answer": "D",
+      "explanation": "<p>To solve this matching problem, we need to identify which plant or application each substance in List I is correctly associated with in List II.</p>\n\n<p><strong>List I</strong> (Substances) and <strong>List II</strong> (their sources or uses):</p>\n\n<ul>\n\n<li><strong>Cocaine</strong> - Cocaine is derived from the coca plant, known scientifically as <em>Erythroxylum</em>. This matches with <strong>III</strong> in List II.</li>\n\n<li><strong>Heroin</strong> - Heroin is derived from the opium poppy, <em>Papaver somniferum</em>. This corresponds to <strong>IV</strong> in List II.</li>\n\n<li><strong>Morphine</strong> - Like heroin, Morphine is also derived from the opium poppy, <em>Papaver somniferum</em>. However, morphine is also directly associated with its use as a sedative in surgery, making <strong>I</strong> a valid association for its usage.</li>\n\n<li><strong>Marijuana</strong> - Marijuana is derived from <em>Cannabis sativa</em>, which corresponds to <strong>II</strong> in List II.</li>\n\n</ul>\n\n<p>With this information:</p>\n\n<ul>\n\n<li>A (Cocaine) matches with III (from <em>Erythroxylum</em>).</li>\n\n<li>B (Heroin) matches with IV (<em>Papaver somniferum</em>).</li>\n\n<li>C (Morphine) as an effective sedative in surgery matches with I.</li>\n\n<li>D (Marijuana) matches with II (<em>Cannabis sativa</em>).</li>\n\n</ul>\n\n<p>The correct matching based on the provided options is:</p>\n\n<p><strong>Option D:</strong> A-III, B-IV, C-I, D-II</p>\n\n<p>This option correctly matches the substance with their respective sources or primary uses.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Match List I with List II :</p>\n<p><style type=\"text/css\">\n.tg  {border-collapse:collapse;border-spacing:0;}\n.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}\n.tg .tg-7btt{border-color:inherit;font-weight:bold;text-align:center;vertical-align:top}\n.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}\n</style>\n<table class=\"tg\" style=\"undefined;table-layout: fixed; width: 635px\">\n<colgroup>\n<col style=\"width: 71px\">\n<col style=\"width: 195px\">\n<col style=\"width: 74px\">\n<col style=\"width: 295px\">\n</colgroup>\n<thead>\n  <tr>\n    <th class=\"tg-7btt\"></th>\n    <th class=\"tg-7btt\">List - I</th>\n    <th class=\"tg-7btt\"></th>\n    <th class=\"tg-7btt\">List - II</th>\n  </tr>\n</thead>\n<tbody>\n  <tr>\n    <td class=\"tg-c3ow\">A.</td>\n    <td class=\"tg-0pky\">Common cold</td>\n    <td class=\"tg-c3ow\">I.</td>\n    <td class=\"tg-0pky\">Plasmodium</td>\n  </tr>\n  <tr>\n    <td class=\"tg-c3ow\">B.</td>\n    <td class=\"tg-0pky\">Haemozoin</td>\n    <td class=\"tg-c3ow\">II.</td>\n    <td class=\"tg-0pky\">Typhoid</td>\n  </tr>\n  <tr>\n    <td class=\"tg-c3ow\">C.</td>\n    <td class=\"tg-0pky\">Widal test</td>\n    <td class=\"tg-c3ow\">III.</td>\n    <td class=\"tg-0pky\">Rhinoviruses</td>\n  </tr>\n  <tr>\n    <td class=\"tg-c3ow\">D.</td>\n    <td class=\"tg-0pky\">Allergy</td>\n    <td class=\"tg-c3ow\">IV.</td>\n    <td class=\"tg-0pky\">Dust mites</td>\n  </tr>\n</tbody>\n</table></p>\n<p>Choose the correct answer from the options given below :</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "A-III, B-IV, C-III, D-I\n"
+        },
+        {
+          "key": "B",
+          "value": "A-I, B-III, C-II, D-IV\n"
+        },
+        {
+          "key": "C",
+          "value": "A-III, B-I, C-II, D-IV\n"
+        },
+        {
+          "key": "D",
+          "value": " A-IV, B-II, C-III, D-I"
+        }
+      ],
+      "answer": "C",
+      "explanation": "<p>To correctly match the items in List I with List II, we need to understand each term and its relationship:</p>\n\n<ul>\n\n<li><strong>Common Cold</strong> is primarily caused by <strong>Rhinoviruses</strong>. Hence, A is linked with III.</li>\n\n<li><strong>Haemozoin</strong> is a byproduct of the digestion of blood by parasites such as <strong>Plasmodium</strong> (which causes malaria). Therefore, B corresponds with I.</li>\n\n<li><strong>Widal test</strong> is a diagnostic test for <strong>Typhoid</strong> fever, caused by the bacterium Salmonella Typhi. Thus, C matches with II.</li>\n\n<li><strong>Allergy</strong> can be triggered by many allergens, including <strong>Dust Mites</strong>, which are a common cause of respiratory and dermatological allergies. Consequently, D aligns with IV.</li>\n\n</ul>\n\n<p>Based on this, the matching should be:</p>\n\n<p>\n\n<p>A-III, B-I, C-II, D-IV</p>\n\n</p>\n\n<p>Therefore, the correct answer is:</p>\n\n<p>Option C: A-III, B-I, C-II, D-IV</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Given below are two statements :</p>\n<p>Statement I : Bone marrow is the main lymphoid organ where all blood cells including lymphocytes are produced.</p>\n<p>Statement II : Both bone marrow and thymus provide micro environments for the development and maturation of T-lymphocytes.</p>\n<p>In the light of above statements, choose the most appropriate answer from the options given below</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "Both Statement I and Statement II are correct.\n"
+        },
+        {
+          "key": "B",
+          "value": "Both Statement I and Statement II are incorrect.\n"
+        },
+        {
+          "key": "C",
+          "value": "Statement I is correct but Statement II is incorrect.\n"
+        },
+        {
+          "key": "D",
+          "value": "Statement I is incorrect but Statement II is correct."
+        }
+      ],
+      "answer": "A",
+      "explanation": "<p>The correct answer is option no. (A) as both statements I and II are correct.</p>\n<p>In humans, the bone marrow is the main lymphoid organ where all blood cells including lymphocytes are produced.</p>\n<p>Both bone-marrow and thymus provide micro-environments for the development and maturation of T-lymphocytes.</p>\n<p>Options (B), (C) and (D) are incorrect.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Which of the following sexually transmitted \ninfections are completely curable ?</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "HIV infection and Trichomoniasis"
+        },
+        {
+          "key": "B",
+          "value": "Syphilis and trichomoniasis"
+        },
+        {
+          "key": "C",
+          "value": "Hepatitis – B and Genital herpes"
+        },
+        {
+          "key": "D",
+          "value": "Genital herpes and Genital warts "
+        }
+      ],
+      "answer": "B",
+      "explanation": "<p>Among the options provided, sexually transmitted infections (STIs) caused by bacteria are typically curable with antibiotics, while those caused by viruses are not curable but can be managed.</p>\n<p><b>Option A : HIV infection and Trichomoniasis -</b> HIV is a viral infection and currently has no cure, but it can be managed with antiretroviral therapy. Trichomoniasis is a parasitic infection and is curable with antibiotics.</p>\n<p><b>Option B : Syphilis and Trichomoniasis -</b> Both syphilis and trichomoniasis are curable. Syphilis is a bacterial infection and can be cured with antibiotics, typically penicillin. Trichomoniasis, as mentioned above, is a parasitic infection that can also be cured with antibiotics.</p>\n<p><b>Option C : Hepatitis – B and Genital herpes -</b> Both are viral infections and, while their symptoms can be managed, they are not curable.</p>\n<p><b>Option D : Genital herpes and Genital warts -</b> Both are caused by viruses (Herpes simplex and Human papillomavirus respectively) and, while their symptoms can be managed, they are not curable.</p>\n<p>So, the correct answer is :</p>\n<p>Option B : Syphilis and trichomoniasis.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Match List - I with List - II. </p>\n<p><style type=\"text/css\">\n.tg  {border-collapse:collapse;border-spacing:0;}\n.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}\n.tg .tg-7btt{border-color:inherit;font-weight:bold;text-align:center;vertical-align:top}\n.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}\n</style>\n<table class=\"tg\" style=\"undefined;table-layout: fixed; width: 457px\">\n<colgroup>\n<col style=\"width: 48px\">\n<col style=\"width: 170px\">\n<col style=\"width: 55px\">\n<col style=\"width: 184px\">\n</colgroup>\n<thead>\n  <tr>\n    <th class=\"tg-7btt\"></th>\n    <th class=\"tg-7btt\">List - I</th>\n    <th class=\"tg-7btt\"></th>\n    <th class=\"tg-7btt\">List - II</th>\n  </tr>\n</thead>\n<tbody>\n  <tr>\n    <td class=\"tg-c3ow\">(A)</td>\n    <td class=\"tg-0pky\">Typhoid</td>\n    <td class=\"tg-c3ow\">(I)</td>\n    <td class=\"tg-0pky\">Protozoan</td>\n  </tr>\n  <tr>\n    <td class=\"tg-c3ow\">(B)</td>\n    <td class=\"tg-0pky\">Elephantiasis</td>\n    <td class=\"tg-c3ow\">(II)</td>\n    <td class=\"tg-0pky\">Salmonella</td>\n  </tr>\n  <tr>\n    <td class=\"tg-c3ow\">(C)</td>\n    <td class=\"tg-0pky\">Ringworm</td>\n    <td class=\"tg-c3ow\">(III)</td>\n    <td class=\"tg-0pky\">Aschelminthes</td>\n  </tr>\n  <tr>\n    <td class=\"tg-c3ow\">(D)</td>\n    <td class=\"tg-0pky\">Malaria</td>\n    <td class=\"tg-c3ow\">(IV)</td>\n    <td class=\"tg-0pky\">Microsporum</td>\n  </tr>\n</tbody>\n</table></p>\n<p>Choose the correct answer from the options given \nbelow :</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "(A)-(I), (B)-(IV), (C)-(III), (D)-(II) "
+        },
+        {
+          "key": "B",
+          "value": "(A)-(I), (B)-(III), (C)-(IV), (D)-(II) "
+        },
+        {
+          "key": "C",
+          "value": " (A)-(II), (B)-(III), (C)-(IV), (D)-(I)"
+        },
+        {
+          "key": "D",
+          "value": "(A)-(II), (B)-(IV), (C)-(III), (D)-(I)"
+        }
+      ],
+      "answer": "C",
+      "explanation": "The correct matches are :\n<br/><br/>- Typhoid is caused by bacteria of the genus Salmonella.\n<br/><br/>- Elephantiasis is caused by a parasitic worm from the group Aschelminthes (specifically, filarial worms).\n<br/><br/>- Ringworm is a fungal infection caused by fungi of the genus Microsporum.\n<br/><br/>- Malaria is caused by a protozoan parasite from the genus Plasmodium.\n\n<br/><br/>So, the correct answer is :\n<br/><br/>Option C (A)-(II), (B)-(III), (C)-(IV), (D)-(I)"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Match List-I with List-II.</p>\n<p><style type=\"text/css\">\n.tg  {border-collapse:collapse;border-spacing:0;}\n.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}\n.tg .tg-7btt{border-color:inherit;font-weight:bold;text-align:center;vertical-align:top}\n.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}\n</style>\n<table class=\"tg\" style=\"undefined;table-layout: fixed; width: 457px\">\n<colgroup>\n<col style=\"width: 48px\">\n<col style=\"width: 170px\">\n<col style=\"width: 55px\">\n<col style=\"width: 184px\">\n</colgroup>\n<thead>\n  <tr>\n    <th class=\"tg-7btt\"></th>\n    <th class=\"tg-7btt\">List - I</th>\n    <th class=\"tg-7btt\"></th>\n    <th class=\"tg-7btt\">List - II</th>\n  </tr>\n</thead>\n<tbody>\n  <tr>\n    <td class=\"tg-c3ow\">(A)</td>\n    <td class=\"tg-0pky\">Cytokine barriers</td>\n    <td class=\"tg-c3ow\">(I)</td>\n    <td class=\"tg-0pky\">Mucus coating of respiratory tract</td>\n  </tr>\n  <tr>\n    <td class=\"tg-c3ow\">(B)</td>\n    <td class=\"tg-0pky\">Cellular barriers</td>\n    <td class=\"tg-c3ow\">(II)</td>\n    <td class=\"tg-0pky\">Interferons</td>\n  </tr>\n  <tr>\n    <td class=\"tg-c3ow\">(C)</td>\n    <td class=\"tg-0pky\">Physiological barriers</td>\n    <td class=\"tg-c3ow\">(III)</td>\n    <td class=\"tg-0pky\">Neutrophils and Macrophages</td>\n  </tr>\n  <tr>\n    <td class=\"tg-c3ow\">(D)</td>\n    <td class=\"tg-0pky\">Physical barriers</td>\n    <td class=\"tg-c3ow\">(IV)</td>\n    <td class=\"tg-0pky\">Tears and Saliva</td>\n  </tr>\n</tbody>\n</table></p>\n<p>Choose the correct answer from the options given \nbelow :</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "(A)-(II), (B)-(III), (C)-(IV), (D)-(I)"
+        },
+        {
+          "key": "B",
+          "value": "(A)-(III), (B)-(I), (C)-(IV), (D)-(II)"
+        },
+        {
+          "key": "C",
+          "value": "(A)-(III), (B)-(I), (C)-(II), (D)-(IV) "
+        },
+        {
+          "key": "D",
+          "value": "(A)-(II), (B)-(III), (C)-(I), (D)-(IV)"
+        }
+      ],
+      "answer": "A",
+      "explanation": "<p>(A) Cytokine barriers - (II) Interferons</p>\n<p>Cytokines are a broad and loose category of small proteins that are important in cell signaling. Their release has an effect on the behavior of cells around them. It can be due to immune response or inflammation. Interferons are a type of cytokine. They are released by host cells in response to the presence of pathogens such as viruses, bacteria, parasites, or tumor cells. They allow for communication between cells to trigger the protective defenses of the immune system that eradicate pathogens or tumors.</p>\n<p>(B) Cellular barriers - (III) Neutrophils and Macrophages</p>\n<p>Cellular barriers are formed by immune cells that prevent the spread and movement of foreign substances in the body. Neutrophils and macrophages are types of white blood cells and are part of the immune system. Neutrophils are the most abundant type of granulocytes and the most abundant type of white blood cells in most mammals. They form an essential part of the innate immune system. Their functions vary from the destruction of bacteria and fungi to the stimulation of other immune cells. Macrophages, on the other hand, are a type of white blood cell that engulfs and digests cellular debris, foreign substances, microbes, cancer cells, and anything else that does not have the type of proteins specific to healthy body cells on its surface in a process called phagocytosis.</p>\n<p>(C) Physiological barriers - (IV) Tears and Saliva</p>\n<p>Physiological barriers are those which use the body’s own natural processes to prevent infection. For instance, both tears and saliva contain enzymes such as lysozyme which help to break down the cell walls of many kinds of bacteria.</p>\n<p>(D) Physical barriers - (I) Mucus coating of the respiratory tract</p>\n<p>Physical barriers are the body&#39;s first line of defense against pathogens. These barriers are structural in nature. The mucus coating of the respiratory tract is a great example. It traps pathogens, dust, and other particles that enter the nasal passage with each breath, and because the mucus is constantly moved by cilia, it is eventually coughed or sneezed out, or swallowed and destroyed by stomach acids. Thus, it acts as a physical barrier, preventing pathogens from reaching the lungs.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Which one of the following common sexually transmitted diseases is completely curable when detected early and treated properly?</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "Gonorrhoea"
+        },
+        {
+          "key": "B",
+          "value": "Hepatitis-B"
+        },
+        {
+          "key": "C",
+          "value": "HIV Infection"
+        },
+        {
+          "key": "D",
+          "value": "Genital herpes"
+        }
+      ],
+      "answer": "A",
+      "explanation": "<p>Gonorrhoea is a sexually transmitted disease caused by the bacterium Neisseria gonorrhoeae. It can be effectively treated with antibiotics, especially when detected early.</p>\n<p>Hepatitis B, HIV Infection, and Genital Herpes are caused by viruses. These viral infections can be managed with antiviral therapy but they are typically not completely curable.</p>\n<p>So, the correct answer is :</p>\n<p>Option A : Gonorrhoea</p>\n"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Which one of the following techniques does not serve the purpose of early diagnosis of a disease for its \nearly treatment?</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "Serum and Urine analysis"
+        },
+        {
+          "key": "B",
+          "value": "Polymerase Chain Reaction (PCR) technique"
+        },
+        {
+          "key": "C",
+          "value": "Enzyme Linked Immuno-Sorbent Assay (ELISA) technique"
+        },
+        {
+          "key": "D",
+          "value": "Recombinant DNA Technology"
+        }
+      ],
+      "answer": "A",
+      "explanation": "<p>The correct answer is option (A) because using conventional methods of diagnosis like serum and urine \nanalysis, etc, do not help in early diagnosis. Recombinant DNA technology, Polymerase Chain \nReaction [PCR] and Enzyme Linked Immuno-Sorbent Assay (ELISA) are some of the techniques that \nserve the purpose of early diagnosis.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>In which blood corpuscles, the HIV undergoes replication and produces progeny viruses?</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "B-lymphocytes"
+        },
+        {
+          "key": "B",
+          "value": "Basophils"
+        },
+        {
+          "key": "C",
+          "value": "Eosinophils"
+        },
+        {
+          "key": "D",
+          "value": "T<sub>H</sub> cells"
+        }
+      ],
+      "answer": "D",
+      "explanation": "HIV, or the Human Immunodeficiency Virus, primarily infects CD4+ T cells, which are a type of T cell. In the context of the options given, T<sub>H</sub> cells, or T helper cells, are a subset of CD4+ T cells.\n\n<br/><br/>So, the correct answer is :\n\n<br/><br/>Option D : T<sub>H</sub> cells"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Match List I with List II.</p>\n<p><style type=\"text/css\">\n.tg  {border-collapse:collapse;border-spacing:0;}\n.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}\n.tg .tg-7btt{border-color:inherit;font-weight:bold;text-align:center;vertical-align:top}\n.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}\n</style>\n<table class=\"tg\" style=\"undefined;table-layout: fixed; width: 447px\">\n<colgroup>\n<col style=\"width: 49px\">\n<col style=\"width: 154px\">\n<col style=\"width: 54px\">\n<col style=\"width: 190px\">\n</colgroup>\n<thead>\n  <tr>\n    <th class=\"tg-7btt\"></th>\n    <th class=\"tg-7btt\">List I</th>\n    <th class=\"tg-7btt\"></th>\n    <th class=\"tg-7btt\">List II</th>\n  </tr>\n</thead>\n<tbody>\n  <tr>\n    <td class=\"tg-c3ow\">(A)</td>\n    <td class=\"tg-0pky\">Heroin</td>\n    <td class=\"tg-c3ow\">(I)</td>\n    <td class=\"tg-0pky\">Effect on cardiovascular system</td>\n  </tr>\n  <tr>\n    <td class=\"tg-c3ow\">(B)</td>\n    <td class=\"tg-0pky\">Marijuana</td>\n    <td class=\"tg-c3ow\">(II)</td>\n    <td class=\"tg-0pky\">Slow down body function</td>\n  </tr>\n  <tr>\n    <td class=\"tg-c3ow\">(C)</td>\n    <td class=\"tg-0pky\">Cocaine</td>\n    <td class=\"tg-c3ow\">(III)</td>\n    <td class=\"tg-0pky\">Painkiller</td>\n  </tr>\n  <tr>\n    <td class=\"tg-c3ow\">(D)</td>\n    <td class=\"tg-0pky\">Morphine</td>\n    <td class=\"tg-c3ow\">(IV)</td>\n    <td class=\"tg-0pky\">Interfere with transport of dopamine</td>\n  </tr>\n</tbody>\n</table></p>\n<p>Choose the correct answer from the options given below:</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "A-I, B-II, C-III, D-IV"
+        },
+        {
+          "key": "B",
+          "value": "A-IV, B-III, C-II, D-I"
+        },
+        {
+          "key": "C",
+          "value": "A-III, B-IV, C-I, D-II"
+        },
+        {
+          "key": "D",
+          "value": "A-II, B-I, C-IV, D-III"
+        }
+      ],
+      "answer": "D",
+      "explanation": "<p>The correct answer is option (D) as</p>\n<p>$$\\bullet$$ Heroin belongs to the category of opioids and it is a depressant that slows down body functions.</p>\n<p>$$\\bullet$$ Marijuana is known for its effect on the cardiovascular system of the body.</p>\n<p>$$\\bullet$$ Cocaine interferes with the transport of the neurotransmitter dopamine.</p>\n<p>Morphine is used is a sedative and painkiller.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Match List I with List II.</p>\n<p><style type=\"text/css\">\n.tg  {border-collapse:collapse;border-spacing:0;}\n.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}\n.tg .tg-7btt{border-color:inherit;font-weight:bold;text-align:center;vertical-align:top}\n.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}\n</style>\n<table class=\"tg\" style=\"undefined;table-layout: fixed; width: 447px\">\n<colgroup>\n<col style=\"width: 49px\">\n<col style=\"width: 154px\">\n<col style=\"width: 54px\">\n<col style=\"width: 190px\">\n</colgroup>\n<thead>\n  <tr>\n    <th class=\"tg-7btt\"></th>\n    <th class=\"tg-7btt\">List I</th>\n    <th class=\"tg-7btt\"></th>\n    <th class=\"tg-7btt\">List II</th>\n  </tr>\n</thead>\n<tbody>\n  <tr>\n    <td class=\"tg-c3ow\">(A)</td>\n    <td class=\"tg-0pky\">Ringworm</td>\n    <td class=\"tg-c3ow\">(I)</td>\n    <td class=\"tg-0pky\">Haemophilus influenzae</td>\n  </tr>\n  <tr>\n    <td class=\"tg-c3ow\">(B)</td>\n    <td class=\"tg-0pky\">Filariasis</td>\n    <td class=\"tg-c3ow\">(II)</td>\n    <td class=\"tg-0pky\">Trichophyton</td>\n  </tr>\n  <tr>\n    <td class=\"tg-c3ow\">(C)</td>\n    <td class=\"tg-0pky\">Malaria</td>\n    <td class=\"tg-c3ow\">(III)</td>\n    <td class=\"tg-0pky\">Wuchereria bancrofti</td>\n  </tr>\n  <tr>\n    <td class=\"tg-c3ow\">(D)</td>\n    <td class=\"tg-0pky\">Pneumonia</td>\n    <td class=\"tg-c3ow\">(IV)</td>\n    <td class=\"tg-0pky\">Plasmodium vivax</td>\n  </tr>\n</tbody>\n</table></p>\n<p>Choose the correct answer from the options given below: </p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "A-II, B-III, C-I, D-IV"
+        },
+        {
+          "key": "B",
+          "value": "A-III, B-II, C-I, D-IV"
+        },
+        {
+          "key": "C",
+          "value": "A-III, B-II, C-IV, D-I"
+        },
+        {
+          "key": "D",
+          "value": "A-II, B-III, C-IV, D-I"
+        }
+      ],
+      "answer": "D",
+      "explanation": "The diseases listed in List I are caused by the organisms listed in List II :\n\n<br/><br/>- Ringworm is caused by the fungus Trichophyton.\n<br/><br/>- Filariasis is caused by the parasite Wuchereria bancrofti.\n<br/><br/>- Malaria is caused by the protozoan Plasmodium species (including Plasmodium vivax).\n<br/><br/>- Pneumonia can be caused by a variety of organisms, including the bacterium Haemophilus influenzae.\n\n<br/><br/>Therefore, the correct answer is :\n\n<br/><br/>Option D : A-II, B-III, C-IV, D-I"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Which of the following reasons is mainly responsible for graft rejection in transplantation of organs?</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "Cell-mediated response"
+        },
+        {
+          "key": "B",
+          "value": "Inability of recipient to differentiate between ‘self’ and ‘non-self’ tissues/cells"
+        },
+        {
+          "key": "C",
+          "value": "Humoral immune response only"
+        },
+        {
+          "key": "D",
+          "value": "Auto-immune response"
+        }
+      ],
+      "answer": "A",
+      "explanation": "<p>Option (1) is the correct answer as the body is able to differentiate between ‘self’ and ‘non-self’ and the cell-mediated immune response is responsible for the graft rejection.</p>\n<p>Option (2) is incorrect as body of higher vertebrates have the ability to differentiate foreign organisms  from self cells.</p>\n<p>Option (4) is incorrect as the autoimmune response occur when the body’s immune system fails to recognize ‘self’ from ‘non-self’ and starts destroying the body’s own cells.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Match List - I with List - II :</p>\n<p><style type=\"text/css\">\n.tg  {border-collapse:collapse;border-spacing:0;}\n.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg .tg-amwm{font-weight:bold;text-align:center;vertical-align:top}\n.tg .tg-0lax{text-align:left;vertical-align:top}\n</style>\n<table class=\"tg\">\n<thead>\n  <tr>\n    <th class=\"tg-amwm\"></th>\n    <th class=\"tg-amwm\">List - I</th>\n    <th class=\"tg-amwm\"></th>\n    <th class=\"tg-amwm\">List - II</th>\n  </tr>\n</thead>\n<tbody>\n  <tr>\n    <td class=\"tg-0lax\">(a)</td>\n    <td class=\"tg-0lax\">Cellular barrier</td>\n    <td class=\"tg-0lax\">(i)</td>\n    <td class=\"tg-0lax\">Interferons</td>\n  </tr>\n  <tr>\n    <td class=\"tg-0lax\">(b)</td>\n    <td class=\"tg-0lax\">Cytokine barrier</td>\n    <td class=\"tg-0lax\">(ii)</td>\n    <td class=\"tg-0lax\">Mucus</td>\n  </tr>\n  <tr>\n    <td class=\"tg-0lax\">(c)</td>\n    <td class=\"tg-0lax\">Physical barrier</td>\n    <td class=\"tg-0lax\">(iii)</td>\n    <td class=\"tg-0lax\">Neutrophils</td>\n  </tr>\n  <tr>\n    <td class=\"tg-0lax\">(d)</td>\n    <td class=\"tg-0lax\">Physiological barrier</td>\n    <td class=\"tg-0lax\">(iv)</td>\n    <td class=\"tg-0lax\">HCl in gastric juice</td>\n  </tr>\n</tbody>\n</table></p>\n<p>Choose the correct answer from the options given below :</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "(a) - (iii), (b) - (i), (c) - (ii), (d) - (iv)"
+        },
+        {
+          "key": "B",
+          "value": "(a) - (ii), (b) - (iii), (c) - (iv), (d) - (i)"
+        },
+        {
+          "key": "C",
+          "value": "(a) - (ii), (b) - (iii), (c) - (i), (d) - (iv)"
+        },
+        {
+          "key": "D",
+          "value": "(a) - (iii), (b) - (iv), (c) - (ii), (d) - (i)"
+        }
+      ],
+      "answer": "A",
+      "explanation": "<p>Option (a) is the correct answer because cellular barriers include NK cells, macrophages (monocytes) and neutrophils (PMNL).</p>\n<p>Cytokine barriers include interferons.</p>\n<p>Physical barriers include mucus membranes and skin.</p>\n<p>Physiological barriers include HCl in gastric juice, saliva and tears etc.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Given below are two statements:</p>\n<p>Statement I : Autoimmune disorder is a condition where body defense mechanism recognizes its own cells as foreign bodies.</p>\n<p>Statement II : Rheumatoid arthritis is a condition where body does not attack self cells.</p>\n<p>In the light of the above statements, choose the most appropriate answer from the options given below :</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "Both Statement I and Statement II are correct"
+        },
+        {
+          "key": "B",
+          "value": "Both Statement I and Statement II are incorrect"
+        },
+        {
+          "key": "C",
+          "value": "Statement I is correct but Statement II is incorrect"
+        },
+        {
+          "key": "D",
+          "value": "Statement I is incorrect but Statement II is correct"
+        }
+      ],
+      "answer": "C",
+      "explanation": "<p>Option (c) is the correct answer as autoimmune disorder is a condition where body defense mechanism recognises its own cells as foreign bodies. Sometimes, due to genetic and other unknown reasons, the body attacks self cells.</p>\n<p>Rheumatoid arthritis is an example where body attacks self cells (synovial membrane).</p>\n<p>So Statement I is correct but Statement II is incorrect.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Select the incorrect statement with respect to acquired immunity.</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "Primary response is produced when our body encounters a pathogen for the first time."
+        },
+        {
+          "key": "B",
+          "value": "Anamnestic response is elicited on subsequent encounters with the same pathogen."
+        },
+        {
+          "key": "C",
+          "value": "Anamnestic response is due to memory of first encounter."
+        },
+        {
+          "key": "D",
+          "value": "Acquired immunity is non-specific type of defense present at the time of birth."
+        }
+      ],
+      "answer": "D",
+      "explanation": "<p>Option (d) is the correct answer as acquired immunity is a specific type of defence which is not present at the time of birth.</p>\n<p>Option (c), (a) and (b) are true statements and hence cannot be the answer.</p>\n<p>Anamnestic response or secondary immune response is a highly intensified response due to memory of first encounter.</p>\n<p>When our body encounters a pathogen for the first time then the body elicits the primary immune response.</p>\n<p>When there is a subsequent encounter with the same pathogen, secondary or anamnestic immune response is elicited.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Identify the incorrect pair",
+      "options": [
+        {
+          "key": "A",
+          "value": "Drugs - Ricin"
+        },
+        {
+          "key": "B",
+          "value": "Alkaloids - Codeine"
+        },
+        {
+          "key": "C",
+          "value": "Toxin - Abrin"
+        },
+        {
+          "key": "D",
+          "value": "Lectins - Concanavalin A"
+        }
+      ],
+      "answer": "A",
+      "explanation": "$$\\bullet$$ Option (a) is incorrect because ricin is a toxin obtained from Ricinus plant. Vinblastin and curcumin are drugs.<br><br>$$\\bullet$$ Morphine and codeine are alkaloids.<br><br>$$\\bullet$$ Abrin is also a toxin obtained by plant Abrus.<br><br>$$\\bullet$$ Concanavalin A is a lectin."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "For effective treatment of the disease, early diagnosis and understanding its pathophysiology is very important. Which of the following molecular diagnostic techniques is very useful for early detection?",
+      "options": [
+        {
+          "key": "A",
+          "value": "Hybridization Technique"
+        },
+        {
+          "key": "B",
+          "value": "Western Blotting Technique"
+        },
+        {
+          "key": "C",
+          "value": "Southern Blotting Technique"
+        },
+        {
+          "key": "D",
+          "value": "ELISA Technique"
+        }
+      ],
+      "answer": "D",
+      "explanation": "<p>The correct answer is <strong>Option D: ELISA Technique</strong>.</p>\n\n<p><strong>Explanation:</strong></p>\n\n<p><strong>Option A: Hybridization Technique</strong> - This technique, including Fluorescent In Situ Hybridization (FISH), involves the pairing of single-stranded DNA or RNA molecules with complementary sequences, allowing the detection of specific nucleic acids within a complex mixture. It's widely used for gene mapping, diagnosis of genetic disorders, and identification of infectious agents. However, its application is more towards locating specific sequences rather than early detection of diseases.</p>\n\n<p><strong>Option B: Western Blotting Technique</strong> - This is a protein analysis method that involves the separation of proteins via gel electrophoresis, followed by their transfer to a membrane and detection using antibodies. It's used for identifying specific proteins in a sample and understanding protein size or abundance, but it is not primarily used for early disease detection.</p>\n\n<p><strong>Option C: Southern Blotting Technique</strong> - This method involves the transfer of DNA fragments from an agarose gel to a membrane followed by hybridization with a labeled DNA probe to detect specific DNA sequences. It's widely used in molecular biology for gene detection and mapping but not necessarily for early disease detection.</p>\n\n<p><strong>Option D: ELISA Technique</strong> - The Enzyme-Linked Immunosorbent Assay (ELISA) is a popular technique used for detecting and quantifying substances such as peptides, proteins, antibodies, and hormones. In the context of disease detection, ELISA is exceptionally valuable because it can be used to detect specific antigens or antibodies in blood samples, making it a crucial tool for early diagnosis of diseases. This might include viral infections (like HIV), bacterial infections, and autoimmune diseases. Its sensitivity and specificity make ELISA particularly useful for early detection, when the levels of the target molecule might be very low but detecting it is critical for effective treatment.</p>\n\n<p>Therefore, for early detection of diseases, the <strong>ELISA Technique</strong> stands out among the options given for its ability to detect specific biomolecules related to diseases at an early stage, facilitating early diagnosis and treatment.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Match List-I with List-II<br><br><style type=\"text/css\">\n.tg  {border-collapse:collapse;border-spacing:0;}\n.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg .tg-amwm{font-weight:bold;text-align:center;vertical-align:top}\n.tg .tg-0lax{text-align:left;vertical-align:top}\n</style>\n<table class=\"tg\">\n<thead>\n  <tr>\n    <th class=\"tg-amwm\"></th>\n    <th class=\"tg-amwm\">List-I</th>\n    <th class=\"tg-amwm\"></th>\n    <th class=\"tg-amwm\">List-II</th>\n  </tr>\n</thead>\n<tbody>\n  <tr>\n    <td class=\"tg-0lax\">(a)</td>\n    <td class=\"tg-0lax\">Filariasis</td>\n    <td class=\"tg-0lax\">(i)</td>\n    <td class=\"tg-0lax\">Haemophilus influenzae</td>\n  </tr>\n  <tr>\n    <td class=\"tg-0lax\">(b)</td>\n    <td class=\"tg-0lax\">Amoebiasis</td>\n    <td class=\"tg-0lax\">(ii)</td>\n    <td class=\"tg-0lax\">Trichophyton</td>\n  </tr>\n  <tr>\n    <td class=\"tg-0lax\">(c)</td>\n    <td class=\"tg-0lax\">Pneumonia</td>\n    <td class=\"tg-0lax\">(iii)</td>\n    <td class=\"tg-0lax\">Wuchereria bancrofti</td>\n  </tr>\n  <tr>\n    <td class=\"tg-0lax\">(d)</td>\n    <td class=\"tg-0lax\">Ringworm</td>\n    <td class=\"tg-0lax\">(iv)</td>\n    <td class=\"tg-0lax\">Entamoeba histolytica</td>\n  </tr>\n</tbody>\n</table><br><br>Choose the correct answer from the options given below",
+      "options": [
+        {
+          "key": "A",
+          "value": "<table>\n<thead>\n  <tr>\n    <th>(a)</th>\n    <th>(b)</th>\n    <th>(c)</th>\n    <th>(d)</th>\n  </tr>\n</thead>\n<tbody>\n  <tr>\n    <td>(ii)</td>\n    <td>(iii)</td>\n    <td>(i)</td>\n    <td>(iv)</td>\n  </tr>\n</tbody>\n</table>"
+        },
+        {
+          "key": "B",
+          "value": "<table>\n<thead>\n  <tr>\n    <th>(a)</th>\n    <th>(b)</th>\n    <th>(c)</th>\n    <th>(d)</th>\n  </tr>\n</thead>\n<tbody>\n  <tr>\n    <td>(iv)</td>\n    <td>(i)</td>\n    <td>(iii)</td>\n    <td>(ii)</td>\n  </tr>\n</tbody>\n</table>"
+        },
+        {
+          "key": "C",
+          "value": "<table>\n<thead>\n  <tr>\n    <th>(a)</th>\n    <th>(b)</th>\n    <th>(c)</th>\n    <th>(d)</th>\n  </tr>\n</thead>\n<tbody>\n  <tr>\n    <td>(iii)</td>\n    <td>(iv)</td>\n    <td>(i)</td>\n    <td>(ii)</td>\n  </tr>\n</tbody>\n</table>"
+        },
+        {
+          "key": "D",
+          "value": "<table>\n<thead>\n  <tr>\n    <th>(a)</th>\n    <th>(b)</th>\n    <th>(c)</th>\n    <th>(d)</th>\n  </tr>\n</thead>\n<tbody>\n  <tr>\n    <td>(i)</td>\n    <td>(ii)</td>\n    <td>(iv)</td>\n    <td>(iii)</td>\n  </tr>\n</tbody>\n</table>"
+        }
+      ],
+      "answer": "C",
+      "explanation": "The correct option is (c).<br><br>$$\\bullet$$ Filariasis or elephantiasis is caused by filarial worm known as Wuchereria bancrofti. It affect the lymphatic vessels of lower limbs resulting in gross deformities. <br><br>$$\\bullet$$ Amoebiasis/Amoebic dysentery is caused by a protozoan parasite Entamoeba histolytica in the large intestine of human.<br><br>$$\\bullet$$ Penumonia is caused by bacteria like Streptococcus pneumoniae and Haemophilus influenzae.<br><br>$$\\bullet$$ Ringworm is caused by fungi belonging to genera Microsporum, Trichophyton and Epidermophyton."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The Adenosine deaminase deficiency results into",
+      "options": [
+        {
+          "key": "A",
+          "value": "Addison's disease"
+        },
+        {
+          "key": "B",
+          "value": "Dysfunction of immune system"
+        },
+        {
+          "key": "C",
+          "value": "Parkinson's disease"
+        },
+        {
+          "key": "D",
+          "value": "Digestive disorder"
+        }
+      ],
+      "answer": "B",
+      "explanation": "Adenosine deaminase (ADA) enzyme is crucial for the immune system to function. Hence, its deficiency results in the dysfunction of immune system.<br><br>$$\\bullet$$ Hyposecretion of hormones of the adrenal cortex causes Addison's disease.<br><br>$$\\bullet$$ Parkinson's disease is a long-term degenerative disorder of the central nervous system.<br><br>$$\\bullet$$ Disorders which affect GIT &amp; associated glands are called digestive disorders."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Match the following diseases with the causative\norganism and select the correct option\n<table style=\"width:100%\">\n<thead>\n  <tr>\n    <th>Column-I</th>\n    <th>Column-II</th>\n  </tr>\n</thead>\n<tbody>\n  <tr>\n    <td>(a) Typhoid</td>\n    <td>(i) Wuchereria</td>\n  </tr>\n  <tr>\n    <td>(b) Pneumonia</td>\n    <td>(ii) Plasmodium</td>\n  </tr>\n  <tr>\n    <td>(c) Filariasis</td>\n    <td>(iii) Salmonella</td>\n  </tr>\n  <tr>\n    <td>(d) Malaria</td>\n    <td>(iv) Haemophilus</td>\n  </tr>\n</tbody>\n</table>",
+      "options": [
+        {
+          "key": "A",
+          "value": "(A) $$ \\to $$ (iv), (B) $$ \\to $$ (i), (C) $$ \\to $$ (ii), (D) $$ \\to $$ (iii)"
+        },
+        {
+          "key": "B",
+          "value": "(A) $$ \\to $$ (iii), (B) $$ \\to $$ (iv), (C) $$ \\to $$ (i), (D) $$ \\to $$ (ii)"
+        },
+        {
+          "key": "C",
+          "value": "(A) $$ \\to $$ (i), (B) $$ \\to $$ (iii), (C) $$ \\to $$ (ii), (D) $$ \\to $$ (iv)"
+        },
+        {
+          "key": "D",
+          "value": "(A) $$ \\to $$ (ii), (B) $$ \\to $$ (i), (C) $$ \\to $$ (iii), (D) $$ \\to $$ (iv)"
+        }
+      ],
+      "answer": "B",
+      "explanation": "Typhoid fever in humans is caused\nby pathogenic bacterium Salmonella typhi.\nPneumonia is caused by Streptococcus\nPneumoniae and Haemophilus influenzae.\nFilariasis or elephantiasis is caused by the\nfilarial worm, Wuchereria bancrofti and\nWuchereria malayi. Malaria is caused by\ndifferent species of Plasmodium."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The infectious stage of Plasmodium that enters\nthe human body is",
+      "options": [
+        {
+          "key": "A",
+          "value": "Trophozoites"
+        },
+        {
+          "key": "B",
+          "value": "Sporozoites"
+        },
+        {
+          "key": "C",
+          "value": "Male gametocytes"
+        },
+        {
+          "key": "D",
+          "value": "Female gametocytes\n"
+        }
+      ],
+      "answer": "B",
+      "explanation": "Plasmodium enters the human body as\nsporozoites (Infectious stage) through the bite\nof Infected Female Anopheles mosquito. \n"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Identify the wrong statement with reference to\nimmunity",
+      "options": [
+        {
+          "key": "A",
+          "value": "Active immunity is quick and gives full\nresponse.\n"
+        },
+        {
+          "key": "B",
+          "value": "When exposed to antigen (living or dead)\nantibodies are produced in the host’s\nbody. It is called “Active immunity”."
+        },
+        {
+          "key": "C",
+          "value": "Foetus receives some antibodies from mother,\nit is an example for passive immunity."
+        },
+        {
+          "key": "D",
+          "value": "When ready-made antibodies are directly\ngiven, it is called “Passive immunity”"
+        }
+      ],
+      "answer": "A",
+      "explanation": "Active immunity is slow and takes time to give its full\neffective response in comparison to passive\nimmunity where pre-formed antibodies are\nadministered. \n"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Drug called ‘Heroin’ is synthesized by :",
+      "options": [
+        {
+          "key": "A",
+          "value": "glycosylation of morphine"
+        },
+        {
+          "key": "B",
+          "value": "nitration of morphine"
+        },
+        {
+          "key": "C",
+          "value": "methylation of morphine"
+        },
+        {
+          "key": "D",
+          "value": "acetylation of morphine"
+        }
+      ],
+      "answer": "D",
+      "explanation": "Heroine is formed by acetylation of morphine."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Which of the following immune responses is responsible for rejection of kidney graft?",
+      "options": [
+        {
+          "key": "A",
+          "value": "Inflammatory immune response"
+        },
+        {
+          "key": "B",
+          "value": "Cell-mediated immune response"
+        },
+        {
+          "key": "C",
+          "value": "Auto-immune response"
+        },
+        {
+          "key": "D",
+          "value": "Humoral immune response "
+        }
+      ],
+      "answer": "B",
+      "explanation": "Cell-mediated immune response (CMI)\ncauses rejection of graft. Immune response\nby T-lymphocytes (T-cells) is by activation of\ncytotoxic killer cells which detects and destroys\nthe foreign cells and also a cancerous cell is\ncalled cell mediated immune response."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Which of the following sexually transmitted diseases is <b>not</b> completely curable ?",
+      "options": [
+        {
+          "key": "A",
+          "value": "Genital herpes"
+        },
+        {
+          "key": "B",
+          "value": "Chlamydiasis"
+        },
+        {
+          "key": "C",
+          "value": "Gonorrhoea"
+        },
+        {
+          "key": "D",
+          "value": "Genital warts"
+        }
+      ],
+      "answer": "A",
+      "explanation": "HIV and Genital Herpes is not completely curable."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Colostrum, the yellowish fluid, secreted by mother during the initial days of lactation is very essential to\nimpart immunity to the newborn infants because it contains :",
+      "options": [
+        {
+          "key": "A",
+          "value": "Macrophages"
+        },
+        {
+          "key": "B",
+          "value": "Immunoglobulin A"
+        },
+        {
+          "key": "C",
+          "value": "Natural killer cells"
+        },
+        {
+          "key": "D",
+          "value": "Monocytes"
+        }
+      ],
+      "answer": "B",
+      "explanation": "The yellowish milk produced during the initial few\ndays of lactation is called colostrum. It contains\nseveral antibodies especially immunoglobulin\nA, which imparts naturally acquired passive\nimmunity to the newborn."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Identify the correct pair representing the causative agent of typhoid fever and the confirmatory test for\ntyphoid. ",
+      "options": [
+        {
+          "key": "A",
+          "value": "Salmonella typhi/ Anthorone test"
+        },
+        {
+          "key": "B",
+          "value": "Salmonella typhi/ Widal test"
+        },
+        {
+          "key": "C",
+          "value": "Plasmodium vivax/ UTI test"
+        },
+        {
+          "key": "D",
+          "value": "Streptococcus pneumoniae/ Widal test"
+        }
+      ],
+      "answer": "B",
+      "explanation": "Typhoid fever is caused by salmonella typhi which is diagnosed through WIDAL TEST."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "In which disease does mosquito transmitted\npathogen cause chronic inflammation of\nlymphatic vessels?",
+      "options": [
+        {
+          "key": "A",
+          "value": "Elephantiasis"
+        },
+        {
+          "key": "B",
+          "value": "Ascariasis"
+        },
+        {
+          "key": "C",
+          "value": "Ringworm disease"
+        },
+        {
+          "key": "D",
+          "value": "Amoebiasis"
+        }
+      ],
+      "answer": "A",
+      "explanation": "Lymphatic filariasis, also known as\nelephantiasis, is a human disease caused\nby parasitic worms known as filarial\nworms. It is caused by roundworm,\nWuchereria bancrofti and it is transmitted\nby culex mosquito."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Which of the following is not an autoimmune\ndisease?",
+      "options": [
+        {
+          "key": "A",
+          "value": "Psoriasis"
+        },
+        {
+          "key": "B",
+          "value": "Rheumatoid arthritis"
+        },
+        {
+          "key": "C",
+          "value": "Alzheimer’s disease"
+        },
+        {
+          "key": "D",
+          "value": "Vitiligo"
+        }
+      ],
+      "answer": "C",
+      "explanation": "Alzheimer's disease is due to deficiency of\nneurotransmitter acetylcholine."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Which part of poppy plant is used to obtain the\ndrug “smack”?",
+      "options": [
+        {
+          "key": "A",
+          "value": "Flowers"
+        },
+        {
+          "key": "B",
+          "value": "Latex"
+        },
+        {
+          "key": "C",
+          "value": "Roots"
+        },
+        {
+          "key": "D",
+          "value": "Leaves"
+        }
+      ],
+      "answer": "B",
+      "explanation": "'Smack' also called as brown sugar/Heroin\nis formed by acetylation of morphine. It is\nobtained from the latex of unripe capsule\nof Poppy plant (Papaver somniferum)."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "MALT constitutes about ________ percent of the lymphoid tissue in human body",
+      "options": [
+        {
+          "key": "A",
+          "value": "20%"
+        },
+        {
+          "key": "B",
+          "value": "70%"
+        },
+        {
+          "key": "C",
+          "value": "10%"
+        },
+        {
+          "key": "D",
+          "value": "50%"
+        }
+      ],
+      "answer": "D",
+      "explanation": "MALT or Mucosa Associated Lymphoid\nTissue constitutes about 50 percent of the \nlymphoid tissue in human body. It is scattered\nalong mucosal lining in the human body"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Transplantation of tissues/ organs fails often due to non-acceptance by the patient's body. Which type of immuneresponse is responsible for such rejections ?",
+      "options": [
+        {
+          "key": "A",
+          "value": "Cell-mediated immune response"
+        },
+        {
+          "key": "B",
+          "value": "Physiological immune response"
+        },
+        {
+          "key": "C",
+          "value": "Hormonal immune response"
+        },
+        {
+          "key": "D",
+          "value": "Autoimmune response"
+        }
+      ],
+      "answer": "A",
+      "explanation": "Cell mediated immune response causes\nnon-acceptance or rejection of graft or\ntransplanted tissues/organs."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Which of the following sets of diseases is caused by bacteria ?",
+      "options": [
+        {
+          "key": "A",
+          "value": "Herpes and influenza"
+        },
+        {
+          "key": "B",
+          "value": "Cholera and tetanus"
+        },
+        {
+          "key": "C",
+          "value": "Tetanus and mumps"
+        },
+        {
+          "key": "D",
+          "value": "Typhoid and smallpox "
+        }
+      ],
+      "answer": "B",
+      "explanation": "Cholera is caused by bacterium Vibrio\ncholerae, tetanus is caused by bacterium Clostridium\ntetani, typhoid is caused by bacterium Salmonella\ntyphi, small pox is caused by Variola virus, mumps is\ncaused by Paramyxo virus, Herpes is caused by Herpis\nsimplex virus and influenza is caused by\nOrthomyxovirus.\n"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Which of the following is correct regarding AIDS causative agent HIV ?",
+      "options": [
+        {
+          "key": "A",
+          "value": "HIV is unenveloped retrovirus"
+        },
+        {
+          "key": "B",
+          "value": "HIV is enveloped virus containing one molecule of single-stranded RNA and one molecule of reverse\ntranscriptase."
+        },
+        {
+          "key": "C",
+          "value": "HIV does not escape but attacks the acquired immune response"
+        },
+        {
+          "key": "D",
+          "value": "HIV is enveloped virus that containing two identical molecule of single-stranded RNA and two molecule\nof reverse transcriptase"
+        }
+      ],
+      "answer": "D",
+      "explanation": "<p>The correct answer regarding the AIDS causative agent HIV (Human Immunodeficiency Virus) is:</p>\n<p><b>Option D:</b> HIV is an enveloped virus that contains two identical molecules of single-stranded RNA and two molecules of reverse transcriptase.</p>\n<p>Explanation:</p>\n<p>HIV is indeed an enveloped virus, which means it has a lipid membrane surrounding its capsid. This envelope is derived from the host cell's membrane and contains proteins necessary for the virus to attach and enter new host cells. Inside the envelope, HIV has a core structure that carries its genetic material and enzymes essential for its replication. The genetic material of HIV is composed of two identical molecules of single-stranded RNA. This characteristic is crucial for its replication process and is a hallmark of retroviruses, the family to which HIV belongs.</p>\n<p>The presence of reverse transcriptase, an enzyme carried by HIV, is also a defining feature of retroviruses. This enzyme allows the virus to reverse transcribe its RNA genome into DNA once it has entered a host cell. The newly formed viral DNA can then integrate into the host cell's genome, where it can lie dormant or be used to produce new viral particles. HIV carries two molecules of reverse transcriptase, which is consistent with its need to reverse transcribe both of its RNA strands into DNA.</p>\n<p>Therefore, options A, B, and C do not accurately describe HIV:</p>\n<p><b>Option A</b> incorrectly states that HIV is an unenveloped retrovirus, while it is, in fact, enveloped.</p>\n<p><b>Option B</b> is close but misses the detail that HIV contains two, not one, molecules of single-stranded RNA, and similarly, contains two molecules of reverse transcriptase, not just one.</p>\n<p><b>Option C</b> incorrectly suggests that HIV does not evade the immune system. In reality, HIV has evolved multiple strategies to avoid and undermine the host's immune response, contributing to its ability to cause long-term infections.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "In higher vertebrates, the immune system can distinguish self-cells and non-self. If this property is lost due to genetic abnormally and it attacks self-cells, then it leads to",
+      "options": [
+        {
+          "key": "A",
+          "value": "Active immunity "
+        },
+        {
+          "key": "B",
+          "value": "Allergic response"
+        },
+        {
+          "key": "C",
+          "value": "Graft rejection"
+        },
+        {
+          "key": "D",
+          "value": "Auto-immune disease"
+        }
+      ],
+      "answer": "D",
+      "explanation": "Autoimmunity is a disorder of the body’s\ndefence mechanisms in which an immune response\nis elicited against its own tissues, which are thereby\ndamaged or destroyed. Autoimmunity may be caused\ndue to genetic or environmental factors.\n"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Which of the following statements is not true for cancer cells in relation to mutations ?",
+      "options": [
+        {
+          "key": "A",
+          "value": "Mutations inhibit production of telomerase"
+        },
+        {
+          "key": "B",
+          "value": "Mutations in proto-oncogenes accelerate the cell cycle"
+        },
+        {
+          "key": "C",
+          "value": "Mutations destroy telomerase inhibitor"
+        },
+        {
+          "key": "D",
+          "value": "Mutations inactivate the cell control"
+        }
+      ],
+      "answer": "A",
+      "explanation": "Telomerase production is increased\nin cancer. Telomerase has been examined\nin hundreds of studies as a potentially\nsensitive biomarker for screening, early cancer\ndetection, prognosis or in monitoring as an\nindication of residual disease."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Antivenom injection contains preformed antibodies while polio drops that are administered into the body contain - ",
+      "options": [
+        {
+          "key": "A",
+          "value": "Attenuated pathogens "
+        },
+        {
+          "key": "B",
+          "value": "Activated pathogens"
+        },
+        {
+          "key": "C",
+          "value": "Harvested antibodies"
+        },
+        {
+          "key": "D",
+          "value": "Gamma globulin "
+        }
+      ],
+      "answer": "A",
+      "explanation": "Oral Polio Vaccine consists of a mixture\nof attenuated (weakened) poliovirus strains of\nall three poliovirus types."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Which of the following diseases is caused\nby a protozoan?",
+      "options": [
+        {
+          "key": "A",
+          "value": "Influenza "
+        },
+        {
+          "key": "B",
+          "value": "Babesiosis "
+        },
+        {
+          "key": "C",
+          "value": "Blastomycosis"
+        },
+        {
+          "key": "D",
+          "value": "Syphilis"
+        }
+      ],
+      "answer": "B",
+      "explanation": "Babesiosis is a malaria-like parasitic disease\ncaused by infection with Babesia, a parasitic\nprotozoan. Babesiosis has been recognised as a\ndisease of cattle and other domestic animals, until\nhuman forms of babesiosis had been discovered.\nBabesia parasites reproduce in red blood cells of\nmammals and cause haemolytic anaemia, quite similar\nto malaria. The parasite is transmitted by ticks."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "If you suspect major deficiency of\nantibodies in a person, to which of the\nfollowing would you look for confirmatory\nevidence ? ",
+      "options": [
+        {
+          "key": "A",
+          "value": "Fibrinogin in plasma"
+        },
+        {
+          "key": "B",
+          "value": "Haemocytes "
+        },
+        {
+          "key": "C",
+          "value": "Serum albumins "
+        },
+        {
+          "key": "D",
+          "value": "Serum globulins "
+        }
+      ],
+      "answer": "D",
+      "explanation": "If you suspect a major deficiency of antibodies in a person, you would look for confirmatory evidence in serum globulins.\n<br/><br/>\nSerum globulins are a group of proteins that are found in blood plasma, and they include immunoglobulins (antibodies) as well as other proteins involved in immune function. Antibodies are a type of globulin that are produced by B cells in response to an infection or other foreign invader, and they play a critical role in the body's immune response.\n<br/><br/>\nA deficiency of antibodies, also known as immunodeficiency, can occur due to a variety of causes, including genetic disorders, certain medications, and infections such as HIV/AIDS. To confirm a suspected deficiency of antibodies, blood tests can be performed to measure the levels of different types of serum globulins, including immunoglobulins. If the levels of immunoglobulins are significantly lower than normal, it may indicate a deficiency of antibodies and further testing may be required to determine the cause.\n<br/><br/>\nSo, option D, \"Serum globulins,\" is the correct answer."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Which of the following immunoglobulins\ndoes constitute the largest percentage in\nhuman milk? ",
+      "options": [
+        {
+          "key": "A",
+          "value": "IgM"
+        },
+        {
+          "key": "B",
+          "value": "IgA"
+        },
+        {
+          "key": "C",
+          "value": "IgG"
+        },
+        {
+          "key": "D",
+          "value": "IgD"
+        }
+      ],
+      "answer": "B",
+      "explanation": "IgA immunoglobulins are the second most\nabundant class of immunoglobulins, which are\nmainly found in sweat, tears, saliva, mucus, colostrum\nand gastrointestinal secretions.\n"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Grafted kidney may be rejected in a patient\ndue to -",
+      "options": [
+        {
+          "key": "A",
+          "value": "Humoral immune response "
+        },
+        {
+          "key": "B",
+          "value": "Cell-mediated immune response"
+        },
+        {
+          "key": "C",
+          "value": "Passive immune response "
+        },
+        {
+          "key": "D",
+          "value": "Innate immune response "
+        }
+      ],
+      "answer": "B",
+      "explanation": "Cell-mediated immune response (CMIS)\nconsists of T-lymphocytes. It reacts against\ntransplants. Transplantation may result in the rejection\nof the transplanted organs. The immune system\nrecognises the protein in the transplanted tissue or\norgan as foreign and initiates cellular immunity\nagainst it.\n"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "HIV that causes AIDS, first starts destroying",
+      "options": [
+        {
+          "key": "A",
+          "value": "thrombocytes"
+        },
+        {
+          "key": "B",
+          "value": "leucocytes"
+        },
+        {
+          "key": "C",
+          "value": "helper T-lymphocytes"
+        },
+        {
+          "key": "D",
+          "value": "B-lymphocytes"
+        }
+      ],
+      "answer": "C",
+      "explanation": "After infection, HIV starts to destroy\nthe T-cells (T-helper lymphocytes). T. cells\nare very important for the immune system.\nIn the early stage of infection, the decline in\nnumbers of T.cells is observed."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Match each disease with its correct type of vaccine\n<style type=\"text/css\">\n.tg  {border-collapse:collapse;border-spacing:0;width:100%}\n.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}\n.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}\n.tg .tg-cly1{text-align:left;vertical-align:middle}\n.tg .tg-wa1i{font-weight:bold;text-align:center;vertical-align:middle}\n.tg .tg-0lax{text-align:left;vertical-align:top}\n</style>\n<table class=\"tg\">\n  <tbody><tr>\n    <th class=\"tg-wa1i\">Column I</th>\n    <th class=\"tg-wa1i\"><span style=\"font-weight:700\">Column II</span></th>\n  </tr>\n  <tr>\n    <td class=\"tg-cly1\">A. Tubeculosis</td>\n    <td class=\"tg-cly1\">(i) Harmless virus</td>\n  </tr>\n  <tr>\n    <td class=\"tg-0lax\">B. Whooping cough</td>\n    <td class=\"tg-0lax\">(ii) Inactivated toxin</td>\n  </tr>\n  <tr>\n    <td class=\"tg-0lax\">C. Diphtheria</td>\n    <td class=\"tg-0lax\">(iii) Killed bacteria</td>\n  </tr>\n  <tr>\n    <td class=\"tg-0lax\">D. Polio</td>\n    <td class=\"tg-0lax\">(iv) Harmless bacteria</td>\n  </tr>\n</tbody></table>",
+      "options": [
+        {
+          "key": "A",
+          "value": "A - (i), B - (ii), C - (iv), D - (iii)"
+        },
+        {
+          "key": "B",
+          "value": "A - (iv), B - (iii), C - (ii), D - (i)"
+        },
+        {
+          "key": "C",
+          "value": "A - (ii), B - (i), C - (iii), D - (iv)"
+        },
+        {
+          "key": "D",
+          "value": "A - (iii), B - (ii), C - (iv), D - (i)"
+        }
+      ],
+      "answer": "B",
+      "explanation": "Tuberculosis vaccine (BCG) has inactivated bacteria. In whooping cough vaccine,\nthere are killed pathogens of Bordetella pertussis which cause whooping cough. In DPT\ndiphtheria toxoid is present. Sabin polio vaccine contains inactivated virus."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The active form of Entamoeba histolytica feeds upon",
+      "options": [
+        {
+          "key": "A",
+          "value": "food in intensine"
+        },
+        {
+          "key": "B",
+          "value": "mucosa and submucosa of colon only"
+        },
+        {
+          "key": "C",
+          "value": "blood only"
+        },
+        {
+          "key": "D",
+          "value": "erythrocytes, mucosa and submucosa of colon"
+        }
+      ],
+      "answer": "D",
+      "explanation": "<p>Entamoeba histolytica is a parasitic protozoan that causes amoebiasis. It primarily affects the colon, where it can cause a range of symptoms from mild diarrhea to severe dysentery. The active, trophozoite form of Entamoeba histolytica feeds on various components in the colon.</p>\n\n<p>The correct answer is:</p>\n\n<p><strong>Option D: erythrocytes, mucosa and submucosa of colon</strong></p>\n\n<p>This is because the trophozoites of Entamoeba histolytica invade the mucosal lining of the colon, leading to ulceration and tissue destruction. They feed on the mucosa and submucosa tissues. Additionally, the trophozoites can ingest erythrocytes (red blood cells), which contribute to their growth and proliferation.</p>\n\n<p>The trophozoite stage is particularly harmful because it can cause significant damage to the host tissues, leading to clinical symptoms and complications associated with amoebiasis.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "At which stage of HIV infection does one usually show symptoms of AIDS ? ",
+      "options": [
+        {
+          "key": "A",
+          "value": "Within 15 days of sexual contact with an infected person. "
+        },
+        {
+          "key": "B",
+          "value": "When the infected retro virus enters host cells. "
+        },
+        {
+          "key": "C",
+          "value": "When HIV damages large number of helper T−Lymphocytes. "
+        },
+        {
+          "key": "D",
+          "value": "When the viral DNA is produced by reverse transcriptase. "
+        }
+      ],
+      "answer": "C",
+      "explanation": "AIDS is a disorder of cell-mediated immune\nsystem of the body. Virus responsible for AIDS is HIV\n(Human immunodeficiency virus). There is a\nreduction in the number of helper T-cells which\nstimulate antibody production by B-cells. This results\nin the loss of natural defence against viral infection."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Which one of the following is a hallucinogenic drug?",
+      "options": [
+        {
+          "key": "A",
+          "value": "Morphine"
+        },
+        {
+          "key": "B",
+          "value": "Opium"
+        },
+        {
+          "key": "C",
+          "value": "Caffeine"
+        },
+        {
+          "key": "D",
+          "value": "Lysergic acid diethylamide"
+        }
+      ],
+      "answer": "D",
+      "explanation": "LSD is a psychedelic drug since it causes\noptical and auditory hallucinations and induces\nbehavioural abnormalities. Opium and morphine are\nopiate narcotics that suppress brain activity and\nrelieve pain. Caffeine is a stimulant that temporarily\nstimulates the nervous system.\n"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Identify the site where Wuchereria bancrofti is\nnormally found on human body :",
+      "options": [
+        {
+          "key": "A",
+          "value": "Blood vessels of the thigh region"
+        },
+        {
+          "key": "B",
+          "value": "Lymphatic vessels of the lower limbs"
+        },
+        {
+          "key": "C",
+          "value": "Muscles of the legs"
+        },
+        {
+          "key": "D",
+          "value": "Skin between the fingers"
+        }
+      ],
+      "answer": "B",
+      "explanation": "Wuchereria (W. bancrofti and W. malayi),\nfilarial worms causing chronic inflammation\nof the organs in which they live for many\nyears, usually the lymphatic vessels of the\nlower limbs and the disease caused by them\nknown as elephantiasis or filariasis. The\ngenital organs are mainly affected, resulting\nin gross deformities. The pathogens are\ntransmitted to a healthy person through the\nbite by the female mosquito vectors."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Which one of the following statements is correct\nregarding Sexually Transmitted Diseases (STD) ?",
+      "options": [
+        {
+          "key": "A",
+          "value": "Haemophilia is one of the STD"
+        },
+        {
+          "key": "B",
+          "value": "The chances of a 5 year boy contacting a STD\nare very little"
+        },
+        {
+          "key": "C",
+          "value": "A person many contact syphilis by sharing milk\nwith one already suffering from the disease"
+        },
+        {
+          "key": "D",
+          "value": "Genital herpes and sickle - cell anaemia are both\nSTD"
+        }
+      ],
+      "answer": "B",
+      "explanation": "Syphilis is caused by bacterium Treponema\npallidum. It is a sexually transmitted disease (STD)\nwhich is transferred through sexual intercourse with\ninfected person. Haemophilia is a X-linked genetic\ndisorder of blood. It is not transmitted via any sexual\npractice. Genital herpes is an STD while sickle-cell\nanaemia is an autosomal hereditary disorder.<br>\nThe chances of a 5 year boy contracting an STD are\nvery little since he is unlikely to have sex at this age.\n"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Infection of Ascaris usually occurs by : ",
+      "options": [
+        {
+          "key": "A",
+          "value": "Tse-tse fly "
+        },
+        {
+          "key": "B",
+          "value": "mosquito bite "
+        },
+        {
+          "key": "C",
+          "value": "drinking water containing eggs of Ascaris"
+        },
+        {
+          "key": "D",
+          "value": "eating imperfectly cooked pork "
+        }
+      ],
+      "answer": "C",
+      "explanation": "Ascaris, an intestinal parasite causes\nascariasis. Symptoms of these disease\ninclude internal bleeding, muscular pain,\nfever, anaemia and blockage of the intestinal\npassage. The eggs of the parasite are excreted\nalong with the faeces of infected persons\nwhich contaminate soil, water, plants, etc. A\nhealthy person acquires this infection through\ncontaminated water vegetables, fruits, etc."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Which one of the following sets of items in the option A – D are correctly categorized with one exception in it ?",
+      "options": [
+        {
+          "key": "A",
+          "value": "<table class=\"tg\">\n<thead>\n  <tr>\n    <th class=\"tg-0pky\">ITEMS</th>\n    <th class=\"tg-0pky\">CATEGORY</th>\n    <th class=\"tg-0pky\">EXCEPTION</th>\n  </tr>\n</thead>\n<tbody>\n  <tr>\n    <td class=\"tg-0pky\">Kangaroo, Koala, wombat</td>\n    <td class=\"tg-0pky\">Australian masupials</td>\n    <td class=\"tg-0pky\">Wombat</td>\n  </tr>\n</tbody>\n</table>"
+        },
+        {
+          "key": "B",
+          "value": "<table class=\"tg\">\n<thead>\n  <tr>\n    <th class=\"tg-0pky\">ITEMS</th>\n    <th class=\"tg-0pky\">CATEGORY</th>\n    <th class=\"tg-0pky\">EXCEPTION</th>\n  </tr>\n</thead>\n<tbody>\n  <tr>\n    <td class=\"tg-0pky\">Typhoid, Pneumonia,\nDiphtheria </td>\n    <td class=\"tg-0pky\">Bacterial diseases</td>\n    <td class=\"tg-0pky\">Diphtheria</td>\n  </tr>\n</tbody>\n</table>"
+        },
+        {
+          "key": "C",
+          "value": "<table class=\"tg\">\n<thead>\n  <tr>\n    <th class=\"tg-0pky\">ITEMS</th>\n    <th class=\"tg-0pky\">CATEGORY</th>\n    <th class=\"tg-0pky\">EXCEPTION</th>\n  </tr>\n</thead>\n<tbody>\n  <tr>\n    <td class=\"tg-0pky\">UAA, UAG, UGA</td>\n    <td class=\"tg-0pky\">Stop codons</td>\n    <td class=\"tg-0pky\">UAG</td>\n  </tr>\n</tbody>\n</table>"
+        },
+        {
+          "key": "D",
+          "value": "<table class=\"tg\">\n<thead>\n  <tr>\n    <th class=\"tg-0pky\">ITEMS</th>\n    <th class=\"tg-0pky\">CATEGORY</th>\n    <th class=\"tg-0pky\">EXCEPTION</th>\n  </tr>\n</thead>\n<tbody>\n  <tr>\n    <td class=\"tg-0pky\">Plasmodium, Cuscuta, Trypanosoma</td>\n    <td class=\"tg-0pky\">Protozoan parasites</td>\n    <td class=\"tg-0pky\">Cuscuta</td>\n  </tr>\n</tbody>\n</table>"
+        }
+      ],
+      "answer": "D",
+      "explanation": "UAG is also a stop codon. Wombats are\nalso Australian marsupials. They are shortlegged, muscular quadrupeds, approximately\n1 metre (40 in) in length with a short, stubby\ntail. Diphtheria is an acute infectious disease\ncaused by the bacteria Corynebacterium\ndiphtheriae.<br><br>Cuscuta, or Dodder plant, is not a protozoan.\nIt is a parasitic vine that wraps around other\nplants for nourishment."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Read the following four statements (A-D) :<br>\n (A) Colostrum is recommended for the new born because it is rich in antigen<br>\n (B) Chikengunya is caused by a Gram negative bacterium<br>\n (C) Tissue culture has proved useful in obtaining virus-free plants<br>\n (D) Beer is manufactured by distillation of fermented grape juice<br>\n How many of the above statements are wrong ? ",
+      "options": [
+        {
+          "key": "A",
+          "value": "Two "
+        },
+        {
+          "key": "B",
+          "value": "One "
+        },
+        {
+          "key": "C",
+          "value": "Four "
+        },
+        {
+          "key": "D",
+          "value": "Three"
+        }
+      ],
+      "answer": "D",
+      "explanation": "<p>Let's evaluate each of the statements for accuracy:</p>\n\n<p>(A) Colostrum is recommended for the new born because it is rich in antigen.</p>\n<p>This statement is partially correct but is somewhat misleading. Colostrum, the first form of milk produced by mammals immediately following delivery of the newborn, is indeed recommended for newborns, but not merely because it is rich in antigens. It contains a variety of beneficial components like antibodies (especially IgA), growth factors, and nutrients. The antibodies are crucial for passive immunity which protects the infant from infections during the early days of life. Therefore, the rationale behind recommending colostrum is not just because it is 'rich in antigen' but because it contains antibodies and other immune components essential for the newborn's defense.</p>\n\n<p>(B) Chikungunya is caused by a Gram-negative bacterium.</p>\n<p>This statement is false. Chikungunya is not caused by a bacterium at all; rather, it is a viral disease caused by the Chikungunya virus, which is transmitted to humans by mosquitoes, namely Aedes aegypti and Aedes albopictus. The categorization of bacteria as Gram-negative or Gram-positive is based on their cell wall composition and staining properties, which are irrelevant to viruses like the Chikungunya virus.</p>\n\n<p>(C) Tissue culture has proved useful in obtaining virus-free plants.</p>\n<p>This statement is true. Tissue culture techniques can be used to produce virus-free plants by culturing tissues from plants that are infected with a virus, and then using a technique called meristem culture, which often results in the production of new, virus-free plants. This is an important practice in agriculture and horticulture for maintaining the health and productivity of crops.</p>\n\n<p>(D) Beer is manufactured by distillation of fermented grape juice.</p>\n<p>This statement is false. Beer is usually made from the fermentation of cereal grains, primarily barley, although other grains can be used. The production of beer involves malting, mashing, boiling, fermenting, conditioning, filtering, and packaging. Distillation is not a part of the beer brewing process; it is a process used in the production of spirits. Furthermore, fermented grape juice results in wine, not beer.</p>\n\n<p>Considering the above explanations: statement (B) is unquestionably wrong; statement (D) is also wrong; and, while statement (A) contains an element of truth, the wording is misleading and could be considered incorrect for the purpose of this question. Therefore, it is reasonable to conclude that:</p>\n\n<p>Three out of the four given statements are wrong, which corresponds with Option D: Three.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Which one of the following statements is\ncorrect with respect to immunity?",
+      "options": [
+        {
+          "key": "A",
+          "value": "Rejection of a kidney graft is the function\nof B-lymphocytes."
+        },
+        {
+          "key": "B",
+          "value": "Preformed antibodies need to be injected\nto treat the bite by a viper snake."
+        },
+        {
+          "key": "C",
+          "value": "The antibodies against small pox pathogen\nare produced by T – lymphocytes"
+        },
+        {
+          "key": "D",
+          "value": "Antibodies are protein molecules, each\nof which has four light chains."
+        }
+      ],
+      "answer": "B",
+      "explanation": "Preformed antibodies need to be injected\nto treat the bite by a viper snake. It is also\na type of immunization which is called as\npassive immunization.<br><br>\nAntibodies, produced by B-cells, are typically\nmade of basic structural units—each with two\nlarge heavy chains and two small light chains.\nB cells differentiate into plasma cells that\nsecrete antibodies. Antibodies are proteins\nthat bind to specific antigens and mark them\nfor destruction by, for example, marking\nthem more recognizable to phagocytic cells.\nRejection of a kidney graft is not a function\nof B lymphocyte."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Widal Test is carried out to test :",
+      "options": [
+        {
+          "key": "A",
+          "value": "HIV/AIDS"
+        },
+        {
+          "key": "B",
+          "value": "Typhoid fever"
+        },
+        {
+          "key": "C",
+          "value": "Malaria"
+        },
+        {
+          "key": "D",
+          "value": "Diabetes mellitus "
+        }
+      ],
+      "answer": "B",
+      "explanation": "Widal test is carried out to test typhoid\nfever caused by <i>Salmonella typhii</i> bacteria.\nTyphoid vaccine is available."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "In which one of the following options the two\nexamples are correctly matched with their\nparticular type of immunity?",
+      "options": [
+        {
+          "key": "A",
+          "value": "<table class=\"tg\">\n<thead>\n  <tr>\n    <th class=\"tg-0lax\">Examples</th>\n    <th class=\"tg-0lax\">Types of<br>immunity</th>\n  </tr>\n</thead>\n<tbody>\n  <tr>\n    <td class=\"tg-0lax\">Polymorphonuclear<br>leukocytes and<br>monocytes</td>\n    <td class=\"tg-0lax\">Cellular\nbarriers</td>\n  </tr>\n</tbody>\n</table>"
+        },
+        {
+          "key": "B",
+          "value": "<table class=\"tg\">\n<thead>\n  <tr>\n    <th class=\"tg-0lax\">Examples</th>\n    <th class=\"tg-0lax\">Types of<br>immunity</th>\n  </tr>\n</thead>\n<tbody>\n  <tr>\n    <td class=\"tg-0lax\">Anti-tetanus and<br> antisnake bite injection</td>\n    <td class=\"tg-0lax\">Active\nimmunity</td>\n  </tr>\n</tbody>\n</table>"
+        },
+        {
+          "key": "C",
+          "value": "<table class=\"tg\">\n<thead>\n  <tr>\n    <th class=\"tg-0lax\">Examples</th>\n    <th class=\"tg-0lax\">Types of<br>immunity</th>\n  </tr>\n</thead>\n<tbody>\n  <tr>\n    <td class=\"tg-0lax\">Saliva in mouth and\n<br>Tear in eyes</td>\n    <td class=\"tg-0lax\">Physical\nbarriers</td>\n  </tr>\n</tbody>\n</table>"
+        },
+        {
+          "key": "D",
+          "value": "<table class=\"tg\">\n<thead>\n  <tr>\n    <th class=\"tg-0lax\">Examples</th>\n    <th class=\"tg-0lax\">Types of<br>immunity</th>\n  </tr>\n</thead>\n<tbody>\n  <tr>\n    <td class=\"tg-0lax\">Mucus coating of\n<br>epithelium lining the\n<br>urinogenital tract-and\n<br>the HCl in stomach</td>\n    <td class=\"tg-0lax\">Physiological\nbarriers</td>\n  </tr>\n</tbody>\n</table>"
+        }
+      ],
+      "answer": "A",
+      "explanation": "Polymorphonuclear leukocytes named so,\nas they have multilobed nucleus or neutrophils\nand monocytes are the cellular barrier provide\ninnate or nonspecific immunity. Cellular\nbarriers are the internal defence or second\nlive of defence."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Cirrhosis of liver is caused by the chronic intake of ",
+      "options": [
+        {
+          "key": "A",
+          "value": "Cocaine"
+        },
+        {
+          "key": "B",
+          "value": "Alcohol "
+        },
+        {
+          "key": "C",
+          "value": "Tobacco (Chewing) "
+        },
+        {
+          "key": "D",
+          "value": "Opium "
+        }
+      ],
+      "answer": "B",
+      "explanation": "Cirrhosis is a condition in which the liver\nresponds to injury or death of some of its cells by\nproducing interlacing strands of fibrous tissue\nbetween which are nodules of regenerating cells. The\nliver becomes tawny and characteristically knobbly\n(due to the nodules). One of the causes include\nalcoholism (alcoholic cirrhosis).\n"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Which one of the following in not a property of cancerous cells whereas the remaining three are ? ",
+      "options": [
+        {
+          "key": "A",
+          "value": "They do not remain confined in the area of formation "
+        },
+        {
+          "key": "B",
+          "value": "They divide in an uncontrolled manner"
+        },
+        {
+          "key": "C",
+          "value": "They compete with normal cells for vital nutrients"
+        },
+        {
+          "key": "D",
+          "value": "They show contact inhibition "
+        }
+      ],
+      "answer": "D",
+      "explanation": "Contact inhibition is a property of\nnormal cell not of cancer cells. Due to this\nproperty they remain in contact with other\ncells inhibit their growth.\n"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Common cold differs from pneumonia in, that ",
+      "options": [
+        {
+          "key": "A",
+          "value": "Pneumonia is a communicable disease whereas the common cold is a nutritional deficiency disease "
+        },
+        {
+          "key": "B",
+          "value": "Pneumonia can be prevented by a live attenuated bacterial vaccine whereas the common cold has\nno effective vaccine "
+        },
+        {
+          "key": "C",
+          "value": "Pneumonia is caused by a virus while the common cold is caused by the bacterium haemophilus\ninfluenzae "
+        },
+        {
+          "key": "D",
+          "value": "Pneumonia pathogen infects alveoli wheras the common cold affects nose and respiratory passage\nbut not the lungs "
+        }
+      ],
+      "answer": "D",
+      "explanation": "Common cold or rhinitis is one of the most\ninfectious diseases caused by Rhino viruses. It affects\nnose and respiratory passage but not lungs. It spreads\nby droplet infection or contaminated objects.\nPneumonia, caused by bacteria Streptococcus\npneumoniae and Haemophilus influenzae is a serious\ndisease of lungs, in which fluid collects in the alveoli\nand bronchioles. The disease spreads by sputum of\nthe patient.\n"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Motile zygote of Plasmodium occurs in ",
+      "options": [
+        {
+          "key": "A",
+          "value": "Human liver "
+        },
+        {
+          "key": "B",
+          "value": "Salivary glands of Anopheles"
+        },
+        {
+          "key": "C",
+          "value": "Human RBCs "
+        },
+        {
+          "key": "D",
+          "value": "Gut of female Anopheles "
+        }
+      ],
+      "answer": "D",
+      "explanation": "Motile zygote of Plasmodium occurs\nin gut of female Anopheles. Zygote formed\nin stomach of mosquito about 9 to 10 days\nafter sucking the blood of an infected human.\nAnopheles receives RBCs containing different\nstages of erthyrocytic cycle, including\ngametocyte. In its gut, all stages except the\ngametocytes are digested. The gametocytes\nremain unaffected by digestive enzymes of\nthe mosquito, hatch out from the RBCs into\nthe lumen of mosquito’s stomach and form\nsperm and ovum by gametogenesis. Syngamy\nor fusion of male and female gamete."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Which one of the following options gives the\ncorrect matching of a disease with its causative\norganism and mode of infection ?",
+      "options": [
+        {
+          "key": "A",
+          "value": "<b>Disease</b> $$ \\to $$ Pneumonia, <b>Causative Organisms</b> $$ \\to $$ Streptococcus\npneumoniae, <b>Mode of Infection </b> $$ \\to $$ Droplet\ninfection"
+        },
+        {
+          "key": "B",
+          "value": "<b>Disease</b> $$ \\to $$  Malaria, <b>Causative Organisms</b> $$ \\to $$ Plasmodium\nvivax, <b>Mode of Infection </b> $$ \\to $$ Bite of male\nAnopheles\nmosquito"
+        },
+        {
+          "key": "C",
+          "value": "<b>Disease</b> $$ \\to $$  Elephantiasis , <b>Causative Organisms</b> $$ \\to $$ Wuchereria\nbancrofti, <b>Mode of Infection </b> $$ \\to $$ With infected\nwater and food"
+        },
+        {
+          "key": "D",
+          "value": "<b>Disease</b> $$ \\to $$  Typhoid , <b>Causative Organisms</b> $$ \\to $$ Salmonella\ntyphi, <b>Mode of Infection </b> $$ \\to $$ With inspired air"
+        }
+      ],
+      "answer": "A",
+      "explanation": "Pneumonia disease is spread by the\norganism Streptococcus pneumoniae and the\nmode of infection is by droplet infection."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Common cold is not cured by antibiotics\nbecause it is : ",
+      "options": [
+        {
+          "key": "A",
+          "value": "caused by a Gram-positive bacterium "
+        },
+        {
+          "key": "B",
+          "value": "caused by a Gram-negative bacterium "
+        },
+        {
+          "key": "C",
+          "value": "not an infectious disease "
+        },
+        {
+          "key": "D",
+          "value": "caused by a virus "
+        }
+      ],
+      "answer": "D",
+      "explanation": "Common cold is due to rhinovirus.\nRecent studies found that antibiotics do not\nkill this virus."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "At which stage of HIV infection does one\nusually show symptoms of AIDS?",
+      "options": [
+        {
+          "key": "A",
+          "value": "When the infecting retrovirus enters host\ncells"
+        },
+        {
+          "key": "B",
+          "value": "When viral DNA is produced by reverse\ntrancriptase"
+        },
+        {
+          "key": "C",
+          "value": "When HIV replicates rapidly in helper\nT-lymphocytes and damages large\nnumber of these"
+        },
+        {
+          "key": "D",
+          "value": "Within 15 day of sexual contact with an\ninfected person"
+        }
+      ],
+      "answer": "C",
+      "explanation": "When HIV replicates rapidly in helper\nT-lymphocytes and damages large number of\nthese cells, at this stage infected persons start\nshowing symptoms of AIDS."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Which one of the following acts as a\nphysiological barrier to the entry of microorganisms in human body?",
+      "options": [
+        {
+          "key": "A",
+          "value": "Epithelium of urogenital tract"
+        },
+        {
+          "key": "B",
+          "value": "Tears"
+        },
+        {
+          "key": "C",
+          "value": "Monocytes"
+        },
+        {
+          "key": "D",
+          "value": "Skin"
+        }
+      ],
+      "answer": "B",
+      "explanation": "Physiological barriers to the entry of microorganisms in the human body are tears in eyes, saliva in mouth and HCl in the stomach."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A certain patient is suspected to be suffering\nfrom Acquired Immuno Deficiency\nSyndrome. Which diagnostic technique will\nyou recommend for its detection?",
+      "options": [
+        {
+          "key": "A",
+          "value": "ELISA"
+        },
+        {
+          "key": "B",
+          "value": "MRI"
+        },
+        {
+          "key": "C",
+          "value": "Ultra sound"
+        },
+        {
+          "key": "D",
+          "value": "WIDAL"
+        }
+      ],
+      "answer": "A",
+      "explanation": "ELISA is an fundamental tool of clinical\nimmunology and is used as an initial screen\nfor HIV detection."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Where will you look for the sporozoites of the\nmalarial parasite ? ",
+      "options": [
+        {
+          "key": "A",
+          "value": "red blood corpuscles of humans suffering\nfrom malaria"
+        },
+        {
+          "key": "B",
+          "value": "spleen of infected humans "
+        },
+        {
+          "key": "C",
+          "value": "Salivary glands of freshly moulted female\nAnopheles mosquito"
+        },
+        {
+          "key": "D",
+          "value": "Saliva of infected female Anopheles\nmosquito "
+        }
+      ],
+      "answer": "D",
+      "explanation": "Sporozoites of malarial parasite are\nfound in saliva of infected female Anopheles\nmosquito."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A person suffering from a disease caused by\nPlasmodium, experiences recurring chill and\nfever at the time when ",
+      "options": [
+        {
+          "key": "A",
+          "value": "the parasite after its rapid multiplication\ninside RBCs ruptures them, releasing the\nstage to enter fresh RBCs."
+        },
+        {
+          "key": "B",
+          "value": "the trophozoites reach maximum growth and\ngive out certain toxins "
+        },
+        {
+          "key": "C",
+          "value": "the sporozoites released from RBCs are\nbeing rapidily killed and broken down inside\nspleen "
+        },
+        {
+          "key": "D",
+          "value": "the microgametocytes and megagametocytes\nare being destroyed by the WBCs. "
+        }
+      ],
+      "answer": "A",
+      "explanation": "Plasmodium is a tiny protozoan which is\nresponsible for malaria in the human. In malaria the\npatient experiences high fever which periodically rises\nand also experiences recurring chills with fever. Such\nsymptoms are seen because when the RBCs carrying\nPlasmodium (one of the stage in the life cycle of the\nparasite) ruptures it releases a toxic substance called\nhaemozoin which is chiefly responsible for the chill\nand high fever recurring every three to four days.\n"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Which one of the following techniques is safest\nfor the detection of cancers ?",
+      "options": [
+        {
+          "key": "A",
+          "value": "Computed tomography (CT)"
+        },
+        {
+          "key": "B",
+          "value": "Magnetic resonance imaging (MRI) "
+        },
+        {
+          "key": "C",
+          "value": "Histopathological studies"
+        },
+        {
+          "key": "D",
+          "value": "Radiography (X-ray)"
+        }
+      ],
+      "answer": "B",
+      "explanation": "Histopathological study is the invasive\ntechnique. Radiography and CT involves X-rays\nwhich are harmful.<br>\nIn MRI strong magnetic fields and non-ionising\nradiations are used to detect any physiological changes\nin the concerned tissue. Hence it is safe for detection\nof cancers.\n"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Widal test is used for the diagnosis of – ",
+      "options": [
+        {
+          "key": "A",
+          "value": "Tuberculosis"
+        },
+        {
+          "key": "B",
+          "value": "Malaria"
+        },
+        {
+          "key": "C",
+          "value": "Typhoid"
+        },
+        {
+          "key": "D",
+          "value": "Pneumonia"
+        }
+      ],
+      "answer": "C",
+      "explanation": "Widal test is carried out to test typhoid\nfever caused by Salmonella typhii bacteria.\nTyphoid vaccine is available."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Ringworm in humans is caused by : ",
+      "options": [
+        {
+          "key": "A",
+          "value": "Fungi"
+        },
+        {
+          "key": "B",
+          "value": "Viruses "
+        },
+        {
+          "key": "C",
+          "value": "Bacteria"
+        },
+        {
+          "key": "D",
+          "value": "Nematodes "
+        }
+      ],
+      "answer": "A",
+      "explanation": "<p>The correct answer is: <b>Option A - Fungi</b>.</p>\n\n<p>Ringworm, also known as tinea, is not caused by a worm but by a fungal infection of the skin. It is called \"ringworm\" because the infection can cause a ring-shaped, red, itchy rash on the skin. The fungi that cause ringworm are known as dermatophytes, and they live on the dead outer layer of skin, hair, and nails. They thrive in warm, moist environments, which is why they are commonly found in places like locker rooms and swimming pools and can be spread through direct contact with an infected person or animal or through contact with contaminated objects or surfaces.</p>\n\n<p>There are different types of fungi that can cause ringworm, including <i>Trichophyton</i>, <i>Microsporum</i>, and <i>Epidermophyton</i>. These fungi can infect various parts of the body and lead to conditions such as athlete's foot (tinea pedis), jock itch (tinea cruris), scalp ringworm (tinea capitis), and ringworm of the body (tinea corporis).</p>\n\n<p>Ringworm treatment usually involves antifungal medicines that can be taken orally or applied topically to the affected area. It is important to follow a healthcare provider's instructions for treatment to prevent the spread of the infection to others and to clear up the infection completely.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Which one of the following statements is\ncorrect with respect to AIDS ?",
+      "options": [
+        {
+          "key": "A",
+          "value": "The causative HIV retrovirus enters helper\nT-lymphocytes thus reducing their numbers "
+        },
+        {
+          "key": "B",
+          "value": "AIDS patients are being fully cured cent per\ncent with proper care and nutrition "
+        },
+        {
+          "key": "C",
+          "value": "The HIV can be transmitted through eating\nfood together with an infected person"
+        },
+        {
+          "key": "D",
+          "value": "Drug addicts are least susceptible to HIV\ninfection "
+        }
+      ],
+      "answer": "A",
+      "explanation": "AIDS (Acquired Immune Deficiency\nSyndrome) is caused by HIV retrovirus. The\nvirus destroys the helper T lymphocytes thus\nreducing their numbers."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Infectious proteins are present in – ",
+      "options": [
+        {
+          "key": "A",
+          "value": "Viroids "
+        },
+        {
+          "key": "B",
+          "value": "Gemini viruses"
+        },
+        {
+          "key": "C",
+          "value": "Satellite viruses "
+        },
+        {
+          "key": "D",
+          "value": "Prions "
+        }
+      ],
+      "answer": "D",
+      "explanation": "Prions are named by Stanley Prusiner (got\nNobel Prize in 1997). Prions are infectious agents\nwhich are made of proteins only (without nucleic\nacid). Prions are the causal agents of scrapie disease\nof sheep.\n"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Select the correct statement from the ones given\nbelow : ",
+      "options": [
+        {
+          "key": "A",
+          "value": "Cocaine is given to patients after surgery as\nit stimulates recovery"
+        },
+        {
+          "key": "B",
+          "value": "Chewing tobacco lowers blood pressure and\nheart rate "
+        },
+        {
+          "key": "C",
+          "value": "Barbiturates when given to criminals make\nthem tell the truth "
+        },
+        {
+          "key": "D",
+          "value": "Morphine is often given to persons who\nhave undergone surgery as a pain killer "
+        }
+      ],
+      "answer": "D",
+      "explanation": "Morphine is potent opioid analgesic\nthat is often given to persons (who have\nundergone surgery) as a pain killer. It is\nmainly used to relieve severe and persistent\npain. It is administrated by mouth, injection\nor suppositories."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Which one of the following statement is\ncorrect ?",
+      "options": [
+        {
+          "key": "A",
+          "value": "Patients who have undergone surgery are\ngiven cannabinoids to relieve pain. "
+        },
+        {
+          "key": "B",
+          "value": "Heroin accelerates body functions. "
+        },
+        {
+          "key": "C",
+          "value": "Malignant tumours may exhibit metastasis"
+        },
+        {
+          "key": "D",
+          "value": "Benign tumours show the property of\nmetastasis "
+        }
+      ],
+      "answer": "C",
+      "explanation": "Tumour is of two types : benign and malign.\nMalign or malignant tumour exhibit metastasis. It is\nthe phenomenon in which cancer cells spread to\ndistant sites through body fluids to develop secondary\ntumour.\n"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Which of following is a pair of viral diseases ?",
+      "options": [
+        {
+          "key": "A",
+          "value": "Ringworm, AIDS "
+        },
+        {
+          "key": "B",
+          "value": "Common Cold, AIDS "
+        },
+        {
+          "key": "C",
+          "value": "Typhoid, Tuberculosis "
+        },
+        {
+          "key": "D",
+          "value": "Dysentery, Common Cold "
+        }
+      ],
+      "answer": "B",
+      "explanation": "Common Cold, AIDS is a pair of viral\ndiseases. Viruses are a very common type of\ninfectious disease. Viruses are the smallest\nlife-form existing, since they are not even a\nsingle cell. It is almost like they are not alive\nat all. They are small strands of DNA-like cell\nmaterial. A virus consists mostly of RNA and\ncannot survive without host cells."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Match the disease in Column I with the\nappropriate items (pathogen/ prevention/\ntreatment) in Column II.<br>\n<style type=\"text/css\">\n.tg  {border-collapse:collapse;border-spacing:0;width:100%}\n.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}\n.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}\n.tg .tg-cly1{text-align:left;vertical-align:middle}\n.tg .tg-wa1i{font-weight:bold;text-align:center;vertical-align:middle}\n</style>\n<table class=\"tg\">\n  <tbody><tr>\n    <th class=\"tg-wa1i\">Column I</th>\n    <th class=\"tg-wa1i\">Column II</th>\n  </tr>\n  <tr>\n    <td class=\"tg-cly1\">(A) Amoebiasis</td>\n    <td class=\"tg-cly1\">(i) Treponema pallidium</td>\n  </tr>\n  <tr>\n    <td class=\"tg-cly1\">(B) Diphtheria</td>\n    <td class=\"tg-cly1\">(ii) Use only sterilized food</td>\n  </tr>\n  <tr>\n    <td class=\"tg-cly1\">(C) Cholera</td>\n    <td class=\"tg-cly1\">(iii) DPT Vaccine</td>\n  </tr>\n  <tr>\n    <td class=\"tg-cly1\">(D) Syphilis</td>\n    <td class=\"tg-cly1\">(iv) Use oval rehydration</td>\n  </tr>\n</tbody></table>",
+      "options": [
+        {
+          "key": "A",
+          "value": "A = (ii), B = (iv), C = (i), D = (iii) "
+        },
+        {
+          "key": "B",
+          "value": "A = (i), B = (ii), C = (iii), D = (iv) "
+        },
+        {
+          "key": "C",
+          "value": "A = (ii), B = (i), C = (iii), D = (iv) "
+        },
+        {
+          "key": "D",
+          "value": "A = (ii), B = (iii), C = (iv), D = (i) "
+        }
+      ],
+      "answer": "D",
+      "explanation": "Amoebiasis : Use only sterilized food\n and water<br>\n Diphtheria : DPT Vaccine<br>\n Cholera : Use oral rehydration\n therapy<br>\n Syphilis : Treponema pallidum"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Which one of the following is the correct\nstatement regarding the particular psychotropic\ndrug specified ? ",
+      "options": [
+        {
+          "key": "A",
+          "value": "Hashish causes after thought perceptions\nand hallucinations "
+        },
+        {
+          "key": "B",
+          "value": "Morphine leads to delusions and disturbed\n emotions"
+        },
+        {
+          "key": "C",
+          "value": "Opium stimulates nervous system and\ncauses hallucinations "
+        },
+        {
+          "key": "D",
+          "value": "Barbiturates cause relaxation and temporary\n euphoria"
+        }
+      ],
+      "answer": "A",
+      "explanation": "Hashish causes after thought perceptions\nand hallucinations. Hashish is a preparation\nof Cannabis composed of the compressed\ntrichomes collected from the Cannabis\nplant. Psychoactive effects vary between\ntypes of Hashish but are usually the same\nas those of other Cannabis preparations\nsuch as marijuana. Hashish is generally\nprohibited to the same extent as all other\nforms of cannabis. It is consumed in much\nthe same way as Cannabis buds, used by itself\nin miniature smoking pipes, vapourized,\nhot knifed, or smoked in joints mixed with\ntobacco, Cannabis buds or other herbs."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Increased asthmatic attacks in certain seasons are\nrelated to: ",
+      "options": [
+        {
+          "key": "A",
+          "value": "Eating fruits preserved in tin containers "
+        },
+        {
+          "key": "B",
+          "value": "Inhalation of seasonal pollen "
+        },
+        {
+          "key": "C",
+          "value": "Low temperature"
+        },
+        {
+          "key": "D",
+          "value": "Hot and humid environmen"
+        }
+      ],
+      "answer": "B",
+      "explanation": "Increased asthmatic attacks in certain\nseasons are related to inhalation of seasonal pollen.\nPollens are microscopic grains produced by plants in\norder to reproduce. Pollen allergy is a hypersensitive\nreaction to pollen. Pollen induced reactions include\nextrinsic asthma, rhinitis and bronchitis."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "If you suspect major deficiency of antibodies in\na person, to which of the following would you\nlook for confirmatory evidence?",
+      "options": [
+        {
+          "key": "A",
+          "value": "Serum albumins"
+        },
+        {
+          "key": "B",
+          "value": "Fibrinogen in the plasma"
+        },
+        {
+          "key": "C",
+          "value": "Serum globulins"
+        },
+        {
+          "key": "D",
+          "value": "Haemocytes"
+        }
+      ],
+      "answer": "C",
+      "explanation": "Serum globulin are globulins occurring in\nblood serum and containing most of the antibodies\nof the blood. Serum globulin electrophoresis is a\nlaboratory test that examines specific proteins in the\nblood called globulins. Globulins are roughly divided\ninto alpha, beta, and gamma globulins. These can be\nseparated and quantitated in the laboratory by\nelectrophoresis and densitometry.\n"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Lysozyme that is present in perspiration, saliva\nand tears, destroys: ",
+      "options": [
+        {
+          "key": "A",
+          "value": "Certain types of bacteria "
+        },
+        {
+          "key": "B",
+          "value": "Most virus – infected cells "
+        },
+        {
+          "key": "C",
+          "value": "All viruses"
+        },
+        {
+          "key": "D",
+          "value": "Certain fungi"
+        }
+      ],
+      "answer": "A",
+      "explanation": "Lysozyme is an antibacterial agent\nwhich is secreted by the major salivary\nglands."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "HIV that causes AIDS, first starts destroying ",
+      "options": [
+        {
+          "key": "A",
+          "value": "Helper T-lymphocytes"
+        },
+        {
+          "key": "B",
+          "value": "B-lymphocytes"
+        },
+        {
+          "key": "C",
+          "value": "Leucocytes"
+        },
+        {
+          "key": "D",
+          "value": "Thrombocytes"
+        }
+      ],
+      "answer": "A",
+      "explanation": "After infection, HIV starts to destroy\nthe T-cells (T-helper lymphocytes). T. cells\nare very important for the immune system.\nIn the early stage of infection, the decline in\nnumbers of T.cells is observed."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The causative agent of mad-cow disease is a- ",
+      "options": [
+        {
+          "key": "A",
+          "value": "Virus"
+        },
+        {
+          "key": "B",
+          "value": "Bacterium"
+        },
+        {
+          "key": "C",
+          "value": "Prion"
+        },
+        {
+          "key": "D",
+          "value": "Worm "
+        }
+      ],
+      "answer": "C",
+      "explanation": "Mad cow disease is actually Bovine\nSpongiform Encephalopathy or BSE. In this\ndisease cattles in Britain got spongy brain &amp;\nultimately gradual degradation of nervous\nsystem. It is caused by some virus like but\nnucleic acid devoid proteinaceous particles\ncalled prions (proteinaceous infectious\nparticle)."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The bacterium (Clostridium botulinum) that\ncauses botulism is- ",
+      "options": [
+        {
+          "key": "A",
+          "value": "A facultative aerobe "
+        },
+        {
+          "key": "B",
+          "value": "An obligate aerobe"
+        },
+        {
+          "key": "C",
+          "value": "A facultative anaerobe "
+        },
+        {
+          "key": "D",
+          "value": "An obligate anaerobe "
+        }
+      ],
+      "answer": "D",
+      "explanation": "Clostridium botulinum is an obligate\nanaerobe i.e. it normally lives in the absence\nof oxygen. Facultative anaerobes are those\nwho generally live in oxygen but may live\nwithout oxygen in suitable medium. Obligate\naerobes can only live in the presence of\noxygen while facultative aerobes generally\nlive in oxygen but can also live without\noxygen."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Antibodies in our body are complex- ",
+      "options": [
+        {
+          "key": "A",
+          "value": "Prostaglandins "
+        },
+        {
+          "key": "B",
+          "value": "Steroids "
+        },
+        {
+          "key": "C",
+          "value": "Glycoproteins "
+        },
+        {
+          "key": "D",
+          "value": "Lipoproteins"
+        }
+      ],
+      "answer": "C",
+      "explanation": "Whenever our body gets attacked by\nsome foreign invadors, our body’s immune\nsystem produces some chemicals to kill or to \nreact against the invader. These chemicals are\nactually made up of carbohydrates &amp; proteins\ni.e. glycoproteins called antibody."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A person showing unpredictable moods,\noutbursts of emotion, quarrelsome behaviour\nand conflicts with others is suffering from- ",
+      "options": [
+        {
+          "key": "A",
+          "value": "Mood disorders"
+        },
+        {
+          "key": "B",
+          "value": "Addictive disorders"
+        },
+        {
+          "key": "C",
+          "value": "Schizophrenia "
+        },
+        {
+          "key": "D",
+          "value": "Borderline Personality Disorder (BPD) "
+        }
+      ],
+      "answer": "D",
+      "explanation": "In Borderline Personality Disorder\n(BPD) a person suffers from emotionally\nunstable personality, unpredictable moods,\nhighly reactive, anxeity and irritability.\nWhile in Schizophrenia a person suffers\nfrom distorted thoughts, he/she shows some\nextreme responses, sometimes auditory\nhallucinations."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Damage to thymus in a child may lead to \n",
+      "options": [
+        {
+          "key": "A",
+          "value": "A reduction in stem cell production"
+        },
+        {
+          "key": "B",
+          "value": "Loss of cell mediated immunity "
+        },
+        {
+          "key": "C",
+          "value": "A reduction in haemoglobin content of blood "
+        },
+        {
+          "key": "D",
+          "value": "Loss of antibody mediated immunity "
+        }
+      ],
+      "answer": "B",
+      "explanation": "The thymus is a major gland of our\nimmune system. The thymus is responsible\nfor production of T (thymus dervied)\nlymphocytes from immature lymphocytes,\na type of white blood cells responsible for\ncell mediated immunity. Cell mediated\nimmunity is extremely important for raising\nimmune response against bacteria, yeast,\nfungi, parasites and virus. It is also critical\nin protecting against cancer, autoimmune\ndisorders like rheumatoid arthritis, allergies\netc."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Which one of the following depresses brain\nactivity and produces feelings of calmness,\nrelaxation and drowsiness ?",
+      "options": [
+        {
+          "key": "A",
+          "value": "Hashish"
+        },
+        {
+          "key": "B",
+          "value": "Amphetamines "
+        },
+        {
+          "key": "C",
+          "value": "Morphine "
+        },
+        {
+          "key": "D",
+          "value": "Valium "
+        }
+      ],
+      "answer": "D",
+      "explanation": "Valium is a benzodiazephine (sedative) that\ngives a feeling of relaxation, calmness or drowsiness\nin the body. Morphine is the main opium alkaloid that\ndepresses respiratory centre and contributes to the fall\nin blood pressure. Amphetamines are synthetic drugs\nand are stimulant in nature. Hashish is a hallucinogen."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Which one of the following is not correctly\nmatched ?",
+      "options": [
+        {
+          "key": "A",
+          "value": "<b> Anopheles culifaciens</b> – Leishmaniasis "
+        },
+        {
+          "key": "B",
+          "value": "<b>Glossina palpalis</b> – Sleeping sickness"
+        },
+        {
+          "key": "C",
+          "value": "<b>Culex pipiens</b> – Filariasis "
+        },
+        {
+          "key": "D",
+          "value": "<b>Aedes aegypti</b> – Yellow fever"
+        }
+      ],
+      "answer": "A",
+      "explanation": "<p>Among the given options, the incorrect match with respect to the disease and the vector responsible for transmitting it is:</p>\n\n<p>Option A: <b>Anopheles culicifaciens</b> – Leishmaniasis</p>\n\n<p>Anopheles is actually a genus of mosquito known for transmitting malaria, not Leishmaniasis. The vector for Leishmaniasis is typically the sandfly from the genus <i>Phlebotomus</i> in the Old World or <i>Lutzomyia</i> in the New World.</p>\n\n<p>Now let's look at the other options for correctness:</p>\n\n<p>Option B: <b>Glossina palpalis</b> – Sleeping sickness</p>\n\n<p>This is correctly matched. <b>Glossina palpalis</b> is a species of tsetse fly that is responsible for transmitting Trypanosoma brucei, the parasite that causes sleeping sickness, also known as African trypanosomiasis.</p>\n\n<p>Option C: <b>Culex pipiens</b> – Filariasis</p>\n\n<p>This is also correct. <b>Culex pipiens</b>, commonly known as the common house mosquito, is known to be a vector for the nematodes such as Wuchereria bancrofti and Brugia malayi, which cause lymphatic filariasis.</p>\n\n<p>Option D: <b>Aedes aegypti</b> – Yellow fever</p>\n\n<p>This is correct as well. <b>Aedes aegypti</b> is a mosquito that acts as the primary vector for yellow fever virus, as well as for other diseases like dengue fever, chikungunya, and Zika virus.</p>\n\n<p>Therefore, the incorrect match here is indeed Option A, with <b>Anopheles culicifaciens</b> incorrectly matched to Leishmaniasis instead of malaria.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Carcinoma refers to : - ",
+      "options": [
+        {
+          "key": "A",
+          "value": "Malignant tumours of the colon "
+        },
+        {
+          "key": "B",
+          "value": "Benign tumours of the connective tissue "
+        },
+        {
+          "key": "C",
+          "value": "Malignant tumours of the connective tissue "
+        },
+        {
+          "key": "D",
+          "value": "Malignant tumours of the skin or mucous\nmembrane "
+        }
+      ],
+      "answer": "D",
+      "explanation": "Carcinomas are malignant growths of\nthe epithelial tissue that cover or line body\norgans."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Short-lived immunity acquired from mother to\nfoetus across placenta or through mother's milk\nto the infant is categorised as :- \n",
+      "options": [
+        {
+          "key": "A",
+          "value": "Passive immunity "
+        },
+        {
+          "key": "B",
+          "value": "Cellular immunity "
+        },
+        {
+          "key": "C",
+          "value": "Innate non-specific immunity "
+        },
+        {
+          "key": "D",
+          "value": "Active immunity "
+        }
+      ],
+      "answer": "A",
+      "explanation": "Short-lived immunity acquired from mothers\nto foetus across placenta or through mother’s milk to\nthe infant is categorised as passive immunity. Passive\nimmunity, an acquired immunity, is resistance based\non antibodies performed in another host. In this case,\nthe foetus is not directly responsible for its body\nimmunity but it becomes immunised by mother’s milk\nacross placenta.\n"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Christmas disease is another name for : - ",
+      "options": [
+        {
+          "key": "A",
+          "value": "Hepatitis B "
+        },
+        {
+          "key": "B",
+          "value": "Sleeping sickness"
+        },
+        {
+          "key": "C",
+          "value": "Haemophilia B"
+        },
+        {
+          "key": "D",
+          "value": "Down's syndrome"
+        }
+      ],
+      "answer": "C",
+      "explanation": "Haemophilia B, a type of haemophilia is\nalso known as christmas disease. It is due to deficiency\nof a blood coagulation factor, the christmas factor\n(factor IX). Christmas was the person (20th century)\nin whom the factor was first identified. Haemophilia\nB is a defect of the blood which prevents its clotting."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Cancerous cells can easily be destroyed by\nradiations due to : - ",
+      "options": [
+        {
+          "key": "A",
+          "value": "Fast mutation "
+        },
+        {
+          "key": "B",
+          "value": "Lack of oxygen"
+        },
+        {
+          "key": "C",
+          "value": "Rapid cell division"
+        },
+        {
+          "key": "D",
+          "value": "Lack of nutrition"
+        }
+      ],
+      "answer": "C",
+      "explanation": "The ability of radiations to kill cells is\nhighest in the tissue with the highest number\nof dividing cells. Tumour cells proliferate\nrapidly. Hence, tumours are killed more\nrapidly by radiations."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Which of the most infectious disease ?",
+      "options": [
+        {
+          "key": "A",
+          "value": "AIDS "
+        },
+        {
+          "key": "B",
+          "value": "Malaria "
+        },
+        {
+          "key": "C",
+          "value": "Hepatitis -B"
+        },
+        {
+          "key": "D",
+          "value": "Cough and cold"
+        }
+      ],
+      "answer": "D",
+      "explanation": "<p>The term \"most infectious\" can vary depending on the context and specific factors such as mode of transmission, reproductive rate (R0), and prevalence within a population. However, if we're talking about the ease with which these diseases can be transmitted from person to person, cough and cold, which can be caused by numerous viruses, notably the common cold being typically caused by the rhinovirus, is generally the most infectious out of the options provided.</p>\n\n<p>Therefore:</p>\n<ul>\n    <li><strong>Option A:</strong> AIDS is caused by the human immunodeficiency virus (HIV) and is spread through certain body fluids from a person with HIV. It is a very serious and chronic condition, but it is less easily transmitted than cough and cold since it usually requires intimate contact or blood transfusion/needle sharing with an infected individual.</li>\n    <li><strong>Option B:</strong> Malaria is caused by Plasmodium parasites and spread by the bite of infected Anopheles mosquitoes. It is not directly contagious from person to person like a virus that causes a cough and cold.</li>\n    <li><strong>Option C:</strong> Hepatitis B is a liver infection caused by the hepatitis B virus (HBV). It is transmitted through exposure to infective blood, semen, and other body fluids, but is not as easily spread as a common cold.</li>\n    <li><strong>Option D:</strong> Cough and cold are generally caused by a variety of respiratory viruses. Because they are spread through the air (via coughing, sneezing) and personal contact, they are highly contagious and infect a large number of people easily.</li>\n</ul>\n\n<p>In sum, while the other diseases listed are infectious and can be serious, a cough and cold (Option D) typically have the highest rate of transmission in everyday circumstances, making it the most infectious in terms of how easily it can be spread from person to person.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Interferons are synthesized in response to ",
+      "options": [
+        {
+          "key": "A",
+          "value": "Bacteria "
+        },
+        {
+          "key": "B",
+          "value": "Mycoplasma "
+        },
+        {
+          "key": "C",
+          "value": "Viruses "
+        },
+        {
+          "key": "D",
+          "value": "Fungi"
+        }
+      ],
+      "answer": "C",
+      "explanation": "Interferons are virus induced proteins\nproduced by cells infected with virus."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Reason of lung cancer is : - ",
+      "options": [
+        {
+          "key": "A",
+          "value": "Calcium fluoride \n"
+        },
+        {
+          "key": "B",
+          "value": "Cement factory"
+        },
+        {
+          "key": "C",
+          "value": "Coal mining"
+        },
+        {
+          "key": "D",
+          "value": "Bauxite mining "
+        }
+      ],
+      "answer": "C",
+      "explanation": "Asbestos fibres present in atmosphere\ndue to industrial emission cause lung cancers\n(asbestosis)."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "L.S.D. is : - ",
+      "options": [
+        {
+          "key": "A",
+          "value": "Stimulant "
+        },
+        {
+          "key": "B",
+          "value": "Tranquiliser "
+        },
+        {
+          "key": "C",
+          "value": "Hallucinogenic"
+        },
+        {
+          "key": "D",
+          "value": "Sedative "
+        }
+      ],
+      "answer": "C",
+      "explanation": "Hallucinogens are drugs that change\nthoughts, feelings and perceptions of individuals.\nThey cause hallucinations. LSD (Lysergic acid\ndiethylamide) is one such hallucinogen that causes\nhorrible dreams, chronic psychosis and severe damage\nto the central nervous system. Sedatives give a feeling\nof calmness, relaxation or drowsiness in the body.\nTheir high doses induce sleep. Tranquillisers lower\ntension and anxiety without inducing sleep.\nStimulants are the drugs that stimulate the nervous\nsystem, make a person more wakeful, alert and active;\nand cause excitement."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Salmonella is related with : - ",
+      "options": [
+        {
+          "key": "A",
+          "value": "T.B. "
+        },
+        {
+          "key": "B",
+          "value": "Tetanus"
+        },
+        {
+          "key": "C",
+          "value": "Typhoid"
+        },
+        {
+          "key": "D",
+          "value": "Polio "
+        }
+      ],
+      "answer": "C",
+      "explanation": "Typhoid is caused by Salmonella typhi. The\norganisms of the disease are present in the stool. They\nmay be present in urine. They can, therefore, be carried\nby water and contaminated food. Their spread through\nwater can give rise to severe epidemics.<br>\nPolio is caused by Enterovirus. TB is caused by\nMycobacterium tuberculosis. Tetanus is caused by\nClostridium tetani.\n"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Which one of the following is correct match ?",
+      "options": [
+        {
+          "key": "A",
+          "value": "Bhang – Analgesic "
+        },
+        {
+          "key": "B",
+          "value": "Cocaine – opiatic narcotic "
+        },
+        {
+          "key": "C",
+          "value": "Morphine – Hallucinogenic "
+        },
+        {
+          "key": "D",
+          "value": "Reserpine – Tranquilliser "
+        }
+      ],
+      "answer": "D",
+      "explanation": "Morphine is an opiate narcotic, Bhang\nis a hallucinogen, Reserpine derived form\nRauwolfia, is used as tranquilizer, Cocaine is\na stimulant."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Saline solution is given to patients of Cholera\nbecause",
+      "options": [
+        {
+          "key": "A",
+          "value": "NaCl produces energy "
+        },
+        {
+          "key": "B",
+          "value": "Na<sup>+</sup> prevents water loss from body"
+        },
+        {
+          "key": "C",
+          "value": "NaCl is antibacterial"
+        },
+        {
+          "key": "D",
+          "value": "NaCl function as regulatory material "
+        }
+      ],
+      "answer": "B",
+      "explanation": "Cholera is an acute infection of the small\nintestine by the bacterium Vibrio cholerae, which\ncauses severe vomiting and diarrhoea (known as\nricewater stools) leading to dehydration. The disease\nis contracted from food or drinking water\ncontaminated by faeces from a patient. The resulting\ndehydration and the imbalance in the concentration\nof body fluids can cause death within 24 hours. Since,\na large quantity of fluid and salts are rapidly lost\nthrough stools and vomit, therefore, the most\nimportant treatment is to replace the lost fluid and\nsalts equally rapidly. Rapid replacement of fluid and\nelecrolytes is needed by oral rehydration-therapy. The\nelectrolytes consists of Na+\n ions that prevents water\nloss from the body.\n"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Which disease of man is similar with cattle's,\nbovine spongyform encephalopathy ?",
+      "options": [
+        {
+          "key": "A",
+          "value": "Spongiocitis of cerebrum"
+        },
+        {
+          "key": "B",
+          "value": "Encephalitis "
+        },
+        {
+          "key": "C",
+          "value": "Spondylitis "
+        },
+        {
+          "key": "D",
+          "value": "Jecob-crutzfelt disease"
+        }
+      ],
+      "answer": "D",
+      "explanation": "The common term for bovine spongiform\nencephalopathy is mad cow disease, which is a\nprogressive neurological disorder of cattle. In humans \nit is called Creutzfeldt-Jakob disease, after the two\ndoctors who first described the symptoms of the\ndisease. It is caused by prions (proteinaceous\ninfectious particles). It is characterized by rapidly\nprogressive dementia associated with myoclonic\njerks. The brains of affected individuals show a\ncharacteristic cystic degenerations.\n\n"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Which is showing accurate pairing ?",
+      "options": [
+        {
+          "key": "A",
+          "value": "Gonorrhoea - Leishmania denovoni"
+        },
+        {
+          "key": "B",
+          "value": "Syphilis - Treponema pallidum"
+        },
+        {
+          "key": "C",
+          "value": "Typhoid – Mycobacterium leprae "
+        },
+        {
+          "key": "D",
+          "value": "AIDS - Bacillus conjugalis"
+        }
+      ],
+      "answer": "B",
+      "explanation": "Syphilis is caused by a spirochete (spiral\nbacterium) Treponema pallidum. The symptoms of\nsyphilis occur in three stages. The first stage usually\nconsists of a painless lesion called a chancre at the\norganism’s site of entry. The second stage begins as\nthe organism enters the blood. Symptoms such as\nfever, a flu like illness, a skin rash, hair loss, and\nswollen joints may come and go over a period of\nseveral years. In the third stage permanent brain\ndamage, heart disease, and blindness often occurs.\nAIDS is a viral disease caused by Human Immuno\ndeficiency virus. Gonorrhoea is a sexual disease and\nits causative organism is Neisseria gonorrhoea.\nTyphoid is caused by bacillus bacteria Salmonella\ntyphi.\n"
+    }
+  ]
+}

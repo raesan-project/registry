@@ -1,0 +1,1783 @@
+{
+  "_index": {
+    "name": "Dual Nature of Radiation and Matter"
+  },
+  "_children": [
+    {
+      "_type": "single_mcq",
+      "body": "<p>An electron and an alpha particle are accelerated by the same potential difference. Let $$\\lambda_e$$ and $$\\lambda_\\alpha$$ denote the de-Broglie wavelengths of the electron and the alpha particle, respectively, then:</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$\\lambda_e>\\lambda_\\alpha$$\n"
+        },
+        {
+          "key": "B",
+          "value": "$$\\lambda_e=4 \\lambda_\\alpha$$\n"
+        },
+        {
+          "key": "C",
+          "value": "$$\\lambda_e=\\lambda_\\alpha$$\n"
+        },
+        {
+          "key": "D",
+          "value": "$$\\lambda_e<\\lambda_\\alpha$$\n"
+        }
+      ],
+      "answer": "A",
+      "explanation": "<p>de-Broglie wavelength is given by</p>\n<p>$$\\lambda=\\frac{h}{p}=\\frac{h}{\\sqrt{2 m q V}}$$</p>\n<p>For same potential difference</p>\n<p>$$\\begin{gathered}\n\\lambda \\propto \\frac{1}{\\sqrt{m q}} \\\\\n\\frac{\\lambda_\\alpha}{\\lambda_e}=\\sqrt{\\frac{m_e q_e}{m_\\alpha q_\\alpha}} \\\\\n\\because m_\\alpha \\gg m_e \\\\\n\\lambda_e>\\lambda_\\alpha\n\\end{gathered}$$</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>If $$\\phi$$ is the work function of photosensitive material in $$\\mathrm{eV}$$ and light of wavelength of numerical value $$\\lambda=\\frac{h c}{e}$$ metre, is incident on it with energy above its threshold value at an instant then the maximum kinetic energy of the photo-electron ejected by it at that instant (Take $$h$$-Plank's constant, $$c$$-velocity of light in free space) is (in SI units):</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$e+2 \\phi$$\n"
+        },
+        {
+          "key": "B",
+          "value": "$$2 e-\\phi$$\n"
+        },
+        {
+          "key": "C",
+          "value": "$$e-\\phi$$\n"
+        },
+        {
+          "key": "D",
+          "value": "$$e+\\phi$$\n"
+        }
+      ],
+      "answer": "C",
+      "explanation": "<p>The energy of the incident light is given by:\n\n<p>$$E = h \\nu = \\frac{hc}{\\lambda}$$</p>\n\n<p>where $$h$$ is Planck's constant, $$c$$ is the speed of light, and $$\\lambda$$ is the wavelength of the light.  Substituting the given value of $$\\lambda$$, we get:</p>\n\n<p>$$E = \\frac{hc}{hc/e} = e$$</p>\n\n<p>The maximum kinetic energy of the photoelectron is given by:</p>\n\n<p>$$KE_{max} = E - \\phi$$</p>\n\n<p>where $$\\phi$$ is the work function. Substituting the values, we get:</p>\n\n<p>$$KE_{max} = e - \\phi$$</p>\n\n<p>Therefore, the correct answer is <strong>Option C</strong>.</p>\n\n</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>If $$c$$ is the velocity of light in free space, the correct statements about photon among the following are:</p>\n<p>A. The energy of a photon is $$E=h v$$.</p>\n<p>B. The velocity of a photon is $$c$$.</p>\n<p>C. The momentum of a photon, $$p=\\frac{h v}{c}$$.</p>\n<p>D. In a photon-electron collision, both total energy and total momentum are conserved.</p>\n<p>E. Photon possesses positive charge.</p>\n<p>Choose the correct answer from the options given below:</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "A and B only\n"
+        },
+        {
+          "key": "B",
+          "value": "A, B, C and D only\n"
+        },
+        {
+          "key": "C",
+          "value": "A, C and D only\n"
+        },
+        {
+          "key": "D",
+          "value": "A, B, D and E only"
+        }
+      ],
+      "answer": "B",
+      "explanation": "<p>A. The energy of a photon is $$E = h v$$.</p>\n<p>This statement is correct. The energy of a photon is given by the equation:</p>\n<p>$$E = h v$$</p>\n<p>where $$E$$ is the energy, $$h$$ is Planck's constant, and $$v$$ (also written as $$\\nu$$) is the frequency of the photon.</p>\n\n<p>B. The velocity of a photon is $$c$$.</p>\n<p>This statement is also correct. In free space (vacuum), the velocity of light, and hence the velocity of a photon, is constant and is denoted by $$c$$.</p>\n\n<p>C. The momentum of a photon, $$p = \\frac{h v}{c}$$.</p>\n<p>This statement is correct as well. The momentum $$p$$ of a photon can be expressed as:</p>\n<p>$$p = \\frac{E}{c} = \\frac{h v}{c}$$</p>\n\n<p>D. In a photon-electron collision, both total energy and total momentum are conserved.</p>\n<p>This statement is correct. During collisions involving photons and electrons, such as Compton scattering, both energy and momentum are conserved.</p>\n\n<p>E. Photon possesses positive charge.</p>\n<p>This statement is incorrect. Photons are electrically neutral particles and do not possess any charge.</p>\n\n<p>Based on the analysis, the correct statements are A, B, C, and D. Therefore, the correct answer is:</p>\n\n<p><strong>Option B</strong><br>\nA, B, C, and D only</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>The de Broglie wavelength associated with an electron, accelerated by a potential difference of 81 V is given by:</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "13.6 nm"
+        },
+        {
+          "key": "B",
+          "value": "136 nm"
+        },
+        {
+          "key": "C",
+          "value": "1.36 nm"
+        },
+        {
+          "key": "D",
+          "value": "0.136 nm"
+        }
+      ],
+      "answer": "D",
+      "explanation": "<p>$${\\lambda _e} = {{12.27} \\over {\\sqrt V }}\\mathop A\\limits^o  = {{12.27} \\over {\\sqrt {81} }}\\mathop A\\limits^o  = {{12.27} \\over 9}\\mathop A\\limits^o $$</p>\n<p>$$ = 1.36\\mathop A\\limits^o $$ ($$\\because$$ $$1\\mathop A\\limits^o  = {1 \\over {10}}$$ nm)</p>\n<p>$$ = 0.136$$ nm</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>The maximum kinetic energy of the emitted photoelectrons in photoelectric effect is independent of:</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "work function of material"
+        },
+        {
+          "key": "B",
+          "value": "intensity of incident radiation"
+        },
+        {
+          "key": "C",
+          "value": "frequency of incident radiation"
+        },
+        {
+          "key": "D",
+          "value": "wavelength of incident radiation"
+        }
+      ],
+      "answer": "B",
+      "explanation": "<p>Maximum kinetic energy of emitted electron is independent of intensity of radiation.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>The work functions of Caesium $$(\\mathrm{Cs})$$, potassium $$(\\mathrm{K})$$ and Sodium (Na) are $$2.14 ~\\mathrm{eV}, 2.30 ~\\mathrm{eV}$$ and $$2.75 ~\\mathrm{eV}$$ respectively. If incident electromagnetic radiation has an incident energy of $$2.20 ~\\mathrm{eV}$$, which of these photosensitive surfaces may emit photoelectrons?</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "Both Na and K"
+        },
+        {
+          "key": "B",
+          "value": "K only"
+        },
+        {
+          "key": "C",
+          "value": "Na only"
+        },
+        {
+          "key": "D",
+          "value": "Cs only"
+        }
+      ],
+      "answer": "D",
+      "explanation": "<p>Given energy of photon $$E=2.20 ~\\mathrm{eV}$$</p>\n<p>Work function of $$\\mathrm{Cs} ~\\phi_{0}=2.14 ~\\mathrm{eV}, \\mathrm{K} ~\\phi_{0}=2.30 ~\\mathrm{eV}, \\mathrm{Na} ~\\phi_{0}=2.75 ~\\mathrm{eV}$$</p>\n<p>We know that $$e^{-}$$ emitts when $$h v>\\phi_{0}$$</p>\n<p>here it is clear that energy of photon is more than the work function of $$\\mathrm{Cs}$$ [Caesium] only so Ans. only (Cs).</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>The minimum wavelength of $$X$$-rays produced by an electron accelerated through a potential difference of $$V$$ volts is proportional to :</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$\\frac{1}{V}$$"
+        },
+        {
+          "key": "B",
+          "value": "$$\\frac{1}{\\sqrt{V}}$$"
+        },
+        {
+          "key": "C",
+          "value": "$$V^{2}$$"
+        },
+        {
+          "key": "D",
+          "value": "$$\\sqrt{V}$$"
+        }
+      ],
+      "answer": "A",
+      "explanation": "<p>The minimum wavelength, $$\\lambda_{\\min}$$, of X-rays produced by an electron can be determined using the equation derived from the energy of a photon and the energy given to an electron by an accelerating voltage, $$V$$. <br/><br/>The energy of a photon is given by $$E = hc/\\lambda$$, where $$h$$ is Planck's constant, $$c$$ is the speed of light, and $$\\lambda$$ is the wavelength of the photon. <br/><br/>When an electron is accelerated through a potential difference of $$V$$ volts, it gains kinetic energy equal to $$eV$$, where $$e$$ is the electron charge.</p>\n<p>This energy is then converted into a photon's energy when the electron collides with a target in an X-ray tube, resulting in X-rays of wavelength $$\\lambda$$. Setting the kinetic energy equal to the photon energy gives $$eV = hc/\\lambda$$. Solving for $$\\lambda$$ gives $$\\lambda = hc/(eV)$$. <br/><br/>Therefore, the minimum wavelength (corresponding to the maximum energy photon produced when all the kinetic energy is converted into photon energy) is inversely proportional to the voltage, $$V$$.</p>\n<p>Thus, $$\\lambda_{\\min} \\propto 1/V$$.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>The light rays having photons of energy 4.2 eV are falling on a metal surface having a work function of 2.2 eV. The stopping potential of the surface is</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "6.4 V"
+        },
+        {
+          "key": "B",
+          "value": "2 eV"
+        },
+        {
+          "key": "C",
+          "value": "2 V"
+        },
+        {
+          "key": "D",
+          "value": "1.1 V"
+        }
+      ],
+      "answer": "C",
+      "explanation": "<p>We know, $$K{E_{\\max }} = hv - h{v_0}$$</p>\n<p>$$e{V_0} = hv - h{v_0}$$ ($$\\because$$ $$K{E_{\\max }} = e{V_0}$$)</p>\n<p>$$e{V_0} = 4.2\\,eV - 2.2\\,eV$$</p>\n<p>$$\\therefore$$ $${V_0} = 2\\,V$$</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>The threshold frequency of a photoelectric metal is v<sub>0</sub>. If light of frequency 4v<sub>0</sub> is incident on this metal, then the maximum kinetic energy of emitted electrons will be :</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "4 hv<sub>0</sub>"
+        },
+        {
+          "key": "B",
+          "value": " hv<sub>0</sub>"
+        },
+        {
+          "key": "C",
+          "value": "2 hv<sub>0</sub>"
+        },
+        {
+          "key": "D",
+          "value": "3 hv<sub>0</sub>"
+        }
+      ],
+      "answer": "D",
+      "explanation": "<p>According to Einstein's photoelectric equation</p>\n<p>$${(K.E)_{\\max }} = hv - h{v_0}$$</p>\n<p>$${(K.E)_{\\max }} = h(4{v_0}) - h{v_0}$$</p>\n<p>$${(K.E)_{\\max }} = 3h{v_0}$$</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>When two monochromatic lights of frequency, v and $${v \\over 2}$$ are incident on a photoelectric metal, their stopping potential becomes $${{{V_s}} \\over 2}$$ and V<sub>s</sub> respectively. The threshold frequency for this metal is</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "2v"
+        },
+        {
+          "key": "B",
+          "value": "3v"
+        },
+        {
+          "key": "C",
+          "value": "$${2 \\over 3}$$v"
+        },
+        {
+          "key": "D",
+          "value": "$${3 \\over 2}$$v"
+        }
+      ],
+      "answer": "D",
+      "explanation": "<p>Since $${k_{\\max }} = e{V_s} = hv - \\phi $$</p>\n<p>$${{e{V_s}} \\over 2} = hv - h{v_0}$$ ....... (i)</p>\n<p>$$e{V_s} = {{hv} \\over 2} - h{v_0}$$ ...... (ii)</p>\n<p>$${1 \\over 2}\\left[ {{{hv} \\over 2} - h{v_0}} \\right] = hv - h{v_0}$$</p>\n<p>$$ \\Rightarrow h{v_0} - {{h{v_0}} \\over 2} = hv - {{hv} \\over 4}$$</p>\n<p>$$ \\Rightarrow {{h{v_0}} \\over 2} = {{3hv} \\over 4}$$</p>\n<p>$${v_0} = {{3v} \\over 2}$$</p>\n<p>* Language of question is wrongly framed. The values of stopping potentials should be interchanged.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The number of photons per second on an average emitted by the source of monochromatic light of wavelength 600nm, when it delivers the power of 3.3 $$\\times$$ 10<sup>$$-$$3</sup> watt will be : (h = 6.6 $$\\times$$ 10<sup>$$-$$34</sup> Js)",
+      "options": [
+        {
+          "key": "A",
+          "value": "10<sup>15</sup>"
+        },
+        {
+          "key": "B",
+          "value": "10<sup>18</sup>"
+        },
+        {
+          "key": "C",
+          "value": "10<sup>17</sup>"
+        },
+        {
+          "key": "D",
+          "value": "10<sup>16</sup>"
+        }
+      ],
+      "answer": "D",
+      "explanation": "$$p = {{nhc} \\over \\lambda } \\Rightarrow n = {{p\\lambda } \\over {hc}}$$<br><br>$$n = {{3.3 \\times {{10}^{ - 3}} \\times 600 \\times {{10}^{ - 9}}} \\over {6.6 \\times {{10}^{ - 34}} \\times 3 \\times {{10}^8}}} = {10^{16}}$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "An electromagnetic wave of wavelength '$$\\lambda$$' is incident on a photosensitive surface of negligible work function. If 'm' mass is of photoelectron emitted from the surface has de-Broglie wavelength $$\\lambda$$<sub>d</sub>, then :",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$\\lambda  = \\left( {{{2h} \\over {mc}}} \\right){\\lambda _d}^2$$"
+        },
+        {
+          "key": "B",
+          "value": "$$\\lambda  = \\left( {{{2m} \\over {hc}}} \\right){\\lambda _d}^2$$"
+        },
+        {
+          "key": "C",
+          "value": "$${\\lambda _d} = \\left( {{{2mc} \\over h}} \\right){\\lambda ^2}$$"
+        },
+        {
+          "key": "D",
+          "value": "$$\\lambda  = \\left( {{{2mc} \\over h}} \\right){\\lambda _d}^2$$"
+        }
+      ],
+      "answer": "D",
+      "explanation": "$${{hc} \\over \\lambda } = {k_{\\max }} + \\phi $$ [given $$\\phi$$ is negligible]<br><br>So, $${{hc} \\over \\lambda } = {K_{\\max }}$$<br><br>$${\\lambda _d} = {h \\over {\\sqrt {2m{K_{\\max }}} }} \\Rightarrow {K_{\\max }} = {{{h^2}} \\over {2m\\lambda _d^2}}$$<br><br>$$\\left( {{{hc} \\over \\lambda }} \\right) = {{{h^2}} \\over {2m\\lambda _d^2}} \\Rightarrow \\lambda  = \\left( {{{2mc} \\over h}} \\right)\\lambda _d^2$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Light of frequency 1.5 times the threshold frequency is incident on a photosensitive material. What will be the photoelectric current if the frequency is halved and intensity is doubled?",
+      "options": [
+        {
+          "key": "A",
+          "value": "four times"
+        },
+        {
+          "key": "B",
+          "value": "one-fourth"
+        },
+        {
+          "key": "C",
+          "value": "zero"
+        },
+        {
+          "key": "D",
+          "value": "doubled"
+        }
+      ],
+      "answer": "C",
+      "explanation": "$$v = {3 \\over 2}{v_0}$$\n<br>and $${v'} = {v \\over 2} = {3 \\over 4}{v_0}$$<br>Here we see $$v' &lt; v' &lt; {v_0}$$<br>\n\n\n\nBelow threshold frequency, no photo-electric emission takes place."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Light with an average flux of 20 W/cm<sup>2</sup> falls on a non-reflecting surface at normal incidence having surface area 20 cm<sup>2</sup>. The energy received by the surface during time span of 1 minute is :",
+      "options": [
+        {
+          "key": "A",
+          "value": "12 $$ \\times $$ 10<sup>3</sup> J"
+        },
+        {
+          "key": "B",
+          "value": "24 $$ \\times $$ 10<sup>3</sup> J"
+        },
+        {
+          "key": "C",
+          "value": "48 $$ \\times $$ 10<sup>3</sup> J"
+        },
+        {
+          "key": "D",
+          "value": "10 $$ \\times $$ 10<sup>3</sup> J"
+        }
+      ],
+      "answer": "B",
+      "explanation": "Energy = intensity $$ \\times $$ time $$ \\times $$ area<br>= 20 $$ \\times $$ 60 $$ \\times $$ 20<br>E = 24 $$ \\times $$ 10<sup>3</sup> J"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "An electron is accelerated from rest through a potential difference of V volt. If the de-Broglie wavelength of the electron is 1.227 $$ \\times $$ 10<sup>-2</sup> nm, the potential difference is :",
+      "options": [
+        {
+          "key": "A",
+          "value": "10<sup>2</sup> V"
+        },
+        {
+          "key": "B",
+          "value": "10<sup>3</sup> V"
+        },
+        {
+          "key": "C",
+          "value": "10<sup>4</sup> V"
+        },
+        {
+          "key": "D",
+          "value": "10<sup></sup> V"
+        }
+      ],
+      "answer": "C",
+      "explanation": "The de-Broglie wavelength and the accelerated potential is related as follows :<br><br>$$\\lambda  = {{12.27} \\over {\\sqrt V }}$$$$A^\\circ $$\n<br><br>$$\\sqrt V  = {{12.27 \\times {{10}^{ - 10}}} \\over {1.227 \\times {{10}^{ - 11}}}} = {10^2}$$\n<br><br>$$V = {10^4}$$\n volts\n"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "An electron is accelerated through a potential difference of 10,000 V. Its de Broglie wavelength is (nearly) : (m<sub>e</sub>  = 9 $$ \\times $$ 10<sup>–31</sup> kg) ",
+      "options": [
+        {
+          "key": "A",
+          "value": "12.2 × 10<sup>–12</sup> m"
+        },
+        {
+          "key": "B",
+          "value": "12.2 × 10<sup>–13</sup> m "
+        },
+        {
+          "key": "C",
+          "value": "12.2 × 10<sup>–14</sup> m"
+        },
+        {
+          "key": "D",
+          "value": "12.2 nm"
+        }
+      ],
+      "answer": "A",
+      "explanation": "Expression for an electron accelerated through\na potential V is given as\n<br><br>$$\\lambda $$ = $${{12.27} \\over {\\sqrt V }}\\mathop A\\limits^o $$\n<br><br>= $${{12.27 \\times {{10}^{ - 10}}} \\over {\\sqrt {10000} }}$$\n<br><br>= 12.2 × 10<sup>–12</sup> m"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "An electron of mass m with an initial velocity\n$$\\overrightarrow v  = {v_0}\\widehat i$$ (v<sub>0</sub> &gt; 0)\n enters an electric field\n$$\\overrightarrow E  =  - {\\overrightarrow E _0}\\widehat i$$\n (E<sub>0</sub>\n = constant &gt; 0) at t = 0. If $$\\lambda $$<sub>0</sub>\nis its de-Broglie wavelength initially, then its\nde- Broglie wavelength at time t is",
+      "options": [
+        {
+          "key": "A",
+          "value": "$${{{\\lambda _0}} \\over {\\left( {1 + {{e{E_0}} \\over {m{v_0}}}t} \\right)}}$$"
+        },
+        {
+          "key": "B",
+          "value": "$${{\\lambda _0}\\left( {1 + {{e{E_0}} \\over {m{v_0}}}t} \\right)}$$"
+        },
+        {
+          "key": "C",
+          "value": "$$\\lambda $$<sub>0</sub>t"
+        },
+        {
+          "key": "D",
+          "value": "$$\\lambda $$<sub>0</sub>"
+        }
+      ],
+      "answer": "A",
+      "explanation": "Given, Initial velocity v = v<sub>0</sub> $$\\widehat i$$\n<br><br>Electric field E = – E<sub>0</sub>$$\\widehat i$$\n<br><br>$$ \\therefore $$Initial de-Brogile wavelength,\n<br><br>$$\\lambda $$<sub>0</sub> = $${h \\over {m{v_0}}}$$\n<br><br>Now force due to electric field on electrons,\n<br><br>$$\\overrightarrow F  = \\left( { - e} \\right)\\left( { - {E_0}\\widehat i} \\right) = e{E_0}\\widehat i$$\n<br><br>Acceleration produced in the electron,\n<br><br>$$\\overrightarrow a  = {{\\overrightarrow F } \\over m} = {{e{E_0}} \\over m}\\widehat i$$\n<br><br>Now, velocity of electron after time t,\n<br><br>$$\\overrightarrow {{v_t}}  = \\overrightarrow v  + \\overrightarrow a t$$ = $$\\left( {{v_0} + {{e{E_0}t} \\over m}} \\right)\\widehat i$$\n<br><br>$$ \\Rightarrow $$ $$\\left| {\\overrightarrow {{v_t}} } \\right| = {v_0} + {{e{E_0}t} \\over m}$$\n<br><br>Now, $$\\lambda $$<sub>t</sub> = $${h \\over {m{v_t}}}$$\n<br><br>= $${h \\over {m\\left( {{v_0} + {{e{E_0}t} \\over m}} \\right)}}$$\n<br><br>= $${h \\over {m{v_0}\\left( {1 + {{e{E_0}t} \\over {m{v_0}}}} \\right)}}$$\n<br><br>= $${{{\\lambda _0}} \\over {\\left( {1 + {{e{E_0}t} \\over {m{v_0}}}} \\right)}}$$ [As $${\\lambda _0} = {h \\over {m{v_0}}}$$]"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "When the light of frequency 2$${\\upsilon _0}$$\n (where $${\\upsilon _0}$$\n is\nthreshold frequency), is incident on a metal\nplate, the maximum velocity of electrons\nemitted is v<sub>1</sub>\n. When the frequency of the\nincident radiation is increased to 5$${\\upsilon _0}$$\n, the\nmaximum velocity of electrons emitted from\nthe same plate is v<sub>2</sub>\n. The ratio of v<sub>1</sub>\n to v<sub>2</sub>\n is\n",
+      "options": [
+        {
+          "key": "A",
+          "value": "1 : 2"
+        },
+        {
+          "key": "B",
+          "value": "1 : 4"
+        },
+        {
+          "key": "C",
+          "value": "4 : 1"
+        },
+        {
+          "key": "D",
+          "value": "2 : 1"
+        }
+      ],
+      "answer": "A",
+      "explanation": "From Einstein’s equation\n<br><br>$${1 \\over 2}mv_1^2 = 2h{\\nu _0} - h{\\nu _0} = h{\\nu _0}$$\n<br><br>Again, $${1 \\over 2}mv_2^2 = 5h{\\nu _0} - h{\\nu _0} = 4h{\\nu _0}$$\n<br><br>$$ \\therefore $$ $${{{v_1}} \\over {{v_2}}} = \\sqrt {{1 \\over 4}}  = {1 \\over 2}$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The de-Broglie wavelength of a neutron in thermal equilibrium with heavy water at a temperature T (kelvin) and mass m, is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$${h \\over {\\sqrt {3mkT} }}$$"
+        },
+        {
+          "key": "B",
+          "value": "$${{2h} \\over {\\sqrt 3 mkT}}$$"
+        },
+        {
+          "key": "C",
+          "value": "$${{2h} \\over {\\sqrt {mkT} }}$$"
+        },
+        {
+          "key": "D",
+          "value": "$${h \\over {\\sqrt {mkT} }}$$"
+        }
+      ],
+      "answer": "A",
+      "explanation": "Wavelength, $$\\lambda $$ = $${h \\over p}$$\n<br><br>$$ \\Rightarrow $$ $$\\lambda $$ = $${h \\over {\\sqrt {2mE} }}$$\n<br><br>$$ \\Rightarrow $$ $$\\lambda $$ = $${h \\over {\\sqrt {2m \\times {3 \\over 2}kT} }}$$\n<br><br>$$ \\Rightarrow $$ $$\\lambda $$ = $${h \\over {\\sqrt {3mkT} }}$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Electrons of mass m with de-Broglie wavelength $$\\lambda $$ fall on the target in an X-ray tube. The cutoff wavelength ($$\\lambda $$<sub>0</sub>) of the emitted X-ray is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$\\lambda $$<sub>0</sub> = $${{2mc{\\lambda ^2}} \\over h}$$"
+        },
+        {
+          "key": "B",
+          "value": "$${\\lambda _0} = {{2h} \\over {mc}}$$"
+        },
+        {
+          "key": "C",
+          "value": "$${\\lambda _0} = {{2{m^2}{c^2}{\\lambda ^3}} \\over {{h^2}}}$$"
+        },
+        {
+          "key": "D",
+          "value": "$${\\lambda _0} = \\lambda $$"
+        }
+      ],
+      "answer": "A",
+      "explanation": "Kinetic energy of electrons\n<br><br>K = $${{{p^2}} \\over {2m}}$$ = $${{{{\\left( {{h \\over \\lambda }} \\right)}^2}} \\over {2m}}$$ = $${{{h^2}} \\over {2m{\\lambda ^2}}}$$\n<br><br>For certain frequency, maximum wavelength that\ncan be emitted is $$\\lambda $$<sub>0</sub> which is cut off wavelength\nobtained at cut off frequency,\n<br><br>E<sub>0</sub> = $${{hc} \\over {{\\lambda _0}}}$$\n<br><br>Since, E = E<sub>0</sub>\n<br><br>$${{{h^2}} \\over {2m{\\lambda ^2}}} = {{hc} \\over {{\\lambda _0}}}$$\n<br><br>$$ \\Rightarrow $$ $$\\lambda $$<sub>0</sub> = $${{2mc{\\lambda ^2}} \\over h}$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Photons with energy 5 eV are incifent on a cathode C in a photoelectric cell. The maximum energy of emitted photoelectrons is 2 eV. When photons of energy 6 eV are incident on C, no photoelectrons will reach the anode A, if the stopping potential of A relative to C is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "+ 3 V"
+        },
+        {
+          "key": "B",
+          "value": "+4 V"
+        },
+        {
+          "key": "C",
+          "value": "$$-$$1 V"
+        },
+        {
+          "key": "D",
+          "value": "$$-$$3 V"
+        }
+      ],
+      "answer": "D",
+      "explanation": "Stopping potential is the voltage which\nis needed to stop energetic photo electron for\nreaching towards cathode.\n<br><br>Stopping potential, $$\\phi $$ = E – K<sub>max</sub>\n<br><br>2 eV = 5 eV – $$\\phi $$ or $$\\phi $$ = 3 eV\n<br><br>Now eV<sub>0</sub> = E' – $$\\phi $$ = 6 eV – 3 eV = 3 eV\n<br><br>Hence stopping potential is –3V"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "An electron of mass m and a photon have same energy E. The ratio of de-Broglie wavelengths associated with them is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$c{\\left( {2mE} \\right)^{{1 \\over 2}}}$$"
+        },
+        {
+          "key": "B",
+          "value": "$${1 \\over c}{\\left( {{{2m} \\over E}} \\right)^{{1 \\over 2}}}$$"
+        },
+        {
+          "key": "C",
+          "value": "$${1 \\over c}{\\left( {{E \\over {2m}}} \\right)^{{1 \\over 2}}}$$"
+        },
+        {
+          "key": "D",
+          "value": "$${\\left( {{E \\over {2m}}} \\right)^{{1 \\over 2}}}$$"
+        }
+      ],
+      "answer": "C",
+      "explanation": "For electron De-Broglie wavelength,\n<br><br>$$\\lambda $$<sub>e</sub> = $${h \\over {\\sqrt {2mE} }}$$\n<br><br>For photon of energy, E = h$$\\nu $$ = $${{hc} \\over {{\\lambda _p}}}$$\n<br><br>$$ \\Rightarrow $$ $$\\lambda $$<sub>p</sub> = $${{hc} \\over E}$$\n<br><br>$$ \\therefore $$ $${{{\\lambda _e}} \\over {{\\lambda _p}}}$$ = $${h \\over {\\sqrt {2mE} }} \\times {E \\over {hc}}$$ = $${1 \\over c}{\\left( {{E \\over {2m}}} \\right)^{{1 \\over 2}}}$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "When a metallic surface is illuminated with radiation of wavelength $$\\lambda $$, the stopping potential is V. If the same surface is illuminated with radiation of wavelength 2 $$\\lambda $$, the stopping potential is $${V \\over 4}$$. The threshold wavelength for the metallic surface is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$${5 \\over 2}\\lambda $$"
+        },
+        {
+          "key": "B",
+          "value": "3$$\\lambda $$"
+        },
+        {
+          "key": "C",
+          "value": "4$$\\lambda $$"
+        },
+        {
+          "key": "D",
+          "value": "5$$\\lambda $$"
+        }
+      ],
+      "answer": "B",
+      "explanation": "According to Einstein's photoelectric\neffect,\n<br><br>eV = $${{hc} \\over \\lambda }$$ - $${{hc} \\over {{\\lambda _0}}}$$ .......(1)\n<br><br>e$${V \\over 4}$$ = $${{hc} \\over 2\\lambda }$$ - $${{hc} \\over {{\\lambda _0}}}$$ .......(2)\n<br><br>Dividing equation (i) by (ii) by,\n<br><br>4 = $${{{1 \\over \\lambda } - {1 \\over {{\\lambda _0}}}} \\over {{1 \\over {2\\lambda }} - {1 \\over {{\\lambda _0}}}}}$$\n<br><br>$$ \\Rightarrow $$ $$\\lambda $$<sub>0</sub> = 3$$\\lambda $$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A photoelectric surface is illuminated successively by monochromatic light of wavelength $$\\lambda $$ and If the maximum kinetic energy of the emitted photoelectrons in the second case is 3 times that in the first case, the work function of the surface of the material is \n<br>(h = Planck's constant, C = speed of light) ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$${{2hc} \\over \\lambda }$$"
+        },
+        {
+          "key": "B",
+          "value": "$${{hc} \\over {3\\lambda }}$$"
+        },
+        {
+          "key": "C",
+          "value": "$${{hc} \\over {2\\lambda }}$$"
+        },
+        {
+          "key": "D",
+          "value": "$${{hc} \\over \\lambda }$$"
+        }
+      ],
+      "answer": "C",
+      "explanation": "According to Einstein’s photoelectric equation, the\nmaximum kinetic energy of the emitted\nphotoelectrons in the first case is\n<br><br>$${K_{{{\\max }_1}}}$$ = $${{hc} \\over \\lambda }$$ - $$\\phi $$<sub>0</sub>\n<br><br>and that in the second case is\n<br><br>$${K_{{{\\max }_2}}}$$ = $${{hc} \\over {{\\lambda  \\over 2}}}$$ - $$\\phi $$<sub>0</sub>\n<br><br>Given $${K_{{{\\max }_2}}}$$ = 3$${K_{{{\\max }_1}}}$$\n<br><br>$$ \\therefore $$ $${{2hc} \\over \\lambda }$$ - $$\\phi $$<sub>0</sub> = 3$$\\left( {{{hc} \\over \\lambda } - {\\phi _0}} \\right)$$\n<br><br>$$ \\Rightarrow $$ $${{2hc} \\over \\lambda }$$ - $$\\phi $$<sub>0</sub> = $${{{3hc} \\over \\lambda } - 3{\\phi _0}}$$\n<br><br>$$ \\Rightarrow $$ 2$$\\phi $$<sub>0</sub> = $${{{hc} \\over \\lambda }}$$\n<br><br>$$ \\Rightarrow $$ $$\\phi $$<sub>0</sub> = $${{hc} \\over {2\\lambda }}$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Light of wavelength 500 nm is incifent on a metal with work function 2.28 eV. The de Broglie wavelength of the emitted electron is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$ \\ge $$ 2.8 $$ \\times $$ 10<sup>$$-$$9</sup> m"
+        },
+        {
+          "key": "B",
+          "value": "$$ \\le $$ 2.8 $$ \\times $$ 10<sup>$$-$$12</sup> m"
+        },
+        {
+          "key": "C",
+          "value": "&lt; 2.8 $$ \\times $$ 10<sup>$$-$$10</sup> m"
+        },
+        {
+          "key": "D",
+          "value": "&lt; 2.8 $$ \\times $$ 10<sup>$$-$$9</sup> m"
+        }
+      ],
+      "answer": "A",
+      "explanation": "KE<sub>max</sub> = $${{{hc} \\over \\lambda }}$$ - $$\\phi $$\n<br><br>$$ \\Rightarrow $$ KE<sub>max</sub> = $${{6.6 \\times {{10}^{ - 34}} \\times 3 \\times {{10}^8}} \\over {5 \\times {{10}^{ - 7}} \\times 1.6 \\times {{10}^{ - 19}}}}$$ - 2.28\n<br><br>$$ \\Rightarrow $$ KE<sub>max</sub> = 2.48 – 2.28 = 0.2 eV\n<br><br>$$\\lambda $$<sub>min</sub> = $${h \\over {\\sqrt {2mK{E_{\\max }}} }}$$\n<br><br>= $${{{{20} \\over 3} \\times {{10}^{34}}} \\over {\\sqrt {2 \\times 9 \\times {{10}^{ - 31}} \\times 0.2 \\times 1.6 \\times {{10}^{ - 19}}} }}$$\n<br><br>= 2.8 $$ \\times $$ 10<sup>$$-$$9</sup> m\n<br><br>$$ \\therefore $$ $$\\lambda $$ $$ \\ge $$ 2.8 $$ \\times $$ 10<sup>$$-$$9</sup> m"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A certain metallic surface is illuminated with monochromatic light of wavelength, $$\\lambda .$$ The stopping potential for photo-electric current for this light is 3V<sub>0</sub>. If the same surface is illuminated with light of wavelength 2 $$\\lambda $$, the stopping potential is V<sub>0</sub>. The threshold wavelength for this surface for photo-electric effect is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$${\\lambda  \\over 4}$$"
+        },
+        {
+          "key": "B",
+          "value": "$${\\lambda  \\over 6}$$"
+        },
+        {
+          "key": "C",
+          "value": "6$$\\lambda $$"
+        },
+        {
+          "key": "D",
+          "value": "4$$\\lambda $$"
+        }
+      ],
+      "answer": "D",
+      "explanation": "Stopping potential, $$\\phi $$ = E - K<sub>max</sub>\n<br><br>3eV<sub>0</sub> + $$\\phi $$ = $${{{hc} \\over \\lambda }}$$ ......(1)\n<br><br>eV<sub>0</sub> + $$\\phi $$ = $${{{hc} \\over 2\\lambda }}$$ ......(2)\n<br><br>Solving equation (1) and (2), we get\n<br><br>$$\\phi $$ = $${{{hc} \\over {4\\lambda }}}$$\n<br><br>So, threshold wavelength,\n<br><br>$$\\lambda $$<sub>th</sub> = $${{{hc} \\over \\phi }}$$ = $${{{hc} \\over {{{hc} \\over {4\\lambda }}}}}$$ = 4$$\\lambda $$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "If the kinetic energy of the particle is increased to 16 times its previous value, the percentage change in the de Broglie wavelength of the particle is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "25 "
+        },
+        {
+          "key": "B",
+          "value": "75"
+        },
+        {
+          "key": "C",
+          "value": "60"
+        },
+        {
+          "key": "D",
+          "value": "50"
+        }
+      ],
+      "answer": "B",
+      "explanation": "de-Broglie wavelength of particle,\n<br><br>$$\\lambda $$ = $${h \\over p}$$ = $${h \\over {\\sqrt {2mE} }}$$\n<br><br>$$ \\therefore $$ $${{\\lambda '} \\over \\lambda } = \\sqrt {{E \\over {E'}}} $$\n<br><br>$$ \\Rightarrow $$ $$\\lambda $$' = $${\\lambda  \\over 4}$$\n<br><br>So, % change in the de Broglie wavelength\n<br><br>= $${{\\lambda  - {\\lambda  \\over 4}} \\over \\lambda } \\times 100$$ = 75%"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "When the energy of the incident radiation is increased nby 20%, the kinetic energy of the photoelectrons emitted from a metal surface increased from 0.5 eV to 0.8 eV. The work function of the metal is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "0.65 eV"
+        },
+        {
+          "key": "B",
+          "value": "1.0 eV"
+        },
+        {
+          "key": "C",
+          "value": "1.3 eV"
+        },
+        {
+          "key": "D",
+          "value": "1.5 eV"
+        }
+      ],
+      "answer": "B",
+      "explanation": "0.5 = E – $$\\phi $$\n<br><br>$$ \\Rightarrow $$ 0.8 = 1.2 E – $$\\phi $$\n<br><br>From above expressions, work function $$\\phi $$ = 1 eV"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The de-broglie wavelength of neutrons in thermal equilibrium at temperature T is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$${{3.08} \\over {\\sqrt T }}\\mathop A\\limits^ \\circ  $$"
+        },
+        {
+          "key": "B",
+          "value": "$${{0.308} \\over {\\sqrt T }}\\mathop A\\limits^ \\circ  $$"
+        },
+        {
+          "key": "C",
+          "value": "$${{0.0308} \\over {\\sqrt T }}\\mathop A\\limits^ \\circ  $$"
+        },
+        {
+          "key": "D",
+          "value": "$${{30.8} \\over {\\sqrt T }}\\mathop A\\limits^ \\circ  $$"
+        }
+      ],
+      "answer": "D",
+      "explanation": "de Broglie wavelength of neutrons in\nthermal equilibrium at temperature T is\n<br><br>$$\\lambda  = {h \\over {\\sqrt {2m{k_B}T} }}$$\n<br><br>= $${{6.63 \\times {{10}^{ - 34}}} \\over {\\sqrt {2 \\times 1.67 \\times {{10}^{ - 27}} \\times 1.38 \\times {{10}^{ - 23}} \\times T} }}$$\n<br><br>= $${{30.8} \\over {\\sqrt T }}\\mathop A\\limits^ \\circ  $$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A source of light is placed at a distance of 50 cm from a photo cell and the stopping potential is found to be V<sub>0</sub>. If the distance between the light source and photo cell is made 25 cm, the new stopping potential will be : ",
+      "options": [
+        {
+          "key": "A",
+          "value": "V<sub>0</sub>/2"
+        },
+        {
+          "key": "B",
+          "value": "V<sub>0</sub>"
+        },
+        {
+          "key": "C",
+          "value": "4V<sub>0</sub>"
+        },
+        {
+          "key": "D",
+          "value": "2V<sub>0</sub>"
+        }
+      ],
+      "answer": "B",
+      "explanation": "Since, stopping potential is independent of distance hence new stopping potential will remain unchanged i.e., new stopping potential = V<sub>0</sub>."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A parallel beam of fast moving electrons is incident normally on a narrow slit. A fluorescent screen is placed at a large distance from the slit. If the speed of the electrons is increased, which of the following statements is correct ? ",
+      "options": [
+        {
+          "key": "A",
+          "value": "The angular width of the central maximum will decrease."
+        },
+        {
+          "key": "B",
+          "value": "The angular wifth of the central maximum will be unaffected. "
+        },
+        {
+          "key": "C",
+          "value": "Diffraction pattern is not observed on the screen in the case of electrons. "
+        },
+        {
+          "key": "D",
+          "value": "The angular width of the central maximum of the diffraction pattern will increase. "
+        }
+      ],
+      "answer": "A",
+      "explanation": "As speed of an electron increases.  \n<br><br>Its de-Broglie wavelength decreases\n<br><br>$$\\lambda  = {h \\over {mv}}$$\n<br><br>and angular width for central maxima is $$\\omega $$ = $${{2\\lambda } \\over d}$$\n<br><br>$$\\omega  \\propto \\lambda  \\propto {1 \\over v}$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "For photoelectric emission from certain metal the cutoff frequency is $$\\upsilon $$. If radiation of frequency 2$$\\upsilon $$ impinges on the metal plate, the maximum possible velocity of the emitted electron will be (m is the electron mass)",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$\\sqrt {{{2h\\upsilon } \\over m}} $$"
+        },
+        {
+          "key": "B",
+          "value": "$$2\\sqrt {{{h\\upsilon } \\over m}} $$"
+        },
+        {
+          "key": "C",
+          "value": "$$\\sqrt {{{h\\upsilon } \\over {\\left( {2m} \\right)}}} $$"
+        },
+        {
+          "key": "D",
+          "value": "$$\\sqrt {{{h\\upsilon } \\over m}} $$"
+        }
+      ],
+      "answer": "A",
+      "explanation": "Work function, $$\\phi $$ = h$$\\nu $$\n<br><br>According to Einstein’s photoelectric equation\n<br><br>$${1 \\over 2}mv_{\\max }^2$$ = h(2$$\\nu $$) - h$$\\nu $$\n<br><br>$$ \\Rightarrow $$ $${1 \\over 2}mv_{\\max }^2 = h\\nu $$\n<br><br>$$ \\Rightarrow $$ $$v_{\\max }^2 = {{2h\\nu } \\over m}$$\n<br><br>$$ \\Rightarrow $$ v<sub>max</sub> = $$\\sqrt {{{2h\\upsilon } \\over m}} $$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The wavelength $$\\lambda $$<sub>e</sub> of an electron and $$\\lambda $$<sub>p</sub> of a photon of same energy E are related by ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$${\\lambda _p} \\propto \\sqrt {{\\lambda _e}} $$"
+        },
+        {
+          "key": "B",
+          "value": "$${\\lambda _p} \\propto {1 \\over {\\sqrt {{\\lambda _e}} }}$$"
+        },
+        {
+          "key": "C",
+          "value": "$${\\lambda _p} \\propto {\\lambda _e}^2$$"
+        },
+        {
+          "key": "D",
+          "value": "$${\\lambda _p} \\propto {\\lambda _e}$$"
+        }
+      ],
+      "answer": "C",
+      "explanation": "Wavelength of an electron of energy E is\n<br><br>$${\\lambda _e} = {h \\over {\\sqrt {2{m_e}E} }}$$ \n<br><br>$$ \\Rightarrow $$ $$\\lambda _e^2 = {{{h^2}} \\over {2{m_e}E}}$$ .....(1)\n<br><br>Wavelength of a photon of same energy E is\n<br><br>$${\\lambda _p} = {{hc} \\over E}$$\n<br><br>$$ \\Rightarrow $$ $$E = {{hc} \\over {{\\lambda _p}}}$$  .....(2)\n<br><br>Equating (1) and (2), we get\n<br><br>$${{hc} \\over {{\\lambda _p}}} = {{{h^2}} \\over {2{m_e}\\lambda _e^2}}$$\n<br><br>$$ \\Rightarrow $$ $${\\lambda _p} = {{2{m_e}c} \\over h}\\lambda _e^2$$\n<br><br>$$ \\Rightarrow $$ $${\\lambda _p} \\propto {\\lambda _e}^2$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "If the momentum of an electron is changed by P, then the de Broglie wavelength associated with changes by 0.5%. The initial momentum of electron will be",
+      "options": [
+        {
+          "key": "A",
+          "value": "200 P"
+        },
+        {
+          "key": "B",
+          "value": "400 P"
+        },
+        {
+          "key": "C",
+          "value": "$${P \\over {200}}$$"
+        },
+        {
+          "key": "D",
+          "value": "100 P"
+        }
+      ],
+      "answer": "A",
+      "explanation": "de Broglie wavelength associated with an\nelectron is\n<br><br>$$\\lambda  = {h \\over P}$$\n<br><br>$$ \\Rightarrow $$ P = $${h \\over \\lambda }$$\n<br><br>$${{\\Delta P} \\over P} =  - {{\\Delta \\lambda } \\over \\lambda }$$\n<br><br>$${P \\over {{P_{initial}}}} = {{0.5} \\over {100}}$$\n<br><br>P<sub>initial</sub> = 200P"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Two radiations of photons energies 1 eV and 2.5 eV, successively illuminate a photosensitive metallic surface of work function 0.5 eV. The ratio of the maximum speeds of the emitted electrons is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "1 : 4"
+        },
+        {
+          "key": "B",
+          "value": "1 : 2"
+        },
+        {
+          "key": "C",
+          "value": "1 : 1"
+        },
+        {
+          "key": "D",
+          "value": "1 : 5"
+        }
+      ],
+      "answer": "B",
+      "explanation": "According to Einsten’s photoelectric effect, the K.E. of the radiated electrons <br><br>K.E<sub>max</sub> = E – W\n<br><br>$${1 \\over 2}mv_1^2$$ = (1 - 0.5) eV = 0.5 eV\n<br><br>$${1 \\over 2}mv_2^2$$ = (2.5 - 0.5) eV = 2 eV\n<br><br>$${{{v_1}} \\over {{v_2}}} = \\sqrt {{{0.5} \\over 2}} $$ = 1 : 2"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "An $$\\alpha $$-particle moves in a circular path of radius 0.83 cm in the presence of a magnetic field of 0.25 Wb/m<sup>2</sup>. The de Broglie wavelength associated with the particle will be",
+      "options": [
+        {
+          "key": "A",
+          "value": "1 $$\\mathop A\\limits^ \\circ  $$"
+        },
+        {
+          "key": "B",
+          "value": "0.1 $$\\mathop A\\limits^ \\circ  $$"
+        },
+        {
+          "key": "C",
+          "value": "10 $$\\mathop A\\limits^ \\circ  $$"
+        },
+        {
+          "key": "D",
+          "value": "0.01 $$\\mathop A\\limits^ \\circ  $$"
+        }
+      ],
+      "answer": "D",
+      "explanation": "Wavelength $$\\lambda $$ = $${h \\over p}$$\n<br><br>$$ \\Rightarrow $$ $${h \\over p}$$ = $${h \\over {mv}}$$\n<br><br>For circular motion = F<sub>c</sub> = qvB\n<br><br>$$ \\Rightarrow $$ $${{m{v^2}} \\over r}$$ = qvB\n<br><br>$$ \\Rightarrow $$ mv = rBq\n<br><br>$$ \\Rightarrow $$ mv = (0.83 × 10<sup>–2</sup>)(0.25)(2 × 1.6 × 10<sup>–19</sup>)\n<br><br>de Broglie wavelength,\n<br><br>$$\\lambda $$ = $${h \\over {mv}}$$\n<br><br>= $${{6.6 \\times {{10}^{ - 34}}} \\over {0.83 \\times {{10}^{ - 2}} \\times 0.25 \\times 2 \\times 1.6 \\times {{10}^{ - 19}}}}$$\n<br><br>= 0.01 $$\\mathop A\\limits^ \\circ  $$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A 200 W sodium street lamp emits yellow light of wavelength 0.6 $$\\mu $$m. Assuming it to be 25% efficient in converting electrical energy to light, the number of photons of yellow light it emits per second is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "1.5 $$ \\times $$ 10<sup>20</sup> "
+        },
+        {
+          "key": "B",
+          "value": "6 $$ \\times $$ 10<sup>18</sup>"
+        },
+        {
+          "key": "C",
+          "value": "62 $$ \\times $$ 10<sup>20</sup> "
+        },
+        {
+          "key": "D",
+          "value": "3 $$ \\times $$ 10<sup>19</sup>"
+        }
+      ],
+      "answer": "A",
+      "explanation": "Efficient power, P = $${N \\over t} \\times {{hc} \\over \\lambda }$$\n<br><br>$$ \\Rightarrow $$ $${N \\over t}$$ = $${{{{25} \\over {100}} \\times 200} \\over {{{\\left( {6.6 \\times {{10}^{ - 34}}} \\right)\\left( {3 \\times {{10}^8}} \\right)} \\over {0.6 \\times {{10}^{ - 6}}}}}}$$ = 1.5 $$ \\times $$ 10<sup>20</sup> "
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Monochromatic radiation emitted when electron on hydrogen atom jumps from first excited to the ground state irradiates a photosensitive material. The stopping potential is measured to be 3.57 V. The threshold frequency of the material is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "4 $$ \\times $$ 10<sup>15</sup> Hz "
+        },
+        {
+          "key": "B",
+          "value": "5 $$ \\times $$ 10<sup>15</sup> Hz"
+        },
+        {
+          "key": "C",
+          "value": "1.6 $$ \\times $$ 10<sup>15</sup> Hz"
+        },
+        {
+          "key": "D",
+          "value": "2.5 $$ \\times $$ 10<sup>15</sup> Hz"
+        }
+      ],
+      "answer": "C",
+      "explanation": "Energy released from first exited state to the\nground state :\n<br><br>E = (– 3.4) – (– 13.6) = 10.2 eV\n<br><br>Work function $$\\phi $$ =  E – 3.75 eV = (10.2 – 3.75) eV\n<br><br> = 6.63 eV\n<br><br>$$ \\Rightarrow $$ h$${\\nu _0}$$ = 6.63\n<br><br>$$ \\Rightarrow $$ $${\\nu _0}$$ = $${{6.63 \\times 1.6 \\times {{10}^{ - 19}}} \\over {6.63 \\times {{10}^{ - 34}}}}$$ = 1.6 $$ \\times $$ 10<sup>15</sup> Hz"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The threshold frequency for a photosensitive metal is 3.3 $$ \\times $$ 10<sup>14</sup> Hz. If light of frequency 8.2 $$ \\times $$ 10<sup>14</sup> Hz is incident on this metal, the cut- off voltage for the photoelectron emission is nearly ",
+      "options": [
+        {
+          "key": "A",
+          "value": "1 V"
+        },
+        {
+          "key": "B",
+          "value": "2 V"
+        },
+        {
+          "key": "C",
+          "value": "3 V"
+        },
+        {
+          "key": "D",
+          "value": "5 V"
+        }
+      ],
+      "answer": "B",
+      "explanation": "K.E. = h$$\\nu $$  – h$$\\nu $$<sub>th</sub> = eV<sub>0</sub>   (V<sub></sub>0 = cut off voltage)\n<br><br>$$ \\Rightarrow $$ V<sub>0</sub> = $${h \\over e}\\left( {8.2 \\times {{10}^{14}} - 3.3 \\times {{10}^{14}}} \\right)$$\n<br><br>= $${{6.6 \\times {{10}^{ - 34}}} \\over {1.6 \\times {{10}^{ - 19}}}}\\left( {8.2 \\times {{10}^{14}} - 3.3 \\times {{10}^{14}}} \\right)$$\n<br><br>$$ \\approx $$ 2 V"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "In photoelectric emission process from a metal of work function 1.8 eV, the kinetic energy of most energetic electrons is 0.5 eV. The corresponding stopping potential is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "1.8 V"
+        },
+        {
+          "key": "B",
+          "value": "1.3 V"
+        },
+        {
+          "key": "C",
+          "value": "0.5 V"
+        },
+        {
+          "key": "D",
+          "value": "2.3 V"
+        }
+      ],
+      "answer": "C",
+      "explanation": "Maximum K.E. = Stopping Potential <br><br>So stopping potential will be 0.5 V "
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Electrons used in an electron microscope are accelerated by a voltage of 25 kV. If the voltage is increased to 100 kV then the de-Broglie wavelength associated with the electrons would ",
+      "options": [
+        {
+          "key": "A",
+          "value": "increase by 2 times"
+        },
+        {
+          "key": "B",
+          "value": "decrease by 2 times"
+        },
+        {
+          "key": "C",
+          "value": "decrease by 4 times "
+        },
+        {
+          "key": "D",
+          "value": "increase by 4 times"
+        }
+      ],
+      "answer": "B",
+      "explanation": "The de Broglie wavelength $$\\lambda $$ associated with the electrons is \n<br><br>$$\\lambda  = {{1.227} \\over {\\sqrt V }}$$\n<br><br>where V is the accelerating potential in volts.\n<br><br>$$ \\therefore $$ $$\\lambda $$ $$ \\propto $$ $${1 \\over {\\sqrt V }}$$\n<br><br>$$ \\Rightarrow $$ $${{{\\lambda _1}} \\over {{\\lambda _2}}} = \\sqrt {{{{V_2}} \\over {{V_1}}}} $$\n<br><br>= $$\\sqrt {{{100 \\times {{10}^3}} \\over {25 \\times {{10}^3}}}} $$ = 2\n<br><br>$$ \\Rightarrow $$ $${\\lambda _2} = {{{\\lambda _1}} \\over 2}$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Light of two different frequencies whose photons have energies 1 eV and 2.5 eV respectively illuminate a metallic surface whose work function is 0.5 eV successively. Ratio of maximum speeds of emitted electrons will be ",
+      "options": [
+        {
+          "key": "A",
+          "value": "1 : 4"
+        },
+        {
+          "key": "B",
+          "value": "1 : 2"
+        },
+        {
+          "key": "C",
+          "value": "1 : 1"
+        },
+        {
+          "key": "D",
+          "value": "1 : 5"
+        }
+      ],
+      "answer": "B",
+      "explanation": "According to Einsten’s photoelectric effect, the K.E. of the radiated electrons <br><br>K.E<sub>max</sub> = E – W\n<br><br>$${1 \\over 2}mv_1^2$$ = (1 - 0.5) eV = 0.5 eV\n<br><br>$${1 \\over 2}mv_2^2$$ = (2.5 - 0.5) eV = 2 eV\n<br><br>$${{{v_1}} \\over {{v_2}}} = \\sqrt {{{0.5} \\over 2}} $$ = 1 : 2"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Photoelectric emission occurs only when the incident light has more than a certain minimum",
+      "options": [
+        {
+          "key": "A",
+          "value": "power "
+        },
+        {
+          "key": "B",
+          "value": "wavelength"
+        },
+        {
+          "key": "C",
+          "value": "intensity"
+        },
+        {
+          "key": "D",
+          "value": "frequency "
+        }
+      ],
+      "answer": "D",
+      "explanation": "According to Einstein’s photoelectric\nequation\n<br><br>K<sub>max</sub> = h$$\\nu $$ – h$$\\nu $$<sub>0</sub>\n<br><br>Since K<sub>max</sub> is +ve, the photoelectric emission occurs\nonly if\n<br><br>h$$\\nu $$ $$&gt;$$ h$$\\nu $$<sub>0</sub>\n or $$\\nu $$ $$&gt;$$ $$\\nu $$<sub>0</sub>\n<br><br>The photoelectic emission occurs only when the\nincident light has more than a certain minimum\nfrequency. This minimum frequency is called\nthreshold frequency.\n"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "In the Davisson and Germer experiment, the velocity of electrons emitted from the electron gun can be increased by",
+      "options": [
+        {
+          "key": "A",
+          "value": "increasing the potential difference between the anode and filament"
+        },
+        {
+          "key": "B",
+          "value": "increasing the filament current"
+        },
+        {
+          "key": "C",
+          "value": "decreasing the filament current"
+        },
+        {
+          "key": "D",
+          "value": "decreasing the potential difference between the anode and flament "
+        }
+      ],
+      "answer": "A",
+      "explanation": "Davisson and Germer experiment describes\nthat velocity of electron emitted from electron gun\nincreases using potential difference between anode\nand filament."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "When monochromatic radiation of intensity $$I$$ falls on a metal surface, the number of photoelectrons and their maximum kinetic energy are N and T respectively. If the intensity of radiation is 2$$I$$, the number of emitted electrons and their maximum kinetic energy are respectively",
+      "options": [
+        {
+          "key": "A",
+          "value": "N and 2T "
+        },
+        {
+          "key": "B",
+          "value": "2N and T"
+        },
+        {
+          "key": "C",
+          "value": "2N and 2T"
+        },
+        {
+          "key": "D",
+          "value": "N and T"
+        }
+      ],
+      "answer": "B",
+      "explanation": "The number of photoelectrons ejected is directly proportional to the intensity of incident light. Maximum kinetic energy is independent of intensity of incident light but depends upon the frequency of light. <br>Hence option (b) is correct"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The electron in the hydrogen atom jumps from excited state (n = 3) to its ground state (n = 1) and the photons thus emitted irradiate a photosensitive material. If the work function of the material is 5.1 eV, the stopping potential is estimated to be (the energy of the electron in n<sup>th</sup> state E<sub>n</sub> = $${{ - 13.6} \\over {{n^2}}}eV$$)",
+      "options": [
+        {
+          "key": "A",
+          "value": "5.1 V"
+        },
+        {
+          "key": "B",
+          "value": "12.1 V"
+        },
+        {
+          "key": "C",
+          "value": "17.2 V"
+        },
+        {
+          "key": "D",
+          "value": "7 V"
+        }
+      ],
+      "answer": "D",
+      "explanation": "E = h$$\\nu $$ = E<sub>3</sub> - E<sub>1</sub>\n<br><br>= $$ - {{13.6} \\over {{3^2}}} - \\left( { - {{13.6} \\over {{1^2}}}} \\right)$$\n<br><br>= 12.1 eV\n<br><br>Therefore, stopping potential\n<br><br>eV<sub>0</sub> = $$h\\nu $$ - $$\\phi $$\n<br><br>= (12.1 – 5.1) eV\n<br><br>V<sub>0</sub> = 7 V"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A source S<sub>1</sub> is producing, 10<sup>15</sup> photons per second of wavelength 5000 $$\\mathop A\\limits^ \\circ  $$. Another source S<sub>2</sub> is producing 1.02 $$ \\times $$ 10<sup>15</sup> photons per second of wavelength 5100 $$\\mathop A\\limits^ \\circ  $$. Then, (power of S<sub>2</sub>)/(power of S<sub>1</sub>) is equal to ",
+      "options": [
+        {
+          "key": "A",
+          "value": "1.00"
+        },
+        {
+          "key": "B",
+          "value": "1.02"
+        },
+        {
+          "key": "C",
+          "value": "1.04"
+        },
+        {
+          "key": "D",
+          "value": "0.98"
+        }
+      ],
+      "answer": "A",
+      "explanation": "<span style=\"display: inline-block;vertical-align: middle;\">\n     <div style=\"text-align: center;border-bottom: 1px solid black;\">Power of S<sub>2</sub></div>\n     <div style=\"text-align: center;\">Power of S<sub>1</sub></div>\n</span> = $${{{n_2}\\left[ {{{hc} \\over {{\\lambda _2}}}} \\right]} \\over {{n_1}\\left[ {{{hc} \\over {{\\lambda _1}}}} \\right]}}$$ = $${{{n_2}{\\lambda _1}} \\over {{n_1}{\\lambda _2}}}$$\n<br><br>= $${{1.02 \\times {{10}^{15}} \\times 5000} \\over {{{10}^{15}} \\times 5100}}$$ = 1"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A beam of cathode rays is subjected to crossed electric (E) and magnetic fields (B). The fields are adjusted such that the beam is not deflected. The specific charge of the cathode rays is given by \n<br><br>(Where V is the potential difference between cathode and anode)",
+      "options": [
+        {
+          "key": "A",
+          "value": "$${{{B^2}} \\over {2V{E^2}}}$$ "
+        },
+        {
+          "key": "B",
+          "value": "$${{2V{B^2}} \\over {{E^2}}}$$"
+        },
+        {
+          "key": "C",
+          "value": "$${{2V{E^2}} \\over {{B^2}}}$$"
+        },
+        {
+          "key": "D",
+          "value": "$${{{E^2}} \\over {2V{B^2}}}$$"
+        }
+      ],
+      "answer": "D",
+      "explanation": "Force on electron due to = Force on electron due magnetic field to electric field \n<br><br>Bev = eE \n<br><br>$$ \\Rightarrow $$ v = $${E \\over B}$$ .......(1)\n<br><br>If V is the potential difference between the anode and the cathode, then\n<br><br>$${1 \\over 2}m{v^2}$$ = eV\n<br><br>$$ \\Rightarrow $$ $${e \\over m} = {{{v^2}} \\over {2V}}$$ .....(2)\n<br><br>Substituting the value of v from equation (1) in equation (2), we get\n<br><br>$${e \\over m} = {{{E^2}} \\over {2V{B^2}}}$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The potential difference that must be applied to stop the fastest photoelectrons emitted by a nickel surface, having work functions 5.01 eV, when ultraviolet light of 200 nm falls on it, must be ",
+      "options": [
+        {
+          "key": "A",
+          "value": "2.4 V"
+        },
+        {
+          "key": "B",
+          "value": "$$-$$ 1.2 V"
+        },
+        {
+          "key": "C",
+          "value": "$$-$$ 2.4 V"
+        },
+        {
+          "key": "D",
+          "value": "1.2 V"
+        }
+      ],
+      "answer": "B",
+      "explanation": "According to Einstein’s photoelectric equation\n<br><br>eV<sub>s</sub> = h$$\\nu $$ - $$\\phi $$\n<br><br>$$ \\Rightarrow $$ eV<sub>s</sub> = $${{hc} \\over \\lambda }$$ - $$\\phi $$\n<br><br>= $${{1240} \\over {200}}$$ - 5.01\n<br><br>=  6.2 eV – 5.01 eV = 1.2 eV\n<br><br>Stopping potential, V<sub>s</sub> = 1.2 V \n<br><br>The potential difference that must be applied to stop photoelectrons = – V<sub>s</sub> = – 1.2 V "
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Monochromatic light of wavelength 667 nm is produced by a helium neon laser. The power emitted is 9 mW. The number of photons arriving per sec. on the average at a target irradiated by this beam is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "3 $$ \\times $$ 10<sup>16</sup>"
+        },
+        {
+          "key": "B",
+          "value": "$$9 \\times {10^{15}}$$"
+        },
+        {
+          "key": "C",
+          "value": "$$3 \\times {10^{19}}$$"
+        },
+        {
+          "key": "D",
+          "value": "$$9 \\times {10^{17}}$$"
+        }
+      ],
+      "answer": "A",
+      "explanation": "Number of photons = $${E \\over {{{hc} \\over \\lambda }}}$$\n<br><br>= $${{9 \\times {{10}^{ - 3}} \\times 6.67 \\times {{10}^{ - 7}}} \\over {6.6 \\times {{10}^{ - 34}} \\times 3 \\times {{10}^8}}}$$\n<br><br>= 3 $$ \\times $$ 10<sup>16</sup> "
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The number of photo electrons emitted for light of a frequency $$\\upsilon $$ (higher than the threshold frequency $${\\upsilon _0}$$) is proportional to ",
+      "options": [
+        {
+          "key": "A",
+          "value": "threshold frequency $$\\left( {{\\upsilon _0}} \\right)$$"
+        },
+        {
+          "key": "B",
+          "value": "intensity of light"
+        },
+        {
+          "key": "C",
+          "value": "frequency of light $$\\left( {{\\upsilon _0}} \\right)$$"
+        },
+        {
+          "key": "D",
+          "value": "$$\\upsilon  - {\\upsilon _0}$$"
+        }
+      ],
+      "answer": "B",
+      "explanation": "The number of photoelectrons emitted is proportional to the intensity of incident light.\n<br><br> Saturation current $$ \\propto $$ intensity."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "In the phenomenon of electric discharge through gases at low pressure, the coloured glow in the tube appears as a result of ",
+      "options": [
+        {
+          "key": "A",
+          "value": "collisions between the charged particles emitted from the cathode and the atoms of the gas "
+        },
+        {
+          "key": "B",
+          "value": "collision between different electrons of the atoms of the gas"
+        },
+        {
+          "key": "C",
+          "value": "excitation of electrons in the atoms "
+        },
+        {
+          "key": "D",
+          "value": "collision between the atoms of the gas"
+        }
+      ],
+      "answer": "A",
+      "explanation": "In the phenomenon of electric discharge tube through gases at low pressure, the coloured glow in the tube appears as a result of collisions between the charged particles emitted from cathode and the atoms of the gas. "
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The work function of a surface of a photosensitive material is 6.2 eV. The wavelength of the incident radiation for which the stopping potential is 5 V lies in the ",
+      "options": [
+        {
+          "key": "A",
+          "value": "infrared region "
+        },
+        {
+          "key": "B",
+          "value": "X-ray region"
+        },
+        {
+          "key": "C",
+          "value": "Ultraviolet region "
+        },
+        {
+          "key": "D",
+          "value": "Visible region "
+        }
+      ],
+      "answer": "C",
+      "explanation": "$$\\phi $$ = 6.2 eV. \n<br><br>K<sub>max</sub> = 5 eV;  \n<br><br>$$ \\therefore $$  h$$\\nu $$ = 11.2 eV = E\n<br><br>$$ \\therefore $$ $$\\lambda $$ = $${{hc} \\over E}$$ = $${{12400} \\over {11.2}}$$ = 1107 $$\\mathop A\\limits^o $$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A particle of mass 1 mg has the same wavelength as an electron moving with a velocity of 3 $$ \\times $$ 10<sup>6</sup> m s<sup>$$-$$1</sup>. The velocity of the particle is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "3 $$ \\times $$ 10<sup>$$-$$31</sup> ms<sup>$$-$$1</sup> "
+        },
+        {
+          "key": "B",
+          "value": "$$2.7 \\times {10^{ - 21}}\\,m{s^{ - 1}}$$"
+        },
+        {
+          "key": "C",
+          "value": "2.7 $$ \\times $$ 10<sup>$$-$$18</sup> ms<sup>$$-$$1</sup>"
+        },
+        {
+          "key": "D",
+          "value": "9 $$ \\times $$ 10<sup>$$-$$2</sup> ms<sup>$$-$$1</sup>"
+        }
+      ],
+      "answer": "C",
+      "explanation": "de-Broglie wavelength associated with electron moving with velocity ν,\n<br><br>$$\\lambda $$ = $${h \\over {mv}}$$\n<br><br>So, $$\\lambda $$<sub>e</sub> = $${h \\over {9.1 \\times {{10}^{ - 31}} \\times 3 \\times {{10}^6}}}$$\n<br><br>Wavelength of particle of mass 1 mg moving with velocity ν.\n<br><br>$$\\lambda $$<sub>p</sub> = $${h \\over {{{10}^{ - 6}} \\times v}}$$\n<br><br>As given, $$\\lambda $$<sub>e</sub> = $$\\lambda $$<sub>p</sub>\n<br><br>$$ \\Rightarrow $$ $${h \\over {9.1 \\times {{10}^{ - 31}} \\times 3 \\times {{10}^6}}}$$ = $${h \\over {{{10}^{ - 6}} \\times v}}$$\n<br><br>$$ \\Rightarrow $$ v = $${{27.3 \\times {{10}^{ - 25}}} \\over {{{10}^{ - 6}}}}$$ = $$2.7 \\times {10^{ - 18}}\\,m{s^{ - 1}}$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Monochromatic light of frequency 6.0 $$ \\times $$ 10<sup>14</sup> Hz is produced by a laser. The power emitted is 2 $$ \\times $$ 10<sup>$$-$$3</sup> W. The number of photons emitted, on the average, by the source per second is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "5 $$ \\times {10^{16}}$$"
+        },
+        {
+          "key": "B",
+          "value": "5 $$ \\times {10^{17}}$$"
+        },
+        {
+          "key": "C",
+          "value": "5 $$ \\times {10^{14}}$$"
+        },
+        {
+          "key": "D",
+          "value": "5 $$ \\times {10^{15}}$$"
+        }
+      ],
+      "answer": "D",
+      "explanation": "Since p = nh$$\\nu $$\n<br><br>$$ \\Rightarrow $$ n = $${p \\over {h\\nu }}$$ = $${{2 \\times {{10}^{ - 3}}} \\over {6.6 \\times {{10}^{34}} \\times 6 \\times {{10}^{14}}}}$$\n<br><br>= 5 $$ \\times {10^{15}}$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A beam of electron passes undeflected through mutually perpendicular electric and magnetic fields. If the electric field is switched off, and the same magnetic field is maintained, the electrons move ",
+      "options": [
+        {
+          "key": "A",
+          "value": "in a circular orbit "
+        },
+        {
+          "key": "B",
+          "value": "along a parabolic path"
+        },
+        {
+          "key": "C",
+          "value": "along a straight line "
+        },
+        {
+          "key": "D",
+          "value": "in an elliptical orbit. "
+        }
+      ],
+      "answer": "A",
+      "explanation": "In magnetic field a charged particle moves in a circular orbit. "
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A 5 watt source emits monochromatic light of wavelength 5000 $$\\mathop A\\limits^ \\circ  $$. When placed 0.5 m away, it liberates photoelectrons from a photosensitive metallic surface. When the source is moved to a distance of 1.0 m, the number of photoelectrons liberated will be reduced by a factor of ",
+      "options": [
+        {
+          "key": "A",
+          "value": "8 "
+        },
+        {
+          "key": "B",
+          "value": "16"
+        },
+        {
+          "key": "C",
+          "value": "2"
+        },
+        {
+          "key": "D",
+          "value": "4"
+        }
+      ],
+      "answer": "D",
+      "explanation": "For a light source of power P watt, the intensity at a distance d is given by\n<br><br>I = $${P \\over {4\\pi {d^2}}}$$\n<br><br>$$ \\therefore $$ No. of photoelectrons or intensity $$ \\propto $$ $${1 \\over {{{\\left( {dis\\tan ce} \\right)}^2}}}$$  "
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The momentum of a photon of energy 1 MeV in kg m/s will be ",
+      "options": [
+        {
+          "key": "A",
+          "value": "5 $$ \\times $$ 10<sup>$$-$$22</sup>"
+        },
+        {
+          "key": "B",
+          "value": "0.33 $$ \\times $$ 10<sup>6</sup>"
+        },
+        {
+          "key": "C",
+          "value": "7 $$ \\times $$ 10<sup>$$-$$24</sup>"
+        },
+        {
+          "key": "D",
+          "value": "10<sup>$$-$$22</sup>"
+        }
+      ],
+      "answer": "A",
+      "explanation": "Momentum of photon p = E/c\n<br><br>$$ \\therefore $$ p = $${{1 \\times {{10}^6} \\times 1.6 \\times {{10}^{19}}} \\over {3 \\times {{10}^8}}}$$\n<br><br>= 5 $$ \\times $$ 10<sup>$$-$$22</sup>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "When photons of energy h$$\\upsilon $$ fall on an aluminimum plate (of work function E<sub>0</sub>), photoelectrons of maximum kinetic energy K are ejected. If the frequency of radiation is doubled, the maximum kinetic energy of the ejected photoelectrons will be",
+      "options": [
+        {
+          "key": "A",
+          "value": "K + h$$\\upsilon $$"
+        },
+        {
+          "key": "B",
+          "value": "K + E<sub>0</sub>"
+        },
+        {
+          "key": "C",
+          "value": "2K"
+        },
+        {
+          "key": "D",
+          "value": "K."
+        }
+      ],
+      "answer": "A",
+      "explanation": "According to Einstein’s photoelectric equation, <br><br>K = h$$\\nu $$ – E<sub>0</sub> ... (i) <br><br>and K' = h(2$$\\nu $$) – E<sub>0</sub> ... (ii)    <br><br>= 2h$$\\nu $$ – E<sub>0</sub> = h$$\\nu $$ + h$$\\nu $$ – E<sub>0</sub> <br><br>K'=  h$$\\nu $$ + K [using (i)] "
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A photocell employs photoelectric effect to convert ",
+      "options": [
+        {
+          "key": "A",
+          "value": "change in the frequency of light into a change in the electric current "
+        },
+        {
+          "key": "B",
+          "value": "change in the frequency of light into a change in electric voltage "
+        },
+        {
+          "key": "C",
+          "value": "change in the intensity of illumination into a change in photoelectric current"
+        },
+        {
+          "key": "D",
+          "value": "change in the intensity of illumination into a change in the work function of the photocathode."
+        }
+      ],
+      "answer": "C",
+      "explanation": "The photoelectric current is directly proportional to the intensity of illumination. Therefore a change in the intensity of the incident radiation will change the photocurrent also. "
+    },
+    {
+      "_type": "single_mcq",
+      "body": "In a discharge tube ionization of enclosed gas is produced due to collisions between",
+      "options": [
+        {
+          "key": "A",
+          "value": "neutral gas atoms/molecules "
+        },
+        {
+          "key": "B",
+          "value": "positive ions and neutral atoms/molecules "
+        },
+        {
+          "key": "C",
+          "value": "negative electrons and neutral atoms/molecules "
+        },
+        {
+          "key": "D",
+          "value": "photons and neutral atoms/molecules. "
+        }
+      ],
+      "answer": "C",
+      "explanation": "In a discharge tube ionization of enclosed gas is produced due to collisions between negative electrons and neutral atoms/molecules."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A photosensitive metallic surface has work function, h$$\\upsilon $$<sub>0</sub>. If photons of energy $$2h{\\upsilon _0}$$ fall on this surface, the electrons come out with a maximum velocity of 4 $$ \\times $$ 10<sup>6</sup> m/s. When the photon energy is increased to 5 h$$\\upsilon $$<sub>0</sub>, then maximum velocity of photoelectrons will be ",
+      "options": [
+        {
+          "key": "A",
+          "value": "2 $$ \\times $$ 10<sup>7</sup> m/s"
+        },
+        {
+          "key": "B",
+          "value": "2 $$ \\times $$ 10<sup>6</sup> m/s"
+        },
+        {
+          "key": "C",
+          "value": "8 $$ \\times $$ 10<sup>6</sup> m/s"
+        },
+        {
+          "key": "D",
+          "value": "8 $$ \\times $$ 10<sup>5</sup> m/s"
+        }
+      ],
+      "answer": "C",
+      "explanation": "2h$${\\nu _0}$$ = h$${\\nu _0}$$ + $${1 \\over 2}m{\\left( {4 \\times {{10}^6}} \\right)^2}$$\n<br><br>5h$${\\nu _0}$$ = h$${\\nu _0}$$ + $${1 \\over 2}m{v^2}$$\n<br><br>$$ \\Rightarrow $$ $$4 \\times {1 \\over 2}m{\\left( {4 \\times {{10}^6}} \\right)^2}$$ = $${1 \\over 2}m{v^2}$$\n<br><br>$$ \\Rightarrow $$ v = 8 $$ \\times $$ 10<sup>6</sup> m/s"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The work functions for metals A, B and C are respectively 1.92 eV, 2.0 eV and 5 eV. According to Einstein's equation the metals which will emit photoelectrons for a radiation of wavelength 4100 $$\\mathop A\\limits^ \\circ  $$ is/are",
+      "options": [
+        {
+          "key": "A",
+          "value": "A only"
+        },
+        {
+          "key": "B",
+          "value": "A and B only "
+        },
+        {
+          "key": "C",
+          "value": "all the three metals "
+        },
+        {
+          "key": "D",
+          "value": "none"
+        }
+      ],
+      "answer": "B",
+      "explanation": "Energy of photon = $${{12400} \\over {4100}}$$ = 3 eV\n<br><br>$$ \\therefore $$ A and B will emit photoelectrons."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "J.J. Thomson's cathode-ray tube experiment demonstrated that ",
+      "options": [
+        {
+          "key": "A",
+          "value": "cathode rays are streams of negatively charged ions"
+        },
+        {
+          "key": "B",
+          "value": "all the maas of an atom is essentially in the nucleus"
+        },
+        {
+          "key": "C",
+          "value": "the e/m of electrons is much greater than the e/m of protons"
+        },
+        {
+          "key": "D",
+          "value": "the e/m ratio of the cathode-ray particles changes when a different gas is placed in the discharge tube "
+        }
+      ],
+      "answer": "C",
+      "explanation": "$${\\left( {{e \\over m}} \\right)_{proton}} = {1 \\over {1837}}{\\left( {{e \\over m}} \\right)_{electron}}$$\n<br><br>$$ \\therefore $$ $${\\left( {{e \\over m}} \\right)_{proton}} \\ll {\\left( {{e \\over m}} \\right)_{electron}}$$\n"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A photoelectric cell is illuminated by a point source of light 1 m away. When the source is shifted to 2 m then ",
+      "options": [
+        {
+          "key": "A",
+          "value": "each emitted electron carries one quarter of the initial energy"
+        },
+        {
+          "key": "B",
+          "value": "number of electrons emitted is half the initial number"
+        },
+        {
+          "key": "C",
+          "value": "each emitted electron carries half the initial energy "
+        },
+        {
+          "key": "D",
+          "value": "number of electrons emitted is a quarter of the initial number "
+        }
+      ],
+      "answer": "D",
+      "explanation": "For a light source of power P watt, the intensity at a distance d is given by\n<br><br>I = $${P \\over {4\\pi {d^2}}}$$\n<br><br>$$ \\therefore $$ Intensity $$ \\propto $$ $${1 \\over {{{\\left( {dis\\tan ce} \\right)}^2}}}$$  "
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The value of Planck's constant is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "6.63 $$ \\times $$ 10<sup>$$-$$34</sup> J/sec."
+        },
+        {
+          "key": "B",
+          "value": "6.63 $$ \\times $$ 10<sup>$$-$$34</sup> kg-m<sup>2</sup>/sec"
+        },
+        {
+          "key": "C",
+          "value": "6.63 $$ \\times $$ 10<sup>$$-$$34</sup> kg-m<sup>2</sup>"
+        },
+        {
+          "key": "D",
+          "value": "6.63 $$ \\times $$ 10<sup>$$-$$34</sup> J-sec."
+        }
+      ],
+      "answer": "D",
+      "explanation": "The value of Planck’s constant is 6.63 $$ \\times $$ 10<sup>$$-$$34</sup> J-sec."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Which of the following is not the property of cathode rays ? ",
+      "options": [
+        {
+          "key": "A",
+          "value": "In produces heating effect "
+        },
+        {
+          "key": "B",
+          "value": "It does not deflect in electric field "
+        },
+        {
+          "key": "C",
+          "value": "It casts shadow"
+        },
+        {
+          "key": "D",
+          "value": "It produces fluorscence. "
+        }
+      ],
+      "answer": "B",
+      "explanation": "Cathode rays are basically negatively charged particles (electrons). If the cathode rays are allowed to pass between two plates kept at a difference of potential, the rays are found to be deflected from the rectilinear path. The direction of deflection shows that the rays carry negative charges. "
+    },
+    {
+      "_type": "single_mcq",
+      "body": "When ultraviolet rays incident on metal plate then  photoelectric effect does not occur, it occurs by incidence of ",
+      "options": [
+        {
+          "key": "A",
+          "value": "infrared rays "
+        },
+        {
+          "key": "B",
+          "value": "X-rays"
+        },
+        {
+          "key": "C",
+          "value": "radio wave "
+        },
+        {
+          "key": "D",
+          "value": "micro wave "
+        }
+      ],
+      "answer": "B",
+      "explanation": "It occurs by incidence of X-rays."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "If particles are moving with same velocity, then which has maximum de Broglie wavelength? ",
+      "options": [
+        {
+          "key": "A",
+          "value": "proton "
+        },
+        {
+          "key": "B",
+          "value": "$$\\alpha $$-particle"
+        },
+        {
+          "key": "C",
+          "value": "neutron "
+        },
+        {
+          "key": "D",
+          "value": "$$\\beta $$-particle"
+        }
+      ],
+      "answer": "D",
+      "explanation": "de Broglie wavelength for a particle is given by\n<br><br>$$\\lambda $$ = $${h \\over {mv}}$$\n<br><br>Since all the particles are moving with same velocity, the particle with least mass will have maximum de-Broglie wavelength.\n<br><br>Here $$\\beta $$-particles(electrons) has the lowest mass and therefore it has maximum wavelength. "
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A photo-cell is illuminated by a source of light, which is placed at a distance d from the cell. If the distance become d/2, then number of electrons emitted per second, will be",
+      "options": [
+        {
+          "key": "A",
+          "value": "remain same"
+        },
+        {
+          "key": "B",
+          "value": "four times "
+        },
+        {
+          "key": "C",
+          "value": "two times "
+        },
+        {
+          "key": "D",
+          "value": "one-fourth"
+        }
+      ],
+      "answer": "B",
+      "explanation": "As Intensity becomes 4 times. So number of electrons emitted per second also becomes 4 times."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Which one among the following shows particle nature of light? ",
+      "options": [
+        {
+          "key": "A",
+          "value": "photo electric effect "
+        },
+        {
+          "key": "B",
+          "value": "interference "
+        },
+        {
+          "key": "C",
+          "value": "refraction"
+        },
+        {
+          "key": "D",
+          "value": "polarization. "
+        }
+      ],
+      "answer": "A",
+      "explanation": "photo electric effect shows particle nature of light."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "In Thomson mass spectrograph $$\\overrightarrow E  \\bot \\overrightarrow B $$ then the velocity of electron beam will be ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$${{\\left| {\\overrightarrow E } \\right|} \\over {\\left| {\\overrightarrow B } \\right|}}$$"
+        },
+        {
+          "key": "B",
+          "value": "$$\\overrightarrow E  \\times \\overrightarrow B $$"
+        },
+        {
+          "key": "C",
+          "value": "$${{\\left| {\\overrightarrow B } \\right|} \\over {\\left| {\\overrightarrow E } \\right|}}$$"
+        },
+        {
+          "key": "D",
+          "value": "$${{{{\\overrightarrow E }^2}} \\over {{{\\overrightarrow B }^2}}}$$"
+        }
+      ],
+      "answer": "A",
+      "explanation": "As eE = evB\n<br><br>$$ \\therefore $$ v = $${{\\left| {\\overrightarrow E } \\right|} \\over {\\left| {\\overrightarrow B } \\right|}}$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "By photoelectric effect, Einstein proved ",
+      "options": [
+        {
+          "key": "A",
+          "value": "E = h$$\\upsilon $$"
+        },
+        {
+          "key": "B",
+          "value": "K.E. = $${1 \\over 2}$$ mv<sup>2</sup>"
+        },
+        {
+          "key": "C",
+          "value": "E = mc<sup>2</sup>"
+        },
+        {
+          "key": "D",
+          "value": "E = $${{ - Rh{c^2}} \\over {{n^2}}}$$"
+        }
+      ],
+      "answer": "A",
+      "explanation": "By photoelectric effect, Einstein proved E = h$$\\upsilon $$."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Who evaluated the mass of electron infirectly with help of charge ",
+      "options": [
+        {
+          "key": "A",
+          "value": "Thomson"
+        },
+        {
+          "key": "B",
+          "value": "Millikan"
+        },
+        {
+          "key": "C",
+          "value": "Rutherford "
+        },
+        {
+          "key": "D",
+          "value": "Newton"
+        }
+      ],
+      "answer": "A",
+      "explanation": "Thomson evaluated the mass of electron infirectly with help of charge."
+    }
+  ]
+}

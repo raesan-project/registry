@@ -1,0 +1,151 @@
+{
+  "_index": {
+    "name": "Laws of Motion"
+  },
+  "_children": [
+    {
+      "_type": "single_mcq",
+      "body": "A particle of mass $m$ is moving in the $x y$-plane such that its velocity at a point $(x, y)$ is given as $\\overrightarrow{\\mathrm{v}}=\\alpha(y \\hat{x}+2 x \\hat{y})$, where $\\alpha$ is a non-zero constant. What is the force $\\vec{F}$ acting on the particle?",
+      "options": [
+        {
+          "key": "A",
+          "value": "$\\vec{F}=2 m \\alpha^2(x \\hat{x}+y \\hat{y})$"
+        },
+        {
+          "key": "B",
+          "value": "$\\vec{F}=m \\alpha^2(y \\hat{x}+2 x \\hat{y})$"
+        },
+        {
+          "key": "C",
+          "value": "$\\vec{F}=2 m \\alpha^2(y \\hat{x}+x \\hat{y})$"
+        },
+        {
+          "key": "D",
+          "value": "$\\vec{F}=m \\alpha^2(x \\hat{x}+2 y \\hat{y})$"
+        }
+      ],
+      "answer": "A",
+      "explanation": "<p>Given :\n<br/><br/>$ \\vec{v} = \\alpha(y \\hat{x} + 2x \\hat{y}) $</p>\n<p>For the x-component, $ v_x = \\alpha y $ :\n<br/><br/>$ \\frac{dv_x}{dt} = \\alpha \\frac{dy}{dt} = \\alpha v_y $\n<br/><br/>Given $ v_y = 2\\alpha x $ :\n<br/><br/>$ \\frac{dv_x}{dt} = \\alpha (2\\alpha x) = 2\\alpha^2 x $</p>\n<p>For the y-component, $ v_y = 2\\alpha x $ :\n<br/><br/>$ \\frac{dv_y}{dt} = 2\\alpha \\frac{dx}{dt} = 2\\alpha v_x $\n<br/><br/>Given $ v_x = \\alpha y $ :\n<br/><br/>$ \\frac{dv_y}{dt} = 2\\alpha (\\alpha y) = 2\\alpha^2 y $</p>\n<p>Thus, combining the components :\n<br/><br/>$ \\vec{a} = 2\\alpha^2 x \\hat{x} + 2\\alpha^2 y \\hat{y} $</p>\n<p>Now, the force acting on the particle is given by :\n<br/><br/>$ \\vec{F} = m\\vec{a} $\n<br/><br/>$ \\vec{F} = m\\alpha(2 \\alpha x \\hat{x} + 2 \\alpha y \\hat{y}) $\n<br/><br/>$ \\vec{F} = m\\alpha^2(2x \\hat{x} + 2y \\hat{y}) $</p>\n<p>This is equivalent to :\n<br/><br/>$ \\vec{F} = 2m\\alpha^2(x \\hat{x} + y \\hat{y}) $</p>\n<p>The correct answer is Option A :\n<br/><br/>$ \\vec{F} = 2m\\alpha^2(x \\hat{x} + y \\hat{y}) $</p>\n"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A particle moves in the X - Y plane under the influence of a force such that its linear momentum is $$\\overrightarrow p \\left( t \\right) = A\\left[ {\\widehat i\\cos (kt) - \\widehat j\\sin (kt)} \\right]$$, where A and k are constants. The angle between the force and the momentum is",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$0^\\circ $$"
+        },
+        {
+          "key": "B",
+          "value": "$$30^\\circ $$"
+        },
+        {
+          "key": "C",
+          "value": "$$45^\\circ $$"
+        },
+        {
+          "key": "D",
+          "value": "$$90^\\circ $$"
+        }
+      ],
+      "answer": "D",
+      "explanation": "<p>Given that,</p>\n<p>$$\\overrightarrow{\\mathrm{P}}(t)=\\mathrm{A}[\\hat{i} \\cos (k t)-\\hat{j} \\sin (k t)]$$</p>\n<p>where, $$\\mathrm{A}$$ and $$k=$$ constant</p>\n<p>$$\\begin{aligned}\\text { Force }\\overrightarrow{\\mathrm{F}}) & =\\frac{d \\overrightarrow{\\mathrm{P}}}{d t}\\left(\\text { from Newton's } 2^{\\text {nd }}\\right. \\text { law) } \\\\\\\\\n\\Rightarrow \\quad \\overrightarrow{\\mathrm{F}} & =\\frac{d}{d t}[\\mathrm{~A}(\\hat{i} \\cos (k t)-\\hat{j} \\sin (k t))] \\\\\\\\& =\\mathrm{A} k[\\hat{i} \\cos (k t)-\\hat{j} \\sin (k t)]\\end{aligned}$$</p>\n<p>By applying dot product between $$\\vec{F} \\& \\vec{P}$$ we have</p>\n<p>$$\\begin{aligned}& \\overrightarrow{\\mathrm{F}} \\cdot \\overrightarrow{\\mathrm{P}}=0 \\\\\\\\\n& \\Rightarrow|\\vec{F}||\\vec{P}| \\cos \\theta=0 \\\\\\\\\n& \\Rightarrow \\quad \\cos \\theta=0 \\\\\\\\\n& \\text {Hence,} \\theta=90^{\\circ}\\end{aligned}$$</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>STATEMENT 1</p>\n<p>A cloth covers a table. Some dishes are kept on it. The cloth can be pulled out without dislodging the dishes from the table.</p>\n<p>Because</p>\n<p>STATEMENT 2</p>\n<p>For every action there is an equal and opposite reaction.</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "Statement-1 is True, Statement-2 is True; Statement-2 is a correct explanation for Statement-1."
+        },
+        {
+          "key": "B",
+          "value": "Statement-1 is True, Statement-2 is True; Statement-2 is NOT a correct explanation for Statement-1s."
+        },
+        {
+          "key": "C",
+          "value": " Statement-1 is True, Statement-2 is False."
+        },
+        {
+          "key": "D",
+          "value": "Statement-1 is False, Statement-2 is True."
+        }
+      ],
+      "answer": "B",
+      "explanation": "<p>Statement 1 : Cloth can be pulled out without dislodging the dishes from the table because of inertia. Therefore, statement 1 true.</p>\n<p>Statement 2 : This is Newton's third law and hence true. But statement 2 is not a correct explanation of statement 1 .</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A block of mass 0.1 is held against a wall applying a horizontal force of 5 N on the block. If the coefficient of friction between the block and the wall is 0.5, the magnitude of the frictional force acting on the block is:",
+      "options": [
+        {
+          "key": "A",
+          "value": "2.5 N"
+        },
+        {
+          "key": "B",
+          "value": "0.98 N"
+        },
+        {
+          "key": "C",
+          "value": "4.9 N"
+        },
+        {
+          "key": "D",
+          "value": "0.49 N"
+        }
+      ],
+      "answer": "B",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A ship of mass 3 $$ \\times $$ 10<sup>7</sup> kg initially at rest, is pulled by a force of 5 $$ \\times $$ 10<sup>4</sup> N through a distance of 3 m. Assuming that the resistance due to water is negligible, the speed of the ship is",
+      "options": [
+        {
+          "key": "A",
+          "value": "1.5 m/s"
+        },
+        {
+          "key": "B",
+          "value": "60 m/s"
+        },
+        {
+          "key": "C",
+          "value": "0.1 m/s"
+        },
+        {
+          "key": "D",
+          "value": "5 m/s"
+        }
+      ],
+      "answer": "C",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A block of mass 2 kg rests on a rough inclined plane making an angle of $$30^\\circ $$ with the horizontal. The coefficient of static friction between the block and the plane is 0.7. The frictional force on the block is",
+      "options": [
+        {
+          "key": "A",
+          "value": "9.8 N"
+        },
+        {
+          "key": "B",
+          "value": "0.7$$ \\times $$9.8$$ \\times $$$$\\sqrt 3 $$ N"
+        },
+        {
+          "key": "C",
+          "value": "9.8$$ \\times $$$$\\sqrt 3 $$ N"
+        },
+        {
+          "key": "D",
+          "value": "0.7$$ \\times $$9.8"
+        }
+      ],
+      "answer": "A",
+      "explanation": ""
+    }
+  ]
+}

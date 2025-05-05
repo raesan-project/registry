@@ -1,0 +1,283 @@
+{
+  "_index": {
+    "name": "Inverse Trigonometric Functions"
+  },
+  "_children": [
+    {
+      "_type": "single_mcq",
+      "body": "<p>Considering only the principal values of the inverse trigonometric functions, the value of</p>\n\n<p>$$ \\tan \\left(\\sin ^{-1}\\left(\\frac{3}{5}\\right)-2 \\cos ^{-1}\\left(\\frac{2}{\\sqrt{5}}\\right)\\right) $$</p>\n\n<p>is</p>\n\n<p></p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "$\\frac{7}{24}$"
+        },
+        {
+          "key": "B",
+          "value": "$\\frac{-7}{24}$"
+        },
+        {
+          "key": "C",
+          "value": "$\\frac{-5}{24}$"
+        },
+        {
+          "key": "D",
+          "value": "$\\frac{5}{24}$"
+        }
+      ],
+      "answer": "B",
+      "explanation": "<p>$$\\begin{aligned}\n& \\tan \\left(\\tan ^{-1}\\left(\\frac{3}{4}\\right)-2 \\tan ^{-1}\\left(\\frac{1}{2}\\right)\\right) \\\\\n& \\tan \\left(\\tan ^{-1}\\left(\\frac{3}{4}\\right)-\\tan ^{-1}\\left(\\frac{2 \\times \\frac{1}{2}}{1-\\frac{1}{4}}\\right)\\right) \\\\\n& \\tan \\left(\\tan ^{-1}\\left(\\frac{3}{4}\\right)-\\tan ^{-1}\\left(\\frac{4}{3}\\right)\\right) \\\\\n& \\tan \\left(\\tan ^{-1}\\left(\\frac{3}{4}-\\frac{4}{3}\\right)\\right) \\\\\n& \\frac{9-16}{24}=\\frac{-7}{24}\n\\end{aligned}$$</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "For any $y \\in \\mathbb{R}$, let $\\cot ^{-1}(y) \\in(0, \\pi)$ and $\\tan ^{-1}(y) \\in\\left(-\\frac{\\pi}{2}, \\frac{\\pi}{2}\\right)$. Then the sum of all the solutions of the equation <br/><br/>$\\tan ^{-1}\\left(\\frac{6 y}{9-y^2}\\right)+\\cot ^{-1}\\left(\\frac{9-y^2}{6 y}\\right)=\\frac{2 \\pi}{3}$ for $0<|y|<3$, is equal to :",
+      "options": [
+        {
+          "key": "A",
+          "value": "$2 \\sqrt{3}-3$\n"
+        },
+        {
+          "key": "B",
+          "value": "$3-2 \\sqrt{3}$"
+        },
+        {
+          "key": "C",
+          "value": "$4 \\sqrt{3}-6$"
+        },
+        {
+          "key": "D",
+          "value": "$6-4 \\sqrt{3}$"
+        }
+      ],
+      "answer": "C",
+      "explanation": "<b>Concept :</b> \n<br/><br/>$$\n\\cot ^{-1} x=\\left\\{\\begin{aligned}\n\\pi+\\tan ^{-1} \\frac{1}{x}; & x<0 \\\\\n\\tan ^{-1} \\frac{1}{x} & ; x>0\n\\end{aligned}\\right.\n$$\n<br/><br/><b>Solution :</b> Given, $0 < |y| < 3$\n<br/><br/>$$ \\Rightarrow $$ $$\ny \\in(-3,3)-\n$$ {0}\n<br/><br/>$$9 - {y^2}$$ is always positive when $$\ny \\in(-3,3)-\n$$ {0}\n<br/><br/>And $6y$ is positive when $$\ny \\in(0,3)\n$$\n<br/><br/>And $6y$ is negative when $$\ny \\in(-3,0)\n$$\n<br/><br/>$$ \\therefore $$ In overall, $$\n\\frac{6 y}{9-y^2} > 0\n$$ when $$\ny \\in(0,3)\n$$\n<br/><br/>And $$\n\\frac{6 y}{9-y^2} < 0\n$$ when $$\ny \\in(-3,0)\n$$\n<br/><br/><b>Case - 1 :</b>\n<br/><br/>When $-3 < y < 0$\n<br/><br/>$$\n\\begin{aligned}\n& \\tan ^{-1}\\left(\\frac{6 y}{9-y^2}\\right)+\\pi+\\tan ^{-1}\\left(\\frac{6 y}{9-y^2}\\right)=\\frac{2 \\pi}{3} \\\\\\\\\n& \\Rightarrow 2 \\tan ^{-1}\\left(\\frac{6 y}{9-y^2}\\right)=\\frac{-\\pi}{3} \\\\\\\\\n& \\Rightarrow \\frac{6 y}{9-y^2}=\\frac{-1}{\\sqrt{3}} \\\\\\\\\n& \\Rightarrow y^2-6 \\sqrt{3} y-9=0 \\\\\\\\\n& \\Rightarrow y^2-6 \\sqrt{3} y-9=0\n\\end{aligned}\n$$\n<br/><br/>$$\n\\begin{aligned}\n& \\Rightarrow y=\\frac{6 \\sqrt{3} \\pm \\sqrt{108+36}}{2}=\\frac{6 \\sqrt{3} \\pm 12}{2}=3 \\sqrt{3} \\pm 6 \\\\\\\\\n& \\text { as } y \\in(-3.0) \\therefore y=3 \\sqrt{3}-6\n\\end{aligned}\n$$\n<br/><br/><b>Case-2 :</b> When $0 < y < 3$\n<br/><br/>$$\n\\begin{aligned}\n& \\tan ^{-1}\\left(\\frac{6 y}{9-y^2}\\right)+\\tan ^{-1}\\left(\\frac{6 y}{9-y^2}\\right)=\\frac{2 \\pi}{3} \\\\\\\\\n& \\Rightarrow 2 \\tan ^{-1}\\left(\\frac{6 y}{9-y^2}\\right)=\\frac{2 \\pi}{3} \\\\\\\\\n& \\Rightarrow \\frac{6 y}{9-y^2}=\\sqrt{3}\n\\end{aligned}\n$$\n<br/><br/>$$\n\\begin{aligned}\n& \\Rightarrow 6 y=9 \\sqrt{3}-\\sqrt{3} y^2 \\\\\\\\\n& \\Rightarrow \\sqrt{3} y^2+6 y-9 \\sqrt{3}=0 \\\\\\\\\n& \\Rightarrow \\sqrt{3} y^2+9 y-3 y-9 \\sqrt{3}=0 \\\\\\\\\n& \\Rightarrow \\sqrt{3} y(y+3 \\sqrt{3})-3(y+3 \\sqrt{3})=0 \\\\\\\\\n& \\Rightarrow(y+3 \\sqrt{3})-(\\sqrt{3} y-3)=0\n\\end{aligned}\n$$\n<br/><br/>$$\ny \\neq-3 \\sqrt{3} \\quad \\therefore y=\\sqrt{3} \\text { as } y \\in(0,3)\n$$\n<br/><br/>$$\n\\therefore \\text { Sum of solutions }=\\sqrt{3}+(3 \\sqrt{3}-6)=4 \\sqrt{3}-6\n$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Match List $$I$$ with List $$II$$ and select the correct answer using the code given below the lists: \n<p><b>List $$I$$</b>\n<br>$$P.$$$$\\,\\,\\,\\,\\,$$  $${\\left( {{1 \\over {{y^2}}}{{\\left( {{{\\cos \\left( {{{\\tan }^{ - 1}}y} \\right) + y\\sin \\left( {{{\\tan }^{ - 1}}y} \\right)} \\over {\\cot \\left( {{{\\sin }^{ - 1}}y} \\right) + \\tan \\left( {{{\\sin }^{ - 1}}y} \\right)}}} \\right)}^2} + {y^4}} \\right)^{1/2}}$$ takes value\n</p><p>$$Q.$$ $$\\,\\,\\,\\,$$ If $$\\cos x + \\cos y + \\cos z = 0 = \\sin x + \\sin y + \\sin z$$ then \n<br>possible value of $$\\cos {{x - y} \\over 2}$$ is</p>\n<p>$$R.$$ $$\\,\\,\\,\\,\\,$$ If $$\\cos \\left( {{\\pi  \\over 4} - x} \\right)\\cos 2x + \\sin x\\sin 2\\sec x = \\cos x\\sin 2x\\sec x + $$\n<br>$$\\cos \\left( {{\\pi  \\over 4} + x} \\right)\\cos 2x$$ then possible value of $$\\sec x$$ is </p>\n<p>$$S.$$ $$\\,\\,\\,\\,\\,$$ If $$\\cot \\left( {{{\\sin }^{ - 1}}\\sqrt {1 - {x^2}} } \\right) = \\sin \\left( {{{\\tan }^{ - 1}}\\left( {x\\sqrt 6 } \\right)} \\right),\\,\\,x \\ne 0,$$\n<br>Then possible value of $$x$$ is</p>\n<p><b>List $$II$$</b>\n<br>$$1.$$ $$\\,\\,\\,\\,\\,$$ $${1 \\over 2}\\sqrt {{5 \\over 3}} $$\n</p><p>$$2.$$ $$\\,\\,\\,\\,\\,$$ $$\\sqrt 2 $$</p>\n<p>$$3.$$ $$\\,\\,\\,\\,\\,$$ $${1 \\over 2}$$</p>\n<p>$$1.$$ $$\\,\\,\\,\\,$$ $$1$$</p>\n",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$P = 4,Q = 3,R = 1,S = 2$$"
+        },
+        {
+          "key": "B",
+          "value": "$$P = 4,Q = 3,R = 2,S = 1$$"
+        },
+        {
+          "key": "C",
+          "value": "$$P = 3,Q = 4,R = 2,S = 1$$"
+        },
+        {
+          "key": "D",
+          "value": "$$P = 3,Q = 4,R = 1,S = 2$$"
+        }
+      ],
+      "answer": "B",
+      "explanation": "<p>For P</p>\n<p>$$\\text { Let } t=\\sqrt{\\frac{1}{y^2}\\left(\\frac{\\cos \\left(\\tan ^{-1} y\\right)+y \\cdot \\sin \\left(\\tan ^{-1} y\\right)}{\\cot \\left(\\sin ^{-1} y\\right)+\\tan \\left(\\sin ^{-1} y\\right)}\\right)^2+y^4}$$</p>\n<p>We know that</p>\n<p>$$\\begin{gathered}\n\\tan ^{-1} y=\\cos ^{-1}\\left(\\frac{1}{\\sqrt{1+y^2}}\\right)=\\sin ^{-1}\\left(\\frac{y}{\\sqrt{1+y^2}}\\right) \\\\\n\\text { and } \\sin ^{-1} y=\\cot ^{-1}\\left(\\frac{\\sqrt{1-y^2}}{y}\\right)=\\tan ^{-1}\\left(\\frac{y}{\\sqrt{1-y^2}}\\right)\n\\end{gathered}$$</p>\n<p>$$\\therefore \\quad t = \\sqrt {{1 \\over {{y^2}}}{{\\left[ {{{\\cos \\left( {{{\\cos }^{ - 1}}{1 \\over {\\sqrt {1 + {y^2}} }}} \\right) + y\\,.\\,\\sin \\left( {{{\\sin }^{ - 1}}{y \\over {\\sqrt {1 + {y^2}} }}} \\right)} \\over {\\cot \\left( {{{\\cot }^{ - 1}}{{\\sqrt {1 - {y^2}} } \\over y}} \\right) + \\tan \\left( {{{\\tan }^{ - 1}}{y \\over {\\sqrt {1 - {y^2}} }}} \\right)}}} \\right]}^2} + {y^4}} $$</p>\n<p>$$\\begin{aligned}\n& \\Rightarrow t=\\sqrt{\\frac{1}{y^2} \\times\\left[\\frac{\\frac{1}{\\sqrt{1+y^2}}+\\frac{y^2}{\\sqrt{1+y^2}}}{\\frac{\\sqrt{1-y^2}}{y}+\\frac{y}{\\sqrt{1-y^2}}}\\right]^2+y^4} \\\\\n& \\Rightarrow t=\\sqrt{\\frac{1}{y^2} \\times\\left[\\frac{\\sqrt{1+y^2}}{\\frac{1-y^2+y^2}{y \\sqrt{1-y^2}}}\\right]^2+y^4} \\\\\n& \\Rightarrow t=\\sqrt{\\frac{1}{y^2} \\times y^2\\left(1+y^2\\right)\\left(1-y^2\\right)+y^4} \\\\\n& \\Rightarrow t=\\sqrt{\\left(1-y^4\\right)+y^4}=1 \\\\\n\\end{aligned}$$</p>\n<p>Hence, P match with 4.</p>\n<p>For Q.</p>\n<p>Given $$\\cos x+\\cos y+\\cos z=0$$</p>\n<p>$$\\Rightarrow \\cos x+\\cos y=-\\cos z$$</p>\n<p>On squaring both side</p>\n<p>$$\\Rightarrow \\cos ^2 x+\\cos ^2 y+2 \\cos x \\cdot \\cos y=\\cos ^2 z\\quad \\text{... (i)}$$</p>\n<p>Also given $$\\sin x+\\sin y+\\sin z=0$$</p>\n<p>$$\\Rightarrow \\sin x+\\sin y=-\\sin z$$</p>\n<p>On squaring both side</p>\n<p>$$\\Rightarrow \\sin ^2 x+\\sin ^2 y+2 \\sin x \\cdot \\sin y=\\sin ^2 z \\quad \\text{... (ii)}$$</p>\n<p>Add equation (i) and (ii)</p>\n<p>$$\\begin{gathered}\n\\Rightarrow\\left(\\cos ^2 x+\\sin ^2 x\\right)+\\left(\\cos ^2 y+\\sin ^2 y\\right) \\\\\n+2[\\cos x \\cdot \\cos y+\\sin x \\cdot \\sin y] \\\\\n=\\cos ^2 z+\\sin ^2 z\n\\end{gathered}$$</p>\n<p>$$\\begin{array}{lr}\n\\Rightarrow & 1+1+2 \\cos (x-y)=1 \\\\\n\\Rightarrow & \\cos (x-y)=\\frac{-1}{2} \\\\\n\\Rightarrow & 2 \\cos ^2\\left(\\frac{x-y}{2}\\right)-1=\\frac{-1}{2}\n\\end{array}$$</p>\n<p>$$\\begin{array}{ll}\n\\Rightarrow & \\cos ^2\\left(\\frac{x-y}{2}\\right)=\\frac{1}{4} \\\\\n\\Rightarrow & \\cos \\left(\\frac{x-y}{2}\\right)= \\pm \\frac{1}{2}\n\\end{array}$$</p>\n<p>Hence, Q match with 3.</p>\n<p>For R</p>\n<p>Given,</p>\n<p>$$\\begin{aligned}\n& \\cos \\left(\\frac{\\pi}{4}-x\\right) \\cos 2 x+\\sin x \\cdot \\sin 2 x \\cdot \\sec x \\\\\n& =\\cos x \\cdot \\sin 2 x \\cdot \\sec x+\\cos \\left(\\frac{\\pi}{4}+x\\right) \\cos 2 x\n\\end{aligned}$$</p>\n<p>$$\\begin{aligned}\n\\Rightarrow & {\\left[\\cos \\left(\\frac{\\pi}{4}-x\\right)-\\cos \\left(\\frac{\\pi}{4}+x\\right)\\right] } \\\\\n& \\cos 2 x+(\\sin x-\\cos x) \\sin 2 x \\cdot \\sec x=0\n\\end{aligned}$$</p>\n<p>$$\\begin{aligned}\n\\Rightarrow & 2 \\cdot \\sin \\frac{\\pi}{4} \\cdot \\sin x \\cdot \\cos 2 x+(\\sin x-\\cos x) \\\\\n& \\frac{2 \\sin x \\cdot \\cos x}{\\cos x}=0\n\\end{aligned}$$</p>\n<p>$$\\begin{aligned}\n& \\Rightarrow \\quad \\sqrt{2} \\cos 2 x=2(\\cos x-\\sin x) \\\\\n& \\Rightarrow \\quad\\left(\\cos ^2 x-\\sin ^2 x\\right)=\\sqrt{2} (\\cos x-\\sin x) \\\\\n\\end{aligned}$$</p>\n<p>$$\\begin{array}{rlrl}\n\\Rightarrow & \\cos x+\\sin x =\\sqrt{2} \\\\\n\\Rightarrow & (\\cos x+\\sin x)^2 =(\\sqrt{2})^2 \\\\\n\\Rightarrow & \\cos ^2 x+\\sin ^2 x+2 \\sin x \\cdot \\cos x =2 \\\\\n\\Rightarrow & 1+\\sin 2 x =2 \\\\\n\\Rightarrow & \\sin 2 x =1 \\\\\n\\Rightarrow &  2 x =\\frac{\\pi}{2} \\\\\n\\Rightarrow &  x =\\frac{\\pi}{4} \\\\\n\\Rightarrow &  \\sec x =\\sec \\frac{\\pi}{4}=\\sqrt{2}\n\\end{array}$$</p>\n<p>Hence, R match with 2</p>\n<p>For S</p>\n<p>Given,</p>\n<p>$$\\begin{aligned}\n\\cot \\left(\\sin ^{-1} \\sqrt{1-x^2}\\right) & =\\sin \\left(\\tan ^{-1}(x \\sqrt{6})\\right), x \\neq 0 \\\\\n\\Rightarrow \\cot \\left(\\cot ^{-1} \\frac{x}{\\sqrt{1-x^2}}\\right) & =\\sin \\left(\\sin ^{-1} \\frac{x \\sqrt{6}}{\\sqrt{1+6 x^2}}\\right) \\\\\n\\Rightarrow \\quad \\frac{x}{\\sqrt{1-x^2}} & =\\frac{x \\sqrt{6}}{\\sqrt{1+6 x^2}}\n\\end{aligned}$$</p>\n<p>$$\n\\begin{array}{rlrl}\n\\Rightarrow & \\frac{1}{\\sqrt{1-x^2}} & =\\frac{\\sqrt{6}}{\\sqrt{1+6 x^2}} \\\\\n\\Rightarrow & \\text { on squaring both sides } \\\\\n\\Rightarrow & \\frac{1}{1-x^2} =\\frac{6}{1+6 x^2} \\\\\n\\Rightarrow & 1+6 x^2=6-6 x^2 \\\\\n\\Rightarrow & x^2 =\\frac{5}{12} \\\\\n\\Rightarrow & x= \\pm \\sqrt{\\frac{5}{12}}= \\pm \\frac{1}{2} \\sqrt{\\frac{5}{3}}\n\\end{array}$$</p>\n<p>Hence, S match with 1.</p>\n<p>Hints :</p>\n<p>(i) Recall the method of conversion of one inverse trigonometric function into other inverse trigonometric function as</p>\n<p>$$\\sin ^{-1} x=\\cos ^{-1} \\sqrt{1-x^2}=\\tan ^{-1} \\frac{x}{\\sqrt{1-x^2}}$$</p>\n<p>(ii) Recall $$\\cos \\left(\\cos ^{-1} x\\right)=x, \\sin \\left(\\sin ^{-1} x\\right)=x\\tan \\left(\\tan ^{-1} x\\right)=x \\text { etc }$$</p>\n<p>(iii) Recall the following trigonometric identities</p>\n<p>(A) $$\\sin ^2 x+\\cos ^2 x=1$$</p>\n<p>(B) $$\\sin 2 x=2 \\sin x \\cdot \\cos x$$</p>\n<p>(C) $$\\cos 2 x=\\cos ^2 x-\\sin ^2 x=2 \\cos ^2 x-1= 1-2 \\sin ^2 x$$</p>\n<p>(D) $$\\cos (A-B)-\\cos (A+B)=2 \\sin A \\cdot \\sin B$$</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The value of $$\\cot \\left( {\\sum\\limits_{n = 1}^{23} {{{\\cot }^{ - 1}}} \\left( {1 + \\sum\\limits_{k = 1}^n {2k} } \\right)} \\right)$$   is",
+      "options": [
+        {
+          "key": "A",
+          "value": "$${{23} \\over {25}}$$ "
+        },
+        {
+          "key": "B",
+          "value": "$${{25} \\over {23}}$$ "
+        },
+        {
+          "key": "C",
+          "value": "$${{23} \\over {24}}$$"
+        },
+        {
+          "key": "D",
+          "value": "$${{24} \\over {23}}$$"
+        }
+      ],
+      "answer": "B",
+      "explanation": "<p>$$\\cot \\left( {\\sum\\limits_{n = 1}^{23} {{{\\cot }^{ - 1}}\\left( {1 + \\sum\\limits_{k = 1}^n {2k} } \\right)} } \\right)$$</p>\n<p>$$ = \\cot \\left( {\\sum\\limits_{n = 1}^{23} {{{\\cot }^{ - 1}}\\left( {1 + 2 \\times {{n(n + 1)} \\over 2}} \\right)} } \\right)$$</p>\n<p>$$ = \\cot \\left( {\\sum\\limits_{n = 1}^{23} {{{\\cot }^{ - 1}}(1 + n(n + 1))} } \\right)$$</p>\n<p>$$ = \\cot \\left( {\\sum\\limits_{n = 1}^{23} {{{\\cot }^{ - 1}}\\left( {{{n(n + 1) + 1} \\over {(n + 1) - n}}} \\right)} } \\right)$$</p>\n<p>$$ = \\cot \\left( {\\sum\\limits_{n = 1}^{23} {{{\\cot }^{ - 1}}n - {{\\cot }^{ - 1}}(n + 1)} } \\right)$$</p>\n<p>$$ = \\cot (({\\cot ^{ - 1}}1 + {\\cot ^{ - 1}}2 + {\\cot ^{ - 1}}3 + .... + {\\cot ^{ - 1}}23) - ({\\cot ^{ - 1}}2 + {\\cot ^{ - 1}}3 + .... + {\\cot ^{ - 1}}23 + {\\cot ^{ - 1}}24))$$</p>\n<p>$$ = \\cot ({\\cot ^{ - 1}}1 - {\\cot ^{ - 1}}24)$$</p>\n<p>$$ = \\cot \\left( {{{\\cot }^{ - 1}}{{24 \\times 1 + 1} \\over {24 - 1}}} \\right) = {{25} \\over {23}}$$</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "If $$0 &lt; x &lt; 1$$, then \n<br><br/>$$\\sqrt {1 + {x^2}} {\\left[ {{{\\left\\{ {x\\cos \\left( {{{\\cot }^{ - 1}}x} \\right) + \\sin \\left( {{{\\cot }^{ - 1}}x} \\right)} \\right\\}}^2} - 1} \\right]^{1/2}} = $$",
+      "options": [
+        {
+          "key": "A",
+          "value": "$${x \\over {\\sqrt {1 + {x^2}} }}$$ "
+        },
+        {
+          "key": "B",
+          "value": "$$x$$ "
+        },
+        {
+          "key": "C",
+          "value": "$$x\\sqrt {1 + {x^2}} $$ "
+        },
+        {
+          "key": "D",
+          "value": "$$\\sqrt {1 + {x^2}} $$ "
+        }
+      ],
+      "answer": "C",
+      "explanation": "<p>Given that,</p>\n<p>$$0 < x < 1$$,</p>\n<p>$$\\sqrt {1 + {x^2}} {[{\\{ x\\cos ({\\cot ^{ - 1}}x) + \\sin ({\\cot ^{ - 1}}x)\\} ^2} - 1]^{{1 \\over 2}}}$$</p>\n<p>Find : value of this expression</p>\n<p>Here, $$0 < x < 1$$,</p>\n<p>$${\\cot ^{ - 1}}x = {\\sin ^{ - 1}}\\left( {{1 \\over {\\sqrt {1 + {x^2}} }}} \\right) = {\\cos ^{ - 1}}\\left( {{x \\over {\\sqrt {1 + {x^2}} }}} \\right)$$</p>\n<p>Now, $$\\sqrt {1 + {x^2}} {[{\\{ x\\cos ({\\cot ^{ - 1}}x) + \\sin ({\\cot ^{ - 1}}x)\\} ^2} - 1]^{{1 \\over 2}}}$$</p>\n<p>$$\\sqrt {1 + {x^2}} {\\left[ {{{\\left\\{ {x\\cos \\left( {{{\\cos }^{ - 1}}\\left( {{x \\over {1 + {x^2}}}} \\right)} \\right) + \\sin \\left( {{{\\sin }^{ - 1}}{1 \\over {\\sqrt {1 + {x^2}} }}} \\right)} \\right\\}}^2}} \\right]^{{1 \\over 2}}}$$</p>\n<p>$$ = \\sqrt {1 + {x^2}} {\\left[ {{{\\left\\{ {x\\,.\\,{x \\over {\\sqrt {1 + {x^2}} }} + {1 \\over {\\sqrt {1 + {x^2}} }}} \\right\\}}^2} - 1} \\right]^{{1 \\over 2}}}$$</p>\n<p>$$ = \\sqrt {1 + {x^2}} {\\left[ {{{\\left\\{ {{{{x^2} + 1} \\over {\\sqrt {1 + {x^2}} }}} \\right\\}}^2} - 1} \\right]^{{1 \\over 2}}}$$</p>\n<p>$$ = \\sqrt {1 + {x^2}} {[{x^2} + 1 - 1]^{{1 \\over 2}}}$$</p>\n<p>$$ = x\\sqrt {1 + {x^2}} $$</p>\n<p>which is the value of the expression.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The value of $$x$$ for which $$sin\\left( {{{\\cot }^{ - 1}}\\left( {1 + x} \\right)} \\right) = \\cos \\left( {{{\\tan }^{ - 1}}\\,x} \\right)$$  is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$1/2$$ "
+        },
+        {
+          "key": "B",
+          "value": "$$1$$ "
+        },
+        {
+          "key": "C",
+          "value": "$$0$$ "
+        },
+        {
+          "key": "D",
+          "value": "$$-1/2$$ "
+        }
+      ],
+      "answer": "D",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "If $${\\sin ^{ - 1}}\\left( {x - {{{x^2}} \\over 2} + {{{x^3}} \\over 4} - ....} \\right)$$ \n$$$ + {\\cos ^{ - 1}}\\left( {{x^2} - {{{x^4}} \\over 2} + {{{x^6}} \\over 4} - ....} \\right) = {\\pi  \\over 2}$$$\n<br> for $$0 &lt; \\left| x \\right| &lt; \\sqrt 2 ,$$ then $$x$$ equals ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$1/2$$ "
+        },
+        {
+          "key": "B",
+          "value": "$$1$$ "
+        },
+        {
+          "key": "C",
+          "value": "$$-1/2$$ "
+        },
+        {
+          "key": "D",
+          "value": "$$-1$$ "
+        }
+      ],
+      "answer": "B",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The number of real solutions of \n<br>$${\\tan ^{ - 1}}\\,\\,\\sqrt {x\\left( {x + 1} \\right)}  + {\\sin ^{ - 1}}\\,\\,\\sqrt {{x^2} + x + 1}  = \\pi /2$$ is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "zero "
+        },
+        {
+          "key": "B",
+          "value": "one "
+        },
+        {
+          "key": "C",
+          "value": "two "
+        },
+        {
+          "key": "D",
+          "value": "infinite "
+        }
+      ],
+      "answer": "C",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "If we consider only the principle values of the inverse trigonometric functions then the value of \n<br>$$\\tan \\left( {{{\\cos }^{ - 1}}{1 \\over {5\\sqrt 2 }} - {{\\sin }^{ - 1}}{4 \\over {\\sqrt {17} }}} \\right)$$ is",
+      "options": [
+        {
+          "key": "A",
+          "value": "$${{\\sqrt {29} } \\over 3}$$ "
+        },
+        {
+          "key": "B",
+          "value": "$${{29} \\over 3}$$ "
+        },
+        {
+          "key": "C",
+          "value": "$${{\\sqrt 3 } \\over {29}}$$ "
+        },
+        {
+          "key": "D",
+          "value": "$${3 \\over {29}}$$ "
+        }
+      ],
+      "answer": "D",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The principal value of $${\\sin ^{ - 1}}\\left( {\\sin {{2\\pi } \\over 3}} \\right)$$  is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$${ - {{2\\pi } \\over 3}}$$ "
+        },
+        {
+          "key": "B",
+          "value": "$${{{2\\pi } \\over 3}}$$ "
+        },
+        {
+          "key": "C",
+          "value": "$${{{4\\pi } \\over 3}}$$"
+        },
+        {
+          "key": "D",
+          "value": "none"
+        }
+      ],
+      "answer": "D",
+      "explanation": "<p>To determine the principal value of $$\\sin^{-1}\\left(\\sin\\left(\\frac{2\\pi}{3}\\right)\\right)$$, we need to understand the properties of the inverse sine function, also known as the arcsine function.</p>\n\n<p>The sine function, $$\\sin(x)$$, is periodic with period $$2\\pi$$, meaning that for any integer $$k$$, we have:\n\n<p>$$\\sin(x) = \\sin(x + 2k\\pi)$$.</p></p>\n\n<p>The inverse sine function, $$\\sin^{-1}(x)$$, has a restricted domain, typically taken as:\n\n<p>$$-\\frac{\\pi}{2} \\leq y \\leq \\frac{\\pi}{2}$$,</p>\n\n<p>where $$y = \\sin^{-1}(x)$$.</p></p>\n\n<p>Given the expression inside the inverse sine function:\n\n<p>$$\\sin\\left(\\frac{2\\pi}{3}\\right)$$,</p>\n\n<p>we know:</p>\n\n<p>$$\\sin\\left(\\frac{2\\pi}{3}\\right) = \\sin\\left(\\pi - \\frac{\\pi}{3}\\right) = \\sin\\left(\\frac{\\pi}{3}\\right) = \\frac{\\sqrt{3}}{2}$$.</p></p>\n\n<p>Now, we want to find the principal value of $$\\sin^{-1}\\left(\\sin\\left(\\frac{2\\pi}{3}\\right)\\right)$$.\n\n<p>Let:</p>\n\n<p>$$x = \\frac{2\\pi}{3}$$,</p>\n\n<p>so:</p>\n\n<p>$$\\sin\\left(\\frac{2\\pi}{3}\\right) = \\sin(x) = \\frac{\\sqrt{3}}{2}$$.</p></p>\n\n<p>To find the principal value, we need to find an angle $$y$$ within the range $$-\\frac{\\pi}{2} \\leq y \\leq \\frac{\\pi}{2}$$ such that $$\\sin(y) = \\frac{\\sqrt{3}}{2}$$.\n\n<p>The principal value that satisfies this condition is:</p>\n\n<p>$$y = \\sin^{-1}\\left(\\frac{\\sqrt{3}}{2}\\right)$$.</p></p>\n\n<p>Given the range of the inverse sine function, the corresponding angle is:\n\n<p>$$y = \\frac{\\pi}{3}$$.</p></p>\n\n<p>Now, we need to match this value with one of the given options. Since there is no option for $$\\frac{\\pi}{3}$$ directly, but recalling the properties of the sine function and the range, and knowing that $$\\frac{2\\pi}{3}$$ is not within the range of the principal values, we need to reconsider equivalent values.</p>\n\n<p>None of the given options match exactly the principal value we calculated, which is $$\\frac{\\pi}{3}$$. Therefore, the correct answer is:</p>\n\n<p>Option D: none</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The value of $$\\tan \\left[ {{{\\cos }^{ - 1}}\\left( {{4 \\over 5}} \\right) + {{\\tan }^{ - 1}}\\left( {{2 \\over 3}} \\right)} \\right]$$ is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$${{6 \\over 17}}$$"
+        },
+        {
+          "key": "B",
+          "value": "$${{7 \\over 16}}$$"
+        },
+        {
+          "key": "C",
+          "value": "$${{16 \\over 7}}$$"
+        },
+        {
+          "key": "D",
+          "value": "none"
+        }
+      ],
+      "answer": "D",
+      "explanation": ""
+    },
+    {
+      "_type": "numerical",
+      "body": "The value of <br><br>$${\\sec ^{ - 1}}\\left( \\matrix{\n  {1 \\over 4}\\sum\\limits_{k = 0}^{10} {\\sec \\left( {{{7\\pi } \\over {12}} + {{k\\pi } \\over 2}} \\right)} \n  \\sec \\left( {{{7\\pi } \\over {12}} + {{(k + 1)\\pi } \\over 2}} \\right) \\hfill \\cr}  \\right)$$<br><br>in the interval $$\\left[ { - {\\pi  \\over 4},\\,{{3\\pi } \\over 4}} \\right]$$ equals ..........",
+      "answer": "0",
+      "explanation": "$$\\sum\\limits_{k = 0}^{10} {\\sec \\left( {{{7\\pi } \\over {12}} + {{k\\pi } \\over 2}} \\right)} \\sec \\left( {{{7\\pi } \\over {12}} + {{(k + 1)\\pi } \\over 2}} \\right)$$<br><br>= $$\\sum\\limits_{k = 0}^{10} {{1 \\over {\\cos \\left( {{{7\\pi } \\over {12}} + {{k\\pi } \\over 2}} \\right)\\cos \\left( {{{7\\pi } \\over {12}} + {{(k + 1)\\pi } \\over 2}} \\right)}}} $$<br><br>= $$\\sum\\limits_{k = 0}^{10} {{{\\sin \\left[ {\\left( {{{7\\pi } \\over {12}} + {{(k + 1)\\pi } \\over 2}} \\right) - \\left( {{{7\\pi } \\over {12}} + {{k\\pi } \\over 2}} \\right)} \\right]} \\over {\\cos \\left( {{{7\\pi } \\over {12}} + {{k\\pi } \\over 2}} \\right)\\cos \\left( {{{7\\pi } \\over {12}} + {{(k + 1)\\pi } \\over 2}} \\right)}}} $$<br><br>$$ \\because $$ $$\\left[ {{{7\\pi } \\over {12}} + {{(k + 1)\\pi } \\over 2} - \\left( {{{7\\pi } \\over {12}} + {{k\\pi } \\over 2}} \\right) = {\\pi  \\over 2}\\,and\\,sin{\\pi  \\over 2} = 1} \\right]$$<br/><br/>$$\\sum\\limits_{k = 0}^{10} {{\\matrix{\n  \\sin \\left( {{{7\\pi } \\over {12}} + {{\\left( {k + 1} \\right)\\pi } \\over 2}} \\right)\\cos \\left( {{{7\\pi } \\over {12}} + {{k\\pi } \\over 2}} \\right) \\hfill \\cr \n   - \\sin \\left( {{{7\\pi } \\over {12}} + {{k\\pi } \\over 2}} \\right)\\cos \\left( {{{7\\pi } \\over {12}} + {{\\left( {k + 1} \\right)\\pi } \\over 2}} \\right) \\hfill \\cr}  \\over {\\cos \\left( {{{7\\pi } \\over {12}} + {{k\\pi } \\over 2}} \\right)\\cos \\left( {{{7\\pi } \\over {12}} + {{\\left( {k + 1} \\right)\\pi } \\over 2}} \\right)}}} $$<br><br>= $$\\sum\\limits_{k = 0}^{10} {\\left[ {\\tan \\left( {{{7\\pi } \\over {12}} + {{(k + 1)\\pi } \\over 2}} \\right) - \\tan \\left( {{{7\\pi } \\over {12}} + {{k\\pi } \\over 2}} \\right)} \\right]} $$<br><br>= $$\\tan \\left( {{{7\\pi } \\over {12}} + {\\pi  \\over 2}} \\right) - \\tan \\left( {{{7\\pi } \\over {12}}} \\right) + \\tan \\left( {{{7\\pi } \\over {12}} + {{2\\pi } \\over 2}} \\right) - \\tan \\left( {{{7\\pi } \\over {12}} + {\\pi  \\over 2}} \\right)$$ ....$$ + \\tan \\left( {{{7\\pi } \\over {12}} + {{11\\pi } \\over 2}} \\right) - \\tan \\left( {{{7\\pi } \\over {12}} + {{10\\pi } \\over 2}} \\right)$$<br><br>= $$\\tan \\left( {{{7\\pi } \\over {12}} + {{11\\pi } \\over 2}} \\right) - \\tan {{7\\pi } \\over {12}} = \\tan {{7\\pi } \\over {12}} + \\cot {\\pi  \\over {12}}$$<br><br>= $${1 \\over {\\sin {\\pi  \\over {12}}\\cos {\\pi  \\over {12}}}} = {2 \\over {\\sin {\\pi  \\over 6}}} = 4$$<br><br>So, $${\\sec ^{ - 1}}\\left( {{1 \\over 4}\\sum\\limits_{k = 0}^{10} {\\sec \\left( {{{7\\pi } \\over {12}} + {{k\\pi } \\over 2}} \\right)\\sec \\left( {{{7\\pi } \\over {12}} + {{(k + 1)\\pi } \\over 2}} \\right)} } \\right)$$<br><br>= $${\\sec ^{ - 1}}$$ (1) = 0"
+    },
+    {
+      "_type": "numerical",
+      "body": "The number of real solutions of the equation $$\\eqalign{\n  &amp; {\\sin ^{ - 1}}\\left( {\\sum\\limits_{i = 1}^\\infty  {} {x^{i + 1}} - x\\sum\\limits_{i = 1}^\\infty  {} {{\\left( {{x \\over 2}} \\right)}^i}} \\right)  \\cr \n  &amp;  = {\\pi  \\over 2} - {\\cos ^1}\\left( {\\sum\\limits_{i = 1}^\\infty  {} {{\\left( {{{ - x} \\over 2}} \\right)}^i} - \\sum\\limits_{i = 1}^\\infty  {} {{\\left( { - x} \\right)}^i}} \\right) \\cr} $$ lying in the interval $$\\left( { - {1 \\over 2},{1 \\over 2}} \\right)$$ is ........... .<br><br>(Here, the inverse trigonometric functions sin<sup>$$-$$1</sup> x and cos<sup>$$-$$1</sup> x assume values in $${\\left[ { - {\\pi  \\over 2},{\\pi  \\over 2}} \\right]}$$ and $${\\left[ {0,\\pi } \\right]}$$, respectively.)",
+      "answer": "2",
+      "explanation": "We have,<br><br>$${\\sin ^{ - 1}}\\left( {\\sum\\limits_{i = 1}^\\infty  {} {x^{i + 1}} - x\\sum\\limits_{i = 1}^\\infty  {} {{\\left( {{x \\over 2}} \\right)}^i}} \\right)$$<br><br>$$ = {\\pi  \\over 2} - {\\cos ^1}\\left( {\\sum\\limits_{i = 1}^\\infty  {} {{\\left( {{{ - x} \\over 2}} \\right)}^i} - \\sum\\limits_{i = 1}^\\infty  {} {{\\left( { - x} \\right)}^i}} \\right)$$<br><br>$$ \\Rightarrow {\\sin ^{ - 1}}\\left[ {{{{x^2}} \\over {1 - x}} - {{x.{x \\over 2}} \\over {1 - {x \\over 2}}}} \\right]$$<br><br>$$ = {\\pi  \\over 2} - {\\cos ^{ - 1}}\\left[ {{{{{ - x} \\over 2}} \\over {1 + {x \\over 2}}} - {{( - x)} \\over {1 + x}}} \\right]$$<br><br>$$ \\because $$ $$\\left[ {\\sum\\limits_{i = 1}^\\infty  {} {x^{i + 1}} = {x^2} + {x^3} + {x^4} + .... = {{{x^2}} \\over {1 - x}}} \\right]$$ using sum of infinite terms of GP<br><br>$$ \\Rightarrow {\\sin ^{ - 1}}\\left[ {{{{x^2}} \\over {1 - x}} - {{{x^2}} \\over {2 - x}}} \\right] = {\\pi  \\over 2} - {\\cos ^{ - 1}}\\left[ {{x \\over {1 + x}} - {x \\over {2 + x}}} \\right]$$<br><br>$$ \\Rightarrow {\\sin ^{ - 1}}\\left[ {{{{x^2}} \\over {1 - x}} - {{{x^2}} \\over {2 - x}}} \\right] = {\\sin ^{ - 1}}\\left[ {{x \\over {1 + x}} - {x \\over {2 + x}}} \\right]$$<br><br>$$ \\because $$ $$\\left[ {{{\\sin }^{ - 1}}x = {\\pi  \\over 2} - {{\\cos }^{ - 1}}x} \\right]$$<br><br>$$ \\Rightarrow {{{x^2}} \\over {1 - x}} - {{{x^2}} \\over {2 - x}} = {x \\over {1 + x}} - {x \\over {2 + x}}$$<br><br>$$ \\Rightarrow {x^2}\\left( {{{2 - x - 1 + x} \\over {(1 - x)(2 - x)}}} \\right) = x{{(2 + x - 1 - x)} \\over {(1 + x)(2 + x)}}$$<br><br>$$ \\Rightarrow {x \\over {2 - 3x + {x^2}}} = {1 \\over {2 + 3x + {x^2}}}$$ or x = 0<br><br>$$ \\Rightarrow {x^3} + 3{x^2} + 2x = {x^2} - 3x + 2$$<br><br>$$ \\Rightarrow {x^3} + 2{x^2} + 5x - 2 = 0$$ or x = 0<br><br>Let $$f(x) = {x^3} + 2{x^2} + 5x - 2$$<br><br>$$f'(x) = 3{x^2} + 4x + 5$$<br><br>$$f'(x) &gt; 0,\\,\\forall x \\in R$$<br><br>$$ \\therefore $$ $${x^3} + 2{x^2} + 5x - 2$$ has only one real roots<br><br>Therefore, total number of real solution is 2."
+    }
+  ]
+}

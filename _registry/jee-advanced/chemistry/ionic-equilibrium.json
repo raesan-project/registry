@@ -1,0 +1,67 @@
+{
+  "_index": {
+    "name": "Ionic Equilibrium"
+  },
+  "_children": [
+    {
+      "_type": "single_mcq",
+      "body": "On decreasing the $p \\mathrm{H}$ from 7 to 2 , the solubility of a sparingly soluble salt (MX) of a weak acid (HX) increased from $10^{-4} \\mathrm{~mol} \\mathrm{~L}^{-1}$ to $10^{-3} \\mathrm{~mol} \\mathrm{~L}^{-1}$. The $p \\mathrm{~K}_{\\mathrm{a}}$ of $\\mathrm{HX}$ is",
+      "options": [
+        {
+          "key": "A",
+          "value": "3"
+        },
+        {
+          "key": "B",
+          "value": "4"
+        },
+        {
+          "key": "C",
+          "value": "5"
+        },
+        {
+          "key": "D",
+          "value": "2"
+        }
+      ],
+      "answer": "B",
+      "explanation": "Relationship between solubility, $\\mathrm{H}^{+}$and $\\mathrm{K}_{\\mathrm{a}}$ is given by\n<br/><br/>$$\n \\begin{aligned}\n\\mathrm{S} & =\\sqrt{\\frac{\\left(\\mathrm{K}_{\\mathrm{SP}}\\left[\\mathrm{H}^{+}\\right]+\\mathrm{K}_{\\mathrm{a}}\\right)}{\\mathrm{K}_{\\mathrm{a}}}} \\\\\\\\\n\\text { If } \\mathrm{pH}=7 & \\Rightarrow\\left(\\mathrm{H}^{+}\\right)=10^{-7} \\\\\\\\\n\\mathrm{~S} & =10^{-4} \\mathrm{~mol} / \\mathrm{L}\n\\end{aligned}\n$$\n<br/><br/>$$\n\\begin{aligned}\n\\Rightarrow 10^{-4} & =\\sqrt{\\frac{\\mathrm{K}_{\\mathrm{SP}}\\left(10^{-7}+\\mathrm{K}_{\\mathrm{a}}\\right)}{\\mathrm{K}_{\\mathrm{a}}}} ...........(i) \\\\\\\\\n10^{-3} & =\\sqrt{\\frac{\\mathrm{K}_{\\mathrm{SP}}\\left(10^{-2}+\\mathrm{K}_{\\mathrm{a}}\\right)}{\\mathrm{K}_{\\mathrm{a}}}} ...........(ii)\n\\end{aligned}\n$$\n<br/><br/>Dividing and squaring equation (i) by equation (ii),\n<br/><br/>$$\n\\begin{aligned}\n& \\frac{\\left(10^{-4}\\right)^2}{\\left(10^{-3}\\right)^2}=\\frac{K_{SP}\\left(10^{-7}+K_a\\right)}{K_a} \\times \\frac{K_a}{K_{SP}\\left(10^{-2}+K_a\\right)} \\\\\\\\\n& \\Rightarrow 10^{-2}=\\frac{10^{-7}+\\mathrm{K}_{\\mathrm{a}}}{10^{-2}+\\mathrm{K}_{\\mathrm{a}}} \\\\\\\\\n& \\Rightarrow 10^{-4}+10^{-2} \\cdot \\mathrm{K}_{\\mathrm{a}}=10^{-7}+\\mathrm{K}_{\\mathrm{a}} \\\\\\\\\n& \\therefore \\mathrm{K}_{\\mathrm{a}} \\simeq 10^{-4} \\\\\\\\\n& \\Rightarrow \\mathrm{pK}_{\\mathrm{a}}=4\n\\end{aligned}\n$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Solubility product constants (K$$_{sp}$$) of salts of types MX, MX$$_2$$ and M$$_3$$X at temperature T are 4.0 $$\\times$$ 10$$^{-8}$$, 3.2 $$\\times$$ 10$$^{-14}$$ and 2.7 $$\\times$$ 10$$^{-15}$$, respectively. Solubilities (mol dm$$^{-3}$$) of the salts at temperature 'T' are in the order:</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "MX > MX$$_2$$ > M$$_3$$X"
+        },
+        {
+          "key": "B",
+          "value": "M$$_3$$X > MX$$_2$$ > MX"
+        },
+        {
+          "key": "C",
+          "value": "MX$$_2$$ > M$$_3$$X > MX"
+        },
+        {
+          "key": "D",
+          "value": "MX > M$$_3$$X > MX$$_2$$"
+        }
+      ],
+      "answer": "D",
+      "explanation": "<p>MX > M$$_3$$X > MX$$_2$$</p>\n<p>$$\\Rightarrow~~\\mathrm{MX} \\to$$ $$\\mathrm{\\mathop {{M^ + }}\\limits_S  + \\mathop {{M^ - }}\\limits_S}$$</p>\n<p>Solubiliity, (S$$_1$$) of</p>\n<p>$$MX = \\sqrt {{K_{sp}}}  = \\sqrt {4 \\times {{10}^{ - 8}}} $$</p>\n<p>$$ = 2 \\times {10^{ - 4}}\\,M$$</p>\n<p>$$ \\Rightarrow M{X_2} \\to \\mathop {{M^ + }}\\limits_S  + \\mathop {2{X^ - }}\\limits_S $$</p>\n<p>$${K_{sp}} = {(s)^1}{(2s)^2} = 4{s^3}$$</p>\n<p>$$S = {\\left( {{{3.2 \\times {{10}^{ - 14}}} \\over 4}} \\right)^{{1 \\over 3}}}$$</p>\n<p>$${K_{sp}} = 2 \\times {10^{ - 5}}\\,M$$</p>\n<p>$$ \\Rightarrow {M_3}X \\to \\mathop {3{M^ + }}\\limits_{3S}  + \\mathop {{X^{3 - }}}\\limits_S $$</p>\n<p>$${K_{sp}} = {(3s)^3}{s^1} = 27{s^4}$$</p>\n<p>$$S = {\\left( {{{2.7 \\times {{10}^{ - 15}}} \\over {27}}} \\right)^{{1 \\over 9}}}$$</p>\n<p>$$ = {({10^{ - 16}})^{{1 \\over 2}}}$$</p>\n<p>$$S = {10^{ - 4}}\\,M = 1 \\times {10^{ - 14}}\\,M$$</p>\n<p>Hence, option (D) is correct.</p>\n<p>MX > M$$_3$$X > MX$$_2$$</p>"
+    },
+    {
+      "_type": "numerical",
+      "body": "An acidified solution of 0.05 M Zn<sup>2+</sup> is saturated with 0.1 M H<sub>2</sub>S. What is the minimum molar concentration (M) of H<sup>+</sup> required to prevent the precipitation of ZnS?<br><br>Use K<sub>sp</sub>(ZnS) = 1.25 $$ \\times $$ 10<sup>$$-$$22</sup> and overall dissociation constant of <br><br>H<sub>2</sub>S, K<sub>net</sub> = K<sub>1</sub>K<sub>2</sub> = 1 $$ \\times $$ 10<sup>-21</sup>.",
+      "answer": "0.2",
+      "explanation": "$$ZnS(s)\\buildrel {} \\over\n \\longrightarrow \\mathop {Z{n^{2 + }}(aq)}\\limits_{(0.05\\,M)}  + {S^{2 - }}(aq)$$<br><br>$${K_{sp}}(ZnS) = [Z{n^{2 + }}][{S^{2 - }}] = 1.25 \\times {10^{ - 22}}$$<br><br>$$0.05 \\times [{S^{2 - }}] = 1.25 \\times {10^{ - 22}}$$<br><br>$$ \\Rightarrow [{S^{2 - }}] = {{1.25 \\times {{10}^{ - 22}}} \\over {0.05}} \\Rightarrow 25 \\times {10^{ - 22}}M$$<br><br>For H<sub>2</sub>S, $$\\mathop {{H_2}S}\\limits_{(0.1M)} \\buildrel {} \\over\n \\longrightarrow 2{H^ + } + \\mathop {{S^{ - 2}}}\\limits_{(25 \\times {{10}^{ - 22}}M)} $$<br><br>$${K_{net}} = 1 \\times {10^{ - 21}} = {{{{[{H^ + }]}^2}[{S^{2 - }}]} \\over {[{H_2}S]}}$$<br><br>$$1 \\times {10^{ - 21}} = {{{{[{H^ + }]}^2} \\times 25 \\times {{10}^{ - 22}}} \\over {[0.1]}}$$<br><br>$${[{H^ + }]^2} = {1 \\over {25}}$$<br><br>$$[{H^ + }] = {1 \\over 5} = 0.2M$$"
+    },
+    {
+      "_type": "numerical",
+      "body": "Amongst the following the total number of compounds whose aqueous solution turns red litmus paper blue is<br>\nKCN, K<sub>2</sub>SO<sub>4</sub>, (NH<sub>4</sub>)<sub>2</sub>C<sub>2</sub>O<sub>4</sub>, NaCl, Zn(NO<sub>3</sub>)<sub>2</sub>, FeCl<sub>3</sub>, K<sub>2</sub>CO<sub>3</sub>, NH<sub>4</sub>NO<sub>3</sub> and LiCN ",
+      "answer": "3",
+      "explanation": ""
+    }
+  ]
+}

@@ -19,17 +19,11 @@ CREATE TABLE chapters (
     FOREIGN KEY (subject_id) REFERENCES subjects(id) ON DELETE CASCADE
 );
 
-CREATE TABLE question_answers (
-    id TEXT PRIMARY KEY NOT NULL,
-    chapter_id TEXT NOT NULL,
-    body TEXT NOT NULL UNIQUE,
-    FOREIGN KEY (chapter_id) REFERENCES chapters(id) ON DELETE CASCADE
-);
-
 CREATE TABLE single_mcqs (
     id TEXT PRIMARY KEY NOT NULL,
     chapter_id TEXT NOT NULL,
-    body TEXT NOT NULL UNIQUE,
+    body TEXT NOT NULL,
+	answer TEXT NOT NULL,
     FOREIGN KEY (chapter_id) REFERENCES chapters(id) ON DELETE CASCADE
 );
 
@@ -41,3 +35,10 @@ CREATE TABLE single_mcq_options (
     FOREIGN KEY (single_mcq_id) REFERENCES single_mcqs(id) ON DELETE CASCADE
 );
 
+CREATE TABLE numericals (
+    id TEXT PRIMARY KEY NOT NULL,
+    chapter_id TEXT NOT NULL,
+    body TEXT NOT NULL,
+	answer TEXT NOT NULL,
+    FOREIGN KEY (chapter_id) REFERENCES chapters(id) ON DELETE CASCADE
+);

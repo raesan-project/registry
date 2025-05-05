@@ -1,0 +1,2401 @@
+{
+  "_index": {
+    "name": "Geometrical Optics"
+  },
+  "_children": [
+    {
+      "_type": "single_mcq",
+      "body": "<p>A convex lens of focal length 30 cm is placed in contact with a concave lens of focal length 20 cm. An object is placed at 20 cm to the left of this lens system. The distance of the image from the lens in cm is ________.</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "<p>$ \\frac{60}{7} $</p>"
+        },
+        {
+          "key": "B",
+          "value": "<p>15</p>"
+        },
+        {
+          "key": "C",
+          "value": "<p>45</p>"
+        },
+        {
+          "key": "D",
+          "value": "<p>30</p>"
+        }
+      ],
+      "answer": "B",
+      "explanation": "<p>Equivalent focal length</p>\n<p>$$\\begin{aligned}\n& \\frac{1}{\\mathrm{f}}=\\frac{1}{\\mathrm{f}_1}+\\frac{1}{\\mathrm{f}_2} \\\\\n& =\\frac{1}{30}+\\frac{1}{-20}=\\frac{2-3}{60}=-\\frac{1}{60} \\\\\n& \\mathrm{f}=-60 \\mathrm{~cm}\n\\end{aligned}$$</p>\n<p>Lens formula</p>\n<p>$$\\begin{aligned}\n& \\frac{1}{\\mathrm{v}}-\\frac{1}{\\mathrm{u}}=\\frac{1}{\\mathrm{f}} \\\\\n& \\frac{1}{\\mathrm{v}}-\\frac{1}{-20}=\\frac{1}{-60} \\\\\n& \\mathrm{v}=-15 \\mathrm{~cm}\n\\end{aligned}$$</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Given below are two statements: one is labelled as <b>Assertion (A)</b> and the other is labelled as <b>Reason (R)</b>.</p><p><b>Assertion (A):</b> Refractive index of glass is higher than that of air.</p><p><b>Reason (R):</b> Optical density of a medium is directly proportionate to its mass density which results in a proportionate refractive index.</p><p>In the light of the above statements, choose the <b>most appropriate answer</b> from the options given below:</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "<p>Both (A) and (R) are correct and (R) is the correct explanation of (A)</p>"
+        },
+        {
+          "key": "B",
+          "value": "<p>(A) is correct but (R) is not correct</p>"
+        },
+        {
+          "key": "C",
+          "value": "<p>(A) is not correct but (R) is correct</p>"
+        },
+        {
+          "key": "D",
+          "value": "<p>Both (A) and (R) are correct but (R) is <b>not</b> the correct explanation of (A)</p>"
+        }
+      ],
+      "answer": "B",
+      "explanation": "<p>Refractive index has no relation with mass density because both have different meaning. Hence reason is incorrect.</p>\n<p>So (A) is correct but (R) is not correct.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>A mirror is used to produce an image with magnification of $\\frac{1}{4}$. If the distance between object and its image is 40 cm, then the focal length of the mirror is ________.</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "<p>10 cm</p>"
+        },
+        {
+          "key": "B",
+          "value": "<p>12.7 cm</p>"
+        },
+        {
+          "key": "C",
+          "value": "<p>10.7 cm</p>"
+        },
+        {
+          "key": "D",
+          "value": "<p>15 cm</p>"
+        }
+      ],
+      "answer": "C",
+      "explanation": "<p><p><strong>Magnification (m):</strong>  </p>\n<p>The magnification is given by the relationship:  </p>\n<p>$    m = \\frac{1}{4} = \\frac{v}{u}    $  </p>\n<p>Rearrange to find the object distance (u) in terms of the image distance (v):  </p>\n<p>$    u = 4v    $</p></p>\n<p><p><strong>Distance between object and image:</strong>  </p>\n<p>It is given that the sum of the object distance and the image distance is 40 cm:  </p>\n<p>$    v + u = 40    $  </p>\n<p>Substituting $ u = 4v $ into the equation gives:  </p>\n<p>$    v + 4v = 40    $  </p>\n<p>$    5v = 40    $  </p>\n<p>Solving for $ v $ gives:  </p>\n<p>$    v = 8 \\, \\text{cm}    $</p></p>\n<p><p><strong>Find the object distance (u):</strong>  </p>\n<p>Substitute $ v = 8 \\, \\text{cm} $ back into $ u = 4v $:  </p>\n<p>$    u = 4 \\times 8 = 32 \\, \\text{cm}    $</p></p>\n<p><p><strong>Calculate the focal length (f):</strong>  </p>\n<p>Use the mirror formula:  </p>\n<p>$    \\frac{1}{v} + \\frac{1}{u} = \\frac{1}{f}    $  </p>\n<p>Substituting the values of $ v $ and $ u $:  </p>\n<p>$    \\frac{1}{8} + \\frac{1}{32} = \\frac{1}{f}    $  </p>\n<p>Simplify and solve for $ \\frac{1}{f} $:  </p>\n<p>$    \\frac{1}{8} - \\frac{1}{32} = \\frac{1}{f}    $  </p>\n<p>$    \\frac{4 - 1}{32} = \\frac{1}{f}    $  </p>\n<p>$    \\frac{3}{32} = \\frac{1}{f}    $  </p>\n<p>Therefore, the focal length is:  </p>\n<p>$    f = \\frac{32}{3} = 10.7 \\, \\text{cm}    $</p></p>\n"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Two thin convex lenses of focal lengths 30 cm and 10 cm are placed coaxially, 10 cm apart. The power of this combination is:</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "5 D"
+        },
+        {
+          "key": "B",
+          "value": "1 D"
+        },
+        {
+          "key": "C",
+          "value": "20 D"
+        },
+        {
+          "key": "D",
+          "value": "10 D"
+        }
+      ],
+      "answer": "D",
+      "explanation": "<p>To find the power of a combination of two thin convex lenses, we use the formula for the equivalent focal length $ f_{\\text{eq}} $ of the lens system when the lenses are placed coaxially with a certain distance $ d $ between them:</p>\n<p>$ \\frac{1}{f_{\\text{eq}}} = \\frac{1}{f_1} + \\frac{1}{f_2} - \\frac{d}{f_1 f_2} $</p>\n<p>Given:</p>\n\n<p><p>$ f_1 = 30 \\, \\text{cm} $ </p></p>\n<p><p>$ f_2 = 10 \\, \\text{cm} $</p></p>\n<p><p>$ d = 10 \\, \\text{cm} $ (distance between the two lenses)</p></p>\n\n<p>First, convert the focal lengths from centimeters to meters:</p>\n\n<p><p>$ f_1 = 0.3 \\, \\text{m} $</p></p>\n<p><p>$ f_2 = 0.1 \\, \\text{m} $</p></p>\n\n<p>Plug in the values into the equation:</p>\n<p>$ \\frac{1}{f_{\\text{eq}}} = \\frac{1}{0.3} + \\frac{1}{0.1} - \\frac{0.1}{(0.3)(0.1)} $</p>\n<p>Calculate each term:</p>\n<p>$ \\frac{1}{0.3} = \\frac{10}{3} \\approx 3.33 $</p>\n<p>$ \\frac{1}{0.1} = 10 $</p>\n<p>$ \\frac{0.1}{(0.3)(0.1)} = \\frac{0.1}{0.03} = \\frac{10}{3} \\approx 3.33 $</p>\n<p>Substitute these calculated values back into the formula:</p>\n<p>$ \\frac{1}{f_{\\text{eq}}} = 3.33 + 10 - 3.33 $</p>\n<p>$ \\frac{1}{f_{\\text{eq}}} = 10 $</p>\n<p>Thus, the power of the lens combination is:</p>\n<p>$ \\text{Power} = \\frac{1}{f_{\\text{eq}}} = 10 \\, \\text{D} $</p>\n<p>Therefore, the power of the lens system is 10 diopters (D).</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>A lens having refractive index 1.6 has focal length of 12 cm , when it is in air. Find the focal length of the lens when it is placed in water.\n(Take refractive index of water as 1.28)</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": " 355 mm\n"
+        },
+        {
+          "key": "B",
+          "value": " 655 mm\n"
+        },
+        {
+          "key": "C",
+          "value": " 288 mm\n"
+        },
+        {
+          "key": "D",
+          "value": " 555 mm"
+        }
+      ],
+      "answer": "C",
+      "explanation": "<p>To find the focal length of a lens with a refractive index of 1.6 when placed in water, given that its focal length in air is 12 cm and the refractive index of water is 1.28, we can use the lens maker's formula:</p>\n<p>$ \\frac{1}{f} = \\left(\\frac{\\mu_L}{\\mu_m} - 1\\right) \\left(\\frac{1}{R_1} - \\frac{1}{R_2}\\right) $</p>\n<p>When the lens is in air, the refractive index of the medium, $\\mu_m$, is 1. Therefore, for the lens in air:</p>\n<p>$ \\frac{1}{12} = (1.6 - 1) \\left(\\frac{1}{R_1} - \\frac{1}{R_2}\\right) $</p>\n<p>Simplifying gives:</p>\n<p>$ \\frac{1}{12} = \\frac{6}{10} \\left(\\frac{1}{R_1} - \\frac{1}{R_2}\\right) $</p>\n<p>Solving for $\\left(\\frac{1}{R_1} - \\frac{1}{R_2}\\right)$:</p>\n<p>$ \\frac{1}{R_1} - \\frac{1}{R_2} = \\frac{10}{72} $</p>\n<p>Now, when the lens is placed in water, $\\mu_m = 1.28$. Substituting into the equation gives:</p>\n<p>$ \\frac{1}{f} = \\left(\\frac{1.6}{1.28} - 1\\right) \\left(\\frac{10}{72}\\right) $</p>\n<p>Calculating each part:</p>\n<p>$ \\frac{1}{f} = \\frac{32}{128} \\times \\frac{10}{72} $</p>\n<p>$ \\frac{1}{f} = \\frac{1}{4} \\times \\frac{10}{72} $</p>\n<p>Hence, solving for $f$:</p>\n<p>$ f = 28.8 \\, \\text{cm} = 288 \\, \\text{mm} $</p>\n<p>Thus, the focal length of the lens in water is 288 mm.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>When an object is placed 40 cm away from a spherical mirror an image of magnification $\\frac{1}{2}$ is produced. To obtain an image with magnification of $\\frac{1}{3}$, the object is to be moved :</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": " 20 cm away from the mirror.\n"
+        },
+        {
+          "key": "B",
+          "value": " 20 cm towards the mirror.\n"
+        },
+        {
+          "key": "C",
+          "value": " 80 cm away from the mirror.\n"
+        },
+        {
+          "key": "D",
+          "value": " 40 cm away from the mirror."
+        }
+      ],
+      "answer": "D",
+      "explanation": "<p>To solve this problem, start by using the magnification formula for spherical mirrors:</p>\n<p>$ m = \\frac{f}{f - u} $</p>\n<p>Given that the initial magnification $ m = \\frac{1}{2} $, and the object distance $ u = -40 $ cm (the negative sign indicates distance measured against the incoming light), we can write:</p>\n<p>$ \\frac{1}{2} = \\frac{f}{f - (-40)} $</p>\n<p>This simplifies to:</p>\n<p>$ \\frac{1}{2} = \\frac{f}{f + 40} $</p>\n<p>Cross-multiplying gives:</p>\n<p>$ f + 40 = 2f $</p>\n<p>This leads to:</p>\n<p>$ f = 40 \\text{ cm} $</p>\n<p>To find the new object distance for a magnification of $ m = \\frac{1}{3} $, we use the same formula:</p>\n<p>$ m = \\frac{f}{f - u} $</p>\n<p>Substitute the known values:</p>\n<p>$ \\frac{1}{3} = \\frac{40}{40 - u} $</p>\n<p>Cross-multiplying gives:</p>\n<p>$ 40 - u = 120  $</p>\n<p>Solving for $ u $ results in:</p>\n<p>$ u = -80 \\text{ cm} $</p>\n<p>Thus, the object needs to be placed 80 cm from the mirror, opposite to the initial placement of 40 cm. To achieve this repositioning, the object needs to be moved 40 cm further from its initial 40 cm distance, totaling a move of 40 cm away from the mirror.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Consider following statements for refraction of light through prism, when angle of deviation is minimum.</p>\n<p>A. The refracted ray inside prism becomes parallel to the base.</p>\n<p>B. Larger angle prisms provide smaller angle of minimum deviation.</p>\n<p>C. Angle of incidence and angle of emergence becomes equal.</p>\n<p>D. There are always two sets of angle of incidence for which deviation will be same except at minimum deviation setting.</p>\n<p>E. Angle of refraction becomes double of prism angle.</p>\n<p>Choose the correct answer from the options given below :</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": " A, B and E Only\n"
+        },
+        {
+          "key": "B",
+          "value": "B, C and D Only\n"
+        },
+        {
+          "key": "C",
+          "value": " B, D and E Only\n"
+        },
+        {
+          "key": "D",
+          "value": "A, C and D Only"
+        }
+      ],
+      "answer": "D",
+      "explanation": "<p>$$\\delta=\\mathrm{I}+\\mathrm{e}-\\mathrm{A}$$</p>\n<p>For $\\delta_{\\text {min }} \\Rightarrow \\mathrm{I}=\\mathrm{e}$ and refracted ray is parallel to base</p>\n<p>$\\mathrm{A}, \\mathrm{C}, \\mathrm{D}$ are correct</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The radii of curvature for a thin convex lens are 10 cm and 15 cm respectively. The focal length of the lens is 12 cm . The refractive index of the lens material is\n",
+      "options": [
+        {
+          "key": "A",
+          "value": "1.4\n"
+        },
+        {
+          "key": "B",
+          "value": " 1.8\n"
+        },
+        {
+          "key": "C",
+          "value": " 1.5\n"
+        },
+        {
+          "key": "D",
+          "value": "1.2"
+        }
+      ],
+      "answer": "C",
+      "explanation": "<p>$$\\begin{aligned}\n& \\frac{1}{\\mathrm{f}}=(\\mu-1)\\left(\\frac{1}{\\mathrm{R}_1}-\\frac{1}{\\mathrm{R}_2}\\right) \\\\\n& \\frac{1}{12}=(\\mu-1)\\left(\\frac{1}{10}-\\frac{1}{-15}\\right) \\\\\n& \\frac{1}{12}=(\\mu-1)\\left(\\frac{3+2}{30}\\right) \\\\\n& \\mu=\\frac{3}{2}\n\\end{aligned}$$</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Two identical objects are placed in front of convex mirror and concave mirror having same radii of curvature of 12 cm , at same distance of 18 cm from the respective mirrors. The ratio of sizes of the images formed by convex mirror and by concave mirror is :\n",
+      "options": [
+        {
+          "key": "A",
+          "value": " 2\n"
+        },
+        {
+          "key": "B",
+          "value": " $1 / 2$\n"
+        },
+        {
+          "key": "C",
+          "value": "$1 / 3$\n"
+        },
+        {
+          "key": "D",
+          "value": "3"
+        }
+      ],
+      "answer": "B",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A bi-convex lens has radius of curvature of both the surfaces same as $1 / 6 \\mathrm{~cm}$. If this lens is required to be replaced by another convex lens having different radii of curvatures on both sides $\\left(R_1 \\neq R_2\\right)$, without any change in lens power then possible combination of $R_1$ and $R_2$ is :\n",
+      "options": [
+        {
+          "key": "A",
+          "value": "$\\frac{1}{3} \\mathrm{~cm}$ and $\\frac{1}{7} \\mathrm{~cm}$\n"
+        },
+        {
+          "key": "B",
+          "value": "$\\frac{1}{5} \\mathrm{~cm}$ and $\\frac{1}{7} \\mathrm{~cm}$\n"
+        },
+        {
+          "key": "C",
+          "value": " $\\frac{1}{3} \\mathrm{~cm}$ and $\\frac{1}{3} \\mathrm{~cm}$\n"
+        },
+        {
+          "key": "D",
+          "value": "$\\frac{1}{6} \\mathrm{~cm}$ and $\\frac{1}{9} \\mathrm{~cm}$"
+        }
+      ],
+      "answer": "B",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>A convex lens made of glass (refractive index = 1.5) has focal length 24 cm in air. When it is totally immersed in water (refractive index = 1.33), its focal length changes to</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "<p>96 cm</p>"
+        },
+        {
+          "key": "B",
+          "value": "<p>72 cm</p>"
+        },
+        {
+          "key": "C",
+          "value": "<p>24 cm</p>"
+        },
+        {
+          "key": "D",
+          "value": "<p>48 cm</p>"
+        }
+      ],
+      "answer": "A",
+      "explanation": "<p>Using lens formula,</p>\n<p>For Ist case : $${1 \\over f} = \\left( {{a^{{\\mu _g}}} - 1} \\right)\\left( {{1 \\over {{R_1}}} - {1 \\over {{R_2}}}} \\right)$$</p>\n<p>where, $${R_1},{R_2}$$ = radii of refracting surfaces</p>\n<p>$f$ = focal length</p>\n<p>$${a^{{\\mu _g}}} = {{^{{\\mu _g}}} \\over {^{{\\mu _a}}}} = {{1.5} \\over 1} = 1.5$$</p>\n<p>So, $${1 \\over {24}} = (1.5 - 1)\\left( {{1 \\over {{R_1}}} - {1 \\over {{R_2}}}} \\right)$$ (As f = 24 cm given)</p>\n<p>$$ \\Rightarrow {1 \\over {24}} = 0.5\\left( {{1 \\over {{R_1}}} - {1 \\over {{R_2}}}} \\right)$$</p>\n<p>$$ \\Rightarrow {1 \\over {12}} = \\left( {{1 \\over {{R_1}}} - {1 \\over {{R_2}}}} \\right)$$</p>\n<p>$$ \\Rightarrow {1 \\over {{R_1}}} - {1 \\over {{R_2}}} = {1 \\over {12}}$$ .... (i)</p>\n<p>For IInd case:</p>\n<p>$${1 \\over f} = \\left( {w{\\mu _g} - 1} \\right)\\left( {{1 \\over {{R_1}}} - {1 \\over {{R_2}}}} \\right)$$</p>\n<p>$$ \\Rightarrow {1 \\over f} = \\left( {{{1.5} \\over {1.33}} - 1} \\right)\\left( {{1 \\over {12}}} \\right)$$ ..... from (i)</p>\n<p>$$ \\Rightarrow {1 \\over f} = {{17} \\over {133}} \\times {1 \\over {12}} \\Rightarrow f = {{133 \\times 12} \\over {17}}$$</p>\n<p>$$ \\Rightarrow f = 93.88$$ cm</p>\n<p>$\\approx$ 94 cm</p>\n<p>Hence, option 1 is correct.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>A thin prism $\\mathrm{P}_1$ with angle $4^{\\circ}$ made of glass having refractive index 1.54 , is combined with another thin prism $\\mathrm{P}_2$ made of glass having refractive index 1.72 to get dispersion without deviation. The angle of the prism $\\mathrm{P}_2$ in degrees is</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "1.5"
+        },
+        {
+          "key": "B",
+          "value": "16/3"
+        },
+        {
+          "key": "C",
+          "value": "3"
+        },
+        {
+          "key": "D",
+          "value": "4"
+        }
+      ],
+      "answer": "C",
+      "explanation": "<p>We know, for thin prism,</p>\n<p>$$\\mu  = {{A + \\delta } \\over A}$$</p>\n<p>where, $\\mu$ = refractive index</p>\n<p>A = Angle of prism</p>\n<p>$\\delta$ = Angle of deviation</p>\n<p>We can write, $$\\mu A = A + \\delta $$</p>\n<p>$$ \\Rightarrow \\delta  = (\\mu  - 1)A$$</p>\n<p>given, $${\\delta _{net}} = 0$$</p>\n<p>$$ \\Rightarrow ({\\mu _1} - 1){A_1} - ({\\mu _2} - 1){A_2} = 0$$</p>\n<p>$$ \\Rightarrow (1.54 - 1)4 - (1.72 - 1){A_2} = 0$$</p>\n<p>$$ \\Rightarrow {A_2} = {{54 \\times 4} \\over {72}} \\Rightarrow {A_2} = 3^\\circ $$</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>What is the relative decrease in focal length of a lens for an increase in optical power by 0.1 D from 2.5D ? ['D' stands for dioptre]</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "0.04"
+        },
+        {
+          "key": "B",
+          "value": "0.1"
+        },
+        {
+          "key": "C",
+          "value": "0.40"
+        },
+        {
+          "key": "D",
+          "value": "0.01"
+        }
+      ],
+      "answer": "A",
+      "explanation": "<p>$$ P_1 = 2.5\\,D,\\quad f_1 = \\frac{1}{P_1} = \\frac{1}{2.5} = 0.4\\,m $$</p>\n<p>After an increase in optical power by 0.1 D:</p>\n<p>$$ P_2 = 2.5\\,D + 0.1\\,D = 2.6\\,D,\\quad f_2 = \\frac{1}{P_2} = \\frac{1}{2.6} \\approx 0.3846\\,m $$</p>\n<p>The change in focal length is:</p>\n<p>$$ \\Delta f = f_1 - f_2 = 0.4\\,m - 0.3846\\,m \\approx 0.0154\\,m $$</p>\n<p>The relative decrease in focal length is then calculated as:</p>\n<p>$$ \\text{Relative decrease} = \\frac{\\Delta f}{f_1} = \\frac{0.0154}{0.4} \\approx 0.0385 \\approx 0.04 $$</p>\n<p>Thus, the relative decrease in focal length is approximately <strong>0.04</strong>.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>A thin plano convex lens made of glass of refractive index 1.5 is immersed in a liquid of refractive index 1.2. When the plane side of the lens is silver coated for complete reflection, the lens immersed in the liquid behaves like a concave mirror of focal length 0.2 m . The radius of curvature of the curved surface of the lens is</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "0.15 m\n"
+        },
+        {
+          "key": "B",
+          "value": "0.10 m\n"
+        },
+        {
+          "key": "C",
+          "value": "0.25 m\n"
+        },
+        {
+          "key": "D",
+          "value": "0.20 m"
+        }
+      ],
+      "answer": "B",
+      "explanation": "<p>$$ \\frac{1}{f} = \\frac{2(n_2 - n_1)}{n_1 R} $$</p>\n<p>For a thin plano‑convex lens made of glass (refractive index $$n_2 = 1.5$$) immersed in a liquid (refractive index $$n_1 = 1.2$$), when the plane side is silver‐coated, a ray entering the curved surface from the liquid is refracted into the glass, reflects off the coated plane (thereby reversing its direction) and finally refracts back into the liquid at the same curved surface. In the paraxial approximation the net effect is equivalent to a mirror in the liquid with an effective focal length $$f$$.</p>\n<p>A ray that is incident parallel to the optical axis (at height $$h$$) will, after this combined refraction–reflection–refraction process, emerge with an angular deviation corresponding to a mirror having a power given by:</p>\n<p>$$ \\frac{h}{f} = \\frac{2(n_2 - n_1)}{n_1R}\\, h\\,. $$</p>\n<p>This gives the relation:</p>\n<p>$$ \\frac{1}{f} = \\frac{2(n_2 - n_1)}{n_1 R}\\,. $$</p>\n<p>Given that the effective focal length is $$f = 0.2\\,\\text{m}$$, substitute the values:</p>\n<p>$$ \\frac{1}{0.2} = \\frac{2(1.5 - 1.2)}{1.2\\,R}\\,. $$</p>\n<p>Simplify the numerator:</p>\n<p>$$ \\frac{1}{0.2} = \\frac{2(0.3)}{1.2\\,R} = \\frac{0.6}{1.2\\,R}\\,. $$</p>\n<p>Since</p>\n<p>$$ \\frac{0.6}{1.2} = 0.5, $$</p>\n<p>the equation becomes:</p>\n<p>$$ 5 = \\frac{0.5}{R}\\,. $$</p>\n<p>Solving for $$R$$:</p>\n<p>$$ R = \\frac{0.5}{5} = 0.10\\,\\text{m}\\,. $$</p>\n<p>Thus, the radius of curvature of the curved surface of the lens is $$0.10\\,\\text{m}$$.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>A plano-convex lens having radius of curvature of first surface 2 cm exhibits focal length of $f_1$ in air. Another plano-convex lens with first surface radius of curvature 3 cm has focal length of $f_2$ when it is immersed in a liquid of refractive index 1.2. If both the lenses are made of same glass of refractive index 1.5 , the ratio of $f_1$ and $f_2$ will be</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "$2: 3$\n"
+        },
+        {
+          "key": "B",
+          "value": "$1: 3$\n"
+        },
+        {
+          "key": "C",
+          "value": "$1: 2$\n"
+        },
+        {
+          "key": "D",
+          "value": "$3: 5$"
+        }
+      ],
+      "answer": "B",
+      "explanation": "<p>$$ \\frac{1}{f} = \\left(\\frac{n}{n'} - 1\\right)\\left(\\frac{1}{R_1} - \\frac{1}{R_2}\\right) $$</p>\n<p>For a thin plano-convex lens, one surface is flat, meaning $$R_2 = \\infty$$ and $$\\frac{1}{R_2} = 0.$$ The formula reduces to:</p>\n<p>$$ \\frac{1}{f} = \\left(\\frac{n}{n'} - 1\\right)\\frac{1}{R_1} $$</p>\n<p>Thus, the focal length is:</p>\n<p>$$ f = \\frac{R_1}{\\left(\\frac{n}{n'} - 1\\right)} $$</p>\n<h3>For the First Lens (in Air)</h3>\n\n<p><p>Refractive index of lens, $$n = 1.5$$</p></p>\n<p><p>Surrounding medium (air), $$n' = 1$$</p></p>\n<p><p>Radius of curvature, $$R_1 = 2 \\text{ cm}$$</p></p>\n\n<p>Substitute into the formula:</p>\n<p>$$ f_1 = \\frac{2}{\\left(\\frac{1.5}{1} - 1\\right)} = \\frac{2}{(1.5 - 1)} = \\frac{2}{0.5} = 4 \\text{ cm} $$</p>\n<h3>For the Second Lens (in Liquid)</h3>\n\n<p><p>Refractive index of lens, $$n = 1.5$$</p></p>\n<p><p>Surrounding medium (liquid), $$n' = 1.2$$</p></p>\n<p><p>Radius of curvature, $$R_1 = 3 \\text{ cm}$$</p></p>\n\n<p>Substitute into the formula:</p>\n<p>$$ f_2 = \\frac{3}{\\left(\\frac{1.5}{1.2} - 1\\right)} $$</p>\n<p>First, calculate the term inside the parentheses:</p>\n<p>$$ \\frac{1.5}{1.2} = 1.25 \\quad \\Rightarrow \\quad 1.25 - 1 = 0.25 $$</p>\n<p>Now, compute $$f_2$$:</p>\n<p>$$ f_2 = \\frac{3}{0.25} = 12 \\text{ cm} $$</p>\n<h3>Ratio of the Focal Lengths</h3>\n<p>$$ \\frac{f_1}{f_2} = \\frac{4}{12} = \\frac{1}{3} $$</p>\n<p>Thus, the ratio of $$f_1$$ to $$f_2$$ is:</p>\n<p>$$ 1 : 3 $$</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>A concave mirror of focal length $f$ in air is dipped in a liquid of refractive index $\\mu$. Its focal length in the liquid will be:</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "$\\mu f$\n"
+        },
+        {
+          "key": "B",
+          "value": "$f$\n"
+        },
+        {
+          "key": "C",
+          "value": "$\\frac{f}{\\mu}$\n"
+        },
+        {
+          "key": "D",
+          "value": "$\\frac{f}{(\\mu-1)}$"
+        }
+      ],
+      "answer": "B",
+      "explanation": "<p>When a concave mirror is dipped in a liquid, its focal length is still determined by the geometry of the mirror. For a spherical concave mirror, the focal length is given by</p>\n<p>$$ f = \\frac{R}{2} $$</p>\n<p>where $$ R $$ is the radius of curvature of the mirror. This derivation comes solely from geometrical considerations and the law of reflection, which states that the angle of incidence equals the angle of reflection. Since reflection is independent of the medium in which the mirror is immersed, the focal length remains unchanged.</p>\n<p>Thus, even when the mirror is in a liquid of refractive index $$ \\mu $$, its focal length is still</p>\n<p>$$ f. $$</p>\n<p>The correct answer is <strong>Option B: $$ f $$</strong>.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>The refractive index of the material of a glass prism is $\\sqrt{3}$. The angle of minimum deviation is equal to the angle of the prism. What is the angle of the prism?</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "$60^{\\circ}$\n"
+        },
+        {
+          "key": "B",
+          "value": "$50^{\\circ}$\n"
+        },
+        {
+          "key": "C",
+          "value": "$58^{\\circ}$\n"
+        },
+        {
+          "key": "D",
+          "value": "$48^{\\circ}$"
+        }
+      ],
+      "answer": "A",
+      "explanation": "<p>$$ \\textbf{Step 1: Symmetry at Minimum Deviation} $$</p>\n<p>In a prism, when the deviation is minimum, the path of light is symmetric. This means that the angle of incidence ($i$) is equal to the angle of emergence ($i'$), and the light inside the prism makes equal angles with the prism faces. If the prism angle is $$A$$, then the refracted angle at each interface is:</p>\n<p>$$ r = \\frac{A}{2} $$</p>\n<p>$$ \\textbf{Step 2: Relating Deviation to the Angles} $$</p>\n<p>The formula for the deviation ($D$) in a prism is given by:</p>\n<p>$$ D = i + i' - A $$</p>\n<p>At minimum deviation, $$i = i'$$, so:</p>\n<p>$$ D_{\\text{min}} = 2i - A $$</p>\n<p>The special condition given is that the minimum deviation is equal to the prism angle:</p>\n<p>$$ D_{\\text{min}} = A $$</p>\n<p>Thus:</p>\n<p>$$ A = 2i - A \\quad \\Longrightarrow \\quad 2i = 2A \\quad \\Longrightarrow \\quad i = A $$</p>\n<p>$$ \\textbf{Step 3: Applying Snell's Law} $$</p>\n<p>At the first surface, Snell's law gives:</p>\n<p>$$ \\sin i = \\mu \\sin r $$</p>\n<p>Substitute the values $$i = A$$ and $$r = \\frac{A}{2}$$:</p>\n<p>$$ \\sin A = \\mu \\sin\\frac{A}{2} $$</p>\n<p>Given that the refractive index $$\\mu = \\sqrt{3}$$, we have:</p>\n<p>$$ \\sin A = \\sqrt{3} \\sin\\frac{A}{2} $$</p>\n<p>$$ \\textbf{Step 4: Solving the Equation} $$</p>\n<p>Recall the double-angle formula for sine:</p>\n<p>$$ \\sin A = 2 \\sin\\frac{A}{2} \\cos\\frac{A}{2} $$</p>\n<p>Substitute this into the previous equation:</p>\n<p>$$ 2 \\sin\\frac{A}{2} \\cos\\frac{A}{2} = \\sqrt{3} \\sin\\frac{A}{2} $$</p>\n<p>Assuming $$\\sin\\frac{A}{2} \\neq 0$$, we can divide both sides by $$\\sin\\frac{A}{2}$$:</p>\n<p>$$ 2 \\cos\\frac{A}{2} = \\sqrt{3} $$</p>\n<p>Solve for $$\\cos\\frac{A}{2}$$:</p>\n<p>$$ \\cos\\frac{A}{2} = \\frac{\\sqrt{3}}{2} $$</p>\n<p>Since:</p>\n<p>$$ \\cos 30^\\circ = \\frac{\\sqrt{3}}{2} $$</p>\n<p>It follows:</p>\n<p>$$ \\frac{A}{2} = 30^\\circ \\quad \\Longrightarrow \\quad A = 60^\\circ $$</p>\n<p>$$ \\textbf{Final Answer:} $$</p>\n<p>The angle of the prism is $$60^\\circ$$.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>What is the lateral shift of a ray refracted through a parallel-sided glass slab of thickness ' $h$ ' in terms of the angle of incidence ' $i$ ' and angle of refraction ' $r$ ', if the glass slab is placed in air medium?</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "$\\mathrm{h}$\n"
+        },
+        {
+          "key": "B",
+          "value": "$\\frac{h \\cos (i-r)}{\\sin r}$\n"
+        },
+        {
+          "key": "C",
+          "value": "$\\frac{\\mathrm{h} \\tan (\\mathrm{i}-\\mathrm{r})}{\\tan \\mathrm{r}}$\n"
+        },
+        {
+          "key": "D",
+          "value": "$\\frac{h \\sin (i-r)}{\\cos r}$"
+        }
+      ],
+      "answer": "D",
+      "explanation": "<p>We can derive the lateral shift (d) by considering the geometry of a ray entering a parallel-sided slab. Here’s a step‐by‐step explanation:</p>\n\n<p><p>The slab has a thickness $$h$$ (measured perpendicular to the surfaces). When the ray enters the glass from air at angle $$i$$ (with respect to the normal), it refracts inside and makes an angle $$r$$.</p></p>\n<p><p>Inside the slab, the ray travels a distance </p>\n<p>$$L = \\frac{h}{\\cos r}$$</p>\n<p>because the vertical component of the path must cover a distance $$h$$.</p></p>\n<p><p>The ray inside the slab is shifted laterally (parallel to the surface). Its lateral displacement over the distance $$L$$ is</p>\n<p>$$L \\sin r = \\frac{h \\sin r}{\\cos r}.$$</p></p>\n<p><p>However, the emergent ray is parallel to the incident ray but not collinear. By constructing the appropriate geometry (extending the emergent ray backwards until it meets the incident ray's extension at the top interface), you find that the lateral shift between the incident ray and the emergent ray is given by</p>\n<p>$$d = \\frac{h \\sin(i - r)}{\\cos r}.$$</p></p>\n\n<p>This expression correctly accounts for both the refraction inside the slab and the geometry of the displacement.</p>\n<p>Thus, the correct answer is:</p>\n<p>Option D: $$\\frac{h \\sin (i-r)}{\\cos r}.$$</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>A spherical surface of radius of curvature $R$, separates air from glass (refractive index $=1.5$ ). The centre of curvature is in the glass medium. A point object ' $O$ ' placed in air on the optic axis of the surface, so that its real image is formed at 'I' inside glass. The line OI intersects the spherical surface at $P$ and $P O=P I$. The distance $P O$ equals to</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "5R"
+        },
+        {
+          "key": "B",
+          "value": "2R"
+        },
+        {
+          "key": "C",
+          "value": "1.5R"
+        },
+        {
+          "key": "D",
+          "value": "3R"
+        }
+      ],
+      "answer": "A",
+      "explanation": "<p>We wish to find the distance from the point where the ray joining the object (O) and its image (I) meets the spherical surface (P) to the object. The given condition is that</p>\n<p>  $$PO = PI,$$</p>\n<p>meaning that P is the midpoint of OI.</p>\n<p>Let’s work through the steps:</p>\n\n<p><p>Setup the coordinate system and geometry:</p>\n<p> • Choose the vertex of the spherical surface (the “pole”) as the origin (x = 0).  </p>\n<p> • Let the optical axis be the x‑axis.  </p>\n<p> • Since the object is in air, place O at x = –u (with u &gt; 0).  </p>\n<p> • Since the real image is formed inside the glass, place I at x = v (with v &gt; 0).  </p>\n<p> • The spherical surface has radius of curvature $$R$$ and its center of curvature is in the glass. Thus, we take the center of the sphere as $$C=(R,0)$$.  </p>\n<p> • The vertex (the point on the sphere closest to the object) is then located at x = 0.</p></p>\n<p><p>Position of P:</p>\n<p> • The ray joining O and I is along the x‑axis. Its midpoint is</p>\n<p>  $$x_P = \\frac{-u + v}{2}.$$</p>\n<p> • However, since the physical part of the spherical surface is the convex cap met first by the incident light, the ray in fact meets the surface at the vertex, which is at x = 0.  </p>\n<p> • Equating the midpoint to 0, we have</p>\n<p>  $$\\frac{-u + v}{2}=0 \\quad \\Longrightarrow \\quad v = u.$$</p>\n<p> • Thus, the object and its image are equidistant from the vertex, and </p>\n<p>  $$PO = |0 - (-u)| = u.$$</p></p>\n<p><p>Relate u and R using the refraction at a spherical surface:</p>\n<p> • The formula for refraction at a spherical surface (using the appropriate sign–convention) is</p>\n<p>  $$\\frac{n_1}{u} + \\frac{n_2}{v} = \\frac{n_2 - n_1}{R},$$</p>\n<p>  where for our problem</p>\n<p>   – $$n_1 = 1$$ (air)</p>\n<p>   – $$n_2 = 1.5$$ (glass).</p>\n<p> • With $$v = u$$, substitute in:</p>\n<p>  $$\\frac{1}{u} + \\frac{1.5}{u} = \\frac{0.5}{R} \\quad \\Longrightarrow \\quad \\frac{2.5}{u} = \\frac{0.5}{R}.$$</p>\n<p> • Solving for u:</p>\n<p>  $$u = \\frac{2.5\\,R}{0.5} = 5R.$$</p></p>\n<p><p>Conclusion:</p>\n<p> • Since $$PO = u$$, we have</p>\n<p>  $$PO = 5R.$$</p></p>\n\n<p>Thus, the distance $$PO$$ equals $$5R$$, which is Option A.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Given below are two statements :</p>\n<p>Statement (I) : When an object is placed at the centre of curvature of a concave lens, image is formed at the centre of curvature of the lens on the other side.</p>\n<p>Statement (II) : Concave lens always forms a virtual and erect image.</p>\n<p>In the light of the above statements, choose the correct answer from the options given below :</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "Statement I is false but Statement II is true\n"
+        },
+        {
+          "key": "B",
+          "value": "Both Statement I and Statement II are false\n"
+        },
+        {
+          "key": "C",
+          "value": "Both Statement I and Statement II are true\n"
+        },
+        {
+          "key": "D",
+          "value": "Statement I is true but Statement II is false"
+        }
+      ],
+      "answer": "A",
+      "explanation": "<p>Let's analyze each statement carefully:</p>\n\n<p><b>Statement (I):</b> When an object is placed at the centre of curvature of a concave lens, image is formed at the centre of curvature of the lens on the other side.</p>\n\n<p>To understand this statement, let's recall the nature of images formed by concave lenses. A concave lens (diverging lens) always forms images that are virtual, erect, and smaller than the object, regardless of the object's position. The term \"centre of curvature\" is typically associated with mirrors rather than lenses. Therefore, this statement is incorrect because a concave lens does not form a real image that could be said to be at the centre of curvature on the other side.</p>\n\n<p><b>Statement (II):</b> Concave lens always forms a virtual and erect image.</p>\n\n<p>Now, considering the second statement, a concave lens (diverging lens) indeed always forms virtual, erect, and diminished images. This is a fundamental property of concave lenses.</p>\n\n<p>Given this analysis:</p>\n\n<p>The correct answer is <b>Option A:</b> Statement I is false but Statement II is true.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Critical angle of incidence for a pair of optical media is $$45^{\\circ}$$. The refractive indices of first and second media are in the ratio:</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$1: 2$$\n"
+        },
+        {
+          "key": "B",
+          "value": "$$1: \\sqrt{2}$$\n"
+        },
+        {
+          "key": "C",
+          "value": "$$2: 1$$\n"
+        },
+        {
+          "key": "D",
+          "value": "$$\\sqrt{2}: 1$$"
+        }
+      ],
+      "answer": "D",
+      "explanation": "<p>The critical angle is the angle of incidence at which light is refracted along the boundary, meaning the angle of refraction is $$90^{\\circ}$$. The relationship between the critical angle and the refractive indices of two media can be understood using Snell's Law, given as:</p>\n\n<p>$$ n_1 \\sin(\\theta_c) = n_2 \\sin(90^{\\circ}) $$</p>\n\n<p>Here, $$n_1$$ is the refractive index of the first medium, $$n_2$$ is the refractive index of the second medium, and $$\\theta_c$$ is the critical angle. Since $$\\sin(90^{\\circ}) = 1$$, the equation simplifies to:</p>\n\n<p>$$ n_1 \\sin(\\theta_c) = n_2 $$</p>\n\n<p>Given that the critical angle $$\\theta_c$$ is $$45^{\\circ}$$, we have:</p>\n\n<p>$$ \\sin(45^{\\circ}) = \\frac{\\sqrt{2}}{2} $$</p>\n\n<p>Substituting this value in the simplified Snell's Law equation, we get:</p>\n\n<p>$$ n_1 \\left( \\frac{\\sqrt{2}}{2} \\right) = n_2 $$</p>\n\n<p>Therefore,</p>\n\n<p>$$ n_1 = n_2 \\cdot \\frac{2}{\\sqrt{2}} $$</p>\n\n<p>$$ n_1 = n_2 \\cdot \\sqrt{2} $$</p>\n\n<p>Hence, the ratio of the refractive indices of the first and second media is:</p>\n\n<p>$$ n_1 : n_2 = \\sqrt{2} : 1 $$</p>\n\n<p>The correct answer is therefore:</p>\n\n<p><b>Option D</b></p>\n\n<p>$$\\sqrt{2}: 1$$</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>For the thin convex lens, the radii of curvature are at $$15 \\mathrm{~cm}$$ and $$30 \\mathrm{~cm}$$ respectively. The focal length the lens is $$20 \\mathrm{~cm}$$. The refractive index of the material is :</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "1.2"
+        },
+        {
+          "key": "B",
+          "value": "1.5"
+        },
+        {
+          "key": "C",
+          "value": "1.4"
+        },
+        {
+          "key": "D",
+          "value": "1.8"
+        }
+      ],
+      "answer": "B",
+      "explanation": "<p>To find the refractive index of the material of a thin convex lens, we can make use of the Lensmaker's Formula. The Lensmaker's formula is given by:</p>\n\n\n\n<p>$$\\frac{1}{f} = \\left( \\frac{\\mu - 1}{\\mu} \\right) \\left( \\frac{1}{R_1} - \\frac{1}{R_2} \\right)$$</p>\n\n\n\n<p>where</p>\n\n<ul>\n\n<li>$f$ is the focal length of the lens,</li>\n\n<li>$\\mu$ is the refractive index of the material of the lens,</li>\n\n<li>$R_1$ is the radius of curvature of the first surface (convex side, positive),</li>\n\n<li>$R_2$ is the radius of curvature of the second surface (concave side, negative for convex lens).</li>\n\n</ul>\n\n<p>Given in the question, the radii of curvature are $15 \\, \\mathrm{cm}$ and $30 \\, \\mathrm{cm}$ respectively, and the focal length $f = 20\\, \\mathrm{cm}$.</p>\n\n<p>It's important to pay attention to the signs of the radii of curvature according to the lens maker's convention. For convex lenses, $R_1$ is positive and $R_2$ is negative; however, since the problem doesn't specify which curvature corresponds to which side in relation to the direction of light travel, we'll assume the light travels from left to right: thus, $R_1 = +15 \\, \\mathrm{cm}$ and $R_2 = -30 \\, \\mathrm{cm}$.</p>\n\n<p>Substituting the given values into the Lensmaker's Formula, we get:</p>\n\n\n\n<p>$$\\frac{1}{20} = (\\mu - 1) \\left( \\frac{1}{15} - \\frac{1}{-30} \\right) $$</p>\n\n\n\n<p>$$\\frac{1}{20} = (\\mu - 1) \\left( \\frac{1}{15} + \\frac{1}{30} \\right) $$</p>\n\n<p>$$\\frac{1}{20} = (\\mu - 1) \\left( \\frac{2 + 1}{30} \\right) $$</p>\n\n<p>$$\\frac{1}{20} = (\\mu - 1) \\left( \\frac{3}{30} \\right) $$</p>\n\n<p>$$\\frac{1}{20} = (\\mu - 1) \\left( \\frac{1}{10} \\right) $$</p>\n\n<p>$$\\frac{1}{20} = \\frac{\\mu - 1}{10}$$</p>\n\n\n\n<p>Now, solve for $\\mu$:</p>\n\n\n\n<p>$$\\mu - 1 = \\frac{10}{20} $$</p>\n\n<p>$$\\mu - 1 = 0.5 $$</p>\n\n<p>$$\\mu = 1.5$$</p>\n\n\n\n<p>Hence, the refractive index of the material of the lens is <strong>1.5</strong>, which corresponds to <strong>Option B</strong>.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>An effective power of a combination of 5 identical convex lenses which are kept in contact along the principal axis is $$25 \\mathrm{D}$$. Focal length of each of the convex lens is:</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "50 cm"
+        },
+        {
+          "key": "B",
+          "value": "20 cm"
+        },
+        {
+          "key": "C",
+          "value": "25 cm"
+        },
+        {
+          "key": "D",
+          "value": "500 cm"
+        }
+      ],
+      "answer": "B",
+      "explanation": "<p>When we have a combination of identical lenses in contact, the effective power ($$P_{\\text{eff}}$$) of the combination can be calculated as the sum of the powers of all the individual lenses. This is because the lenses are in direct contact, and their powers effectively add up.</p>\n\n<p>Given that the effective power of a combination of 5 identical convex lenses is $$25 \\mathrm{D}$$, we can use the formula for the effective power of the combination:</p>\n\n<p>$$P_{\\text{eff}} = nP$$</p>\n\n<p>where:</p>\n\n<ul>\n\n<li>$P_{\\text{eff}}$ is the effective power of the combination,</li>\n\n<li>$n$ is the number of lenses, and</li>\n\n<li>$P$ is the power of each individual lens.</li>\n\n</ul>\n\n<p>Given $n = 5$ and $P_{\\text{eff}} = 25 \\mathrm{D}$, we can solve for $P$, the power of each lens:</p>\n\n<p>$$25 \\mathrm{D} = 5P$$</p>\n\n<p>Dividing both sides by 5:</p>\n\n<p>$$P = \\frac{25 \\mathrm{D}}{5} = 5 \\mathrm{D}$$</p>\n\n<p>The power of a lens ($P$) is related to its focal length ($f$) by the equation:</p>\n\n<p>$$P = \\frac{1}{f}$$</p>\n\n<p>where $P$ is in diopters (D) and $f$ is in meters. Thus:</p>\n\n<p>$$5 \\mathrm{D} = \\frac{1}{f}$$</p>\n\n<p>Solving for $f$ gives:</p>\n\n<p>$$f = \\frac{1}{5} \\text{ meters} = \\frac{1}{5} \\times 100 \\text{ cm} = 20 \\text{ cm}$$</p>\n\n<p>Therefore, the focal length of each of the convex lenses is 20 cm. So, the correct answer is <strong>Option B: 20 cm</strong>.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>In an experiment to measure focal length ($$f$$) of convex lens, the least counts of the measuring scales for the position of object (u) and for the position of image (v) are $$\\Delta u$$ and $$\\Delta v$$, respectively. The error in the measurement of the focal length of the convex lens will be:</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$2 f\\left[\\frac{\\Delta \\mathrm{u}}{\\mathrm{u}}+\\frac{\\Delta \\mathrm{v}}{\\mathrm{v}}\\right]$$\n"
+        },
+        {
+          "key": "B",
+          "value": "$$f\\left[\\frac{\\Delta \\mathrm{u}}{\\mathrm{u}}+\\frac{\\Delta \\mathrm{v}}{\\mathrm{v}}\\right]$$\n"
+        },
+        {
+          "key": "C",
+          "value": "$$f^2\\left[\\frac{\\Delta \\mathrm{u}}{\\mathrm{u}^2}+\\frac{\\Delta \\mathrm{v}}{\\mathrm{v}^2}\\right]$$\n"
+        },
+        {
+          "key": "D",
+          "value": "$$\\frac{\\Delta \\mathrm{u}}{\\mathrm{u}}+\\frac{\\Delta \\mathrm{v}}{\\mathrm{v}}$$"
+        }
+      ],
+      "answer": "C",
+      "explanation": "<p>First, let's understand the relationship between the object distance ($$u$$), the image distance ($$v$$), and the focal length ($$f$$) of a convex lens, which is given by the lens formula:</p>\n$$\n\\frac{1}{f} = \\frac{1}{v} + \\frac{1}{u}\n$$\n\n<p>Now, to find the error in the focal length ($$\\Delta f$$) due to the errors in the measurements of $$u$$ and $$v$$ ($$\\Delta u$$ and $$\\Delta v$$, respectively), we have to differentiate the lens formula with respect to $$u$$ and $$v$$, keeping in mind the propagation of error.</p>\n\n<p>By differentiating both sides of the lens formula with respect to $$v$$ and $$u$$, and also considering the negative reciprocal relation (given $$f$$ is a constant for a specific lens), we have:</p>\n$$\n\\frac{\\Delta f}{f^2} = \\frac{\\Delta v}{v^2} + \\frac{\\Delta u}{u^2}\n$$\n\n<p>Rearranging this equation to find $$\\Delta f$$, we get:</p>\n$$\n\\Delta f = f^2 \\left( \\frac{\\Delta v}{v^2} + \\frac{\\Delta u}{u^2} \\right)\n$$\n\n<p>Therefore, the correct option showing the error in the measurement of the focal length of the convex lens, taking into account the least counts ($$\\Delta u$$ and $$\\Delta v$$) of the measuring scales for the position of the object ($$u$$) and for the position of the image ($$v$$), is:</p>\n<p>Option C: $$f^2\\left[\\frac{\\Delta \\mathrm{u}}{\\mathrm{u}^2}+\\frac{\\Delta \\mathrm{v}}{\\mathrm{v}^2}\\right]$$</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>The refractive index of a prism with apex angle $$A$$ is $$\\cot A / 2$$. The angle of minimum deviation is :</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$\\delta_m=180^{\\circ}-3 \\mathrm{~A}$$\n"
+        },
+        {
+          "key": "B",
+          "value": "$$\\delta_m=180^{\\circ}-4 A$$\n"
+        },
+        {
+          "key": "C",
+          "value": "$$\\delta_m=180^{\\circ}-2 A$$\n"
+        },
+        {
+          "key": "D",
+          "value": "$$\\delta_m=180^{\\circ}-A$$"
+        }
+      ],
+      "answer": "C",
+      "explanation": "<p>$$\\begin{aligned}\n& \\mu=\\frac{\\sin \\left(\\frac{A+\\delta m}{2}\\right)}{\\sin \\frac{A}{2}} \\\\\n& \\frac{\\cos \\frac{A}{2}}{\\sin \\frac{A}{2}}=\\frac{\\sin \\left(\\frac{A+\\delta m}{2}\\right)}{\\sin \\frac{A}{2}} \\\\\n& \\sin \\left(\\frac{\\pi}{2}-\\frac{A}{2}\\right)=\\sin \\left(\\frac{A+\\delta_m}{2}\\right) \\\\\n& \\frac{\\pi}{2}-\\frac{A}{2}=\\frac{A}{2}+\\frac{\\delta m}{2} \\\\\n& \\delta_m=\\pi-2 A\n\\end{aligned}$$</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>A biconvex lens of refractive index 1.5 has a focal length of $$20 \\mathrm{~cm}$$ in air. Its focal length when immersed in a liquid of refractive index 1.6 will be:</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$-$$16 cm"
+        },
+        {
+          "key": "B",
+          "value": "+16 cm"
+        },
+        {
+          "key": "C",
+          "value": "+160 cm"
+        },
+        {
+          "key": "D",
+          "value": "$$-$$160 cm"
+        }
+      ],
+      "answer": "D",
+      "explanation": "<p>$$\\begin{aligned}\n& \\mu_1=1.5 \\\\\n& \\mu_m=1.6 \\\\\n& f_a=20 \\mathrm{~cm} \\\\\n& \\text { As } \\frac{f_m}{f_a}=\\frac{\\left(\\mu_1-1\\right) \\mu_m}{\\left(\\mu_1-\\mu_m\\right)} \\\\\n& \\frac{f_m}{20}=\\frac{(1.5-1) 1.6}{(1.5-1.6)} \\\\\n& f_m=-160 \\mathrm{~cm}\n\\end{aligned}$$</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>If the refractive index of the material of a prism is $$\\cot \\left(\\frac{A}{2}\\right)$$, where $$A$$ is the angle of prism then the angle of minimum deviation will be</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$\\pi-2 \\mathrm{~A}$$\n"
+        },
+        {
+          "key": "B",
+          "value": "$$\\frac{\\pi}{2}-2 \\mathrm{~A}$$\n"
+        },
+        {
+          "key": "C",
+          "value": "$$\\pi-\\mathrm{A}$$\n"
+        },
+        {
+          "key": "D",
+          "value": "$$\\frac{\\pi}{2}-\\mathrm{A}$$"
+        }
+      ],
+      "answer": "A",
+      "explanation": "<p>$$\\begin{aligned}\n& \\cot \\frac{\\mathrm{A}}{2}=\\frac{\\sin \\left(\\frac{\\mathrm{A}+\\delta_{\\min }}{2}\\right)}{\\sin \\frac{\\mathrm{A}}{2}} \\\\\n& \\Rightarrow \\cos \\frac{\\mathrm{A}}{2}=\\sin \\left(\\frac{\\mathrm{A}+\\delta_{\\min }}{2}\\right) \\\\\n& \\frac{\\mathrm{A}+\\delta_{\\min }}{2}=\\frac{\\pi}{2}-\\frac{\\mathrm{A}}{2} \\\\\n& \\delta_{\\min }=\\pi-2 \\mathrm{~A}\n\\end{aligned}%$$</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Identify the physical quantity that cannot be measured using spherometer :</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "Radius of curvature of concave surface\n"
+        },
+        {
+          "key": "B",
+          "value": "Specific rotation of liquids\n"
+        },
+        {
+          "key": "C",
+          "value": "Thickness of thin plates\n"
+        },
+        {
+          "key": "D",
+          "value": "Radius of curvature of convex surface\n"
+        }
+      ],
+      "answer": "B",
+      "explanation": "<p>Spherometer can be used to measure curvature of surface.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>A convex lens of focal length $$40 \\mathrm{~cm}$$ forms an image of an extended source of light on a photoelectric cell. A current I is produced. The lens is replaced by another convex lens having the same diameter but focal length $$20 \\mathrm{~cm}$$. The photoelectric current now is :</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$\\mathrm{\\frac{I}{2}}$$"
+        },
+        {
+          "key": "B",
+          "value": "4 I"
+        },
+        {
+          "key": "C",
+          "value": "2 I"
+        },
+        {
+          "key": "D",
+          "value": "I"
+        }
+      ],
+      "answer": "D",
+      "explanation": "<p>As amount of energy incident on cell is same so current will remain same.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>A vessel of depth '$$d$$' is half filled with oil of refractive index $$n_{1}$$ and the other half is filled with water of refractive index $$n_{2}$$. The apparent depth of this vessel when viewed from above will be-</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$\\frac{2 d\\left(n_{1}+n_{2}\\right)}{n_{1} n_{2}}$$"
+        },
+        {
+          "key": "B",
+          "value": "$$\\frac{d\\left(n_{1}+n_{2}\\right)}{2 n_{1} n_{2}}$$"
+        },
+        {
+          "key": "C",
+          "value": "$$\\frac{d n_{1} n_{2}}{2\\left(n_{1}+n_{2}\\right)}$$"
+        },
+        {
+          "key": "D",
+          "value": "$$\\frac{d n_{1} n_{2}}{\\left(n_{1}+n_{2}\\right)}$$"
+        }
+      ],
+      "answer": "B",
+      "explanation": "To find the apparent depth of the vessel when viewed from above, we can calculate the apparent depths of the oil and water separately and then add them together. \n<br/><br/>\nThe formula to find the apparent depth ($$h_{apparent}$$) is:\n<br/><br/>\n$$h_{apparent} = \\frac{h_{real}}{n}$$\n<br/><br/>\nWhere $$h_{real}$$ is the actual depth, and $$n$$ is the refractive index of the medium.\n<br/><br/>\nFor the oil (with depth $$\\frac{d}{2}$$ and refractive index $$n_1$$):\n<br/><br/>\n$$h_{oil} = \\frac{\\frac{d}{2}}{n_{1}}$$\n<br/><br/>\nFor the water (with depth $$\\frac{d}{2}$$ and refractive index $$n_2$$):\n<br/><br/>\n$$h_{water} = \\frac{\\frac{d}{2}}{n_{2}}$$\n<br/><br/>\nNow, add the two apparent depths together to find the total apparent depth:\n<br/><br/>\n$$h_{total} = h_{oil} + h_{water} = \\frac{\\frac{d}{2}}{n_{1}} + \\frac{\\frac{d}{2}}{n_{2}}$$\n<br/><br/>\nCombine the terms:\n<br/><br/>\n$$h_{total} = \\frac{d}{2}\\left(\\frac{1}{n_{1}} + \\frac{1}{n_{2}}\\right)$$\n<br/><br/>\nNow, find a common denominator for the fractions:\n<br/><br/>\n$$h_{total} = \\frac{d}{2}\\left(\\frac{n_{1} + n_{2}}{n_{1}n_{2}}\\right)$$\n<br/><br/>\nMultiply the fractions:\n<br/><br/>\n$$h_{total} = \\frac{d(n_{1} + n_{2})}{2n_{1}n_{2}}$$\n<br/><br/>\nThe correct answer is:\n<br/><br/>\n$$\\frac{d\\left(n_{1}+n_{2}\\right)}{2 n_{1} n_{2}}$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>An ice cube has a bubble inside. When viewed from one side the apparent distance of the bubble is $$12 \\mathrm{~cm}$$. When viewed from the opposite side, the apparent distance of the bubble is observed as $$4 \\mathrm{~cm}$$. If the side of the ice cube is $$24 \\mathrm{~cm}$$, the refractive index of the ice cube is</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$\\frac{3}{2}$$"
+        },
+        {
+          "key": "B",
+          "value": "$$\\frac{4}{3}$$"
+        },
+        {
+          "key": "C",
+          "value": "$$\\frac{2}{3}$$"
+        },
+        {
+          "key": "D",
+          "value": "$$\\frac{6}{5}$$"
+        }
+      ],
+      "answer": "A",
+      "explanation": "Let's denote the true distance of the bubble from one side of the ice cube as $$x$$ and the refractive index of the ice cube as $$n$$. We will use the formula for apparent depth, which states that the ratio of the true depth to the apparent depth is equal to the refractive index:\n<br/><br/>\n$$n = \\frac{\\text{True depth}}{\\text{Apparent depth}}$$\n<br/><br/>\nWhen viewing the bubble from one side, the true depth is $$x$$ and the apparent depth is $$12 \\mathrm{~cm}$$. Using the formula:\n<br/><br/>\n$$n = \\frac{x}{12}$$\n<br/><br/>\nWhen viewing the bubble from the opposite side, the true depth is $$24 - x$$ (since the side of the ice cube is $$24 \\mathrm{~cm}$$) and the apparent depth is $$4 \\mathrm{~cm}$$. Using the formula:\n<br/><br/>\n$$n = \\frac{24 - x}{4}$$\n<br/><br/>\nNow we have a system of two equations with two variables:\n<br/><br/>\n1) $$n = \\frac{x}{12}$$<br/><br/>\n2) $$n = \\frac{24 - x}{4}$$\n<br/><br/>\nWe can solve this system by setting the two expressions for $$n$$ equal to each other:\n<br/><br/>\n$$\\frac{x}{12} = \\frac{24 - x}{4}$$\n<br/><br/>\nTo solve for $$x$$, first multiply both sides by $$12$$:\n<br/><br/>\n$$x = 3(24 - x)$$\n<br/><br/>\n$$x = 72 - 3x$$\n<br/><br/>\nAdd $$3x$$ to both sides:\n<br/><br/>\n$$4x = 72$$\n<br/><br/>\nDivide by $$4$$:\n<br/><br/>\n$$x = 18$$\n<br/><br/>\nNow that we have the value of $$x$$, we can find the refractive index $$n$$ using either equation 1 or 2. Using equation 1:\n<br/><br/>\n$$n = \\frac{18}{12} = \\frac{3}{2}$$\n<br/><br/>\nTherefore, the refractive index of the ice cube is $$\\frac{3}{2}$$."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>When one light ray is reflected from a plane mirror with $$30^{\\circ}$$ angle of reflection, the angle of deviation of the ray after reflection is :</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$140^{\\circ}$$"
+        },
+        {
+          "key": "B",
+          "value": "$$130^{\\circ}$$"
+        },
+        {
+          "key": "C",
+          "value": "$$120^{\\circ}$$"
+        },
+        {
+          "key": "D",
+          "value": "$$110^{\\circ}$$"
+        }
+      ],
+      "answer": "C",
+      "explanation": "When a light ray is reflected from a plane mirror, the angle of incidence (i) is equal to the angle of reflection (r). In this case, the angle of reflection is given as $$30^{\\circ}$$, so the angle of incidence is also $$30^{\\circ}$$.\n<br/><br/>\nThe angle of deviation (D) is the angle between the incident ray and the reflected ray. To find this angle, consider the fact that the angle between the incident ray and the normal to the mirror and the angle between the reflected ray and the normal add up to $$180^{\\circ}$$, since they are supplementary angles.\n<br/><br/>\nThus, we have:<br/><br/>\n$$i + r + D = 180^{\\circ}$$<br/><br/>\nSince $$i = r$$, we can rewrite the equation as:<br/><br/>\n$$2i + D = 180^{\\circ}$$<br/><br/>\nSubstitute the value of the angle of incidence:<br/><br/>\n$$2(30^{\\circ}) + D = 180^{\\circ}$$<br/><br/>\n$$60^{\\circ} + D = 180^{\\circ}$$<br/><br/>\nSolve for the angle of deviation (D):<br/><br/>\n$$D = 180^{\\circ} - 60^{\\circ} = 120^{\\circ}$$\n<br/><br/>\nSo, the angle of deviation of the ray after reflection is $$120^{\\circ}$$."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>The critical angle for a denser-rarer interface is $$45^{\\circ}$$. The speed of light in rarer medium is $$3 \\times 10^{8} \\mathrm{~m} / \\mathrm{s}$$. The speed of light in the denser medium is:</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$2 .12 \\times 10^{8} \\mathrm{~m} / \\mathrm{s}$$"
+        },
+        {
+          "key": "B",
+          "value": "$$5 \\times 10^{7} \\mathrm{~m} / \\mathrm{s}$$"
+        },
+        {
+          "key": "C",
+          "value": "$$\\sqrt{2} \\times 10^{8} \\mathrm{~m} / \\mathrm{s}$$"
+        },
+        {
+          "key": "D",
+          "value": "$$3.12 \\times 10^{7} \\mathrm{~m} / \\mathrm{s}$$"
+        }
+      ],
+      "answer": "A",
+      "explanation": "<p>To find the speed of light in the denser medium, we can use Snell&#39;s Law at the critical angle, where the angle of refraction is $$90^{\\circ}$$. Snell&#39;s Law states:</p>\n<p>$$n_1 \\sin{\\theta_1} = n_2 \\sin{\\theta_2}$$</p>\n<p>where $$n_1$$ and $$n_2$$ are the indices of refraction for the denser and rarer media, respectively, and $$\\theta_1$$ and $$\\theta_2$$ are the angles of incidence and refraction, respectively.</p>\n<p>In this case, we have:</p>\n<p>$$n_1 \\sin{45^{\\circ}} = n_2 \\sin{90^{\\circ}}$$</p>\n<p>The critical angle is given as $$45^{\\circ}$$, and the speed of light in the rarer medium is given as $$3 \\times 10^8 \\mathrm{~m/s}$$. We can find the index of refraction of the rarer medium using the formula:</p>\n<p>$$n = \\frac{c}{v}$$</p>\n<p>where $$c$$ is the speed of light in a vacuum ($$3 \\times 10^8 \\mathrm{~m/s}$$), and $$v$$ is the speed of light in the medium. </p>\n<p>For the rarer medium, we have:</p>\n<p>$$n_2 = \\frac{3 \\times 10^8 \\mathrm{~m/s}}{3 \\times 10^8 \\mathrm{~m/s}} = 1$$</p>\n<p>Now we can rewrite Snell&#39;s Law as:</p>\n<p>$$n_1 \\sin{45^{\\circ}} = 1 \\cdot 1$$</p>\n<p>$$n_1 \\sin{45^{\\circ}} = 1$$</p>\n<p>$$n_1 = \\frac{1}{\\sin{45^{\\circ}}}$$</p>\n<p>Since $$\\sin{45^{\\circ}} = \\frac{1}{\\sqrt{2}}$$, we have:</p>\n<p>$$n_1 = \\frac{1}{\\frac{1}{\\sqrt{2}}} = \\sqrt{2}$$</p>\n<p>Now, we can find the speed of light in the denser medium using the formula for the index of refraction:</p>\n<p>$$v_1 = \\frac{c}{n_1}$$</p>\n<p>$$v_1 = \\frac{3 \\times 10^8 \\mathrm{~m/s}}{\\sqrt{2}}$$</p>\n<p>$$v_1 = 2.12 \\times 10^8 \\mathrm{~m/s}$$</p>\n<p>So, the speed of light in the denser medium is $$2.12 \\times 10^8 \\mathrm{~m/s}$$.</p>\n"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>In a reflecting telescope, a secondary mirror is used to:</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "make chromatic aberration zero"
+        },
+        {
+          "key": "B",
+          "value": "remove spherical aberration"
+        },
+        {
+          "key": "C",
+          "value": "reduce the problem of mechanical support"
+        },
+        {
+          "key": "D",
+          "value": "move the eyepiece outside the telescopic tube"
+        }
+      ],
+      "answer": "D",
+      "explanation": "<p>Reflecting telescopes, also known as reflectors, use a set of mirrors instead of lenses to gather and focus light. The primary mirror (usually a concave mirror) gathers the incoming light and reflects it to a focus point. The secondary mirror is used to redirect this focused light out to where it can be conveniently observed.</p>\n<p>In other words, the secondary mirror in a reflecting telescope is used to move the eyepiece outside the telescopic tube, where the image can be comfortably viewed. This is especially important for large telescopes, where the focus point may be inside the telescope tube and inaccessible without a secondary mirror.</p>\n"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Given below are two statements: one is labelled as Assertion A and the other is labelled as Reason R</p>\n<p>Assertion A: The phase difference of two light waves change if they travel through different media having same thickness, but different indices of refraction.</p>\n<p>Reason R: The wavelengths of waves are different in different media.</p>\n<p>In the light of the above statements, choose the most appropriate answer from the options given below</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "Both A and R are correct but R is NOT the correct explanation of A"
+        },
+        {
+          "key": "B",
+          "value": "A is correct but R is not correct"
+        },
+        {
+          "key": "C",
+          "value": "A is not correct but R is correct"
+        },
+        {
+          "key": "D",
+          "value": "Both A and R are correct and R is the correct explanation of A"
+        }
+      ],
+      "answer": "D",
+      "explanation": "<p>\nAssertion A is correct. When light waves travel through different media with different indices of refraction, the speed of light changes, which in turn changes the phase of the light waves. This is because the phase of a wave is directly related to the distance it has traveled, which in this case is affected by the speed of light in the different media.</p>\n<p>Reason R is also correct. The speed of light in a medium is determined by its refractive index. When light enters a medium with a different refractive index, its speed, and therefore its wavelength, changes. This is described by the equation v = c/n, where v is the speed of light in the medium, c is the speed of light in a vacuum, and n is the refractive index of the medium. </p>\n<p>Moreover, R is indeed the correct explanation of A. The change in wavelength (and therefore phase) of the light waves in different media (as explained in R) is the reason why the phase difference changes when light waves travel through different media with the same thickness but different indices of refraction (as stated in A).</p>\n"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>A 2 meter long scale with least count of $$0.2 \\mathrm{~cm}$$ is used to measure the locations of objects on an optical bench. While measuring the focal length of a convex lens, the object pin and the convex lens are placed at $$80 \\mathrm{~cm}$$ mark and $$1 \\mathrm{~m}$$ mark, respectively. The image of the object pin on the other side of lens coincides with image pin that is kept at $$180 \\mathrm{~cm}$$ mark. The $$\\%$$ error in the estimation of focal length is:</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "1.70"
+        },
+        {
+          "key": "B",
+          "value": "0.51"
+        },
+        {
+          "key": "C",
+          "value": "1.02"
+        },
+        {
+          "key": "D",
+          "value": "0.85"
+        }
+      ],
+      "answer": "A",
+      "explanation": "<p>In this problem, you are asked to find the percentage error in the estimation of the focal length of a convex lens using a 2-meter long scale with a least count of 0.2 cm.</p>\n<p>First, let&#39;s determine the object distance (u), image distance (v), and focal length (f) of the lens.</p>\n<ol>\n<li><p>Object distance (u): It&#39;s the distance between the object pin and the convex lens. The object pin is at the 80 cm mark, and the convex lens is at the 1 m (100 cm) mark, so the object distance is $$u = 100 - 80 = 20~cm$$.</p>\n</li>\n<li><p>Image distance (v): It&#39;s the distance between the image pin and the convex lens. The image pin is at the 180 cm mark, and the convex lens is at the 1 m (100 cm) mark, so the image distance is $$v = 180 - 100 = 80~cm$$.</p>\n</li>\n<li><p>Focal length (f): Using the lens formula, we can calculate the focal length:<br/><br/>\n$$\\frac{1}{f} = \\frac{1}{v} - \\frac{1}{u} = \\frac{1}{80} + \\frac{1}{20} = \\frac{5}{80}$$\nSo, $$f = \\frac{80}{5} = 16~cm$$.</p>\n</li>\n</ol>\n<p>Now, we will calculate the error in the focal length (df) using the given least count (0.2 cm). The error in the object distance and image distance will both be 0.2 cm.</p>\n<ol>\n<li>Error in the focal length (df): We can use the formula for the error in the focal length:<br/><br/>\n$$\\frac{df}{f^2} = \\frac{0.2 \\times 2}{6400} + \\frac{0.2 \\times 2}{400}$$</li>\n</ol>\n<p>Solving for df:<br/><br/>\n$$df = \\frac{16 \\times 16 \\times 0.2 \\times 6800 \\times 2}{6400 \\times 400} = 0.136 \\times 2$$</p>\n<ol>\n<li>Percentage error in the focal length: Finally, we will calculate the percentage error using the formula:<br/><br/>\n$$\\frac{df}{f} = \\frac{0.0085 \\times 2}{1} = 1.70$$</li>\n</ol>\n<p>So, the percentage error in the estimation of the focal length is 1.70%.</p>\n"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>A monochromatic light wave with wavelength $$\\lambda_{1}$$ and frequency $$v_{1}$$ in air enters another medium. If the angle of incidence and angle of refraction at the interface are $$45^{\\circ}$$ and $$30^{\\circ}$$ respectively, then the wavelength $$\\lambda_{2}$$ and frequency $$v_{2}$$ of the refracted wave are:</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$\\lambda_{2}=\\lambda_{1}, v_{2}=\\frac{1}{\\sqrt{2}} v_{1}$$"
+        },
+        {
+          "key": "B",
+          "value": "$$\\lambda_{2}=\\lambda_{1}, v_{2}=\\sqrt{2} v_{1}$$"
+        },
+        {
+          "key": "C",
+          "value": "$$\\lambda_{2}=\\sqrt{2} \\lambda_{1}, v_{2}=v_{1}$$"
+        },
+        {
+          "key": "D",
+          "value": "$$\\lambda_{2}=\\frac{1}{\\sqrt{2}} \\lambda_{1}, v_{2}=v_{1}$$"
+        }
+      ],
+      "answer": "D",
+      "explanation": "<p>When a light wave moves from one medium to another, its speed and wavelength may change, but its frequency remains constant because it is determined by the source of the light. This is because frequency depends on the oscillations of the source, which do not change when entering a different medium.</p>\n<p>Snell&#39;s law, which describes the relationship between the angles of incidence and refraction, can be written as:</p>\n<p>$ n_1 \\sin(\\theta_1) = n_2 \\sin(\\theta_2), $</p>\n<p>where $n_1$ and $n_2$ are the refractive indices of the two media, and $\\theta_1$ and $\\theta_2$ are the angles of incidence and refraction, respectively.</p>\n<p>The refractive index of a medium is also related to the speed of light in that medium:</p>\n<p>$ n = \\frac{c}{v}, $</p>\n<p>where $c$ is the speed of light in a vacuum, and $v$ is the speed of light in the medium.</p>\n<p>From the above relations, we see that as light enters a medium with a higher refractive index (and hence a lower speed), its wavelength decreases. The frequency remains the same.</p>\n<p>Given that the angle of incidence is $45^\\circ$ and the angle of refraction is $30^\\circ$, the ratio of the refractive indices is:</p>\n<p>$ \\frac{n_2}{n_1} = \\frac{\\sin(\\theta_1)}{\\sin(\\theta_2)} = \\frac{\\sin(45^\\circ)}{\\sin(30^\\circ)} = \\sqrt{2}. $</p>\n<p>This indicates that the speed of light (and hence the wavelength) decreases by a factor of $\\sqrt{2}$ as it enters the second medium. The frequency remains the same.</p>\n<p>Therefore, the correct answer is</p>\n<p>$ \\lambda_2 = \\frac{1}{\\sqrt{2}} \\lambda_1, \\quad v_2 = v_1. $</p>\n"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A microscope is focused on an object at the bottom of a bucket. If liquid with refractive index $\\frac{5}{3}$\n\nis poured inside the bucket, then the microscope has to be raised by $30 \\mathrm{~cm}$ to focus the object again.\n\nThe height of the liquid in the bucket is :",
+      "options": [
+        {
+          "key": "A",
+          "value": "$50 \\mathrm{~cm}$"
+        },
+        {
+          "key": "B",
+          "value": "$18 \\mathrm{~cm}$"
+        },
+        {
+          "key": "C",
+          "value": "$75 \\mathrm{~cm}$"
+        },
+        {
+          "key": "D",
+          "value": "$12 \\mathrm{~cm}$"
+        }
+      ],
+      "answer": "C",
+      "explanation": "Shift $=\\left(d-\\frac{d}{\\mu}\\right)=30 \\mathrm{~cm}$\n\n<br/><br/>$$\n\\begin{aligned}\n& \\Rightarrow d\\left[1-\\frac{1}{\\frac{5}{3}}\\right]=30 \\\\\\\\\n& \\Rightarrow d=\\frac{30 \\times 5}{2}=75 \\mathrm{~cm}\n\\end{aligned}\n$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>A thin prism $P_1$ with an angle $6^{\\circ}$ and made of glass of refractive index $1.54$ is combined with another prism $P_2$ made from glass of refractive index $1.72$ to produce dispersion without average deviation. The angle of prism $P_2$ is</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "$4.5^{\\circ}$"
+        },
+        {
+          "key": "B",
+          "value": "$7.8^{\\circ}$"
+        },
+        {
+          "key": "C",
+          "value": "$1.3^{\\circ}$"
+        },
+        {
+          "key": "D",
+          "value": "$6^{\\circ}$"
+        }
+      ],
+      "answer": "A",
+      "explanation": "<p>$$({\\mu _1} - 1){A_1} = ({\\mu _2} - 1){A_2}$$</p>\n<p>$$ \\Rightarrow (1.54 - 1)6 = (1.72 - 1){A_2}$$</p>\n<p>$${A_2} = \\left( {{{0.54} \\over {0.72}} \\times 6} \\right) = {{18} \\over 4} = \\left( {{9 \\over 2}} \\right) = 4.5^\\circ $$</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>A person has been using spectacles of power $$-1.0$$ dioptre for distant vision and a separate reading glass of power $$2.0$$ dioptres. What is the least distance of distinct vision for this person :</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "50 cm"
+        },
+        {
+          "key": "B",
+          "value": "40 cm"
+        },
+        {
+          "key": "C",
+          "value": "30 cm"
+        },
+        {
+          "key": "D",
+          "value": "10 cm"
+        }
+      ],
+      "answer": "A",
+      "explanation": "<p>u = 25 cm</p>\n<p>$$f=\\frac{1}{2}$$ m = 50 cm</p>\n<p>$${1 \\over v} - {1 \\over u} = {1 \\over f}$$</p>\n<p>$$ \\Rightarrow {1 \\over v} + {1 \\over {25}} =  - {1 \\over {50}}$$</p>\n<p>$${1 \\over v} =  - {1 \\over {50}}$$</p>\n<p>$$ \\Rightarrow u =  - 50$$ cm</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>A scientist is observing a bacteria through a compound microscope. For better analysis and to improve its resolving power he should. (Select the best option)</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "Decrease the focal length of the eye piece."
+        },
+        {
+          "key": "B",
+          "value": "Increase the wave length of the light"
+        },
+        {
+          "key": "C",
+          "value": "Increase the refractive index of the medium between the object and objective lens"
+        },
+        {
+          "key": "D",
+          "value": "Decrease the diameter of the objective lens"
+        }
+      ],
+      "answer": "C",
+      "explanation": "<p>Resolving power of microscope $$ = \\left( {{{2n\\sin \\theta } \\over \\lambda }} \\right)$$</p>\n<p>$$n\\sin \\theta $$ = Numerical aperture</p>\n<p>$$n$$ is the refractive index of medium.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>The light rays from an object have been reflected towards an observer from a standard flat mirror, the image observed by the observer are :-</p>\n<p>A. Real</p>\n<p>B. Erect</p>\n<p>C. Smaller in size then object</p>\n<p>D. Laterally inverted</p>\n<p>Choose the most appropriate answer from the options given below :</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "B and D only"
+        },
+        {
+          "key": "B",
+          "value": "A, C, and D only"
+        },
+        {
+          "key": "C",
+          "value": "A and D only"
+        },
+        {
+          "key": "D",
+          "value": "B and C only"
+        }
+      ],
+      "answer": "A",
+      "explanation": "Plane mirror forms erect, same sized, laterally\ninverted and virtual image of real object."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>When a beam of white light is allowed to pass through convex lens parallel to principal axis, the different colours of light converge at different point on the principle axis after refraction. This is called :</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "Spherical aberration"
+        },
+        {
+          "key": "B",
+          "value": "Scattering"
+        },
+        {
+          "key": "C",
+          "value": "Polarisation"
+        },
+        {
+          "key": "D",
+          "value": "Chromatic aberration"
+        }
+      ],
+      "answer": "D",
+      "explanation": "<p>The phenomenon described in the statement is called <b>chromatic aberration</b>.</p>\n<p>\n<b>Chromatic aberration</b> is a type of optical aberration that occurs when a lens is unable to focus different colors of light at the same point after refraction. This causes the different colors of light to converge at different points on the principal axis, resulting in blurred or distorted images.</p>\n\n<p>In the case of a convex lens, the refractive index of the lens is different for different colors of light. The blue light, having the shortest wavelength, refracts the most and the red light, having the longest wavelength, refracts the least. This causes the blue light to converge at a point closer to the lens than the red light, resulting in a blurred image.\n</p>\n<p><b>Spherical aberration</b>, on the other hand, is a type of optical aberration that occurs when a spherical lens is unable to focus all the incident light rays at a single point, resulting in a blurred image. Polarization refers to the orientation of the electric field of light waves, and scattering refers to the phenomenon of light being redirected in different directions due to interaction with matter.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>The power of a lens (biconvex) is $$1.25 \\mathrm{~m}^{-1}$$ in particular medium. Refractive index of the lens is 1.5 and radii of curvature are $$20 \\mathrm{~cm}$$ and $$40 \\mathrm{~cm}$$ respectively. The refractive index of surrounding medium:</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "1.0"
+        },
+        {
+          "key": "B",
+          "value": "$$\\frac{9}{7}$$"
+        },
+        {
+          "key": "C",
+          "value": "$$\\frac{3}{2}$$"
+        },
+        {
+          "key": "D",
+          "value": "$$\\frac{4}{3}$$"
+        }
+      ],
+      "answer": "B",
+      "explanation": "<p>$$\\because$$ $${1 \\over f} = \\left( {{{{\\mu _2}} \\over {{\\mu _1}}} - 1} \\right)\\left( {{1 \\over {{R_1}}} - {1 \\over {{R_2}}}} \\right)$$</p>\n<p>$$ \\Rightarrow {{1.25} \\over {100}} = \\left( {{{1.5} \\over {{\\mu _1}}} - 1} \\right)\\left( {{1 \\over {20}} + {1 \\over {40}}} \\right)$$</p>\n<p>$$ \\Rightarrow {1 \\over {80}} = \\left( {{{1.5} \\over {{\\mu _1}}} - 1} \\right) \\times {{(4 + 2)} \\over {80}}$$</p>\n<p>$$ \\Rightarrow {{1.5} \\over {{\\mu _1}}} - 1 = {1 \\over 6}$$</p>\n<p>$$ \\Rightarrow {{1.5} \\over {{\\mu _1}}} = {7 \\over 6}$$</p>\n<p>$$ \\Rightarrow {\\mu _1} = {{1.5 \\times 6} \\over 7} = {9 \\over 7}$$</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>In normal adujstment, for a refracting telescope, the distance between objective and eye piece is $$30 \\mathrm{~cm}$$. The focal length of the objective, when the angular magnification of the telescope is 2 , will be :</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "20 cm"
+        },
+        {
+          "key": "B",
+          "value": "30 cm"
+        },
+        {
+          "key": "C",
+          "value": "10 cm"
+        },
+        {
+          "key": "D",
+          "value": "15 cm"
+        }
+      ],
+      "answer": "A",
+      "explanation": "<p>$$\\because$$ $$m = {{{f_o}} \\over {{f_e}}}$$</p>\n<p>$$ \\Rightarrow 2 = {{{f_o}} \\over {{f_e}}}$$ ...... (i)</p>\n<p>and, $$l = {f_o} + {f_e}$$</p>\n<p>$$ \\Rightarrow 30 = {f_o} + {f_e}$$ ..... (ii)</p>\n<p>$$ \\Rightarrow 30 = {f_o} + {{{f_o}} \\over 2}$$</p>\n<p>$$ \\Rightarrow 30 \\times {2 \\over 3} = {f_o}$$</p>\n<p>$$ \\Rightarrow {f_o} = 20$$ cm</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>A microscope was initially placed in air (refractive index 1). It is then immersed in oil (refractive index 2). For a light whose wavelength in air is $$\\lambda$$, calculate the change of microscope's resolving power due to oil and choose the correct option.</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "Resolving power will be $$\\frac{1}{4}$$ in the oil than it was in the air."
+        },
+        {
+          "key": "B",
+          "value": "Resolving power will be twice in the oil than it was in the air."
+        },
+        {
+          "key": "C",
+          "value": "Resolving power will be four times in the oil than it was in the air."
+        },
+        {
+          "key": "D",
+          "value": "Resolving power will be $$\\frac{1}{2}$$ in the oil than it was in the air."
+        }
+      ],
+      "answer": "B",
+      "explanation": "<p>The resolving power of a microscope is determined by the Rayleigh criterion, which states that it is inversely proportional to the wavelength of light used in the medium in which the microscopy is being performed. Mathematically, the resolving power (RP) can be represented as:</p>\n\n<p>$ RP = \\frac{1}{\\lambda_n} $</p>\n\n<p>where $\\lambda_n$ is the wavelength of light in the medium, which can be found using the formula:</p>\n\n<p>$ \\lambda_n = \\frac{\\lambda}{n} $</p>\n\n<p>Here, $\\lambda$ is the wavelength of light in vacuum (or air, for practical purposes, since their refractive indices are close enough), and $n$ is the refractive index of the medium.</p>\n\n<p>In air, the refractive index $n = 1$, so the wavelength of light in air ($\\lambda_{air}$) is equal to $\\lambda$.</p>\n\n<p>In oil, the refractive index $n = 2$, so the wavelength of light in oil ($\\lambda_{oil}$) is $\\lambda / 2$.</p>\n\n<p>Therefore, the change in resolving power when moving from air to oil can be calculated as the ratio of resolving powers in oil to air:</p>\n\n<p>$ \\frac{RP_{oil}}{RP_{air}} = \\frac{\\lambda_{air}}{\\lambda_{oil}} = \\frac{\\lambda}{\\lambda / 2} = 2 $</p>\n\n<p>This means that the resolving power in oil is twice that in air. Thus, the correct option is:</p>\n\n<p>Option B: Resolving power will be twice in the oil than it was in the air.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Light travels in two media $$M_{1}$$ and $$M_{2}$$ with speeds $$1.5 \\times 10^{8} \\mathrm{~ms}^{-1}$$ and $$2.0 \\times 10^{8} \\mathrm{~ms}^{-1}$$ respectively. The critical angle between them is :</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$\\tan ^{-1}\\left(\\frac{3}{\\sqrt{7}}\\right)$$"
+        },
+        {
+          "key": "B",
+          "value": "$$\\tan ^{-1}\\left(\\frac{2}{3}\\right)$$"
+        },
+        {
+          "key": "C",
+          "value": "$$\\cos ^{-1}\\left(\\frac{3}{4}\\right)$$"
+        },
+        {
+          "key": "D",
+          "value": "$$\\sin ^{-1}\\left(\\frac{2}{3}\\right)$$"
+        }
+      ],
+      "answer": "A",
+      "explanation": "<p>Critical angle between them</p>\n<p>$$\\sin {i_c} = {{{\\mu _2}} \\over {{\\mu _1}}} = {{{v_1}} \\over {{v_2}}}$$</p>\n<p>$$\\sin {i_c} = {3 \\over 4}$$</p>\n<p>$$ \\Rightarrow \\tan {i_c} = {3 \\over {\\sqrt 7 }}$$</p>\n<p>$${i_c} = {\\tan ^{ - 1}}{3 \\over {\\sqrt 7 }}$$</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>For an object placed at a distance 2.4 m from a lens, a sharp focused image is observed on a screen placed at a distance 12 cm from the lens. A glass plate of refractive index 1.5 and thickness 1 cm is introduced between lens and screen such that the glass plate plane faces parallel to the screen. By what distance should the object be shifted so that a sharp focused image is observed again on the screen?</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "0.8 m"
+        },
+        {
+          "key": "B",
+          "value": "3.2 m"
+        },
+        {
+          "key": "C",
+          "value": "1.2 m"
+        },
+        {
+          "key": "D",
+          "value": "5.6 m"
+        }
+      ],
+      "answer": "B",
+      "explanation": "<p>The shift produced by the glass plate is</p>\n<p>$$d = t\\left( {1 - {1 \\over \\mu }} \\right) = 1 \\times \\left( {1 - {1 \\over {1.5}}} \\right) = {1 \\over 3}$$ cm</p>\n<p>So final image must be produced at $$\\left( {12 - {1 \\over 3}} \\right)$$ cm $$ = {{35} \\over 3}$$ cm from lens so that glass plate must shift it to produce image at screen. So</p>\n<p>$${1 \\over {12}} - {1 \\over { - 240}} = {1 \\over f} = {1 \\over {35/3}} - {1 \\over u}$$</p>\n<p>$${1 \\over u} = {3 \\over {35}} - {1 \\over {12}} - {1 \\over {240}}$$</p>\n<p>or $$u =  - 560$$ cm</p>\n<p>so shift $$ = 5.6 - 2.4 = 3.2$$ m</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Which of the following statement is correct?</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "In primary rainbow, observer sees red colour on the top and violet on the bottom"
+        },
+        {
+          "key": "B",
+          "value": "In primary rainbow, observer sees violet colour on the top and red on the bottom"
+        },
+        {
+          "key": "C",
+          "value": "In primary rainbow, light wave suffers total internal reflection twice before coming out of water drops."
+        },
+        {
+          "key": "D",
+          "value": "Primary rainbow is less bright than secondary rainbow."
+        }
+      ],
+      "answer": "A",
+      "explanation": "<p>In primary rainbow, observer sees red colour on the top and violet on the bottom.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Time taken by light to travel in two different materials $$A$$ and $$B$$ of refractive indices $$\\mu_{A}$$ and $$\\mu_{B}$$ of same thickness is $$t_{1}$$ and $$t_{2}$$ respectively. If $$t_{2}-t_{1}=5 \\times 10^{-10}$$ s and the ratio of $$\\mu_{A}$$ to $$\\mu_{B}$$ is $$1: 2$$. Then, the thickness of material, in meter is: (Given $$v_{\\mathrm{A}}$$ and $$v_{\\mathrm{B}}$$ are velocities of light in $$A$$ and $$B$$ materials respectively.)</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$5 \\times 10^{-10} \\,v_{\\mathrm{A}}\\, \\mathrm{m}$$"
+        },
+        {
+          "key": "B",
+          "value": "$$5 \\times 10^{-10} \\mathrm{~m}$$"
+        },
+        {
+          "key": "C",
+          "value": "$$1.5 \\times 10^{-10} \\mathrm{~m}$$"
+        },
+        {
+          "key": "D",
+          "value": "$$5 \\times 10^{-10} \\,v_{\\mathrm{B}} \\,\\mathrm{m}$$"
+        }
+      ],
+      "answer": "A",
+      "explanation": "<p>$${t_2} - {t_1} = 5 \\times {10^{ - 10}}$$</p>\n<p>$$ \\Rightarrow {d \\over {{v_B}}} - {d \\over {{v_A}}} = 5 \\times {10^{ - 10}}$$</p>\n<p>and, $${{{v_B}} \\over {{v_A}}} = {{{\\mu _A}} \\over {{\\mu _B}}} = {1 \\over 2}$$</p>\n<p>$$ \\Rightarrow d\\left( {1 - {{{v_B}} \\over {{v_A}}}} \\right) = 5 \\times {10^{ - 10}} \\times {v_B}$$</p>\n<p>$$ \\Rightarrow d\\left( {1 - {1 \\over 2}} \\right) = 5 \\times {10^{ - 10}} \\times {v_B}$$</p>\n<p>$$ \\Rightarrow d = 10 \\times {10^{ - 10}} \\times {v_B}\\,m$$</p>\n<p>$$ \\Rightarrow d = 5 \\times {10^{ - 10}} \\times {v_A}\\,m$$</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>The speed of light in media 'A' and 'B' are $$2.0 \\times {10^{10}}$$ cm/s and $$1.5 \\times {10^{10}}$$ cm/s respectively. A ray of light enters from the medium B to A at an incident angle '$$\\theta$$'. If the ray suffers total internal reflection, then</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$\\theta  = {\\sin ^{ - 1}}\\left( {{3 \\over 4}} \\right)$$"
+        },
+        {
+          "key": "B",
+          "value": "$$\\theta  > {\\sin ^{ - 1}}\\left( {{2 \\over 3}} \\right)$$"
+        },
+        {
+          "key": "C",
+          "value": "$$\\theta  < {\\sin ^{ - 1}}\\left( {{3 \\over 4}} \\right)$$"
+        },
+        {
+          "key": "D",
+          "value": "$$\\theta  > {\\sin ^{ - 1}}\\left( {{3 \\over 4}} \\right)$$"
+        }
+      ],
+      "answer": "D",
+      "explanation": "<p>$${\\mu _A} = {{3 \\times {{10}^8}} \\over {2 \\times {{10}^8}}} = 1.5$$</p>\n<p>$${\\mu _B} = {{3 \\times {{10}^8}} \\over {1.5 \\times {{10}^8}}} = 2$$</p>\n<p>For TIR</p>\n<p>$$\\theta  > {i_c}$$</p>\n<p>$$\\theta  > {\\sin ^{ - 1}}\\left( {{{1.5} \\over 2}} \\right)$$</p>\n<p>$$\\theta  > {\\sin ^{ - 1}}\\left( {{3 \\over 4}} \\right)$$</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>The refracting angle of a prism is A and refractive index of the material of the prism is cot (A/2). Then the angle of minimum deviation will be -</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "180 $$-$$ 2A"
+        },
+        {
+          "key": "B",
+          "value": "90 $$-$$ A"
+        },
+        {
+          "key": "C",
+          "value": "180 + 2A"
+        },
+        {
+          "key": "D",
+          "value": "180 $$-$$ 3A"
+        }
+      ],
+      "answer": "A",
+      "explanation": "<p>$$\\mu  = {{\\sin \\left( {{{{\\delta _m} + A} \\over 2}} \\right)} \\over {\\sin (A/2)}} = \\cot A/2$$</p>\n<p>$$ \\Rightarrow \\cos A/2 = \\sin \\left( {{{{\\delta _m} + A} \\over 2}} \\right)$$</p>\n<p>$$ \\Rightarrow {\\pi  \\over 2} - {A \\over 2} = {{{\\delta _m} + A} \\over 2}$$</p>\n<p>$$ \\Rightarrow \\pi  - 2A = {\\delta _m}$$</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>The aperture of the objective is 24.4 cm. The resolving power of this telescope, if a light of wavelength 2440 $$\\mathop A\\limits^o $$ is used to see th object will be :</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "8.1 $$\\times$$ 10<sup>6</sup>"
+        },
+        {
+          "key": "B",
+          "value": "10.0 $$\\times$$ 10<sup>7</sup>"
+        },
+        {
+          "key": "C",
+          "value": "8.2 $$\\times$$ 10<sup>5</sup>"
+        },
+        {
+          "key": "D",
+          "value": "1.0 $$\\times$$ 10<sup>$$-$$8</sup>"
+        }
+      ],
+      "answer": "C",
+      "explanation": "<p>$$R.P. = {1 \\over {1.22\\,\\lambda /a}}$$</p>\n<p>$$ = {{24.4 \\times {{10}^{ - 2}}} \\over {1.22 \\times 2440 \\times {{10}^{ - 10}}}}$$</p>\n<p>$$ = 8.2 \\times {10^5}$$</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Consider a light ray travelling in air is incident into a medium of refractive index $$\\sqrt{2n}$$. The incident angle is twice that of refracting angle. Then, the angle of incidence will be :</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "$${\\sin ^{ - 1}}\\left( {\\sqrt n } \\right)$$"
+        },
+        {
+          "key": "B",
+          "value": "$${\\cos ^{ - 1}}\\left( {\\sqrt {{n \\over 2}} } \\right)$$"
+        },
+        {
+          "key": "C",
+          "value": "$${\\sin ^{ - 1}}\\left( {\\sqrt {2n} } \\right)$$"
+        },
+        {
+          "key": "D",
+          "value": "$$2{\\cos ^{ - 1}}\\left( {\\sqrt {{n \\over 2}} } \\right)$$"
+        }
+      ],
+      "answer": "D",
+      "explanation": "<p>According to the law,</p>\n<p>$$1 \\times \\sin \\theta  = \\sqrt {2n}  \\times \\sin \\left( {{\\theta  \\over 2}} \\right)$$</p>\n<p>$$ \\Rightarrow \\cos {\\theta  \\over 2} = \\sqrt {{n \\over 2}} $$</p>\n<p>$$ \\Rightarrow \\theta  = 2{\\cos ^{ - 1}}\\left( {\\sqrt {{n \\over 2}} } \\right)$$</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>A light wave travelling linearly in a medium of dielectric constant  4, incidents on the horizontal interface separating medium with air. The angle of incidence for which the total intensity of incident wave will be reflected back into the same medium will be :</p>\n<p>(Given : relative permeability of medium $$\\mu$$<sub>r</sub> = 1)</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "10$$^\\circ$$"
+        },
+        {
+          "key": "B",
+          "value": "20$$^\\circ$$"
+        },
+        {
+          "key": "C",
+          "value": "30$$^\\circ$$"
+        },
+        {
+          "key": "D",
+          "value": "60$$^\\circ$$"
+        }
+      ],
+      "answer": "D",
+      "explanation": "<p>$$n = \\sqrt {K\\mu }  = 2$$ (n $$\\Rightarrow$$ refractive index)</p>\n<p>So for TIR</p>\n<p>$$\\theta  > {\\sin ^{ - 1}}\\left( {{1 \\over n}} \\right)$$</p>\n<p>$$\\theta  > 30$$</p>\n<p>Only option is 60$$^\\circ$$</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>The difference of speed of light in the two media A and B (v<sub>A</sub> $$-$$ v<sub>B</sub>) is 2.6 $$\\times$$ 10<sup>7</sup> m/s. If the refractive index of medium B is 1.47, then the ratio of refractive index of medium B to medium A is : (Given : speed of light in vacuum c = 3 $$\\times$$ 10<sup>8</sup> ms<sup>$$-$$1</sup>)</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "1.303"
+        },
+        {
+          "key": "B",
+          "value": "1.318"
+        },
+        {
+          "key": "C",
+          "value": "1.13"
+        },
+        {
+          "key": "D",
+          "value": "0.12"
+        }
+      ],
+      "answer": "C",
+      "explanation": "<p>Speed of light in a medium $$ = {c \\over n}$$</p>\n<p>$$\\Rightarrow$$ According to given information,</p>\n<p>$${c \\over {{n_A}}} - {c \\over {{n_B}}} = 2.6 \\times {10^7}$$</p>\n<p>$$ \\Rightarrow {{{n_B}} \\over {{n_A}}} - 1 = {{2.6 \\times {{10}^7}} \\over {3 \\times {{10}^8}}} \\times {n_B}$$</p>\n<p>$$ \\Rightarrow {{{n_B}} \\over {{n_A}}} \\simeq 1.13$$</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "An object is placed beyond the centre of curvature C of the given concave mirror. If the distance of the object is d<sub>1</sub> from C and the distance of the image formed is d<sub>2</sub> from C, the radius of curvature of this mirror is :",
+      "options": [
+        {
+          "key": "A",
+          "value": "$${{2{d_1}{d_2}} \\over {{d_1} - {d_2}}}$$"
+        },
+        {
+          "key": "B",
+          "value": "$${{2{d_1}{d_2}} \\over {{d_1} + {d_2}}}$$"
+        },
+        {
+          "key": "C",
+          "value": "$${{{d_1}{d_2}} \\over {{d_1} + {d_2}}}$$"
+        },
+        {
+          "key": "D",
+          "value": "$${{{d_1}{d_2}} \\over {{d_1} - {d_2}}}$$"
+        }
+      ],
+      "answer": "A",
+      "explanation": "Using Newton's formula<br><br>$$(f + {d_1})(f - {d_2}) = {f^2}$$<br><br>$${f^2} + f{d_1} - f{d_2} - {d_1}{d_2} = {f^2}$$<br><br>$$f = {{{d_1}{d_2}} \\over {{d_1} - {d_2}}}$$<br><br>$$\\therefore$$ $$R = {{2{d_1}{d_2}} \\over {{d_1} - {d_2}}}$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Car B overtakes another car A at a relative speed of 40 ms<sup>$$-$$1</sup>. How fast will the image of car B appear to move in the mirror of focal length 10 cm fitted in car A, when the car B is 1.9 m away from the car A?",
+      "options": [
+        {
+          "key": "A",
+          "value": "4 ms<sup>$$-$$1</sup>"
+        },
+        {
+          "key": "B",
+          "value": "0.2 ms<sup>$$-$$1</sup>"
+        },
+        {
+          "key": "C",
+          "value": "40 ms<sup>$$-$$1</sup>"
+        },
+        {
+          "key": "D",
+          "value": "0.1 ms<sup>$$-$$1</sup>"
+        }
+      ],
+      "answer": "D",
+      "explanation": "Here, $${1 \\over v} + {1 \\over u} = {1 \\over f}$$ .......(1)\n<br/><br/>$$ \\Rightarrow $$ $${1 \\over v} + {1 \\over { - 190}} = {1 \\over {10}}$$\n<br/><br/>$$ \\Rightarrow $$ v = $${{19} \\over 2}$$\n<br/><br/>Differentiating equation (1) w.r.t t we get\n<br/><br/>$$ - {1 \\over {{v^2}}}\\left( {{{dv} \\over {dt}}} \\right) - {1 \\over {{u^2}}}\\left( {{{du} \\over {dt}}} \\right) = 0$$\n<br/><br/>$$ \\Rightarrow $$ $$\\left( {{{dv} \\over {dt}}} \\right) =  - {{{v^2}} \\over {{u^2}}}\\left( {{{du} \\over {dt}}} \\right)$$\n<br/><br/>$$ \\Rightarrow $$ $$\\left( {{{dv} \\over {dt}}} \\right) =  - {\\left( {{{{{19} \\over 2}} \\over {190}}} \\right)^2} \\times 40$$\n<br/><br/>$$ = {1 \\over {400}} \\times 40 = 0.1$$ m/s"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A prism of refractive index $$\\mu$$ and angle of prism A is placed in the position of minimum angle of deviation. If minimum angle of deviation is also A, then in terms of refractive index",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$2{\\cos ^{ - 1}}\\left( {{\\mu  \\over 2}} \\right)$$"
+        },
+        {
+          "key": "B",
+          "value": "$${\\sin ^{ - 1}}\\left( {{\\mu  \\over 2}} \\right)$$"
+        },
+        {
+          "key": "C",
+          "value": "$${\\sin ^{ - 1}}\\left( {\\sqrt {{{\\mu  - 1} \\over 2}} } \\right)$$"
+        },
+        {
+          "key": "D",
+          "value": "$${\\cos ^{ - 1}}\\left( {{\\mu  \\over 2}} \\right)$$"
+        }
+      ],
+      "answer": "A",
+      "explanation": "$$\\mu  = {{\\sin \\left( {{{A + {\\delta _{\\min }}} \\over 2}} \\right)} \\over {\\sin \\left( {{A \\over 2}} \\right)}}$$<br><br>$$\\mu  = {{\\sin \\left( {{{A + A} \\over 2}} \\right)} \\over {\\sin \\left( {{A \\over 2}} \\right)}}$$<br><br>$$\\mu  = {{\\sin A} \\over {\\sin {A \\over 2}}} = 2\\cos {A \\over 2}$$<br><br>$$A = 2{\\cos ^{ - 1}}\\left( {{\\mu  \\over 2}} \\right)$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A ray of laser of a wavelength 630 nm is incident at an angle of 30$$^\\circ$$ at the diamond-air interface. It is going from diamond to air. The refractive index of diamond is 2.42 and that of air is 1. Choose the correct option.",
+      "options": [
+        {
+          "key": "A",
+          "value": "angle of refraction is 24.41$$^\\circ$$"
+        },
+        {
+          "key": "B",
+          "value": "angle of refraction is 30$$^\\circ$$"
+        },
+        {
+          "key": "C",
+          "value": "refraction is not possible"
+        },
+        {
+          "key": "D",
+          "value": "angle of refraction is 53.4$$^\\circ$$"
+        }
+      ],
+      "answer": "C",
+      "explanation": "$$\\sin {\\theta _C} = {1 \\over \\mu } = {1 \\over {2{\\mu _2}}} &lt; \\sin {\\theta _C}$$<br><br>sin$$\\theta$$ &gt; sin$$\\theta$$<sub>C</sub><br><br>$$\\theta$$ &gt; $$\\theta$$<sub>C</sub><br><br>Total internal reflection will happen."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Your friend is having eye sight problem. She is not able to see clearly a distant uniform window mesh and it appears to her as non-uniform and distorted. The doctor diagnosed the problem as :",
+      "options": [
+        {
+          "key": "A",
+          "value": "Astigmatism"
+        },
+        {
+          "key": "B",
+          "value": "Myopia with Astigmatism"
+        },
+        {
+          "key": "C",
+          "value": "Presbyopia with Astigmatism"
+        },
+        {
+          "key": "D",
+          "value": "Myopia and Hypermetropia"
+        }
+      ],
+      "answer": "B",
+      "explanation": "Myopia with Astigmatism causes distant objects to\nbe blurry and distorted."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The refractive index of a converging lens is 1.4. What will be the focal length of this lens if it is placed in a medium of same refractive index? Assume the radii of curvature of the faces of lens are R<sub>1</sub> and R<sub>2</sub> respectively.",
+      "options": [
+        {
+          "key": "A",
+          "value": "Zero"
+        },
+        {
+          "key": "B",
+          "value": "Infinite"
+        },
+        {
+          "key": "C",
+          "value": "1"
+        },
+        {
+          "key": "D",
+          "value": "$${{{R_1}{R_2}} \\over {{R_1} - {R_2}}}$$"
+        }
+      ],
+      "answer": "B",
+      "explanation": "Given, initially refractive index (n<sub>1</sub>) = 1.4\n<br><br>Then it placed in medium of same refractive index.\n<br><br>$$ \\therefore $$ n<sub>2</sub> = 1.4\n<br><br>We know, Focal length\n<br><br>$${1 \\over f} = \\left( {{{{n_1}} \\over {{n_2}}} - 1} \\right)\\left( {{1 \\over {{R_1}}} - {1 \\over {{R_2}}}} \\right)$$\n<br><br>$$ \\Rightarrow $$ $${1 \\over f} = \\left( {{{1.4} \\over {1.4}} - 1} \\right)\\left( {{1 \\over {{R_1}}} - {1 \\over {{R_2}}}} \\right)$$\n<br><br>$$ \\Rightarrow $$ $${1 \\over f} = 0$$\n<br><br>$$ \\Rightarrow $$ f = infinite"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Red light differs from blue light as they have :",
+      "options": [
+        {
+          "key": "A",
+          "value": "Different frequencies and same wavelengths"
+        },
+        {
+          "key": "B",
+          "value": "Different frequencies and different wavelengths"
+        },
+        {
+          "key": "C",
+          "value": "Same frequencies and different wavelengths"
+        },
+        {
+          "key": "D",
+          "value": "Same frequencies and same wavelengths"
+        }
+      ],
+      "answer": "B",
+      "explanation": "Red light and blue light have different wavelength and different frequency."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The focal length f is related to the radius of curvature r of the spherical convex mirror by :",
+      "options": [
+        {
+          "key": "A",
+          "value": "f = r"
+        },
+        {
+          "key": "B",
+          "value": "f = $$-$$ r"
+        },
+        {
+          "key": "C",
+          "value": "f = +$${{1 \\over 2}}$$ r"
+        },
+        {
+          "key": "D",
+          "value": "f = $$-$$$${{1 \\over 2}}$$ r"
+        }
+      ],
+      "answer": "C",
+      "explanation": "For convex mirror, the focal length (f) and radius of curvature (r) are related as $$f =  + {r \\over 2}$$."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A double convex lens has power P and same radii of curvature R of both the surfaces. The radius of\ncurvature of a surface of a plano-convex lens made of the same material with power 1.5 P is :",
+      "options": [
+        {
+          "key": "A",
+          "value": "$${R \\over 3}$$"
+        },
+        {
+          "key": "B",
+          "value": "$${{3R} \\over 2}$$"
+        },
+        {
+          "key": "C",
+          "value": "$${R \\over 2}$$"
+        },
+        {
+          "key": "D",
+          "value": "2R"
+        }
+      ],
+      "answer": "A",
+      "explanation": "Assume refractive index = $$\\mu $$<sub>$$l$$</sub>\n<br><br>P = $$\\left( {{\\mu _l} - 1} \\right)\\left( {{2 \\over R}} \\right)$$ .....(1)\n<br><br>$${3 \\over 2}P = \\left( {{\\mu _l} - 1} \\right)\\left( {{1 \\over {{R_1}}}} \\right)$$ ......(2)\n<br><br>from (1)/(2)\n<br><br>$${P \\over {{3 \\over 2}P}} = {{\\left( {{2 \\over R}} \\right)} \\over {\\left( {{1 \\over {{R_1}}}} \\right)}}$$\n<br><br>$$ \\Rightarrow $$ R<sub>1</sub> = $${R \\over 3}$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The critical angle of a medium for a specific wavelength, if the medium has relative permittivity 3 and relative permeability $${4 \\over 3}$$ for this wavelength, will be :",
+      "options": [
+        {
+          "key": "A",
+          "value": "45°"
+        },
+        {
+          "key": "B",
+          "value": "15°"
+        },
+        {
+          "key": "C",
+          "value": "30°"
+        },
+        {
+          "key": "D",
+          "value": "60°"
+        }
+      ],
+      "answer": "C",
+      "explanation": "n = $$\\sqrt {{\\varepsilon _r}{\\mu _r}}  = \\sqrt {3 \\times {4 \\over 3}} $$ = 2\n<br><br>n sin c = 1 sin 90<sup>o</sup>\n<br><br>sin c = $${1 \\over 2}$$\n<br><br>$$ \\Rightarrow $$ c = 30<sup>o</sup>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The magnifying power of a telescope with tube\n60 cm is 5. What is the focal length of its eye\npiece ?",
+      "options": [
+        {
+          "key": "A",
+          "value": "40 cm"
+        },
+        {
+          "key": "B",
+          "value": "10 cm"
+        },
+        {
+          "key": "C",
+          "value": "30 cm"
+        },
+        {
+          "key": "D",
+          "value": "20 cm"
+        }
+      ],
+      "answer": "B",
+      "explanation": "For telescope\n<br><br>Tube length (L) = f<sub>0</sub> + f<sub>e</sub>\n<br><br>and magnification (m) = $${{{f_0}} \\over {{f_e}}}$$ = 5\n<br><br>where f<sub>o</sub> and f<sub>e</sub> are focal length of objective\nand eyepiece.\n<br><br>$$ \\therefore $$ f<sub>0</sub> + f<sub>e</sub> = 60\n<br><br>$$ \\therefore $$ f<sub>o</sub> = 50 cm\n<br><br>f<sub>e</sub> = 10 cm"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A thin lens made of glass (refractive index = 1.5) of focal length f = 16 cm is immersed in a liquid\nof refractive index 1.42. If its focal length in liquid is f<sub>1</sub>\n, then the ratio $${{{f_1}} \\over f}$$ is closest to the\ninteger :",
+      "options": [
+        {
+          "key": "A",
+          "value": "17"
+        },
+        {
+          "key": "B",
+          "value": "1"
+        },
+        {
+          "key": "C",
+          "value": "9"
+        },
+        {
+          "key": "D",
+          "value": "5"
+        }
+      ],
+      "answer": "C",
+      "explanation": "Using formula\n<br>$${1 \\over f} = \\left( {{{{\\mu _2}} \\over {{\\mu _1}}} - 1} \\right)\\left( {{1 \\over {{R_1}}} - {1 \\over {{R_2}}}} \\right)$$\n<br><br>$${1 \\over {{f}}} = \\left( {{{1.5} \\over 1} - 1} \\right)\\left( {{1 \\over {{R_1}}} - {1 \\over {{R_2}}}} \\right)$$ ...(1)\n<br><br>and $${1 \\over {{f_1}}} = \\left( {{{1.5} \\over {1.42}} - 1} \\right)\\left( {{1 \\over {{R_1}}} - {1 \\over {{R_2}}}} \\right)$$ ...(2)\n<br><br>Dividing (1) by (2), we get\n<br><br>$${{{f_1}} \\over f} = {{0.5} \\over {0.056}}$$ = 8.93 $$ \\approx $$ 9 "
+    },
+    {
+      "_type": "single_mcq",
+      "body": "If we need a magnification of 375 from a compound microscope of tube length 150 mm and an objective of focal length 5 mm, the focal length of the eye-piece, should be close to :",
+      "options": [
+        {
+          "key": "A",
+          "value": "22 mm"
+        },
+        {
+          "key": "B",
+          "value": "12 mm"
+        },
+        {
+          "key": "C",
+          "value": "33 mm"
+        },
+        {
+          "key": "D",
+          "value": "2 mm"
+        }
+      ],
+      "answer": "A",
+      "explanation": "<b>Case 1 :</b> Near – point adjustment\n<br><br>M.P = $${L \\over {{f_0}}}\\left( {1 + {D \\over {{f_e}}}} \\right)$$\n<br><br>$$ \\Rightarrow $$ 375 = $${{150} \\over 5}\\left( {1 + {{250} \\over {{f_e}}}} \\right)$$\n<br><br>$$ \\Rightarrow $$ f<sub>e</sub> = 21.7 mm $$ \\approx $$ 22 mm\n<br><br><b>Case-2 :</b>\nIf final image is at inifinity \n<br><br>M.P = $${L \\over {{f_0}}}\\left( {{D \\over {{f_e}}}} \\right)$$\n<br><br>$$ \\Rightarrow $$375 = $${{150} \\over 5}\\left( {{{250} \\over {{f_e}}}} \\right)$$\n<br><br>$$ \\Rightarrow $$ f<sub>e</sub> = 20 mm\n"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A convex lens of focal length 20 cm produces\nimages of the same magnification 2 when an\nobject is kept at two distances x<sub>1</sub> and x<sub>2</sub>\n(x<sub>1</sub> &gt; x<sub>2</sub>) from the lens. The ratio of x<sub>1</sub> and x<sub>2</sub>\nis :-",
+      "options": [
+        {
+          "key": "A",
+          "value": "3 : 1"
+        },
+        {
+          "key": "B",
+          "value": "2 : 1"
+        },
+        {
+          "key": "C",
+          "value": "5 : 3"
+        },
+        {
+          "key": "D",
+          "value": "4 : 3"
+        }
+      ],
+      "answer": "A",
+      "explanation": "Magnification is 2<br><br>\nIf image is real, $${x_1} = {{3f} \\over 2}$$<br><br>\nIf image is virtual, $${x_2} = {f \\over 2}$$<br><br>\n$${{{x_1}} \\over {{x_2}}} = 3:1$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A concave mirror for face viewing has focal\nlength of 0.4 m. The distance at which you hold\nthe mirror from your face in order to see your\nimage upright with a magnification of 5 is :",
+      "options": [
+        {
+          "key": "A",
+          "value": "0.24 m"
+        },
+        {
+          "key": "B",
+          "value": "0.32 m"
+        },
+        {
+          "key": "C",
+          "value": "1.60 m"
+        },
+        {
+          "key": "D",
+          "value": "0.16 m"
+        }
+      ],
+      "answer": "B",
+      "explanation": "$$m = {f \\over {f - u}}$$<br><br>\n$$5 = {{ - 40} \\over { - 40 - u}};\\,u =  - 32cm$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A monochromatic light is incident at a certain angle on an equilateral triangular prism and suffers minimum deviation. If the refractive index of the material of the prism is $$\\sqrt 3 $$, then the angle of incidence is:",
+      "options": [
+        {
+          "key": "A",
+          "value": "60<sup>o</sup>"
+        },
+        {
+          "key": "B",
+          "value": "45<sup>o</sup>"
+        },
+        {
+          "key": "C",
+          "value": "90<sup>o</sup>"
+        },
+        {
+          "key": "D",
+          "value": "30<sup>o</sup>"
+        }
+      ],
+      "answer": "A",
+      "explanation": "i = e\n<br><br>r<sub>1</sub> = r<sub>2</sub> = $${A \\over 2}$$ = 30<sup>o</sup>\n<br><br>by Snell's law\n<br><br>1 $$ \\times $$ sin i = $$\\sqrt 3  \\times {1 \\over 2} = {{\\sqrt 3 } \\over 2}$$\n<br><br>i = 60"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "An object is at a distance of 20 m from a convex lens of focal length 0.3 m. The lens forms an image of the object. If the object moves away from the lens at a speed of 5 m/s, the speed and direction of the image will be : ",
+      "options": [
+        {
+          "key": "A",
+          "value": "1.16 $$ \\times $$ 10<sup>–3</sup> m/s towards the lens "
+        },
+        {
+          "key": "B",
+          "value": "2.26 $$ \\times $$ 10<sup>–3</sup> m/s away from the lens"
+        },
+        {
+          "key": "C",
+          "value": "3.22 × 10<sup>–3</sup> m/s towards the lens"
+        },
+        {
+          "key": "D",
+          "value": "0.92 $$ \\times $$ 10<sup>$$-$$3</sup> m/s away from the lens"
+        }
+      ],
+      "answer": "A",
+      "explanation": "From lens equation\n<br><br>$${1 \\over v} - {1 \\over u} = {1 \\over f}$$\n<br><br>$${1 \\over v} - {1 \\over {\\left( { - 20} \\right)}} = {1 \\over {\\left( {.3} \\right)}} = {{10} \\over 3}$$\n<br><br>$${1 \\over v} = {{10} \\over 3} - {1 \\over {20}}$$\n<br><br>$${1 \\over v} = {{197} \\over {60}};v = {{60} \\over {197}}$$\n<br><br>m = $$\\left( {{v \\over u}} \\right)$$ = $${{\\left( {{{60} \\over {197}}} \\right)} \\over {20}}$$\n<br><br>velocity of image wrt. to lens is given by \n<br><br>v<sub>I/L</sub> = m<sup>2</sup>v<sub>O/L</sub>\n<br><br>direction of velocity of image is same as that of object\n<br><br>v<sub>O/L</sub> = 5 m/s"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A plano convex lens of refractive index $$\\mu $$<sub>1</sub> and focal length ƒ<sub>1</sub> is kept in contact with another plano concave lens of refractive index $$\\mu $$<sub>2</sub> and focal length ƒ<sub>2</sub>. If the radius of curvature of their spherical faces is R each and ƒ<sub>1</sub> = 2ƒ<sub>2</sub>, then $$\\mu $$<sub>1</sub> and $$\\mu $$<sub>2</sub> are related as -",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$3{\\mu _2} - 2{\\mu _1}$$ = 1"
+        },
+        {
+          "key": "B",
+          "value": "$${\\mu _1} + {\\mu _2}$$ = 3"
+        },
+        {
+          "key": "C",
+          "value": "$$2{\\mu _1} - {\\mu _2}$$ = 1"
+        },
+        {
+          "key": "D",
+          "value": "$$2{\\mu _2} - {\\mu _1}$$ = 1"
+        }
+      ],
+      "answer": "C",
+      "explanation": "$${1 \\over {2{f_2}}} = {1 \\over {{f_1}}} = \\left( {{\\mu _1} - 1} \\right)\\left( {{1 \\over \\infty } - {1 \\over { - R}}} \\right)$$\n<br><br>$${1 \\over {{f_2}}} = \\left( {{\\mu _2} - 1} \\right)\\left( {{1 \\over { - R}} - {1 \\over \\infty }} \\right)$$\n<br><br>$${{\\left( {{\\mu _1} - 1} \\right)} \\over R} = {{\\left( {{\\mu _2} - 1} \\right)} \\over {2R}}$$\n<br><br>$$2{\\mu _1} - {\\mu _2} = 1$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A convergent doublet of separated lenses, corrected for spherical aberration, has resultant focal length of 10 cm. The separation between the two lenses is $$2$$ cm. The focal lengths of the component lenses are : ",
+      "options": [
+        {
+          "key": "A",
+          "value": "10 cm, 12 cm"
+        },
+        {
+          "key": "B",
+          "value": "12 cm, 14 cm"
+        },
+        {
+          "key": "C",
+          "value": "16 cm, 18 cm"
+        },
+        {
+          "key": "D",
+          "value": "18 cm, 20cm"
+        }
+      ],
+      "answer": "D",
+      "explanation": "<p>For a convergent doublet of separated lens, we have</p>\n<p>$${1 \\over f} = {1 \\over {{f_1}}} + {1 \\over {{f_2}}} - {d \\over {{f_1}{f_2}}}$$ ...... (1)</p>\n<p>where d is separation between two lens, f<sub>1</sub> and f<sub>2</sub> are focal lengths of component lenses, f is resultant focal length. Therefore, Eq. (1) becomes</p>\n<p>$${1 \\over {10}} = {1 \\over {{f_1}}} + {1 \\over {{f_2}}} - {2 \\over {{f_1}{f_2}}} \\Rightarrow {1 \\over {10}} = \\left( {{{{f_2} + {f_1} - 2} \\over {{f_1}{f_2}}}} \\right)$$</p>\n<p>$$ \\Rightarrow {f_1}{f_2} = 10{f_2} + 10{f_1} - 20$$</p>\n<p>$$ \\Rightarrow 10{f_1} + 10{f_2} - {f_1}{f_2} =  + 20$$</p>\n<p>For f<sub>1</sub> = 18 cm and f<sub>2</sub> = 20 cm, the above equation satisfies.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "To determine refractive index of glass slab using a travelling microscope, minimum number of readings required are :",
+      "options": [
+        {
+          "key": "A",
+          "value": "Two "
+        },
+        {
+          "key": "B",
+          "value": "Three "
+        },
+        {
+          "key": "C",
+          "value": "Four "
+        },
+        {
+          "key": "D",
+          "value": "Five "
+        }
+      ],
+      "answer": "B",
+      "explanation": "<p>The refractive index is</p>\n<p>$$\\mu  = {{{\\mathop{\\rm Real}\\nolimits} \\,depth} \\over {Apparent\\,depth}} = {{{\\mathop{\\rm Reading}\\nolimits} \\,3 - Reading\\,1} \\over {{\\mathop{\\rm Reading}\\nolimits} \\,3 - Reading\\,2}}$$</p>\n<p>Therefore, the minimum of three readings are required.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "To find the focal length of a convex mirror, a student records the following data :\n<br><br><style type=\"text/css\">\n.tg  {border-collapse:collapse;border-spacing:0;}\n.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}\n.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}\n.tg .tg-wrg0{font-size:22px;text-align:center;vertical-align:top}\n.tg .tg-wv9z{font-size:22px;text-align:center}\n</style>\n<table class=\"tg\">\n  <tbody><tr>\n    <th class=\"tg-wv9z\">Object<br>Pin</th>\n    <th class=\"tg-wv9z\">Convex<br>Lens</th>\n    <th class=\"tg-wv9z\">Convex<br>Mirror</th>\n    <th class=\"tg-wrg0\">Image<br>Pin</th>\n  </tr>\n  <tr>\n    <td class=\"tg-wv9z\">22.2 cm</td>\n    <td class=\"tg-wv9z\">32.2 cm</td>\n    <td class=\"tg-wv9z\">45.8 cm</td>\n    <td class=\"tg-wrg0\">71.2 cm</td>\n  </tr>\n</tbody></table>\n<br><br>The focal length of the convex lens is f<sub>1</sub> and that of mirror is f<sub>2</sub>. Then taking index correction to be negligibly small, f<sub>1</sub> and f<sub>2</sub> are close to :",
+      "options": [
+        {
+          "key": "A",
+          "value": "f<sub>1</sub> = 12.7 cm&nbsp;&nbsp;&nbsp; f<sub>2</sub> = 7.8 cm"
+        },
+        {
+          "key": "B",
+          "value": "f<sub>1</sub> = 7.8 cm&nbsp;&nbsp;&nbsp; f<sub>2</sub> = 12.7 cm"
+        },
+        {
+          "key": "C",
+          "value": "f<sub>1</sub> = 7.8 cm&nbsp;&nbsp;&nbsp; f<sub>2</sub> = 25.4 cm"
+        },
+        {
+          "key": "D",
+          "value": "f<sub>1</sub> = 15.6 cm&nbsp;&nbsp;&nbsp; f<sub>2</sub> = 25.4 cm"
+        }
+      ],
+      "answer": "B",
+      "explanation": "For lens : \n<br><br>u<sub>1</sub> = $$-$$ (32.2 $$-$$ 22.2) cm\n<br><br>= $$-$$ 10 cm\n<br><br>v<sub>1</sub> = (71.2 $$-$$ 32.2) cm\n<br><br>= 39 cm\n<br><br>$$ \\therefore $$&nbsp;&nbsp;&nbsp;$${1 \\over {{f_1}}}$$ = $${1 \\over {{v_1}}} - {1 \\over {{u_1}}}$$\n<br><br>= $${1 \\over {39}}$$ + $${1 \\over {10}}$$\n<br><br>= $${{49} \\over {390}}$$\n<br><br>$$ \\therefore $$&nbsp;&nbsp;&nbsp;f<sub>1</sub> = 7.8 cm\n<br><br>For mirror : \n<br><br>R = (71.2 $$-$$ 45.8) cm \n<br><br>= 25.4 cm\n<br><br>$$ \\therefore $$&nbsp;&nbsp;&nbsp;f<sub>2</sub> = $${R \\over 2}$$ =  $${{25.4} \\over 2}$$ = 12.7 cm"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "An observer looks at a distant tree of height $$10$$ $$m$$ with a telescope of magnifying power of $$20.$$ To the observer the tree appears: ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$20$$ times taller "
+        },
+        {
+          "key": "B",
+          "value": "$$20$$ times nearer "
+        },
+        {
+          "key": "C",
+          "value": "$$10$$ times taller "
+        },
+        {
+          "key": "D",
+          "value": "$$10$$ times nearer "
+        }
+      ],
+      "answer": "B",
+      "explanation": "A telescope magnifies by making the object appearing closer."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "In an experiment for determination of refractive index of glass of a prism by $$i - \\delta ,$$ plot it was found thata ray incident at angle $${35^ \\circ }$$, suffers a deviation of $${40^ \\circ }$$ and that it emerges at angle $${79^ \\circ }.$$ In that case which of the following is closest to the maximum possible value of the refractive index? ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$1.7$$ "
+        },
+        {
+          "key": "B",
+          "value": "$$1.8$$ "
+        },
+        {
+          "key": "C",
+          "value": "$$1.5$$ "
+        },
+        {
+          "key": "D",
+          "value": "$$1.6$$ "
+        }
+      ],
+      "answer": "C",
+      "explanation": "We know that $$i + e - A = \\delta $$\n<br><br>$${35^ \\circ } + {79^ \\circ } - A = {40^ \\circ }$$\n<br><br>$$\\therefore$$ $$A = {74^ \\circ }$$\n<br><br>But $$\\mu  = {{\\sin \\left( {{{A + {\\delta _m}} \\over 2}} \\right)} \\over {\\sin A/2}} = {{\\sin \\left( {{{74 + \\delta } \\over 2}} \\right)} \\over {\\sin {{74} \\over 2}}}$$\n<br><br>$$ = {5 \\over 3}\\sin \\left( {{{37}^ \\circ } + {{{\\delta _m}} \\over 2}} \\right)$$\n<br><br>$${\\mu _{\\max }}\\,$$ can be $${5 \\over 3}.$$ That is $${\\mu _{\\max }}$$ is less than $${5 \\over 3} = 1.67$$\n<br><br>But $${\\delta _m}$$ will be less than $${40^ \\circ }$$ so\n<br><br>$$\\mu  &lt; {5 \\over 3}\\sin \\,{57^ \\circ } &lt; {5 \\over 3}\\,\\,$$ $$\\sin {60^ \\circ } \\Rightarrow \\mu  = 1.45$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A thin convex lens made from crown glass $$\\left( {\\mu  = {3 \\over 2}} \\right)$$ has focal length $$f$$. When it is measured in two different liquids having refractive indices $${4 \\over 3}$$ and $${5 \\over 3},$$  it has the focal lengths $${f_1}$$ and $${f_2}$$ respectively. The correct relation between the focal lengths is : ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$${f_1} = {f_2} &lt; f$$ "
+        },
+        {
+          "key": "B",
+          "value": "$${f_1} &gt; f$$ and $${f_2}$$ becomes negative "
+        },
+        {
+          "key": "C",
+          "value": "$${f_2} &gt; f$$ and $${f_1}$$ becomes negative "
+        },
+        {
+          "key": "D",
+          "value": "$${f_1}\\,$$ and$${f_2}\\,$$ both become negative "
+        }
+      ],
+      "answer": "B",
+      "explanation": "By Lens maker's formula for convex lens\n<br><br>$${1 \\over f} = \\left( {{\\mu  \\over {{\\mu _L}}} - 1} \\right)\\left( {{2 \\over R}} \\right)$$\n<br><br>for, $$\\mu {L_1} = {4 \\over 3},{f_1} = 4R$$\n<br><br>for $$\\mu {L_2} = {5 \\over 3},{f_2} =  - 5R$$\n<br><br>$$ \\Rightarrow {f_2} = \\left(  -  \\right)ve$$ "
+    },
+    {
+      "_type": "single_mcq",
+      "body": "An object $$2.4$$ $$m$$ in front of a lens forms a sharp image on a film $$12$$ $$cm$$ behind the lens.  A glass plate $$1$$ $$cm$$ thick, of refractive index $$1.50$$ is interposed between lens and film with its plane faces parallel to film. At what distance (from lens) should object shifted to be in sharp focus of film? ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$7.2$$ $$m$$ "
+        },
+        {
+          "key": "B",
+          "value": "$$24$$ $$m$$ "
+        },
+        {
+          "key": "C",
+          "value": "$$3.2$$ $$m$$ "
+        },
+        {
+          "key": "D",
+          "value": "$$5.6$$ $$m$$ "
+        }
+      ],
+      "answer": "D",
+      "explanation": "The focal length of the lens\n<br><br>$${1 \\over f} = {1 \\over \\upsilon } - {1 \\over u} = {1 \\over {12}} + {1 \\over {240}}$$\n<br><br>$$ = {{20 + 1} \\over {240}} = {{21} \\over {240}}$$\n<br><br>$$f = {{240} \\over {21}}cm$$\n<br><br>Shift $$ = t\\left( {1 - {1 \\over \\mu }} \\right) \\Rightarrow 1\\left( {1 - {1 \\over {3/2}}} \\right)$$\n<br><br>$$ = 1 \\times {1 \\over 3}$$\n<br><br>Now $$v' = 12 - {1 \\over 3} = {{35} \\over 3}cm$$\n<br><br>Now the object distancce $$u.$$\n<br><br>$${1 \\over u} = {3 \\over {35}} - {{21} \\over {240}} = {1 \\over 5}\\left[ {{3 \\over 7} - {{21} \\over {48}}} \\right]$$\n<br><br>$${1 \\over u} = {1 \\over 5}\\left[ {{{48 - 49} \\over {7 \\times 16}}} \\right]$$\n<br><br>$$u =  - 7 \\times 16 \\times 5 =  - 560cm =  - 5.6\\,m$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A car is fitted with a convex side-view mirror of focal length $$20$$ $$cm$$. A second car $$2.8m$$ behind the first car is overtaking the first car at a relative speed of $$15$$ $$m/s$$. The speed of the image of the second car as seen in the mirror of the first one is : ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$${1 \\over {15}}\\,m/s$$ "
+        },
+        {
+          "key": "B",
+          "value": "$$10\\,m/s$$ "
+        },
+        {
+          "key": "C",
+          "value": "$$15\\,m/s$$ "
+        },
+        {
+          "key": "D",
+          "value": "$${1 \\over {10}}\\,m/s$$"
+        }
+      ],
+      "answer": "A",
+      "explanation": "From mirror formula\n<br><br>$${1 \\over v} + {1 \\over u} = {1 \\over f}\\,\\,\\,$$ \n<br><br>so, $$\\,\\,\\,{{dv} \\over {dt}} =  - {{{v^2}} \\over {{u^2}}}\\left( {{{du} \\over {dt}}} \\right)$$\n<br><br>$$ \\Rightarrow {{dv} \\over {dt}} =  - {\\left( {{f \\over {u - f}}} \\right)^2}{{du} \\over {dt}}$$\n<br><br>$$ \\Rightarrow {{dv} \\over {dt}} = {1 \\over {15}}m/s$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "An initially parallel cylindrical beam travels in a medium of refractive index $$\\mu \\left( I \\right) = {\\mu _0} + {\\mu _2}\\,I,$$ where $${\\mu _0}$$ and $${\\mu _2}$$ are positive constants and $$I$$ is the intensity of the light beam. The intensity of the beam is decreasing with increasing radius.\n<p>The speed of light in the medium is </p> ",
+      "options": [
+        {
+          "key": "A",
+          "value": "minimum on the axis of the beam "
+        },
+        {
+          "key": "B",
+          "value": "the same everywhere in the beam "
+        },
+        {
+          "key": "C",
+          "value": "directly proportional to the intensity $$I$$ "
+        },
+        {
+          "key": "D",
+          "value": "maximum on the axis of the beam  "
+        }
+      ],
+      "answer": "A",
+      "explanation": "The speed of light $$(c)$$ in a medium of refractive index $$\\left( \\mu  \\right)$$ is given by\n<br><br>$$\\mu  = {{{c_0}} \\over c},$$ where $${c_0}$$ is the speed of light in vacuum\n<br><br>$$\\therefore$$ $$c = {{{c_0}} \\over \\mu } = {{{c_0}} \\over {{\\mu _0} + {\\mu _2}\\left( I \\right)}}$$\n<br><br>As $$I$$ is decreasing with increasing radius, it is maximum \n<br><br>on the axis of the beam. Therefore, $$c$$ is minimum on the axis of the beam."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Two lenses of power $$-15$$ $$D$$ and $$+5$$ $$D$$ are in contact with each other. The focal length of the combination is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$ + 10\\,cm$$ "
+        },
+        {
+          "key": "B",
+          "value": "$$ - 20\\,cm$$"
+        },
+        {
+          "key": "C",
+          "value": "$$ - 10\\,cm$$"
+        },
+        {
+          "key": "D",
+          "value": "$$ + 20\\,cm$$"
+        }
+      ],
+      "answer": "C",
+      "explanation": "Power of combination is given by\n<br><br>$$P = {P_1} + {P_2} = \\left( { - 15 + 5} \\right)D$$  $$\\,\\,\\,\\,\\,\\,\\,\\,\\, =  - 10D.$$\n<br><br>Now, $$P = {1 \\over f} \\Rightarrow f = {1 \\over P} = {1 \\over { - 10}}$$ metre\n<br><br>$$\\therefore$$ $$f =  - \\left( {{1 \\over {10}} \\times 100} \\right)cm =  - 10\\,cm.$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The refractive index of a glass is $$1.520$$ for red light and $$1.525$$ for blue light. Let $${D_1}$$ and $${D_2}$$ be angles of minimum deviation for red and blue light respectively in a prism of this glass. Then, ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$${D_1} &lt; {D_2}$$ "
+        },
+        {
+          "key": "B",
+          "value": "$${D_1} = {D_2}$$ "
+        },
+        {
+          "key": "C",
+          "value": "$${D_1}$$ can be less than or greater than $${D_2}$$ depending upon the angle of prism"
+        },
+        {
+          "key": "D",
+          "value": "$${D_1} &gt; {D_2}$$ "
+        }
+      ],
+      "answer": "A",
+      "explanation": "For a thin prism, $$D = \\left( {\\mu  - 1} \\right)A$$\n<br><br>Since $${\\lambda _b} &lt; {\\lambda _r} \\Rightarrow {\\mu _r} &lt; {\\mu _b} \\Rightarrow {D_1} &lt; {D_2}$$ "
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A thin glass (refractive index $$1.5$$) lens has optical power of $$-5$$ $$D$$ in air. Its optical power in a liquid medium with refractive index $$1.6$$ will be ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$-1$$ $$D$$ "
+        },
+        {
+          "key": "B",
+          "value": "$$1$$ $$D$$ "
+        },
+        {
+          "key": "C",
+          "value": "$$-25$$ $$D$$ "
+        },
+        {
+          "key": "D",
+          "value": "$$25$$ $$D$$"
+        }
+      ],
+      "answer": "B",
+      "explanation": "$${1 \\over {{f_a}}} = \\left( {{{1.5} \\over 1} - 1} \\right)\\left( {{1 \\over {{R_1}}} - {1 \\over {{R_2}}}} \\right)\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,...\\left( i \\right)$$\n<br><br>$${1 \\over {{f_m}}} = \\left( {{{{\\mu _g}} \\over {{\\mu _m}}} - 1} \\right)\\left( {{1 \\over {{R_1}}} - {1 \\over {{R_2}}}} \\right)$$\n<br><br>$${1 \\over {{f_m}}} = \\left( {{{1.5} \\over {1.6}} - 1} \\right)\\left( {{1 \\over {{R_1}}} - {1 \\over {{R_2}}}} \\right)\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,...\\left( {ii} \\right)$$\n<br><br>Dividing $$(i)$$ by $$(ii)$$, $${{{f_m}} \\over {{f_a}}} = \\left( {{{1.5 - 1} \\over {{{1.5} \\over {1.6}} - 1}}} \\right) =  - 8$$\n<br><br>$${P_a} =  - 5 = {1 \\over {{f_a}}} \\Rightarrow {f_a} =  - {1 \\over 5}$$\n<br><br>$$ \\Rightarrow {f_m} =  - 8 \\times {f_a} =  - 8 \\times  - {1 \\over 5} = {8 \\over 5}$$\n<br><br>$${P_m} = {\\mu  \\over {{f_m}}} = {{1.6} \\over 8} \\times 5 = 1D$$ "
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A plano convex lens of refractive index $$1.5$$ and radius of curvature $$30$$ $$cm$$. Is silvered at the curved surface. Now this lens has been used to form the image of an object. At what distance from this lens an object be placed in order to have a real image of size of the object ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$60$$ $$cm$$ "
+        },
+        {
+          "key": "B",
+          "value": "$$30$$ $$cm$$ "
+        },
+        {
+          "key": "C",
+          "value": "$$20$$ $$cm$$ "
+        },
+        {
+          "key": "D",
+          "value": "$$80$$ $$cm$$ "
+        }
+      ],
+      "answer": "C",
+      "explanation": "<b>KEY CONCEPT :</b> The focal length $$\\left( F \\right)$$ of the final mirror\n<br><br>is $${1 \\over F} = {2 \\over {f\\ell }} + {1 \\over {{f_m}}}$$\n<br><br>Here $${1 \\over {{f_\\ell }}} = \\left( {\\mu  - 1} \\right)\\left( {{1 \\over {{R_1}}} - {1 \\over {{R_2}}}} \\right)$$\n<br><br>$$ = \\left( {1.5 - 1} \\right)\\left[ {{1 \\over \\alpha } - {1 \\over { - 30}}} \\right] = {1 \\over {60}}$$\n<br><br>$$\\therefore$$ $${1 \\over F} = 2 \\times {1 \\over {60}} + {1 \\over {30/2}} = {1 \\over {10}}$$\n<br><br>$$\\therefore$$ $$F=10cm$$\n<br><br>The combination acts as a converging mirror. For the object to be of the same size of mirror, \n<br><br>$$u = 2F = 20cm$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "To get three images of a single object, one should have two plane mirrors at an angle of ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$${60^ \\circ }$$ "
+        },
+        {
+          "key": "B",
+          "value": "$${90^ \\circ }$$"
+        },
+        {
+          "key": "C",
+          "value": "$${120^ \\circ }$$"
+        },
+        {
+          "key": "D",
+          "value": "$${30^ \\circ }$$"
+        }
+      ],
+      "answer": "B",
+      "explanation": "When $$\\theta  = {90^ \\circ }$$ then $${{360} \\over \\theta } = {{360} \\over {90}} = 4$$\n<br><br>is an even number. The number of images formed is given by\n<br><br>$$n = {{360} \\over \\theta } - 1 = {{360} \\over {90}} - 1 = 4 - 1 = 3$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The image formed by an objective of a compound microscope is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "virtual and diminished "
+        },
+        {
+          "key": "B",
+          "value": "real an diminished   "
+        },
+        {
+          "key": "C",
+          "value": "real and enlarged "
+        },
+        {
+          "key": "D",
+          "value": "virtual and enlarged  "
+        }
+      ],
+      "answer": "C",
+      "explanation": "A real, inverted and enlarged image of the object is formed by the objective lens of a compound microscope."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "If two mirrors are kept at $${60^ \\circ }$$ to each other, then the number of images formed by them is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$5$$ "
+        },
+        {
+          "key": "B",
+          "value": "$$6$$ "
+        },
+        {
+          "key": "C",
+          "value": "$$7$$ "
+        },
+        {
+          "key": "D",
+          "value": "$$8$$ "
+        }
+      ],
+      "answer": "A",
+      "explanation": "<b>KEY CONCEPT :</b> When two plane mirrors are inclined a each other at an angle $$\\theta $$ then the number of the images of a point object placed between the plane mirrors is \n<br><br>$${{{{360}^ \\circ }} \\over \\theta } - 1,\\,\\,if{{{{360}^ \\circ }} \\over \\theta }$$ is even\n<br><br>$$\\therefore$$ Number of images formed \n<br><br>$$ = {{{{360}^ \\circ }} \\over {{{60}^ \\circ }}} - 1 = 5$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "An astronomical telescope has a large aperture to ",
+      "options": [
+        {
+          "key": "A",
+          "value": "reduce spherical aberration "
+        },
+        {
+          "key": "B",
+          "value": "have high resolution "
+        },
+        {
+          "key": "C",
+          "value": "increase span of observation "
+        },
+        {
+          "key": "D",
+          "value": "have low dispersion"
+        }
+      ],
+      "answer": "B",
+      "explanation": "<b>KEY CONCEPT :</b> The resolving power of a telescope \n<br><br>$$R.P = {D \\over {122\\lambda }}$$ where $$D=$$ diameter of the objective lens \n<br><br>$$\\lambda  = $$ wavelength of light.\n<br><br>Clearly, larger the aperture, larger is the value of $$D,$$\n<br><br>more is the resolving power or resolution."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Which of the following is used in optical fibres? ",
+      "options": [
+        {
+          "key": "A",
+          "value": "total internal reflection "
+        },
+        {
+          "key": "B",
+          "value": "scattering "
+        },
+        {
+          "key": "C",
+          "value": "diffracttion"
+        },
+        {
+          "key": "D",
+          "value": "refraction "
+        }
+      ],
+      "answer": "A",
+      "explanation": "<p>Optical fibers work on the principle of total internal reflection. When light is transmitted through the fiber, it is reflected off the inner walls of the fiber in such a way that it remains within the fiber, allowing it to carry the light signal over great distances with minimal loss. </p>\n<p>So, the correct answer is :</p>\n<p>Option A : total internal reflection.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Wavelength of light used in an  optical instrument are $${\\lambda _1} = 4000\\mathop A\\limits^ \\circ  $$ and $${\\lambda _2} = 5000\\mathop A\\limits^ \\circ  ,$$  then ratio of their respective resolving powers (corresponding  to $${\\lambda _1}$$ and $${\\lambda _2}$$ ) is :",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$16:25$$ "
+        },
+        {
+          "key": "B",
+          "value": "$$9:1$$ "
+        },
+        {
+          "key": "C",
+          "value": "$$4:5$$ "
+        },
+        {
+          "key": "D",
+          "value": "$$5:4$$"
+        }
+      ],
+      "answer": "D",
+      "explanation": "<p>The resolving power (RP) of an optical instrument is inversely proportional to the wavelength (λ) of light used. So, if we denote the resolving powers corresponding to λ₁ and λ₂ as RP₁ and RP₂ respectively, we can express this relationship as :</p>\n<p>RP $$ \\propto $$ $${1 \\over \\lambda }$$</p>\n<p>Therefore, the ratio of the resolving powers corresponding to λ₁ and λ₂ is given by the inverse of the ratio of the wavelengths. In LaTeX notation, this relationship can be written as :</p>\n<p>$\\frac{RP_1}{RP_2} = \\frac{\\lambda_2}{\\lambda_1}$</p>\n<p>Substituting the given wavelengths into this equation, we get :</p>\n<p>$\\frac{RP_1}{RP_2} = \\frac{5000 \\, \\text{Å}}{4000 \\, \\text{Å}} = \\frac{5}{4}$</p>\n<p>So, the correct answer is :</p>\n<p>Option D : 5 : 4.</p>\n"
+    },
+    {
+      "_type": "numerical",
+      "body": "A ray of light suffers minimum deviation when incident on a prism having angle of the prism equal to $60^{\\circ}$. The refractive index of the prism material is $\\sqrt{2}$. The angle of incidence (in degrees) is__________",
+      "answer": "45",
+      "explanation": ""
+    },
+    {
+      "_type": "numerical",
+      "body": "<p>The refractive index of prism is $$\\mu=\\sqrt{3}$$ and the ratio of the angle of minimum deviation to the angle of prism is one. The value of angle of prism is _________$$^\\circ$$.</p>",
+      "answer": "60",
+      "explanation": "<p>To find the value of the angle of the prism given the refractive index of the prism $$\\mu = \\sqrt{3}$$ and the ratio of the angle of minimum deviation ($$\\delta_m$$) to the angle of the prism ($$A$$) is 1 (i.e., $$\\frac{\\delta_m}{A} = 1 \\Rightarrow \\delta_m = A$$), we can use the prism formula relating these variables.</p>\n\n<p>The formula that relates the angle of deviation $$\\delta$$, refractive index $$\\mu$$, angle of prism $$A$$, and angle of minimum deviation $$\\delta_m$$ is given by:</p>\n\n<p>$$\\mu = \\frac{\\sin \\left(\\frac{\\delta_m + A}{2}\\right)}{\\sin \\left(\\frac{A}{2}\\right)}$$.</p>\n\n<p>Given that $$\\delta_m = A$$, our formula becomes:</p>\n\n<p>$$\\sqrt{3} = \\frac{\\sin \\left(\\frac{A + A}{2}\\right)}{\\sin \\left(\\frac{A}{2}\\right)}$$</p>\n\n<p>Simplifying this, we have:</p>\n\n<p>$$\\sqrt{3} = \\frac{\\sin(A)}{\\sin \\left(\\frac{A}{2}\\right)}$$</p>\n\n<p>Now, recall the trigonometric identity:</p>\n\n<p>$$\\sin(2\\theta) = 2\\sin(\\theta)\\cos(\\theta)$$</p>\n\n<p>By setting $$\\theta = \\frac{A}{2}$$, we get:</p>\n\n<p>$$\\sin(A) = 2\\sin\\left(\\frac{A}{2}\\right)\\cos\\left(\\frac{A}{2}\\right)$$</p>\n\n<p>Substituting back into our equation:</p>\n\n<p>$$\\sqrt{3} = \\frac{2\\sin\\left(\\frac{A}{2}\\right)\\cos\\left(\\frac{A}{2}\\right)}{\\sin \\left(\\frac{A}{2}\\right)}$$</p>\n\n<p>$$\\sqrt{3} = 2\\cos\\left(\\frac{A}{2}\\right)$$</p>\n\n<p>Dividing by 2 and solving for $$\\cos\\left(\\frac{A}{2}\\right)$$:</p>\n\n<p>$$\\cos\\left(\\frac{A}{2}\\right) = \\frac{\\sqrt{3}}{2}$$</p>\n\n<p>This corresponds to an angle $$\\frac{A}{2}$$ of $$30^\\circ$$ since the cosine of 30 degrees is $$\\frac{\\sqrt{3}}{2}$$. Thus:</p>\n\n<p>$$\\frac{A}{2} = 30^\\circ$$</p>\n\n<p>So, the angle of the prism $$A$$ is:</p>\n\n<p>$$A = 2 \\times 30^\\circ = 60^\\circ$$.</p>\n\n<p>Therefore, the value of the angle of the prism is $$60^\\circ$$. </p>"
+    },
+    {
+      "_type": "numerical",
+      "body": "<p>A light ray is incident on a glass slab of thickness $$4 \\sqrt{3} \\mathrm{~cm}$$ and refractive index $$\\sqrt{2}$$ The angle of incidence is equal to the critical angle for the glass slab with air. The lateral displacement of ray after passing through glass slab is ______ $$\\mathrm{cm}$$.</p>\n<p>(Given $$\\sin 15^{\\circ}=0.25$$)</p>",
+      "answer": "2",
+      "explanation": "<p>$$\\begin{aligned}\n& \\mu=\\sqrt{2} \\\\\n& \\sin \\theta_C=\\frac{1}{\\sqrt{2}} \\\\\n& Q_C=45^{\\circ} \\\\\n& i=Q_C=45^{\\circ}\n\\end{aligned}$$</p>\n<p>$$\\begin{aligned}\n& \\text { ( } \\phi \\text { ) lateral displacement }=\\frac{t \\sin (i-r)}{\\cos r} \\\\\n& \\sin 45^{\\circ}=\\sqrt{2} \\sin r \\\\\n& \\Rightarrow \\quad r=30^{\\circ} \\\\\n& \\therefore \\quad d=\\frac{4 \\sqrt{3} \\sin \\left(45^{\\circ}-30^{\\circ}\\right)}{\\cos 30^{\\circ}} \\\\\n& =\\frac{4 \\sqrt{3} \\times \\frac{1}{4}}{\\frac{\\sqrt{3}}{2}}=2\n\\end{aligned}$$</p>"
+    },
+    {
+      "_type": "numerical",
+      "body": "<p>Light from a point source in air falls on a convex curved surface of radius $$20 \\mathrm{~cm}$$ and refractive index 1.5. If the source is located at $$100 \\mathrm{~cm}$$ from the convex surface, the image will be formed at ________ $$\\mathrm{cm}$$ from the object.</p>",
+      "answer": "200",
+      "explanation": "<p>In the problem, you&#39;re dealing with refraction at a convex surface. The light is coming from a point source located in air (with a refractive index, $$ \\mu_1 = 1.0 $$) and entering a medium with a refractive index of $$ \\mu_2 = 1.5 $$. The convex surface has a radius of curvature $$ R = 20 \\, \\text{cm} $$, and the source is placed $$ 100 \\, \\text{cm} $$ from the convex surface.</p>\n<p>The formula used to find the image distance $$ v $$ due to refraction at a spherical surface is:</p>\n<p>$$\n\\frac{\\mu_2}{v} - \\frac{\\mu_1}{u} = \\frac{\\mu_2 - \\mu_1}{R}\n$$</p>\n<p>Substituting the given values:</p>\n<p>$$\n\\frac{1.5}{v} - \\frac{1}{-100} = \\frac{1.5 - 1}{20}\n$$</p>\n<p>This equation allows us to solve for $$ v $$, the distance from the convex surface to the image. Upon solving, we found that $$ v = 100 \\, \\text{cm} $$, which means the image forms $$ 100 \\, \\text{cm} $$ on the other side of the convex surface, away from the point of refraction.</p>\n<p>The distance from the object to the image isn&#39;t just $$ v $$, the distance from the surface to where the image forms. Since the object is $$ 100 \\, \\text{cm} $$ from the convex surface and the image also forms $$ 100 \\, \\text{cm} $$ from the convex surface but on the opposite side, the total distance between the object and the image is the sum of these distances:</p>\n<ul>\n<li>Distance from the object to the convex surface: $$ 100 \\, \\text{cm} $$</li>\n<li>Distance from the convex surface to the image: $$ 100 \\, \\text{cm} $$</li>\n</ul>\n<p>Therefore, the total distance between the object and the image is $$ 100 \\, \\text{cm} + 100 \\, \\text{cm} = 200 \\, \\text{cm} $$.</p>\n<p>This calculation accounts for the physical layout where the object and the image are on opposite sides of the convex surface, and to determine the distance between them, you sum the distances from each to the surface. This results in the image being formed $$ 200 \\, \\text{cm} $$ from the object, which means if you were to measure directly from the object to its image, the total distance covered would be $$ 200 \\, \\text{cm} $$.</p>\n"
+    },
+    {
+      "_type": "numerical",
+      "body": "<p>The distance between object and its two times magnified real image as produced by a convex lens is $$45 \\mathrm{~cm}$$. The focal length of the lens used is _______ cm.</p>",
+      "answer": "10",
+      "explanation": "<p>$$\\begin{aligned}\n& \\frac{v}{u}=-2 \\\\\n& v=-2 u \\quad\\text{... (i)} \\\\\n& v-u=45 \\quad\\text{... (ii)}\\\\\n& \\Rightarrow u=-15 \\mathrm{~cm} \\\\\n& v=30 \\mathrm{~cm} \\\\\n& \\frac{1}{f}=\\frac{1}{v}-\\frac{1}{u} \\\\\n& f=+10 \\mathrm{~cm}\n\\end{aligned}$$</p>"
+    },
+    {
+      "_type": "numerical",
+      "body": "The refractive index of a transparent liquid filled in an equilateral hollow prism is $\\sqrt{2}$. The angle of minimum deviation for the liquid will be ___________ $$^\\circ$$.",
+      "answer": "30",
+      "explanation": "To find the angle of minimum deviation for the liquid in the equilateral hollow prism, we can use the formula for the angle of minimum deviation based on the refractive index $n$ and the prism angle $A$:\n<br/><br/>\n$n = \\frac{\\sin \\frac{A + \\delta_m}{2}}{\\sin \\frac{A}{2}}$\n<br/><br/>\nIn this case, the refractive index $n = \\sqrt{2}$, and since the prism is equilateral, the prism angle $A = 60^\\circ$. Now, we can substitute these values into the formula and solve for the angle of minimum deviation $\\delta_m$:\n<br/><br/>\n$\\sqrt{2} = \\frac{\\sin \\frac{60^\\circ + \\delta_m}{2}}{\\sin \\frac{60^\\circ}{2}}$\n<br/><br/>\nFirst, let's find the sine of half the prism angle:\n<br/><br/>\n$\\sin \\frac{60^\\circ}{2} = \\sin 30^\\circ = \\frac{1}{2}$\n<br/><br/>\nNow, we can substitute this value into the formula:\n<br/><br/>\n$\\sqrt{2} = \\frac{\\sin \\frac{60^\\circ + \\delta_m}{2}}{\\frac{1}{2}}$\n<br/><br/>\nTo isolate the sine term, we multiply both sides by $\\frac{1}{2}$:\n<br/><br/>\n$\\frac{\\sqrt{2}}{2} = \\sin \\frac{60^\\circ + \\delta_m}{2}$\n<br/><br/>\nNow, we can find the angle inside the sine function:\n<br/><br/>\n$\\frac{60^\\circ + \\delta_m}{2} = \\sin^{-1} \\frac{\\sqrt{2}}{2} = 45^\\circ$\n<br/><br/>\nFinally, we can solve for the angle of minimum deviation $\\delta_m$:\n<br/><br/>\n$60^\\circ + \\delta_m = 2 \\cdot 45^\\circ$\n<br/><br/>\n$\\delta_m = 90^\\circ - 60^\\circ = 30^\\circ$\n<br/><br/>\nThe angle of minimum deviation for the liquid in the equilateral hollow prism is $30^\\circ$."
+    },
+    {
+      "_type": "numerical",
+      "body": "<p>A bi convex lens of focal length $$10 \\mathrm{~cm}$$ is cut in two identical parts along a plane perpendicular to the principal axis. The power of each lens after cut is ____________ D.</p>",
+      "answer": "5",
+      "explanation": "When a biconvex lens is cut into two identical parts along a plane perpendicular to the principal axis, each part becomes a plano-convex lens. To find the new power of each plano-convex lens, we can use the lensmaker's formula:\n<br/><br/>\n$$\\frac{1}{f} = (n - 1) \\left(\\frac{1}{R_1} - \\frac{1}{R_2}\\right)$$\n<br/><br/>\nFor the original biconvex lens, both radii of curvature have the same magnitude but opposite signs, so let's denote them as ±R. The focal length of the original lens is given as 10 cm, and the refractive index (n) is constant for both the original lens and the new plano-convex lenses. \n<br/><br/>\nFor the original lens, the lensmaker's formula becomes:\n<br/><br/>\n$$\\frac{1}{f} = (n - 1) \\left(\\frac{1}{R} - \\frac{1}{-R}\\right)$$\n<br/><br/>\nSince the focal length is given as 10 cm, we can plug in the value:\n<br/><br/>\n$$\\frac{1}{10} = (n - 1) \\left(\\frac{1}{R} + \\frac{1}{R}\\right)$$<br/><br/>\n$$\\frac{1}{10} = (n - 1) \\left(\\frac{2}{R}\\right)$$\n<br/><br/>\nFor each plano-convex lens, one radius of curvature (R1) is infinite (the flat side), and the other radius (R2) is the same as the original lens (R). The lensmaker's formula for the plano-convex lens becomes:\n<br/><br/>\n$$\\frac{1}{f'} = (n - 1) \\left(\\frac{1}{\\infty} - \\frac{1}{R}\\right)$$<br/><br/>\n$$\\frac{1}{f'} = (n - 1) \\left(-\\frac{1}{R}\\right)$$<br/><br/>\n\nNow, we can substitute the expression for (n-1)(2/R) from the original lens equation:\n<br/><br/>\n$$\\frac{1}{f'} = \\frac{1}{10} \\cdot \\frac{1}{2}$$\n$$\\frac{1}{f'} = \\frac{1}{20}$$\n<br/><br/>\nSo, the focal length of each plano-convex lens (f') is 20 cm. To find the power of each lens, we can use the formula:\n<br/><br/>\n$$P (\\text{in diopters}) = \\frac{1}{f (\\text{in meters})}$$\n<br/><br/>\nConverting the focal length to meters and calculating the power:\n<br/><br/>\n$$P = \\frac{1}{0.2}$$<br/><br/>\n$$P = 5 \\text{ D}$$<br/><br/>\nSo, the power of each plano-convex lens after the cut is 5 diopters (D)."
+    },
+    {
+      "_type": "numerical",
+      "body": "<p>A fish rising vertically upward with a uniform velocity of $$8 \\mathrm{~ms}^{-1}$$, observes that a bird is diving vertically downward towards the fish with the velocity of $$12 \\mathrm{~ms}^{-1}$$. If the refractive index of water is $$\\frac{4}{3}$$, then the actual velocity of the diving bird to pick the fish, will be __________ $$\\mathrm{ms}^{-1}$$.</p>",
+      "answer": "3",
+      "explanation": "The bird's diving velocity is given relative to the fish. In order to find the actual velocity of the bird, we need to consider the refractive index of the water.\n<br/><br/>\nThe fish sees the bird diving with a velocity of $$12 \\ \\text{m/s}$$. We can write the equation considering the velocities relative to the fish:\n<br/><br/>\n$$\\frac{V_{\\text{b/f}}}{\\frac{4}{3}} = \\frac{-8}{\\frac{4}{3}} + \\frac{-v}{1}$$\n<br/><br/>\nHere, $$V_{\\text{b/f}}$$ is the bird's diving velocity relative to the fish, and $$v$$ is the actual velocity of the bird.\n<br/><br/>\nNow, let's solve for $$v$$:\n<br/><br/>\n$$\\frac{-12}{\\frac{4}{3}} = \\frac{-8}{\\frac{4}{3}} - v$$\n<br/><br/>\n$$v = 3 \\ \\text{m/s}$$\n<br/><br/>\nSo, the actual velocity of the diving bird to pick the fish relative to the fish is $$3 \\ \\text{m/s}$$."
+    },
+    {
+      "_type": "numerical",
+      "body": "<p>The radius of curvature of each surface of a convex lens having refractive index 1.8 is $$20 \\mathrm{~cm}$$. The lens is now immersed in a liquid of refractive index 1.5 . The ratio of power of lens in air to its power in the liquid will be $$x: 1$$. The value of $$x$$ is _________.</p>",
+      "answer": "4",
+      "explanation": "<p>Let&#39;s find the focal length of the lens in air and in the liquid. We will use the lens maker&#39;s formula:</p>\n<p>$$\\frac{1}{f} = (\\mu - 1)\\left(\\frac{1}{R_1} - \\frac{1}{R_2}\\right)$$</p>\n<p>where $$f$$ is the focal length, $$\\mu$$ is the refractive index of the lens material, and $$R_1$$ and $$R_2$$ are the radii of curvature of the lens surfaces.</p>\n<p>Since the lens is convex, both surfaces have the same radius of curvature (positive), so $$R_1 = R_2 = 20 \\mathrm{~cm}$$.</p>\n<p>First, let&#39;s find the focal length of the lens in air:</p>\n<p>$$\\frac{1}{f_\\text{air}} = (1.8 - 1)\\left(\\frac{1}{20} - \\frac{1}{20}\\right) = 0.8\\left(\\frac{1}{20}\\right)$$</p>\n<p>$$f_\\text{air} = \\frac{1}{0.8\\left(\\frac{1}{20}\\right)} = 25 \\mathrm{~cm}$$</p>\n<p>Now, let&#39;s find the focal length of the lens in the liquid. The relative refractive index of the lens with respect to the liquid is:</p>\n<p>$$\\mu_\\text{rel} = \\frac{1.8}{1.5} = 1.2$$</p>\n<p>$$\\frac{1}{f_\\text{liquid}} = (1.2 - 1)\\left(\\frac{1}{20}\\right)$$</p>\n<p>$$f_\\text{liquid} = \\frac{1}{0.2\\left(\\frac{1}{20}\\right)} = 100 \\mathrm{~cm}$$</p>\n<p>The power of a lens is given by:</p>\n<p>$$P = \\frac{1}{f}$$</p>\n<p>Now, we can find the ratio of the power of the lens in air to its power in the liquid:</p>\n<p>$$\\frac{P\\text{air}}{P</em>\\text{liquid}} = \\frac{f\\text{liquid}}{f</em>\\text{air}} = \\frac{100}{25} = 4$$</p>\n<p>So, the ratio of the power of the lens in air to its power in the liquid is $$x:1$$, where $$x = 4$$.</p>\n"
+    },
+    {
+      "_type": "numerical",
+      "body": "<p>Two transparent media having refractive indices 1.0 and 1.5 are separated by a spherical refracting surface of radius of curvature $$30 \\mathrm{~cm}$$. The centre of curvature of surface is towards denser medium and a point object is placed on the principle axis in rarer medium at a distance of $$15 \\mathrm{~cm}$$ from the pole of the surface. The distance of image from the pole of the surface is ____________ $$\\mathrm{cm}$$.</p>",
+      "answer": "30",
+      "explanation": "<p>The refraction at a spherical surface is governed by the formula:</p>\n<p>$\\frac{1}{v} - \\frac{1}{u} = \\frac{n_2 - n_1}{R} n_2$</p>\n<p>where:</p>\n<ul>\n<li>(v) is the image distance,</li>\n<li>(u) is the object distance,</li>\n<li>($n_1$) is the refractive index of the medium where the object is,</li>\n<li>($n_2$) is the refractive index of the medium where the image is formed,</li>\n<li>(R) is the radius of curvature of the refracting surface.</li>\n</ul>\n<p>Here, we have:</p>\n<ul>\n<li>(u = -15) cm (the object is on the same side as the light is coming from, so the distance is taken as negative),</li>\n<li>($n_1$ = 1.0) (refractive index of the rarer medium),</li>\n<li>($n_2$ = 1.5) (refractive index of the denser medium),</li>\n<li>(R = -30) cm (the center of curvature is in the denser medium, so the radius is taken as negative).</li>\n</ul>\n<p>Substituting these values into the formula, we get:</p>\n<p>$\\frac{1}{v} - \\left(-\\frac{1}{15}\\right) = \\frac{1.5 - 1.0}{-30} \\cdot 1.5$</p>\n<p>Solving for (v), we get:</p>\n<p>$v = \\frac{1}{\\frac{1}{15} + \\frac{1.5}{30}} = -30 \\, \\text{cm}$</p>\n<p>Therefore, the image is formed at a distance of 30 cm from the pole of the surface, on the same side as the object. The negative sign indicates that the image is virtual and is formed on the same side of the surface as the light is coming from.</p>\n"
+    },
+    {
+      "_type": "numerical",
+      "body": "<p>A pole is vertically submerged in swimming pool, such that it gives a length of shadow $$2.15 \\mathrm{~m}$$ within water when sunlight is incident at angle of $$30^{\\circ}$$ with the surface of water. If swimming pool is filled to a height of $$1.5 \\mathrm{~m}$$, then the height of the pole above the water surface in centimeters is $$\\left(n_{w}=4 / 3\\right)$$ ____________.</p>",
+      "answer": "50",
+      "explanation": "<p>The pole is vertically submerged in the swimming pool, and the length of the shadow is due to the sunlight that is incident at an angle of $30^{\\circ}$ with the surface of water. Hence, the angle of incidence, $i$, is $60^{\\circ}$ (since the angle of incidence is measured from the normal to the surface, and the normal is perpendicular to the surface).</p>\n<p>Using Snell&#39;s law, we find the angle of refraction, $r$, as you correctly did:</p>\n<p>$$\\sin r = \\frac{n_{1}}{n_{2}} \\sin i = \\frac{3}{4} \\sin 60^{\\circ} = \\frac{3 \\sqrt{3}}{8}$$</p>\n<p>This gives $\\tan r = \\frac{3 \\sqrt{3}}{\\sqrt{37}}$.</p>\n<p>Now, the shadow of the pole in the water forms a right triangle, with the submerged part of the pole as one side, the shadow as the hypotenuse, and the line segment from the water surface to the end of the shadow as the other side. The angle at the water surface is $r$. Thus, we can write the following relationships:</p>\n<p>The length of the submerged part of the pole (which I&#39;ll call $x$), is given by:</p>\n<p>$$x = 2.15 \\, \\text{m} \\cdot \\cos r$$</p>\n<p>And the length of the line segment from the water surface to the end of the shadow (which I&#39;ll call $y$), is given by:</p>\n<p>$$y = 2.15 \\, \\text{m} \\cdot \\sin r$$</p>\n<p>The total length of the pole above the water surface is then the sum of $x$ and the depth of the swimming pool (1.5 m), which gives us the equation:</p>\n<p>$$x \\sqrt{3} + 1.5 \\, \\text{m} \\cdot \\tan r = 2.15 \\, \\text{m}$$</p>\n<p>Solving this for $x$ gives us:</p>\n<p>$$x = \\frac{2.15 \\, \\text{m}}{\\sqrt{3}} - \\frac{1.5 \\, \\text{m} \\cdot 3}{\\sqrt{37}} = 0.502 \\, \\text{m} = 50.2 \\, \\text{cm}$$</p>\n<p>So, the height of the pole above the water surface is approximately 50 cm.</p>\n"
+    },
+    {
+      "_type": "numerical",
+      "body": "<p>In an experiment for estimating the value of focal length of converging mirror, image of an object placed at $$40 \\mathrm{~cm}$$ from the pole of the mirror is formed at distance $$120 \\mathrm{~cm}$$ from the pole of the mirror. These distances are measured with a modified scale in which there are 20 small divisions in \n$$1 \\mathrm{~cm}$$. The value of error in measurement of focal length of the mirror is $$\\frac{1}{\\mathrm{~K}} \\mathrm{~cm}$$. The value of $$\\mathrm{K}$$ is __________.</p>",
+      "answer": "32",
+      "explanation": "<p>$${1 \\over v} + {1 \\over u} = {1 \\over f}$$ ...... (1)</p>\n<p>$$ \\Rightarrow  - {1 \\over {{f^2}}}df =  - {1 \\over {{v^2}}}dv - {1 \\over {{u^2}}}du$$</p>\n<p>$$ \\Rightarrow {{df} \\over {{f^2}}} = {{dv} \\over {{v^2}}} + {{du} \\over {{u^2}}}$$ ..... (2)</p>\n<p>From (1) : $$ - {1 \\over {120}} - {1 \\over {40}} = {1 \\over f} \\Rightarrow f =  - 30$$ cm</p>\n<p>Also, least count $$ = {{1\\,\\mathrm{cm}} \\over {20}} = 0.05$$ cm</p>\n<p>$$ \\Rightarrow df = \\left[ {{{0.05} \\over {{{120}^2}}} + {{0.05} \\over {{{40}^2}}}} \\right] \\times {30^2}$$</p>\n<p>$$ = 0.05\\left[ {{1 \\over {16}} + {9 \\over {16}}} \\right] = {5 \\over 8} \\times {5 \\over {100}} = {1 \\over {32}}$$ cm</p>\n<p>$$ \\Rightarrow k = 32$$</p>"
+    },
+    {
+      "_type": "numerical",
+      "body": "<p>In an experiment of measuring the refractive index of a glass slab using travelling microscope in physics lab, a student measures real thickness of the glass slab as 5.25 mm and apparent thickness of the glass slab as 5.00 mm. Travelling microscope has 20 divisions in one cm on main scale and 20 divisions on vernier scale is equal to 49 divisions on main scale. The estimated uncertainty in the measurement of refractive index of the slab is $$\\frac{x}{10}\\times10^{-3}$$, where $$x$$ is ___________</p>",
+      "answer": "41",
+      "explanation": "<p>$$\\mu=\\frac{\\mathrm{real\\,depth}\\,(l_1)}{\\mathrm{apparent\\,depth}\\,(l_2)}$$</p>\n<p>$$=\\frac{5.25}{5}=1.05$$</p>\n<p>$$\\frac{d\\mu}{\\mu}=\\frac{dl_1}{l_1}+\\frac{dl_2}{l_2}$$</p>\n<p>$$d\\mu  = \\left( {{{d{l_1}} \\over {{l_1}}} + {{d{l_2}} \\over {{l_2}}}} \\right)\\mu $$</p>\n<p>$$ = \\left( {{{0.01} \\over {5.25}} + {{0.01} \\over {5.00}}} \\right) \\times 1.05$$</p>\n<p>$$ = {{41} \\over {10}} \\times {10^{ - 3}}$$</p>\n<p>so $$x = 41$$</p>"
+    },
+    {
+      "_type": "numerical",
+      "body": "<p>A convex lens of refractive index 1.5 and focal length 18cm in air is immersed in water. The change in focal length of the lens will be ___________ cm.</p>\n<p>(Given refractive index of water $$=\\frac{4}{3}$$)</p>",
+      "answer": "54",
+      "explanation": "From lens makers formula\n<br/><br/>\n$$\n\\frac{1}{f}=\\left(\\frac{\\mu_{\\text {lens }}}{\\mu_{\\text {mrdium }}}-1\\right)\\left[\\frac{1}{R_{1}}-\\frac{1}{R_{2}}\\right]\n$$\n<br/><br/>\nwhen in air\n<br/><br/>\n$$\n\\frac{1}{18}=\\left(\\frac{1.5}{1}-1\\right)\\left[\\frac{1}{R_{1}}-\\frac{1}{R_{2}}\\right]\\quad...(1)\n$$\n<br/><br/>\n$\\mu_{\\text {lense }}=1.5, \\mu_{\\text {air }}=1$. <br/><br/>when in water\n<br/><br/>\n$$\n\\frac{1}{f}=\\left(\\frac{1.5}{4 / 3}-1\\right)\\left[\\frac{1}{R_{1}}-\\frac{1}{R_{2}}\\right]\\quad...(2)\n$$\n<br/><br/>\nfrom (1) &amp; (2)\n<br/><br/>\n$f=72$\n<br/><br/>\nChange in focal length $=72-18 = 54$\n"
+    },
+    {
+      "_type": "numerical",
+      "body": "<p>In an experiment with a convex lens, The plot of the image distance $$\\left(v^{\\prime}\\right)$$ against the object distance ($$\\left.\\mu^{\\prime}\\right)$$ measured from the focus gives a curve $$v^{\\prime} \\mu^{\\prime}=225$$. If all the distances are measured in $$\\mathrm{cm}$$. The magnitude of the focal length of the lens is ___________ cm.</p>",
+      "answer": "15",
+      "explanation": "<p>Using Newton's formula for lenses,</p>\n<p>$$v'\\mu ' = {f^2} = 225 \\Rightarrow f = 15$$</p>"
+    },
+    {
+      "_type": "numerical",
+      "body": "<p>The refractive index of an equilateral prism is $$\\sqrt 2 $$. The angle of emergence under minimum deviation position of prism, in degree, is ___________.</p>",
+      "answer": "45",
+      "explanation": "Refractive index\n<br/><br/>\n$$\n\\begin{aligned}\n& \\mu=\\frac{\\sin \\left(\\frac{A+\\delta \\sin }{2}\\right)}{\\sin \\left(\\frac{A}{2}\\right)} \\Rightarrow \\sqrt{2}=\\sin \\frac{\\left(\\frac{60+\\delta \\min }{2}\\right)}{\\sin 30^{\\circ}} \\\\\\\\\n& \\Rightarrow \\frac{1}{2}=\\sin \\left(\\frac{60+\\delta \\min }{2}\\right) \\Rightarrow 45^{\\circ}=\\frac{60+\\delta \\min }{2} \\\\\\\\\n& \\Rightarrow \\delta \\min =30^{\\circ} \\\\\\\\\n& \\delta=\\mathrm{i}+\\mathrm{e}-\\mathrm{A} \\\\\\\\\n& \\text { Here, } e=i \\\\\\\\\n& \\text { So, } \\delta \\mathrm{min}=2 \\mathrm{e}-\\mathrm{A} \\Rightarrow 2 \\mathrm{e}=\\delta \\min +\\mathrm{A} \\\\\\\\\n& e=\\frac{\\delta \\min +A}{2}=\\frac{30^{\\circ}+60^{\\circ}}{2}=45^{\\circ}\n\\end{aligned}\n$$"
+    },
+    {
+      "_type": "numerical",
+      "body": "<p>Two identical thin biconvex lens of focal length 15 cm and refractive index 1.5 are in contact with each other. The space between the lenses is filled with a liquid of refractive index 1.25. The focal length of the combination is __________ cm.</p>",
+      "answer": "10",
+      "explanation": "<p>$${1 \\over {{f_l}}} = \\left( {{{{\\mu _e}} \\over {{\\mu _m}}} - 1} \\right)\\left( {{1 \\over {{R_1}}} - {1 \\over {{R_2}}}} \\right)$$</p>\n<p>here $$|{R_1}| = |{R_2}| = R$$</p>\n<p>$$ \\Rightarrow {1 \\over {{f_{{l_1}}}}} = (1.5 - 1)\\left( {{2 \\over R}} \\right) = {1 \\over {15}}$$</p>\n<p>$$ \\Rightarrow {1 \\over R} = {1 \\over {15}}$$ or $$R = 15$$ cm</p>\n<p>for the concave lens made up of liquid</p>\n<p>$${1 \\over {{f_{{l_2}}}}} = (1.25 - 1)\\left( { - {2 \\over R}} \\right) =  - {1 \\over {30}}$$ cm</p>\n<p>now for equivalent lens</p>\n<p>$${1 \\over {{f_e}}} = {2 \\over {{f_{{l_1}}}}} + {1 \\over {{f_{{l_2}}}}}$$</p>\n<p>$$ = {2 \\over {15}} - {1 \\over {30}} = {3 \\over {30}} = {1 \\over {10}}$$</p>\n<p>or $${f_e} = 10$$ cm</p>"
+    },
+    {
+      "_type": "numerical",
+      "body": "A ray of light passing through a prism ($$\\mu$$ = $$\\sqrt 3 $$) suffers minimum deviation. It is found that the angle of incidence is double the angle of refraction within the prism. Then, the angle of prism is _____________ (in degrees).",
+      "answer": "60",
+      "explanation": "For minimum deviation r<sub>1</sub> = r<sub>2</sub> = A/2<br><br>given i = 2r<br><br>$$\\mu  = {{\\sin i} \\over {\\sin r}} = {{\\sin 2r} \\over {\\sin r}}$$<br><br>$$ \\Rightarrow \\cos r = {\\mu  \\over 2}$$<br><br>$$\\Rightarrow$$ r = 30$$^\\circ$$<br><br>$$\\Rightarrow$$ A = 60$$^\\circ$$"
+    },
+    {
+      "_type": "numerical",
+      "body": "An object viewed from a near point distance of 25 cm, using a microscopic lens with magnification '6', gives an unresolved image. A resolved image is observed at infinite distance with a total magnification double the earlier using an eyepiece along with the given lens and a tube of length 0.6 m, if the focal length of the eyepiece is equal to __________ cm.",
+      "answer": "25",
+      "explanation": "Given, magnification, M = 6<br/><br/>Since we know that magnifying power of a simple microscope is given by<br/><br/>$$M = 1 + {D \\over {{f_0}}}$$<br/><br/>where, D = least distance of distinct vision = 25 cm<br/><br/>and f<sub>0</sub> = focal length of objective lens.<br/><br/>$$ \\Rightarrow 6 = 1 + {D \\over {{f_0}}} \\Rightarrow 6 = 1 + {{25} \\over {{f_0}}} \\Rightarrow 5 = {{25} \\over {{f_0}}} \\Rightarrow {f_0} = 5$$ cm<br/><br/>For compound microscope, magnifying power is given by<br/><br/>$$M = {{I\\,.\\,D} \\over {{f_0}{f_e}}} = 2$$M<sub>simple microscope</sub><br/><br/>where, f<sub>0</sub> = f<sub>e</sub> are the focal lengths of the objective lens and eye piece respectively<br/><br/>and l = length of the given tube = 0.6 m<br/><br/>$$ \\Rightarrow 12 = {{60 \\times 25} \\over {5\\,.\\,{f_e}}}$$ [$$\\because$$ magnification is doubled]<br/><br/>$$\\Rightarrow$$ f<sub>e</sub> = 25 cm<br/><br/>This is the required focal length of eyepiece."
+    },
+    {
+      "_type": "numerical",
+      "body": "The image of an object placed in air formed by a convex refracting surface is at a distance of 10 m behind the surface. The image is real and is at $${{{2^{rd}}} \\over 3}$$ of the distance of the object from the surface. The wavelength of light inside the surface is $${2 \\over 3}$$ times the wavelength in air. The radius of the curved surface is $${x \\over {13}}$$ m. The value of 'x' is ___________.",
+      "answer": "30",
+      "explanation": "$${{{\\mu _2}} \\over v} - {{{\\mu _1}} \\over u} = {{{\\mu _2} - {\\mu _1}} \\over R}$$<br><br>$${\\mu _1} = 1$$, $${\\mu _2} = 1.5$$<br><br>$${{1.5} \\over { + 10}} - {1 \\over { - 15}} = {{1.5 - 1} \\over { + R}}$$<br><br>$$R = {{30} \\over {13}}$$ m"
+    },
+    {
+      "_type": "numerical",
+      "body": "A deviation of 2$$^\\circ$$ is produced in the yellow ray when prism of crown and flint glass are achromatically combined. Taking dispersive powers of crown and flint glass as 0.02 and 0.03 respectively and refractive index for yellow light for these glasses are 1.5 and 1.6 respectively. The refracting angles for crown glass prism will be ____________$$^\\circ$$ (in degree). (Round off to the Nearest Integer)",
+      "answer": "12",
+      "explanation": "$${\\delta _{net}} = ({\\mu _1} - 1){A_1} - ({\\mu _2} - 1){A_2}$$<br><br>$$2^\\circ  = ({\\mu _1} - 1){A_1} - ({\\mu _2} - 1){A_2}$$ ....... (1)<br><br>and $${\\omega _1}({\\mu _1} - 1){A_1} = {\\omega _2}({\\mu _2} - 1){A_2}$$ ..... (2)<br><br>Substituting the values in equation (1) and (2), we get<br><br>$$2^\\circ  = 0.5{A_1} - 0.6{A_2}$$ ...... (3)<br><br>$$10{A_1} = 18{A_2}$$ ...... (4)<br><br>From equation (3) and (4)<br><br>$$2^\\circ  = {{{A_1}} \\over 2} - {{{A_1}} \\over 3}$$<br><br>$${A_1} = 12^\\circ $$"
+    },
+    {
+      "_type": "numerical",
+      "body": "The same size images are formed by a convex lens when the object is placed at 20 cm or at 10 cm from the lens. The focal length of convex lens is __________ cm.",
+      "answer": "15",
+      "explanation": "$${1 \\over v} - {1 \\over u} = {1 \\over f}$$ .... (1)\n<br><br>m = $${v \\over u}$$ ..... (2)\n<br><br>from (1) and (2) we get\n<br><br>m = $${f \\over {f + u}}$$\n<br><br>given conditions\n<br><br>m<sub>1</sub> = -m<sub>2</sub>\n<br><br>$${f \\over {f - 10}} = {{ - f} \\over {f - 20}}$$\n<br><br>$$ \\Rightarrow $$ f – 20 = -f + 10\n<br><br>$$ \\Rightarrow $$ 2f = 30\n<br><br>$$ \\Rightarrow $$ f = 15 cm "
+    },
+    {
+      "_type": "numerical",
+      "body": "A prism of angle A = 1<sup>o</sup> has a refractive index\n$$\\mu $$ = 1.5. A good estimate for the minimum angle\nof deviation (in degrees) is close to $${N \\over {10}}$$.\n<br>Value of N is ____.",
+      "answer": "5",
+      "explanation": "<p>Deviation for small-angled prism is given by</p>\n<p>$$\\delta$$ = ($$\\mu$$ $$-$$ 1) A</p>\n<p>Given, A = 1$$^\\circ$$, $$\\mu$$ = 1.5</p>\n<p>Substituting these values in above equation, we get</p>\n<p>$$\\delta$$ = (1.5 $$-$$ 1)1 $$\\delta$$ = 0.5</p>\n<p>According to question, $$\\delta  = {N \\over {10}}$$</p>\n<p>$$ \\Rightarrow 0.5 = {N \\over {10}} = N = 5$$</p>\n<p>Hence, the value of N is 5.</p>"
+    },
+    {
+      "_type": "numerical",
+      "body": "The distance between an object and a screen is 100 cm. A lens can produce real image of the\nobject on the screen for two different positions between the screen and the object. The distance\nbetween these two positions is 40 cm. If the power of the lens is close to $$\\left( {{N \\over {100}}} \\right)D$$ where N is an\ninteger, the value of N is _________.",
+      "answer": "476",
+      "explanation": "Using displacement method<br><br>$$f = {{{D^2} - {d^2}} \\over {4D}}$$<br><br>Here, D = 100 cm<br><br>and d = 40 cm<br><br>$$f = {{{{100}^2} - {{40}^2}} \\over {4(100)}} = 21\\,cm$$<br><br>$$P = {1 \\over f} = {{100} \\over {21}}D$$<br><br>$${N \\over {100}} = {{100} \\over {21}}$$<br><br>$$N = 476$$"
+    },
+    {
+      "_type": "numerical",
+      "body": "In a compound microscope, the magnified virtual image is formed at a distance of 25 cm from the\neye-piece. The focal length of its objective lens is 1 cm. If the magnification is 100 and the tube\nlength of the microscope is 20 cm, then the focal length of the eye-piece lens (in cm) is __________.",
+      "answer": "6.25",
+      "explanation": "L = 20, f<sub>0</sub> = 1cm, M = 100<br><br>$$M = {{{v_0}} \\over {{u_0}}}\\left( {1 + {D \\over {{f_e}}}} \\right)$$<br><br>$$ \\therefore $$ $$M = {L \\over {{f_0}}}\\left( {1 + {D \\over {{f_e}}}} \\right)$$ [v<sub>0</sub> $$ \\approx $$ L, u<sub>0</sub> $$ \\approx $$ f<sub>0</sub>]\n<br><br>$$ \\Rightarrow $$ $${{20} \\over 1}\\left( {1 + {{25} \\over {{f_e}}}} \\right)$$ = 100\n<br><br>on solving we get<br><br>f<sub>e</sub> = 6.25 cm"
+    },
+    {
+      "_type": "numerical",
+      "body": "When an object is kept at a distance of 30 cm from a concave mirror, the image is formed at a\ndistance of 10 cm from the mirror. If the object is moved with a speed of 9 cms<sup>–1</sup>, the speed\n(in cms<sup>–1</sup>) with which image moves at that instant is ____.",
+      "answer": "1",
+      "explanation": "V<sub>I</sub> = Velocity of image with respect to mirror<br><br>V<sub>0</sub> = Velocity of object with respect to mirror<br><br>$$|\\overrightarrow {{V_I}}|  =  |- {{{v^2}} \\over {{u^2}}}\\overrightarrow {{V_0}} |$$<br><br>$$ = | - {{10 \\times 10} \\over {30 \\times 30}} \\times 9|$$<br><br>$$ = 1$$ cm/s\n"
+    },
+    {
+      "_type": "numerical",
+      "body": "A point object in air is in front of the curved\nsurface of a plano-convex lens. The radius of\ncurvature of the curved surface is 30 cm and\nthe refractive index of the lens material is 1.5,\nthen the focal length of the lens (in cm)\nis ______.",
+      "answer": "60",
+      "explanation": "Lens-maker formula\n<br><br>$${1 \\over f} = \\left( {\\mu  - 1} \\right)\\left( {{1 \\over {{R_1}}} - {1 \\over {{R_2}}}} \\right)$$\n<br><br>for plano-convex lens\n<br><br>$${{R_1}}$$ = $$\\infty $$ and R<sub>2</sub> = -R\n<br><br>$$ \\therefore $$ f = $${R \\over {\\mu  - 1}}$$ = $${{30} \\over {1.5 - 1}}$$ = 60 cm"
+    }
+  ]
+}

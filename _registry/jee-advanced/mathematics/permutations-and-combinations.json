@@ -1,0 +1,517 @@
+{
+  "_index": {
+    "name": "Permutations and Combinations"
+  },
+  "_children": [
+    {
+      "_type": "numerical",
+      "body": "If $n(X)={ }^m C_6$, then the value of $m$ is _____",
+      "answer": "20",
+      "explanation": "<p>$$|a-b| \\geq 2 \\text { or }|b-a|=2$$</p>\n<p>Total</p>\n<p>$$\\begin{array}{lll}\na=1 & b=3,4,5,6 & 8 \\\\\na=2 & b=4,5,6 & 6 \\\\\na=3 & b=5,6 & 4 \\\\\na=4 & b=6 & 2 \\\\\n\\text { sum }=20\n\\end{array}$$</p>\n<p>$$\\begin{aligned}\n& \\mathrm{n}(\\mathrm{X})={ }^{20} \\mathrm{C}_6={ }^{\\mathrm{m}} \\mathrm{C}_6 \\\\\n& \\mathrm{~m}=20\n\\end{aligned}$$</p>"
+    },
+    {
+      "_type": "numerical",
+      "body": "<p>A group of 9 students, $s_1, s_2, \\ldots, s_9$, is to be divided to form three teams $X, Y$, and $Z$ of sizes 2,3 , and 4 , respectively. Suppose that $s_1$ cannot be selected for the team $X$, and $s_2$ cannot be selected for the team $Y$. Then the number of ways to form such teams, is ____________.</p>",
+      "answer": "665",
+      "explanation": "<p>$$\\matrix{\n   x & y & z  \\cr \n   2 & 3 & 4  \\cr \n   {{{\\overline S }_1}} & {{{\\overline S }_2}} & {}  \\cr \n\n }$$</p>\n<p>C-i) When x does not contain S$$_1$$, but contains S$$_2$$</p>\n<p>$$\\mathop {{}^7{C_1}}\\limits_{for\\,x}  \\times \\mathop {{{7!} \\over {3!4!}}}\\limits_{for\\,y,z}  = 245$$</p>\n<p>C-ii) When x does not contain $$\\mathrm{S}_1, \\mathrm{~S}_2$$ and y does not contain $$\\mathrm{S}_2$$</p>\n<p>i.e. $$\\mathop {{}^7{C_2}}\\limits_{for\\,x}  \\times \\mathop {{{6!} \\over {3!3!}}}\\limits_{for\\,y,z}  = 420$$</p>\n<p>so total No. of ways 665</p>"
+    },
+    {
+      "_type": "numerical",
+      "body": "An engineer is required to visit a factory for exactly four days during the first 15 days of every month and it is mandatory that no two visits take place on consecutive days. Then the number of all possible ways in which such visits to the factory can be made by the engineer during 1-15 June 2021 is ...........",
+      "answer": "495",
+      "explanation": "Let the engineer visits the factory first time after x<sub>1</sub> days to 1 June, second time after x<sub>2</sub> days to first visit and so on.<br><br>$$ \\therefore $$ x<sub>1</sub> + x<sub>2</sub> + x<sub>3</sub> + x<sub>4</sub> + x<sub>5</sub> = 11<br><br>where x<sub>1</sub>, x<sub>5</sub> $$ \\ge $$ 0 and x<sub>2</sub>, x<sub>3</sub>, x<sub>4</sub> $$ \\ge $$ 1 according to the requirement of the question.<br><br>Now, let x<sub>2</sub> = a + 1, x<sub>3</sub> = b + 1 and x<sub>4</sub> = c + 1 where a, b, c $$ \\ge $$ 0<br><br>$$ \\therefore $$ New equation will be<br><br>x<sub>1</sub> + a + b + c + x<sub>5</sub> = 8<br><br>Now, the number of all possible ways in which the engineer can made visits is equals to the non-negative integral solution of equation<br><br>x<sub>1</sub> + a + b + c + x<sub>5</sub> = 8, and it is equal to <br><br>$${}^{8 + 5 - 1}{C_{5 - 1}} = {}^{12}{C_4} = {{12 \\times 11 \\times 10 \\times 9} \\over {4 \\times 3 \\times 2}} = 495$$"
+    },
+    {
+      "_type": "numerical",
+      "body": "In a hotel, four rooms are available. Six persons are to be accommodated in these four rooms in such a way that each of these rooms contains at least one person and at most two persons. Then the number of all possible ways in which this can be done is ..........",
+      "answer": "1080",
+      "explanation": "The groups of persons can be made only in 2, 2, 1, 1<br><br>$$ \\therefore $$ So the number of required ways is equal to number of ways to distribute the 6 distinct objects in group sizes 1, 1, 2 and 2<br><br>= $$\\eqalign{\n  &amp; {{6!} \\over {{{(2!)}^2}{{(1!)}^2}(2!)(2!)}}(4!)  \\cr \n  &amp;  = 360 \\times 3 = 1080 \\cr} $$"
+    },
+    {
+      "_type": "numerical",
+      "body": "Let |X| denote the number of elements in a set X. Let S = {1, 2, 3, 4, 5, 6} be a sample space, where each element is equally likely to occur. If A and B are independent events associated with S, then the number of ordered pairs (A, B) such that 1 $$ \\le $$ |B| &lt; |A|, equals .............",
+      "answer": "1523",
+      "explanation": "Given sample space S = {1, 2, 3, 4, 5, 6} and let there are i elements in set A and j elements in set B.\n\n<br><br>Now, according to information 1 $$ \\le $$ j &lt; i $$ \\le $$ 6. \n<br><br>When number of element in set B = 1 then number of elements in set A can be 2 or 3 or 4 or 5 or 6. Number of such pairs of A and B in this case\n<br><br>= <sup>6</sup>C<sub>1</sub>[<sup>6</sup>C<sub>2</sub> + <sup>6</sup>C<sub>3</sub> + <sup>6</sup>C<sub>4</sub> + <sup>6</sup>C<sub>5</sub> + <sup>6</sup>C<sub>6</sub>]\n<br><br>When number of element in set B = 2 then number of elements in set A can be 3 or 4 or 5 or 6. Number of such pairs of A and B in this case\n<br><br>= <sup>6</sup>C<sub>2</sub>[ <sup>6</sup>C<sub>3</sub> + <sup>6</sup>C<sub>4</sub> + <sup>6</sup>C<sub>5</sub> + <sup>6</sup>C<sub>6</sub>]\n<br><br>When number of element in set B = 3 then number of elements in set A can be 4 or 5 or 6. Number of such pairs of A and B in this case\n<br><br>= <sup>6</sup>C<sub>3</sub>[ <sup>6</sup>C<sub>4</sub> + <sup>6</sup>C<sub>5</sub> + <sup>6</sup>C<sub>6</sub>]\n<br><br>When number of element in set B = 4 then number of elements in set A can be 5 or 6. Number of such pairs of A and B in this case\n<br><br>= <sup>6</sup>C<sub>4</sub>[ <sup>6</sup>C<sub>5</sub> + <sup>6</sup>C<sub>6</sub>]\n<br><br>When number of element in set B = 5 then number of elements in set A can be 6. Number of such pairs of A and B in this case\n<br><br>= <sup>6</sup>C<sub>5</sub>[ <sup>6</sup>C<sub>6</sub>]\n\n<br><br>So, total number of ways of choosing sets A and B<br><br> = \n<sup>6</sup>C<sub>1</sub>[<sup>6</sup>C<sub>2</sub> + <sup>6</sup>C<sub>3</sub> + <sup>6</sup>C<sub>4</sub> + <sup>6</sup>C<sub>5</sub> + <sup>6</sup>C<sub>6</sub>]\n<br><br>+ <sup>6</sup>C<sub>2</sub>[ <sup>6</sup>C<sub>3</sub> + <sup>6</sup>C<sub>4</sub> + <sup>6</sup>C<sub>5</sub> + <sup>6</sup>C<sub>6</sub>]\n<br><br>+ <sup>6</sup>C<sub>3</sub>[ <sup>6</sup>C<sub>4</sub> + <sup>6</sup>C<sub>5</sub> + <sup>6</sup>C<sub>6</sub>]\n<br><br>+ <sup>6</sup>C<sub>4</sub>[ <sup>6</sup>C<sub>5</sub> + <sup>6</sup>C<sub>6</sub>]\n<br><br>+ <sup>6</sup>C<sub>5</sub>[ <sup>6</sup>C<sub>6</sub>]\n<br><br>= Sum of all possible products of two terms from \n<br><br><sup>6</sup>C<sub>1</sub>, <sup>6</sup>C<sub>2</sub>, <sup>6</sup>C<sub>3</sub>, ......., <sup>6</sup>C<sub>6</sub> = p(Assume)\n<br><br>Now we know,\n<br><br>(<sup>6</sup>C<sub>1</sub> + <sup>6</sup>C<sub>2</sub> + .....+ <sup>6</sup>C<sub>6</sub>)<sup>2</sup> \n<br><br>= [ (<sup>6</sup>C<sub>1</sub>)<sup>2</sup> + (<sup>6</sup>C<sub>2</sub>)<sup>2</sup>+ ....+ (<sup>6</sup>C<sub>6</sub>)<sup>2</sup>] + 2[<sup>6</sup>C<sub>1</sub><sup>6</sup>C<sub>2</sub> + <sup>6</sup>C<sub>1</sub><sup>6</sup>C<sub>3</sub> + ... +<sup>6</sup>C<sub>1</sub><sup>6</sup>C<sub>6</sub>\n<br><br>+ <sup>6</sup>C<sub>2</sub><sup>6</sup>C<sub>3</sub> + <sup>6</sup>C<sub>2</sub><sup>6</sup>C<sub>4</sub> + ... +<sup>6</sup>C<sub>2</sub><sup>6</sup>C<sub>6</sub>+ ....+ <sup>6</sup>C<sub>5</sub><sup>6</sup>C<sub>6</sub>]\n<br><br>$$ \\Rightarrow $$ (<sup>6</sup>C<sub>1</sub> + <sup>6</sup>C<sub>2</sub> + .....+ <sup>6</sup>C<sub>6</sub>)<sup>2</sup> \n<br><br>= [ (<sup>6</sup>C<sub>1</sub>)<sup>2</sup> + (<sup>6</sup>C<sub>2</sub>)<sup>2</sup>+ ....+ (<sup>6</sup>C<sub>6</sub>)<sup>2</sup>] + 2(p)\n<br><br>$$ \\Rightarrow $$ (2<sup>6</sup> - <sup>6</sup>C<sub>0</sub>)<sup>2</sup> = [ <sup>12</sup>C<sub>6</sub> - (<sup>6</sup>C<sub>0</sub>)<sup>2</sup> ] + 2p\n\n<br><br>$$ \\Rightarrow $$ p $$ = {{{{({2^6} - 1)}^2} - ({}^{12}{C_6} - 1)} \\over 2}$$<br><br>$$ = {{{{(63)}^2} - {{12!} \\over {6!6!}} + 1} \\over 2}$$<br><br>$$ = {{3969 - 924 + 1} \\over 2} = {{3046} \\over 2} = 1523$$\n<br><br><b>Note :</b>\n<br><br>(<sup>n</sup>C<sub>0</sub> + <sup>n</sup>C<sub>1</sub> + .....+ <sup>n</sup>C<sub>n</sub>)<sup>2</sup>\n<br><br>= (<sup>n</sup>C<sub>0</sub>)<sup>2</sup> + (<sup>n</sup>C<sub>1</sub>)<sup>2</sup>+ ....+ (<sup>n</sup>C<sub>n</sub>)<sup>2</sup> + 2[ <sup>n</sup>C<sub>0</sub><sup>n</sup>C<sub>1</sub> + <sup>n</sup>C<sub>0</sub><sup>n</sup>C<sub>2</sub> + ... +<sup>n</sup>C<sub>0</sub><sup>n</sup>C<sub>n</sub>\n<br><br>+ <sup>n</sup>C<sub>1</sub><sup>n</sup>C<sub>2</sub> + <sup>n</sup>C<sub>1</sub><sup>n</sup>C<sub>3</sub> + ... + <sup>n</sup>C<sub>1</sub><sup>n</sup>C<sub>n</sub>\n<br><br>+ <sup>n</sup>C<sub>2</sub><sup>n</sup>C<sub>3</sub> + <sup>n</sup>C<sub>2</sub><sup>n</sup>C<sub>4</sub> + ... +<sup>n</sup>C<sub>2</sub><sup>n</sup>C<sub>n</sub>+ ....+ <sup>n</sup>C<sub>n - 1</sub><sup>n</sup>C<sub>n</sub>]\n<br><br>$$ \\Rightarrow $$ (2<sup>n</sup>)<sup>2</sup> = <sup>2n</sup>C<sub>n</sub> + 2(Sum of all possible products of two terms from \n<br><br><sup>n</sup>C<sub>1</sub>, <sup>n</sup>C<sub>2</sub>, <sup>n</sup>C<sub>3</sub>, ......., <sup>n</sup>C<sub>n</sub>)"
+    },
+    {
+      "_type": "numerical",
+      "body": "Five persons A, B, C, D and E are seated in a circular arrangement. If each of them is given a hat of one of the three colours red, blue and green, then the number of ways of distributing the hats such that the persons seated in adjacent seats get different coloured hats is ............",
+      "answer": "30",
+      "explanation": "<p>Given that no two persons sitting adjacent have hats of\nsame colour. Also, hats of different colour cannot be\nused in 1 + 1 + 3 combination because any three hats\ncannot be of same colour.</p><p>So, only possible combination due to circular arrangement is 2 + 2 + 1.</p>So, there are following three cases of selecting hats are <br><br>2R + 2B + 1G or 2B + 2G + 1R or 2G + 2R + 1B.<br><br>To distribute these 5 hats first we will select a person which we can done in $${{}^5{C_1}}$$ ways and distribute that hat which is one of it's colour. And, now the remaining four hats can be distributed in two ways. So, total ways will be 3 $$ \\times $$ $${{}^5{C_1}}$$ $$ \\times $$ 2 = 3 $$ \\times $$ 5 $$ \\times $$ 2 = 30"
+    },
+    {
+      "_type": "numerical",
+      "body": "The number of 5 digit numbers which are divisible by 4, with digits from the set {1, 2, 3, 4, 5} and the repetition of digits is allowed, is .................",
+      "answer": "625",
+      "explanation": "A number is divisible by 4 if last 2 digit number is divisible by 4.<br><br>$$ \\therefore $$ Last two digit number divisible by 4 from (1, 2, 3, 4, 5) are 12, 24, 32, 44, 52<br><br>$$ \\therefore $$ The number of 5 digit number which are divisible by 4, from the digit (1, 2, 3, 4, 5) and digit is repeated is 5 $$ \\times $$ 5 $$ \\times $$ 5 $$ \\times $$ (5 $$ \\times $$ 1) = 625"
+    },
+    {
+      "_type": "numerical",
+      "body": "Words of length 10 are formed using the letters A, B, C, D, E, F, G, H, I, J. Let x be the number of such words where no letter is repeated; and let y be the number of such words where exactly one letter is repeated twice and no other letter is repeated. Then, $${y \\over {9x}}$$ = ?",
+      "answer": "5",
+      "explanation": "<p>The given, formed word is of length 10.</p>\n<p>It is given that x is the number of words where no letter is repeated.</p>\n<p>Also, it is given that y is the number of words where exactly one letter is repeated twice and no other letter is repeated. Therefore,</p>\n<p>x = 10!</p>\n<p>and y = <sup>10</sup>C<sub>1</sub> $$\\times$$ <sup>10</sup>C<sub>2</sub> $$\\times$$ <sup>9</sup>C<sub>8</sub> $$\\times$$ 8!</p>\n<p>Thus, $${y \\over {9x}} = {{{}^{10}{C_1} \\times {}^{10}{C_2} \\times {}^9{C_8} \\times 8!} \\over {9 \\times 10!}}$$</p>\n<p>Using $${}^n{C_r} = {{n!} \\over {r!(n - r)!}}$$, we get</p>\n<p>$${y \\over {9x}} = {{\\left[ {{{10!} \\over {1!(10 - 1)!}} \\times {{10!} \\over {2!(10 - 2)!}} \\times {{9!} \\over {8!(9 - 8)!}} \\times 8!} \\right]} \\over {9 \\times 10!}}$$</p>\n<p>$$ = {{10!} \\over {9 \\times 2!\\, \\times 8!}} = {{10 \\times 9 \\times 8!} \\over {9 \\times 2 \\times 8!}} = {{10} \\over 2} = 5$$ [Using $$n! = n(n - 1)(n - 2)......1!$$]</p>"
+    },
+    {
+      "_type": "numerical",
+      "body": "Let n be the number of ways in which 5 boys and 5 girls can stand in a queue in such a way that all the girls stand consecutively in the queue. Let m be the number of ways in which 5 boys and 5 girls can stand in a queue in such a way that exactly four girls stand consecutively in the queue. Then the value of $${m \\over n}$$ is",
+      "answer": "5",
+      "explanation": "Given: 5 boys and 5 girls<br/><br/>\n$n=$ number of ways of arranging them in a queue such that all the girls stand consecutively.<br/><br/>\nLet us consider 5 girls as one set<br/><br/>\nSo, we have to arrange 5 boys and one set of girls. They can be arranged in 6 ! ways.<br/><br/>\nAlso, the girls in the set can be arranged in 5 ! ways<br/><br/>\nSo, total number of ways $=6 ! \\times 5!$<br/><br/>\n$$\n\\Rightarrow n=6 ! \\times 5 ! \n$$<br/><br/>\nNow, $m=$ number of ways of arranging them in a queue, such that exactly four girls stand consecutively.<br/><br/>\n$\\because$ Exactly four girls can stand together so the remaining one girl must not stand consecutively with four girls.<br/><br/>\nLet us consider 2 cases:<br/><br/>\n<b>Case I</b> : The set of four girls is at the corner. Firstly, four girls are selected out of five girls in ${ }^5 \\mathrm{C}_4$ ways. These girls are arranged in 4 ! ways.<br/><br/>\nAlso, these girls can be placed in any of the two corners and the remaining one girl cannot stand next to the set of girls placed at the corner. So, the $5^{\\text {th }}$ girl can stand at (7-1-1 = 5 ways) And the boys can be arranged in 5 ! ways.<br/><br/>\n$$\n\\begin{aligned}\n\\text {So, number of ways } & =4 ! \\times 2 \\times{ }^5 \\mathrm{C}_4 \\times 5 ! \\times 5 \\\\\\\\\n& =2 \\times 5 \\times 5 ! \\times 5 !\n\\end{aligned}\n$$<br/><br/>\n<b>Case II</b>: The set of four girls are not placed at the corner.\n<br/><br/>\nSo, four girls can be selected and arranged among themselves in ${ }^5 C_4 \\times 4 !=5$ ! ways\nThese girls are not at the corner so they can be arranged at 5 places.<br/><br/>\nThe $5^{\\text {th }}$ girl can stand at $7-2-1=4$ ways. $\\{$ As she cannot stand at places near the set of four girls $\\}$ and the boys can be arranged in 5 ! ways.<br/><br/>\nSo, number of ways $=5 ! \\times 5 \\times 5 \\times 4 \\times 5!$<br/><br/>\n$$\n\\begin{aligned}\n\\Rightarrow m & =(2 \\times 5 \\times 5 ! \\times 5 !)+(5 \\times 4 \\times 5 ! \\times 5 !) \\\\\\\\\n& =5 ! \\times 5 !(10+20) \\\\\\\\\n& =30 \\times 5 ! \\times 5 ! \\\\\\\\\n\\therefore \\frac{m}{n} & =\\frac{30 \\times 5 ! \\times 5 !}{6 ! \\times 5 !} \\\\\\\\\n\\Rightarrow \\frac{m}{n} & \\left.=\\frac{30 \\times 5 !}{6 \\times 5 !} \\quad \\quad \\because n !=n(n-1) !\\right. \\\\\\\\\n\\Rightarrow \\frac{m}{n} & =5\n\\end{aligned}\n$$"
+    },
+    {
+      "_type": "numerical",
+      "body": "Let $${n \\ge 2}$$ be an integer. Take n distinct points on a circle and join each pair of points by a line segment. Colour the line segment joining every pair of adjacent points by blue and the rest by red. If the number of red and blue line segments are equal, then the value of n is",
+      "answer": "5",
+      "explanation": "<p>Number of blue lines $=n=$ number of sides of polygon so formed.</p>\n\n<p>Number of red lines $={ }^n C_2-n$.</p>\n\n<p>Thus, by joining $n$ points (not more than 2 on a line) there are ${ }^n C_2$ lines formed because for each line two points are required.</p>\n\n<p>Also, red lines come after excluding sides of polygon.</p>\n\n<p>Therefore, $n={ }^n C_2-n$\n\n<br/><br/>or ${ }^n C_2=2 n$</p>\n\n<p>$\\frac{n(n-1)}{2}=2 n$\n\n<br/><br/>or $n-1=4 (\\because n \\neq 0)$</p>\n\n<p>$\\therefore n=5$</p>"
+    },
+    {
+      "_type": "numerical",
+      "body": "Let $${n_1}\\, &lt; {n_2}\\, &lt; \\,{n_3}\\, &lt; \\,{n_4}\\, &lt; {n_5}$$ be positive integers such that $${n_1}\\, + {n_2}\\, + \\,{n_3}\\, + \\,{n_4}\\, + {n_5}$$ = 20. Then the number of such destinct arrangements $$\\,({n_1}\\,,\\,{n_2},\\,\\,{n_3},\\,\\,{n_4}\\,,{n_5})$$ is",
+      "answer": "7",
+      "explanation": "As, $n_1 \\geq 1, n_2 \\geq 2, n_3 \\geq 3, n_4 \\geq 4, n_5 \\geq 5$\n<br/><br/>Let $n_1-1=x_1 \\geq 0, n_2-2=x_2 \\geq 0, \\ldots$,\n$n_5-5=x_5 \\geq 0$\n<br/><br/>$\\Rightarrow$ New equation will be\n<br/><br/>$$\n\\begin{gathered}\nx_1+1+x_2+2+\\ldots+x_5+5=20\n\\end{gathered}\n$$\n<br/><br/>$\\begin{array}{r}\\Rightarrow x_1+x_2+x_3+x_4+x_5 =20-15=5\\end{array}$\n<br/><br/>Now, $ x_1 \\leq x_2 \\leq x_3 \\leq x_4 \\leq x_5$\n<br/><br/>So the cases can be listed giving -\n<br/><br/>$$\n\\begin{array}{c|c|c|c|c}\n\\hline \\boldsymbol{x}_{\\boldsymbol{1}} & \\boldsymbol{x}_{\\mathbf{2}} & \\boldsymbol{x}_{\\mathbf{3}} & \\boldsymbol{x}_{\\mathbf{4}} & \\boldsymbol{x}_{\\mathbf{5}} \\\\\n\\hline 0 & 0 & 0 & 0 & 5 \\\\\\hline\n0 & 0 & 0 & 1 & 4 \\\\\\hline\n0 & 0 & 0 & 2 & 3 \\\\\\hline\n0 & 0 & 1 & 1 & 3 \\\\\\hline\n0 & 0 & 1 & 2 & 2 \\\\\\hline\n0 & 1 & 1 & 1 & 2 \\\\\\hline\n1 & 1 & 1 & 1 & 1 \\\\\n\\hline\n\\end{array}\n$$\n<br/><br/>So there are 7 distinct arrangements."
+    },
+    {
+      "_type": "numerical",
+      "body": "Consider the set of eight vectors $$V = \\left\\{ {a\\,\\hat i + b\\,\\hat j + c\\hat k:a,\\,b,\\,c\\, \\in \\left\\{ { - 1,\\,1} \\right\\}} \\right\\}$$. Three non-coplanar vectors can be chosen from v in $${2^p}$$ ways. Then p is ",
+      "answer": "5",
+      "explanation": "<p>Given, the set of eight vectors</p>\n<p>$$\\mathrm{V}=\\{a \\hat{i}+b \\hat{j}+c \\hat{k}: a, b, c \\in\\{-1,1\\}\\} .$$</p>\n<p>Now, the eight vectors are $$\\hat{i}+\\hat{j}+\\hat{k}, \\hat{i}+\\hat{j}-\\hat{k}$$,</p>\n<p>$$\\begin{aligned}\n& \\hat{i}-\\hat{j}+\\hat{k},-\\hat{i}+\\hat{j}+\\hat{k}, \\hat{i}-\\hat{j}-\\hat{k}, \\\\\n& -\\hat{i}+\\hat{j}-\\hat{k},-\\hat{i}-\\hat{j}+\\hat{k} \\text { and }-\\hat{i}-\\hat{j}-\\hat{k} .\n\\end{aligned}$$</p>\n<p>Here, $$\\hat{i}+\\hat{j}+\\hat{k}$$ and $$-\\hat{i}-\\hat{j}-\\hat{k}, \\hat{i}+\\hat{j}-\\hat{k}$$ and $$-\\hat{i}-\\hat{j}+\\hat{k}, \\hat{i}-\\hat{j}+\\hat{k}$$ and $$-\\hat{i}+\\hat{j}-\\hat{k},-\\hat{i}+\\hat{j}+\\hat{k}$$ and $$\\hat{i}-\\hat{j}-\\hat{k}$$ are collinear vectors.</p>\n<p>$$\\begin{aligned}\n\\text{Let} \\quad & \\mathrm{S}_1=\\{\\hat{i}+\\hat{j}+\\hat{k},-\\hat{i}-\\hat{j}-\\hat{k}\\}, \\\\\n& \\mathrm{S}_2=\\{\\hat{i}+\\hat{j}-\\hat{k},-\\hat{i}-\\hat{j}+\\hat{k}\\}, \\\\\n& \\mathrm{S}_3=\\{\\hat{i}-\\hat{j}+\\hat{k},-\\hat{i}+\\hat{j}-\\hat{k}\\} \\text { and } \\\\\n& \\mathrm{S}_4=\\{-\\hat{i}+\\hat{j}+\\hat{k}, \\hat{i}-\\hat{j}-\\hat{k}\\}\n\\end{aligned}$$</p>\n<p>For the set of three non - coplanar vector, we have to select three set out of $$\\mathrm{S}_1, \\mathrm{~S}_2, \\mathrm{~S}_3, \\mathrm{~S}_4$$ and select one vector in every selected set of $$\\mathrm{S_1, S_2}, \\mathrm{S}_3, \\mathrm{~S}_4$$</p>\n<p>$$\\begin{aligned}\n& \\Rightarrow{ }^4 C_3 \\cdot{ }^2 C_1 \\cdot{ }^2 C_1{ }^2 C_1=2^p \\\\\n& \\Rightarrow \\quad 4.2 .2 .2=2^p \\\\\n& \\Rightarrow \\quad 2^5=2^p \\\\\n& \\Rightarrow \\quad p=5 \\\\\n\\end{aligned}$$</p>\n<p>Hints :</p>\n<p>Recall that $$\\hat{i}+\\hat{j}+\\hat{k}$$ and $$-\\hat{i}-\\hat{j}-\\hat{k}, \\hat{i}+\\hat{j}-\\hat{k}$$ and $$-\\hat{i}-\\hat{j}+\\hat{k}, \\hat{i}-\\hat{j}+\\hat{k}$$ and $$-\\hat{i}+\\hat{j}-\\hat{k},-\\hat{i}+\\hat{j}+\\hat{k}$$ and $$\\hat{i}-\\hat{j}-\\hat{k}$$ are collinear vectors.</p>"
+    },
+    {
+      "_type": "numerical",
+      "body": "Let $$\\left( {x,\\,y,\\,z} \\right)$$ be points with integer coordinates satisfying the system of homogeneous equation: \n$$$\\matrix{\n   {3x - y - z = 0}  \\cr \n   { - 3x + z = 0}  \\cr \n   { - 3x + 2y + z = 0}  \\cr \n\n } $$$\n<p>Then the number of such points for which $$x^2 + {y^2} + {z^2} \\le 100$$ is</p>",
+      "answer": "7",
+      "explanation": "<p>To solve this problem, we need to find the integer points $$\\left( {x,\\,y,\\,z} \\right)$$ that satisfy the given system of homogeneous equations:</p>\n\n<p>$$\\matrix{    {3x - y - z = 0}  \\cr     { - 3x + z = 0}  \\cr     { - 3x + 2y + z = 0}  \\cr   }$$</p>\n\n<p>Firstly, let’s solve for $$z$$ in terms of $$x$$ from the second equation:</p>\n\n<p>$$ - 3x + z = 0 \\Rightarrow z = 3x $$</p>\n\n<p>Next, substitute $$z = 3x$$ into the first equation:</p>\n\n<p>$$ 3x - y - 3x = 0 \\Rightarrow -y = 0 \\Rightarrow y = 0 $$</p>\n\n<p>With $$y = 0$$ and $$z = 3x$$, the third equation also should be satisfied. Let's substitute $$y$$ and $$z$$ back into the third equation to verify:</p>\n\n<p>$$ - 3x + 2y + z = 0 \\Rightarrow - 3x + 2(0) + 3x = 0 $$</p>\n\n<p>This equation holds true, confirming that the solutions for $$y$$ and $$z$$ remain consistent. Therefore, the points that satisfy the given system are of the form:</p>\n\n<p>$$\\left( x,\\,0,\\,3x \\right)$$</p>\n\n<p>Additionally, we need $$x^2 + y^2 + z^2 \\le 100$$. Substituting $$y = 0$$ and $$z = 3x$$, we get:</p>\n\n<p>$$ x^2 + 0^2 + (3x)^2 \\le 100 $$</p>\n\n<p>This further simplifies to:</p>\n\n<p>$$ x^2 + 9x^2 \\le 100 $$</p>\n\n<p>$$ 10x^2 \\le 100 $$</p>\n\n<p>$$ x^2 \\le 10 $$</p>\n\n<p>Hence, $$ -\\sqrt{10} \\le x \\le \\sqrt{10} $$</p>\n\n<p>Since $$x$$ must be an integer, we evaluate acceptable values for $$x$$:</p>\n\n<p>$$x \\in \\{-3,\\,-2,\\,-1,\\,0,\\,1,\\,2,\\,3\\}$$</p>\n\n<p>For each of these values, let’s determine the corresponding points $$\\left( x,\\,0,\\,3x \\right)$$:</p>\n\n<ul>\n\n<li>$$( -3,\\,0,\\,-9 )$$</li>\n\n<li>$$( -2,\\,0,\\,-6 )$$</li>\n\n<li>$$( -1,\\,0,\\,-3 )$$</li>\n\n<li>$$( 0,\\,0,\\,0 )$$</li>\n\n<li>$$( 1,\\,0,\\,3 )$$</li>\n\n<li>$$( 2,\\,0,\\,6 )$$</li>\n\n<li>$$( 3,\\,0,\\,9 )$$</li>\n\n</ul>\n\n<p>Thus, there are a total of 7 such points.</p>\n\n<p>Therefore, the number of integer-coordinate points $$\\left( x,\\,y,\\,z \\right)$$ satisfying the given system of equations and the condition $$x^2 + y^2 + z^2 \\le 100$$ is <strong>7</strong>.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "In a high school, a committee has to be formed from a group of 6 boys M<sub>1</sub>, M<sub>2</sub>, M<sub>3</sub>, M<sub>4</sub>, M<sub>5</sub>, M<sub>6</sub> and 5 girls G<sub>1</sub>, G<sub>2</sub>, G<sub>3</sub>, G<sub>4</sub>, G<sub>5</sub>.<br><br>(i) Let $$\\alpha $$<sub>1</sub> be the total number of ways in which the committee can be formed such that the committee has 5 members, having exactly 3 boys and 2 girls.<br><br>(ii) Let $$\\alpha $$<sub>2</sub> be the total number of ways in which the committee can be formed such that the committee has at least 2 members, and having an equal number of boys and girls.<br><br>i) Let $$\\alpha $$<sub>3</sub> be the total number of ways in which the committee can be formed such that the committee has 5 members, at least 2 of them being girls.<br><br>(iv) Let $$\\alpha $$<sub>4</sub> be the total number of ways in which the committee can be formed such that the committee has 4 members, having at least 2 girls such that both M<sub>1</sub> and G<sub>1</sub> are NOT in the committee together.<br>\n<style>\n        table {\n            width: 100%;\n            border-collapse: collapse;\n            margin: 20px 0;\n        }\n        th {\n            background-color: blue;\n            color: white;\n            border: 1px solid black;\n            padding: 10px;\n        }\n        td {\n            border: 1px solid black;\n            padding: 10px;\n            text-align: left;\n        }\n    </style>\n<table>\n    <tr>\n        <th>LIST-I</th>\n        <th>LIST-II</th>\n    </tr>\n    <tr>\n        <td>P. The value of $\\alpha_1$ is</td>\n        <td>1. 136</td>\n    </tr>\n    <tr>\n        <td>Q. The value of $\\alpha_2$ is</td>\n        <td>2. 189</td>\n    </tr>\n    <tr>\n        <td>R. The value of $\\alpha_3$ is</td>\n        <td>3. 192</td>\n    </tr>\n    <tr>\n        <td>S. The value of $\\alpha_4$ is</td>\n        <td>4. 200</td>\n    </tr>\n    <tr>\n        <td></td>\n        <td>5. 381</td>\n    </tr>\n    <tr>\n        <td></td>\n        <td>6. 461</td>\n    </tr>\n</table>\nThe correct option is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "P $$ \\to $$ 4; Q $$ \\to $$ 6; R $$ \\to $$ 2; S $$ \\to $$ 1"
+        },
+        {
+          "key": "B",
+          "value": "P $$ \\to $$ 1; Q $$ \\to $$ 4; R $$ \\to $$ 2; S $$ \\to $$ 3"
+        },
+        {
+          "key": "C",
+          "value": "P $$ \\to $$ 4; Q $$ \\to $$ 6; R $$ \\to $$ 5; S $$ \\to $$ 2"
+        },
+        {
+          "key": "D",
+          "value": "P $$ \\to $$ 4; Q $$ \\to $$ 2; R $$ \\to $$ 3; S $$ \\to $$ 1"
+        }
+      ],
+      "answer": "C",
+      "explanation": "Given 6 boys M<sub>1</sub>, M<sub>2</sub>, M<sub>3</sub>, M<sub>4</sub>, M<sub>5</sub>, M<sub>6</sub> and 5 girls G<sub>1</sub>, G<sub>2</sub>, G<sub>3</sub>, G<sub>4</sub>, G<sub>5</sub><br><br>(i) $$\\alpha $$<sub>1</sub> $$ \\to $$ Total number of ways of selecting 3 boys and 2 girls from 6 boys and 5 girls.<br><br>i.e., $${}^6{C_3} \\times {}^5{C_2} = 20 \\times 10 = 200$$<br><br>$$ \\therefore $$ $$\\alpha $$<sub>1</sub> = 200<br><br>(ii) $$\\alpha $$<sub>2</sub> $$ \\to $$ Total number of ways selecting at least 2 member and having equal number of boys and girls i.e., $${}^6{C_1}{}^5{C_1} + {}^6{C_2}{}^5{C_2} + {}^6{C_3}{}^5{C_3} + {}^6{C_4}{}^5{C_4} + {}^6{C_5}{}^5{C_5}$$<br><br>= 30 + 150 + 200 + 75 + 6 = 461<br><br>$$\\alpha $$<sub>2</sub> = 461<br><br>(iii) $$\\alpha $$<sub>3</sub> $$ \\to $$ Total number of ways of selecting 5 members in which at least 2 of them girls<br><br>i.e., $${}^5{C_2}{}^6{C_3} + {}^5{C_3}{}^6{C_2} + {}^5{C_4}{}^6{C_1} + {}^5{C_5}{}^6{C_0}$$<br><br>$$ = 200 + 150 + 30 + 1 = 381$$<br><br>$$\\alpha $$<sub>3</sub> = 381<br><br>(iv) $$\\alpha $$<sub>4</sub> $$ \\to $$ Total number of ways of selecting 4 members in which at least two girls such that M<sub>1</sub> and G<sub>1</sub> are not included together.<br><br>G<sub>1</sub> is included $$ \\to $$<br><br>$${}^4{C_1}.{}^5{C_2} + {}^4{C_2}.{}^5{C_1} + {}^4{C_3}$$<br><br> 40 + 30 + 4 = 74<br><br>M<sub>1</sub> is included $$ \\to $$<br><br>$${}^4{C_2}.{}^5{C_1} + {}^4{C_3}$$ = 30 + 4 = 34<br><br>G<sub>1</sub> and M<sub>1</sub> both are not included<br><br>$${}^4{C_4} + {}^4{C_3}.{}^5{C_1} + {}^4{C_2}.{}^5{C_2}$$ = 1 + 20 + 60 = 81<br><br>$$ \\therefore $$ Total number = 74 + 34 + 81 = 189<br><br>$$\\alpha $$<sub>4</sub> = 189<br><br>Now, P $$ \\to $$ 4 ; Q $$ \\to $$ 6 ; R $$ \\to $$ 5 ; S $$ \\to $$ 2<br><br>Hence, option (C) is correct."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A debate club consists of 6 girls and 4 boys. A team of 4 members is to be select from this club including the selection of a captain (from among these 4 members ) for the team. If the team has to include at most one boy, then the number of ways of selecting the team is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "380"
+        },
+        {
+          "key": "B",
+          "value": "320"
+        },
+        {
+          "key": "C",
+          "value": "260"
+        },
+        {
+          "key": "D",
+          "value": "95"
+        }
+      ],
+      "answer": "A",
+      "explanation": "We have 6 girls and 4 boys in the club and we have to select team of 4 members in which one is captain and at most one boy.<br/><br/>\n$\\therefore$ We can have one boy and three girls in team or all four girls.\nSo, selection of 1 boy from 4 boys $={ }^4 C_1$ ways<br/><br/>\nSelection of 3 girls from 6 girls $={ }^6 \\mathrm{C}_3$ ways<br/><br/>\nSelection of 4 girls from 6 girls $={ }^6 \\mathrm{C}_4$ ways<br/><br/>\n$\\therefore$ Total number of ways selecting the team\n$$\n=\\left({ }^4 \\mathrm{C}_1 \\cdot{ }^6 \\mathrm{C}_3+{ }^6 \\mathrm{C}_4\\right) \\times 4\n$$<br/><br/>\n(since, among any of the selection we have 4 choice to select captain)<br/><br/>\n$$\n\\begin{aligned}\n\\therefore \\text { Total number of ways } & =(4 \\times 20+15) \\times 4 \\\\\\\\\n& =380\n\\end{aligned}\n$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Six cards and six envelopes are numbered 1, 2, 3, 4, 5, 6 and cards are to be placed in envelopes so that each envelope contains exactly one card and no card is placed in the envelope bearing the same number and moreover the card numbered 1 is always placed in envelope numbered 2. Then the number of ways it can be done is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "264"
+        },
+        {
+          "key": "B",
+          "value": "265"
+        },
+        {
+          "key": "C",
+          "value": "53"
+        },
+        {
+          "key": "D",
+          "value": "67"
+        }
+      ],
+      "answer": "C",
+      "explanation": "<p>Given, six cards and six envelops are numbered $$1,2,3,4,5$$ and 6.</p>\n<p>The number of arrangements when all six</p>\n<p>cards are placed in wronge envelops</p>\n<p>$$\\begin{aligned}\n& =\\left| \\!{\\underline {\\,\n  {6} \\,}} \\right.\\left(1-\\frac{1}{\\left| \\!{\\underline {\\,\n  {1} \\,}} \\right.}+\\frac{1}{\\left| \\!{\\underline {\\,\n  {2} \\,}} \\right.}-\\frac{1}{\\left| \\!{\\underline {\\,\n  {3} \\,}} \\right.}+\\frac{1}{\\left| \\!{\\underline {\\,\n  {4} \\,}} \\right.}-\\frac{1}{\\left| \\!{\\underline {\\,\n  {5} \\,}} \\right.}+\\frac{1}{\\left| \\!{\\underline {\\,\n  {6} \\,}} \\right.}\\right) \\\\\n& =\\left| \\!{\\underline {\\,\n  {6} \\,}} \\right.\\left[1-\\frac{1}{1}+\\frac{3}{\\left| \\!{\\underline {\\,\n  {3} \\,}} \\right.}-\\frac{1}{\\left| \\!{\\underline {\\,\n  {3} \\,}} \\right.}+\\frac{5}{\\left| \\!{\\underline {\\,\n  {5} \\,}} \\right.}-\\frac{1}{5}+\\frac{1}{\\left| \\!{\\underline {\\,\n  {6} \\,}} \\right.}\\right] \\\\\n& =\\left| \\!{\\underline {\\,\n  {6} \\,}} \\right.\\left[\\frac{2}{\\left| \\!{\\underline {\\,\n  {3} \\,}} \\right.}+\\frac{4}{\\left| \\!{\\underline {\\,\n  {5} \\,}} \\right.}+\\frac{1}{\\left| \\!{\\underline {\\,\n  {6} \\,}} \\right.}\\right] \\\\\n& =2.6 .5 .4+4.6+1 \\\\\n& =240+24+1 \\\\\n& =265 \\\\\n\\end{aligned}$$</p>\n<p>In the above dearrangement, there are 5 ways in which card number 1 is going wrong envelope i.e, other than envelope number 1. So, when card number 1 going in envelop number 2 is $$\\frac{265}{5}=53$$ ways.</p>\n<p>Hint:</p>\n<p>In the total dearrangement of 6 cards there are 5 ways in which card number 1 is going other than envelope number 1.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Let $${{a_n}}$$ denote the number of all n-digit positive integers formed  by the digits 0, 1 or both such that no consecutive digits in them are 0.Let $${{b_n}}$$ = the number of such n-digit integers ending with digit 1 and $${{c_n}}$$ =the number of such n-digit integers ending with digit 0.\n<p> The value of $${{b_6}}$$ is </p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "7 "
+        },
+        {
+          "key": "B",
+          "value": "8 "
+        },
+        {
+          "key": "C",
+          "value": "9 "
+        },
+        {
+          "key": "D",
+          "value": "11 "
+        }
+      ],
+      "answer": "B",
+      "explanation": "<p>Given, $$b_n$$ denotes the number of $$n$$-digit integer formed by the digits 0, 1 or both such that $$n$$-digit integer ending with 1 and no consecutive digits are '0'.</p>\n<p>$$\\therefore \\quad b_6=$$ six digit number ending with 1.</p>\n<p>Like 1 ........... 1, and rest four places are filled as Case No. (I) : Use four ' 1 '</p>\n<p>$$\\text { Case No. (I) : Use four ' } 1 \\text { ' }$$</p>\n<p>$$\\underline 1 \\underbrace {\\underline 1 \\,\\underline 1 \\,\\underline 1 \\,\\underline 1 }_{}\\underline 1 $$</p>\n<p>Number of ways = 1</p>\n<p>Case No. (II) : Use three '1' and one '0'</p>\n<p>$$\\underline 1 \\underbrace {\\underline 1 \\,\\underline 1 \\,\\underline 1 \\,\\underline 0 }_{}\\underline 1 $$</p>\n<p>Number of ways $$=\\frac{4!}{3!}=4$$</p>\n<p>Case No. (III) : Use two '1' and two '0'</p>\n<p>$$\\underline 1 \\underbrace {\\underline 1 \\,\\underline 0 \\,\\underline 1 \\,\\underline 0 }_{}\\underline 1 $$</p>\n<p>or</p>\n<p>$$\\underline 1 \\underbrace {\\underline 1 \\,\\underline 1 \\,\\underline 0 \\,\\underline 1 }_{}\\underline 1 $$</p>\n<p>or</p>\n<p>$$\\underline 1 \\underbrace {\\underline 0 \\,\\underline 1 \\,\\underline 1 \\,\\underline 0 }_{}\\underline 1 $$</p>\n<p>No. of ways = 3</p>\n<p>Hence, $$b_6=1+4+3=8$$</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Let $${{a_n}}$$ denote the number of all n-digit positive integers formed  by the digits 0, 1 or both such that no consecutive digits in them are 0.Let $${{b_n}}$$ = the number of such n-digit integers ending with digit 1 and $${{c_n}}$$ =the number of such n-digit integers ending with digit 0. \n<p> Which of the following is correct? </p> ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$${a_{17}} = {a_{16}} + {a_{15}}$$ "
+        },
+        {
+          "key": "B",
+          "value": "$${c_{17}} \\ne {c_{16}} + {c_{15}}$$ "
+        },
+        {
+          "key": "C",
+          "value": "$${b_{17}} \\ne {b_{16}} + {c_{16}}$$ "
+        },
+        {
+          "key": "D",
+          "value": "$${a_{17}} = {c_{17}} + {b_{16}}$$ "
+        }
+      ],
+      "answer": "A",
+      "explanation": "<p>For $$a_n$$</p>\n<p>Case I : If the unit digit is 1, and rest $$(n-1)$$ places are filled as $$a_{n-1}$$</p>\n<p>$$\\mathrm{\\underbrace {1\\underline {} \\,\\underline {} \\,\\underline {} \\,\\underline {...} \\,\\underline {...} \\,\\underline {} }_{(n - 1)\\,places}\\underline 1}$$</p>\n<p>Case II : If the unit digit is 0, then tenth place must be 1 and rest $$(n-2)$$ places are filled as $$a_{n-2}$$</p>\n<p>$$\\mathrm{\\underbrace {1\\underline {} \\,\\underline {} \\,\\underline {} \\,\\underline {} \\,....\\,\\underline {} }_{(n - 2)\\,place}\\underline 1 \\underline 0}$$</p>\n<p>$$\\begin{aligned}\n& \\text { Hence, } a_n =a_{n-1}+a_{n-2} \\\\\n\\Rightarrow \\quad & a_{17} =a_{16}+a_{15}\n\\end{aligned}$$</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The total number of ways in which 5 balls of different colours can be distributed among 3 persons so that each person gets at least one ball is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "75"
+        },
+        {
+          "key": "B",
+          "value": "150"
+        },
+        {
+          "key": "C",
+          "value": "210"
+        },
+        {
+          "key": "D",
+          "value": "243"
+        }
+      ],
+      "answer": "B",
+      "explanation": "<p>Here, 5 distinct balls are to be distributed amongst 3 persons so that each gets at least one \nball. So, two possible cases arises</p>\n<p>Case I : Two of the persons get one-one ball each and the third person gets three balls.</p>\n<p>i.e. <style type=\"text/css\">\n.tg  {border-collapse:collapse;border-spacing:0;}\n.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg .tg-baqh{text-align:center;vertical-align:top}\n</style>\n<table class=\"tg\" style=\"undefined;table-layout: fixed; width: 357px\"><colgroup>\n<col style=\"width: 119px\">\n<col style=\"width: 116px\">\n<col style=\"width: 122px\">\n</colgroup>\n<thead>\n  <tr>\n    <th class=\"tg-baqh\">A</th>\n    <th class=\"tg-baqh\">B</th>\n    <th class=\"tg-baqh\">C</th>\n  </tr></thead>\n<tbody>\n  <tr>\n    <td class=\"tg-baqh\">1</td>\n    <td class=\"tg-baqh\">1</td>\n    <td class=\"tg-baqh\">3</td>\n  </tr>\n</tbody>\n</table></p>\n<p>Now, A can get the ball in $${ }^5 \\mathrm{C}_1$$ ways. After that, $$B$$ can get one ball in $${ }^4 C_1$$ ways and then after $$C$$ can get three balls in $${ }^3 \\mathrm{C}_3$$ ways.</p>\n<p>Hence, Total number of ways</p>\n<p>$$\\begin{aligned}\n& ={ }^5 \\mathrm{C}_1 \\cdot{ }^4 \\mathrm{C}_1 \\cdot{ }^3 \\mathrm{C}_3 \\times \\frac{3!}{2!} \\\\\n& =5 \\times 4 \\times 1 \\times \\frac{3 \\times 2 \\times 1}{2 \\times 1} \\\\\n& =60\n\\end{aligned}$$</p>\n<p>Case II : Two of the persons get two-two balls each and the third person gets one ball.</p>\n<p>i.e. <style type=\"text/css\">\n.tg  {border-collapse:collapse;border-spacing:0;}\n.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg .tg-baqh{text-align:center;vertical-align:top}\n</style>\n<table class=\"tg\" style=\"undefined;table-layout: fixed; width: 357px\"><colgroup>\n<col style=\"width: 119px\">\n<col style=\"width: 116px\">\n<col style=\"width: 122px\">\n</colgroup>\n<thead>\n  <tr>\n    <th class=\"tg-baqh\">A</th>\n    <th class=\"tg-baqh\">B</th>\n    <th class=\"tg-baqh\">C</th>\n  </tr></thead>\n<tbody>\n  <tr>\n    <td class=\"tg-baqh\">2</td>\n    <td class=\"tg-baqh\">2</td>\n    <td class=\"tg-baqh\">1</td>\n  </tr>\n</tbody>\n</table></p>\n<p>Now, A can get two balls in $${ }^5 \\mathrm{C}_2$$ ways. After that, $$B$$ can get 2 ball in $${ }^3 \\mathrm{C}_2$$ ways and then after $$C$$ can get 1 ball in $${ }^1 C_1$$ way. Hence, total number of ways</p>\n<p>$$\\begin{aligned}\n& ={ }^5 C_2 \\cdot{ }^3 C_2{ }^1 C_1 \\cdot \\frac{3!}{2!} \\\\\n& =\\frac{5 \\times 4}{2 \\times 1} \\times \\frac{3 \\times 2}{2 \\times 1} \\times 1 \\times \\frac{3 \\times 2 \\times 1}{2 \\times 1} \\\\\n& =90\n\\end{aligned}$$</p>\n<p>Hence, total number of ways to distribute 5 balls $$=60+90=150$$</p>\n<p>Combination with Repetition</p>\n<p>(i) Only two possible cases arises:</p>\n<p>Case I :</p>\n<p><style type=\"text/css\">\n.tg  {border-collapse:collapse;border-spacing:0;}\n.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg .tg-baqh{text-align:center;vertical-align:top}\n</style>\n<table class=\"tg\" style=\"undefined;table-layout: fixed; width: 357px\"><colgroup>\n<col style=\"width: 119px\">\n<col style=\"width: 116px\">\n<col style=\"width: 122px\">\n</colgroup>\n<thead>\n  <tr>\n    <th class=\"tg-baqh\">A</th>\n    <th class=\"tg-baqh\">B</th>\n    <th class=\"tg-baqh\">C</th>\n  </tr></thead>\n<tbody>\n  <tr>\n    <td class=\"tg-baqh\">1</td>\n    <td class=\"tg-baqh\">1</td>\n    <td class=\"tg-baqh\">3</td>\n  </tr>\n</tbody>\n</table></p>\n<p>Case II:</p>\n<p><style type=\"text/css\">\n.tg  {border-collapse:collapse;border-spacing:0;}\n.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg .tg-baqh{text-align:center;vertical-align:top}\n</style>\n<table class=\"tg\" style=\"undefined;table-layout: fixed; width: 357px\"><colgroup>\n<col style=\"width: 119px\">\n<col style=\"width: 116px\">\n<col style=\"width: 122px\">\n</colgroup>\n<thead>\n  <tr>\n    <th class=\"tg-baqh\">A</th>\n    <th class=\"tg-baqh\">B</th>\n    <th class=\"tg-baqh\">C</th>\n  </tr></thead>\n<tbody>\n  <tr>\n    <td class=\"tg-baqh\">2</td>\n    <td class=\"tg-baqh\">2</td>\n    <td class=\"tg-baqh\">1</td>\n  </tr>\n</tbody>\n</table></p>\n<p>(iii) Use the concept of combination to find individual ways and then add up the total ways in each case.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The number of seven digit integers, with sum of the digits equal to 10 and formed by using the digits 1, 2 and 3 only, is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "55"
+        },
+        {
+          "key": "B",
+          "value": "66"
+        },
+        {
+          "key": "C",
+          "value": "77"
+        },
+        {
+          "key": "D",
+          "value": "88"
+        }
+      ],
+      "answer": "C",
+      "explanation": "<p>The two possible cases are as follows:</p>\n<p>Case 1 : There are five 1's; one 2; one 3. Therefore, the number of numbers is 7!/5! = 42.</p>\n<p>Case 2 : There are four 1's; three 2's. Therefore, the number of numbers is 7!/4! 3! = 35. Hence, the total number of numbers is 42 + 35 = 77</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Consider all possible permutations of the letters of the word ENDEANOEL. Match the Statements/Expressions in Column I with the Statements/Expressions in Column II.</p>\n<p><style type=\"text/css\">\n.tg  {border-collapse:collapse;border-spacing:0;}\n.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}\n.tg .tg-7btt{border-color:inherit;font-weight:bold;text-align:center;vertical-align:top}\n.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}\n</style>\n<table class=\"tg\" style=\"undefined;table-layout: fixed; width: 477px\">\n<colgroup>\n<col style=\"width: 48px\">\n<col style=\"width: 197px\">\n<col style=\"width: 53px\">\n<col style=\"width: 179px\">\n</colgroup>\n<thead>\n  <tr>\n    <th class=\"tg-7btt\"></th>\n    <th class=\"tg-7btt\">Column I</th>\n    <th class=\"tg-7btt\"></th>\n    <th class=\"tg-7btt\">Column II</th>\n  </tr>\n</thead>\n<tbody>\n  <tr>\n    <td class=\"tg-c3ow\">(A)</td>\n    <td class=\"tg-0pky\">The number of permutations containing the word ENDEA is</td>\n    <td class=\"tg-c3ow\">(P)</td>\n    <td class=\"tg-0pky\">5!</td>\n  </tr>\n  <tr>\n    <td class=\"tg-c3ow\">(B)</td>\n    <td class=\"tg-0pky\">The number of permutations in which the letter E occurs in the first and the last position is</td>\n    <td class=\"tg-c3ow\">(Q)</td>\n    <td class=\"tg-0pky\">2 $$\\times$$ 5!</td>\n  </tr>\n  <tr>\n    <td class=\"tg-c3ow\">(C)</td>\n    <td class=\"tg-0pky\">The number of permutations in which none of the letters D, L, N occurs in the last five positions is</td>\n    <td class=\"tg-c3ow\">(R)</td>\n    <td class=\"tg-0pky\">7 $$\\times$$ 5!</td>\n  </tr>\n  <tr>\n    <td class=\"tg-c3ow\">(D)</td>\n    <td class=\"tg-0pky\">The number of permutations in which the letters A, E, O occur only in odd positions is</td>\n    <td class=\"tg-c3ow\">(S)</td>\n    <td class=\"tg-0pky\">21 $$\\times$$ 5!</td>\n  </tr>\n</tbody>\n</table></p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "(A) - p ; (B) - s; (C) - q ; (D) - q"
+        },
+        {
+          "key": "B",
+          "value": "(A) - q ; (B) - q ; (C) - s ; (D) - p "
+        },
+        {
+          "key": "C",
+          "value": "(A) - p ; (B) - s; (C) - p ; (D) - r"
+        },
+        {
+          "key": "D",
+          "value": "(A) - p ; (B) - r ; (C) - q ; (D) - p"
+        }
+      ],
+      "answer": "A",
+      "explanation": "<p>(A) Considering ENDEA as one group, remaining letters are N, O, E, L.</p>\n<p>So, no. of permutations = 5!</p>\n<p>(A) - (i)</p>\n<p>(B) E occurs in 1<sup>st</sup> and last positions. The remaining letters are N, N, D, A, O, E, L.</p>\n<p>No. of permutation</p>\n<p>$$ = {{7!} \\over {2!}} = {{7 \\times 6} \\over 2} \\times 5! = 21! \\times 5!$$</p>\n<p>(B) - (iv)</p>\n<p>(C) D, L, N should not occur in last five positions</p>\n<p>$$\\Rightarrow$$ D, L, N should occur in 1<sup>st</sup> four positions, but we have D, L, N, N.</p>\n<p>So, ways of arranging D, L, N, N in 1<sup>st</sup> four positions</p>\n<p>$$ = {{4!} \\over {2!}} = 12$$</p>\n<p>Ways of arranging remaining E, E, A, O, E in last five positions $$ = {{5!} \\over {3!}} = 20$$,</p>\n<p>Total $$=12\\times20=240=2\\times5!$$</p>\n<p>(C) - (iv)</p>\n<p>(D) A, E, O occur in odd positions.</p>\n<p>No. of odd positions = 5 and letters are E, E, E, A, O. i.e. 5</p>\n<p>Ways of arranging those 5 letters in 5 odd positions $$ = {{5!} \\over {3!}} = 20$$</p>\n<p>Remaining 4 letters D, L, N, N can be arranged in remaining 4 positions in $$ = {{4!} \\over {2!}} = 12$$ ways</p>\n<p>Total no. of permutations $$=20\\times12=240=2\\times5!$$</p>\n<p>(D) - (iii)</p>\n<p></p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The letters of the word COCHIN are permuted and all the permutations are arranged in an alphabetical order as in an English dictionary. The number of words that appear before the word COCHIN is",
+      "options": [
+        {
+          "key": "A",
+          "value": "360"
+        },
+        {
+          "key": "B",
+          "value": "192"
+        },
+        {
+          "key": "C",
+          "value": "96"
+        },
+        {
+          "key": "D",
+          "value": "48"
+        }
+      ],
+      "answer": "C",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "If the LCM of p, q is $${r^2}\\,{r^4}\\,{s^2}$$, where r, s, t are prime numbers and p, q are the positive integers then number of ordered pair (p, q) is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "252"
+        },
+        {
+          "key": "B",
+          "value": "254"
+        },
+        {
+          "key": "C",
+          "value": "225"
+        },
+        {
+          "key": "D",
+          "value": "224"
+        }
+      ],
+      "answer": "C",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The number of arrangements of the letters of the word BANANA in which the two N's do not appear adjacently is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "40"
+        },
+        {
+          "key": "B",
+          "value": "60"
+        },
+        {
+          "key": "C",
+          "value": "80"
+        },
+        {
+          "key": "D",
+          "value": "100"
+        }
+      ],
+      "answer": "A",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Let $${T_n}$$ denote the number of triangles which can be formed using the vertices of a regular polygon of n sides. If $${T_{n + 1}} - {T_n} = 21$$, then n equals",
+      "options": [
+        {
+          "key": "A",
+          "value": "5"
+        },
+        {
+          "key": "B",
+          "value": "7"
+        },
+        {
+          "key": "C",
+          "value": "6"
+        },
+        {
+          "key": "D",
+          "value": "4"
+        }
+      ],
+      "answer": "B",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "How many different nine digit numbers can be formed from the number 223355888 by rearranging its digits so that the odd digits occupy even positions?",
+      "options": [
+        {
+          "key": "A",
+          "value": "16"
+        },
+        {
+          "key": "B",
+          "value": "36"
+        },
+        {
+          "key": "C",
+          "value": "60"
+        },
+        {
+          "key": "D",
+          "value": "180"
+        }
+      ],
+      "answer": "C",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A five-digit numbers divisible by 3 is to be formed using the numerals 0, 1, 2, 3, 4 and 5, without repetition. The total number of ways this can be done is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "216"
+        },
+        {
+          "key": "B",
+          "value": "240"
+        },
+        {
+          "key": "C",
+          "value": "600"
+        },
+        {
+          "key": "D",
+          "value": "3125"
+        }
+      ],
+      "answer": "A",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Ten different letters of an alphabet are given. Words with five letters are formed from these given letters. Then the numbers of words which have at least one letter repeated are ",
+      "options": [
+        {
+          "key": "A",
+          "value": "69760 "
+        },
+        {
+          "key": "B",
+          "value": "30240 "
+        },
+        {
+          "key": "C",
+          "value": "99748 "
+        },
+        {
+          "key": "D",
+          "value": "none of these "
+        }
+      ],
+      "answer": "A",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Eight chairs are numbered 1 to 8. Two women and three men wish to occupy one chair each. First the women choose the chairs from amongst the chairs marked 1 to 4; and then the men select the chairs from amongst the remaining. The number of possible arrangements is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$${}^6{C_3} \\times {}^4{C_2}$$ "
+        },
+        {
+          "key": "B",
+          "value": "$${}^4{P_2} \\times {}^4{P_3}$$ "
+        },
+        {
+          "key": "C",
+          "value": "$${}^4{C_2} \\times {}^4{P_3}$$ "
+        },
+        {
+          "key": "D",
+          "value": "none of these "
+        }
+      ],
+      "answer": "D",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The value of the expression $$\\,{}^{47}{C_4} + \\sum\\limits_{j = 1}^5 {^{52 - j}\\,{C_3}} $$ is equal to ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$${}^{47}{C_5}$$ "
+        },
+        {
+          "key": "B",
+          "value": "$${}^{52}{C_5}$$ "
+        },
+        {
+          "key": "C",
+          "value": "$${}^{52}{C_4}$$ "
+        },
+        {
+          "key": "D",
+          "value": "none of these "
+        }
+      ],
+      "answer": "C",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "$${}^n{C_{r - 1}} = 36,{}^n{C_r} = 84\\,\\,and\\,\\,{}^n{C_{r + 1}} = 126$$, then r is :",
+      "options": [
+        {
+          "key": "A",
+          "value": "1 "
+        },
+        {
+          "key": "B",
+          "value": "2  "
+        },
+        {
+          "key": "C",
+          "value": "3 "
+        },
+        {
+          "key": "D",
+          "value": "None of these."
+        }
+      ],
+      "answer": "C",
+      "explanation": ""
+    }
+  ]
+}

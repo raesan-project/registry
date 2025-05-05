@@ -1,9 +1,0 @@
-{
-  "_index": {
-    "name": "Chemistry"
-  },
-  "_children": [
-    "./hydrocarbons.json",
-    "./solutions.json"
-  ]
-}

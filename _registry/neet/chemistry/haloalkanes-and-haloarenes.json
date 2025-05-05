@@ -1,0 +1,199 @@
+{
+  "_index": {
+    "name": "Haloalkanes and Haloarenes"
+  },
+  "_children": [
+    {
+      "_type": "single_mcq",
+      "body": "<p>Which amongst the following reactions of alkyl halides produces isonitrile as a major product?</p>\n<p>(A) $$\\mathrm{R-X+HCN\\to}$$</p>\n<p>(B) $$\\mathrm{R-X+AgCN\\to}$$</p>\n<p>(C) $$\\mathrm{R-X+KCN\\to}$$</p>\n<p>(D) $$\\mathrm{R-X+NaCN\\mathrel{\\mathop{\\kern0pt\\longrightarrow}\n\\limits_{{C_2}{H_5}OH}^{{H_2}O}}}$$</p>\n<p>Choose the most appropriate answer from the options given below:</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "(D) only"
+        },
+        {
+          "key": "B",
+          "value": "(C) and (D) only"
+        },
+        {
+          "key": "C",
+          "value": "(B) only"
+        },
+        {
+          "key": "D",
+          "value": "(A) and (B) only"
+        }
+      ],
+      "answer": "C",
+      "explanation": "<p>$$\\mathrm{[B] R-X+Ag-C\\equiv N\\to R-NC}$$ Isonitrile</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Which of the following alkane cannot be made in good yield by Wurtz reaction?",
+      "options": [
+        {
+          "key": "A",
+          "value": "2, 3-Dimethylbutane"
+        },
+        {
+          "key": "B",
+          "value": "n-Heptane"
+        },
+        {
+          "key": "C",
+          "value": "n-Butane"
+        },
+        {
+          "key": "D",
+          "value": "n-Hexane"
+        }
+      ],
+      "answer": "B",
+      "explanation": "Wurtz reaction is used to prepare symmetrical alkanes like <br><br>R<sub>1</sub>$$ - $$\nX + 2Na + X$$ - $$\nR<sub>1</sub>$$\\buildrel {Dry\\;ether} \\over\n \\longrightarrow $$\n<br><br>R<sub>1</sub>$$ - $$R<sub>1</sub> + R<sub>1</sub>$$ - $$\nR<sub>2</sub> + R<sub>2</sub>$$ - $$\nR<sub>2</sub> + 2NaX<br><br>Using Wurtz reaction, n-Heptane can not be produced in good production because it is unsymmetrical alkane.\n\n"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Consider the reaction, \n<br>CH<sub>3</sub>CH<sub>2</sub>CH<sub>2</sub>Br  +  NaCN  $$ \\to $$  CH<sub>3</sub>CH<sub>2</sub>CH<sub>2</sub>CN + NaBr\n<br><br>This reaction will be the fastest in ",
+      "options": [
+        {
+          "key": "A",
+          "value": "ethanol"
+        },
+        {
+          "key": "B",
+          "value": "methanol"
+        },
+        {
+          "key": "C",
+          "value": "N, N' -dimethylformamide (DMF)"
+        },
+        {
+          "key": "D",
+          "value": "Water"
+        }
+      ],
+      "answer": "C",
+      "explanation": "The reaction, \n<br>CH<sub>3</sub>CH<sub>2</sub>CH<sub>2</sub>Br  +  NaCN  $$ \\to $$  CH<sub>3</sub>CH<sub>2</sub>CH<sub>2</sub>CN + NaBr\n<br><br>follows S<sub>N</sub>2 mechanism which is favoured by polar aprotic solvent i.e., N, N'–dimethylformamide (DMF)."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "In an S<sub>N</sub>1 reaction on chiral centers, there is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "inversion more than retention leading to partial racemisation"
+        },
+        {
+          "key": "B",
+          "value": "100% retention"
+        },
+        {
+          "key": "C",
+          "value": "100% inversion"
+        },
+        {
+          "key": "D",
+          "value": "100% racemisation"
+        }
+      ],
+      "answer": "A",
+      "explanation": "In case of optically active alkyl halides,\nS<sub>N</sub>1 reaction is accompanied by racemisation. The\ncarbocation formed in the slow step being sp<sup>2</sup>\nhybridised is planar and attack of nucleophile may\ntake place from either side resulting in a mixture of\nproducts, one having the same configuration and\nother having inverted configuration.\n<br><br>The isomer corresponding to inversion is present\nin slight excess because S<sub>N</sub>1 also depends upon\nthe degree of shielding of the front side of the\nreacting carbon."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Which one is most reactive towards S<sub>N</sub>1 reaction? ",
+      "options": [
+        {
+          "key": "A",
+          "value": "C<sub>6</sub>H<sub>5</sub>CH(C<sub>6</sub>H<sub>5</sub>)Br"
+        },
+        {
+          "key": "B",
+          "value": "C<sub>6</sub>H<sub>5</sub>CH(CH<sub>3</sub>)Br"
+        },
+        {
+          "key": "C",
+          "value": "C<sub>6</sub>H<sub>5</sub>C(CH<sub>3</sub>)(C<sub>6</sub>H<sub>5</sub>)Br"
+        },
+        {
+          "key": "D",
+          "value": "C<sub>6</sub>H<sub>5</sub>CH<sub>2</sub>Br"
+        }
+      ],
+      "answer": "C",
+      "explanation": "S<sub>N</sub>1 reactions involve the formation of\ncarbocations, hence higher the stability of\nintermediate carbocation, more will be reactivity\nof the parent alkyl halide. The tertiary carbocation\nformed from (c) is stabilized by two phenyl groups\nand one methyl group, hence most stable."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Which of the following reactions is an example of nucleophilic substitution reaction? ",
+      "options": [
+        {
+          "key": "A",
+          "value": "2RX + 2Na $$ \\to $$ R $$-$$ R + 2NaX"
+        },
+        {
+          "key": "B",
+          "value": "RX + H<sub>2</sub> $$ \\to $$ RH + HX"
+        },
+        {
+          "key": "C",
+          "value": "RX + Mg $$ \\to $$ RMgX"
+        },
+        {
+          "key": "D",
+          "value": "RX + KOH $$ \\to $$ ROH + KX"
+        }
+      ],
+      "answer": "D",
+      "explanation": "In nucleophilic substitution, a nucleophile\nprovides an electron pair to the substrate and\nthe leaving group departs with an electron pair."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Which of the following undergoes nucleophilic substitution exclusively by S<sub>N</sub>1 mechanism? ",
+      "options": [
+        {
+          "key": "A",
+          "value": "Ethyl chloride"
+        },
+        {
+          "key": "B",
+          "value": "Isopropyl chloride"
+        },
+        {
+          "key": "C",
+          "value": "Chlorobenzene"
+        },
+        {
+          "key": "D",
+          "value": "Benzyl chloride"
+        }
+      ],
+      "answer": "D",
+      "explanation": "S<sub>N</sub>1 reaction is favoured by heavy groups\non the carbon atom attached to halogen i.e\n<br><br>Benzyl &gt; allyl &gt; tertiary &gt; primary &gt;\nsecondary &gt; primary &gt; alkyl halides"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Reactivity order of halides for dehydrologenation is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$R - F &gt; R - Cl &gt; R - Br &gt; R - {\\rm I}$$"
+        },
+        {
+          "key": "B",
+          "value": "$$R - {\\rm I} &gt; R - Br &gt; R - Cl &gt; R - F$$"
+        },
+        {
+          "key": "C",
+          "value": "$$R - {\\rm I} &gt; R - Cl &gt; R - Br &gt; R - F$$"
+        },
+        {
+          "key": "D",
+          "value": "$$R - F &gt; R - {\\rm I} &gt; R - Br &gt; R - Cl$$"
+        }
+      ],
+      "answer": "B",
+      "explanation": "atomic radii order :\n<br> I &gt; Br &gt; Cl &gt; F \n<br><br> F, Cl, Br, I belongs to the same group orderly. Atomic radii go on increasing as the nuclear charge increases from top to bottom in a group. The decreasing order of bond length C – I &gt; C – Br &gt; C – Cl &gt; C – F. The order of bond dissociation energy\n<br> R – F &gt; R – Cl &gt; R – Br &gt; R – I. During dehydrohalogenation C – I bond breaks more easily than C – F bond.So reactivity order of halides\n<br><br>$$R - {\\rm I} &gt; R - Br &gt; R - Cl &gt; R - F$$"
+    }
+  ]
+}

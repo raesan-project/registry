@@ -1,0 +1,2395 @@
+{
+  "_index": {
+    "name": "Simple Harmonic Motion"
+  },
+  "_children": [
+    {
+      "_type": "single_mcq",
+      "body": "<p>Two simple pendulums having lengths $l_1$ and $l_2$ with negligible string mass undergo angular displacements $\\theta_1$ and $\\theta_2$, from their mean positions, respectively. If the angular accelerations of both pendulums are same, then which expression is correct?</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": " $\\theta_1 l_2=\\theta_2 l_1$\n"
+        },
+        {
+          "key": "B",
+          "value": " $\\theta_1 l_1=\\theta_2 l_2$\n"
+        },
+        {
+          "key": "C",
+          "value": " $\\theta_1 l_2^2=\\theta_2 l_1^2$\n"
+        },
+        {
+          "key": "D",
+          "value": " $\\theta_1 l_1^2=\\theta_2 l_2^2$"
+        }
+      ],
+      "answer": "A",
+      "explanation": "<p<strong>Angular Frequency</strong>: The angular frequency ($\\omega$) of a simple pendulum is given by:</p>\n<p>$    \\omega = \\sqrt{\\frac{g}{\\ell}}    $</p>\n<p>where $g$ is the acceleration due to gravity and $\\ell$ is the pendulum length.</p></p>\n<p><p><strong>Angular Acceleration</strong>: The angular acceleration ($\\alpha$) can be expressed in terms of angular displacement ($\\theta$) and angular frequency:</p>\n<p>$    \\alpha = -\\omega^2 \\theta    $</p></p>\n<p><p><strong>Equating Angular Accelerations</strong>: Since the angular accelerations of the two pendulums are equal, we equate them:</p>\n<p>$    \\frac{g}{\\ell_1} \\theta_1 = \\frac{g}{\\ell_2} \\theta_2    $</p></p>\n<p><p><strong>Simplifying the Expression</strong>: By canceling out $g$ on both sides, we derive:</p>\n<p>$    \\theta_1 \\ell_2 = \\theta_2 \\ell_1    $</p></p>\n\n<p>Thus, the correct expression that relates the displacements and lengths of the pendulums is $\\theta_1 \\ell_2 = \\theta_2 \\ell_1$.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>A particle is subjected to two simple harmonic motions as :\n\n$$\nx_1=\\sqrt{7} \\sin 5 \\mathrm{tcm}\n$$\n\nand $x_2=2 \\sqrt{7} \\sin \\left(5 t+\\frac{\\pi}{3}\\right) \\mathrm{cm}$\nwhere $x$ is displacement and $t$ is time in seconds.\nThe maximum acceleration of the particle is $x \\times 10^{-2} \\mathrm{~ms}^{-2}$. The value of $x$ is :\n </p>",
+      "options": [
+        {
+          "key": "A",
+          "value": " $5 \\sqrt{7}$\n"
+        },
+        {
+          "key": "B",
+          "value": " 125\n"
+        },
+        {
+          "key": "C",
+          "value": " $25 \\sqrt{7}$\n"
+        },
+        {
+          "key": "D",
+          "value": "175"
+        }
+      ],
+      "answer": "D",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Given below are two statements: one is labelled as <b>Assertion (A)</b> and the other is labelled as <b>Reason (R)</b>.</p>\n<p><b>Assertion (A)</b> : Time period of a simple pendulum is longer at the top of a mountain than that at the base of the mountain.</p>\n<p><b>Reason (R)</b> : Time period of a simple pendulum decreases with increasing value of acceleration due to gravity and vice-versa.</p>\n<p>In the light of the above statements, choose the <u>most appropriate</u> answer from the options given below :</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "<p>Both <b>(A)</b> and <b>(R)</b> are true but <b>(R)</b> is <u>not</u> the correct explanation of <b>(A)</b>.</p>"
+        },
+        {
+          "key": "B",
+          "value": "<p><b>(A)</b> is true but <b>(R)</b> is false.</p>"
+        },
+        {
+          "key": "C",
+          "value": "<p>Both <b>(A)</b> and <b>(R)</b> are true and <b>(R)</b> is the correct explanation of <b>(A)</b>.</p>"
+        },
+        {
+          "key": "D",
+          "value": "<p><b>(A)</b> is false but <b>(R)</b> is true.</p>"
+        }
+      ],
+      "answer": "C",
+      "explanation": "<p>$$\\begin{aligned}\n&\\text { As } h \\text { increases, } g \\text { decreases, } \\mathrm{T} \\text { increases }\\\\\n&\\begin{aligned}\n& \\mathrm{T}=2 \\pi \\sqrt{\\frac{\\ell}{\\mathrm{~g}}} \\\\\n& \\mathrm{~g}=\\frac{\\mathrm{g}_0 \\mathrm{R}^2}{(\\mathrm{R}+\\mathrm{h})^2}\n\\end{aligned}\n\\end{aligned}$$</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Given below are two statements. One is labelled as Assertion (A) and the other is labelled as Reason (R).</p>\n<p><b>Assertion (A)</b> : Knowing initial position $\\mathrm{x}_0$ and initial momentum $p_0$ is enough to determine the position and momentum at any time $t$ for a simple harmonic motion with a given angular frequency $\\omega$.</p>\n<p><b>Reason (R)</b> : The amplitude and phase can be expressed in terms of $\\mathrm{X}_0$ an $\\mathrm{p}_0$.</p>\n<p>In the light of the above statements, choose the <b>correct </b>answer from the options given below :</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "<p>(A) is true but (R) is false</p>"
+        },
+        {
+          "key": "B",
+          "value": "<p>Both (A) and (R) are true but (R) is NOT the correct explanation of (A)</p>"
+        },
+        {
+          "key": "C",
+          "value": "<p>(A) is false but (R) is true</p>"
+        },
+        {
+          "key": "D",
+          "value": "<p>Both (A) and (R) are true and (R) is the correct explanation of (A)</p>"
+        }
+      ],
+      "answer": "D",
+      "explanation": "<p>$$\\begin{aligned}\n& \\mathrm{x}=\\mathrm{A} \\sin (\\omega \\mathrm{t}+\\phi) \\\\\n& \\mathrm{x}_0=\\mathrm{A} \\sin \\phi \\quad\\text{.... (1)}\\\\\n& \\mathrm{p}=\\mathrm{mA} \\omega \\cos (\\omega \\mathrm{t}+\\phi) \\\\\n& \\mathrm{p}_0=\\mathrm{mA} \\omega \\cos \\phi \\quad\\text{.... (2)}\n\\end{aligned}$$</p>\n<p>$(2) /(1) \\Rightarrow \\tan \\phi=\\left(\\frac{x_0}{p_0}\\right) m \\omega$</p>\n<p>$$\\sin \\phi=\\frac{\\mathrm{x}_0 \\mathrm{~m} \\omega}{\\sqrt{\\left(\\mathrm{~m} \\omega \\mathrm{x}_0\\right)^2+\\mathrm{p}_0^2}}$$</p>\n<p>From (1), $A=\\frac{x_0}{\\sin \\phi}=\\frac{\\sqrt{\\left(m \\omega x_0\\right)^2+p_0^2}}{m \\omega}$</p>\n<p>This means we can explain assertion with the given reason.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A particle is executing simple harmonic motion with time period 2 s and amplitude 1 cm . If D and d are the total distance and displacement covered by the particle in 12.5 s , then $\\frac{\\mathrm{D}}{\\mathrm{d}}$ is\n",
+      "options": [
+        {
+          "key": "A",
+          "value": "$10$\n"
+        },
+        {
+          "key": "B",
+          "value": "$\\frac{16}{5}$\n"
+        },
+        {
+          "key": "C",
+          "value": "$25$\n"
+        },
+        {
+          "key": "D",
+          "value": "$\\frac{15}{4}$"
+        }
+      ],
+      "answer": "C",
+      "explanation": "<p>$$ x(t) = \\cos(\\pi t) $$</p>\n<p>The particle executes simple harmonic motion (SHM) with amplitude $$ A = 1 \\text{ cm} $$ and period $$ T = 2 \\text{ s} $$. In one complete cycle (2 s), the motion is as follows:</p>\n\n<p><p>It starts at $$ x = 1 \\text{ cm} $$.</p></p>\n<p><p>It moves to $$ x = -1 \\text{ cm} $$ (covering a distance of $$ 2 \\text{ cm} $$).</p></p>\n<p><p>It returns to $$ x = 1 \\text{ cm} $$ (covering another $$ 2 \\text{ cm} $$).</p></p>\n\n<p>Thus, the total distance traveled in one complete cycle is:</p>\n<p>$$ D_{\\text{cycle}} = 2 + 2 = 4 \\text{ cm}. $$</p>\n<p>In 12.5 s, the number of cycles is:</p>\n<p>$$ \\frac{12.5}{2} = 6.25 \\text{ cycles}. $$</p>\n<p>For the 6 complete cycles (12 s), the distance traveled is:</p>\n<p>$$ D_{\\text{complete}} = 6 \\times 4 = 24 \\text{ cm}. $$</p>\n<p>For the remaining 0.5 s, determine the displacement. At $$ t = 12 \\text{ s} $$, the particle is at:</p>\n<p>$$ x(12) = \\cos(12\\pi) = 1 \\text{ cm}. $$</p>\n<p>After an extra 0.5 s (i.e., at $$ t = 12.5 \\text{ s} $$), the position becomes:</p>\n<p>$$ x(12.5) = \\cos(12.5\\pi) = \\cos\\left(12\\pi + \\frac{\\pi}{2}\\right) = \\cos\\frac{\\pi}{2} = 0 \\text{ cm}. $$</p>\n<p>The distance covered in this interval is:</p>\n<p>$$ D_{\\text{extra}} = |1 - 0| = 1 \\text{ cm}. $$</p>\n<p>So, the total distance traveled is:</p>\n<p>$$ D = D_{\\text{complete}} + D_{\\text{extra}} = 24 + 1 = 25 \\text{ cm}. $$</p>\n<p>The net displacement, which is the difference between the final and initial positions, is calculated as follows:</p>\n\n<p><p>Initial position at $$ t = 0 $$:</p>\n<p>$$ x(0) = \\cos 0 = 1 \\text{ cm}, $$</p></p>\n<p><p>Final position at $$ t = 12.5 \\text{ s} $$:</p>\n<p>$$ x(12.5) = 0 \\text{ cm}. $$</p></p>\n\n<p>Thus, the displacement is:</p>\n<p>$$ d = |0 - 1| = 1 \\text{ cm}. $$</p>\n<p>The ratio of the total distance traveled to the displacement is:</p>\n<p>$$ \\frac{D}{d} = \\frac{25}{1} = 25. $$</p>\n<p>Therefore, the correct answer is $$25$$.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>A light hollow cube of side length 10 cm and mass 10 g , is floating in water. It is pushed down and released to execute simple harmonic oscillations. The time period of oscillations is $y \\pi \\times 10^{-2} \\mathrm{~s}$, where the value of $y$ is\n(Acceleration due to gravity, $g=10 \\mathrm{~m} / \\mathrm{s}^2$, density of water $=10^3 \\mathrm{~kg} / \\mathrm{m}^3$ )</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "2"
+        },
+        {
+          "key": "B",
+          "value": "4"
+        },
+        {
+          "key": "C",
+          "value": "1"
+        },
+        {
+          "key": "D",
+          "value": "6"
+        }
+      ],
+      "answer": "A",
+      "explanation": "<p>We can determine the time period of the oscillations by considering that when the cube is depressed by a small displacement, the additional buoyant force provided by the displaced water acts as a restoring force. Here’s a step‐by‐step explanation:</p>\n\n<p>Define the given values:</p>\n\n\n<p><p>Side length of the cube, $$L = 10\\text{ cm} = 0.1\\text{ m}$$.</p></p>\n<p><p>Mass of the cube, $$m = 10\\text{ g} = 0.01\\text{ kg}$$.</p></p>\n<p><p>Density of water, $$\\rho = 10^3\\ \\text{kg/m}^3$$.</p></p>\n<p><p>Acceleration due to gravity, $$g = 10\\ \\text{m/s}^2$$.</p></p>\n<p><p>Cross-sectional area of the cube (face area), </p>\n<p>$$A = L^2 = (0.1)^2 = 0.01\\text{ m}^2.$$</p></p>\n\n\n<p><p>When the cube is depressed by a small distance $$x$$, the additional volume of water displaced is </p>\n<p>$$\\Delta V = A\\,x.$$</p>\n<p>Thus, the additional buoyant force is:</p>\n<p>$$F_b = \\rho\\,g\\,\\Delta V = \\rho\\,g\\,A\\,x.$$</p>\n<p>This force acts in the upward (restoring) direction. Notice that the force is proportional to the displacement $$x$$, which is the hallmark of simple harmonic motion (SHM).</p></p>\n<p><p>The effective spring constant, $$k$$, associated with this SHM is:</p>\n<p>$$k = \\rho\\,g\\,A.$$</p></p>\n<p><p>The period of oscillation for SHM is given by:</p>\n<p>$$T = 2\\pi \\sqrt{\\frac{m}{k}},$$</p>\n<p>which, upon substituting for $$k$$, becomes:</p>\n<p>$$T = 2\\pi \\sqrt{\\frac{m}{\\rho\\,g\\,A}}.$$</p></p>\n<p><p>Substitute the given values into the expression:</p>\n<p>$$T = 2\\pi \\sqrt{\\frac{0.01}{1000 \\times 10 \\times 0.01}}.$$</p>\n<p>Calculate the denominator:</p>\n<p>$$1000 \\times 10 \\times 0.01 = 100,$$</p>\n<p>so,</p>\n<p>$$T = 2\\pi \\sqrt{\\frac{0.01}{100}} = 2\\pi \\sqrt{0.0001}.$$</p>\n<p>Since,</p>\n<p>$$\\sqrt{0.0001} = 0.01,$$</p>\n<p>we have:</p>\n<p>$$T = 2\\pi \\times 0.01 = 0.02\\pi\\ \\text{s}.$$</p></p>\n<p><p>The problem states that the time period is given by:</p>\n<p>$$y \\pi \\times 10^{-2}\\ \\text{s}.$$</p>\n<p>Writing our result in the same form:</p>\n<p>$$0.02\\pi\\ \\text{s} = 2\\pi \\times 10^{-2}\\ \\text{s}.$$</p>\n<p>We see that $$y = 2.$$</p></p>\n\n<p>Therefore, the correct answer is:</p>\n<p>Option A: 2.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Given below are two statements. One is labelled as Assertion (A) and the other is labelled as Reason (R).</p>\n<p>Assertion (A) : A simple pendulum is taken to a planet of mass and radius, 4 times and 2 times, respectively, than the Earth. The time period of the pendulum remains same on earth and the planet.</p>\n<p>Reason (R) : The mass of the pendulum remains unchanged at Earth and the other planet.</p>\n<p>In the light of the above statements, choose the correct answer from the options given below :</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "Both (A) and (R) are true and (R) is the correct explanation of (A)\n"
+        },
+        {
+          "key": "B",
+          "value": "(A) is false but (R) is true\n"
+        },
+        {
+          "key": "C",
+          "value": "(A) is true but (R) is false\n"
+        },
+        {
+          "key": "D",
+          "value": "Both (A) and (R) are true but (R) is NOT the correct explanation of (A)"
+        }
+      ],
+      "answer": "D",
+      "explanation": "<p>Assertion (A): A simple pendulum transported to a planet where the mass and radius are 4 times and 2 times that of the Earth, respectively, has the same time period as it does on Earth.</p>\n<p>Reason (R): The mass of the pendulum remains unchanged whether on Earth or the other planet.</p>\n<p><strong>Explanation:</strong></p>\n<p>The acceleration due to gravity $ g $ on a planet is given by the formula:</p>\n<p>$ g = \\frac{G M}{R^2} $</p>\n<p>where $ G $ is the gravitational constant, $ M $ is the mass of the planet, and $ R $ is the radius of the planet.</p>\n<p>For the new planet, the gravitational acceleration $ g' $ is:</p>\n<p>$ g' = \\frac{G(4M)}{(2R)^2} = \\frac{4G M}{4R^2} = \\frac{G M}{R^2} = g $</p>\n<p>Thus, the gravitational acceleration on this new planet is the same as on Earth, $ g $.</p>\n<p>The time period $ T $ of a simple pendulum is determined by:</p>\n<p>$ T = 2\\pi \\sqrt{\\frac{\\ell}{g}} $</p>\n<p>where $ \\ell $ is the length of the pendulum, which indicates that the time period $ T $ is independent of the mass of the pendulum.</p>\n<p>Therefore, while Assertion (A) is true and Reason (R) is true, Reason (R) does not correctly explain Assertion (A) because the time period of the pendulum is also independent of the pendulum's mass, and the key factor is the unchanged gravitational acceleration.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>A simple pendulum doing small oscillations at a place $$R$$ height above earth surface has time period of $$T_1=4 \\mathrm{~s}$$. $$\\mathrm{T}_2$$ would be it's time period if it is brought to a point which is at a height $$2 \\mathrm{R}$$ from earth surface. Choose the correct relation [$$\\mathrm{R}=$$ radius of earth] :</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$3 \\mathrm{~T}_1=2 \\mathrm{~T}_2$$\n"
+        },
+        {
+          "key": "B",
+          "value": "$$\\mathrm{T}_1=\\mathrm{T}_2$$\n"
+        },
+        {
+          "key": "C",
+          "value": "$$2 \\mathrm{~T}_1=3 \\mathrm{~T}_2$$\n"
+        },
+        {
+          "key": "D",
+          "value": "$$2 \\mathrm{~T}_1=\\mathrm{T}_2$$"
+        }
+      ],
+      "answer": "A",
+      "explanation": "<p>The time period of a simple pendulum is given by the formula:</p>\n\n<p>$$T = 2\\pi \\sqrt{\\frac{l}{g}}$$</p>\n\n<p>where $$T$$ is the time period, $$l$$ is the length of the pendulum, and $$g$$ is the acceleration due to gravity at the location of the pendulum.</p>\n\n<p>The acceleration due to gravity changes with height above the Earth's surface. The acceleration due to gravity at a height $$h$$ above the Earth's surface can be expressed as:</p>\n\n<p>$$g' = g \\left(\\frac{R}{R + h}\\right)^2$$</p>\n\n<p>where $$g$$ is the acceleration due to gravity at the surface of the Earth, $$R$$ is the radius of the Earth, and $$h$$ is the height above the Earth’s surface. Since the time period of the pendulum depends on the square root of the inverse of the acceleration due to gravity, any change in $$g$$ due to a change in height will affect the time period.</p>\n\n<p>Given that the time period of the pendulum at a height $$R$$ above Earth's surface is $$T_1$$, and we're to find the time period $$T_2$$ at a height of $$2R$$, we can use the formula for acceleration due to gravity at different heights to express the relationship between $$T_1$$ and $$T_2$$.</p>\n\n<p>For the initial case at height $$R$$:</p>\n\n<p>$$g_1 = g \\left(\\frac{R}{R + R}\\right)^2 = g \\left(\\frac{R}{2R}\\right)^2 = \\frac{g}{4}$$</p>\n\n<p>For the new case at height $$2R$$:</p>\n\n<p>$$g_2 = g \\left(\\frac{R}{R + 2R}\\right)^2 = g \\left(\\frac{R}{3R}\\right)^2 = \\frac{g}{9}$$</p>\n\n<p>The time period is proportional to the square root of the inverse of $$g$$, so:</p>\n\n<p>$$\\frac{T_1}{T_2} = \\sqrt{\\frac{g_2}{g_1}} = \\sqrt{\\frac{\\frac{g}{9}}{\\frac{g}{4}}} = \\sqrt{\\frac{4}{9}} = \\frac{2}{3}$$</p>\n\n<p>Therefore:</p>\n\n<p>$$T_1 = \\frac{2}{3}T_2$$</p>\n\n<p>Rearranging this equation:</p>\n\n<p>$$3T_1 = 2T_2$$</p>\n\n<p>This corresponds to Option A.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A simple pendulum of length $1 \\mathrm{~m}$ has a wooden bob of mass $1 \\mathrm{~kg}$. It is struck by a bullet of mass $10^{-2} \\mathrm{~kg}$ moving with a speed of $2 \\times 10^2 \\mathrm{~ms}^{-1}$. The bullet gets embedded into the bob. The height to which the bob rises before swinging back is. (use $\\mathrm{g}=10 \\mathrm{~m} / \\mathrm{s}^2$ )",
+      "options": [
+        {
+          "key": "A",
+          "value": "$0.20 \\mathrm{~m}$"
+        },
+        {
+          "key": "B",
+          "value": "$0.40 \\mathrm{~m}$"
+        },
+        {
+          "key": "C",
+          "value": "$0.30 \\mathrm{~m}$"
+        },
+        {
+          "key": "D",
+          "value": "$0.35 \\mathrm{~m}$"
+        }
+      ],
+      "answer": "A",
+      "explanation": "<p>The initial momentum of the system (bullet + bob) is the momentum of the bullet because the bob is initially at rest. The momentum of the bullet is given by its mass times its velocity :</p>\n\n<p>$$ p_{\\text{initial}} = m_{\\text{bullet}} \\times v_{\\text{bullet}} $$</p>\n\n<p>After the collision, the bullet and the bob move together with a common velocity. Let's denote this common velocity as $ v' $. The final momentum $ p_{\\text{final}} $ is the combined mass of the bullet and bob times the common velocity :</p>\n\n<p>$$ p_{\\text{final}} = (m_{\\text{bullet}} + m_{\\text{bob}}) \\times v' $$</p>\n\n<p>According to the principle of conservation of linear momentum,</p>\n\n<p>$$ p_{\\text{initial}} = p_{\\text{final}} $$</p>\n\n<p>$$ m_{\\text{bullet}} \\times v_{\\text{bullet}} = (m_{\\text{bullet}} + m_{\\text{bob}}) \\times v' $$</p>\n\n<p>Plugging in the values :</p>\n\n<p>$$ (10^{-2} \\text{ kg}) \\times (2 \\times 10^2 \\text{ m/s}) = (10^{-2} \\text{ kg} + 1 \\text{ kg}) \\times v' $$</p>\n\n<p>Solving for $ v' $ :</p>\n\n<p>$$ v' = \\frac{10^{-2} \\times 2 \\times 10^2}{10^{-2} + 1} = \\frac{2}{1.01} \\approx 1.98 \\text{ m/s} $$</p>\n\n<p>After the collision, the system has some kinetic energy which will be completely converted to potential energy at the maximum height $ h $ that the bob reaches. Using the principle of conservation of energy :</p>\n\n<p>$$ \\text{Kinetic Energy (KE)}_{\\text{initial}} = \\text{Potential Energy (PE)}_{\\text{final}} $$</p>\n\n<p>$$ \\frac{1}{2}(m_{\\text{bullet}} + m_{\\text{bob}})v'^2 = (m_{\\text{bullet}} + m_{\\text{bob}})gh $$</p>\n\n<p>Isolating $ h $, we get :</p>\n\n<p>$$ h = \\frac{\\frac{1}{2}(m_{\\text{bullet}} + m_{\\text{bob}})v'^2}{(m_{\\text{bullet}} + m_{\\text{bob}})g} = \\frac{v'^2}{2g} $$</p>\n\n<p>Substituting the values for $ v' $ and $ g $ :</p>\n\n<p>$$ h = \\frac{(1.98)^2}{2 \\times 10} = \\frac{3.9204}{20} = 0.19602 \\text{ m} $$</p>\n\n<p>Looking at the given options, the result most closely matches Option A :</p>\n\n<p>$$ \\boxed{0.20 \\text{ m}} $$</p>\n\n<p>Therefore, the height to which the bob rises before swinging back is approximately $ 0.20 \\text{ m} $.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": " In a linear Simple Harmonic Motion (SHM)\n<br/><br/>\n(A) Restoring force is directly proportional to the displacement.\n<br/><br/>\n(B) The acceleration and displacement are opposite in direction.\n<br/><br/>\n(C) The velocity is maximum at mean position.\n<br/><br/>\n(D) The acceleration is minimum at extreme points.\n<br/><br/>\nChoose the correct answer from the options given below:",
+      "options": [
+        {
+          "key": "A",
+          "value": "${\\text {(A), (B) and (D) only }}$"
+        },
+        {
+          "key": "B",
+          "value": "(C) and (D) only"
+        },
+        {
+          "key": "C",
+          "value": "(A), (B) and (C) Only"
+        },
+        {
+          "key": "D",
+          "value": "(A), (C) and (D) only"
+        }
+      ],
+      "answer": "C",
+      "explanation": "The correct options are:\n<br/><br/>\n(A) Restoring force is directly proportional to the displacement. - True (this is a defining characteristic of SHM)\n<br/><br/>\n(B) The acceleration and displacement are opposite in direction. - True (the acceleration is proportional to the displacement but in the opposite direction)\n<br/><br/>\n(C) The velocity is maximum at mean position. - True (the velocity is zero at the extreme positions and reaches a maximum at the mean position)\n<br/><br/>\n(D) The acceleration is minimum at extreme points. - False (the acceleration is maximum at the extreme points and zero at the mean position)"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>A particle executes SHM of amplitude A. The distance from the mean position when its's kinetic energy becomes equal to its potential energy is :</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$\\frac{1}{\\sqrt{2}} A$$"
+        },
+        {
+          "key": "B",
+          "value": "$$\\frac{1}{2} A$$"
+        },
+        {
+          "key": "C",
+          "value": "$$2 \\mathrm{~A}$$"
+        },
+        {
+          "key": "D",
+          "value": "$$\\sqrt{2 A}$$"
+        }
+      ],
+      "answer": "A",
+      "explanation": "The total energy of a particle executing simple harmonic motion (SHM) is given by:\n<br/><br/>\n$$E = \\frac{1}{2}m\\omega^2A^2$$\n<br/><br/>\nwhere $$m$$ is the mass of the particle, $$\\omega$$ is the angular frequency of the SHM, and $$A$$ is the amplitude of the motion.\n<br/><br/>\nAt any point during SHM, the kinetic energy of the particle is given by:\n<br/><br/>\n$$K = \\frac{1}{2}m\\omega^2(x^2 + A^2\\cos^2\\omega t)$$\n<br/><br/>\nwhere $$x$$ is the displacement of the particle from the mean position.\n<br/><br/>\nThe potential energy of the particle at the same point is given by:\n<br/><br/>\n$$U = \\frac{1}{2}m\\omega^2(x^2 + A^2\\sin^2\\omega t)$$\n<br/><br/>\nWhen the kinetic energy becomes equal to the potential energy, we have:\n<br/><br/>\n$$K = U$$\n<br/><br/>\n$$\\frac{1}{2}m\\omega^2(x^2 + A^2\\cos^2\\omega t) = \\frac{1}{2}m\\omega^2(x^2 + A^2\\sin^2\\omega t)$$\n<br/><br/>\nSimplifying this equation, we get:\n<br/><br/>\n$$x^2 = \\frac{1}{2}A^2$$\n<br/><br/>\n$$x = \\pm\\frac{1}{\\sqrt{2}}A$$\n<br/><br/>\nTherefore, the distance from the mean position when the kinetic energy becomes equal to the potential energy is $$\\boxed{\\frac{1}{\\sqrt{2}}A}$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>A particle is executing simple harmonic motion (SHM). The ratio of potential energy and kinetic energy of the particle when its displacement is half of its amplitude will be</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "1 : 1"
+        },
+        {
+          "key": "B",
+          "value": "1 : 4"
+        },
+        {
+          "key": "C",
+          "value": "2 : 1"
+        },
+        {
+          "key": "D",
+          "value": "1 : 3"
+        }
+      ],
+      "answer": "D",
+      "explanation": "<p>Let&#39;s denote the amplitude of the simple harmonic motion as A, and the displacement of the particle from the mean position as x. The given condition is that x = A/2.</p>\n<p>For a particle in SHM, the potential energy (PE) is given by:</p>\n<p>$$PE = \\frac{1}{2} kx^2$$</p>\n<p>And the total mechanical energy (E) of the particle remains constant and is given by:</p>\n<p>$$E = \\frac{1}{2} kA^2$$</p>\n<p>Since the total mechanical energy is the sum of potential energy and kinetic energy (KE), we have:</p>\n<p>$$E = PE + KE$$</p>\n<p>Now, we need to find the ratio of potential energy to kinetic energy when x = A/2. </p>\n<p>Calculate the potential energy at x = A/2:</p>\n<p>$$PE = \\frac{1}{2} k\\left(\\frac{A}{2}\\right)^2 = \\frac{1}{8} kA^2$$</p>\n<p>Substitute the expression for total mechanical energy:</p>\n<p>$$KE = E - PE = \\frac{1}{2} kA^2 - \\frac{1}{8} kA^2 = \\frac{3}{8} kA^2$$</p>\n<p>Now, find the ratio of potential energy to kinetic energy:</p>\n<p>$$\\frac{PE}{KE} = \\frac{\\frac{1}{8} kA^2}{\\frac{3}{8} kA^2} = \\frac{1}{3}$$</p>\n<p>Therefore, the ratio of potential energy and kinetic energy of the particle when its displacement is half of its amplitude is 1 : 3.</p>\n"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>A particle executes S.H.M. of amplitude A along x-axis. At t = 0, the position of the particle is $$x=\\frac{A}{2}$$ and it moves along positive x-axis. The displacement of particle in time t is $$x = A\\sin (wt + \\delta )$$, then the value of $$\\delta$$ will be</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$\\frac{\\pi}{2}$$"
+        },
+        {
+          "key": "B",
+          "value": "$$\\frac{\\pi}{3}$$"
+        },
+        {
+          "key": "C",
+          "value": "$$\\frac{\\pi}{4}$$"
+        },
+        {
+          "key": "D",
+          "value": "$$\\frac{\\pi}{6}$$"
+        }
+      ],
+      "answer": "D",
+      "explanation": "<p>The initial condition states that the particle is at position $x=\\frac{A}{2}$ at $t=0$. </p>\n<p>If we substitute these initial conditions into the equation for the displacement of the particle:</p>\n<p>$x = A \\sin(wt + \\delta)$</p>\n<p>We have:</p>\n<p>$\\frac{A}{2} = A \\sin(\\delta)$</p>\n<p>Dividing both sides by $A$ gives us:</p>\n<p>$\\frac{1}{2} = \\sin(\\delta)$</p>\n<p>The angle whose sine is $\\frac{1}{2}$ is $\\delta = \\frac{\\pi}{6}$ radians (or 30 degrees).</p>\n<p>Therefore, the correct answer is $\\delta = \\frac{\\pi}{6}$.</p>\n"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>The maximum potential energy of a block executing simple harmonic motion is $$25 \\mathrm{~J}$$. A is amplitude of oscillation. At $$\\mathrm{A / 2}$$, the kinetic energy of the block is</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "9.75 J"
+        },
+        {
+          "key": "B",
+          "value": "37.5 J"
+        },
+        {
+          "key": "C",
+          "value": "18.75 J"
+        },
+        {
+          "key": "D",
+          "value": "12.5 J"
+        }
+      ],
+      "answer": "C",
+      "explanation": "$\\mathrm{U}_{\\max }=\\frac{1}{2} \\mathrm{~m} \\omega^{2} \\mathrm{~A}^{2}=25 \\mathrm{~J}$\n\n<br/><br/>$\\mathrm{KE}$ at $\\frac{\\mathrm{A}}{2}=\\frac{1}{2} m v_{1}^{2}=\\frac{1}{2} m \\omega^{2}\\left(A^{2}-\\frac{A^{2}}{4}\\right)$\n\n<br/><br/>$=\\frac{1}{2} \\mathrm{~m} \\omega^{2} \\frac{3 \\mathrm{~A}^{2}}{4}=\\frac{3}{4}\\left(\\frac{1}{2} \\mathrm{~m} \\omega^{2} \\mathrm{~A}^{2}\\right)$\n\n<br/><br/>$\\mathrm{KE}=\\frac{3}{4} \\times 25=18.75 \\mathrm{~J}$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>A particle executes simple harmonic motion between $$x=-A$$ and $$x=+A$$. If time taken by particle to go from $$x=0$$ to $$\\frac{A}{2}$$ is 2 s; then time taken by particle in going from $$x=\\frac{A}{2}$$ to A is</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "4 s"
+        },
+        {
+          "key": "B",
+          "value": "1.5 s"
+        },
+        {
+          "key": "C",
+          "value": "3 s"
+        },
+        {
+          "key": "D",
+          "value": "2 s"
+        }
+      ],
+      "answer": "A",
+      "explanation": "$x=A \\sin (\\omega t)$\n<br/><br/>\n$$\n\\begin{aligned}\n& x=\\frac{A}{2}=A \\sin (\\omega t) \\\\\\\\\n& \\frac{1}{2}=\\sin (\\omega t) \\\\\\\\\n& t=\\left(\\frac{\\pi}{6 \\omega}\\right)=2 \\\\\\\\\n& \\frac{\\pi}{\\omega}=12 \\sec\n\\end{aligned}\n$$\n<br/><br/>\n$x=A=A \\sin (\\omega t)$\n<br/><br/>\n$\\omega t=\\left(\\frac{\\pi}{2}\\right)$\n<br/><br/>\n$t=\\left(\\frac{\\pi}{2 \\omega}\\right)=6$ second\n<br/><br/>\ntime $=6-2=4$ seconds"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>T is the time period of simple pendulum on the earth's surface. Its time period becomes $$x$$ T when taken to a height R (equal to earth's radius) above the earth's surface. Then, the value of $$x$$ will be :</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "4"
+        },
+        {
+          "key": "B",
+          "value": "$$\\frac{1}{2}$$"
+        },
+        {
+          "key": "C",
+          "value": "2"
+        },
+        {
+          "key": "D",
+          "value": "$$\\frac{1}{4}$$"
+        }
+      ],
+      "answer": "C",
+      "explanation": "At surface of earth time period<br/><br/>\n$$\n\\mathrm{T}=2 \\pi \\sqrt{\\frac{\\ell}{\\mathrm{g}}}\n$$<br/><br/>\nAt height $\\mathrm{h}=\\mathrm{R}$<br/><br/>\n$$\n\\begin{aligned}\n& \\mathrm{g}^{\\prime}=\\frac{\\mathrm{g}}{\\left(1+\\frac{\\mathrm{h}}{\\mathrm{R}}\\right)^2}=\\frac{\\mathrm{g}}{4} \\\\\\\\\n& \\therefore \\,\\mathrm{xT}=2 \\pi \\sqrt{\\frac{\\ell}{(\\mathrm{g} / 4)}} \\\\\\\\\n& \\Rightarrow \\mathrm{xT}=2 \\times 2 \\pi \\sqrt{\\frac{\\ell}{\\mathrm{g}}} \\\\\\\\\n& \\Rightarrow \\mathrm{xT}=2 \\mathrm{~T} \\Rightarrow \\mathrm{x}=2\n\\end{aligned}\n$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>The time period of oscillation of a simple pendulum of length L suspended from the roof of a vehicle, which moves without friction down an inclined plane of inclination $$\\alpha$$, is given by :</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$2 \\pi \\sqrt{\\mathrm{L} /(\\mathrm{g} \\cos \\alpha)}$$"
+        },
+        {
+          "key": "B",
+          "value": "$$2 \\pi \\sqrt{\\mathrm{L} /(\\mathrm{g} \\sin \\alpha)}$$"
+        },
+        {
+          "key": "C",
+          "value": "$$2 \\pi \\sqrt{\\mathrm{L} / \\mathrm{g}}$$"
+        },
+        {
+          "key": "D",
+          "value": "$$2 \\pi \\sqrt{\\mathrm{L} /(\\mathrm{g} \\tan \\alpha)}$$"
+        }
+      ],
+      "answer": "A",
+      "explanation": "<p>$$\\left| {{g_{eff}}} \\right| = \\left| {\\overline g  - \\overline a } \\right|$$</p>\n<p>$$ \\Rightarrow {g_{eff}} = g\\cos \\theta $$</p>\n<p>$$ \\Rightarrow T = 2\\pi \\sqrt {{l \\over {{g_{eff}}}}} $$</p>\n<p>$$ = 2\\pi  = \\sqrt {{L \\over {g\\cos \\theta }}} $$</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Assume there are two identical simple pendulum clocks. Clock - 1 is placed on the earth and Clock - 2 is placed on a space station located at a height h above the earth surface. Clock - 1 and Clock - 2 operate at time periods 4 s and 6 s respectively. Then the value of h is -</p>\n<p>(consider radius of earth $$R_{E}=6400 \\mathrm{~km}$$ and $$\\mathrm{g}$$ on earth $$10 \\mathrm{~m} / \\mathrm{s}^{2}$$ )</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "1200 km"
+        },
+        {
+          "key": "B",
+          "value": "1600 km"
+        },
+        {
+          "key": "C",
+          "value": "3200 km"
+        },
+        {
+          "key": "D",
+          "value": "4800 km"
+        }
+      ],
+      "answer": "C",
+      "explanation": "<p>$$T \\propto \\sqrt {1/g} $$</p>\n<p>$$ \\Rightarrow {{{T_1}} \\over {{T_2}}} = \\sqrt {{{{g_2}} \\over {{g_1}}}}  = {R \\over {R + h}}$$</p>\n<p>$${4 \\over 6} = {R \\over {R + h}}$$</p>\n<p>$$ \\Rightarrow h = R/2$$</p>\n<p>$$ = 3200$$ km</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>When a particle executes Simple Hormonic Motion, the nature of graph of velocity as a function of displacement will be :</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "Circular"
+        },
+        {
+          "key": "B",
+          "value": "Elliptical"
+        },
+        {
+          "key": "C",
+          "value": "Sinusoidal"
+        },
+        {
+          "key": "D",
+          "value": "Straight line"
+        }
+      ],
+      "answer": "B",
+      "explanation": "<p>Let $$x = A\\sin \\omega t$$</p>\n<p>$$ \\Rightarrow v = A\\omega \\cos \\omega t$$</p>\n<p>$$ \\Rightarrow v = \\, \\pm \\,\\omega \\sqrt {{A^2} - {x^2}} $$</p>\n<p>$$ \\Rightarrow {{{v^2}} \\over {{\\omega ^2}}} + {x^2} = {A^2}$$</p>\n<p>$$\\Rightarrow$$ Ellipse</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>The motion of a simple pendulum executing S.H.M. is represented by the following equation.</p>\n<p>$$y = A\\sin (\\pi t + \\phi )$$, where time is measured in second. The length of pendulum is</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "97.23 cm"
+        },
+        {
+          "key": "B",
+          "value": "25.3 cm"
+        },
+        {
+          "key": "C",
+          "value": "99.4 cm"
+        },
+        {
+          "key": "D",
+          "value": "406.1 cm"
+        }
+      ],
+      "answer": "C",
+      "explanation": "<p>$$\\omega  = \\pi  = \\sqrt {{g \\over l}} $$</p>\n<p>So, $$l = {g \\over {{\\pi ^2}}}$$</p>\n<p>$$ \\simeq 99.4$$ cm (Nearest value)</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Motion of a particle in x-y plane is described by a set of following equations $$x = 4\\sin \\left( {{\\pi  \\over 2} - \\omega t} \\right)\\,m$$ and $$y = 4\\sin (\\omega t)\\,m$$. The path of the particle will be :</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "circular"
+        },
+        {
+          "key": "B",
+          "value": "helical"
+        },
+        {
+          "key": "C",
+          "value": "parabolic"
+        },
+        {
+          "key": "D",
+          "value": "elliptical"
+        }
+      ],
+      "answer": "A",
+      "explanation": "<p>$$x = 4\\sin \\left( {{\\pi  \\over 2} - \\omega t} \\right)$$</p>\n<p>$$ = 4\\cos (\\omega t)$$</p>\n<p>$$y = 4\\sin (\\omega t)$$</p>\n<p>$$ \\Rightarrow {x^2} + {y^2} = {4^2}$$</p>\n<p>$$\\Rightarrow$$ The particle is moving in a circular motion with radius of 4 m.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>The equation of a particle executing simple harmonic motion is given by $$x = \\sin \\pi \\left( {t + {1 \\over 3}} \\right)m$$. At t = 1s, the speed of particle will be</p>\n<p>(Given : $$\\pi$$ = 3.14)</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "0 cm s<sup>$$-$$1</sup>"
+        },
+        {
+          "key": "B",
+          "value": "157 cm s<sup>$$-$$1</sup>"
+        },
+        {
+          "key": "C",
+          "value": "272 cm s<sup>$$-$$1</sup>"
+        },
+        {
+          "key": "D",
+          "value": "314 cm s<sup>$$-$$1</sup>"
+        }
+      ],
+      "answer": "B",
+      "explanation": "<p>$$x = \\sin \\left( {\\pi t + {\\pi  \\over 3}} \\right)m$$</p>\n<p>$$ \\Rightarrow {{dx} \\over {dt}} = \\pi \\cos \\left( {\\pi t + {\\pi  \\over 3}} \\right)$$</p>\n<p>$$ = \\pi \\cos \\left( {\\pi  + {\\pi  \\over 3}} \\right)$$ at $$t = 1\\,s$$</p>\n<p>$$ =  - {\\pi  \\over 2}$$ m/s</p>\n<p>or $$\\left| {{{dx} \\over {dt}}} \\right| = 157$$ cm/s</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>The displacement of simple harmonic oscillator after 3 seconds starting from its mean position is equal to half of its amplitude. The time period of harmonic motion is :</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "6 s"
+        },
+        {
+          "key": "B",
+          "value": "8 s"
+        },
+        {
+          "key": "C",
+          "value": "12 s"
+        },
+        {
+          "key": "D",
+          "value": "36 s"
+        }
+      ],
+      "answer": "D",
+      "explanation": "<p>Time taken by the harmonic oscillator to move from mean position to half of amplitude is $${T \\over {12}}$$</p>\n<p>So, $${T \\over {12}}$$ = 3</p>\n<p>T = 36 sec.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Time period of a simple pendulum in a stationary lift is 'T'. If the lift accelerates with $${g \\over 6}$$ vertically upwards then the time period will be :</p>\n<p>(Where g = acceleration due to gravity)</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$\\sqrt {{6 \\over 5}} T$$"
+        },
+        {
+          "key": "B",
+          "value": "$$\\sqrt {{5 \\over 6}} T$$"
+        },
+        {
+          "key": "C",
+          "value": "$$\\sqrt {{6 \\over 7}} T$$"
+        },
+        {
+          "key": "D",
+          "value": "$$\\sqrt {{7 \\over 6}} T$$"
+        }
+      ],
+      "answer": "C",
+      "explanation": "$T^{\\prime}=2 \\pi \\sqrt{\\frac{I}{g_{\\text {eff }}}}$\n<br/><br/>$T^{\\prime}=2 \\pi \\sqrt{\\frac{I}{g+\\frac{g}{6}}}=2 \\pi \\sqrt{\\frac{6 l}{7 g}}$\n<br/><br/>$\\Rightarrow T^{\\prime}=\\sqrt{\\frac{6}{7}} T$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Two massless springs with spring constants 2 k and 9 k, carry 50 g and 100 g masses at their free ends. These two masses oscillate vertically such that their maximum velocities are equal. Then, the ratio of their respective amplitudes will be :</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "1 : 2"
+        },
+        {
+          "key": "B",
+          "value": "3 : 2"
+        },
+        {
+          "key": "C",
+          "value": "3 : 1"
+        },
+        {
+          "key": "D",
+          "value": "2 : 3"
+        }
+      ],
+      "answer": "B",
+      "explanation": "<p>$${\\omega _1}{A_1} = {\\omega _2}{A_2}$$</p>\n<p>$$ \\Rightarrow {{{A_1}} \\over {{A_2}}} = {{{\\omega _2}} \\over {{\\omega _1}}}$$</p>\n<p>$$ = \\sqrt {{{{k_2}} \\over {{m_2}}}}  \\times \\sqrt {{{{m_1}} \\over {{k_1}}}}  = \\sqrt {{{9k} \\over {100}} \\times {{50} \\over {2k}}}  = {3 \\over 2}$$</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A bob of mass 'm' suspended by a thread of length l undergoes simple harmonic oscillations with time period T. If the bob is immersed in a liquid that has density $${1 \\over 4}$$ times that of the bob and the length of the thread is increased by 1/3<sup>rd</sup> of the original length, then the time period of the simple harmonic oscillations will be :-",
+      "options": [
+        {
+          "key": "A",
+          "value": "T"
+        },
+        {
+          "key": "B",
+          "value": "$${3 \\over 2}$$T"
+        },
+        {
+          "key": "C",
+          "value": "$${3 \\over 4}$$T"
+        },
+        {
+          "key": "D",
+          "value": "$${4 \\over 3}$$T"
+        }
+      ],
+      "answer": "D",
+      "explanation": "$$T = 2\\pi \\sqrt {l/g} $$<br><br>When bob is immersed in liquid<br><br>mg<sub>eff</sub> = mg $$-$$ Buoyant force<br><br>mg<sub>eff</sub> = mg $$-$$ v$$\\sigma$$g ($$\\sigma$$ = density of liquid)<br><br>$$ = mg - v{\\rho  \\over 4}g$$<br><br>$$ = mg - {{mg} \\over 4} = {{3mg} \\over 4}$$<br><br>$$\\therefore$$ $${g_{eff}} = {{3g} \\over 4}$$<br><br>$${T_1} = 2\\pi \\sqrt {{{{l_1}} \\over {{g_{eff}}}}} $$<br><br>$${l_1} = l + {l \\over 3} = {{4l} \\over 3},\\,{l_{eff}} = {{3g} \\over 4}$$<br><br>By solving<br><br>$${T_1} = {4 \\over 3}2\\pi \\sqrt {l/g} $$<br><br>$${T_1} = {{4T} \\over 3}$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "For a body executing S.H.M. :<br><br>(1) Potential energy is always equal to its K.E.<br><br>(2) Average potential and kinetic energy over any given time interval are always equal.<br><br>(3) Sum of the kinetic and potential energy at any point of time is constant.<br><br>(4) Average K.E. in one time period is equal to average potential energy in one time period.<br><br>Choose the most appropriate option from the options given below :",
+      "options": [
+        {
+          "key": "A",
+          "value": "(3) and (4)"
+        },
+        {
+          "key": "B",
+          "value": "only (3)"
+        },
+        {
+          "key": "C",
+          "value": "(2) and (3)"
+        },
+        {
+          "key": "D",
+          "value": "only (2)"
+        }
+      ],
+      "answer": "A",
+      "explanation": "In S.H.M. total mechanical energy remains constant and also <k.e.> = <p.e.> = $${{1 \\over 4}}$$KA<sup>2</sup> (for 1 time period)</p.e.></k.e.>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "An object of mass 0.5 kg is executing simple harmonic motion. It amplitude is 5 cm and time period (T) is 0.2 s. What will be the potential energy of the object at an instant $$t = {T \\over 4}s$$ starting from mean position. Assume that the initial phase of the oscillation is zero.",
+      "options": [
+        {
+          "key": "A",
+          "value": "0.62 J"
+        },
+        {
+          "key": "B",
+          "value": "6.2 $$\\times$$ 10<sup>$$-$$3</sup> J"
+        },
+        {
+          "key": "C",
+          "value": "1.2 $$\\times$$ 10<sup>3</sup> J"
+        },
+        {
+          "key": "D",
+          "value": "6.2 $$\\times$$ 10<sup>3</sup> J"
+        }
+      ],
+      "answer": "A",
+      "explanation": "$$T = 2\\pi \\sqrt {{m \\over k}} $$<br><br>$$0.2 = 2\\pi \\sqrt {{{0.5} \\over k}} $$<br><br>k = 50$$\\pi$$<sup>2</sup><br><br>$$ \\approx $$ 500<br><br>x = A sin ($$\\omega$$t + $$\\phi$$)<br><br>= 5 cm sin $$\\left( {{{\\omega T} \\over 4} + 0} \\right)$$<br><br>= 5 cm sin $$\\left( {{\\pi  \\over 2}} \\right)$$<br><br>= 5 cm<br><br>$$PE = {1 \\over 2}k{x^2}$$<br><br>$$ = {1 \\over 2}(500){\\left( {{5 \\over {100}}} \\right)^2}$$<br><br>= 0.6255"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A particle starts executing simple harmonic motion (SHM) of amplitude 'a' and total energy E. At any instant, its kinetic energy is $${{3E} \\over 4}$$ then its displacement 'y' is given by :",
+      "options": [
+        {
+          "key": "A",
+          "value": "y = a"
+        },
+        {
+          "key": "B",
+          "value": "$$y = {a \\over {\\sqrt 2 }}$$"
+        },
+        {
+          "key": "C",
+          "value": "$$y = {{a\\sqrt 3 } \\over 2}$$"
+        },
+        {
+          "key": "D",
+          "value": "$$y = {a \\over 2}$$"
+        }
+      ],
+      "answer": "D",
+      "explanation": "$$E = {1 \\over 2}K{a^2}$$<br><br>$${{3E} \\over 4} = {1 \\over 2}K({a^2} - {y^2})$$<br><br>$$ \\Rightarrow $$ $${3 \\over 4} \\times {1 \\over 2}K{a^2} = {1 \\over 2}K({a^2} - {y^2})$$<br><br>$$ \\Rightarrow $$ $${y^2} = {a^2} - {{3{a^2}} \\over 4}$$<br><br>$$ \\Rightarrow $$ $$y = {a \\over 2}$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "In a simple harmonic oscillation, what fraction of total mechanical energy is in the form of kinetic energy, when the particle is midway between mean and extreme position.",
+      "options": [
+        {
+          "key": "A",
+          "value": "$${1 \\over 2}$$"
+        },
+        {
+          "key": "B",
+          "value": "$${3 \\over 4}$$"
+        },
+        {
+          "key": "C",
+          "value": "$${1 \\over 3}$$"
+        },
+        {
+          "key": "D",
+          "value": "$${1 \\over 4}$$"
+        }
+      ],
+      "answer": "B",
+      "explanation": "$$K = {1 \\over 2}m{\\omega ^2}({A^2} - {x^2})$$<br><br>$$ = {1 \\over 2}m{\\omega ^2}\\left( {{A^2} - {{{A^2}} \\over 4}} \\right)$$<br><br>$$ = {1 \\over 2}m{\\omega ^2}\\left( {{{3{A^2}} \\over 4}} \\right)$$<br><br>$$K = {3 \\over 4}\\left( {{1 \\over 2}m{\\omega ^2}{A^2}} \\right)$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "T<sub>0</sub> is the time period of a simple pendulum at a place. if the length of the pendulum is reduced to $${1 \\over {16}}$$ times of its initial value, the modified time period is :",
+      "options": [
+        {
+          "key": "A",
+          "value": "4 T<sub>0</sub>"
+        },
+        {
+          "key": "B",
+          "value": "$${1 \\over {4}}$$ T<sub>0</sub>"
+        },
+        {
+          "key": "C",
+          "value": "T<sub>0</sub>"
+        },
+        {
+          "key": "D",
+          "value": "8$$\\pi$$ T<sub>0</sub>"
+        }
+      ],
+      "answer": "B",
+      "explanation": "$$T = 2\\pi \\sqrt {{l \\over g}} $$<br><br>$$T' = {{{T_0}} \\over 4}$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A particle is making simple harmonic motion along the X-axis. If at a distances x<sub>1</sub> and x<sub>2</sub> from the mean position the velocities of the particle are v<sub>1</sub> and v<sub>2</sub> respectively. The time period of its oscillation is given as :",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$T = 2\\pi \\sqrt {{{x_2^2 + x_1^2} \\over {v_1^2 - v_2^2}}} $$"
+        },
+        {
+          "key": "B",
+          "value": "$$T = 2\\pi \\sqrt {{{x_2^2 + x_1^2} \\over {v_1^2 + v_2^2}}} $$"
+        },
+        {
+          "key": "C",
+          "value": "$$T = 2\\pi \\sqrt {{{x_2^2 - x_1^2} \\over {v_1^2 + v_2^2}}} $$"
+        },
+        {
+          "key": "D",
+          "value": "$$T = 2\\pi \\sqrt {{{x_2^2 - x_1^2} \\over {v_1^2 - v_2^2}}} $$"
+        }
+      ],
+      "answer": "D",
+      "explanation": "$${v^2} = {\\omega ^2}({A^2} - {x^2})$$<br><br>$${A^2} = x_1^2 + {{v_1^2} \\over {{\\omega ^2}}} = x_2^2 + {{v_2^2} \\over {{\\omega ^2}}}$$<br><br>$${\\omega ^2} = {{v_2^2 - v_1^2} \\over {x_1^2 - x_2^2}}$$<br><br>$$T = 2\\pi \\sqrt {{{x_2^2 - x_1^2} \\over {v_1^2 - v_2^2}}} $$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The function of time representing a simple harmonic motion with a period of $${\\pi  \\over \\omega }$$ is :",
+      "options": [
+        {
+          "key": "A",
+          "value": "cos($$\\omega$$t) + cos(2$$\\omega$$t) + cos(3$$\\omega$$t)"
+        },
+        {
+          "key": "B",
+          "value": "sin<sup>2</sup>($$\\omega$$t)"
+        },
+        {
+          "key": "C",
+          "value": "sin($$\\omega$$t) + cos($$\\omega$$t)"
+        },
+        {
+          "key": "D",
+          "value": "3cos$$\\left( {{\\pi  \\over 4} - 2\\omega t} \\right)$$"
+        }
+      ],
+      "answer": "D",
+      "explanation": "General equation of SHM<br><br>x = A sin($$\\omega$$'t $$\\pm$$ $$\\phi$$)<br><br>We know, $$\\omega$$ = $${{2\\pi } \\over T}$$<br><br>Given, $$T = {\\pi  \\over \\omega }$$<br><br>$$ \\therefore $$ $$\\omega$$' = $${{2\\pi } \\over {{\\pi  \\over \\omega }}}$$ = 2$$\\omega$$<br><br>$$ \\therefore $$ Equation becomes,<br><br>x = a sin(2$$\\omega$$t $$\\pm$$ $$\\phi$$)<br><br>Here coefficient of t is 2$$\\omega$$.<br><br>you can see only option (D) has coefficient 2$$\\omega$$."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The time period of a simple pendulum is given by $$T = 2\\pi \\sqrt {{l \\over g}} $$. The measured value of the length of pendulum is 10 cm known to a 1mm accuracy. The time for 200 oscillations of the pendulum is found to be 100 second using a clock of 1s resolution. The percentage accuracy in the determination of 'g' using this pendulum is 'x'. The value of 'x' to be nearest integer is :-",
+      "options": [
+        {
+          "key": "A",
+          "value": "2%"
+        },
+        {
+          "key": "B",
+          "value": "3%"
+        },
+        {
+          "key": "C",
+          "value": "5%"
+        },
+        {
+          "key": "D",
+          "value": "4%"
+        }
+      ],
+      "answer": "B",
+      "explanation": "$$T = 2\\pi \\sqrt {{l \\over g}} $$<br><br>$${T^2} = 2\\pi \\left( {{l \\over g}} \\right)$$<br><br>$$g = 2\\pi {l \\over {{T^2}}}$$<br><br>$${{\\Delta g} \\over g} = {{\\Delta l} \\over l} + {{2\\Delta T} \\over T}$$<br><br>$${{\\Delta g} \\over g} = {{1 \\times {{10}^{ - 3}}} \\over {1 \\times {{10}^{ - 2}}}} + {{2 \\times 1} \\over {100}}$$<br><br>$${{\\Delta g} \\over g} = 0.02 + 0.01 = 0.03$$<br><br>$$100 \\times {{\\Delta g} \\over g} = 0.03 \\times 100 = 3\\% $$<br><br>$${{\\Delta g} \\over g} \\times 100 = 3\\% $$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Two particles A and B of equal masses are suspended from two massless springs of spring constants K<sub>1</sub> and K<sub>2</sub> respectively. If the maximum velocities during oscillations are equal, the ratio of the amplitude of A and B is",
+      "options": [
+        {
+          "key": "A",
+          "value": "$${{{K_1}} \\over {{K_2}}}$$"
+        },
+        {
+          "key": "B",
+          "value": "$$\\sqrt {{{{K_1}} \\over {{K_2}}}} $$"
+        },
+        {
+          "key": "C",
+          "value": "$${{{K_2}} \\over {{K_1}}}$$"
+        },
+        {
+          "key": "D",
+          "value": "$$\\sqrt {{{{K_2}} \\over {{K_1}}}} $$"
+        }
+      ],
+      "answer": "D",
+      "explanation": "$$ \\because $$ $${V_{\\max }} = A\\omega $$<br><br>Given, $${\\omega _1}{A_1} = {\\omega _2}{A_2}$$<br><br>We know that $$\\omega  = \\sqrt {{K \\over m}} $$<br><br>$$ \\therefore $$ $$\\sqrt {{{{k_1}} \\over m}} {A_1} = \\sqrt {{{{k_2}} \\over m}} {A_2}$$<br><br>$$ \\Rightarrow $$ $${{{A_1}} \\over {{A_2}}} = \\sqrt {{{{k_2}} \\over {{k_1}}}} $$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A block of mass 1 kg attached to a spring is made to oscillate with an initial amplitude of 12 cm. After 2 minutes the amplitude decreases to 6 cm. Determine the value of the damping constant for this motion . (take ln 2 = 0.693)",
+      "options": [
+        {
+          "key": "A",
+          "value": "0.69 $$\\times$$ 10<sup>2</sup> kg s<sup>$$-$$1</sup>"
+        },
+        {
+          "key": "B",
+          "value": "3.3 $$\\times$$ 10<sup>2</sup> kg s<sup>$$-$$1</sup>"
+        },
+        {
+          "key": "C",
+          "value": "1.16 $$\\times$$ 10<sup>$$-$$2</sup> kg s<sup>$$-$$1</sup>"
+        },
+        {
+          "key": "D",
+          "value": "5.7 $$\\times$$ 10<sup>$$-$$3</sup> kg s<sup>$$-$$1</sup>"
+        }
+      ],
+      "answer": "C",
+      "explanation": "$$A = {A_o}{e^{{{ - b} \\over {2m}}t}}$$<br><br>$$ \\Rightarrow $$ $$6 = 12{e^{{{ - b} \\over {2 \\times 1}} \\times 120}}$$<br><br>$$ \\Rightarrow $$ $$6 = 12{e^{ - b \\times 60}}$$<br><br>$$ \\Rightarrow $$ $${1 \\over 2} = {e^{ - 60b}}$$<br><br>$$ \\Rightarrow $$ $$\\ln (2) = 60b$$<br><br>$$ \\Rightarrow $$ $$b = {{\\ln (2)} \\over {60}} = 1.16 \\times {10^2}$$ Kg/s"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "For what value of displacement the kinetic energy and potential energy of a simple harmonic oscillation become equal ?",
+      "options": [
+        {
+          "key": "A",
+          "value": "x = $${A \\over 2}$$"
+        },
+        {
+          "key": "B",
+          "value": "x = $$\\pm$$ A"
+        },
+        {
+          "key": "C",
+          "value": "x = $$\\pm$$ $${A \\over {\\sqrt 2 }}$$"
+        },
+        {
+          "key": "D",
+          "value": "x = 0"
+        }
+      ],
+      "answer": "C",
+      "explanation": "KE = PE<br><br>$${1 \\over 2}k({A^2} - {X^2}) = {1 \\over 2}K{X^2}$$<br><br>$$ \\Rightarrow $$ $${A^2} - {X^2} = {X^2}$$<br><br>$$ \\Rightarrow $$ $$2{X^2} = {A^2}$$<br><br>$$ \\Rightarrow $$ $${X^2} = {{{A^2}} \\over {\\sqrt 2 }}$$<br><br>$$ \\Rightarrow $$ $$X =  \\pm {A \\over {\\sqrt 2 }}$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Amplitude of a mass-spring system, which is executing simple harmonic motion decreases with time. If mass = 500g, Decay constant = 20 g/s then how much time is required for the amplitude of the system to drop to drop to half of its initial value? (ln 2 = 0.693)",
+      "options": [
+        {
+          "key": "A",
+          "value": "17.32 s"
+        },
+        {
+          "key": "B",
+          "value": "34.65 s"
+        },
+        {
+          "key": "C",
+          "value": "0.034 s"
+        },
+        {
+          "key": "D",
+          "value": "15.01 s"
+        }
+      ],
+      "answer": "B",
+      "explanation": "$$A = {A_0}{e^{ - {{bt} \\over {2m}}}}$$<br><br>$${{bt} \\over {2m}} = \\ln 2 = 0.693$$<br><br>$$t = {{2m} \\over b} \\times 0.693$$<br><br>$$t = 2 \\times {{500} \\over {20}} \\times 0.693$$<br><br>$$t = 50 \\times 0.693 = 34.6$$ sec."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Time period of a simple pendulum is T inside a lift when the lift is stationary. If the lift moves upwards with an acceleration g/2, the time period of pendulum will be :",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$\\sqrt 3 T$$"
+        },
+        {
+          "key": "B",
+          "value": "$$\\sqrt {{2 \\over 3}} T$$"
+        },
+        {
+          "key": "C",
+          "value": "$${T \\over {\\sqrt 3 }}$$"
+        },
+        {
+          "key": "D",
+          "value": "$$\\sqrt {{3 \\over 2}} T$$"
+        }
+      ],
+      "answer": "B",
+      "explanation": "When lift is stationary<br><br>$$T = 2\\pi \\sqrt {{L \\over g}} $$<br><br>A pseudo force will act downwards when lift is moving upwards.<br><br>$$ \\therefore $$ $${g_{eff}} = g + {g \\over 2} = {{3g} \\over 2}$$<br><br>$$ \\therefore $$ New time period<br><br>$$T' = 2\\pi \\sqrt {{L \\over {{g_{eff}}}}} $$<br><br>$$T' = 2\\pi \\sqrt {{{2L} \\over {3g}}} $$<br><br>$$ \\therefore $$ $$T' = \\sqrt {{2 \\over 3}} T$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A particle executes S.H.M., the graph of velocity as a function of displacement is :",
+      "options": [
+        {
+          "key": "A",
+          "value": "a parabola"
+        },
+        {
+          "key": "B",
+          "value": "a helix"
+        },
+        {
+          "key": "C",
+          "value": "an ellipse"
+        },
+        {
+          "key": "D",
+          "value": "a circle"
+        }
+      ],
+      "answer": "C",
+      "explanation": "For a body performing SHM, relation between velocity and displacement<br><br>$$v = \\omega \\sqrt {{A^2} - {x^2}} $$<br><br>now, square both side<br><br>$${v^2} = {w^2}({A^2} - {x^2})$$<br><br>$$ \\Rightarrow {v^2} = {w^2}{A^2} - {\\omega ^2}{x^2}$$<br><br>$${v^2} + {\\omega ^2}{x^2} = {\\omega ^2}{A^2}$$<br><br>divide whole equation by $${{\\omega ^2}{A^2}}$$<br><br>$${{{v^2}} \\over {{\\omega ^2}{A^2}}} + {{{\\omega ^2}{x^2}} \\over {{\\omega ^2}{A^2}}} = {{{\\omega ^2}{x^2}} \\over {{\\omega ^2}{A^2}}}$$<br><br>$${{{v^2}} \\over {{{(\\omega A)}^2}}} + {{{x^2}} \\over {{{(A)}^2}}} = 1$$<br><br>above equation is similar as standard equation of ellipses, so graph between velocity and displacement will be ellipses. "
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Given below are two statements :<br><br>Statement I : A second's pendulum has a time period of 1 second.<br><br>Statement II : It takes precisely one second to move between the two extreme positions.<br><br>In the light of the above statements, choose the correct answer from the options given below :",
+      "options": [
+        {
+          "key": "A",
+          "value": "Both Statement I and Statement II are false"
+        },
+        {
+          "key": "B",
+          "value": "Statement I is false but Statement II is true"
+        },
+        {
+          "key": "C",
+          "value": "Both Statement I and Statement II are true"
+        },
+        {
+          "key": "D",
+          "value": "Statement I is true but Statement II is false"
+        }
+      ],
+      "answer": "B",
+      "explanation": "As we know time period of second’s penduklum is 2 sec, so statement (1) is incorrect.\n<br><br>Time taken by particle performing SHM between two\nextreme position is half of the time period.\n<br><br>Here, T = 2 sec.\n<br><br>So, time = 2/2 = 1 sec"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "If two similar springs each of spring constant K<sub>1</sub> are joined in series, the new spring constant and time period would be changed by a factor :",
+      "options": [
+        {
+          "key": "A",
+          "value": "$${1 \\over 2},2\\sqrt 2 $$"
+        },
+        {
+          "key": "B",
+          "value": "$${1 \\over 4},2\\sqrt 2 $$"
+        },
+        {
+          "key": "C",
+          "value": "$${1 \\over 2},\\sqrt 2 $$"
+        },
+        {
+          "key": "D",
+          "value": "$${1 \\over 4},\\sqrt 2 $$"
+        }
+      ],
+      "answer": "C",
+      "explanation": "$${1 \\over {{K_{eq}}}} = {1 \\over {{K_1}}} + {1 \\over {{K_1}}}$$<br><br>$$ \\Rightarrow {K_{eq}} = {{{K_1} \\times {K_1}} \\over {{K_1} + {K_2}}} = {{K_1^2} \\over {2{K_1}}} = {{{K_2}} \\over 2}$$<br><br>$$ \\therefore $$ $$T' = 2\\pi {\\sqrt {{m \\over {{K_{eq}}}}} } $$<br><br>$$ = 2\\pi {\\sqrt {{m \\over {{{{K_1}} \\over 2}}}} } $$<br><br>$$ = 2\\pi {\\sqrt {{{2m} \\over {{K_1}}}} } $$<br><br>$$ = \\sqrt 2 T$$ [ where $$T = 2\\pi {\\sqrt {{m \\over {{K_1}}}} } $$]"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "If the time period of a two meter long simple pendulum is 2s, the acceleration due to gravity at the place where pendulum is executing S.H.M. is :",
+      "options": [
+        {
+          "key": "A",
+          "value": "16 m/s<sup>2</sup>"
+        },
+        {
+          "key": "B",
+          "value": "2$$\\pi$$<sup>2</sup><sup></sup> ms<sup>$$-$$2</sup>"
+        },
+        {
+          "key": "C",
+          "value": "$$\\pi$$<sup>2</sup> ms<sup>$$-$$2</sup>"
+        },
+        {
+          "key": "D",
+          "value": "9.8 ms<sup>$$-$$2</sup>"
+        }
+      ],
+      "answer": "B",
+      "explanation": "<p>The formula for the period of a simple pendulum is given by:</p>\n<p>$$ T = 2\\pi\\sqrt{\\frac{l}{g}} $$</p>\n<p>where:</p>\n<ul>\n<li>T is the period of the pendulum,</li>\n<li>l is the length of the pendulum, and</li>\n<li>g is the acceleration due to gravity.</li>\n</ul>\n<p>We need to find g. Rearranging the formula for g, we get:</p>\n<p>$$ g = \\frac{4\\pi^2l}{T^2} $$</p>\n<p>Given:</p>\n<ul>\n<li>l = 2 m,</li>\n<li>T = 2 s,</li>\n</ul>\n<p>Substituting these values into the equation, we get:</p>\n<p>$$ g = \\frac{4\\pi^2 \\times 2}{(2)^2} = 2\\pi^2 \\, ms^{-2} $$</p>\n"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "When a particle executes SHM, the nature of graphical representation of velocity as a function of displacement is :",
+      "options": [
+        {
+          "key": "A",
+          "value": "circular"
+        },
+        {
+          "key": "B",
+          "value": "straight line"
+        },
+        {
+          "key": "C",
+          "value": "parabolic"
+        },
+        {
+          "key": "D",
+          "value": "elliptical"
+        }
+      ],
+      "answer": "D",
+      "explanation": "Since, the particle is executing SHM.<br/><br/>Therefore, displacement equation of wave will be<br/><br/>$$y = A\\sin \\omega t$$<br/><br/>$$ \\Rightarrow y/A = \\sin \\omega t$$<br/><br/>and wave velocity equation will be<br/><br/>$${v_y} = {{dy} \\over {dt}} = A\\omega \\cos \\omega t$$<br/><br/>$$ \\Rightarrow {v_y}/A\\omega  = \\cos \\omega t$$<br/><br/>Now, $${\\sin ^2}\\omega t + {\\cos ^2}\\omega t = 1$$<br/><br/>$$\\therefore$$ $${(y/A)^2} + {({v_y} / A\\omega )^2} = 1$$<br/><br/>This equation is similar to the equation of ellipse."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The period of oscillation of a simple pendulum is $$T = 2\\pi \\sqrt {{L \\over g}} $$. Measured value of 'L' is 1.0 m from meter scale having a minimum division of 1 mm and time of one complete oscillation is 1.95 s measured from stopwatch of 0.01 s resolution. The percentage error in the determination of 'g' will be :",
+      "options": [
+        {
+          "key": "A",
+          "value": "1.30%"
+        },
+        {
+          "key": "B",
+          "value": "1.33%"
+        },
+        {
+          "key": "C",
+          "value": "1.13%"
+        },
+        {
+          "key": "D",
+          "value": "1.03%"
+        }
+      ],
+      "answer": "C",
+      "explanation": "Given, $$T = 2\\pi \\sqrt {{L \\over g}} $$ .... (i)<br/><br/>where, time period, T = 1.95 s<br/><br/>Length of string, l = 1 m<br/><br/>Acceleration due to gravity = g<br/><br/>Error in time period, $$\\Delta$$T = 0.01 s = 10<sup>$$-$$2</sup> s<br/><br/>Error in length, $$\\Delta$$L = 1 mm = 1 $$\\times$$ 10<sup>$$-$$3</sup> m<br/><br/>Squaring Eq. (i) on both sides, we get<br/><br/>$${T^2} = 4{\\pi ^2}{L \\over g}$$<br/><br/>$$ \\Rightarrow g = 4{\\pi ^2}{L \\over {{T^2}}}$$<br/><br/>$$ \\Rightarrow {{\\Delta g} \\over g} = {{\\Delta L} \\over L} + {{2\\Delta T} \\over T} = {{{{10}^{ - 3}}} \\over 1} + {{2 \\times {{10}^{ - 2}}} \\over {1.95}}$$<br/><br/>$$ = {10^{ - 3}} + 1.025 \\times {10^{ - 2}}$$<br/><br/>$$ = {10^{ - 3}} + 10.25 \\times {10^{ - 3}}$$<br/><br/>$$ = 11.25 \\times {10^{ - 3}}$$<br/><br/>$$\\because$$ $$\\Delta g/g \\times 100 = 11.25 \\times {10^{ - 3}} \\times {10^2}$$<br/><br/>$$ = 1.125\\%  \\simeq 1.13\\% $$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A block of mass m attached to a massless spring is performing oscillatory motion of amplitude ‘A’ on\na frictionless horizontal plane. If half of the mass of the block breaks off when it is passing through\nits equilibrium point, the amplitude of oscillation for the remaining system become fA. The value of\nf is :",
+      "options": [
+        {
+          "key": "A",
+          "value": "1"
+        },
+        {
+          "key": "B",
+          "value": "$${1 \\over 2}$$"
+        },
+        {
+          "key": "C",
+          "value": "$$\\sqrt 2 $$"
+        },
+        {
+          "key": "D",
+          "value": "$${1 \\over {\\sqrt 2 }}$$"
+        }
+      ],
+      "answer": "D",
+      "explanation": "At equilibrium position\n<br><br>V<sub>0</sub> = V\n<br><br>$${V_0} = {\\omega _1}A = \\sqrt {{K \\over m}} A$$ .....(i)<br><br>$$V = \\omega {A^1} = \\sqrt {{K \\over {{m \\over 2}}}} {A^1}$$ .....(ii)<br><br>$$ \\therefore $$ $${A^1} = {A \\over {\\sqrt 2 }}$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A spring mass system (mass m, spring\nconstant k and natural length $$l$$) rest in\nequilibrium on a horizontal disc. The free end\nof the spring is fixed at the centre of the disc.\nIf the disc together with spring mass system,\nrotates about it's axis with an angular velocity\n$$\\omega $$, (k $$ \\gg m{\\omega ^2}$$) the relative change in the length\nof the spring is best given by the option :",
+      "options": [
+        {
+          "key": "A",
+          "value": "$${{m{\\omega ^2}} \\over {3k}}$$"
+        },
+        {
+          "key": "B",
+          "value": "$${{m{\\omega ^2}} \\over k}$$"
+        },
+        {
+          "key": "C",
+          "value": "$${{2m{\\omega ^2}} \\over k}$$"
+        },
+        {
+          "key": "D",
+          "value": "$$\\sqrt {{2 \\over 3}} \\left( {{{m{\\omega ^2}} \\over k}} \\right)$$"
+        }
+      ],
+      "answer": "B",
+      "explanation": "m$${\\omega ^2}$$(l<sub>0</sub> + x) = kx\n<br><br>x = $${{m{I_0}{\\omega ^2}} \\over {k - m{\\omega ^2}}}$$\n<br><br>For k &gt;&gt; m$${\\omega ^2}$$\n<br><br>$${x \\over {{I_0}}} = {{m{\\omega ^2}} \\over k}$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A simple pendulum is being used to determine\nth value of gravitational acceleration g at a\ncertain place. Th length of the pendulum is\n25.0 cm and a stop watch with 1s resolution\nmeasures the time taken for 40 oscillations to\nbe 50 s. The accuracy in g is :",
+      "options": [
+        {
+          "key": "A",
+          "value": "4.40%"
+        },
+        {
+          "key": "B",
+          "value": "3.40%"
+        },
+        {
+          "key": "C",
+          "value": "2.40%"
+        },
+        {
+          "key": "D",
+          "value": "5.40%"
+        }
+      ],
+      "answer": "A",
+      "explanation": "T = $$2\\pi \\sqrt {{l \\over g}} $$\n<br><br>$$ \\Rightarrow $$ $$g = {{4{\\pi ^2}l} \\over {{T^2}}}$$\n<br><br>$$ \\Rightarrow $$ $${{\\Delta g} \\over g} = {{\\Delta l} \\over l} + 2{{\\Delta T} \\over T}$$\n<br><br>= $${{0.1} \\over {25}} + 2{1 \\over {50}}$$ = $${{11} \\over {250}}$$\n<br><br>$$ \\therefore $$  % accuracy = $${{11} \\over {250}}$$ $$ \\times $$ 100% = 4.40 %"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The displacement of a damped harmonic\noscillator is given by<br>\nx(t ) = e<sup>–0.1t </sup>cos (10$$\\pi $$t + f).<br> Here t is in seconds.\nThe time taken for its amplitude of vibration to\ndrop to half of its initial value is close to :",
+      "options": [
+        {
+          "key": "A",
+          "value": "27 s"
+        },
+        {
+          "key": "B",
+          "value": "13 s"
+        },
+        {
+          "key": "C",
+          "value": "7 s"
+        },
+        {
+          "key": "D",
+          "value": "4 s"
+        }
+      ],
+      "answer": "C",
+      "explanation": "Amplitude at (t = 0) A<sub>0</sub> = e<sup>–0.1× 0</sup> = 1<br><br>\n$$ \\therefore $$ $$at\\,t = t$$&nbsp;&nbsp;&nbsp;&nbsp; if $$A = {{{A_0}} \\over 2}$$<br><br>\n$$ \\Rightarrow $$ $${1 \\over 2} = {e^{ - 0.1t}}$$<br><br>\nt = 10 ln 2  = 7 s"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A damped harmonic oscillator has a frequency\nof 5 oscillations per second. The amplitude\ndrops to half its value for every 10 oscillations.\nThe time it will take to drop to\n1/1000 of the original amplitude is close to :-",
+      "options": [
+        {
+          "key": "A",
+          "value": "100 s"
+        },
+        {
+          "key": "B",
+          "value": "10 s"
+        },
+        {
+          "key": "C",
+          "value": "20 s"
+        },
+        {
+          "key": "D",
+          "value": "50 s"
+        }
+      ],
+      "answer": "C",
+      "explanation": "Time for 10 oscillations = $${{10} \\over 5} = 2\\,s$$<br><br>\nA = A<sub>0</sub> e<sup>–kt</sup><br><br>\n$${1 \\over 2} = {e^{ - 2k}} \\Rightarrow \\ln 2 = 2k$$<br><br>\n10<sup>–3</sup> = e<sup>–kt</sup> $$ \\Rightarrow $$ 3In10 = kt<br><br>\n$$t = {{3\\ln 10} \\over k} = {{3\\ln 10} \\over {\\ln 2}} \\times 2$$<br><br>\n= $$6 \\times {{2.3} \\over {0.69}} \\approx 20\\,s$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The mass and the diameter of a planet are three times the respective values for the Earth. The period of oscillation of simple pendulum on the Earth is 2 s. The period of oscillation of the same pendulum on the planet would be : \n",
+      "options": [
+        {
+          "key": "A",
+          "value": "$${{\\sqrt 3 } \\over 2}$$ s"
+        },
+        {
+          "key": "B",
+          "value": "$${3 \\over 2}$$ s"
+        },
+        {
+          "key": "C",
+          "value": "$${2 \\over {\\sqrt 3 }}$$ s"
+        },
+        {
+          "key": "D",
+          "value": "$$2\\sqrt 3 $$ s"
+        }
+      ],
+      "answer": "D",
+      "explanation": "$$ \\because $$&nbsp;&nbsp;&nbsp; g = $${{GM} \\over {{R^2}}}$$\n<br><br>$${{{g_p}} \\over {{g_e}}}$$ = $${{{M_e}} \\over {{M_e}}}{\\left( {{{{{\\mathop{\\rm R}\\nolimits} _e}} \\over {{R_p}}}} \\right)^2}$$ = 3$${\\left( {{1 \\over 3}} \\right)^2}$$ = $${{1 \\over 3}}$$\n<br><br>Also  T $$ \\propto $$ $${1 \\over {\\sqrt g }}$$\n<br><br>$$ \\Rightarrow $$&nbsp;&nbsp;$${{{T_p}} \\over {{T_e}}}$$ = $$\\sqrt {{{{g_e}} \\over {{g_p}}}} $$ = $$\\sqrt 3 $$\n<br><br>$$ \\Rightarrow $$&nbsp;&nbsp;T<sub>p</sub> = 2$$\\sqrt 3 $$ s"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A simple pendulum of length 1 m is oscillating with an angular frequency 10 rad/s. The support of the pendulum starts oscillating up and down with a small angular frequency of 1 rad/s and an amplitude of 10<sup>–2</sup> m. The relative change in the angular frequency of the pendulum is best given by :",
+      "options": [
+        {
+          "key": "A",
+          "value": "1 rad/s"
+        },
+        {
+          "key": "B",
+          "value": "10<sup>$$-$$3</sup> rad/s"
+        },
+        {
+          "key": "C",
+          "value": "10<sup>$$-$$1</sup> rad/s"
+        },
+        {
+          "key": "D",
+          "value": "10<sup>$$-$$5</sup> rad/s"
+        }
+      ],
+      "answer": "B",
+      "explanation": "Angular frequency of pendulum\n<br><br>$$\\omega $$ = $$\\sqrt {{{{g_{eff}}} \\over \\ell }} $$\n<br><br>$$ \\therefore $$&nbsp;&nbsp; $${{\\Delta \\omega } \\over \\omega }$$ = $${1 \\over 2}$$ $${{\\Delta {g_{eff}}} \\over {{g_{eff}}}}$$\n<br><br>$$\\Delta $$$$\\omega $$ = $${1 \\over 2}$$ $${{\\Delta g} \\over g} \\times \\omega $$\n<br><br>[$${\\omega _s}$$ = angular frequency of support]\n<br><br>$$\\Delta $$$$\\omega $$ = $${1 \\over 2} \\times {{2A\\omega _s^2} \\over {100}} \\times 100$$\n<br><br>$$\\Delta \\omega  = {10^{ - 3}}$$ rad/sec."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A particle undergoing simple harmonic motion has time dependent displacement given by x(t) = Asin$${{\\pi t} \\over {90}}$$. The ratio of kinetic to potential energy of this particle at t = 210 s will be: ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$${1 \\over 9}$$"
+        },
+        {
+          "key": "B",
+          "value": "3"
+        },
+        {
+          "key": "C",
+          "value": "2"
+        },
+        {
+          "key": "D",
+          "value": "1"
+        }
+      ],
+      "answer": "B",
+      "explanation": "K = $${1 \\over 2}$$m$${\\omega ^2}$$A<sup>2</sup>cos<sup>2</sup>$$\\omega $$t\n<br><br>U = $${1 \\over 2}m{\\omega ^2}$$ A<sup>2</sup> sin<sup>2</sup> $$\\omega $$t\n<br><br>$${k \\over U}$$ = cot<sup>2</sup> $$\\omega $$t = cot<sup>2</sup> $${\\pi  \\over {90}}$$(210) = $${1 \\over 3}$$\n<br><br>Hence ratio is 3 (most appropriate)"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A closed organ pipe has a fundamental frequency of 1.5 kHz. The number of overtones that can be distinctly heard by a person with this organ pipe will be (Assume that the highest frequency a person can hear is 20,000 Hz)",
+      "options": [
+        {
+          "key": "A",
+          "value": "4"
+        },
+        {
+          "key": "B",
+          "value": "7"
+        },
+        {
+          "key": "C",
+          "value": "6"
+        },
+        {
+          "key": "D",
+          "value": "5"
+        }
+      ],
+      "answer": "B",
+      "explanation": "For closed organ pipe, resonate frequency is odd multiple of fundamental frequency.\n<br><br>$$ \\therefore $$&nbsp;&nbsp;(2n + 1) f<sub>0</sub> $$ \\le $$ 20,000\n<br><br>(f<sub>0</sub> is fundamental frequency = 1.5 KHz)\n<br><br>$$ \\therefore $$&nbsp;&nbsp;n = 6\n<br><br>$$ \\therefore $$&nbsp;&nbsp;Total number of overtone that can be heared is 7. (0 to 6)"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A particle executes simple harmonic motion with an amplitude of 5 cm. When the particle is at 4 cm from the mean position, the magnitude of its velocity in SI units is equal to that of its acceleration. Then, its periodic time in seconds is - ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$${{4\\pi } \\over 3}$$"
+        },
+        {
+          "key": "B",
+          "value": "$${3 \\over 8}\\pi $$"
+        },
+        {
+          "key": "C",
+          "value": "$${7 \\over 3}\\pi $$"
+        },
+        {
+          "key": "D",
+          "value": "$${{8\\pi } \\over 3}$$"
+        }
+      ],
+      "answer": "D",
+      "explanation": "$$v = \\omega \\sqrt {{A^2} - {x^2}} \\,\\,$$&nbsp;&nbsp;&nbsp;&nbsp;. . .(1)\n<br><br>$$a =  - {\\omega ^2}x$$&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;. . .(2)\n<br><br>$$\\left| v \\right| = \\left| a \\right|$$&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;. . .(3)\n<br><br>$$\\omega \\sqrt {{A^2} - {x^2}}  = {\\omega ^2}x$$\n<br><br>$${A^2} - {x^2} = {\\omega ^2}{x^2}$$\n<br><br>$${5^2} - {4^2} = {\\omega ^2}\\left( {{4^2}} \\right)$$\n<br><br>$$ \\Rightarrow \\,\\,\\,3 = \\omega  \\times 4$$\n<br><br>$$T = 2\\pi /\\omega $$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A cylindrical plastic bottle of negligible mass is filled with 310 ml of water and left floating in a pond with still water. If pressed downward slightly and released, it starts performing simple harmonic motion at angular frequency $$\\omega $$. If the radius of the bottle is 2.5 cm then $$\\omega $$ is close to – (density of water = 10<sup>3</sup> kg/m<sup>3</sup>). ",
+      "options": [
+        {
+          "key": "A",
+          "value": "2.50 rad s<sup>$$-$$1</sup>"
+        },
+        {
+          "key": "B",
+          "value": "3.75 rad s<sup>$$-$$1</sup>"
+        },
+        {
+          "key": "C",
+          "value": "5.00 rad s<sup>$$-$$1</sup>"
+        },
+        {
+          "key": "D",
+          "value": "7.90 rad s<sup>$$-$$1</sup>"
+        }
+      ],
+      "answer": "D",
+      "explanation": "Restoring force due to pressing the bottle with small\namount x,\n<br><br>F = $$ - \\left( {\\rho Ax} \\right)g$$\n<br><br>$$ \\Rightarrow $$ ma = $$ - \\left( {\\rho Ax} \\right)g$$\n<br><br>$$ \\Rightarrow $$ a = $$ - \\left( {{{\\rho Ag} \\over m}} \\right)x$$\n<br><br>$$ \\therefore $$ $${{\\omega ^2} = {{\\rho Ag} \\over m}}$$ = $${{{\\rho \\left( {\\pi {r^2}} \\right)g} \\over m}}$$\n<br><br>$$ \\Rightarrow $$ $$\\omega $$ = $$\\sqrt {{{{{10}^3} \\times \\pi  \\times {{\\left( {2.5 \\times {{10}^{ - 2}}} \\right)}^2} \\times 10} \\over {310 \\times {{10}^{ - 3}}}}} $$ = 7.90 rad/s"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A particle is executing simple harmonic motion (SHM) of amplitude A, along the x-axis, about x = 0. When its potential Energy (PE) equals kinetic energy (KE), the position of the particle will be : ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$${A \\over 2}$$"
+        },
+        {
+          "key": "B",
+          "value": "$${A \\over {2\\sqrt 2 }}$$"
+        },
+        {
+          "key": "C",
+          "value": "$${A \\over {\\sqrt 2 }}$$"
+        },
+        {
+          "key": "D",
+          "value": "A"
+        }
+      ],
+      "answer": "C",
+      "explanation": "Total energy of particle = $${1 \\over 2}k{A^2}$$\n<br><br>Potential energy (v) = $${1 \\over 2}$$ kx<sup>2</sup>\n<br><br>Kinetic energy (K) = $${1 \\over 2}$$ kA<sup>2</sup> $$-$$ $${1 \\over 2}$$kx<sup>2</sup>\n<br><br>According to the question, \n<br><br>Potential energy = Kinetic energy\n<br><br>$$ \\therefore $$&nbsp;&nbsp;$${1 \\over 2}$$kx<sup>2</sup> = $${1 \\over 2}$$kA<sup>2</sup> $$-$$ $${1 \\over 2}$$ kx<sup>2</sup>\n<br><br>$$ \\Rightarrow $$&nbsp;&nbsp;kx<sup>2</sup> = $${1 \\over 2}$$ kA<sup>2</sup>\n<br><br>$$ \\Rightarrow $$&nbsp;&nbsp;x = $$ \\pm $$ $${A \\over {\\sqrt 2 }}$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A particle executes simple harmonic motion and is located at x = a, b and c at times t<sub>0</sub>, 2t<sub>0</sub> and 3t<sub>0</sub> respectively.  The freqquency of the oscillation is : ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$${1 \\over {2\\,\\pi \\,{t_0}}}{\\cos ^{ - 1}}\\left( {{{a + c} \\over {2b}}} \\right)$$"
+        },
+        {
+          "key": "B",
+          "value": "$${1 \\over {2\\,\\pi \\,{t_0}}}{\\cos ^{ - 1}}\\left( {{{a + b} \\over {2c}}} \\right)$$"
+        },
+        {
+          "key": "C",
+          "value": "$${1 \\over {2\\,\\pi \\,{t_0}}}{\\cos ^{ - 1}}\\left( {{{2a + 3c} \\over b}} \\right)$$"
+        },
+        {
+          "key": "D",
+          "value": "$${1 \\over {2\\,\\pi \\,{t_0}}}{\\cos ^{ - 1}}\\left( {{{a + 2b} \\over {3c}}} \\right)$$"
+        }
+      ],
+      "answer": "A",
+      "explanation": "In general equation of simple harmonic motion, y = A sin $$\\omega $$t\n<br><br>$$\\therefore\\,\\,\\,$$ a = A sin $$\\omega $$t<sub>0</sub>\n<br><br>$$\\,\\,\\,\\,\\,\\,$$ b = A sin 2$$\\omega $$t<sub>0</sub>\n<br><br>$$\\,\\,\\,\\,\\,\\,\\,$$c = A sin 3$$\\omega $$t<sub>0</sub>\n<br><br>a + c = A[sin $$\\omega $$t<sub>0</sub> + sin 3$$\\omega $$t<sub>0</sub>]\n<br><br>= 2A sin 2$$\\omega $$t<sub>0</sub>  cos$$\\omega $$t<sub>0</sub> \n<br><br>$$ \\Rightarrow $$$$\\,\\,\\,$$a + c = 2 b cos$$\\omega $$t<sub>0</sub>\n<br><br>$$ \\Rightarrow $$$$\\,\\,\\,$$ $${{a + c} \\over b}$$ = 2 cos$$\\omega $$t<sub>0</sub>\n<br><br>$$ \\Rightarrow $$$$\\,\\,\\,$$ $$\\omega $$ = $${1 \\over {{t_0}}}$$ cos<sup>$$-$$1</sup> $$\\left( {{{a + c} \\over {2b}}} \\right)$$\n<br><br>$$\\therefore\\,\\,\\,$$ f = $${\\omega  \\over {2\\pi }}$$\n<br><br>= $${1 \\over {2\\pi {t_0}}}$$ cos<sup>$$-$$1</sup> $$\\left( {{{a + c} \\over {2b}}} \\right)$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "An oscillator of mass M is at rest in its equilibrium position in a potential \n<br>V = $${1 \\over 2}$$ k(x $$-$$ X)<sup>2</sup>.  A particle of mass m comes from right with speed u and collides completely inelastically with M and sticks to it.  This process repeats every time the oscillator crosses its equilibrium position. The amplitude of oscillations after 13 collisions is : (M = 10, m = 5,  u = 1,  k = 1)",
+      "options": [
+        {
+          "key": "A",
+          "value": "$${1 \\over {\\sqrt 3 }}$$"
+        },
+        {
+          "key": "B",
+          "value": "$${1 \\over 2}$$"
+        },
+        {
+          "key": "C",
+          "value": "$${2 \\over 3}$$"
+        },
+        {
+          "key": "D",
+          "value": "$${3 \\over {\\sqrt 5 }}$$"
+        }
+      ],
+      "answer": "A",
+      "explanation": "<p>Potential of the given oscillator is</p>\n<p>$$V = {1 \\over 2}k{(x - k)^2}$$</p>\n<p>Given: M = 10; m = 5, u = 1; k = 1</p>\n<p>Initial momentum of the particle of mass m</p>\n<p>= mu = m $$\\times$$ 5 = 5m</p>\n<p>Momentum of (oscillator + particle) after collision = (M + m)</p>\n<p>Velocity of oscillator after collision = v</p>\n<p>So, momentum of system = (M + m)v</p>\n<p>From conservation of linear momentum, we have</p>\n<p>(M + m) = mu = 5 $$\\times$$ 1 = 5</p>\n<p>For second collision, oscillator and particle have momentum in opposite direction.</p>\n<p>Net or total momentum is zero.</p>\n<p>Likewise after 4<sup>th</sup>, 6<sup>th</sup>, 8<sup>th</sup>, 10<sup>th</sup>, 12<sup>th</sup> collision the momentum is zero. After 12<sup>th</sup> collision, Mass of oscillator and 12 particles will be (10 + 12 $$\\times$$ 5) = 70</p>\n<p>Now, from conservation of linear momentum, for 13<sup>th</sup> collision, we have</p>\n<p>$$70 \\times 0 + 5 \\times 1 = (70 + 5)v' \\Rightarrow v' = {5 \\over {75}} \\Rightarrow {1 \\over {15}}$$</p>\n<p>Total mass after 13<sup>th</sup> collision = (10 + 13 $$\\times$$ 5) = 75</p>\n<p>Kinetic energy of system $$ = {1 \\over 2}mv{'^2}$$</p>\n<p>$$ \\Rightarrow KE = {1 \\over 2} \\times 75 \\times {1 \\over {15}} \\times {1 \\over {15}}$$</p>\n<p>$$ \\Rightarrow {1 \\over 2}k{A^2} = {1 \\over 2} \\times {{75} \\over {225}} = {1 \\over 6}$$</p>\n<p>$$ \\Rightarrow {1 \\over 2} \\times 1 \\times {A^2} = {1 \\over 6} \\Rightarrow {A^2} = {1 \\over 3}$$</p>\n<p>$$ \\Rightarrow A = {1 \\over {\\sqrt 3 }}$$</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A silver atom in a solid oscillates in simple harmonic motion in some direction with a frequency of 10<sup>12</sup>/sec. What is the force constant of the bonds connecting one atom with the other? (Mole wt. of silver = 108 and Avogadro number = 6.02 × 10<sup>23</sup> gm mole<sup>–1</sup>) ",
+      "options": [
+        {
+          "key": "A",
+          "value": "5.5 N/m"
+        },
+        {
+          "key": "B",
+          "value": "6.4 N/m"
+        },
+        {
+          "key": "C",
+          "value": "7.1 N/m"
+        },
+        {
+          "key": "D",
+          "value": "2.2 N/m"
+        }
+      ],
+      "answer": "C",
+      "explanation": "6.02 $$ \\times $$ 10<sup>23</sup> atoms of silver = 108 gm\n<br><br>1 &nbsp;&nbsp;atoms&nbsp;&nbsp; of &nbsp;&nbsp;silver&nbsp;&nbsp; =&nbsp;&nbsp; $${{108 \\times {{10}^{ - 3}}} \\over {6.02 \\times {{10}^{23}}}}$$&nbsp;kg\n<br><br>For a harmonic oscillator\n<br><br>f = $${1 \\over {2\\pi }}$$ $$\\sqrt {{k \\over m}} $$\n<br><br>Where &nbsp;k = force constant\n<br><br>$$ \\Rightarrow $$$$\\,\\,\\,$$ f<sup>2</sup> = $${1 \\over {4{\\pi ^2}}}$$ $$\\left( {{k \\over m}} \\right)$$\n<br><br>$$ \\Rightarrow $$$$\\,\\,\\,$$ k = mf<sup>2</sup> $$ \\times $$ 4$$\\pi $$<sup>2</sup>\n<br><br>Given, \n<br><br>f = 10<sup>12</sup>\n<br><br>m = $${{108 \\times {{10}^{ - 3}}} \\over {6.02 \\times {{10}^{23}}}}$$\n<br><br>$$\\therefore\\,\\,\\,$$ k = $${{108 \\times {{10}^{ - 3}}} \\over {6.02 \\times {{10}^{23}}}}$$ $$ \\times $$ 10<sup>12</sup> $$ \\times $$ 4$$\\pi $$<sup>2</sup>\n<br><br>= 7.1 N/m"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Two simple harmonic motions, as shown below, are at right angles. They are combined to form Lissajous figures. \n<br>x(t) = A sin (at + $$\\delta $$)\n<br>y(t) = B sin (bt)\n<br><br>Identify the <b>correct</b>  match below.",
+      "options": [
+        {
+          "key": "A",
+          "value": "<b>Parameters</b> &nbsp;&nbsp;A $$ \\ne $$ B, a = b; $$\\delta $$ = 0;\n<br><b>Curve</b> &nbsp;&nbsp; Parabola"
+        },
+        {
+          "key": "B",
+          "value": "<b>Parameters</b> &nbsp;&nbsp; A = B, a = b; $$\\delta $$ = $${\\raise0.5ex\\hbox{$\\scriptstyle \\pi $}\n\\kern-0.1em/\\kern-0.15em\n\\lower0.25ex\\hbox{$\\scriptstyle 2$}}$$\n<br><b>Curve</b> &nbsp;&nbsp; Line"
+        },
+        {
+          "key": "C",
+          "value": "<b>Parameters</b> &nbsp;&nbsp; A $$ \\ne $$ B, a = b; $$\\delta $$ = $${\\raise0.5ex\\hbox{$\\scriptstyle \\pi $}\n\\kern-0.1em/\\kern-0.15em\n\\lower0.25ex\\hbox{$\\scriptstyle 2$}}$$\n<br><b>Curve</b> &nbsp;&nbsp; Ellipse"
+        },
+        {
+          "key": "D",
+          "value": "<b>Parameters</b> &nbsp;&nbsp; A = B,  a = 2b; $$\\delta $$ = $${\\raise0.5ex\\hbox{$\\scriptstyle \\pi $}\n\\kern-0.1em/\\kern-0.15em\n\\lower0.25ex\\hbox{$\\scriptstyle 2$}}$$\n<br><b>Curve</b> &nbsp;&nbsp; Circle "
+        }
+      ],
+      "answer": "C",
+      "explanation": "<p>The given simple harmonic motions to form Lissajous figures are $$x(t) = A\\sin (at + \\delta )$$ and $$y(t) = B\\sin (bt)$$.</p>\n<p>For parabola, conditions should be</p>\n<p>A = B or A $$\\ne$$ B, a = 2b, $$\\delta$$ = $$\\pi$$/2</p>\n<p>For line, conditions should be</p>\n<p>A = B, a = b, $$\\delta$$ = $$\\pi$$</p>\n<p>For circle, condition should be</p>\n<p>A = B, a = b; $$\\delta$$ = $$\\pi$$/2</p>\n<p>For ellipse, condition should be</p>\n<p>A $$\\ne$$ B, a = b; $$\\delta$$ = $$\\pi$$/2</p>\n<p>Therefore, we obtain an ellipse.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A block of mass 0.1 kg is connected to an elastic spring of spring constant 640 Nm<sup>−1</sup> and oscillates in a damping medium of damping constant 10<sup>−2</sup>  kg s<sup>−1</sup> . The system dissipates its energy gradually. The  time taken for its mechanical energy of vibration to drop to half of its initial value, is closest to :",
+      "options": [
+        {
+          "key": "A",
+          "value": "2 s"
+        },
+        {
+          "key": "B",
+          "value": "3.5 s"
+        },
+        {
+          "key": "C",
+          "value": "5 s"
+        },
+        {
+          "key": "D",
+          "value": "7 s"
+        }
+      ],
+      "answer": "D",
+      "explanation": "<p>To determine the time taken for the mechanical energy of the damped oscillator to drop to half its initial value, we'll use the principles of damped harmonic motion.</p>\n<h3><strong>Given:</strong></h3>\n\n<p><p><strong>Mass of the block ($ m $)</strong>: 0.1 kg</p></p>\n<p><p><strong>Spring constant ($ k $)</strong>: 640 N/m</p></p>\n<p><p><strong>Damping constant ($ b $)</strong>: $ 10^{-2} $ kg/s</p></p>\n\n<h3><strong>Understanding Damped Harmonic Motion:</strong></h3>\n<p>In damped harmonic motion, the amplitude of oscillation decreases exponentially over time due to the damping force. The mechanical energy ($ E $) of the oscillator is proportional to the square of its amplitude ($ A $):</p>\n<p>$ E(t) \\propto A(t)^2 $</p>\n<p>The amplitude as a function of time is given by:</p>\n<p>$ A(t) = A_0 \\, e^{- \\frac{b}{2m} t} $</p>\n<p>Where:</p>\n\n<p><p>$ A_0 $ is the initial amplitude.</p></p>\n<p><p>$ b $ is the damping constant.</p></p>\n<p><p>$ m $ is the mass.</p></p>\n<p><p>$ t $ is the time.</p></p>\n\n<p>Therefore, the mechanical energy as a function of time is:</p>\n<p>$ E(t) = E_0 \\, e^{- \\frac{b}{m} t} $</p>\n<p>Where $ E_0 $ is the initial mechanical energy.</p>\n<h3><strong>Calculating the Time When Energy Drops to Half:</strong></h3>\n<p>We need to find the time $ t $ when $ E(t) = \\frac{1}{2} E_0 $:</p>\n<p>$ \\frac{1}{2} E_0 = E_0 \\, e^{- \\frac{b}{m} t} $</p>\n<p>Simplify:</p>\n<p>$ \\frac{1}{2} = e^{- \\frac{b}{m} t} $</p>\n<p>Take the natural logarithm of both sides:</p>\n<p>$ \\ln\\left(\\frac{1}{2}\\right) = - \\frac{b}{m} t $</p>\n<p>Simplify $ \\ln\\left(\\frac{1}{2}\\right) = -\\ln(2) $:</p>\n<p>$ - \\ln(2) = - \\frac{b}{m} t $</p>\n<p>Cancel negatives:</p>\n<p>$ \\ln(2) = \\frac{b}{m} t $</p>\n<p>Solve for $ t $:</p>\n<p>$ t = \\frac{m}{b} \\ln(2) $</p>\n<h3><strong>Plugging in the Given Values:</strong></h3>\n<p>$ t = \\frac{0.1\\, \\text{kg}}{10^{-2}\\, \\text{kg/s}} \\ln(2) $</p>\n<p>Calculate $ \\ln(2) $:</p>\n<p>$ \\ln(2) \\approx 0.6931 $</p>\n<p>Now compute $ t $:</p>\n<p>$ t = \\frac{0.1}{0.01} \\times 0.6931 = 10 \\times 0.6931 = 6.931\\, \\text{s} $</p>\n<h3><strong>Conclusion:</strong></h3>\n<p>The time taken for the mechanical energy to drop to half its initial value is approximately <strong>6.93 seconds</strong>, which is closest to <strong>7 seconds</strong> among the given options.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The ratio of maximum acceleration to maximum velocity in a simple harmonic motion is 10 s<sup>−1</sup> . At, t = 0 the displacement is 5 m. What is the maximum acceleration ? The initial phase is $${\\pi  \\over 4}$$.",
+      "options": [
+        {
+          "key": "A",
+          "value": "500 m/s<sup>2</sup> "
+        },
+        {
+          "key": "B",
+          "value": "500 $$\\sqrt 2 m/$$ s<sup>2</sup> "
+        },
+        {
+          "key": "C",
+          "value": "750 m/s<sup>2</sup> "
+        },
+        {
+          "key": "D",
+          "value": "750 $$\\sqrt 2 $$m / s<sup>2</sup> "
+        }
+      ],
+      "answer": "B",
+      "explanation": "Mximum velocity, V<sub>max</sub> = a$$\\omega $$\n<br><br>Maximum acceleration, A<sub>max</sub> = a$$\\omega $$<sup>2</sup>\n<br><br>Given that, \n<br><br>$${{a{\\omega ^2}} \\over {a\\omega }}$$ = 10\n<br><br>$$ \\Rightarrow $$$$\\,\\,\\,$$  $$\\omega $$ = 10 s<sup>$$-$$1</sup>\n<br><br>Displacement, x = a sin ($$\\omega $$t + $${\\pi  \\over 4}$$)\n<br><br>at t = 0,  displacement x = 5\n<br><br>$$\\therefore\\,\\,\\,$$ 5 = a sin $$\\left( {{\\pi  \\over 4}} \\right)$$\n<br><br>$$ \\Rightarrow $$$$\\,\\,\\,$$ 5 = a $$ \\times $$ $${1 \\over {\\sqrt 2 }}$$\n<br><br>$$ \\Rightarrow $$$$\\,\\,\\,$$ a = 5$${\\sqrt 2 }$$\n<br><br>$$\\therefore\\,\\,\\,$$ Maximum acceleration, \n<br><br>A<sub>max</sub> = a$$\\omega $$<sup>2</sup> = 5 $${\\sqrt 2 }$$ $$ \\times $$ (10)<sup>2</sup>\n<br><br>= 500 $${\\sqrt 2 }$$ m/s<sup>2</sup>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "In an engine the piston undergoes vertical simple harmonic motion with amplitude 7 cm. A washer rests on top of the piston and moves with it. The motor speed is slowly increased. The frequency of the piston at which the washer no longer stays in contact with the piston, is close to :\n",
+      "options": [
+        {
+          "key": "A",
+          "value": "0.1 Hz "
+        },
+        {
+          "key": "B",
+          "value": "1.2 Hz "
+        },
+        {
+          "key": "C",
+          "value": "0.7 Hz "
+        },
+        {
+          "key": "D",
+          "value": "1.9 Hz "
+        }
+      ],
+      "answer": "D",
+      "explanation": "Here,\n<br><br>Amplitude, A = 7 cm = 0.07 m\n<br><br>When washer is no longer stays in contact with the piston, then the normal force on the washer is = 0\n<br><br>$$ \\therefore $$&nbsp;&nbsp;&nbsp;Maximum acceleration of the washer, \n<br><br>a<sub>max</sub> = $$\\omega $$<sup>2</sup>A = g\n<br><br>$$ \\Rightarrow $$&nbsp;&nbsp;&nbsp;$$\\omega $$ = $$\\sqrt {{g \\over A}} $$ = $$\\sqrt {{{10} \\over {0.07}}} $$ = $$\\sqrt {{{1000} \\over 7}} $$\n<br><br>$$ \\therefore $$&nbsp;&nbsp;&nbsp;Frequency of the piston, \n<br><br>f = $${\\omega  \\over {2\\pi }}$$ = $${1 \\over {2\\pi }}\\sqrt {{{1000} \\over 7}} $$ = 1.9 Hz\n"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A particle performs simple harmonic motion with amplitude $$A.$$ Its speed is trebled at the instant that it is at a distance $${{2A} \\over 3}$$ from equilibrium position. The new amplitude of the motion is: ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$A\\sqrt 3 $$ "
+        },
+        {
+          "key": "B",
+          "value": "$${{7A} \\over 3}$$ "
+        },
+        {
+          "key": "C",
+          "value": "$${A \\over 3}\\sqrt {41} $$ "
+        },
+        {
+          "key": "D",
+          "value": "$$3A$$ "
+        }
+      ],
+      "answer": "B",
+      "explanation": "We know that $$V = \\omega \\sqrt {{A^2} - {x^2}} $$\n<br><br>Initially $$v = \\omega \\sqrt {{A^2} - {{\\left( {{{2A} \\over 3}} \\right)}^2}} $$\n<br><br>Finally $$3v = \\omega \\sqrt {A_{new}^2 - {{\\left( {{{2A} \\over 3}} \\right)}^2}} $$\n<br><br>where $${A_{new}}$$ = final amplitude (Given at $$x = {{2A} \\over 3},$$ velocity to trebled)\n<br><br>On dividing we get $${3 \\over 1} = {{\\sqrt {A_{new}^2 - {{\\left( {{{2A} \\over 3}} \\right)}^2}} } \\over {\\sqrt {{A^2} - {{\\left( {{{2A} \\over 3}} \\right)}^2}} }}$$\n<br><br>$$9\\left[ {{A^2} - {{4{A^2}} \\over 9}} \\right] = A_{new}^2 - {{4{A^2}} \\over 9}$$\n<br><br>$$\\therefore$$ $$A_{new} = {{7A} \\over 3}$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The period of oscillation of a simple pendulum is $$T = 2\\pi \\sqrt {{L \\over g}} $$.  Measured value of L is 20.0 cm known to 1 mm accuracy and time for 100 oscillations of the pendulum is found to be 90 s using wrist watch of 1 s resolution. The accuracy in the determination of g is:",
+      "options": [
+        {
+          "key": "A",
+          "value": "1 %"
+        },
+        {
+          "key": "B",
+          "value": "5 %"
+        },
+        {
+          "key": "C",
+          "value": "2 %"
+        },
+        {
+          "key": "D",
+          "value": "3 %"
+        }
+      ],
+      "answer": "D",
+      "explanation": "Given $$T = 2\\pi \\sqrt {{L \\over g}} $$\n<br><br>$$ \\Rightarrow g = {{4{\\pi ^2}L} \\over {{T^2}}}$$\n<br><br>$$ \\Rightarrow g = {{4{\\pi ^2}L{n^2}} \\over {{t^2}}}$$\n<br><br>[ as $$T = {t \\over n}$$ ]\n<br><br>So, percentage error in $$g$$ =\n<br><br>$${{\\Delta g} \\over g} \\times 100 = {{\\Delta L} \\over L} \\times 100 + 2{{\\Delta t} \\over t} \\times 100$$\n<br><br>= $${{0.1} \\over {20.0}} \\times 100 + 2 \\times {1 \\over {90}} \\times 100$$\n<br><br>= 2.72 % = 3 %"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A pendulum made of a uniform wire of cross sectional area $$A$$ has time period $$T.$$ When an additional mass $$M$$ is added to its bob, the time period changes to $${T_{M.}}$$ If the Young's modulus of the material of the wire is $$Y$$ then $${1 \\over Y}$$ is equal to : \n<br>($$g=$$ $$gravitational$$ $$acceleration$$)",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$\\left[ {1 - {{\\left( {{{{T_M}} \\over T}} \\right)}^2}} \\right]{A \\over {Mg}}$$ "
+        },
+        {
+          "key": "B",
+          "value": "$$\\left[ {1 - {{\\left( {{T \\over {{T_M}}}} \\right)}^2}} \\right]{A \\over {Mg}}$$ "
+        },
+        {
+          "key": "C",
+          "value": "$$\\left[ {{{\\left( {{{{T_M}} \\over T}} \\right)}^2} - 1} \\right]{A \\over {Mg}}$$ "
+        },
+        {
+          "key": "D",
+          "value": "$$\\left[ {{{\\left( {{{{T_M}} \\over T}} \\right)}^2} - 1} \\right]{{Mg} \\over A}$$ "
+        }
+      ],
+      "answer": "C",
+      "explanation": "As we know, time period, $$T = 2\\pi \\sqrt {{\\ell  \\over g}} $$\n<br><br>When a additional mass $$M$$ is added then\n<br><br>$${T_M} = 2\\pi \\sqrt {{{\\ell  + \\Delta \\ell } \\over g}} $$\n<br><br>$${{{T_M}} \\over T} = \\sqrt {{{\\ell  + \\Delta \\ell } \\over \\ell }} $$ \n<br><br>or, $$\\,\\,{\\left( {{{{T_M}} \\over T}} \\right)^2} = {{\\ell  + \\Delta \\ell } \\over \\ell }$$\n<br><br>or, $$\\,\\,{\\left( {{{{T_M}} \\over T}} \\right)^2} = 1 + {{Mg} \\over {Ay}}$$\n<br><br>$$\\left[ \\, \\right.$$ as $$\\left. {\\Delta \\ell  = {{Mg\\ell } \\over {Ay}}\\,} \\right]$$\n<br><br>$$\\therefore$$ $${1 \\over y} = \\left[ {{{\\left( {{{{T_M}} \\over T}} \\right)}^2} - 1} \\right]{A \\over {Mg}}$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A particle moves with simple harmonic motion in a straight line. In first $$\\tau s,$$ after starting from rest it travels a distance $$a,$$ and in next $$\\tau s$$ it travels $$2a,$$ in same direction, then:",
+      "options": [
+        {
+          "key": "A",
+          "value": "amplitude of motion  is $$3a$$ "
+        },
+        {
+          "key": "B",
+          "value": "time period of oscillations is $$8\\tau $$ "
+        },
+        {
+          "key": "C",
+          "value": "amplitude of motion is $$4a$$ "
+        },
+        {
+          "key": "D",
+          "value": "time period of oscillations is $$6\\tau $$ "
+        }
+      ],
+      "answer": "D",
+      "explanation": "In simple harmonic motion, starting from rest,\n<br><br>At $$t=0,$$ $$x=A$$\n<br><br>$$x = A\\cos \\omega t\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,...\\left( i \\right)$$\n<br><br>When $$t = \\tau ,\\,\\,x = A - a$$\n<br><br>When $$t = 2\\,\\tau ,\\,x = A - 3a$$\n<br><br>From equation $$(i)$$ \n<br><br>$$A - a = A\\cos \\omega \\,\\tau \\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,...\\left( {ii} \\right)$$\n<br><br>$$A - 3a = A\\cos 2\\omega \\,\\tau \\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,...\\left( {iii} \\right)$$\n<br><br>As $$\\cos 2\\omega \\,\\tau  = 2{\\cos ^2}\\omega \\tau  - 1...\\left( {iv} \\right)$$\n<br><br>From equation $$(ii),$$ $$(iii)$$ and $$(iv)$$\n<br><br>$${{A - 3A} \\over A} = 2{\\left( {{{A - a} \\over A}} \\right)^2} - 1$$\n<br><br>$$ \\Rightarrow {{A - 3a} \\over A} = {{2{A^2} + 2{a^2} - 4Aa - {A^2}} \\over {{A^2}}}$$\n<br><br>$$ \\Rightarrow {A^2} - 3aA = {A^2} + 2{a^2} - 4Aa$$\n<br><br>$$ \\Rightarrow 2{a^2} = aA \\Rightarrow \\,\\,\\,\\,\\,\\,\\,A = 2a$$\n<br><br>$$ \\Rightarrow {a \\over A} = {1 \\over 2}$$\n<br><br>Now, $$A-a=A$$ $$\\cos \\omega \\tau $$\n<br><br>$$ \\Rightarrow \\cos \\omega \\tau  = {{A - a} \\over A} \\Rightarrow \\,\\,\\cos \\omega \\tau  = {1 \\over 2}$$\n<br><br>or, $${{2\\pi } \\over T}\\tau  = {\\pi  \\over 3} \\Rightarrow \\,\\,\\,T - 6\\,\\tau $$ "
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The amplitude of a damped oscillator decreases to $$0.9$$ times its original magnitude in $$5s$$. In another $$10s$$ it will decrease to $$\\alpha $$  times its original magnitude, where $$\\alpha $$ equals ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$0.7$$ "
+        },
+        {
+          "key": "B",
+          "value": "$$0.81$$ "
+        },
+        {
+          "key": "C",
+          "value": "$$0.729$$ "
+        },
+        {
+          "key": "D",
+          "value": "$$0.6$$ "
+        }
+      ],
+      "answer": "C",
+      "explanation": "as $$\\,\\,A = {A_0}{e^{{{bt} \\over {2m}}}}$$ (where, $${A_0} = $$ maximum amplitude)\n<br><br>According to the questions, after $$5$$ second,\n<br><br>$$0.9{A_0} = {A_0}{e^{ - {{b\\left( 5 \\right)} \\over {2m}}}}\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,...\\left( i \\right)$$\n<br><br>After $$10$$ more second, \n<br><br>$$A = {A_0}{e^{ - {{b\\left( {15} \\right)} \\over {2m}}}}\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,...\\left( {ii} \\right)$$\n<br><br>From eqns $$(i)$$ and $$(ii)$$\n<br><br>$$A = 0.729\\,{A_0}$$\n<br><br>$$\\therefore$$ $$\\alpha  = 0.729$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "If a simple pendulum has significant amplitude (up to a factor of $$1/e$$ of original ) only in the period between $$t = 0s\\,\\,to\\,\\,t = \\tau \\,s,$$ then $$\\tau \\,$$ may be called the average life of the pendulum When the spherical bob of the pendulum suffers a retardation (due to viscous drag) proportional to its velocity with $$b$$ as the constant of proportionality, the average life time of the pendulum is (assuming damping is small) in seconds : ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$${{0.693} \\over b}$$ "
+        },
+        {
+          "key": "B",
+          "value": "$$b$$ "
+        },
+        {
+          "key": "C",
+          "value": "$${1 \\over b}$$ "
+        },
+        {
+          "key": "D",
+          "value": "$${2 \\over b}$$ "
+        }
+      ],
+      "answer": "D",
+      "explanation": "The equation of motion for the pendulum, suffering retardation \n<br><br>$$I\\alpha  =  - mg\\left( {\\ell \\sin \\theta } \\right) - mbv\\left( \\ell  \\right)$$ where $$I = m{\\ell ^2}$$\n<br><br>and $$\\alpha  = {d^2}\\theta /d{t^2}$$\n<br><br>$$\\therefore$$ $${{{d^2}\\theta } \\over {d{t^2}}} =  - {g \\over \\ell }\\tan \\theta  + {{bv} \\over \\ell }$$\n<br><br>on solving we get $$\\theta  = {\\theta _0}\\,{e^{{{bt} \\over 2}\\sin \\left( {\\omega t + \\phi } \\right)}}$$\n<br><br>According to questions $${{{\\theta _0}} \\over e} = {\\theta _0}{e^{{{ - b\\tau } \\over 2}}}$$\n<br><br>$$\\therefore$$ $$\\tau  = {2 \\over b}$$ "
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Two particles are executing simple harmonic motion of the same amplitude $$A$$ and frequency $$\\omega $$ along the $$x$$-axis. Their mean position is separated by distance $${X_0}\\left( {{X_0} &gt; A} \\right)$$. If the maximum separation between them is $$\\left( {{X_0} + A} \\right),$$ the phase difference between their motion is: ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$${\\pi  \\over 3}$$ "
+        },
+        {
+          "key": "B",
+          "value": "$${\\pi  \\over 4}$$ "
+        },
+        {
+          "key": "C",
+          "value": "$${\\pi  \\over 6}$$ "
+        },
+        {
+          "key": "D",
+          "value": "$${\\pi  \\over 2}$$"
+        }
+      ],
+      "answer": "A",
+      "explanation": "<p>We know that, equation for SHM along x-axis is given by $$x = A\\sin (\\omega t + \\phi )$$</p>\n<p>Let mean position for 1st particle is at x = 0</p>\n<p>So, the SHM equation for 1st particle,</p>\n<p>$${x_1} = A\\sin (\\omega t + {\\phi _1})$$</p>\n<p>Now, as the separation between mean positions of both the particle is x$_0$</p>\n<po>So, mean position for 2nd particle is $x=x_0$</p>\n<p>Hence, the SHM equation for 2nd particle,</p>\n<p>$${x_2} = {x_0} + A\\sin (\\omega t + {\\phi _2})$$</p>\n<p>Now, the separation between particles would be</p>\n<p>$$\\left| {{x_2} - {x_1}} \\right| = {x_0} + A\\sin (\\omega t + {\\phi _2}) - A\\sin (\\omega t + {\\phi _1})$$</p>\n<p>$$ = {x_0} + A\\left[ {\\sin (\\omega t + {\\phi _2}) - \\sin (\\omega t + {\\phi _1})} \\right]$$</p>\n<p>We know,</p>\n<p>$$\\sin C - \\sin D = 2\\cos \\left( {{{C + D} \\over 2}} \\right)\\sin \\left( {{{C - D} \\over 2}} \\right)$$</p>\n<p>Hence,</p>\n<p>$$\\left| {{x_2} - {x_1}} \\right| = {x_0} + 2A\\cos \\left( {\\omega t + {{{\\phi _1} + {\\phi _2}} \\over 2}} \\right)\\sin \\left( {{{{\\phi _2} - {\\phi _1}} \\over 2}} \\right)$$</p>\n<p>For maximum separation,</p>\n<p>Let $$\\cos \\left( {\\omega t + {{{\\phi _1} + {\\phi _2}} \\over 2}} \\right) = 1$$</p>\n<p>So, $$\\left| {{x_2} - {x_1}} \\right| = {x_0} + 2A\\sin \\left( {{{{\\phi _2} - {\\phi _1}} \\over 2}} \\right)$$</p>\n<p>Since, $$\\left| {{x_2} - {x_1}} \\right| = {x_0} + A$$ (given)</p>\n<p>So, $${x_0} + A = {x_0} + 2A\\sin \\left( {{{{\\phi _2} - {\\phi _1}} \\over 2}} \\right)$$</p>\n<p>$$ \\Rightarrow \\sin \\left( {{{{\\phi _2} - {\\phi _1}} \\over 2}} \\right) = {1 \\over 2}$$</p>\n<p>$$ \\Rightarrow {{{\\phi _2} - {\\phi _1}} \\over 2} = {\\pi  \\over 6}$$</p>\n<p>$$ \\Rightarrow {\\phi _2} - {\\phi _1} = {\\pi  \\over 3}$$</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A mass $$M,$$ attached to a horizontal spring, executes $$S.H.M.$$ with amplitude $${A_1}.$$ When the mass $$M$$ passes through its mean position then a smaller mass $$m$$ is placed over it and both of them move together with amplitude $${A_2}.$$ The ratio of $$\\left( {{{{A_1}} \\over {{A_2}}}} \\right)$$ is :",
+      "options": [
+        {
+          "key": "A",
+          "value": "$${{M + m} \\over M}$$ "
+        },
+        {
+          "key": "B",
+          "value": "$${\\left( {{M \\over {M + m}}} \\right)^{{1 \\over 2}}}$$ "
+        },
+        {
+          "key": "C",
+          "value": "$${\\left( {{{M + m} \\over M}} \\right)^{{1 \\over 2}}}$$ "
+        },
+        {
+          "key": "D",
+          "value": "$${M \\over {M + m}}$$ "
+        }
+      ],
+      "answer": "C",
+      "explanation": "The net force becomes zero at the mean point. Therefore, linear momentum must be conserved.\n<br><br>$$\\therefore$$ $$M{v_1} = \\left( {M + m} \\right){v_2}$$\n<br><br>$$M{A_1}\\sqrt {{k \\over M}}  = \\left( {M + m} \\right){A_2}\\sqrt {{k \\over {m + M}}} $$\n<br><br>$$\\therefore$$ $$\\left( {V = A\\sqrt {{k \\over M}} } \\right)$$\n<br><br>$${A_1}\\sqrt M  = {A_2}\\sqrt {M + m} $$\n<br>$$\\therefore$$ $${{{A_1}} \\over {{A_2}}} = \\sqrt {{{m + M} \\over M}} $$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "If $$x,$$ $$v$$ and $$a$$ denote the displacement, the velocity and the acceleration of a particle executing simple harmonic motion of time period $$T,$$ then, which of the following does not change with time? ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$aT/x$$ "
+        },
+        {
+          "key": "B",
+          "value": "$$aT + 2\\pi v$$ "
+        },
+        {
+          "key": "C",
+          "value": "$$aT/v$$ "
+        },
+        {
+          "key": "D",
+          "value": "$${a^2}{T^2} + 4{\\pi ^2}{v^2}$$ "
+        }
+      ],
+      "answer": "A",
+      "explanation": "For an $$SHM,$$ the acceleration $$a =  - {\\omega ^2}x$$ where $${\\omega ^2}$$ is a constant. Therefore $${a \\over x}$$ is a constant. The time period $$T$$ is also constant. Therefore $${{aT} \\over x}$$ is a constant."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A particle of mass $$m$$ executes simple harmonic motion with amplitude a and frequency $$v.$$ The average kinetic energy during its motion from the position of equilibrium to the end is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$2{\\pi ^2}\\,m{a^2}{v^2}$$  "
+        },
+        {
+          "key": "B",
+          "value": "$${\\pi ^2}\\,m{a^2}{v^2}$$ "
+        },
+        {
+          "key": "C",
+          "value": "$${1 \\over 4}\\,m{a^2}{v^2}$$ "
+        },
+        {
+          "key": "D",
+          "value": "$$4{\\pi ^2}m{a^2}{v^2}$$ "
+        }
+      ],
+      "answer": "B",
+      "explanation": "<b>KEY CONCEPT :</b> The instantaneous kinetic energy of a particle executing $$S.H.M.$$ is given by\n<br><br>$$K = {1 \\over 2}m{a^2}{\\omega ^2}{\\sin ^2}\\omega t$$\n<br><br>$$\\therefore$$ average $$K.E. =  &lt; K &gt;  =  &lt; {1 \\over 2}m{\\omega ^2}{a^2}{\\sin ^2}\\omega t &gt; $$\n<br><br>$$ = {1 \\over 2}m\\omega {}^2{a^2} &lt; {\\sin ^2}\\omega t &gt; $$\n<br><br>$$ = {1 \\over 2}m{\\omega ^2}{a^2}\\left( {{1 \\over 2}} \\right)$$\n<br><br>$$\\left( \\, \\right.$$ as $$\\left. { &lt; {{\\sin }^2}\\theta  &gt;  = {1 \\over 2}} \\right)$$\n<br><br>$$ = {1 \\over 4}m{\\omega ^2}{a^2} = {1 \\over 4}m{a^2}{\\left( {2\\pi v} \\right)^2}$$\n<br><br>$$\\left( \\, \\right.$$ $$\\left. {\\omega  = 2\\pi v} \\right)$$\n<br><br>or,  $$\\,\\,\\,\\,\\, &lt; K &gt;  = {\\pi ^2}m{a^2}{v^2}$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A point mass oscillates along the $$x$$-axis according to the law $$x = {x_0}\\,\\cos \\left( {\\omega t - \\pi /4} \\right).$$ If the acceleration of the particle is written as $$a = A\\,\\cos \\left( {\\omega t + \\delta } \\right),$$ then ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$A = {x_0}{\\omega ^2},\\,\\,\\delta  = 3\\pi /4$$ "
+        },
+        {
+          "key": "B",
+          "value": "$$A = {x_0},\\,\\,\\delta  =  - \\pi /4$$ "
+        },
+        {
+          "key": "C",
+          "value": "$$A = {x_0}{\\omega ^2},\\,\\,\\delta  = \\pi /4$$ "
+        },
+        {
+          "key": "D",
+          "value": "$$A = {x_0}{\\omega ^2},\\,\\,\\delta  =  - \\pi /4$$ "
+        }
+      ],
+      "answer": "A",
+      "explanation": "Here,\n<br><br>$$x = {x_0}\\cos \\left( {\\omega t - \\pi /4} \\right)$$\n<br><br>$$\\therefore$$ Velocity, $$v = {{dx} \\over {dt}} =  - {x_0}\\omega \\sin \\left( {\\omega t - {\\pi  \\over 4}} \\right)$$\n<br><br>Acceleration,\n<br><br>$$a = {{dv} \\over {dt}} =  - {x_0}{\\omega ^2}\\cos \\left( {\\omega t - {\\pi  \\over 4}} \\right)$$\n<br><br>$$ = {x_0}{\\omega ^2}\\cos \\left[ {\\pi  + \\left( {\\omega t - {\\pi  \\over 4}} \\right)} \\right]$$\n<br><br>$$ = {x_0}{\\omega ^2}\\cos \\left( {\\omega t + {{3\\pi } \\over 4}} \\right)$$ $$\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,...\\left( 1 \\right)$$\n<br><br>Acceleration, $$a = A\\cos \\left( {\\omega t + \\delta } \\right)$$ $$\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,...\\left( 2 \\right)$$\n<br><br>Comparing the two equations, we get \n<br><br>$$A = {x_0}{\\omega ^2}$$ and $$\\delta  = {{3\\pi } \\over 4}.$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The displacement of an object attached to a spring and executing simple harmonic motion is given by $$x = 2 \\times {10^{ - 2}}$$ $$cos$$ $$\\pi t$$ metre. The time at which the maximum speed first occurs is",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$0.25$$ $$s$$ "
+        },
+        {
+          "key": "B",
+          "value": "$$0.5$$ $$s$$"
+        },
+        {
+          "key": "C",
+          "value": "$$0.75$$ $$s$$ "
+        },
+        {
+          "key": "D",
+          "value": "$$0.125$$ $$s$$ "
+        }
+      ],
+      "answer": "B",
+      "explanation": "Here, $$x = 2 \\times {10^{ - 2}}\\cos \\,\\pi \\,t$$\n<br><br>$$\\therefore$$ $$v = {{dx} \\over {dt}} = 2 \\times {10^{ - 2}}\\,\\pi \\sin \\pi t$$\n<br><br>For the first time, the speed to be maximum, \n<br><br>$$\\sin \\pi t = 1$$ or, $$\\sin \\pi t = \\sin {\\pi  \\over 2}$$\n<br><br>$$ \\Rightarrow \\pi t = {\\pi  \\over 2}\\,\\,\\,$$ or, $$\\,\\,\\,\\,t = {1 \\over 2} = 0.5\\,\\sec .$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The maximum velocity of a particle, executing simple harmonic motion with an amplitude $$7$$ $$mm,$$ is $$4.4$$ $$m/s.$$ The period of oscillation is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$0.01$$ $$s$$ "
+        },
+        {
+          "key": "B",
+          "value": "$$10$$ $$s$$ "
+        },
+        {
+          "key": "C",
+          "value": "$$0.1$$ $$s$$ "
+        },
+        {
+          "key": "D",
+          "value": "$$100$$ $$s$$ "
+        }
+      ],
+      "answer": "A",
+      "explanation": "Maximum velocity, \n<br><br>$${v_{\\max }} = a\\omega ,\\,\\,\\,\\,\\,{v_{\\max }} = a \\times {{2\\pi } \\over T}$$\n<br><br>$$ \\Rightarrow T = {{2\\pi a} \\over {{v_{\\max }}}} = {{2 \\times 3.14 \\times 7 \\times {{10}^{ - 3}}} \\over {4.4}} \\approx 0.01\\,s$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Starting from the origin a body oscillates simple harmonically with a period of $$2$$ $$s.$$ After what time will its kinetic energy be $$75\\% $$ of the total energy? ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$${1 \\over 6}s$$ "
+        },
+        {
+          "key": "B",
+          "value": "$${1 \\over 4}s$$"
+        },
+        {
+          "key": "C",
+          "value": "$${1 \\over 3}s$$"
+        },
+        {
+          "key": "D",
+          "value": "$${1 \\over 12}s$$"
+        }
+      ],
+      "answer": "A",
+      "explanation": "$$K.E.\\,$$ of a body undergoing $$SHM$$ is given by,\n<br><br>$$K.E. = {1 \\over 2}m{a^2}{\\omega ^2}{\\cos ^2}\\,\\omega t,$$\n<br><br>$$T.E. = {1 \\over 2}m{a^2}{\\omega ^2}$$\n<br><br>Given $$K.E.=0.75T.E.$$\n<br><br>$$ \\Rightarrow 0.75 = {\\cos ^2}\\omega t \\Rightarrow \\omega t = {\\pi  \\over 6}$$\n<br><br>$$ \\Rightarrow t = {\\pi  \\over {6 \\times \\omega }} \\Rightarrow t = {{\\pi  \\times 2} \\over {6 \\times 2\\pi }} \\Rightarrow t = {1 \\over 6}s$$ "
+    },
+    {
+      "_type": "single_mcq",
+      "body": "If a simple harmonic motion is represented by $${{{d^2}x} \\over {d{t^2}}} + \\alpha x = 0.$$ its time period is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$${{2\\pi } \\over {\\sqrt \\alpha  }}$$ "
+        },
+        {
+          "key": "B",
+          "value": "$${{2\\pi } \\over \\alpha }$$ "
+        },
+        {
+          "key": "C",
+          "value": "$$2\\pi \\sqrt \\alpha  $$ "
+        },
+        {
+          "key": "D",
+          "value": "$$2\\pi \\alpha $$ "
+        }
+      ],
+      "answer": "A",
+      "explanation": "$${{{d^2}x} \\over {d{t^2}}} =  - \\alpha x =  - {\\omega ^2}x$$\n<br><br>$$ \\Rightarrow \\omega  = \\sqrt \\alpha  $$ $$\\,\\,\\,\\,$$ or $$\\,\\,\\,\\,$$ $$T = {{2\\pi } \\over \\omega } = {{2\\pi } \\over {\\sqrt \\alpha  }}$$ "
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Two simple harmonic motions are represented by the equations $${y_1} = 0.1\\,\\sin \\left( {100\\pi t + {\\pi  \\over 3}} \\right)$$ and $${y_2} = 0.1\\,\\cos \\,\\pi t.$$ The phase difference of the velocity of particle $$1$$ with respect to the velocity of particle $$2$$ is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$${\\pi  \\over 3}$$ "
+        },
+        {
+          "key": "B",
+          "value": "$${{ - \\pi } \\over 6}$$ "
+        },
+        {
+          "key": "C",
+          "value": "$${\\pi  \\over 6}$$ "
+        },
+        {
+          "key": "D",
+          "value": "$${{ - \\pi } \\over 3}$$ "
+        }
+      ],
+      "answer": "B",
+      "explanation": "$${v_1} = {{d{y_1}} \\over {dt}} = 0.1 \\times 100\\pi \\cos \\left( {100\\pi t + {\\pi  \\over 3}} \\right)$$\n<br><br>$${v_2} = {{d{y_2}} \\over {dt}} =  - 0.1\\pi sin\\pi t = 0.1\\pi cos\\left( {\\pi t + {\\pi  \\over 2}} \\right)$$\n<br><br>$$\\therefore$$ Phase diff. $$ = {\\phi _1} - {\\phi _2} = {\\pi  \\over 3} - {\\pi  \\over 2} = {{2\\pi  - 3\\pi } \\over 6} = {\\pi  \\over 6}$$ "
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The function $${\\sin ^2}\\left( {\\omega t} \\right)$$ represents",
+      "options": [
+        {
+          "key": "A",
+          "value": "a periodic, but not $$SHM$$ with a period $${\\pi  \\over \\omega }$$ "
+        },
+        {
+          "key": "B",
+          "value": "a periodic, but not $$SHM$$ with a period $${{2\\pi } \\over \\omega }$$  "
+        },
+        {
+          "key": "C",
+          "value": "a $$SHM$$ with a period $${\\pi  \\over \\omega }$$ "
+        },
+        {
+          "key": "D",
+          "value": "a $$SHM$$ with a period $${{2\\pi } \\over \\omega }$$ "
+        }
+      ],
+      "answer": "A",
+      "explanation": "y =  sin<sup>2</sup>$$\\omega $$t\n<br><br>= $${{1 - \\cos 2\\omega t} \\over 2}$$\n<br><br>$$ = {1 \\over 2} - {1 \\over 2}\\cos \\,2\\omega t$$ \n<br><br>$$ \\therefore $$ Angular speed = 2$$\\omega $$\n<br><br>$$ \\therefore $$ Period (T) = $${{2\\pi } \\over {angular\\,speed}}$$ = $${{2\\pi } \\over {2\\omega }}$$ = $${\\pi  \\over \\omega }$$\n<br><br>So it is a periodic function.\n<br><br>As y =  sin<sup>2</sup>$$\\omega $$t\n<br><br>$${{dy} \\over {dt}}$$ = 2$$\\omega $$sin$$\\omega $$t cos$$\\omega $$t = $$\\omega $$ sin2$$\\omega $$t\n<br><br>$${{{d^2}y} \\over {d{t^2}}}$$ = $$2{\\omega ^2}$$ cos2$$\\omega $$t which is not proportional to -y.\n<br><br>Hence it is is not SHM."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "In forced oscillation of a particle the amplitude is maximum for a frequency $${\\omega _1}$$ of the force while the energy is maximum for a frequency $${\\omega _2}$$ of the force; then ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$${\\omega _1} &lt; {\\omega _2}$$ when damping is small and $${\\omega _1} &gt; {\\omega _2}$$ when damping is large"
+        },
+        {
+          "key": "B",
+          "value": "$${\\omega _1} &gt; {\\omega _2}$$  "
+        },
+        {
+          "key": "C",
+          "value": "$${\\omega _1} = {\\omega _2}$$ "
+        },
+        {
+          "key": "D",
+          "value": "$${\\omega _1} &lt; {\\omega _2}$$ "
+        }
+      ],
+      "answer": "C",
+      "explanation": "The maximum of amplitude and energy is obtained when the frequency is equal to the natural frequency (resonance condition)\n<br><br>$$\\therefore$$ $${\\omega _1} = {\\omega _2}$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The total energy of particle, executing simple harmonic motion is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "independent of $$x$$ "
+        },
+        {
+          "key": "B",
+          "value": "$$ \\propto \\,{x^2}$$ "
+        },
+        {
+          "key": "C",
+          "value": "$$ \\propto \\,x$$ "
+        },
+        {
+          "key": "D",
+          "value": "$$ \\propto \\,{x^{1/2}}$$ "
+        }
+      ],
+      "answer": "A",
+      "explanation": "At any instant the total energy is \n<br><br>$${1 \\over 2}k{A^2} = \\,\\,$$ constant, where $$A=$$ amplitude\n<br><br>hence total energy is independent of $$x.$$ "
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A particle at the end of a spring executes $$S.H.M$$ with a period $${t_1}$$. While the corresponding period for another spring is $${t_2}$$. If the period of oscillation with the two springs in series is $$T$$ then",
+      "options": [
+        {
+          "key": "A",
+          "value": "$${T^{ - 1}} = t_1^{ - 1} + t_2^{ - 1}$$ "
+        },
+        {
+          "key": "B",
+          "value": "$${T^2} = t_1^2 + t_2^2$$ "
+        },
+        {
+          "key": "C",
+          "value": "$$T = {t_1} + {t_2}$$ "
+        },
+        {
+          "key": "D",
+          "value": "$${T^{ - 2}} = t_1^{ - 2} + t_2^{ - 2}$$ "
+        }
+      ],
+      "answer": "B",
+      "explanation": "For first spring, $${t_1} = 2\\pi \\sqrt {{m \\over {{k_1}}}} ,$$\n<br><br>For second spring, $${t_2} = 2\\pi \\sqrt {{m \\over {{k_2}}}} $$\n<br><br>when springs are in series then, $${k_{eff}} = {{{k_1}{k_2}} \\over {{k_1} + {k_2}}}$$\n<br><br>$$\\therefore$$ $$T = 2\\pi \\sqrt {{{m\\left( {{k_1} + {k_2}} \\right)} \\over {{k_1}{k_2}}}} $$\n<br><br>$$\\therefore$$ $$T = 2\\pi \\sqrt {{m \\over {{k_2}}} + {m \\over {{k_1}}}} $$\n<br><br>$$ = 2\\pi \\sqrt {{{t_2^2} \\over {{{\\left( {2\\pi } \\right)}^2}}} + {{t_1^2} \\over {{{\\left( {2\\pi } \\right)}^2}}}} $$\n<br><br>$$ \\Rightarrow {T^2} = t_1^2 + t_2^2$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A particle of mass $$m$$ is attached to a spring (of spring constant $$k$$) and has a natural angular frequency $${\\omega _0}.$$ An external force $$F(t)$$ proportional to $$\\cos \\,\\omega t\\left( {\\omega  \\ne {\\omega _0}} \\right)$$ is applied to the oscillator. The time displacement of the oscillator will be proportional to ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$${1 \\over {m\\left( {\\omega _0^2 + {\\omega ^2}} \\right)}}$$"
+        },
+        {
+          "key": "B",
+          "value": "$${1 \\over {m\\left( {\\omega _0^2 - {\\omega ^2}} \\right)}}$$ "
+        },
+        {
+          "key": "C",
+          "value": "$${m \\over {\\omega _0^2 - {\\omega ^2}}}$$ "
+        },
+        {
+          "key": "D",
+          "value": "$${m \\over {\\omega _0^2 + {\\omega ^2}}}$$"
+        }
+      ],
+      "answer": "B",
+      "explanation": "Given that, initial angular velocity = $${\\omega _0}$$\n<br><br>and at any instant time t, angular velocity = $$\\omega $$\n<br><br>So when displacement is x then the resultant acceleration \n<br><br>f = $$\\left( {\\omega _0^2 - {\\omega ^2}} \\right)x$$\n<br><br>So the external force, F = $$m\\left( {\\omega _0^2 - {\\omega ^2}} \\right)x$$    ............(i)\n<br><br>But given that $$F \\propto \\cos \\omega t$$\n<br><br>From (i) we get,\n<br><br>$$m\\left( {\\omega _0^2 - {\\omega ^2}} \\right)x \\propto \\cos \\omega t$$  .........(ii)\n<br><br>From equation of SHM we know,\n<br><br>$$x = A\\sin \\left( {\\omega t + \\phi } \\right)$$\n<br><br>When t = 0 then x = A\n<br><br>$$\\therefore$$ A = $$A\\sin \\left( \\phi  \\right)$$\n<br><br>$$ \\Rightarrow A = {\\pi  \\over 2}$$\n<br><br>$$\\therefore$$ $$x = A\\sin \\left( {\\omega t + {\\pi  \\over 2}} \\right) = A\\cos \\omega t$$\n<br><br>Putting value of x in (ii), we get\n<br><br>$$m\\left( {\\omega _0^2 - {\\omega ^2}} \\right)A\\cos \\omega t \\propto \\cos \\omega t$$\n<br><br>$$ \\Rightarrow A \\propto {1 \\over {m\\left( {\\omega _0^2 - {\\omega ^2}} \\right)}}$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A mass $$M$$ is suspended from a spring of negligible mass. The spring is pulled a little and then released so that the mass executes $$SHM$$ of time period $$T.$$ If the mass is increased by $$m.$$ the time period becomes $${{5T} \\over 3}$$. Then the ratio of $${{m} \\over M}$$ is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$${3 \\over 5}$$ "
+        },
+        {
+          "key": "B",
+          "value": "$${25 \\over 9}$$"
+        },
+        {
+          "key": "C",
+          "value": "$${16 \\over 9}$$"
+        },
+        {
+          "key": "D",
+          "value": "$${5 \\over 3}$$"
+        }
+      ],
+      "answer": "C",
+      "explanation": "<p>The time period of a simple harmonic motion (SHM) performed by a mass-spring system is given by the formula:</p>\n<p>$$T = 2\\pi \\sqrt{{M \\over k}}$$</p>\n<p>where:</p>\n<ul>\n<li>T is the time period,</li>\n<li>M is the mass of the object, and</li>\n<li>k is the spring constant.</li>\n</ul>\n<p>We know that if the mass is increased by m, the time period becomes $\\frac{5T}{3}$. We can set up an equation for this new scenario:</p>\n<p>$$\\frac{5T}{3} = 2\\pi \\sqrt{\\frac{M + m}{k}}$$</p>\n<p>Since we know that $T = 2\\pi \\sqrt{\\frac{M}{k}}$, we can substitute T in the equation above:</p>\n<p>$$\\frac{5}{3} \\cdot 2\\pi \\sqrt{\\frac{M}{k}} = 2\\pi \\sqrt{\\frac{M + m}{k}}$$</p>\n<p>Squaring both sides of the equation to eliminate the square root, we get:</p>\n<p>$$\\frac{25}{9} \\cdot \\frac{M}{k} = \\frac{M + m}{k}$$</p>\n<p>Solving for $\\frac{m}{M}$, we get:</p>\n<p>$$\\frac{m}{M} = \\frac{25}{9} - 1 = \\frac{16}{9}$$</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Two particles $$A$$ and $$B$$ of equal masses are suspended from two massless springs  of spring of spring constant $${k_1}$$ and $${k_2}$$, respectively. If the maximum velocities, during oscillation, are equal, the ratio of amplitude of $$A$$ and $$B$$ is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$\\sqrt {{{{k_1}} \\over {{k_2}}}} $$ "
+        },
+        {
+          "key": "B",
+          "value": "$${{{{k_2}} \\over {{k_1}}}}$$ "
+        },
+        {
+          "key": "C",
+          "value": "$$\\sqrt {{{{k_2}} \\over {{k_1}}}} $$ "
+        },
+        {
+          "key": "D",
+          "value": "$${{{{k_1}} \\over {{k_2}}}}$$  "
+        }
+      ],
+      "answer": "C",
+      "explanation": "Maximum velocity during $$SHM$$ $$ = A\\omega  = A\\sqrt {{k \\over m}} $$\n<br><br>$$\\left[ {\\,\\,} \\right.$$ $$\\therefore$$ $$\\omega  = \\sqrt {{k \\over m}} $$ $$\\left. {\\,\\,} \\right]$$\n<br><br>Here the maximum velocity is same and $$m$$ is also same \n<br><br>$$\\therefore$$ $${A_1}\\sqrt {{k_1}}  = {A_2}\\sqrt {{k_2}} $$ \n<br><br>$$\\therefore$$ $${{{A_1}} \\over {{A_2}}} = \\sqrt {{{{k_2}} \\over {{k_1}}}} $$\n"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The length of a simple pendulum executing simple harmonic motion is increased by $$21\\% $$. The percentage increase in the time period of the pendulum of increased length is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$11\\% $$"
+        },
+        {
+          "key": "B",
+          "value": "$$21\\% $$ "
+        },
+        {
+          "key": "C",
+          "value": "$$42\\% $$"
+        },
+        {
+          "key": "D",
+          "value": "$$10\\% $$"
+        }
+      ],
+      "answer": "D",
+      "explanation": "<p>The period of a simple pendulum is given by:</p>\n<p>$$ T = 2\\pi \\sqrt{\\frac{L}{g}} $$</p>\n<p>where:</p>\n<ul>\n<li>T is the period,</li>\n<li>L is the length of the pendulum, and</li>\n<li>g is the acceleration due to gravity.</li>\n</ul>\n<p>Since g is constant, we see that the period T is proportional to the square root of the length L. </p>\n<p>If L is increased by 21%, the new length L&#39; is L + 21%L = 1.21L. The new period T&#39; is then:</p>\n<p>$$ T&#39; = 2\\pi \\sqrt{\\frac{L&#39;}{g}} = 2\\pi \\sqrt{\\frac{1.21L}{g}} = \\sqrt{1.21}T \\approx 1.1T $$</p>\n<p>The percentage increase in the time period is then:</p>\n<p>$$ \\frac{T&#39; - T}{T} \\times 100\\% = (\\sqrt{1.21} - 1) \\times 100\\% \\approx 10\\% $$</p>\n<p>Therefore, the percentage increase in the time period of the pendulum of increased length is approximately 10%.</p>\n"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A body executes simple harmonic motion. The potential energy $$(P.E),$$ the kinetic energy $$(K.E)$$ and total energy $$(T.E)$$ are measured as a function of displacement $$x.$$ Which of the following statements is true ? ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$K.E$$ is maximum when $$x=0$$  "
+        },
+        {
+          "key": "B",
+          "value": "$$T.E$$ is zero when $$x=0$$ "
+        },
+        {
+          "key": "C",
+          "value": "$$K.E$$ is maximum when $$x$$ is maximum "
+        },
+        {
+          "key": "D",
+          "value": "$$P.E$$ is maximum when $$x=0$$ "
+        }
+      ],
+      "answer": "A",
+      "explanation": "$$K.E. = {1 \\over 2}m{\\omega ^2}\\left( {{a^2} - {x^2}} \\right)$$\n<br><br>When $$x=0,$$ $$K.E$$ is maximum and is equal to $${1 \\over 2}m{\\omega ^2}{a^2}.$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The displacement of particle varies according to the relation \n<br>$$x=4$$$$\\left( {\\cos \\,\\pi t + \\sin \\,\\pi t} \\right).$$ The amplitude of the particle is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$-4$$ "
+        },
+        {
+          "key": "B",
+          "value": "$$4$$ "
+        },
+        {
+          "key": "C",
+          "value": "$$4\\sqrt 2 $$ "
+        },
+        {
+          "key": "D",
+          "value": "$$8$$ "
+        }
+      ],
+      "answer": "C",
+      "explanation": "$$x = 4\\left( {\\cos \\pi t + \\sin \\pi t} \\right)$$\n<br><br>$$ = \\sqrt 2  \\times 4\\left( {{{\\sin \\pi t} \\over {\\sqrt 2 }} + {{\\cos \\pi t} \\over {\\sqrt 2 }}} \\right)$$\n<br><br>$$x = 4\\sqrt 2 \\sin \\left( {\\pi t + {{45}^ \\circ }} \\right)$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "If a spring has time period $$T,$$ and is cut into $$n$$ equal parts, then the time period of each part will be ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$T\\sqrt n $$ "
+        },
+        {
+          "key": "B",
+          "value": "$$T/\\sqrt n $$ "
+        },
+        {
+          "key": "C",
+          "value": "$$nT$$ "
+        },
+        {
+          "key": "D",
+          "value": "$$T$$ "
+        }
+      ],
+      "answer": "B",
+      "explanation": "Let the spring constant of the original spring be $$k.$$\n<br><br>Then its time period $$T = 2\\pi \\sqrt {{m \\over k}} $$ where $$m$$ is the mass of oscillating body.\n<br>When the spring is cut into $$n$$ equal parts, the spring constant of one part becomes $$nk.$$ Therefore the new time period,\n<br><br>$$T' = 2\\pi \\sqrt {{m \\over {nk}}}  = {T \\over {\\sqrt n }}$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "In a simple harmonic oscillator, at the mean position ",
+      "options": [
+        {
+          "key": "A",
+          "value": "kinetic energy is minimum, potential energy is maximum "
+        },
+        {
+          "key": "B",
+          "value": "both kinetic and potential energies are maximum "
+        },
+        {
+          "key": "C",
+          "value": "kinetic energy is maximum, potential energy is minimum "
+        },
+        {
+          "key": "D",
+          "value": "both kinetic and potential energies are minimum. "
+        }
+      ],
+      "answer": "C",
+      "explanation": "$$K.E = {1 \\over 2}k\\left( {{A^2} - {x^2}} \\right);\\,\\,\\,U = {1 \\over 2}k{x^2}$$\n<br><br/><b>At the mean position</b> $$x=0$$ \n<br/><br>$$\\therefore$$  $$K.E. = {1 \\over 2}k{A^2} = $$ Maximum and $$U=0$$ "
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A child swinging on a swing in sitting position, stands up, then the time period of the swing will ",
+      "options": [
+        {
+          "key": "A",
+          "value": "increase "
+        },
+        {
+          "key": "B",
+          "value": "decrease "
+        },
+        {
+          "key": "C",
+          "value": "remains same "
+        },
+        {
+          "key": "D",
+          "value": "increases of the child is long and decreases if the child is short "
+        }
+      ],
+      "answer": "B",
+      "explanation": "<b>KEY CONCEPT :</b> The time period $$T = 2\\pi \\sqrt {{\\ell  \\over g}} $$ where\n<br><br>$$\\ell $$ $$=$$ distance between the point of suspension and the center of mass of the child. This distance decreases when the child stands \n<br><br>$$\\therefore$$ $$T' &lt; T$$ i.e., the period decreases."
+    },
+    {
+      "_type": "numerical",
+      "body": "<p>A particle of mass $$0.50 \\mathrm{~kg}$$ executes simple harmonic motion under force $$F=-50(\\mathrm{Nm}^{-1}) x$$. The time period of oscillation is $$\\frac{x}{35} s$$. The value of $$x$$ is _________.</p> \n<p>(Given $$\\pi=\\frac{22}{7}$$)</p>",
+      "answer": "22",
+      "explanation": "<p>To find the value of $$x$$ that represents the time period of oscillation in this simple harmonic motion (SHM) scenario, we first recall the general formula for the time period ($T$) of a mass-spring system undergoing SHM, which is given by:</p>\n\n<p>$$T = 2\\pi \\sqrt{\\frac{m}{k}}$$</p>\n\n<p>Here,</p>\n\n<p>$m$ is the mass of the particle, which is $$0.50 \\, \\mathrm{kg}$$ in this case,</p>\n\n<p>$k$ is the force constant of the spring or the spring constant, which is given as $$50 \\, \\mathrm{Nm^{-1}}$$,</p>\n\n<p>and $T$ represents the time period of oscillation.</p>\n\n<p>Given in the problem, $$T = \\frac{x}{35} \\, \\mathrm{s}$$ and we are provided with the approximation $$\\pi = \\frac{22}{7}$$.</p>\n\n<p>Substituting the given values into the formula for $$T$$:</p>\n\n<p>$$\\frac{x}{35} = 2 \\times \\frac{22}{7} \\times \\sqrt{\\frac{0.50}{50}}$$</p>\n\n<p>To simplify this, we first calculate the square root:</p>\n\n<p>$$\\sqrt{\\frac{0.50}{50}} = \\sqrt{\\frac{1}{100}} = \\frac{1}{10}$$</p>\n\n<p>Substituting back, we get:</p>\n\n<p>$$\\frac{x}{35} = 2 \\times \\frac{22}{7} \\times \\frac{1}{10}$$</p>\n\n<p>Multiplying the terms on the right side:</p>\n\n<p>$$\\frac{x}{35} = \\frac{44}{70}$$</p>\n\n<p>$$\\frac{x}{35} = \\frac{22}{35}$$</p>\n\n<p>Multiplying both sides by $$35$$ to solve for $$x$$:</p>\n\n<p>$$x = 22$$</p>\n\n<p>Therefore, the value of $$x$$ that represents the time period of oscillation is $$22$$ seconds.</p>"
+    },
+    {
+      "_type": "numerical",
+      "body": "<p>The position, velocity and acceleration of a particle executing simple harmonic motion are found to have magnitudes of $$4 \\mathrm{~m}, 2 \\mathrm{~ms}^{-1}$$ and $$16 \\mathrm{~ms}^{-2}$$ at a certain instant. The amplitude of the motion is $$\\sqrt{x}, \\mathrm{~m}$$ where $$x$$ is _________.</p>",
+      "answer": "17",
+      "explanation": "<p>Let's begin by understanding the equations related to simple harmonic motion (SHM). For a particle executing SHM, the position $$x$$, velocity $$v$$, and acceleration $$a$$ are given by the following equations:</p>\n\n<p>1. Position: $$x = A \\cos(\\omega t + \\phi)$$</p>\n\n<p>2. Velocity: $$v = -A \\omega \\sin(\\omega t + \\phi)$$</p>\n\n<p>3. Acceleration: $$a = -A \\omega^2 \\cos(\\omega t + \\phi)$$</p>\n\n<p>Here, $$A$$ is the amplitude of the motion, $$\\omega$$ is the angular frequency, and $$\\phi$$ is the phase constant.</p>\n\n<p>Given the magnitudes at a certain instant:</p>\n\n<p>$$x = 4 \\, \\mathrm{m}$$</p>\n\n<p>$$v = 2 \\, \\mathrm{ms}^{-1}$$</p>\n\n<p>$$a = 16 \\, \\mathrm{ms}^{-2}$$</p>\n\n<p>Using the acceleration equation:</p>\n\n<p>$$a = -A \\omega^2 \\cos(\\omega t + \\phi)$$</p>\n\n<p>Since we’re given the magnitude of the acceleration, we remove the negative sign:</p>\n\n<p>$$16 = A \\omega^2 \\cos(\\omega t + \\phi)$$</p>\n\n<p>Using the position equation:</p>\n\n<p>$$x = A \\cos(\\omega t + \\phi)$$</p>\n\n<p>We already know $$x = 4 \\, \\mathrm{m}$$, so:</p>\n\n<p>$$4 = A \\cos(\\omega t + \\phi)$$</p>\n\n<p>From these two equations, we know:</p>\n\n<p>$$A \\omega^2 \\cos(\\omega t + \\phi) = 16$$</p>\n\n<p>$$A \\cos(\\omega t + \\phi) = 4$$</p>\n\n<p>Therefore:</p>\n\n<p>$$A \\omega^2 \\cdot 4/A = 16$$</p>\n\n<p>$$4 \\omega^2 = 16$$</p>\n\n<p>$$\\omega^2 = 4$$</p>\n\n<p>$$\\omega = 2 \\, \\mathrm{rad/s}$$</p>\n\n<p>Next, using the velocity equation:</p>\n\n<p>$$v = -A \\omega \\sin(\\omega t + \\phi)$$</p>\n\n<p>Again, we consider the magnitude:</p>\n\n<p>$$2 = A \\cdot 2 \\sin(\\omega t + \\phi)$$</p>\n\n<p>$$2 = 2A \\sin(\\omega t + \\phi)$$</p>\n\n<p>$$\\sin(\\omega t + \\phi) = \\dfrac{1}{A}$$</p>\n\n<p>We know from the position equation that:</p>\n\n<p>$$\\cos(\\omega t + \\phi) = \\dfrac{4}{A}$$</p>\n\n<p>Using the identity $$\\sin^2(\\theta) + \\cos^2(\\theta) = 1$$, we get:</p>\n\n<p>$$\\left(\\dfrac{1}{A}\\right)^2 + \\left(\\dfrac{4}{A}\\right)^2 = 1$$</p>\n\n<p>$$\\dfrac{1}{A^2} + \\dfrac{16}{A^2} = 1$$</p>\n\n<p>$$\\dfrac{17}{A^2} = 1$$</p>\n\n<p>$$A^2 = 17$$</p>\n\n<p>$$A = \\sqrt{17} \\, \\mathrm{m}$$</p>\n\n<p>Therefore, the amplitude of the motion is $$\\sqrt{17} \\, \\mathrm{m}$$, meaning $$x$$ is 17.</p>"
+    },
+    {
+      "_type": "numerical",
+      "body": "<p>An object of mass $$0.2 \\mathrm{~kg}$$ executes simple harmonic motion along $$x$$ axis with frequency of $$\\left(\\frac{25}{\\pi}\\right) \\mathrm{Hz}$$. At the position $$x=0.04 \\mathrm{~m}$$ the object has kinetic energy $$0.5 \\mathrm{~J}$$ and potential energy $$0.4 \\mathrm{~J}$$. The amplitude of oscillation is ________ $$\\mathrm{cm}$$.</p>",
+      "answer": "6",
+      "explanation": "<p>To solve for the amplitude of oscillation, we start by using the properties of simple harmonic motion (SHM). In SHM, the total energy of the system is conserved and is given by the sum of kinetic energy (KE) and potential energy (PE).</p>\n\n<p>Given:</p>\n\n<ul>\n\n<li>Mass $$m = 0.2 \\ \\mathrm{kg}$$</li>\n\n<li>Frequency $$f = \\left(\\frac{25}{\\pi}\\right) \\ \\mathrm{Hz}$$</li>\n\n<li>Position $$x = 0.04 \\ \\mathrm{m}$$</li>\n\n<li>KE at $$x = 0.04 \\ \\mathrm{m}$$ is $$0.5 \\ \\mathrm{J}$$</li>\n\n<li>PE at $$x = 0.04 \\ \\mathrm{m}$$ is $$0.4 \\ \\mathrm{J}$$</li>\n\n</ul>\n\n<p>The total mechanical energy (E) of the SHM system can be found by summing the given kinetic and potential energies:</p>\n\n<p>\n\n<p>$$ E = KE + PE = 0.5 \\ \\mathrm{J} + 0.4 \\ \\mathrm{J} = 0.9 \\ \\mathrm{J} $$</p>\n\n</p>\n\n<p>For simple harmonic motion, the total energy (E) is also related to the amplitude (A) by the following formula:</p>\n\n<p>\n\n<p>$$ E = \\frac{1}{2} k A^2 $$</p>\n\n</p>\n\n<p>where $$k$$ is the spring constant. First, we need to find the angular frequency $$\\omega$$:</p>\n\n<p>\n\n<p>$$ \\omega = 2 \\pi f = 2 \\pi \\left(\\frac{25}{\\pi}\\right) \\ \\mathrm{Hz} = 50 \\ \\mathrm{rad/s} $$</p>\n\n</p>\n\n<p>The spring constant $$k$$ can be calculated using the relationship between $$m$$, $$\\omega$$, and $$k$$:</p>\n\n<p>\n\n<p>$$ \\omega = \\sqrt{\\frac{k}{m}} \\Rightarrow k = m \\omega^2 = 0.2 \\times (50)^2 = 500 \\ \\mathrm{N/m} $$</p>\n\n</p>\n\n<p>Now, substituting $$k$$ back into the energy equation, we solve for the amplitude $$A$$:</p>\n\n<p>\n\n<p>$$ 0.9 = \\frac{1}{2} \\times 500 \\times A^2 \\Rightarrow A^2 = \\frac{0.9 \\times 2}{500} \\Rightarrow A^2 = \\frac{1.8}{500} \\Rightarrow A^2 = 0.0036 \\Rightarrow A = \\sqrt{0.0036} = 0.06 \\ \\mathrm{m} $$</p>\n\n</p>\n\n<p>Converting $$A$$ from meters to centimeters:</p>\n\n<p>\n\n<p>$$ A = 0.06 \\ \\mathrm{m} \\times 100 = 6 \\ \\mathrm{cm} $$</p>\n\n</p>\n\n<p>Thus, the amplitude of oscillation is $$6 \\ \\mathrm{cm}$$.</p>"
+    },
+    {
+      "_type": "numerical",
+      "body": "<p>A particle is doing simple harmonic motion of amplitude $$0.06 \\mathrm{~m}$$ and time period $$3.14 \\mathrm{~s}$$. The maximum velocity of the particle is _________ $$\\mathrm{cm} / \\mathrm{s}$$.</p>",
+      "answer": "12",
+      "explanation": "<p>For a particle performing simple harmonic motion (SHM), the maximum velocity $$v_{max}$$ can be calculated using the formula:\n\n<p>$v_{max} = A\\omega$</p>\n\n<p>where $A$ is the amplitude of the motion and $\\omega$ is the angular frequency. The angular frequency $\\omega$ is related to the time period $T$ by the formula:</p>\n\n<p>$\\omega = \\frac{2\\pi}{T}$</p>\n\n<p>Given:</p>\n\n<ul>\n<li>Amplitude, $A = 0.06 \\, \\mathrm{m}$</li><br>\n<li>Time period, $T = 3.14 \\, \\mathrm{s}$</li>\n</ul>\n<p>First, we find the angular frequency:</p>\n\n<p>$\\omega = \\frac{2\\pi}{T} = \\frac{2\\pi}{3.14}$</p>\n\n<p>Substituting $\\omega$ and $A$ in the formula for $v_{max}$:</p>\n\n<p>$v_{max} = A\\omega = 0.06 \\times \\frac{2\\pi}{3.14}$</p>\n\n<p>$v_{max} = 0.06 \\times \\frac{2 \\times 3.14}{3.14}$</p>\n\n<p>$v_{max} = 0.06 \\times 2$</p>\n\n<p>$v_{max} = 0.12 \\, \\mathrm{m/s}$</p>\n\n<p>To convert meters per second to centimeters per second, we use the conversion factor $1 \\, \\mathrm{m/s} = 100 \\, \\mathrm{cm/s}$. Therefore,</p>\n\n<p>$v_{max} = 0.12 \\, \\mathrm{m/s} \\times 100 \\, \\mathrm{cm/m} = 12 \\, \\mathrm{cm/s}$</p>\n\n<p>Thus, the maximum velocity of the particle is $12 \\, \\mathrm{cm/s}$.</p></p>"
+    },
+    {
+      "_type": "numerical",
+      "body": "<p>The displacement of a particle executing SHM is given by $$x=10 \\sin \\left(w t+\\frac{\\pi}{3}\\right) m$$. The time period of motion is $$3.14 \\mathrm{~s}$$. The velocity of the particle at $$t=0$$ is _______ $$\\mathrm{m} / \\mathrm{s}$$.</p>",
+      "answer": "10",
+      "explanation": "<p>The displacement of a particle executing Simple Harmonic Motion (SHM) can be expressed as:</p>\n\n<p>$$x = A \\sin(\\omega t + \\phi)$$</p>\n\n<p>Where:</p>\n\n<p>$$A$$ is the amplitude of the SHM,</p>\n\n<p>$$\\omega$$ is the angular frequency,</p>\n\n<p>$$t$$ is the time,</p>\n\n<p>$$\\phi$$ is the phase constant (phase angle at $$t = 0$$).</p>\n\n<p>In the given equation, $$x = 10 \\sin(\\omega t + \\frac{\\pi}{3})$$ m, the amplitude $$A = 10$$ m and the phase constant $$\\phi = \\frac{\\pi}{3}$$. The time period $$T = 3.14$$ s is given, from which we can find the angular frequency $$\\omega$$ using the relationship:</p>\n\n<p>$$\\omega = \\frac{2\\pi}{T}$$</p>\n\n<p>Substituting the given $$T = 3.14$$ s:</p>\n\n<p>$$\\omega = \\frac{2\\pi}{3.14} \\approx 2 \\, \\text{rad/s}$$</p>\n\n<p>To find the velocity of the particle, we differentiate the displacement $$x$$ with respect to time $$t$$. The derivative of the displacement gives the velocity:</p>\n\n<p>$$v = \\frac{dx}{dt}$$</p>\n\n<p>So, for $$x = 10 \\sin(\\omega t + \\frac{\\pi}{3})$$:</p>\n\n<p>$$v = \\frac{d}{dt}[10 \\sin(\\omega t + \\frac{\\pi}{3})]$$</p>\n\n<p>Applying differentiation, we get:</p>\n\n<p>$$v = 10\\omega \\cos(\\omega t + \\frac{\\pi}{3})$$</p>\n\n<p>Plug in the value of $$\\omega = 2$$ rad/s and evaluate it at $$t = 0$$ to find the initial velocity:</p>\n\n<p>$$v = 10 \\cdot 2 \\cos(2 \\cdot 0 + \\frac{\\pi}{3})$$</p>\n\n<p>$$v = 20 \\cos(\\frac{\\pi}{3})$$</p>\n\n<p>$$\\cos(\\frac{\\pi}{3}) = \\frac{1}{2}$$, therefore:</p>\n\n<p>$$v = 20 \\cdot \\frac{1}{2} = 10 \\, \\text{m/s}$$</p>\n\n<p>Thus, the velocity of the particle at $$t = 0$$ is $$10$$ m/s.</p>"
+    },
+    {
+      "_type": "numerical",
+      "body": "A mass $m$ is suspended from a spring of negligible mass and the system oscillates with a frequency $f_1$. The frequency of oscillations if a mass $9 \\mathrm{~m}$ is suspended from the same spring is $f_2$. The value of $\\frac{f_1}{f_2} \\mathrm{i}$ ________.",
+      "answer": "3",
+      "explanation": "<p>Let&#39;s start by considering the formula for the frequency of a mass on a spring (a simple harmonic oscillator):</p>\n<p>$$ f = \\frac{1}{2\\pi} \\sqrt{\\frac{k}{m}} $$</p>\n<p>Where:</p>\n<ul>\n<li>$$ f $$ is the frequency of oscillation</li>\n<li>$$ k $$ is the spring constant</li>\n<li>$$ m $$ is the mass suspended from the spring</li>\n</ul>\n<p>When the mass $$ m $$ is suspended, the frequency $$ f_1 $$ is:</p>\n<p>$$ f_1 = \\frac{1}{2\\pi} \\sqrt{\\frac{k}{m}} $$</p>\n<p>When the mass $$ 9m $$ is suspended, the frequency $$ f_2 $$ is:</p>\n<p>$$ f_2 = \\frac{1}{2\\pi} \\sqrt{\\frac{k}{9m}} $$</p>\n<p>We can simplify the square root by taking the 9 inside the root as $$3^2$$, which gives:</p>\n<p>$$ f_2 = \\frac{1}{2\\pi} \\sqrt{\\frac{k}{(3^2)m}} $$\n<br/><br/>$$ f_2 = \\frac{1}{2\\pi} \\frac{1}{3} \\sqrt{\\frac{k}{m}} $$</p>\n<p>The ratio of $$ \\frac{f_1}{f_2} $$ is therefore:</p>\n<p>$$ \\frac{f_1}{f_2} = \\frac{\\frac{1}{2\\pi} \\sqrt{\\frac{k}{m}}}{\\frac{1}{2\\pi} \\frac{1}{3} \\sqrt{\\frac{k}{m}}} $$\n<br/><br/>$$ \\frac{f_1}{f_2} = \\frac{1}{\\frac{1}{3}} $$\n<br/><br/>$$ \\frac{f_1}{f_2} = 3 $$</p>\n<p>So the value of $$ \\frac{f_1}{f_2} $$ is $$3$$.</p>\n"
+    },
+    {
+      "_type": "numerical",
+      "body": "<p>A particle performs simple harmonic motion with amplitude $$A$$. Its speed is increased to three times at an instant when its displacement is $$\\frac{2 A}{3}$$. The new amplitude of motion is $$\\frac{n A}{3}$$. The value of $$n$$ is ___________.</p>",
+      "answer": "7",
+      "explanation": "<p>To find the new amplitude of the motion when the speed is increased to three times at a given displacement, we use the concepts of simple harmonic motion (SHM) and its formulas.</p><p>In SHM, the velocity $v$ of a particle at a displacement $x$ from the mean position can be given by the formula:</p><p>$$v = \\omega \\sqrt{A^2 - x^2}$$</p><p>where:</p><ul><li>$\\omega$ is the angular frequency of the motion,</li><li>$A$ is the amplitude, and</li><li>$x$ is the displacement at that instance.</li></ul><p>Given:</p><ul><li>Displacement at the instance, $x = \\frac{2A}{3}$,</li><li>Initial velocity is increased to three times at this displacement.</li></ul><p>Thus, let's find the initial velocity $v$ at $x = \\frac{2A}{3}$:</p><p>$$v = \\omega \\sqrt{A^2 - \\left(\\frac{2A}{3}\\right)^2} = \\omega \\sqrt{A^2 - \\frac{4A^2}{9}} = \\omega \\sqrt{\\frac{5A^2}{9}} = \\frac{\\sqrt{5}A\\omega}{3}$$</p><p>With the velocity increased to three times, the new velocity $v'$ becomes:</p><p>$$v' = 3v = 3 \\times \\frac{\\sqrt{5}A\\omega}{3} = \\sqrt{5}A\\omega$$</p><p>For the new amplitude $A'$, the velocity $v'$ at the same displacement $x$ is:</p><p>$$v' = \\omega \\sqrt{{A'}^2 - \\left(\\frac{2A}{3}\\right)^2}$$</p><p>Setting the expressions for $v'$ equal gives:</p><p>$$\\sqrt{5}A\\omega = \\omega \\sqrt{{A'}^2 - \\frac{4A^2}{9}}$$</p><p>$$\\sqrt{5}A = \\sqrt{{A'}^2 - \\frac{4A^2}{9}}$$</p><p>Solving for $A'$ gives:</p><p>$${A'}^2 = 5A^2 + \\frac{4A^2}{9} = \\frac{45A^2 + 4A^2}{9} = \\frac{49A^2}{9}$$</p><p>$$A' = \\sqrt{\\frac{49A^2}{9}} = \\frac{7A}{3}$$</p><p>Therefore, the new amplitude of the motion is $\\frac{7A}{3}$, which means the value of $n$ is 7.</p>"
+    },
+    {
+      "_type": "numerical",
+      "body": "<p>When the displacement of a simple harmonic oscillator is one third of its amplitude, the ratio of total energy to the kinetic energy is $$\\frac{x}{8}$$, where $$x=$$ _________.</p>",
+      "answer": "9",
+      "explanation": "<p>$$\\begin{aligned}\n& \\text { Let total energy }=\\mathrm{E}=\\frac{1}{2} \\mathrm{KA}^2 \\\\\n& \\mathrm{U}=\\frac{1}{2} \\mathrm{~K}\\left(\\frac{\\mathrm{A}}{3}\\right)^2=\\frac{\\mathrm{KA}^2}{2 \\times 9}=\\frac{\\mathrm{E}}{9} \\\\\n& \\mathrm{KE}=\\mathrm{E}-\\frac{\\mathrm{E}}{9}=\\frac{8 \\mathrm{E}}{9} \\\\\n& \\text { Ratio } \\frac{\\text { Total }}{\\mathrm{KE}}=\\frac{\\mathrm{E}}{\\frac{8 \\mathrm{E}}{9}}=\\frac{9}{8} \\\\\n& \\mathrm{x}=9\n\\end{aligned}$$</p>"
+    },
+    {
+      "_type": "numerical",
+      "body": "<p>A particle executes simple harmonic motion with an amplitude of $$4 \\mathrm{~cm}$$. At the mean position, velocity of the particle is $$10 \\mathrm{~cm} / \\mathrm{s}$$. The distance of the particle from the mean position when its speed becomes $$5 \\mathrm{~cm} / \\mathrm{s}$$ is $$\\sqrt{\\alpha} \\mathrm{~cm}$$, where $$\\alpha=$$ ________.</p>",
+      "answer": "12",
+      "explanation": "<p>$$\\begin{aligned}\n& \\mathrm{V}_{\\text {at mean position }}=\\mathrm{A} \\omega \\Rightarrow 10=4 \\omega \\\\\n& \\quad \\omega=\\frac{5}{2} \\\\\n& \\mathrm{~V}=\\omega \\sqrt{\\mathrm{A}^2-\\mathrm{x}^2} \\\\\n& 5=\\frac{5}{2} \\sqrt{4^2-\\mathrm{x}^2} \\Rightarrow \\mathrm{x}^2=16-4 \\\\\n& \\mathrm{x}=\\sqrt{12} \\mathrm{~cm}\n\\end{aligned}$$</p>"
+    },
+    {
+      "_type": "numerical",
+      "body": "<p>At a given point of time the value of displacement of a simple harmonic oscillator is given as $$\\mathrm{y}=\\mathrm{A} \\cos \\left(30^{\\circ}\\right)$$. \nIf amplitude is $$40 \\mathrm{~cm}$$ and kinetic energy at that time is $$200 \\mathrm{~J}$$, the value of force constant is $$1.0 \\times 10^{x} ~\\mathrm{Nm}^{-1}$$. The value of $$x$$ is ____________.</p>",
+      "answer": "4",
+      "explanation": "Given the general equation for displacement in a simple harmonic oscillator:\n<br/><br/>\n$$x = A \\sin(\\omega t + \\phi)$$\n<br/><br/>\nAt the given time, we have:\n<br/><br/>\n$$\\omega t + \\phi = 30^\\circ$$\n<br/><br/>\nGiven the amplitude $$A = 40 \\,\\text{cm}$$ and the displacement $$x = 40 \\times \\frac{\\sqrt{3}}{2} \\,\\text{cm} = 20\\sqrt{3} \\,\\text{cm}$$, we can write the kinetic energy, $$KE$$, as:\n<br/><br/>\n$$KE = \\frac{1}{2}k(A^2 - x^2) = 200$$\n<br/><br/>\nNow, substitute the values for $$A$$ and $$x$$:\n<br/><br/>\n$$200 = \\frac{1}{2}k\\left(\\frac{1600 - 1200}{100 \\times 100}\\right)$$\n<br/><br/>\nSimplify the equation:\n<br/><br/>\n$$400 \\times 100 \\times 100 = k \\times 400$$\n<br/><br/>\nSolve for the force constant, $$k$$:\n<br/><br/>\n$$k = 10^4 \\,\\text{Nm}^{-1}$$\n<br/><br/>\nGiven that the force constant is expressed as $$k = 1.0 \\times 10^x \\,\\text{Nm}^{-1}$$, comparing the values, we get:\n<br/><br/>\n$$1.0 \\times 10^x = 10^4$$\n<br/><br/>\nThus, the value of $$x$$ is $$4$$."
+    },
+    {
+      "_type": "numerical",
+      "body": "<p>A rectangular block of mass $$5 \\mathrm{~kg}$$ attached to a horizontal spiral spring executes simple harmonic motion of amplitude $$1 \\mathrm{~m}$$ and time period $$3.14 \\mathrm{~s}$$. The maximum force exerted by spring on block is _________ N<p>",
+      "answer": "20",
+      "explanation": "<p>To find the maximum force exerted by the spring on the block, we can use Hooke&#39;s law and the properties of simple harmonic motion.</p>\n<p>First, let&#39;s find the angular frequency $$\\omega$$:</p>\n<p>$$\\omega = \\frac{2\\pi}{T}$$</p>\n<p>where $$T = 3.14\\,\\mathrm{s}$$ is the time period.</p>\n<p>$$\\omega = \\frac{2\\pi}{3.14} \\approx 2\\,\\mathrm{rad/s}$$</p>\n<p>Now, let&#39;s find the maximum velocity $$v_{max}$$ of the block:</p>\n<p>$$v_{max} = \\omega A$$</p>\n<p>where $$A = 1\\,\\mathrm{m}$$ is the amplitude.</p>\n<p>$$v_{max} = 2\\,\\mathrm{rad/s} \\times 1\\,\\mathrm{m} = 2\\,\\mathrm{m/s}$$</p>\n<p>Next, we can find the spring constant $$k$$ using the mass of the block $$m = 5\\,\\mathrm{kg}$$ and the angular frequency $$\\omega$$:</p>\n<p>$$\\omega^2 = \\frac{k}{m} \\Rightarrow k = m\\omega^2$$</p>\n<p>$$k = 5\\,\\mathrm{kg} \\times (2\\,\\mathrm{rad/s})^2 = 20\\,\\mathrm{N/m}$$</p>\n<p>Finally, we can find the maximum force exerted by the spring on the block. At maximum displacement, the force is given by Hooke&#39;s law:</p>\n<p>$$F_{max} = kA$$</p>\n<p>$$F_{max} = 20\\,\\mathrm{N/m} \\times 1\\,\\mathrm{m} = 20\\,\\mathrm{N}$$</p>\n<p>The maximum force exerted by the spring on the block is $$20\\,\\mathrm{N}$$.</p>\n"
+    },
+    {
+      "_type": "numerical",
+      "body": "<p>A simple pendulum with length $$100 \\mathrm{~cm}$$ and bob of mass $$250 \\mathrm{~g}$$ is executing S.H.M. of amplitude $$10 \\mathrm{~cm}$$. The maximum tension in the string is found to be $$\\frac{x}{40} \\mathrm{~N}$$. The value of $$x$$ is ___________.</p>",
+      "answer": "101",
+      "explanation": "<p>Given the amplitude $$A$$ and the length $$l$$ of the pendulum, we can find the maximum angular displacement $$\\theta_0$$:</p>\n<p>$$\n\\sin \\theta_0 = \\frac{A}{l} = \\frac{10}{100} = \\frac{1}{10}\n$$</p>\n<p>By conservation of energy, the following equation holds:</p>\n<p>$$\n\\frac{1}{2} m v^2 = m g l(1 - \\cos \\theta)\n$$</p>\n<p>The maximum tension occurs at the mean position (i.e., when the pendulum is vertical). At this point, we have:</p>\n<p>$$\n\\begin{aligned}\n&amp; T - mg = \\frac{m v^2}{l} \\\n&amp; \\Rightarrow T = mg + \\frac{m v^2}{l}\n\\end{aligned}\n$$</p>\n<p>Substituting the conservation of energy equation, we get:</p>\n<p>$$\n\\begin{aligned}\n&amp; T = mg + 2 m g(1 - \\cos \\theta) \\\\\\\\\n&amp; = mg\\left[1 + 2\\left(1 - \\sqrt{1 - \\sin^2 \\theta}\\right)\\right] \\\\\\\\\n&amp; = mg\\left[3 - 2 \\sqrt{1 - \\frac{1}{100}}\\right] \\\\\\\\\n&amp; = \\frac{250}{1000} \\times 10\\left[3 - 2\\left(1 - \\frac{1}{200}\\right)\\right] = \\frac{101}{40} \\\\\\\\\n&amp; \\therefore x = 101\n\\end{aligned}\n$$</p>\n<p>So, the value of $$x$$ is 101.</p>\n"
+    },
+    {
+      "_type": "numerical",
+      "body": "<p>The amplitude of a particle executing SHM is $$3 \\mathrm{~cm}$$. The displacement at which its kinetic energy will be $$25 \\%$$ more than the potential energy is: __________ $$\\mathrm{cm}$$</p>",
+      "answer": "2",
+      "explanation": "$A=3 \\mathrm{~cm}$\n\n<br/><br/>$$\n\\begin{aligned}\n& K=1.25 U \\\\\\\\\n& \\Rightarrow K+\\frac{K}{1.25}=K_{\\max } \\\\\\\\\n& \\Rightarrow \\frac{9}{5} K=K_{\\max } \\\\\\\\\n& \\Rightarrow  \\frac{9}{5} \\frac{1}{2} m v^{2}=\\frac{1}{2} m v_{\\max }^{2} \\\\\\\\\n& \\Rightarrow  \\frac{9}{5}\\left[\\omega \\sqrt{A^{2}-x^{2}}\\right]^{2}=\\omega^{2} A^{2} \\\\\\\\\n& \\Rightarrow 9\\left(A^{2}-x^{2}\\right)=5 A^{2} \\\\\\\\\n& \\Rightarrow  x^{2}=\\frac{4 A^{2}}{9} \\\\\\\\\n& \\Rightarrow  x=\\frac{2 A}{3} \\\\\\\\\n& \\Rightarrow  x=2 \\mathrm{~cm}\n\\end{aligned}\n$$"
+    },
+    {
+      "_type": "numerical",
+      "body": "The velocity of a particle executing SHM varies with displacement $(x)$ as $4 v^{2}=50-x^{2}$. The time period of oscillations is $\\frac{x}{7} s$. The value of $x$ is ___________. $\\left(\\right.$ Take $\\left.\\pi=\\frac{22}{7}\\right)$",
+      "answer": "88",
+      "explanation": "<p>$$4{v^2} = 50 - {x^2}$$</p>\n<p>or $$v = {1 \\over 2}\\sqrt {50 - {x^2}} $$</p>\n<p>Comparing the above equation with $$v = \\omega \\sqrt {{A^2} - {x^2}} $$</p>\n<p>$$ \\Rightarrow \\omega  = {1 \\over 2}$$</p>\n<p>& $$A = \\sqrt {50} $$</p>\n<p>so $${{2\\pi } \\over T} = {1 \\over 2}$$</p>\n<p>$$ \\Rightarrow T = 4\\pi \\sec $$</p>\n<p>$$ = 4 \\times {{22} \\over 7}\\sec $$</p>\n<p>$$T = {{88} \\over 7}\\sec $$</p>\n<p>so $$x = 88$$</p>"
+    },
+    {
+      "_type": "numerical",
+      "body": "<p>The general displacement of a simple harmonic oscillator is $$x = A\\sin \\omega t$$. Let T be its time period. The slope of its potential energy (U) - time (t) curve will be maximum when $$t = {T \\over \\beta }$$. The value of $$\\beta$$ is ______________.</p>",
+      "answer": "8",
+      "explanation": "<p>$$U = {1 \\over 2}m{\\omega ^2}{A^2}{\\sin ^2}\\omega t$$</p>\n<p>So, $${{dU} \\over {dt}} = {{m{\\omega ^3}{A^2}} \\over 2}\\sin 2\\omega t$$</p>\n<p>This value will be maximum when $$\\sin 2\\omega t = 1$$</p>\n<p>or $$2\\omega t = {\\pi  \\over 2}$$</p>\n<p>$$2 \\times {{2\\pi } \\over T}t = {\\pi  \\over 2}$$</p>\n<p>$$ \\Rightarrow t = {T \\over 8}$$</p>\n<p>So $$\\beta  = 8$$</p>"
+    },
+    {
+      "_type": "numerical",
+      "body": "<p>A particle of mass 250 g executes a simple harmonic motion under a periodic force $$\\mathrm{F}=(-25~x)\\mathrm{N}$$. The particle attains a maximum speed of 4 m/s during its oscillation. The amplitude of the motion is ___________ cm.</p>",
+      "answer": "40",
+      "explanation": "<p>$$F =  - 25x$$</p>\n<p>$$.250{{{d^2}x} \\over {d{t^2}}} =  - 25x$$</p>\n<p>$${{{d^2}x} \\over {d{t^2}}} =  - 100x$$</p>\n<p>$$ \\Rightarrow \\omega  = 10$$ rad/sec</p>\n<p>& $$\\omega A = {v_{\\max }}$$</p>\n<p>$$10\\,A = 4$$</p>\n<p>$$ \\Rightarrow A = 0.4$$ m</p>\n<p>$$ = 40$$ cm</p>"
+    },
+    {
+      "_type": "numerical",
+      "body": "<p>A mass m attached to free end of a spring executes SHM with a period of 1s. If the mass is increased by 3 kg the period of the oscillation increases by one second, the value of mass m is ___________ kg.</p>",
+      "answer": "1",
+      "explanation": "$\\because 2 \\pi \\sqrt{\\frac{m}{k}}=1$\n<br/><br/>\nFinally\n<br/><br/>\n$$\n2 \\pi \\sqrt{\\frac{m+3}{k}}=1+1=2\n$$\n<br/><br/>\nEquation $\\frac{(1)}{(2)}$ gives\n<br/><br/>\n$\\sqrt{\\frac{m}{m+3}}=\\frac{1}{2}$\n<br/><br/>\n$\\therefore m=1 \\mathrm{~kg}$"
+    },
+    {
+      "_type": "numerical",
+      "body": "<p>The potential energy of a particle of mass $$4 \\mathrm{~kg}$$ in motion along the x-axis is given by $$\\mathrm{U}=4(1-\\cos 4 x)$$ J. The time period of the particle for small oscillation $$(\\sin \\theta \\simeq \\theta)$$ is $$\\left(\\frac{\\pi}{K}\\right) s$$. The value of $$\\mathrm{K}$$ is _________.</p>",
+      "answer": "2",
+      "explanation": "<p>$$U = 4(1 - \\cos 4x)$$</p>\n<p>$$ \\Rightarrow F =  - {{dU} \\over {dx}} =  - (4)(4\\sin 4x)$$</p>\n<p>$$ =  - 16\\sin 4x$$</p>\n<p>as small x</p>\n<p>$$F =  - 16(4x) =  - 64x \\equiv  - kx$$</p>\n<p>$$T = 2\\pi \\sqrt {{m \\over k}}  = 2\\pi \\sqrt {{4 \\over {64}}}  = {\\pi  \\over 2}$$</p>\n<p>$$ \\Rightarrow K = 2$$</p>"
+    },
+    {
+      "_type": "numerical",
+      "body": "<p>A mass $$0.9 \\mathrm{~kg}$$, attached to a horizontal spring, executes SHM with an amplitude $$\\mathrm{A}_{1}$$. When this mass passes through its mean position, then a smaller mass of $$124 \\mathrm{~g}$$ is placed over it and both masses move together with amplitude $$A_{2}$$. If the ratio $$\\frac{A_{1}}{A_{2}}$$ is $$\\frac{\\alpha}{\\alpha-1}$$, then the value of $$\\alpha$$ will be ___________.</p>",
+      "answer": "16",
+      "explanation": "<p>$$(0.9){A_1}\\sqrt {{K \\over {0.9}}}  = (0.9 + 0.124){A_2}\\sqrt {{K \\over {0.9 + 0.124}}} $$</p>\n<p>$${{{A_1}} \\over {{A_2}}} = \\sqrt {{{0.9 + 0.124} \\over {0.9}}} $$</p>\n<p>$$ = \\sqrt {{{1.024} \\over {0.9}}} $$</p>\n<p>$$ = {\\alpha  \\over {\\alpha  - 1}}$$</p>\n<p>$$\\alpha  = 16$$</p>"
+    },
+    {
+      "_type": "numerical",
+      "body": "<p>A body is performing simple harmonic with an amplitude of 10 cm. The velocity of the body was tripled by air jet when it is at 5 cm from its mean position. The new amplitude of vibration is $$\\sqrt{x}$$ cm. The value of x is _____________.</p>",
+      "answer": "700",
+      "explanation": "<p>$$v = \\omega \\sqrt {{A^2} - {y^2}} $$</p>\n<p>$$ \\Rightarrow 3\\omega \\sqrt {{{10}^2} - {5^2}}  = \\omega \\sqrt {{{(A')}^2} - {5^2}} $$</p>\n<p>$$ \\Rightarrow 9 \\times 75 = {(A')^2} - 25$$</p>\n<p>$$ \\Rightarrow A' = \\sqrt {28 \\times 25} $$ cm</p>\n<p>$$ \\Rightarrow x = 700$$</p>"
+    },
+    {
+      "_type": "numerical",
+      "body": "<p>A particle executes simple harmonic motion. Its amplitude is 8 cm and time period is 6 s. The time it will take to travel from its position of maximum displacement to the point corresponding to half of its amplitude, is ___________ s.</p>",
+      "answer": "1",
+      "explanation": "<p>A = 8 cm</p>\n<p>T = 6 s</p>\n<p>$$A\\cos \\left( {{{2\\pi t} \\over T}} \\right) = {A \\over 2}$$</p>\n<p>$$ \\Rightarrow {{2\\pi t} \\over T} = {\\pi  \\over 3}$$</p>\n<p>or $$t = {T \\over 6} = 1\\,s$$</p>"
+    },
+    {
+      "_type": "numerical",
+      "body": "Two simple harmonic motion, are represented by the equations $${y_1} = 10\\sin \\left( {3\\pi t + {\\pi  \\over 3}} \\right)$$ $${y_2} = 5(\\sin 3\\pi t + \\sqrt 3 \\cos 3\\pi t)$$ Ratio of amplitude of y<sub>1</sub> to y<sub>2</sub> = x : 1. The value of x is ______________.",
+      "answer": "1",
+      "explanation": "$${y_1} = 10\\sin \\left( {3\\pi t + {\\pi  \\over 3}} \\right)$$ $$\\Rightarrow$$ Amplitude = 10<br><br>$${y_2} = 5(\\sin 3\\pi t + \\sqrt 3 \\cos 3\\pi t)$$<br><br>$${y_2} = 10\\left( {{1 \\over 2}\\sin 3\\pi t + {{\\sqrt 3 } \\over 2}\\cos 3\\pi t} \\right)$$<br><br>$${y_2} = 10\\left( {\\cos {\\pi  \\over 3}\\sin 3\\pi t + \\sin {\\pi  \\over 3}\\cos 3\\pi t} \\right)$$<br><br>$${y_2} = 10\\left( {3\\pi t + {\\pi  \\over 3}} \\right)$$ $$\\Rightarrow$$ Amplitude = 10<br><br>So ratio of amplitudes = $${{10} \\over {10}}$$ = 1"
+    },
+    {
+      "_type": "numerical",
+      "body": "Two simple harmonic motions are represented by the equations<br><br> $${x_1} = 5\\sin \\left( {2\\pi t + {\\pi  \\over 4}} \\right)$$ and $${x_2} = 5\\sqrt 2 (\\sin 2\\pi t + \\cos 2\\pi t)$$. The amplitude of second motion is ................ times the amplitude in first motion.",
+      "answer": "2",
+      "explanation": "$${x_2} = 5\\sqrt 2 \\left( {{1 \\over {\\sqrt 2 }}\\sin 2\\pi t + {1 \\over {\\sqrt 2 }}\\cos 2\\pi t} \\right)\\sqrt 2 $$<br><br>$$ = 10\\sin \\left( {2\\pi t + {\\pi  \\over 4}} \\right)$$<br><br>$$\\therefore$$ $${{{A_2}} \\over {{A_1}}} = {{10} \\over 5} = 2$$"
+    },
+    {
+      "_type": "numerical",
+      "body": "A particle executes simple harmonic motion represented by displacement function as <br><br>x(t) = A sin($$\\omega$$t + $$\\phi$$)<br><br>If the position and velocity of the particle at t = 0 s are 2 cm and 2$$\\omega$$ cm s<sup>$$-$$1</sup> respectively, then its amplitude is $$x\\sqrt 2 $$ cm where the value of x is _________________.",
+      "answer": "2",
+      "explanation": "x(t) = A sin($$\\omega$$t + $$\\phi$$)<br><br>v(t) = A$$\\omega$$ cos ($$\\omega$$t + $$\\phi$$)<br><br>2 = A sin$$\\phi$$ ...... (1)<br><br>2$$\\omega$$ = A$$\\omega$$ cos$$\\phi$$ ....... (2)<br><br>From (1) and (2)<br><br>tan$$\\phi$$ = 1<br><br>$$\\phi$$ = 45$$^\\circ$$<br><br>Putting value of $$\\phi$$ in equation (1),<br><br>$$2 = A\\left\\{ {{1 \\over {\\sqrt 2 }}} \\right\\}$$<br><br>$$A = 2\\sqrt 2 $$<br><br>$$ \\therefore $$ x = 2"
+    },
+    {
+      "_type": "numerical",
+      "body": "A particle performs simple harmonic motion with a period of 2 second. The time taken by the particle to cover a displacement equal to half of its amplitude from the mean position is $${1 \\over a}$$s. The value of 'a' to the nearest integer is _________.",
+      "answer": "6",
+      "explanation": "Time period (T) = 2 sec.<br><br>X = A sin ($$\\omega$$t + $$\\phi$$) ($$\\phi$$ = 0 at M.P.)<br><br>$$ \\Rightarrow $$ $${A \\over 2} = A\\sin {{2\\pi } \\over T}t$$<br><br>$$ \\Rightarrow $$  $${{2\\pi } \\over 2}t = {\\pi  \\over 6}$$<br><br>$$ \\Rightarrow $$  $$t = {1 \\over 6}$$<br><br>$$ \\therefore $$ a = 6"
+    },
+    {
+      "_type": "numerical",
+      "body": "A particle executes S.H.M. with amplitude 'a', and time period 'T'. The displacement of the particle when its speed is half of maximum speed is $${{\\sqrt x a} \\over 2}$$. The value of x is __________.",
+      "answer": "3",
+      "explanation": "For a particle executes S.H.M.<br><br>$$V = \\omega \\sqrt {{a^2} - {x^2}} $$<br><br>Given, $$V = {{{V_{\\max }}} \\over 2} = {{A\\omega } \\over 2}$$<br><br>$${{{A^2}{\\omega ^2}} \\over 4} = {\\omega ^2}{a^2} - {\\omega ^2}{x^2}$$<br><br>$$x = {{\\sqrt 3 } \\over 2}a$$"
+    }
+  ]
+}

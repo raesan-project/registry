@@ -1,0 +1,169 @@
+{
+  "_index": {
+    "name": "Chemical Kinetics and Nuclear Chemistry"
+  },
+  "_children": [
+    {
+      "_type": "numerical",
+      "body": "<p>A sample initially contains only U-238 isotope of uranium. With time, some of the U-238 radioactively decays into $\\mathrm{Pb}-206$ while the rest of it remains undisintegrated.</p>\n\n<p>When the age of the sample is $\\mathbf{P} \\times 10^8$ years, the ratio of mass of $\\mathrm{Pb}-206$ to that of $\\mathrm{U}-238$ in the sample is found to be 7. The value of $\\mathbf{P}$ is _______.</p>\n\n<p>[Given: Half-life of $\\mathrm{U}-238$ is $4.5 \\times 10^9$ years; $\\log _e 2=0.693$ ]</p>",
+      "answer": "143",
+      "explanation": "<ol>\n\n<li><strong>Given Data:</strong></li>\n\n</ol>\n\n<br/><ul>\n\n<li>Ratio of mass of $ \\mathrm{Pb}^{206} $ to $ \\mathrm{U}^{238} $ = $ \\frac{7}{1} $</li><br>\n\n<li>Mass of $ \\mathrm{Pb}^{206} $ = 7 g</li><br>\n\n<li>Mass of $ \\mathrm{U}^{238} $ = 1 g</li><br>\n\n<li>Half-life of $ \\mathrm{U}^{238} $ = $ 4.5 \\times 10^9 $ years</li><br>\n\n<li>$ \\log_e 2 = 0.693 $</li>\n\n</ul>\n\n<br/><ol>\n\n<li><strong>Calculate Moles:</strong></li>\n\n</ol>\n\n<br/><ul>\n\n<li>Moles of $ \\mathrm{Pb}^{206} $:</li>\n\n</ul>\n\n<p>$      \\text{Moles of } \\mathrm{Pb}^{206} = \\frac{7}{206} = 34 \\times 10^{-3} \\text{ moles}      $</p>\n\n<ul>\n\n<li>Moles of $ \\mathrm{U}^{238} $:</li>\n\n</ul>\n\n<p>$      \\text{Moles of } \\mathrm{U}^{238} = \\frac{1}{238} = 4.2 \\times 10^{-3} \\text{ moles}      $</p>\n\n<ol>\n\n<li><strong>Initial Moles of $ \\mathrm{U}^{238} $ ( $ N_0 $ ):</strong></li>\n\n</ol>\n\n<p>$    N_0 = \\text{Moles of } \\mathrm{U}^{238} \\text{ initially} = \\text{Moles of } \\mathrm{Pb}^{206} + \\text{Moles of remaining } \\mathrm{U}^{238}    $</p>\n\n<p>$    N_0 = 34 \\times 10^{-3} + 4.2 \\times 10^{-3} = 38.2 \\times 10^{-3} \\text{ moles}    $</p>\n\n<ol>\n\n<li><strong>Calculate the Time:</strong></li>\n\n</ol>\n\n<br/><ul>\n\n<li>Using the decay formula:</li>\n\n</ul>\n\n<p>$      \\lambda t = \\ln \\frac{N_0}{N_t}      $</p>\n\n<ul>\n\n<li>Where $ \\lambda $ (decay constant):</li>\n\n</ul>\n\n<p>$      \\lambda = \\frac{\\ln 2}{t_{1/2}} = \\frac{0.693}{4.5 \\times 10^9 \\text{ years}}      $</p>\n\n<ul>\n\n<li>Calculate $ \\ln \\frac{N_0}{N_t} $:</li>\n\n</ul>\n\n<p>$      \\ln \\frac{N_0}{N_t} = \\ln \\frac{38.2}{4.2} = \\ln 9.09      $</p>\n\n<ul>\n\n<li>Simplify $ \\ln 9.09 $:</li>\n\n</ul>\n\n<p>$      \\ln 9.09 \\approx 2.21      $</p>\n\n<ol>\n\n<li><strong>Plug in the Values:</strong></li>\n\n</ol>\n\n<p>$    t = \\frac{4.5 \\times 10^9 \\text{ years}}{0.693} \\times \\ln 9.09    $</p>\n\n<p>$    t = 4.5 \\times 10^9 \\text{ years} \\times \\frac{2.21}{0.693}    $</p>\n\n<p>$    t \\approx 4.5 \\times 10^9 \\times 3.184 \\approx 14.33 \\times 10^9 \\text{ years}    $</p>\n\n<ol>\n\n<li><strong>Convert to $ P \\times 10^8 $:</strong></li>\n\n</ol>\n\n<p>$    t = P \\times 10^8 \\text{ years}    $</p>\n\n<p>$    P \\times 10^8 = 14.33 \\times 10^9    $</p>\n\n<p>$    P = 143.28    $</p>\n\n<p>Thus, the value of $ P $ is $ \\boxed{143.28} $.</p>"
+    },
+    {
+      "_type": "numerical",
+      "body": "<p>Consider the following reaction,</p>\n\n<p>$$ 2 \\mathrm{H}_2(\\mathrm{~g})+2 \\mathrm{NO}(\\mathrm{g}) \\rightarrow \\mathrm{N}_2(\\mathrm{~g})+2 \\mathrm{H}_2 \\mathrm{O}(\\mathrm{g}) $$</p>\n\n<p>which follows the mechanism given below :</p>\n\n<p>$$ \\begin{array}{ll} 2 \\mathrm{NO}(\\mathrm{g}) \\stackrel{k_1}{\\underset{k_{-1}}{\\rightleftharpoons}} \\mathrm{N}_2 \\mathrm{O}_2(\\mathrm{~g}) & \\text { (fast equlibrium) } \\\\\\\\ \\mathrm{N}_2 \\mathrm{O}_2(\\mathrm{~g})+\\mathrm{H}_2(\\mathrm{~g}) \\xrightarrow{k_2} \\mathrm{~N}_2 \\mathrm{O}(\\mathrm{g})+\\mathrm{H}_2 \\mathrm{O}(\\mathrm{g}) & \\text { (slow reaction) } \\\\\\\\ \\mathrm{N}_2 \\mathrm{O}(\\mathrm{g})+\\mathrm{H}_2(\\mathrm{~g}) \\xrightarrow{k_3} \\mathrm{~N}_2(\\mathrm{~g})+\\mathrm{H}_2 \\mathrm{O}(\\mathrm{g}) & \\text { (fast reaction) } \\end{array} $$</p>\n\n<p>The order of the reaction is __________.</p>",
+      "answer": "3",
+      "explanation": "<p>The given reaction is:</p>\n\n<p>$$2 \\mathrm{H}_2(\\mathrm{~g}) + 2 \\mathrm{NO}(\\mathrm{g}) \\rightarrow \\mathrm{N}_2(\\mathrm{~g}) + 2 \\mathrm{H}_2 \\mathrm{O}(\\mathrm{g})$$</p>\n\n<p>And it follows the mechanism below:</p>\n\n<p>$$ \\begin{array}{ll} \n2 \\mathrm{NO}(\\mathrm{g}) \\stackrel{k_1}{\\underset{k_{-1}}{\\rightleftharpoons}} \\mathrm{N}_2 \\mathrm{O}_2(\\mathrm{~g}) & \\text { (fast equilibrum) } \\\\\\\\ \n\\mathrm{N}_2 \\mathrm{O}_2(\\mathrm{~g}) + \\mathrm{H}_2(\\mathrm{~g}) \\xrightarrow{k_2} \\mathrm{~N}_2 \\mathrm{O}(\\mathrm{g}) + \\mathrm{H}_2 \\mathrm{O}(\\mathrm{g}) & \\text { (slow reaction) } \\\\\\\\ \n\\mathrm{N}_2 \\mathrm{O}(\\mathrm{g}) + \\mathrm{H}_2(\\mathrm{~g}) \\xrightarrow{k_3} \\mathrm{~N}_2(\\mathrm{~g}) + \\mathrm{H}_2 \\mathrm{O}(\\mathrm{g}) & \\text { (fast reaction) } \n\\end{array} $$</p>\n\n<p>To determine the order of the reaction, we need to focus on the slow step, as it is the rate-determining step. The slow step is:</p>\n\n<p>$$ \\mathrm{N}_2 \\mathrm{O}_2(\\mathrm{~g}) + \\mathrm{H}_2(\\mathrm{~g}) \\xrightarrow{k_2} \\mathrm{~N}_2 \\mathrm{O}(\\mathrm{g}) + \\mathrm{H}_2 \\mathrm{O}(\\mathrm{g}) $$</p>\n\n<p>The rate law for this step can be written as:</p>\n\n<p>$$ \\text{Rate} = k_2 [\\mathrm{N}_2\\mathrm{O}_2][\\mathrm{H}_2] $$</p>\n\n<p>However, $$[\\mathrm{N}_2 \\mathrm{O}_2]$$ is an intermediate and its concentration can be expressed in terms of the reactants. From the fast equilibrium step:</p>\n\n<p>$$ 2 \\mathrm{NO}(\\mathrm{g}) \\stackrel{k_1}{\\underset{k_{-1}}{\\rightleftharpoons}} \\mathrm{N}_2 \\mathrm{O}_2(\\mathrm{~g}) $$</p>\n\n<p>The equilibrium constant for this step can be written as:</p>\n\n<p>$\\frac{\\mathrm{k}_1}{\\mathrm{k}_{-1}}$ = $$ K = \\frac{[\\mathrm{N}_2 \\mathrm{O}_2]}{[\\mathrm{NO}]^2} $$</p>\n\n<p>Hence, the concentration of the intermediate $$\\mathrm{N}_2 \\mathrm{O}_2$$ can be expressed as:</p>\n\n<p>$$ [\\mathrm{N}_2 \\mathrm{O}_2] = K[\\mathrm{NO}]^2 $$</p>\n\n<p>Substituting this into the rate law for the slow step gives:</p>\n\n<p>$$ \\text{Rate} = k_2 K [\\mathrm{NO}]^2[\\mathrm{H}_2] $$</p>\n\n<p>Let's combine $$k_2$$ and $$K$$ into a single constant, say $$k'$$:</p>\n\n<p>$$ \\text{Rate} = k' [\\mathrm{NO}]^2[\\mathrm{H}_2] $$</p>\n\n<p>This implies that the reaction is second-order in $$\\mathrm{NO}$$ and first-order in $$\\mathrm{H}_2$$. Therefore, the overall order of the reaction is:</p>\n\n<p>$$ 2 + 1 = 3 $$</p>\n\n<p>Thus, the order of the reaction is 3.</p>"
+    },
+    {
+      "_type": "numerical",
+      "body": "$$_{92}^{238}U$$ is known to undergo radioactive decay to form $$_{82}^{206}Pb$$ by emitting alpha and beta particles. A rock initially contained 68 $$ \\times $$ 10<sup>$$-$$6</sup> g of $$_{92}^{238}U$$. If the number of alpha particles that it would emit during its radioactive decay of $$_{92}^{238}U$$ to $$_{82}^{206}Pb$$ in three half-lives is Z $$ \\times $$ 10<sup>18</sup>, then what is the value of Z?",
+      "answer": "1.2",
+      "explanation": "$$_{92}^{238}U\\buildrel {} \\over\n \\longrightarrow _{82}^{206}Pb + 8_2^4He + 6_{ - 1}^0\\beta $$<br><br>Number of moles of $$_{92}^{238}U$$ present initially<br><br>= $${{68 \\times {{10}^{ - 6}}} \\over {238}}$$<br><br>After three half-lifes, moles of $$_{92}^{238}U$$ decayed<br><br>$$ = {{68 \\times {{10}^{ - 6}}} \\over {238}} \\times \\left( {1 - {1 \\over {{2^3}}}} \\right)$$<br><br>$$ = {{68 \\times {{10}^{ - 6}}} \\over {238}} \\times {7 \\over 8}$$<br><br>Therefore, number of $$\\alpha $$-particles emitted<br><br>$$ = {{68 \\times {{10}^{ - 6}}} \\over {238}} \\times {7 \\over 8} \\times 8 \\times 6.023 \\times {10^{23}}$$<br><br>$$ = 1.204 \\times {10^{18}}$$<br><br>$$ \\approx 1.2 \\times {10^{18}}$$<br><br>Thus, the correct answer is 1.2."
+    },
+    {
+      "_type": "numerical",
+      "body": "The decomposition reaction<br><br>$$2{N_2}{O_5}(g)\\buildrel \\Delta  \\over\n \\longrightarrow 2{N_2}{O_4}(g) + {O_2}(g)$$<br/><br/> is started in a closed cylinder under isothermal isochoric condition at an initial pressure of 1 atm. After Y $$ \\times $$ 10<sup>3</sup> s, the pressure inside the cylinder is found to be 1.45 atm. If the rate constant of the reaction is 5 $$ \\times $$ 10<sup>-4</sup>s<sup>-1</sup>, assuming ideal gas behaviour, the value of Y is ...............",
+      "answer": "2.3",
+      "explanation": "At constant V, T<br><br>At initial t = 0 and final t = y $$ \\times $$ 10<sup>3</sup> sec<br><br>$$\\matrix{\n   {2{N_2}{O_5}(g)\\buildrel \\Delta  \\over\n \\longrightarrow } &amp; {2{N_2}{O_4}(g) + } &amp; {{O_2}(g)}  \\cr \n   1 &amp; 0 &amp; 0  \\cr \n   {1 - 2p} &amp; {2p} &amp; p  \\cr \n\n } $$<br><br>p<sub>Total</sub> = 1 $$-$$ 2p + 2p + p<br><br>1.4 = 1 + p<br><br>p = 0.45 atm<br><br>According to first order reaction,<br><br>$$k = {{2.303} \\over t}\\log {{{p_i}} \\over {{p_i} - 2p}}$$<br><br>p<sub>i</sub> = 1 atm (given)<br><br>2p = 2 $$ \\times $$ 0.45 = 0.9 atm<br><br>On substituting the values in above equation,<br><br>$$2k.t = 2.303\\log {1 \\over {1 - 0.9}}$$<br><br>$$2 \\times 5 \\times {10^{ - 4}} \\times y \\times {10^3} = 2.303\\log {1 \\over {0.1}}$$<br><br>$$y = 2.303 = 2.3$$<br><br><b>Note :</b> Unit of rate constant (k), i.e. s<sup>$$-$$1</sup> represents that it is a first order reaction."
+    },
+    {
+      "_type": "numerical",
+      "body": "Consider the following reversible reaction, $$A\\left( g \\right) + B\\left( g \\right) \\to AB\\left( g \\right).$$ \n<br><br>The activation energy of the backward reaction exceeds that of the forward reaction by $$2RT$$  (in $$J\\,mo{l^{ - 1}}$$). If the pre-exponential factor of the forward reaction is $$4$$ times that of the reverse reaction, the absolute value of $$\\Delta {G^ \\circ }$$ (in $$J\\,mo{l^{ - 1}}$$ ) for the reaction at $$300$$ $$K$$ is ____________. \n<br><br>(Given; $$\\ln \\left( 2 \\right) = 0.7,RT = 2500$$ $$J\\,mo{l^{ - 1}}$$ at $$300$$ $$K$$ and $$G$$ is the Gibbs energy)",
+      "answer": "8500",
+      "explanation": "At $300 \\mathrm{~K}$,<br/><br/>\nFor the reversible reaction,<br/><br/>\n$$\n\\mathrm{A}(g)+\\mathrm{B}(g) \\rightleftharpoons \\mathrm{AB}(g)\n$$<br/><br/>\n(i) Pre-exponential factor for forward reaction $\\left(A_f\\right)=4 \\times$ pre-exponential factor for backward reverse reaction $\\left(A_b\\right)$<br/><br/>\n$$\nA_f=4 \\times A_b\n$$<br/><br/>\n(ii) Activation energy for backward reaction $\\left(E_b\\right)_f-$ Activation energy $=2 \\mathrm{RT}$ for forward reaction $\\left(\\mathrm{E}_a\\right)_{f^{-}}$<br/><br/>\n$$\n\\mathrm{A}_b-\\mathrm{A}_f=2 \\mathrm{RT}\n$$<br/><br/>\n$$\n\\begin{aligned}\n& \\text {(iii) Equilibrium constant }\\left(\\mathrm{K}_{e q}\\right)=\\frac{\\mathrm{K}_f}{\\mathrm{~K}_b} \\\\\\\\\n& \\mathrm{~K}_{e q}=\\frac{\\mathrm{A}_f \\times e^{-\\left(\\mathrm{E}_a\\right)_f} / \\mathrm{RT}}{\\mathrm{A}_b \\times e^{-\\left(\\mathrm{E}_a\\right)_b} / \\mathrm{RT}}\n\\end{aligned}\n$$<br/><br/>\n$$\n\\begin{aligned}\n\\mathrm{K}_{e q} & =\\frac{\\mathrm{A}_f}{\\mathrm{~A}_b} \\times e^{\\left[-\\left(\\mathrm{E}_a\\right)_f-\\left(\\mathrm{E}_a\\right)_b\\right]} / \\mathrm{RT} \\\\\\\\\n\\mathrm{K}_{e q} & =\\frac{4 \\mathrm{~A}_b}{\\mathrm{~A}_b} \\times e^{-[2 \\mathrm{RT} / \\mathrm{RT}]} \\\\\\\\\n\\mathrm{K}_{e q} & =4 \\times e^{-2} \\\\\\\\\n\\ln \\mathrm{K}_{e q} & =\\ln 4+2 \\ln \\\\\\\\\n\\ln \\mathrm{K}_{e q} & =2 \\ln 2+2=2 \\times 0.7+2 \\\\\\\\\n& =(1.4+2)=3.4\n\\end{aligned}\n$$<br/><br/>\nThe expression for the change in Gibbs free energy of reaction $(\\Delta \\mathrm{G})$ is given as:<br/><br/>\n$$\n\\Delta \\mathrm{G}=\\Delta \\mathrm{G}^{\\circ}+\\mathrm{RT} \\ln k\n$$<br/><br/>\nAt equilibrium, $\\Delta \\mathrm{G}=0$<br/><br/>\n$$\n\\Delta \\mathrm{G}^{\\circ}=-\\mathrm{RT} \\ln \\mathrm{K}_{e q}\n$$<br/><br/>\nSubstituting the value of RT and $\\ln \\mathrm{K}_{e q}$<br/><br/>\n$$\n\\begin{aligned}\n\\Delta \\mathrm{G}^{\\circ} & =-2500 \\mathrm{~J} \\mathrm{~mol}^{-1} \\times 3.4 \\\\\\\\\n\\Delta \\mathrm{G}^{\\circ} & =-8500 \\mathrm{~J} \\mathrm{~mol}^{-1}\n\\end{aligned}\n$$<br/><br/>\nThe absolute value of Gibbs free energy $\\left(\\Delta \\mathrm{G}^{\\circ}\\right)$ for the reaction at $300 \\mathrm{~K}$ is $8500 \\mathrm{~J} \\mathrm{~mol}^{-1}$."
+    },
+    {
+      "_type": "numerical",
+      "body": "In dilute aqueous H<sub>2</sub>SO<sub>4</sub>, the complex diaquodioxalatoferrate(II) is oxidized by $$MnO_4^-$$. For this reaction,\nthe ratio of the rate of change of [H<sup>+</sup>] to the rate of change of $$[MnO_4^-]$$ is",
+      "answer": "8",
+      "explanation": "<p>In complex, $$\\mathop {{{[Fe{{({C_2}{O_4})}_2}{{({H_2}O)}_2}]}^{2 - }}}\\limits_{Diaquodioxalatoferrate\\,(II)} $$,</p>\n<p>Fe is in +2 oxidation state.</p>\n<p>In acidic medium, $$KMn{O_4}$$ oxidises $$F{e^{2 + }}$$ to $$F{e^{3 + }}$$,</p>\n<p>$$2MnO_4^ -  + 16{H^ + } + 10F{e^{2 + }} \\to 2M{n^{2 + }} + 8{H_2}O + 10F{e^{3 + }}$$</p>\n<p>or $$MnO_4^ -  + 8{H^ + } + 5F{e^{2 + }} \\to M{n^{2 + }} + 4{H_2}O + 5F{e^{3 + }}$$</p>\n<p>$${{Rate\\,of\\,change\\,of\\,[{H^ + }]} \\over {Rate\\,of\\,change\\,of\\,[MnO_4^ - ]}} = {8 \\over 1} = 8$$</p>"
+    },
+    {
+      "_type": "numerical",
+      "body": "A closed vessel with rigid walls contains 1 mol of $${}_{92}^{238}U$$ and 1 mol of air at 298 K. Considering complete decay of $${}_{92}^{238}U$$ to $${}_{82}^{206}Pb$$, the ratio of the final pressure to the initial pressure of the system at 298 K is",
+      "answer": "9",
+      "explanation": "<p>$${}_{92}{U^{238}} \\to {}_{82}P{b^{206}} + 8\\,{}_2H{e^4}(g) + 6{}_{ - 1}{\\beta ^0}$$</p>\n<p>To calculate pressure, only gaseous products need to be considered.</p>\n<p>Initially, only 1 mol of air is present and finally, after complete decay, 8 moles of $$_2^4He$$ gas are produced and 1 mol of air will also remain in the mixture.</p>\n<p>Ratio of the final pressure to the initial pressure $$ = {{8 + 1} \\over 1} = 9$$</p>"
+    },
+    {
+      "_type": "numerical",
+      "body": "The periodic table consists of 18 groups. An isotope of copper, on bombardment with protons undergoes a nuclear reaction yielding element X as shown below. To which group, element X belongs in the periodic table?<br><br/>\n$${}_{29}^{63}Cu$$ + $${}_1^1H$$ $$\\to$$ $$6{}_0^1n$$ + $${}_2^4\\alpha $$ + 2$${}_1^1H$$ + X",
+      "answer": "8",
+      "explanation": "Considering the reaction (replace $\\alpha$-particle by ${ }_2^4 \\mathrm{He}$ )\n<br/><br/>$$\n{ }_{29}^{63} \\mathrm{Cu}+{ }_1^1 \\mathrm{H} \\rightarrow 6{ }_0^1 n+{ }_2^4 \\mathrm{He}+2{ }_1^1 \\mathrm{H}+\\mathrm{X}\n$$\n<br/><br/>Equating mass numbers on both the sides, we get\n<br/><br/>$$\n63+1=1 \\times 6+4 \\times 1+1 \\times 2 + X$$\n<br/><br/>$$ \\Rightarrow $$ $$X=64-12=52\n$$\n<br/><br/>Equating atomic numbers on both the sides, we get\n<br/><br/>$$\n29+1=6 \\times 0+2+2 \\times 1+\\mathrm{Y} $$\n<br/><br/>$$\\Rightarrow \\mathrm{Y}=30-4=26\n$$\n<br/><br/>So, the element is ${ }_{26}^{52} \\mathrm{Fe}$ and iron is a $d$-block element, which belongs to Group 8 of the periodic table."
+    },
+    {
+      "_type": "numerical",
+      "body": "An organic compound undergoes first-order decomposition. The time taken for its decomposition to 1/8 and 1/10 of its initial concentration are t<sub>1/8</sub> and t<sub>1/10</sub> respectively. What is the value of $$\\left[ {{{{t_{1/8}}} \\over {{t_{1/10}}}}} \\right] \\times 10$$? ($${\\log _{10}}2 = 0.3$$)",
+      "answer": "9",
+      "explanation": "The expression for first-order reaction is\n<br/><br/>$$\nt=\\frac{2.303}{k} \\log \\frac{\\left[\\mathrm{A}_0\\right]}{[\\mathrm{A}]}\n$$\n<br/><br/>When the compound is decomposed to $1 / 8$ th of its initial value then the time taken is\n<br/><br/>$$\nt_{1 / 8}=\\left(\\frac{2.303}{k}\\right) \\log \\frac{1}{(1 / 8)}=\\left(\\frac{2.303}{k}\\right) \\log 8\n$$ .........(1)\n<br/><br/>When the compound is decomposed to $1 / 10$ th of its initial value then the time taken is\n<br/><br/>$$\nt_{1 / 10}=\\left(\\frac{2.303}{k}\\right) \\log \\frac{1}{(1 / 10)}=\\left(\\frac{2.303}{k}\\right) \\log 10\n$$ ........(2)\n<br/><br/>Dividing Eq. (1) by Eq. (2), we get\n<br/><br/>$$\n\\frac{t_{1 / 8}}{t_{1 / 10}}=\\frac{\\log 8}{\\log 10}=\\log \\left(2^3\\right)=3 \\times 0.3=0.9\n$$\n<br/><br/>So, the value of\n<br/><br/>$$\n\\frac{\\left[t_{1 / 8}\\right]}{\\left[t_{1 / 10}\\right]} \\times 10=9\n$$"
+    },
+    {
+      "_type": "numerical",
+      "body": "The concentration of R in the reaction R $$\\to$$ P was measured as a function of time and the following data is obtained\n<div style=\"overflow-x: auto\">\n<style type=\"text/css\">\n.tg  {border-collapse:collapse;border-spacing:0;margin: 0 auto}\n.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}\n.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}\n.tg .tg-s6z2{text-align:center}\n.tg .tg-baqh{text-align:center;vertical-align:top}\n.tg .tg-hgcj{font-weight:bold;text-align:center}\n</style>\n<table class=\"tg\">\n  <tbody><tr>\n    <th class=\"tg-hgcj\">[R] molar</th>\n    <th class=\"tg-s6z2\">1.0</th>\n    <th class=\"tg-baqh\">0.75</th>\n    <th class=\"tg-baqh\">0.40</th>\n    <th class=\"tg-baqh\">0.10</th>\n  </tr>\n  <tr>\n    <td class=\"tg-hgcj\">t (min.)</td>\n    <td class=\"tg-s6z2\">0.0</td>\n    <td class=\"tg-baqh\">0.05</td>\n    <td class=\"tg-baqh\">0.12</td>\n    <td class=\"tg-baqh\">0.18</td>\n  </tr>\n</tbody></table>\n</div>\nThe order of reaction is",
+      "answer": "0",
+      "explanation": ""
+    },
+    {
+      "_type": "numerical",
+      "body": "The number of neutrons emitted when $${}_{92}^{235}U$$ undergoes controlled nuclear fission to $${}_{54}^{142}Xe$$ and $${}_{38}^{90}Sr$$ is",
+      "answer": "3",
+      "explanation": "<p>To determine the number of neutrons emitted during the nuclear fission of $${}_{92}^{235}U$$ resulting in the products $${}_{54}^{142}Xe$$ and $${}_{38}^{90}Sr$$, we need to ensure the conservation of mass number and atomic number.\n\n<p>The mass number (A) and atomic number (Z) have to be conserved. This means that the sum of the mass numbers and atomic numbers of the products (including any neutrons emitted) must equal those of the uranium nucleus undergoing fission.</p></p>\n\n<p>Let's start by writing down the conservation of mass number and atomic number:\n\n<ol>\n<li>Conservation of Mass Number:</li>\n</ol>\n<p>$${235 = 142 + 90 + n \\times 1}$$</p>\n\n<p>Here, $$n$$ represents the number of neutrons released. We can now calculate $$n$$:</p>\n\n<p>$$ n = 235 - (142 + 90) = 235 - 232 = 3 $$</p>\n\n<ol>\n<li>Conservation of Atomic Number:</li>\n</ol>\n<p>$${92 = 54 + 38 + 0 \\times n}$$</p>\n\n<p>Neutrons do not contribute to the atomic number as they have no charge.</p>\n\n<p>This calculation shows that three neutrons are needed to satisfy the conservation of mass number. The atomic number conservation also coincides, as neutrons do not alter it. Therefore, the number of neutrons emitted during this fission process is $$3$$.</p></p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "For the elementary reaction <b>M</b> $$\\to$$ <b>N</b>, the rate of disappearance of <b>M</b> increases by a factor of 8 upon\ndoubling the concentration of <b>M</b>. The order of the reaction with respect to <b>M</b> is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "4"
+        },
+        {
+          "key": "B",
+          "value": "3"
+        },
+        {
+          "key": "C",
+          "value": "2"
+        },
+        {
+          "key": "D",
+          "value": "1"
+        }
+      ],
+      "answer": "B",
+      "explanation": "<p>The rate law for an elementary reaction where the concentration of reactant <b>M</b> impacts the rate of the reaction is expressed as:</p>\n\n<p>$$\\text{Rate} = k[M]^n$$</p>\n\n<p>where <i>k</i> is the rate constant, <i>M</i> is the concentration of the reactant, and <i>n</i> is the order of the reaction with respect to <b>M</b>.</p>\n\n<p>In the scenario described, when the concentration of <b>M</b> is doubled, the rate of disappearance of <b>M</b> increases by a factor of 8. Let’s denote the initial concentration of <b>M</b> by <i>[M]</i> and the doubled concentration by <i>2[M]</i>. According to the rate law, the initial rate would be:</p>\n\n<p>$$\\text{Rate}_1 = k[M]^n$$</p>\n\n<p>Upon doubling <b>M</b>:</p>\n\n<p>$$\\text{Rate}_2 = k(2[M])^n = k2^n[M]^n$$</p>\n\n<p>It is given that this rate is 8 times the initial rate:</p>\n\n<p>$$ \\text{Rate}_2 = 8 \\times \\text{Rate}_1 $$\n\n<p>$$ k2^n[M]^n = 8k[M]^n $$</p></p>\n\n<p>Cancelling out the common terms and simplifying the equation, we have:</p>\n\n<p>$$ 2^n = 8 $$</p>\n\n<p>To find <i>n</i>, solve for <i>n</i> in:</p>\n\n<p>$$ 2^n = 2^3 $$</p>\n\n<p>Hence, <i>n</i> = 3, indicating that the order of the reaction with respect to <b>M</b> is 3. The correct option is therefore:</p>\n\n<p>Option B: 3</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>For a first-order reaction A $$\\to$$ P, the temperature (T) dependent rate constant (k) was found to follow the equation $$\\log k =  - (2000){1 \\over T} + 6.0$$. The pre-exponential factor A and activation energy $$E_a$$, respectively, are</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$1.0\\times10^6~\\mathrm{s^{-1}}$$ and 9.2 kJ mol$$^{-1}$$"
+        },
+        {
+          "key": "B",
+          "value": "$$6.0~\\mathrm{s^{-1}}$$ and 16.6 kJ mol$$^{-1}$$"
+        },
+        {
+          "key": "C",
+          "value": "$$1.0\\times10^6~\\mathrm{s^{-1}}$$ and 16.6 kJ mol$$^{-1}$$"
+        },
+        {
+          "key": "D",
+          "value": "$$1.0\\times10^6~\\mathrm{s^{-1}}$$ and 38.3 kJ mol$$^{-1}$$"
+        }
+      ],
+      "answer": "D",
+      "explanation": "<p>Given that $$\\log k = 6 - {{2000} \\over T}$$</p>\n<p>According to Arrhenius equation</p>\n<p>$$k = A{e^{ - {E_a}/RT}}$$</p>\n<p>$$\\log K = \\log A - {E \\over {2.303RT}}$$</p>\n<p>Comparing with the given equation and solving, we get</p>\n<p>$$A = 1.0 \\times {10^6}\\,{s^{ - 1}}$$</p>\n<p>$${E_a} = 38.3$$ kJ/mol</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Under the same reaction conditions, initial concentration of 1.386 mol dm$$^{-3}$$ of a substance becomes half in 40 seconds and 20 seconds through first order and zero order kinetics, respectively. Ratio $$\\left( {{{{k_1}} \\over {{k_0}}}} \\right)$$ of the rate constants for first order ($$k_1$$) and zero order ($$k_0$$) of the reactions is:</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "0.5 mol$$^{-1}$$ dm$$^3$$"
+        },
+        {
+          "key": "B",
+          "value": "1.0 mol dm$$^{-3}$$"
+        },
+        {
+          "key": "C",
+          "value": "1.5 mol dm$$^{-3}$$"
+        },
+        {
+          "key": "D",
+          "value": "2.0 mol$$^{-1}$$ dm$$^3$$"
+        }
+      ],
+      "answer": "A",
+      "explanation": "<p>Rate constant for first order kinetics:</p>\n<p>$${k_1} = {{0.693} \\over {{t_{1/2}}}} = {{0.693} \\over {40\\,{s^{ - 1}}}}$$ ..... (i)</p>\n<p>Rate constant for zero order kinetics:</p>\n<p>$${k_0} = {{{A_0}} \\over {2{t_{1/2}}}} = {{1.386} \\over {2 \\times 20}}$$ mol dm$$^{-3}$$ s$$^{-1}$$ ..... (ii)</p>\n<p>Divide (i) by (ii)</p>\n<p>$${{{k_1}} \\over {{k_0}}} = {{0.693} \\over {40}} \\times {{40} \\over {1.386}} = {{0.693} \\over {1.386}}$$ mol$$^{-1}$$ dm$$^{-3}$$ = 0.5 mol$$^{-1}$$ dm$$^{3}$$</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Consider a reaction aG + bH $$\\to$$ Products. When concentration of both the reactants G and H is doubled, the rate\nincreases by eight times. However, when concentration of G is doubled keeping the concentration of H fixed, the rate is\ndoubled. The overall order of the reaction is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "0"
+        },
+        {
+          "key": "B",
+          "value": "1"
+        },
+        {
+          "key": "C",
+          "value": "2"
+        },
+        {
+          "key": "D",
+          "value": "3"
+        }
+      ],
+      "answer": "D",
+      "explanation": "<p>The rate law expression is</p>\n<p>$$\\mathrm{R}=k[\\mathrm{G}]^{a}[\\mathrm{H}]^{b}\n$$ ...... (i)</p>\n<p>The rate of reaction increases by a factor of 2 on doubling the concentration of '$$\\mathrm{G}$$'.</p>\n<p>The rate law expression becomes</p>\n<p>$$\\mathrm{R}^{\\prime}=2 \\mathrm{R}=k 2^{a}[\\mathrm{G}]^{a}[\\mathrm{H}]^{b}$$ ..... (ii)</p>\n<p>Divided equation (ii) with eqn. (i)</p>\n<p>$$\\begin{aligned}\\frac{\\mathrm{R}^{\\prime}}{\\mathrm{R}} & =\\frac{2 \\mathrm{R}}{\\mathrm{R}}=\\frac{k 2^{a}[\\mathrm{G}]^{a}[\\mathrm{H}]^{b}}{k 2[\\mathrm{G}]^{a}[\\mathrm{H}]^{b}} \\\\2 & =2^{a} \\\\a & =1\\end{aligned}$$</p>\n<p>The rate of reaction increases by a factor of 8 on doubling the concentration of $$\\mathrm{G}$$ and '$$\\mathrm{H}$$'.</p>\n<p>The rate law expression becomes</p>\n<p>Rate $$=\\mathrm{R}^{\\prime \\prime} k 2^{a}[\\mathrm{G}]^{a} 2^{b}[\\mathrm{H}]^{b}$$ ..... (iii)</p>\n<p>Divide equation (iii) with equation (i)</p>\n<p>$$\\begin{aligned}\\frac{8 \\mathrm{R}}{\\mathrm{R}} & =\\frac{k 2^{a}[\\mathrm{G}]^{a} 2^{b}[\\mathrm{H}]^{b}}{k[\\mathrm{G}]^{a}[\\mathrm{H}]^{b}}\\end{aligned}$$</p>\n<p>$$8=2^a2^b$$</p>\n<p>or $$b=2$$</p>\n<p>The overall order of reaction is</p>\n<p>$$a+b=1+2=3$$</p>"
+    }
+  ]
+}

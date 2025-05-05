@@ -1,0 +1,13 @@
+{
+  "_index": {
+    "name": "Aldehydes, Ketones and Carboxylic Acids"
+  },
+  "_children": [
+    {
+      "_type": "numerical",
+      "body": "<p>An organic compound $\\mathbf{P}$ having molecular formula $\\mathrm{C}_6 \\mathrm{H}_6 \\mathrm{O}_3$ gives ferric chloride test and does not have intramolecular hydrogen bond. The compound $\\mathbf{P}$ reacts with 3 equivalents of $\\mathrm{NH}_2 \\mathrm{OH}$ to produce oxime $\\mathbf{Q}$. Treatment of $\\mathbf{P}$ with excess methyl iodide in the presence of $\\mathrm{KOH}$ produces compound $\\mathbf{R}$ as the major product. Reaction of $\\mathbf{R}$ with excess iso-butylmagnesium bromide followed by treatment with $\\mathrm{H}_3 \\mathrm{O}^{+}$gives compound $\\mathbf{S}$ as the major product.</p>\n\n<p>The total number of methyl $\\left(-\\mathrm{CH}_3\\right)$ group(s) in compound $\\mathbf{S}$ is <strong></strong>___.</p>",
+      "answer": "2OR6OR12",
+      "explanation": ""
+    }
+  ]
+}

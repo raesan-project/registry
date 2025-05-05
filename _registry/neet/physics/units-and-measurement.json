@@ -1,0 +1,1135 @@
+{
+  "_index": {
+    "name": "Units & Measurement"
+  },
+  "_children": [
+    {
+      "_type": "single_mcq",
+      "body": "<p>In an electrical circuit, the voltage is measured as $$V=(200 \\pm 4)$$ volt and the current is measured as $$I=(20 \\pm 0.2)$$ A. The value of the resistance is:</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$(10 \\pm 4.2) \\Omega$$\n"
+        },
+        {
+          "key": "B",
+          "value": "$$(10 \\pm 0.3) \\Omega$$\n"
+        },
+        {
+          "key": "C",
+          "value": "$$(10 \\pm 0.1) \\Omega$$\n"
+        },
+        {
+          "key": "D",
+          "value": "$$(10 \\pm 0.8) \\Omega$$\n"
+        }
+      ],
+      "answer": "B",
+      "explanation": "<p>To determine the resistance $$R$$ using Ohm's law, we use the formula:</p>\n\n<p>$$R = \\frac{V}{I}$$</p>\n\n<p>Given:</p>\n\n<p>$$V = (200 \\pm 4)$$ volts </p>\n\n<p>$$I = (20 \\pm 0.2)$$ amperes</p>\n\n<p>First, calculate the nominal value of the resistance:</p>\n\n<p>$$R = \\frac{200}{20} = 10 \\, \\Omega$$</p>\n\n<p>Next, we need to calculate the uncertainty in the resistance. For division, the relative uncertainties add up. The relative uncertainty for voltage is:</p>\n\n<p>$$\\frac{\\Delta V}{V} = \\frac{4}{200} = 0.02$$</p>\n\n<p>and for current:</p>\n\n<p>$$\\frac{\\Delta I}{I} = \\frac{0.2}{20} = 0.01$$</p>\n\n<p>Adding these relative uncertainties gives us the relative uncertainty for the resistance:</p>\n\n<p>$$\\frac{\\Delta R}{R} = \\frac{\\Delta V}{V} + \\frac{\\Delta I}{I} = 0.02 + 0.01 = 0.03$$</p>\n\n<p>Now, we calculate the absolute uncertainty for the resistance:</p>\n\n<p>$$\\Delta R = R \\times 0.03 = 10 \\times 0.03 = 0.3 \\, \\Omega$$</p>\n\n<p>Therefore, the resistance with its uncertainty is:</p>\n\n<p>$$R = 10 \\pm 0.3 \\, \\Omega$$</p>\n\n<p>Thus, the correct answer is:</p>\n\n<p>Option B $$(10 \\pm 0.3) \\Omega$$</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>The pitch of an error free screw gauge is $$1 \\mathrm{~mm}$$ and there are 100 divisions on the circular scale. While measuring the diameter of a thick wire, the pitch scale reads $$1 \\mathrm{~mm}$$ and $$63^{\\text {rd }}$$ division on the circular scale coincides with the reference line. The diameter of the wire is:</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$1.63 \\mathrm{~cm}$$\n"
+        },
+        {
+          "key": "B",
+          "value": "$$0.163 \\mathrm{~cm}$$\n"
+        },
+        {
+          "key": "C",
+          "value": "$$0.163 \\mathrm{~m}$$\n"
+        },
+        {
+          "key": "D",
+          "value": "$$1.63 \\mathrm{~m}$$\n"
+        }
+      ],
+      "answer": "B",
+      "explanation": "<p>To determine the diameter of the wire using the screw gauge, we need to consider both the pitch scale reading and the circular scale reading. The formula to calculate the diameter is:</p>\n\n<p>\n\n<p>$$ D = P + (C \\times L) $$</p>\n\n</p>\n\n<p>Where:</p>\n\n<ul>\n\n<li>$$D$$ is the diameter of the wire.</li>\n\n<li>$$P$$ is the pitch scale reading.</li>\n\n<li>$$C$$ is the circular scale reading.</li>\n\n<li>$$L$$ is the least count of the screw gauge.</li>\n\n</ul>\n\n<p>Given:</p>\n\n<ul>\n\n<li>Pitch of the screw gauge, $$P = 1 \\mathrm{~mm}$$</li>\n\n<li>Number of divisions on the circular scale = 100</li>\n\n<li>Pitch scale reading, $$P = 1 \\mathrm{~mm}$$</li>\n\n<li>The circular scale reads $$63^{\\text{rd}}$$ division.</li>\n\n</ul>\n\n<p>First, we calculate the least count of the screw gauge:</p>\n\n<p>\n\n<p>$$ L = \\frac{ \\text{Pitch} }{ \\text{Number of divisions} } = \\frac{ 1 \\mathrm{~mm} }{ 100 } = 0.01 \\mathrm{~mm} $$</p>\n\n</p>\n\n<p>Next, we substitute the values into the formula for the diameter:</p>\n\n<p>\n\n<p>$$ D = 1 \\mathrm{~mm} + (63 \\times 0.01 \\mathrm{~mm}) $$</p>\n\n</p>\n\n<p>Calculate the product:</p>\n\n<p>\n\n<p>$$ 63 \\times 0.01 \\mathrm{~mm} = 0.63 \\mathrm{~mm} $$</p>\n\n</p>\n\n<p>Now, add the pitch scale reading and the circular scale reading:</p>\n\n<p>\n\n<p>$$ D = 1 \\mathrm{~mm} + 0.63 \\mathrm{~mm} = 1.63 \\mathrm{~mm} $$</p>\n\n</p>\n\n<p>Convert $$1.63 \\mathrm{~mm}$$ to centimeters:</p>\n\n<p>\n\n<p>$$ 1.63 \\mathrm{~mm} = 0.163 \\mathrm{~cm} $$</p>\n\n</p>\n\n<p>Therefore, the diameter of the wire is:</p>\n\n<p>Option B: $$0.163 \\mathrm{~cm}$$</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>The potential energy of a particle moving along $$x$$-direction varies as $$V=\\frac{A x^2}{\\sqrt{x}+B}$$. The dimensions of $$\\frac{A^2}{B}$$ are:</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$\\left[\\mathrm{M}^{3 / 2} \\mathrm{~L}^{1 / 2} \\mathrm{~T}^{-3}\\right]$$\n"
+        },
+        {
+          "key": "B",
+          "value": "$$\\left[\\mathrm{M}^{1 / 2} \\mathrm{LT}^{-3}\\right]$$\n"
+        },
+        {
+          "key": "C",
+          "value": "$$\\left[M^2 L^{1 / 2} T^{-4}\\right]$$\n"
+        },
+        {
+          "key": "D",
+          "value": "$$\\left[\\mathrm{ML}^2 \\mathrm{~T}^{-4}\\right]$$"
+        }
+      ],
+      "answer": "C",
+      "explanation": "<p>To determine the dimensions of $$\\frac{A^2}{B}$$, we start with the given potential energy expression:</p>\n\n<p>$$V = \\frac{A x^2}{\\sqrt{x} + B}$$</p>\n\n<p>The dimensions of potential energy ($$V$$) are $$[ML^2T^{-2}]$$. So, we need to consider the dimensions of the other terms in the expression to match these dimensions. Let's break it down step-by-step.</p>\n\n<p>For the term $$\\sqrt{x}$$, where $$x$$ represents distance:</p>\n\n<p>$$\\sqrt{x}$$ has dimensions $$[L^{1/2}]$$</p>\n\n<p>Since both terms in the denominator $$\\sqrt{x} + B$$ have to be of the same dimensions for them to be added together, the dimensions of $$B$$ must also be $$[L^{1/2}]$$.</p>\n\n<p>Now the expression becomes:</p>\n\n<p>$$V = \\frac{A x^2}{L^{1/2}}$$</p>\n\n<p>Thus, the dimensions must be:</p>\n\n<p>$$[V] = \\left[\\frac{A x^2}{L^{1/2}}\\right]$$</p>\n\n<p>Substitute the dimensions of $$V$$, $$x$$, and $$L$$:</p>\n\n<p>$$[ML^2T^{-2}] = \\left[\\frac{A L^2}{L^{1/2}}\\right]$$</p>\n\n<p>Simplifying the right-hand side:</p>\n\n<p>$$[ML^2T^{-2}] = [A L^{3/2}]$$</p>\n\n<p>Therefore, the dimensions of $$A$$ must be:</p>\n\n<p>$$[A] = [ML^2T^{-2}] \\cdot [L^{-3/2}]$$</p>\n\n<p>$$[A] = [ML^{1/2} T^{-2}]$$</p>\n\n<p>We have dimensions of $$A$$ and $$B$$. Now we need to find the dimensions of $$\\frac{A^2}{B}$$:</p>\n\n<p>$$[A^2] = [ML^{1/2} T^{-2}]^2$$</p>\n\n<p>$$[A^2] = [M^2 L T^{-4}]$$</p>\n\n<p>Divide by the dimensions of $$B$$:</p>\n\n<p>$$\\left[\\frac{A^2}{B}\\right] = \\left[\\frac{M^2 L T^{-4}}{L^{1/2}}\\right]$$</p>\n\n<p>$$\\left[\\frac{A^2}{B}\\right] = [M^2 L^{1/2} T^{-4}]$$</p>\n\n<p>Thus, the dimensions of $$\\frac{A^2}{B}$$ are:</p>\n\n<p>Option C: $$\\left[M^2 L^{1/2} T^{-4}\\right]$$</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>In a vernier callipers, $$(N+1)$$ divisions of vernier scale coincide with $$N$$ divisions of main scale. If $$1 \\mathrm{~MSD}$$ represents $$0.1 \\mathrm{~mm}$$, the vernier constant (in $$\\mathrm{cm}$$) is:</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$\\frac{1}{10 \\mathrm{~N}}$$\n"
+        },
+        {
+          "key": "B",
+          "value": "$$\\frac{1}{100(N+1)}$$\n"
+        },
+        {
+          "key": "C",
+          "value": "$$00 \\mathrm{~N}$$\n"
+        },
+        {
+          "key": "D",
+          "value": "$$10(N+1)$$\n"
+        }
+      ],
+      "answer": "B",
+      "explanation": "<p>V.C = MSD $$-$$ VSD ..... (1)</p>\n<p>given : $$(N+1) \\mathrm{VSD}=N$$ MSD</p>\n<p>$$\\mathrm{VSD}=\\left(\\frac{N}{N+1}\\right) \\mathrm{MSD}$$ ..... (2)</p>\n<p>From (1) and (2)</p>\n<p>$$\\begin{aligned}\n& V . C=(M S D)-\\frac{N}{N+1}(M S D) \\\\\n& =M S D\\left(1-\\frac{N}{N+1}\\right)=\\frac{M S D}{N+1} \\\\\n& =\\frac{0.01}{N+1}=\\frac{1}{100(N+1)}\n\\end{aligned}$$</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>The quantities which have the same dimensions as those of solid angle are:</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "strain and angle\n"
+        },
+        {
+          "key": "B",
+          "value": "stress and angle\n"
+        },
+        {
+          "key": "C",
+          "value": "strain and arc\n"
+        },
+        {
+          "key": "D",
+          "value": "angular speed and stress"
+        }
+      ],
+      "answer": "A",
+      "explanation": "<p>Solid angle $$d \\Omega=\\frac{d A}{r^2}$$ has dimensions $$[\\mathrm{M}^0 \\mathrm{~L}^0 \\mathrm{~T}^0]$$</p>\n<p>Strain $$=\\frac{\\Delta l}{l}$$ has dimensions $$[\\mathrm{M}^0 \\mathrm{~L}^0 \\mathrm{~T}^0]$$</p>\n<p>Angle measured in radians is also dimensionless $$[\\mathrm{M}^0 \\mathrm{~L}^0 \\mathrm{~T}^0]$$</p>\n<p>$$\\theta=\\frac{I}{r}$$</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>A force defined by $$F=\\alpha t^2+\\beta t$$ acts on a particle at a given time $$t$$. The factor which is dimensionless, if $$\\alpha$$ and $$\\beta$$ are constants, is:</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$\\beta t / \\alpha$$\n"
+        },
+        {
+          "key": "B",
+          "value": "$$\\alpha t / \\beta$$\n"
+        },
+        {
+          "key": "C",
+          "value": "$$\\alpha \\beta t$$\n"
+        },
+        {
+          "key": "D",
+          "value": "$$\\alpha \\beta / t$$"
+        }
+      ],
+      "answer": "B",
+      "explanation": "<p>The force acting on a particle at a given time $ t $ is defined as $ F = \\alpha t^2 + \\beta t $, where $ \\alpha $ and $ \\beta $ are constants. We need to determine which factor is dimensionless if $ \\alpha $ and $ \\beta $ are constants.</p>\n\n<p>Using the principle of homogeneity of dimensions:</p>\n\n<p>\n\n<p>$ \\begin{aligned}     & [F] = [\\alpha t^2] = [\\beta t] \\\\     & [\\alpha] = \\frac{[F]}{[t^2]} \\quad \\text{and} \\quad [\\beta] = \\frac{[F]}{[t]} \\\\     & \\therefore \\quad [\\alpha][t] = [\\beta] \\\\     & \\therefore \\quad \\frac{\\alpha t}{\\beta} = \\text{dimensionless} \\end{aligned} $</p>\n\n</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>The diameter of a spherical bob, when measured with vernier callipers yielded the following values : $$3.33 \\mathrm{~cm}, 3.32 \\mathrm{~cm}, 3.34 \\mathrm{~cm}, 3.33 \\mathrm{~cm}$$ and $$3.32 \\mathrm{~cm}$$. The mean diameter to appropriate significant figures is :</p>\n\n\n\n\n",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$3.328 \\mathrm{~cm}$$"
+        },
+        {
+          "key": "B",
+          "value": "$$3.3 \\mathrm{~cm}$$"
+        },
+        {
+          "key": "C",
+          "value": "$$3.33 \\mathrm{~cm}$$"
+        },
+        {
+          "key": "D",
+          "value": "$$3.32 \\mathrm{~cm}$$"
+        }
+      ],
+      "answer": "C",
+      "explanation": "<p>$$\\text { } \\begin{aligned}\n\\text { Mean diameter } & =\\frac{\\mathrm{d}_1+\\mathrm{d}_2+\\mathrm{d}_3+\\mathrm{d}_4+\\mathrm{d}_5}{5} \\\\\n& =\\frac{3.33+3.32+3.34+3.33+3.32}{5} \\\\\n& =3.328 \\approx 3.33\n\\end{aligned}$$</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>The mechanical quantity, which has dimensions of reciprocal of mass $$(\\mathrm{M}^{-1})$$ is :\n\n\n\n",
+      "options": [
+        {
+          "key": "A",
+          "value": "angular momentum"
+        },
+        {
+          "key": "B",
+          "value": " coefficient of thermal conductivity"
+        },
+        {
+          "key": "C",
+          "value": "torque"
+        },
+        {
+          "key": "D",
+          "value": "gravitational constant"
+        }
+      ],
+      "answer": "D",
+      "explanation": "<p>Angular momentum $$=\\left[\\mathrm{ML}^2 \\mathrm{~T}^{-1}\\right]$$</p>\n<p>Coeff of thermal conductivity $$=\\left[\\mathrm{MLT}^{-3} \\mathrm{~K}^{-1}\\right]$$</p>\n<p>Torque $$=\\left[\\mathrm{ML}^2 \\mathrm{~T}^{-2}\\right]$$</p>\n<p>Gravitational constant $$=\\left[\\mathrm{M}^{-1} \\mathrm{~L}^3 \\mathrm{~T}^{-2}\\right]$$</p>\n<p>So, gravitational constant has power of $$(-1)$$ of $$\\mathrm{M}$$.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>The errors in the measurement which arise due to unpredictable fluctuations in temperature and voltage supply are :</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "Personal errors"
+        },
+        {
+          "key": "B",
+          "value": "Least count errors"
+        },
+        {
+          "key": "C",
+          "value": "Random errors"
+        },
+        {
+          "key": "D",
+          "value": "Instrumental errors"
+        }
+      ],
+      "answer": "C",
+      "explanation": "<p>Error arise due to unpredictable fluctuation in temperature and voltage supply are $$\\rightarrow$$ random errors.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>A metal wire has mass $$(0.4 \\pm 0.002) ~\\mathrm{g}$$, radius $$(0.3 \\pm 0.001) ~\\mathrm{mm}$$ and length $$(5 \\pm 0.02) ~\\mathrm{cm}$$. The maximum possible percentage error in the measurement of density will nearly be :</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "1.3%"
+        },
+        {
+          "key": "B",
+          "value": "1.6%"
+        },
+        {
+          "key": "C",
+          "value": "1.4%"
+        },
+        {
+          "key": "D",
+          "value": "1.2%"
+        }
+      ],
+      "answer": "B",
+      "explanation": "<p>$$\\rho=\\frac{M}{V}$$</p>\n<p>$$\\rho=\\frac{M}{\\pi r^{2} \\ell}$$</p>\n<p>$$\\frac{\\Delta \\rho}{\\rho}=\\frac{\\Delta \\mathrm{M}}{\\mathrm{M}}+\\frac{2 \\Delta \\mathrm{r}}{\\mathrm{r}}+\\frac{\\Delta \\ell}{\\ell}$$</p>\n<p>$$\\frac{\\Delta \\rho}{\\rho} \\%=\\left[\\frac{0.002}{0.4}+\\frac{2(0.001)}{(0.3)}+\\frac{0.02}{5}\\right] \\times 100 \\%$$</p>\n<p>$$=\\frac{1}{2} \\%+\\frac{2}{3} \\%+\\frac{2}{5} \\%$$</p>\n<p>$$=1.6 \\%$$</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>The physical quantity that has the same dimensional formula as pressure is</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "Coefficient of viscosity"
+        },
+        {
+          "key": "B",
+          "value": "Force"
+        },
+        {
+          "key": "C",
+          "value": "Momentum"
+        },
+        {
+          "key": "D",
+          "value": "Young's modulus of elasticity"
+        }
+      ],
+      "answer": "D",
+      "explanation": "<p>Pressure $$[P] = \\left[ {{F \\over A}} \\right] = \\left[ {{{ML{T^{ - 2}}} \\over {{L^2}}}} \\right] = [M{L^{ - 1}}{T^{ - 2}}]$$</p>\n<p>And, dimensions of Young's modulus $$[Y] = \\left[ {{{Stress} \\over {Strain}}} \\right] = [M{L^{ - 1}}{T^{ - 2}}]$$</p>\n<p>[Force] $$ = [ML{T^{ - 2}}]$$</p>\n<p>[Momentum] $$ = [ML{T^{ - 1}}]$$</p>\n<p>[Coefficient of viscosity] $$ = [M{L^{ - 1}}{T^{ - 1}}]$$</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>The percentage error in the measurement of g is : (Given that $$g = {{4{\\pi ^2}L} \\over {{T^2}}}$$, $$L = (10\\, \\pm \\,0.1)$$ cm, $$T = (100\\, \\pm \\,1)$$ s)</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "7%"
+        },
+        {
+          "key": "B",
+          "value": "2%"
+        },
+        {
+          "key": "C",
+          "value": "5%"
+        },
+        {
+          "key": "D",
+          "value": "3%"
+        }
+      ],
+      "answer": "D",
+      "explanation": "<p>Given $$g = {{4{p^2}L} \\over {{T^2}}}$$</p>\n<p>Fractional error in value of g</p>\n<p>$${{\\Delta g} \\over g} = {{\\Delta L} \\over L} + 2{{\\Delta T} \\over T}$$</p>\n<p>$$ \\Rightarrow {{\\Delta g} \\over g} \\times 100 = {{\\Delta L} \\over L} \\times 100 + 2{{\\Delta T} \\over T} \\times 100$$</p>\n<p>$$ \\Rightarrow {{\\Delta g} \\over g} \\times 100 = {{0.1} \\over {10}} \\times 100 + 2 \\times {1 \\over {100}} \\times 100 = 3\\% $$</p>\n<p>Hence, percentage error in measurement of g is 3%</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>The dimensions [MLT<sup>$$-$$2</sup>A<sup>$$-$$2</sup>] belong to the</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "Magnetic flux"
+        },
+        {
+          "key": "B",
+          "value": "Self inductance"
+        },
+        {
+          "key": "C",
+          "value": "Magnetic permeability"
+        },
+        {
+          "key": "D",
+          "value": "Electric permittivity"
+        }
+      ],
+      "answer": "C",
+      "explanation": "<p>Dimensional formula of magnetic permeability is [MLT<sup>$$-$$2</sup>A<sup>$$-$$2</sup>]</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>Plane angle and solid angle have</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "Units but no dimensions"
+        },
+        {
+          "key": "B",
+          "value": "Dimensions but no units"
+        },
+        {
+          "key": "C",
+          "value": "No units and no dimensions"
+        },
+        {
+          "key": "D",
+          "value": "Both units and dimensions"
+        }
+      ],
+      "answer": "A",
+      "explanation": "<p>Plane angle = $${{Arc} \\over {Radius}} = {{[L]} \\over {[L]}}\\buildrel {} \\over\n \\longrightarrow $$ Unit = Radian</p>\n$$ = [{M^0}{L^0}{T^0}]$$</p>\n<p>Solid angle = $${{Area} \\over {{{(Radius)}^2}}}\\buildrel {} \\over\n \\longrightarrow $$ Unit = Steradian</p>\n<p>$$ = {{{L^2}} \\over {{L^2}}} = [{M^0}{L^0}{T^0}]$$</p>\n<p>$$\\therefore$$ Both have units but no dimensions.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>The area of a rectangular field (in m<sup>2</sup>) of length 55.3 m and breadth 25 m after rounding off the value for correct significant digits is</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "138 $$\\times$$ 10<sup>1</sup>"
+        },
+        {
+          "key": "B",
+          "value": "1382"
+        },
+        {
+          "key": "C",
+          "value": "1382.5"
+        },
+        {
+          "key": "D",
+          "value": "14 $$\\times$$ 10<sup>2</sup>"
+        }
+      ],
+      "answer": "D",
+      "explanation": "<p>Area = Length $$\\times$$ Breadth</p>\n<p>= 55.3 $$\\times$$ 25 m<sup>2</sup></p>\n<p>= 1382.5 m<sup>2</sup></p>\n<p>= 14 $$\\times$$ 10<sup>2</sup> m<sup>2</sup> (Rounding off of two significant figures)</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The E and G respectively denote energy and gravitational constant, then $${E \\over G}$$ has the dimensions of :",
+      "options": [
+        {
+          "key": "A",
+          "value": "[M<sup>2</sup>] [L<sup>$$-$$2</sup>] [T<sup>$$-$$1</sup>]"
+        },
+        {
+          "key": "B",
+          "value": "[M<sup>2</sup>] [L<sup>$$-$$1</sup>] [T<sup>0</sup>]"
+        },
+        {
+          "key": "C",
+          "value": "[M] [L<sup>$$-$$1</sup>] [T<sup>$$-$$1</sup>]"
+        },
+        {
+          "key": "D",
+          "value": "[M] [L<sup>0</sup>] [T<sup>0</sup>]"
+        }
+      ],
+      "answer": "B",
+      "explanation": "E = energy = [ML<sup>2</sup>T<sup>$$-$$2</sup>]<br><br>G = Gravitational constant = [M<sup>$$-$$1</sup>L<sup>3</sup>T<sup>$$-$$2</sup>]<br><br>So, $${E \\over G} = {{[E]} \\over {[G]}} = {{M{L^2}{T^{ - 2}}} \\over {{M^{ - 1}}{L^3}{T^{ - 2}}}} = [{M^2}{L^{ - 1}}{T^0}]$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A screw gauge gives the following readings when used to measure the diameter of a wire <br><br>Main scale reading : 0 mm<br><br>Circular scale reading : 52 divisions<br><br>Given that 1 mm on main scale corresponds to 100 divisions on the circular scale. The diameter of the wire from the above data is :",
+      "options": [
+        {
+          "key": "A",
+          "value": "0.052 cm"
+        },
+        {
+          "key": "B",
+          "value": "0.52 cm"
+        },
+        {
+          "key": "C",
+          "value": "0.026 cm"
+        },
+        {
+          "key": "D",
+          "value": "0.26 cm"
+        }
+      ],
+      "answer": "A",
+      "explanation": "L.C. = $${{Pitch} \\over {CSD}}$$<br><br>$$ = {{1mm} \\over {100}}$$ = 0.01 m = 0.001 cm<br><br>Radius = M.S. + CSR(L.C)<br><br>= 0 + 52 (0.001)<br><br>= 0.052 cm"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "If force [F], acceleration [A] and time [T] are chosen as the fundamental physical quantities. Find the dimensions of energy.",
+      "options": [
+        {
+          "key": "A",
+          "value": "[F] [A<sup>$$-$$1</sup>] [T]"
+        },
+        {
+          "key": "B",
+          "value": "[F] [A] [T]"
+        },
+        {
+          "key": "C",
+          "value": "[F] [A] [T<sup>2</sup>]"
+        },
+        {
+          "key": "D",
+          "value": "[F] [A] [T<sup>$$-$$1</sup>]"
+        }
+      ],
+      "answer": "C",
+      "explanation": "E $$\\propto$$ F<sup>a</sup> A<sup>b</sup> T<sup>c</sup><br><br>[M<sup>1</sup>L<sup>2</sup>T<sup>$$-$$2</sup>] $$\\propto$$ [M<sup>1</sup>L<sup>1</sup>T<sup>$$-$$2</sup>]<sup>a</sup> [LT<sup>$$-$$2</sup>]<sup>b</sup> [T]<sup>c</sup>\n<br><br>[ML<sup>2</sup>T<sup>–2</sup>] $$\\propto$$ [M<sup>a</sup> L<sup>a + b</sup> T<sup>–2a – 2b + c</sup>]\n<br><br>a = 1<br><br>a + b = 2 $$\\Rightarrow$$ b = 1<br><br>$$-$$2a $$-$$ 2b + c = $$-$$ 2<br><br>$$\\Rightarrow$$ c = 2<br><br>a = 1, b = 1, c = 2<br><br>E $$\\propto$$ [F] [A] [T<sup>2</sup>]"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A screw gauge has least count of 0.01 mm and there are 50 divisions in its circular scale.<br>The pitch of the screw gauge is :",
+      "options": [
+        {
+          "key": "A",
+          "value": "0.25 mm"
+        },
+        {
+          "key": "B",
+          "value": "0.5 mm"
+        },
+        {
+          "key": "C",
+          "value": "1.0 mm"
+        },
+        {
+          "key": "D",
+          "value": "0.01 mm"
+        }
+      ],
+      "answer": "B",
+      "explanation": "Least count of screw gauge<br><br>= $$\\frac{Pitch}{No\\  of\\  divisions\\  on\\  circular\\  scale}  $$<br><br>0.01 mm = $${{Pitch} \\over {50}}$$<br><br>Pitch = 0.5 mm\n\n\n"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Taking into account of the significant figures, what is the value of $$9.99 m - 0.0099m$$?\n",
+      "options": [
+        {
+          "key": "A",
+          "value": "9.98 m"
+        },
+        {
+          "key": "B",
+          "value": "9.980 m"
+        },
+        {
+          "key": "C",
+          "value": "9.9 m"
+        },
+        {
+          "key": "D",
+          "value": "9.9801 m"
+        }
+      ],
+      "answer": "A",
+      "explanation": "$$9.99 - 0.0099$$ = 9.9801 m<br>Here, 9.98 is having the least number of decimal places of two, so answer should also have only two decimal places. So answer is 9.98 m.\n"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Dimensions of stress are :",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$\\left[ {M{L^{ 2}}{T^{ - 2}}} \\right]$$\n"
+        },
+        {
+          "key": "B",
+          "value": "$$\\left[ {M{L^{ 0}}{T^{ - 2}}} \\right]$$\n"
+        },
+        {
+          "key": "C",
+          "value": "$$\\left[ {M{L^{ - 1}}{T^{ - 2}}} \\right]$$\n"
+        },
+        {
+          "key": "D",
+          "value": "$$\\left[ {M{L^{}}{T^{ - 2}}} \\right]$$\n"
+        }
+      ],
+      "answer": "C",
+      "explanation": "$$Stress = {{Force} \\over {Area}}$$\n<br><br>$$ = \\left[ {{{ML{T^{ - 2}}} \\over {{L^2}}}} \\right] = \\left[ {M{L^{ - 1}}{T^{ - 2}}} \\right]$$\n"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The energy required to break one bond in DNA is 10<sup>-20</sup> J. This value in eV is nearly :",
+      "options": [
+        {
+          "key": "A",
+          "value": "0.6"
+        },
+        {
+          "key": "B",
+          "value": "0.06"
+        },
+        {
+          "key": "C",
+          "value": "0.006"
+        },
+        {
+          "key": "D",
+          "value": "6"
+        }
+      ],
+      "answer": "B",
+      "explanation": "$$1eV = 1.6 \\times {10^{ - 19}}J$$\n<br><br>$$1J = {1 \\over {1.6 \\times {{10}^{ - 19}}}}eV$$\n<br><br>$${10^{ - 20}}J = {{{{10}^{ - 20}}} \\over {1.6 \\times {{10}^{ - 19}}}}eV$$\n<br><br>= 0.06 eV"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "In an experiment, the percentage of error occurred in the measurement of physical quantities A, B, C and D are 1%, 2 %, 3 %and 4 % respectively. Then the maximum percentage of error in the measurement  X, where\n<br>X = $${{{A^2}{B^{1/2}}} \\over {{C^{1/3}}{D^3}}}$$, will be :",
+      "options": [
+        {
+          "key": "A",
+          "value": "16%"
+        },
+        {
+          "key": "B",
+          "value": "-10%"
+        },
+        {
+          "key": "C",
+          "value": "10%"
+        },
+        {
+          "key": "D",
+          "value": "$$\\left( {{3 \\over {13}}} \\right)$$%"
+        }
+      ],
+      "answer": "A",
+      "explanation": "Given,\n<br><br>X = $${{{A^2}{B^{1/2}}} \\over {{C^{1/3}}{D^3}}}$$\n<br><br>$${{\\Delta X} \\over X} = {{2\\Delta A} \\over A} + {1 \\over 2}{{\\Delta B} \\over B} + {1 \\over 3}{{\\Delta C} \\over C} + 3{{\\Delta D} \\over D}$$\n<br><br>$$ \\Rightarrow $$ $${{\\Delta X} \\over X} \\times 100 = 2\\left( {1\\% } \\right) + {1 \\over 2}\\left( {2\\% } \\right) + {1 \\over 3}\\left( {3\\% } \\right) + 3\\left( {4\\% } \\right)$$ = 16 %"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A student measured the diameter of a small\nsteel ball using a screw gauge of least count\n0.001 cm. The main scale reading is 5 mm and\nzero of circular scale division coincides with\n25 divisions above the reference level. If screw\ngauge has a zero error of –0.004 cm, the correct\ndiameter of the ball is",
+      "options": [
+        {
+          "key": "A",
+          "value": "0.521 cm"
+        },
+        {
+          "key": "B",
+          "value": "0.525 cm"
+        },
+        {
+          "key": "C",
+          "value": "0.053 cm"
+        },
+        {
+          "key": "D",
+          "value": "0.529 cm"
+        }
+      ],
+      "answer": "D",
+      "explanation": "Diameter of the ball\n<br><br>= MSR + CSR × (Least count) – Zero error\n<br><br>= 5 mm + 25 × 0.001 cm – (–0.004) cm\n<br><br>= 0.5 cm + 25 × 0.001 cm – (–0.004) cm = 0.529 cm."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A physical quantity of the dimensions of length that can be formed out of c, G and $${{{e^2}} \\over {4\\pi {\\varepsilon _0}}}$$ is [c is velocity of light, G is the universal constant of gravitation and e is charge]",
+      "options": [
+        {
+          "key": "A",
+          "value": "$${c^2}{\\left[ {G - {{{e^2}} \\over {4\\pi {\\varepsilon _0}}}} \\right]^{1/2}}$$"
+        },
+        {
+          "key": "B",
+          "value": "$${1 \\over {{c^2}}}{\\left[ {{{{e^2}} \\over {G\\,4\\pi {\\varepsilon _0}}}} \\right]^{1/2}}$$"
+        },
+        {
+          "key": "C",
+          "value": "$${1 \\over c}G{{{e^2}} \\over {\\,4\\pi {\\varepsilon _0}}}$$"
+        },
+        {
+          "key": "D",
+          "value": "$${1 \\over {{c^2}}}{\\left[ {G{{{e^2}} \\over {\\,4\\pi {\\varepsilon _0}}}} \\right]^{1/2}}$$"
+        }
+      ],
+      "answer": "D",
+      "explanation": "Dimension of\n<br>$${{{e^2}} \\over {4\\pi {\\varepsilon _0}}}$$ = [ F$$ \\times $$ d<sup>2</sup> ] = [ML<sup>3</sup>T<sup>-2</sup>]\n<br><br>Dimension of G = [M<sup>-1</sup>L<sup>3</sup>T<sup>-2</sup>],\n<br><br>Dimension of c = [LT<sup>-1</sup>]\n<br><br>Now assume dimension of length is related as,\n<br><br>L = [c]<sup>x</sup>[G]<sup>y</sup>[$${{{e^2}} \\over {4\\pi {\\varepsilon _0}}}$$]<sup>z</sup>\n<br><br>$$ \\therefore $$ [L<sup>1</sup>] = [ML<sup>3</sup>T<sup>-2</sup>]<sup>z</sup>\n [M<sup>-1</sup>L<sup>3</sup>T<sup>-2</sup>]<sup>y</sup> [LT<sup>-1</sup>]<sup>x</sup>\n<br><br>Comparing both sides and solving we get,\n<br><br>x = -2, y = $${1 \\over 2}$$, z = $${1 \\over 2}$$\n<br><br>$$ \\therefore $$ L = $${1 \\over {{c^2}}}{\\left[ {G{{{e^2}} \\over {\\,4\\pi {\\varepsilon _0}}}} \\right]^{1/2}}$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Planck's constant (h), speed of light in vacuum (c) and Newton's gravitional constant (G) are three fundamental constants. Which of the following combinations of these has the dimension of length ? ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$${{\\sqrt {hG} } \\over {{c^{3/2}}}}$$"
+        },
+        {
+          "key": "B",
+          "value": "$${{\\sqrt {hG} } \\over {{c^{5/2}}}}$$"
+        },
+        {
+          "key": "C",
+          "value": "$$\\sqrt {{{hc} \\over G}} $$"
+        },
+        {
+          "key": "D",
+          "value": "$$\\sqrt {{{Gc} \\over {{h^{3/2}}}}} $$"
+        }
+      ],
+      "answer": "A",
+      "explanation": "According to question,\n<br><br>L $$ \\propto $$ h<sup>p</sup> c<sup>q</sup> G<sup>r</sup>\n<br><br>[M<sup>0</sup>LT<sup>0</sup>]  = [ML<sup>2</sup>T<sup>-1</sup>]<sup>p</sup> [LT<sup>-1</sup>]<sup>q</sup> [M<sup>-1</sup>L<sup>3</sup>T<sup>-2</sup>]<sup>r</sup>\n<br><br>Equating power both sides, we get\n<br><br>p - r = 0 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;......(1)\n<br><br>2p + q + 3r = 1 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;......(2)\n<br><br>- p - q - 2r = 0 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;......(3)\n<br><br>Solving equation (1), (2), (3), we get\n<br><br>p = r = $${1 \\over 2}$$, q = $$ - {3 \\over 2}$$\n<br><br>$$ \\therefore $$ L = $${{\\sqrt {hG} } \\over {{c^{3/2}}}}$$\n"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "If dimensions of critical velocity $$\\upsilon $$<sub>c</sub> of a liquid flowing through a tube are expressed as $$\\left[ {{\\eta ^x}{\\rho ^y}{r^z}} \\right]$$ where $$\\eta ,\\rho $$ and r are the coefficient of viscosity of liquid, density of liquid and radius of the tube respectively, then the values of x, y and z are given by",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$-$$1,&nbsp;$$-$$1, $$-$$1"
+        },
+        {
+          "key": "B",
+          "value": "1, 1, 1"
+        },
+        {
+          "key": "C",
+          "value": "1,&nbsp;$$-$$1, $$-$$1"
+        },
+        {
+          "key": "D",
+          "value": "$$-$$1,&nbsp;$$-$$1, 1"
+        }
+      ],
+      "answer": "C",
+      "explanation": "$$\\upsilon $$<sub>c</sub> = $$\\left[ {{\\eta ^x}{\\rho ^y}{r^z}} \\right]$$\n<br><br>Put dimensions of various quantities,\n<br><br>[M<sup>0</sup>LT<sup>-1</sup>] = [ML<sup>-1</sup>T<sup>-1</sup>]<sup>x</sup> [ML<sup>-3</sup>T<sup>0</sup>]<sup>y</sup> [M<sup>0</sup>LT<sup>0</sup>]<sup>z</sup>\n<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; = [M<sup>x + y</sup> L<sup>- x - 3y + z</sup> T<sup>- x</sup>]\n<br><br>Equating power both sides, we get\n<br><br>x + y = 0;\n<br>- x - 3y + z = 1;\n<br>- x = - 1\n<br><br>On solving, we get\n<br><br>x = 1, y = -1,  z = -1"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "If energy (E), velocity (V) and time (T) are chosen as the fundamental quantities, the dimensional formula of surface tension will be",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$\\left[ {E{V^{ - 2}}{T^{ - 2}}} \\right]$$"
+        },
+        {
+          "key": "B",
+          "value": "$$\\left[ {{E^{ - 2}}{V^{ - 1}}{T^{ - 3}}} \\right]$$"
+        },
+        {
+          "key": "C",
+          "value": "$$\\left[ {E{V^{ - 2}}{T^{ - 1}}} \\right]$$"
+        },
+        {
+          "key": "D",
+          "value": "$$\\left[ {E{V^{ - 1}}{T^{ - 2}}} \\right]$$"
+        }
+      ],
+      "answer": "A",
+      "explanation": "Let surface tension\n<br><br>S =kE<sup>$$a$$</sup>V<sup>b</sup>T<sup>c</sup>\n<br>where k is a dimensionless constant\n<br><br>Writing the dimensions on both sides,\n<br><br>$$\\left[ {{{ML{T^{ - 2}}} \\over L}} \\right]$$ = $${\\left[ {M{L^2}{T^{ - 2}}} \\right]^a}$$$${\\left[ {L{T^{ - 1}}} \\right]^b}$$$${\\left[ T \\right]^c}$$\n<br><br>$$\\left[ {M{L^0}{T^{ - 2}}} \\right]$$ = $$\\left[ {{M^a}{L^{2a + b}}{T^{ - 2a - b + c}}} \\right]$$\n<br><br>Comparing both sides of the equation we get,\n<br><br>$$a$$ = 1&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;....(1)\n<br>2$$a$$ + b = 0&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;....(2)\n<br>-2$$a$$ - b + c = - 2&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;....(3)\n<br><br>Solving equation (1), (2) and (3), we get\n<br><br>$$a$$ = 1, b = - 2, c = - 2\n<br><br>$$ \\therefore $$ Dimension of surface tension = $$\\left[ {E{V^{ - 2}}{T^{ - 2}}} \\right]$$\n\n\n"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "If force (F), velocity (V) and time (T) are taken as fundamental units, then dimensions of mass are",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$\\left[ {FV{T^{ - 1}}} \\right]$$"
+        },
+        {
+          "key": "B",
+          "value": "$$\\left[ {FV{T^{ - 2}}} \\right]$$"
+        },
+        {
+          "key": "C",
+          "value": "$$\\left[ {F{V^{ - 1}}{T^{ - 1}}} \\right]$$"
+        },
+        {
+          "key": "D",
+          "value": "$$\\left[ {F{V^{ - 1}}T} \\right]$$"
+        }
+      ],
+      "answer": "D",
+      "explanation": "Let mass\n<br><br>m =kF<sup>$$a$$</sup>V<sup>b</sup>T<sup>c</sup>\n<br>where k is a dimensionless constant\n<br><br>Writing the dimensions on both sides, we get\n<br><br>$$\\left[ {{{M{L^0}{T^{ 0}}}}} \\right]$$ = $${\\left[ {M{L}{T^{ - 2}}} \\right]^a}$$$${\\left[ {L{T^{ - 1}}} \\right]^b}$$$${\\left[ T \\right]^c}$$\n<br><br>$$\\left[ {M{L^0}{T^{0}}} \\right]$$ = $$\\left[ {{M^a}{L^{a + b}}{T^{ - 2a - b + c}}} \\right]$$\n<br><br>Comparing both sides of the equation we get,\n<br><br>$$a$$ = 1&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;....(1)\n<br>2$$a$$ + b = 0&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;....(2)\n<br>-2$$a$$ - b + c = 0&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;....(3)\n<br><br>Solving equation (1), (2) and (3), we get\n<br><br>$$a$$ = 1, b = - 1, c = 1\n<br><br>$$ \\therefore $$ Dimension of mass = $$\\left[ {F{V^{ - 1}}{T}} \\right]$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The pair of quantities having same dimensions is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "Impulse and Surface Tension"
+        },
+        {
+          "key": "B",
+          "value": "Angular momentum and Work"
+        },
+        {
+          "key": "C",
+          "value": "Work and Torque"
+        },
+        {
+          "key": "D",
+          "value": "Young's modulus and Energy"
+        }
+      ],
+      "answer": "C",
+      "explanation": "Work = Force $$ \\times $$ distance = [MLT<sup>-2</sup>][L] = [ML<sup>2</sup>T<sup>-2</sup>]\n<br><br>Torque = Force $$ \\times $$ Force arm = [MLT<sup>-2</sup>][L] = [ML<sup>2</sup>T<sup>-2</sup>]"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "If an experiment four quantities a, b, c and d are measured with percentage error 1%, 2%, 3% and 4% respectively. \n<br><br>Quantity P is calculated as follows P $$ = {{{a^3}{b^2}} \\over {cd}}$$ % error in P is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "7%"
+        },
+        {
+          "key": "B",
+          "value": "4%"
+        },
+        {
+          "key": "C",
+          "value": "14%"
+        },
+        {
+          "key": "D",
+          "value": "10%"
+        }
+      ],
+      "answer": "C",
+      "explanation": "Given P $$ = {{{a^3}{b^2}} \\over {cd}}$$\n<br><br>% error in  P :\n<br><br>$${{\\Delta P} \\over P} \\times 100$$ = $$\\left[ {3{{\\Delta a} \\over a} + 2{{\\Delta b} \\over b} + {{\\Delta c} \\over c} + {{\\Delta d} \\over d}} \\right] \\times 100$$\n<br><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; = 3 $$ \\times $$ 1% + 2 $$ \\times $$ 2% + 3% + 4% = 14%"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The dimensions of $${\\left( {{\\mu _0}{\\varepsilon _0}} \\right)^{ - 1/2}}$$ are",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$\\left[ {{L^{1/2}}{T^{ - 1/2}}} \\right]$$"
+        },
+        {
+          "key": "B",
+          "value": "$$\\left[ {{L^{ - 1}}T} \\right]$$"
+        },
+        {
+          "key": "C",
+          "value": "$$\\left[ {L{T^{ - 1}}} \\right]$$"
+        },
+        {
+          "key": "D",
+          "value": "$$\\left[ {{L^{1/2}}{T^{1/2}}} \\right]$$"
+        }
+      ],
+      "answer": "C",
+      "explanation": "$${\\left( {{\\mu _0}{\\varepsilon _0}} \\right)^{ - 1/2}}$$ = $${1 \\over {\\sqrt {{\\mu _0}{\\varepsilon _0}} }}$$ = Speed of light in vacuum = c\n<br><br>So the dimension of $${\\left( {{\\mu _0}{\\varepsilon _0}} \\right)^{ - 1/2}}$$ = [c] =[LT<sup>-1</sup>]"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The damping force on an oscillator is directly proportional to the velocity. The units of the constant of proportionality are",
+      "options": [
+        {
+          "key": "A",
+          "value": "kg m s<sup>$$-$$1</sup>"
+        },
+        {
+          "key": "B",
+          "value": "kg m s<sup>$$-$$2</sup>"
+        },
+        {
+          "key": "C",
+          "value": "kg s<sup>$$-$$1</sup>"
+        },
+        {
+          "key": "D",
+          "value": "kg s"
+        }
+      ],
+      "answer": "C",
+      "explanation": "According to the question,\n<br><br>Damping force, F $$ \\propto $$ v\n<br><br>$$ \\Rightarrow $$ F = kv\n<br>where k is constant of proportionality.\n<br><br>$$ \\therefore $$ k = $${F \\over v}$$ = $${N \\over {m\\,{s^{ - 1}}}}$$ = $${{kg\\,m\\,{s^{ - 2}}} \\over {m\\,{s^{ - 1}}}}$$ = $$kg\\,{s^{ - 1}}$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The density of a material in CGS system of units is 4 g cm<sup>$$-$$3</sup>. In a system of units in which unit of length is 10 cm and unit of mass is 100 g, the value of density of material will be",
+      "options": [
+        {
+          "key": "A",
+          "value": "0.04"
+        },
+        {
+          "key": "B",
+          "value": "0.4"
+        },
+        {
+          "key": "C",
+          "value": "40"
+        },
+        {
+          "key": "D",
+          "value": "400"
+        }
+      ],
+      "answer": "C",
+      "explanation": "In CGS system,\n<br><br>Density = 4$${g \\over {c{m^3}}}$$\n<br><br>When unit of mass is 100g and unit of length is 10 cm, then\n<br><br>Density = x $${{100g} \\over {{{\\left( {10cm} \\right)}^3}}}$$\n<br><br>$$ \\therefore $$ 4$${g \\over {c{m^3}}}$$ = x $${{100g} \\over {{{\\left( {10cm} \\right)}^3}}}$$\n<br><br>$$ \\Rightarrow $$ x = 40 unit"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The dimensions of $${\\left( {{\\mu _0}{\\varepsilon _0}} \\right)^{ - 1/2}}$$ are",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$\\left[ {{L^{1/2}}{T^{ - 1/2}}} \\right]$$"
+        },
+        {
+          "key": "B",
+          "value": "$$\\left[ {{L^{ - 1}}T} \\right]$$"
+        },
+        {
+          "key": "C",
+          "value": "$$\\left[ {L{T^{ - 1}}} \\right]$$"
+        },
+        {
+          "key": "D",
+          "value": "$$\\left[ {{L^{1/2}}{T^{1/2}}} \\right]$$"
+        }
+      ],
+      "answer": "C",
+      "explanation": "$${\\left( {{\\mu _0}{\\varepsilon _0}} \\right)^{ - 1/2}}$$ = $${1 \\over {\\sqrt {{\\mu _0}{\\varepsilon _0}} }}$$ = Speed of light in vacuum = c\n<br><br>So the dimension of $${\\left( {{\\mu _0}{\\varepsilon _0}} \\right)^{ - 1/2}}$$ = [c] =[LT<sup>-1</sup>]"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A student measures the distance traversed in free fall of a body, initially at rest, in a given time. He uses this data to estimate g, the acceleration due to gravity. If the maximum percentage errors in measurement of the distance and the time are e<sub>1</sub> and e<sub>2</sub> respectively, the percentage error in the estimation of g is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "e<sub>2</sub> $$-$$ e<sub>1</sub>"
+        },
+        {
+          "key": "B",
+          "value": "e<sub>1</sub> + 2e<sub>2</sub>"
+        },
+        {
+          "key": "C",
+          "value": "e<sub>1</sub> + e<sub>2</sub>"
+        },
+        {
+          "key": "D",
+          "value": "e<sub>1</sub> $$-$$ 2e<sub>2</sub>"
+        }
+      ],
+      "answer": "B",
+      "explanation": "Initially body is at rest.\n<br><br>$$ \\therefore $$ $$h = {1 \\over 2}g{t^2}$$\n<br><br>$$ \\Rightarrow $$ $$g = {{2h} \\over {{t^2}}}$$\n<br><br>Maximum percentage error,\n<br><br>$${{\\Delta g} \\over g} \\times 100 = \\left[ {{{\\Delta h} \\over h} + 2{{\\Delta t} \\over t}} \\right] \\times 100$$\n<br><br>Given that\n<br>$${{{\\Delta h} \\over h} \\times 100}$$ = e<sub>1</sub>\n<br><br>and $${{{\\Delta t} \\over t} \\times 100}$$ = e<sub>2</sub>\n<br><br>$$ \\therefore $$ $${{\\Delta g} \\over g} \\times 100 $$ = e<sub>1</sub> + 2e<sub>2</sub>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The dimension of $${1 \\over 2}{\\varepsilon _0}{E^2}$$, where $${\\varepsilon _0}$$ is permittivity of free space and E is electric field, is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "ML<sup>2</sup>T<sup>$$-$$2</sup>"
+        },
+        {
+          "key": "B",
+          "value": "ML<sup>$$-$$1</sup>T<sup>$$-$$2</sup>"
+        },
+        {
+          "key": "C",
+          "value": "ML<sup>2</sup>T<sup>$$-$$1</sup>"
+        },
+        {
+          "key": "D",
+          "value": "MLT<sup>$$-$$1</sup>"
+        }
+      ],
+      "answer": "B",
+      "explanation": "$${1 \\over 2}{\\varepsilon _0}{E^2}$$ = Energy density of an electric field E\n<br><br>Also Energy density = $${{Energy} \\over {Volume}}$$ = $${{\\left[ {M{L^2}{T^{ - 2}}} \\right]} \\over {\\left[ {{L^3}} \\right]}}$$ = $$\\left[ {M{L^{ - 1}}{T^{ - 2}}} \\right]$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "If the dimensions of a physical quantity are given by M<sup>a</sup>L<sup>b</sup>T<sup>c</sup>,  then the physical quantity will be",
+      "options": [
+        {
+          "key": "A",
+          "value": "velocity if &nbsp;&nbsp;a = 1, b = 0, c = $$-$$1"
+        },
+        {
+          "key": "B",
+          "value": "acceleration if &nbsp;&nbsp;a = 1, b = 1, c = $$-$$2"
+        },
+        {
+          "key": "C",
+          "value": "force if &nbsp;&nbsp;a = 0, b = $$-$$1, c = $$-$$2"
+        },
+        {
+          "key": "D",
+          "value": "pressure if &nbsp;&nbsp;a = 1, b = $$-$$1, c = $$-$$2"
+        }
+      ],
+      "answer": "D",
+      "explanation": "Velocity = [LT<sup>-1</sup>] so a = 0, b = 1, c = -1\n<br><br>Acceleration = [LT<sup>-2</sup>] so a = 0, b = 1, c = -2\n<br><br>Force = [MLT<sup>-2</sup>] so a = 1, b = 1, c = -2\n<br><br>Pressure = $${{force} \\over {Area}} = {{\\left[ {ML{T^{ - 2}}} \\right]} \\over {\\left[ {{L^2}} \\right]}} = \\left[ {M{L^{ - 1}}{T^{ - 2}}} \\right]$$,\n<br>so a = 1, b = - 1, c = - 2"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "If the error in the measurement of radius of a sphere is 2%, then the error in the determination of volume of the sphere will be ",
+      "options": [
+        {
+          "key": "A",
+          "value": "8% "
+        },
+        {
+          "key": "B",
+          "value": "2%"
+        },
+        {
+          "key": "C",
+          "value": "4%"
+        },
+        {
+          "key": "D",
+          "value": "6%"
+        }
+      ],
+      "answer": "D",
+      "explanation": "As we know,\n<br><br>$$V = {4 \\over 3}\\pi {R^3}$$\n<br><br>$$ \\therefore $$ $${{dV} \\over V} = 3{{dR} \\over R}$$\n<br><br>Error in the dimension of the volume is = 3 $$ \\times $$ 2% = 6 %\n"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Which two of the following five physical parameters have the same dimensions ? \n<br>1.&nbsp;&nbsp;Energy density\n<br>2.&nbsp;&nbsp;Refractive index\n<br>3.&nbsp;&nbsp;Dielectric constant\n<br>4.&nbsp;&nbsp;Young's modulus\n<br>5.&nbsp;&nbsp;Magnetic field",
+      "options": [
+        {
+          "key": "A",
+          "value": "1 and 4"
+        },
+        {
+          "key": "B",
+          "value": "1 and 5"
+        },
+        {
+          "key": "C",
+          "value": "2 and 4"
+        },
+        {
+          "key": "D",
+          "value": "3 and 5"
+        }
+      ],
+      "answer": "A",
+      "explanation": "Energy density = $${{\\left[ {M{L^2}{T^{ - 2}}} \\right]} \\over {\\left[ {{L^3}} \\right]}} = \\left[ {M{L^{ - 1}}{T^{ - 2}}} \\right]$$\n<br><br>Young's Modulus(Y) = $${{F \\over A} \\times {l \\over {\\Delta l}}}$$\n<br><br>$$ \\Rightarrow $$ [Y] = $${{\\left[ {ML{T^{ - 2}}} \\right]} \\over {\\left[ {{L^3}} \\right]}}{{\\left[ L \\right]} \\over {\\left[ L \\right]}}$$ = $$\\left[ {M{L^{ - 1}}{T^{ - 2}}} \\right]$$\n\n"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Dimensions of resistance in an electrical circuit,  in terms of dimension of mass M, of length L, of time T and of current I,  would be",
+      "options": [
+        {
+          "key": "A",
+          "value": "[ML<sup>2</sup>T<sup>$$-$$2</sup>]"
+        },
+        {
+          "key": "B",
+          "value": "[ML<sup>2</sup>T<sup>$$-$$1</sup>I<sup>$$-$$1</sup>]"
+        },
+        {
+          "key": "C",
+          "value": "[ML<sup>2</sup>T<sup>$$-$$3</sup>I<sup>$$-$$2</sup>]"
+        },
+        {
+          "key": "D",
+          "value": "[ML<sup>2</sup>T<sup>$$-$$3</sup>I<sup>$$-$$1</sup>]"
+        }
+      ],
+      "answer": "C",
+      "explanation": "We know,\n<br><br>$$R = {V \\over I}$$\n<br><br>$$ \\therefore $$ $$\\left[ R \\right] = {{\\left[ V \\right]} \\over {\\left[ I \\right]}}$$ = $${{\\left[ {M{L^2}{T^{ - 3}}{I^{ - 1}}} \\right]} \\over {\\left[ I \\right]}}$$ = $${\\left[ {M{L^2}{T^{ - 3}}{I^{ - 2}}} \\right]}$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The velocity v of a particle at time t is given by v = at + $${b \\over {t + c}}$$, where a, b and c are constants. The dimensions of a, b and c are",
+      "options": [
+        {
+          "key": "A",
+          "value": "[L],&nbsp;[LT]&nbsp;and&nbsp;[LT<sup>$$-$$2</sup>]"
+        },
+        {
+          "key": "B",
+          "value": "[LT<sup>$$-$$2</sup>],&nbsp;[L]&nbsp;and&nbsp;[T]"
+        },
+        {
+          "key": "C",
+          "value": "[L<sup>2</sup>],&nbsp;[T]&nbsp;and&nbsp;[LT<sup>$$-$$2</sup>]"
+        },
+        {
+          "key": "D",
+          "value": "[LT<sup>$$-$$2</sup>],&nbsp;and&nbsp;[LT]&nbsp;and&nbsp;[L]"
+        }
+      ],
+      "answer": "B",
+      "explanation": "Given, v = at + $${b \\over {t + c}}$$\n<br><br>Dimension of at = Dimension of velocity v\n<br><br>$$ \\therefore $$ [at] = [LT<sup>-1</sup>]\n<br><br>$$ \\Rightarrow $$ [a] = $${{\\left[ {L{T^{ - 1}}} \\right]} \\over {\\left[ T \\right]}}$$ = [LT<sup>-2</sup>]\n<br><br>As c is added to t,\n<br><br>$$ \\therefore $$ [c] = [T]\n<br><br>$${{\\left[ b \\right]} \\over {\\left[ T \\right]}}$$ = [LT<sup>-1</sup>]\n<br><br>$$ \\therefore $$ [b] = [L]"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The ratio of the dimensions of Planck's constant and that of moment of inertia is the dimensions of ",
+      "options": [
+        {
+          "key": "A",
+          "value": "time"
+        },
+        {
+          "key": "B",
+          "value": "frequency"
+        },
+        {
+          "key": "C",
+          "value": "angular momentum"
+        },
+        {
+          "key": "D",
+          "value": "velocity"
+        }
+      ],
+      "answer": "B",
+      "explanation": "Plank constant (h) = $${{E\\lambda } \\over c}$$ = $${{\\left[ {M{L^2}{T^{ - 2}}} \\right]\\left[ L \\right]} \\over {\\left[ {L{T^{ - 1}}} \\right]}}$$ = [ML<sup>2</sup>T<sup>-1</sup>]\n<br><br>Moment of inertia (I) = mr<sup>2</sup> = [ML<sup>2</sup>]\n<br><br>$$ \\therefore $$ $${h \\over I} = $$ $${{\\left[ {M{L^2}{T^{ - 1}}} \\right]} \\over {\\left[ {M{L^2}} \\right]}}$$ = [T<sup>-1</sup>] = frequency"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The unit of permittyvity of free space, $${\\varepsilon _0}$$, is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "coulomb/newton-metre"
+        },
+        {
+          "key": "B",
+          "value": "newton-metre<sup>2</sup>/coulomb<sup>2</sup>"
+        },
+        {
+          "key": "C",
+          "value": "coulomb<sup>2</sup>/newton-metre<sup>2</sup>"
+        },
+        {
+          "key": "D",
+          "value": "coulomb<sup>2</sup>/(newton-metre)<sup>2</sup>"
+        }
+      ],
+      "answer": "C",
+      "explanation": "F = $${1 \\over {4\\pi {\\varepsilon _0}}}{{{q^2}} \\over {{r^2}}}$$\n<br><br>$$ \\Rightarrow $$ $${\\varepsilon _0} = {{{q^2}} \\over {4\\pi F{r^2}}}$$\n<br><br>$$ \\therefore $$ Unit of $${\\varepsilon _0}$$ = coulomb<sup>2</sup>/newton-metre<sup>2</sup>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The dimensions of universal gravitational constant are",
+      "options": [
+        {
+          "key": "A",
+          "value": "[M<sup>$$-$$1</sup>L<sup>3</sup>T<sup>$$-$$2</sup>]"
+        },
+        {
+          "key": "B",
+          "value": "[ML<sup>2</sup>T<sup>$$-$$1</sup>]"
+        },
+        {
+          "key": "C",
+          "value": "[M<sup>$$-$$2</sup>L<sup>3</sup>T<sup>$$-$$2</sup>]"
+        },
+        {
+          "key": "D",
+          "value": "[M<sup>$$-$$2</sup>L<sup>2</sup>T<sup>$$-$$1</sup>]"
+        }
+      ],
+      "answer": "A",
+      "explanation": "F = $${{G{m_1}{m_2}} \\over {{r^2}}}$$\n<br><br>$$ \\Rightarrow $$ G = $${{F \\times {r^2}} \\over {{m_1}{m_2}}}$$\n<br><br>$$ \\therefore $$ Dimension of G = $${{\\left[ {ML{T^{ - 2}}} \\right]\\left[ {{L^2}} \\right]} \\over {\\left[ M \\right]\\left[ M \\right]}}$$ = $$\\left[ {{M^{ - 1}}{L^3}{T^{ - 2}}} \\right]$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The dimensions of Planck's constant equals to that of ",
+      "options": [
+        {
+          "key": "A",
+          "value": "energy"
+        },
+        {
+          "key": "B",
+          "value": "momentum"
+        },
+        {
+          "key": "C",
+          "value": "angular momentum"
+        },
+        {
+          "key": "D",
+          "value": "power"
+        }
+      ],
+      "answer": "C",
+      "explanation": "Plank constant (h) = $${{E\\lambda } \\over c}$$ = $${{\\left[ {M{L^2}{T^{ - 2}}} \\right]\\left[ L \\right]} \\over {\\left[ {L{T^{ - 1}}} \\right]}}$$ = [ML<sup>2</sup>T<sup>-1</sup>]\n<br><br>Angular momentum (L) = <i>I</i>$$ \\times $$$$\\omega $$ = [ML<sup>2</sup>][T<sup>-1</sup>] = [ML<sup>2</sup>T<sup>-1</sup>]"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Which pair do not have equal dimensions ? ",
+      "options": [
+        {
+          "key": "A",
+          "value": "Energy and torque"
+        },
+        {
+          "key": "B",
+          "value": "Force and impulse"
+        },
+        {
+          "key": "C",
+          "value": "Angular momentum and Planck constant"
+        },
+        {
+          "key": "D",
+          "value": "Elastic modulus and pressure. "
+        }
+      ],
+      "answer": "B",
+      "explanation": "Dimension of force = [MLT<sup>-2</sup>]\n<br><br>Dimension of impulse = [MLT<sup>-1</sup>]\n<br><br>So both of them have different dimensions."
+    }
+  ]
+}

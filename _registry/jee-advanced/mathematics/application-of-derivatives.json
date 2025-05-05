@@ -1,0 +1,1009 @@
+{
+  "_index": {
+    "name": "Application of Derivatives"
+  },
+  "_children": [
+    {
+      "_type": "single_mcq",
+      "body": "Which of the following options is the only INCORRECT combination?",
+      "options": [
+        {
+          "key": "A",
+          "value": "(I) (iii) (P)"
+        },
+        {
+          "key": "B",
+          "value": "(II) (iv) (Q)"
+        },
+        {
+          "key": "C",
+          "value": "(II) (ii) (P)"
+        },
+        {
+          "key": "D",
+          "value": "(III) (i) (R)"
+        }
+      ],
+      "answer": "D",
+      "explanation": "$$f(x) = x + \\ln x - x\\ln x$$<br><br>$$f(1) = 1 &gt; 0$$<br><br><br>$$f({e^2}) = {e^2} + 2 - 2{e^2} = 2 - {e^2} &lt; 0$$<br><br>$$ \\Rightarrow f(x) = 0$$ for some $$x \\in (1,\\,{e^2})$$<br><br>$$ \\therefore $$ I is correct.<br><br>$$f'(x) = 1 + {1 \\over x} - \\ln x - 1$$<br><br>$$ = {1 \\over x} - \\ln x$$<br><br>$$f'(x) &gt; 0$$ for (0, 1)<br><br>$$f'(x) &lt; 0$$ for $$(e,\\infty )$$<br><br>$$ \\therefore $$ P and Q are correct, II is correct, III is incorrect.<br><br>$$f''(x) = {{ - 1} \\over {{x^2}}} - {1 \\over x}$$<br><br>$$f''(x) &lt; 0$$ for $$(0,\\infty )$$<br><br>$$ \\therefore $$ S, is correct, R is incorrect.<br><br>IV is incorrect.<br><br>$$\\mathop {\\lim }\\limits_{x \\to \\infty } f(x) =  - \\infty $$<br><br>$$\\mathop {\\lim }\\limits_{x \\to \\infty } f'(x) =  - \\infty $$<br><br>$$\\mathop {\\lim }\\limits_{x \\to \\infty } f''(x) = 0$$<br><br>$$ \\therefore $$ ii, iii, iv are correct."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Which of the following options is the only CORRECT combination?",
+      "options": [
+        {
+          "key": "A",
+          "value": "(I) (ii) (R)"
+        },
+        {
+          "key": "B",
+          "value": "(III) (iv) (P)"
+        },
+        {
+          "key": "C",
+          "value": "(II) (iii) (S)"
+        },
+        {
+          "key": "D",
+          "value": "(IV) (i) (S)"
+        }
+      ],
+      "answer": "C",
+      "explanation": "$$f(x) = x + \\ln x - x\\ln x$$<br><br>$$f(1) = 1 &gt; 0$$<br><br><br>$$f({e^2}) = {e^2} + 2 - 2{e^2} = 2 - {e^2} &lt; 0$$<br><br>$$ \\Rightarrow f(x) = 0$$ for some $$x \\in (1,\\,{e^2})$$<br><br>$$ \\therefore $$ I is correct.<br><br>$$f'(x) = 1 + {1 \\over x} - \\ln x - 1$$<br><br>$$ = {1 \\over x} - \\ln x$$<br><br>$$f'(x) &gt; 0$$ for (0, 1)<br><br>$$f'(x) &lt; 0$$ for $$(e,\\infty )$$<br><br>$$ \\therefore $$ P and Q are correct, II is correct, III is incorrect.<br><br>$$f''(x) = {{ - 1} \\over {{x^2}}} - {1 \\over x}$$<br><br>$$f''(x) &lt; 0$$ for $$(0,\\infty )$$<br><br>$$ \\therefore $$ S, is correct, R is incorrect.<br><br>IV is incorrect.<br><br>$$\\mathop {\\lim }\\limits_{x \\to \\infty } f(x) =  - \\infty $$<br><br>$$\\mathop {\\lim }\\limits_{x \\to \\infty } f'(x) =  - \\infty $$<br><br>$$\\mathop {\\lim }\\limits_{x \\to \\infty } f''(x) = 0$$<br><br>$$ \\therefore $$ ii, iii, iv are correct."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Which of the following options is the only CORRECT combination?",
+      "options": [
+        {
+          "key": "A",
+          "value": "(III) (iii) (R)"
+        },
+        {
+          "key": "B",
+          "value": "(IV) (iv) (S)"
+        },
+        {
+          "key": "C",
+          "value": "(II) (ii) (Q)"
+        },
+        {
+          "key": "D",
+          "value": "(I0 (i) (P)"
+        }
+      ],
+      "answer": "C",
+      "explanation": "$$f(x) = x + \\ln x - x\\ln x$$<br><br>$$f(1) = 1 &gt; 0$$<br><br><br>$$f({e^2}) = {e^2} + 2 - 2{e^2} = 2 - {e^2} &lt; 0$$<br><br>$$ \\Rightarrow f(x) = 0$$ for some $$x \\in (1,\\,{e^2})$$<br><br>$$ \\therefore $$ I is correct.<br><br>$$f'(x) = 1 + {1 \\over x} - \\ln x - 1$$<br><br>$$ = {1 \\over x} - \\ln x$$<br><br>$$f'(x) &gt; 0$$ for (0, 1)<br><br>$$f'(x) &lt; 0$$ for $$(e,\\infty )$$<br><br>$$ \\therefore $$ P and Q are correct, II is correct, III is incorrect.<br><br>$$f''(x) = {{ - 1} \\over {{x^2}}} - {1 \\over x}$$<br><br>$$f''(x) &lt; 0$$ for $$(0,\\infty )$$<br><br>$$ \\therefore $$ S, is correct, R is incorrect.<br><br>IV is incorrect.<br><br>$$\\mathop {\\lim }\\limits_{x \\to \\infty } f(x) =  - \\infty $$<br><br>$$\\mathop {\\lim }\\limits_{x \\to \\infty } f'(x) =  - \\infty $$<br><br>$$\\mathop {\\lim }\\limits_{x \\to \\infty } f''(x) = 0$$<br><br>$$ \\therefore $$ ii, iii, iv are correct."
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The least value of a $$ \\in R$$ for which $$4a{x^2} + {1 \\over x} \\ge 1,$$, for all $$x&gt;0$$. is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$${1 \\over {64}}$$ "
+        },
+        {
+          "key": "B",
+          "value": "$${1 \\over {32}}$$"
+        },
+        {
+          "key": "C",
+          "value": "$${1 \\over {27}}$$"
+        },
+        {
+          "key": "D",
+          "value": "$${1 \\over {25}}$$"
+        }
+      ],
+      "answer": "C",
+      "explanation": "It is given that<br/><br/>\n$$\n4 \\alpha x^2+\\frac{1}{x} \\geq 1 \\forall x>0\n$$<br/><br/>\nThat is, $4 \\alpha x^2 \\geq 1-\\frac{1}{x}$<br/><br/>\n$$\n4 \\alpha \\geq\\left(\\frac{1}{x^2}-\\frac{1}{x^3}\\right) \\forall x>0\n$$<br/><br/>\nNow, let us consider that<br/><br/>\n$$\nf(x)=\\frac{1}{x^2}-\\frac{1}{x^3}\n$$<br/><br/>\nTherefore, $f^{\\prime}(x)=\\frac{-2}{x^3}+\\frac{3}{x^4}=0$<br/><br/>\nWhen $x=3 / 2$ :<br/><br/>\n$$\n\\begin{gathered}\n(4 \\alpha) \\geq\\left(\\frac{1}{x^2}-\\frac{1}{x^3}\\right) \\\\\\\\\n4 \\alpha \\geq\\left(\\frac{4}{9}-\\frac{8}{27}\\right)\n\\end{gathered}\n$$<br/><br/>\nThat is,\n$$\n\\alpha \\geq \\frac{1}{27}\n$$<br/><br/>\nand hence the least value of $\\alpha$ is<br/><br/>\n$$\n\\alpha_{\\text {least }}=\\frac{1}{27}\n$$"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "<p>The total number of local maxima and local minima of the function <br/><br/>$$f(x) = \\left\\{ {\\matrix{\n   {{{(2 + x)}^3},} & { - 3 < x \\le  - 1}  \\cr \n   {{x^{2/3}},} & { - 1 < x < 2}  \\cr \n\n } } \\right.$$ is</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "0"
+        },
+        {
+          "key": "B",
+          "value": "1"
+        },
+        {
+          "key": "C",
+          "value": "2"
+        },
+        {
+          "key": "D",
+          "value": "3"
+        }
+      ],
+      "answer": "C",
+      "explanation": "<p>Given that, $$f(x) = \\left\\{ {\\matrix{\n   {{{(2 + x)}^3},} & { - 3 < x \\le  - 1}  \\cr \n   {{x^{2/3}},} & { - 1 < x < 2}  \\cr \n\n } } \\right.$$</p>\n<p>$$f'(x) = \\left\\{ {\\matrix{\n   {3{{(2 + x)}^2},} & { - 3 < x <  - 1}  \\cr \n   {{2 \\over 3}{x^{{{ - 1} \\over 3}}},} & { - 1 < x < 2}  \\cr \n\n } } \\right.$$</p>\n<p>Clearly, $$f'(x)$$ changes signs from positive to negative as x passes through x $$=-1$$</p>\n<p>$$f'(x) < 0$$ for all $$x\\in(-3,-1)$$</p>\n<p>Also, $$f'(x)>0$$ for all $$x\\in$$</p>\n<p>$$f'(x) < 0$$ for all $$x\\in(-1,0)$$</p>\n<p>But $$f'(0)$$ does not exist</p>\n<p>So, $$f(x)$$ attains a local minimum at x = 0</p>\n<p>Hence, the total number of local maxima and local minima is 2.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The tangent to the curve $$y = {e^x}$$ drawn at the point $$\\left( {c,{e^c}} \\right)$$ intersects the line joining the  points $$\\left( {c - 1,{e^{c - 1}}} \\right)$$ and $$\\left( {c + 1,{e^{c + 1}}} \\right)$$ ",
+      "options": [
+        {
+          "key": "A",
+          "value": "on the left of $$x=c$$ "
+        },
+        {
+          "key": "B",
+          "value": "on the right of $$x=c$$ "
+        },
+        {
+          "key": "C",
+          "value": "at no point "
+        },
+        {
+          "key": "D",
+          "value": "at all points"
+        }
+      ],
+      "answer": "A",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "If a continuous function $$f$$ defined on the real line $$R$$, assumes positive and negative values in $$R$$ then the equation $$f(x)=0$$ has a root in $$R$$. For example, if it is known that a continuous function $$f$$ on $$R$$ is positive at some point and its minimum value is negative then the equation $$f(x)=0$$ has a root in $$R$$.\n<br>Consider $$f\\left( x \\right) = k{e^x} - x$$ for all real $$x$$ where $$k$$ is real constant.\n<p>The line $$y=x$$ meets $$y = k{e^x}$$ for $$k \\le 0$$ at </p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "no point "
+        },
+        {
+          "key": "B",
+          "value": "one point"
+        },
+        {
+          "key": "C",
+          "value": "two points "
+        },
+        {
+          "key": "D",
+          "value": "more than two points"
+        }
+      ],
+      "answer": "C",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "If a continuous function $$f$$ defined on the real line $$R$$, assumes positive and negative values in $$R$$ then the equation $$f(x)=0$$ has a root in $$R$$. For example, if it is known that a continuous function $$f$$ on $$R$$ is positive at some point and its minimum value is negative then the equation $$f(x)=0$$ has a root in $$R$$.\n<br>Consider $$f\\left( x \\right) = k{e^x} - x$$ for all real $$x$$ where $$k$$ is real constant.\n<p>The positive value of $$k$$ for which $$k{e^x} - x = 0$$ has only one root is </p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "$${1 \\over e}$$ "
+        },
+        {
+          "key": "B",
+          "value": "$$1$$"
+        },
+        {
+          "key": "C",
+          "value": "$$e$$ "
+        },
+        {
+          "key": "D",
+          "value": "$${\\log _e}2$$ "
+        }
+      ],
+      "answer": "A",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "If a continuous function $$f$$ defined on the real line $$R$$, assumes positive and negative values in $$R$$ then the equation $$f(x)=0$$ has a root in $$R$$. For example, if it is known that a continuous function $$f$$ on $$R$$ is positive at some point and its minimum value is negative then the equation $$f(x)=0$$ has a root in $$R$$.\n<br>Consider $$f\\left( x \\right) = k{e^x} - x$$ for all real $$x$$ where $$k$$ is real constant.\n<p>For $$k&gt;0$$, the set of all values of $$k$$ for which $$k{e^x} - x = 0$$ has two distinct roots is </p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$\\left( {0,{1 \\over e}} \\right)$$ "
+        },
+        {
+          "key": "B",
+          "value": "$$\\left( {{1 \\over e},1} \\right)$$ "
+        },
+        {
+          "key": "C",
+          "value": "$$\\left( {{1 \\over e},\\infty } \\right)$$ "
+        },
+        {
+          "key": "D",
+          "value": "$$\\left( {0,1} \\right)$$"
+        }
+      ],
+      "answer": "A",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "If $$P(x)$$ is a polynomial of degree less than or equal to $$2$$ and $$S$$ is the set of all such  polynomials so that $$P(0)=0$$, $$P(1)=1$$ and $$P'\\left( x \\right) &gt; 0\\,\\,\\forall x \\in \\left[ {0,1} \\right],$$ then ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$S = \\phi $$ "
+        },
+        {
+          "key": "B",
+          "value": "$$S = ax + \\left( {1 - a} \\right){x^2}\\,\\,\\forall \\,a \\in \\left( {0,2} \\right)$$ "
+        },
+        {
+          "key": "C",
+          "value": "$$S = ax + \\left( {1 - a} \\right){x^2}\\,\\,\\forall \\,a \\in \\left( {0,\\infty } \\right)$$ "
+        },
+        {
+          "key": "D",
+          "value": "$$S = ax + \\left( {1 - a} \\right){x^2}\\,\\,\\forall \\,a \\in \\left( {0,1} \\right)$$ "
+        }
+      ],
+      "answer": "B",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "If $$f\\left( x \\right) = {x^3} + b{x^2} + cx + d$$ and $$0 &lt; {b^2} &lt; c,$$ then in $$\\left( { - \\infty ,\\infty } \\right)$$ ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$f\\left( x \\right)$$ is a strictly increasing function"
+        },
+        {
+          "key": "B",
+          "value": "$$f\\left( x \\right)$$ has a local maxima "
+        },
+        {
+          "key": "C",
+          "value": "$$f\\left( x \\right)$$ is a strictly decreasing function "
+        },
+        {
+          "key": "D",
+          "value": "$$f\\left( x \\right)$$ is bounded "
+        }
+      ],
+      "answer": "A",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "If $$f\\left( x \\right) = {x^a}\\log x$$ and $$f\\left( 0 \\right) = 0,$$ then the value of $$\\alpha $$ for which Rolle's theorem can be applied in $$\\left[ {0,1} \\right]$$ is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$-2$$"
+        },
+        {
+          "key": "B",
+          "value": "$$-1$$"
+        },
+        {
+          "key": "C",
+          "value": "$$0$$ "
+        },
+        {
+          "key": "D",
+          "value": "$$1/2$$"
+        }
+      ],
+      "answer": "D",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "In $$\\left[ {0,1} \\right]$$ Languages Mean Value theorem is NOT applicable to ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$f\\left( x \\right) = \\left\\{ {\\matrix{\n   {{1 \\over 2} - x} &amp; {x &lt; {1 \\over 2}}  \\cr \n   {{{\\left( {{1 \\over 2} - x} \\right)}^2}} &amp; {x \\ge {1 \\over 2}}  \\cr \n\n } } \\right.$$ "
+        },
+        {
+          "key": "B",
+          "value": "$$f\\left( x \\right) = \\left\\{ {\\matrix{\n   {\\sin x,} &amp; {x \\ne 0}  \\cr \n   {1,} &amp; {x = 0}  \\cr \n\n } } \\right.$$ "
+        },
+        {
+          "key": "C",
+          "value": "$$f\\left( x \\right) = x\\left| x \\right|$$ "
+        },
+        {
+          "key": "D",
+          "value": "$$f\\left( x \\right) = \\left| x \\right|$$ "
+        }
+      ],
+      "answer": "A",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Tangent is drawn to ellipse \n<br>$${{{x^2}} \\over {27}} + {y^2} = 1\\,\\,\\,at\\,\\left( {3\\sqrt 3 \\cos \\theta ,\\sin \\theta } \\right)\\left( {where\\,\\,\\theta  \\in \\left( {0,\\pi /2} \\right)} \\right)$$.\n<p>Then the value of $$\\theta $$ such that sum of intercepts on axes made by this tangent is minimum, is </p>\n",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$\\pi /3$$ "
+        },
+        {
+          "key": "B",
+          "value": "$$\\pi /6$$"
+        },
+        {
+          "key": "C",
+          "value": "$$\\pi /8$$"
+        },
+        {
+          "key": "D",
+          "value": "$$\\pi /4$$"
+        }
+      ],
+      "answer": "C",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The length of a longest interval in which the function $$3\\,\\sin x - 4{\\sin ^3}x$$ is increasing, is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$${\\pi  \\over 3}$$ "
+        },
+        {
+          "key": "B",
+          "value": "$${\\pi  \\over 2}$$"
+        },
+        {
+          "key": "C",
+          "value": "$${3\\pi  \\over 2}$$"
+        },
+        {
+          "key": "D",
+          "value": "$$\\pi $$ "
+        }
+      ],
+      "answer": "A",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The point(s) in the curve $${y^3} + 3{x^2} = 12y$$ where the tangent is vertical, is (are) ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$\\left( { \\pm {4 \\over {\\sqrt 3 }}, - 2} \\right)$$ "
+        },
+        {
+          "key": "B",
+          "value": "$$\\left( { \\pm \\sqrt {{{11} \\over 3}} ,1} \\right)$$ "
+        },
+        {
+          "key": "C",
+          "value": "$$(0,0)$$"
+        },
+        {
+          "key": "D",
+          "value": "$$\\left( { \\pm {4 \\over {\\sqrt 3 }},  2} \\right)$$ "
+        }
+      ],
+      "answer": "D",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The triangle formed by the tangent to the curve $$f\\left( x \\right) = {x^2} + bx - b$$ at the point $$(1, 1)$$ and the coordinate axex, lies in the first quadrant. If its area is $$2$$, then the value of $$b$$ is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$-1$$ "
+        },
+        {
+          "key": "B",
+          "value": "$$3$$ "
+        },
+        {
+          "key": "C",
+          "value": "$$-3$$ "
+        },
+        {
+          "key": "D",
+          "value": "$$1$$ "
+        }
+      ],
+      "answer": "C",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "If $$f\\left( x \\right) = x{e^{x\\left( {1 - x} \\right)}},$$ then $$f(x)$$ is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "increasing on $$\\left[ { - 1/2,1} \\right]$$ "
+        },
+        {
+          "key": "B",
+          "value": "decreasing on $$R$$ "
+        },
+        {
+          "key": "C",
+          "value": "increasing on $$R$$ "
+        },
+        {
+          "key": "D",
+          "value": "decreasing on $$\\left[ { - 1/2,1} \\right]$$ "
+        }
+      ],
+      "answer": "A",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Let $$f\\left( x \\right) = \\left( {1 + {b^2}} \\right){x^2} + 2bx + 1$$  and let $$m(b)$$ be the minimum value of $$f(x)$$. As $$b$$ varies, the range of $$m(b)$$ is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$\\left[ {0,1} \\right]$$ "
+        },
+        {
+          "key": "B",
+          "value": "$$\\left( {0,\\,1/2} \\right]$$ "
+        },
+        {
+          "key": "C",
+          "value": "$$\\left[ {1/2,\\,1} \\right]$$ "
+        },
+        {
+          "key": "D",
+          "value": "$$\\left( {0,\\,1} \\right]$$ "
+        }
+      ],
+      "answer": "D",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Consider the following statements in $$S$$ and $$R$$ \n<br>$$S:$$ $$\\,\\,\\,$$$ Both $$\\sin \\,\\,x$$ and $$\\cos \\,\\,x$$ are decreasing functions in the interval $$\\left( {{\\pi  \\over 2},\\pi } \\right)$$\n<br>$$R:$$$$\\,\\,\\,$$ If a differentiable function decreases in an interval $$(a, b)$$, then its derivative also decreases in $$(a, b)$$.\n<br>Which of the following is true ?",
+      "options": [
+        {
+          "key": "A",
+          "value": "Both $$S$$ and $$R$$ are wrong"
+        },
+        {
+          "key": "B",
+          "value": "Both $$S$$ and $$R$$ are correct, but $$R$$ is not the correct explanation of $$S$$ "
+        },
+        {
+          "key": "C",
+          "value": "$$S$$ is correct and $$R$$ is the correct explanation for $$S$$ "
+        },
+        {
+          "key": "D",
+          "value": "$$S$$ is correct and $$R$$ is wrong"
+        }
+      ],
+      "answer": "D",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "If the normal to the curve $$y = f\\left( x \\right)$$ and the point $$(3, 4)$$ makes an angle $${{{3\\pi } \\over 4}}$$ with the positive $$x$$-axis, then $$f'\\left( 3 \\right) = $$ ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$-1$$ "
+        },
+        {
+          "key": "B",
+          "value": "$$ - {3 \\over 4}$$ "
+        },
+        {
+          "key": "C",
+          "value": "$${4 \\over 3}$$ "
+        },
+        {
+          "key": "D",
+          "value": "$$1$$ "
+        }
+      ],
+      "answer": "D",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Let $$f\\left( x \\right) = \\int {{e^x}\\left( {x - 1} \\right)\\left( {x - 2} \\right)dx.} $$ Then $$f$$ decreases in the interval",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$\\left( { - \\infty ,2} \\right)$$ "
+        },
+        {
+          "key": "B",
+          "value": "$$\\left( { - 2, - 1} \\right)$$ "
+        },
+        {
+          "key": "C",
+          "value": "$$\\left( {1,2} \\right)$$ "
+        },
+        {
+          "key": "D",
+          "value": "$$\\left( {2, + \\infty } \\right)$$ "
+        }
+      ],
+      "answer": "C",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Let $$f\\left( x \\right) = \\left\\{ {\\matrix{\n   {\\left| x \\right|,} &amp; {for} &amp; {0 &lt; \\left| x \\right| \\le 2}  \\cr \n   {1,} &amp; {for} &amp; {x = 0}  \\cr \n\n } } \\right.$$ then at $$x=0$$, $$f$$ has ",
+      "options": [
+        {
+          "key": "A",
+          "value": "a local maximum "
+        },
+        {
+          "key": "B",
+          "value": "no local maximum"
+        },
+        {
+          "key": "C",
+          "value": "a local minimum"
+        },
+        {
+          "key": "D",
+          "value": "no extremum"
+        }
+      ],
+      "answer": "D",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "For all $$x \\in \\left( {0,1} \\right)$$ ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$${e^x} &lt; 1 + x$$ "
+        },
+        {
+          "key": "B",
+          "value": "$${\\log _e}\\left( {1 + x} \\right) &lt; x$$ "
+        },
+        {
+          "key": "C",
+          "value": "$$\\sin x &gt; x$$ "
+        },
+        {
+          "key": "D",
+          "value": "$${\\log _e}x &gt; x$$ "
+        }
+      ],
+      "answer": "B",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The function $$f(x)=$$ $${\\sin ^4}x + {\\cos ^4}x$$ increases if ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$0 &lt; x &lt; \\pi /8$$ "
+        },
+        {
+          "key": "B",
+          "value": "$$\\pi /4 &lt; x &lt; 3\\pi /8$$ "
+        },
+        {
+          "key": "C",
+          "value": "$$3\\pi /8 &lt; x &lt; 5\\pi /8$$ "
+        },
+        {
+          "key": "D",
+          "value": "$$5\\pi /8 &lt; x &lt; 3\\pi /4$$ "
+        }
+      ],
+      "answer": "B",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "If $$f\\left( x \\right) = {{{x^2} - 1} \\over {{x^2} + 1}},$$ for every real number $$x$$, then the minimum value of $$f$$ ",
+      "options": [
+        {
+          "key": "A",
+          "value": "does not exist because $$f$$ is unbounded "
+        },
+        {
+          "key": "B",
+          "value": "is not attained even though $$f$$ is bounded "
+        },
+        {
+          "key": "C",
+          "value": "is equal to 1"
+        },
+        {
+          "key": "D",
+          "value": "is equal to -1"
+        }
+      ],
+      "answer": "D",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The number of values of $$x$$ where the function \n<br>$$f\\left( x \\right) = \\cos x + \\cos \\left( {\\sqrt 2 x} \\right)$$ attains its maximum is \n",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$0$$"
+        },
+        {
+          "key": "B",
+          "value": "$$1$$ "
+        },
+        {
+          "key": "C",
+          "value": "$$2$$ "
+        },
+        {
+          "key": "D",
+          "value": "infinite "
+        }
+      ],
+      "answer": "B",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "If $$f\\left( x \\right) = {x \\over {\\sin x}}$$ and $$g\\left( x \\right) = {x \\over {\\tan x}}$$, where $$0 &lt; x \\le 1$$, then in this interval ",
+      "options": [
+        {
+          "key": "A",
+          "value": "both $$f(x)$$ and $$g(x)$$ are increasing functions "
+        },
+        {
+          "key": "B",
+          "value": "both $$f(x)$$ and $$g(x)$$ are decreasing functions "
+        },
+        {
+          "key": "C",
+          "value": "$$f(x)$$ is an increasing functions "
+        },
+        {
+          "key": "D",
+          "value": "$$g(x)$$ is an increasing functions "
+        }
+      ],
+      "answer": "C",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The slope of the tangent to a curve $$y = f\\left( x \\right)$$ at $$\\left[ {x,\\,f\\left( x \\right)} \\right]$$ is $$2x+1$$. If the curve passes through the point $$\\left( {1,2} \\right)$$, then the area bounded by the curve, the $$x$$-axis and the line $$x=1$$ is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$${5 \\over 6}$$"
+        },
+        {
+          "key": "B",
+          "value": "$${6 \\over 5}$$"
+        },
+        {
+          "key": "C",
+          "value": "$${1 \\over 6}$$"
+        },
+        {
+          "key": "D",
+          "value": "$$6$$ "
+        }
+      ],
+      "answer": "A",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The function $$f\\left( x \\right) = {{in\\,\\left( {\\pi  + x} \\right)} \\over {in\\,\\left( {e + x} \\right)}}$$ is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "increasing on $$\\left( {0,\\infty } \\right)$$ "
+        },
+        {
+          "key": "B",
+          "value": "decreasing on $$\\left( {0,\\infty } \\right)$$"
+        },
+        {
+          "key": "C",
+          "value": "increasing on $$\\left( {0,\\pi /e} \\right),$$ decreasing on $$\\left( {\\pi /e,\\infty } \\right)$$  "
+        },
+        {
+          "key": "D",
+          "value": "decreasing on $$\\left( {0,\\pi /e} \\right),$$ increasing on $$\\left( {\\pi /e,\\infty } \\right)$$   "
+        }
+      ],
+      "answer": "B",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "On the interval $$\\left[ {0,1} \\right]$$ the function $${x^{25}}{\\left( {1 - x} \\right)^{75}}$$ takes its maximum value at the point ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$0$$ "
+        },
+        {
+          "key": "B",
+          "value": "$${1 \\over 4}$$ "
+        },
+        {
+          "key": "C",
+          "value": "$${1 \\over 2}$$"
+        },
+        {
+          "key": "D",
+          "value": "$${1 \\over 3}$$"
+        }
+      ],
+      "answer": "B",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Which one of the following curves cut the parabola $${y^2} = 4ax$$ at right angles? ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$${x^2} + {y^2} = {a^2}$$ "
+        },
+        {
+          "key": "B",
+          "value": "$$y = {e^{ - x/2a}}$$ "
+        },
+        {
+          "key": "C",
+          "value": "$$y = ax$$ "
+        },
+        {
+          "key": "D",
+          "value": "$${x^2} = 4ay$$ "
+        }
+      ],
+      "answer": "D",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The function defined by $$f\\left( x \\right) = \\left( {x + 2} \\right){e^{ - x}}$$ ",
+      "options": [
+        {
+          "key": "A",
+          "value": "decreasing for all $$x$$"
+        },
+        {
+          "key": "B",
+          "value": "decreasing in $$\\left( { - \\infty , - 1} \\right)$$ and increasing in $$\\left( { - 1,\\infty } \\right)$$ "
+        },
+        {
+          "key": "C",
+          "value": "increasing for all $$x$$ "
+        },
+        {
+          "key": "D",
+          "value": "decreasing in $$\\left( { - 1,\\infty } \\right)$$ and increasing in  $$\\left( { - \\infty , - 1} \\right)$$"
+        }
+      ],
+      "answer": "D",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Let $$f$$ and $$g$$ be increasing and decreasing functions, respectively from $$\\left[ {0,\\infty } \\right)$$ to $$\\left[ {0,\\infty } \\right)$$. Let $$h\\left( x \\right) = f\\left( {g\\left( x \\right)} \\right).$$ If $$h\\left( 0 \\right) = 0,$$ then $$h\\left( x \\right) - h\\left( 1 \\right)$$ is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "always zero "
+        },
+        {
+          "key": "B",
+          "value": "always negative "
+        },
+        {
+          "key": "C",
+          "value": "always positive "
+        },
+        {
+          "key": "D",
+          "value": "strictly increasing "
+        }
+      ],
+      "answer": "A",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The smallest positive root of the equation, $$\\tan x - x = 0$$ lies in ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$\\left( {0,{\\pi  \\over 2}} \\right)$$ "
+        },
+        {
+          "key": "B",
+          "value": "$$\\left( {{\\pi  \\over 2},\\pi } \\right)$$ "
+        },
+        {
+          "key": "C",
+          "value": "$$\\left( {\\pi ,{{3\\pi } \\over 2}} \\right)$$ "
+        },
+        {
+          "key": "D",
+          "value": "$$\\left( {{{3\\pi } \\over 2},2\\pi } \\right)$$ "
+        }
+      ],
+      "answer": "C",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Let $$P\\left( x \\right) = {a_0} + {a_1}{x^2} + {a_2}{x^4} + ...... + {a_n}{x^{2n}}$$ be a polynomial in a real variable $$x$$ with  \n<br>$$0 &lt; {a_0} &lt; {a_1} &lt; {a_2} &lt; ..... &lt; {a_n}.$$ The function $$P(x)$$ has ",
+      "options": [
+        {
+          "key": "A",
+          "value": "neither a maximum nor a minimum "
+        },
+        {
+          "key": "B",
+          "value": "only one maximum "
+        },
+        {
+          "key": "C",
+          "value": "only one minimum "
+        },
+        {
+          "key": "D",
+          "value": "only one maximum and only one minimum"
+        }
+      ],
+      "answer": "C",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "If $$y = a\\,\\,In\\,x + b{x^2} + x$$ has its extreamum values at $$x=-1$$ and $$x=2$$, then ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$a = 2,b =  - 1$$ "
+        },
+        {
+          "key": "B",
+          "value": "$$a = 2,b =  - {1 \\over 2}$$ "
+        },
+        {
+          "key": "C",
+          "value": "$$a =  - 2,b = {1 \\over 2}$$ "
+        },
+        {
+          "key": "D",
+          "value": "none of these "
+        }
+      ],
+      "answer": "B",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The normal to the curve $$\\,x = a\\left( {\\cos \\theta  + \\theta \\sin \\theta } \\right)$$, $$y = a\\left( {\\sin \\theta  - \\theta \\cos \\theta } \\right)$$ at any point $$'\\theta '$$ is such that ",
+      "options": [
+        {
+          "key": "A",
+          "value": "it makes a constant angle with the $$x$$-axis"
+        },
+        {
+          "key": "B",
+          "value": "it passes through the origin "
+        },
+        {
+          "key": "C",
+          "value": "it is at a constant distance from the origin "
+        },
+        {
+          "key": "D",
+          "value": "none of these "
+        }
+      ],
+      "answer": "C",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "$$AB$$ is a diameter of a circle and $$C$$ is any point on the circumference of the circle. Then ",
+      "options": [
+        {
+          "key": "A",
+          "value": "the area of $$\\Delta ABC$$ is maximum when it is isosceles"
+        },
+        {
+          "key": "B",
+          "value": "the area of $$\\Delta ABC$$ is minimum when it is isosceles"
+        },
+        {
+          "key": "C",
+          "value": "the perimeter of $$\\Delta ABC$$ is minimum when it is isosceles "
+        },
+        {
+          "key": "D",
+          "value": "none of these "
+        }
+      ],
+      "answer": "A",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "If $$a+b+c=0$$, then the quadratic equation $$3a{x^2} + 2bx + c = 0$$ has",
+      "options": [
+        {
+          "key": "A",
+          "value": "at least one root in $$\\left[ {0,1} \\right]$$ "
+        },
+        {
+          "key": "B",
+          "value": "one root in $$\\left[ {2,3} \\right]$$ and the other in $$\\left[ {-2,-1} \\right]$$"
+        },
+        {
+          "key": "C",
+          "value": "imaginary roots "
+        },
+        {
+          "key": "D",
+          "value": "none of these "
+        }
+      ],
+      "answer": "A",
+      "explanation": ""
+    },
+    {
+      "_type": "numerical",
+      "body": "For each positive integer n, let <br/><br/><p>$${y_n} = {1 \\over n}(n + 1)(n + 2)...{(n + n)^{{1 \\over n}}}$$.</p> For x$$ \\in $$R, let [x] be the greatest integer less than or equal to x. If $$\\mathop {\\lim }\\limits_{n \\to \\infty } {y_n} = L$$, then the value of [L] is ..............",
+      "answer": "1",
+      "explanation": "We have,<br><br>$${y_n} = {1 \\over n}(n + 1)(n + 2)...{(n + n)^{1/n}}$$ and $$\\mathop {\\lim }\\limits_{n \\to \\infty } {y_n} = L$$<br><br>$$ \\Rightarrow L = \\mathop {\\lim }\\limits_{n \\to \\infty } {1 \\over n}{[(n + 1)(n + 2)(n + 3)...(n + n)]^{1/n}}$$<br><br>$$ \\Rightarrow L = \\mathop {\\lim }\\limits_{n \\to \\infty } {\\left[ {\\left( {1 + {1 \\over n}} \\right)\\left( {1 + {2 \\over n}} \\right)\\left( {1 + {3 \\over n}} \\right)...\\left( {1 + {n \\over n}} \\right)} \\right]^{{1 \\over n}}}$$<br><br>$$ \\Rightarrow \\log L = \\mathop {\\lim }\\limits_{n \\to \\infty } {1 \\over n}\\left[ {\\log \\left( {1 + {1 \\over n}} \\right) + \\log \\left( {1 + {2 \\over n}} \\right)...\\log \\left( {1 + {n \\over n}} \\right)} \\right]$$<br><br>$$ \\Rightarrow \\log L = \\mathop {\\lim }\\limits_{n \\to \\infty } {1 \\over n}\\sum\\limits_{r = 1}^n {\\log \\left( {1 + {r \\over n}} \\right)} $$<br><br>$$ \\Rightarrow \\log L = \\int_0^1 {_{II}^1 \\times \\mathop {\\log }\\limits_I } (1 + x)\\,dx$$<br><br>$$ \\Rightarrow \\log L = (x.\\log (1 + x)_0^1 - \\int_0^1 {\\left[ {{d \\over {dx}}(\\log (1 + x)\\int {dx} } \\right]} dx$$<br><br>[by using integration by parts]<br><br>$$ \\Rightarrow \\log L = [x\\log (1 + x)]_0^1 - \\int_0^1 {{x \\over {1 + x}}} dx$$<br><br>$$ \\Rightarrow \\log L = \\log 2 - \\int_0^1 {\\left( {{{x + 1} \\over {x + 1}} - {1 \\over {x + 1}}} \\right)} dx$$<br><br>$$ \\Rightarrow \\log L = \\log 2 - [x]_0^1 + [\\log (x + 1)]_0^1$$<br><br>$$ \\Rightarrow \\log L = \\log 2 - 1 + \\log 2 - 0$$<br><br>$$ \\Rightarrow \\log L = \\log 4 - \\log e = \\log {4 \\over e}$$<br><br>$$ \\Rightarrow L = {4 \\over e}$$<br><br>$$ \\Rightarrow [L] = \\left[ {{4 \\over e}} \\right] = 1$$"
+    },
+    {
+      "_type": "numerical",
+      "body": "The slope of the tangent to the curve $${\\left( {y - {x^5}} \\right)^2} = x{\\left( {1 + {x^2}} \\right)^2}$$ at the point $$(1, 3)$$ is",
+      "answer": "8",
+      "explanation": "Given curve\n<br/><br/>$$\n\\begin{aligned}\n& \\left(y-x^5\\right)^2=x\\left(1+x^2\\right)^2 \\\\\\\\\n& \\Rightarrow 2\\left(y-x^5\\right)\\left(\\frac{d y}{d x}-5 x^4\\right)=\\left(1+x^2\\right)^2+2 x\\left(1+x^2\\right) \\cdot 2 x \n\\end{aligned}\n$$\n<br/><br/>Now putting $(1,3)$ in it, we get\n<br/><br/>$$\n2(3-1)\\left(\\frac{d y}{d x}-5\\right)=1\\{2(2) 2\\}+(1+1)^2\n$$\n<br/><br/>$\\Rightarrow 4\\left(\\frac{d y}{d x}-5\\right)=8+4 \\Rightarrow \\frac{d y}{d x}=8$\n<br/><br/>Thus, the slope at $(1,3)$ is 8 ."
+    },
+    {
+      "_type": "numerical",
+      "body": "Let $$p(x)$$ be a real polynomial of least degree which has a local maximum at $$x=1$$ and a local minimum at $$x=3$$. If $$p(1)=6$$ and $$p(3)=2$$, then $$p'(0)$$ is ",
+      "answer": "9",
+      "explanation": "<p>Since, $$p(x)$$ has a local maximum at $$x=1$$ and $$a$$ local minimum at $$x=3$$.</p>\n<p>$$\\begin{aligned}\n\\text { Let } & p^{\\prime}(x)=k(x-1)(x-3) \\\\\n\\Rightarrow & p^{\\prime}(x)=k\\left(x^2-4 x+3\\right) \\\\\n\\Rightarrow & p(x)=k\\left(\\frac{x^3}{3}-\\frac{4 x^2}{2}+3 x\\right)+c \\\\\n\\Rightarrow & p(x)=k\\left(\\frac{x^3}{3}-2 x^2+3 x\\right)+c\n\\end{aligned}$$</p>\n<p>Now, $$p(1)=6$$</p>\n<p>$$\\Rightarrow k\\left(\\frac{1^3}{3}-2(1)^2+3(1)\\right)+c=6$$</p>\n<p>$$\\begin{array}{rrr}\n\\Rightarrow & k\\left(\\frac{1}{3}-2+3\\right)+c & =6 \\\\\n\\Rightarrow & \\frac{4}{3} k+c & =6\n\\end{array}$$</p>\n<p>Also, $$p(3)=2$$</p>\n<p>$$\\begin{aligned}\n\\Rightarrow \\quad & k\\left(\\frac{3^3}{3}-2(3)^2+3(3)\\right)+c  =2 \\\\\n\\Rightarrow \\quad & k(0)+c =2 \\\\\n\\Rightarrow \\quad & c =2\n\\end{aligned}$$</p>\n<p>$$\\begin{aligned}\n\\text { Now, } \\quad & \\frac{4}{3} k+2  =6 \\\\\n\\Rightarrow \\quad & \\frac{4}{3} k  =4\n\\end{aligned}$$</p>\n<p>$$\n\\begin{array}{rlrl}\n\\Rightarrow \\quad & k =3 \\\\\n\\therefore \\quad & p^{\\prime}(0) =3\\left(0^2-4(0)+3\\right) \\\\\n\\qquad =9\n\\end{array}$$</p>"
+    },
+    {
+      "_type": "numerical",
+      "body": "Let $$f$$ be a real-valued differentiable function on $$R$$ (the set of all real numbers) such that $$f(1)=1$$. If the $$y$$-intercept of the tangent at any point $$P(x,y)$$ on the curve $$y=f(x)$$ is equal to the cube of the abscissa of $$P$$, then find the value of $$f(-3)$$",
+      "answer": "9",
+      "explanation": "<p>The equation of the tangent at (x, y) to the given curve y = f(x) is</p>\n<p>$$Y - y = {{dy} \\over {dx}}(X - x)$$</p>\n<p>Y-intercept $$ = y - x{{dy} \\over {dx}}$$</p>\n<p>According to the question</p>\n<p>$${x^3} = y - x{{dy} \\over {dx}}$$</p>\n<p>$$ \\Rightarrow {{dy} \\over {dx}} - {y \\over x} =  - {x^2}$$</p>\n<p>which is linear in x.</p>\n<p>$$IF = {e^{\\int {{{ - 1} \\over x}dx} }} = {1 \\over x}$$</p>\n<p>$$\\therefore$$ Required solution is</p>\n<p>$$y\\,.\\,{1 \\over x} = \\int { - {x^2}\\,.\\,{1 \\over x}dx} $$</p>\n<p>$$ \\Rightarrow {y \\over x} = {{ - {x^2}} \\over 2} + c$$</p>\n<p>$$ \\Rightarrow y = {{ - {x^3}} \\over 2} + cx$$</p>\n<p>At x = 1, y = 1,</p>\n<p>$$1 = {{ - 1} \\over 2} + c$$</p>\n<p>$$ \\Rightarrow c = {3 \\over 2}$$</p>\n<p>Now, $$f( - 3) = {{27} \\over 2} + {3 \\over 2}( - 3)$$</p>\n<p>$$ = {{27 - 9} \\over 2} = 9$$</p>"
+    },
+    {
+      "_type": "numerical",
+      "body": "Let $$f$$ be a function defined on $$R$$ (the set of all real numbers) \n<br>such that $$f'\\left( x \\right) = 2010\\left( {x - 2009} \\right){\\left( {x - 2010} \\right)^2}{\\left( {x - 2011} \\right)^3}{\\left( {x - 2012} \\right)^4}$$  for all $$x \\in $$$$R$$\n<p>If $$g$$ is a function defined on $$R$$ with values in the interval $$\\left( {0,\\infty } \\right)$$ such that\n$$$f\\left( x \\right) = ln\\,\\left( {g\\left( x \\right)} \\right),\\,\\,for\\,\\,all\\,\\,x \\in R$$$\n<br>then the number of points in $$R$$ at which $$g$$ has a local maximum is ___________.</p>",
+      "answer": "1",
+      "explanation": "<p>Let $$g(x) = {e^{f(x)}},\\,\\forall x \\in R$$</p>\n<p>$$ \\Rightarrow g'(x) = {e^{f(x)}}\\,.\\,f'(x)$$</p>\n<p>$$\\Rightarrow$$ f'(x) changes its sign from positive to negative in the neighbourhood of x = 2009</p>\n<p>$$\\Rightarrow$$ f(x) has local maxima at x = 2009</p>\n<p>So, the number of local maximum is one.</p>"
+    },
+    {
+      "_type": "numerical",
+      "body": "Let $$p(x)$$ be a polynomial of degree $$4$$ having extremum at \n<br><br/>$$x = 1,2$$ and $$\\mathop {\\lim }\\limits_{x \\to 0} \\left( {1 + {{p\\left( x \\right)} \\over {{x^2}}}} \\right) = 2$$.\n<p>Then the value of $$p (2)$$ is</p>",
+      "answer": "0",
+      "explanation": "<p>Let us consider</p>\n<p>$$P(x) = a{x^4} + b{x^3} + c{x^2} + dx + e$$</p>\n<p>$$P'(1) = P'(2) = 0$$</p>\n<p>$$\\mathop {\\lim }\\limits_{x \\to 0} \\left( {{{{x^2} + P(x)} \\over {{x^2}}}} \\right) = 2$$</p>\n<p>$$ \\Rightarrow P(0) = 0 \\Rightarrow e = 0$$</p>\n<p>$$\\mathop {\\lim }\\limits_{x \\to 0} \\left( {{{2x + P'(x)} \\over {2x}}} \\right) = 2$$</p>\n<p>$$ \\Rightarrow P'(0) = 0 \\Rightarrow d = 0$$</p>\n<p>$$\\mathop {\\lim }\\limits_{x \\to 0} \\left( {{{2 + P''(x)} \\over 2}} \\right) = 2$$</p>\n<p>$$ \\Rightarrow c = 1$$</p>\n<p>On solving, we get $$a = 1/4,b =  - 1$$. Thus,</p>\n<p>$$P(x) = {{{x^4}} \\over 4} - {x^3} + {x^2} \\Rightarrow P(2) = 0$$</p>"
+    },
+    {
+      "_type": "numerical",
+      "body": "<p>The maximum value of the function $$f(x) = 2{x^3} - 15{x^2} + 36x - 48$$ on the set $$A = \\{ x|{x^2} + 20 \\le 9x|\\} $$ is __________.</p>",
+      "answer": "7",
+      "explanation": "<p>We have,</p>\n<p>$$f'(x) = 6(x - 2)(x - 3)$$</p>\n<p>Hence, $$f(x)$$ is increasing in $$(3,\\infty )$$.</p>\n<p>Also, $$A = \\{ 4 \\le x \\le 5\\} $$</p>\n<p>Therefore, $${f_{\\max }} = f(5) = 7$$</p>"
+    }
+  ]
+}

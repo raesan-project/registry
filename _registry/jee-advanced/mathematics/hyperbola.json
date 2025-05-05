@@ -1,0 +1,319 @@
+{
+  "_index": {
+    "name": "Hyperbola"
+  },
+  "_children": [
+    {
+      "_type": "single_mcq",
+      "body": "For $$a = \\sqrt 2 $$, if a tangent is drawn to a suitable conic (Column 1) at the point of contact ($$-$$1, 1), then which of the following options is the only CORRECT combination for obtaining its equation?",
+      "options": [
+        {
+          "key": "A",
+          "value": "(I) (ii) Q)"
+        },
+        {
+          "key": "B",
+          "value": "(I) (ii) (P)"
+        },
+        {
+          "key": "C",
+          "value": "(III) (i) (P)"
+        },
+        {
+          "key": "D",
+          "value": "(II) (ii) (Q)"
+        }
+      ],
+      "answer": "A",
+      "explanation": "<p>$$\\bullet$$ For the given equation $$a = \\sqrt 2 $$ and point ($$-$$1, 1), x<sup>2</sup> + y<sup>2</sup> = a<sup>2</sup> satisfies these conditions (i.e. I of Column 1)</p>\n<p>$$\\bullet$$ Thus, equation of tangent is $$ - x + y = 2 \\Rightarrow y = x + 2$$; thus (ii) of Column 2 satisfies this condition with m = 1. That is, $$y = mx + a\\sqrt {{m^2} + 1} $$</p>\n<p>$$\\bullet$$ It is given that point of constant ($$-$$1, 1) given m = 1 and $$a = \\sqrt 2 $$ Q; of Columns 3 : $$\\left( {{{ - ma} \\over {\\sqrt {{m^2} + 1} }},{a \\over {\\sqrt {{m^2} + 1} }}} \\right)$$ gives point of contact ($$-$$1, 1).</p>\n<p>Thus, correct combination is (I) (II) (Q); thus, option (A) is correct.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The tangent to a suitable conic (Column 1) at $$\\left( {\\sqrt 3 ,\\,{1 \\over 2}} \\right)$$ is found to be $$\\sqrt 3 x + 2y = 4$$, then which of the following options is the only CORRECT combination?",
+      "options": [
+        {
+          "key": "A",
+          "value": "(IV) (iv) (S)"
+        },
+        {
+          "key": "B",
+          "value": "(II) (iv) (R)"
+        },
+        {
+          "key": "C",
+          "value": "(IV) (iii) (S)"
+        },
+        {
+          "key": "D",
+          "value": "(II) (ii) (R)"
+        }
+      ],
+      "answer": "B",
+      "explanation": "<p>Given, tangent to conic is $$\\sqrt 3 x + 2y = 4$$ and point of contact is</p>\n<p>$$\\left( {\\sqrt 3 ,{1 \\over 2}} \\right)$$ ..... (1)</p>\n<p>$$\\sqrt 3 x + 2y = 4 \\Rightarrow 2y = 4 - \\sqrt 3 x$$</p>\n<p>$$ \\Rightarrow y = {{ - \\sqrt 3 } \\over 2}x + 2$$ ....... (2)</p>\n<p>On comparing this equation with options in Column 2, we get</p>\n<p>$$m = {{ - \\sqrt 3 } \\over 2}$$</p>\n<p>Equation (1) can also be written as</p>\n<p>$$ \\Rightarrow \\sqrt 3 x + 4\\left( {{1 \\over 2}} \\right)y = 4$$</p>\n<p>On comparing with the option (II), we get</p>\n<p>$${a^2} = 4 \\Rightarrow a = 2$$</p>\n<p>Now, for a = 2, $$m = {{ - \\sqrt 3 } \\over 2}\\left( {{{ - {a^2}m} \\over {\\sqrt {{a^2}{m^2} + 1} }},{1 \\over {\\sqrt {{a^2}{m^2} + 1} }}} \\right)$$ gives $$\\left( {\\sqrt 3 ,{1 \\over 2}} \\right)$$ as the point of contact.</p>\n<p>Thus, the correct combination is (II) (iv) (R); hence, option (B) is correct.</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Let $$P(6, 3)$$ be a point on the hyperbola $${{{x^2}} \\over {{a^2}}} - {{{y^2}} \\over {{b^2}}} = 1$$. If the normal at the point $$P$$ intersects the $$x$$-axis at $$(9, 0)$$, then the eccentricity of the hyperbola is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$\\sqrt {{5 \\over 2}} $$"
+        },
+        {
+          "key": "B",
+          "value": "$$\\sqrt {{3 \\over 2}} $$"
+        },
+        {
+          "key": "C",
+          "value": "$${\\sqrt 2 }$$"
+        },
+        {
+          "key": "D",
+          "value": "$${\\sqrt 3 }$$ "
+        }
+      ],
+      "answer": "B",
+      "explanation": "<p>Equation of normal is</p>\n<p>$$(y - 3) = {{ - {a^2}} \\over {2{b^2}}}(x - 6) \\Rightarrow {{{a^2}} \\over {2{b^2}}} = 1 \\Rightarrow e = \\sqrt {{3 \\over 2}} $$</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The circle $${x^2} + {y^2} - 8x = 0$$ and hyperbola $${{{x^2}} \\over 9} - {{{y^2}} \\over 4} = 1$$ intersect at the points $$A$$ and $$B$$.\n<p>Equation of the circle with $$AB$$ as its diameter is </p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "$${x^2} + {y^2} - 12x + 24 = 0$$ "
+        },
+        {
+          "key": "B",
+          "value": "$${x^2} + {y^2} + 12x + 24 = 0$$"
+        },
+        {
+          "key": "C",
+          "value": "$${x^2} + {y^2} + 24x - 12 = 0$$"
+        },
+        {
+          "key": "D",
+          "value": "$${x^2} + {y^2} - 24x - 12 = 0$$"
+        }
+      ],
+      "answer": "A",
+      "explanation": "<p>A point on hyperbola is (3sec$$\\theta$$, 2tan$$\\theta$$).</p>\n<p>It lies on the circle, so</p>\n<p>$$9{\\sec ^2}\\theta  + 4{\\tan ^2}\\theta  - 24\\sec \\theta  = 0$$.</p>\n<p>$$ \\Rightarrow 13{\\sec ^2}\\theta  - 24\\sec \\theta  - 4 = 0 \\Rightarrow \\sec \\theta  = 2, - {2 \\over {13}}$$</p>\n<p>Therefore, $$\\sec \\theta  = 2 \\Rightarrow \\tan \\theta  = \\sqrt 3 $$</p>\n<p>The point of intersection are $$A(6,2\\sqrt 3 )$$ and $$B(6, - 2\\sqrt 3 )$$</p>\n<p>Hence, The circle with AB as diameter is</p>\n<p>$${(x - 6)^2} + {y^2} = {(2\\sqrt 3 )^2} \\Rightarrow {x^2} + {y^2} - 12x + 24 = 0$$</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The circle $${x^2} + {y^2} - 8x = 0$$ and hyperbola $${{{x^2}} \\over 9} - {{{y^2}} \\over 4} = 1$$ intersect at the points $$A$$ and $$B$$.\n<p>Equation of a common tangent with positive slope to the circle as well as to the hyperbola is </p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$2x - \\sqrt {5y}  - 20 = 0$$ "
+        },
+        {
+          "key": "B",
+          "value": "$$2x - \\sqrt {5y}  + 4 = 0$$"
+        },
+        {
+          "key": "C",
+          "value": "$$3x - 4y + 8 = 0$$ "
+        },
+        {
+          "key": "D",
+          "value": "$$4x - 3y + 4 = 0$$"
+        }
+      ],
+      "answer": "B",
+      "explanation": "<p>A tangent to $${{{x^2}} \\over 9} - {{{y^2}} \\over 4} = 1$$ is</p>\n<p>$$y = mx + \\sqrt {9{m^2} - 4} ,\\,m > 0$$ .... (1)</p>\n<p>A tangent to $${(x - 4)^2} + {y^2} = 16$$ is</p>\n<p>$$xy = m(x - 4) + 4\\sqrt {1 + {m^2}} $$ ..... (2)</p>\n<p>Comparing (1) and (2),</p>\n<p>$$\\sqrt {9{m^2} - 4}  =  - 4m + 4\\sqrt {1 + {m^2}}  \\Rightarrow \\sqrt {9 - {4 \\over {{m^2}}}}  =  - 4 + 4\\sqrt {1 + {1 \\over {{m^2}}}} $$</p>\n<p>Let $${1 \\over {{m^2}}} = t$$, we have $$\\sqrt {9 - 4t}  =  - 4 + 4\\sqrt {1 + t} $$</p>\n<p>Squaring, we have</p>\n<p>$$ \\Rightarrow 9 - 4t = 16 + 16(1 + t) - 32\\sqrt {1 + t}  \\Rightarrow 32\\sqrt {1 + t}  = 23 + 20t$$</p>\n<p>Again squaring $$1024(1 + t) = 529 + 920t + 400{t^2}$$</p>\n<p>$$ \\Rightarrow 400{t^2} - 104t - 495 = 0 \\Rightarrow t = {5 \\over 4}$$</p>\n<p>Thus $${m^2} = {4 \\over 5},\\,m = {2 \\over {\\sqrt 5 }}$$</p>\n<p>The tangent is $$y = {2 \\over {\\sqrt 5 }}x + {4 \\over {\\sqrt 5 }}$$ i.e. $$2x - \\sqrt 5 y + 4 = 0$$</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Consider a branch  of the hyperbola \n$$${x^2} - 2{y^2} - 2\\sqrt 2 x - 4\\sqrt 2 y - 6 = 0$$$\n<p>with vertex at the point $$A$$. Let $$B$$ be one of the end points of its latus rectum. If $$C$$ is the focus of the hyperbola nearest to the point $$A$$, then the area of the triangle $$ABC$$ is </p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$1 - \\sqrt {{2 \\over 3}} $$ "
+        },
+        {
+          "key": "B",
+          "value": "$$\\sqrt {{3 \\over 2}}  - 1$$ "
+        },
+        {
+          "key": "C",
+          "value": "$$1 + \\sqrt {{2 \\over 3}} $$"
+        },
+        {
+          "key": "D",
+          "value": "$$\\sqrt {{3 \\over 2}}  + 1$$"
+        }
+      ],
+      "answer": "B",
+      "explanation": "<p>We have,</p>\n<p>$${x^2} - 2{y^2} - 2\\sqrt 2 x - 4\\sqrt 2 y - 6 = 0$$</p>\n<p>$${{{{(x - \\sqrt 2 )}^2}} \\over 4} - {{{{(y + \\sqrt 2 )}^2}} \\over 2} = 1$$</p>\n<p>$$a = 2,b = \\sqrt 2 $$</p>\n<p>$$ \\Rightarrow e = \\sqrt {{3 \\over 2}} $$</p>\n<p>Now, $$e = \\sqrt {{{{a^2} + {b^2}} \\over {{a^2}}}}  = \\sqrt {{3 \\over 2}} $$</p>\n<p>Area, $$ = {1 \\over 2}$$ $$\\times$$ Base $$\\times$$ Height</p>\n<p>$$ = {1 \\over 2}a(e - 1){{{b^2}} \\over a}$$</p>\n<p>$$ = {1 \\over 2}{{(\\sqrt 3  - \\sqrt 2 ) \\times 2} \\over {\\sqrt 2 }}$$</p>\n<p>$$ = {{\\sqrt 3  - \\sqrt 2 } \\over {\\sqrt 2 }}$$</p>\n<p>$$ = \\left( {\\sqrt {{3 \\over 2}}  - 1} \\right)$$</p>"
+    },
+    {
+      "_type": "single_mcq",
+      "body": "A hyperbola, having the transverse axis of length $$2\\sin \\theta ,$$ is confocal with the ellipse $$3{x^2} + 4{y^2} = 12.$$ Then its equation is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$${x^2}\\cos e{c^2}\\theta  - {y^2}{\\sec ^2}\\theta  = 1$$ "
+        },
+        {
+          "key": "B",
+          "value": "$${x^2}\\cos e{c^2}\\theta  - {y^2}{\\sec ^2}\\theta  = 1$$ "
+        },
+        {
+          "key": "C",
+          "value": "$${x^2}{\\sin ^2}\\theta  - {y^2}co{s^2}\\theta  = 1$$ "
+        },
+        {
+          "key": "D",
+          "value": "$${x^2}{\\cos ^2}\\theta  - {y^2}{\\sin ^2}\\theta  = 1$$ "
+        }
+      ],
+      "answer": "A",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "If the line $$62x + \\sqrt 6 y = 2$$ touches the hyperbola $${x^2} - 2{y^2} = 4$$, then the point of contact is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$\\left( { - 2,\\,\\sqrt 6 } \\right)$$ "
+        },
+        {
+          "key": "B",
+          "value": "$$\\left( { - 5,\\,2\\sqrt 6 } \\right)$$ "
+        },
+        {
+          "key": "C",
+          "value": "$$\\left( {{1 \\over 2},{1 \\over {\\sqrt 6 }}} \\right)$$ "
+        },
+        {
+          "key": "D",
+          "value": "$$\\left( {4, - \\,\\sqrt 6 } \\right)$$ "
+        }
+      ],
+      "answer": "D",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "For hyperbola $${{{x^2}} \\over {{{\\cos }^2}\\alpha }} - {{{y^2}} \\over {{{\\sin }^2}\\alpha }} = 1$$ which of the following remains constant with change in $$'\\alpha '$$ ",
+      "options": [
+        {
+          "key": "A",
+          "value": "abscissae of vertices "
+        },
+        {
+          "key": "B",
+          "value": "abscissae  of foci"
+        },
+        {
+          "key": "C",
+          "value": "eccentricity "
+        },
+        {
+          "key": "D",
+          "value": "directrix "
+        }
+      ],
+      "answer": "B",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "If $$x$$ $$=$$ $$9$$ is the chord of contact of the hyperbola $${x^2} - {y^2} = 9,$$ then the equation of the vcorresponding pair of tangents is ",
+      "options": [
+        {
+          "key": "A",
+          "value": "$$9{x^2} - 8{y^2} + 18x - 9 = 0$$ "
+        },
+        {
+          "key": "B",
+          "value": "$$9{x^2} - 8{y^2} - 18x + 9 = 0$$ "
+        },
+        {
+          "key": "C",
+          "value": "$$9{x^2} - 8{y^2} - 18x - 9 = 0$$"
+        },
+        {
+          "key": "D",
+          "value": "$$9{x^2} - 8{y^2} + 18x + 9 = 0$$ "
+        }
+      ],
+      "answer": "B",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Let $$P$$ $$\\left( {a\\,\\sec \\,\\theta ,\\,\\,b\\,\\tan \\theta } \\right)$$ and $$Q$$  $$\\left( {a\\,\\sec \\,\\,\\phi ,\\,\\,b\\,\\tan \\,\\phi } \\right)$$, where $$\\theta  + \\phi  = \\pi /2,$$, be two points on the hyperbola $${{{x^2}} \\over {{a^2}}} - {{{y^2}} \\over {{b^2}}} = 1$$. <p>If $$(h, k)$$ is the point of intersection of the normals at $$P$$ and $$Q$$, then $$k$$ is equal to </p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "$${{{a^2} + {b^2}} \\over a}$$ "
+        },
+        {
+          "key": "B",
+          "value": "$$ - \\left( {{{{a^2} + {b^2}} \\over a}} \\right)$$ "
+        },
+        {
+          "key": "C",
+          "value": "$${{{a^2} + {b^2}} \\over b}$$"
+        },
+        {
+          "key": "D",
+          "value": "$$ - \\left( {{{{a^2} + {b^2}} \\over b}} \\right)$$"
+        }
+      ],
+      "answer": "D",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "Each of the four inequalties given below defines a region in the $$xy$$ plane. One of these four regions does not have the following property. For any two points $$\\left( {{x_1},{y_1}} \\right)$$ and $$\\left( {{x_2},{y_2}} \\right)$$ in the region, the point $$\\left( {{{{x_1} + {x_2}} \\over 2},{{{y_1} + {y_2}} \\over 2}} \\right)$$ is also in the region. The inequality defining this region is",
+      "options": [
+        {
+          "key": "A",
+          "value": "$${x^2} + 2{y^2} \\le 1$$ "
+        },
+        {
+          "key": "B",
+          "value": "Max  $$\\left\\{ {\\left| x \\right|,\\left| y \\right|} \\right\\} \\le 1$$ "
+        },
+        {
+          "key": "C",
+          "value": "$${x^2} - {y^2} \\le 1$$ "
+        },
+        {
+          "key": "D",
+          "value": "$${y^2} - x \\le 0$$ "
+        }
+      ],
+      "answer": "C",
+      "explanation": ""
+    },
+    {
+      "_type": "single_mcq",
+      "body": "The equation $${{{x^2}} \\over {1 - r}} - {{{y^2}} \\over {1 + r}} = 1,\\,\\,\\,\\,r &gt; 1$$ represents ",
+      "options": [
+        {
+          "key": "A",
+          "value": "an ellipse "
+        },
+        {
+          "key": "B",
+          "value": "a hyperbola "
+        },
+        {
+          "key": "C",
+          "value": "a circle "
+        },
+        {
+          "key": "D",
+          "value": "none of these "
+        }
+      ],
+      "answer": "D",
+      "explanation": ""
+    }
+  ]
+}
