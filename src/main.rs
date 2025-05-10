@@ -14,9 +14,9 @@ async fn main() -> eyre::Result<(), error::Error> {
 
     let args = cli::CLIArgs::parse();
     match &args.sub_commands {
-        cli::SubCommands::ServeQuestions(serve_data) => {
+        cli::SubCommands::ServeQuestions(server_data) => {
             server::serve()
-                .serve_data(serve_data.clone())
+                .server_data(server_data.clone())
                 .call()
                 .await
                 .wrap_err("failed to start the server")?;

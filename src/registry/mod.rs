@@ -23,6 +23,7 @@ pub fn generate_database_records(
 
     let registry = map_registry()
         .registry_path_string(gen_data.registry)
+        .map_questions(true)
         .call()?;
 
     conn.immediate_transaction::<_, error::Error, _>(|conn| {
@@ -36,8 +37,13 @@ pub fn generate_database_records(
     return Ok(());
 }
 
+// the "map_questions" here is used to differentiate between context of generating database records
+// or getting metadata for serving questions in the registry server
 #[bon::builder]
-fn map_registry(registry_path_string: String) -> eyre::Result<Vec<reg_models::Exam>, error::Error> {
+pub fn map_registry(
+    registry_path_string: String,
+    map_questions: bool,
+) -> eyre::Result<Vec<reg_models::Exam>, error::Error> {
     let main_path = path::Path::new(&registry_path_string);
     if !main_path.is_dir() {
         return Err(error::Error::InvalidInput(format!(
@@ -58,6 +64,7 @@ fn map_registry(registry_path_string: String) -> eyre::Result<Vec<reg_models::Ex
 
         let curr_exam = map_exam()
             .exam_entry(exam_entry)
+            .map_questions(map_questions)
             .call()
             .wrap_err("failed to map exam data from the registry")?;
         registry.push(curr_exam);
@@ -66,7 +73,10 @@ fn map_registry(registry_path_string: String) -> eyre::Result<Vec<reg_models::Ex
 }
 
 #[bon::builder]
-fn map_exam(exam_entry: fs::DirEntry) -> eyre::Result<reg_models::Exam, error::Error> {
+pub fn map_exam(
+    exam_entry: fs::DirEntry,
+    map_questions: bool,
+) -> eyre::Result<reg_models::Exam, error::Error> {
     let exam_entry_path = exam_entry.path();
     let exam_entry_path_string = exam_entry_path.to_string_lossy().to_string();
     if !exam_entry_path.is_dir() {
@@ -112,6 +122,7 @@ fn map_exam(exam_entry: fs::DirEntry) -> eyre::Result<reg_models::Exam, error::E
         let mut curr_subject = map_subject()
             .subject_entry(subject_entry)
             .exam_entry_path_string(exam_entry_path_string.clone())
+            .map_questions(map_questions)
             .call()
             .wrap_err("failed to map subject data from the registry")?;
 
@@ -124,9 +135,10 @@ fn map_exam(exam_entry: fs::DirEntry) -> eyre::Result<reg_models::Exam, error::E
 }
 
 #[bon::builder]
-fn map_subject(
+pub fn map_subject(
     subject_entry: &serde_json::Value,
     exam_entry_path_string: String,
+    map_questions: bool,
 ) -> eyre::Result<reg_models::Subject, error::Error> {
     let subject_entry = match subject_entry {
         serde_json::Value::String(subject_string) => subject_string,
@@ -182,6 +194,7 @@ fn map_subject(
         let mut curr_chapter = map_chapter()
             .chapter_entry(chapter_entry)
             .subject_entry_path_string(subject_entry_path_string.clone())
+            .map_questions(map_questions)
             .call()
             .wrap_err("failed to map chapter data from the registry")?;
 
@@ -194,9 +207,10 @@ fn map_subject(
 }
 
 #[bon::builder]
-fn map_chapter(
+pub fn map_chapter(
     chapter_entry: &serde_json::Value,
     subject_entry_path_string: String,
+    map_questions: bool,
 ) -> eyre::Result<reg_models::Chapter, error::Error> {
     let chapter_entry = match chapter_entry {
         serde_json::Value::String(chapter_string) => chapter_string,
@@ -233,46 +247,48 @@ fn map_chapter(
     curr_chapter.id = uuid::Uuid::new_v4().to_string();
 
     // chapter loop
-    let question_entries = curr_chapter_json
-        .get("_children")
-        .ok_or_else(|| {
-            error::Error::NotFound(format!(
-                "failed to get _children field from the given JSON value, {:#?}",
-                curr_chapter_json
-            ))
-        })?
-        .as_array()
-        .ok_or_else(|| {
-            error::Error::NotFound(format!(
+    if map_questions == true {
+        let question_entries = curr_chapter_json
+            .get("_children")
+            .ok_or_else(|| {
+                error::Error::NotFound(format!(
+                    "failed to get _children field from the given JSON value, {:#?}",
+                    curr_chapter_json
+                ))
+            })?
+            .as_array()
+            .ok_or_else(|| {
+                error::Error::NotFound(format!(
                 "failed to convert _children field into an array from the given JSON value, {:#?}",
                 curr_chapter_json
             ))
-        })?;
-    for question_entry in question_entries {
-        let mut curr_question = map_question()
-            .question_entry(question_entry)
-            .call()
-            .wrap_err("failed to map question data from the registry")?;
+            })?;
+        for question_entry in question_entries {
+            let mut curr_question = map_question()
+                .question_entry(question_entry)
+                .call()
+                .wrap_err("failed to map question data from the registry")?;
 
-        // the chapter_id is only accessible right here so we have to add it to the struct right here
-        match &mut curr_question {
-            reg_models::Question::Numerical(curr_question) => {
-                curr_question.chapter_id = curr_chapter.id.clone();
-            }
-            reg_models::Question::SingleMCQ(curr_question) => {
-                curr_question.chapter_id = curr_chapter.id.clone();
-            }
-        };
+            // the chapter_id is only accessible right here so we have to add it to the struct right here
+            match &mut curr_question {
+                reg_models::Question::Numerical(curr_question) => {
+                    curr_question.chapter_id = curr_chapter.id.clone();
+                }
+                reg_models::Question::SingleMCQ(curr_question) => {
+                    curr_question.chapter_id = curr_chapter.id.clone();
+                }
+            };
 
-        // curr_question. = .id.clone();
-        curr_chapter.questions.push(curr_question);
+            // curr_question. = .id.clone();
+            curr_chapter.questions.push(curr_question);
+        }
     }
 
     return Ok(curr_chapter);
 }
 
 #[bon::builder]
-fn map_question(question_entry: &serde_json::Value) -> eyre::Result<reg_models::Question> {
+pub fn map_question(question_entry: &serde_json::Value) -> eyre::Result<reg_models::Question> {
     match question_entry {
         serde_json::Value::Object(_) => {}
         _ => {
@@ -324,7 +340,7 @@ fn map_question(question_entry: &serde_json::Value) -> eyre::Result<reg_models::
     }
 }
 
-fn insert_exam(
+pub fn insert_exam(
     conn: &mut diesel::SqliteConnection,
     exam: reg_models::Exam,
 ) -> eyre::Result<(), error::Error> {
@@ -345,7 +361,7 @@ fn insert_exam(
     Ok(())
 }
 
-fn insert_subject(
+pub fn insert_subject(
     conn: &mut SqliteConnection,
     subject: reg_models::Subject,
 ) -> eyre::Result<(), error::Error> {
@@ -366,7 +382,7 @@ fn insert_subject(
     Ok(())
 }
 
-fn insert_chapter(
+pub fn insert_chapter(
     conn: &mut SqliteConnection,
     chapter: reg_models::Chapter,
 ) -> eyre::Result<(), error::Error> {
@@ -387,7 +403,7 @@ fn insert_chapter(
     Ok(())
 }
 
-fn insert_question(
+pub fn insert_question(
     conn: &mut SqliteConnection,
     question: reg_models::Question,
 ) -> eyre::Result<(), error::Error> {

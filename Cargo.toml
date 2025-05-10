@@ -1,6 +1,6 @@
 [package]
 name = "raesan-registry"
-verison = "0.0.0"
+# verison = "0.0.0"
 edition = "2021"
 
 [lib]
@@ -12,7 +12,6 @@ name = "raesan_registry-bin"
 path = "src/main.rs"
 
 [dependencies]
-askama = { version = "0.13.0" }
 axum = "0.7.5"
 axum-macros = "0.5.0"
 clap = { version = "4.5.35", features = ["derive"] }
@@ -32,3 +31,5 @@ thiserror = "2"
 color-eyre = "0.6"
 tracing = "0.1"
 tracing-subscriber = "0.2.0"
+leptos = { version = "0.8.2", features = ["ssr"] }
+mime_guess = "2.0.5"

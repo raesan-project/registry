@@ -1,5 +1,21 @@
 {
   "nodes": {
+    "bun_1_2_0-pkgs": {
+      "locked": {
+        "lastModified": 1738009863,
+        "narHash": "sha256-KxmFlQ2j9PpDhKRXWu85bv3R2wmfkUqdpJhEwz9JN/E=",
+        "owner": "nixos",
+        "repo": "nixpkgs",
+        "rev": "f898cbfddfab52593da301a397a17d0af801bbc3",
+        "type": "github"
+      },
+      "original": {
+        "owner": "nixos",
+        "ref": "f898cbfddfab52593da301a397a17d0af801bbc",
+        "repo": "nixpkgs",
+        "type": "github"
+      }
+    },
     "flake-utils": {
       "inputs": {
         "systems": "systems"
@@ -52,6 +68,7 @@
     },
     "root": {
       "inputs": {
+        "bun_1_2_0-pkgs": "bun_1_2_0-pkgs",
         "flake-utils": "flake-utils",
         "nixpkgs": "nixpkgs",
         "rust-overlay": "rust-overlay",
