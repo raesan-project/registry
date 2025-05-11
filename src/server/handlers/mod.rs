@@ -2,6 +2,7 @@ use crate::{error, registry, server};
 use axum::{self, response::IntoResponse};
 use leptos::prelude::RenderHtml;
 use mime_guess;
+use serde_json;
 use std::sync::Arc;
 use tokio::sync::RwLock;
 
@@ -32,7 +33,10 @@ pub async fn index_route(
         .map_questions(false)
         .call()?;
 
-    let html = server::web::IndexPage(web::IndexPageProps { registry_map }).to_html();
+    let html = server::web::pages::index_page::IndexPage(web::pages::index_page::IndexPageProps {
+        registry_map,
+    })
+    .to_html();
 
     return Ok((
         [(
@@ -50,9 +54,43 @@ pub async fn chapter_route(
         String,
         String,
     )>,
+    axum::extract::State(web_context): axum::extract::State<Arc<RwLock<server::WebContext>>>,
 ) -> error::HandlerResult<impl IntoResponse> {
-    tracing::info!("{:#?}", exam_slug);
-    tracing::info!("{:#?}", subject_slug);
-    tracing::info!("{:#?}", chapter_slug);
-    return Ok((axum::Json("hello, world!")).into_response());
+    let web_context = web_context.write().await;
+
+    let chapter_entry = match chapter_slug.as_str() {
+        "magnetic-effect-of-current" => {
+            if exam_slug == String::from("jee-main") {
+                serde_json::json!("magnetics.json")
+            } else {
+                serde_json::json!(format!("{}.json", chapter_slug))
+            }
+        }
+        _ => serde_json::json!(format!("{}.json", chapter_slug)),
+    };
+
+    let curr_chapter: registry::reg_models::Chapter = registry::map_chapter()
+        .chapter_entry(&chapter_entry)
+        .subject_entry_path_string(format!(
+            "{}/{}/{}",
+            web_context.registry_path, exam_slug, subject_slug
+        ))
+        .map_questions(true)
+        .call()?;
+
+    let html = server::web::pages::chapter_page::ChapterPage(
+        server::web::pages::chapter_page::ChapterPageProps {
+            chapter: curr_chapter,
+        },
+    )
+    .to_html();
+
+    return Ok((
+        [(
+            axum::http::header::CONTENT_TYPE,
+            String::from("text/html; charset=utf-8"),
+        )],
+        html,
+    )
+        .into_response());
 }

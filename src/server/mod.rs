@@ -32,30 +32,51 @@ pub struct WebContext {
 pub async fn serve(server_data: cli::ServeQuestions) -> eyre::Result<()> {
     let web_state = Arc::new(RwLock::new(
         WebContext::builder()
-            .registry_path(server_data.registry)
+            .registry_path(server_data.registry.clone())
             .build(), // .wrap_err("failed to create web state")?,
     ));
 
-    let app_router: axum::Router = axum::Router::new()
+    let live_reload_layer = tower_livereload::LiveReloadLayer::new();
+    let reloader = live_reload_layer.reloader();
+
+    let router: axum::Router = axum::Router::new()
         .route("/", axum::routing::get(handlers::index_route))
         .route(
             "/static/*filepath",
             axum::routing::get(handlers::static_route),
         )
         .route(
-            "/exam/:exam_slug/subject/:subject_slug/chapter/:chapter_slug",
+            "/exam/:exam_slug/:subject_slug/:chapter_slug",
             axum::routing::get(handlers::chapter_route),
         )
-        .with_state(web_state);
+        .with_state(web_state)
+        .layer(live_reload_layer);
+
+    let mut watcher =
+        hotwatch::Hotwatch::new_with_custom_delay(std::time::Duration::from_millis(100))
+            .wrap_err("failed to create a hotwatch instance with custom delay")?;
+    watcher
+        .watch(
+            server_data.registry,
+            move |event: hotwatch::Event| match event.kind {
+                hotwatch::EventKind::Modify(hotwatch::notify::event::ModifyKind::Data(_))
+                | hotwatch::EventKind::Create(_) => {
+                    reloader.reload();
+                }
+                hotwatch::EventKind::Remove(_) => {}
+                _ => {}
+            },
+        )
+        .wrap_err("failed to watch for changes using hotwatch")?;
 
     let listener =
         tokio::net::TcpListener::bind(ADDRESS.to_string() + ":" + PORT.to_string().as_str())
             .await
             .wrap_err("failed to bind TCP Listener to address")?;
 
-    tracing::debug!("listening on {}:{}", ADDRESS.to_string(), PORT.to_string());
+    tracing::info!("listening on {}:{}", ADDRESS.to_string(), PORT.to_string());
 
-    axum::serve(listener, app_router)
+    axum::serve(listener, router)
         .await
         .wrap_err("Failed to start the serrver listener")?;
     return Ok(());

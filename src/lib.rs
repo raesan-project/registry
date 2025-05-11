@@ -6,3 +6,4 @@ pub mod schema;
 pub mod server;
 pub mod tables;
 pub mod test_models;
+pub mod utils;
