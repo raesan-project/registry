@@ -17,8 +17,8 @@ pub enum SubCommands {
 #[derive(Args, Debug, Clone)]
 #[command(about = "start a server to render the questions")]
 pub struct ServeQuestions {
-    #[arg(long, help = "path location of questions folder")]
-    pub questions_folder: String,
+    #[arg(long, help = "path location of registry")]
+    pub registry: String,
 }
 
 #[derive(Args, Debug, Clone)]

@@ -1,8 +1,9 @@
-use askama;
+use crate::server;
 use axum::{self, response::IntoResponse};
 use color_eyre::{self, eyre};
 use diesel;
 use hotwatch;
+use leptos::prelude::RenderHtml;
 use r2d2;
 use serde_json;
 use thiserror;
@@ -13,9 +14,6 @@ pub enum Error {
     #[error(transparent)]
     Io(#[from] std::io::Error),
 
-    #[error(transparent)]
-    HTMLTemplateRenderError(#[from] askama::Error),
-
     #[error("not found, {0}")]
     NotFound(String),
 
@@ -25,11 +23,14 @@ pub enum Error {
     #[error(transparent)]
     SerdeJsonError(#[from] serde_json::Error),
 
-    #[error("database error, {0}")]
-    DatabaseError(String),
+    #[error(transparent)]
+    Utf8DecodeError(#[from] std::string::FromUtf8Error),
 
     #[error(transparent)]
     HotwatchError(#[from] hotwatch::Error),
+
+    #[error("database error, {0}")]
+    DatabaseError(String),
 
     #[error(transparent)]
     Other(#[from] eyre::Report),
@@ -52,21 +53,30 @@ impl From<r2d2::Error> for Error {
 impl Error {
     fn response(&self) -> axum::response::Response {
         match self {
-            Self::HTMLTemplateRenderError(_) => (
-                axum::http::StatusCode::INTERNAL_SERVER_ERROR,
-                "failed to render HTML tempalte".to_string(),
-            )
-                .into_response(),
             Self::NotFound(e) => (
                 axum::http::StatusCode::NOT_FOUND,
                 format!("not found: {:#?}", e.to_string()),
             )
                 .into_response(),
-            _ => (
-                axum::http::StatusCode::INTERNAL_SERVER_ERROR,
-                "something went wrong".to_string(),
-            )
-                .into_response(),
+            _ => {
+                let html = server::web::pages::error_page::ErrorPage(
+                    server::web::pages::error_page::ErrorPageProps {
+                        status_code: 500.to_string(),
+                        error_message: String::from("internal server error"),
+                    },
+                )
+                .to_html();
+
+                return (
+                    axum::http::StatusCode::INTERNAL_SERVER_ERROR,
+                    [(
+                        axum::http::header::CONTENT_TYPE,
+                        String::from("text/html; charset=utf-8"),
+                    )],
+                    html,
+                )
+                    .into_response();
+            }
         }
     }
 }
@@ -101,11 +111,22 @@ impl axum::response::IntoResponse for HandlerReport {
             return err.response();
         }
 
-        // Fallback
-        (
-            axum::http::StatusCode::INTERNAL_SERVER_ERROR,
-            "Something went wrong".to_string(),
+        let html = server::web::pages::error_page::ErrorPage(
+            server::web::pages::error_page::ErrorPageProps {
+                status_code: 500.to_string(),
+                error_message: String::from("internal server error"),
+            },
         )
-            .into_response()
+        .to_html();
+
+        return (
+            axum::http::StatusCode::INTERNAL_SERVER_ERROR,
+            [(
+                axum::http::header::CONTENT_TYPE,
+                String::from("text/html; charset=utf-8"),
+            )],
+            html,
+        )
+            .into_response();
     }
 }
