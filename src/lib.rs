@@ -5,5 +5,5 @@ pub mod registry;
 pub mod schema;
 pub mod server;
 pub mod tables;
-pub mod test_models;
+pub mod models;
 pub mod utils;

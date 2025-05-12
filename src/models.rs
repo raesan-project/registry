@@ -1,8 +1,8 @@
 use crate::registry::reg_models;
 
 #[derive(Debug, Clone, serde::Serialize, serde::Deserialize)]
-pub struct CreateTestMetadata {
-    pub _data: Vec<reg_models::Exam>,
+pub struct RegistryMetadata {
+    pub exams: Vec<reg_models::Exam>,
 }
 
 #[derive(Debug, Clone, serde::Serialize, serde::Deserialize)]
